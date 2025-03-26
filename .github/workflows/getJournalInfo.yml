@@ -36,16 +36,17 @@ jobs:
 
       - name: Convert CSVs to JSON
         run: |
-          python - <<EOF
+          python - <<'EOF'
           import pandas as pd
           import json
 
           def process_journal_encounter():
               df = pd.read_csv('data/JournalEncounter.csv')
               df = df.where(pd.notnull(df), None)
+              # Create a custom key: Name_lang(DungeonEncounterID)
               df['custom_key'] = df['Name_lang'] + '(' + df['DungeonEncounterID'].astype(str) + ')'
-              # Group rows by the custom key to handle duplicates.
-              grouped = df.groupby('custom_key', group_keys=False).apply(lambda x: x.to_dict('records')).to_dict()
+              # Group rows by custom_key to handle duplicates.
+              grouped = df.groupby('custom_key', group_keys=False, include_groups=False).apply(lambda x: x.to_dict('records')).to_dict()
               with open('data/JournalEncounter.json', 'w') as f:
                   json.dump(grouped, f, indent=4, allow_nan=False)
 
@@ -58,8 +59,8 @@ jobs:
           def process_journal_tier_x_instance():
               df = pd.read_csv('data/JournalTierXInstance.csv')
               df = df.where(pd.notnull(df), None)
-              # Group rows by JournalInstanceID to handle non-unique index values.
-              grouped = df.groupby('JournalInstanceID', group_keys=False).apply(lambda x: x.to_dict('records')).to_dict()
+              # Group by JournalInstanceID to account for non-unique values.
+              grouped = df.groupby('JournalInstanceID', group_keys=False, include_groups=False).apply(lambda x: x.to_dict('records')).to_dict()
               with open('data/JournalTierXInstance.json', 'w') as f:
                   json.dump(grouped, f, indent=4, allow_nan=False)
 
@@ -72,8 +73,10 @@ jobs:
           def process_journal_section_x_difficulty():
               df = pd.read_csv('data/JournalSectionXDifficulty.csv')
               df = df.where(pd.notnull(df), None)
-              df.set_index('JournalEncounterSectionID', inplace=True)
-              df.to_json('data/JournalSectionXDifficulty.json', orient='index', indent=4)
+              # Group by JournalEncounterSectionID to handle duplicate keys.
+              grouped = df.groupby('JournalEncounterSectionID', group_keys=False, include_groups=False).apply(lambda x: x.to_dict('records')).to_dict()
+              with open('data/JournalSectionXDifficulty.json', 'w') as f:
+                  json.dump(grouped, f, indent=4, allow_nan=False)
 
           def process_difficulty():
               df = pd.read_csv('data/Difficulty.csv')
