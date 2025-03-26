@@ -27,12 +27,22 @@ jobs:
       - name: Download CSV
         run: curl -L "https://wago.tools/db2/JournalEncounter/csv?product=wow" -o data/JournalEncounter.csv
 
-      - name: Convert CSV to JSON
+      - name: Convert CSV to JSON with custom index
         run: |
           python - <<EOF
           import pandas as pd
+          import json
+          
+          # Read the CSV file
           df = pd.read_csv('data/JournalEncounter.csv')
-          df.set_index('Name_lang', inplace=True)
+          
+          # Create a new index column combining Name_lang and DungeonEncounterID in the format Name(ID)
+          df['custom_index'] = df['Name_lang'] + '(' + df['DungeonEncounterID'].astype(str) + ')'
+          
+          # Set the new column as the index
+          df.set_index('custom_index', inplace=True)
+          
+          # Convert the DataFrame to a JSON file with orient 'index'
           df.to_json('data/JournalEncounter.json', orient='index', indent=4)
           EOF
       - name: Commit and push changes
