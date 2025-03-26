@@ -308,7 +308,7 @@
     "Al'ar(730)": [
         {
             "Name_lang": "Al'ar",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.50102597475,
             "Map_1": 0.58769202232,
             "ID": 1573,
@@ -650,7 +650,7 @@
     "Anetheron(619)": [
         {
             "Name_lang": "Anetheron",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.08564069867,
             "Map_1": 0.6815379858,
             "ID": 1578,
@@ -758,7 +758,7 @@
     "Anub'Rekhan(1107)": [
         {
             "Name_lang": "Anub'Rekhan",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.30692499876,
             "Map_1": 0.46988499165,
             "ID": 1601,
@@ -776,7 +776,7 @@
     "Anub'arak(1085)": [
         {
             "Name_lang": "Anub'arak",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.53254598379,
             "Map_1": 0.35528901219,
             "ID": 1623,
@@ -956,7 +956,7 @@
     "Archavon the Stone Watcher(1126)": [
         {
             "Name_lang": "Archavon the Stone Watcher",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.49334999919,
             "Map_1": 0.16873799264,
             "ID": 1597,
@@ -1028,7 +1028,7 @@
     "Archimonde(622)": [
         {
             "Name_lang": "Archimonde",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.77281999588,
             "Map_1": 0.28307598829,
             "ID": 1581,
@@ -1334,7 +1334,7 @@
     "Attumen the Huntsman(652)": [
         {
             "Name_lang": "Attumen the Huntsman",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.45281898975,
             "Map_1": 0.82615399361,
             "ID": 1553,
@@ -1442,7 +1442,7 @@
     "Ayamiss the Hunter(722)": [
         {
             "Name_lang": "Ayamiss the Hunter",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.6168410182,
             "Map_1": 0.90512597561,
             "ID": 1541,
@@ -1478,7 +1478,7 @@
     "Azgalor(621)": [
         {
             "Name_lang": "Azgalor",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.3574360013,
             "Map_1": 0.3784610033,
             "ID": 1580,
@@ -1676,7 +1676,7 @@
     "Baron Geddon(668)": [
         {
             "Name_lang": "Baron Geddon",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.52392601967,
             "Map_1": 0.77631998062,
             "ID": 1524,
@@ -1748,7 +1748,7 @@
     "Battleguard Sartura(711)": [
         {
             "Name_lang": "Battleguard Sartura",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.44555899501,
             "Map_1": 0.33589598536,
             "ID": 1544,
@@ -2018,7 +2018,7 @@
     "Blood Prince Council(1095)": [
         {
             "Name_lang": "Blood Prince Council",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.5201600194,
             "Map_1": 0.14149099588,
             "ID": 1632,
@@ -2054,7 +2054,7 @@
     "Blood-Queen Lana'thel(1103)": [
         {
             "Name_lang": "Blood-Queen Lana'thel",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.51159900427,
             "Map_1": 0.43546700478,
             "ID": 1633,
@@ -2216,7 +2216,7 @@
     "Broodlord Lashlayer(612)": [
         {
             "Name_lang": "Broodlord Lashlayer",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.50575101376,
             "Map_1": 0.61747598648,
             "ID": 1531,
@@ -2288,7 +2288,7 @@
     "Brutallus(725)": [
         {
             "Name_lang": "Brutallus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.65897297859,
             "Map_1": 0.86461502314,
             "ID": 1592,
@@ -2306,7 +2306,7 @@
     "Buru the Gorger(721)": [
         {
             "Name_lang": "Buru the Gorger",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.69786602259,
             "Map_1": 0.62051099539,
             "ID": 1540,
@@ -2324,7 +2324,7 @@
     "C'Thun(717)": [
         {
             "Name_lang": "C'Thun",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.57068699598,
             "Map_1": 0.62512600422,
             "ID": 1551,
@@ -2610,7 +2610,7 @@
     "Champions of the Alliance(1086)": [
         {
             "Name_lang": "Champions of the Alliance",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.42833998799,
             "Map_1": 0.52737301588,
             "ID": 1620,
@@ -2628,7 +2628,7 @@
     "Champions of the Horde(1086)": [
         {
             "Name_lang": "Champions of the Horde",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.42833998799,
             "Map_1": 0.52737301588,
             "ID": 1621,
@@ -2682,7 +2682,7 @@
     "Chess Event(660)": [
         {
             "Name_lang": "Chess Event",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.35948398709,
             "Map_1": 0.61692297459,
             "ID": 1562,
@@ -2698,7 +2698,7 @@
         },
         {
             "Name_lang": "Chess Event",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.35948398709,
             "Map_1": 0.61692297459,
             "ID": 1764,
@@ -2840,7 +2840,7 @@
     "Chromaggus(616)": [
         {
             "Name_lang": "Chromaggus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.39422300458,
             "Map_1": 0.72649997473,
             "ID": 1535,
@@ -3632,7 +3632,7 @@
     "Deathbringer Saurfang(1096)": [
         {
             "Name_lang": "Deathbringer Saurfang",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.51542198658,
             "Map_1": 0.21605999768,
             "ID": 1628,
@@ -4100,7 +4100,7 @@
     "Ebonroc(614)": [
         {
             "Name_lang": "Ebonroc",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.34911000729,
             "Map_1": 0.20958299935,
             "ID": 1533,
@@ -4370,7 +4370,7 @@
     "Emalon the Storm Watcher(1127)": [
         {
             "Name_lang": "Emalon the Storm Watcher",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.62719297409,
             "Map_1": 0.5530589819,
             "ID": 1598,
@@ -4676,7 +4676,7 @@
     "Fankriss the Unyielding(712)": [
         {
             "Name_lang": "Fankriss the Unyielding",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.62299501896,
             "Map_1": 0.21897299588,
             "ID": 1545,
@@ -4712,7 +4712,7 @@
     "Fathom-Lord Karathress(626)": [
         {
             "Name_lang": "Fathom-Lord Karathress",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.50410300493,
             "Map_1": 0.17692400515,
             "ID": 1570,
@@ -4784,7 +4784,7 @@
     "Felmyst(726)": [
         {
             "Name_lang": "Felmyst",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.72769099474,
             "Map_1": 0.82615298033,
             "ID": 1593,
@@ -4856,7 +4856,7 @@
     "Festergut(1097)": [
         {
             "Name_lang": "Festergut",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.19897800684,
             "Map_1": 0.65487402678,
             "ID": 1629,
@@ -4910,7 +4910,7 @@
     "Firemaw(613)": [
         {
             "Name_lang": "Firemaw",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.46439799666,
             "Map_1": 0.42950698733,
             "ID": 1532,
@@ -4964,7 +4964,7 @@
     "Flamegor(615)": [
         {
             "Name_lang": "Flamegor",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.35537600517,
             "Map_1": 0.37123700976,
             "ID": 1534,
@@ -5358,7 +5358,7 @@
     "Garr(666)": [
         {
             "Name_lang": "Garr",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.31509399414,
             "Map_1": 0.68962299824,
             "ID": 1522,
@@ -5412,7 +5412,7 @@
     "Gehennas(665)": [
         {
             "Name_lang": "Gehennas",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.33087599277,
             "Map_1": 0.48533400893,
             "ID": 1521,
@@ -5574,7 +5574,7 @@
     "General Rajaxx(719)": [
         {
             "Name_lang": "General Rajaxx",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.58402001858,
             "Map_1": 0.49127998948,
             "ID": 1538,
@@ -5826,7 +5826,7 @@
     "Gluth(1108)": [
         {
             "Name_lang": "Gluth",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.4629240036,
             "Map_1": 0.43827199936,
             "ID": 1612,
@@ -5934,7 +5934,7 @@
     "Golemagg the Incinerator(670)": [
         {
             "Name_lang": "Golemagg the Incinerator",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.68867999315,
             "Map_1": 0.57641601563,
             "ID": 1526,
@@ -6042,7 +6042,7 @@
     "Gothik the Harvester(1109)": [
         {
             "Name_lang": "Gothik the Harvester",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.6750779748,
             "Map_1": 0.596141994,
             "ID": 1608,
@@ -6236,7 +6236,7 @@
     "Grand Widow Faerlina(1110)": [
         {
             "Name_lang": "Grand Widow Faerlina",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.44172498584,
             "Map_1": 0.36089900136,
             "ID": 1602,
@@ -6326,7 +6326,7 @@
     "Grobbulus(1111)": [
         {
             "Name_lang": "Grobbulus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.61576199532,
             "Map_1": 0.53154700994,
             "ID": 1611,
@@ -6416,7 +6416,7 @@
     "Gruul the Dragonkiller(650)": [
         {
             "Name_lang": "Gruul the Dragonkiller",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.19948600233,
             "Map_1": 0.28307700157,
             "ID": 1565,
@@ -6650,7 +6650,7 @@
     "Gurtogg Bloodboil(605)": [
         {
             "Name_lang": "Gurtogg Bloodboil",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.53999900818,
             "Map_1": 0.47692200541,
             "ID": 1586,
@@ -6848,7 +6848,7 @@
     "Halion(1150)": [
         {
             "Name_lang": "Halion",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.49135398865,
             "Map_1": 0.53578799963,
             "ID": 1652,
@@ -7046,7 +7046,7 @@
     "Heigan the Unclean(1112)": [
         {
             "Name_lang": "Heigan the Unclean",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.49817198515,
             "Map_1": 0.45697799325,
             "ID": 1605,
@@ -7226,7 +7226,7 @@
     "High Astromancer Solarian(732)": [
         {
             "Name_lang": "High Astromancer Solarian",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.74000000954,
             "Map_1": 0.48923000693,
             "ID": 1575,
@@ -7316,7 +7316,7 @@
     "High King Maulgar(649)": [
         {
             "Name_lang": "High King Maulgar",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.55025500059,
             "Map_1": 0.57076901197,
             "ID": 1564,
@@ -7442,7 +7442,7 @@
     "High Warlord Naj'entus(601)": [
         {
             "Name_lang": "High Warlord Naj'entus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.43948701024,
             "Map_1": 0.18765099347,
             "ID": 1582,
@@ -7748,7 +7748,7 @@
     "Hydross the Unstable(623)": [
         {
             "Name_lang": "Hydross the Unstable",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.36359000206,
             "Map_1": 0.84769201279,
             "ID": 1567,
@@ -7838,7 +7838,7 @@
     "Icecrown Gunship Battle(1099)": [
         {
             "Name_lang": "Icecrown Gunship Battle",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.21992699802,
             "Map_1": 0.5501909852,
             "ID": 1626,
@@ -7854,7 +7854,7 @@
         },
         {
             "Name_lang": "Icecrown Gunship Battle",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.69050002098,
             "Map_1": 0.5501909852,
             "ID": 1627,
@@ -7980,7 +7980,7 @@
     "Illidan Stormrage(609)": [
         {
             "Name_lang": "Illidan Stormrage",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.52769100666,
             "Map_1": 0.70461297035,
             "ID": 1590,
@@ -8232,7 +8232,7 @@
     "Instructor Razuvious(1113)": [
         {
             "Name_lang": "Instructor Razuvious",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.42746898532,
             "Map_1": 0.45990899205,
             "ID": 1607,
@@ -8682,7 +8682,7 @@
     "Kael'thas Sunstrider(733)": [
         {
             "Name_lang": "Kael'thas Sunstrider",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.50099897385,
             "Map_1": 0.13846099377,
             "ID": 1576,
@@ -8700,7 +8700,7 @@
     "Kalecgos(724)": [
         {
             "Name_lang": "Kalecgos",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.30615401268,
             "Map_1": 0.51076900959,
             "ID": 1591,
@@ -8754,7 +8754,7 @@
     "Kaz'rogal(620)": [
         {
             "Name_lang": "Kaz'rogal",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.42410299182,
             "Map_1": 0.35846099257,
             "ID": 1579,
@@ -8790,7 +8790,7 @@
     "Kel'Thuzad(1114)": [
         {
             "Name_lang": "Kel'Thuzad",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.36532399058,
             "Map_1": 0.22329300642,
             "ID": 1615,
@@ -8916,7 +8916,7 @@
     "Kil'jaeden(729)": [
         {
             "Name_lang": "Kil'jaeden",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.46000000834,
             "Map_1": 0.61692297459,
             "ID": 1596,
@@ -9204,7 +9204,7 @@
     "Koralon the Flame Watcher(1128)": [
         {
             "Name_lang": "Koralon the Flame Watcher",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.3632889986,
             "Map_1": 0.55162501335,
             "ID": 1599,
@@ -9384,7 +9384,7 @@
     "Kurinnaxx(718)": [
         {
             "Name_lang": "Kurinnaxx",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.56350702047,
             "Map_1": 0.35743400455,
             "ID": 1537,
@@ -9528,7 +9528,7 @@
     "Lady Deathwhisper(1100)": [
         {
             "Name_lang": "Lady Deathwhisper",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.39105498791,
             "Map_1": 0.86997997761,
             "ID": 1625,
@@ -9618,7 +9618,7 @@
     "Lady Vashj(628)": [
         {
             "Name_lang": "Lady Vashj",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.72256302834,
             "Map_1": 0.58923101425,
             "ID": 1572,
@@ -9762,7 +9762,7 @@
     "Leotheras the Blind(625)": [
         {
             "Name_lang": "Leotheras the Blind",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.41794899106,
             "Map_1": 0.25538501143,
             "ID": 1569,
@@ -9942,7 +9942,7 @@
     "Loatheb(1115)": [
         {
             "Name_lang": "Loatheb",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.76016497612,
             "Map_1": 0.28352299333,
             "ID": 1606,
@@ -10104,7 +10104,7 @@
     "Lord Jaraxxus(1087)": [
         {
             "Name_lang": "Lord Jaraxxus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.46371299028,
             "Map_1": 0.4054799974,
             "ID": 1619,
@@ -10140,7 +10140,7 @@
     "Lord Marrowgar(1101)": [
         {
             "Name_lang": "Lord Marrowgar",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.39105498791,
             "Map_1": 0.5933380127,
             "ID": 1624,
@@ -10374,7 +10374,7 @@
     "Lucifron(663)": [
         {
             "Name_lang": "Lucifron",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.6586329937,
             "Map_1": 0.37499499321,
             "ID": 1519,
@@ -10392,7 +10392,7 @@
     "M'uru(728)": [
         {
             "Name_lang": "M'uru",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.46718001366,
             "Map_1": 0.23846200109,
             "ID": 1595,
@@ -10464,7 +10464,7 @@
     "Maexxna(1116)": [
         {
             "Name_lang": "Maexxna",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.68646597862,
             "Map_1": 0.15296399593,
             "ID": 1603,
@@ -10536,7 +10536,7 @@
     "Magmadar(664)": [
         {
             "Name_lang": "Magmadar",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.69433897734,
             "Map_1": 0.23679299653,
             "ID": 1520,
@@ -10644,7 +10644,7 @@
     "Magtheridon(651)": [
         {
             "Name_lang": "Magtheridon",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.69179499149,
             "Map_1": 0.74307698011,
             "ID": 1566,
@@ -10716,7 +10716,7 @@
     "Maiden of Virtue(654)": [
         {
             "Name_lang": "Maiden of Virtue",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.83438402414,
             "Map_1": 0.50004202127,
             "ID": 1555,
@@ -10752,7 +10752,7 @@
     "Majordomo Executus(671)": [
         {
             "Name_lang": "Majordomo Executus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.84150999784,
             "Map_1": 0.65283101797,
             "ID": 1527,
@@ -10878,7 +10878,7 @@
     "Malygos(1094)": [
         {
             "Name_lang": "Malygos",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.38432100415,
             "Map_1": 0.49856600165,
             "ID": 1617,
@@ -11382,7 +11382,7 @@
     "Moam(720)": [
         {
             "Name_lang": "Moam",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.32863500714,
             "Map_1": 0.36051100492,
             "ID": 1539,
@@ -11562,7 +11562,7 @@
     "Moroes(653)": [
         {
             "Name_lang": "Moroes",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.27127999067,
             "Map_1": 0.63538497686,
             "ID": 1554,
@@ -11580,7 +11580,7 @@
     "Morogrim Tidewalker(627)": [
         {
             "Name_lang": "Morogrim Tidewalker",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.59640997648,
             "Map_1": 0.26000100374,
             "ID": 1571,
@@ -11616,7 +11616,7 @@
     "Mother Shahraz(607)": [
         {
             "Name_lang": "Mother Shahraz",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.67538297176,
             "Map_1": 0.36769101024,
             "ID": 1588,
@@ -11958,7 +11958,7 @@
     "Nefarian(617)": [
         {
             "Name_lang": "Nefarian",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.70374602079,
             "Map_1": 0.72461998463,
             "ID": 1536,
@@ -12048,7 +12048,7 @@
     "Netherspite(659)": [
         {
             "Name_lang": "Netherspite",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.35948398709,
             "Map_1": 0.41846200824,
             "ID": 1561,
@@ -12192,7 +12192,7 @@
     "Noth the Plaguebringer(1117)": [
         {
             "Name_lang": "Noth the Plaguebringer",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.34612199664,
             "Map_1": 0.56453102827,
             "ID": 1604,
@@ -12462,7 +12462,7 @@
     "Onyxia(1084)": [
         {
             "Name_lang": "Onyxia",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.67237001657,
             "Map_1": 0.3098860085,
             "ID": 1651,
@@ -12516,7 +12516,7 @@
     "Opera Hall(655)": [
         {
             "Name_lang": "Opera Hall",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.18102300167,
             "Map_1": 0.35076999664,
             "ID": 1556,
@@ -12804,7 +12804,7 @@
     "Ossirian the Unscarred(723)": [
         {
             "Name_lang": "Ossirian the Unscarred",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.42914900184,
             "Map_1": 0.69589501619,
             "ID": 1542,
@@ -12822,7 +12822,7 @@
     "Ouro(716)": [
         {
             "Name_lang": "Ouro",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.30196899176,
             "Map_1": 0.81897199154,
             "ID": 1550,
@@ -13236,7 +13236,7 @@
     "Prince Malchezaar(661)": [
         {
             "Name_lang": "Prince Malchezaar",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.51435601711,
             "Map_1": 0.30923101306,
             "ID": 1563,
@@ -13290,7 +13290,7 @@
     "Princess Huhuran(714)": [
         {
             "Name_lang": "Princess Huhuran",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.4353030026,
             "Map_1": 0.5035880208,
             "ID": 1546,
@@ -13344,7 +13344,7 @@
     "Professor Putricide(1102)": [
         {
             "Name_lang": "Professor Putricide",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.13110099733,
             "Map_1": 0.53298199177,
             "ID": 1631,
@@ -13398,7 +13398,7 @@
     "PvP Battlegrounds(0)": [
         {
             "Name_lang": "PvP Battlegrounds",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.5,
             "Map_1": 0.5,
             "ID": 2051,
@@ -13596,7 +13596,7 @@
     "Rage Winterchill(618)": [
         {
             "Name_lang": "Rage Winterchill",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.12769199908,
             "Map_1": 0.63384598494,
             "ID": 1577,
@@ -13650,7 +13650,7 @@
     "Ragnaros(672)": [
         {
             "Name_lang": "Ragnaros",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.56226497889,
             "Map_1": 0.53396302462,
             "ID": 1528,
@@ -13848,7 +13848,7 @@
     "Razorgore the Untamed(610)": [
         {
             "Name_lang": "Razorgore the Untamed",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.41928499937,
             "Map_1": 0.60243797302,
             "ID": 1529,
@@ -13902,7 +13902,7 @@
     "Reliquary of Souls(606)": [
         {
             "Name_lang": "Reliquary of Souls",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.61384397745,
             "Map_1": 0.85076802969,
             "ID": 1587,
@@ -14172,7 +14172,7 @@
     "Rotface(1104)": [
         {
             "Name_lang": "Rotface",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.19897800684,
             "Map_1": 0.41825899482,
             "ID": 1630,
@@ -14352,7 +14352,7 @@
     "Sapphiron(1119)": [
         {
             "Name_lang": "Sapphiron",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.56513297558,
             "Map_1": 0.67501401901,
             "ID": 1614,
@@ -14388,7 +14388,7 @@
     "Sartharion(1090)": [
         {
             "Name_lang": "Sartharion",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.50573599339,
             "Map_1": 0.47705501318,
             "ID": 1616,
@@ -14532,7 +14532,7 @@
     "Servant's Quarters(0)": [
         {
             "Name_lang": "Servant's Quarters",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.59640902281,
             "Map_1": 0.28769299388,
             "ID": 1552,
@@ -14676,7 +14676,7 @@
     "Shade of Akama(603)": [
         {
             "Name_lang": "Shade of Akama",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.409743011,
             "Map_1": 0.88923001289,
             "ID": 1584,
@@ -14694,7 +14694,7 @@
     "Shade of Aran(658)": [
         {
             "Name_lang": "Shade of Aran",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.71640700102,
             "Map_1": 0.26000100374,
             "ID": 1559,
@@ -14838,7 +14838,7 @@
     "Shazzrah(667)": [
         {
             "Name_lang": "Shazzrah",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.55840599537,
             "Map_1": 0.85261702538,
             "ID": 1523,
@@ -15000,7 +15000,7 @@
     "Silithid Royalty(710)": [
         {
             "Name_lang": "Silithid Royalty",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.28453299403,
             "Map_1": 0.49743399024,
             "ID": 1547,
@@ -15018,7 +15018,7 @@
     "Sindragosa(1105)": [
         {
             "Name_lang": "Sindragosa",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.36632499099,
             "Map_1": 0.23189799488,
             "ID": 1635,
@@ -15810,7 +15810,7 @@
     "Sulfuron Harbinger(669)": [
         {
             "Name_lang": "Sulfuron Harbinger",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.82830202579,
             "Map_1": 0.82547199726,
             "ID": 1525,
@@ -15864,7 +15864,7 @@
     "Supremus(602)": [
         {
             "Name_lang": "Supremus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.66307598352,
             "Map_1": 0.47384598851,
             "ID": 1583,
@@ -16206,7 +16206,7 @@
     "Terestian Illhoof(657)": [
         {
             "Name_lang": "Terestian Illhoof",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.52563798428,
             "Map_1": 0.69692397118,
             "ID": 1560,
@@ -16224,7 +16224,7 @@
     "Teron Gorefiend(604)": [
         {
             "Name_lang": "Teron Gorefiend",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.3943580091,
             "Map_1": 0.11846099794,
             "ID": 1585,
@@ -16278,7 +16278,7 @@
     "Thaddius(1120)": [
         {
             "Name_lang": "Thaddius",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.26585701108,
             "Map_1": 0.14579200745,
             "ID": 1613,
@@ -16584,7 +16584,7 @@
     "The Curator(656)": [
         {
             "Name_lang": "The Curator",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.49486899376,
             "Map_1": 0.36615499854,
             "ID": 1557,
@@ -16638,7 +16638,7 @@
     "The Eredar Twins(727)": [
         {
             "Name_lang": "The Eredar Twins",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.64156597853,
             "Map_1": 0.32100000978,
             "ID": 1594,
@@ -16710,7 +16710,7 @@
     "The Four Horsemen(1121)": [
         {
             "Name_lang": "The Four Horsemen",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.30127298832,
             "Map_1": 0.76822501421,
             "ID": 1609,
@@ -16800,7 +16800,7 @@
     "The Illidari Council(608)": [
         {
             "Name_lang": "The Illidari Council",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.47333198786,
             "Map_1": 0.43845999241,
             "ID": 1589,
@@ -16854,7 +16854,7 @@
     "The Lich King(1106)": [
         {
             "Name_lang": "The Lich King",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.49929600954,
             "Map_1": 0.52874302864,
             "ID": 1636,
@@ -16926,7 +16926,7 @@
     "The Lurker Below(624)": [
         {
             "Name_lang": "The Lurker Below",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.40256398916,
             "Map_1": 0.58153802156,
             "ID": 1568,
@@ -16998,7 +16998,7 @@
     "The Northrend Beasts(1088)": [
         {
             "Name_lang": "The Northrend Beasts",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.51151400805,
             "Map_1": 0.52737301588,
             "ID": 1618,
@@ -17052,7 +17052,7 @@
     "The Prophet Skeram(709)": [
         {
             "Name_lang": "The Prophet Skeram",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.45786601305,
             "Map_1": 0.5220490098,
             "ID": 1543,
@@ -17304,7 +17304,7 @@
     "The Twin Emperors(715)": [
         {
             "Name_lang": "The Twin Emperors",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.60658401251,
             "Map_1": 0.69743400812,
             "ID": 1549,
@@ -17662,7 +17662,7 @@
     "Toravon the Ice Watcher(1129)": [
         {
             "Name_lang": "Toravon the Ice Watcher",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.62715101242,
             "Map_1": 0.36376699805,
             "ID": 1600,
@@ -17914,7 +17914,7 @@
     "Twin Val'kyr(1089)": [
         {
             "Name_lang": "Twin Val'kyr",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.46371299028,
             "Map_1": 0.64926600456,
             "ID": 1622,
@@ -18130,7 +18130,7 @@
     "Vaelastrasz the Corrupt(611)": [
         {
             "Name_lang": "Vaelastrasz the Corrupt",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.33281901479,
             "Map_1": 0.27537098527,
             "ID": 1530,
@@ -18166,7 +18166,7 @@
     "Valithria Dreamwalker(1098)": [
         {
             "Name_lang": "Valithria Dreamwalker",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.76681399345,
             "Map_1": 0.73667800426,
             "ID": 1634,
@@ -18454,7 +18454,7 @@
     "Viscidus(713)": [
         {
             "Name_lang": "Viscidus",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.72145599127,
             "Map_1": 0.17897300422,
             "ID": 1548,
@@ -18526,7 +18526,7 @@
     "Void Reaver(731)": [
         {
             "Name_lang": "Void Reaver",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.26407501101,
             "Map_1": 0.49068599939,
             "ID": 1574,
@@ -19516,7 +19516,7 @@
     "Zekvir(2987)": [
         {
             "Name_lang": "Zekvir",
-            "Description_lang": NaN,
+            "Description_lang": null,
             "Map_0": 0.5,
             "Map_1": 0.5,
             "ID": 2773,
