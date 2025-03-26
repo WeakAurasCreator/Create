@@ -13,11 +13,28 @@ jobs:
       BLIZZARD_CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
     steps:
       - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install pandas
+        run: pip install pandas
+
       - name: Create data directory
         run: mkdir -p data
+
       - name: Download CSV
+        run: curl -L "https://wago.tools/db2/JournalEncounter/csv?product=wow" -o data/JournalEncounter.csv
+
+      - name: Convert CSV to JSON
         run: |
-          curl -L "https://wago.tools/db2/JournalEncounter/csv?product=wow" -o data/JournalEncounter.csv
+          python - <<EOF
+          import pandas as pd
+          df = pd.read_csv('data/JournalEncounter.csv')
+          df.set_index('Name_lang', inplace=True)
+          df.to_json('data/JournalEncounter.json', orient='index', indent=4)
+          EOF
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
