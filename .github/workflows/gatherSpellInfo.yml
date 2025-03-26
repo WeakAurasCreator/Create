@@ -42,7 +42,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "updated Item data"
+            git commit -m "updated Spell data"
           fi
       
           # Pull latest changes, fail only on actual errors
