@@ -1,0 +1,62 @@
+{
+    "68":{
+        "Name_lang":"Classic",
+        "Expansion":100,
+        "PlayerConditionID":82727
+    },
+    "70":{
+        "Name_lang":"Burning Crusade",
+        "Expansion":200,
+        "PlayerConditionID":82728
+    },
+    "72":{
+        "Name_lang":"Wrath of the Lich King",
+        "Expansion":300,
+        "PlayerConditionID":82729
+    },
+    "73":{
+        "Name_lang":"Cataclysm",
+        "Expansion":400,
+        "PlayerConditionID":82550
+    },
+    "74":{
+        "Name_lang":"Mists of Pandaria",
+        "Expansion":500,
+        "PlayerConditionID":82730
+    },
+    "124":{
+        "Name_lang":"Warlords of Draenor",
+        "Expansion":600,
+        "PlayerConditionID":82731
+    },
+    "395":{
+        "Name_lang":"Legion",
+        "Expansion":700,
+        "PlayerConditionID":82732
+    },
+    "396":{
+        "Name_lang":"Battle for Azeroth",
+        "Expansion":800,
+        "PlayerConditionID":82733
+    },
+    "499":{
+        "Name_lang":"Shadowlands",
+        "Expansion":900,
+        "PlayerConditionID":82734
+    },
+    "503":{
+        "Name_lang":"Dragonflight",
+        "Expansion":1000,
+        "PlayerConditionID":97588
+    },
+    "505":{
+        "Name_lang":"Current Season",
+        "Expansion":9000,
+        "PlayerConditionID":134032
+    },
+    "514":{
+        "Name_lang":"The War Within",
+        "Expansion":1100,
+        "PlayerConditionID":0
+    }
+}

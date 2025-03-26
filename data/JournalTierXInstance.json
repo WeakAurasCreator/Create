@@ -1,0 +1,1698 @@
+{
+    "63": [
+        {
+            "ID": 346,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1195,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "64": [
+        {
+            "ID": 350,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1199,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "65": [
+        {
+            "ID": 353,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "66": [
+        {
+            "ID": 345,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "67": [
+        {
+            "ID": 351,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "68": [
+        {
+            "ID": 352,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "69": [
+        {
+            "ID": 349,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "70": [
+        {
+            "ID": 348,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "71": [
+        {
+            "ID": 361,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1502,
+            "JournalTierID": 505,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "72": [
+        {
+            "ID": 534,
+            "JournalTierID": 73,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "73": [
+        {
+            "ID": 535,
+            "JournalTierID": 73,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "74": [
+        {
+            "ID": 538,
+            "JournalTierID": 73,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "75": [
+        {
+            "ID": 533,
+            "JournalTierID": 73,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "76": [
+        {
+            "ID": 355,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "77": [
+        {
+            "ID": 354,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "78": [
+        {
+            "ID": 537,
+            "JournalTierID": 73,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "184": [
+        {
+            "ID": 429,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "185": [
+        {
+            "ID": 430,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "186": [
+        {
+            "ID": 431,
+            "JournalTierID": 73,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "187": [
+        {
+            "ID": 536,
+            "JournalTierID": 73,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "226": [
+        {
+            "ID": 445,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "227": [
+        {
+            "ID": 439,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "228": [
+        {
+            "ID": 440,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "229": [
+        {
+            "ID": 441,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "230": [
+        {
+            "ID": 442,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "231": [
+        {
+            "ID": 443,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "232": [
+        {
+            "ID": 444,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "233": [
+        {
+            "ID": 446,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "234": [
+        {
+            "ID": 447,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "236": [
+        {
+            "ID": 449,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "237": [
+        {
+            "ID": 450,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "238": [
+        {
+            "ID": 451,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "239": [
+        {
+            "ID": 452,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "240": [
+        {
+            "ID": 453,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "241": [
+        {
+            "ID": 454,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "246": [
+        {
+            "ID": 563,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1196,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "247": [
+        {
+            "ID": 460,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "248": [
+        {
+            "ID": 461,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "249": [
+        {
+            "ID": 462,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "250": [
+        {
+            "ID": 463,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "251": [
+        {
+            "ID": 464,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "252": [
+        {
+            "ID": 465,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "253": [
+        {
+            "ID": 466,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "254": [
+        {
+            "ID": 467,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "255": [
+        {
+            "ID": 468,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "256": [
+        {
+            "ID": 469,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "257": [
+        {
+            "ID": 470,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "258": [
+        {
+            "ID": 471,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "259": [
+        {
+            "ID": 472,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "260": [
+        {
+            "ID": 473,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "261": [
+        {
+            "ID": 474,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "262": [
+        {
+            "ID": 475,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "271": [
+        {
+            "ID": 484,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "272": [
+        {
+            "ID": 485,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "273": [
+        {
+            "ID": 486,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "274": [
+        {
+            "ID": 487,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "275": [
+        {
+            "ID": 488,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "276": [
+        {
+            "ID": 489,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "277": [
+        {
+            "ID": 490,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "278": [
+        {
+            "ID": 491,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "279": [
+        {
+            "ID": 492,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "280": [
+        {
+            "ID": 493,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "281": [
+        {
+            "ID": 494,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "282": [
+        {
+            "ID": 495,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "283": [
+        {
+            "ID": 496,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "284": [
+        {
+            "ID": 497,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "285": [
+        {
+            "ID": 498,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "286": [
+        {
+            "ID": 499,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "302": [
+        {
+            "ID": 513,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "303": [
+        {
+            "ID": 544,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "311": [
+        {
+            "ID": 561,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1197,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "312": [
+        {
+            "ID": 549,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "313": [
+        {
+            "ID": 528,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "316": [
+        {
+            "ID": 562,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1198,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "317": [
+        {
+            "ID": 539,
+            "JournalTierID": 74,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "320": [
+        {
+            "ID": 547,
+            "JournalTierID": 74,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "321": [
+        {
+            "ID": 531,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "322": [
+        {
+            "ID": 541,
+            "JournalTierID": 74,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "324": [
+        {
+            "ID": 545,
+            "JournalTierID": 74,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "330": [
+        {
+            "ID": 546,
+            "JournalTierID": 74,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "362": [
+        {
+            "ID": 700,
+            "JournalTierID": 74,
+            "OrderIndex": 5,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "369": [
+        {
+            "ID": 720,
+            "JournalTierID": 74,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "385": [
+        {
+            "ID": 896,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "457": [
+        {
+            "ID": 895,
+            "JournalTierID": 124,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "476": [
+        {
+            "ID": 935,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "477": [
+        {
+            "ID": 1115,
+            "JournalTierID": 124,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "536": [
+        {
+            "ID": 1130,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "537": [
+        {
+            "ID": 1131,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "547": [
+        {
+            "ID": 1148,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "556": [
+        {
+            "ID": 1162,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "557": [
+        {
+            "ID": 1161,
+            "JournalTierID": 124,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "558": [
+        {
+            "ID": 1164,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "559": [
+        {
+            "ID": 1163,
+            "JournalTierID": 124,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "669": [
+        {
+            "ID": 1201,
+            "JournalTierID": 124,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "707": [
+        {
+            "ID": 1202,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "716": [
+        {
+            "ID": 1203,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "721": [
+        {
+            "ID": 1204,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "726": [
+        {
+            "ID": 1206,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "727": [
+        {
+            "ID": 1205,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "740": [
+        {
+            "ID": 1207,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "741": [
+        {
+            "ID": 1208,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "742": [
+        {
+            "ID": 1209,
+            "JournalTierID": 68,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "743": [
+        {
+            "ID": 1210,
+            "JournalTierID": 68,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "744": [
+        {
+            "ID": 1211,
+            "JournalTierID": 68,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "745": [
+        {
+            "ID": 1212,
+            "JournalTierID": 70,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "746": [
+        {
+            "ID": 1213,
+            "JournalTierID": 70,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "747": [
+        {
+            "ID": 1214,
+            "JournalTierID": 70,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "748": [
+        {
+            "ID": 1215,
+            "JournalTierID": 70,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "749": [
+        {
+            "ID": 1216,
+            "JournalTierID": 70,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "750": [
+        {
+            "ID": 1217,
+            "JournalTierID": 70,
+            "OrderIndex": 5,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "751": [
+        {
+            "ID": 1218,
+            "JournalTierID": 70,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "752": [
+        {
+            "ID": 1219,
+            "JournalTierID": 70,
+            "OrderIndex": 7,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "753": [
+        {
+            "ID": 1220,
+            "JournalTierID": 72,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "754": [
+        {
+            "ID": 1221,
+            "JournalTierID": 72,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "755": [
+        {
+            "ID": 1222,
+            "JournalTierID": 72,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "756": [
+        {
+            "ID": 1223,
+            "JournalTierID": 72,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "757": [
+        {
+            "ID": 1224,
+            "JournalTierID": 72,
+            "OrderIndex": 5,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "758": [
+        {
+            "ID": 1225,
+            "JournalTierID": 72,
+            "OrderIndex": 7,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "759": [
+        {
+            "ID": 1226,
+            "JournalTierID": 72,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "760": [
+        {
+            "ID": 1227,
+            "JournalTierID": 72,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "761": [
+        {
+            "ID": 1228,
+            "JournalTierID": 72,
+            "OrderIndex": 8,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "762": [
+        {
+            "ID": 1229,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "767": [
+        {
+            "ID": 1230,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "768": [
+        {
+            "ID": 1231,
+            "JournalTierID": 395,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "777": [
+        {
+            "ID": 1232,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "786": [
+        {
+            "ID": 1233,
+            "JournalTierID": 395,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "800": [
+        {
+            "ID": 1234,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "822": [
+        {
+            "ID": 1235,
+            "JournalTierID": 395,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "860": [
+        {
+            "ID": 1236,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "861": [
+        {
+            "ID": 1237,
+            "JournalTierID": 395,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "875": [
+        {
+            "ID": 1238,
+            "JournalTierID": 395,
+            "OrderIndex": 5,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "900": [
+        {
+            "ID": 1239,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "945": [
+        {
+            "ID": 1240,
+            "JournalTierID": 395,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "946": [
+        {
+            "ID": 1241,
+            "JournalTierID": 395,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "959": [
+        {
+            "ID": 1242,
+            "JournalTierID": 395,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "968": [
+        {
+            "ID": 1243,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1001": [
+        {
+            "ID": 1244,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1002": [
+        {
+            "ID": 1249,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1012": [
+        {
+            "ID": 1248,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1518,
+            "JournalTierID": 505,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1021": [
+        {
+            "ID": 1250,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1022": [
+        {
+            "ID": 1251,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1023": [
+        {
+            "ID": 1252,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1501,
+            "JournalTierID": 505,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1028": [
+        {
+            "ID": 1254,
+            "JournalTierID": 396,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1030": [
+        {
+            "ID": 1255,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1031": [
+        {
+            "ID": 1256,
+            "JournalTierID": 396,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1036": [
+        {
+            "ID": 1257,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1041": [
+        {
+            "ID": 1258,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1176": [
+        {
+            "ID": 1361,
+            "JournalTierID": 396,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1177": [
+        {
+            "ID": 1362,
+            "JournalTierID": 396,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1178": [
+        {
+            "ID": 1363,
+            "JournalTierID": 396,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1517,
+            "JournalTierID": 505,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1179": [
+        {
+            "ID": 1365,
+            "JournalTierID": 396,
+            "OrderIndex": 5,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1180": [
+        {
+            "ID": 1366,
+            "JournalTierID": 396,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1182": [
+        {
+            "ID": 1369,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1498,
+            "JournalTierID": 505,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1183": [
+        {
+            "ID": 1370,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1184": [
+        {
+            "ID": 1371,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1499,
+            "JournalTierID": 505,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1185": [
+        {
+            "ID": 1372,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1186": [
+        {
+            "ID": 1373,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1187": [
+        {
+            "ID": 1374,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1516,
+            "JournalTierID": 505,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1188": [
+        {
+            "ID": 1375,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1189": [
+        {
+            "ID": 1376,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1190": [
+        {
+            "ID": 1377,
+            "JournalTierID": 499,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1192": [
+        {
+            "ID": 1379,
+            "JournalTierID": 499,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1193": [
+        {
+            "ID": 1380,
+            "JournalTierID": 499,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1194": [
+        {
+            "ID": 1381,
+            "JournalTierID": 499,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1195": [
+        {
+            "ID": 1382,
+            "JournalTierID": 499,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1196": [
+        {
+            "ID": 1383,
+            "JournalTierID": 503,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1197": [
+        {
+            "ID": 1386,
+            "JournalTierID": 503,
+            "OrderIndex": 8,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1198": [
+        {
+            "ID": 1387,
+            "JournalTierID": 503,
+            "OrderIndex": 7,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1199": [
+        {
+            "ID": 1388,
+            "JournalTierID": 503,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1200": [
+        {
+            "ID": 1389,
+            "JournalTierID": 503,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1201": [
+        {
+            "ID": 1390,
+            "JournalTierID": 503,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1202": [
+        {
+            "ID": 1392,
+            "JournalTierID": 503,
+            "OrderIndex": 5,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1203": [
+        {
+            "ID": 1391,
+            "JournalTierID": 503,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1204": [
+        {
+            "ID": 1393,
+            "JournalTierID": 503,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1205": [
+        {
+            "ID": 1394,
+            "JournalTierID": 503,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1207": [
+        {
+            "ID": 1413,
+            "JournalTierID": 503,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1208": [
+        {
+            "ID": 1411,
+            "JournalTierID": 503,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1209": [
+        {
+            "ID": 1412,
+            "JournalTierID": 503,
+            "OrderIndex": 9,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1210": [
+        {
+            "ID": 1467,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1510,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1267": [
+        {
+            "ID": 1477,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1511,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1268": [
+        {
+            "ID": 1476,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1512,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1269": [
+        {
+            "ID": 1481,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1493,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1270": [
+        {
+            "ID": 1478,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1494,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1271": [
+        {
+            "ID": 1479,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1495,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1272": [
+        {
+            "ID": 1480,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1513,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1273": [
+        {
+            "ID": 1482,
+            "JournalTierID": 514,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1500,
+            "JournalTierID": 505,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1274": [
+        {
+            "ID": 1483,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1496,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 125989
+        }
+    ],
+    "1276": [
+        {
+            "ID": 1486,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1277": [
+        {
+            "ID": 1487,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1278": [
+        {
+            "ID": 1488,
+            "JournalTierID": 514,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1497,
+            "JournalTierID": 505,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 127340
+        }
+    ],
+    "1292": [
+        {
+            "ID": 1490,
+            "JournalTierID": 68,
+            "OrderIndex": 0,
+            "AvailabilityCondition": 0
+        }
+    ],
+    "1296": [
+        {
+            "ID": 1491,
+            "JournalTierID": 514,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1514,
+            "JournalTierID": 505,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1298": [
+        {
+            "ID": 1503,
+            "JournalTierID": 514,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1515,
+            "JournalTierID": 505,
+            "OrderIndex": 1,
+            "AvailabilityCondition": 128527
+        }
+    ],
+    "1301": [
+        {
+            "ID": 1505,
+            "JournalTierID": 68,
+            "OrderIndex": 4,
+            "AvailabilityCondition": 0
+        }
+    ]
+}
