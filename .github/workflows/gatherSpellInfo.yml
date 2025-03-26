@@ -32,27 +32,50 @@ jobs:
         run: |
           set -e  # Exit script on any command failure
       
+          # Configure Git
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git config pull.rebase true  # Rebase
+          git config pull.rebase true  # Rebase on pull
       
-          git add data/
-          
-          # Commit only if there are changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "updated Spell data"
-          fi
+          # Function to commit a batch if there are staged changes
+          commit_batch() {
+            if ! git diff --cached --quiet; then
+              git commit -m "$1"
+            else
+              echo "No changes to commit for batch: $1"
+            fi
+          }
       
-          # Pull latest changes, fail only on actual errors
+          BATCH_SIZE=1000
+      
+          # Batch commit for icons
+          echo "Committing icons in batches..."
+          mapfile -t icon_files < <(find data/icons -type f)
+          total_icons=${#icon_files[@]}
+          for (( i=0; i<total_icons; i+=BATCH_SIZE )); do
+            batch=( "${icon_files[@]:i:BATCH_SIZE}" )
+            git add "${batch[@]}"
+            commit_batch "Updated Spell icons batch $((i / BATCH_SIZE + 1))"
+          done
+      
+          # Batch commit for spells
+          echo "Committing spells in batches..."
+          mapfile -t spell_files < <(find data/spells -type f)
+          total_spells=${#spell_files[@]}
+          for (( i=0; i<total_spells; i+=BATCH_SIZE )); do
+            batch=( "${spell_files[@]:i:BATCH_SIZE}" )
+            git add "${batch[@]}"
+            commit_batch "Updated Spell spells batch $((i / BATCH_SIZE + 1))"
+          done
+      
+          # Pull latest changes (rebasing) and push all commits
           if ! git pull --rebase; then
             echo "Error during git pull" >&2
             exit 1
           fi
-      
-          # Push changes, fail if there's an actual error
           if ! git push; then
             echo "Error during git push" >&2
             exit 1
+          fi
+
           fi  
