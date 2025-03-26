@@ -1,4 +1,4 @@
-name: Blizzard Item Data Gathering
+name: Gather spell info
 
 on:
   schedule:
