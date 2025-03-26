@@ -1,0 +1,6 @@
+{
+  "ID": "367415",
+  "NameSubtext_lang": "",
+  "Description_lang": "Distributes questionable snacks into the area.Enemies who consume these snacks are poisoned and take %s1 Nature damage every %t1 sec for %d.",
+  "AuraDescription_lang": "Taking %s1 Nature damage every %t1 sec."
+}
