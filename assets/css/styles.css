@@ -1,0 +1,153 @@
+body {
+     font-family: 'Arial', sans-serif;
+     background-color: #121212; 
+ }
+ 
+ .container {
+     background-color: #1E1E1E;
+     padding: 20px;
+     border-radius: 8px;
+ }
+ 
+ .form-control {
+     background-color: #242424;
+     color: #B0B0B0;            
+     border: 1px solid #444;
+ }
+ 
+ .form-control:focus {
+     border-color: #555;
+     box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+ }
+ 
+ select.form-control option {
+     background-color: #242424;
+     color: #B0B0B0;
+ }
+ 
+ select.form-control {
+     background-color: #242424;  
+     color: #B0B0B0;             
+     border: 1px solid #444;
+     appearance: none;           /* Disable default browser styling */
+     -webkit-appearance: none;   /* Safari */
+     -moz-appearance: none;      /* Firefox */
+     background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 5"><path fill="%23B0B0B0" d="M2 0L0 2h4L2 0zm0 5L0 3h4l-2 2z"/></svg>');  /* Custom arrow icon */
+     background-repeat: no-repeat;
+     background-position: right 0.5rem center;
+     background-size: 16px;
+ }
+ 
+ select.form-control:focus,
+ input[type="text"].form-control:focus,
+ input[type="number"].form-control:focus {
+     border-color: #555;
+     box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+ }
+ 
+ select.form-control:focus::-ms-value {
+     background-color: #242424;
+     color: #B0B0B0;
+ }
+ 
+ select.form-control:-moz-focusring {
+     color: #B0B0B0;
+     text-shadow: 0 0 0 #B0B0B0;
+ }
+ 
+ select.form-control:focus {
+     color: #B0B0B0;
+ }
+ 
+ select.form-control > option {
+     background-color: #242424;
+     color: #B0B0B0;
+ }
+ 
+ select.form-control > option:checked {
+     background-color: #323232;  
+     color: #B0B0B0;
+ }
+ 
+ /* Fix for dropdown background color on open in some browsers */
+ select.form-control[size], select.form-control[multiple] {
+     background-color: #242424;
+ }
+ 
+ /* For browsers that support the ::-ms-expand pseudo-element (e.g., IE and Edge) */
+ select.form-control::-ms-expand {
+     background-color: #242424;
+     color: #B0B0B0;
+ }
+ 
+ textarea#output {
+     background-color: #242424;  
+     color: #B0B0B0;             
+     border: 1px solid #444;
+ }
+ 
+ textarea#output:focus {
+     border-color: #555;
+     box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+ }
+ 
+ .btn-primary:hover, .btn-primary:active {
+     background-color: #0056b3;
+     border-color: #0056b3;
+ }
+ 
+ .btn-success:hover, .btn-success:active {
+     background-color: #1e7e34;
+     border-color: #1e7e34;
+ }
+ 
+ /* For Chrome and other WebKit browsers */
+ @media screen and (-webkit-min-device-pixel-ratio:0) {
+     select.form-control:focus,
+     select.form-control:active {
+         background-color: #242424 !important;
+     }
+ }
+ 
+ input[type="text"].form-control,
+ input[type="number"].form-control {
+     background-color: #242424;
+     color: #B0B0B0;
+     border: 1px solid #444;
+ }
+ 
+ input[type="text"].form-control:focus,
+ input[type="number"].form-control:focus {
+     border-color: #555;
+     box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+     background-color: #242424; 
+     color: #B0B0B0;
+     outline: none;
+ }
+ 
+ /* Override browser-specific styles for input[type="number"] */
+ /* For Firefox */
+ input[type="number"]::-webkit-inner-spin-button,
+ input[type="number"]::-webkit-outer-spin-button {
+     -webkit-appearance: none;
+     margin: 0;
+ }
+ 
+ /* For Chrome */
+ input[type="number"]::-webkit-clear-button {
+     display: none;  /* Removes the clear button in Webkit browsers */
+ }
+ 
+ .popup {
+     display: none;
+     position: fixed;
+     bottom: 20px;
+     left: 50%;
+     transform: translateX(-50%);
+     padding: 10px 20px;
+     background-color: #444;
+     color: white;
+     border-radius: 5px;
+     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+     z-index: 1000;
+ }
