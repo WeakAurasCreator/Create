@@ -26,7 +26,7 @@ jobs:
           pip install aiohttp
 
       - name: Run item data gathering script
-        run: python gather_spell_data.py
+        run: python backend_scripts/gather_spell_data.py
 
       - name: Commit and push changes
         run: |
