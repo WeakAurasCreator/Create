@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install aiohttp aiofiles
 
       - name: Run item data gathering script
         run: python backend_scripts/gather_spell_data.py
