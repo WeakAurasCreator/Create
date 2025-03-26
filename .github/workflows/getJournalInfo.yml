@@ -45,8 +45,8 @@ jobs:
               df = df.where(pd.notnull(df), None)
               # Create a custom key: Name_lang(DungeonEncounterID)
               df['custom_key'] = df['Name_lang'] + '(' + df['DungeonEncounterID'].astype(str) + ')'
-              # Group rows by custom_key to handle duplicates.
-              grouped = df.groupby('custom_key', group_keys=False, include_groups=False).apply(lambda x: x.to_dict('records')).to_dict()
+              # Group by custom_key and drop the custom_key column from each group to avoid deprecation warnings
+              grouped = df.groupby('custom_key', group_keys=False).apply(lambda x: x.drop(columns=['custom_key']).to_dict('records')).to_dict()
               with open('data/JournalEncounter.json', 'w') as f:
                   json.dump(grouped, f, indent=4, allow_nan=False)
 
@@ -59,8 +59,8 @@ jobs:
           def process_journal_tier_x_instance():
               df = pd.read_csv('data/JournalTierXInstance.csv')
               df = df.where(pd.notnull(df), None)
-              # Group by JournalInstanceID to account for non-unique values.
-              grouped = df.groupby('JournalInstanceID', group_keys=False, include_groups=False).apply(lambda x: x.to_dict('records')).to_dict()
+              # Group by JournalInstanceID and drop the grouping column from each group.
+              grouped = df.groupby('JournalInstanceID', group_keys=False).apply(lambda x: x.drop(columns=['JournalInstanceID']).to_dict('records')).to_dict()
               with open('data/JournalTierXInstance.json', 'w') as f:
                   json.dump(grouped, f, indent=4, allow_nan=False)
 
@@ -73,8 +73,8 @@ jobs:
           def process_journal_section_x_difficulty():
               df = pd.read_csv('data/JournalSectionXDifficulty.csv')
               df = df.where(pd.notnull(df), None)
-              # Group by JournalEncounterSectionID to handle duplicate keys.
-              grouped = df.groupby('JournalEncounterSectionID', group_keys=False, include_groups=False).apply(lambda x: x.to_dict('records')).to_dict()
+              # Group by JournalEncounterSectionID and drop it from each group's records.
+              grouped = df.groupby('JournalEncounterSectionID', group_keys=False).apply(lambda x: x.drop(columns=['JournalEncounterSectionID']).to_dict('records')).to_dict()
               with open('data/JournalSectionXDifficulty.json', 'w') as f:
                   json.dump(grouped, f, indent=4, allow_nan=False)
 
