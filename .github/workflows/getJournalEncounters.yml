@@ -24,30 +24,49 @@ jobs:
       - name: Create data directory
         run: mkdir -p data
 
-      - name: Download CSV
-        run: curl -L "https://wago.tools/db2/JournalEncounter/csv?product=wow" -o data/JournalEncounter.csv
+      - name: Download CSV files
+        run: |
+          curl -L "https://wago.tools/db2/JournalEncounter/csv?product=wow" -o data/JournalEncounter.csv
+          curl -L "https://wago.tools/db2/JournalInstance/csv?product=wow" -o data/JournalInstance.csv
+          curl -L "https://wago.tools/db2/JournalTierXInstance/csv?product=wow" -o data/JournalTierXInstance.csv
+          curl -L "https://wago.tools/db2/JournalTier/csv?product=wow" -o data/JournalTier.csv
 
-      - name: Convert CSV to JSON with custom key and valid JSON
+      - name: Convert CSVs to JSON
         run: |
           python - <<EOF
           import pandas as pd
           import json
-          
-          # Read the CSV file
-          df = pd.read_csv('data/JournalEncounter.csv')
-          
-          # Replace NaN values with None so that they convert to JSON null
-          df = df.where(pd.notnull(df), None)
-          
-          # Create a custom key combining Name_lang and DungeonEncounterID in the format: Name_lang(DungeonEncounterID)
-          df['custom_key'] = df['Name_lang'] + '(' + df['DungeonEncounterID'].astype(str) + ')'
-          
-          # Group rows by the custom key (each key will map to a list of row dictionaries)
-          grouped = df.groupby('custom_key').apply(lambda x: x.to_dict('records')).to_dict()
-          
-          # Write the grouped data to a JSON file with indentations for readability
-          with open('data/JournalEncounter.json', 'w') as f:
-              json.dump(grouped, f, indent=4, allow_nan=False)
+
+          def process_journal_encounter():
+              df = pd.read_csv('data/JournalEncounter.csv')
+              df = df.where(pd.notnull(df), None)
+              df['custom_key'] = df['Name_lang'] + '(' + df['DungeonEncounterID'].astype(str) + ')'
+              grouped = df.groupby('custom_key').apply(lambda x: x.to_dict('records')).to_dict()
+              with open('data/JournalEncounter.json', 'w') as f:
+                  json.dump(grouped, f, indent=4, allow_nan=False)
+
+          def process_journal_instance():
+              df = pd.read_csv('data/JournalInstance.csv')
+              df = df.where(pd.notnull(df), None)
+              df.set_index('ID', inplace=True)
+              df.to_json('data/JournalInstance.json', orient='index', indent=4)
+
+          def process_journal_tier_x_instance():
+              df = pd.read_csv('data/JournalTierXInstance.csv')
+              df = df.where(pd.notnull(df), None)
+              df.set_index('JournalInstanceID', inplace=True)
+              df.to_json('data/JournalTierXInstance.json', orient='index', indent=4)
+
+          def process_journal_tier():
+              df = pd.read_csv('data/JournalTier.csv')
+              df = df.where(pd.notnull(df), None)
+              df.set_index('ID', inplace=True)
+              df.to_json('data/JournalTier.json', orient='index', indent=4)
+
+          process_journal_encounter()
+          process_journal_instance()
+          process_journal_tier_x_instance()
+          process_journal_tier()
           EOF
       - name: Commit and push changes
         run: |
