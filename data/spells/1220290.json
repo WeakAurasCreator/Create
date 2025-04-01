@@ -1,5 +1,5 @@
 {
-  "ID": "781859",
+  "ID": "788880",
   "NameSubtext_lang": "",
   "Description_lang": "Gallywix gains a stack of $@spellname1220290 every $1220290T1 sec.Upon reaching $1220290s2 stacks or when changing primary target all shots release inflicting $1220353s1 Physical damage and an additional $1226288s1 Fire damage every $1220375T1 sec for $1220375D, each. This effect stacks, and cannot be dodged.",
   "AuraDescription_lang": "Gains a stack of $@spellname1220290 every $1220290T1 sec.Upon reaching $1220290w2 stacks or when changing primary target all shots release inflicting $1220353s1 Physical damage  and an additional $1226288s1 Fire damage every $1220375T1 sec for $1220375D, each.",
@@ -19,7 +19,7 @@
   "Attributes_13": "33554432",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "220",
+  "DifficultyID": "17",
   "CastingTimeIndex": "1",
   "DurationIndex": "0",
   "PvPDurationIndex": "0",
