@@ -1,7 +1,7 @@
 {
   "ID": "443348",
   "NameSubtext_lang": "",
-  "Description_lang": "Your abilities have a very high chance to lash out with a Hateful Strike, dealing $s2 Physical damage to an enemy and healing you for $s1. These effects are increased by ${($s4*100)-100}% while you are below $s3% health.",
+  "Description_lang": "Your abilities have a very high chance to lash out with a Hateful Strike, inflicting ${$s2*$<rolemult>} Physical damage to an enemy and healing you for $s1. These effects are increased by ${($s4*100)-100}% while you are below $s3% health.",
   "AuraDescription_lang": "",
   "Attributes_0": "0",
   "Attributes_1": "0",
