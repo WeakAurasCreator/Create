@@ -1,7 +1,7 @@
 {
   "ID": "763758",
   "NameSubtext_lang": "",
-  "Description_lang": "The goon erupts when killed, inflicting $s1 Nature damage to players within the gaol and knocking them back. $?|diff16 [][Colliding with a wall of $@spellname472631 causes it to be destroyed.]",
+  "Description_lang": "The goon erupts when killed, inflicting $s1 Nature damage to players within the gaol and knocking them back.Colliding with a wall of $@spellname472631 causes it to be destroyed.",
   "AuraDescription_lang": "",
   "Attributes_0": "0",
   "Attributes_1": "0",
