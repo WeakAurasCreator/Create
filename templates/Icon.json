@@ -1,0 +1,132 @@
+{
+  "iconSource": -1,
+  "authorOptions": {},
+  "customText": "",
+  "yOffset": 0,
+  "anchorPoint": "CENTER",
+  "cooldownSwipe": true,
+  "cooldownEdge": false,
+  "icon": true,
+  "triggers": {},
+  "internalVersion": 59,
+  "keepAspectRatio": false,
+  "animation": {
+    "start": {
+      "type": "none",
+      "easeStrength": 3,
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "main": {
+      "type": "none",
+      "easeStrength": 3,
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "finish": {
+      "type": "none",
+      "easeStrength": 3,
+      "duration_type": "seconds",
+      "easeType": "none"
+    }
+  },
+  "desaturate": false,
+  "url": "https://wago.io/TESTINGDONOTUSE",
+  "subRegions": [
+    {
+      "type": "subbackground"
+    },
+    {
+      "text_text_format_s_format": "none",
+      "text_text": "%p",
+      "text_selfPoint": "AUTO",
+      "text_automaticWidth": "Auto",
+      "text_fixedWidth": 64,
+      "text_justify": "CENTER",
+      "rotateText": "NONE",
+      "anchorYOffset": 0,
+      "type": "subtext",
+      "text_text_format_p_time_legacy_floor": false,
+      "text_text_format_p_format": "timed",
+      "text_text_format_p_time_precision": 1,
+      "text_text_format_p_time_dynamic_threshold": 3,
+      "text_text_format_p_time_mod_rate": true,
+      "text_text_format_p_time_format": 0,
+      "text_color": [1, 1, 1, 1],
+      "text_font": "Friz Quadrata TT",
+      "text_shadowColor": [0, 0, 0, 1],
+      "text_shadowYOffset": 0,
+      "text_wordWrap": "WordWrap",
+      "text_fontType": "OUTLINE",
+      "anchor_point": "CENTER",
+      "text_visible": false,
+      "text_fontSize": 17,
+      "anchorXOffset": 0,
+      "text_shadowXOffset": 0
+    }
+  ],
+  "load": {
+    "use_encounterid": false,
+    "encounterid": "",
+
+    "use_zoneIds": false,
+    "zoneIds": "",
+
+    "use_role": false,
+    "role": {
+      "single": "TANK",
+      "multi": {
+        "HEALER": true,
+        "TANK": true,
+        "DAMAGER": true
+      }
+    },
+
+    "talent": {
+      "multi": {}
+    },
+    "size": {
+      "multi": {}
+    },
+    "class": {
+      "multi": {}
+    },
+    "spec": {
+      "multi": {}
+    }
+  },
+  "source": "import",
+  "regionType": "icon",
+  "cooldown": true,
+  "actions": {
+    "start": {
+      "sound": "",
+      "do_sound": false
+    },
+    "init": {},
+    "finish": {}
+  },
+  "color": [1, 1, 1, 1],
+  "conditions": {},
+  "xOffset": 0,
+  "zoom": 0,
+  "alpha": 1,
+  "config": {},
+  "id": "ICON TEMPLATE",
+  "frameStrata": 1,
+  "useCooldownModRate": true,
+  "width": 80,
+  "height": 80,
+  "anchorFrameType": "SCREEN",
+  "uid": "",
+  "inverse": false,
+  "cooldownTextDisabled": false,
+  "displayIcon": "1111",
+  "useAdjustededMax": false,
+  "useAdjustededMin": false,
+  "adjustedMin": "",
+  "adjustedMax": "",
+  "progressSource": [-1, ""],
+  "information": {},
+  "selfPoint": "CENTER"
+}

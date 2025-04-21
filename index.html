@@ -61,10 +61,13 @@
                  <button type="button" class="btn btn-secondary" id="addTimeInputButton">+</button>
              </div>
          </div>
-         <div class="form-group" id="encounterField" style="display: block;">
-             <label for="encounter">Encounter:</label>
-             <select id="encounter" class="form-control">
-             </select>
+         <div class="form-group">
+             <label for="encounter" class="form-label">Encounter:</label>
+             <div class="multi-select-container" data-bs-theme="dark">
+                <select id="encounter" data-style="btn-dark" class="selectpicker"
+                    data-live-search="true" multiple title="Select Encounter(s)..." data-selected-text-format="count">
+                </select>
+            </div>
          </div>
          <button type="button" class="btn btn-primary" onclick="generateWeakAura()">Generate WeakAura</button>
      </form>
@@ -79,6 +82,12 @@
      </div>
  </div>
  
+ <script src="assets/js/jquery.min.js"></script>
+ <script src="assets/js/bootstrap.bundle.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta3/dist/js/bootstrap-select.min.js"></script>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+ <link rel="stylesheet"
+     href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
  <script src="assets/js/encounters.js"></script>
  <script src="assets/js/pako.min.js"></script>
  <script src="assets/js/textTemplate.js"></script>
