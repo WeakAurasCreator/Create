@@ -1,0 +1,11 @@
+{
+    "death_knight_blood": {
+      "classSlug": "DeathKnight",
+      "specSlug": "Blood"
+    },
+    "death_knight_unholy": {
+      "classSlug": "DeathKnight",
+      "specSlug": "Unholy"
+    }
+
+  }

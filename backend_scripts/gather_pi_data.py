@@ -19,6 +19,11 @@ ITERATIONS  = 15000
 THREADS     = 4
 REGION      = "EU"
 OUT_JSON    = Path("data") / "pi_values.json"
+CONFIG_PATH  = Path(__file__).parent / "piConfig.json"
+
+# Load manual slug → class/spec map
+with open(CONFIG_PATH) as f:
+    PROFILE_MAP = {k.lower(): v for k, v in json.load(f).items()}
 
 # ──────────────────────────────────────────────────────────
 # Helpers: GitHub → Latest Tier Folder & Profile Fetch
@@ -116,7 +121,7 @@ def fetch_current_tier_zone_and_boss(wcl_token: str) -> tuple[int,int]:
 import json
 import requests
 
-def fetch_top_talents(token: str, _, boss_id: int, spec_slug: str, region: str = "EU") -> str:
+def fetch_top_talents(token: str, boss_id: int, className: str, specName: str):
     """
     Fetches the top-100 character rankings JSON blob,
     parses it, aggregates talent picks, and returns
@@ -137,12 +142,8 @@ def fetch_top_talents(token: str, _, boss_id: int, spec_slug: str, region: str =
       }
     }
     """
-    # split spec_slug like "death_knight_blood"
-    base, spec_part = spec_slug.rsplit("_", 1)
-    class_name = "".join(w.capitalize() for w in base.split("_"))
-    spec_name  = spec_part.capitalize()
 
-    variables = {"encID": boss_id, "class": class_name, "spec": spec_name}
+    variables = {"encID": boss_id, "class": className, "spec": specName}
     headers   = {"Authorization": f"Bearer {token}"}
     print(f"Requesting {variables}")
     resp = requests.post(GRAPHQL_URL,
@@ -156,7 +157,7 @@ def fetch_top_talents(token: str, _, boss_id: int, spec_slug: str, region: str =
     # 2) Extract the rankings list
     rankings = data.get("rankings", [])
     if not rankings:
-        raise RuntimeError(f"No ranking rows for boss {boss_id}, spec {spec_slug}")
+        raise RuntimeError(f"No ranking rows for {variables}. Response is: {resp.json()}")
 
     # 3) Tally up points for each talentID across the top‑100
     from collections import defaultdict, Counter
@@ -244,23 +245,28 @@ def main():
     results = []
     # 3) For each profile: get top talents, inject, sim without/with PI
     for fname, text in profs.items():
-        name_no_ext = fname[:-5]  # strip ".simc"
-        parts = name_no_ext.split("_")
-        if len(parts) >= 4:
-            # parts = [TWW2, Death, Knight, Blood, Deathbringer]
-            cls   = f"{parts[1]}_{parts[2]}"      # "Death_Knight"
-            spec  = parts[3]                     # "Blood"
-            spec_slug = f"{cls.lower()}_{spec.lower()}"
+        name_no_ext = fname[:-5]
+        if name_no_ext.startswith(f"{tier}_"):
+            slug = name_no_ext[len(tier)+1:]
         else:
-            # fallback for any unexpected naming
-            spec_slug = name_no_ext.split("_",1)[1].lower()
+            slug = name_no_ext
+        slug_key = slug.lower()
+
+        if slug_key not in PROFILE_MAP:
+            print(f"⚠️  Skipping unknown slug {slug_key}")
+            continue
+
+        cfg = PROFILE_MAP[slug_key]
+        class_name = cfg["classSlug"]
+        spec_name  = cfg["specSlug"]
+
         try:    
-            build = fetch_top_talents(wcl_token, zone_id, boss_id, spec_slug)
+            build = fetch_top_talents(wcl_token, boss_id, class_name, spec_name)
         except RuntimeError as e:
-            print(f"⚠️  Skipping {spec_slug}: {e}")
+            print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
             continue
         # inject talents override at top of profile
-        header = f"# Generated for {spec_slug}, talents={build}\n"
+        header = f"# Generated for {class_name} {spec_name}, talents={build}\n"
         prof   = header + re.sub(
             r"^(player=.*)$", rf"\1,talents={build}", text, flags=re.MULTILINE
         )
@@ -272,14 +278,14 @@ def main():
         pct   = (delta / d0) * 100
 
         results.append({
-            "spec":          spec_slug,
+            "spec":          spec_name,
             "build":         build,
             "dps_no_pi":     round(d0,2),
             "dps_with_pi":   round(d1,2),
             "dps_delta":     round(delta,2),
             "dps_pct_gain":  round(pct,2),
         })
-        print(f"→ {spec_slug}: Δ={delta:.2f} ({pct:.2f}%)")
+        print(f"→ {spec_name}: Δ={delta:.2f} ({pct:.2f}%)")
 
     # 4) Save to JSON
     OUT_JSON.parent.mkdir(exist_ok=True)
