@@ -137,6 +137,7 @@ def fetch_top_talents(token: str, boss_id: int, className: str, specName: str):
             specName:         $spec
             leaderboard:     LogsOnly
             includeCombatantInfo: true
+            partition: 1
           )
         }
       }
