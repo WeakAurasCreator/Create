@@ -20,6 +20,7 @@ THREADS     = 4
 REGION      = "EU"
 OUT_JSON    = Path("data") / "pi_values.json"
 CONFIG_PATH  = Path(__file__).parent / "piConfig.json"
+TARGET_COUNTS = [1, 3, 5, 8, 15]
 
 # Load manual slug → class/spec map
 with open(CONFIG_PATH) as f:
@@ -185,7 +186,7 @@ def fetch_top_talents(token: str, boss_id: int, className: str, specName: str):
 # ──────────────────────────────────────────────────────────
 # Helpers: Running SimC with/without PI & Parsing DPS
 # ──────────────────────────────────────────────────────────
-def run_sim_in_memory(profile_text, enable_pi):
+def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     """
     Writes a temp file with (or without) PI override,
     runs simc, returns parsed DPS float.
@@ -196,6 +197,9 @@ def run_sim_in_memory(profile_text, enable_pi):
         "\n# Power Infusion override\n"
         f"external_buffs.pool=power_infusion:120:{pi_flag}\n"
     )
+    override += "\n# Multi‑target override\n"
+    for i in range(1, num_targets + 1):
+        override += f"enemy=TrainingDummy{i}\n"
     tmp.write_text(profile_text + override)
     cmd = [
         SIMC_CMD, str(tmp),
@@ -280,26 +284,28 @@ def main():
         prof   = header + re.sub(
             r"^(player=.*)$", rf"\1,talents={build}", text, flags=re.MULTILINE
         )
+        for nt in TARGET_COUNTS:
+            # run sims
+            try:
+                d0 = run_sim_in_memory(prof, enable_pi=False)
+                d1 = run_sim_in_memory(prof, enable_pi=True)
+            except RuntimeError as e:
+                print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
+                continue
+            delta = d1 - d0
+            pct   = (delta / d0) * 100
 
-        # run sims
-        try:
-            d0 = run_sim_in_memory(prof, enable_pi=False)
-            d1 = run_sim_in_memory(prof, enable_pi=True)
-        except RuntimeError as e:
-            print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
-            continue
-        delta = d1 - d0
-        pct   = (delta / d0) * 100
-
-        results.append({
-            "spec":          spec_name,
-            "build":         build,
-            "dps_no_pi":     round(d0,2),
-            "dps_with_pi":   round(d1,2),
-            "dps_delta":     round(delta,2),
-            "dps_pct_gain":  round(pct,2),
-        })
-        print(f"→ {spec_name}: Δ={delta:.2f} ({pct:.2f}%)")
+            results.append({
+                "spec":          spec_name,
+                "class":        class_name,
+                "build":         build,
+                "targets":        nt,
+                "dps_no_pi":     round(d0,2),
+                "dps_with_pi":   round(d1,2),
+                "dps_delta":     round(delta,2),
+                "dps_pct_gain":  round(pct,2),
+            })
+            print(f"→ {spec_name} [{nt} targets]: Δ={delta:.2f} ({pct:.2f}%)")
 
     # 4) Save to JSON
     OUT_JSON.parent.mkdir(exist_ok=True)
