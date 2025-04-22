@@ -144,11 +144,12 @@ def fetch_top_talents(token: str, _, boss_id: int, spec_slug: str, region: str =
 
     variables = {"encID": boss_id, "class": class_name, "spec": spec_name}
     headers   = {"Authorization": f"Bearer {token}"}
-
+    print(f"Requesting {variables}")
     resp = requests.post(GRAPHQL_URL,
                          json={"query": query, "variables": variables},
                          headers=headers)
     resp.raise_for_status()
+    print(resp.json())
     # 1) JSON blob returned as a string
     data = resp.json()["data"]["worldData"]["encounter"]["characterRankings"]
 
