@@ -103,8 +103,6 @@ def fetch_current_tier_zone_and_boss(wcl_token: str) -> tuple[int,int]:
                       headers=hdr)
     r.raise_for_status()
     all_zones = r.json()["data"]["worldData"]["expansion"]["zones"]
-
-    # 3) Filter for *actual* Mythic raid zones (ID 16) and skip any “Complete Raids…” ones
     raid_zones = [
       z for z in all_zones
       if any(d["id"] == 5 for d in z["difficulties"])
@@ -119,8 +117,6 @@ def fetch_current_tier_zone_and_boss(wcl_token: str) -> tuple[int,int]:
           f"first boss: {boss['name']} (ID={boss['id']})")
     return zone["id"], boss["id"]
 
-import json
-import requests
 
 def fetch_top_talents(token: str, boss_id: int, className: str, specName: str):
     """
