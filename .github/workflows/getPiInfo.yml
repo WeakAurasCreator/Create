@@ -34,7 +34,7 @@ jobs:
         run: |
             git clone --depth=1 https://github.com/simulationcraft/simc.git simc
             mkdir simc/build && cd simc/build
-            cmake .. -DCMAKE_BUILD_TYPE=Release -DSIMC_NO_QT=ON
+            cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_GUI=OFF
             make -j$(nproc)
             sudo cp bin/simc /usr/local/bin/
       - name: Run Gather PI Data Script
