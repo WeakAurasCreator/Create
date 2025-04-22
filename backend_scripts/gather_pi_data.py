@@ -243,11 +243,21 @@ def main():
     results = []
     # 3) For each profile: get top talents, inject, sim without/with PI
     for fname, text in profs.items():
-        # derive spec slug, e.g. "TWW2_Rogue_Outlaw.simc" → "rogue_outlaw"
-        _, cls_spec = fname.split("_", 1)
-        spec_slug   = cls_spec[:-5].lower()  # remove ".simc"
-        build       = fetch_top_talents(wcl_token, zone_id, boss_id, spec_slug)
-
+        name_no_ext = fname[:-5]  # strip ".simc"
+        parts = name_no_ext.split("_")
+        if len(parts) >= 4:
+            # parts = [TWW2, Death, Knight, Blood, Deathbringer]
+            cls   = f"{parts[1]}_{parts[2]}"      # "Death_Knight"
+            spec  = parts[3]                     # "Blood"
+            spec_slug = f"{cls.lower()}_{spec.lower()}"
+        else:
+            # fallback for any unexpected naming
+            spec_slug = name_no_ext.split("_",1)[1].lower()
+        try:    
+            build = fetch_top_talents(wcl_token, zone_id, boss_id, spec_slug)
+        except RuntimeError as e:
+            print(f"⚠️  Skipping {spec_slug}: {e}")
+            continue
         # inject talents override at top of profile
         header = f"# Generated for {spec_slug}, talents={build}\n"
         prof   = header + re.sub(
