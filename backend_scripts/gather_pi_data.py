@@ -6,6 +6,7 @@ import shutil
 import requests
 import subprocess
 from pathlib import Path
+from collections import defaultdict, Counter
 
 # ──────────────────────────────────────────────────────────
 # Configuration
@@ -67,7 +68,7 @@ def get_wcl_token(client_id, client_secret):
     resp.raise_for_status()
     return resp.json()["access_token"]
 
-def fetch_current_tier_zone_and_boss(wcl_token: str) -> tuple[int,int]:
+def fetch_current_tier_encounters(wcl_token: str) -> tuple[list[int], list[int]]:
     # manual override still possible:
     z = os.getenv("WCL_ZONE_ID")
     b = os.getenv("WCL_BOSS_ID")
@@ -111,14 +112,15 @@ def fetch_current_tier_zone_and_boss(wcl_token: str) -> tuple[int,int]:
     if not raid_zones:
         raise RuntimeError(f"No valid raid zones found in expansion {latest_exp}")
 
-    zone = raid_zones[0]
-    boss = zone["encounters"][0]
-    print(f"Current raid: {zone['name']} (ID={zone['id']}), "
-          f"first boss: {boss['name']} (ID={boss['id']})")
-    return zone["id"], boss["id"]
+    raid_zone  = raid_zones[0]
+    raid_ids = [enc["id"] for enc in raid_zone ["encounters"]]
+    dungeon_zone = next(z for z in all_zones if z["id"] == raid_zone["id"] + 1)
+    dungeon_ids = [enc["id"] for enc in dungeon_zone["encounters"]]
+    print(f"Current raid: {raid_zone['name']} (ID={raid_zone['id']}) Current Dungeon Season: {dungeon_zone['name']} (ID={dungeon_zone['id']})")
+    return raid_ids, dungeon_ids
 
 
-def fetch_top_talents(token: str, boss_id: int, className: str, specName: str):
+def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: str) -> str:
     """
     Fetches the top-100 character rankings JSON blob,
     parses it, aggregates talent picks, and returns
@@ -141,28 +143,18 @@ def fetch_top_talents(token: str, boss_id: int, className: str, specName: str):
     }
     """
 
-    variables = {"encID": boss_id, "class": className, "spec": specName}
+
     headers   = {"Authorization": f"Bearer {token}"}
-    print(f"Requesting {variables}")
-    resp = requests.post(GRAPHQL_URL,
-                         json={"query": query, "variables": variables},
-                         headers=headers)
-    resp.raise_for_status()
-    print(resp.json())
-    # 1) JSON blob returned as a string
-    data = resp.json()["data"]["worldData"]["encounter"]["characterRankings"]
-
-    # 2) Extract the rankings list
-    rankings = data.get("rankings", [])
-    if not rankings:
-        raise RuntimeError(f"No ranking rows for {variables}. Response is: {resp.json()}")
-
-    # 3) Tally up points for each talentID across the top‑100
-    from collections import defaultdict, Counter
     points_counter: dict[int, Counter[int]] = defaultdict(Counter)
-    for entry in rankings:
-        for t in entry["talents"]:
-            points_counter[t["talentID"]][t["points"]] += 1
+    for encID in encIDs:
+        variables = {"encID": encID, "class": className, "spec": specName}
+        print(f"Requesting {variables}")
+        resp = requests.post(GRAPHQL_URL, json={"query": query, "variables": variables}, headers=headers)
+        resp.raise_for_status()
+        for entry in resp.json()["data"]["worldData"]["encounter"]["characterRankings"]["rankings"]:
+            for t in entry["talents"]:
+                points_counter[t["talentID"]][t["points"]] += 1
+    
 
     # 4) Pick the modal (most-common) points for each talentID
     most_popular = {
@@ -249,8 +241,8 @@ def main():
     print("fetching WCL token...")
     wcl_token = get_wcl_token(wcl_id, wcl_secret)
     print("fetching dynamic zone and boss...")
-    zone_id, boss_id = fetch_current_tier_zone_and_boss(wcl_token)
-    print(f"Zone ID: {zone_id}, Boss ID: {boss_id}")
+    raid_ids, dungeon_ids = fetch_current_tier_encounters(wcl_token)
+    print(f"Raid IDs: {raid_ids}, Dungeon IDs: {dungeon_ids}")
 
     results = []
     # 3) For each profile: get top talents, inject, sim without/with PI
@@ -271,17 +263,24 @@ def main():
         spec_name  = cfg["specSlug"]
 
         try:    
-            build = fetch_top_talents(wcl_token, boss_id, class_name, spec_name)
+            raid_build = fetch_top_talents(wcl_token, raid_ids,    class_name, spec_name)
+            dung_build = fetch_top_talents(wcl_token, dungeon_ids, class_name, spec_name)
         except RuntimeError as e:
             print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
             continue
         # inject talents override at top of profile
-        header = f"# Generated for {class_name} {spec_name}, talents={build}\n"
-        prof   = header + re.sub(
-            r"^(player=.*)$", rf"\1,talents={build}", text, flags=re.MULTILINE
+        header = f"# Generated for {class_name} {spec_name}, raid-talents={raid_build} dung-talents={dung_build}\n"
+        prof_raid = (
+            f"# {class_name}/{spec_name} raid build\n"
+            + re.sub(r"^(player=.*)$", rf"\1,talents={raid_build}", text, flags=re.M)
+        )
+        prof_dung = (
+            f"# {class_name}/{spec_name} dungeon build\n"
+            + re.sub(r"^(player=.*)$", rf"\1,talents={dung_build}", text, flags=re.M)
         )
         for nt in TARGET_COUNTS:
-            # run sims
+            # use raid profile for single target, dungeon profile otherwise
+            prof = prof_raid if nt == 1 else prof_dung
             try:
                 d0 = run_sim_in_memory(prof, enable_pi=False)
                 d1 = run_sim_in_memory(prof, enable_pi=True)
@@ -293,9 +292,9 @@ def main():
 
             results.append({
                 "spec":          spec_name,
-                "class":        class_name,
-                "build":         build,
-                "targets":        nt,
+                "class":         class_name,
+                "build":         prof,
+                "targets":       nt,
                 "dps_no_pi":     round(d0,2),
                 "dps_with_pi":   round(d1,2),
                 "dps_delta":     round(delta,2),
