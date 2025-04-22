@@ -268,7 +268,6 @@ def main():
             print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
             continue
         # inject talents override at top of profile
-        header = f"# Generated for {class_name} {spec_name}, raid-talents={raid_build} dung-talents={dung_build}\n"
         prof_raid = (
             f"# {class_name}/{spec_name} raid build\n"
             + re.sub(r"^(player=.*)$", rf"\1,talents={raid_build}", text, flags=re.M)
@@ -281,8 +280,8 @@ def main():
             # use raid profile for single target, dungeon profile otherwise
             prof = prof_raid if nt == 1 else prof_dung
             try:
-                d0 = run_sim_in_memory(prof, enable_pi=False)
-                d1 = run_sim_in_memory(prof, enable_pi=True)
+                d0 = run_sim_in_memory(prof, enable_pi=False, num_targets=nt)
+                d1 = run_sim_in_memory(prof, enable_pi=True, num_targets=nt)
             except RuntimeError as e:
                 print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
                 continue
@@ -292,7 +291,6 @@ def main():
             results.append({
                 "spec":          spec_name,
                 "class":         class_name,
-                "build":         prof,
                 "targets":       nt,
                 "dps_no_pi":     round(d0,2),
                 "dps_with_pi":   round(d1,2),
