@@ -202,7 +202,16 @@ def run_sim_in_memory(profile_text, enable_pi):
         f"--iterations={ITERATIONS}",
         f"--threads={THREADS}"
     ]
-    res = subprocess.run(cmd, capture_output=True, text=True, check=True)
+
+    res = subprocess.run(cmd, capture_output=True, text=True)
+    if res.returncode != 0:
+        # report the full stderr and a bit of stdout so we know what went wrong
+        print(f"\n❌ SimC failed (exit {res.returncode}):\n")
+        print(res.stderr)
+        print("\n--- simc stdout tail ---")
+        print("\n".join(res.stdout.splitlines()[-10:]))
+        print("--- end stdout tail ---\n")
+        raise RuntimeError(f"SimC exited {res.returncode}")
     print(res)    
     m = re.search(
         r"(?:Damage per second:\s*|DPS=)\s*([\d,]+\.\d+)",
@@ -273,8 +282,12 @@ def main():
         )
 
         # run sims
-        d0 = run_sim_in_memory(prof, enable_pi=False)
-        d1 = run_sim_in_memory(prof, enable_pi=True)
+        try:
+            d0 = run_sim_in_memory(prof, enable_pi=False)
+            d1 = run_sim_in_memory(prof, enable_pi=True)
+        except RuntimeError as e:
+            print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
+            continue
         delta = d1 - d0
         pct   = (delta / d0) * 100
 
