@@ -1,0 +1,17 @@
+{ 
+        "trigger" : {
+            "type" : "unit",
+            "event" : "Cast",
+            "unit" : "nameplate",
+            "use_spellId" : false,
+            "spellId" : null, 
+            "use_unit" : true,
+            "subeventSuffix" : "_CAST_START",
+            "spellIds" : {},
+			"names" : {},
+			"subeventPrefix" : "SPELL",
+			"debuffType" : "HELPFUL"
+        },
+        "untrigger" : {
+        }
+    }

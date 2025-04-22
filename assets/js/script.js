@@ -1,8 +1,5 @@
 let encounterData = null;
 let encountersByInstance;
-let ExportData = {};
-let IconTemplate = {};
-let DynamicGroupTemplate = {};
 // 1) Fetch all 4 JSONs in parallel:
 // 1) Fetch all 4 JSONs in parallel
 Promise.all([
@@ -32,17 +29,49 @@ Promise.all([
   })
   .catch((err) => console.error("Error loading data:", err));
 
-Promise.all([
-  fetch("/templates/ExportData.json").then((r) => r.json()),
-  fetch("/templates/DynamicGroup.json").then((r) => r.json()),
-  fetch("/templates/Icon.json").then((r) => r.json()),
-])
-  .then(([exportData, DynamicGroup, Icon]) => {
+// containers for your templates
+let ExportData, DynamicGroupTemplate, IconTemplate, MetaData;
+const Triggers = {};  // ← will hold all the trigger‑JSONs
+
+// 1) Fetch the 4 core templates + metadata
+const coreFetches = [
+  fetch("/templates/ExportData.json").then(r => r.json()),
+  fetch("/templates/DynamicGroup.json").then(r => r.json()),
+  fetch("/templates/Icon.json").then(r => r.json()),
+  fetch("/data/metadata.json").then(r => r.json()),
+];
+
+// 2) Fetch the triggers index
+const triggersIndexFetch = fetch("/templates/triggers/triggerIndex.json")
+  .then(r => r.json());                                 // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
+
+Promise.all([ Promise.all(coreFetches), triggersIndexFetch ])
+  .then(([ [exportData, DynamicGroup, Icon, metadata], triggerFiles ]) => {
+    // assign core templates
+    ExportData           = exportData;
     DynamicGroupTemplate = DynamicGroup;
-    ExportData = exportData;
-    IconTemplate = Icon;
+    IconTemplate         = Icon;
+    MetaData             = metadata;
+
+    // 3) now fetch each trigger JSON in parallel
+    return Promise.all(
+      triggerFiles.map(fileName =>
+        fetch(`/templates/triggers/${fileName}`)
+          .then(r => r.json())
+          .then(json => {
+            // strip “.json” off the key, e.g. "triggerA"
+            const key = fileName.replace(/\.json$/, "");
+            Triggers[key] = json;
+          })
+      )
+    );
   })
-  .catch((err) => console.error("Error loading data:", err));
+  .then(() => {
+    // at this point, Triggers.triggerA, Triggers.triggerB, … all exist
+    console.log("All triggers loaded:", Triggers);
+  })
+  .catch(err => console.error("Error loading templates or triggers:", err));
+
 
 function populateEncounterDropdown(
   tiers,
@@ -223,7 +252,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function generateWeakAura() {
   let group = createGroupToExport("TestGroup");
-  let aura = IconTemplate;
+  let aura = JSON.parse(JSON.stringify(IconTemplate)); // get a copy of the Icon Template
 
   const encounterTime = "24";
   const fontSize = document.getElementById("fontSize").value || "20";
@@ -237,27 +266,10 @@ function generateWeakAura() {
     selectedEncounters.map((encounter) => `${encounter}`).join(",") || "";
 
   // temp trigger setting for testing
-  let trigger = {
-    trigger: {
-      debuffType: "HELPFUL",
-      delay: 5,
-      duration: "",
-      event: "Encounter Events",
-      eventtype: "ENCOUNTER_START",
-      names: {},
-      spellIds: {},
-      subeventPrefix: "SPELL",
-      subeventSuffix: "_CAST_START",
-      type: "event",
-      unit: "player",
-      use_delay: true,
-      use_eventtype: true,
-    },
-    untrigger: {},
-  };
+  let trigger = JSON.parse(JSON.stringify(Triggers.encounterTime)); // get a copy of the encounterTime Trigger Template
   trigger.duration = encounterTime;
   addTrigger(aura, trigger);
-  addTrigger(aura, trigger);
+
   aura.fontSize = parseInt(fontSize, 10);
   aura.font = font;
   aura.load.encounterid = encounterString;
@@ -275,10 +287,7 @@ function generateWeakAura() {
   aura.internalVersion = group.d.internalVersion;
   aura.url = group.d.url;
   // add aura into group
-  group.d.sortHybridTable[aura.id] = false;
-  console.log(group);
-  group.c["1"] = aura;
-  console.log(aura);
+  addAura(group, aura);
 
   // Serialize
   let serializedAura = serialize(group);
@@ -291,22 +300,44 @@ function generateWeakAura() {
   document.getElementById("copyButton").disabled = false;
 }
 
-
-function addTrigger(aura,trigger){
-    const existingKeys = Object.keys(aura.triggers)
-    .map(k => parseInt(k, 10))
-    .filter(n => !isNaN(n));
-  const newIndex = existingKeys.length
-    ? Math.max(...existingKeys) + 1
-    : 1;
+function addTrigger(aura, trigger) {
+  const existingKeys = Object.keys(aura.triggers)
+    .map((k) => parseInt(k, 10))
+    .filter((n) => !isNaN(n));
+  const newIndex = existingKeys.length ? Math.max(...existingKeys) + 1 : 1;
 
   aura.triggers[newIndex] = trigger;
   aura.triggers.activeTriggerMode = -10;
 }
 
+function addAura(group,aura){
+  const existingKeys = Object.keys(group.c)
+    .map((k) => parseInt(k, 10))
+    .filter((n) => !isNaN(n));
+  const newIndex = existingKeys.length ? Math.max(...existingKeys) + 1 : 1;
+  group.c[newIndex] = aura;
+  group.d.sortHybridTable[aura.id] = false;
+}
+
+function getTocVersion() {
+  const buildStr = MetaData.wowBuild; // e.g. "11.1.0.60257"
+  const parts = buildStr.split("."); // ["11","1","0","60257"] :contentReference[oaicite:0]{index=0}
+
+  // Destructure only the first three segments; ignore anything after the third dot
+  const [major, minor, patch] = parts;
+
+  // Convert to numbers and compute TOC version: major*10000 + minor*100 + patch
+  const tocversion =
+    parseInt(major, 10) * 10000 +
+    parseInt(minor, 10) * 100 +
+    parseInt(patch, 10); // e.g. 11*10000 + 1*100 + 0 = 110100 :contentReference[oaicite:1]{index=1}
+
+  return tocversion;
+}
+
 function createGroupToExport(name) {
-  let ExportTable = ExportData; // get a copy of the ExportTemplate
-  ExportTable.d = DynamicGroupTemplate; // get a Copy of the DynamicGroup Template
+  let ExportTable = JSON.parse(JSON.stringify(ExportData)); // get a copy of the ExportTemplate
+  ExportTable.d = JSON.parse(JSON.stringify(DynamicGroupTemplate)); // get a Copy of the DynamicGroup Template
   // set Aura Name
   let id = "WACreator_" + name;
   ExportTable.d.id = id;
@@ -325,7 +356,7 @@ function createGroupToExport(name) {
   //set url so updating works (because of how WA internal updating works)
   ExportTable.d.url = "https://wago.io/" + name + "/" + version;
   //calculate and set tocversion
-  let tocversion = 110100; // 11.1.0
+  let tocversion = getTocVersion(); // extracts current tocversion from buildnumber
   ExportTable.d.tocversion = tocversion;
   // set source
   let source = "import";

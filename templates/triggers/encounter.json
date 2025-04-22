@@ -1,0 +1,18 @@
+{
+  "trigger": {
+    "debuffType": "HELPFUL",
+    "delay": 5,
+    "duration": "",
+    "event": "Encounter Events",
+    "eventtype": "ENCOUNTER_START",
+    "names": {},
+    "spellIds": {},
+    "subeventPrefix": "SPELL",
+    "subeventSuffix": "_CAST_START",
+    "type": "event",
+    "unit": "player",
+    "use_delay": true,
+    "use_eventtype": true
+  },
+  "untrigger": {}
+}
