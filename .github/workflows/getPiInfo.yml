@@ -10,6 +10,10 @@ on:
 jobs:
   gather-pi:
     runs-on: ubuntu-latest
+    env:
+        WCL_CLIENT_ID: ${{ secrets.WCLOGS_CLIENT_ID }}
+        WCL_CLIENT_SECRET: ${{ secrets.WCLOGS_CLIENT_SECRET }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -39,8 +43,8 @@ jobs:
             sudo cp simc /usr/local/bin/
       - name: Run Gather PI Data Script
         env:
-          WCL_CLIENT_ID: ${{ secrets.WCL_CLIENT_ID }}
-          WCL_CLIENT_SECRET: ${{ secrets.WCL_CLIENT_SECRET }}
+          WCL_CLIENT_ID: ${{ secrets.WCLOGS_CLIENT_ID }}
+          WCL_CLIENT_SECRET: ${{ secrets.WCLOGS_CLIENT_SECRET }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           chmod +x backend_scripts/gather_pi_data.py
