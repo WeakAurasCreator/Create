@@ -136,7 +136,6 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
             specName:         $spec
             leaderboard:     LogsOnly
             includeCombatantInfo: true
-            partition: 1
           )
         }
       }
