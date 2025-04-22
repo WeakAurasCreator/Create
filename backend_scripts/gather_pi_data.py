@@ -200,10 +200,18 @@ def run_sim_in_memory(profile_text, enable_pi):
         f"--threads={THREADS}"
     ]
     res = subprocess.run(cmd, capture_output=True, text=True, check=True)
-    m = re.search(r"Damage per second:\s*([\d\.]+)", res.stdout)
+    # allow thousands‐comma, e.g. "1,234.56"
+    print(res)    
+    m = re.search(r"Damage per second:\s*([\d,]+\.\d+)", res.stdout)
     if not m:
+        # dump last 10 lines to help debug when parse fails
+        print("\n--- simc stdout tail ---")
+        print("\n".join(res.stdout.splitlines()[-10:]))
+        print("--- end stdout tail ---\n")
         raise RuntimeError("Failed to parse DPS from simc output")
-    return float(m.group(1))
+    # strip commas before float conversion
+    dps_str = m.group(1).replace(",", "")
+    return float(dps_str)
 
 # ──────────────────────────────────────────────────────────
 # Main Pipeline
