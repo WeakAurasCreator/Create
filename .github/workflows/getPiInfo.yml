@@ -36,7 +36,7 @@ jobs:
             mkdir simc/build && cd simc/build
             cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_GUI=OFF
             make -j$(nproc)
-            sudo cp bin/simc /usr/local/bin/
+            sudo cp simc /usr/local/bin/
       - name: Run Gather PI Data Script
         env:
           WCL_CLIENT_ID: ${{ secrets.WCL_CLIENT_ID }}
