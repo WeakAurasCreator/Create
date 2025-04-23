@@ -167,6 +167,19 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
 
     return override
 
+def to_snake(name: str) -> str:
+    """
+    Convert a display name like "Pillar of Frost" or "Dark Transformation"
+    into snake_case: "pillar_of_frost", "dark_transformation".
+    """
+    # Lowercase, strip any punctuation, then replace non-alphanum runs with underscores
+    import re
+    s = name.strip().lower()
+    s = re.sub(r"[^a-z0-9]+", "_", s)
+    s = re.sub(r"_+", "_", s).strip("_")
+    return s
+
+
 def extract_external_buffs(profile_text: str) -> set[str]:
     """
     Scan each line that invokes an external buff, and extract every
@@ -252,7 +265,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     player = data["sim"]["players"][0]
     buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
 
-    print(f"Found {len(buffs_all)} buffs in {json_file}")
+    print(f"Found {len(buffs_all)} buffs in {json_file}: {buffs_all}")
     buff_map: dict[str,int] = {}
     for b in buffs_all:
         # Try the obvious fields first
@@ -268,8 +281,12 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
         if name and sid:
             buff_map[name] = sid
 
+    reverse_buff_map: dict[str,int] = {}
+    for display_name, sid in buff_map.items():
+        snake = to_snake(display_name)
+        reverse_buff_map[snake] = sid
 
-    return float(dps_str), buff_map
+    return float(dps_str), reverse_buff_map
 
 # ──────────────────────────────────────────────────────────
 # Main Pipeline
@@ -341,13 +358,17 @@ def main():
                 continue
             delta = d1 - d0
             pct   = (delta / d0) * 100
-            print(f"Buggfs: {buffs}")
+            print(f"Buffs: {buffs}")
             # Extract which buffs guard PI in this profile
             dependencies = extract_external_buffs(text)
             # Look up their IDs in the "with PI" run
             print(f"PI dependencies: {dependencies}")
-            dep_ids = { buf: buffs.get(buf) for buf in dependencies }
-            print(f"PI dependencies: {dep_ids}")
+            dep_ids = {}
+            for buff in dependencies:
+                sid = buffs.get(buff)
+                if sid is None:
+                    print(f"⚠️ Could not resolve buff '{buff}'")
+                dep_ids[buff] = sid
 
             results.append({
                 "spec":          spec_name,
