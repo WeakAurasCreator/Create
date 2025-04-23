@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 import re
 import json
@@ -181,7 +180,9 @@ def extract_external_buffs(profile_text: str) -> set[str]:
 
     # 2) For each captured condition block, find buff.<name>.up
     for condition in invoke_pattern.findall(profile_text):
+        print(f"Found condition: {condition}")
         for buff_name in re.findall(r"buff\.([a-z0-9_]+)\.up", condition):
+            print(f"Found buff: {buff_name}")
             deps.add(buff_name)
 
     return deps
@@ -193,6 +194,7 @@ def extract_buff_ids_from_json(json_path: Path) -> dict[str, int]:
     data = json.loads(json_path.read_text())
     player = data["sim"]["players"][0]
     all_buffs = player.get("buffs", []) + player.get("buffs_constant", [])
+    print(f"Found {len(all_buffs)} buffs in {json_path}")
     buff_map = {}
     for b in all_buffs:
         # each entry has "name" and numeric "id"
@@ -254,6 +256,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     player = data["sim"]["players"][0]
     buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
 
+    print(f"Found {len(buffs_all)} buffs in {json_file}")
     buff_map: dict[str,int] = {}
     for b in buffs_all:
         # Try the obvious fields first
@@ -342,11 +345,13 @@ def main():
                 continue
             delta = d1 - d0
             pct   = (delta / d0) * 100
-
+            print(f"Buggfs: {buffs}")
             # Extract which buffs guard PI in this profile
             dependencies = extract_external_buffs(text)
             # Look up their IDs in the "with PI" run
+            print(f"PI dependencies: {dependencies}")
             dep_ids = { buf: buffs.get(buf) for buf in dependencies }
+            print(f"PI dependencies: {dep_ids}")
 
             results.append({
                 "spec":          spec_name,
