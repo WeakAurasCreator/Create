@@ -169,23 +169,19 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
 
 def extract_external_buffs(profile_text: str) -> set[str]:
     """
-    Scan for lines like:
-      actions.high_prio_actions+=/invoke_external_buff,name=power_infusion,
-        if=(buff.pillar_of_frost.up|...&buff.breath_of_sindragosa.up|...)
-    and return {'pillar_of_frost', 'breath_of_sindragosa'}.
+    Scan each line that invokes an external buff, and extract every
+    buff.NAME.up occurrence on that line.
     """
-    # 1) Find every invoke_external_buff with its if=(...) clause
-    invoke_pattern = re.compile(r"invoke_external_buff,[^,]*,if=\(([^)]+)\)")
     deps: set[str] = set()
-
-    # 2) For each captured condition block, find buff.<name>.up
-    for condition in invoke_pattern.findall(profile_text):
-        print(f"Found condition: {condition}")
-        for buff_name in re.findall(r"buff\.([a-z0-9_]+)\.up", condition):
-            print(f"Found buff: {buff_name}")
-            deps.add(buff_name)
-
+    # Go line by line (handles single- or multi-line APL equally well)
+    for line in profile_text.splitlines():
+        if "invoke_external_buff" not in line:
+            continue
+        # Grab all buff.foo_bar.up instances
+        for name in re.findall(r"buff\.([a-z0-9_]+)\.up", line, flags=re.IGNORECASE):
+            deps.add(name.lower())
     return deps
+
 
 def extract_buff_ids_from_json(json_path: Path) -> dict[str, int]:
     """
