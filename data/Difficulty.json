@@ -751,6 +751,22 @@
         "GroupSizeSpellPointsCurveID":0,
         "Field_1_15_4_56400_013":0
     },
+    "232":{
+        "Name_lang":"Event",
+        "InstanceType":1,
+        "OrderIndex":4,
+        "OldEnumValue":-1,
+        "FallbackDifficultyID":0,
+        "MinPlayers":5,
+        "MaxPlayers":5,
+        "Flags":16,
+        "ItemContext":0,
+        "ToggleDifficultyID":0,
+        "GroupSizeHealthCurveID":0,
+        "GroupSizeDmgCurveID":0,
+        "GroupSizeSpellPointsCurveID":0,
+        "Field_1_15_4_56400_013":0
+    },
     "32":{
         "Name_lang":"World PvP Scenario",
         "InstanceType":5,
