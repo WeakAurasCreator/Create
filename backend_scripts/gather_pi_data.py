@@ -168,7 +168,36 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
 
     return override
 
+def extract_external_buffs(profile_text: str) -> set[str]:
+    """
+    Scan for lines like:
+      actions.high_prio_actions+=/invoke_external_buff,name=power_infusion,
+        if=(buff.pillar_of_frost.up|...&buff.breath_of_sindragosa.up|...)
+    and return {'pillar_of_frost', 'breath_of_sindragosa'}.
+    """
+    # 1) Find every invoke_external_buff with its if=(...) clause
+    invoke_pattern = re.compile(r"invoke_external_buff,[^,]*,if=\(([^)]+)\)")
+    deps: set[str] = set()
 
+    # 2) For each captured condition block, find buff.<name>.up
+    for condition in invoke_pattern.findall(profile_text):
+        for buff_name in re.findall(r"buff\.([a-z0-9_]+)\.up", condition):
+            deps.add(buff_name)
+
+    return deps
+
+def extract_buff_ids_from_json(json_path: Path) -> dict[str, int]:
+    """
+    Read sim.players[0].buffs and buffs_constant to map buff name → spell ID.
+    """
+    data = json.loads(json_path.read_text())
+    player = data["sim"]["players"][0]
+    all_buffs = player.get("buffs", []) + player.get("buffs_constant", [])
+    buff_map = {}
+    for b in all_buffs:
+        # each entry has "name" and numeric "id"
+        buff_map[b["name"]] = b["id"]
+    return buff_map
 
 # ──────────────────────────────────────────────────────────
 # Helpers: Running SimC with/without PI & Parsing DPS
@@ -179,6 +208,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     runs simc, returns parsed DPS float.
     """
     tmp = Path("_tmp.simc")
+    json_file = Path("_tmp.json")
     pi_flag = 1 if enable_pi else 0
     override = (
         "\n# Power Infusion override\n"
@@ -191,7 +221,10 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     cmd = [
         SIMC_CMD, str(tmp),
         f"--iterations={ITERATIONS}",
-        f"--threads={THREADS}"
+        f"--threads={THREADS}",
+        "log_spell_id=1",
+        "report_details=1",
+        f"json2={json_file}",
     ]
 
     res = subprocess.run(cmd, capture_output=True, text=True)
@@ -203,7 +236,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
         print("\n".join(res.stdout.splitlines()[-10:]))
         print("--- end stdout tail ---\n")
         raise RuntimeError(f"SimC exited {res.returncode}")
-    print(res)    
+    
     m = re.search(
         r"(?:Damage per second:\s*|DPS=)\s*([\d,]+\.\d+)",
         res.stdout
@@ -216,7 +249,11 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
         raise RuntimeError("Failed to parse DPS from simc output")
     # strip commas before float conversion
     dps_str = m.group(1).replace(",", "")
-    return float(dps_str)
+    data = json.loads(json_file.read_text())
+    player = data["sim"]["players"][0]
+    buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
+    buff_map = { b["name"]: b["id"] for b in buffs_all }
+    return float(dps_str), buff_map
 
 # ──────────────────────────────────────────────────────────
 # Main Pipeline
@@ -280,13 +317,18 @@ def main():
             # use raid profile for single target, dungeon profile otherwise
             prof = prof_raid if nt == 1 else prof_dung
             try:
-                d0 = run_sim_in_memory(prof, enable_pi=False, num_targets=nt)
-                d1 = run_sim_in_memory(prof, enable_pi=True, num_targets=nt)
+                d0, buffs = run_sim_in_memory(prof, enable_pi=False, num_targets=nt)
+                d1, buffs = run_sim_in_memory(prof, enable_pi=True, num_targets=nt)
             except RuntimeError as e:
                 print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
                 continue
             delta = d1 - d0
             pct   = (delta / d0) * 100
+
+            # Extract which buffs guard PI in this profile
+            dependencies = extract_external_buffs(text)
+            # Look up their IDs in the "with PI" run
+            dep_ids = { buff: buffs.get(buff) for buff in dependencies }
 
             results.append({
                 "spec":          spec_name,
@@ -296,6 +338,7 @@ def main():
                 "dps_with_pi":   round(d1,2),
                 "dps_delta":     round(delta,2),
                 "dps_pct_gain":  round(pct,2),
+                "pi_dep_spell_ids": dep_ids,
             })
             print(f"→ {spec_name} [{nt} targets]: Δ={delta:.2f} ({pct:.2f}%)")
 
