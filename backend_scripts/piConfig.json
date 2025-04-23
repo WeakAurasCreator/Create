@@ -1,127 +1,158 @@
 {
     "death_knight_blood": {
       "classSlug": "DeathKnight",
-      "specSlug": "Blood"
+      "specSlug": "Blood",
+      "specId": 250
     },
     "death_knight_unholy": {
       "classSlug": "DeathKnight",
-      "specSlug": "Unholy"
+      "specSlug": "Unholy",
+      "specId": 252
     },
     "death_knight_frost": {
       "classSlug": "DeathKnight",
-      "specSlug": "Frost"
+      "specSlug": "Frost",
+      "specId": 251
     },
     "demon_hunter_havoc": {
       "classSlug": "DemonHunter",
-      "specSlug": "Havoc"
+      "specSlug": "Havoc",
+      "specId": 577
     },
     "demon_hunter_vengeance": {
       "classSlug": "DemonHunter",
-      "specSlug": "Vengeance"
+      "specSlug": "Vengeance",
+      "specId": 581
     },
     "druid_balance": {
       "classSlug": "Druid",
-      "specSlug": "Balance"
+      "specSlug": "Balance",
+      "specId": 102
     },
     "druid_feral": {
       "classSlug": "Druid",
-      "specSlug": "Feral"
+      "specSlug": "Feral",
+      "specId": 103
     },
     "druid_guardian": {
       "classSlug": "Druid",
-      "specSlug": "Guardian"
+      "specSlug": "Guardian",
+      "specId": 104
     },
     "evoker_devastation": {
       "classSlug": "Evoker",
-      "specSlug": "Devastation"
+      "specSlug": "Devastation",
+      "specId": 1467
     },
     "hunter_beast_mastery": {
       "classSlug": "Hunter",
-      "specSlug": "BeastMastery"
+      "specSlug": "BeastMastery",
+      "specId": 253
     },
     "hunter_marksmanship": {
       "classSlug": "Hunter",
-      "specSlug": "Marksmanship"
+      "specSlug": "Marksmanship",
+      "specId": 254
     },
     "hunter_survival": {
       "classSlug": "Hunter",
-      "specSlug": "Survival"
+      "specSlug": "Survival",
+      "specId": 255
     },
     "mage_arcane": {
       "classSlug": "Mage",
-      "specSlug": "Arcane"
+      "specSlug": "Arcane",
+      "specId": 62
     },
     "mage_fire": {
       "classSlug": "Mage",
-      "specSlug": "Fire"
+      "specSlug": "Fire",
+      "specId": 63
     },
     "mage_frost": {
       "classSlug": "Mage",
-      "specSlug": "Frost"
+      "specSlug": "Frost",
+      "specId": 64
     },
     "monk_brewmaster": {
       "classSlug": "Monk",
-      "specSlug": "Brewmaster"
+      "specSlug": "Brewmaster",
+      "specId": 268
     },
     "monk_windwalker": {
       "classSlug": "Monk",
-      "specSlug": "Windwalker"
+      "specSlug": "Windwalker",
+      "specId": 269
     },
     "paladin_protection": {
       "classSlug": "Paladin",
-      "specSlug": "Protection"
+      "specSlug": "Protection",
+      "specId": 66
     },
     "paladin_retribution": {
       "classSlug": "Paladin",
-      "specSlug": "Retribution"
+      "specSlug": "Retribution",
+      "specId": 70
     },
     "priest_shadow": {
       "classSlug": "Priest",
-      "specSlug": "Shadow"
+      "specSlug": "Shadow",
+      "specId": 258
     },
     "rogue_outlaw": {
       "classSlug": "Rogue",
-      "specSlug": "Outlaw"
+      "specSlug": "Outlaw",
+      "specId": 260
     },
     "rogue_assassination": {
       "classSlug": "Rogue",
-      "specSlug": "Assassination"
+      "specSlug": "Assassination",
+      "specId": 259
     },
     "rogue_subtlety": {
       "classSlug": "Rogue",
-      "specSlug": "Subtlety"
+      "specSlug": "Subtlety",
+      "specId": 261
     },
     "shaman_elemental": {
       "classSlug": "Shaman",
-      "specSlug": "Elemental"
+      "specSlug": "Elemental",
+      "specId": 262
     },
     "shaman_enhancement": {
       "classSlug": "Shaman",
-      "specSlug": "Enhancement"
+      "specSlug": "Enhancement",
+      "specId": 263
     },
     "warlock_affliction": {
       "classSlug": "Warlock",
-      "specSlug": "Affliction"
+      "specSlug": "Affliction",
+      "specId": 265
     },
     "warlock_demonology": {
       "classSlug": "Warlock",
-      "specSlug": "Demonology"
+      "specSlug": "Demonology",
+      "specId": 266
     },
     "warlock_destruction": {
       "classSlug": "Warlock",
-      "specSlug": "Destruction"
+      "specSlug": "Destruction",
+      "specId": 267
     },
     "warrior_arms": {
       "classSlug": "Warrior",
-      "specSlug": "Arms"
+      "specSlug": "Arms",
+      "specId": 71
     },
     "warrior_fury": {
       "classSlug": "Warrior",
-      "specSlug": "Fury"
+      "specSlug": "Fury",
+      "specId": 72
     },
     "warrior_protection": {
       "classSlug": "Warrior",
-      "specSlug": "Protection"
+      "specSlug": "Protection",
+      "specId": 73
     }
 
   }

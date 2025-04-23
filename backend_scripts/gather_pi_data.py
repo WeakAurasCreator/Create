@@ -207,7 +207,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     Writes a temp file with (or without) PI override,
     runs simc, returns parsed DPS float.
     """
-    tmp = Path("_tmp.simc")
+    sim_file = Path("_tmp.simc")
     json_file = Path("_tmp.json")
     pi_flag = 1 if enable_pi else 0
     override = (
@@ -217,9 +217,9 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     override += "\n# Multi‑target override\n"
     for i in range(1, num_targets + 1):
         override += f"enemy=TrainingDummy{i}\n"
-    tmp.write_text(profile_text + override)
+    sim_file.write_text(profile_text + override)
     cmd = [
-        SIMC_CMD, str(tmp),
+        SIMC_CMD, str(sim_file),
         f"--iterations={ITERATIONS}",
         f"--threads={THREADS}",
         "log_spell_id=1",
@@ -249,10 +249,27 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
         raise RuntimeError("Failed to parse DPS from simc output")
     # strip commas before float conversion
     dps_str = m.group(1).replace(",", "")
+
     data = json.loads(json_file.read_text())
     player = data["sim"]["players"][0]
     buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
-    buff_map = { b["name"]: b["id"] for b in buffs_all }
+
+    buff_map: dict[str,int] = {}
+    for b in buffs_all:
+        # Try the obvious fields first
+        name = b.get("name")
+        sid  = b.get("id")
+
+        # Fallback: some versions nest under "spell": { "id":…, "name":… }
+        if sid is None and isinstance(b.get("spell"), dict):
+            sid  = b["spell"].get("id")
+            name = name or b["spell"].get("name")
+
+        # Only keep it if we have both name & ID
+        if name and sid:
+            buff_map[name] = sid
+
+
     return float(dps_str), buff_map
 
 # ──────────────────────────────────────────────────────────
@@ -297,6 +314,7 @@ def main():
         cfg = PROFILE_MAP[slug_key]
         class_name = cfg["classSlug"]
         spec_name  = cfg["specSlug"]
+        spec_id = cfg["specId"]
 
         try:    
             raid_build = fetch_top_talents(wcl_token, raid_ids,    class_name, spec_name)
@@ -328,11 +346,12 @@ def main():
             # Extract which buffs guard PI in this profile
             dependencies = extract_external_buffs(text)
             # Look up their IDs in the "with PI" run
-            dep_ids = { buff: buffs.get(buff) for buff in dependencies }
+            dep_ids = { buf: buffs.get(buf) for buf in dependencies }
 
             results.append({
                 "spec":          spec_name,
                 "class":         class_name,
+                "specId":        spec_id,
                 "targets":       nt,
                 "dps_no_pi":     round(d0,2),
                 "dps_with_pi":   round(d1,2),
