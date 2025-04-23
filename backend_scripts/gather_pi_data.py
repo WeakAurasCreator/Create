@@ -270,11 +270,11 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     for b in buffs_all:
         # Try the obvious fields first
         name = b.get("name")
-        sid  = b.get("id")
+        sid  = b.get("spell")
 
         # Fallback: some versions nest under "spell": { "id":…, "name":… }
         if sid is None and isinstance(b.get("spell"), dict):
-            sid  = b["spell"].get("id")
+            sid  = b["spell"].get("spell")
             name = name or b["spell"].get("name")
 
         # Only keep it if we have both name & ID
