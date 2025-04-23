@@ -48,7 +48,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           chmod +x backend_scripts/gather_pi_data.py
-          ./backend_scripts/gather_pi_data.py
+          python ./backend_scripts/gather_pi_data.py
 
       - name: Commit and push changes
         run: |
