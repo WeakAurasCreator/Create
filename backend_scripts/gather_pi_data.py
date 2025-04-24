@@ -364,10 +364,12 @@ def main():
             continue
         # inject talents override at top of profile
         # comment + inject-or-replace
-        print(f"Raid build: {raid_override}")
-        print(f"Dungeon build: {dung_override}")
+        print(f"Raid build: {raid_build}")
+        print(f"Dungeon build: {dung_build}")
         raid_override = build_tree_override(raid_build)
         dung_override = build_tree_override(dung_build)
+        print(f"Raid build override: {raid_override}")
+        print(f"Dungeon build override: {dung_override}")
         prof_raid = re.sub(r'(?m)^talents=[^\r\n]*$', raid_override, text, flags=re.M)
         prof_dung = re.sub(r'(?m)^talents=[^\r\n]*$', dung_override, text, flags=re.M)
 
