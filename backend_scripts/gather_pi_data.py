@@ -334,7 +334,8 @@ def main():
         class_name = cfg["classSlug"]
         spec_name  = cfg["specSlug"]
         spec_id = cfg["specId"]
-        backup_spellids = cfg["backup_SpellId"]
+        raw_backups   = cfg.get("backup_SpellId", [])
+        backup_spellids = [int(x) for x in raw_backups]
 
         try:    
             raid_build = fetch_top_talents(wcl_token, raid_ids,    class_name, spec_name)
@@ -372,11 +373,15 @@ def main():
                 if sid is None:
                     print(f"⚠️ Could not resolve buff '{buff}'")
                 dep_ids[buff] = sid
-            if dep_ids == {}:
-                print(f"⚠️ No dependencies found falling back to backup spellids")
-                for buff_id in backup_spellids:
-                    print(f"Backup spellid: {buff_id}")
-                    dep_ids[buff_id] = buff_id    
+
+            valid_deps = {b: sid for b, sid in dep_ids.items() if sid is not None}
+
+            # If none of the extracted buffs actually resolved, fall back
+            if not valid_deps:
+                print(f"⚠️ No valid buffs found; using backup_SpellId {backup_spellids}")
+                dep_ids = { sid: sid for sid in backup_spellids }
+            else:
+                dep_ids = valid_deps  
 
             results.append({
                 "spec":          spec_name,
