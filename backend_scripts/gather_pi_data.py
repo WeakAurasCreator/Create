@@ -7,6 +7,7 @@ import subprocess
 from pathlib import Path
 from collections import defaultdict, Counter
 
+
 # ──────────────────────────────────────────────────────────
 # Configuration
 # ──────────────────────────────────────────────────────────
@@ -175,6 +176,63 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
     # 8) Format as SimC override string
     override = ",".join(f"talent.{tid}={pts}" for tid, pts in popular_build)
     return override
+
+def get_encoded_talents(override: str) -> str:
+    """
+    Given a raw override like "talent.96166=1,talent.96169=1,…",
+    writes a minimal .simc file, runs simc in dry-run JSON mode,
+    and returns the encoded talent string (e.g. "CoPAAAA…").
+    """
+    sim_file = Path("_encode_talents.simc")
+    json_file = Path("_encode_talents.json")
+
+    # Write only the talents line
+    sim_file.write_text(f"talents={override}\n")
+
+    # Run simc in dry-run + JSON mode to get the encoding
+    cmd = [
+        SIMC_CMD, str(sim_file),
+        "--dry_run=1",
+        "--iterations=1",
+        "--threads=1",
+        f"json2={json_file}"
+    ]
+    res = subprocess.run(cmd, capture_output=True, text=True)
+    if res.returncode != 0:
+        raise RuntimeError(f"Failed to encode talents:\n{res.stderr}")
+
+    data = json.loads(json_file.read_text())
+    # The JSON structure has it under sim.players[0].talents
+    return data["sim"]["players"][0]["talents"]
+
+
+def inject_talents(profile_text: str, encoded: str) -> str:
+    """
+    Replace an existing talents=… line, or insert a new one
+    immediately after 'position=…' if no talents= line is found.
+    """
+    # 1) First, try replacing an existing line
+    new_text = re.sub(
+        r"^talents=.*$",
+        f"talents={encoded}",
+        profile_text,
+        flags=re.M
+    )
+    if "talents=" in new_text:
+        # replaced it (or it was already there and got rewritten)
+        return new_text
+
+    # 2) Otherwise, insert after 'position=…'
+    new_text = re.sub(
+        r"^(position=.*)$",               # find that line
+        rf"\1\ntalents={encoded}",        # add talents= right after
+        profile_text,
+        flags=re.M
+    )
+    # as a last resort, if even that didn't match, prepend it
+    if "talents=" not in new_text:
+        return f"talents={encoded}\n" + profile_text
+    return new_text
 
 
 def to_snake(name: str) -> str:
@@ -354,14 +412,16 @@ def main():
             print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
             continue
         # inject talents override at top of profile
-        prof_raid = (
-            f"# {class_name}/{spec_name} raid build\n"
-            + re.sub(r"^(player=.*)$", rf"\1,talents={raid_build}", text, flags=re.M)
-        )
-        prof_dung = (
-            f"# {class_name}/{spec_name} dungeon build\n"
-            + re.sub(r"^(player=.*)$", rf"\1,talents={dung_build}", text, flags=re.M)
-        )
+        # comment + inject-or-replace
+        raid_encoded = get_encoded_talents(raid_build)
+        dung_encoded = get_encoded_talents(dung_build)
+
+        body = inject_talents(text, raid_encoded)
+        prof_raid = f"# {class_name}/{spec_name} raid build\n{body}"
+
+        body2 = inject_talents(text, dung_encoded)
+        prof_dung = f"# {class_name}/{spec_name} dungeon build\n{body2}"
+
         for nt in TARGET_COUNTS:
             # use raid profile for single target, dungeon profile otherwise
             prof = prof_raid if nt == 1 else prof_dung
