@@ -201,10 +201,10 @@ def extract_external_buffs(profile_text: str) -> set[str]:
         if "invoke_external_buff" not in line:
             continue
         # Grab all buff.foo_bar.up instances
-        for name in re.findall(r"buff\.([a-z0-9_]+)\.up", line, flags=re.IGNORECASE):
+        for name in re.findall(r"(?<!\!)buff\.([a-z0-9_]+)\.up", line, flags=re.IGNORECASE):
             deps.add(name.lower())
         # Grab all buff.foo_bar.remains> instances    
-        for name in re.findall(r"buff\.([a-z0-9_]+)\.remains>", line, flags=re.IGNORECASE):
+        for name in re.findall(r"(?<!\!)buff\.([a-z0-9_]+)\.remains>", line, flags=re.IGNORECASE):
             deps.add(name.lower())    
     return deps
 
