@@ -4,10 +4,10 @@
     "class": "DeathKnight",
     "specId": 250,
     "targets": 1,
-    "dps_no_pi": 1679485.81,
-    "dps_with_pi": 1683497.63,
-    "dps_delta": 4011.82,
-    "dps_pct_gain": 0.24,
+    "dps_no_pi": 1679594.69,
+    "dps_with_pi": 1682107.67,
+    "dps_delta": 2512.98,
+    "dps_pct_gain": 0.15,
     "pi_dep_spell_ids": {}
   },
   {
@@ -15,9 +15,31 @@
     "class": "DeathKnight",
     "specId": 250,
     "targets": 3,
-    "dps_no_pi": 3484865.69,
-    "dps_with_pi": 3483848.93,
-    "dps_delta": -1016.76,
+    "dps_no_pi": 3484643.34,
+    "dps_with_pi": 3482828.46,
+    "dps_delta": -1814.87,
+    "dps_pct_gain": -0.05,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Blood",
+    "class": "DeathKnight",
+    "specId": 250,
+    "targets": 5,
+    "dps_no_pi": 5130121.65,
+    "dps_with_pi": 5127874.81,
+    "dps_delta": -2246.83,
+    "dps_pct_gain": -0.04,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Blood",
+    "class": "DeathKnight",
+    "specId": 250,
+    "targets": 8,
+    "dps_no_pi": 6451763.7,
+    "dps_with_pi": 6449647.78,
+    "dps_delta": -2115.92,
     "dps_pct_gain": -0.03,
     "pi_dep_spell_ids": {}
   },
@@ -25,1546 +47,1569 @@
     "spec": "Blood",
     "class": "DeathKnight",
     "specId": 250,
-    "targets": 5,
-    "dps_no_pi": 5135638.5,
-    "dps_with_pi": 5132560.35,
-    "dps_delta": -3078.15,
-    "dps_pct_gain": -0.06,
+    "targets": 15,
+    "dps_no_pi": 8743772.32,
+    "dps_with_pi": 8756933.05,
+    "dps_delta": 13160.73,
+    "dps_pct_gain": 0.15,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Blood",
+    "spec": "Frost",
     "class": "DeathKnight",
-    "specId": 250,
+    "specId": 251,
+    "targets": 1,
+    "dps_no_pi": 2851387.13,
+    "dps_with_pi": 2967701.54,
+    "dps_delta": 116314.41,
+    "dps_pct_gain": 4.08,
+    "pi_dep_spell_ids": {
+      "pillar_of_frost": 51271
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "DeathKnight",
+    "specId": 251,
+    "targets": 3,
+    "dps_no_pi": 6123164.74,
+    "dps_with_pi": 6406119.02,
+    "dps_delta": 282954.28,
+    "dps_pct_gain": 4.62,
+    "pi_dep_spell_ids": {
+      "pillar_of_frost": 51271
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "DeathKnight",
+    "specId": 251,
+    "targets": 5,
+    "dps_no_pi": 8046068.11,
+    "dps_with_pi": 8410344.82,
+    "dps_delta": 364276.71,
+    "dps_pct_gain": 4.53,
+    "pi_dep_spell_ids": {
+      "pillar_of_frost": 51271
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "DeathKnight",
+    "specId": 251,
     "targets": 8,
-    "dps_no_pi": 6450174.68,
-    "dps_with_pi": 6450878.31,
-    "dps_delta": 703.64,
+    "dps_no_pi": 10322204.52,
+    "dps_with_pi": 10813448.4,
+    "dps_delta": 491243.89,
+    "dps_pct_gain": 4.76,
+    "pi_dep_spell_ids": {
+      "pillar_of_frost": 51271
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "DeathKnight",
+    "specId": 251,
+    "targets": 15,
+    "dps_no_pi": 14862743.14,
+    "dps_with_pi": 15579912.06,
+    "dps_delta": 717168.92,
+    "dps_pct_gain": 4.83,
+    "pi_dep_spell_ids": {
+      "pillar_of_frost": 51271
+    }
+  },
+  {
+    "spec": "Unholy",
+    "class": "DeathKnight",
+    "specId": 252,
+    "targets": 1,
+    "dps_no_pi": 2755648.03,
+    "dps_with_pi": 2892425.72,
+    "dps_delta": 136777.7,
+    "dps_pct_gain": 4.96,
+    "pi_dep_spell_ids": {
+      "dark_transformation": 63560
+    }
+  },
+  {
+    "spec": "Unholy",
+    "class": "DeathKnight",
+    "specId": 252,
+    "targets": 3,
+    "dps_no_pi": 4666677.25,
+    "dps_with_pi": 4853882.64,
+    "dps_delta": 187205.39,
+    "dps_pct_gain": 4.01,
+    "pi_dep_spell_ids": {
+      "dark_transformation": 63560
+    }
+  },
+  {
+    "spec": "Unholy",
+    "class": "DeathKnight",
+    "specId": 252,
+    "targets": 5,
+    "dps_no_pi": 5563490.58,
+    "dps_with_pi": 5959704.89,
+    "dps_delta": 396214.3,
+    "dps_pct_gain": 7.12,
+    "pi_dep_spell_ids": {
+      "dark_transformation": 63560
+    }
+  },
+  {
+    "spec": "Unholy",
+    "class": "DeathKnight",
+    "specId": 252,
+    "targets": 8,
+    "dps_no_pi": 9227904.48,
+    "dps_with_pi": 9779637.38,
+    "dps_delta": 551732.9,
+    "dps_pct_gain": 5.98,
+    "pi_dep_spell_ids": {
+      "dark_transformation": 63560
+    }
+  },
+  {
+    "spec": "Unholy",
+    "class": "DeathKnight",
+    "specId": 252,
+    "targets": 15,
+    "dps_no_pi": 13092807.46,
+    "dps_with_pi": 13872996.35,
+    "dps_delta": 780188.89,
+    "dps_pct_gain": 5.96,
+    "pi_dep_spell_ids": {
+      "dark_transformation": 63560
+    }
+  },
+  {
+    "spec": "Havoc",
+    "class": "DemonHunter",
+    "specId": 577,
+    "targets": 1,
+    "dps_no_pi": 2889178.07,
+    "dps_with_pi": 2958876.53,
+    "dps_delta": 69698.46,
+    "dps_pct_gain": 2.41,
+    "pi_dep_spell_ids": {
+      "metamorphosis": 162264
+    }
+  },
+  {
+    "spec": "Havoc",
+    "class": "DemonHunter",
+    "specId": 577,
+    "targets": 3,
+    "dps_no_pi": 4954153.08,
+    "dps_with_pi": 5076961.79,
+    "dps_delta": 122808.71,
+    "dps_pct_gain": 2.48,
+    "pi_dep_spell_ids": {
+      "metamorphosis": 162264
+    }
+  },
+  {
+    "spec": "Havoc",
+    "class": "DemonHunter",
+    "specId": 577,
+    "targets": 5,
+    "dps_no_pi": 6474389.06,
+    "dps_with_pi": 6619738.77,
+    "dps_delta": 145349.71,
+    "dps_pct_gain": 2.24,
+    "pi_dep_spell_ids": {
+      "metamorphosis": 162264
+    }
+  },
+  {
+    "spec": "Havoc",
+    "class": "DemonHunter",
+    "specId": 577,
+    "targets": 8,
+    "dps_no_pi": 7998595.72,
+    "dps_with_pi": 8174725.17,
+    "dps_delta": 176129.45,
+    "dps_pct_gain": 2.2,
+    "pi_dep_spell_ids": {
+      "metamorphosis": 162264
+    }
+  },
+  {
+    "spec": "Havoc",
+    "class": "DemonHunter",
+    "specId": 577,
+    "targets": 15,
+    "dps_no_pi": 10967740.95,
+    "dps_with_pi": 11184315.24,
+    "dps_delta": 216574.29,
+    "dps_pct_gain": 1.97,
+    "pi_dep_spell_ids": {
+      "metamorphosis": 162264
+    }
+  },
+  {
+    "spec": "Vengeance",
+    "class": "DemonHunter",
+    "specId": 581,
+    "targets": 1,
+    "dps_no_pi": 1519291.4,
+    "dps_with_pi": 1582615.61,
+    "dps_delta": 63324.21,
+    "dps_pct_gain": 4.17,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Vengeance",
+    "class": "DemonHunter",
+    "specId": 581,
+    "targets": 3,
+    "dps_no_pi": 3095933.52,
+    "dps_with_pi": 3206095.69,
+    "dps_delta": 110162.17,
+    "dps_pct_gain": 3.56,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Vengeance",
+    "class": "DemonHunter",
+    "specId": 581,
+    "targets": 5,
+    "dps_no_pi": 4630883.8,
+    "dps_with_pi": 4814175.47,
+    "dps_delta": 183291.67,
+    "dps_pct_gain": 3.96,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Vengeance",
+    "class": "DemonHunter",
+    "specId": 581,
+    "targets": 8,
+    "dps_no_pi": 5850416.26,
+    "dps_with_pi": 6035454.03,
+    "dps_delta": 185037.77,
+    "dps_pct_gain": 3.16,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Vengeance",
+    "class": "DemonHunter",
+    "specId": 581,
+    "targets": 15,
+    "dps_no_pi": 8369660.86,
+    "dps_with_pi": 8607411.8,
+    "dps_delta": 237750.94,
+    "dps_pct_gain": 2.84,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Balance",
+    "class": "Druid",
+    "specId": 102,
+    "targets": 1,
+    "dps_no_pi": 2747619.67,
+    "dps_with_pi": 2815617.4,
+    "dps_delta": 67997.73,
+    "dps_pct_gain": 2.47,
+    "pi_dep_spell_ids": {
+      "102560": 102560,
+      "194223": 194223
+    }
+  },
+  {
+    "spec": "Balance",
+    "class": "Druid",
+    "specId": 102,
+    "targets": 3,
+    "dps_no_pi": 4154410.75,
+    "dps_with_pi": 4299525.63,
+    "dps_delta": 145114.88,
+    "dps_pct_gain": 3.49,
+    "pi_dep_spell_ids": {
+      "102560": 102560,
+      "194223": 194223
+    }
+  },
+  {
+    "spec": "Balance",
+    "class": "Druid",
+    "specId": 102,
+    "targets": 5,
+    "dps_no_pi": 5770637.8,
+    "dps_with_pi": 5973705.19,
+    "dps_delta": 203067.39,
+    "dps_pct_gain": 3.52,
+    "pi_dep_spell_ids": {
+      "102560": 102560,
+      "194223": 194223
+    }
+  },
+  {
+    "spec": "Balance",
+    "class": "Druid",
+    "specId": 102,
+    "targets": 8,
+    "dps_no_pi": 7171614.97,
+    "dps_with_pi": 7458301.44,
+    "dps_delta": 286686.47,
+    "dps_pct_gain": 4.0,
+    "pi_dep_spell_ids": {
+      "102560": 102560,
+      "194223": 194223
+    }
+  },
+  {
+    "spec": "Balance",
+    "class": "Druid",
+    "specId": 102,
+    "targets": 15,
+    "dps_no_pi": 11900813.6,
+    "dps_with_pi": 12283867.82,
+    "dps_delta": 383054.22,
+    "dps_pct_gain": 3.22,
+    "pi_dep_spell_ids": {
+      "102560": 102560,
+      "194223": 194223
+    }
+  },
+  {
+    "spec": "Feral",
+    "class": "Druid",
+    "specId": 103,
+    "targets": 1,
+    "dps_no_pi": 2629406.77,
+    "dps_with_pi": 2736890.27,
+    "dps_delta": 107483.51,
+    "dps_pct_gain": 4.09,
+    "pi_dep_spell_ids": {
+      "106951": 106951
+    }
+  },
+  {
+    "spec": "Feral",
+    "class": "Druid",
+    "specId": 103,
+    "targets": 3,
+    "dps_no_pi": 4014327.12,
+    "dps_with_pi": 4180187.26,
+    "dps_delta": 165860.14,
+    "dps_pct_gain": 4.13,
+    "pi_dep_spell_ids": {
+      "106951": 106951
+    }
+  },
+  {
+    "spec": "Feral",
+    "class": "Druid",
+    "specId": 103,
+    "targets": 5,
+    "dps_no_pi": 4845571.59,
+    "dps_with_pi": 5026724.42,
+    "dps_delta": 181152.83,
+    "dps_pct_gain": 3.74,
+    "pi_dep_spell_ids": {
+      "106951": 106951
+    }
+  },
+  {
+    "spec": "Feral",
+    "class": "Druid",
+    "specId": 103,
+    "targets": 8,
+    "dps_no_pi": 5317499.28,
+    "dps_with_pi": 5520518.32,
+    "dps_delta": 203019.04,
+    "dps_pct_gain": 3.82,
+    "pi_dep_spell_ids": {
+      "106951": 106951
+    }
+  },
+  {
+    "spec": "Feral",
+    "class": "Druid",
+    "specId": 103,
+    "targets": 15,
+    "dps_no_pi": 6270588.12,
+    "dps_with_pi": 6506908.43,
+    "dps_delta": 236320.3,
+    "dps_pct_gain": 3.77,
+    "pi_dep_spell_ids": {
+      "106951": 106951
+    }
+  },
+  {
+    "spec": "Guardian",
+    "class": "Druid",
+    "specId": 104,
+    "targets": 1,
+    "dps_no_pi": 1771382.93,
+    "dps_with_pi": 1772221.07,
+    "dps_delta": 838.14,
+    "dps_pct_gain": 0.05,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Guardian",
+    "class": "Druid",
+    "specId": 104,
+    "targets": 3,
+    "dps_no_pi": 2602567.54,
+    "dps_with_pi": 2595645.58,
+    "dps_delta": -6921.96,
+    "dps_pct_gain": -0.27,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Guardian",
+    "class": "Druid",
+    "specId": 104,
+    "targets": 5,
+    "dps_no_pi": 3152479.07,
+    "dps_with_pi": 3152207.12,
+    "dps_delta": -271.96,
+    "dps_pct_gain": -0.01,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Guardian",
+    "class": "Druid",
+    "specId": 104,
+    "targets": 8,
+    "dps_no_pi": 4883189.89,
+    "dps_with_pi": 4883766.04,
+    "dps_delta": 576.15,
     "dps_pct_gain": 0.01,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Blood",
-    "class": "DeathKnight",
-    "specId": 250,
+    "spec": "Guardian",
+    "class": "Druid",
+    "specId": 104,
     "targets": 15,
-    "dps_no_pi": 8731664.86,
-    "dps_with_pi": 8737455.65,
-    "dps_delta": 5790.79,
-    "dps_pct_gain": 0.07,
+    "dps_no_pi": 7377773.22,
+    "dps_with_pi": 7365060.3,
+    "dps_delta": -12712.92,
+    "dps_pct_gain": -0.17,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Frost",
-    "class": "DeathKnight",
-    "specId": 251,
+    "spec": "Devastation",
+    "class": "Evoker",
+    "specId": 1467,
     "targets": 1,
-    "dps_no_pi": 2851658.73,
-    "dps_with_pi": 2969445.96,
-    "dps_delta": 117787.23,
-    "dps_pct_gain": 4.13,
+    "dps_no_pi": 2963988.19,
+    "dps_with_pi": 3123475.88,
+    "dps_delta": 159487.69,
+    "dps_pct_gain": 5.38,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": null,
-      "pillar_of_frost": 51271
+      "dragonrage": 375087
     }
   },
   {
-    "spec": "Frost",
-    "class": "DeathKnight",
-    "specId": 251,
+    "spec": "Devastation",
+    "class": "Evoker",
+    "specId": 1467,
     "targets": 3,
-    "dps_no_pi": 6144542.72,
-    "dps_with_pi": 6407609.78,
-    "dps_delta": 263067.06,
-    "dps_pct_gain": 4.28,
+    "dps_no_pi": 4484911.36,
+    "dps_with_pi": 4738819.63,
+    "dps_delta": 253908.27,
+    "dps_pct_gain": 5.66,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": null,
-      "pillar_of_frost": 51271
+      "dragonrage": 375087
     }
   },
   {
-    "spec": "Frost",
-    "class": "DeathKnight",
-    "specId": 251,
+    "spec": "Devastation",
+    "class": "Evoker",
+    "specId": 1467,
     "targets": 5,
-    "dps_no_pi": 8020409.01,
-    "dps_with_pi": 8406361.39,
-    "dps_delta": 385952.38,
-    "dps_pct_gain": 4.81,
+    "dps_no_pi": 6439950.38,
+    "dps_with_pi": 6851658.47,
+    "dps_delta": 411708.08,
+    "dps_pct_gain": 6.39,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": null,
-      "pillar_of_frost": 51271
+      "dragonrage": 375087
     }
   },
   {
-    "spec": "Frost",
-    "class": "DeathKnight",
-    "specId": 251,
+    "spec": "Devastation",
+    "class": "Evoker",
+    "specId": 1467,
     "targets": 8,
-    "dps_no_pi": 10308912.52,
-    "dps_with_pi": 10786909.83,
-    "dps_delta": 477997.32,
-    "dps_pct_gain": 4.64,
+    "dps_no_pi": 8459505.59,
+    "dps_with_pi": 8977639.75,
+    "dps_delta": 518134.16,
+    "dps_pct_gain": 6.12,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": null,
-      "pillar_of_frost": 51271
+      "dragonrage": 375087
     }
   },
   {
-    "spec": "Frost",
-    "class": "DeathKnight",
-    "specId": 251,
+    "spec": "Devastation",
+    "class": "Evoker",
+    "specId": 1467,
     "targets": 15,
-    "dps_no_pi": 14913389.55,
-    "dps_with_pi": 15541787.44,
-    "dps_delta": 628397.89,
-    "dps_pct_gain": 4.21,
+    "dps_no_pi": 12703476.29,
+    "dps_with_pi": 13451094.83,
+    "dps_delta": 747618.54,
+    "dps_pct_gain": 5.89,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": null,
-      "pillar_of_frost": 51271
+      "dragonrage": 375087
     }
   },
   {
-    "spec": "Unholy",
-    "class": "DeathKnight",
-    "specId": 252,
+    "spec": "Marksmanship",
+    "class": "Hunter",
+    "specId": 254,
     "targets": 1,
-    "dps_no_pi": 2761963.9,
-    "dps_with_pi": 2903989.86,
-    "dps_delta": 142025.96,
-    "dps_pct_gain": 5.14,
+    "dps_no_pi": 2728224.63,
+    "dps_with_pi": 2846334.37,
+    "dps_delta": 118109.74,
+    "dps_pct_gain": 4.33,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "trueshot": 288613
     }
   },
   {
-    "spec": "Unholy",
-    "class": "DeathKnight",
-    "specId": 252,
+    "spec": "Marksmanship",
+    "class": "Hunter",
+    "specId": 254,
     "targets": 3,
-    "dps_no_pi": 4657866.22,
-    "dps_with_pi": 4850685.34,
-    "dps_delta": 192819.12,
-    "dps_pct_gain": 4.14,
+    "dps_no_pi": 3636592.94,
+    "dps_with_pi": 3818622.67,
+    "dps_delta": 182029.73,
+    "dps_pct_gain": 5.01,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "trueshot": 288613
     }
   },
   {
-    "spec": "Unholy",
-    "class": "DeathKnight",
-    "specId": 252,
+    "spec": "Marksmanship",
+    "class": "Hunter",
+    "specId": 254,
     "targets": 5,
-    "dps_no_pi": 5561703.75,
-    "dps_with_pi": 5956449.94,
-    "dps_delta": 394746.19,
-    "dps_pct_gain": 7.1,
+    "dps_no_pi": 4561343.58,
+    "dps_with_pi": 4779397.08,
+    "dps_delta": 218053.5,
+    "dps_pct_gain": 4.78,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "trueshot": 288613
     }
   },
   {
-    "spec": "Unholy",
-    "class": "DeathKnight",
-    "specId": 252,
+    "spec": "Marksmanship",
+    "class": "Hunter",
+    "specId": 254,
     "targets": 8,
-    "dps_no_pi": 9221426.29,
-    "dps_with_pi": 9781827.05,
-    "dps_delta": 560400.76,
-    "dps_pct_gain": 6.08,
+    "dps_no_pi": 5159826.04,
+    "dps_with_pi": 5397906.87,
+    "dps_delta": 238080.83,
+    "dps_pct_gain": 4.61,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "trueshot": 288613
     }
   },
   {
-    "spec": "Unholy",
-    "class": "DeathKnight",
-    "specId": 252,
+    "spec": "Marksmanship",
+    "class": "Hunter",
+    "specId": 254,
     "targets": 15,
-    "dps_no_pi": 13085635.81,
-    "dps_with_pi": 13841239.91,
-    "dps_delta": 755604.1,
-    "dps_pct_gain": 5.77,
+    "dps_no_pi": 5980939.27,
+    "dps_with_pi": 6280297.02,
+    "dps_delta": 299357.75,
+    "dps_pct_gain": 5.01,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "trueshot": 288613
     }
   },
   {
-    "spec": "Havoc",
-    "class": "DemonHunter",
-    "specId": 577,
+    "spec": "Arcane",
+    "class": "Mage",
+    "specId": 62,
     "targets": 1,
-    "dps_no_pi": 2879474.45,
-    "dps_with_pi": 2957776.7,
-    "dps_delta": 78302.25,
+    "dps_no_pi": 2782754.65,
+    "dps_with_pi": 2886699.78,
+    "dps_delta": 103945.13,
+    "dps_pct_gain": 3.74,
+    "pi_dep_spell_ids": {
+      "365362": 365362
+    }
+  },
+  {
+    "spec": "Arcane",
+    "class": "Mage",
+    "specId": 62,
+    "targets": 3,
+    "dps_no_pi": 5309457.27,
+    "dps_with_pi": 5471248.76,
+    "dps_delta": 161791.49,
+    "dps_pct_gain": 3.05,
+    "pi_dep_spell_ids": {
+      "365362": 365362
+    }
+  },
+  {
+    "spec": "Arcane",
+    "class": "Mage",
+    "specId": 62,
+    "targets": 5,
+    "dps_no_pi": 7528238.73,
+    "dps_with_pi": 7756402.6,
+    "dps_delta": 228163.86,
+    "dps_pct_gain": 3.03,
+    "pi_dep_spell_ids": {
+      "365362": 365362
+    }
+  },
+  {
+    "spec": "Arcane",
+    "class": "Mage",
+    "specId": 62,
+    "targets": 8,
+    "dps_no_pi": 8580348.67,
+    "dps_with_pi": 8852269.35,
+    "dps_delta": 271920.68,
+    "dps_pct_gain": 3.17,
+    "pi_dep_spell_ids": {
+      "365362": 365362
+    }
+  },
+  {
+    "spec": "Arcane",
+    "class": "Mage",
+    "specId": 62,
+    "targets": 15,
+    "dps_no_pi": 10363437.82,
+    "dps_with_pi": 10682374.56,
+    "dps_delta": 318936.74,
+    "dps_pct_gain": 3.08,
+    "pi_dep_spell_ids": {
+      "365362": 365362
+    }
+  },
+  {
+    "spec": "Fire",
+    "class": "Mage",
+    "specId": 63,
+    "targets": 1,
+    "dps_no_pi": 2689983.55,
+    "dps_with_pi": 2799957.98,
+    "dps_delta": 109974.43,
+    "dps_pct_gain": 4.09,
+    "pi_dep_spell_ids": {
+      "combustion": 190319
+    }
+  },
+  {
+    "spec": "Fire",
+    "class": "Mage",
+    "specId": 63,
+    "targets": 3,
+    "dps_no_pi": 5076422.06,
+    "dps_with_pi": 5283821.19,
+    "dps_delta": 207399.13,
+    "dps_pct_gain": 4.09,
+    "pi_dep_spell_ids": {
+      "combustion": 190319
+    }
+  },
+  {
+    "spec": "Fire",
+    "class": "Mage",
+    "specId": 63,
+    "targets": 5,
+    "dps_no_pi": 6990103.15,
+    "dps_with_pi": 7258503.64,
+    "dps_delta": 268400.49,
+    "dps_pct_gain": 3.84,
+    "pi_dep_spell_ids": {
+      "combustion": 190319
+    }
+  },
+  {
+    "spec": "Fire",
+    "class": "Mage",
+    "specId": 63,
+    "targets": 8,
+    "dps_no_pi": 9916675.84,
+    "dps_with_pi": 10333134.47,
+    "dps_delta": 416458.63,
+    "dps_pct_gain": 4.2,
+    "pi_dep_spell_ids": {
+      "combustion": 190319
+    }
+  },
+  {
+    "spec": "Fire",
+    "class": "Mage",
+    "specId": 63,
+    "targets": 15,
+    "dps_no_pi": 14625588.31,
+    "dps_with_pi": 15333221.69,
+    "dps_delta": 707633.38,
+    "dps_pct_gain": 4.84,
+    "pi_dep_spell_ids": {
+      "combustion": 190319
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "Mage",
+    "specId": 64,
+    "targets": 1,
+    "dps_no_pi": 2803079.65,
+    "dps_with_pi": 2854374.69,
+    "dps_delta": 51295.04,
+    "dps_pct_gain": 1.83,
+    "pi_dep_spell_ids": {
+      "12472": 12472
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "Mage",
+    "specId": 64,
+    "targets": 3,
+    "dps_no_pi": 4517582.92,
+    "dps_with_pi": 4626325.99,
+    "dps_delta": 108743.07,
+    "dps_pct_gain": 2.41,
+    "pi_dep_spell_ids": {
+      "12472": 12472
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "Mage",
+    "specId": 64,
+    "targets": 5,
+    "dps_no_pi": 5414314.1,
+    "dps_with_pi": 5542265.52,
+    "dps_delta": 127951.41,
+    "dps_pct_gain": 2.36,
+    "pi_dep_spell_ids": {
+      "12472": 12472
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "Mage",
+    "specId": 64,
+    "targets": 8,
+    "dps_no_pi": 6674226.65,
+    "dps_with_pi": 6808029.14,
+    "dps_delta": 133802.49,
+    "dps_pct_gain": 2.0,
+    "pi_dep_spell_ids": {
+      "12472": 12472
+    }
+  },
+  {
+    "spec": "Frost",
+    "class": "Mage",
+    "specId": 64,
+    "targets": 15,
+    "dps_no_pi": 8343453.78,
+    "dps_with_pi": 8515360.69,
+    "dps_delta": 171906.91,
+    "dps_pct_gain": 2.06,
+    "pi_dep_spell_ids": {
+      "12472": 12472
+    }
+  },
+  {
+    "spec": "Brewmaster",
+    "class": "Monk",
+    "specId": 268,
+    "targets": 1,
+    "dps_no_pi": 1161924.65,
+    "dps_with_pi": 1161967.54,
+    "dps_delta": 42.89,
+    "dps_pct_gain": 0.0,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Brewmaster",
+    "class": "Monk",
+    "specId": 268,
+    "targets": 3,
+    "dps_no_pi": 2060009.18,
+    "dps_with_pi": 2056216.89,
+    "dps_delta": -3792.29,
+    "dps_pct_gain": -0.18,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Brewmaster",
+    "class": "Monk",
+    "specId": 268,
+    "targets": 5,
+    "dps_no_pi": 2562986.92,
+    "dps_with_pi": 2556446.49,
+    "dps_delta": -6540.43,
+    "dps_pct_gain": -0.26,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Brewmaster",
+    "class": "Monk",
+    "specId": 268,
+    "targets": 8,
+    "dps_no_pi": 3117011.21,
+    "dps_with_pi": 3115827.82,
+    "dps_delta": -1183.38,
+    "dps_pct_gain": -0.04,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Brewmaster",
+    "class": "Monk",
+    "specId": 268,
+    "targets": 15,
+    "dps_no_pi": 4296094.92,
+    "dps_with_pi": 4277200.37,
+    "dps_delta": -18894.55,
+    "dps_pct_gain": -0.44,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Windwalker",
+    "class": "Monk",
+    "specId": 269,
+    "targets": 1,
+    "dps_no_pi": 2849459.17,
+    "dps_with_pi": 2947713.68,
+    "dps_delta": 98254.51,
+    "dps_pct_gain": 3.45,
+    "pi_dep_spell_ids": {
+      "bloodlust": 2825
+    }
+  },
+  {
+    "spec": "Windwalker",
+    "class": "Monk",
+    "specId": 269,
+    "targets": 3,
+    "dps_no_pi": 4733046.67,
+    "dps_with_pi": 4918946.53,
+    "dps_delta": 185899.86,
+    "dps_pct_gain": 3.93,
+    "pi_dep_spell_ids": {
+      "bloodlust": 2825
+    }
+  },
+  {
+    "spec": "Windwalker",
+    "class": "Monk",
+    "specId": 269,
+    "targets": 5,
+    "dps_no_pi": 7013359.67,
+    "dps_with_pi": 7325785.86,
+    "dps_delta": 312426.19,
+    "dps_pct_gain": 4.45,
+    "pi_dep_spell_ids": {
+      "bloodlust": 2825
+    }
+  },
+  {
+    "spec": "Windwalker",
+    "class": "Monk",
+    "specId": 269,
+    "targets": 8,
+    "dps_no_pi": 8382357.87,
+    "dps_with_pi": 8794192.84,
+    "dps_delta": 411834.96,
+    "dps_pct_gain": 4.91,
+    "pi_dep_spell_ids": {
+      "bloodlust": 2825
+    }
+  },
+  {
+    "spec": "Windwalker",
+    "class": "Monk",
+    "specId": 269,
+    "targets": 15,
+    "dps_no_pi": 10717156.82,
+    "dps_with_pi": 11201881.9,
+    "dps_delta": 484725.08,
+    "dps_pct_gain": 4.52,
+    "pi_dep_spell_ids": {
+      "bloodlust": 2825
+    }
+  },
+  {
+    "spec": "Protection",
+    "class": "Paladin",
+    "specId": 66,
+    "targets": 1,
+    "dps_no_pi": 1443190.17,
+    "dps_with_pi": 1497359.43,
+    "dps_delta": 54169.27,
+    "dps_pct_gain": 3.75,
+    "pi_dep_spell_ids": {
+      "avenging_wrath": 31884
+    }
+  },
+  {
+    "spec": "Protection",
+    "class": "Paladin",
+    "specId": 66,
+    "targets": 3,
+    "dps_no_pi": 2540276.07,
+    "dps_with_pi": 2648298.74,
+    "dps_delta": 108022.67,
+    "dps_pct_gain": 4.25,
+    "pi_dep_spell_ids": {
+      "avenging_wrath": 31884
+    }
+  },
+  {
+    "spec": "Protection",
+    "class": "Paladin",
+    "specId": 66,
+    "targets": 5,
+    "dps_no_pi": 3586127.45,
+    "dps_with_pi": 3720409.49,
+    "dps_delta": 134282.03,
+    "dps_pct_gain": 3.74,
+    "pi_dep_spell_ids": {
+      "avenging_wrath": 31884
+    }
+  },
+  {
+    "spec": "Protection",
+    "class": "Paladin",
+    "specId": 66,
+    "targets": 8,
+    "dps_no_pi": 4631250.78,
+    "dps_with_pi": 4799311.2,
+    "dps_delta": 168060.42,
+    "dps_pct_gain": 3.63,
+    "pi_dep_spell_ids": {
+      "avenging_wrath": 31884
+    }
+  },
+  {
+    "spec": "Protection",
+    "class": "Paladin",
+    "specId": 66,
+    "targets": 15,
+    "dps_no_pi": 6990325.98,
+    "dps_with_pi": 7208785.25,
+    "dps_delta": 218459.27,
+    "dps_pct_gain": 3.13,
+    "pi_dep_spell_ids": {
+      "avenging_wrath": 31884
+    }
+  },
+  {
+    "spec": "Retribution",
+    "class": "Paladin",
+    "specId": 70,
+    "targets": 1,
+    "dps_no_pi": 2701670.6,
+    "dps_with_pi": 2776509.73,
+    "dps_delta": 74839.13,
+    "dps_pct_gain": 2.77,
+    "pi_dep_spell_ids": {
+      "crusade": 231895
+    }
+  },
+  {
+    "spec": "Retribution",
+    "class": "Paladin",
+    "specId": 70,
+    "targets": 3,
+    "dps_no_pi": 4731290.24,
+    "dps_with_pi": 4869793.35,
+    "dps_delta": 138503.11,
+    "dps_pct_gain": 2.93,
+    "pi_dep_spell_ids": {
+      "crusade": 231895
+    }
+  },
+  {
+    "spec": "Retribution",
+    "class": "Paladin",
+    "specId": 70,
+    "targets": 5,
+    "dps_no_pi": 7168430.9,
+    "dps_with_pi": 7356648.04,
+    "dps_delta": 188217.14,
+    "dps_pct_gain": 2.63,
+    "pi_dep_spell_ids": {
+      "crusade": 231895
+    }
+  },
+  {
+    "spec": "Retribution",
+    "class": "Paladin",
+    "specId": 70,
+    "targets": 8,
+    "dps_no_pi": 9709543.63,
+    "dps_with_pi": 10076762.95,
+    "dps_delta": 367219.32,
+    "dps_pct_gain": 3.78,
+    "pi_dep_spell_ids": {
+      "crusade": 231895
+    }
+  },
+  {
+    "spec": "Retribution",
+    "class": "Paladin",
+    "specId": 70,
+    "targets": 15,
+    "dps_no_pi": 14789767.74,
+    "dps_with_pi": 15269237.4,
+    "dps_delta": 479469.66,
+    "dps_pct_gain": 3.24,
+    "pi_dep_spell_ids": {
+      "crusade": 231895
+    }
+  },
+  {
+    "spec": "Shadow",
+    "class": "Priest",
+    "specId": 258,
+    "targets": 1,
+    "dps_no_pi": 2669287.7,
+    "dps_with_pi": 2728957.27,
+    "dps_delta": 59669.57,
+    "dps_pct_gain": 2.24,
+    "pi_dep_spell_ids": {
+      "power_infusion": 10060,
+      "dark_ascension": 391109
+    }
+  },
+  {
+    "spec": "Shadow",
+    "class": "Priest",
+    "specId": 258,
+    "targets": 3,
+    "dps_no_pi": 4367747.89,
+    "dps_with_pi": 4477739.45,
+    "dps_delta": 109991.56,
+    "dps_pct_gain": 2.52,
+    "pi_dep_spell_ids": {
+      "power_infusion": 10060,
+      "dark_ascension": 391109
+    }
+  },
+  {
+    "spec": "Shadow",
+    "class": "Priest",
+    "specId": 258,
+    "targets": 5,
+    "dps_no_pi": 5848006.37,
+    "dps_with_pi": 6006091.87,
+    "dps_delta": 158085.5,
+    "dps_pct_gain": 2.7,
+    "pi_dep_spell_ids": {
+      "power_infusion": 10060,
+      "dark_ascension": 391109
+    }
+  },
+  {
+    "spec": "Shadow",
+    "class": "Priest",
+    "specId": 258,
+    "targets": 8,
+    "dps_no_pi": 7582642.91,
+    "dps_with_pi": 7814522.25,
+    "dps_delta": 231879.35,
+    "dps_pct_gain": 3.06,
+    "pi_dep_spell_ids": {
+      "power_infusion": 10060,
+      "dark_ascension": 391109
+    }
+  },
+  {
+    "spec": "Shadow",
+    "class": "Priest",
+    "specId": 258,
+    "targets": 15,
+    "dps_no_pi": 9442722.56,
+    "dps_with_pi": 9799462.58,
+    "dps_delta": 356740.02,
+    "dps_pct_gain": 3.78,
+    "pi_dep_spell_ids": {
+      "power_infusion": 10060,
+      "dark_ascension": 391109
+    }
+  },
+  {
+    "spec": "Assassination",
+    "class": "Rogue",
+    "specId": 259,
+    "targets": 1,
+    "dps_no_pi": 2438742.47,
+    "dps_with_pi": 2530077.52,
+    "dps_delta": 91335.05,
+    "dps_pct_gain": 3.75,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Assassination",
+    "class": "Rogue",
+    "specId": 259,
+    "targets": 3,
+    "dps_no_pi": 3455484.55,
+    "dps_with_pi": 3586211.01,
+    "dps_delta": 130726.46,
+    "dps_pct_gain": 3.78,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Assassination",
+    "class": "Rogue",
+    "specId": 259,
+    "targets": 5,
+    "dps_no_pi": 4319389.75,
+    "dps_with_pi": 4464179.38,
+    "dps_delta": 144789.63,
+    "dps_pct_gain": 3.35,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Assassination",
+    "class": "Rogue",
+    "specId": 259,
+    "targets": 8,
+    "dps_no_pi": 5268960.24,
+    "dps_with_pi": 5421732.86,
+    "dps_delta": 152772.62,
+    "dps_pct_gain": 2.9,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Assassination",
+    "class": "Rogue",
+    "specId": 259,
+    "targets": 15,
+    "dps_no_pi": 6243585.91,
+    "dps_with_pi": 6424756.45,
+    "dps_delta": 181170.55,
+    "dps_pct_gain": 2.9,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Outlaw",
+    "class": "Rogue",
+    "specId": 260,
+    "targets": 1,
+    "dps_no_pi": 2783761.23,
+    "dps_with_pi": 2778407.92,
+    "dps_delta": -5353.31,
+    "dps_pct_gain": -0.19,
+    "pi_dep_spell_ids": {
+      "13750": 13750
+    }
+  },
+  {
+    "spec": "Outlaw",
+    "class": "Rogue",
+    "specId": 260,
+    "targets": 3,
+    "dps_no_pi": 5181616.36,
+    "dps_with_pi": 5184748.52,
+    "dps_delta": 3132.16,
+    "dps_pct_gain": 0.06,
+    "pi_dep_spell_ids": {
+      "13750": 13750
+    }
+  },
+  {
+    "spec": "Outlaw",
+    "class": "Rogue",
+    "specId": 260,
+    "targets": 5,
+    "dps_no_pi": 7436580.73,
+    "dps_with_pi": 7448675.68,
+    "dps_delta": 12094.94,
+    "dps_pct_gain": 0.16,
+    "pi_dep_spell_ids": {
+      "13750": 13750
+    }
+  },
+  {
+    "spec": "Outlaw",
+    "class": "Rogue",
+    "specId": 260,
+    "targets": 8,
+    "dps_no_pi": 7487968.11,
+    "dps_with_pi": 7466294.68,
+    "dps_delta": -21673.44,
+    "dps_pct_gain": -0.29,
+    "pi_dep_spell_ids": {
+      "13750": 13750
+    }
+  },
+  {
+    "spec": "Outlaw",
+    "class": "Rogue",
+    "specId": 260,
+    "targets": 15,
+    "dps_no_pi": 7568528.5,
+    "dps_with_pi": 7569809.4,
+    "dps_delta": 1280.89,
+    "dps_pct_gain": 0.02,
+    "pi_dep_spell_ids": {
+      "13750": 13750
+    }
+  },
+  {
+    "spec": "Subtlety",
+    "class": "Rogue",
+    "specId": 261,
+    "targets": 1,
+    "dps_no_pi": 2544355.48,
+    "dps_with_pi": 2591946.24,
+    "dps_delta": 47590.76,
+    "dps_pct_gain": 1.87,
+    "pi_dep_spell_ids": {
+      "shadow_dance": 185313
+    }
+  },
+  {
+    "spec": "Subtlety",
+    "class": "Rogue",
+    "specId": 261,
+    "targets": 3,
+    "dps_no_pi": 4681663.65,
+    "dps_with_pi": 4769278.88,
+    "dps_delta": 87615.23,
+    "dps_pct_gain": 1.87,
+    "pi_dep_spell_ids": {
+      "shadow_dance": 185313
+    }
+  },
+  {
+    "spec": "Subtlety",
+    "class": "Rogue",
+    "specId": 261,
+    "targets": 5,
+    "dps_no_pi": 7005963.34,
+    "dps_with_pi": 7120058.27,
+    "dps_delta": 114094.93,
+    "dps_pct_gain": 1.63,
+    "pi_dep_spell_ids": {
+      "shadow_dance": 185313
+    }
+  },
+  {
+    "spec": "Subtlety",
+    "class": "Rogue",
+    "specId": 261,
+    "targets": 8,
+    "dps_no_pi": 10203839.91,
+    "dps_with_pi": 10348776.63,
+    "dps_delta": 144936.73,
+    "dps_pct_gain": 1.42,
+    "pi_dep_spell_ids": {
+      "shadow_dance": 185313
+    }
+  },
+  {
+    "spec": "Subtlety",
+    "class": "Rogue",
+    "specId": 261,
+    "targets": 15,
+    "dps_no_pi": 11542411.78,
+    "dps_with_pi": 11751349.25,
+    "dps_delta": 208937.47,
+    "dps_pct_gain": 1.81,
+    "pi_dep_spell_ids": {
+      "shadow_dance": 185313
+    }
+  },
+  {
+    "spec": "Elemental",
+    "class": "Shaman",
+    "specId": 262,
+    "targets": 1,
+    "dps_no_pi": 2882332.46,
+    "dps_with_pi": 2963624.71,
+    "dps_delta": 81292.26,
+    "dps_pct_gain": 2.82,
+    "pi_dep_spell_ids": {
+      "ascendance": 1219480
+    }
+  },
+  {
+    "spec": "Elemental",
+    "class": "Shaman",
+    "specId": 262,
+    "targets": 3,
+    "dps_no_pi": 5068074.41,
+    "dps_with_pi": 5205902.29,
+    "dps_delta": 137827.88,
     "dps_pct_gain": 2.72,
     "pi_dep_spell_ids": {
-      "metamorphosis": 162264
+      "ascendance": 1219480
     }
   },
   {
-    "spec": "Havoc",
-    "class": "DemonHunter",
-    "specId": 577,
-    "targets": 3,
-    "dps_no_pi": 4965006.78,
-    "dps_with_pi": 5081019.04,
-    "dps_delta": 116012.26,
-    "dps_pct_gain": 2.34,
-    "pi_dep_spell_ids": {
-      "metamorphosis": 162264
-    }
-  },
-  {
-    "spec": "Havoc",
-    "class": "DemonHunter",
-    "specId": 577,
+    "spec": "Elemental",
+    "class": "Shaman",
+    "specId": 262,
     "targets": 5,
-    "dps_no_pi": 6476552.97,
-    "dps_with_pi": 6624868.51,
-    "dps_delta": 148315.55,
+    "dps_no_pi": 8311388.13,
+    "dps_with_pi": 8501739.63,
+    "dps_delta": 190351.5,
     "dps_pct_gain": 2.29,
     "pi_dep_spell_ids": {
-      "metamorphosis": 162264
+      "ascendance": 1219480
     }
   },
   {
-    "spec": "Havoc",
-    "class": "DemonHunter",
-    "specId": 577,
+    "spec": "Elemental",
+    "class": "Shaman",
+    "specId": 262,
     "targets": 8,
-    "dps_no_pi": 8011541.24,
-    "dps_with_pi": 8179673.05,
-    "dps_delta": 168131.81,
-    "dps_pct_gain": 2.1,
+    "dps_no_pi": 9938404.2,
+    "dps_with_pi": 10130355.66,
+    "dps_delta": 191951.47,
+    "dps_pct_gain": 1.93,
     "pi_dep_spell_ids": {
-      "metamorphosis": 162264
+      "ascendance": 1219480
     }
   },
   {
-    "spec": "Havoc",
-    "class": "DemonHunter",
-    "specId": 577,
+    "spec": "Elemental",
+    "class": "Shaman",
+    "specId": 262,
     "targets": 15,
-    "dps_no_pi": 10979810.08,
-    "dps_with_pi": 11203282.63,
-    "dps_delta": 223472.56,
-    "dps_pct_gain": 2.04,
+    "dps_no_pi": 13077623.57,
+    "dps_with_pi": 13322186.46,
+    "dps_delta": 244562.89,
+    "dps_pct_gain": 1.87,
     "pi_dep_spell_ids": {
-      "metamorphosis": 162264
+      "ascendance": 1219480
     }
   },
   {
-    "spec": "Vengeance",
-    "class": "DemonHunter",
-    "specId": 581,
+    "spec": "Enhancement",
+    "class": "Shaman",
+    "specId": 263,
     "targets": 1,
-    "dps_no_pi": 1518094.95,
-    "dps_with_pi": 1578066.82,
-    "dps_delta": 59971.87,
-    "dps_pct_gain": 3.95,
-    "pi_dep_spell_ids": {}
+    "dps_no_pi": 2664210.73,
+    "dps_with_pi": 2746754.09,
+    "dps_delta": 82543.35,
+    "dps_pct_gain": 3.1,
+    "pi_dep_spell_ids": {
+      "feral_spirit": 333957,
+      "doom_winds": 466772
+    }
   },
   {
-    "spec": "Vengeance",
-    "class": "DemonHunter",
-    "specId": 581,
+    "spec": "Enhancement",
+    "class": "Shaman",
+    "specId": 263,
     "targets": 3,
-    "dps_no_pi": 3099028.02,
-    "dps_with_pi": 3212254.43,
-    "dps_delta": 113226.41,
-    "dps_pct_gain": 3.65,
-    "pi_dep_spell_ids": {}
+    "dps_no_pi": 4806374.31,
+    "dps_with_pi": 4997950.88,
+    "dps_delta": 191576.58,
+    "dps_pct_gain": 3.99,
+    "pi_dep_spell_ids": {
+      "feral_spirit": 333957,
+      "doom_winds": 466772
+    }
   },
   {
-    "spec": "Vengeance",
-    "class": "DemonHunter",
-    "specId": 581,
+    "spec": "Enhancement",
+    "class": "Shaman",
+    "specId": 263,
     "targets": 5,
-    "dps_no_pi": 4631335.74,
-    "dps_with_pi": 4809574.2,
-    "dps_delta": 178238.45,
-    "dps_pct_gain": 3.85,
-    "pi_dep_spell_ids": {}
+    "dps_no_pi": 7354445.29,
+    "dps_with_pi": 7729719.82,
+    "dps_delta": 375274.54,
+    "dps_pct_gain": 5.1,
+    "pi_dep_spell_ids": {
+      "feral_spirit": 333957,
+      "doom_winds": 466772
+    }
   },
   {
-    "spec": "Vengeance",
-    "class": "DemonHunter",
-    "specId": 581,
+    "spec": "Enhancement",
+    "class": "Shaman",
+    "specId": 263,
     "targets": 8,
-    "dps_no_pi": 5862101.33,
-    "dps_with_pi": 6026887.82,
-    "dps_delta": 164786.49,
-    "dps_pct_gain": 2.81,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Vengeance",
-    "class": "DemonHunter",
-    "specId": 581,
-    "targets": 15,
-    "dps_no_pi": 8361396.23,
-    "dps_with_pi": 8626614.69,
-    "dps_delta": 265218.46,
-    "dps_pct_gain": 3.17,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Balance",
-    "class": "Druid",
-    "specId": 102,
-    "targets": 1,
-    "dps_no_pi": 2741365.46,
-    "dps_with_pi": 2813073.46,
-    "dps_delta": 71708.0,
-    "dps_pct_gain": 2.62,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Balance",
-    "class": "Druid",
-    "specId": 102,
-    "targets": 3,
-    "dps_no_pi": 4151802.33,
-    "dps_with_pi": 4295553.78,
-    "dps_delta": 143751.45,
-    "dps_pct_gain": 3.46,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Balance",
-    "class": "Druid",
-    "specId": 102,
-    "targets": 5,
-    "dps_no_pi": 5774939.02,
-    "dps_with_pi": 5964479.78,
-    "dps_delta": 189540.76,
-    "dps_pct_gain": 3.28,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Balance",
-    "class": "Druid",
-    "specId": 102,
-    "targets": 8,
-    "dps_no_pi": 7142069.47,
-    "dps_with_pi": 7412703.28,
-    "dps_delta": 270633.81,
-    "dps_pct_gain": 3.79,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Balance",
-    "class": "Druid",
-    "specId": 102,
-    "targets": 15,
-    "dps_no_pi": 11906645.61,
-    "dps_with_pi": 12297369.91,
-    "dps_delta": 390724.3,
-    "dps_pct_gain": 3.28,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Feral",
-    "class": "Druid",
-    "specId": 103,
-    "targets": 1,
-    "dps_no_pi": 2634044.2,
-    "dps_with_pi": 2745462.84,
-    "dps_delta": 111418.64,
-    "dps_pct_gain": 4.23,
-    "pi_dep_spell_ids": {
-      "bs_inc": null
-    }
-  },
-  {
-    "spec": "Feral",
-    "class": "Druid",
-    "specId": 103,
-    "targets": 3,
-    "dps_no_pi": 4008980.65,
-    "dps_with_pi": 4158429.37,
-    "dps_delta": 149448.72,
-    "dps_pct_gain": 3.73,
-    "pi_dep_spell_ids": {
-      "bs_inc": null
-    }
-  },
-  {
-    "spec": "Feral",
-    "class": "Druid",
-    "specId": 103,
-    "targets": 5,
-    "dps_no_pi": 4853525.39,
-    "dps_with_pi": 5024535.96,
-    "dps_delta": 171010.57,
-    "dps_pct_gain": 3.52,
-    "pi_dep_spell_ids": {
-      "bs_inc": null
-    }
-  },
-  {
-    "spec": "Feral",
-    "class": "Druid",
-    "specId": 103,
-    "targets": 8,
-    "dps_no_pi": 5337673.91,
-    "dps_with_pi": 5532393.87,
-    "dps_delta": 194719.96,
-    "dps_pct_gain": 3.65,
-    "pi_dep_spell_ids": {
-      "bs_inc": null
-    }
-  },
-  {
-    "spec": "Feral",
-    "class": "Druid",
-    "specId": 103,
-    "targets": 15,
-    "dps_no_pi": 6258982.57,
-    "dps_with_pi": 6506421.41,
-    "dps_delta": 247438.84,
-    "dps_pct_gain": 3.95,
-    "pi_dep_spell_ids": {
-      "bs_inc": null
-    }
-  },
-  {
-    "spec": "Guardian",
-    "class": "Druid",
-    "specId": 104,
-    "targets": 1,
-    "dps_no_pi": 1771818.13,
-    "dps_with_pi": 1771756.97,
-    "dps_delta": -61.16,
-    "dps_pct_gain": -0.0,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Guardian",
-    "class": "Druid",
-    "specId": 104,
-    "targets": 3,
-    "dps_no_pi": 2598822.25,
-    "dps_with_pi": 2602013.42,
-    "dps_delta": 3191.17,
-    "dps_pct_gain": 0.12,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Guardian",
-    "class": "Druid",
-    "specId": 104,
-    "targets": 5,
-    "dps_no_pi": 3141038.09,
-    "dps_with_pi": 3152852.25,
-    "dps_delta": 11814.16,
-    "dps_pct_gain": 0.38,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Guardian",
-    "class": "Druid",
-    "specId": 104,
-    "targets": 8,
-    "dps_no_pi": 4884794.12,
-    "dps_with_pi": 4882309.64,
-    "dps_delta": -2484.47,
-    "dps_pct_gain": -0.05,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Guardian",
-    "class": "Druid",
-    "specId": 104,
-    "targets": 15,
-    "dps_no_pi": 7373183.86,
-    "dps_with_pi": 7384704.71,
-    "dps_delta": 11520.85,
-    "dps_pct_gain": 0.16,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Devastation",
-    "class": "Evoker",
-    "specId": 1467,
-    "targets": 1,
-    "dps_no_pi": 2961198.83,
-    "dps_with_pi": 3119471.22,
-    "dps_delta": 158272.39,
-    "dps_pct_gain": 5.34,
-    "pi_dep_spell_ids": {
-      "dragonrage": 375087,
-      "shattering_star_debuff": null
-    }
-  },
-  {
-    "spec": "Devastation",
-    "class": "Evoker",
-    "specId": 1467,
-    "targets": 3,
-    "dps_no_pi": 4483312.84,
-    "dps_with_pi": 4743325.69,
-    "dps_delta": 260012.84,
-    "dps_pct_gain": 5.8,
-    "pi_dep_spell_ids": {
-      "dragonrage": 375087,
-      "shattering_star_debuff": null
-    }
-  },
-  {
-    "spec": "Devastation",
-    "class": "Evoker",
-    "specId": 1467,
-    "targets": 5,
-    "dps_no_pi": 6454143.32,
-    "dps_with_pi": 6852910.33,
-    "dps_delta": 398767.02,
-    "dps_pct_gain": 6.18,
-    "pi_dep_spell_ids": {
-      "dragonrage": 375087,
-      "shattering_star_debuff": null
-    }
-  },
-  {
-    "spec": "Devastation",
-    "class": "Evoker",
-    "specId": 1467,
-    "targets": 8,
-    "dps_no_pi": 8457258.5,
-    "dps_with_pi": 8985232.55,
-    "dps_delta": 527974.06,
-    "dps_pct_gain": 6.24,
-    "pi_dep_spell_ids": {
-      "dragonrage": 375087,
-      "shattering_star_debuff": null
-    }
-  },
-  {
-    "spec": "Devastation",
-    "class": "Evoker",
-    "specId": 1467,
-    "targets": 15,
-    "dps_no_pi": 12685205.9,
-    "dps_with_pi": 13482582.15,
-    "dps_delta": 797376.25,
-    "dps_pct_gain": 6.29,
-    "pi_dep_spell_ids": {
-      "dragonrage": 375087,
-      "shattering_star_debuff": null
-    }
-  },
-  {
-    "spec": "Marksmanship",
-    "class": "Hunter",
-    "specId": 254,
-    "targets": 1,
-    "dps_no_pi": 2733291.15,
-    "dps_with_pi": 2854187.81,
-    "dps_delta": 120896.66,
-    "dps_pct_gain": 4.42,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Marksmanship",
-    "class": "Hunter",
-    "specId": 254,
-    "targets": 3,
-    "dps_no_pi": 3633524.82,
-    "dps_with_pi": 3811084.1,
-    "dps_delta": 177559.27,
-    "dps_pct_gain": 4.89,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Marksmanship",
-    "class": "Hunter",
-    "specId": 254,
-    "targets": 5,
-    "dps_no_pi": 4555189.82,
-    "dps_with_pi": 4789053.28,
-    "dps_delta": 233863.45,
-    "dps_pct_gain": 5.13,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Marksmanship",
-    "class": "Hunter",
-    "specId": 254,
-    "targets": 8,
-    "dps_no_pi": 5155946.95,
-    "dps_with_pi": 5403653.24,
-    "dps_delta": 247706.29,
+    "dps_no_pi": 9444977.49,
+    "dps_with_pi": 9898078.1,
+    "dps_delta": 453100.62,
     "dps_pct_gain": 4.8,
-    "pi_dep_spell_ids": {}
+    "pi_dep_spell_ids": {
+      "feral_spirit": 333957,
+      "doom_winds": 466772
+    }
   },
   {
-    "spec": "Marksmanship",
-    "class": "Hunter",
-    "specId": 254,
+    "spec": "Enhancement",
+    "class": "Shaman",
+    "specId": 263,
     "targets": 15,
-    "dps_no_pi": 5966350.82,
-    "dps_with_pi": 6257254.76,
-    "dps_delta": 290903.94,
-    "dps_pct_gain": 4.88,
-    "pi_dep_spell_ids": {}
+    "dps_no_pi": 13745825.5,
+    "dps_with_pi": 14482829.66,
+    "dps_delta": 737004.16,
+    "dps_pct_gain": 5.36,
+    "pi_dep_spell_ids": {
+      "feral_spirit": 333957,
+      "doom_winds": 466772
+    }
   },
   {
-    "spec": "Arcane",
-    "class": "Mage",
-    "specId": 62,
+    "spec": "Affliction",
+    "class": "Warlock",
+    "specId": 265,
     "targets": 1,
-    "dps_no_pi": 2785806.01,
-    "dps_with_pi": 2877285.98,
-    "dps_delta": 91479.97,
-    "dps_pct_gain": 3.28,
+    "dps_no_pi": 2513539.12,
+    "dps_with_pi": 2655434.39,
+    "dps_delta": 141895.27,
+    "dps_pct_gain": 5.65,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Arcane",
-    "class": "Mage",
-    "specId": 62,
+    "spec": "Affliction",
+    "class": "Warlock",
+    "specId": 265,
     "targets": 3,
-    "dps_no_pi": 5325461.48,
-    "dps_with_pi": 5475367.24,
-    "dps_delta": 149905.75,
-    "dps_pct_gain": 2.81,
+    "dps_no_pi": 4864441.94,
+    "dps_with_pi": 5139064.54,
+    "dps_delta": 274622.6,
+    "dps_pct_gain": 5.65,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Arcane",
-    "class": "Mage",
-    "specId": 62,
+    "spec": "Affliction",
+    "class": "Warlock",
+    "specId": 265,
     "targets": 5,
-    "dps_no_pi": 7534348.39,
-    "dps_with_pi": 7745891.81,
-    "dps_delta": 211543.42,
-    "dps_pct_gain": 2.81,
+    "dps_no_pi": 6915545.57,
+    "dps_with_pi": 7316410.98,
+    "dps_delta": 400865.42,
+    "dps_pct_gain": 5.8,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Arcane",
-    "class": "Mage",
-    "specId": 62,
+    "spec": "Affliction",
+    "class": "Warlock",
+    "specId": 265,
     "targets": 8,
-    "dps_no_pi": 8570827.3,
-    "dps_with_pi": 8818151.32,
-    "dps_delta": 247324.02,
-    "dps_pct_gain": 2.89,
+    "dps_no_pi": 7637853.86,
+    "dps_with_pi": 8003850.23,
+    "dps_delta": 365996.37,
+    "dps_pct_gain": 4.79,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Arcane",
-    "class": "Mage",
-    "specId": 62,
+    "spec": "Affliction",
+    "class": "Warlock",
+    "specId": 265,
     "targets": 15,
-    "dps_no_pi": 10362885.01,
-    "dps_with_pi": 10671562.07,
-    "dps_delta": 308677.06,
+    "dps_no_pi": 11113239.61,
+    "dps_with_pi": 11498791.63,
+    "dps_delta": 385552.01,
+    "dps_pct_gain": 3.47,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Demonology",
+    "class": "Warlock",
+    "specId": 266,
+    "targets": 1,
+    "dps_no_pi": 2806728.26,
+    "dps_with_pi": 2941954.19,
+    "dps_delta": 135225.93,
+    "dps_pct_gain": 4.82,
+    "pi_dep_spell_ids": {
+      "456323": 456323
+    }
+  },
+  {
+    "spec": "Demonology",
+    "class": "Warlock",
+    "specId": 266,
+    "targets": 3,
+    "dps_no_pi": 5280926.68,
+    "dps_with_pi": 5494703.24,
+    "dps_delta": 213776.56,
+    "dps_pct_gain": 4.05,
+    "pi_dep_spell_ids": {
+      "456323": 456323
+    }
+  },
+  {
+    "spec": "Demonology",
+    "class": "Warlock",
+    "specId": 266,
+    "targets": 5,
+    "dps_no_pi": 7830865.94,
+    "dps_with_pi": 8153687.99,
+    "dps_delta": 322822.05,
+    "dps_pct_gain": 4.12,
+    "pi_dep_spell_ids": {
+      "456323": 456323
+    }
+  },
+  {
+    "spec": "Demonology",
+    "class": "Warlock",
+    "specId": 266,
+    "targets": 8,
+    "dps_no_pi": 10851102.41,
+    "dps_with_pi": 11264149.17,
+    "dps_delta": 413046.77,
+    "dps_pct_gain": 3.81,
+    "pi_dep_spell_ids": {
+      "456323": 456323
+    }
+  },
+  {
+    "spec": "Demonology",
+    "class": "Warlock",
+    "specId": 266,
+    "targets": 15,
+    "dps_no_pi": 16417678.07,
+    "dps_with_pi": 17058376.13,
+    "dps_delta": 640698.06,
+    "dps_pct_gain": 3.9,
+    "pi_dep_spell_ids": {
+      "456323": 456323
+    }
+  },
+  {
+    "spec": "Destruction",
+    "class": "Warlock",
+    "specId": 267,
+    "targets": 1,
+    "dps_no_pi": 2463786.38,
+    "dps_with_pi": 2547251.8,
+    "dps_delta": 83465.42,
+    "dps_pct_gain": 3.39,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Destruction",
+    "class": "Warlock",
+    "specId": 267,
+    "targets": 3,
+    "dps_no_pi": 3544896.72,
+    "dps_with_pi": 3650564.0,
+    "dps_delta": 105667.28,
     "dps_pct_gain": 2.98,
     "pi_dep_spell_ids": {}
   },
   {
-    "spec": "Fire",
-    "class": "Mage",
-    "specId": 63,
-    "targets": 1,
-    "dps_no_pi": 2694277.24,
-    "dps_with_pi": 2794040.08,
-    "dps_delta": 99762.83,
-    "dps_pct_gain": 3.7,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Fire",
-    "class": "Mage",
-    "specId": 63,
-    "targets": 3,
-    "dps_no_pi": 5076660.85,
-    "dps_with_pi": 5286858.02,
-    "dps_delta": 210197.17,
-    "dps_pct_gain": 4.14,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Fire",
-    "class": "Mage",
-    "specId": 63,
-    "targets": 5,
-    "dps_no_pi": 6978392.06,
-    "dps_with_pi": 7282137.01,
-    "dps_delta": 303744.95,
-    "dps_pct_gain": 4.35,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Fire",
-    "class": "Mage",
-    "specId": 63,
-    "targets": 8,
-    "dps_no_pi": 9934404.78,
-    "dps_with_pi": 10354945.22,
-    "dps_delta": 420540.43,
-    "dps_pct_gain": 4.23,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Fire",
-    "class": "Mage",
-    "specId": 63,
-    "targets": 15,
-    "dps_no_pi": 14649474.01,
-    "dps_with_pi": 15325780.1,
-    "dps_delta": 676306.09,
-    "dps_pct_gain": 4.62,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Frost",
-    "class": "Mage",
-    "specId": 64,
-    "targets": 1,
-    "dps_no_pi": 2791044.55,
-    "dps_with_pi": 2852081.76,
-    "dps_delta": 61037.22,
-    "dps_pct_gain": 2.19,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Frost",
-    "class": "Mage",
-    "specId": 64,
-    "targets": 3,
-    "dps_no_pi": 4534214.6,
-    "dps_with_pi": 4630383.63,
-    "dps_delta": 96169.04,
-    "dps_pct_gain": 2.12,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Frost",
-    "class": "Mage",
-    "specId": 64,
-    "targets": 5,
-    "dps_no_pi": 5414922.62,
-    "dps_with_pi": 5539487.9,
-    "dps_delta": 124565.28,
-    "dps_pct_gain": 2.3,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Frost",
-    "class": "Mage",
-    "specId": 64,
-    "targets": 8,
-    "dps_no_pi": 6687376.74,
-    "dps_with_pi": 6802971.6,
-    "dps_delta": 115594.86,
-    "dps_pct_gain": 1.73,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Frost",
-    "class": "Mage",
-    "specId": 64,
-    "targets": 15,
-    "dps_no_pi": 8363838.29,
-    "dps_with_pi": 8519532.99,
-    "dps_delta": 155694.7,
-    "dps_pct_gain": 1.86,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Brewmaster",
-    "class": "Monk",
-    "specId": 268,
-    "targets": 1,
-    "dps_no_pi": 1163642.75,
-    "dps_with_pi": 1162323.56,
-    "dps_delta": -1319.2,
-    "dps_pct_gain": -0.11,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Brewmaster",
-    "class": "Monk",
-    "specId": 268,
-    "targets": 3,
-    "dps_no_pi": 2060522.83,
-    "dps_with_pi": 2057315.98,
-    "dps_delta": -3206.85,
-    "dps_pct_gain": -0.16,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Brewmaster",
-    "class": "Monk",
-    "specId": 268,
-    "targets": 5,
-    "dps_no_pi": 2561597.28,
-    "dps_with_pi": 2560273.73,
-    "dps_delta": -1323.55,
-    "dps_pct_gain": -0.05,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Brewmaster",
-    "class": "Monk",
-    "specId": 268,
-    "targets": 8,
-    "dps_no_pi": 3110790.37,
-    "dps_with_pi": 3116121.44,
-    "dps_delta": 5331.07,
-    "dps_pct_gain": 0.17,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Brewmaster",
-    "class": "Monk",
-    "specId": 268,
-    "targets": 15,
-    "dps_no_pi": 4270458.9,
-    "dps_with_pi": 4286238.93,
-    "dps_delta": 15780.02,
-    "dps_pct_gain": 0.37,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Windwalker",
-    "class": "Monk",
-    "specId": 269,
-    "targets": 1,
-    "dps_no_pi": 2833244.43,
-    "dps_with_pi": 2927126.02,
-    "dps_delta": 93881.59,
-    "dps_pct_gain": 3.31,
-    "pi_dep_spell_ids": {
-      "bloodlust": 2825
-    }
-  },
-  {
-    "spec": "Windwalker",
-    "class": "Monk",
-    "specId": 269,
-    "targets": 3,
-    "dps_no_pi": 4723412.2,
-    "dps_with_pi": 4897836.47,
-    "dps_delta": 174424.27,
-    "dps_pct_gain": 3.69,
-    "pi_dep_spell_ids": {
-      "bloodlust": 2825
-    }
-  },
-  {
-    "spec": "Windwalker",
-    "class": "Monk",
-    "specId": 269,
-    "targets": 5,
-    "dps_no_pi": 6989355.58,
-    "dps_with_pi": 7302904.07,
-    "dps_delta": 313548.49,
-    "dps_pct_gain": 4.49,
-    "pi_dep_spell_ids": {
-      "bloodlust": 2825
-    }
-  },
-  {
-    "spec": "Windwalker",
-    "class": "Monk",
-    "specId": 269,
-    "targets": 8,
-    "dps_no_pi": 8361321.1,
-    "dps_with_pi": 8763256.29,
-    "dps_delta": 401935.2,
-    "dps_pct_gain": 4.81,
-    "pi_dep_spell_ids": {
-      "bloodlust": 2825
-    }
-  },
-  {
-    "spec": "Windwalker",
-    "class": "Monk",
-    "specId": 269,
-    "targets": 15,
-    "dps_no_pi": 10645073.52,
-    "dps_with_pi": 11162572.73,
-    "dps_delta": 517499.22,
-    "dps_pct_gain": 4.86,
-    "pi_dep_spell_ids": {
-      "bloodlust": 2825
-    }
-  },
-  {
-    "spec": "Protection",
-    "class": "Paladin",
-    "specId": 66,
-    "targets": 1,
-    "dps_no_pi": 1442810.12,
-    "dps_with_pi": 1497583.96,
-    "dps_delta": 54773.83,
-    "dps_pct_gain": 3.8,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": 31884
-    }
-  },
-  {
-    "spec": "Protection",
-    "class": "Paladin",
-    "specId": 66,
-    "targets": 3,
-    "dps_no_pi": 2542716.01,
-    "dps_with_pi": 2644126.19,
-    "dps_delta": 101410.18,
-    "dps_pct_gain": 3.99,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": 31884
-    }
-  },
-  {
-    "spec": "Protection",
-    "class": "Paladin",
-    "specId": 66,
-    "targets": 5,
-    "dps_no_pi": 3576632.29,
-    "dps_with_pi": 3721913.37,
-    "dps_delta": 145281.08,
-    "dps_pct_gain": 4.06,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": 31884
-    }
-  },
-  {
-    "spec": "Protection",
-    "class": "Paladin",
-    "specId": 66,
-    "targets": 8,
-    "dps_no_pi": 4617795.08,
-    "dps_with_pi": 4797317.79,
-    "dps_delta": 179522.71,
-    "dps_pct_gain": 3.89,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": 31884
-    }
-  },
-  {
-    "spec": "Protection",
-    "class": "Paladin",
-    "specId": 66,
-    "targets": 15,
-    "dps_no_pi": 6947120.16,
-    "dps_with_pi": 7209178.73,
-    "dps_delta": 262058.56,
-    "dps_pct_gain": 3.77,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": 31884
-    }
-  },
-  {
-    "spec": "Retribution",
-    "class": "Paladin",
-    "specId": 70,
-    "targets": 1,
-    "dps_no_pi": 2701153.2,
-    "dps_with_pi": 2769981.33,
-    "dps_delta": 68828.13,
-    "dps_pct_gain": 2.55,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": null,
-      "crusade": 231895,
-      "execution_sentence": null
-    }
-  },
-  {
-    "spec": "Retribution",
-    "class": "Paladin",
-    "specId": 70,
-    "targets": 3,
-    "dps_no_pi": 4720525.83,
-    "dps_with_pi": 4868112.3,
-    "dps_delta": 147586.47,
-    "dps_pct_gain": 3.13,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": null,
-      "crusade": 231895,
-      "execution_sentence": null
-    }
-  },
-  {
-    "spec": "Retribution",
-    "class": "Paladin",
-    "specId": 70,
-    "targets": 5,
-    "dps_no_pi": 7119287.1,
-    "dps_with_pi": 7348686.6,
-    "dps_delta": 229399.5,
-    "dps_pct_gain": 3.22,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": null,
-      "crusade": 231895,
-      "execution_sentence": null
-    }
-  },
-  {
-    "spec": "Retribution",
-    "class": "Paladin",
-    "specId": 70,
-    "targets": 8,
-    "dps_no_pi": 9745515.5,
-    "dps_with_pi": 10141512.04,
-    "dps_delta": 395996.54,
-    "dps_pct_gain": 4.06,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": null,
-      "crusade": 231895,
-      "execution_sentence": null
-    }
-  },
-  {
-    "spec": "Retribution",
-    "class": "Paladin",
-    "specId": 70,
-    "targets": 15,
-    "dps_no_pi": 14834329.03,
-    "dps_with_pi": 15378739.32,
-    "dps_delta": 544410.29,
-    "dps_pct_gain": 3.67,
-    "pi_dep_spell_ids": {
-      "avenging_wrath": null,
-      "crusade": 231895,
-      "execution_sentence": null
-    }
-  },
-  {
-    "spec": "Shadow",
-    "class": "Priest",
-    "specId": 258,
-    "targets": 1,
-    "dps_no_pi": 2668399.33,
-    "dps_with_pi": 2725433.18,
-    "dps_delta": 57033.85,
-    "dps_pct_gain": 2.14,
-    "pi_dep_spell_ids": {
-      "dark_ascension": 391109,
-      "voidform": null,
-      "power_infusion": 10060
-    }
-  },
-  {
-    "spec": "Shadow",
-    "class": "Priest",
-    "specId": 258,
-    "targets": 3,
-    "dps_no_pi": 4371310.35,
-    "dps_with_pi": 4480092.87,
-    "dps_delta": 108782.51,
-    "dps_pct_gain": 2.49,
-    "pi_dep_spell_ids": {
-      "dark_ascension": 391109,
-      "voidform": null,
-      "power_infusion": 10060
-    }
-  },
-  {
-    "spec": "Shadow",
-    "class": "Priest",
-    "specId": 258,
-    "targets": 5,
-    "dps_no_pi": 5835511.03,
-    "dps_with_pi": 5999368.16,
-    "dps_delta": 163857.13,
-    "dps_pct_gain": 2.81,
-    "pi_dep_spell_ids": {
-      "dark_ascension": 391109,
-      "voidform": null,
-      "power_infusion": 10060
-    }
-  },
-  {
-    "spec": "Shadow",
-    "class": "Priest",
-    "specId": 258,
-    "targets": 8,
-    "dps_no_pi": 7561269.44,
-    "dps_with_pi": 7782148.51,
-    "dps_delta": 220879.07,
-    "dps_pct_gain": 2.92,
-    "pi_dep_spell_ids": {
-      "dark_ascension": 391109,
-      "voidform": null,
-      "power_infusion": 10060
-    }
-  },
-  {
-    "spec": "Shadow",
-    "class": "Priest",
-    "specId": 258,
-    "targets": 15,
-    "dps_no_pi": 9479928.16,
-    "dps_with_pi": 9803692.68,
-    "dps_delta": 323764.52,
-    "dps_pct_gain": 3.42,
-    "pi_dep_spell_ids": {
-      "dark_ascension": 391109,
-      "voidform": null,
-      "power_infusion": 10060
-    }
-  },
-  {
-    "spec": "Assassination",
-    "class": "Rogue",
-    "specId": 259,
-    "targets": 1,
-    "dps_no_pi": 2427723.91,
-    "dps_with_pi": 2520268.21,
-    "dps_delta": 92544.29,
-    "dps_pct_gain": 3.81,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Assassination",
-    "class": "Rogue",
-    "specId": 259,
-    "targets": 3,
-    "dps_no_pi": 3464440.89,
-    "dps_with_pi": 3591239.21,
-    "dps_delta": 126798.33,
-    "dps_pct_gain": 3.66,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Assassination",
-    "class": "Rogue",
-    "specId": 259,
-    "targets": 5,
-    "dps_no_pi": 4308153.68,
-    "dps_with_pi": 4448830.0,
-    "dps_delta": 140676.32,
-    "dps_pct_gain": 3.27,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Assassination",
-    "class": "Rogue",
-    "specId": 259,
-    "targets": 8,
-    "dps_no_pi": 5262148.69,
-    "dps_with_pi": 5407201.97,
-    "dps_delta": 145053.28,
-    "dps_pct_gain": 2.76,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Assassination",
-    "class": "Rogue",
-    "specId": 259,
-    "targets": 15,
-    "dps_no_pi": 6228107.95,
-    "dps_with_pi": 6416305.57,
-    "dps_delta": 188197.62,
-    "dps_pct_gain": 3.02,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Outlaw",
-    "class": "Rogue",
-    "specId": 260,
-    "targets": 1,
-    "dps_no_pi": 2778430.29,
-    "dps_with_pi": 2784982.47,
-    "dps_delta": 6552.18,
-    "dps_pct_gain": 0.24,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Outlaw",
-    "class": "Rogue",
-    "specId": 260,
-    "targets": 3,
-    "dps_no_pi": 5184040.29,
-    "dps_with_pi": 5189166.01,
-    "dps_delta": 5125.72,
-    "dps_pct_gain": 0.1,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Outlaw",
-    "class": "Rogue",
-    "specId": 260,
-    "targets": 5,
-    "dps_no_pi": 7438999.73,
-    "dps_with_pi": 7423028.86,
-    "dps_delta": -15970.87,
-    "dps_pct_gain": -0.21,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Outlaw",
-    "class": "Rogue",
-    "specId": 260,
-    "targets": 8,
-    "dps_no_pi": 7469857.44,
-    "dps_with_pi": 7487847.02,
-    "dps_delta": 17989.58,
-    "dps_pct_gain": 0.24,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Outlaw",
-    "class": "Rogue",
-    "specId": 260,
-    "targets": 15,
-    "dps_no_pi": 7560668.47,
-    "dps_with_pi": 7559194.03,
-    "dps_delta": -1474.45,
-    "dps_pct_gain": -0.02,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Subtlety",
-    "class": "Rogue",
-    "specId": 261,
-    "targets": 1,
-    "dps_no_pi": 2549831.7,
-    "dps_with_pi": 2589756.83,
-    "dps_delta": 39925.13,
-    "dps_pct_gain": 1.57,
-    "pi_dep_spell_ids": {
-      "shadow_dance": 185313
-    }
-  },
-  {
-    "spec": "Subtlety",
-    "class": "Rogue",
-    "specId": 261,
-    "targets": 3,
-    "dps_no_pi": 4693651.12,
-    "dps_with_pi": 4766565.95,
-    "dps_delta": 72914.83,
-    "dps_pct_gain": 1.55,
-    "pi_dep_spell_ids": {
-      "shadow_dance": 185313
-    }
-  },
-  {
-    "spec": "Subtlety",
-    "class": "Rogue",
-    "specId": 261,
-    "targets": 5,
-    "dps_no_pi": 6991811.19,
-    "dps_with_pi": 7131851.13,
-    "dps_delta": 140039.94,
-    "dps_pct_gain": 2.0,
-    "pi_dep_spell_ids": {
-      "shadow_dance": 185313
-    }
-  },
-  {
-    "spec": "Subtlety",
-    "class": "Rogue",
-    "specId": 261,
-    "targets": 8,
-    "dps_no_pi": 10200581.97,
-    "dps_with_pi": 10335522.14,
-    "dps_delta": 134940.17,
-    "dps_pct_gain": 1.32,
-    "pi_dep_spell_ids": {
-      "shadow_dance": 185313
-    }
-  },
-  {
-    "spec": "Subtlety",
-    "class": "Rogue",
-    "specId": 261,
-    "targets": 15,
-    "dps_no_pi": 11551684.23,
-    "dps_with_pi": 11791702.46,
-    "dps_delta": 240018.23,
-    "dps_pct_gain": 2.08,
-    "pi_dep_spell_ids": {
-      "shadow_dance": 185313
-    }
-  },
-  {
-    "spec": "Elemental",
-    "class": "Shaman",
-    "specId": 262,
-    "targets": 1,
-    "dps_no_pi": 2882074.65,
-    "dps_with_pi": 2951295.26,
-    "dps_delta": 69220.62,
-    "dps_pct_gain": 2.4,
-    "pi_dep_spell_ids": {
-      "ascendance": 1219480
-    }
-  },
-  {
-    "spec": "Elemental",
-    "class": "Shaman",
-    "specId": 262,
-    "targets": 3,
-    "dps_no_pi": 5078440.47,
-    "dps_with_pi": 5209166.41,
-    "dps_delta": 130725.93,
-    "dps_pct_gain": 2.57,
-    "pi_dep_spell_ids": {
-      "ascendance": 1219480
-    }
-  },
-  {
-    "spec": "Elemental",
-    "class": "Shaman",
-    "specId": 262,
-    "targets": 5,
-    "dps_no_pi": 8300562.1,
-    "dps_with_pi": 8496275.4,
-    "dps_delta": 195713.31,
-    "dps_pct_gain": 2.36,
-    "pi_dep_spell_ids": {
-      "ascendance": 1219480
-    }
-  },
-  {
-    "spec": "Elemental",
-    "class": "Shaman",
-    "specId": 262,
-    "targets": 8,
-    "dps_no_pi": 9920033.52,
-    "dps_with_pi": 10138765.0,
-    "dps_delta": 218731.48,
-    "dps_pct_gain": 2.2,
-    "pi_dep_spell_ids": {
-      "ascendance": 1219480
-    }
-  },
-  {
-    "spec": "Elemental",
-    "class": "Shaman",
-    "specId": 262,
-    "targets": 15,
-    "dps_no_pi": 13093680.64,
-    "dps_with_pi": 13383174.85,
-    "dps_delta": 289494.2,
-    "dps_pct_gain": 2.21,
-    "pi_dep_spell_ids": {
-      "ascendance": 1219480
-    }
-  },
-  {
-    "spec": "Enhancement",
-    "class": "Shaman",
-    "specId": 263,
-    "targets": 1,
-    "dps_no_pi": 2660278.41,
-    "dps_with_pi": 2749358.12,
-    "dps_delta": 89079.71,
-    "dps_pct_gain": 3.35,
-    "pi_dep_spell_ids": {
-      "ascendance": null,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
-    }
-  },
-  {
-    "spec": "Enhancement",
-    "class": "Shaman",
-    "specId": 263,
-    "targets": 3,
-    "dps_no_pi": 4817258.43,
-    "dps_with_pi": 5000858.07,
-    "dps_delta": 183599.64,
-    "dps_pct_gain": 3.81,
-    "pi_dep_spell_ids": {
-      "ascendance": null,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
-    }
-  },
-  {
-    "spec": "Enhancement",
-    "class": "Shaman",
-    "specId": 263,
-    "targets": 5,
-    "dps_no_pi": 7348390.05,
-    "dps_with_pi": 7733402.71,
-    "dps_delta": 385012.66,
-    "dps_pct_gain": 5.24,
-    "pi_dep_spell_ids": {
-      "ascendance": null,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
-    }
-  },
-  {
-    "spec": "Enhancement",
-    "class": "Shaman",
-    "specId": 263,
-    "targets": 8,
-    "dps_no_pi": 9443942.11,
-    "dps_with_pi": 9900567.98,
-    "dps_delta": 456625.87,
-    "dps_pct_gain": 4.84,
-    "pi_dep_spell_ids": {
-      "ascendance": null,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
-    }
-  },
-  {
-    "spec": "Enhancement",
-    "class": "Shaman",
-    "specId": 263,
-    "targets": 15,
-    "dps_no_pi": 13752035.43,
-    "dps_with_pi": 14479528.75,
-    "dps_delta": 727493.31,
-    "dps_pct_gain": 5.29,
-    "pi_dep_spell_ids": {
-      "ascendance": null,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
-    }
-  },
-  {
-    "spec": "Affliction",
-    "class": "Warlock",
-    "specId": 265,
-    "targets": 1,
-    "dps_no_pi": 2520225.09,
-    "dps_with_pi": 2655737.92,
-    "dps_delta": 135512.83,
-    "dps_pct_gain": 5.38,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Affliction",
-    "class": "Warlock",
-    "specId": 265,
-    "targets": 3,
-    "dps_no_pi": 4876694.34,
-    "dps_with_pi": 5140910.48,
-    "dps_delta": 264216.13,
-    "dps_pct_gain": 5.42,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Affliction",
-    "class": "Warlock",
-    "specId": 265,
-    "targets": 5,
-    "dps_no_pi": 6947724.47,
-    "dps_with_pi": 7320991.89,
-    "dps_delta": 373267.42,
-    "dps_pct_gain": 5.37,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Affliction",
-    "class": "Warlock",
-    "specId": 265,
-    "targets": 8,
-    "dps_no_pi": 7615966.47,
-    "dps_with_pi": 7996343.62,
-    "dps_delta": 380377.15,
-    "dps_pct_gain": 4.99,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Affliction",
-    "class": "Warlock",
-    "specId": 265,
-    "targets": 15,
-    "dps_no_pi": 11095370.14,
-    "dps_with_pi": 11491838.01,
-    "dps_delta": 396467.87,
-    "dps_pct_gain": 3.57,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Demonology",
-    "class": "Warlock",
-    "specId": 266,
-    "targets": 1,
-    "dps_no_pi": 2804285.15,
-    "dps_with_pi": 2943053.16,
-    "dps_delta": 138768.01,
-    "dps_pct_gain": 4.95,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Demonology",
-    "class": "Warlock",
-    "specId": 266,
-    "targets": 3,
-    "dps_no_pi": 5269699.19,
-    "dps_with_pi": 5504350.38,
-    "dps_delta": 234651.19,
-    "dps_pct_gain": 4.45,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Demonology",
-    "class": "Warlock",
-    "specId": 266,
-    "targets": 5,
-    "dps_no_pi": 7829110.22,
-    "dps_with_pi": 8156848.56,
-    "dps_delta": 327738.34,
-    "dps_pct_gain": 4.19,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Demonology",
-    "class": "Warlock",
-    "specId": 266,
-    "targets": 8,
-    "dps_no_pi": 10829614.05,
-    "dps_with_pi": 11252629.39,
-    "dps_delta": 423015.34,
-    "dps_pct_gain": 3.91,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Demonology",
-    "class": "Warlock",
-    "specId": 266,
-    "targets": 15,
-    "dps_no_pi": 16426119.05,
-    "dps_with_pi": 17036181.53,
-    "dps_delta": 610062.48,
-    "dps_pct_gain": 3.71,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Destruction",
-    "class": "Warlock",
-    "specId": 267,
-    "targets": 1,
-    "dps_no_pi": 2460039.62,
-    "dps_with_pi": 2550119.42,
-    "dps_delta": 90079.8,
-    "dps_pct_gain": 3.66,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Destruction",
-    "class": "Warlock",
-    "specId": 267,
-    "targets": 3,
-    "dps_no_pi": 3539857.88,
-    "dps_with_pi": 3650400.26,
-    "dps_delta": 110542.38,
-    "dps_pct_gain": 3.12,
-    "pi_dep_spell_ids": {}
-  },
-  {
     "spec": "Destruction",
     "class": "Warlock",
     "specId": 267,
     "targets": 5,
-    "dps_no_pi": 5457522.58,
-    "dps_with_pi": 5614806.93,
-    "dps_delta": 157284.36,
-    "dps_pct_gain": 2.88,
+    "dps_no_pi": 5443379.55,
+    "dps_with_pi": 5617140.21,
+    "dps_delta": 173760.67,
+    "dps_pct_gain": 3.19,
     "pi_dep_spell_ids": {}
   },
   {
@@ -1572,9 +1617,9 @@
     "class": "Warlock",
     "specId": 267,
     "targets": 8,
-    "dps_no_pi": 8774567.7,
-    "dps_with_pi": 9024824.98,
-    "dps_delta": 250257.28,
+    "dps_no_pi": 8789365.8,
+    "dps_with_pi": 9040141.03,
+    "dps_delta": 250775.24,
     "dps_pct_gain": 2.85,
     "pi_dep_spell_ids": {}
   },
@@ -1583,10 +1628,10 @@
     "class": "Warlock",
     "specId": 267,
     "targets": 15,
-    "dps_no_pi": 17800795.54,
-    "dps_with_pi": 18312056.93,
-    "dps_delta": 511261.39,
-    "dps_pct_gain": 2.87,
+    "dps_no_pi": 17793051.88,
+    "dps_with_pi": 18311398.64,
+    "dps_delta": 518346.76,
+    "dps_pct_gain": 2.91,
     "pi_dep_spell_ids": {}
   },
   {
@@ -1594,12 +1639,11 @@
     "class": "Warrior",
     "specId": 71,
     "targets": 1,
-    "dps_no_pi": 2799730.22,
-    "dps_with_pi": 2892497.83,
-    "dps_delta": 92767.61,
-    "dps_pct_gain": 3.31,
+    "dps_no_pi": 2801283.2,
+    "dps_with_pi": 2891679.25,
+    "dps_delta": 90396.06,
+    "dps_pct_gain": 3.23,
     "pi_dep_spell_ids": {
-      "colossus_smash": null,
       "avatar": 107574
     }
   },
@@ -1608,12 +1652,11 @@
     "class": "Warrior",
     "specId": 71,
     "targets": 3,
-    "dps_no_pi": 3744193.3,
-    "dps_with_pi": 3884081.98,
-    "dps_delta": 139888.68,
-    "dps_pct_gain": 3.74,
+    "dps_no_pi": 3735221.21,
+    "dps_with_pi": 3880761.14,
+    "dps_delta": 145539.93,
+    "dps_pct_gain": 3.9,
     "pi_dep_spell_ids": {
-      "colossus_smash": null,
       "avatar": 107574
     }
   },
@@ -1622,12 +1665,11 @@
     "class": "Warrior",
     "specId": 71,
     "targets": 5,
-    "dps_no_pi": 4333857.67,
-    "dps_with_pi": 4504496.71,
-    "dps_delta": 170639.04,
-    "dps_pct_gain": 3.94,
+    "dps_no_pi": 4348210.6,
+    "dps_with_pi": 4504200.59,
+    "dps_delta": 155989.99,
+    "dps_pct_gain": 3.59,
     "pi_dep_spell_ids": {
-      "colossus_smash": null,
       "avatar": 107574
     }
   },
@@ -1636,12 +1678,11 @@
     "class": "Warrior",
     "specId": 71,
     "targets": 8,
-    "dps_no_pi": 5036080.23,
-    "dps_with_pi": 5239872.28,
-    "dps_delta": 203792.05,
-    "dps_pct_gain": 4.05,
+    "dps_no_pi": 5025680.77,
+    "dps_with_pi": 5235930.41,
+    "dps_delta": 210249.64,
+    "dps_pct_gain": 4.18,
     "pi_dep_spell_ids": {
-      "colossus_smash": null,
       "avatar": 107574
     }
   },
@@ -1650,12 +1691,11 @@
     "class": "Warrior",
     "specId": 71,
     "targets": 15,
-    "dps_no_pi": 6124583.98,
-    "dps_with_pi": 6365969.86,
-    "dps_delta": 241385.88,
+    "dps_no_pi": 6130099.19,
+    "dps_with_pi": 6371726.12,
+    "dps_delta": 241626.93,
     "dps_pct_gain": 3.94,
     "pi_dep_spell_ids": {
-      "colossus_smash": null,
       "avatar": 107574
     }
   },
@@ -1664,10 +1704,10 @@
     "class": "Warrior",
     "specId": 72,
     "targets": 1,
-    "dps_no_pi": 2834950.23,
-    "dps_with_pi": 2894524.93,
-    "dps_delta": 59574.69,
-    "dps_pct_gain": 2.1,
+    "dps_no_pi": 2831392.65,
+    "dps_with_pi": 2895485.97,
+    "dps_delta": 64093.32,
+    "dps_pct_gain": 2.26,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -1677,10 +1717,10 @@
     "class": "Warrior",
     "specId": 72,
     "targets": 3,
-    "dps_no_pi": 3326319.63,
-    "dps_with_pi": 3410010.48,
-    "dps_delta": 83690.85,
-    "dps_pct_gain": 2.52,
+    "dps_no_pi": 3330719.87,
+    "dps_with_pi": 3408132.54,
+    "dps_delta": 77412.67,
+    "dps_pct_gain": 2.32,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -1690,10 +1730,10 @@
     "class": "Warrior",
     "specId": 72,
     "targets": 5,
-    "dps_no_pi": 3790537.87,
-    "dps_with_pi": 3877018.17,
-    "dps_delta": 86480.31,
-    "dps_pct_gain": 2.28,
+    "dps_no_pi": 3786300.45,
+    "dps_with_pi": 3882739.17,
+    "dps_delta": 96438.72,
+    "dps_pct_gain": 2.55,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -1703,10 +1743,10 @@
     "class": "Warrior",
     "specId": 72,
     "targets": 8,
-    "dps_no_pi": 4438024.42,
-    "dps_with_pi": 4526254.61,
-    "dps_delta": 88230.19,
-    "dps_pct_gain": 1.99,
+    "dps_no_pi": 4425812.17,
+    "dps_with_pi": 4537692.26,
+    "dps_delta": 111880.09,
+    "dps_pct_gain": 2.53,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -1716,10 +1756,10 @@
     "class": "Warrior",
     "specId": 72,
     "targets": 15,
-    "dps_no_pi": 5156755.56,
-    "dps_with_pi": 5283323.42,
-    "dps_delta": 126567.87,
-    "dps_pct_gain": 2.45,
+    "dps_no_pi": 5162792.67,
+    "dps_with_pi": 5285275.85,
+    "dps_delta": 122483.18,
+    "dps_pct_gain": 2.37,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -1729,31 +1769,9 @@
     "class": "Warrior",
     "specId": 73,
     "targets": 1,
-    "dps_no_pi": 1873039.18,
-    "dps_with_pi": 1868236.33,
-    "dps_delta": -4802.86,
-    "dps_pct_gain": -0.26,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Protection",
-    "class": "Warrior",
-    "specId": 73,
-    "targets": 3,
-    "dps_no_pi": 3046184.69,
-    "dps_with_pi": 3045683.28,
-    "dps_delta": -501.41,
-    "dps_pct_gain": -0.02,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Protection",
-    "class": "Warrior",
-    "specId": 73,
-    "targets": 5,
-    "dps_no_pi": 4579189.85,
-    "dps_with_pi": 4581184.76,
-    "dps_delta": 1994.92,
+    "dps_no_pi": 1869675.2,
+    "dps_with_pi": 1870505.41,
+    "dps_delta": 830.21,
     "dps_pct_gain": 0.04,
     "pi_dep_spell_ids": {}
   },
@@ -1761,11 +1779,33 @@
     "spec": "Protection",
     "class": "Warrior",
     "specId": 73,
+    "targets": 3,
+    "dps_no_pi": 3043987.82,
+    "dps_with_pi": 3050266.52,
+    "dps_delta": 6278.7,
+    "dps_pct_gain": 0.21,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Protection",
+    "class": "Warrior",
+    "specId": 73,
+    "targets": 5,
+    "dps_no_pi": 4578947.76,
+    "dps_with_pi": 4578234.02,
+    "dps_delta": -713.74,
+    "dps_pct_gain": -0.02,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "spec": "Protection",
+    "class": "Warrior",
+    "specId": 73,
     "targets": 8,
-    "dps_no_pi": 6550385.45,
-    "dps_with_pi": 6561956.57,
-    "dps_delta": 11571.11,
-    "dps_pct_gain": 0.18,
+    "dps_no_pi": 6548780.83,
+    "dps_with_pi": 6547003.95,
+    "dps_delta": -1776.88,
+    "dps_pct_gain": -0.03,
     "pi_dep_spell_ids": {}
   },
   {
@@ -1773,10 +1813,10 @@
     "class": "Warrior",
     "specId": 73,
     "targets": 15,
-    "dps_no_pi": 10224091.19,
-    "dps_with_pi": 10256638.66,
-    "dps_delta": 32547.46,
-    "dps_pct_gain": 0.32,
+    "dps_no_pi": 10249486.25,
+    "dps_with_pi": 10258707.22,
+    "dps_delta": 9220.97,
+    "dps_pct_gain": 0.09,
     "pi_dep_spell_ids": {}
   }
 ]
