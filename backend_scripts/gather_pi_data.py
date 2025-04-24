@@ -177,32 +177,39 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
     override = ",".join(f"talent.{tid}={pts}" for tid, pts in popular_build)
     return override
 
-def get_encoded_talents(override: str) -> str:
+def get_encoded_talents(override: str, class_slug: str, spec_slug: str) -> str:
     """
-    Given a raw override like "talent.96166=1,talent.96169=1,…",
-    writes a minimal .simc file, runs simc in dry-run JSON mode,
-    and returns the encoded talent string (e.g. "CoPAAAA…").
+    Writes a tiny .simc profile containing exactly:
+      player, class, spec, talents=<raw override>
+    Runs simc in dry-run JSON mode (no dashes on options),
+    and returns the internal CoP-style encoded string.
     """
-    sim_file = Path("_encode_talents.simc")
+    sim_file  = Path("_encode_talents.simc")
     json_file = Path("_encode_talents.json")
 
-    # Write only the talents line
-    sim_file.write_text(f"talents={override}\n")
+    # 1) Build a bare-minimum profile so SimC knows which tree to load
+    sim_file.write_text(
+        "player=EncodeTemp\n"
+        f"class={class_slug}\n"
+        f"spec={spec_slug}\n"
+        f"talents={override}\n"
+    )
 
-    # Run simc in dry-run + JSON mode to get the encoding
+    # 2) Call simc with its real syntax (no leading dashes)
     cmd = [
-        SIMC_CMD, str(sim_file),
-        "--dry_run=1",
-        "--iterations=1",
-        "--threads=1",
-        f"json2={json_file}"
+        SIMC_CMD,
+        str(sim_file),
+        "dry_run=1",            # parse only, do not actually simulate
+        "iterations=1",         # no need for a real run
+        "threads=1",
+        f"json2={json_file}"    # output JSON to this file
     ]
     res = subprocess.run(cmd, capture_output=True, text=True)
     if res.returncode != 0:
         raise RuntimeError(f"Failed to encode talents:\n{res.stderr}")
 
     data = json.loads(json_file.read_text())
-    # The JSON structure has it under sim.players[0].talents
+    # The JSON always lists the encoded string here:
     return data["sim"]["players"][0]["talents"]
 
 
@@ -413,8 +420,8 @@ def main():
             continue
         # inject talents override at top of profile
         # comment + inject-or-replace
-        raid_encoded = get_encoded_talents(raid_build)
-        dung_encoded = get_encoded_talents(dung_build)
+        raid_encoded = get_encoded_talents(raid_build, class_name, spec_name)
+        dung_encoded = get_encoded_talents(dung_build, class_name, spec_name)
 
         body = inject_talents(text, raid_encoded)
         prof_raid = f"# {class_name}/{spec_name} raid build\n{body}"
