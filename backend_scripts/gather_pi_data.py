@@ -179,37 +179,38 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
 
 def get_encoded_talents(override: str, class_slug: str, spec_slug: str) -> str:
     """
-    Writes a tiny .simc profile containing exactly:
-      player, class, spec, talents=<raw override>
-    Runs simc in dry-run JSON mode (no dashes on options),
-    and returns the internal CoP-style encoded string.
+    Given raw override "talent.123=1,talent.456=2,…",
+    write a minimal profile (no talents= line), then
+    call simc with those talent.*=*=* overrides on the CLI.
+    Dry-run with json2= so we get back the encoded CoP string.
     """
     sim_file  = Path("_encode_talents.simc")
     json_file = Path("_encode_talents.json")
 
-    # 1) Build a bare-minimum profile so SimC knows which tree to load
+    # 1) Minimal profile declares only player/class/spec
     sim_file.write_text(
         "player=EncodeTemp\n"
         f"class={class_slug}\n"
         f"spec={spec_slug}\n"
-        f"talents={override}\n"
     )
 
-    # 2) Call simc with its real syntax (no leading dashes)
+    # 2) Build the CLI args: one entry per "talent.#####=#"
+    talent_args = override.split(",")
+
+    # 3) Call simc without dashes on options
     cmd = [
         SIMC_CMD,
         str(sim_file),
-        "dry_run=1",            # parse only, do not actually simulate
-        "iterations=1",         # no need for a real run
-        "threads=1",
-        f"json2={json_file}"    # output JSON to this file
+        *talent_args,          # e.g. "talent.96166=1", "talent.96169=1", …
+        "dry_run=1",           # parse only
+        f"json2={json_file}"   # spit JSON to this file
     ]
     res = subprocess.run(cmd, capture_output=True, text=True)
     if res.returncode != 0:
         raise RuntimeError(f"Failed to encode talents:\n{res.stderr}")
 
+    # 4) Read back the JSON and grab the encoded string
     data = json.loads(json_file.read_text())
-    # The JSON always lists the encoded string here:
     return data["sim"]["players"][0]["talents"]
 
 
