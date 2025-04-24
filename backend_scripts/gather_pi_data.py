@@ -173,9 +173,7 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
     popular_build, count = build_counter.most_common(1)[0]
     print(f"Found {len(build_counter)} unique builds, most popular: {count}x {popular_build}")
 
-    # 8) Format as SimC override string
-    override = ",".join(f"talent.{tid}={pts}" for tid, pts in popular_build)
-    return override
+    return popular_build
 
 def build_tree_override(pairs: list[tuple[int,int]]) -> str:
     """
