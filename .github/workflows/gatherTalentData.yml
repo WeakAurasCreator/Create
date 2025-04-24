@@ -1,0 +1,43 @@
+name: Fetch WoW Talent Trees
+
+on:
+  # Manual trigger
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * WED'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Check out the repo (persisting GITHUB_TOKEN for push)
+      - uses: actions/checkout@v3
+
+      # 2. Prepare Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # 3. Install our only dependency
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. Fetch and write all talent-tree JSONs
+      - name: Fetch WoW talent trees
+        env:
+          CLIENT_ID:     ${{ secrets.BLIZZARD_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
+        run: python backend_scripts/fetch_talent_trees.py
+    
+      - name: Download talent json file
+        run: |
+          curl -L "https://www.raidbots.com/static/data/live/talents.json" -o data/talents/talents.json
+      # 5. Commit & push any changes under data/
+      - name: Commit & push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "ci: update WoW talent-tree data"
+          git push
