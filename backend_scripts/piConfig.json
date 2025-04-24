@@ -7,17 +7,20 @@
     "death_knight_unholy": {
       "classSlug": "DeathKnight",
       "specSlug": "Unholy",
-      "specId": 252
+      "specId": 252,
+      "backup_SpellId": ["63560"]
     },
     "death_knight_frost": {
       "classSlug": "DeathKnight",
       "specSlug": "Frost",
-      "specId": 251
+      "specId": 251,
+      "backup_SpellId": ["51271"]
     },
     "demon_hunter_havoc": {
       "classSlug": "DemonHunter",
       "specSlug": "Havoc",
-      "specId": 577
+      "specId": 577,
+      "backup_SpellId": ["162264"]
     },
     "demon_hunter_vengeance": {
       "classSlug": "DemonHunter",
@@ -27,12 +30,15 @@
     "druid_balance": {
       "classSlug": "Druid",
       "specSlug": "Balance",
-      "specId": 102
+      "specId": 102,
+      "backup_SpellId": ["102560","194223"]
     },
     "druid_feral": {
       "classSlug": "Druid",
       "specSlug": "Feral",
-      "specId": 103
+      "specId": 103,
+      "backup_SpellId": ["106951"]
+      
     },
     "druid_guardian": {
       "classSlug": "Druid",
@@ -42,37 +48,44 @@
     "evoker_devastation": {
       "classSlug": "Evoker",
       "specSlug": "Devastation",
-      "specId": 1467
+      "specId": 1467,
+      "backup_SpellId": ["375087"]
     },
     "hunter_beast_mastery": {
       "classSlug": "Hunter",
       "specSlug": "BeastMastery",
-      "specId": 253
+      "specId": 253,
+      "backup_SpellId": ["19574"]
     },
     "hunter_marksmanship": {
       "classSlug": "Hunter",
       "specSlug": "Marksmanship",
-      "specId": 254
+      "specId": 254,
+      "backup_SpellId": ["288613"]
     },
     "hunter_survival": {
       "classSlug": "Hunter",
       "specSlug": "Survival",
-      "specId": 255
+      "specId": 255,
+      "backup_SpellId": ["360952"]
     },
     "mage_arcane": {
       "classSlug": "Mage",
       "specSlug": "Arcane",
-      "specId": 62
+      "specId": 62,
+      "backup_SpellId": ["365362"]
     },
     "mage_fire": {
       "classSlug": "Mage",
       "specSlug": "Fire",
-      "specId": 63
+      "specId": 63,
+      "backup_SpellId": ["190319"]
     },
     "mage_frost": {
       "classSlug": "Mage",
       "specSlug": "Frost",
-      "specId": 64
+      "specId": 64,
+      "backup_SpellId": ["12472"]
     },
     "monk_brewmaster": {
       "classSlug": "Monk",
@@ -82,7 +95,8 @@
     "monk_windwalker": {
       "classSlug": "Monk",
       "specSlug": "Windwalker",
-      "specId": 269
+      "specId": 269,
+      "backup_SpellId": ["388663"] 
     },
     "paladin_protection": {
       "classSlug": "Paladin",
@@ -97,12 +111,14 @@
     "priest_shadow": {
       "classSlug": "Priest",
       "specSlug": "Shadow",
-      "specId": 258
+      "specId": 258,
+      "backup_SpellId": ["228260"] 
     },
     "rogue_outlaw": {
       "classSlug": "Rogue",
       "specSlug": "Outlaw",
-      "specId": 260
+      "specId": 260,
+      "backup_SpellId": ["13750"] 
     },
     "rogue_assassination": {
       "classSlug": "Rogue",
@@ -112,27 +128,31 @@
     "rogue_subtlety": {
       "classSlug": "Rogue",
       "specSlug": "Subtlety",
-      "specId": 261
+      "specId": 261,
+      "backup_SpellId": ["185313"] 
     },
     "shaman_elemental": {
       "classSlug": "Shaman",
       "specSlug": "Elemental",
-      "specId": 262
+      "specId": 262,
+      "backup_SpellId": ["114050"] 
     },
     "shaman_enhancement": {
       "classSlug": "Shaman",
       "specSlug": "Enhancement",
-      "specId": 263
+      "specId": 263,
+      "backup_SpellId": ["51533"] 
     },
     "warlock_affliction": {
       "classSlug": "Warlock",
       "specSlug": "Affliction",
-      "specId": 265
+      "specId": 265 
     },
     "warlock_demonology": {
       "classSlug": "Warlock",
       "specSlug": "Demonology",
-      "specId": 266
+      "specId": 266,
+      "backup_SpellId": ["456323"]
     },
     "warlock_destruction": {
       "classSlug": "Warlock",
@@ -142,12 +162,14 @@
     "warrior_arms": {
       "classSlug": "Warrior",
       "specSlug": "Arms",
-      "specId": 71
+      "specId": 71,
+      "backup_SpellId": ["107574"]
     },
     "warrior_fury": {
       "classSlug": "Warrior",
       "specSlug": "Fury",
-      "specId": 72
+      "specId": 72,
+      "backup_SpellId": ["107574"]
     },
     "warrior_protection": {
       "classSlug": "Warrior",

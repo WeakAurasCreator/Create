@@ -193,6 +193,9 @@ def extract_external_buffs(profile_text: str) -> set[str]:
         # Grab all buff.foo_bar.up instances
         for name in re.findall(r"buff\.([a-z0-9_]+)\.up", line, flags=re.IGNORECASE):
             deps.add(name.lower())
+        # Grab all buff.foo_bar.remains> instances    
+        for name in re.findall(r"buff\.([a-z0-9_]+)\.remains>", line, flags=re.IGNORECASE):
+            deps.add(name.lower())    
     return deps
 
 
@@ -265,7 +268,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
     player = data["sim"]["players"][0]
     buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
 
-    print(f"Found {len(buffs_all)} buffs in {json_file}: {buffs_all}")
+    print(f"Found {len(buffs_all)} buffs in {json_file}")
     buff_map: dict[str,int] = {}
     for b in buffs_all:
         # Try the obvious fields first
@@ -331,6 +334,7 @@ def main():
         class_name = cfg["classSlug"]
         spec_name  = cfg["specSlug"]
         spec_id = cfg["specId"]
+        backup_spellids = cfg["backup_SpellId"]
 
         try:    
             raid_build = fetch_top_talents(wcl_token, raid_ids,    class_name, spec_name)
@@ -358,7 +362,6 @@ def main():
                 continue
             delta = d1 - d0
             pct   = (delta / d0) * 100
-            print(f"Buffs: {buffs}")
             # Extract which buffs guard PI in this profile
             dependencies = extract_external_buffs(text)
             # Look up their IDs in the "with PI" run
@@ -369,6 +372,11 @@ def main():
                 if sid is None:
                     print(f"⚠️ Could not resolve buff '{buff}'")
                 dep_ids[buff] = sid
+            if dep_ids == {}:
+                print(f"⚠️ No dependencies found falling back to backup spellids")
+                for buff_id in backup_spellids:
+                    print(f"Backup spellid: {buff_id}")
+                    dep_ids[buff_id] = buff_id    
 
             results.append({
                 "spec":          spec_name,
