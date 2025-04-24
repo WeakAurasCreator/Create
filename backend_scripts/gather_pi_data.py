@@ -143,29 +143,39 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
 
 
     headers   = {"Authorization": f"Bearer {token}"}
-    points_counter: dict[int, Counter[int]] = defaultdict(Counter)
+    # 4) Collect each full-build from every ranking entry
+
+    all_builds: list[tuple[tuple[tuple[int,int],...], int]] = []
     for encID in encIDs:
         variables = {"encID": encID, "class": className, "spec": specName}
-        print(f"Requesting {variables}")
         resp = requests.post(GRAPHQL_URL, json={"query": query, "variables": variables}, headers=headers)
         resp.raise_for_status()
         for entry in resp.json()["data"]["worldData"]["encounter"]["characterRankings"]["rankings"]:
-            for t in entry["talents"]:
-                points_counter[t["talentID"]][t["points"]] += 1
-    
+            # build = sorted list of (talentID, points)
+            talents = tuple(sorted((t["talentID"], t["points"]) for t in entry["talents"]))
+            total_pts = sum(p for _, p in talents)
+            all_builds.append((talents, total_pts))
 
-    # 4) Pick the modal (most-common) points for each talentID
-    most_popular = {
-        tid: cnt.most_common(1)[0][0]
-        for tid, cnt in points_counter.items()
-    }
+    if not all_builds:
+        raise RuntimeError("No builds returned from WCL")
 
-    # 5) Format as a comma-separated SimC override string
-    #    e.g. "talent.96166=1,talent.96182=2,…"
-    override = ",".join(f"talent.{tid}={pts}"
-                        for tid, pts in sorted(most_popular.items()))
+    # 5) Determine the cap (max points)
+    max_points = max(total for _, total in all_builds)
 
+    # 6) Keep only builds that spent all points
+    valid_builds = [talents for talents, total in all_builds if total == max_points]
+    if not valid_builds:
+        raise RuntimeError(f"No builds found spending all {max_points} points")
+
+    # 7) Find the single most-popular full build
+    build_counter = Counter(valid_builds)
+    popular_build, count = build_counter.most_common(1)[0]
+    print(f"Found {len(build_counter)} unique builds, most popular: {count}x {popular_build}")
+
+    # 8) Format as SimC override string
+    override = ",".join(f"talent.{tid}={pts}" for tid, pts in popular_build)
     return override
+
 
 def to_snake(name: str) -> str:
     """

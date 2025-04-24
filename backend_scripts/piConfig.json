@@ -2,179 +2,210 @@
     "death_knight_blood": {
       "classSlug": "DeathKnight",
       "specSlug": "Blood",
-      "specId": 250
+      "specId": 250,
+      "classId": 750
     },
     "death_knight_unholy": {
       "classSlug": "DeathKnight",
       "specSlug": "Unholy",
       "specId": 252,
+      "classId": 750,
       "backup_SpellId": ["63560"]
     },
     "death_knight_frost": {
       "classSlug": "DeathKnight",
       "specSlug": "Frost",
       "specId": 251,
+      "classId": 750,
       "backup_SpellId": ["51271"]
     },
     "demon_hunter_havoc": {
       "classSlug": "DemonHunter",
       "specSlug": "Havoc",
       "specId": 577,
+      "classId": 854,
       "backup_SpellId": ["162264"]
     },
     "demon_hunter_vengeance": {
       "classSlug": "DemonHunter",
       "specSlug": "Vengeance",
-      "specId": 581
+      "specId": 581,
+      "classId": 854
     },
     "druid_balance": {
       "classSlug": "Druid",
       "specSlug": "Balance",
       "specId": 102,
+      "classId": 793,
       "backup_SpellId": ["102560","194223"]
     },
     "druid_feral": {
       "classSlug": "Druid",
       "specSlug": "Feral",
       "specId": 103,
+      "classId": 793,
       "backup_SpellId": ["106951"]
       
     },
     "druid_guardian": {
       "classSlug": "Druid",
       "specSlug": "Guardian",
-      "specId": 104
+      "specId": 104,
+      "classId": 793
     },
     "evoker_devastation": {
       "classSlug": "Evoker",
       "specSlug": "Devastation",
       "specId": 1467,
+      "classId": 872,
       "backup_SpellId": ["375087"]
     },
     "hunter_beast_mastery": {
       "classSlug": "Hunter",
       "specSlug": "BeastMastery",
       "specId": 253,
+      "classId": 774,
       "backup_SpellId": ["19574"]
     },
     "hunter_marksmanship": {
       "classSlug": "Hunter",
       "specSlug": "Marksmanship",
       "specId": 254,
+      "classId": 774,
       "backup_SpellId": ["288613"]
     },
     "hunter_survival": {
       "classSlug": "Hunter",
       "specSlug": "Survival",
       "specId": 255,
+      "classId": 774,
       "backup_SpellId": ["360952"]
     },
     "mage_arcane": {
       "classSlug": "Mage",
       "specSlug": "Arcane",
       "specId": 62,
+      "classId": 658,
       "backup_SpellId": ["365362"]
     },
     "mage_fire": {
       "classSlug": "Mage",
       "specSlug": "Fire",
       "specId": 63,
+      "classId": 658,
       "backup_SpellId": ["190319"]
     },
     "mage_frost": {
       "classSlug": "Mage",
       "specSlug": "Frost",
       "specId": 64,
+      "classId": 658,
       "backup_SpellId": ["12472"]
     },
     "monk_brewmaster": {
       "classSlug": "Monk",
       "specSlug": "Brewmaster",
-      "specId": 268
+      "specId": 268,
+      "classId": 1000
     },
     "monk_windwalker": {
       "classSlug": "Monk",
       "specSlug": "Windwalker",
       "specId": 269,
+      "classId": 1000,
       "backup_SpellId": ["388663"] 
     },
     "paladin_protection": {
       "classSlug": "Paladin",
       "specSlug": "Protection",
-      "specId": 66
+      "specId": 66,
+      "classId": 790
     },
     "paladin_retribution": {
       "classSlug": "Paladin",
       "specSlug": "Retribution",
-      "specId": 70
+      "specId": 70,
+      "classId": 790
     },
     "priest_shadow": {
       "classSlug": "Priest",
       "specSlug": "Shadow",
       "specId": 258,
+      "classId": 795,
       "backup_SpellId": ["228260"] 
     },
     "rogue_outlaw": {
       "classSlug": "Rogue",
       "specSlug": "Outlaw",
       "specId": 260,
+      "classId": 852,
       "backup_SpellId": ["13750"] 
     },
     "rogue_assassination": {
       "classSlug": "Rogue",
       "specSlug": "Assassination",
-      "specId": 259
+      "specId": 259,
+      "classId": 852
     },
     "rogue_subtlety": {
       "classSlug": "Rogue",
       "specSlug": "Subtlety",
       "specId": 261,
+      "classId": 852,
       "backup_SpellId": ["185313"] 
     },
     "shaman_elemental": {
       "classSlug": "Shaman",
       "specSlug": "Elemental",
       "specId": 262,
+      "classId": 786,
       "backup_SpellId": ["114050"] 
     },
     "shaman_enhancement": {
       "classSlug": "Shaman",
       "specSlug": "Enhancement",
       "specId": 263,
+      "classId": 786,
       "backup_SpellId": ["51533"] 
     },
     "warlock_affliction": {
       "classSlug": "Warlock",
       "specSlug": "Affliction",
+      "classId": 720,
       "specId": 265 
     },
     "warlock_demonology": {
       "classSlug": "Warlock",
       "specSlug": "Demonology",
+      "classId": 720,
       "specId": 266,
       "backup_SpellId": ["456323"]
     },
     "warlock_destruction": {
       "classSlug": "Warlock",
       "specSlug": "Destruction",
+      "classId": 720,
       "specId": 267
     },
     "warrior_arms": {
       "classSlug": "Warrior",
       "specSlug": "Arms",
       "specId": 71,
+      "classId": 850,
       "backup_SpellId": ["107574"]
     },
     "warrior_fury": {
       "classSlug": "Warrior",
       "specSlug": "Fury",
       "specId": 72,
+      "classId": 850,
       "backup_SpellId": ["107574"]
     },
     "warrior_protection": {
       "classSlug": "Warrior",
       "specSlug": "Protection",
-      "specId": 73
+      "specId": 73,
+      "classId": 850
     }
 
   }
