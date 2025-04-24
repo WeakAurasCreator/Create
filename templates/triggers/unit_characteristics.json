@@ -1,0 +1,21 @@
+{
+  "trigger": {
+    "use_specId": false,
+    "type": "unit",
+    "use_absorbHealMode": true,
+    "use_absorbMode": true,
+    "event": "Unit Characteristics",
+    "unit": "group",
+    "use_class": false,
+    "specId": {
+      "single": 63,
+      "multi": {
+        }
+    },
+    "use_spec": true,
+    "use_character": false,
+    "use_unit": true,
+    "debuffType": "HELPFUL"
+  },
+  "untrigger": {}
+}

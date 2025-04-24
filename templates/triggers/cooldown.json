@@ -1,0 +1,15 @@
+{
+    "trigger": {
+    "type": "spell",
+    "use_genericShowOn": true,
+    "event": "Cooldown Progress (Spell)",
+    "unit": "player",
+    "use_spellName": true,
+    "debuffType": "HELPFUL",
+    "genericShowOn": "showOnReady",
+    "use_track": true,
+    "spellName": 10060
+    },
+    "untrigger": {
+    }
+}

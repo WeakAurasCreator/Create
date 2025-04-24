@@ -1,0 +1,101 @@
+{
+  "grow": "DOWN",
+  "controlledChildren": ["Balance"],
+  "borderBackdrop": "Blizzard Tooltip",
+  "xOffset": 0,
+  "yOffset": 0,
+  "anchorPoint": "CENTER",
+  "borderColor": [0, 0, 0, 1],
+  "space": 2,
+  "actions": {
+    "start": {},
+    "finish": {},
+    "init": {}
+  },
+  "triggers": [
+    {
+      "trigger": {
+        "debuffType": "HELPFUL",
+        "type": "aura2",
+        "spellIds": {},
+        "subeventSuffix": "_CAST_START",
+        "unit": "player",
+        "names": {},
+        "event": "Health",
+        "subeventPrefix": "SPELL"
+      },
+      "untrigger": {}
+    }
+  ],
+  "columnSpace": 1,
+  "radius": 200,
+  "selfPoint": "TOP",
+  "align": "CENTER",
+  "stagger": 0,
+  "subRegions": {},
+  "config": {},
+  "internalVersion": 84,
+  "load": {
+    "talent": {
+      "multi": {}
+    },
+    "spec": {
+      "multi": {}
+    },
+    "class": {
+      "multi": {}
+    },
+    "size": {
+      "multi": {}
+    }
+  },
+  "limit": 1,
+  "backdropColor": [1, 1, 1, 0.5],
+  "fullCircle": true,
+  "animate": false,
+  "authorOptions": {},
+  "scale": 1,
+  "centerType": "LR",
+  "border": false,
+  "borderEdge": "Square Full White",
+  "regionType": "dynamicgroup",
+  "borderSize": 2,
+  "sort": "none",
+  "gridType": "RD",
+  "rotation": 0,
+  "constantFactor": "RADIUS",
+  "stepAngle": 15,
+  "borderOffset": 4,
+  "rowSpace": 1,
+  "alpha": 1,
+  "id": "Cooldowns active (pi)",
+  "frameStrata": 1,
+  "gridWidth": 5,
+  "anchorFrameType": "SCREEN",
+  "useLimit": true,
+  "borderInset": 1,
+  "animation": {
+    "start": {
+      "easeStrength": 3,
+      "type": "none",
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "main": {
+      "easeStrength": 3,
+      "type": "none",
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "finish": {
+      "easeStrength": 3,
+      "type": "none",
+      "duration_type": "seconds",
+      "easeType": "none"
+    }
+  },
+  "uid": "u9)7(ecU91C",
+  "conditions": {},
+  "information": {},
+  "arcLength": 360
+}

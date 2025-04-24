@@ -1,0 +1,136 @@
+{
+  "iconSource": -1,
+  "color": [1, 1, 1, 1],
+  "adjustedMax": "",
+  "adjustedMin": "",
+  "yOffset": 0,
+  "anchorPoint": "CENTER",
+  "cooldownSwipe": true,
+  "cooldownEdge": false,
+  "icon": true,
+  "triggers": {},
+  "internalVersion": 84,
+  "progressSource": [-1, ""],
+  "selfPoint": "CENTER",
+  "desaturate": false,
+  "subRegions": [
+    {
+      "type": "subbackground"
+    },
+    {
+      "text_shadowXOffset": 0,
+      "text_text_format_s_format": "none",
+      "text_text": "%s",
+      "text_shadowColor": [0, 0, 0, 1],
+      "text_selfPoint": "AUTO",
+      "text_automaticWidth": "Auto",
+      "text_fixedWidth": 64,
+      "anchorYOffset": 0,
+      "text_justify": "CENTER",
+      "rotateText": "NONE",
+      "type": "subtext",
+      "text_color": [1, 1, 1, 1],
+      "text_font": "Friz Quadrata TT",
+      "text_shadowYOffset": 0,
+      "text_wordWrap": "WordWrap",
+      "text_visible": true,
+      "anchor_point": "INNER_BOTTOMRIGHT",
+      "text_fontSize": 12,
+      "anchorXOffset": 0,
+      "text_fontType": "OUTLINE"
+    },
+    {
+      "glowFrequency": 0.25,
+      "type": "subglow",
+      "useGlowColor": false,
+      "glowType": "buttonOverlay",
+      "glowLength": 10,
+      "glowYOffset": 0,
+      "glowColor": [1, 1, 1, 1],
+      "glowDuration": 1,
+      "glowXOffset": 0,
+      "glowThickness": 1,
+      "glowScale": 1,
+      "glow": false,
+      "glowLines": 8,
+      "glowBorder": false
+    }
+  ],
+  "height": 64,
+  "load": {
+    "ingroup": {
+      "single": "group",
+      "multi": {
+        "group": true
+      }
+    },
+    "talent": {
+      "multi": {}
+    },
+    "class": {
+      "multi": {}
+    },
+    "spec": {
+      "multi": {}
+    },
+    "size": {
+      "multi": {}
+    }
+  },
+  "useAdjustededMax": false,
+  "useAdjustededMin": false,
+  "regionType": "icon",
+  "actions": {
+    "start": {
+      "do_glow": true,
+      "glow_type": "Pixel",
+      "glow_frame_type": "UNITFRAME",
+      "glow_action": "show"
+    },
+    "finish": {
+      "do_glow": false,
+      "hide_all_glows": true,
+      "glow_frame_type": "UNITFRAME",
+      "glow_action": "show"
+    },
+    "init": {}
+  },
+  "information": {},
+  "animation": {
+    "start": {
+      "easeStrength": 3,
+      "type": "none",
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "main": {
+      "easeStrength": 3,
+      "type": "none",
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "finish": {
+      "easeStrength": 3,
+      "type": "none",
+      "duration_type": "seconds",
+      "easeType": "none"
+    }
+  },
+  "parent": "Cooldowns active (pi)",
+  "authorOptions": {},
+  "zoom": 0,
+  "cooldownTextDisabled": false,
+  "uid": "WFq)kR7ppQu",
+  "useCooldownModRate": true,
+  "id": "Pi-Aura-Template",
+  "anchorFrameType": "SCREEN",
+  "alpha": 1,
+  "width": 64,
+  "frameStrata": 1,
+  "config": {},
+  "inverse": false,
+  "keepAspectRatio": false,
+  "conditions": {},
+  "cooldown": true,
+  "xOffset": 0
+}

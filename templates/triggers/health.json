@@ -1,0 +1,20 @@
+{
+  "trigger": {
+    "use_specId": false,
+    "type": "unit",
+    "use_absorbHealMode": true,
+    "class": "DRUID",
+    "event": "Health",
+    "use_unit": true,
+    "use_class": false,
+    "specId": {
+      "multi": {
+        "63": true
+      }
+    },
+    "use_absorbMode": true,
+    "unit": "group",
+    "debuffType": "HELPFUL"
+  },
+  "untrigger": {}
+}
