@@ -366,6 +366,8 @@ def main():
             # use raid profile for single target, dungeon profile otherwise
             prof = prof_raid if nt == 1 else prof_dung
             try:
+                print(f"Raid build: {raid_build}")
+                print(f"Dungeon build: {dung_build}")
                 print(f"Running simulation with build: {prof}")
                 d0, buffs = run_sim_in_memory(prof, enable_pi=False, num_targets=nt)
                 d1, buffs = run_sim_in_memory(prof, enable_pi=True, num_targets=nt)
