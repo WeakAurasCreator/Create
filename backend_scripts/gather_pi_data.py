@@ -27,6 +27,22 @@ TARGET_COUNTS = [1, 3, 5, 8, 15]
 with open(CONFIG_PATH) as f:
     PROFILE_MAP = {k.lower(): v for k, v in json.load(f).items()}
 
+with open(Path(__file__).parent / "data/talents/talents.json") as f:
+    talents_data = json.load(f)
+
+# Map each Raidbots entry.id to its tree index: 0=class, 1=spec, 2=hero
+talent_tree_map: dict[int,int] = {}
+for node in talents_data.get("classNodes", []):
+    for entry in node.get("entries", []):
+        talent_tree_map[int(entry["id"])] = 0
+for node in talents_data.get("specNodes", []):
+    for entry in node.get("entries", []):
+        talent_tree_map[int(entry["id"])] = 1
+for node in talents_data.get("heroNodes", []):
+    for entry in node.get("entries", []):
+        talent_tree_map[int(entry["id"])] = 2
+
+
 # ──────────────────────────────────────────────────────────
 # Helpers: GitHub → Latest Tier Folder & Profile Fetch
 # ──────────────────────────────────────────────────────────
@@ -56,6 +72,39 @@ def fetch_profile_texts(tier_folder):
         profiles[name] = txt
     return profiles
 
+def split_tree_overrides(pairs: list[tuple[int,int]]):
+    class_pts, spec_pts, hero_pts = [], [], []
+    for tid, pts in pairs:
+        tree = talent_tree_map.get(tid, 1)   # default to spec if unknown
+        if tree == 0:
+            class_pts.append(f"{tid}:{pts}")
+        elif tree == 1:
+            spec_pts.append(f"{tid}:{pts}")
+        elif tree ==2:
+            hero_pts.append(f"{tid}:{pts}")
+        else:
+            print(f"⚠️ Unknown talent ID {tid} in {pairs}")
+    return (
+        "/".join(class_pts),
+        "/".join(spec_pts),
+        "/".join(hero_pts)
+    )
+
+def inject_overrides(text: str, cls: str, spec: str, hero: str) -> str:
+    """
+    Strips any existing 'talents=' line and prepends:
+      class_talents=…
+      spec_talents=…
+      hero_talents=…
+    """
+    # Remove old talents= line if present
+    cleaned = re.sub(r"(?m)^talents=.*\n?", "", text)
+    header = "\n".join([
+        f"class_talents={cls}" if cls else "",
+        f"spec_talents={spec}" if spec else "",
+        f"hero_talents={hero}" if hero else "",
+    ]).strip() + "\n"
+    return header + cleaned
 # ──────────────────────────────────────────────────────────
 # Helpers: Warcraft Logs OAuth2 & Top-Talent Fetching
 # ──────────────────────────────────────────────────────────
@@ -252,8 +301,8 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
     sim_file.write_text(profile_text + override)
     cmd = [
         SIMC_CMD, str(sim_file),
-        f"--iterations={ITERATIONS}",
-        f"--threads={THREADS}",
+        f"iterations={ITERATIONS}",
+        f"threads={THREADS}",
         "log_spell_id=1",
         "report_details=1",
         f"json2={json_file}",
@@ -369,8 +418,12 @@ def main():
         dung_override = build_tree_override(dung_build)
         print(f"Raid build override: {raid_override}")
         print(f"Dungeon build override: {dung_override}")
-        prof_raid = re.sub(r'(?m)^talents=[^\r\n]*$', raid_override, text, flags=re.M)
-        prof_dung = re.sub(r'(?m)^talents=[^\r\n]*$', dung_override, text, flags=re.M)
+
+        raid_cls, raid_spec, raid_hero = split_tree_overrides(raid_build)
+        dung_cls, dung_spec, dung_hero = split_tree_overrides(dung_build)
+
+        prof_raid = inject_overrides(text, raid_cls, raid_spec, raid_hero)
+        prof_dung = inject_overrides(text, dung_cls, dung_spec, dung_hero)
 
         for nt in TARGET_COUNTS:
             # use raid profile for single target, dungeon profile otherwise
