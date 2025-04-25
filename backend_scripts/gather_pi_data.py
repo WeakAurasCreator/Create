@@ -267,6 +267,23 @@ def to_snake(name: str) -> str:
     s = re.sub(r"_+", "_", s).strip("_")
     return s
 
+def split_tree_overrides(pairs: list[tuple[int,int]]):
+    class_pts, spec_pts, hero_pts = [], [], []
+    for tid, pts in pairs:
+        tree = talent_tree_map.get(tid, 1)   # default to spec if unknown
+        if tree == 0:
+            class_pts.append(f"{tid}:{pts}")
+        elif tree == 1:
+            spec_pts.append(f"{tid}:{pts}")
+        elif tree ==2:
+            hero_pts.append(f"{tid}:{pts}")
+        else:
+            print(f"⚠️ Unknown talent ID {tid} in {pairs}")
+    return (
+        "/".join(class_pts),
+        "/".join(spec_pts),
+        "/".join(hero_pts)
+    )
 
 def extract_external_buffs(profile_text: str) -> set[str]:
     """
