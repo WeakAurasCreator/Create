@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+            fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -50,13 +52,10 @@ jobs:
           chmod +x backend_scripts/gather_pi_data.py
           python ./backend_scripts/gather_pi_data.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git config pull.rebase true   # rebase
-          git add data/
-          git commit -m "Updated PiInfo" || echo "No changes to commit"
-          git clean -fd
-          git pull || echo "No changes to pull"
+      - name: Auto-commit & push updated data
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated PiInfo"
+          file_pattern: "data/**"
+          branch: main
           git push || echo "No changes to push"
