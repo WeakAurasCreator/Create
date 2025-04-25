@@ -98,17 +98,20 @@ def inject_overrides(text: str, cls: str, spec: str, hero: str) -> str:
     # Find and replace the talents= line
     pattern = re.compile(r"(?m)^talents=.*$")
     if pattern.search(text):
+        print(f"⚠️ Replacing talents= line")
         return pattern.sub(new_talent_lines, text)
     else:
         # Fallback: insert after 'spec=' line
         spec_match = re.search(r"(?m)^spec=.*$", text)
         if spec_match:
             insert_at = spec_match.end()
+            print(f"⚠️ No talents= line found; inserting talents lines after spec= at {insert_at}")
             return (
                 text[:insert_at] + "\n" + new_talent_lines + text[insert_at:]
             )
         else:
             # If no good spot, just prepend as last resort
+            print(f"⚠️ No spec= line found; prepending talents lines")
             return new_talent_lines + "\n" + text
 
 
