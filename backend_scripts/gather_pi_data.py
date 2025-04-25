@@ -295,8 +295,10 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
     runs simc, returns parsed DPS float.
     """
     sim_file = Path("_tmp.simc")
-    json_file = Path(f"../data/sims/{character_class}-{character_spec}-{num_targets}-{enable_pi}.json")
-    json_file.parent.mkdir(exist_ok=True)
+    json_file = Path(f"/data/sims/{character_class}-{character_spec}-{num_targets}-{enable_pi}.json")
+    json_file.parent.mkdir(parents=True, exist_ok=True)
+
+
     pi_flag = 1 if enable_pi else 0
     override = (
         "\n# Power Infusion override\n"
