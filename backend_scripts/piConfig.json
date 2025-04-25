@@ -17,7 +17,7 @@
       "specSlug": "Frost",
       "specId": 251,
       "classId": 750,
-      "backup_SpellId": ["51271"]
+      "backup_SpellId": ["51271", "152279"]
     },
     "demon_hunter_havoc": {
       "classSlug": "DemonHunter",
