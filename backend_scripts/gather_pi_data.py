@@ -246,14 +246,7 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
 
     return popular_build
 
-def build_tree_override(pairs: list[tuple[int,int]]) -> str:
-    """
-    Given [(talentID, points), …] and scope in
-    {'class_talents','spec_talents','hero_talents'},
-    returns "scope=ID1:pts/ID2:pts/…".
-    """
-    entries = "/".join(f"{tid}:{pts}" for tid, pts in pairs)
-    return f"talents={entries}"
+
 
 def to_snake(name: str) -> str:
     """
@@ -454,10 +447,6 @@ def main():
         # comment + inject-or-replace
         print(f"Raid build: {raid_build}")
         print(f"Dungeon build: {dung_build}")
-        raid_override = build_tree_override(raid_build)
-        dung_override = build_tree_override(dung_build)
-        print(f"Raid build override: {raid_override}")
-        print(f"Dungeon build override: {dung_override}")
 
         raid_cls, raid_spec, raid_hero = split_tree_overrides(raid_build)
         dung_cls, dung_spec, dung_hero = split_tree_overrides(dung_build)
@@ -465,12 +454,12 @@ def main():
         prof_raid = inject_overrides(text, raid_cls, raid_spec, raid_hero)
         prof_dung = inject_overrides(text, dung_cls, dung_spec, dung_hero)
 
+        print(f"Raid build: {prof_raid}")
+        print(f"Dungeon build: {prof_dung}")
         for nt in TARGET_COUNTS:
             # use raid profile for single target, dungeon profile otherwise
             prof = prof_raid if nt == 1 else prof_dung
             try:
-                print(f"Raid build: {raid_build}")
-                print(f"Dungeon build: {dung_build}")
                 print(f"Running simulation with build: {prof}")
                 d0, buffs = run_sim_in_memory(prof, enable_pi=False, num_targets=nt, character_class=class_name,character_spec=spec_name)
                 d1, buffs = run_sim_in_memory(prof, enable_pi=True, num_targets=nt, character_class=class_name,character_spec=spec_name)
