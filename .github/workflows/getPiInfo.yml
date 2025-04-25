@@ -58,4 +58,3 @@ jobs:
           commit_message: "Updated PiInfo"
           file_pattern: "data/**"
           branch: main
-          git push || echo "No changes to push"
