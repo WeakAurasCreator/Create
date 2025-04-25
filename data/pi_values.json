@@ -4,10 +4,10 @@
     "class": "DeathKnight",
     "specId": 250,
     "targets": 1,
-    "dps_no_pi": 202117.24,
-    "dps_with_pi": 203062.49,
-    "dps_delta": 945.25,
-    "dps_pct_gain": 0.47,
+    "dps_no_pi": 202346.86,
+    "dps_with_pi": 202631.53,
+    "dps_delta": 284.67,
+    "dps_pct_gain": 0.14,
     "pi_dep_spell_ids": {}
   },
   {
@@ -15,10 +15,10 @@
     "class": "DeathKnight",
     "specId": 250,
     "targets": 3,
-    "dps_no_pi": 231719.0,
-    "dps_with_pi": 231173.72,
-    "dps_delta": -545.29,
-    "dps_pct_gain": -0.24,
+    "dps_no_pi": 231304.72,
+    "dps_with_pi": 231472.95,
+    "dps_delta": 168.22,
+    "dps_pct_gain": 0.07,
     "pi_dep_spell_ids": {}
   },
   {
@@ -26,10 +26,10 @@
     "class": "DeathKnight",
     "specId": 250,
     "targets": 5,
-    "dps_no_pi": 260630.61,
-    "dps_with_pi": 260491.26,
-    "dps_delta": -139.35,
-    "dps_pct_gain": -0.05,
+    "dps_no_pi": 260064.02,
+    "dps_with_pi": 260251.92,
+    "dps_delta": 187.9,
+    "dps_pct_gain": 0.07,
     "pi_dep_spell_ids": {}
   },
   {
@@ -37,10 +37,10 @@
     "class": "DeathKnight",
     "specId": 250,
     "targets": 8,
-    "dps_no_pi": 303857.3,
-    "dps_with_pi": 304363.25,
-    "dps_delta": 505.95,
-    "dps_pct_gain": 0.17,
+    "dps_no_pi": 304134.31,
+    "dps_with_pi": 303696.76,
+    "dps_delta": -437.55,
+    "dps_pct_gain": -0.14,
     "pi_dep_spell_ids": {}
   },
   {
@@ -48,10 +48,10 @@
     "class": "DeathKnight",
     "specId": 250,
     "targets": 15,
-    "dps_no_pi": 405338.89,
-    "dps_with_pi": 405178.22,
-    "dps_delta": -160.67,
-    "dps_pct_gain": -0.04,
+    "dps_no_pi": 406355.32,
+    "dps_with_pi": 406420.47,
+    "dps_delta": 65.15,
+    "dps_pct_gain": 0.02,
     "pi_dep_spell_ids": {}
   },
   {
@@ -59,10 +59,10 @@
     "class": "DeathKnight",
     "specId": 252,
     "targets": 1,
-    "dps_no_pi": 83487.29,
-    "dps_with_pi": 83584.8,
-    "dps_delta": 97.51,
-    "dps_pct_gain": 0.12,
+    "dps_no_pi": 83451.57,
+    "dps_with_pi": 83444.92,
+    "dps_delta": -6.65,
+    "dps_pct_gain": -0.01,
     "pi_dep_spell_ids": {
       "63560": 63560
     }
@@ -72,10 +72,10 @@
     "class": "DeathKnight",
     "specId": 252,
     "targets": 3,
-    "dps_no_pi": 128076.66,
-    "dps_with_pi": 129373.47,
-    "dps_delta": 1296.81,
-    "dps_pct_gain": 1.01,
+    "dps_no_pi": 127816.71,
+    "dps_with_pi": 129566.45,
+    "dps_delta": 1749.74,
+    "dps_pct_gain": 1.37,
     "pi_dep_spell_ids": {
       "63560": 63560
     }
@@ -85,10 +85,10 @@
     "class": "DeathKnight",
     "specId": 252,
     "targets": 5,
-    "dps_no_pi": 173648.07,
-    "dps_with_pi": 175565.3,
-    "dps_delta": 1917.23,
-    "dps_pct_gain": 1.1,
+    "dps_no_pi": 173729.43,
+    "dps_with_pi": 176128.36,
+    "dps_delta": 2398.94,
+    "dps_pct_gain": 1.38,
     "pi_dep_spell_ids": {
       "63560": 63560
     }
@@ -98,10 +98,10 @@
     "class": "DeathKnight",
     "specId": 252,
     "targets": 8,
-    "dps_no_pi": 248411.73,
-    "dps_with_pi": 249356.31,
-    "dps_delta": 944.58,
-    "dps_pct_gain": 0.38,
+    "dps_no_pi": 248215.01,
+    "dps_with_pi": 250034.06,
+    "dps_delta": 1819.05,
+    "dps_pct_gain": 0.73,
     "pi_dep_spell_ids": {
       "63560": 63560
     }
@@ -111,10 +111,10 @@
     "class": "DeathKnight",
     "specId": 252,
     "targets": 15,
-    "dps_no_pi": 383272.34,
-    "dps_with_pi": 385176.76,
-    "dps_delta": 1904.42,
-    "dps_pct_gain": 0.5,
+    "dps_no_pi": 382498.05,
+    "dps_with_pi": 384129.17,
+    "dps_delta": 1631.12,
+    "dps_pct_gain": 0.43,
     "pi_dep_spell_ids": {
       "63560": 63560
     }
