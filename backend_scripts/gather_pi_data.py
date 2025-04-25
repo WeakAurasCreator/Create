@@ -115,21 +115,6 @@ def inject_overrides(text: str, cls: str, spec: str, hero: str) -> str:
             return new_talent_lines + "\n" + text
 
 
-def inject_overrides(text: str, cls: str, spec: str, hero: str) -> str:
-    """
-    Strips any existing 'talents=' line and prepends:
-      class_talents=…
-      spec_talents=…
-      hero_talents=…
-    """
-    # Remove old talents= line if present
-    cleaned = re.sub(r"(?m)^talents=.*\n?", "", text)
-    header = "\n".join([
-        f"class_talents={cls}" if cls else "",
-        f"spec_talents={spec}" if spec else "",
-        f"hero_talents={hero}" if hero else "",
-    ]).strip() + "\n"
-    return header + cleaned
 # ──────────────────────────────────────────────────────────
 # Helpers: Warcraft Logs OAuth2 & Top-Talent Fetching
 # ──────────────────────────────────────────────────────────
