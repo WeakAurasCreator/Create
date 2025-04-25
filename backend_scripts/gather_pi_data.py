@@ -32,15 +32,22 @@ with open(Path("data")/"talents"/"talents.json") as f:
 
 # Map each Raidbots entry.id to its tree index: 0=class, 1=spec, 2=hero
 talent_tree_map: dict[int,int] = {}
-for node in talents_data.get("classNodes", []):
-    for entry in node.get("entries", []):
-        talent_tree_map[int(entry["id"])] = 0
-for node in talents_data.get("specNodes", []):
-    for entry in node.get("entries", []):
-        talent_tree_map[int(entry["id"])] = 1
-for node in talents_data.get("heroNodes", []):
-    for entry in node.get("entries", []):
-        talent_tree_map[int(entry["id"])] = 2
+for spec in talents_data:
+    for node in spec.get("classNodes", []):
+        for entry in node.get("entries", []):
+            if entry == {}: 
+                continue
+            talent_tree_map[int(entry["id"])] = 0
+    for node in spec.get("specNodes", []):
+        for entry in node.get("entries", []):
+            if entry == {}: 
+                continue
+            talent_tree_map[int(entry["id"])] = 1
+    for node in spec.get("heroNodes", []):
+        for entry in node.get("entries", []):
+            if entry == {}: 
+                continue
+            talent_tree_map[int(entry["id"])] = 2
 
 
 # ──────────────────────────────────────────────────────────
