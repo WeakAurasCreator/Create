@@ -288,7 +288,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
     runs simc, returns parsed DPS float.
     """
     sim_file = Path("_tmp.simc")
-    json_file = Path(f"data/sims/{character_class}-{character_spec}-{num_targets}.json")
+    json_file = Path(f"data/sims/{character_class}-{character_spec}-{num_targets}-{enable_pi}.json")
     json_file.parent.mkdir(exist_ok=True)
     pi_flag = 1 if enable_pi else 0
     override = (
@@ -432,8 +432,8 @@ def main():
                 print(f"Raid build: {raid_build}")
                 print(f"Dungeon build: {dung_build}")
                 print(f"Running simulation with build: {prof}")
-                d0, buffs = run_sim_in_memory(prof, enable_pi=False, num_targets=nt)
-                d1, buffs = run_sim_in_memory(prof, enable_pi=True, num_targets=nt)
+                d0, buffs = run_sim_in_memory(prof, enable_pi=False, num_targets=nt, character_class=class_name,character_spec=spec_name)
+                d1, buffs = run_sim_in_memory(prof, enable_pi=True, num_targets=nt, character_class=class_name,character_spec=spec_name)
             except RuntimeError as e:
                 print(f"⚠️  Skipping {class_name} {spec_name}: {e}")
                 continue
