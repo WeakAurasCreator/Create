@@ -57,4 +57,3 @@ jobs:
         with:
           commit_message: "Updated PiInfo"
           file_pattern: "data/**"
-          branch: main
