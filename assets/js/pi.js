@@ -28,6 +28,25 @@ Promise.all(piAuraFetches)
 
   window.copyToClipboard = copyToClipboard;
 
+// World of Warcraft class colors (hex) from https://warcraft.wiki.gg/wiki/Class_colors 
+const classColors = {
+  'DeathKnight': '#C41E3A',
+  'DemonHunter': '#A330C9',
+  'Druid':        '#FF7C0A',
+  'Evoker':       '#33937F',
+  'Hunter':       '#AAD372',
+  'Mage':         '#3FC7EB',
+  'Monk':         '#00FF98',
+  'Paladin':      '#F48CBA',
+  'Priest':       '#FFFFFF',
+  'Rogue':        '#FFF468',
+  'Shaman':       '#0070DD',
+  'Warlock':      '#8788EE',
+  'Warrior':      '#C69B6D'
+};
+
+
+
 function setupPiData(data){
   const targetSelect = document.getElementById('targetSelect');
     const ctx = document.getElementById('dpsChart').getContext('2d');
@@ -41,7 +60,8 @@ function setupPiData(data){
       opt.text = `${t} Target${t > 1 ? 's' : ''}`;
       targetSelect.appendChild(opt);
     });
-
+    $('#targetSelect').selectpicker('refresh');
+    $("#targetSelect").selectpicker("val", targets[0].toString());
     // Render chart for selected target count
     function renderChart(targetCount) {
       // Filter entries for this target count
@@ -49,7 +69,8 @@ function setupPiData(data){
 
       // Map to specs and absolute DPS delta; treat negatives as zero
       const specGains = entries.map(e => ({
-        spec: `${e.class} - ${e.spec}`,
+        class: e.class, 
+        spec: e.spec,
         gain: e.dps_delta > 0 ? e.dps_delta : 0
       }));
 
@@ -58,11 +79,14 @@ function setupPiData(data){
 
       const labels = specGains.map(e => e.spec);
       const values = specGains.map(e => e.gain);
-      const colors = values.map(v => v > 0 ? 'rgba(54, 162, 235, 0.7)' : 'rgba(200,200,200,0.7)');
+      const colors = specGains.map(e => e.gain > 0
+           ? classColors[e.class]       // <-- pick exactly that class’s hex code
+           : 'rgba(200,200,200,0.7)'
+         );
 
       // If chart already exists, destroy before creating
       if (chart) chart.destroy();
-
+      Chart.defaults.color = '#FFFFFF';
       chart = new Chart(ctx, {
         type: 'bar',
         data: {
@@ -71,7 +95,7 @@ function setupPiData(data){
             label: 'Absolute DPS Gain',
             data: values,
             backgroundColor: colors,
-            borderColor: colors.map(c => c.replace('0.7','1')),
+            borderColor: colors,
             borderWidth: 1
           }]
         },
@@ -80,10 +104,19 @@ function setupPiData(data){
           scales: {
             x: {
               beginAtZero: true,
-              title: { display: true, text: 'DPS Gain' }
+              title: { display: true, text: 'DPS Gain' },
+              grid: {
+                color: '#464545',
+                tickColor: '#888888'
+              }
             },
             y: {
-              title: { display: true, text: 'Spec' }
+              title: { display: false, text: 'Spec' },
+              grid: {
+                color: '#464545',
+                tickColor: '#888888'
+              }
+              
             }
           },
           plugins: {
@@ -93,8 +126,12 @@ function setupPiData(data){
                   ? `${ctx.formattedValue}`
                   : 'Non-significant'
               }
-            }
+            },
+            legend: {
+              display: false
+            },
           },
+          
           responsive: true,
           maintainAspectRatio: false
         }
@@ -119,9 +156,7 @@ function generatePiAura(){
   
   const targetArray = dpsLookup.get(Number(targetSelect.value));
   for( key in targetArray){
-    spec = targetArray[key]
-    console.log(spec)
-    console.log(Object.keys(spec).length)
+    spec = targetArray[key];
     let spellIds = {};
     let idx = 1;
     if(Object.keys(spec).length !== 0){
@@ -132,7 +167,6 @@ function generatePiAura(){
       }
     }
     if(Object.keys(spellIds).length === 0)continue;
-    console.log(spellIds)
     let aura = JSON.parse(JSON.stringify(piAura)); // get a copy of the Pi Template
     setAuraId(aura, `${spec.class} - ${spec.spec} [${spec.targets}]`); // set the ID to spec
     setAuraUid(aura,`WACreator_PI_${spec.class}_${spec.spec}_${spec.targets}`); // set the UID to class + spec + targets
@@ -159,7 +193,6 @@ function generatePiAura(){
       setTriggerMode(aura, "custom", "function(t) return t[1] and t[2] and not t[3] end")
     }
     // add aura to group
-    console.log(aura)
     addAuraToGroup(group, aura);
 
   }

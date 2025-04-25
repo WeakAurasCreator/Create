@@ -52,11 +52,6 @@ Promise.all([Promise.all(coreFetches), triggersIndexFetch, dataIndexFetch])
       ...dataFetches
     ]);
   })
-  .then(() => {
-    // at this point, Triggers.triggerA, Triggers.triggerB, … all exist
-    console.log("All triggers loaded:", Triggers);
-    console.log("All data templates loaded:", Data);
-  })
   .catch((err) => console.error("Error loading templates or triggers:", err));
 
 function addAuraToGroup(group, aura) {
