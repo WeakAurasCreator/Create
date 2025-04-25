@@ -27,7 +27,7 @@ TARGET_COUNTS = [1, 3, 5, 8, 15]
 with open(CONFIG_PATH) as f:
     PROFILE_MAP = {k.lower(): v for k, v in json.load(f).items()}
 
-with open(Path(__file__).parent / "data/talents/talents.json") as f:
+with open(Path("data")/"talents"/"talents.json") as f:
     talents_data = json.load(f)
 
 # Map each Raidbots entry.id to its tree index: 0=class, 1=spec, 2=hero
@@ -288,7 +288,7 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
     runs simc, returns parsed DPS float.
     """
     sim_file = Path("_tmp.simc")
-    json_file = Path(f"data/sims/{character_class}-{character_spec}-{num_targets}-{enable_pi}.json")
+    json_file = Path(f"../data/sims/{character_class}-{character_spec}-{num_targets}-{enable_pi}.json")
     json_file.parent.mkdir(exist_ok=True)
     pi_flag = 1 if enable_pi else 0
     override = (
