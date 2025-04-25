@@ -6,8 +6,8 @@ const Data = {};
 // 1) Fetch the 4 core templates + metadata
 const coreFetches = [
   fetch("/templates/ExportData.json").then((r) => r.json()),
-  fetch("/templates/DynamicGroup.json").then((r) => r.json()),
-  fetch("/templates/Icon.json").then((r) => r.json()),
+  fetch("/templates/aura_types/DynamicGroup.json").then((r) => r.json()),
+  fetch("/templates/aura_types/Icon.json").then((r) => r.json()),
   fetch("/data/metadata.json").then((r) => r.json()),
 ];
 
@@ -16,42 +16,41 @@ const triggersIndexFetch = fetch("/templates/triggers/triggerIndex.json").then(
   (r) => r.json()
 ); // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
 
-const dataIndexFetch = fetch("/templates/data/dataIndex.json").then(
-  (r) => r.json()
-); 
+const dataIndexFetch = fetch("/templates/data/dataIndex.json").then((r) =>
+  r.json()
+);
 Promise.all([Promise.all(coreFetches), triggersIndexFetch, dataIndexFetch])
-  .then(([[exportData, DynamicGroup, Icon, metadata], triggerFiles, dataFiles]) => {
-    // assign core templates
-    ExportData = exportData;
-    DynamicGroupTemplate = DynamicGroup;
-    IconTemplate = Icon;
-    MetaData = metadata;
+  .then(
+    ([[exportData, DynamicGroup, Icon, metadata], triggerFiles, dataFiles]) => {
+      // assign core templates
+      ExportData = exportData;
+      DynamicGroupTemplate = DynamicGroup;
+      IconTemplate = Icon;
+      MetaData = metadata;
 
-    // build two lists of fetch-and-assign promises
-    const triggerFetches = triggerFiles.map(fileName =>
-      fetch(`/templates/triggers/${fileName}`)
-        .then(r => r.json())
-        .then(json => {
-          const key = fileName.replace(/\.json$/, "");
-          Triggers[key] = json;
-        })
-    );
+      // build two lists of fetch-and-assign promises
+      const triggerFetches = triggerFiles.map((fileName) =>
+        fetch(`/templates/triggers/${fileName}`)
+          .then((r) => r.json())
+          .then((json) => {
+            const key = fileName.replace(/\.json$/, "");
+            Triggers[key] = json;
+          })
+      );
 
-    const dataFetches = dataFiles.map(fileName =>
-      fetch(`/templates/data/${fileName}`)
-        .then(r => r.json())
-        .then(json => {
-          const key = fileName.replace(/\.json$/, "");
-          Data[key] = json;
-        })
-    );
+      const dataFetches = dataFiles.map((fileName) =>
+        fetch(`/templates/data/${fileName}`)
+          .then((r) => r.json())
+          .then((json) => {
+            const key = fileName.replace(/\.json$/, "");
+            Data[key] = json;
+          })
+      );
 
-    // 3) wait for *all* of them
-    return Promise.all([
-      ...triggerFetches,
-      ...dataFetches
-    ]);
-  })
+      // 3) wait for *all* of them
+      return Promise.all([...triggerFetches, ...dataFetches]);
+    }
+  )
   .catch((err) => console.error("Error loading templates or triggers:", err));
 
 function addAuraToGroup(group, aura) {
@@ -118,69 +117,70 @@ function addTrigger(aura, trigger) {
   aura.triggers.activeTriggerMode = -10;
 }
 
-function setTriggerUnit(trigger, unit){
-  if (Data.units[unit]){
+function setTriggerUnit(trigger, unit) {
+  if (Data.units[unit]) {
     trigger.trigger.unit = Data.units[unit];
-  }
-  else{
+  } else {
     console.error(`Unit "${unit}" not found in Data.units`);
   }
   return trigger;
 }
 
-function setAuraId(aura, idString){
-  if (idString){
+function setAuraId(aura, idString) {
+  if (idString) {
     aura.id = idString;
-  }
-  else{
+  } else {
     console.error(`ID for aura "${aura}" can't be nil`);
   }
   return aura;
 }
 
-function setAuraUid(aura, idString){
-  if (idString){
+function setAuraUid(aura, idString) {
+  if (idString) {
     aura.uid = idString;
-  }
-  else{
+  } else {
     console.error(`UID for aura "${aura}" can't be nil`);
   }
   return aura;
 }
 
-function setSpellIds(trigger, spellIds){
-  if (trigger.trigger.type === "aura2"){
+function setSpellIds(trigger, spellIds) {
+  if (trigger.trigger.type === "aura2") {
     trigger.trigger.auranames = spellIds;
-  }
-  else{
-    console.error(`SpellIds could not be set for trigger "${trigger}" type "${trigger.trigger.type}" not supported`);
+  } else {
+    console.error(
+      `SpellIds could not be set for trigger "${trigger}" type "${trigger.trigger.type}" not supported`
+    );
   }
   return trigger;
 }
 
-function addSpecId(trigger, specId){
-  if (trigger.trigger.type === "unit" && trigger.trigger.event === "Unit Characteristics"){
+function addSpecId(trigger, specId) {
+  if (
+    trigger.trigger.type === "unit" &&
+    trigger.trigger.event === "Unit Characteristics"
+  ) {
     trigger.trigger.specId.multi[specId] = true;
-  }
-  else{
-    console.error(`SpecId could not be set for trigger "${trigger}" type "${trigger.trigger.type}" not supported`);
+  } else {
+    console.error(
+      `SpecId could not be set for trigger "${trigger}" type "${trigger.trigger.type}" not supported`
+    );
   }
   return trigger;
 }
 
-function setDeBuffType(trigger, type){
-  if (Data.debuffType[type]){
+function setDeBuffType(trigger, type) {
+  if (Data.debuffType[type]) {
     trigger.trigger.debuffType = Data.debuffType[type];
-  }
-  else{
+  } else {
     console.error(`Type "${type}" not found in Data.debuffType`);
   }
   return trigger;
 }
 
-function setTriggerMode(aura, mode, customTriggerLogic){
+function setTriggerMode(aura, mode, customTriggerLogic) {
   aura.triggers.disjunctive = mode;
-  if (mode === "custom"){
+  if (mode === "custom") {
     aura.triggers.customTriggerLogic = customTriggerLogic;
   }
   aura.triggers.activeTriggerMode = -10;

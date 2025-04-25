@@ -31,34 +31,35 @@ Promise.all([
 
 // containers for your templates
 let ExportData, DynamicGroupTemplate, IconTemplate, MetaData;
-const Triggers = {};  // ← will hold all the trigger‑JSONs
+const Triggers = {}; // ← will hold all the trigger‑JSONs
 
 // 1) Fetch the 4 core templates + metadata
 const coreFetches = [
-  fetch("/templates/ExportData.json").then(r => r.json()),
-  fetch("/templates/DynamicGroup.json").then(r => r.json()),
-  fetch("/templates/Icon.json").then(r => r.json()),
-  fetch("/data/metadata.json").then(r => r.json()),
+  fetch("/templates/ExportData.json").then((r) => r.json()),
+  fetch("/templates/aura_types/DynamicGroup.json").then((r) => r.json()),
+  fetch("/templates/aura_types/Icon.json").then((r) => r.json()),
+  fetch("/data/metadata.json").then((r) => r.json()),
 ];
 
 // 2) Fetch the triggers index
-const triggersIndexFetch = fetch("/templates/triggers/triggerIndex.json")
-  .then(r => r.json());                                 // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
+const triggersIndexFetch = fetch("/templates/triggers/triggerIndex.json").then(
+  (r) => r.json()
+); // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
 
-Promise.all([ Promise.all(coreFetches), triggersIndexFetch ])
-  .then(([ [exportData, DynamicGroup, Icon, metadata], triggerFiles ]) => {
+Promise.all([Promise.all(coreFetches), triggersIndexFetch])
+  .then(([[exportData, DynamicGroup, Icon, metadata], triggerFiles]) => {
     // assign core templates
-    ExportData           = exportData;
+    ExportData = exportData;
     DynamicGroupTemplate = DynamicGroup;
-    IconTemplate         = Icon;
-    MetaData             = metadata;
+    IconTemplate = Icon;
+    MetaData = metadata;
 
     // 3) now fetch each trigger JSON in parallel
     return Promise.all(
-      triggerFiles.map(fileName =>
+      triggerFiles.map((fileName) =>
         fetch(`/templates/triggers/${fileName}`)
-          .then(r => r.json())
-          .then(json => {
+          .then((r) => r.json())
+          .then((json) => {
             // strip “.json” off the key, e.g. "triggerA"
             const key = fileName.replace(/\.json$/, "");
             Triggers[key] = json;
@@ -66,12 +67,7 @@ Promise.all([ Promise.all(coreFetches), triggersIndexFetch ])
       )
     );
   })
-  .then(() => {
-    // at this point, Triggers.triggerA, Triggers.triggerB, … all exist
-    console.log("All triggers loaded:", Triggers);
-  })
-  .catch(err => console.error("Error loading templates or triggers:", err));
-
+  .catch((err) => console.error("Error loading templates or triggers:", err));
 
 function populateEncounterDropdown(
   tiers,
@@ -266,7 +262,7 @@ function generateWeakAura() {
     selectedEncounters.map((encounter) => `${encounter}`).join(",") || "";
 
   // temp trigger setting for testing
-  let trigger = JSON.parse(JSON.stringify(Triggers.encounterTime)); // get a copy of the encounterTime Trigger Template
+  let trigger = JSON.parse(JSON.stringify(Triggers.encounter)); // get a copy of the encounterTime Trigger Template
   trigger.duration = encounterTime;
   addTrigger(aura, trigger);
 
@@ -310,7 +306,7 @@ function addTrigger(aura, trigger) {
   aura.triggers.activeTriggerMode = -10;
 }
 
-function addAura(group,aura){
+function addAura(group, aura) {
   const existingKeys = Object.keys(group.c)
     .map((k) => parseInt(k, 10))
     .filter((n) => !isNaN(n));

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeakAura Generator</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-icons.css" />
+    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
+</head>
+
+<body class="bg-dark text-white">
+
+    <div class="container mt-5" data-bs-theme="dark">
+        <h1>WeakAura Generator</h1>
+        <p></p>
+
+        <form id="WeakAuraForm">
+            <div class="form-group">
+                <label for="auraType">Aura Type:</label>
+                <select id="auraType" class="form-control">
+                    <option>Icon</option>
+                </select>
+            </div>
+            <div class="form-group" id="sizeFields" style="display: block;">
+                <label for="width">Width:</label>
+                <input type="number" id="width" class="form-control">
+            </div>
+            <div class="form-group" id="heightField" style="display: block;">
+                <label for="height">Height:</label>
+                <input type="number" id="height" class="form-control">
+            </div>
+            <div class="form-group" id="fontSizeField" style="display: block;">
+                <label for="fontSize">Font Size:</label>
+                <input type="number" id="fontSize" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="font">Font:</label>
+                <select id="font" class="form-control">
+                    <option>Friz Quadrata TT</option>
+                </select>
+            </div>
+            <div class="form-group" id="auraDurationField" style="display: block;">
+                <label for="auraDuration">Show aura for x seconds:</label>
+                <input type="number" id="auraDuration" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="trigger">Trigger:</label>
+                <select id="trigger" class="form-control" onchange="handleTriggerChange()">
+                    <option value="encounterTime">Encounter Time</option>
+
+                </select>
+            </div>
+            <div class="form-group" id="encounterTimeField" style="display: block;">
+                <label for="timeInputs">Trigger at x seconds:</label>
+                <div id="timeInputsContainer" class="input-group">
+                </div>
+                <div class="input-group-append">
+                    <button type="button" class="btn btn-secondary" id="addTimeInputButton">+</button>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="encounter" class="form-label">Encounter:</label>
+                <div class="multi-select-container" data-bs-theme="dark">
+                    <select id="encounter" data-style="btn-dark" class="selectpicker" data-live-search="true" multiple
+                        title="Select Encounter(s)..." data-selected-text-format="count">
+                    </select>
+                </div>
+            </div>
+            <button type="button" class="btn btn-primary" onclick="generateWeakAura()">Generate WeakAura</button>
+        </form>
+
+        <div class="mt-4">
+            <label for="output">Output:</label>
+            <textarea id="output" class="form-control" rows="5" readonly></textarea>
+        </div>
+        <button id="copyButton" onclick="copyToClipboard()" class="btn btn-success" disabled>Copy to Clipboard</button>
+        <div id="popupMessage" class="popup">
+            Content copied to clipboard!
+        </div>
+    </div>
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/bootstrap-select.min.js"></script>
+    <script src="assets/js/pako.min.js"></script>
+    <script src="assets/js/encode.js"></script>
+    <script src="assets/js/script.js"></script>
+
+</body>
+
+</html>
