@@ -21,6 +21,7 @@ THREADS     = 4
 REGION      = "EU"
 OUT_JSON    = Path("data") / "pi_values.json"
 CONFIG_PATH  = Path(__file__).parent / "piConfig.json"
+SIM_PATH = Path("data", "sims")
 TARGET_COUNTS = [1, 3, 5, 8, 15]
 
 # Load manual slug → class/spec map
@@ -295,9 +296,8 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
     runs simc, returns parsed DPS float.
     """
     sim_file = Path("_tmp.simc")
-    json_file = Path(f"/data/sims/{character_class}-{character_spec}-{num_targets}-{enable_pi}.json")
-    json_file.parent.mkdir(parents=True, exist_ok=True)
-
+    SIM_PATH.mkdir(parents=True, exist_ok=True)
+    json_file = Path(SIM_PATH,f"{character_class}-{character_spec}-{num_targets}-{enable_pi}.json")
 
     pi_flag = 1 if enable_pi else 0
     override = (
