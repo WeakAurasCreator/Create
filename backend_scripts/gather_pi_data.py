@@ -233,13 +233,14 @@ def extract_buff_ids_from_json(json_path: Path) -> dict[str, int]:
 # ──────────────────────────────────────────────────────────
 # Helpers: Running SimC with/without PI & Parsing DPS
 # ──────────────────────────────────────────────────────────
-def run_sim_in_memory(profile_text, enable_pi, num_targets=1):
+def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="", character_spec=""):
     """
     Writes a temp file with (or without) PI override,
     runs simc, returns parsed DPS float.
     """
     sim_file = Path("_tmp.simc")
-    json_file = Path("_tmp.json")
+    json_file = Path(f"data/sims/{character_class}-{character_spec}-{num_targets}.json")
+    json_file.parent.mkdir(exist_ok=True)
     pi_flag = 1 if enable_pi else 0
     override = (
         "\n# Power Infusion override\n"
