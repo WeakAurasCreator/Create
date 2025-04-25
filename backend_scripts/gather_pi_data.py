@@ -80,23 +80,37 @@ def fetch_profile_texts(tier_folder):
         profiles[name] = txt
     return profiles
 
-def split_tree_overrides(pairs: list[tuple[int,int]]):
-    class_pts, spec_pts, hero_pts = [], [], []
-    for tid, pts in pairs:
-        tree = talent_tree_map.get(tid, 1)   # default to spec if unknown
-        if tree == 0:
-            class_pts.append(f"{tid}:{pts}")
-        elif tree == 1:
-            spec_pts.append(f"{tid}:{pts}")
-        elif tree ==2:
-            hero_pts.append(f"{tid}:{pts}")
+def inject_overrides(text: str, cls: str, spec: str, hero: str) -> str:
+    """
+    Replaces the existing 'talents=' line (if any) with:
+      class_talents=…
+      spec_talents=…
+      hero_talents=…
+    Inserts at the same location as the removed line.
+    """
+    # Create the new talent lines
+    new_talent_lines = "\n".join([
+        f"class_talents={cls}" if cls else "",
+        f"spec_talents={spec}" if spec else "",
+        f"hero_talents={hero}" if hero else ""
+    ]).strip()
+
+    # Find and replace the talents= line
+    pattern = re.compile(r"(?m)^talents=.*$")
+    if pattern.search(text):
+        return pattern.sub(new_talent_lines, text)
+    else:
+        # Fallback: insert after 'spec=' line
+        spec_match = re.search(r"(?m)^spec=.*$", text)
+        if spec_match:
+            insert_at = spec_match.end()
+            return (
+                text[:insert_at] + "\n" + new_talent_lines + text[insert_at:]
+            )
         else:
-            print(f"⚠️ Unknown talent ID {tid} in {pairs}")
-    return (
-        "/".join(class_pts),
-        "/".join(spec_pts),
-        "/".join(hero_pts)
-    )
+            # If no good spot, just prepend as last resort
+            return new_talent_lines + "\n" + text
+
 
 def inject_overrides(text: str, cls: str, spec: str, hero: str) -> str:
     """
