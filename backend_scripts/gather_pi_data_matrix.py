@@ -8,6 +8,7 @@ from pathlib import Path
 from collections import defaultdict, Counter
 import datetime
 import argparse
+import glob
 
 # ──────────────────────────────────────────────────────────
 # Configuration
@@ -385,116 +386,81 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
 
     return float(dps_str), reverse_buff_map
 
-# ──────────────────────────────────────────────────────────
-# Main Pipeline
-# ──────────────────────────────────────────────────────────
-def main():
-    # Env vars
-    gh_token   = os.getenv("GITHUB_TOKEN")
-    wcl_id     = os.getenv("WCL_CLIENT_ID")
-    wcl_secret = os.getenv("WCL_CLIENT_SECRET")
-    if not (wcl_id and wcl_secret):
-        raise RuntimeError("Set WCL_CLIENT_ID & WCL_CLIENT_SECRET")
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching latest tier folder from GitHub...")
-    # 1) Fetch tier profiles
-    tier   = get_latest_tier_folder(gh_token)
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Latest tier folder: {tier}")
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching profiles...")
-    profs  = fetch_profile_texts(tier)
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Found {len(profs)} profiles")
 
-    # 2) WCL token & dynamic zone/boss
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching WCL token...")
-    wcl_token = get_wcl_token(wcl_id, wcl_secret)
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching dynamic zone and boss...")
-    raid_ids, dungeon_ids = fetch_current_tier_encounters(wcl_token)
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Raid IDs: {raid_ids}, Dungeon IDs: {dungeon_ids}")
+def merge_results():
+    # find all sim JSON outputs
+    sim_paths = glob.glob(str(FINAL_SIM_PATH / "**" / "*.json"), recursive=True)
+
+    # organize by (class, spec, targets)
+    runs: dict[tuple[str,str,int], dict[bool, Path]] = {}
+    for p in map(Path, sim_paths):
+        # p = data/sims/final_sims/<Class>_<Spec>/<targets>_<pi>.json
+        folder, fname = p.parent.name, p.name
+        cls, spec = folder.split("_", 1)
+        nt_str, pi_str = p.stem.split("_")
+        key = (cls, spec, int(nt_str))
+        runs.setdefault(key, {})[ bool(int(pi_str)) ] = p
 
     results = []
-    # 3) For each profile: get top talents, inject, sim without/with PI
-    for fname, text in profs.items():
-        name_no_ext = fname[:-5]
-        if name_no_ext.startswith(f"{tier}_"):
-            slug = name_no_ext[len(tier)+1:]
-        else:
-            slug = name_no_ext
-        slug_key = slug.lower()
+    # reload PROFILE_MAP so we can look up backups
+    with open(CONFIG_PATH) as f:
+        profile_map = {k.lower(): v for k,v in json.load(f).items()}
 
-        if slug_key not in PROFILE_MAP:
-            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️  Skipping unknown slug {slug_key}")
+    for (cls, spec, nt), pair in runs.items():
+        if False not in pair or True not in pair:
+            print(f"⚠️  incomplete runs for {cls} {spec} @ {nt} targets, skipping")
             continue
 
-        cfg = PROFILE_MAP[slug_key]
-        class_name = cfg["classSlug"]
-        spec_name  = cfg["specSlug"]
-        spec_id = cfg["specId"]
-        raw_backups   = cfg.get("backup_SpellId", [])
-        backup_spellids = [int(x) for x in raw_backups]
+        def load_dps(path: Path) -> float:
+            j = json.loads(path.read_text())
+            player = j["sim"]["players"][0]
+            # try common JSON2 DPS locations:
+            if "dps" in player:
+                return float(player["dps"])
+            if "statistics" in player and "dps" in player["statistics"]:
+                return float(player["statistics"]["dps"]["mean"])
+            raise KeyError(f"No DPS found in {path}")
 
-        try:    
-            raid_build = fetch_top_talents(wcl_token, raid_ids,    class_name, spec_name)
-            dung_build = fetch_top_talents(wcl_token, dungeon_ids, class_name, spec_name)
-        except RuntimeError as e:
-            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️  Skipping {class_name} {spec_name}: {e}")
-            continue
-        # inject talents override at top of profile
-        # comment + inject-or-replace
+        d0 = load_dps(pair[False])
+        d1 = load_dps(pair[True])
+        delta = d1 - d0
+        pct   = (delta / d0) * 100
 
-        raid_cls, raid_spec, raid_hero = split_tree_overrides(raid_build)
-        dung_cls, dung_spec, dung_hero = split_tree_overrides(dung_build)
+        # extract buffs from the profile file used for the with-PI run
+        prof_file = PROFILE_PATH / f"{cls}_{spec}_{nt}_1.simc"
+        deps = extract_external_buffs(prof_file.read_text())
 
-        prof_raid = inject_overrides(text, raid_cls, raid_spec, raid_hero)
-        prof_dung = inject_overrides(text, dung_cls, dung_spec, dung_hero)
-        print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Started simming {class_name} {spec_name}")
-        for nt in TARGET_COUNTS:
-            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Started simming target count {nt}")
-            # use raid profile for single target, dungeon profile otherwise
-            prof = prof_raid if nt == 1 else prof_dung
-            try:
-                d0, buffs = run_sim_in_memory(prof, enable_pi=False, num_targets=nt, character_class=class_name,character_spec=spec_name)
-                d1, buffs = run_sim_in_memory(prof, enable_pi=True, num_targets=nt, character_class=class_name,character_spec=spec_name)
-            except RuntimeError as e:
-                print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}]⚠️  Skipping {class_name} {spec_name}: {e}")
-                continue
-            delta = d1 - d0
-            pct   = (delta / d0) * 100
-            # Extract which buffs guard PI in this profile
-            dependencies = extract_external_buffs(text)
-            # Look up their IDs in the "with PI" run
-            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] PI dependencies: {dependencies}")
-            dep_ids = {}
-            for buff in dependencies:
-                sid = buffs.get(buff)
-                if sid is None:
-                    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}]⚠️ Could not resolve buff '{buff}'")
-                dep_ids[buff] = sid
+        # map buff → spell ID from the with-PI JSON
+        buff_map = extract_buff_ids_from_json(pair[True])
+        valid = {b: buff_map[b] for b in deps if b in buff_map}
 
-            valid_deps = {b: sid for b, sid in dep_ids.items() if sid is not None}
+        if not valid:
+            # fallback to backup_SpellId
+            # find the config entry whose classSlug/specSlug match
+            backup = []
+            for cfg in profile_map.values():
+                if cfg["classSlug"]==cls and cfg["specSlug"]==spec:
+                    backup = [int(x) for x in cfg.get("backup_SpellId",[])]
+                    break
+            valid = {sid: sid for sid in backup}
 
-            # If none of the extracted buffs actually resolved, fall back
-            if not valid_deps:
-                print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}]⚠️ No valid buffs found; using backup_SpellId {backup_spellids}")
-                dep_ids = { sid: sid for sid in backup_spellids }
-            else:
-                dep_ids = valid_deps  
+        results.append({
+            "class": cls,
+            "spec": spec,
+            "specId": next(v["specId"] for v in profile_map.values()
+                           if v["classSlug"]==cls and v["specSlug"]==spec),
+            "targets": nt,
+            "dps_no_pi":    round(d0,2),
+            "dps_with_pi":  round(d1,2),
+            "dps_delta":    round(delta,2),
+            "dps_pct_gain": round(pct,2),
+            "pi_dep_spell_ids": valid,
+        })
 
-            results.append({
-                "spec":          spec_name,
-                "class":         class_name,
-                "specId":        spec_id,
-                "targets":       nt,
-                "dps_no_pi":     round(d0,2),
-                "dps_with_pi":   round(d1,2),
-                "dps_delta":     round(delta,2),
-                "dps_pct_gain":  round(pct,2),
-                "pi_dep_spell_ids": dep_ids,
-            })
-            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}]→ {spec_name} [{nt} targets]: Δ={delta:.2f} ({pct:.2f}%)")
-
-    # 4) Save to JSON
+    # write the merged array
     OUT_JSON.parent.mkdir(exist_ok=True)
     OUT_JSON.write_text(json.dumps(results, indent=2))
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}]✅ Saved PI values to {OUT_JSON}")
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ✅ Wrote merged {len(results)} entries to {OUT_JSON}")
 
 # ──────────────────────────────────────────────────────────
 # Prepare vs Run-job
@@ -585,7 +551,8 @@ if __name__ == "__main__":
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--prepare", action="store_true", help="Build profiles & emit matrix JSON")
     group.add_argument("--run-job", action="store_true", help="Run exactly one sim-job from matrix")
-
+    group.add_argument("--merge-results", action="store_true", help="Merge all sim JSONs into data/pi_values.json")
+    
     parser.add_argument("--sim-file",    help="Path to .simc file to run")
     parser.add_argument("--json-out",    help="Path to write SimC JSON output")
     parser.add_argument("--class",       dest="class_name", help="Class slug")
@@ -597,5 +564,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if args.prepare:
         prepare_matrix()
-    else:
+    elif args.run_job:
         run_job(args)
+    elif args.merge_results:
+        merge_results()

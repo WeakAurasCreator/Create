@@ -21,7 +21,7 @@ jobs:
   
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with: { fetch-depth: 0 }
 
       - name: Setup Python & dependencies
@@ -50,7 +50,7 @@ jobs:
       matrix: ${{ fromJson(needs.prepare-matrix.outputs.matrix) }}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Download generated profiles
         uses: actions/download-artifact@v4
         with:
@@ -80,7 +80,7 @@ jobs:
             --precision=0.1
 
       - name: Upload sim result
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: sim- ${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
           path: ${{ matrix.json_out }}
@@ -90,20 +90,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Download simc profiles
         uses: actions/download-artifact@v4       # pull in the .simc files you uploaded earlier :contentReference[oaicite:2]{index=2}
         with:
             name: simc-profiles
             path: data/sims/profiles
       - name: Download all sim JSONs
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with: { path: data/sims/final_sims }
 
       - name: Merge into pi_values.json
         run: |
-          python backend_scripts/merge_results.py   # you can write a tiny script to glob final_sims/*.json and merge into data/pi_values.json
-
+          python backend_scripts/gather_pi_data_matrix.py --merge-results
+      
+      - name: Generate description texts
+        run: |
+            python backend_scripts/generate_pi_description_text.py
       - name: Auto-commit & push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
