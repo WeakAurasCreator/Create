@@ -32,9 +32,7 @@ jobs:
             python backend_scripts/gather_pi_data_matrix.py --prepare
 
             # now load matrix.json into the GH Action output
-            echo "matrix<<EOF" >> $GITHUB_OUTPUT
-            cat matrix.json >> $GITHUB_OUTPUT
-            echo "EOF"           >> $GITHUB_OUTPUT
+            echo "matrix=$(jq -c . matrix.json)" >> $GITHUB_OUTPUT
 
 
   simulate:
