@@ -79,7 +79,7 @@ jobs:
             --run-job \
             --sim-file="${{ matrix.sim_file }}" \
             --json-out="${{ matrix.json_out }}" \
-            --html_out="${{ matrix.html_out }}" \
+            --html-out="${{ matrix.html_out }}" \
             --class="${{ matrix.class }}" \
             --spec="${{ matrix.spec }}" \
             --targets="${{ matrix.targets }}" \
