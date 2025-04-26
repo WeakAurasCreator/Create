@@ -25,11 +25,17 @@ jobs:
 
       - run: pip install requests
 
-      - name: Prepare sim‐matrix JSON
+      - name: Prepare sim-matrix JSON
         id: make-matrix
         run: |
-          python backend_scripts/gather_pi_data_matrix.py --prepare > matrix.json
-          echo "::set-output name=matrix::$(jq -c . matrix.json)"
+            # this will write matrix.json + all your debug logs
+            python backend_scripts/gather_pi_data.py --prepare
+
+            # now load matrix.json into the GH Action output
+            echo "matrix<<EOF" >> $GITHUB_OUTPUT
+            cat matrix.json >> $GITHUB_OUTPUT
+            echo "EOF"           >> $GITHUB_OUTPUT
+
 
   simulate:
     needs: prepare-matrix

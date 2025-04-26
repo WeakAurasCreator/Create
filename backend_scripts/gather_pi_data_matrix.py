@@ -502,17 +502,28 @@ def main():
 def prepare_matrix():
     gh = os.getenv("GITHUB_TOKEN")
     wcl_id = os.getenv("WCL_CLIENT_ID"); wcl_sec = os.getenv("WCL_CLIENT_SECRET")
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching latest tier folder from GitHub...")
     tier = get_latest_tier_folder(gh)
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Latest tier folder: {tier}")
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching profiles...")
     profs = fetch_profile_texts(tier)
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Found {len(profs)} profiles")
+
+    # 2) WCL token & dynamic zone/boss
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching WCL token...")
     wcl_token = get_wcl_token(wcl_id, wcl_sec)
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching dynamic zone and boss...")
     raid_ids, dungeon_ids = fetch_current_tier_encounters(wcl_token)
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Raid IDs: {raid_ids}, Dungeon IDs: {dungeon_ids}")
 
     jobs = []
     for fname, text in profs.items():
         base = fname[:-5]
         slug = base[len(tier)+1:] if base.startswith(tier+"_") else base
         key = slug.lower()
-        if key not in PROFILE_MAP: continue
+        if key not in PROFILE_MAP: 
+            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️  Skipping unknown slug {slug_key}")
+            continue
         cfg = PROFILE_MAP[key]
         cls = cfg["classSlug"]; spec = cfg["specSlug"]
 
@@ -538,7 +549,11 @@ def prepare_matrix():
                     "targets": nt,
                     "pi": pi_flag
                 })
-    print(json.dumps(jobs, indent=2))
+    # write the matrix.json on disk
+    matrix_path = Path("matrix.json")
+    matrix_path.write_text(json.dumps(jobs, indent=2))
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ✔️ Wrote {len(jobs)} jobs to {matrix_path}")
+
 
 
 def run_job(args):
