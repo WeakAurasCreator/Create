@@ -1,0 +1,90 @@
+name: Gather PI Data
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 2 * * WED'
+
+jobs:
+  prepare-matrix:
+    runs-on: ubuntu-latest
+    env:
+      WCL_CLIENT_ID:     ${{ secrets.WCLOGS_CLIENT_ID }}
+      WCL_CLIENT_SECRET: ${{ secrets.WCLOGS_CLIENT_SECRET }}
+      GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with: { fetch-depth: 0 }
+
+      - name: Setup Python & dependencies
+        uses: actions/setup-python@v4
+
+      - run: pip install requests
+
+      - name: Prepare sim‐matrix JSON
+        id: make-matrix
+        run: |
+          python backend_scripts/gather_pi_data_matrix.py --prepare > matrix.json
+          echo "::set-output name=matrix::$(jq -c . matrix.json)"
+
+  simulate:
+    needs: prepare-matrix
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJson(needs.prepare-matrix.outputs.matrix) }}
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with: { python-version: '3.12' }
+      - run: pip install requests
+    
+      - name: Clone and build SimulationCraft CLI
+        run: |
+            git clone --depth=1 https://github.com/simulationcraft/simc.git simc
+            mkdir simc/build && cd simc/build
+            cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_GUI=OFF
+            make -j$(nproc)
+            sudo cp simc /usr/local/bin/
+
+      - name: Run one sim
+        run: |
+          python backend_scripts/gather_pi_data_matrix.py \
+            --run-job \
+            --sim-file="${{ matrix.sim_file }}" \
+            --json-out="${{ matrix.json_out }}" \
+            --class="${{ matrix.class }}" \
+            --spec="${{ matrix.spec }}" \
+            --targets="${{ matrix.targets }}" \
+            --pi="${{ matrix.pi }}" \
+            --precision=0.1
+
+      - name: Upload sim result
+        uses: actions/upload-artifact@v3
+        with:
+          name: sim- ${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
+          path: ${{ matrix.json_out }}
+
+  collect-and-commit:
+    needs: simulate
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Download all sim JSONs
+        uses: actions/download-artifact@v3
+        with: { path: data/sims/final_sims }
+
+      - name: Merge into pi_values.json
+        run: |
+          python backend_scripts/merge_results.py   # you can write a tiny script to glob final_sims/*.json and merge into data/pi_values.json
+
+      - name: Auto-commit & push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated PiInfo"
+          file_pattern: "data/**"
