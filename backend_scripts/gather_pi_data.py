@@ -257,7 +257,7 @@ def to_snake(name: str) -> str:
 def split_tree_overrides(pairs: list[tuple[int,int]]):
     class_pts, spec_pts, hero_pts = [], [], []
     for tid, pts in pairs:
-        tree = talent_tree_map.get(tid, 1)   # default to spec if unknown
+        tree = talent_tree_map.get(tid, 3)
         if tree == 0:
             class_pts.append(f"{tid}:{pts}")
         elif tree == 1:
