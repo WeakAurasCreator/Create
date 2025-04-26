@@ -22,6 +22,9 @@
     <div class="chart-wrapper">
       <canvas id="dpsChart"></canvas>
     </div>
+
+
+    
     <button type="button" class="btn btn-primary" onclick="generatePiAura()">Generate WeakAura</button>
     <div class="mt-4">
       <label for="output">Output:</label>
@@ -32,6 +35,12 @@
       Content copied to clipboard!
     </div>
   </div>
+
+  <div class="container mt-5"> 
+    <h2>Power Infusion Explanations</h2>
+    <input id="piFilter" class="form-control mb-3" placeholder="Filter specs…">
+    <div class="accordion" id="piAccordion"></div>
+  </div>
   <script src="assets/js/jquery.min.js"></script>
   <script src="assets/js/bootstrap.bundle.min.js"></script>
   <script src="assets/js/bootstrap-select.min.js"></script>
@@ -41,6 +50,8 @@
   <script src="assets/js/weakaurasExport.js"></script>
   <script src="assets/js/util.js"></script>
   <script src="assets/js/pi.js"></script>
+  <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+  <script src="https://wow.zamimg.com/js/tooltips.js"></script>
 </body>
 
 </html>

@@ -1,15 +1,17 @@
 // Fetch and render DPS delta per spec for selected target count
 let piAura,
   piValues,
-  dpsLookup = {};
+  dpsLookup = {}, explanationLookup = {};
 const piAuraFetches = [
   fetch("/templates/aura_types/piAura.json").then((r) => r.json()),
   fetch("/data/pi_values.json").then((r) => r.json()),
+  fetch("/data/piExplanations.json").then((r) => r.json()),
 ];
 Promise.all(piAuraFetches)
-  .then(([pi_aura, pi_values]) => {
+  .then(([pi_aura, pi_values, pi_explanations]) => {
     piAura = pi_aura;
     piValues = pi_values;
+    explanationLookup = new Map(Object.entries(pi_explanations));
     setupPiData(piValues);
     dpsLookup = piValues.reduce((map, row) => {
       const t = row.targets;
@@ -22,6 +24,7 @@ Promise.all(piAuraFetches)
     for (const bucket of dpsLookup.values()) {
       bucket.sort((a, b) => b.dps_with_pi - a.dps_with_pi);
     }
+    renderAllExplanations()
   })
   .catch((err) => console.error("Error loading templates or triggers:", err));
 
@@ -44,6 +47,62 @@ const classColors = {
   Warrior: "#C69B6D",
 };
 
+
+
+function renderAllExplanations() {
+  const container = document.getElementById('piAccordion');
+  container.innerHTML = '';
+  const entries = Array.from(explanationLookup.entries());
+
+  entries.forEach(([key, text], idx) => {
+    const [cls, spec] = key.split('_');
+    const normalized = cls.toLowerCase(); 
+    const classKey = Object.keys(classColors)
+      .find(key => key.toLowerCase() === normalized);
+
+    const color = classColors[classKey] || "#888888"; 
+
+
+    const title = `${cls.charAt(0) + cls.slice(1).toLowerCase()} – ${spec.charAt(0) + spec.slice(1).toLowerCase()}`;
+    const content = text.length > 1 ? text : 'No explanation available.';
+
+    container.insertAdjacentHTML('beforeend', `
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="heading${idx}">
+          <button
+            class="accordion-button collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#collapse${idx}"
+            aria-expanded="false"
+            aria-controls="collapse${idx}"
+            style="color: ${color};"
+          >
+            ${title}
+          </button>
+        </h2>
+        <div
+          id="collapse${idx}"
+          class="accordion-collapse collapse"
+          aria-labelledby="heading${idx}"
+          data-bs-parent="#piAccordion"
+        >
+          <div class="accordion-body">${content}</div>
+        </div>
+      </div>
+    `);
+  });
+}
+
+document.getElementById('piFilter').addEventListener('input', e => {
+  const term = e.target.value.toLowerCase();
+  document.querySelectorAll('#piAccordion .accordion-item').forEach(item => {
+    const text = item.innerText.toLowerCase();
+    item.style.display = text.includes(term) ? '' : 'none';
+  });
+});
+
+
 function setupPiData(data) {
   const targetSelect = document.getElementById("targetSelect");
   const ctx = document.getElementById("dpsChart").getContext("2d");
@@ -61,6 +120,8 @@ function setupPiData(data) {
   });
   $("#targetSelect").selectpicker("refresh");
   $("#targetSelect").selectpicker("val", targets[0].toString());
+
+
   // Render chart for selected target count
   function renderChart(targetCount) {
     // Filter entries for this target count
