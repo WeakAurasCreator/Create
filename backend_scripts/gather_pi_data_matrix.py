@@ -550,9 +550,10 @@ def prepare_matrix():
                     "pi": pi_flag
                 })
     # write the matrix.json on disk
-    matrix_path = Path("matrix.json")
-    matrix_path.write_text(json.dumps(jobs, indent=2))
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ✔️ Wrote {len(jobs)} jobs to {matrix_path}")
+    matrix = { "include": jobs }
+    with open("matrix.json", "w") as f:
+        json.dump(matrix, f)
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ✔️ Wrote {len(jobs)} jobs to matrix.json")
     print(jobs)
 
 

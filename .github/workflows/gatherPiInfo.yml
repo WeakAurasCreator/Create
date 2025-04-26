@@ -37,7 +37,11 @@ jobs:
 
             # now load matrix.json into the GH Action output
             echo "matrix=$(jq -c . matrix.json)" >> $GITHUB_OUTPUT
-
+      - name: Upload generated profiles
+        uses: actions/upload-artifact@v4
+        with:
+            name: simc-profiles
+            path: data/sims/profiles/
 
   simulate:
     needs: prepare-matrix
@@ -47,6 +51,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - name: Download generated profiles
+        uses: actions/download-artifact@v4
+        with:
+            name: simc-profiles
       - uses: actions/setup-python@v4
         with: { python-version: '3.12' }
       - run: pip install requests
@@ -83,6 +91,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - name: Download simc profiles
+        uses: actions/download-artifact@v4       # pull in the .simc files you uploaded earlier :contentReference[oaicite:2]{index=2}
+        with:
+            name: simc-profiles
+            path: data/sims/profiles
       - name: Download all sim JSONs
         uses: actions/download-artifact@v3
         with: { path: data/sims/final_sims }
@@ -94,5 +107,5 @@ jobs:
       - name: Auto-commit & push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Updated PiInfo"
+          commit_message: "Updated Pi Data"
           file_pattern: "data/**"
