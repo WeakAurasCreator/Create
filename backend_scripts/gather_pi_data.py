@@ -314,7 +314,9 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
     runs simc, returns parsed DPS float.
     """
     sim_file = Path(PROFILE_PATH, f"{character_class}_{character_spec}_{num_targets}_{enable_pi}.json")
-    json_file = Path(FINAL_SIM_PATH,f"{character_class}_{character_spec}_{num_targets}_{enable_pi}.json")
+    json_file_path = Path(FINAL_SIM_PATH, f"{character_class}_{character_spec}")
+    json_file_path.mkdir(parents=True, exist_ok=True)
+    json_file = Path(json_file_path,f"{num_targets}_{enable_pi}.json")
 
     pi_flag = 1 if enable_pi else 0
     override = (
