@@ -522,7 +522,7 @@ def prepare_matrix():
         slug = base[len(tier)+1:] if base.startswith(tier+"_") else base
         key = slug.lower()
         if key not in PROFILE_MAP: 
-            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️  Skipping unknown slug {slug_key}")
+            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️  Skipping unknown slug {key}")
             continue
         cfg = PROFILE_MAP[key]
         cls = cfg["classSlug"]; spec = cfg["specSlug"]
