@@ -531,19 +531,31 @@ def run_job(args):
     for i in range(1, args.targets+1):
         override += f"enemy=TrainingDummy{i}\n"
 
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Running sim with args {args}")
     content = Path(args.sim_file).read_text()
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Running sim for file {content}")
     Path(args.sim_file).write_text(content + override)
 
     cmd = [
         SIMC_CMD,
         args.sim_file,
-        f"precision={args.precision}",
-        "threads=1",
+        "threads=10",
         "log_spell_id=1",
         "report_details=1",
         f"json2={args.json_out}"
     ]
-    subprocess.run(cmd, check=True)
+    try:
+        subprocess.run(cmd, check=True)
+    except Exception as e:
+        # log the failure
+        print(f"WARNING: simc failed for {args.sim_file}: {e}", file=sys.stderr)
+        # ensure output directory exists
+        out_path = Path(args.json_out)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        # write an empty-but-valid JSON structure
+        empty = {"error": "simc_failed", "profiles": [], "stats": {}}
+        out_path.write_text(json.dumps(empty))
+        return
 
 
 if __name__ == "__main__":
