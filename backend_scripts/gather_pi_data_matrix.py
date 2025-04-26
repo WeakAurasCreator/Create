@@ -397,7 +397,7 @@ def merge_results():
         # p = data/sims/final_sims/<Class>_<Spec>/<targets>_<pi>.json
         folder, fname = p.parent.name, p.name
         cls, spec = folder.split("_", 1)
-        *_, nt_str, pi_str = p.stem.split("-")
+        *_, nt_str, pi_str = p.stem.split("_")
         key = (cls, spec, int(nt_str))
         runs.setdefault(key, {})[ bool(int(pi_str)) ] = p
 
