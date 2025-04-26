@@ -1,10 +1,5 @@
 {
-    "death_knight_blood": {
-      "classSlug": "DeathKnight",
-      "specSlug": "Blood",
-      "specId": 250,
-      "classId": 750
-    },
+
     "death_knight_unholy": {
       "classSlug": "DeathKnight",
       "specSlug": "Unholy",
@@ -26,12 +21,6 @@
       "classId": 854,
       "backup_SpellId": ["162264"]
     },
-    "demon_hunter_vengeance": {
-      "classSlug": "DemonHunter",
-      "specSlug": "Vengeance",
-      "specId": 581,
-      "classId": 854
-    },
     "druid_balance": {
       "classSlug": "Druid",
       "specSlug": "Balance",
@@ -46,12 +35,6 @@
       "classId": 793,
       "backup_SpellId": ["106951"]
       
-    },
-    "druid_guardian": {
-      "classSlug": "Druid",
-      "specSlug": "Guardian",
-      "specId": 104,
-      "classId": 793
     },
     "evoker_devastation": {
       "classSlug": "Evoker",
@@ -102,24 +85,12 @@
       "classId": 658,
       "backup_SpellId": ["12472"]
     },
-    "monk_brewmaster": {
-      "classSlug": "Monk",
-      "specSlug": "Brewmaster",
-      "specId": 268,
-      "classId": 1000
-    },
     "monk_windwalker": {
       "classSlug": "Monk",
       "specSlug": "Windwalker",
       "specId": 269,
       "classId": 1000,
       "backup_SpellId": ["388663"] 
-    },
-    "paladin_protection": {
-      "classSlug": "Paladin",
-      "specSlug": "Protection",
-      "specId": 66,
-      "classId": 790
     },
     "paladin_retribution": {
       "classSlug": "Paladin",
@@ -200,12 +171,6 @@
       "specId": 72,
       "classId": 850,
       "backup_SpellId": ["107574"]
-    },
-    "warrior_protection": {
-      "classSlug": "Warrior",
-      "specSlug": "Protection",
-      "specId": 73,
-      "classId": 850
     }
 
 
