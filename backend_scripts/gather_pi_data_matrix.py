@@ -398,9 +398,12 @@ def merge_results():
         folder, fname = p.parent.name, p.name
         cls, spec = folder.split("_", 1)
         *_, nt_str, pi_str = p.stem.split("_")
-        key = (cls, spec, int(nt_str))
-        runs.setdefault(key, {})[ bool(int(pi_str)) ] = p
-
+        if pi_str.lower() in ("true","false"):
+            pi_flag = pi_str.lower() == "true"
+        else:
+            pi_flag = bool(int(pi_str))  
+        key = (cls, spec, nt)
+        runs.setdefault(key, {})[ pi_flag ] = p
     results = []
     # reload PROFILE_MAP so we can look up backups
     with open(CONFIG_PATH) as f:
