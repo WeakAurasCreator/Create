@@ -571,6 +571,7 @@ if __name__ == "__main__":
     
     parser.add_argument("--sim-file",    help="Path to .simc file to run")
     parser.add_argument("--json-out",    help="Path to write SimC JSON output")
+    parser.add_argument("--html-out",    help="Path to write SimC HTML output")
     parser.add_argument("--class",       dest="class_name", help="Class slug")
     parser.add_argument("--spec",        dest="spec_name",  help="Spec slug")
     parser.add_argument("--targets",     type=int, help="# of targets to simulate")
