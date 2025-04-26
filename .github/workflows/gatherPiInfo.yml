@@ -29,7 +29,7 @@ jobs:
         id: make-matrix
         run: |
             # this will write matrix.json + all your debug logs
-            python backend_scripts/gather_pi_data.py --prepare
+            python backend_scripts/gather_pi_data_matrix.py --prepare
 
             # now load matrix.json into the GH Action output
             echo "matrix<<EOF" >> $GITHUB_OUTPUT
