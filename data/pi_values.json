@@ -3,24 +3,11 @@
     "class": "DeathKnight",
     "spec": "Unholy",
     "specId": 252,
-    "targets": "15",
-    "dps_no_pi": 23512842.4,
-    "dps_with_pi": 24426509.07,
-    "dps_delta": 913666.67,
-    "dps_pct_gain": 3.89,
-    "pi_dep_spell_ids": {
-      "dark_transformation": 63560
-    }
-  },
-  {
-    "class": "DeathKnight",
-    "spec": "Unholy",
-    "specId": 252,
-    "targets": "1",
-    "dps_no_pi": 2714533.66,
-    "dps_with_pi": 2845048.99,
-    "dps_delta": 130515.33,
-    "dps_pct_gain": 4.81,
+    "targets": "5",
+    "dps_no_pi": 9304810.69,
+    "dps_with_pi": 9620721.01,
+    "dps_delta": 315910.33,
+    "dps_pct_gain": 3.4,
     "pi_dep_spell_ids": {
       "dark_transformation": 63560
     }
@@ -30,10 +17,10 @@
     "spec": "Unholy",
     "specId": 252,
     "targets": "3",
-    "dps_no_pi": 6267750.27,
-    "dps_with_pi": 6489710.05,
-    "dps_delta": 221959.78,
-    "dps_pct_gain": 3.54,
+    "dps_no_pi": 6274855.7,
+    "dps_with_pi": 6485584.09,
+    "dps_delta": 210728.39,
+    "dps_pct_gain": 3.36,
     "pi_dep_spell_ids": {
       "dark_transformation": 63560
     }
@@ -42,11 +29,24 @@
     "class": "DeathKnight",
     "spec": "Unholy",
     "specId": 252,
-    "targets": "5",
-    "dps_no_pi": 9307696.89,
-    "dps_with_pi": 9625982.26,
-    "dps_delta": 318285.36,
-    "dps_pct_gain": 3.42,
+    "targets": "15",
+    "dps_no_pi": 23567593.71,
+    "dps_with_pi": 24397052.86,
+    "dps_delta": 829459.15,
+    "dps_pct_gain": 3.52,
+    "pi_dep_spell_ids": {
+      "dark_transformation": 63560
+    }
+  },
+  {
+    "class": "DeathKnight",
+    "spec": "Unholy",
+    "specId": 252,
+    "targets": "1",
+    "dps_no_pi": 2717153.68,
+    "dps_with_pi": 2843265.24,
+    "dps_delta": 126111.56,
+    "dps_pct_gain": 4.64,
     "pi_dep_spell_ids": {
       "dark_transformation": 63560
     }
@@ -56,10 +56,10 @@
     "spec": "Unholy",
     "specId": 252,
     "targets": "8",
-    "dps_no_pi": 16222992.36,
-    "dps_with_pi": 16795141.58,
-    "dps_delta": 572149.22,
-    "dps_pct_gain": 3.53,
+    "dps_no_pi": 16235318.69,
+    "dps_with_pi": 16802774.23,
+    "dps_delta": 567455.54,
+    "dps_pct_gain": 3.5,
     "pi_dep_spell_ids": {
       "dark_transformation": 63560
     }
