@@ -55,6 +55,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
             name: simc-profiles
+            path: data/sims/profiles
       - uses: actions/setup-python@v4
         with: { python-version: '3.12' }
       - run: pip install requests
