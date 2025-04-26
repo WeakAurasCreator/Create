@@ -79,17 +79,24 @@ jobs:
             --run-job \
             --sim-file="${{ matrix.sim_file }}" \
             --json-out="${{ matrix.json_out }}" \
+            --html_out="${{ matrix.html_out }}" \
             --class="${{ matrix.class }}" \
             --spec="${{ matrix.spec }}" \
             --targets="${{ matrix.targets }}" \
             --pi="${{ matrix.pi }}" \
-            --precision=0.1
+            --precision=0.05 \
+            --iterations=50000 \
 
-      - name: Upload sim result
+      - name: Upload json sim result
         uses: actions/upload-artifact@v4
         with:
-          name: sim- ${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
+          name: sim-json- ${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
           path: ${{ matrix.json_out }}
+      - name: Upload html sim result
+        uses: actions/upload-artifact@v4
+        with:
+            name: sim-html- ${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
+            path: ${{ matrix.html_out }}    
 
   collect-and-commit:
     needs: simulate

@@ -510,6 +510,7 @@ def prepare_matrix():
                 jobs.append({
                     "sim_file": str(simf),
                     "json_out": str(FINAL_SIM_PATH / fname.replace('.simc','.json')),
+                    "html_out": str(FINAL_SIM_PATH / fname.replace('.simc','.html')),
                     "class": cls,
                     "spec": spec,
                     "targets": nt,
@@ -539,16 +540,19 @@ def run_job(args):
     cmd = [
         SIMC_CMD,
         args.sim_file,
+        f"target_error={args.precision}",
+        f"iterations={args.iterations}",
         "threads=10",
         "log_spell_id=1",
         "report_details=1",
-        f"json2={args.json_out}"
+        f"json2={args.json_out}",
+        f"html={args.html_out}"
     ]
     try:
         subprocess.run(cmd, check=True)
     except Exception as e:
         # log the failure
-        print(f"WARNING: simc failed for {args.sim_file}: {e}", file=sys.stderr)
+        print(f"WARNING: simc failed for {args.sim_file}: {e}")
         # ensure output directory exists
         out_path = Path(args.json_out)
         out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -572,6 +576,7 @@ if __name__ == "__main__":
     parser.add_argument("--targets",     type=int, help="# of targets to simulate")
     parser.add_argument("--pi",          type=lambda v: v.lower() in ("1","true"), help="Enable Power Infusion")
     parser.add_argument("--precision",   type=float, default=0.1, help="Statistical precision (%)")
+    parser.add_argument("--iterations",   type=int, default=0.1, help="# of iterations to run")
 
     args = parser.parse_args()
     if args.prepare:
