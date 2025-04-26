@@ -553,6 +553,7 @@ def prepare_matrix():
     matrix_path = Path("matrix.json")
     matrix_path.write_text(json.dumps(jobs, indent=2))
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ✔️ Wrote {len(jobs)} jobs to {matrix_path}")
+    print(jobs)
 
 
 
