@@ -10,11 +10,15 @@ on:
 jobs:
   prepare-matrix:
     runs-on: ubuntu-latest
+    
     env:
       WCL_CLIENT_ID:     ${{ secrets.WCLOGS_CLIENT_ID }}
       WCL_CLIENT_SECRET: ${{ secrets.WCLOGS_CLIENT_SECRET }}
       GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
-
+    
+    outputs:
+      matrix: ${{ steps.make-matrix.outputs.matrix }}
+  
     steps:
       - name: Checkout
         uses: actions/checkout@v3
