@@ -289,21 +289,6 @@ def extract_external_buffs(profile_text: str) -> set[str]:
         for name in re.findall(r"(?<!\!)buff\.([a-z0-9_]+)\.remains>", line, flags=re.IGNORECASE):
             deps.add(name.lower())    
     return deps
-
-
-def extract_buff_ids_from_json(json_path: Path) -> dict[str, int]:
-    """
-    Read sim.players[0].buffs and buffs_constant to map buff name → spell ID.
-    """
-    data = json.loads(json_path.read_text())
-    player = data["sim"]["players"][0]
-    all_buffs = player.get("buffs", []) + player.get("buffs_constant", [])
-    buff_map = {}
-    for b in all_buffs:
-        # each entry has "name" and numeric "id"
-        buff_map[b["name"]] = b["id"]
-    return buff_map
-
 # ──────────────────────────────────────────────────────────
 # Helpers: Running SimC with/without PI & Parsing DPS
 # ──────────────────────────────────────────────────────────
@@ -386,6 +371,34 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
 
     return float(dps_str), reverse_buff_map
 
+def load_dps_and_buffs(path: Path) -> float:
+    j = json.loads(path.read_text())
+    player = j["sim"]["players"][0]
+    cd = player.get("collected_data", {})
+    dps = cd.get("dps", {}).get("mean")
+    buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
+
+    buff_map: dict[str,int] = {}
+    for b in buffs_all:
+        # Try the obvious fields first
+        name = b.get("name")
+        sid  = b.get("spell")
+
+        # Fallback: some versions nest under "spell": { "id":…, "name":… }
+        if sid is None and isinstance(b.get("spell"), dict):
+            sid  = b["spell"].get("spell")
+            name = name or b["spell"].get("name")
+
+        # Only keep it if we have both name & ID
+        if name and sid:
+            buff_map[name] = sid
+
+    reverse_buff_map: dict[str,int] = {}
+    for display_name, sid in buff_map.items():
+        snake = to_snake(display_name)
+        reverse_buff_map[snake] = sid
+
+    return float(dps), reverse_buff_map
 
 def merge_results():
     # find all sim JSON outputs
@@ -396,48 +409,51 @@ def merge_results():
     for p in map(Path, sim_paths):
         # p = data/sims/final_sims/<Class>_<Spec>/<targets>_<pi>.json
         folder, fname = p.parent.name, p.name
-        cls, spec = folder.split("_", 1)
-        *_, nt_str, pi_str = p.stem.split("_")
+        cls, spec, nt_str, pi_str = p.stem.split("_")
         if pi_str.lower() in ("true","false"):
             pi_flag = pi_str.lower() == "true"
         else:
             pi_flag = bool(int(pi_str))  
-        key = (cls, spec, nt)
+        key = (cls, spec, nt_str)
         runs.setdefault(key, {})[ pi_flag ] = p
     results = []
     # reload PROFILE_MAP so we can look up backups
     with open(CONFIG_PATH) as f:
         profile_map = {k.lower(): v for k,v in json.load(f).items()}
 
+    by_class_spec = {
+    (v["classSlug"], v["specSlug"]): v
+    for v in PROFILE_MAP.values()
+    }
+
     for (cls, spec, nt), pair in runs.items():
         if False not in pair or True not in pair:
             print(f"⚠️  incomplete runs for {cls} {spec} @ {nt} targets, skipping")
             continue
 
-        def load_dps(path: Path) -> float:
-            j = json.loads(path.read_text())
-            player = j["sim"]["players"][0]
-            # try common JSON2 DPS locations:
-            if "dps" in player:
-                return float(player["dps"])
-            if "statistics" in player and "dps" in player["statistics"]:
-                return float(player["statistics"]["dps"]["mean"])
-            raise KeyError(f"No DPS found in {path}")
+        
 
-        d0 = load_dps(pair[False])
-        d1 = load_dps(pair[True])
+        d0,buffs = load_dps_and_buffs(pair[False])
+        d1,buffs = load_dps_and_buffs(pair[True])
+        print(d0, d1)
         delta = d1 - d0
         pct   = (delta / d0) * 100
 
         # extract buffs from the profile file used for the with-PI run
-        prof_file = PROFILE_PATH / f"{cls}_{spec}_{nt}_1.simc"
-        deps = extract_external_buffs(prof_file.read_text())
+        prof_file = PROFILE_PATH / f"{cls}_{spec}_{nt}_{True}.simc"
+        dependencies = extract_external_buffs(prof_file.read_text())
 
-        # map buff → spell ID from the with-PI JSON
-        buff_map = extract_buff_ids_from_json(pair[True])
-        valid = {b: buff_map[b] for b in deps if b in buff_map}
+        print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] PI dependencies: {dependencies}")
+        dep_ids = {}
+        for buff in dependencies:
+            sid = buffs.get(buff)
+            if sid is None:
+                print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}]⚠️ Could not resolve buff '{buff}'")
+            dep_ids[buff] = sid
 
-        if not valid:
+        valid_deps = {b: sid for b, sid in dep_ids.items() if sid is not None}
+
+        if not valid_deps:
             # fallback to backup_SpellId
             # find the config entry whose classSlug/specSlug match
             backup = []
@@ -445,8 +461,8 @@ def merge_results():
                 if cfg["classSlug"]==cls and cfg["specSlug"]==spec:
                     backup = [int(x) for x in cfg.get("backup_SpellId",[])]
                     break
-            valid = {sid: sid for sid in backup}
-
+            valid_deps = {sid: sid for sid in backup}
+        
         results.append({
             "class": cls,
             "spec": spec,
@@ -457,7 +473,7 @@ def merge_results():
             "dps_with_pi":  round(d1,2),
             "dps_delta":    round(delta,2),
             "dps_pct_gain": round(pct,2),
-            "pi_dep_spell_ids": valid,
+            "pi_dep_spell_ids": valid_deps,
         })
 
     # write the merged array

@@ -1,64 +1,22 @@
 [
   {
-    "spec": "Blood",
     "class": "DeathKnight",
-    "specId": 250,
-    "targets": 1,
-    "dps_no_pi": 1655572.79,
-    "dps_with_pi": 1655876.59,
-    "dps_delta": 303.8,
-    "dps_pct_gain": 0.02,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Blood",
-    "class": "DeathKnight",
-    "specId": 250,
-    "targets": 3,
-    "dps_no_pi": 3033841.55,
-    "dps_with_pi": 3034291.8,
-    "dps_delta": 450.25,
-    "dps_pct_gain": 0.01,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Blood",
-    "class": "DeathKnight",
-    "specId": 250,
-    "targets": 5,
-    "dps_no_pi": 4500776.14,
-    "dps_with_pi": 4504961.5,
-    "dps_delta": 4185.36,
-    "dps_pct_gain": 0.09,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Blood",
-    "class": "DeathKnight",
-    "specId": 250,
-    "targets": 8,
-    "dps_no_pi": 5762162.59,
-    "dps_with_pi": 5774239.32,
-    "dps_delta": 12076.72,
-    "dps_pct_gain": 0.21,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "spec": "Blood",
-    "class": "DeathKnight",
-    "specId": 250,
-    "targets": 15,
-    "dps_no_pi": 8117746.13,
-    "dps_with_pi": 8104107.53,
-    "dps_delta": -13638.6,
-    "dps_pct_gain": -0.17,
-    "pi_dep_spell_ids": {}
-  },
-  {
     "spec": "Unholy",
-    "class": "DeathKnight",
     "specId": 252,
-    "targets": 1,
+    "targets": "15",
+    "dps_no_pi": 23512842.4,
+    "dps_with_pi": 24426509.07,
+    "dps_delta": 913666.67,
+    "dps_pct_gain": 3.89,
+    "pi_dep_spell_ids": {
+      "dark_transformation": 63560
+    }
+  },
+  {
+    "class": "DeathKnight",
+    "spec": "Unholy",
+    "specId": 252,
+    "targets": "1",
     "dps_no_pi": 2714533.66,
     "dps_with_pi": 2845048.99,
     "dps_delta": 130515.33,
@@ -68,10 +26,10 @@
     }
   },
   {
-    "spec": "Unholy",
     "class": "DeathKnight",
+    "spec": "Unholy",
     "specId": 252,
-    "targets": 3,
+    "targets": "3",
     "dps_no_pi": 6267750.27,
     "dps_with_pi": 6489710.05,
     "dps_delta": 221959.78,
@@ -81,10 +39,10 @@
     }
   },
   {
-    "spec": "Unholy",
     "class": "DeathKnight",
+    "spec": "Unholy",
     "specId": 252,
-    "targets": 5,
+    "targets": "5",
     "dps_no_pi": 9307696.89,
     "dps_with_pi": 9625982.26,
     "dps_delta": 318285.36,
@@ -94,27 +52,14 @@
     }
   },
   {
-    "spec": "Unholy",
     "class": "DeathKnight",
+    "spec": "Unholy",
     "specId": 252,
-    "targets": 8,
+    "targets": "8",
     "dps_no_pi": 16222992.36,
     "dps_with_pi": 16795141.58,
     "dps_delta": 572149.22,
     "dps_pct_gain": 3.53,
-    "pi_dep_spell_ids": {
-      "dark_transformation": 63560
-    }
-  },
-  {
-    "spec": "Unholy",
-    "class": "DeathKnight",
-    "specId": 252,
-    "targets": 15,
-    "dps_no_pi": 23512842.4,
-    "dps_with_pi": 24426509.07,
-    "dps_delta": 913666.67,
-    "dps_pct_gain": 3.89,
     "pi_dep_spell_ids": {
       "dark_transformation": 63560
     }
