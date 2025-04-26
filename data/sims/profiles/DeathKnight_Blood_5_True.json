@@ -133,9 +133,11 @@ main_hand=bestinslots,id=232526,ilevel=678,enchant=rune_of_sanguination
 # set_bonus=thewarwithin_season_2_4pc=1
 
 # Power Infusion override
-external_buffs.pool=power_infusion:120:0
+external_buffs.pool=power_infusion:120:1
 
 # Multi‑target override
 enemy=TrainingDummy1
 enemy=TrainingDummy2
 enemy=TrainingDummy3
+enemy=TrainingDummy4
+enemy=TrainingDummy5
