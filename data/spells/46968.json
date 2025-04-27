@@ -1,7 +1,7 @@
 {
   "ID": "29844",
   "NameSubtext_lang": "",
-  "Description_lang": "Sends a wave of force in a frontal cone, causing $s2 damage and stunning all enemies within $a1 yards for $132168d.",
+  "Description_lang": "Sends a wave of force in a frontal cone, causing $s1 damage and stunning all enemies within $a1 yards for $132168d.",
   "AuraDescription_lang": "Stunned.",
   "Attributes_0": "2424848",
   "Attributes_1": "0",

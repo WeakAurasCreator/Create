@@ -2,7 +2,7 @@
   "ID": "765563",
   "NameSubtext_lang": "",
   "Description_lang": "$@spelldesc472741",
-  "AuraDescription_lang": "The damage of your Pack Leader Beasts is increased by $s1% and your pet damage is increased by $?c1[$s5][$s6]%.",
+  "AuraDescription_lang": "The damage of your Pack Leader Beasts is increased by $s1% and your pet damage is increased by $?c1[$s4][$s5]%.",
   "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
