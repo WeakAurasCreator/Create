@@ -1,7 +1,7 @@
 {
   "ID": "636218",
   "NameSubtext_lang": "",
-  "Description_lang": "$?s137032[Shadow Word: Pain and Purge the Wicked deal][Shadow Word: Pain deals] an additional $s1% damage. When an enemy dies while afflicted by your $?s137032[Shadow Word: Pain or Purge the Wicked][Shadow Word: Pain], you gain $?a137033[${$s3/100} Insanity.][${$s5/10}.1% Mana.]",
+  "Description_lang": "Shadow Word: Pain deals an additional $s1% damage. When an enemy dies while afflicted by your Shadow Word: Pain, you gain $?a137033[${$s3/100} Insanity.][${$s5/10}.1% Mana.]",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
