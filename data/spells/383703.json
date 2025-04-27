@@ -1,7 +1,7 @@
 {
   "ID": "642457",
   "NameSubtext_lang": "",
-  "Description_lang": "Your Mortal Strikes and Cleaves against enemies above $383704s1% health have a high chance to apply Fatal Mark. When an enemy falls below $383704s1% health, your next Execute inflicts an additional $383706s1 Physical damage per stack.",
+  "Description_lang": "Mortal Strike and Cleave have a high chance to apply Fatal Mark to enemies above $383704s1% health. When an enemy with Fatal Mark is below $383704s1% health, your next Execute causes the Fatal Mark to deal $383706s1 Physical damage per stack.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",

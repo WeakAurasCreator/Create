@@ -1,7 +1,7 @@
 {
   "ID": "641714",
   "NameSubtext_lang": "",
-  "Description_lang": "If Whirlwind $?c1[or Cleave ][]$?s436707[or Thunder Clap ][]$?a137048[or Revenge ][]hits $s1 or more enemies, it hits them $s2 additional time for $s4% damage.",
+  "Description_lang": "If Whirlwind $?c1[or Cleave ][]$?s436707[or Thunder Clap ][]$?a137048[or Revenge ][]hits $s1 or more enemies it hits them $s2 additional time for ${100+$s3}% damage.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
