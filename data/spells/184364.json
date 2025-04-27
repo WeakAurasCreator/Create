@@ -1,7 +1,7 @@
 {
   "ID": "158326",
   "NameSubtext_lang": "",
-  "Description_lang": "Reduces damage taken by $s1%, and Bloodthirst restores an additional $s2% health. Usable while stunned or incapacitated. Lasts $d.",
+  "Description_lang": "Reduces damage taken by $s1% and Bloodthirst restores an additional $s2% health for $d. Usable while stunned or incapacitated.",
   "AuraDescription_lang": "Damage taken reduced by $s1%. Bloodthirst restores an additional $s2% health.",
   "Attributes_0": "327696",
   "Attributes_1": "98304",
