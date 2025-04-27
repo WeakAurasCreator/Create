@@ -1,7 +1,7 @@
 {
   "ID": "770233",
   "NameSubtext_lang": "",
-  "Description_lang": "Your spells and abilities have a chance to activate a|cFFFFFFFF Winning Streak!|r increasing the damage of your Ferocious Bite, Rip, and Primal Wrath by $1217236s1% stacking up to $1217236u times. Ferocious Bite, Rip, and Primal Wrath have a $s1% chance to remove|cFFFFFFFF Winning Streak!|r. Free Ferocious Bites are exempt from this chance.",
+  "Description_lang": "Your spells and abilities have a chance to activate a|cFFFFFFFF Winning Streak!|r, increasing the damage of your Ferocious Bite, Rip, and Primal Wrath by $1217236s1%, stacking up to $1217236u times. Ferocious Bite, Rip, and Primal Wrath have a $s1% chance to remove|cFFFFFFFF Winning Streak!|r. Free Ferocious Bites are exempt from this chance.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
