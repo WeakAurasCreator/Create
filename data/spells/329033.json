@@ -1,7 +1,7 @@
 {
   "ID": "403672",
   "NameSubtext_lang": "PvP Talent",
-  "Description_lang": "Reduces the cooldown of your Shattering Throw or Wrecking Throw by $s1% and increases its damage to absorb shields by an additional ${$s3*5}%.",
+  "Description_lang": "Reduces the cooldown of your Shattering Throw or Wrecking Throw by $s1% and increases its damage to absorb shields by an additional $s3%.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
