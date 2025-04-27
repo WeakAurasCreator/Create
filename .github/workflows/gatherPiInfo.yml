@@ -64,9 +64,12 @@ jobs:
           mkdir simc/build && cd simc/build
           cmake .. -DCMAKE_BUILD_TYPE=Release -DBUILD_GUI=OFF
           make -j$(nproc)
-          # package the simc binary
-          mkdir -p simc-dist
-          cp simc simc-dist/
+
+      - name: Package simc binary for upload
+        run: |
+            # create a top-level folder so upload-artifact finds it
+            mkdir -p $GITHUB_WORKSPACE/simc-dist
+            cp simc/build/simc $GITHUB_WORKSPACE/simc-dist/
 
       - name: Upload simc binary artifact
         uses: actions/upload-artifact@v4
