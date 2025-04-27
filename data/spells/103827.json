@@ -1,7 +1,7 @@
 {
   "ID": "79688",
   "NameSubtext_lang": "",
-  "Description_lang": "Increases the maximum number of charges on Charge by 1, and reduces its cooldown by ${$s2/-1000} sec.",
+  "Description_lang": "Charge gains $s1 additional charge and its cooldown is reduced by ${$s2/-1000} sec.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
