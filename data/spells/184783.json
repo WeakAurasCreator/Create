@@ -1,7 +1,7 @@
 {
   "ID": "158747",
   "NameSubtext_lang": "",
-  "Description_lang": "You have a ${$s1/100}.2% chance per Rage spent on attacks to reset the remaining cooldown on Overpower.",
+  "Description_lang": "You have a ${$s1/100}.1% chance per Rage spent on attacks to reset the remaining cooldown on Overpower.",
   "AuraDescription_lang": "",
   "Attributes_0": "262224",
   "Attributes_1": "0",
