@@ -1,7 +1,7 @@
 {
   "ID": "4493",
   "NameSubtext_lang": "",
-  "Description_lang": "Increases maximum health by $s1% for $d, and instantly heals you for that amount.",
+  "Description_lang": "Increases maximum health by $s1% for $d and instantly heals you for that amount.",
   "AuraDescription_lang": "Maximum health increased by $s1%.",
   "Attributes_0": "-2147155952",
   "Attributes_1": "132096",
