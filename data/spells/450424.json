@@ -1,8 +1,8 @@
 {
   "ID": "742797",
   "NameSubtext_lang": "",
-  "Description_lang": "The caster ejects wax from its body every $t1 for $d. The dripping wax creates pools that inflict Nature damage every $446424t1 sec and slow units by $446424s2%.",
-  "AuraDescription_lang": "Ejecting pools of wax every $t1.",
+  "Description_lang": "The caster ejects wax from its body every $t1 sec for $d. The dripping wax creates pools that inflict Nature damage every $446424t1 sec and slow units by $446424s2%.",
+  "AuraDescription_lang": "Ejecting pools of wax every $t1 sec.",
   "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
