@@ -1,7 +1,7 @@
 {
   "ID": "766208",
   "NameSubtext_lang": "",
-  "Description_lang": "The caster strikes their target with electricity that arcs to another nearby player, inflicting Nature damage and reducing their movement speed by $s2% for $d/. The spell affects up to $x1 targets.",
+  "Description_lang": "The caster strikes their target with electricity that arcs to another nearby player, inflicting Nature damage and reducing their movement speed by $s2% for $d. The spell affects up to $x1 targets.",
   "AuraDescription_lang": "",
   "Attributes_0": "67108864",
   "Attributes_1": "0",

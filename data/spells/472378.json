@@ -1,7 +1,7 @@
 {
   "ID": "765196",
   "NameSubtext_lang": "",
-  "Description_lang": "The caster heals itself for $s1% of its max health every $t1 sec for $d.",
+  "Description_lang": "The caster heals itself for $s2% of its max health every $t2 sec for $d.",
   "AuraDescription_lang": "Healing $s2% max health every $t2 sec.",
   "Attributes_0": "0",
   "Attributes_1": "64",
