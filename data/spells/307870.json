@@ -1,9 +1,9 @@
 {
   "ID": "382423",
   "NameSubtext_lang": "",
-  "Description_lang": "Summon a Sanity Restoration Orb that restores 10% of nearby allies' maximum Sanity per second for 15 sec.Revives allies.Limited uses per Horrific Vision expedition. Cannot be cast when in combat.",
-  "AuraDescription_lang": "Summon a Sanity Restoration Orb that restores 10% of nearby allies' maximum Sanity per second for 15 sec.Revives allies.Limited uses per Horrific Vision expedition. Cannot be cast when in combat.",
-  "Attributes_0": "268435456",
+  "Description_lang": "Summon a Sanity Restoration Orb that restores 10% of nearby allies' maximum Sanity per second for 15 sec.Revives allies.Limited uses per Horrific Vision expedition.Less effective during combat.",
+  "AuraDescription_lang": "Summon a Sanity Restoration Orb that restores 10% of nearby allies' maximum Sanity per second for 15 sec.Revives allies.Limited uses per Horrific Vision expedition.Less effective during combat.",
+  "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
   "Attributes_3": "1073741824",
