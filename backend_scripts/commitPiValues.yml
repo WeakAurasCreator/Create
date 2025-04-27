@@ -1,0 +1,39 @@
+# description of this workflow, can be anything you want
+name: deploy Page
+
+# we need to let GitHub know _when_ we want to run this workflow, typically only when we create a new tag.
+# this will target pushes to the master branch and pull request.
+# this part can be heavily customized to your liking, like targeting only tags that match a certain word,
+# other branches or even pullrequests.
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/sims/**'              # Any file inside the /data/sims folder
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Gather PI Data"]
+    types:
+      - completed
+
+
+# a workflow is built up as jobs, and within these jobs are steps
+jobs:
+  collect-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4         
+      
+      - name: Merge into pi_values.json
+        run: |
+          python backend_scripts/gather_pi_data_matrix.py --merge-results
+      
+      - name: Generate description texts
+        run: |
+            python backend_scripts/generate_pi_description_text.py
+      - name: Auto-commit & push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated Pi Results"
+          file_pattern: "data/**"
