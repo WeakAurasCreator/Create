@@ -1,7 +1,7 @@
 {
   "ID": "737176",
   "NameSubtext_lang": "",
-  "Description_lang": "When you Execute a target that you've Marked for Execution, you both reduce the cooldown of Bladestorm by $s1 sec and apply $s2 stacks of Overwhelmed to the target per stack of Marked for Execution consumed.You can now use Pummel and Storm Bolt while Bladestorming.",
+  "Description_lang": "When you Execute a target that you've Marked for Execution, you both reduce the cooldown of Bladestorm by $s1 sec and apply $s2 stacks of Overwhelmed to the target per stack of Marked for Execution consumed.You can use Pummel and Storm Bolt while Bladestorming.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
