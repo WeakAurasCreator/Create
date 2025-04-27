@@ -1,7 +1,7 @@
 {
   "ID": "769767",
   "NameSubtext_lang": "",
-  "Description_lang": "Heals $w2 every $t2 sec.",
+  "Description_lang": "Heals ${$o2/4} every $t2 sec.",
   "AuraDescription_lang": "Heals $w2 every $t2 sec.",
   "Attributes_0": "159383552",
   "Attributes_1": "32",
