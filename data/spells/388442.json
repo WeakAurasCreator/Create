@@ -1,8 +1,8 @@
 {
   "ID": "647211",
   "NameSubtext_lang": "",
-  "Description_lang": "|cnITEM_SUPERIOR_COLOR:Rare Quality|rKilling a creature that grants XP or honor in the Dragon Isles grants you and a nearby player $@spellname388437.$@spellicon388437$@spellname388437$@spelldesc388437",
-  "AuraDescription_lang": "|cnITEM_SUPERIOR_COLOR:Rare Quality|rKilling a creature that grants XP or honor in the Dragon Isles grants you and a nearby player $@spellname388437.$@spellicon388437$@spellname388437$@spelldesc388437",
+  "Description_lang": "|cnIQ3:Rare Quality|rKilling a creature that grants XP or honor in the Dragon Isles grants you and a nearby player $@spellname388437.$@spellicon388437$@spellname388437$@spelldesc388437",
+  "AuraDescription_lang": "|cnIQ3:Rare Quality|rKilling a creature that grants XP or honor in the Dragon Isles grants you and a nearby player $@spellname388437.$@spellicon388437$@spellname388437$@spelldesc388437",
   "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
