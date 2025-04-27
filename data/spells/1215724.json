@@ -1,7 +1,7 @@
 {
   "ID": "770223",
   "NameSubtext_lang": "",
-  "Description_lang": "When you would lose |cFFFFFFFF Winning Streak!|r, you have a chance to instead gain maximum stacks of |cFFFFFFFF Winning Streak!|r for 4s. These cannot be removed and have $s1% additional effect while immune to removal.",
+  "Description_lang": "When you would lose |cFFFFFFFFWinning Streak!|r, you have a chance to instead gain maximum stacks of |cFFFFFFFFWinning Streak!|r for 4s. These cannot be removed and have $s1% additional effect while immune to removal.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
