@@ -1,7 +1,7 @@
 {
   "ID": "176765",
   "NameSubtext_lang": "",
-  "Description_lang": "Demoralizing Shout also generates ${$m1/10} Rage, and increases damage you deal to affected targets by $s2%.",
+  "Description_lang": "Demoralizing Shout also generates ${$m1/10} Rage and increases damage you deal to affected targets by $s2%.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",

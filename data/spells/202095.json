@@ -1,7 +1,7 @@
 {
   "ID": "176117",
   "NameSubtext_lang": "",
-  "Description_lang": "Your maximum health is increased by $s3%, and every ${$s2/10} Rage you spend heals you for ${$s1/10}% of your maximum health.",
+  "Description_lang": "Your maximum health is increased by $s3% and every ${$s2/10} Rage you spend heals you for ${$s1/10}% of your maximum health.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",

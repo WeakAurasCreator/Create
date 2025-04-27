@@ -1,7 +1,7 @@
 {
   "ID": "176185",
   "NameSubtext_lang": "",
-  "Description_lang": "Reduces the cooldown of Heroic Leap by ${$m1/-1000} sec, and Heroic Leap now also increases your movement speed by $202164s1% for $202164d.",
+  "Description_lang": "Reduces the cooldown of Heroic Leap by ${$m1/-1000} sec and Heroic Leap also increases your movement speed by $202164s1% for $202164d.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
