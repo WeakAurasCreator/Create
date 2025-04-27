@@ -372,33 +372,38 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
     return float(dps_str), reverse_buff_map
 
 def load_dps_and_buffs(path: Path) -> float:
-    j = json.loads(path.read_text())
-    player = j["sim"]["players"][0]
-    cd = player.get("collected_data", {})
-    dps = cd.get("dps", {}).get("mean")
-    buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
+    try:
+        j = json.loads(path.read_text())
+        player = j["sim"]["players"][0]
+        cd = player.get("collected_data", {})
+        dps = cd.get("dps", {}).get("mean")
+        buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
 
-    buff_map: dict[str,int] = {}
-    for b in buffs_all:
-        # Try the obvious fields first
-        name = b.get("name")
-        sid  = b.get("spell")
+        buff_map: dict[str,int] = {}
+        for b in buffs_all:
+            # Try the obvious fields first
+            name = b.get("name")
+            sid  = b.get("spell")
 
-        # Fallback: some versions nest under "spell": { "id":…, "name":… }
-        if sid is None and isinstance(b.get("spell"), dict):
-            sid  = b["spell"].get("spell")
-            name = name or b["spell"].get("name")
+            # Fallback: some versions nest under "spell": { "id":…, "name":… }
+            if sid is None and isinstance(b.get("spell"), dict):
+                sid  = b["spell"].get("spell")
+                name = name or b["spell"].get("name")
 
-        # Only keep it if we have both name & ID
-        if name and sid:
-            buff_map[name] = sid
+            # Only keep it if we have both name & ID
+            if name and sid:
+                buff_map[name] = sid
 
-    reverse_buff_map: dict[str,int] = {}
-    for display_name, sid in buff_map.items():
-        snake = to_snake(display_name)
-        reverse_buff_map[snake] = sid
+        reverse_buff_map: dict[str,int] = {}
+        for display_name, sid in buff_map.items():
+            snake = to_snake(display_name)
+            reverse_buff_map[snake] = sid
 
-    return float(dps), reverse_buff_map
+        return float(dps), reverse_buff_map
+    except Exception as e:
+        print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️ "
+                f"Failed to load DPS/buffs from '{path}': {e}")
+        return 0.0, {}
 
 def merge_results():
     # find all sim JSON outputs
