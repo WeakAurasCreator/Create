@@ -1,7 +1,7 @@
 {
   "ID": "767567",
   "NameSubtext_lang": "",
-  "Description_lang": "You retain Lycara's Teachings' bonus from your most recent shapeshift form for ${$s1/1000} sec after shifting out of it.",
+  "Description_lang": "You retain Lycara's Teachings' bonus from your most recent shapeshift form for ${$s1/1000} sec after shifting out of it, provided you remained in that form for ${$s2/1000}.1 sec, reduced by Haste.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
