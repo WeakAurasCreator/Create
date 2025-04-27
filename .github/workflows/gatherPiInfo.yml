@@ -122,12 +122,12 @@ jobs:
       - name: Upload json sim result
         uses: actions/upload-artifact@v4
         with:
-          name: sim-json- ${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
+          name: sim-json-${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
           path: ${{ matrix.json_out }}
       - name: Upload html sim result
         uses: actions/upload-artifact@v4
         with:
-            name: sim-html- ${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
+            name: sim-html-${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
             path: ${{ matrix.html_out }}    
 
   collect-and-commit:
@@ -137,7 +137,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Download simc profiles
-        uses: actions/download-artifact@v4       # pull in the .simc files you uploaded earlier :contentReference[oaicite:2]{index=2}
+        uses: actions/download-artifact@v4       
         with:
             name: simc-profiles
             path: data/sims/profiles
@@ -145,22 +145,50 @@ jobs:
         uses: actions/download-artifact@v4
         with: { path: data/sims/final_sims }
 
+      - name: Flatten & regroup into per-spec dirs
+        run: |
+          set -e
+          # 1) Move all files up
+          find data/sims/final_sims -mindepth 2 -type f \
+            -exec mv {} data/sims/final_sims/ \;
+          # 2) Delete empty dirs
+          find data/sims/final_sims -mindepth 1 -type d -exec rm -rf {} +
+          # 3) Regroup by class/spec
+          mkdir -p data/sims/final_sims_grouped
+          for f in data/sims/final_sims/*.{json,html}; do
+            base=$(basename "$f")
+            cls=${base%%_*}                       # up to first underscore
+            spec=${base#*_}; spec=${spec%%_*}    # between underscores
+            dir="data/sims/final_sims_grouped/$cls/$spec"
+            mkdir -p "$dir"
+            mv "$f" "$dir/"
+          done
+          # 4) Swap in place
+          rm -rf data/sims/final_sims
+          mv data/sims/final_sims_grouped data/sims/final_sims/   
+
 
       - name: List full workspace tree
         run: |
           echo "Working directory: $PWD"
           echo "=== Directory tree ==="
-          find . -type d    -print    # all directories
+          find data/sims -type d    -print    # all directories
           echo "=== File list ==="
-          find . -type f    -print    
+          find data/sims -type f    -print    
 
-      - name: Auto-commit & push
+      - name: Auto-commit & push profiles
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Updated Pi Data"
-          file_pattern: |
-            **/*.json
-            **/*.html
-            **/*.simc
+          file_pattern: data/simc/profiles/**/*.simc
           disable_globbing: true
+      - name: Auto-commit & push sims   
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: |
+            data/sims/final_sims/**/*.json
+            data/sims/final_sims/**/*.html
+          disable_globbing: true
+          commit_message: "Updated simulation outputs"
+             
 
