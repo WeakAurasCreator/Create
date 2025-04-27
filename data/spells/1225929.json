@@ -1,8 +1,8 @@
 {
   "ID": "780470",
   "NameSubtext_lang": "",
-  "Description_lang": "The Luck of the Moon!  +$s1 Health.",
-  "AuraDescription_lang": "The Luck of the Moon!  +$s1 Health.",
+  "Description_lang": "The Luck of the Moon! Maximum health increased by $s1%. Only usable outdoors.",
+  "AuraDescription_lang": "The Luck of the Moon! Maximum health increased by $s1%. Only usable outdoors.",
   "Attributes_0": "33024",
   "Attributes_1": "2048",
   "Attributes_2": "0",

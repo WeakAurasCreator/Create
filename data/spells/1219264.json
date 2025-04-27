@@ -2,7 +2,7 @@
   "ID": "773792",
   "NameSubtext_lang": "",
   "Description_lang": "$@spelldesc1215724",
-  "AuraDescription_lang": "|cFFFFFFFF Winning Streak!|r increased by $w1%. You cannot lose |cFFFFFFFF Winning Streak!|r",
+  "AuraDescription_lang": "|cFFFFFFFFWinning Streak!|r increased by $w1%. You cannot lose |cFFFFFFFFWinning Streak!|r",
   "Attributes_0": "-2147483648",
   "Attributes_1": "32",
   "Attributes_2": "0",
