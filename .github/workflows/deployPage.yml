@@ -7,7 +7,7 @@ name: deploy Page
 # other branches or even pullrequests.
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths:
       - '*.html'
       - 'assets/**'
