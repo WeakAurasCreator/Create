@@ -1,7 +1,7 @@
 {
   "ID": "733309",
   "NameSubtext_lang": "",
-  "Description_lang": "Shockwave also knocks enemies into the air, and its cooldown is reduced by ${$s1/-1000} sec.",
+  "Description_lang": "Shockwave also knocks enemies into the air and its cooldown is reduced by ${$s1/-1000} sec.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
