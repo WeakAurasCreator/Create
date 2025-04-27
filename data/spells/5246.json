@@ -1,7 +1,7 @@
 {
   "ID": "1428",
   "NameSubtext_lang": "",
-  "Description_lang": "$?s275338[Causes the targeted enemy and up to $s1 additional enemies within $5246A3 yards to cower in fear.][Causes the targeted enemy to cower in fear, and up to $s1 additional enemies within $5246A3 yards to flee.] Targets are disoriented for $d.",
+  "Description_lang": "$?s275338[Causes the targeted enemy and up to $s1 additional enemies within $5246A3 yards to cower in fear.][Causes the targeted enemy to cower in fear and up to $s1 additional enemies within $5246A3 yards to flee.]Targets are disoriented for $d.",
   "AuraDescription_lang": "Disoriented.",
   "Attributes_0": "327696",
   "Attributes_1": "136",
