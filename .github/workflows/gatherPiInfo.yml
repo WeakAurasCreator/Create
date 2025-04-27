@@ -167,7 +167,19 @@ jobs:
           rm -rf data/sims/final_sims
           mv data/sims/final_sims_grouped data/sims/final_sims/   
 
-
+      - name: Regroup simc profiles into class/spec subfolders
+        run: |
+          set -e
+          PROFILE_DIR="data/sims/profiles"
+          find "$PROFILE_DIR" -maxdepth 1 -type f -name '*.simc' | while read f; do
+            base=$(basename "$f" .simc)
+            cls=${base%%_*}
+            spec=${base#*_}; spec=${spec%%_*}
+            dest="$PROFILE_DIR/$cls/$spec"
+            mkdir -p "$dest"
+            mv "$f" "$dest/"
+          done
+      
       - name: List full workspace tree
         run: |
           echo "Working directory: $PWD"
@@ -179,7 +191,7 @@ jobs:
       - name: Auto-commit & push profiles
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Updated Pi Data"
+          commit_message: "Updated sim profiles"
           file_pattern: data/simc/profiles/**/*.simc
           disable_globbing: true
       - name: Auto-commit & push sims   
