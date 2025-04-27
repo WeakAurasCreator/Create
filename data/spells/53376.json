@@ -1,7 +1,7 @@
 {
   "ID": "34940",
   "NameSubtext_lang": "",
-  "Description_lang": "$?(c1|c2|c3)[Avenging Wrath now ][The duration of Avenging Wrath is increased by $s1%.]$?c1[reduces Holy Shock's cooldown by $s2%,]?c2[causes Judgment to generate $s3 additional Holy Power,]?c3[causes each Holy Power spent to explode with Holy light for $326731s1 damage to nearby enemies,][]$?(c1|c2|c3)[ and its duration is increased by $s1%.][]",
+  "Description_lang": "$?(c1|c2|c3)[][The duration of Avenging Wrath is increased by $s1%.]$?c1[Avenging Wrath and Avenging Crusader reduce Holy Shock's cooldown by $s2%,]?c2[Avenging Wrath and Sentinel cause Judgment to generate $s3 additional Holy Power,]?c3[Avenging Wrath and Crusade cause each Holy Power spent to explode with Holy light for $326731s1 damage to nearby enemies,][]$?(c1|c2|c3)[ and have $s1% increased duration.][]",
   "AuraDescription_lang": "",
   "Attributes_0": "320",
   "Attributes_1": "268435456",
