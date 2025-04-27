@@ -403,7 +403,7 @@ def load_dps_and_buffs(path: Path) -> float:
     except Exception as e:
         print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️ "
                 f"Failed to load DPS/buffs from '{path}': {e}")
-        return 0.0, {}
+        return 1.0, {}
 
 def merge_results():
     # find all sim JSON outputs
