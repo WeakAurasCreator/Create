@@ -1,8 +1,8 @@
 {
   "ID": "63698",
   "NameSubtext_lang": "",
-  "Description_lang": "Causes your next single-target attack to strike up to $s1 additional targets for $s3% damage.",
-  "AuraDescription_lang": "Your next single-target attack strikes up to $w1 additional targets for $w3% damage.",
+  "Description_lang": "Causes your next single-target attack to strike up to $s1 additional targets for $s2% damage.",
+  "AuraDescription_lang": "Your next single-target attack strikes up to $w1 additional targets for $w2% damage.",
   "Attributes_0": "16",
   "Attributes_1": "1024",
   "Attributes_2": "0",
