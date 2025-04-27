@@ -1,8 +1,8 @@
 {
   "ID": "50160",
   "NameSubtext_lang": "",
-  "Description_lang": "Increases Intellect by $s1 and attracts those wearing perfume. Lasts $d.",
-  "AuraDescription_lang": "Intellect increased by $s1.",
+  "Description_lang": "Increases Intellect by $s1 and attracts those wearing perfume. Lasts $d.Only usable outdoors.",
+  "AuraDescription_lang": "Intellect increased by $s1.Only usable outdoors.",
   "Attributes_0": "32768",
   "Attributes_1": "0",
   "Attributes_2": "0",

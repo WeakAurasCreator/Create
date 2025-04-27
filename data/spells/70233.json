@@ -1,8 +1,8 @@
 {
   "ID": "50150",
   "NameSubtext_lang": "",
-  "Description_lang": "Increases Strength and Agility by $s1 and attracts those wearing cologne. Lasts $d.",
-  "AuraDescription_lang": "Strength and Agility increased by $s1.",
+  "Description_lang": "Increases Strength and Agility by $s1 and attracts those wearing cologne. Lasts $d.Only usable outdoors.",
+  "AuraDescription_lang": "Strength and Agility increased by $s1.Only usable outdoors.",
   "Attributes_0": "32768",
   "Attributes_1": "0",
   "Attributes_2": "0",
