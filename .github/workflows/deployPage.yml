@@ -44,10 +44,7 @@ jobs:
 
       # we first have to clone the project, this is a required step
       - name: Clone project
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # gets git history for changelogs
-          token: ${{ secrets.WORKFLOW_TOKEN }}
+        uses: actions/checkout@v4
       
       - name: Upload static files as artifact
         id: deployment
