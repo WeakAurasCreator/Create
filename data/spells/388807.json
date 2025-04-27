@@ -1,7 +1,7 @@
 {
   "ID": "647586",
   "NameSubtext_lang": "",
-  "Description_lang": "Whenever you Parry, you heal for ${$m1}.2% of your maximum health. Can only occur once per second.",
+  "Description_lang": "Whenever you Parry, you heal for ${$388808s1}.1% of your maximum health. This effect cannot occur more than once every $proccooldown sec.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
