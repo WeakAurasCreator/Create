@@ -5,18 +5,18 @@ const Data = {};
 
 // 1) Fetch the 4 core templates + metadata
 const coreFetches = [
-  fetch("/templates/ExportData.json").then((r) => r.json()),
-  fetch("/templates/aura_types/DynamicGroup.json").then((r) => r.json()),
-  fetch("/templates/aura_types/Icon.json").then((r) => r.json()),
-  fetch("/data/metadata.json").then((r) => r.json()),
+  fetch("templates/ExportData.json").then((r) => r.json()),
+  fetch("templates/aura_types/DynamicGroup.json").then((r) => r.json()),
+  fetch("templates/aura_types/Icon.json").then((r) => r.json()),
+  fetch("data/metadata.json").then((r) => r.json()),
 ];
 
 // 2) Fetch the triggers index
-const triggersIndexFetch = fetch("/templates/triggers/triggerIndex.json").then(
+const triggersIndexFetch = fetch("templates/triggers/triggerIndex.json").then(
   (r) => r.json()
 ); // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
 
-const dataIndexFetch = fetch("/templates/data/dataIndex.json").then((r) =>
+const dataIndexFetch = fetch("templates/data/dataIndex.json").then((r) =>
   r.json()
 );
 Promise.all([Promise.all(coreFetches), triggersIndexFetch, dataIndexFetch])
@@ -30,7 +30,7 @@ Promise.all([Promise.all(coreFetches), triggersIndexFetch, dataIndexFetch])
 
       // build two lists of fetch-and-assign promises
       const triggerFetches = triggerFiles.map((fileName) =>
-        fetch(`/templates/triggers/${fileName}`)
+        fetch(`templates/triggers/${fileName}`)
           .then((r) => r.json())
           .then((json) => {
             const key = fileName.replace(/\.json$/, "");
@@ -39,7 +39,7 @@ Promise.all([Promise.all(coreFetches), triggersIndexFetch, dataIndexFetch])
       );
 
       const dataFetches = dataFiles.map((fileName) =>
-        fetch(`/templates/data/${fileName}`)
+        fetch(`templates/data/${fileName}`)
           .then((r) => r.json())
           .then((json) => {
             const key = fileName.replace(/\.json$/, "");

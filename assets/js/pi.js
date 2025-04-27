@@ -3,9 +3,9 @@ let piAura,
   piValues,
   dpsLookup = {}, explanationLookup = {};
 const piAuraFetches = [
-  fetch("/templates/aura_types/piAura.json").then((r) => r.json()),
-  fetch("/data/pi_values.json").then((r) => r.json()),
-  fetch("/data/piExplanations.json").then((r) => r.json()),
+  fetch("templates/aura_types/piAura.json").then((r) => r.json()),
+  fetch("data/pi_values.json").then((r) => r.json()),
+  fetch("data/piExplanations.json").then((r) => r.json()),
 ];
 Promise.all(piAuraFetches)
   .then(([pi_aura, pi_values, pi_explanations]) => {

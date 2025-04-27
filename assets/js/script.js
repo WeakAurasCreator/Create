@@ -3,10 +3,10 @@ let encountersByInstance;
 // 1) Fetch all 4 JSONs in parallel:
 // 1) Fetch all 4 JSONs in parallel
 Promise.all([
-  fetch("/data/JournalTier.json").then((r) => r.json()),
-  fetch("/data/journalTierXinstance.json").then((r) => r.json()),
-  fetch("/data/journalInstance.json").then((r) => r.json()),
-  fetch("/data/JournalEncounter.json").then((r) => r.json()),
+  fetch("data/JournalTier.json").then((r) => r.json()),
+  fetch("data/journalTierXinstance.json").then((r) => r.json()),
+  fetch("data/journalInstance.json").then((r) => r.json()),
+  fetch("data/JournalEncounter.json").then((r) => r.json()),
 ])
   .then(([tiers, tierToInstances, instances, encounterGroups]) => {
     encountersByInstance = Object.values(encounterGroups) // [[...], [...], …]
@@ -35,14 +35,14 @@ const Triggers = {}; // ← will hold all the trigger‑JSONs
 
 // 1) Fetch the 4 core templates + metadata
 const coreFetches = [
-  fetch("/templates/ExportData.json").then((r) => r.json()),
-  fetch("/templates/aura_types/DynamicGroup.json").then((r) => r.json()),
-  fetch("/templates/aura_types/Icon.json").then((r) => r.json()),
-  fetch("/data/metadata.json").then((r) => r.json()),
+  fetch("templates/ExportData.json").then((r) => r.json()),
+  fetch("templates/aura_types/DynamicGroup.json").then((r) => r.json()),
+  fetch("templates/aura_types/Icon.json").then((r) => r.json()),
+  fetch("data/metadata.json").then((r) => r.json()),
 ];
 
 // 2) Fetch the triggers index
-const triggersIndexFetch = fetch("/templates/triggers/triggerIndex.json").then(
+const triggersIndexFetch = fetch("templates/triggers/triggerIndex.json").then(
   (r) => r.json()
 ); // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
 
@@ -57,7 +57,7 @@ Promise.all([Promise.all(coreFetches), triggersIndexFetch])
     // 3) now fetch each trigger JSON in parallel
     return Promise.all(
       triggerFiles.map((fileName) =>
-        fetch(`/templates/triggers/${fileName}`)
+        fetch(`templates/triggers/${fileName}`)
           .then((r) => r.json())
           .then((json) => {
             // strip “.json” off the key, e.g. "triggerA"
