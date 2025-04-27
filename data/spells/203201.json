@@ -1,7 +1,7 @@
 {
   "ID": "177220",
   "NameSubtext_lang": "",
-  "Description_lang": "Thunder Clap's radius is increased by $s1%, and it reduces movement speed by an additional $s2%.",
+  "Description_lang": "Thunder Clap's radius is increased by $s1% and it reduces affected target's movement speed by an additional $s2%.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
