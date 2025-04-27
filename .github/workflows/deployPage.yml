@@ -13,7 +13,7 @@ on:
       - 'assets/**'
   workflow_dispatch:
   workflow_run:
-    workflows: ["Build pi json"]
+    workflows: ["Build pi json", "Gather Journal info", "Gather spell info", "Fetch WoW Talent Trees"]
     types:
       - completed
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
