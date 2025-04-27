@@ -2,7 +2,7 @@
   "ID": "642458",
   "NameSubtext_lang": "",
   "Description_lang": "$@spelldesc383703",
-  "AuraDescription_lang": "Falling below $s1% health will cause Fatal Mark to inflict $383706s1 Physical damage.",
+  "AuraDescription_lang": "When this target is below $s1% health $@auracaster's next Execute will cause Fatal Mark to inflict $383706s1 Physical damage.",
   "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
