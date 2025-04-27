@@ -1,7 +1,7 @@
 {
   "ID": "15022",
   "NameSubtext_lang": "",
-  "Description_lang": "Restores $202147s1% health every $202147t1 sec when you have not taken damage for $202149d.While you are below $458245s3% health, restores ${$458245s4}.1% health every $458245t1 sec. The amount restored increases the closer you are to death.",
+  "Description_lang": "Restores $202147s1% health every $202147t1 sec when you have not taken damage for ${$s1/1000} sec.Restores $458245s3% health every $458245t1 sec while you are below $458245s2% health. The amount restored increases the closer you are to death.",
   "AuraDescription_lang": "",
   "Attributes_0": "336",
   "Attributes_1": "268435456",
