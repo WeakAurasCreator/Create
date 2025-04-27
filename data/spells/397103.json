@@ -1,7 +1,7 @@
 {
   "ID": "655943",
   "NameSubtext_lang": "",
-  "Description_lang": "Shield Wall gains $s2 additional charge, and its cooldown is reduced by ${$s1/-1000} sec.",
+  "Description_lang": "Shield Wall gains $s2 additional charge and its cooldown is reduced by ${$s1/-1000} sec.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
