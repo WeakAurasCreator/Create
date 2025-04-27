@@ -440,9 +440,12 @@ def merge_results():
         pct   = (delta / d0) * 100
 
         # extract buffs from the profile file used for the with-PI run
-        prof_file = PROFILE_PATH / f"{cls}_{spec}_{nt}_{True}.simc"
-        dependencies = extract_external_buffs(prof_file.read_text())
-
+        prof_file = PROFILE_PATH / f"{cls}_{spec}_{nt}_{1}.simc"
+        try:
+            dependencies = extract_external_buffs(prof_file.read_text())
+        except Exception as e:
+            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️ Failed to extract external buffs from {prof_file}: {e}")
+            dependencies = set()
         print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] PI dependencies: {dependencies}")
         dep_ids = {}
         for buff in dependencies:
