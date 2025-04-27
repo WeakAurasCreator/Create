@@ -1,7 +1,7 @@
 {
   "ID": "348120",
   "NameSubtext_lang": "",
-  "Description_lang": "Shield Slam deals $s1% increased damage, and reduces enemies' damage against you by $275335s1% for $275335d. Multiple punishments may overlap.",
+  "Description_lang": "Shield Slam deals $s1% increased damage and reduces enemies' damage against you by $275335s1% for $275335d. Multiple punishments may overlap.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
