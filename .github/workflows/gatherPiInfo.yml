@@ -145,12 +145,22 @@ jobs:
         uses: actions/download-artifact@v4
         with: { path: data/sims/final_sims }
 
+
+      - name: List full workspace tree
+        run: |
+          echo "Working directory: $PWD"
+          echo "=== Directory tree ==="
+          find . -type d    -print    # all directories
+          echo "=== File list ==="
+          find . -type f    -print    
+
       - name: Auto-commit & push
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Updated Pi Data"
           file_pattern: |
             **/*.json
             **/*.html
             **/*.simc
+          disable_globbing: true
 
