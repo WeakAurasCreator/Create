@@ -2,7 +2,7 @@ name: Gather spell info
 
 on:
   schedule:
-    - cron: '0 0 1 * 0'  # Runs Once per Month midnight;
+    - cron: '0 6 * * WED'
   workflow_dispatch:
 
 jobs:
