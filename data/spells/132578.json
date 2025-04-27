@@ -1,7 +1,7 @@
 {
   "ID": "106597",
   "NameSubtext_lang": "",
-  "Description_lang": "Summons an effigy of Niuzao, the Black Ox for $d. Niuzao attacks your primary target, and frequently Stomps, damaging all nearby enemies$?s322740[ for $227291s1 plus $322740s1% of Stagger damage you have recently purified.][.]While active, $s2% of damage delayed by Stagger is instead Staggered by Niuzao.",
+  "Description_lang": "Summons an effigy of Niuzao, the Black Ox for $d. Niuzao attacks your primary target, and frequently Stomps, damaging all nearby enemies$?s322740[, increased based on your recently purified Stagger.][.]While active, $s2% of damage delayed by Stagger is instead Staggered by Niuzao.",
   "AuraDescription_lang": "Niuzao is staggering $s2% of the Monk's Stagger damage.",
   "Attributes_0": "65536",
   "Attributes_1": "131072",
