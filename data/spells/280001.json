@@ -1,7 +1,7 @@
 {
   "ID": "352978",
   "NameSubtext_lang": "",
-  "Description_lang": "Last Stand's cooldown is reduced by ${$s1/-1000} sec, and it grants you the Shield Block effect for its duration.",
+  "Description_lang": "Last Stand's cooldown is reduced by ${$s1/-1000} sec and it grants you the Shield Block effect for its duration.",
   "AuraDescription_lang": "",
   "Attributes_0": "208",
   "Attributes_1": "1024",
