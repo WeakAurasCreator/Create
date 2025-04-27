@@ -1,7 +1,7 @@
 {
   "ID": "10890",
   "NameSubtext_lang": "",
-  "Description_lang": "Raise your $?c3[shield][weapon], reflecting $?a213915[the next $213915s3 spells cast][the first spell cast] on you, and reduce magic damage you take by $385391s1% for $d.",
+  "Description_lang": "Raise your $?c3[shield][weapon], reflecting $?a213915[the next $213915s3 spells cast][the first spell cast] on you and reducing magic damage you take by $385391s1% for $d.",
   "AuraDescription_lang": "$?a188672[Reflecting all spells cast on you.][Reflects a spell cast on you.]",
   "Attributes_0": "134545424",
   "Attributes_1": "1024",
