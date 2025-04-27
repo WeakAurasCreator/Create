@@ -1,7 +1,7 @@
 {
   "ID": "241386",
   "NameSubtext_lang": "",
-  "Description_lang": "Fires several missiles, hitting your current target and all enemies within $A1 yards for $s2 Physical damage. Deals reduced damage beyond $2643s1 targets.$?s260393[Multi-Shot has a $260393h% chance to reduce the cooldown of Rapid Fire by ${$260393m1/10}.1 sec.][]",
+  "Description_lang": "Fires several missiles, hitting your current target and all enemies within $A2 yards for $s2 Physical damage. Deals reduced damage beyond $2643s1 targets.$?s260393[Multi-Shot has a $260393h% chance to reduce the cooldown of Rapid Fire by ${$260393m1/10}.1 sec.][]",
   "AuraDescription_lang": "",
   "Attributes_0": "65554",
   "Attributes_1": "134218240",
