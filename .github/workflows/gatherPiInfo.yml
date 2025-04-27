@@ -192,14 +192,14 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Updated sim profiles"
-          file_pattern: data/simc/profiles/**/*.simc
+          file_pattern: :(glob)data/simc/profiles/**/*.simc
           disable_globbing: true
       - name: Auto-commit & push sims   
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: |
-            data/sims/final_sims/**/*.json
-            data/sims/final_sims/**/*.html
+            :(glob)data/sims/final_sims/**/*.json
+            :(glob)data/sims/final_sims/**/*.html
           disable_globbing: true
           commit_message: "Updated simulation outputs"
              
