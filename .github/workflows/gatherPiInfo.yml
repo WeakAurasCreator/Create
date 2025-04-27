@@ -47,9 +47,6 @@ jobs:
     name: Build SimulationCraft CLI
     runs-on: ubuntu-latest
 
-    # We don't need the matrix here
-    needs: prepare-matrix
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -77,7 +74,7 @@ jobs:
           name: simc-binary
           path: simc-dist/
   simulate:
-    needs: prepare-matrix
+    needs: [build-simc, prepare-matrix]
     runs-on: ubuntu-latest
     strategy:
       matrix: ${{ fromJson(needs.prepare-matrix.outputs.matrix) }}
