@@ -4,7 +4,7 @@
   "Description_lang": "Throw a glaive enhanced with the essence of consumed souls at your target, dealing $s1 Physical damage and ricocheting to ${$x1-1} additional $Lenemy:enemies;. Begins a well-practiced pattern of glaivework, enhancing your next $?a212612[Chaos Strike]?s263642[Fracture][Shear] and $?a212612[Blade Dance][Soul Cleave].The enhanced ability you cast first deals $442290s3% increased damage, and the second deals $442290s4% increased damage.$?a442497[|CFFffffffGenerates $s2 Fury.|R][]",
   "AuraDescription_lang": "",
   "Attributes_0": "2424848",
-  "Attributes_1": "1536",
+  "Attributes_1": "512",
   "Attributes_2": "0",
   "Attributes_3": "0",
   "Attributes_4": "262144",
