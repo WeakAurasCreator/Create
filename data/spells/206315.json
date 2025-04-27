@@ -1,7 +1,7 @@
 {
   "ID": "180352",
   "NameSubtext_lang": "",
-  "Description_lang": "$?a317320[Condemn][Execute] is now usable on targets below $s2% health, and its cooldown is reduced by ${$s3/1000}.1 sec.",
+  "Description_lang": "$?a317320[Condemn][Execute] is now usable on targets below $s2% health and its cooldown is reduced by ${$s3/1000}.1 sec.",
   "AuraDescription_lang": "",
   "Attributes_0": "448",
   "Attributes_1": "0",
