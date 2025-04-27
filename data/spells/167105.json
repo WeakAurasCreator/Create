@@ -1,7 +1,7 @@
 {
   "ID": "141033",
   "NameSubtext_lang": "",
-  "Description_lang": "Smashes the enemy's armor, dealing $s1 Physical damage, and increasing damage you deal to them by $208086s1% for $208086d.",
+  "Description_lang": "Smashes the enemy's armor, dealing $s1 Physical damage and increasing damage you deal to them by $208086s1% for $208086d.",
   "AuraDescription_lang": "",
   "Attributes_0": "327696",
   "Attributes_1": "134218240",
