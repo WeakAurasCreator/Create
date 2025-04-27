@@ -1,7 +1,7 @@
 {
   "ID": "348125",
   "NameSubtext_lang": "",
-  "Description_lang": "Shockwave's range increased by $s3 yards and when Shockwave strikes at least $s1 targets, its cooldown is reduced by $s2 sec.",
+  "Description_lang": "Shockwave's range increased by $s3 yards and when it strikes at least $s1 targets its cooldown is reduced by $s2 sec.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
