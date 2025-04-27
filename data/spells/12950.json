@@ -1,7 +1,7 @@
 {
   "ID": "4475",
   "NameSubtext_lang": "",
-  "Description_lang": "Whirlwind $?s436707[and Thunder Clap cause][causes] your next $85739u single-target $lattack:attacks; to strike up to $85739s1 additional targets for $85739s3% damage.Whirlwind generates $190411s1 Rage, plus an additional $190411s2 per target hit. Maximum $<maxRage> Rage.",
+  "Description_lang": "Whirlwind $?s436707[and Thunder Clap cause][causes] your next $85739u single-target $lattack:attacks; to strike up to $85739s1 additional targets for $85739s2% damage.Whirlwind generates $190411s1 Rage, plus an additional $190411s2 per target hit. Maximum $<maxRage> Rage.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",

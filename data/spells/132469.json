@@ -1,7 +1,7 @@
 {
   "ID": "106490",
   "NameSubtext_lang": "",
-  "Description_lang": "Blasts targets within $61391a1 yards in front of you with a violent Typhoon, knocking them back and reducing their movement speed by $61391s3% for $61391d. Usable in all shapeshift forms.",
+  "Description_lang": "Blasts targets within ${$61391r1} yards in front of you with a violent Typhoon, knocking them back and reducing their movement speed by $61391s3% for $61391d. Usable in all shapeshift forms.",
   "AuraDescription_lang": "",
   "Attributes_0": "0",
   "Attributes_1": "268435584",
