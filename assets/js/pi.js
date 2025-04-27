@@ -125,8 +125,7 @@ function setupPiData(data) {
   // Render chart for selected target count
   function renderChart(targetCount) {
     // Filter entries for this target count
-    const entries = data.filter((e) => e.targets === targetCount);
-
+    const entries = data.filter((e) => e.targets === String(targetCount));
     // Map to specs and absolute DPS delta; treat negatives as zero
     const specGains = entries.map((e) => ({
       class: e.class,
