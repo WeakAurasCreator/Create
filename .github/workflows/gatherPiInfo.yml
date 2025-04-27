@@ -98,7 +98,7 @@ jobs:
         with:
           name: simc-binary
           path: simc-dist
-          
+
       - name: Make simc executable
         run: chmod +x simc-dist/simc
           
@@ -149,4 +149,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Updated Pi Data"
-          file_pattern: "data/**"
+          file_pattern: |
+            **/*.json
+            **/*.html
+            **/*.simc
+
