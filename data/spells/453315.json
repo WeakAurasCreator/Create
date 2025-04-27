@@ -1,7 +1,7 @@
 {
   "ID": "745730",
   "NameSubtext_lang": "",
-  "Description_lang": "$?pc122426[|TInterface\\ICONS\\INV_10_Blacksmithing_Consumable_Key_Color1.BLP:15|t |cnITEM_EPIC_COLOR:Restored Coffer Key|r: |cnWHITE_FONT_COLOR:$@currency3028|r][|cnRED_FONT_COLOR:Coffer Key Shards are in caches from Weekly Quests or Special Assignment World Quests.|r]",
+  "Description_lang": "$?pc122426[|TInterface\\ICONS\\INV_10_Blacksmithing_Consumable_Key_Color1.BLP:15|t |cnIQ4:Restored Coffer Key|r: |cnWHITE_FONT_COLOR:$@currency3028|r][|cnRED_FONT_COLOR:Coffer Key Shards are in caches from Weekly Quests or Special Assignment World Quests.|r]",
   "AuraDescription_lang": "",
   "Attributes_0": "0",
   "Attributes_1": "0",
