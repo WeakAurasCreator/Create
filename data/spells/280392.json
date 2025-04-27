@@ -1,7 +1,7 @@
 {
   "ID": "353388",
   "NameSubtext_lang": "",
-  "Description_lang": "Whirlwind $?s436707[and Thunder Clap deal][deals] $s1% more damage and now $?s436707[affect][affects] your next ${$s2+$s3} single-target melee attacks, instead of the next $s3 attacks.",
+  "Description_lang": "Whirlwind $?s436707[and Thunder Clap deal][deals] $s1% more damage and $?s436707[affect][affects] your next ${$s2+$s4} single-target attacks.",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
