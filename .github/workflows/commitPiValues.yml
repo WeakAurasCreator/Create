@@ -1,5 +1,5 @@
 # description of this workflow, can be anything you want
-name: deploy Page
+name: Build pi json
 
 # we need to let GitHub know _when_ we want to run this workflow, typically only when we create a new tag.
 # this will target pushes to the master branch and pull request.
