@@ -1,7 +1,7 @@
 {
   "ID": "723155",
   "NameSubtext_lang": "",
-  "Description_lang": "This will consume a |cnITEM_EPIC_COLOR:Treasure Trove Key|r and award you with a random piece of equipment at item level |cnGREEN_FONT_COLOR:$w1|r.Do you wish to continue?",
+  "Description_lang": "This will consume a |cnIQ4:Treasure Trove Key|r and award you with a random piece of equipment at item level |cnGREEN_FONT_COLOR:$w1|r.Do you wish to continue?",
   "AuraDescription_lang": "",
   "Attributes_0": "384",
   "Attributes_1": "0",
