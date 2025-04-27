@@ -1,7 +1,7 @@
 {
   "ID": "291689",
   "NameSubtext_lang": "",
-  "Description_lang": "Blasts a player with a magical stone lance, inflicting $1215934s1 Nature damage instantly and $1215934s2 Nature damage every $1215934t2 sec for $d.",
+  "Description_lang": "Blasts a player with a magical stone lance, inflicting $1215934s1 Nature damage instantly and $1215934s2 Nature damage every $1215934t2 sec for $1215934d.",
   "AuraDescription_lang": "$1215934s2 Nature damage inflicted every $1215934t2 sec.",
   "Attributes_0": "0",
   "Attributes_1": "0",
