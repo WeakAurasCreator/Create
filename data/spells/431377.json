@@ -1,7 +1,7 @@
 {
   "ID": "723680",
   "NameSubtext_lang": "",
-  "Description_lang": "Casting $?c1[Holy Prism or Barrier of Faith]?c3[Wake of Ashes][] causes your next $431522u Holy Power spending abilities to apply Dawnlight on your target, dealing $431380o1 Radiant damage or $431381o1 healing over $431380d.$431581s1% of Dawnlight's damage and healing radiates to nearby allies or enemies, reduced beyond $431581s2 targets.",
+  "Description_lang": "Casting $?c1[Holy Prism or Barrier of Faith]?c3[Wake of Ashes][] causes your next $431522u Holy Power spending abilities to apply Dawnlight on your target, dealing $431380o1 Radiant damage or $431381o1 healing over $431380d.$431581s1% of Dawnlight's damage and healing radiates to nearby allies or enemies, reduced beyond $431581s2 targets.$?c1[Dawnlight's healing does not transfer to Beacon of Light.][]",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
