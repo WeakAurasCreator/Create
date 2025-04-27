@@ -1,7 +1,7 @@
 {
   "ID": "642872",
   "NameSubtext_lang": "",
-  "Description_lang": "Hurl your weapon at the enemy, causing $<damage> Physical damage, ignoring armor. Deals up to $?s329033[${($329033s3/100+1)*500}][500]% increased damage to absorb shields.",
+  "Description_lang": "Hurl your weapon at the enemy, causing $394354s2 Physical damage, ignoring armor. Deals up to $394354s3% increased damage to absorb shields.",
   "AuraDescription_lang": "",
   "Attributes_0": "327696",
   "Attributes_1": "512",

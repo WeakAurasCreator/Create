@@ -1,7 +1,7 @@
 {
   "ID": "644458",
   "NameSubtext_lang": "",
-  "Description_lang": "Bleed damage of Odyn's Fury, Thunderous Roar, Bloodbath, and Gushing Wound increased by $s1%.",
+  "Description_lang": "Your Bleed effects deal $s1% additional damage.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",

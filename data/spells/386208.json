@@ -1,7 +1,7 @@
 {
   "ID": "644971",
   "NameSubtext_lang": "",
-  "Description_lang": "A defensive combat state that reduces all damage you take by $s1%$?a452494[ and all magic damage you take by an additional $s3%][]$?a137048[][, and all damage you deal by $s2%]. Lasts until canceled.",
+  "Description_lang": "A defensive combat state that reduces all damage you take by $s1%$?a452494[ and all magic damage you take by an additional $s3%][]$?a137048[][ and all damage you deal by $s2%]. Lasts until canceled.",
   "AuraDescription_lang": "Damage taken reduced by $s1%.$?a452494[Magic damage taken reduced by an additional $s3%.][]$?a137048[][Damage done reduced by $s2%.]",
   "Attributes_0": "-1996161008",
   "Attributes_1": "0",

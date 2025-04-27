@@ -1,7 +1,7 @@
 {
   "ID": "643163",
   "NameSubtext_lang": "",
-  "Description_lang": "Your auto-attacks have a $s2% chance to hurl weapons at your target and 3 other enemies in front of you, dealing an additional $384391s1 Physical damage.",
+  "Description_lang": "Your auto-attacks have a $H% chance to hurl weapons at your target and ${$384391i-1} other enemies in front of you, dealing an additional $384391s1 Physical damage.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
