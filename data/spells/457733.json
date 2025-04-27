@@ -1,7 +1,7 @@
 {
   "ID": "750383",
   "NameSubtext_lang": "",
-  "Description_lang": "Teleports you $A1 yds or until reaching an obstacle in a random direction.",
+  "Description_lang": "Teleports you $A1 yds or until reaching an obstacle in a random direction.Only usable in delves and outdoors in Khaz Algar.",
   "AuraDescription_lang": "Blinking.",
   "Attributes_0": "65536",
   "Attributes_1": "268469248",
