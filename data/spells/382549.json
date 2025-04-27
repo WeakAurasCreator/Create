@@ -1,7 +1,7 @@
 {
   "ID": "641319",
   "NameSubtext_lang": "",
-  "Description_lang": "When you take any damage, heal for ${$m1/10}.2% of your maximum health. This can only occur once every $357946d.",
+  "Description_lang": "When you take any damage, heal for ${$382551s1/10}.1% of your maximum health. This can only occur once every $proccooldown sec.",
   "AuraDescription_lang": "",
   "Attributes_0": "64",
   "Attributes_1": "0",
