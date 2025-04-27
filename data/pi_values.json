@@ -69,10 +69,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": "15",
-    "dps_no_pi": 17082828.0,
-    "dps_with_pi": 18342376.03,
-    "dps_delta": 1259548.03,
-    "dps_pct_gain": 7.37,
+    "dps_no_pi": 17090729.96,
+    "dps_with_pi": 18351815.06,
+    "dps_delta": 1261085.1,
+    "dps_pct_gain": 7.38,
     "pi_dep_spell_ids": {
       "288613": 288613
     }
@@ -82,10 +82,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": "1",
-    "dps_no_pi": 2848530.79,
-    "dps_with_pi": 2980518.34,
-    "dps_delta": 131987.55,
-    "dps_pct_gain": 4.63,
+    "dps_no_pi": 2849410.94,
+    "dps_with_pi": 2975162.92,
+    "dps_delta": 125751.98,
+    "dps_pct_gain": 4.41,
     "pi_dep_spell_ids": {
       "288613": 288613
     }
@@ -95,10 +95,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": "8",
-    "dps_no_pi": 13007885.11,
-    "dps_with_pi": 14164989.41,
-    "dps_delta": 1157104.3,
-    "dps_pct_gain": 8.9,
+    "dps_no_pi": 13010011.72,
+    "dps_with_pi": 14171896.38,
+    "dps_delta": 1161884.66,
+    "dps_pct_gain": 8.93,
     "pi_dep_spell_ids": {
       "288613": 288613
     }
@@ -108,10 +108,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": "5",
-    "dps_no_pi": 8437046.79,
-    "dps_with_pi": 10939238.11,
-    "dps_delta": 2502191.32,
-    "dps_pct_gain": 29.66,
+    "dps_no_pi": 8437443.43,
+    "dps_with_pi": 10937849.22,
+    "dps_delta": 2500405.79,
+    "dps_pct_gain": 29.63,
     "pi_dep_spell_ids": {
       "288613": 288613
     }
@@ -121,10 +121,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": "3",
-    "dps_no_pi": 3216681.18,
-    "dps_with_pi": 6675838.33,
-    "dps_delta": 3459157.15,
-    "dps_pct_gain": 107.54,
+    "dps_no_pi": 3220335.14,
+    "dps_with_pi": 6679860.35,
+    "dps_delta": 3459525.21,
+    "dps_pct_gain": 107.43,
     "pi_dep_spell_ids": {
       "288613": 288613
     }
@@ -199,10 +199,10 @@
     "spec": "Retribution",
     "specId": 70,
     "targets": "15",
-    "dps_no_pi": 18808998.67,
-    "dps_with_pi": 19443146.55,
-    "dps_delta": 634147.88,
-    "dps_pct_gain": 3.37,
+    "dps_no_pi": 18877420.21,
+    "dps_with_pi": 19479804.89,
+    "dps_delta": 602384.68,
+    "dps_pct_gain": 3.19,
     "pi_dep_spell_ids": {}
   },
   {
@@ -210,10 +210,10 @@
     "spec": "Retribution",
     "specId": 70,
     "targets": "1",
-    "dps_no_pi": 2697393.91,
-    "dps_with_pi": 2768933.17,
-    "dps_delta": 71539.26,
-    "dps_pct_gain": 2.65,
+    "dps_no_pi": 2697466.99,
+    "dps_with_pi": 2770147.64,
+    "dps_delta": 72680.66,
+    "dps_pct_gain": 2.69,
     "pi_dep_spell_ids": {}
   },
   {
@@ -221,10 +221,10 @@
     "spec": "Retribution",
     "specId": 70,
     "targets": "3",
-    "dps_no_pi": 5652733.04,
-    "dps_with_pi": 5797495.57,
-    "dps_delta": 144762.53,
-    "dps_pct_gain": 2.56,
+    "dps_no_pi": 5634893.81,
+    "dps_with_pi": 5801693.06,
+    "dps_delta": 166799.25,
+    "dps_pct_gain": 2.96,
     "pi_dep_spell_ids": {}
   },
   {
@@ -232,10 +232,10 @@
     "spec": "Retribution",
     "specId": 70,
     "targets": "5",
-    "dps_no_pi": 9293659.97,
-    "dps_with_pi": 9563117.15,
-    "dps_delta": 269457.18,
-    "dps_pct_gain": 2.9,
+    "dps_no_pi": 9285700.71,
+    "dps_with_pi": 9559955.54,
+    "dps_delta": 274254.83,
+    "dps_pct_gain": 2.95,
     "pi_dep_spell_ids": {}
   },
   {
@@ -243,10 +243,10 @@
     "spec": "Retribution",
     "specId": 70,
     "targets": "8",
-    "dps_no_pi": 12551930.14,
-    "dps_with_pi": 12916060.96,
-    "dps_delta": 364130.82,
-    "dps_pct_gain": 2.9,
+    "dps_no_pi": 12540050.61,
+    "dps_with_pi": 12906493.69,
+    "dps_delta": 366443.08,
+    "dps_pct_gain": 2.92,
     "pi_dep_spell_ids": {}
   },
   {
@@ -267,10 +267,10 @@
     "spec": "Enhancement",
     "specId": 263,
     "targets": "8",
-    "dps_no_pi": 13037827.55,
+    "dps_no_pi": 13038669.44,
     "dps_with_pi": 13417091.56,
-    "dps_delta": 379264.02,
-    "dps_pct_gain": 2.91,
+    "dps_delta": 378422.12,
+    "dps_pct_gain": 2.9,
     "pi_dep_spell_ids": {
       "51533": 51533
     }
@@ -280,10 +280,10 @@
     "spec": "Enhancement",
     "specId": 263,
     "targets": "3",
-    "dps_no_pi": 5728083.62,
-    "dps_with_pi": 5915880.44,
-    "dps_delta": 187796.83,
-    "dps_pct_gain": 3.28,
+    "dps_no_pi": 5733268.09,
+    "dps_with_pi": 5920108.51,
+    "dps_delta": 186840.42,
+    "dps_pct_gain": 3.26,
     "pi_dep_spell_ids": {
       "51533": 51533
     }
@@ -293,10 +293,10 @@
     "spec": "Enhancement",
     "specId": 263,
     "targets": "15",
-    "dps_no_pi": 16916333.79,
-    "dps_with_pi": 17448941.3,
-    "dps_delta": 532607.5,
-    "dps_pct_gain": 3.15,
+    "dps_no_pi": 16908951.4,
+    "dps_with_pi": 17448465.89,
+    "dps_delta": 539514.49,
+    "dps_pct_gain": 3.19,
     "pi_dep_spell_ids": {
       "51533": 51533
     }
@@ -306,10 +306,10 @@
     "spec": "Enhancement",
     "specId": 263,
     "targets": "1",
-    "dps_no_pi": 2664317.92,
-    "dps_with_pi": 2750255.36,
-    "dps_delta": 85937.44,
-    "dps_pct_gain": 3.23,
+    "dps_no_pi": 2664878.07,
+    "dps_with_pi": 2747995.91,
+    "dps_delta": 83117.83,
+    "dps_pct_gain": 3.12,
     "pi_dep_spell_ids": {
       "51533": 51533
     }
@@ -319,10 +319,10 @@
     "spec": "Elemental",
     "specId": 262,
     "targets": "8",
-    "dps_no_pi": 14625748.41,
-    "dps_with_pi": 15006488.86,
-    "dps_delta": 380740.46,
-    "dps_pct_gain": 2.6,
+    "dps_no_pi": 14602538.69,
+    "dps_with_pi": 15020210.33,
+    "dps_delta": 417671.65,
+    "dps_pct_gain": 2.86,
     "pi_dep_spell_ids": {
       "114050": 114050
     }
@@ -332,10 +332,10 @@
     "spec": "Elemental",
     "specId": 262,
     "targets": "15",
-    "dps_no_pi": 20167714.07,
-    "dps_with_pi": 20764574.23,
-    "dps_delta": 596860.16,
-    "dps_pct_gain": 2.96,
+    "dps_no_pi": 20153777.31,
+    "dps_with_pi": 20755472.51,
+    "dps_delta": 601695.19,
+    "dps_pct_gain": 2.99,
     "pi_dep_spell_ids": {
       "114050": 114050
     }
@@ -345,10 +345,10 @@
     "spec": "Elemental",
     "specId": 262,
     "targets": "5",
-    "dps_no_pi": 11635546.74,
+    "dps_no_pi": 11629279.77,
     "dps_with_pi": 11910850.31,
-    "dps_delta": 275303.56,
-    "dps_pct_gain": 2.37,
+    "dps_delta": 281570.54,
+    "dps_pct_gain": 2.42,
     "pi_dep_spell_ids": {
       "114050": 114050
     }
@@ -358,10 +358,10 @@
     "spec": "Elemental",
     "specId": 262,
     "targets": "3",
-    "dps_no_pi": 5240694.33,
-    "dps_with_pi": 5373133.55,
-    "dps_delta": 132439.22,
-    "dps_pct_gain": 2.53,
+    "dps_no_pi": 5243207.0,
+    "dps_with_pi": 5367690.74,
+    "dps_delta": 124483.74,
+    "dps_pct_gain": 2.37,
     "pi_dep_spell_ids": {
       "114050": 114050
     }
@@ -384,10 +384,10 @@
     "spec": "Frost",
     "specId": 251,
     "targets": "5",
-    "dps_no_pi": 7813013.78,
-    "dps_with_pi": 8038049.59,
-    "dps_delta": 225035.81,
-    "dps_pct_gain": 2.88,
+    "dps_no_pi": 7809867.52,
+    "dps_with_pi": 8040977.44,
+    "dps_delta": 231109.91,
+    "dps_pct_gain": 2.96,
     "pi_dep_spell_ids": {
       "51271": 51271,
       "152279": 152279
@@ -398,10 +398,10 @@
     "spec": "Frost",
     "specId": 251,
     "targets": "1",
-    "dps_no_pi": 2914485.76,
+    "dps_no_pi": 2915649.48,
     "dps_with_pi": 3009340.31,
-    "dps_delta": 94854.55,
-    "dps_pct_gain": 3.25,
+    "dps_delta": 93690.84,
+    "dps_pct_gain": 3.21,
     "pi_dep_spell_ids": {
       "51271": 51271,
       "152279": 152279
@@ -412,10 +412,10 @@
     "spec": "Frost",
     "specId": 251,
     "targets": "8",
-    "dps_no_pi": 10555730.83,
+    "dps_no_pi": 10544680.21,
     "dps_with_pi": 10844590.0,
-    "dps_delta": 288859.18,
-    "dps_pct_gain": 2.74,
+    "dps_delta": 299909.79,
+    "dps_pct_gain": 2.84,
     "pi_dep_spell_ids": {
       "51271": 51271,
       "152279": 152279
@@ -426,10 +426,10 @@
     "spec": "Frost",
     "specId": 251,
     "targets": "15",
-    "dps_no_pi": 16430927.08,
-    "dps_with_pi": 16930159.78,
-    "dps_delta": 499232.7,
-    "dps_pct_gain": 3.04,
+    "dps_no_pi": 16417535.12,
+    "dps_with_pi": 16866006.02,
+    "dps_delta": 448470.9,
+    "dps_pct_gain": 2.73,
     "pi_dep_spell_ids": {
       "51271": 51271,
       "152279": 152279
@@ -440,10 +440,10 @@
     "spec": "Frost",
     "specId": 251,
     "targets": "3",
-    "dps_no_pi": 5585618.86,
+    "dps_no_pi": 5593000.29,
     "dps_with_pi": 5764221.19,
-    "dps_delta": 178602.33,
-    "dps_pct_gain": 3.2,
+    "dps_delta": 171220.89,
+    "dps_pct_gain": 3.06,
     "pi_dep_spell_ids": {
       "51271": 51271,
       "152279": 152279
@@ -459,7 +459,7 @@
     "dps_delta": 217356.71,
     "dps_pct_gain": 3.46,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "63560": 63560
     }
   },
   {
@@ -467,12 +467,12 @@
     "spec": "Unholy",
     "specId": 252,
     "targets": "8",
-    "dps_no_pi": 16228056.79,
+    "dps_no_pi": 16227390.85,
     "dps_with_pi": 16802949.07,
-    "dps_delta": 574892.28,
-    "dps_pct_gain": 3.54,
+    "dps_delta": 575558.22,
+    "dps_pct_gain": 3.55,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "63560": 63560
     }
   },
   {
@@ -481,11 +481,11 @@
     "specId": 252,
     "targets": "15",
     "dps_no_pi": 23542317.5,
-    "dps_with_pi": 24401310.44,
-    "dps_delta": 858992.94,
-    "dps_pct_gain": 3.65,
+    "dps_with_pi": 24428661.75,
+    "dps_delta": 886344.25,
+    "dps_pct_gain": 3.76,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "63560": 63560
     }
   },
   {
@@ -493,12 +493,12 @@
     "spec": "Unholy",
     "specId": 252,
     "targets": "5",
-    "dps_no_pi": 9305782.63,
-    "dps_with_pi": 9623382.7,
-    "dps_delta": 317600.07,
-    "dps_pct_gain": 3.41,
+    "dps_no_pi": 9306655.5,
+    "dps_with_pi": 9621266.53,
+    "dps_delta": 314611.03,
+    "dps_pct_gain": 3.38,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "63560": 63560
     }
   },
   {
@@ -507,11 +507,11 @@
     "specId": 252,
     "targets": "1",
     "dps_no_pi": 2717179.12,
-    "dps_with_pi": 2843299.68,
-    "dps_delta": 126120.57,
-    "dps_pct_gain": 4.64,
+    "dps_with_pi": 2842742.53,
+    "dps_delta": 125563.41,
+    "dps_pct_gain": 4.62,
     "pi_dep_spell_ids": {
-      "dark_transformation": 63560
+      "63560": 63560
     }
   },
   {
@@ -520,9 +520,9 @@
     "specId": 577,
     "targets": "5",
     "dps_no_pi": 6978150.29,
-    "dps_with_pi": 7137562.67,
-    "dps_delta": 159412.39,
-    "dps_pct_gain": 2.28,
+    "dps_with_pi": 7140795.31,
+    "dps_delta": 162645.03,
+    "dps_pct_gain": 2.33,
     "pi_dep_spell_ids": {
       "162264": 162264
     }
@@ -546,9 +546,9 @@
     "specId": 577,
     "targets": "3",
     "dps_no_pi": 5076428.6,
-    "dps_with_pi": 5190007.32,
-    "dps_delta": 113578.72,
-    "dps_pct_gain": 2.24,
+    "dps_with_pi": 5189519.73,
+    "dps_delta": 113091.13,
+    "dps_pct_gain": 2.23,
     "pi_dep_spell_ids": {
       "162264": 162264
     }
@@ -571,10 +571,10 @@
     "spec": "Havoc",
     "specId": 577,
     "targets": "15",
-    "dps_no_pi": 13484535.34,
+    "dps_no_pi": 13494881.21,
     "dps_with_pi": 13790597.89,
-    "dps_delta": 306062.55,
-    "dps_pct_gain": 2.27,
+    "dps_delta": 295716.68,
+    "dps_pct_gain": 2.19,
     "pi_dep_spell_ids": {
       "162264": 162264
     }
@@ -584,10 +584,10 @@
     "spec": "Shadow",
     "specId": 258,
     "targets": "3",
-    "dps_no_pi": 4218440.65,
+    "dps_no_pi": 4216469.7,
     "dps_with_pi": 4380628.66,
-    "dps_delta": 162188.01,
-    "dps_pct_gain": 3.84,
+    "dps_delta": 164158.97,
+    "dps_pct_gain": 3.89,
     "pi_dep_spell_ids": {
       "228260": 228260
     }
@@ -597,10 +597,10 @@
     "spec": "Shadow",
     "specId": 258,
     "targets": "5",
-    "dps_no_pi": 6456805.42,
+    "dps_no_pi": 6455873.16,
     "dps_with_pi": 6702448.67,
-    "dps_delta": 245643.24,
-    "dps_pct_gain": 3.8,
+    "dps_delta": 246575.51,
+    "dps_pct_gain": 3.82,
     "pi_dep_spell_ids": {
       "228260": 228260
     }
@@ -636,10 +636,10 @@
     "spec": "Shadow",
     "specId": 258,
     "targets": "8",
-    "dps_no_pi": 9673354.83,
-    "dps_with_pi": 10059187.57,
-    "dps_delta": 385832.74,
-    "dps_pct_gain": 3.99,
+    "dps_no_pi": 9670251.97,
+    "dps_with_pi": 10057347.25,
+    "dps_delta": 387095.29,
+    "dps_pct_gain": 4.0,
     "pi_dep_spell_ids": {
       "228260": 228260
     }
@@ -663,8 +663,8 @@
     "specId": 266,
     "targets": "1",
     "dps_no_pi": 2823582.86,
-    "dps_with_pi": 2962004.83,
-    "dps_delta": 138421.98,
+    "dps_with_pi": 2961845.6,
+    "dps_delta": 138262.74,
     "dps_pct_gain": 4.9,
     "pi_dep_spell_ids": {
       "456323": 456323
@@ -715,9 +715,9 @@
     "specId": 265,
     "targets": "3",
     "dps_no_pi": 5401779.64,
-    "dps_with_pi": 5689917.38,
-    "dps_delta": 288137.74,
-    "dps_pct_gain": 5.33,
+    "dps_with_pi": 5690886.48,
+    "dps_delta": 289106.85,
+    "dps_pct_gain": 5.35,
     "pi_dep_spell_ids": {}
   },
   {
@@ -780,10 +780,10 @@
     "spec": "Destruction",
     "specId": 267,
     "targets": "3",
-    "dps_no_pi": 4816323.99,
+    "dps_no_pi": 4814973.15,
     "dps_with_pi": 5017066.49,
-    "dps_delta": 200742.5,
-    "dps_pct_gain": 4.17,
+    "dps_delta": 202093.34,
+    "dps_pct_gain": 4.2,
     "pi_dep_spell_ids": {}
   },
   {
@@ -791,10 +791,10 @@
     "spec": "Destruction",
     "specId": 267,
     "targets": "5",
-    "dps_no_pi": 7741451.95,
-    "dps_with_pi": 8078481.59,
-    "dps_delta": 337029.65,
-    "dps_pct_gain": 4.35,
+    "dps_no_pi": 7751237.36,
+    "dps_with_pi": 8079692.54,
+    "dps_delta": 328455.19,
+    "dps_pct_gain": 4.24,
     "pi_dep_spell_ids": {}
   },
   {
@@ -837,10 +837,10 @@
     "spec": "Outlaw",
     "specId": 260,
     "targets": "1",
-    "dps_no_pi": 2793381.44,
-    "dps_with_pi": 2793576.29,
-    "dps_delta": 194.85,
-    "dps_pct_gain": 0.01,
+    "dps_no_pi": 2792975.35,
+    "dps_with_pi": 2794643.8,
+    "dps_delta": 1668.45,
+    "dps_pct_gain": 0.06,
     "pi_dep_spell_ids": {
       "13750": 13750
     }
@@ -863,10 +863,10 @@
     "spec": "Outlaw",
     "specId": 260,
     "targets": "15",
-    "dps_no_pi": 12829151.43,
+    "dps_no_pi": 12822993.87,
     "dps_with_pi": 12818442.19,
-    "dps_delta": -10709.24,
-    "dps_pct_gain": -0.08,
+    "dps_delta": -4551.68,
+    "dps_pct_gain": -0.04,
     "pi_dep_spell_ids": {
       "13750": 13750
     }
@@ -900,10 +900,10 @@
     "spec": "Assassination",
     "specId": 259,
     "targets": "15",
-    "dps_no_pi": 17041260.42,
+    "dps_no_pi": 17038961.17,
     "dps_with_pi": 17629798.32,
-    "dps_delta": 588537.91,
-    "dps_pct_gain": 3.45,
+    "dps_delta": 590837.16,
+    "dps_pct_gain": 3.47,
     "pi_dep_spell_ids": {}
   },
   {
@@ -922,10 +922,10 @@
     "spec": "Assassination",
     "specId": 259,
     "targets": "3",
-    "dps_no_pi": 5672694.56,
-    "dps_with_pi": 5887694.15,
-    "dps_delta": 214999.59,
-    "dps_pct_gain": 3.79,
+    "dps_no_pi": 5668793.79,
+    "dps_with_pi": 5885609.79,
+    "dps_delta": 216816.0,
+    "dps_pct_gain": 3.82,
     "pi_dep_spell_ids": {}
   },
   {
@@ -934,8 +934,8 @@
     "specId": 259,
     "targets": "5",
     "dps_no_pi": 9809065.54,
-    "dps_with_pi": 10153113.97,
-    "dps_delta": 344048.44,
+    "dps_with_pi": 10153831.44,
+    "dps_delta": 344765.9,
     "dps_pct_gain": 3.51,
     "pi_dep_spell_ids": {}
   },
@@ -944,10 +944,10 @@
     "spec": "Subtlety",
     "specId": 261,
     "targets": "1",
-    "dps_no_pi": 2536194.45,
+    "dps_no_pi": 2534799.92,
     "dps_with_pi": 2573934.83,
-    "dps_delta": 37740.38,
-    "dps_pct_gain": 1.49,
+    "dps_delta": 39134.91,
+    "dps_pct_gain": 1.54,
     "pi_dep_spell_ids": {
       "185313": 185313
     }
@@ -970,10 +970,10 @@
     "spec": "Subtlety",
     "specId": 261,
     "targets": "3",
-    "dps_no_pi": 4623202.63,
+    "dps_no_pi": 4621763.17,
     "dps_with_pi": 4691724.13,
-    "dps_delta": 68521.49,
-    "dps_pct_gain": 1.48,
+    "dps_delta": 69960.95,
+    "dps_pct_gain": 1.51,
     "pi_dep_spell_ids": {
       "185313": 185313
     }
@@ -997,9 +997,9 @@
     "specId": 261,
     "targets": "5",
     "dps_no_pi": 6941791.96,
-    "dps_with_pi": 7050694.67,
-    "dps_delta": 108902.71,
-    "dps_pct_gain": 1.57,
+    "dps_with_pi": 7049176.3,
+    "dps_delta": 107384.33,
+    "dps_pct_gain": 1.55,
     "pi_dep_spell_ids": {
       "185313": 185313
     }
@@ -1035,10 +1035,10 @@
     "spec": "Fury",
     "specId": 72,
     "targets": "15",
-    "dps_no_pi": 11103513.8,
+    "dps_no_pi": 11093163.48,
     "dps_with_pi": 11393663.64,
-    "dps_delta": 290149.84,
-    "dps_pct_gain": 2.61,
+    "dps_delta": 300500.16,
+    "dps_pct_gain": 2.71,
     "pi_dep_spell_ids": {
       "107574": 107574
     }
@@ -1075,9 +1075,9 @@
     "specId": 71,
     "targets": "3",
     "dps_no_pi": 5569186.61,
-    "dps_with_pi": 5726287.85,
-    "dps_delta": 157101.24,
-    "dps_pct_gain": 2.82,
+    "dps_with_pi": 5725823.31,
+    "dps_delta": 156636.71,
+    "dps_pct_gain": 2.81,
     "pi_dep_spell_ids": {
       "107574": 107574
     }
@@ -1087,9 +1087,9 @@
     "spec": "Arms",
     "specId": 71,
     "targets": "5",
-    "dps_no_pi": 8119541.89,
+    "dps_no_pi": 8119582.38,
     "dps_with_pi": 8354040.01,
-    "dps_delta": 234498.12,
+    "dps_delta": 234457.63,
     "dps_pct_gain": 2.89,
     "pi_dep_spell_ids": {
       "107574": 107574
@@ -1101,8 +1101,8 @@
     "specId": 71,
     "targets": "1",
     "dps_no_pi": 2799279.51,
-    "dps_with_pi": 2892508.36,
-    "dps_delta": 93228.84,
+    "dps_with_pi": 2892470.43,
+    "dps_delta": 93190.91,
     "dps_pct_gain": 3.33,
     "pi_dep_spell_ids": {
       "107574": 107574
@@ -1113,10 +1113,10 @@
     "spec": "Arms",
     "specId": 71,
     "targets": "15",
-    "dps_no_pi": 13865761.36,
+    "dps_no_pi": 13874670.01,
     "dps_with_pi": 14283387.55,
-    "dps_delta": 417626.18,
-    "dps_pct_gain": 3.01,
+    "dps_delta": 408717.53,
+    "dps_pct_gain": 2.95,
     "pi_dep_spell_ids": {
       "107574": 107574
     }
@@ -1152,10 +1152,10 @@
     "spec": "Fire",
     "specId": 63,
     "targets": "3",
-    "dps_no_pi": 5024735.27,
+    "dps_no_pi": 5022357.5,
     "dps_with_pi": 5364963.29,
-    "dps_delta": 340228.02,
-    "dps_pct_gain": 6.77,
+    "dps_delta": 342605.79,
+    "dps_pct_gain": 6.82,
     "pi_dep_spell_ids": {
       "190319": 190319
     }
@@ -1179,9 +1179,9 @@
     "specId": 63,
     "targets": "1",
     "dps_no_pi": 2477074.61,
-    "dps_with_pi": 2605125.59,
-    "dps_delta": 128050.98,
-    "dps_pct_gain": 5.17,
+    "dps_with_pi": 2605730.26,
+    "dps_delta": 128655.65,
+    "dps_pct_gain": 5.19,
     "pi_dep_spell_ids": {
       "190319": 190319
     }
@@ -1218,9 +1218,9 @@
     "specId": 64,
     "targets": "5",
     "dps_no_pi": 7224415.94,
-    "dps_with_pi": 7346402.96,
-    "dps_delta": 121987.01,
-    "dps_pct_gain": 1.69,
+    "dps_with_pi": 7344393.71,
+    "dps_delta": 119977.76,
+    "dps_pct_gain": 1.66,
     "pi_dep_spell_ids": {
       "12472": 12472
     }
@@ -1230,10 +1230,10 @@
     "spec": "Frost",
     "specId": 64,
     "targets": "8",
-    "dps_no_pi": 10314225.88,
+    "dps_no_pi": 10309790.14,
     "dps_with_pi": 10478253.8,
-    "dps_delta": 164027.92,
-    "dps_pct_gain": 1.59,
+    "dps_delta": 168463.65,
+    "dps_pct_gain": 1.63,
     "pi_dep_spell_ids": {
       "12472": 12472
     }
@@ -1244,8 +1244,8 @@
     "specId": 64,
     "targets": "3",
     "dps_no_pi": 5228070.47,
-    "dps_with_pi": 5314436.79,
-    "dps_delta": 86366.32,
+    "dps_with_pi": 5314203.55,
+    "dps_delta": 86133.08,
     "dps_pct_gain": 1.65,
     "pi_dep_spell_ids": {
       "12472": 12472
@@ -1322,9 +1322,9 @@
     "specId": 62,
     "targets": "15",
     "dps_no_pi": 12602643.39,
-    "dps_with_pi": 12928216.57,
-    "dps_delta": 325573.18,
-    "dps_pct_gain": 2.58,
+    "dps_with_pi": 12933900.91,
+    "dps_delta": 331257.52,
+    "dps_pct_gain": 2.63,
     "pi_dep_spell_ids": {
       "365362": 365362
     }
@@ -1334,10 +1334,10 @@
     "spec": "Devastation",
     "specId": 1467,
     "targets": "3",
-    "dps_no_pi": 6077969.45,
-    "dps_with_pi": 6551687.63,
-    "dps_delta": 473718.17,
-    "dps_pct_gain": 7.79,
+    "dps_no_pi": 6088172.35,
+    "dps_with_pi": 6565550.89,
+    "dps_delta": 477378.54,
+    "dps_pct_gain": 7.84,
     "pi_dep_spell_ids": {
       "375087": 375087
     }
@@ -1374,9 +1374,9 @@
     "specId": 1467,
     "targets": "15",
     "dps_no_pi": 22427628.72,
-    "dps_with_pi": 24187334.68,
-    "dps_delta": 1759705.96,
-    "dps_pct_gain": 7.85,
+    "dps_with_pi": 24085328.19,
+    "dps_delta": 1657699.47,
+    "dps_pct_gain": 7.39,
     "pi_dep_spell_ids": {
       "375087": 375087
     }
@@ -1452,9 +1452,9 @@
     "specId": 269,
     "targets": "3",
     "dps_no_pi": 5094930.31,
-    "dps_with_pi": 5263424.61,
-    "dps_delta": 168494.3,
-    "dps_pct_gain": 3.31,
+    "dps_with_pi": 5261551.84,
+    "dps_delta": 166621.53,
+    "dps_pct_gain": 3.27,
     "pi_dep_spell_ids": {
       "388663": 388663
     }
