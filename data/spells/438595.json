@@ -1,7 +1,7 @@
 {
   "ID": "730909",
   "NameSubtext_lang": "",
-  "Description_lang": "Casting $?c2[Meteor][Comet Storm] causes your next $?c2[Fire Blast]?c3[Ice Lance][] to explode in a Frostfire Burst, dealing $470596s1 Frostfire damage to nearby enemies. Damage reduced beyond 8 targets.Frostfire Burst, $?c2[reduces the cooldown of Phoenix Flames by $s2 sec]?c3[grants Brain Freeze][].",
+  "Description_lang": "Casting $?c2[Meteor][Comet Storm] causes your next $?c2[Fire Blast]?c3[Ice Lance][] to explode in a Frostfire Burst, dealing $470596s1 Frostfire damage to nearby enemies. Damage reduced beyond 8 targets.Frostfire Burst $?c2[reduces the cooldown of Phoenix Flames by $s2 sec]?c3[grants Brain Freeze][].",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",

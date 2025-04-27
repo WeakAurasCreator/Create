@@ -2,7 +2,7 @@
   "ID": "733306",
   "NameSubtext_lang": "",
   "Description_lang": "$@spelldesc429634",
-  "AuraDescription_lang": "Damage dealt by Demolish increased by $w1%.$?(a429641&c1)[Damage dealt by Overpower increased by $w3%.]?$?(a429641&c3)[Damage dealt by Revenge increased by $w3%.][]$?a440995[Damage dealt by Rend and Deep Wounds increased by $w2%.][]",
+  "AuraDescription_lang": "Damage dealt by Demolish increased by $w1%.$?(a429641&c1)[Damage dealt by Overpower increased by $w3%.]?$?(a429641&c3)[Damage dealt by Revenge increased by $w4%.][]$?a440995[Damage dealt by Rend and Deep Wounds increased by $w2%.][]",
   "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
