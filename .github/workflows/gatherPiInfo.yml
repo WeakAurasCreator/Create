@@ -99,6 +99,9 @@ jobs:
           name: simc-binary
           path: simc-dist
           
+      - name: Make simc executable
+        run: chmod +x simc-dist/simc
+          
       - name: Add simc to PATH
         run: echo "${{ github.workspace }}/simc-dist" >> $GITHUB_PATH
 
