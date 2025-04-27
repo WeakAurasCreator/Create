@@ -1,7 +1,7 @@
 {
   "ID": "268376",
   "NameSubtext_lang": "",
-  "Description_lang": "Your auto attacks generate $?c1[$s2]?$c2[$s3][$s4]% more Rage.Killing an enemy instantly generates ${$262232s1/10} Rage, and increases your movement speed by $262232s2% for $262232d.",
+  "Description_lang": "Your auto-attacks generate $?c1[$s2]?$c2[$s3][$s4]% more Rage.Killing an enemy instantly generates ${$262232s1/10} Rage and increases your movement speed by $262232s2% for $262232d.",
   "AuraDescription_lang": "",
   "Attributes_0": "320",
   "Attributes_1": "0",
