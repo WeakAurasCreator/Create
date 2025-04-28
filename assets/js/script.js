@@ -4,8 +4,8 @@ let encountersByInstance;
 // 1) Fetch all 4 JSONs in parallel
 Promise.all([
   fetch("data/JournalTier.json").then((r) => r.json()),
-  fetch("data/journalTierXinstance.json").then((r) => r.json()),
-  fetch("data/journalInstance.json").then((r) => r.json()),
+  fetch("data/JournalTierXinstance.json").then((r) => r.json()),
+  fetch("data/JournalInstance.json").then((r) => r.json()),
   fetch("data/JournalEncounter.json").then((r) => r.json()),
 ])
   .then(([tiers, tierToInstances, instances, encounterGroups]) => {
