@@ -532,8 +532,15 @@ def prepare_matrix():
             prof = prof_raid if nt==1 else prof_dung
             for pi_flag in (False, True):
                 fname = f"{cls}_{spec}_{nt}_{int(pi_flag)}.simc"
+                #set pi 
+                pi_block = f"\n# Power Infusion override\nexternal_buffs.pool=power_infusion:120:{int(pi_flag)}\n"
+                tgt_block = "\n# Multi-target override\n"
+                for i in range(1, nt + 1):
+                    tgt_block += f"enemy=TrainingDummy{i}\n"
+                full_profile = prof + pi_block + tgt_block
+
                 simf = PROFILE_PATH / fname
-                simf.write_text(prof)
+                simf.write_text(full_profile)
                 jobs.append({
                     "sim_file": str(simf),
                     "json_out": str(FINAL_SIM_PATH / fname.replace('.simc','.json')),
@@ -553,16 +560,10 @@ def prepare_matrix():
 
 
 def run_job(args):
-    override = ""
-    if args.pi:
-        override += "\n# Power Infusion\nexternal_buffs.pool=power_infusion:120:1\n"
-    for i in range(1, args.targets+1):
-        override += f"enemy=TrainingDummy{i}\n"
 
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Running sim with args {args}")
     content = Path(args.sim_file).read_text()
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Running sim for file {content}")
-    Path(args.sim_file).write_text(content + override)
 
     cmd = [
         SIMC_CMD,
