@@ -1,15 +1,14 @@
 import os, json
 from luaparser import ast as lua_ast
-from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign
+from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign, UMinusOp
 from luaparser.builder import BuilderVisitor
 from luaparser.parser.LuaLexer import LuaLexer
 from luaparser.parser.LuaParser import LuaParser
 from antlr4 import InputStream, CommonTokenStream, Token
 from antlr4.error.ErrorListener import ConsoleErrorListener
 
-# --- Helpers from sections 1 & 2 above ---
+# --- Helpers ---
 def expr_to_py(node):
-    # 1) Handle table-indexing L["…"] by unwrapping the index key
     if isinstance(node, Index):
         return expr_to_py(node.idx)
     if isinstance(node, Table):
@@ -26,6 +25,8 @@ def expr_to_py(node):
         return None
     if isinstance(node, Name):
         return node.id
+    if isinstance(node, UMinusOp):
+        return -expr_to_py(node.expr)  
     raise TypeError(f"Unsupported AST node: {type(node)}")
 
 def lua_table_to_py(node: Table):
