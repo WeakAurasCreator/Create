@@ -35,6 +35,8 @@ def lua_table_to_py(node: Table):
     array_elems, dict_elems = [], {}
     for field in node.fields:
         val = expr_to_py(field.value)
+        if val is None:
+            continue  # skip function or unsupported values
         if field.key is None:
             array_elems.append(val)
         else:
