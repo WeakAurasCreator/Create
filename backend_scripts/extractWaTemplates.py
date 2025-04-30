@@ -9,6 +9,9 @@ from antlr4.error.ErrorListener import ConsoleErrorListener
 
 # --- Helpers from sections 1 & 2 above ---
 def expr_to_py(node):
+    # 1) Handle table-indexing L["…"] by unwrapping the index key
+    if isinstance(node, Index):
+        return expr_to_py(node.idx)
     if isinstance(node, Table):
         return lua_table_to_py(node)
     if isinstance(node, Number):
