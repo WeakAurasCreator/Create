@@ -1,6 +1,6 @@
 import os, json
 from luaparser import ast as lua_ast
-from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign, UMinusOp
+from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign, UMinusOp, LocalAssign
 from luaparser.builder import BuilderVisitor
 from luaparser.parser.LuaLexer import LuaLexer
 from luaparser.parser.LuaParser import LuaParser
@@ -45,12 +45,27 @@ def lua_table_to_py(node: Table):
 
 # --- Extraction fns from section 3 ---
 def extract_trigger_templates(tree):
+    triggers = {}
     for stmt in tree.body.body:
-        if isinstance(stmt, Assign):
+        # catch both `templates.class = …` and `local templates = …`
+        if isinstance(stmt, (Assign, LocalAssign)):
+            # both Assign and LocalAssign expose .targets and .values
             for target, value in zip(stmt.targets, stmt.values):
-                if isinstance(target, Index) and isinstance(target.idx, Name) and target.idx.id == "class":
-                    return lua_table_to_py(value)
-    return {}
+                # look for templates.class.<CLASSNAME> = { … }
+                if isinstance(target, Index):
+                    inner = target.value
+                    # inner should be the `templates.class` index
+                    if (
+                        isinstance(inner, Index)
+                        and isinstance(inner.value, Name)
+                        and inner.value.id == "templates"
+                        and isinstance(inner.idx, Name)
+                        and inner.idx.id == "class"
+                    ):
+                        # the outer idx is the class name (e.g. "EVOKER", "WARRIOR")
+                        class_name = expr_to_py(target.idx)
+                        triggers[class_name] = lua_table_to_py(value)
+    return triggers
 
 def extract_region_templates(tree):
     for stmt in tree.body.body:
