@@ -1,6 +1,6 @@
 import os, json
 from luaparser import ast as lua_ast
-from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign, UMinusOp, LocalAssign
+from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign, UMinusOp, LocalAssign, AnonymousFunction, Function
 from luaparser.builder import BuilderVisitor
 from luaparser.parser.LuaLexer import LuaLexer
 from luaparser.parser.LuaParser import LuaParser
@@ -9,6 +9,8 @@ from antlr4.error.ErrorListener import ConsoleErrorListener
 
 # --- Helpers ---
 def expr_to_py(node):
+    if isinstance(node, (AnonymousFunction, Function)):
+        return None  # skip or replace with a placeholder if desired
     if isinstance(node, Index):
         return expr_to_py(node.idx)
     if isinstance(node, Table):
