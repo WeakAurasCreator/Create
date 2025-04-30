@@ -26,7 +26,7 @@ def expr_to_py(node):
     if isinstance(node, Name):
         return node.id
     if isinstance(node, UMinusOp):
-        return -expr_to_py(node.expr)  
+        return -expr_to_py(node.operand)  
     raise TypeError(f"Unsupported AST node: {type(node)}")
 
 def lua_table_to_py(node: Table):
