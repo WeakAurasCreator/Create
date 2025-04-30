@@ -1,8 +1,8 @@
 {
   "ID": "778957",
   "NameSubtext_lang": "",
-  "Description_lang": "",
-  "AuraDescription_lang": "",
+  "Description_lang": "Pull enemies to the bomb's destination, and slow movement speed by $s2%.",
+  "AuraDescription_lang": "Movement speed slowed by $s2%.",
   "Attributes_0": "536870912",
   "Attributes_1": "0",
   "Attributes_2": "0",
