@@ -129,7 +129,7 @@ def main():
 
     # 3) Sub-region templates (optional)
     subregions = {}
-    subdir = os.path.join(wa2, "WeakAurasOptions", "SubRegionOptions")
+    subdir = os.path.join(wa2_path, "WeakAurasOptions", "SubRegionOptions")
     if os.path.isdir(subdir):
         for fn in os.listdir(subdir):
             if fn.endswith(".lua"):
