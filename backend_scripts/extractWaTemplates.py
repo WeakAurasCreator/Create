@@ -90,7 +90,8 @@ def noop(*args, **kwargs): pass
 
 # ——— Extract Private.* tables from Types.lua ——————————————————
 def extract_private_types(types_path):
-    root = parse_lua(types_path)
+    src = open(types_path, encoding="utf8").read()
+    root = parse_lua(src)
     mapping = {}
     for stmt in root.body.body:
         # look for Assign where target is Index(Name 'Private', 'XXX')
