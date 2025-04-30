@@ -43,8 +43,7 @@ def lua_table_to_py(node: Table):
         return dict_elems
     return array_elems
 
-# --- Extraction fns from section 3 ---
-def extract_trigger_templates(tree):
+def extract_class_templates(tree):
     triggers = {}
     for stmt in tree.body.body:
         # catch both `templates.class = …` and `local templates = …`
@@ -74,6 +73,17 @@ def extract_region_templates(tree):
                 if isinstance(t, Name) and t.id == "templates":
                     return lua_table_to_py(v)
     return []
+
+def extract_generic_templates(tree, var_name):
+    """
+    For categories defined as: local templates = { ... } or templates = { ... }
+    """
+    for stmt in tree.body.body:
+        if isinstance(stmt, (Assign, LocalAssign)):
+            for t, v in zip(stmt.targets, stmt.values):
+                if isinstance(t, Name) and t.id == "templates":
+                    return lua_table_to_py(v)
+    return {}
 
 # --- Main driver ---
 def parse_lua(source: str):
@@ -110,7 +120,7 @@ def main():
 
     # Triggers
     trigger_tree = parse_lua(open(trigger_file, encoding="utf8").read())
-    triggers = extract_trigger_templates(trigger_tree)
+    classes = extract_class_templates(trigger_tree)
 
     # Regions
     regions = {}
@@ -121,16 +131,42 @@ def main():
             key = os.path.splitext(fn)[0].lower()
             regions[key] = extract_region_templates(tree)
 
+
+    # Generic templates
+    categories = {
+        "conditions": "ConditionOptions",
+        "actions":    "Actions",
+        "animations": "Animations",
+        "load":       "LoadOptions",
+        "display":    "DisplayOptions"
+    }
+    others = {}
+    for cat, folder in categories.items():
+        path = os.path.join(wa2_path, "WeakAurasOptions", folder)
+        data = {}
+        for fn in os.listdir(path):
+            if fn.endswith(".lua"):
+                name = fn[:-4].lower()
+                tree = parse_lua(open(os.path.join(path, fn), encoding="utf8").read())
+                data[name] = extract_generic_templates(tree, "templates")
+        others[cat] = data
+
     out_dir = os.path.join(repo_root, "templates")
     os.makedirs(out_dir, exist_ok=True)
     # Write JSON
-    with open(os.path.join(out_dir, "triggers.json"), "w", encoding="utf8") as f:
-        json.dump(triggers, f, indent=2, ensure_ascii=False)  
+    with open(os.path.join(out_dir, "classes.json"), "w", encoding="utf8") as f:
+        json.dump(classes, f, indent=2, ensure_ascii=False)  
 
     with open(os.path.join(out_dir, "regions.json"), "w", encoding="utf8") as f:
-        json.dump(regions, f, indent=2, ensure_ascii=False)    
+        json.dump(regions, f, indent=2, ensure_ascii=False)  
+      
+    for cat, data in others.items():
+        with open(os.path.join(out_dir, f"{cat}.json"), "w", encoding="utf8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"Wrote {len(triggers)} triggers and {len(regions)} region sets into {out_dir}")
+    print(f"Wrote: classes ({len(classes)}), regions ({len(regions)}), "
+          + ", ".join(f"{cat} ({len(data)})" for cat, data in others.items())
+          + f" into {out_dir}")
 
 if __name__ == "__main__":
     main()
