@@ -74,16 +74,12 @@ def extract_region_templates(tree):
                     return lua_table_to_py(v)
     return []
 
-def extract_generic_templates(tree, var_name):
-    """
-    For categories defined as: local templates = { ... } or templates = { ... }
-    """
-    for stmt in tree.body.body:
-        if isinstance(stmt, (Assign, LocalAssign)):
-            for t, v in zip(stmt.targets, stmt.values):
-                if isinstance(t, Name) and t.id == "templates":
-                    return lua_table_to_py(v)
-    return {}
+def extract_file_templates(repo, filename):
+    # open <repo>/WeakAurasOptions/<filename>
+    path = os.path.join(repo, "WeakAurasOptions", filename)
+    src = open(path, encoding="utf8").read()
+    tree = parse_lua(src)
+    return extract_region_templates(tree)
 
 # --- Main driver ---
 def parse_lua(source: str):
@@ -131,25 +127,25 @@ def main():
             key = os.path.splitext(fn)[0].lower()
             regions[key] = extract_region_templates(tree)
 
+    # 3) Sub-region templates (optional)
+    subregions = {}
+    subdir = os.path.join(wa2, "WeakAurasOptions", "SubRegionOptions")
+    if os.path.isdir(subdir):
+        for fn in os.listdir(subdir):
+            if fn.endswith(".lua"):
+                key = fn[:-4].lower()
+                tree = parse_lua(open(os.path.join(subdir, fn), encoding="utf8").read())
+                subregions[key] = extract_region_templates(tree)
 
     # Generic templates
-    categories = {
-        "conditions": "ConditionOptions",
-        "actions":    "Actions",
-        "animations": "Animations",
-        "load":       "LoadOptions",
-        "display":    "DisplayOptions"
+    files = {
+        "conditions": "ConditionOptions.lua",
+        "actions":    "ActionOptions.lua",
+        "animations": "AnimationOptions.lua",
+        "load":       "LoadOptions.lua",
+        "display":    "DisplayOptions.lua"
     }
-    others = {}
-    for cat, folder in categories.items():
-        path = os.path.join(wa2_path, "WeakAurasOptions", folder)
-        data = {}
-        for fn in os.listdir(path):
-            if fn.endswith(".lua"):
-                name = fn[:-4].lower()
-                tree = parse_lua(open(os.path.join(path, fn), encoding="utf8").read())
-                data[name] = extract_generic_templates(tree, "templates")
-        others[cat] = data
+    filecats = {cat: extract_file_templates(wa2_path, fname) for cat, fname in files.items()}
 
     out_dir = os.path.join(repo_root, "templates")
     os.makedirs(out_dir, exist_ok=True)
@@ -159,14 +155,12 @@ def main():
 
     with open(os.path.join(out_dir, "regions.json"), "w", encoding="utf8") as f:
         json.dump(regions, f, indent=2, ensure_ascii=False)  
-      
-    for cat, data in others.items():
-        with open(os.path.join(out_dir, f"{cat}.json"), "w", encoding="utf8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+    with open(os.path.join(out_dir, "subregions.json"), "w", encoding="utf8") as f:  
+        json.dump(subregions, f, indent=2, ensure_ascii=False)
+    for cat, data in filecats.items():
+        json.dump(data, open(os.path.join(out_dir, f"{cat}.json"), "w", encoding="utf8"), indent=2, ensure_ascii=False)
 
-    print(f"Wrote: classes ({len(classes)}), regions ({len(regions)}), "
-          + ", ".join(f"{cat} ({len(data)})" for cat, data in others.items())
-          + f" into {out_dir}")
+    print("Extracted templates:", ", ".join(["classes", "regions", "subregions"] + list(filecats.keys())))
 
 if __name__ == "__main__":
     main()
