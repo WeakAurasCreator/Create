@@ -231,3 +231,16 @@ off_hand=everforged_stabber,id=222438,bonus_id=10421/9633/8902/12043/12040/1485/
 # gear_armor=33967
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:1
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3
+enemy=TrainingDummy4
+enemy=TrainingDummy5
+enemy=TrainingDummy6
+enemy=TrainingDummy7
+enemy=TrainingDummy8

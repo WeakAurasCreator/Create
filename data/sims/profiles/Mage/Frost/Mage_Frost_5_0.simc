@@ -188,3 +188,13 @@ off_hand=vagabonds_torch,id=222566,bonus_id=10421/9633/8902/9627/10222/11300/896
 # gear_armor=20744
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:0
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3
+enemy=TrainingDummy4
+enemy=TrainingDummy5

@@ -211,3 +211,11 @@ main_hand=bestinslots,id=232526,ilevel=678,enchant_id=7445
 # gear_armor=33928
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:0
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3

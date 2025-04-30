@@ -356,3 +356,11 @@ off_hand=everforged_mace,id=222442,bonus_id=10421/9633/8902/9627/8793/10222/1114
 # gear_armor=49063
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:0
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3

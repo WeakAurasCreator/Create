@@ -169,3 +169,10 @@ main_hand=sticky_stirring_stick,id=221057,bonus_id=3170/11996/11964,enchant_id=7
 # gear_armor=48977
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+# Power Infusion override
+external_buffs.pool=power_infusion:120:1
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3

@@ -183,3 +183,16 @@ off_hand=titan_of_industry,id=228889,bonus_id=1527/11996/11964
 # gear_armor=86080
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:0
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3
+enemy=TrainingDummy4
+enemy=TrainingDummy5
+enemy=TrainingDummy6
+enemy=TrainingDummy7
+enemy=TrainingDummy8

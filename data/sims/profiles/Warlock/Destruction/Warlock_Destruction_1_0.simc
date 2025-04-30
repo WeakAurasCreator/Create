@@ -220,3 +220,9 @@ off_hand=vagabonds_torch,id=222566,bonus_id=10421/9633/8902/12043/12040/1485/879
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
 default_pet=sayaad
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:0
+
+# Multi-target override
+enemy=TrainingDummy1

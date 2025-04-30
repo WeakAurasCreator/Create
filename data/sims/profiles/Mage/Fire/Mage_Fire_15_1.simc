@@ -160,3 +160,23 @@ main_hand=neural_synapse_enhancer,id=168973,ilevel=678,enchant_id=7460
 # gear_armor=20731
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:1
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3
+enemy=TrainingDummy4
+enemy=TrainingDummy5
+enemy=TrainingDummy6
+enemy=TrainingDummy7
+enemy=TrainingDummy8
+enemy=TrainingDummy9
+enemy=TrainingDummy10
+enemy=TrainingDummy11
+enemy=TrainingDummy12
+enemy=TrainingDummy13
+enemy=TrainingDummy14
+enemy=TrainingDummy15

@@ -258,3 +258,16 @@ off_hand=gallywixs_iron_thumb,id=228899,bonus_id=4822/4786/1494/11980,ilevel=678
 # gear_armor=33935
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:1
+
+# Multi-target override
+enemy=TrainingDummy1
+enemy=TrainingDummy2
+enemy=TrainingDummy3
+enemy=TrainingDummy4
+enemy=TrainingDummy5
+enemy=TrainingDummy6
+enemy=TrainingDummy7
+enemy=TrainingDummy8

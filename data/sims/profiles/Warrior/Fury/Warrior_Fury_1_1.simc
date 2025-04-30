@@ -167,3 +167,9 @@ off_hand=capital_punisher,id=228891,bonus_id=6652/10356/11996/12060/1527/10255,i
 # gear_bonus_armor=980
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
+
+# Power Infusion override
+external_buffs.pool=power_infusion:120:1
+
+# Multi-target override
+enemy=TrainingDummy1
