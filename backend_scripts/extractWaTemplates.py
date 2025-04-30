@@ -69,29 +69,49 @@ def parse_lua(source: str):
     return BuilderVisitor(stream).visit(tree)
 
 def main():
-    base = os.path.dirname(__file__)
-    wa2 = os.path.join(base, "weakauras2")
+    repo_root = os.environ.get("GITHUB_WORKSPACE")
+    if not repo_root:
+        # start from script dir
+        repo_root = os.path.abspath(os.path.dirname(__file__))
+        # climb until we find weakauras2/ folder or hit filesystem root
+        while repo_root and not os.path.isdir(os.path.join(repo_root, "weakauras2")):
+            parent = os.path.dirname(repo_root)
+            if parent == repo_root:
+                break
+            repo_root = parent
+
+    # allow explicit override
+    wa2_path = os.environ.get("WA2_PATH",
+                  os.path.join(repo_root, "weakauras2"))
+
+    # 2) Extract triggers
+    trigger_file = os.path.join(
+        wa2_path, "WeakAurasTemplates", "TriggerTemplatesData.lua"
+    )
 
     # Triggers
-    trigger_tree = parse_lua(open(os.path.join(
-        wa2, "WeakAurasTemplates/TriggerTemplatesData.lua"
-    )).read())
+    trigger_tree = parse_lua(open(trigger_file, encoding="utf8").read())
     triggers = extract_trigger_templates(trigger_tree)
 
     # Regions
     regions = {}
-    region_dir = os.path.join(wa2, "WeakAurasOptions/RegionOptions")
+    region_dir = os.path.join(wa2_path, "WeakAurasOptions", "RegionOptions")
     for fn in os.listdir(region_dir):
         if fn.endswith(".lua"):
             tree = parse_lua(open(os.path.join(region_dir, fn)).read())
             key = os.path.splitext(fn)[0].lower()
             regions[key] = extract_region_templates(tree)
 
+    out_dir = os.path.join(repo_root, "templates")
+    os.makedirs(out_dir, exist_ok=True)
     # Write JSON
-    out = {"triggers": triggers, "regions": regions}
-    with open(os.path.join(base, "weakaura-templates.json"), "w", encoding="utf8") as f:
-        json.dump(out, f, indent=2, ensure_ascii=False)
-    print("Wrote weakaura-templates.json")
+    with open(os.path.join(out_dir, "triggers.json"), "w", encoding="utf8") as f:
+        json.dump(triggers, f, indent=2, ensure_ascii=False)  
+
+    with open(os.path.join(out_dir, "regions.json"), "w", encoding="utf8") as f:
+        json.dump(regions, f, indent=2, ensure_ascii=False)    
+
+    print(f"Wrote {len(triggers)} triggers and {len(regions)} region sets into {out_dir}")
 
 if __name__ == "__main__":
     main()
