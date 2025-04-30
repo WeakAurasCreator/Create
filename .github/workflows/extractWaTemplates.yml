@@ -28,7 +28,7 @@ jobs:
 
       - name: Run extraction script
         run: |
-          python backend_scripts/extract_templates.py
+          python backend_scripts/extractWaTemplates.py
 
       - name: Commit and push JSON
         run: |
