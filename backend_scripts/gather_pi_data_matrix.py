@@ -9,6 +9,8 @@ from collections import defaultdict, Counter
 import datetime
 import argparse
 import glob
+from typing import Optional
+import time
 
 # ──────────────────────────────────────────────────────────
 # Configuration
@@ -56,6 +58,36 @@ for spec in talents_data:
                 continue
             talent_tree_map[int(entry["id"])] = 2
 
+
+def request_with_backoff(
+    method: str,
+    url: str,
+    *,
+    headers: Optional[dict] = None,
+    json: Optional[dict] = None,
+    data: Optional[dict] = None,
+    max_retries: int = 5,
+    backoff_factor: float = 1.0
+) -> requests.Response:
+    """
+    Wrap requests.request to catch 429 responses, honor Retry-After, and retry with exponential back-off.
+    """
+    headers = headers or {}
+    for attempt in range(1, max_retries + 1):
+        resp = requests.request(method, url, headers=headers, json=json, data=data)
+        if resp.status_code != 429:
+            return resp
+        # On 429, determine how long to wait
+        retry_after = resp.headers.get("Retry-After")
+        if retry_after:
+            wait = float(retry_after)
+        else:
+            wait = backoff_factor * (2 ** (attempt - 1))
+        print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] 429 received; "
+              f"retrying in {wait}s (attempt {attempt}/{max_retries})")
+        time.sleep(wait)
+    # Final attempt (will raise if still 429)
+    return requests.request(method, url, headers=headers, json=json, data=data)
 
 # ──────────────────────────────────────────────────────────
 # Helpers: GitHub → Latest Tier Folder & Profile Fetch
@@ -144,7 +176,7 @@ def fetch_current_tier_encounters(wcl_token: str) -> tuple[list[int], list[int]]
 
     # 1) Get latest expansion
     exp_q = "query { worldData { expansions { id name } } }"
-    r = requests.post(GRAPHQL_URL, json={"query": exp_q}, headers=hdr)
+    r = request_with_backoff("post", GRAPHQL_URL, headers=hdr, json={"query": exp_q})
     r.raise_for_status()
     exps = r.json()["data"]["worldData"]["expansions"]
     latest_exp = max(exps, key=lambda e: e["id"])["id"]
@@ -164,9 +196,8 @@ def fetch_current_tier_encounters(wcl_token: str) -> tuple[list[int], list[int]]
       }
     }
     """
-    r = requests.post(GRAPHQL_URL,
-                      json={"query": zone_q, "variables": {"expID": latest_exp}},
-                      headers=hdr)
+    r = request_with_backoff("post", GRAPHQL_URL, headers=hdr,
+                            json={"query": zone_q, "variables": {"expID": latest_exp}})
     r.raise_for_status()
     all_zones = r.json()["data"]["worldData"]["expansion"]["zones"]
     raid_zones = [
@@ -209,12 +240,12 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
 
 
     headers   = {"Authorization": f"Bearer {token}"}
-    # 4) Collect each full-build from every ranking entry
+
 
     all_builds: list[tuple[tuple[tuple[int,int],...], int]] = []
     for encID in encIDs:
         variables = {"encID": encID, "class": className, "spec": specName}
-        resp = requests.post(GRAPHQL_URL, json={"query": query, "variables": variables}, headers=headers)
+        resp = request_with_backoff("post", GRAPHQL_URL, headers=headers, json={"query": query, "variables": variables})
         resp.raise_for_status()
         for entry in resp.json()["data"]["worldData"]["encounter"]["characterRankings"]["rankings"]:
             # build = sorted list of (talentID, points)
