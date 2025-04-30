@@ -1,0 +1,39 @@
+name: Extract WeakAuras Templates
+on:
+  schedule:
+    - cron: '0 0 * * *'      # every midnight UTC
+  workflow_dispatch:        # manual trigger
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Checkout WeakAuras2 source
+        uses: actions/checkout@v4
+        with:
+          repository: WeakAuras/WeakAuras2
+          path: weakauras2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r luaparser
+
+      - name: Run extraction script
+        run: |
+          python scripts/extract_templates.py
+
+      - name: Commit and push JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weakaura-templates.json
+          git commit -m "Auto-update WeakAuras templates JSON" || echo "No changes to commit"
+          git push
