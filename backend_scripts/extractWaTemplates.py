@@ -1,6 +1,6 @@
 import os, json
 from luaparser import ast as lua_ast
-from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign, UMinusOp, LocalAssign, AnonymousFunction, Function
+from luaparser.astnodes import Table, Field, Index, Name, Number, String, TrueExpr, FalseExpr, Nil, Assign, UMinusOp, LocalAssign, AnonymousFunction, Function, Concat
 from luaparser.builder import BuilderVisitor
 from luaparser.parser.LuaLexer import LuaLexer
 from luaparser.parser.LuaParser import LuaParser
@@ -11,6 +11,12 @@ from antlr4.error.ErrorListener import ConsoleErrorListener
 def expr_to_py(node):
     if isinstance(node, (AnonymousFunction, Function)):
         return None  # skip or replace with a placeholder if desired
+    if isinstance(node, Concat):
+        left = expr_to_py(node.left)
+        right = expr_to_py(node.right)
+        if isinstance(left, str) and isinstance(right, str):
+            return left + right
+        return None
     if isinstance(node, Index):
         return expr_to_py(node.idx)
     if isinstance(node, Table):
@@ -35,16 +41,23 @@ def lua_table_to_py(node: Table):
     array_elems, dict_elems = [], {}
     for field in node.fields:
         val = expr_to_py(field.value)
+        # skip functions and unsupported nodes
         if val is None:
-            continue  # skip function or unsupported values
+            continue
+
         if field.key is None:
             array_elems.append(val)
         else:
-            dict_elems[expr_to_py(field.key)] = val
+            key = expr_to_py(field.key)
+            if key is not None:
+                dict_elems[key] = val
+
+    # if there are named keys, merge array entries under numeric indices
     if dict_elems:
         for i, v in enumerate(array_elems, start=1):
             dict_elems[i] = v
         return dict_elems
+
     return array_elems
 
 def extract_class_templates(tree):
