@@ -74,13 +74,6 @@ def extract_region_templates(tree):
                     return lua_table_to_py(v)
     return []
 
-def extract_file_templates(repo, filename):
-    # open <repo>/WeakAurasOptions/<filename>
-    path = os.path.join(repo, "WeakAurasOptions", filename)
-    src = open(path, encoding="utf8").read()
-    tree = parse_lua(src)
-    return extract_region_templates(tree)
-
 # --- Main driver ---
 def parse_lua(source: str):
     lex = LuaLexer(InputStream(source))
@@ -92,6 +85,40 @@ def parse_lua(source: str):
     parser.addErrorListener(ConsoleErrorListener())
     tree = parser.start_()
     return BuilderVisitor(stream).visit(tree)
+
+def noop(*args, **kwargs): pass
+
+# ——— Extract Private.* tables from Types.lua ——————————————————
+def extract_private_types(types_path):
+    root = parse_lua(types_path)
+    mapping = {}
+    for stmt in root.body.body:
+        # look for Assign where target is Index(Name 'Private', 'XXX')
+        if isinstance(stmt, Assign):
+            for tgt, val in zip(stmt.targets, stmt.values):
+                if isinstance(tgt, Index) and isinstance(tgt.value, Name) and tgt.value.id == "Private":
+                    key = expr_to_py(tgt.idx)
+                    if isinstance(val, Table):
+                        mapping[key] = lua_table_to_py(val)
+    return mapping
+
+# ——— Extract args from an Options file —————————————————————
+def extract_args(options_path):
+    root = parse_lua(options_path)
+    # find the Table assigned to local named 'animation' (or 'conditions', etc.)
+    for stmt in root.body.body:
+        # look for `local animation = { … }`
+        if isinstance(stmt, lua_ast.LocalAssign):
+            for tgt, val in zip(stmt.targets, stmt.values):
+                if isinstance(tgt, Name) and tgt.id.endswith("animation") and isinstance(val, Table):
+                    # find the Field 'args' inside this Table
+                    for f in val.fields:
+                        if f.key and expr_to_py(f.key) == "args":
+                            args_tbl = f.value
+                            return { expr_to_py(field.key): lua_table_to_py(field.value)
+                                     for field in args_tbl.fields
+                                     if isinstance(field, Field) }
+
 
 def main():
     repo_root = os.environ.get("GITHUB_WORKSPACE")
@@ -108,6 +135,8 @@ def main():
     # allow explicit override
     wa2_path = os.environ.get("WA2_PATH",
                   os.path.join(repo_root, "weakauras2"))
+    wa_opts = os.path.join(wa2_path, "WeakAurasOptions")
+    types_file = os.path.join(wa2_path, "WeakAuras", "Types.lua")
 
     # 2) Extract triggers
     trigger_file = os.path.join(
@@ -136,16 +165,25 @@ def main():
                 key = fn[:-4].lower()
                 tree = parse_lua(open(os.path.join(subdir, fn), encoding="utf8").read())
                 subregions[key] = extract_region_templates(tree)
-
+    priv = extract_private_types(types_file)
     # Generic templates
-    files = {
+    categories = {
         "conditions": "ConditionOptions.lua",
         "actions":    "ActionOptions.lua",
         "animations": "AnimationOptions.lua",
         "load":       "LoadOptions.lua",
         "display":    "DisplayOptions.lua"
     }
-    filecats = {cat: extract_file_templates(wa2_path, fname) for cat, fname in files.items()}
+    out = {}
+    for name, fn in categories.items():
+        path = os.path.join(wa_opts, fn)
+        args = extract_args(path)
+        # inline values tables
+        for ctrl, props in args.items():
+            if isinstance(props.get("values"), str):
+                var = props["values"]
+                props["values"] = priv.get(var, {})
+        out[name] = args
 
     out_dir = os.path.join(repo_root, "templates")
     os.makedirs(out_dir, exist_ok=True)
@@ -157,10 +195,16 @@ def main():
         json.dump(regions, f, indent=2, ensure_ascii=False)  
     with open(os.path.join(out_dir, "subregions.json"), "w", encoding="utf8") as f:  
         json.dump(subregions, f, indent=2, ensure_ascii=False)
-    for cat, data in filecats.items():
-        json.dump(data, open(os.path.join(out_dir, f"{cat}.json"), "w", encoding="utf8"), indent=2, ensure_ascii=False)
+    for name, data in out.items():
+        with open(f"templates/{name}_opts.json", "w", encoding="utf8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print(f"Wrote templates/{name}_opts.json")
 
-    print("Extracted templates:", ", ".join(["classes", "regions", "subregions"] + list(filecats.keys())))
+    print(f"Extracted {len(classes)} class templates")
+    print(f"Extracted {len(regions)} region templates")
+    print(f"Extracted {len(subregions)} subregion templates")
+    print(f"Extracted {len(out)} generic templates")
+    print(f"Extracted {len(priv)} private types")
 
 if __name__ == "__main__":
     main()
