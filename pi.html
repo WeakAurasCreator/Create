@@ -28,10 +28,30 @@
     <div class="chart-wrapper">
       <canvas id="dpsChart"></canvas>
     </div>
-
-
+    <h2> WeakAura Options</h2>
+    <div class="controls mb-3">
+      <div class="btn-group me-3" role="group" aria-label="Mode">
+        <input type="radio" class="btn-check" name="mode" id="modeSingle" autocomplete="off" value="single" checked>
+        <label class="btn btn-outline-secondary" for="modeSingle">Unified</label>
+        <input type="radio" class="btn-check" name="mode" id="modeDual" autocomplete="off" value="dual">
+        <label class="btn btn-outline-secondary" for="modeDual">Separated</label>
+      </div>
     
+      <div id="singleSelectWrapper" class="d-inline-block">
+        <label for="targetSelectOverall" class="me-2 mb-0">Targets:</label>
+        <select id="targetSelectOverall" data-style="btn-dark" class="selectpicker" title="Select Target Count"></select>
+      </div>
+    
+      <div id="dualSelectWrapper" class="d-none d-inline-block">
+        <label class="me-2 mb-0">Targets:</label>
+        <select id="targetSelectBoss" data-style="btn-dark" class="selectpicker me-2" title="Boss Target (s)"></select>
+        <select id="targetSelectTrash" data-style="btn-dark" class="selectpicker" title="Trash Target (s)"></select>
+      </div>
+    </div>
     <button type="button" class="btn btn-primary" onclick="generatePiAura()">Generate WeakAura</button>
+    
+    
+
     <div class="mt-4">
       <label for="output">Output:</label>
       <textarea id="output" class="form-control" rows="5" readonly></textarea>

@@ -69,5 +69,20 @@ body, html {
     color: inherit;
 
   }
+
+  .controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .controls .btn-group {
+    flex: 0 0 auto;   /* toggle only takes as much as it needs */
+  }
+  .controls .select-wrapper {
+    flex: 1 1 auto;   /* selects take up remaining space */
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;      /* space between selects */
+  }
   
   

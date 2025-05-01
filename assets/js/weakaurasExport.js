@@ -14,7 +14,7 @@ const coreFetches = [
 // 2) Fetch the triggers index
 const triggersIndexFetch = fetch("templates/triggers/triggerIndex.json").then(
   (r) => r.json()
-); // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
+); // returns ["triggerA.json", ...]
 
 const dataIndexFetch = fetch("templates/data/dataIndex.json").then((r) =>
   r.json()
@@ -144,9 +144,25 @@ function setAuraUid(aura, idString) {
   return aura;
 }
 
-function setSpellIds(trigger, spellIds) {
+function setAuraWidth(aura, width) {
+  aura.width = width
+}
+
+function setAuraHeight(aura, height) {
+  aura.height = height
+}
+
+function setSpellIds(trigger, spellIds, useExactSpellId = false) {
   if (trigger.trigger.type === "aura2") {
-    trigger.trigger.auranames = spellIds;
+    if( useExactSpellId){
+      trigger.trigger.auraspellids = spellIds;
+      trigger.trigger.useExactSpellId = true
+      trigger.trigger.useName = false
+    }
+    else{
+      trigger.trigger.auranames = spellIds;
+      trigger.trigger.useName = true
+    }
   } else {
     console.error(
       `SpellIds could not be set for trigger "${trigger}" type "${trigger.trigger.type}" not supported`
@@ -155,13 +171,31 @@ function setSpellIds(trigger, spellIds) {
   return trigger;
 }
 
+function setAnchorPerFrame(aura, anchorFrame) {
+  aura.anchorPerUnit = anchorFrame;
+  aura.useAnchorPerUnit = true;
+}
+
+
+function setLoadInBossfight(aura, inBossfight) {
+  if (inBossfight === undefined) return;
+  aura.load.use_encounter = inBossfight
+}
+
+
 function addSpecId(trigger, specId) {
   if (
     trigger.trigger.type === "unit" &&
     trigger.trigger.event === "Unit Characteristics"
   ) {
     trigger.trigger.specId.multi[specId] = true;
-  } else {
+  } 
+  else if (trigger.trigger.type === "aura2") {
+    trigger.trigger.actualSpec = trigger.trigger.actualSpec || {};
+    trigger.trigger.actualSpec[specId] = true;
+    trigger.trigger.useActualSpec = true;
+  }
+  else {
     console.error(
       `SpecId could not be set for trigger "${trigger}" type "${trigger.trigger.type}" not supported`
     );
@@ -198,7 +232,7 @@ function addAura(group, aura) {
 
 function getTocVersion() {
   const buildStr = MetaData.wowBuild; // e.g. "11.1.0.60257"
-  const parts = buildStr.split("."); // ["11","1","0","60257"] :contentReference[oaicite:0]{index=0}
+  const parts = buildStr.split("."); // ["11","1","0","60257"] 
 
   // Destructure only the first three segments; ignore anything after the third dot
   const [major, minor, patch] = parts;
@@ -207,7 +241,7 @@ function getTocVersion() {
   const tocversion =
     parseInt(major, 10) * 10000 +
     parseInt(minor, 10) * 100 +
-    parseInt(patch, 10); // e.g. 11*10000 + 1*100 + 0 = 110100 :contentReference[oaicite:1]{index=1}
+    parseInt(patch, 10); // e.g. 11*10000 + 1*100 + 0 = 110100 
 
   return tocversion;
 }
