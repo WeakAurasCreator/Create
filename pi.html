@@ -34,6 +34,30 @@
 </head>
 
 <body data-bs-theme="dark">
+  <!-- Simulation Report Modal -->
+<div class="modal fade" id="simReportModal" tabindex="-1" aria-labelledby="simReportModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl modal-dialog-scrollable">
+    <div class="modal-content bg-dark text-white">
+      <div class="modal-header">
+        <h5 class="modal-title" id="simReportModalLabel">Simulation Reports</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body d-flex gap-3">
+        <!-- Non-PI iframe -->
+        <div class="flex-fill">
+          <h6>Without Power Infusion</h6>
+          <iframe id="reportNoPi" src="" style="width:100%; height:80vh; border:none;"></iframe>
+        </div>
+        <!-- PI iframe -->
+        <div class="flex-fill">
+          <h6>With Power Infusion</h6>
+          <iframe id="reportWithPi" src="" style="width:100%; height:80vh; border:none;"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
   <div class="container mt-5">
     <h1>DPS Gains from Power Infusion</h1>
     <div class="controls">

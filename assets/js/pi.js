@@ -148,6 +148,7 @@ function renderChart(targetCount, data,ctx,chart) {
   const specGains = entries.map((e) => ({
     class: e.class,
     spec: e.spec,
+    targets: e.targets,
     gain: e.dps_delta > 0 ? e.dps_delta : 0,
   }));
 
@@ -209,7 +210,26 @@ function renderChart(targetCount, data,ctx,chart) {
           display: false,
         },
       },
-
+      onClick: (evt, elements) => {
+        if (!elements.length) return;
+        // Only take the first bar clicked
+        const bar = elements[0];
+        const meta = specGains[bar.index]; 
+        const targets = meta.targets;
+        const cls   = meta.class;
+        const spec  = meta.spec;
+        // Build URLs
+        const base = 'https://weakaurascreator.github.io/Create/data/sims/final_sims';
+        const path = `${cls}/${spec}/${cls}_${spec}_${targets}_`;
+        const urlNoPi   = `${base}/${path}0.html`;
+        const urlWithPi = `${base}/${path}1.html`;
+        // Set iframe srcs
+        document.getElementById('reportNoPi').src   = urlNoPi;
+        document.getElementById('reportWithPi').src = urlWithPi;
+        // Show modal
+        const modal = new bootstrap.Modal(document.getElementById('simReportModal'));
+        modal.show();
+      },
       responsive: true,
       maintainAspectRatio: false,
     },
