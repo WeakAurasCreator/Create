@@ -125,45 +125,26 @@ def extract_private_types(types_path):
 def extract_args(options_path):
     src = open(options_path, encoding="utf8").read()
     root = parse_lua(src)
-    # find the Table assigned to local named 'animation' (or 'conditions', etc.)
-    for stmt in root.body.body:
-        # look for `local animation = { … }`
-        if isinstance(stmt, lua_ast.LocalAssign):
-            for tgt, val in zip(stmt.targets, stmt.values):
-                if isinstance(tgt, Name) and tgt.id.endswith("animation") and isinstance(val, Table):
-                    # find the Field 'args' inside this Table
+
+    # Walk the entire AST to find every `local X = { … }`
+    for node in walk(root):
+        if isinstance(node, LocalAssign):
+            for tgt, val in zip(node.targets, node.values):
+                # e.g. tgt.id endswith "animation", "conditions", etc.
+                if isinstance(tgt, Name) and tgt.id.endswith(("animation","conditions","actions","load","display")) and isinstance(val, Table):
+                    # Find the sub-table under the key "args"
                     for f in val.fields:
                         if f.key and expr_to_py(f.key) == "args":
                             args_tbl = f.value
-                            return { expr_to_py(field.key): lua_table_to_py(field.value)
-                                     for field in args_tbl.fields
-                                     if isinstance(field, Field) }
-    assigns = []
+                            # Convert each Field in that args table to Python
+                            return {
+                                expr_to_py(field.key): lua_table_to_py(field.value)
+                                for field in args_tbl.fields
+                                if isinstance(field, Field)
+                            }
+    return {}
 
-def collect(block):
-        for stmt in block.body:
-            if isinstance(stmt, lua_ast.LocalAssign):
-                assigns.append(stmt)
-            # dive into nested blocks (functions, loops, etc.)
-            if hasattr(stmt, "body") and stmt.body:
-                collect(stmt.body)
-    collect(root.body)
-
-    # find the one whose target name matches our category
-    for stmt in assigns:
-        for tgt, val in zip(stmt.targets, stmt.values):
-                if isinstance(tgt, Name) and isinstance(val, Table):
-                     # find the Field 'args' inside this Table
-                     for f in val.fields:
-                         if f.key and expr_to_py(f.key) == "args":
-                             args_tbl = f.value
-                             return {
-                                 expr_to_py(field.key): lua_table_to_py(field.value)
-                                 for field in args_tbl.fields
-                                 if isinstance(field, Field)
-                             }
-     return []    
-
+    
 def main():
     repo_root = os.environ.get("GITHUB_WORKSPACE")
     if not repo_root:
