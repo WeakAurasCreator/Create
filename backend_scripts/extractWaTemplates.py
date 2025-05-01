@@ -127,7 +127,6 @@ def extract_private_types(types_path):
 def extract_args(options_path):
     src = open(options_path, encoding="utf8").read()
     root = parse_lua(src)
-    print(root)
     # find the Table assigned to local named 'animation' (or 'conditions', etc.)
     for stmt in root.body.body:
         # look for `local animation = { … }`
