@@ -139,7 +139,8 @@ def extract_args(options_path):
                                      for field in args_tbl.fields
                                      if isinstance(field, Field) }
     assigns = []
-    def collect(block):
+
+def collect(block):
         for stmt in block.body:
             if isinstance(stmt, lua_ast.LocalAssign):
                 assigns.append(stmt)
@@ -161,7 +162,7 @@ def extract_args(options_path):
                                  for field in args_tbl.fields
                                  if isinstance(field, Field)
                              }
-     return []
+     return []    
 
 def main():
     repo_root = os.environ.get("GITHUB_WORKSPACE")
