@@ -106,8 +106,6 @@ def parse_lua(source: str):
     tree = parser.start_()
     return BuilderVisitor(stream).visit(tree)
 
-def noop(*args, **kwargs): pass
-
 # ——— Extract Private.* tables from Types.lua ——————————————————
 def extract_private_types(types_path):
     src = open(types_path, encoding="utf8").read()
@@ -140,7 +138,30 @@ def extract_args(options_path):
                             return { expr_to_py(field.key): lua_table_to_py(field.value)
                                      for field in args_tbl.fields
                                      if isinstance(field, Field) }
+    assigns = []
+    def collect(block):
+        for stmt in block.body:
+            if isinstance(stmt, lua_ast.LocalAssign):
+                assigns.append(stmt)
+            # dive into nested blocks (functions, loops, etc.)
+            if hasattr(stmt, "body") and stmt.body:
+                collect(stmt.body)
+    collect(root.body)
 
+    # find the one whose target name matches our category
+    for stmt in assigns:
+        for tgt, val in zip(stmt.targets, stmt.values):
+                if isinstance(tgt, Name) and isinstance(val, Table):
+                     # find the Field 'args' inside this Table
+                     for f in val.fields:
+                         if f.key and expr_to_py(f.key) == "args":
+                             args_tbl = f.value
+                             return {
+                                 expr_to_py(field.key): lua_table_to_py(field.value)
+                                 for field in args_tbl.fields
+                                 if isinstance(field, Field)
+                             }
+     return []
 
 def main():
     repo_root = os.environ.get("GITHUB_WORKSPACE")
