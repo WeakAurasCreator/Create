@@ -211,7 +211,7 @@ function generatePiAura() {
 
   const targetSelect = document.getElementById("targetSelect");
 
-  const targetArray = dpsLookup.get(Number(targetSelect.value));
+  const targetArray = dpsLookup.get(targetSelect.value);
   for (key in targetArray) {
     spec = targetArray[key];
     let spellIds = {};
