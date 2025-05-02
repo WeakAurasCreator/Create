@@ -1,0 +1,93 @@
+{
+    "steps": [
+      {
+        "label": "Personal Info",
+        "description": "Tell us a little about yourself so we can personalize your experience.",
+        "section": "Personal",
+        "fields": [
+          {
+            "name": "username",
+            "label": "Your Name",
+            "type": "input",
+            "helpText": "Enter your full name or a nickname.",
+            "description": "The name you want to be known by."
+          }
+        ]
+      },
+      {
+        "label": "Preferences",
+        "section": "Personal",
+        "description": "Select the colors and hobbies you like.",
+        "fields": [
+          {
+            "name": "colors",
+            "label": "Choose Colors",
+            "type": "select",
+            "helpText": "Pick one or more colors you’re drawn to.",
+            "options": [
+              { "label": "Red (Warnfarbe)",  "value": "red",   "description": "A bold, attention-grabbing color." },
+              { "label": "Blue (Infofarbe)", "value": "blue",  "description": "Calm and trustworthy." },
+              { "label": "Green (OK-Farbe)", "value": "green", "description": "Associated with ‘go’ and success." }
+            ]
+          },
+          {
+            "name": "hobbies",
+            "label": "Select Hobbies",
+            "type": "select",
+            "options": [
+              { "label": "Cooking",  "value": "cook",  "description": "Trying new recipes." },
+              { "label": "Reading",  "value": "books", "description": "Diving into stories." }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Account Settings",
+        "section": "Personal",
+        "fields": [
+          {
+            "name": "language",
+            "label": "Preferred Language",
+            "type": "dropdown",
+            "helpText": "Choose the language you prefer.",
+            "options": [
+              { "label": "English", "value": "en" },
+              { "label": "Deutsch",  "value": "de" },
+              { "label": "Español",  "value": "es" }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Character Settings",
+        "section": "Personal",
+        "fields": [
+          {
+            "name": "language",
+            "label": "Preferred Class",
+            "type": "multiselect",
+            "helpText": "Choose preferred class",
+            "options": [
+              { "label": "Druid", "value": "druid" },
+              { "label": "Mage",  "value": "mage" },
+              { "label": "Hunter",  "value": "hunter" }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Feedback",
+        "section": "Preferences",
+        "description": "Any final thoughts? We’d love to hear them.",
+        "fields": [
+          {
+            "name": "comments",
+            "label": "Comments",
+            "type": "textarea",
+            "helpText": "Feel free to be as detailed as you like."
+          }
+        ]
+      }
+    ]
+  }
+  

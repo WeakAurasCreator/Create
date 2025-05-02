@@ -1,0 +1,26 @@
+
+
+.step-circle {
+    min-width: 3rem;      /* allow room for text */
+    height: 2rem;
+    padding: 0 .5rem;     /* horizontal breathing room */
+    border-radius: 1rem;  /* pill shape looks nicer with text */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #dee2e6;
+    color: #6c757d;
+    margin: 0 .25rem;
+    font-size: .875rem;   /* slightly smaller text */
+  }
+
+      /* Step circles as pills */
+      .step-circle {
+        min-width: 2.5rem; height: 2rem;           /* allow room for numbers/text */  
+        border-radius: 1rem;                      /* pill shape */  
+        display: inline-flex; align-items: center; justify-content: center;  
+        background: #dee2e6; color: #6c757d; margin: 0 .25rem;  
+        font-size: .875rem; white-space: nowrap;  /* prevent wrap inside pill */  
+      }
+      .step-circle.completed { background: #198754; color: #fff; }  
+      .step-circle.current   { background: #0d6efd; color: #fff; }  
