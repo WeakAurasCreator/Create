@@ -210,7 +210,7 @@ def main():
                 props["values"] = priv.get(var, {})
         out[name] = args
 
-    out_dir = os.path.join(repo_root, "templates")
+    out_dir = os.path.join(repo_root, "templates" , "generated")
     os.makedirs(out_dir, exist_ok=True)
     # Write JSON
     with open(os.path.join(out_dir, "classes.json"), "w", encoding="utf8") as f:
