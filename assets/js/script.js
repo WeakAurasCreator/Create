@@ -44,7 +44,7 @@ const coreFetches = [
 // 2) Fetch the triggers index
 const triggersIndexFetch = fetch("templates/triggers/triggerIndex.json").then(
   (r) => r.json()
-); // returns ["triggerA.json", ...] :contentReference[oaicite:0]{index=0}
+); // returns ["triggerA.json", ...] 
 
 Promise.all([Promise.all(coreFetches), triggersIndexFetch])
   .then(([[exportData, DynamicGroup, Icon, metadata], triggerFiles]) => {
@@ -317,7 +317,7 @@ function addAura(group, aura) {
 
 function getTocVersion() {
   const buildStr = MetaData.wowBuild; // e.g. "11.1.0.60257"
-  const parts = buildStr.split("."); // ["11","1","0","60257"] :contentReference[oaicite:0]{index=0}
+  const parts = buildStr.split("."); // ["11","1","0","60257"] 
 
   // Destructure only the first three segments; ignore anything after the third dot
   const [major, minor, patch] = parts;
@@ -326,7 +326,7 @@ function getTocVersion() {
   const tocversion =
     parseInt(major, 10) * 10000 +
     parseInt(minor, 10) * 100 +
-    parseInt(patch, 10); // e.g. 11*10000 + 1*100 + 0 = 110100 :contentReference[oaicite:1]{index=1}
+    parseInt(patch, 10); // e.g. 11*10000 + 1*100 + 0 = 110100 
 
   return tocversion;
 }
