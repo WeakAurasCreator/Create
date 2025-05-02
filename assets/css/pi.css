@@ -11,9 +11,9 @@ body, html {
     color: var(--bs-body-color);
   }
   
-  .bootstrap-select .dropdown-menu li a:hover {
-    background-color: var(--bs-primary-bg); /* or whichever variable you like */
-    color: var(--bs-body-color);
+  .bootstrap-select .dropdown-menu .dropdown-item:hover {
+    background-color: var(--bs-primary) !important;
+    color:       var(--bs-light)   !important;
   }
   .popup {
     display: none;
