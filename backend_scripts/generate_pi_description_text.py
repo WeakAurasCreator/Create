@@ -73,7 +73,7 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
     Fallback: send the raw APL line to OpenAI and ask for a human-readable rewrite.
     """
     prompt = (
-        "Convert this SimulationCraft APL line into a concise, human-readable description. Only include information relevant for the Power Infusion providing Priest player while checking guides for The " +player_spec + " " +player_class+" class online. Also make sure you are correctly using & as and and | as or when evaluating apl lines. This is the apl line:\n\n" + line
+        "Convert this SimulationCraft APL line into a concise, human-readable description. Only include information relevant for the Power Infusion providing Priest player while checking guides for The " +player_spec + " " +player_class+" class online. Also make sure you are correctly using & as and and | as or when evaluating apl lines. Also make sure to only reply with text that will be displayed on a webpage in html format. This is the apl line:\n\n" + line
     )
     resp = client.chat.completions.create(
         extra_headers={},
