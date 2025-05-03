@@ -438,29 +438,20 @@ def load_dps_and_buffs(path: Path) -> float:
 
 def merge_results():
     # find all sim JSON outputs
-    sim_paths = glob.glob(str(FINAL_SIM_PATH / "**" / "*.json"), recursive=True)
+    sim_paths = glob.glob(str(FINAL_SIM_PATH / "**" / "**" / "*.json"), recursive=True)
 
     # organize by (class, spec, targets)
     runs: dict[tuple[str,str,int], dict[bool, Path]] = {}
     for p in map(Path, sim_paths):
         # p = data/sims/final_sims/<Class>_<Spec>/<targets>_<pi>.json
-        folder, fname = p.parent.name, p.name
-        cls, spec, nt_str, pi_str = p.stem.split("_")
-        if pi_str.lower() in ("true","false"):
-            pi_flag = pi_str.lower() == "true"
-        else:
-            pi_flag = bool(int(pi_str))  
-        key = (cls, spec, nt_str)
-        runs.setdefault(key, {})[ pi_flag ] = p
+        cls, spec, targets_str, pi_str = p.stem.split("_")
+        pi_flag = pi_str.lower() in ("1", "true")
+        key = (cls, spec, int(targets_str))
+        runs.setdefault(key, {})[pi_flag] = p
     results = []
     # reload PROFILE_MAP so we can look up backups
     with open(CONFIG_PATH) as f:
         profile_map = {k.lower(): v for k,v in json.load(f).items()}
-
-    by_class_spec = {
-    (v["classSlug"], v["specSlug"]): v
-    for v in PROFILE_MAP.values()
-    }
 
     for (cls, spec, nt), pair in runs.items():
         if False not in pair or True not in pair:
@@ -476,7 +467,7 @@ def merge_results():
         pct   = (delta / d0) * 100
 
         # extract buffs from the profile file used for the with-PI run
-        prof_file = PROFILE_PATH / f"{cls}_{spec}_{nt}_{1}.simc"
+        prof_file = PROFILE_PATH / cls / spec / f"{cls}_{spec}_{nt}_{int(True)}.simc"
         try:
             dependencies = extract_external_buffs(prof_file.read_text())
         except Exception as e:
