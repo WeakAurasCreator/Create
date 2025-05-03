@@ -73,16 +73,33 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
     Fallback: send the raw APL line to OpenAI and ask for a human-readable rewrite.
     """
     prompt = (
-        "Convert this SimulationCraft APL line into a concise, human-readable description. Only include information relevant for the Power Infusion providing Priest player while checking guides for The " +player_spec + " " +player_class+" class online. Also make sure you are correctly using & as and and | as or when evaluating apl lines. Also make sure to only reply with text that will be displayed on a webpage in html format. This is the apl line:\n\n" + line
+
+        """
+        You are an expert at translating SimulationCraft APL (action priority list) logic into concise, human-readable HTML descriptions.  Your user is a Priest whose sole concern is when to cast Power Infusion on a {{player_spec}} {{player_class}}.  Follow these rules:
+
+        1.  Fetch and reference only the most authoritative online guides for the {player_spec} {player_class} to determine which conditions matter for Power Infusion.  
+        2.  Parse the given APL line, treating `&` as logical AND and `|` as logical OR.
+        3.  Discard any checks irrelevant to a Priest providing Power Infusion (e.g. damage rotations, defensive cooldowns).
+        4.  Output **only** the HTML snippet that will be inserted directly into a webpage—no leading commentary or markdown fencing.
+        5.  The HTML must be ready for display: use appropriate tags (e.g. `<p>`, `<strong>`, `<em>`), and keep styling minimal.
+        6.  Your entire response must be pure HTML.
+
+        Here is the APL line to convert: {apl_line}
+
+        """
     )
     resp = client.chat.completions.create(
         extra_headers={},
         extra_body={},
-        model="deepseek/deepseek-chat-v3-0324:free",
+        model=model,
         messages=[
             {
             "role": "user",
-            "content": prompt
+            "content": prompt.format(
+                player_spec=player_spec,
+                player_class=player_class,
+                apl_line=line,
+            )
             }
         ]
     )
