@@ -1,16 +1,20 @@
 {
     "steps": [
       {
-        "label": "Personal Info",
-        "description": "Tell us a little about yourself so we can personalize your experience.",
-        "section": "Personal",
+        "label": "Type of Aura",
+        "description": "What type of aura would you like to create?",
+        "section": "General",
         "fields": [
           {
-            "name": "username",
-            "label": "Your Name",
-            "type": "input",
-            "helpText": "Enter your full name or a nickname.",
-            "description": "The name you want to be known by."
+            "name": "type",
+            "label": "Aura Type",
+            "type": "dropdown",
+            "helpText": "What type of aura would you like to create?",
+            "options": [
+              { "label": "Icon", "value": "Icon", "description": "A simple image."},
+              { "label": "Dynamic Group",  "value": "DynamicGroup", "description": "A group to put other auras inside." },
+              { "label": "Bar",  "value": "bar", "description": "A simple bar." }
+            ]
           }
         ]
       },
@@ -22,7 +26,7 @@
           {
             "name": "colors",
             "label": "Choose Colors",
-            "type": "select",
+            "type": "dropdown",
             "helpText": "Pick one or more colors you’re drawn to.",
             "options": [
               { "label": "Red (Warnfarbe)",  "value": "red",   "description": "A bold, attention-grabbing color." },
@@ -48,13 +52,9 @@
           {
             "name": "language",
             "label": "Preferred Language",
-            "type": "dropdown",
-            "helpText": "Choose the language you prefer.",
-            "options": [
-              { "label": "English", "value": "en" },
-              { "label": "Deutsch",  "value": "de" },
-              { "label": "Español",  "value": "es" }
-            ]
+            "type": "input",
+            "helpText": "Enter your full name or a nickname.",
+            "description": "The name you want to be known by."
           }
         ]
       },

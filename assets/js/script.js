@@ -29,45 +29,6 @@ Promise.all([
   })
   .catch((err) => console.error("Error loading data:", err));
 
-// containers for your templates
-let ExportData, DynamicGroupTemplate, IconTemplate, MetaData;
-const Triggers = {}; // ← will hold all the trigger‑JSONs
-
-// 1) Fetch the 4 core templates + metadata
-const coreFetches = [
-  fetch("templates/ExportData.json").then((r) => r.json()),
-  fetch("templates/aura_types/DynamicGroup.json").then((r) => r.json()),
-  fetch("templates/aura_types/Icon.json").then((r) => r.json()),
-  fetch("data/metadata.json").then((r) => r.json()),
-];
-
-// 2) Fetch the triggers index
-const triggersIndexFetch = fetch("templates/triggers/triggerIndex.json").then(
-  (r) => r.json()
-); // returns ["triggerA.json", ...] 
-
-Promise.all([Promise.all(coreFetches), triggersIndexFetch])
-  .then(([[exportData, DynamicGroup, Icon, metadata], triggerFiles]) => {
-    // assign core templates
-    ExportData = exportData;
-    DynamicGroupTemplate = DynamicGroup;
-    IconTemplate = Icon;
-    MetaData = metadata;
-
-    // 3) now fetch each trigger JSON in parallel
-    return Promise.all(
-      triggerFiles.map((fileName) =>
-        fetch(`templates/triggers/${fileName}`)
-          .then((r) => r.json())
-          .then((json) => {
-            // strip “.json” off the key, e.g. "triggerA"
-            const key = fileName.replace(/\.json$/, "");
-            Triggers[key] = json;
-          })
-      )
-    );
-  })
-  .catch((err) => console.error("Error loading templates or triggers:", err));
 
 function populateEncounterDropdown(
   tiers,
@@ -75,8 +36,8 @@ function populateEncounterDropdown(
   instances,
   encounterGroups
 ) {
-  const $sel = $("#encounter");
-  const select = document.getElementById("encounter");
+  const $sel = $("#encounterPicker");
+  const select = document.getElementById("encounterPicker");
   select.innerHTML = "";
 
   // 2) Identify the Current Season tier ID

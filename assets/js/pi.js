@@ -89,7 +89,7 @@ function renderAllExplanations() {
             data-bs-target="#collapse${idx}"
             aria-expanded="false"
             aria-controls="collapse${idx}"
-            style="color: ${color};"
+            style="color: ${color}!important;"
           >
             ${title}
           </button>
@@ -227,8 +227,7 @@ function renderChart(targetCount, data,ctx,chart) {
         document.getElementById('reportNoPi').src   = urlNoPi;
         document.getElementById('reportWithPi').src = urlWithPi;
         // Show modal
-        const modal = new bootstrap.Modal(document.getElementById('simReportModal'));
-        modal.show();
+        window.location.hash = 'piSimModal';
       },
       responsive: true,
       maintainAspectRatio: false,

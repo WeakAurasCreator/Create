@@ -42,17 +42,7 @@ body, html {
     text-align: center;
     margin-bottom: 1rem;
   }
-  
-  .controls {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 1rem;
-  }
-  
-  .controls label {
-    margin-right: 0.5rem;
-  }
+
   
   .chart-wrapper {
     position: relative;
@@ -72,9 +62,11 @@ body, html {
 
   .controls {
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
   }
+  
   .controls .btn-group {
     flex: 0 0 auto;   /* toggle only takes as much as it needs */
   }
@@ -84,5 +76,26 @@ body, html {
     justify-content: flex-end;
     gap: 0.5rem;      /* space between selects */
   }
+
+  #selectWrapper {
+  display: flex;            /* keep selects side by side in one row */
+  align-items: center;      /* vertically center them, too */
+  gap: 1rem;                /* consistent spacing between selects/labels */
+}
+
+/* both selector rows share the same base styling */
+.selector-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#mode-selector > label{
+  margin: 0rem !important;
+}
+
+.accordion-button{
+  font-weight: bold !important;
+}
   
   

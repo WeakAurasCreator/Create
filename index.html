@@ -1,0 +1,279 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>Dimension by HTML5 UP</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" />
+	</noscript>
+	<meta name="description"
+		content="Generate live Power Infusion WeakAuras for WoW using up-to-date talents & gear data from Warcraft Logs. Instant preview & easy import.">
+	<title>Power Infusion WeakAuras Generator | Live Warcraft Logs Data</title>
+	<link rel="canonical" href="https://weakaurascreator.github.io/Create/pi">
+	<meta name="robots" content="index, follow">
+	<!-- Open Graph -->
+	<meta property="og:title" content="Power Infusion WeakAuras Generator">
+	<meta property="og:description"
+		content="Instantly generate Power Infusion WeakAuras with up to Date Simulations including Warcraft Logs talent and gear data.">
+	<meta property="og:image" content="https://weakaurascreator.github.io/favicon/web-app-manifest-512x512.png">
+	<meta property="og:url" content="https://weakaurascreator.github.io/Create/pi">
+	<meta property="og:type" content="website">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Power Infusion WeakAuras Generator">
+	<meta name="twitter:description"
+		content="Instantly generate Power Infusion WeakAuras with live up to Date Simulations including Warcraft Logs talent and gear data.">
+	<meta name="twitter:image" content="https://weakaurascreator.github.io/favicon/web-app-manifest-512x512.png">
+
+	<link rel="icon" type="image/png" href="favicon/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/svg+xml" href="favicon/favicon.svg" />
+	<link rel="shortcut icon" href="favicon/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png" />
+	<meta name="apple-mobile-web-app-title" content="WACreator" />
+	<link rel="manifest" href="favicon/site.webmanifest" />
+	<link rel="stylesheet" href="assets/css/pi.css" />
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="assets/css/bootstrap-icons.css" />
+	<link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
+</head>
+
+<body class="is-preload" data-bs-theme="dark">
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			<div class="logo">
+				<img src="favicon/web-app-manifest-512x512.png" alt="" />
+			</div>
+			<div class="content">
+				<div class="inner">
+					<h1>Weakauras Creator</h1>
+					<p>Create your WeakAuras easily</p>
+				</div>
+			</div>
+			<nav>
+				<ul>
+					
+					<li><a href="#wizard">Wizard</a></li>
+					<li><a href="#encounter">Boss</a></li>
+					<li><a href="#powerInfusion">Pi WA</a></li>
+					<li><a href="#support">Support</a></li>
+
+				</ul>
+			</nav>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+
+			<!-- Work -->
+			<article id="wizard">
+				<h2 class="major">Wizard</h2>
+				Coming soon
+			</article>
+
+			<article id="encounter">
+				<h2 class="major">Encounter</h2>
+				<div class="container mt-5" data-bs-theme="dark">
+					<h1>WeakAura Generator</h1>
+					<p></p>
+			
+					<form id="WeakAuraForm">
+						<div class="form-group">
+							<label for="auraType">Aura Type:</label>
+							<select id="auraType" class="form-control">
+								<option>Icon</option>
+							</select>
+						</div>
+						<div class="form-group" id="sizeFields" style="display: block;">
+							<label for="width">Width:</label>
+							<input type="number" id="width" class="form-control">
+						</div>
+						<div class="form-group" id="heightField" style="display: block;">
+							<label for="height">Height:</label>
+							<input type="number" id="height" class="form-control">
+						</div>
+						<div class="form-group" id="fontSizeField" style="display: block;">
+							<label for="fontSize">Font Size:</label>
+							<input type="number" id="fontSize" class="form-control">
+						</div>
+						<div class="form-group">
+							<label for="font">Font:</label>
+							<select id="font" class="form-control">
+								<option>Friz Quadrata TT</option>
+							</select>
+						</div>
+						<div class="form-group" id="auraDurationField" style="display: block;">
+							<label for="auraDuration">Show aura for x seconds:</label>
+							<input type="number" id="auraDuration" class="form-control">
+						</div>
+						<div class="form-group">
+							<label for="trigger">Trigger:</label>
+							<select id="trigger" class="form-control" onchange="handleTriggerChange()">
+								<option value="encounterTime">Encounter Time</option>
+			
+							</select>
+						</div>
+						<div class="form-group" id="encounterTimeField" style="display: block;">
+							<label for="timeInputs">Trigger at x seconds:</label>
+							<div id="timeInputsContainer" class="input-group">
+							</div>
+							<div class="input-group-append">
+								<button type="button" class="btn btn-secondary" id="addTimeInputButton">+</button>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="encounterPicker" class="form-label">Encounter:</label>
+							<div class="multi-select-container" data-bs-theme="dark">
+								<select id="encounterPicker" data-style="btn-dark" class="selectpicker" data-live-search="true" multiple
+									title="Select Encounter(s)..." data-selected-text-format="count">
+								</select>
+							</div>
+						</div>
+						<button type="button" class="btn btn-primary" onclick="generateWeakAura()">Generate WeakAura</button>
+					</form>
+			
+					<div class="mt-4">
+						<label for="output">Output:</label>
+						<textarea id="output" class="form-control" rows="5" readonly></textarea>
+					</div>
+					<button id="copyButton" onclick="copyToClipboard()" class="btn btn-success" disabled>Copy to Clipboard</button>
+					<div id="popupMessage" class="popup">
+						Content copied to clipboard!
+					</div>
+				</div>
+			</article>
+			<article id="piSimModal" aria-labelledby="simReportModalLabel">
+				<h2 class="major">Simulation Reports</h2>
+				<div class="flex-fill">
+					<h6>Without Power Infusion</h6>
+					<iframe id="reportNoPi" src="" style="width:100%; height:80vh; border:none;"></iframe>
+				</div>
+				<!-- PI iframe -->
+				<div class="flex-fill">
+					<h6>With Power Infusion</h6>
+					<iframe id="reportWithPi" src="" style="width:100%; height:80vh; border:none;"></iframe>
+				</div>
+		</article>
+		<!-- Power Infusion -->
+		<article id="powerInfusion">
+			<h2 class="major">Power Infusion</h2>
+
+
+			<div class="container mt-5">
+				<h1>DPS Gains from Power Infusion</h1>
+				<div class="controls">
+					<label for="targetSelect">Select Target Count:</label>
+					<select id="targetSelect" data-style="btn-dark" class="selectpicker" title="Select Target Count">
+					</select>
+				</div>
+				<div class="chart-wrapper">
+					<canvas id="dpsChart"></canvas>
+				</div>
+				<h2> WeakAura Options</h2>
+				<div class="controls mb-3">
+					<div class="btn-group me-3" role="group" id="mode-selector" aria-label="Mode">
+						<input type="radio" class="btn-check" name="mode" id="modeSingle" autocomplete="off"
+							value="single" checked>
+						<label class="btn btn-outline-secondary" for="modeSingle">Unified</label>
+						<input type="radio" class="btn-check" name="mode" id="modeDual" autocomplete="off" value="dual">
+						<label class="btn btn-outline-secondary" for="modeDual">Separated</label>
+					</div>
+					<div id="selectWrapper">
+						<div id="singleSelectWrapper" class="selector-row">
+							<label for="targetSelectOverall" class="mb-0">Targets:</label>
+							<select id="targetSelectOverall" data-style="btn-dark" class="selectpicker"
+								title="Select Target Count"></select>
+						</div>
+
+						<div id="dualSelectWrapper" class="d-none selector-row">
+							<label for="targetSelectBoss" class="mb-0">Boss:</label>
+							<select id="targetSelectBoss" data-style="btn-dark" class="selectpicker"
+								title="Boss Target (s)"></select>
+							<label for="targetSelectTrash" class="mb-0">Trash:</label>
+							<select id="targetSelectTrash" data-style="btn-dark" class="selectpicker"
+								title="Trash Target (s)"></select>
+						</div>
+					</div>
+				</div>
+				<button type="button" class="btn btn-outline" onclick="generatePiAura()">Generate WeakAura</button>
+
+
+
+				<div class="mt-4 mb-3">
+					<label for="output">Output:</label>
+					<textarea id="output" class="form-control" rows="5" readonly></textarea>
+				</div>
+				<button id="copyButton" onclick="copyToClipboard()" class="btn btn-outline" disabled>Copy to
+					Clipboard</button>
+				<div id="popupMessage" class="popup">
+					Content copied to clipboard!
+				</div>
+			</div>
+
+			<div class="container mt-5">
+				<h2>Power Infusion Explanations</h2>
+				<input id="piFilter" class="form-control mb-3" placeholder="Filter specs…">
+				<div class="accordion" id="piAccordion"></div>
+			</div>
+		</article>
+		<!-- Contact -->
+		<article id="support">
+			<h2 class="major">Support</h2>
+			<p> If you want to seport the devlopment of this page you can do so through.</p>
+			<ul class="icons">
+				<li><a href="https://www.paypal.com/donate/?hosted_button_id=PSQ4D3HXNZKMG" target="_blank" class="icon brands fa-paypal"><span class="label">Paypal</span></a></li>
+				<li><a href="https://ko-fi.com/jodsderechte" target="_blank" class="icon brands fa-patreon"><span class="label">GitHub</span></a></li>
+			</ul>
+			<p> If you have any suggestions or Feedback feel free to reach out through</p>
+			<ul class="icons">
+				<li><a href="https://discord.gg/v3gYmYamGJ" target="_blank" class="icon brands fa-discord"><span class="label">Discord</span></a></li>
+				<li><a href="https://github.com/WeakAurasCreator/Create" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+			</ul>
+		</article>
+
+	</div>
+
+	<!-- Footer -->
+	<footer id="footer">
+		<p class="copyright">&copy; WeakAuras Creator. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+	</footer>
+
+	</div>
+
+	<!-- BG -->
+	<div id="bg"></div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/bootstrap.bundle.min.js"></script>
+	<script src="assets/js/bootstrap-select.min.js"></script>
+	<script src="assets/js/chart.js"></script>
+	<script src="assets/js/pako.min.js"></script>
+	<script src="assets/js/encode.js"></script>
+	<script src="assets/js/weakaurasExport.js"></script>
+	<script src="assets/js/pi.js"></script>
+	
+	<script src="assets/js/script.js"></script>
+	<script>const whTooltips = { colorLinks: true, iconizeLinks: true, renameLinks: true };</script>
+	<script src="https://wow.zamimg.com/js/tooltips.js"></script>
+
+</body>
+
+</html>
