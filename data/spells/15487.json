@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "15487"
+  "SpellID": "15487",
+  "name_blz": {
+    "en_US": "Silence",
+    "es_MX": "Silencio",
+    "pt_BR": "Sil\u00eancio",
+    "de_DE": "Stille",
+    "en_GB": "Silence",
+    "es_ES": "Silencio",
+    "fr_FR": "Silence",
+    "it_IT": "Silenzio",
+    "ru_RU": "\u0411\u0435\u0437\u043c\u043e\u043b\u0432\u0438\u0435",
+    "ko_KR": "\uce68\ubb35",
+    "zh_TW": "\u6c89\u9ed8",
+    "zh_CN": "\u6c89\u9ed8"
+  },
+  "description_blz": {
+    "en_US": "Silences the target, preventing them from casting spells for 4 sec. Against non-players, also interrupts spellcasting and prevents any spell in that school from being cast for 4 sec.",
+    "es_MX": "Silencia al objetivo y le impide lanzar hechizos durante 4 s. Contra los que no son jugadores, tambi\u00e9n interrumpe el lanzamiento de hechizos e impide que se lancen hechizos de esa misma escuela durante 4 s.",
+    "pt_BR": "Silencia o alvo, impedindo-o de lan\u00e7ar feiti\u00e7os por 4 s. Contra PNJs, tamb\u00e9m interrompe o lan\u00e7amento de feiti\u00e7os e impede o lan\u00e7amento de qualquer feiti\u00e7o da mesma escola por 4 s.",
+    "de_DE": "Bringt das Ziel zum Schweigen und unterbricht f\u00fcr 4 Sek. das Wirken von Zaubern. Bei Nichtspielercharakteren unterbricht die F\u00e4higkeit das Wirken von Zaubern und verhindert au\u00dferdem f\u00fcr 4 Sek., dass weitere Zauber dieser Art gewirkt werden.",
+    "en_GB": "Silences the target, preventing them from casting spells for 4 sec. Against non-players, also interrupts spellcasting and prevents any spell in that school from being cast for 4 sec.",
+    "es_ES": "Silencia al objetivo, lo que impide que lance hechizos durante 4 s. Contra no-jugadores, tambi\u00e9n interrumpe el lanzamiento de hechizos y evita que puedan lanzarse hechizos de esa escuela durante 4 s.",
+    "fr_FR": "R\u00e9duit la cible au silence et l\u2019emp\u00eache de lancer des sorts pendant 4 s. Interrompt \u00e9galement les incantations de sorts des personnages non-joueurs et les emp\u00eache de lancer tout sort de la m\u00eame \u00e9cole de magie pendant 4 s.",
+    "it_IT": "Silenzia il bersaglio, impedendogli di lanciare incantesimi per 4 s. Su personaggi non giocanti, interrompe il lancio d'incantesimi e impedisce il lancio di altri incantesimi della stessa scuola di magia per 4 s.",
+    "ru_RU": "\u0412\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043d\u0435\u043c\u043e\u0442\u0443, \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4 \u0441\u0435\u043a. \u0415\u0441\u043b\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u0433\u0440\u043e\u043a\u043e\u043c, \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u043e\u0435 \u0438\u043c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \u0438 \u043b\u0438\u0448\u0430\u0435\u0442 \u0435\u0433\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0442\u043e\u0439 \u0436\u0435 \u0448\u043a\u043e\u043b\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc744 \uce68\ubb35\uc2dc\ucf1c 4\ucd08 \ub3d9\uc548 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uc9c0 \ubabb\ud558\uac8c \ud569\ub2c8\ub2e4. \ud50c\ub808\uc774\uc5b4\uac00 \uc544\ub2cc \ub300\uc0c1\uc744 \uc0c1\ub300\ub85c\ub294 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\uace0, 4\ucd08 \ub3d9\uc548 \uac19\uc740 \uacc4\uc5f4\uc758 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uc9c0 \ubabb\ud558\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8b93\u76ee\u6a19\u9677\u5165\u6c89\u9ed8\u4e0d\u80fd\u65bd\u6cd5\uff0c\u6301\u7e8c4\u79d2\u3002\u7528\u5728\u975e\u73a9\u5bb6\u76ee\u6a19\u8eab\u4e0a\u6642\uff0c\u53ef\u540c\u6642\u4e2d\u65b7\u6575\u4eba\u7684\u65bd\u6cd5\uff0c\u4f7f\u5176\u57284\u79d2\u5167\u4e0d\u80fd\u65bd\u653e\u540c\u7cfb\u6cd5\u8853\u3002",
+    "zh_CN": "\u4f7f\u76ee\u6807\u6c89\u9ed8\uff0c\u57284\u79d2\u5185\u4e0d\u80fd\u65bd\u6cd5\u3002\u5bf9\u975e\u73a9\u5bb6\u7c7b\u654c\u4eba\u65bd\u653e\u65f6\uff0c\u6253\u65ad\u5176\u6b63\u5728\u65bd\u653e\u7684\u6cd5\u672f\uff0c\u5e76\u963b\u6b62\u5176\u65bd\u653e\u540c\u7cfb\u6cd5\u672f\uff0c\u6301\u7eed4\u79d2\u3002"
+  }
 }
