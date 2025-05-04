@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "37481"
+  "SpellID": "37481",
+  "name_blz": {
+    "en_US": "Trap Cooldown",
+    "es_MX": "Tiempo de reutilizaci\u00f3n de Trampa",
+    "pt_BR": "Recarga de Armadilha",
+    "de_DE": "Verringerte Abklingzeit f\u00fcr Fallen",
+    "en_GB": "Trap Cooldown",
+    "es_ES": "Tiempo de reutilizaci\u00f3n de Trampa",
+    "fr_FR": "Temps de recharge de Pi\u00e8ge",
+    "it_IT": "Tempo di Recupero Trappola",
+    "ru_RU": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043b\u043e\u0432\u0443\u0448\u043a\u0438",
+    "ko_KR": "\ub36b \uc5f0\ub9c8",
+    "zh_TW": "\u9677\u9631\u51b7\u537b",
+    "zh_CN": "Trap Cooldown"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown on your traps by 4 sec.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de tus trampas 4 s.",
+    "pt_BR": "Reduz em 4 s a recarga das suas armadilhas.",
+    "de_DE": "Verringert die Abklingzeit Eurer Fallen um 4 Sek.",
+    "en_GB": "Reduces the cooldown on your traps by 4 sec.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de tus trampas 4 s.",
+    "fr_FR": "R\u00e9duit le temps de recharge de vos pi\u00e8ges de 4 s.",
+    "it_IT": "Riduce il tempo di recupero delle tue trappole di 4 s.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043b\u043e\u0432\u0443\u0448\u0435\u043a \u043d\u0430 4 \u0441\u0435\u043a.",
+    "ko_KR": "\ubaa8\ub4e0 \ub36b \uc8fc\ubb38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 4\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u9677\u9631\u6280\u80fd\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed4\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u9677\u9631\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed4\u79d2\u3002"
+  }
 }
