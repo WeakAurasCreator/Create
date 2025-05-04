@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "52051"
+  "SpellID": "52051",
+  "name_blz": {
+    "en_US": "Blessing of Zim'Rhuk",
+    "es_MX": "Bendici\u00f3n de Zim'Rhuk",
+    "pt_BR": "B\u00ean\u00e7\u00e3o de Zim'rhuk",
+    "de_DE": "Segen von Zim'Rhuk",
+    "en_GB": "Blessing of Zim'Rhuk",
+    "es_ES": "Bendici\u00f3n de Zim'Rhuk",
+    "fr_FR": "B\u00e9n\u00e9diction de Zim'Rhuk",
+    "it_IT": "Benedizione di Zim'Rhuk",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435 \u0417\u0438\u043c'\u0420\u0443\u043a\u0430",
+    "ko_KR": "\uc9d0\ub8e8\ud06c\uc758 \ucd95\ubcf5",
+    "zh_TW": "\u8f9b\u8339\u514b\u795d\u798f",
+    "zh_CN": "\u5e0c\u59c6\u9c81\u514b\u7684\u795d\u798f"
+  },
+  "description_blz": {
+    "en_US": "Places a Blessing on the friendly target, restoring 100 mana every 5 seconds for 1 hour. Limited to Zul'Drak.",
+    "es_MX": "Coloca una bendici\u00f3n sobre un objetivo amistoso, restaurando 100 p. de man\u00e1 cada 5 s durante 1 h. Limitado a Zul'Drak.",
+    "pt_BR": "Aben\u00e7oa o alvo aliado, restaurando 100 de mana a cada 5 s por 1 hora. Limitado a  Zul'drak.",
+    "de_DE": "Belegt das freundliche Ziel mit einem Segen, der 1 Stunde lang alle 5 Sek. 100 Mana regeneriert. Auf das Gebiet von Zul'Drak beschr\u00e4nkt.",
+    "en_GB": "Places a Blessing on the friendly target, restoring 100 mana every 5 seconds for 1 hour. Limited to Zul'Drak.",
+    "es_ES": "Coloca una bendici\u00f3n sobre un objetivo amistoso, restaurando 100 p. de man\u00e1 cada 5 s durante 1 h. Limitado a Zul'Drak.",
+    "fr_FR": "Place une B\u00e9n\u00e9diction sur une cible alli\u00e9e qui rend 100 points de mana toutes les 5 s pendant 1 heure. Limit\u00e9e \u00e0 Zul'Drak.",
+    "it_IT": "Benedice un bersaglio alleato, rigenerando 100 mana ogni 5 s per 1 ora. Funziona solo a Zul'drak.",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u043b\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0435\u043c\u0443 100 \u0435\u0434. \u043c\u0430\u043d\u044b \u0440\u0430\u0437 \u0432 5 \u0441\u0435\u043a. \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 1 \u0447. \u0414\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0417\u0443\u043b'\u0414\u0440\u0430\u043a\u0435.",
+    "ko_KR": "\uc544\uad70 \ub300\uc0c1\uc5d0\uac8c \ucd95\ubcf5\uc744 \ub0b4\ub824, 1\uc2dc\uac04 \ub3d9\uc548 5\ucd08\ub9c8\ub2e4 100\uc758 \ub9c8\ub098\ub97c \ud68c\ubcf5\ud558\uac8c \ud569\ub2c8\ub2e4. \uc904\ub4dc\ub77d\uc5d0\uc11c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7d66\u4e88\u53cb\u65b9\u76ee\u6a19\u795d\u798f\uff0c\u6bcf5\u79d2\u6062\u5fa9100\u9ede\u6cd5\u529b\uff0c\u6301\u7e8c1\u5c0f\u6642\u3002\u6b64\u6548\u679c\u50c5\u9650\u65bc\u7956\u723e\u5fb7\u62c9\u514b\u4e4b\u5167\u3002",
+    "zh_CN": "\u4e3a\u53cb\u65b9\u76ee\u6807\u65bd\u52a0\u795d\u798f\uff0c\u4f7f\u5176\u6bcf5\u79d2\u6062\u590d100\u70b9\u6cd5\u529b\u503c\uff0c\u6301\u7eed1\u5c0f\u65f6\u3002\u53ea\u80fd\u5728\u7956\u8fbe\u514b\u4f7f\u7528\u3002"
+  }
 }

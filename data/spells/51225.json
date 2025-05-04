@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "51225"
+  "SpellID": "51225",
+  "name_blz": {
+    "en_US": "Increased Attack Power 30",
+    "es_MX": "Poder de ataque aumentado 30",
+    "pt_BR": "Poder de Ataque Aumentado 30",
+    "en_GB": "Increased Attack Power 30",
+    "es_ES": "Poder de ataque aumentado 30",
+    "it_IT": "Potenza d'Attacco Migliorata 30",
+    "ko_KR": "\uc804\ud22c\ub825 30",
+    "zh_TW": "\u63d0\u9ad8\u653b\u64ca\u5f37\u5ea6 30",
+    "zh_CN": "Increased Attack Power 30"
+  },
+  "description_blz": {
+    "en_US": "Increases your Agility by 5.",
+    "es_MX": "Aumenta tu agilidad 5 p.",
+    "pt_BR": "Aumenta em 5 a sua Agilidade.",
+    "de_DE": "Erh\u00f6ht Eure Beweglichkeit um 5.",
+    "en_GB": "Increases your Agility by 5.",
+    "es_ES": "Aumenta tu agilidad 5 p.",
+    "fr_FR": "Augmente votre Agilit\u00e9 de 5.",
+    "it_IT": "Aumenta l'Agilit\u00e0 di 5.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043b\u043e\u0432\u043a\u043e\u0441\u0442\u044c \u043d\u0430 5.",
+    "ko_KR": "\ubbfc\ucca9\uc131\uc774 5\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u63d0\u9ad85\u9ede\u654f\u6377\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u654f\u6377\u63d0\u9ad85\u70b9\u3002"
+  }
 }

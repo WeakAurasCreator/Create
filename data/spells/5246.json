@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "5246"
+  "SpellID": "5246",
+  "name_blz": {
+    "en_US": "Intimidating Shout",
+    "es_MX": "Grito intimidante",
+    "pt_BR": "Brado Intimidador",
+    "de_DE": "Drohruf",
+    "en_GB": "Intimidating Shout",
+    "es_ES": "Grito intimidador",
+    "fr_FR": "Cri d\u2019intimidation",
+    "it_IT": "Urlo Intimidatorio",
+    "ru_RU": "\u0423\u0441\u0442\u0440\u0430\u0448\u0430\u044e\u0449\u0438\u0439 \u043a\u0440\u0438\u043a",
+    "ko_KR": "\uc704\ud611\uc758 \uc678\uce68",
+    "zh_TW": "\u7834\u81bd\u6012\u543c",
+    "zh_CN": "\u7834\u80c6\u6012\u543c"
+  },
+  "description_blz": {
+    "en_US": "Causes the targeted enemy to cower in fear and up to 5 additional enemies within 8 yards to flee.\r\nTargets are disoriented for 8 sec.",
+    "es_MX": "Provoca que el objetivo enemigo se asuste y que hasta 5 enemigos m\u00e1s en un radio de 8 m huyan.\r\nLos objetivos se desorientan durante 8 s.",
+    "pt_BR": "Faz o alvo inimigo se acovardar e at\u00e9 5 inimigos adicionais em um raio de 8 m fugirem.\r\nOs alvos ficam desnorteados por 8 s.",
+    "de_DE": "L\u00e4sst das gegnerische Ziel vor Angst erstarren und schl\u00e4gt bis zu 5 weitere Gegner innerhalb von 8 Metern in die Flucht.\r\nBetroffene Ziele werden 8 Sek. lang desorientiert.",
+    "en_GB": "Causes the targeted enemy to cower in fear and up to 5 additional enemies within 8 yards to flee.\r\nTargets are disoriented for 8 sec.",
+    "es_ES": "Hace que el enemigo seleccionado se encoja de miedo y hasta un m\u00e1ximo de 5 enemigos m\u00e1s en un radio de 8 m huyan.\r\nLos objetivos quedan desorientados durante 8 s.",
+    "fr_FR": "Oblige le personnage adverse cibl\u00e9 \u00e0 se recroqueviller de peur et un maximum de 5\u00a0adversaires suppl\u00e9mentaires \u00e0 moins de 8\u00a0m \u00e0 prendre la fuite.\r\nLes cibles sont d\u00e9sorient\u00e9es pendant 8 s.",
+    "it_IT": "Fa fuggire in preda al terrore il nemico e fino a 5 nemici aggiuntivi entro 8 m.\r\nI bersagli restano disorientati per 8 s.",
+    "ru_RU": "\u041e\u0431\u0440\u0430\u0449\u0430\u0435\u0442 \u0446\u0435\u043b\u044c \u0438 \u0435\u0449\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c \u0432 \u0431\u0435\u0433\u0441\u0442\u0432\u043e.\r\n\u0414\u0435\u0437\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u0443\u0435\u0442 \u0446\u0435\u043b\u0438 \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1 \uc801\uc744 \uacf5\ud3ec\uc5d0 \uc9c8\ub824 \uc81c\uc790\ub9ac\uc5d0\uc11c \ub5a8\uac8c \ud558\uace0 8\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ucd5c\ub300 5\uba85\uc758 \uc801\uc744 \ub3c4\ub9dd\uac00\ub3c4\ub85d \ub9cc\ub4ed\ub2c8\ub2e4.\r\n\uc678\uce68\uc758 \ub300\uc0c1\uc740 8\ucd08 \ub3d9\uc548 \ubc29\ud5a5 \uac10\uac01\uc744 \uc0c1\uc2e4\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u76ee\u6a19\u6575\u4eba\u56e0\u6050\u61fc\u800c\u754f\u7e2e\uff0c\u4e26\u4f7f8\u78bc\u5167\u6700\u591a5\u500b\u984d\u5916\u6575\u4eba\u9003\u8dd1\u3002\r\n\u76ee\u6a19\u9677\u5165\u56f0\u60d1\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u4f7f\u76ee\u6807\u654c\u4eba\u56e0\u6050\u60e7\u800c\u754f\u7f29\uff0c\u5e76\u4f7f8\u7801\u8303\u56f4\u5185\u6700\u591a5\u4e2a\u654c\u4eba\u56e0\u6050\u60e7\u800c\u9003\u8dd1\u3002\r\n\u76ee\u6807\u9677\u5165\u8ff7\u60d1\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

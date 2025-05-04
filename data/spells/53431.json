@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "53431"
+  "SpellID": "53431",
+  "name_blz": {
+    "en_US": "Runeforging",
+    "es_MX": "Forja de runas",
+    "pt_BR": "Forjar Runas",
+    "de_DE": "Runenschmieden",
+    "en_GB": "Runeforging",
+    "es_ES": "Forja de runas",
+    "fr_FR": "Runeforge",
+    "it_IT": "Forgiarune",
+    "ru_RU": "\u0413\u0440\u0430\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+    "ko_KR": "\ub8ec\ubcbc\ub9ac\uae30",
+    "zh_TW": "\u7b26\u6587\u9444\u9020",
+    "zh_CN": "\u7b26\u6587\u7194\u94f8"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to emblazon runes upon your weapon.",
+    "es_MX": "Te ense\u00f1a a blasonar tus armas con runas.",
+    "pt_BR": "Ensina a brasonar runas em sua arma.",
+    "de_DE": "Lehrt Euch, Eure Waffe mit Runen zu pr\u00e4gen.",
+    "en_GB": "Teaches you how to emblazon runes upon your weapon.",
+    "es_ES": "Te ense\u00f1a a blasonar tus armas con runas.",
+    "fr_FR": "Vous apprend \u00e0 orner votre arme de runes.",
+    "it_IT": "Apprendi come incidere delle rune sulle tue armi.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0442\u044c \u043e\u0440\u0443\u0436\u0438\u0435 \u0440\u0443\u043d\u0430\u043c\u0438.",
+    "ko_KR": "\ubb34\uae30\uc5d0 \ub8ec\uc758 \ub9c8\ub825\uc744 \ubd88\uc5b4\ub123\ub294 \ubc29\ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u5c07\u7b26\u6587\u9472\u98fe\u5728\u4f60\u7684\u6b66\u5668\u4e0a\u3002",
+    "zh_CN": "\u6559\u4f60\u5b66\u4f1a\u5728\u81ea\u5df1\u7684\u6b66\u5668\u4e0a\u9576\u5d4c\u7b26\u6587\u3002"
+  }
 }
