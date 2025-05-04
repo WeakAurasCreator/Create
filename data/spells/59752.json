@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "59752"
+  "SpellID": "59752",
+  "name_blz": {
+    "en_US": "Will to Survive",
+    "es_MX": "Voluntad de sobrevivir",
+    "pt_BR": "Desejo de Sobreviver",
+    "de_DE": "\u00dcberlebenswille",
+    "en_GB": "Will to Survive",
+    "es_ES": "Lucha por la supervivencia",
+    "fr_FR": "Volont\u00e9 de survie",
+    "it_IT": "Volont\u00e0 di Sopravvivenza",
+    "ru_RU": "\u0412\u043e\u043b\u044f \u043a \u0436\u0438\u0437\u043d\u0438",
+    "ko_KR": "\uc0b6\uc758 \uc758\uc9c0",
+    "zh_TW": "\u6c42\u751f\u610f\u5fd7",
+    "zh_CN": "\u751f\u5b58\u610f\u5fd7"
+  },
+  "description_blz": {
+    "en_US": "Removes all stun effects. ",
+    "es_MX": "Elimina todos los efectos de aturdimiento. ",
+    "pt_BR": "Remove todos os efeitos de atordoamento. ",
+    "de_DE": "Entfernt alle Bet\u00e4ubungseffekte.",
+    "en_GB": "Removes all stun effects. ",
+    "es_ES": "Disipa todos los efectos de aturdimiento. ",
+    "fr_FR": "Annule tous les effets d\u2019\u00e9tourdissement. ",
+    "it_IT": "Dissolve gli effetti di stordimento. ",
+    "ru_RU": "\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0432\u0441\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u0438\u044f. ",
+    "ko_KR": "\ubaa8\ub4e0 \uae30\uc808 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u79fb\u9664\u6240\u6709\u660f\u8ff7\u6548\u679c\u3002",
+    "zh_CN": "\u79fb\u9664\u6240\u6709\u660f\u8ff7\u6548\u679c\u3002"
+  }
 }

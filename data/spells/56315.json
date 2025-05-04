@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "56315"
+  "SpellID": "56315",
+  "name_blz": {
+    "en_US": "Kindred Spirits",
+    "es_MX": "Almas gemelas",
+    "pt_BR": "Esp\u00edritos Afins",
+    "de_DE": "Seelenverwandtschaft",
+    "en_GB": "Kindred Spirits",
+    "es_ES": "Almas gemelas",
+    "fr_FR": "Ames s\u0153urs",
+    "it_IT": "Spiriti Affini",
+    "ru_RU": "\u0420\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0434\u0443\u0448\u0438",
+    "ko_KR": "\ub3d9\uc871\uc758 \uc601\ud63c",
+    "zh_TW": "\u8840\u7cfb\u76f8\u9023",
+    "zh_CN": "\u5fd7\u8da3\u76f8\u6295"
+  },
+  "description_blz": {
+    "en_US": "Increases your maximum Focus and your pet's maximum Focus by 20.",
+    "es_MX": "Aumenta 20 p. tu enfoque m\u00e1ximo y el de tu mascota.",
+    "pt_BR": "Aumenta em 20 o seu m\u00e1ximo de Concentra\u00e7\u00e3o m\u00e1xima e o m\u00e1ximo de Concentra\u00e7\u00e3o do seu ajudante.",
+    "de_DE": "Erh\u00f6ht Euren maximalen Fokus sowie den Eures Tiers um 20.",
+    "en_GB": "Increases your maximum Focus and your pet's maximum Focus by 20.",
+    "es_ES": "Aumenta 20 p. tu enfoque m\u00e1ximo y el de tu mascota.",
+    "fr_FR": "Augmente votre maximum de focalisation et celui de votre familier de 20.",
+    "it_IT": "Aumenta il focus massimo tuo e del tuo famiglio di 20.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u0438 \u0434\u043b\u044f \u0432\u0430\u0441 \u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430 \u043d\u0430 20 \u0435\u0434.",
+    "ko_KR": "\uc0ac\ub0e5\uafbc\uacfc \uc57c\uc218\uc758 \ucd5c\ub300 \uc9d1\uc911\uc774 \uac01\uac01 20\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u548c\u5bf5\u7269\u7684\u96c6\u4e2d\u503c\u4e0a\u9650\u63d0\u9ad820\u9ede\u3002",
+    "zh_CN": "\u4f60\u548c\u4f60\u7684\u5ba0\u7269\u7684\u96c6\u4e2d\u503c\u4e0a\u9650\u63d0\u9ad820\u70b9\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "603"
+  "SpellID": "603",
+  "name_blz": {
+    "en_US": "Doom",
+    "es_MX": "Fatalidad",
+    "pt_BR": "Ru\u00edna",
+    "de_DE": "Verdammnis",
+    "en_GB": "Doom",
+    "es_ES": "Fatalidad",
+    "fr_FR": "Destin funeste",
+    "it_IT": "Rovina",
+    "ru_RU": "\u0420\u043e\u043a",
+    "ko_KR": "\ud30c\uba78",
+    "zh_TW": "\u672b\u65e5",
+    "zh_CN": "\u672b\u65e5\u964d\u4e34"
+  },
+  "description_blz": {
+    "en_US": "Inflicts impending doom upon the target, dealing 5,777 Shadow damage immediately and 16,099 Shadow damage to enemies within 10 yards after 20 sec. Damage is reduced beyond 8 targets.\r\n\r\nConsuming a Demonic Core reduces the duration of Doom by 3 sec.",
+    "es_MX": "Inflige Fatalidad inminente al objetivo, lo lastima por 5,777 p. de da\u00f1o de las sombras inmediatamente e inflige 16,099 p. de da\u00f1o de las sombras a los enemigos en un radio de 10 m despu\u00e9s de 20 s. El da\u00f1o se reduce cuando se superan los 8 objetivos.\r\n\r\nConsumir un n\u00facleo demon\u00edaco reduce la duraci\u00f3n de la fatalidad\r\n3 s.",
+    "pt_BR": "Inflige Ru\u00edna Iminente ao alvo, causando 5.777 de dano de Sombra imediatamente e 16.099 de dano de Sombra aos inimigos em um raio de 10 m ap\u00f3s 20 s. O dano \u00e9 reduzido acima de 8 alvos.\r\n\r\nConsumir um N\u00facleo Demon\u00edaco reduz em 3 s a dura\u00e7\u00e3o de Ru\u00edna.",
+    "de_DE": "Belegt das Ziel mit drohender Verdammnis, was sofort 5.777 Schattenschaden verursacht und nach 20 Sek. Gegnern innerhalb von 10 Metern 16.099 Schattenschaden zuf\u00fcgt. F\u00fcgt Zielen \u00fcber 8 Ziele hinaus verringerten Schaden zu.\r\n\r\nDas verzehren eines 'D\u00e4monischen Kerns' verringert die Dauer von 'Verdammnis' um 3 Sek.",
+    "en_GB": "Inflicts impending doom upon the target, dealing 5,777 Shadow damage immediately and 16,099 Shadow damage to enemies within 10 yards after 20 sec. Damage is reduced beyond 8 targets.\r\n\r\nConsuming a Demonic Core reduces the duration of Doom by 3 sec.",
+    "es_ES": "Aterra al objetivo con fatalidad inminente, lo que inflige 5777 p. de da\u00f1o de las Sombras al instante y 16099 p. de da\u00f1o de las Sombras a los enemigos en un radio de 10 m tras 20 s. Inflige da\u00f1o reducido si afecta a m\u00e1s de 8 objetivos.\r\n\r\nAl consumir una acumulaci\u00f3n de N\u00facleo demon\u00edaco, se reduce 3 s la duraci\u00f3n de Fatalidad.",
+    "fr_FR": "Afflige la cible d\u2019une mal\u00e9diction imminente qui lui inflige 5777\u00a0points de d\u00e9g\u00e2ts d\u2019ombre imm\u00e9diatement et 16099 aux adversaires \u00e0 moins de 10\u00a0m au bout de 20 s. D\u00e9g\u00e2ts r\u00e9duits au-del\u00e0 de 8\u00a0cibles.\r\n\r\nLa consommation de C\u0153ur d\u00e9moniaque r\u00e9duit la dur\u00e9e de Destin funeste de 3\u00a0s.",
+    "it_IT": "Scatena la rovina sul bersaglio, infliggendo 5.777 danni da ombra istantaneamente e 16.099 danni da ombra aggiuntivi ai nemici entro 10 m dopo 20 s. Danni ridotti oltre 8 bersagli.\r\n\r\nConsumare un Nucleo Demoniaco riduce la durata di Rovina di 3 s.",
+    "ru_RU": "\u041f\u0440\u043e\u043a\u043b\u0438\u043d\u0430\u0435\u0442 \u0446\u0435\u043b\u044c, \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u043d\u0430\u043d\u043e\u0441\u044f \u0435\u0439 5777 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438. \u0427\u0435\u0440\u0435\u0437 20 \u0441\u0435\u043a. \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0432\u0437\u0440\u044b\u0432, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 16099 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 8-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d.\r\n\r\n\u041f\u0440\u0438 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u0438 \"\u0421\u0435\u0440\u0434\u0446\u0430 \u0434\u0435\u043c\u043e\u043d\u0430\" \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0420\u043e\u043a\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uc784\ubc15\ud55c \ud30c\uba78\uc744 \ub0b4\ub824 \uc989\uc2dc 5,777\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 20\ucd08 \ud6c4\uc5d0 10\ubbf8\ud130 \ub0b4\uc758 \uc801\uc5d0\uac8c 16,099\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. 8\uba85\uc744 \ucd08\uacfc\ud558\ub294 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc545\ub9c8\uc758 \ud575\uc744 \uc18c\ubaa8\ud558\uba74 \ud30c\uba78\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 3\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u76ee\u6a19\u65bd\u52a0\u672b\u65e5\u903c\u8fd1\uff0c\u7acb\u523b\u9020\u62105,777\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u572820\u79d2\u5f8c\uff0c\u5c0d10\u78bc\u5167\u7684\u6575\u4eba\u9020\u621016,099\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\u8d85\u904e8\u500b\u76ee\u6a19\u6642\uff0c\u50b7\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u6d88\u8017\u9b54\u80fd\u4e4b\u6838\u6703\u4f7f\u672b\u65e5\u7684\u6301\u7e8c\u6642\u9593\u7e2e\u77ed3\u79d2\u3002",
+    "zh_CN": "\u8ba9\u672b\u65e5\u964d\u4e34\u5728\u76ee\u6807\u8eab\u4e0a\uff0c\u7acb\u5373\u9020\u62105,777\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u572820\u79d2\u540e\u5bf910\u7801\u5185\u7684\u654c\u4eba\u9020\u621016,099\u70b9\u6697\u5f71\u4f24\u5bb3\u3002\u76ee\u6807\u8d85\u8fc78\u4e2a\u65f6\u4f24\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u6d88\u8017\u4e00\u4e2a\u6076\u9b54\u4e4b\u6838\u4f7f\u672b\u65e5\u964d\u4e34\u7684\u6301\u7eed\u65f6\u95f4\u7f29\u77ed3\u79d2\u3002"
+  }
 }
