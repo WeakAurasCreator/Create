@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "24746"
+  "SpellID": "24746",
+  "name_blz": {
+    "en_US": "Twilight Cultist Disguise",
+    "es_MX": "Disfraz de cultor Crepuscular",
+    "pt_BR": "Twilight Cultist Disguise",
+    "de_DE": "Verkleidung eines Schattenhammerkultisten",
+    "en_GB": "Twilight Cultist Disguise",
+    "es_ES": "Disfraz de cultor Crepuscular",
+    "fr_FR": "D\u00e9guisement en sectateur du Cr\u00e9puscule",
+    "it_IT": "Travestimento da Cultista del Crepuscolo",
+    "ru_RU": "\u041c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u043e\u0434 \u0441\u0443\u043c\u0435\u0440\u0435\u0447\u043d\u043e\u0433\u043e \u0441\u0435\u043a\u0442\u0430\u043d\u0442\u0430",
+    "ko_KR": "\ud669\ud63c\uc758 \ub9dd\uce58\ub2e8 \uc2e0\ub3c4 \ubcc0\uc7a5",
+    "zh_TW": "\u66ae\u5149\u6559\u5f92\u88dd\u675f",
+    "zh_CN": "\u66ae\u5149\u4fe1\u5f92\u88c5\u675f"
+  },
+  "description_blz": {
+    "en_US": "Bestows the wearer with the evil aura of a Twilight's Hammer cultist.",
+    "es_MX": "Le confiere al portador el aura malvada de un cultor Crepuscular.",
+    "pt_BR": "Confere ao usu\u00e1rio a aura mal\u00edgna de um sect\u00e1rio do Martelo do Crep\u00fasculo.",
+    "de_DE": "Umgibt den Tr\u00e4ger mit der b\u00f6sartigen Aura eines Schattenhammerkultisten.",
+    "en_GB": "Bestows the wearer with the evil aura of a Twilight's Hammer cultist.",
+    "es_ES": "Le confiere al portador el aura malvada de un cultor Crepuscular.",
+    "fr_FR": "Investit le porteur de l'aura mal\u00e9fique d'un sectateur du Marteau du cr\u00e9puscule.",
+    "it_IT": "Conferisce a chi lo indossa l'aura Malefica dei Cultisti del Martello del Crepuscolo.",
+    "ru_RU": "\u041e\u043a\u0443\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044f \u0437\u043b\u043e\u0439 \u0430\u0443\u0440\u043e\u0439 \u0441\u043b\u0443\u0436\u0438\u0442\u0435\u043b\u044f \u043a\u0443\u043b\u044c\u0442\u0430 \u0421\u0443\u043c\u0435\u0440\u0435\u0447\u043d\u043e\u0433\u043e \u041c\u043e\u043b\u043e\u0442\u0430.",
+    "ko_KR": "\ucc29\uc6a9\uc790\uc5d0\uac8c \ud669\ud63c\uc758 \ub9dd\uce58\ub2e8 \uc2e0\ub3c4\uc758 \uc545\uc758 \uae30\uc6b4\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u7a7f\u6234\u8005\u88dd\u626e\u6210\u4e00\u500b\u66ae\u5149\u4e4b\u9318\u7684\u6559\u5f92\u3002",
+    "zh_CN": "\u4f7f\u7a7f\u7740\u8005\u88c5\u626e\u6210\u4e00\u4e2a\u66ae\u5149\u4e4b\u9524\u7684\u4fe1\u5f92\u3002"
+  }
 }
