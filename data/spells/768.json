@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "768"
+  "SpellID": "768",
+  "name_blz": {
+    "en_US": "Cat Form",
+    "es_MX": "Forma felina",
+    "pt_BR": "Forma de Felino",
+    "de_DE": "Katzengestalt",
+    "en_GB": "Cat Form",
+    "es_ES": "Forma felina",
+    "fr_FR": "Forme de f\u00e9lin",
+    "it_IT": "Forma Felina",
+    "ru_RU": "\u041e\u0431\u043b\u0438\u043a \u043a\u043e\u0448\u043a\u0438",
+    "ko_KR": "\ud45c\ubc94 \ubcc0\uc2e0",
+    "zh_TW": "\u7375\u8c79\u5f62\u614b",
+    "zh_CN": "\u730e\u8c79\u5f62\u6001"
+  },
+  "description_blz": {
+    "en_US": "Shapeshift into Cat Form, increasing auto-attack damage by 40%, movement speed by 30%, granting protection from Polymorph effects, and reducing falling damage.\r\n\r\nThe act of shapeshifting frees you from movement impairing effects.",
+    "es_MX": "Cambia a Forma felina para aumentar el da\u00f1o de los ataques autom\u00e1ticos un 40% y la velocidad de movimiento un 30%, lo que otorga protecci\u00f3n contra efectos de polimorfia y reduce el da\u00f1o de ca\u00edda.\r\n\r\nEl cambio de forma te libera de los efectos que reducen el movimiento.",
+    "pt_BR": "Metamorfoseia-se para a Forma de Felino, o que aumenta em 40% o dano do ataque autom\u00e1tico, em 30% a velocidade de movimento, concede prote\u00e7\u00e3o contra efeitos de Polimorfia e reduz o dano de queda.\r\n\r\nO ato de se metamorfosear livra voc\u00ea de efeitos que prejudiquem o movimento.",
+    "de_DE": "Verwandelt Eure Gestalt in die einer Katze, erh\u00f6ht den Schaden automatischer Angriffe um 40% sowie die Bewegungsgeschwindigkeit um 30%, sch\u00fctzt Euch vor Verwandlungseffekten und verringert den erlittenen Fallschaden.\r\n\r\nDer Akt des Gestaltwandelns befreit Euch von bewegungseinschr\u00e4nkenden Effekten.",
+    "en_GB": "Shapeshift into Cat Form, increasing auto-attack damage by 40%, movement speed by 30%, granting protection from Polymorph effects, and reducing falling damage.\r\n\r\nThe act of shapeshifting frees you from movement impairing effects.",
+    "es_ES": "Cambias a la forma felina, que aumenta un 40% el da\u00f1o de los ataques autom\u00e1ticos y un 30% la velocidad de movimiento, otorga protecci\u00f3n frente a efectos de polimorfia y reduce el da\u00f1o de ca\u00edda.\r\n\r\nEl cambio de forma te libera de los efectos de reducci\u00f3n de movimiento.",
+    "fr_FR": "Vous adoptez votre forme de f\u00e9lin, ce qui augmente les d\u00e9g\u00e2ts des attaques automatiques de 40\u00a0% et la vitesse de d\u00e9placement de 30\u00a0%, vous prot\u00e8ge des effets de m\u00e9tamorphose et r\u00e9duit les d\u00e9g\u00e2ts de chute.\r\n\r\nLa transformation vous lib\u00e8re des effets qui affectent le d\u00e9placement.",
+    "it_IT": "Muta in Forma Felina, aumentando i danni inflitti dagli attacchi automatici del 40%, aumentando la velocit\u00e0 di movimento del 30%, rendendo immuni agli effetti di metamorfosi e riducendo i danni da caduta.\r\n\r\nMutare forma libera dagli effetti di limitazione al movimento.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u043e\u0431\u043b\u0438\u043a \u043a\u043e\u0448\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0430\u0432\u0442\u043e\u0430\u0442\u0430\u043a \u043d\u0430 40% \u0438 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 30%. \u0412 \u044d\u0442\u043e\u043c \u043e\u0431\u043b\u0438\u043a\u0435 \u0432\u044b \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043f\u0440\u0438 \u043f\u0430\u0434\u0435\u043d\u0438\u0438.\r\n\r\n\u0421\u043c\u0435\u043d\u0430 \u043e\u0431\u043b\u0438\u043a\u0430 \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u0435 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b.",
+    "ko_KR": "\ud45c\ubc94\uc73c\ub85c \ubcc0\uc2e0\ud569\ub2c8\ub2e4. \uc790\ub3d9 \uacf5\uaca9\uc758 \uacf5\uaca9\ub825\uc774 40%\ub9cc\ud07c, \uc774\ub3d9 \uc18d\ub3c4\uac00 30%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \ubcc0\uc774 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub418\uba70, \ub099\ud558 \ud53c\ud574\uac00 \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\ubcc0\uc2e0\uc744 \ud558\uba74 \uc774\ub3d9 \ubc29\ud574 \ud6a8\uacfc\uc5d0\uc11c \ubc97\uc5b4\ub0a9\ub2c8\ub2e4.",
+    "zh_TW": "\u8b8a\u8eab\u6210\u7375\u8c79\u5f62\u614b\uff0c\u81ea\u52d5\u653b\u64ca\u50b7\u5bb3\u63d0\u9ad840%\uff0c\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad830%\uff0c\u7372\u5f97\u514d\u75ab\u8b8a\u5f62\u8853\u7684\u80fd\u529b\uff0c\u4e14\u964d\u4f4e\u6389\u843d\u50b7\u5bb3\u3002\r\n\r\n\u8b8a\u8eab\u53ef\u89e3\u9664\u4f60\u8eab\u4e0a\u7684\u79fb\u52d5\u9650\u5236\u6548\u679c\u3002",
+    "zh_CN": "\u8fdb\u5165\u730e\u8c79\u5f62\u6001\uff0c\u81ea\u52a8\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad840%\uff0c\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad830%\uff0c\u5bf9\u53d8\u5f62\u6548\u679c\u514d\u75ab\uff0c\u5e76\u964d\u4f4e\u5760\u843d\u4f24\u5bb3\u3002\r\n\r\n\u53d8\u5f62\u53ef\u4ee5\u89e3\u9664\u4f60\u8eab\u4e0a\u7684\u79fb\u52a8\u9650\u5236\u6548\u679c\u3002"
+  }
 }
