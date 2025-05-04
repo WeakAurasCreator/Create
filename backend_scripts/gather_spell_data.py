@@ -48,7 +48,7 @@ async def get_blizzard_token(session):
                       giveup=lambda e: e.status not in (429, 500, 502, 503, 504))
 async def fetch_blizzard_spell(session, spell_id, token):
     url = API_SPELL_URL.format(spell_id=spell_id)
-    params = {"namespace": NAMESPACE, "locale": LOCALE}
+    params = {"namespace": NAMESPACE}
     headers = {"Authorization": f"Bearer {token}"}
     async with session.get(url, params=params, headers=headers) as resp:
         resp.raise_for_status()
