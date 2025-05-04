@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "167694"
+  "SpellID": "167694",
+  "name_blz": {
+    "en_US": "Item - Priest T17 Discipline 4P Bonus",
+    "es_MX": "Item - Priest T17 Discipline 4P Bonus",
+    "pt_BR": "Item - Sacerdote T17 Disciplina 4P Efeito",
+    "en_GB": "Item - Priest T17 Discipline 4P Bonus",
+    "es_ES": "Item - Priest T17 Discipline 4P Bonus (Penance)",
+    "it_IT": "Item - Priest T17 Discipline 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\uc81c T17 \uc218\uc591 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Priest T17 Discipline 4P Bonus",
+    "zh_CN": "Item - Priest T17 Discipline 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When you activate Rapture, the mana cost of Power Word: Shield is reduced by 35% for 6 sec.",
+    "es_MX": "Cuando activas Rapto, el costo de man\u00e1 de Palabra de poder: escudo se reduce un 35% durante 6 s.",
+    "pt_BR": "Ao ativar Enlevo, o custo de mana de Palavra de Poder: Escudo \u00e9 reduzido em 35% por 6 s.",
+    "de_DE": "Wenn Ihr 'Euphorie' aktiviert, werden die Manakosten von 'Machtwort: Schild' 6 Sek. lang um 35% verringert.",
+    "en_GB": "When you activate Rapture, the mana cost of Power Word: Shield is reduced by 35% for 6 sec.",
+    "es_ES": "Cuando activas \u00c9xtasis, el coste de man\u00e1 de Palabra de poder: escudo se reduce un 35% durante 6 s.",
+    "fr_FR": "Lorsque vous activez Extase, le co\u00fbt en mana de Mot de pouvoir\u00a0: Bouclier est r\u00e9duit de 35% pendant 6 s.",
+    "it_IT": "Estasi riduce il costo in mana di Parola del Potere: Scudo del 35% per 6 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0435 \"\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u0435\", \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 6 \u0441\u0435\u043a. \"\u0421\u043b\u043e\u0432\u043e \u0441\u0438\u043b\u044b: \u0429\u0438\u0442\" \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043d\u0430 35% \u043c\u0435\u043d\u044c\u0448\u0435 \u043c\u0430\u043d\u044b.",
+    "ko_KR": "\ud658\ud76c\uac00 \ud65c\uc131\ud654\ub418\uba74 6\ucd08 \ub3d9\uc548 \uc2e0\uc758 \uad8c\ub2a5: \ubcf4\ud638\ub9c9\uc5d0 \uc18c\ubaa8\ub418\ub294 \ub9c8\ub098\uac00 35%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u555f\u52d5\u72c2\u559c\u6642\uff0c\u771f\u8a00\u8853\uff1a\u76fe\u7684\u6cd5\u529b\u6d88\u8017\u964d\u4f4e35%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5f53\u4f60\u6fc0\u6d3b\u5168\u795e\u8d2f\u6ce8\u65f6\uff0c\u771f\u8a00\u672f\uff1a\u76fe\u7684\u6cd5\u529b\u6d88\u8017\u964d\u4f4e35%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

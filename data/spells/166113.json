@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "166113"
+  "SpellID": "166113",
+  "name_blz": {
+    "en_US": "Follower: Fiona",
+    "es_MX": "Seguidora: Fiona",
+    "pt_BR": "Seguidora: Fiona",
+    "de_DE": "Anh\u00e4ngerin: Fiona",
+    "en_GB": "Follower: Fiona",
+    "es_ES": "Seguidora: Fiona",
+    "fr_FR": "Sujet\u00a0: Fiona",
+    "it_IT": "Seguace: Fiona",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0424\u0438\u043e\u043d\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ud53c\uc624\ub098",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u83f2\u6b50\u5a1c",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u83f2\u5965\u62c9"
+  },
+  "description_blz": {
+    "en_US": "Fiona is a loyal companion who never loses her way.",
+    "es_MX": "Fiona es una compa\u00f1era leal que nunca pierde el norte.",
+    "pt_BR": "Fiona \u00e9 uma companheira leal e sempre sabe o que fazer.",
+    "de_DE": "Fiona ist eine treue Gef\u00e4hrtin, die nie vom Weg abkommt.",
+    "en_GB": "Fiona is a loyal companion who never loses her way.",
+    "es_ES": "Fiona es una compa\u00f1era fiel que nunca se pierde.",
+    "fr_FR": "Fiona est une compagne loyale qui ne s\u2019\u00e9gare jamais.",
+    "it_IT": "Fiona \u00e8 una compagna leale che non perde mai la strada.",
+    "ru_RU": "\u0424\u0438\u043e\u043d\u0430 \u2013 \u0432\u0435\u0440\u043d\u044b\u0439 \u0441\u043f\u0443\u0442\u043d\u0438\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u043f\u043e\u0442\u0435\u0440\u044f\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\ud53c\uc624\ub098\ub294 \uc808\ub300\ub85c \ubbff\uc74c\uc744 \uc838\ubc84\ub9ac\uc9c0 \uc54a\ub294 \ucda9\uc131\uc2a4\ub7ec\uc6b4 \ub3d9\ub8cc\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u83f2\u6b50\u5a1c\u662f\u5f9e\u672a\u8ff7\u5931\u7684\u5fe0\u8aa0\u5925\u4f34\u3002",
+    "zh_CN": "\u83f2\u5965\u62c9\u662f\u4e00\u4e2a\u5fe0\u5b9e\u7684\u4f19\u4f34\uff0c\u5979\u4ece\u6765\u6ca1\u8ff7\u5931\u8fc7\u65b9\u5411\u3002"
+  }
 }

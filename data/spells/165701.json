@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165701"
+  "SpellID": "165701",
+  "name_blz": {
+    "en_US": "Item - Druid WoD PvP Balance 2P Bonus",
+    "es_MX": "Item - Druid WoD PvP Balance 2P Bonus",
+    "pt_BR": "Item - Druida WoD JxJ Equil\u00edbrio 2P B\u00f4nus",
+    "en_GB": "Item - Druid WoD PvP Balance 2P Bonus",
+    "es_ES": "Item - Druid WoD PvP Balance 2P Bonus",
+    "it_IT": "Item - Druid WoD PvP Balance 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc WoD PvP \uc870\ud654 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid WoD PvP Balance 2P Bonus",
+    "zh_CN": "Item - Druid WoD PvP Balance 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage bonus from Lunar and Solar Empowerments by 4%.",
+    "es_MX": "Aumenta un 4% la bonificaci\u00f3n de da\u00f1o de la potenciaci\u00f3n lunar y solar.",
+    "pt_BR": "Aumenta em 4% o b\u00f4nus de dano de Potencializa\u00e7\u00e3o Solar e de Potencializa\u00e7\u00e3o Lunar.",
+    "de_DE": "Erh\u00f6ht den Schadensbonus durch 'Lunarerm\u00e4chtigung' und 'Solarerm\u00e4chtigung' um 4%.",
+    "en_GB": "Increases the damage bonus from Lunar and Solar Empowerments by 4%.",
+    "es_ES": "Aumenta un 4% el bonus de da\u00f1o de Potenciaci\u00f3n solar y lunar.",
+    "fr_FR": "Augmente le bonus aux d\u00e9g\u00e2ts de Renforcement solaire et Renforcement lunaire de 4%.",
+    "it_IT": "Aumenta i danni aggiuntivi forniti da Potenziamento Solare e Lunare del 4%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0431\u043e\u043d\u0443\u0441 \u043a \u0443\u0440\u043e\u043d\u0443 \u043e\u0442 \"\u041b\u0443\u043d\u043d\u043e\u0433\u043e \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0430\" \u0438 \"\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0430\" \u043d\u0430 4%.",
+    "ko_KR": "\ud0dc\uc591 \uac15\ud654 \ubc0f \ub2ec \uac15\ud654\ub85c \ud5a5\uc0c1\ub418\ub294 \uacf5\uaca9\ub825\uc774 4%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u6708\u4e4b\u6d3b\u5316\u548c\u65e5\u4e4b\u6d3b\u5316\u7684\u50b7\u5bb3\u52a0\u6210\u63d0\u9ad84%\u3002",
+    "zh_CN": "\u6708\u5149\u548c\u65e5\u5149\u589e\u6548\u7684\u4f24\u5bb3\u52a0\u6210\u63d0\u9ad84%\u3002"
+  }
 }
