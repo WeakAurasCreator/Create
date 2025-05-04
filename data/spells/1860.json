@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1860"
+  "SpellID": "1860",
+  "name_blz": {
+    "en_US": "Safe Fall",
+    "es_MX": "Ca\u00edda segura",
+    "pt_BR": "Queda Segura",
+    "de_DE": "Sicheres Fallen",
+    "en_GB": "Safe Fall",
+    "es_ES": "Ca\u00edda segura",
+    "fr_FR": "Chute amortie",
+    "it_IT": "Caduta Sicura",
+    "ru_RU": "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0435 \u043f\u0430\u0434\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub099\ubc95",
+    "zh_TW": "\u5b89\u5168\u964d\u843d",
+    "zh_CN": "\u5b89\u5168\u964d\u843d"
+  },
+  "description_blz": {
+    "en_US": "Reduces damage from falling.",
+    "es_MX": "Reduce el da\u00f1o de las ca\u00eddas.",
+    "pt_BR": "Reduz o dano de queda.",
+    "de_DE": "Verringert den Fallschaden.",
+    "en_GB": "Reduces damage from falling.",
+    "es_ES": "Reduce el da\u00f1o de las ca\u00eddas.",
+    "fr_FR": "R\u00e9duit les d\u00e9g\u00e2ts dus aux chutes.",
+    "it_IT": "Riduce i danni da caduta.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u043f\u0430\u0434\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\ub099\ud558 \ud53c\ud574\ub97c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u964d\u4f4e\u56e0\u589c\u843d\u800c\u53d7\u5230\u7684\u50b7\u5bb3\u3002",
+    "zh_CN": "\u51cf\u5c11\u4ece\u9ad8\u5904\u5760\u843d\u6240\u53d7\u7684\u4f24\u5bb3\u3002"
+  }
 }
