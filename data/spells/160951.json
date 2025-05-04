@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "160951"
+  "SpellID": "160951",
+  "name_blz": {
+    "en_US": "Follower: Olin Umberhide",
+    "es_MX": "Seguidor: Olin Pellejocre",
+    "pt_BR": "Seguidor: Olin Courumbra",
+    "de_DE": "Anh\u00e4nger: Olin Umberfell",
+    "en_GB": "Follower: Olin Umberhide",
+    "es_ES": "Seguidor: Olin Piel Parda",
+    "fr_FR": "Sujet\u00a0: Olin Peau-de-Sienne",
+    "it_IT": "Seguace: Olin Manto Ombroso",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041e\u0443\u043b\u0438\u043d \u0411\u0443\u0440\u043e\u0448\u043a\u0443\u0440",
+    "ko_KR": "\ucd94\uc885\uc790: \uc62c\ub9b0 \uc6c0\ubc84\ud558\uc774\ub4dc",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u6b50\u6797\u2027\u68d5\u76ae",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6b27\u6797\u00b7\u68d5\u76ae"
+  },
+  "description_blz": {
+    "en_US": "Olin Umberhide wields a rather large log. He is soft-spoken but will crack skulls if necessary.",
+    "es_MX": "Olin Pellejocre porta un gran tronco. Es de voz suave pero partir\u00e1 cr\u00e1neos de ser necesario.",
+    "pt_BR": "Olin Courumbra empunha um tronco bem grande. Ele tem fala mansa, mas quebra cabe\u00e7as se for necess\u00e1rio.",
+    "de_DE": "Olin Umberfell k\u00e4mpft mit einem ziemlich gro\u00dfen St\u00fcck Holz. Er ist eher zur\u00fcckhaltend, kann aber wenn n\u00f6tig so manchen Sch\u00e4del zertr\u00fcmmern.",
+    "en_GB": "Olin Umberhide wields a rather large log. He is soft-spoken but will crack skulls if necessary.",
+    "es_ES": "Olin Piel Parda blande un le\u00f1o bastante grande. Tiene una voz suave, pero te puede reventar el cr\u00e1neo.",
+    "fr_FR": "Olin Peau-de-Sienne porte un rondin de belle taille. Malgr\u00e9 sa voix douce, il sait briser des cr\u00e2nes quand cela est n\u00e9cessaire.",
+    "it_IT": "Olin Manto Ombroso impugna un ceppo piuttosto grosso. La sua voce \u00e8 carezzevole, ma potrebbe spaccare dei crani, se necessario.",
+    "ru_RU": "\u041e\u0443\u043b\u0438\u043d \u0411\u0443\u0440\u043e\u0448\u043a\u0443\u0440 \u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u0440\u0438 \u0441\u0435\u0431\u0435 \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0431\u0440\u0435\u0432\u043d\u043e. \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0441\u0432\u043e\u0438 \u0443\u0447\u0442\u0438\u0432\u044b\u0435 \u043c\u0430\u043d\u0435\u0440\u044b, \u043e\u043d, \u043d\u0435 \u0437\u0430\u0434\u0443\u043c\u044b\u0432\u0430\u044f\u0441\u044c, \u0440\u0430\u0441\u043a\u0440\u043e\u0438\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \u0447\u0435\u0440\u0435\u043f, \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\uc62c\ub9b0 \uc6c0\ubc84\ud558\uc774\ub4dc\ub294 \uc81c\ubc95 \ud070 \ud1b5\ub098\ubb34\ub97c \ud718\ub450\ub985\ub2c8\ub2e4. \uadf8\ub294 \uc0c1\ub0e5\ud558\uc9c0\ub9cc \ud544\uc694\ud558\ub2e4\uba74 \uba38\ub9ac\ub97c \ubc15\uc0b4 \ub0bc \uac83\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u6b50\u6797\u2027\u68d5\u76ae\u63ee\u821e\u4e00\u6839\u8d85\u5927\u7684\u539f\u6728\u3002\u4ed6\u7684\u8072\u97f3\u96d6\u7136\u6eab\u548c\uff0c\u4f46\u662f\u5fc5\u8981\u6642\u4e5f\u6703\u7838\u958b\u982d\u9aa8\u3002",
+    "zh_CN": "\u6b27\u6797\u00b7\u68d5\u76ae\u6325\u821e\u7740\u4e00\u6839\u7855\u5927\u7684\u6728\u5934\u3002\u522b\u770b\u4ed6\u5e73\u65f6\u6e29\u6587\u5c14\u96c5\uff0c\u4e00\u65e6\u53d1\u8d77\u813e\u6c14\u6765\u4e5f\u5f88\u4e0d\u597d\u60f9\u3002"
+  }
 }
