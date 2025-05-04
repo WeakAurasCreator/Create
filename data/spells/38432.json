@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "38432"
+  "SpellID": "38432",
+  "name_blz": {
+    "en_US": "Stormstrike AP Buff",
+    "es_MX": "Ventaja de PA Golpe de tormenta",
+    "pt_BR": "B\u00f4nus de Ataque da Tempestade AP",
+    "de_DE": "Sturmschlag",
+    "en_GB": "Stormstrike AP Buff",
+    "es_ES": "Ventaja de PA Golpe de tormenta",
+    "fr_FR": "Am\u00e9lioration de la puissance d'attaque de Frappe-temp\u00eate",
+    "it_IT": "Agilit\u00e0 Tempestosa",
+    "ru_RU": "\u0423\u0434\u0430\u0440 \u0431\u0443\u0440\u0438, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 AP",
+    "ko_KR": "\ud3ed\ud48d\uc758 \uc77c\uaca9 \uc5f0\ub9c8",
+    "zh_TW": "\u98a8\u66b4\u6253\u64ca\u653b\u64ca\u5f37\u5ea6\u589e\u76ca\u6548\u679c",
+    "zh_CN": "Stormstrike AP Buff"
+  },
+  "description_blz": {
+    "en_US": "Whenever you use Stormstrike, you gain 0 Agility for 12 sec.",
+    "es_MX": "Cuando uses Golpe de tormenta ganas 0 p. de agilidad durante 12 s.",
+    "pt_BR": "Sempre que voc\u00ea usar Ataque da Tempestade, sua Agilidade ser\u00e1 aumentada em 0 por 12 s.",
+    "de_DE": "Jedes Mal, wenn Ihr 'Sturmschlag' wirkt, wird Eure Beweglichkeit 12 Sek. lang um 0 erh\u00f6ht.",
+    "en_GB": "Whenever you use Stormstrike, you gain 0 Agility for 12 sec.",
+    "es_ES": "Cuando uses Golpe de tormenta ganas 0 p. de agilidad durante 12 s.",
+    "fr_FR": "Chaque fois que vous utilisez Frappe-temp\u00eate, vous recevez un bonus de 0 \u00e0 l'Agilit\u00e9 pendant 12 s.",
+    "it_IT": "Assalto della Tempesta aumenta l'Agilit\u00e0 di 0 per 12 s.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0423\u0434\u0430\u0440 \u0431\u0443\u0440\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u043b\u043e\u0432\u043a\u043e\u0441\u0442\u044c \u043d\u0430 0 \u043d\u0430 12 \u0441\u0435\u043a.",
+    "ko_KR": "\ud3ed\ud48d\uc758 \uc77c\uaca9 \uc0ac\uc6a9 \uc2dc 12\ucd08 \ub3d9\uc548 \ubbfc\ucca9\uc131\uc774 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u7576\u4f60\u4f7f\u7528\u98a8\u66b4\u6253\u64ca\u6642\uff0c\u5747\u53ef\u4f7f\u4f60\u7372\u5f970\u9ede\u654f\u6377\uff0c\u6301\u7e8c12\u79d2\u3002",
+    "zh_CN": "\u5f53\u4f60\u4f7f\u7528\u98ce\u66b4\u6253\u51fb\u6280\u80fd\u65f6\uff0c\u53ef\u4ee5\u83b7\u5f970\u70b9\u654f\u6377\uff0c\u6301\u7eed12\u79d2\u3002"
+  }
 }
