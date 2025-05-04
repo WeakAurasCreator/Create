@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "33702"
+  "SpellID": "33702",
+  "name_blz": {
+    "en_US": "Blood Fury",
+    "es_MX": "Furia sangrienta",
+    "pt_BR": "F\u00faria Sangrenta",
+    "de_DE": "Kochendes Blut",
+    "en_GB": "Blood Fury",
+    "es_ES": "Furia sangrienta",
+    "fr_FR": "Fureur sanguinaire",
+    "it_IT": "Furia Sanguinaria",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0435 \u043d\u0435\u0438\u0441\u0442\u043e\u0432\u0441\u0442\u0432\u043e",
+    "ko_KR": "\ud53c\uc758 \uaca9\ub178",
+    "zh_TW": "\u8840\u4e4b\u70c8\u6012",
+    "zh_CN": "\u8840\u6027\u72c2\u6012"
+  },
+  "description_blz": {
+    "en_US": "Increases your Intellect by 583 for 15 sec.",
+    "es_MX": "Aumenta tu intelecto en 583 p. durante 15 s.",
+    "pt_BR": "Aumenta em 583 seu Intelecto por 15 s.",
+    "de_DE": "Erh\u00f6ht Eure Intelligenz 15 Sek. lang um 583.",
+    "en_GB": "Increases your Intellect by 583 for 15 sec.",
+    "es_ES": "Aumenta tu intelecto 583 p. durante 15 s.",
+    "fr_FR": "Augmente l\u2019Intelligence de 583 pendant 15 s.",
+    "it_IT": "Aumenta l'Intelletto di 583 per 15 s.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442 \u043d\u0430 583 \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "15\ucd08 \ub3d9\uc548 \uc9c0\ub2a5\uc774 583\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u667a\u529b\u63d0\u9ad8583\u9ede\uff0c\u6301\u7e8c15\u79d2\u3002",
+    "zh_CN": "\u667a\u529b\u63d0\u9ad8583\u70b9\uff0c\u6301\u7eed15\u79d2\u3002"
+  }
 }
