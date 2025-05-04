@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1513"
+  "SpellID": "1513",
+  "name_blz": {
+    "en_US": "Scare Beast",
+    "es_MX": "Ahuyentar bestia",
+    "pt_BR": "Assustar Fera",
+    "de_DE": "Wildtier \u00e4ngstigen",
+    "en_GB": "Scare Beast",
+    "es_ES": "Asustar bestia",
+    "fr_FR": "Effrayer une b\u00eate",
+    "it_IT": "Terrore Animale",
+    "ru_RU": "\u041e\u0442\u043f\u0443\u0433\u0438\u0432\u0430\u043d\u0438\u0435",
+    "ko_KR": "\uc57c\uc218 \uac81\uc8fc\uae30",
+    "zh_TW": "\u6050\u5687\u91ce\u7378",
+    "zh_CN": "\u6050\u5413\u91ce\u517d"
+  },
+  "description_blz": {
+    "en_US": "Scares a beast, causing it to run in fear for up to 20 sec.  Damage caused may interrupt the effect.  Only one beast can be feared at a time.",
+    "es_MX": "Asusta a una bestia haciendo que huya durante un m\u00e1ximo de 20 s. El da\u00f1o infligido puede interrumpir el efecto. Solo se puede asustar a una bestia cada vez.",
+    "pt_BR": "Assusta uma fera, fazendo-a correr aterrorizada por at\u00e9 20 s. Qualquer dano causado ao alvo pode interromper o efeito. Apenas uma fera pode ser assustada por vez.",
+    "de_DE": "Jagt einem Wildtier Angst ein, woraufhin es bis zu 20 Sek. lang ver\u00e4ngstigt wegl\u00e4uft. Erlittener Schaden kann den Effekt unterbrechen. Es kann immer nur jeweils einem Wildtier Angst eingejagt werden.",
+    "en_GB": "Scares a beast, causing it to run in fear for up to 20 sec.  Damage caused may interrupt the effect.  Only one beast can be feared at a time.",
+    "es_ES": "Asusta a una bestia, lo que provoca que huya durante un m\u00e1ximo de 20 s. El da\u00f1o infligido puede interrumpir el efecto. Solo se puede asustar a una bestia cada vez.",
+    "fr_FR": "Effraie une b\u00eate et l'oblige \u00e0 fuir pendant 20 s. Si la cible subit des d\u00e9g\u00e2ts, l'effet peut \u00eatre interrompu. On ne peut effrayer qu'une seule b\u00eate \u00e0 la fois.",
+    "it_IT": "Spaventa una bestia, costringendola a fuggire per un massimo di 20 s. Eventuali danni inflitti al bersaglio potrebbero interrompere l'effetto. Pu\u00f2 essere spaventata solo una bestia alla volta.",
+    "ru_RU": "\u041e\u0442\u043f\u0443\u0433\u0438\u0432\u0430\u0435\u0442 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u0435\u0433\u043e \u0443\u0431\u0435\u0436\u0430\u0442\u044c \u043d\u0430 20 \u0441\u0435\u043a. \u041d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u043c\u0443 \u0443\u0440\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0435\u0440\u0432\u0430\u0442\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f. \u0417\u0430 \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u043c\u043e\u0436\u043d\u043e \u043e\u0442\u043f\u0443\u0433\u043d\u0443\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u043d\u043e \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435.",
+    "ko_KR": "\uc57c\uc218\ub97c \uac81\uc918\uc11c \ucd5c\ub300 20\ucd08 \ub3d9\uc548 \ub2ec\uc544\ub098\ub3c4\ub85d \ub9cc\ub4ed\ub2c8\ub2e4. \uc57c\uc218\uac00 \ud53c\ud574\ub97c \uc785\uc73c\uba74 \ud6a8\uacfc\uac00 \ud574\uc81c\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ud55c \ubc88\uc5d0 \ud55c \uc57c\uc218\uc5d0\uac8c\ub9cc \uacf5\ud3ec\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6050\u5687\u4e00\u982d\u91ce\u7378\uff0c\u4f7f\u5176\u56e0\u6050\u614c\u800c\u9003\u8dd1\uff0c\u6700\u591a\u6301\u7e8c20\u79d2\u3002\u4efb\u4f55\u50b7\u5bb3\u90fd\u6709\u53ef\u80fd\u6253\u65b7\u9019\u500b\u6548\u679c\u3002\u6bcf\u500b\u7375\u4eba\u5728\u540c\u4e00\u6642\u9593\u5167\u53ea\u80fd\u6050\u5687\u4e00\u982d\u91ce\u7378\u3002",
+    "zh_CN": "\u6050\u5413\u4e00\u5934\u91ce\u517d\uff0c\u4f7f\u5176\u56e0\u6050\u614c\u800c\u9003\u8dd1\uff0c\u6700\u591a\u6301\u7eed20\u79d2\u3002\u4efb\u4f55\u4f24\u5bb3\u90fd\u6709\u53ef\u80fd\u6253\u65ad\u8fd9\u4e2a\u6548\u679c\u3002\u6bcf\u4e2a\u730e\u4eba\u5728\u540c\u4e00\u65f6\u95f4\u5185\u53ea\u80fd\u6050\u5413\u4e00\u5934\u91ce\u517d\u3002"
+  }
 }
