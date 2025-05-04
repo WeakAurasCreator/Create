@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "38435"
+  "SpellID": "38435",
+  "name_blz": {
+    "en_US": "Improved Chain Heal",
+    "es_MX": "Sanaci\u00f3n en cadena mejorada",
+    "pt_BR": "Cura Encadeada Aprimorada",
+    "de_DE": "Verbesserte Kettenheilung",
+    "en_GB": "Improved Chain Heal",
+    "es_ES": "Sanaci\u00f3n en cadena mejorada",
+    "fr_FR": "Salve de gu\u00e9rison am\u00e9lior\u00e9e",
+    "it_IT": "Catena di Guarigione Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u0435 \u0446\u0435\u043f\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc5f0\uc1c4 \uce58\uc720 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u6cbb\u7642\u934a",
+    "zh_CN": "\u5f3a\u5316\u6cbb\u7597\u94fe"
+  },
+  "description_blz": {
+    "en_US": "Increases the amount healed by your Chain Heal ability by 5%.",
+    "es_MX": "Aumenta la cantidad que sana tu Sanaci\u00f3n en cadena un 5%.",
+    "pt_BR": "Aumenta em 5% o valor curado pela sua habilidade Cura Encadeada.",
+    "de_DE": "Erh\u00f6ht den durch Euren Zauber 'Kettenheilung' geheilten Wert um 5%.",
+    "en_GB": "Increases the amount healed by your Chain Heal ability by 5%.",
+    "es_ES": "Aumenta la cantidad que sana tu Sanaci\u00f3n en cadena un 5%.",
+    "fr_FR": "Augmente le montant de points de vie rendus par votre technique Salve de gu\u00e9rison de 5%.",
+    "it_IT": "Aumenta le cure fornite da Catena di Guarigione del 5%.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u0426\u0435\u043f\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u043d\u0430 5%.",
+    "ko_KR": "\uc5f0\uc1c4 \uce58\uc720 \uc8fc\ubb38\uc758 \uce58\uc720\ub7c9\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u6cbb\u7642\u934a\u6240\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u6cbb\u7597\u94fe\u6240\u6062\u590d\u7684\u751f\u547d\u503c\u63d0\u9ad85%\u3002"
+  }
 }
