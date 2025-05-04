@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "144864"
+  "SpellID": "144864",
+  "name_blz": {
+    "en_US": "Item - Druid T16 Feral 2P Bonus",
+    "es_MX": "Item - Druid T16 Feral 2P Bonus",
+    "pt_BR": "Item - Druid T16 Feral 2P Bonus",
+    "en_GB": "Item - Druid T16 Feral 2P Bonus",
+    "es_ES": "Item - Druid T16 Feral 2P Bonus",
+    "it_IT": "Item - Druid T16 Feral 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T16 \uc57c\uc131 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T16 Feral 2P Bonus",
+    "zh_CN": "Item - Druid T16 Feral 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Omen of Clarity increases damage of Shred, Mangle, Swipe, and Ravage by 50% for 6 sec.",
+    "es_MX": "Augurio de claridad aumenta el da\u00f1o de Triturar, Destrozar, Flagelo y Devastar un 50% durante 6 s.",
+    "pt_BR": "Press\u00e1gio de Clareza aumenta em 50% o dano de Despeda\u00e7ar, Destro\u00e7ar, Patada e Assolar por 6 s.",
+    "de_DE": "Der Effekt 'Omen der Klarsicht' erh\u00f6ht den verursachten Schaden von 'Schreddern', 'Zerfleischen', 'Prankenhieb' und 'Verheeren' 6 Sek. lang um 50%.",
+    "en_GB": "Omen of Clarity increases damage of Shred, Mangle, Swipe, and Ravage by 50% for 6 sec.",
+    "es_ES": "Augurio de claridad aumenta el da\u00f1o de Triturar, Destrozar, Flagelo y Devastar un 50% durante 6 s.",
+    "fr_FR": "Augure de clart\u00e9 augmente les d\u00e9g\u00e2ts de Lambeau, Mutilation, Balayage et Ravage de 50% pendant 6 s.",
+    "it_IT": "Presagio di Lucidit\u00e0 aumenta i danni inflitti da Artigliata, Dilaniamento, Devastazione e Spazzata del 50% per 6 s.",
+    "ru_RU": "\"\u0417\u043d\u0430\u043c\u0435\u043d\u0438\u0435 \u044f\u0441\u043d\u043e\u0441\u0442\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \"\u041f\u043e\u043b\u043e\u0441\u043d\u0443\u0442\u044c\", \"\u0423\u0432\u0435\u0447\u044c\u0435\", \"\u0420\u0430\u0437\u043c\u0430\u0445\"\u0438 \"\u041d\u0430\u043a\u0438\u043d\u0443\u0442\u044c\u0441\u044f\" \u043d\u0430 50% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uccad\uba85\uc758 \uc804\uc870\uac00 6\ucd08 \ub3d9\uc548 \uce7c\ub0a0 \ubc1c\ud1b1, \uc9d3\uc774\uae30\uae30, \ud718\ub458\ub7ec\uce58\uae30, \ucc22\uc5b4\ubc1c\uae30\uae30\uc758 \uacf5\uaca9\ub825\uc744 50%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6e05\u6670\u9810\u5146\u4f7f\u6495\u788e\u3001\u5272\u788e\u3001\u63ee\u64ca\u548c\u52ab\u63a0\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad850%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u6e05\u6670\u9884\u5146\u4f1a\u4f7f\u6495\u788e\u3001\u88c2\u4f24\u3001\u6a2a\u626b\u548c\u6bc1\u706d\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad850%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

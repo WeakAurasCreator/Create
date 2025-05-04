@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "144637"
+  "SpellID": "144637",
+  "name_blz": {
+    "en_US": "Item - Hunter T16 2P Bonus",
+    "es_MX": "Item - Hunter T16 2P Bonus",
+    "pt_BR": "Item - Hunter T16 2P Bonus",
+    "en_GB": "Item - Hunter T16 2P Bonus",
+    "es_ES": "Item - Hunter T16 2P Bonus",
+    "it_IT": "Item - Hunter T16 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\ub0e5\uafbc T16 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Hunter T16 2P Bonus",
+    "zh_CN": "Item - Hunter T16 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage of Arcane Shot, Aimed Shot, and Multi-Shot by 15%.",
+    "es_MX": "Aumenta un 15% el da\u00f1o de Disparo Arcano, Disparo de punter\u00eda y Multidisparo.",
+    "pt_BR": "Aumenta em 15% o dano de Tiro Arcano, Tiro Certo e Tiro M\u00faltiplo.",
+    "de_DE": "Erh\u00f6ht den von 'Arkaner Schuss', 'Gezielter Schuss' und 'Mehrfachschuss' verursachten Schaden um 15%.",
+    "en_GB": "Increases the damage of Arcane Shot, Aimed Shot, and Multi-Shot by 15%.",
+    "es_ES": "Aumenta el da\u00f1o de Disparo Arcano, Disparo de punter\u00eda y Multidisparo un 15%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts inflig\u00e9s par Tir des Arcanes, Vis\u00e9e et Fl\u00e8ches multiples de 15%.",
+    "it_IT": "Aumenta i danni inflitti da Tiro Arcano, Tiro Mirato e Tiro Multiplo del 15%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\", \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0438 \"\u0417\u0430\u043b\u043f\u0430\" \u043d\u0430 15%.",
+    "ko_KR": "\uc2e0\ube44\ud55c \uc0ac\uaca9, \uc870\uc900 \uc0ac\uaca9 \ubc0f \uc77c\uc81c \uc0ac\uaca9\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u79d8\u6cd5\u5c04\u64ca\u3001\u7784\u6e96\u5c04\u64ca\u548c\u591a\u91cd\u5c04\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u5965\u672f\u5c04\u51fb\u3001\u7784\u51c6\u5c04\u51fb\u548c\u591a\u91cd\u5c04\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "145257"
+  "SpellID": "145257",
+  "name_blz": {
+    "en_US": "Item - Mage T16 4P Bonus",
+    "es_MX": "Item - Mage T16 4P Bonus",
+    "pt_BR": "Item - Mage T16 4P Bonus",
+    "en_GB": "Item - Mage T16 4P Bonus",
+    "es_ES": "Item - Mage T16 4P Bonus",
+    "it_IT": "Item - Mage T16 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub9c8\ubc95\uc0ac T16 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Mage T16 4P Bonus",
+    "zh_CN": "Item - Mage T16 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Arcane Missiles has a 15% chance to not consume Arcane Missiles!.  Consuming Brain Freeze has a 30% chance to drop an icy boulder on your target. Inferno Blast also causes your next Pyroblast to be a critical strike.",
+    "es_MX": "Misiles Arcanos tiene un 15% de probabilidad de no consumir misiles Arcanos. Consumir Congelaci\u00f3n cerebral tiene un 30% de probabilidad de soltar un bloque de hielo sobre tu objetivo. Explosi\u00f3n infernal tambi\u00e9n provoca que tu siguiente Piroexplosi\u00f3n sea un golpe cr\u00edtico.",
+    "pt_BR": "M\u00edsseis Arcanos t\u00eam 15% de chance de n\u00e3o consumir M\u00edsseis Arcanos!. Consumir Congelamento Cerebral tem 30% de chance de lan\u00e7ar um massa de gelo contra o alvo. Impacto Infernal tamb\u00e9m faz com que seu pr\u00f3ximo Ignimpacto seja um acerto cr\u00edtico.",
+    "de_DE": "Euer Zauber 'Arkane Geschosse' hat eine Chance von 15%, 'Arkane Geschosse!' nicht aufzuzehren. Das Aufzehren von 'Hirnfrost' hat eine Chance von 30%, einen eisigen Felsen auf Euer Ziel st\u00fcrzen zu lassen. 'Infernoschlag' l\u00e4sst Euer n\u00e4chstes Wirken von 'Pyroschlag' kritisch treffen.",
+    "en_GB": "Arcane Missiles has a 15% chance to not consume Arcane Missiles!.  Consuming Brain Freeze has a 30% chance to drop an icy boulder on your target. Inferno Blast also causes your next Pyroblast to be a critical strike.",
+    "es_ES": "Misiles Arcanos tiene un 15% de probabilidad de no consumir misiles Arcanos. Consumir Congelaci\u00f3n cerebral tiene un 30% de probabilidad de soltar un bloque de hielo sobre tu objetivo. Explosi\u00f3n infernal tambi\u00e9n provoca que tu siguiente Piroexplosi\u00f3n sea un golpe cr\u00edtico.",
+    "fr_FR": "Projectiles des Arcanes a 15% de chances de ne pas consommer Projectiles des Arcanes\u00a0!. Le fait de consommer Gel mental conf\u00e8re 30% de chances de faire tomber un rocher glacial sur votre cible. D\u00e9flagration infernale permet aussi \u00e0 votre prochaine Explosion pyrotechnique d'\u00eatre un coup critique.",
+    "it_IT": "I Missili Arcani hanno una probabilit\u00e0 del 15% di non consumare Missili Arcani. L'utilizzo dell'effetto Mente Fredda ha una probabilit\u00e0 del 30% di far cadere un Macigno Gelido sul bersaglio. Detonazione Infernale garantisce che la successiva Pirosfera sia un colpo critico.",
+    "ru_RU": "\"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0435 \u0441\u0442\u0440\u0435\u043b\u044b\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 15% \u043d\u0435 \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0442 \"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0435 \u0441\u0442\u0440\u0435\u043b\u044b!\". \u041f\u0440\u0438 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u0417\u0430\u043c\u043e\u0440\u043e\u0437\u043a\u0430 \u043c\u043e\u0437\u0433\u043e\u0432\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 30% \u043d\u0430 \u0446\u0435\u043b\u044c \u043f\u0430\u0434\u0430\u0435\u0442 \u043b\u0435\u0434\u044f\u043d\u0430\u044f \u0433\u043b\u044b\u0431\u0430. \u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u043f\u043e\u0441\u043b\u0435 \"\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0437\u0440\u044b\u0432\u0430\" \"\u041e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0433\u043b\u044b\u0431\u0430\" \u043d\u0430\u043d\u0435\u0441\u0435\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d.",
+    "ko_KR": "\uc2e0\ube44\ud55c \ud654\uc0b4\uc774 15%\uc758 \ud655\ub960\ub85c \uc2e0\ube44\ud55c \ud654\uc0b4! \ud6a8\uacfc\ub97c \uc18c\ubaa8\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub450\ub1cc \ube59\uacb0\uc744 \uc18c\ubaa8\ud558\uba74 30%\uc758 \ud655\ub960\ub85c \ub300\uc0c1\uc5d0 \uc5bc\uc74c \ubc14\uc704\ub97c \ub5a8\uc5b4\ub728\ub9bd\ub2c8\ub2e4. \uc9c0\uc625\ubd88 \uc791\ub82c \uc2dc\uc804 \uc2dc \ub2e4\uc74c \ubd88\ub369\uc774 \uc791\ub82c\uc774 \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u79d8\u6cd5\u98db\u5f48\u670915%\u7684\u6a5f\u7387\u4e0d\u6703\u6d88\u8017\u300c\u79d8\u6cd5\u98db\u5f48!\u300d\u3002\u6d88\u8017\u300c\u8166\u90e8\u51cd\u7d50\u300d\u6642\u670930%\u7684\u6a5f\u7387\u5c0d\u4f60\u7684\u76ee\u6a19\u6295\u64f2\u5bd2\u51b0\u5de8\u792b\u3002\u7149\u7344\u885d\u64ca\u540c\u6642\u53ef\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u708e\u7206\u8853\u5fc5\u5b9a\u9020\u6210\u81f4\u547d\u4e00\u64ca\u3002",
+    "zh_CN": "\u5965\u672f\u98de\u5f39\u670915%\u7684\u51e0\u7387\u4e0d\u4f1a\u6d88\u8017\u201c\u5965\u672f\u98de\u5f39\uff01\u201d\u3002\u6d88\u8017\u51b0\u51b7\u667a\u6167\u670930%\u7684\u51e0\u7387\u5411\u4f60\u7684\u76ee\u6807\u4e22\u4e0b\u4e00\u5757\u51b0\u51bb\u5de8\u77f3\u3002\u70bc\u72f1\u51b2\u51fb\u540c\u65f6\u8fd8\u4f1a\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u708e\u7206\u672f\u5fc5\u5b9a\u4ea7\u751f\u7206\u51fb\u3002"
+  }
 }
