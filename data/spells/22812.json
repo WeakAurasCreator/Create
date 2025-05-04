@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "22812"
+  "SpellID": "22812",
+  "name_blz": {
+    "en_US": "Barkskin",
+    "es_MX": "Piel de corteza",
+    "pt_BR": "Pele de \u00c1rvore",
+    "de_DE": "Baumrinde",
+    "en_GB": "Barkskin",
+    "es_ES": "Piel de corteza",
+    "fr_FR": "Ecorce",
+    "it_IT": "Pelledura",
+    "ru_RU": "\u0414\u0443\u0431\u043e\u0432\u0430\u044f \u043a\u043e\u0436\u0430",
+    "ko_KR": "\ub098\ubb34 \uaecd\uc9c8",
+    "zh_TW": "\u6a39\u76ae\u8853",
+    "zh_CN": "\u6811\u76ae\u672f"
+  },
+  "description_blz": {
+    "en_US": "Your skin becomes as tough as bark, reducing all damage you take by 20% and preventing damage from delaying your spellcasts. Lasts 8 sec.\r\n\r\nUsable while stunned, frozen, incapacitated, feared, or asleep, and in all shapeshift forms.",
+    "es_MX": "Tu piel se endurece como la corteza de un \u00e1rbol, lo que reduce un 20% todo el da\u00f1o recibido  y evita que el da\u00f1o retrase tus lanzamientos de hechizos. Dura 8 s.\r\n\r\nSe puede usar mientras se est\u00e1 aturdido, congelado, incapacitado, asustado o dormido, y en todos los cambios de forma.",
+    "pt_BR": "Sua pele fica t\u00e3o dura quanto a casca de uma \u00e1rvore, reduzindo em 20% todo o dano recebido e impedindo que dano atrase o lan\u00e7amento de seus feiti\u00e7os. Dura 8 s.\r\n\r\nPode ser usado quando atordoado, congelado, incapacitado, amedrontado, dormindo e em todas as formas de metamorfose.",
+    "de_DE": "Eure Haut wird hart wie Rinde, verringert Euren gesamten erlittenen Schaden um 20% und verhindert, dass eintreffende Angriffe Eure Zauberzeit erh\u00f6hen. H\u00e4lt 8 Sek. lang an.\r\n\r\nKann eingesetzt werden, w\u00e4hrend Ihr bet\u00e4ubt, eingefroren, handlungsunf\u00e4hig gemacht sowie in Schlaf oder in Furcht versetzt wurdet. In allen Gestalten einsetzbar.",
+    "en_GB": "Your skin becomes as tough as bark, reducing all damage you take by 20% and preventing damage from delaying your spellcasts. Lasts 8 sec.\r\n\r\nUsable while stunned, frozen, incapacitated, feared, or asleep, and in all shapeshift forms.",
+    "es_ES": "Tu piel se endurece como la corteza de un \u00e1rbol, lo que reduce un 20% todo el da\u00f1o recibido e impide que el da\u00f1o retrase tus lanzamientos de hechizos. Dura 8 s.\r\n\r\nSe puede usar mientras se est\u00e1 aturdido, congelado, incapacitado, asustado o dormido, y en todas las formas.",
+    "fr_FR": "Votre peau devient aussi dure que de l\u2019\u00e9corce, ce qui r\u00e9duit les d\u00e9g\u00e2ts subis de 20\u00a0% et emp\u00eache les d\u00e9g\u00e2ts de provoquer un d\u00e9lai dans l\u2019incantation de vos sorts. Dure 8 s.\r\n\r\nUtilisable quand vous \u00eates \u00e9tourdi, gel\u00e9, stup\u00e9fi\u00e9, apeur\u00e9 ou endormi, et sous n\u2019importe quelle forme de druide.",
+    "it_IT": "La pelle diventa dura come la corteccia, riducendo tutti i danni subiti del 20% e impedendo che i danni subiti ritardino il lancio d'incantesimi. Dura 8 s.\r\n\r\nLanciabile sotto effetti di stordimento, congelamento, inabilitazione, paura o sonno. Utilizzabile in tutte le forme.",
+    "ru_RU": "\u0412\u0430\u0448\u0430 \u043a\u043e\u0436\u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043f\u0440\u043e\u0447\u043d\u043e\u0439, \u043a\u0430\u043a \u043a\u043e\u0440\u0430, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 20% \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044f \u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0443 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043f\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0438 \u0443\u0440\u043e\u043d\u0430. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 8 \u0441\u0435\u043a.\r\n\r\n\u041c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u0438\u044f, \u0437\u0430\u043c\u043e\u0440\u043e\u0437\u043a\u0438, \u043f\u0430\u0440\u0430\u043b\u0438\u0447\u0430, \u0441\u0442\u0440\u0430\u0445\u0430 \u0438 \u0441\u043d\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e \u0432\u0441\u0435\u0445 \u043e\u0431\u043b\u0438\u043a\u0430\u0445.",
+    "ko_KR": "\ud53c\ubd80\uac00 \ub098\ubb34 \uaecd\uc9c8\ucc98\ub7fc \ub2e8\ub2e8\ud574\uc9d1\ub2c8\ub2e4. \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\uac00 20%\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \ud53c\ud574\ub97c \ubc1b\uc544\ub3c4 \uc8fc\ubb38 \uc2dc\uc804\uc774 \uc9c0\uc5f0\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. 8\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.\r\n\r\n\uae30\uc808, \uc5bc\uc5b4\ubd99\uc74c, \ud589\ub3d9 \ubd88\uac00, \uacf5\ud3ec, \uc218\uba74 \uc0c1\ud0dc \ubc0f \ubaa8\ub4e0 \ubcc0\uc2e0 \uc0c1\ud0dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u76ae\u819a\u8b8a\u5f97\u50cf\u6a39\u76ae\u4e00\u6a23\u5805\u786c\uff0c\u4f7f\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u964d\u4f4e20%\uff0c\u4e14\u4f5c\u7528\u671f\u9593\u5373\u4f7f\u53d7\u5230\u50b7\u5bb3\uff0c\u4e5f\u4e0d\u6703\u4ee4\u65bd\u6cd5\u6642\u9593\u5ef6\u9577\uff0c\u6301\u7e8c8\u79d2\u3002\r\n\r\n\u53ef\u4ee5\u5728\u660f\u8ff7\u3001\u51b0\u51cd\u3001\u7671\u7613\u3001\u6050\u61fc\u6216\u6c89\u7761\u72c0\u614b\u4e0b\u4f7f\u7528\uff0c\u4e5f\u53ef\u4ee5\u5728\u5404\u7a2e\u8b8a\u8eab\u5f62\u614b\u4f7f\u7528\u3002",
+    "zh_CN": "\u4f60\u7684\u76ae\u80a4\u53d8\u5f97\u5982\u6811\u76ae\u822c\u575a\u786c\uff0c\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e20%\uff0c\u53d7\u5230\u4f24\u5bb3\u4e5f\u4e0d\u4f1a\u5ef6\u8fdf\u65bd\u6cd5\u3002\u6301\u7eed8\u79d2\u3002\r\n\r\n\u8fd9\u4e2a\u6cd5\u672f\u53ef\u4ee5\u5728\u660f\u8ff7\u3001\u51b0\u51bb\u3001\u762b\u75ea\u3001\u6050\u60e7\u6216\u6c89\u7761\u65f6\u4f7f\u7528\u3002\u53ef\u5728\u6240\u6709\u5f62\u6001\u4e0b\u4f7f\u7528\u3002"
+  }
 }
