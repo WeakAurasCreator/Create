@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "3561"
+  "SpellID": "3561",
+  "name_blz": {
+    "en_US": "Teleport: Stormwind",
+    "es_MX": "Teletransporte a: Ventormenta",
+    "pt_BR": "Teleporte: Ventobravo",
+    "de_DE": "Teleport: Sturmwind",
+    "en_GB": "Teleport: Stormwind",
+    "es_ES": "Teletransporte a: Ventormenta",
+    "fr_FR": "T\u00e9l\u00e9portation\u00a0: Hurlevent",
+    "it_IT": "Teletrasporto: Roccavento",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u0428\u0442\u043e\u0440\u043c\u0433\u0440\u0430\u0434",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9: \uc2a4\ud1b0\uc708\ub4dc",
+    "zh_TW": "\u50b3\u9001\uff1a\u66b4\u98a8\u57ce",
+    "zh_CN": "\u4f20\u9001\uff1a\u66b4\u98ce\u57ce"
+  },
+  "description_blz": {
+    "en_US": "Teleports you to Stormwind.",
+    "es_MX": "Te teletransporta a Ventormenta.",
+    "pt_BR": "Teleporta voc\u00ea para Ventobravo.",
+    "de_DE": "Teleportiert Euch nach Sturmwind.",
+    "en_GB": "Teleports you to Stormwind.",
+    "es_ES": "Te teletransporta a Ventormenta.",
+    "fr_FR": "Vous t\u00e9l\u00e9porte \u00e0 Hurlevent.",
+    "it_IT": "Ti teletrasporta a Roccavento.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u0441 \u0432 \u0428\u0442\u043e\u0440\u043c\u0433\u0440\u0430\u0434.",
+    "ko_KR": "\uc2a4\ud1b0\uc708\ub4dc\ub85c \uc21c\uac04\uc774\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u50b3\u9001\u81f3\u66b4\u98a8\u57ce\u3002",
+    "zh_CN": "\u5c06\u4f60\u4f20\u9001\u5230\u66b4\u98ce\u57ce\u3002"
+  }
 }
