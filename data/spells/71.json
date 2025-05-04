@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "71"
+  "SpellID": "71",
+  "name_blz": {
+    "en_US": "Vanguard",
+    "es_MX": "Vanguardia",
+    "pt_BR": "Vanguarda",
+    "de_DE": "Frontk\u00e4mpfer",
+    "en_GB": "Vanguard",
+    "es_ES": "Vanguardia",
+    "fr_FR": "Avant-garde",
+    "it_IT": "Avanguardia",
+    "ru_RU": "\u0410\u0432\u0430\u043d\u0433\u0430\u0440\u0434",
+    "ko_KR": "\uc120\ubd09\ub300",
+    "zh_TW": "\u5b88\u79a6\u5148\u92d2",
+    "zh_CN": "\u5148\u950b"
+  },
+  "description_blz": {
+    "en_US": "Hardened by battle, your Stamina is increased by 40% and your Armor is increased by 70% of your Strength.",
+    "es_MX": "La batalla te ha fortalecido. Tu aguante aumenta un 40%, y tu armadura aumenta un 70% de tu fuerza.",
+    "pt_BR": "Calejado em batalhas, seu Vigor \u00e9 aumentado em 40%, e sua Armadura \u00e9 aumentada em 70% da sua For\u00e7a.",
+    "de_DE": "Ihr seid vom Kampf gest\u00e4hlt, was Eure Ausdauer um 40% erh\u00f6ht und Eure R\u00fcstung um 70% Eurer St\u00e4rke erh\u00f6ht.",
+    "en_GB": "Hardened by battle, your Stamina is increased by 40% and your Armor is increased by 70% of your Strength.",
+    "es_ES": "Al estar curtido por la batalla, tu aguante aumenta un 40% y tu armadura aumenta un 70% de tu fuerza.",
+    "fr_FR": "Vous \u00eates endurci par la bataille. Votre Endurance est augment\u00e9e de 40% et votre Armure de 70% de la Force.",
+    "it_IT": "La fatica della battaglia aumenta la Tempra del 40% e l'armatura del 70% della tua Forza.",
+    "ru_RU": "\u041e\u043f\u044b\u0442 \u043c\u043d\u043e\u0433\u043e\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0445 \u0431\u043e\u0435\u0432 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c \u043d\u0430 40% \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0431\u0440\u043e\u043d\u044e \u043d\u0430 70% \u043e\u0442 \u0441\u0438\u043b\u044b.",
+    "ko_KR": "\uc804\ud22c\ub85c \ub2e8\ub828\ub418\uc5b4 \uccb4\ub825\uc774 40%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ubc29\uc5b4\ub3c4\uac00 \ud798\uc758 70%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6230\u9b25\u7684\u6dec\u934a\u4f7f\u4f60\u7684\u8010\u529b\u63d0\u9ad840%\uff0c\u4e26\u4e14\u4f7f\u8b77\u7532\u503c\u63d0\u9ad8\u76f8\u7576\u65bc\u529b\u91cf\u768470%\u3002",
+    "zh_CN": "\u4e45\u7ecf\u6218\u6597\uff0c\u8010\u529b\u63d0\u9ad840%\uff0c\u5e76\u83b7\u5f97\u76f8\u5f53\u4e8e\u4f60\u7684\u529b\u91cf\u768470%\u7684\u62a4\u7532\u503c\u3002"
+  }
 }
