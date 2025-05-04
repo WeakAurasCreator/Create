@@ -47,7 +47,9 @@
 </head>
 
 <body class="is-preload" data-bs-theme="dark">
-
+	<div id="popupMessage" class="popup">
+		Content copied to clipboard!
+	</div>
 	<!-- Wrapper -->
 	<div id="wrapper">
 
@@ -145,13 +147,10 @@
 					</form>
 			
 					<div class="mt-4">
-						<label for="output">Output:</label>
-						<textarea id="output" class="form-control" rows="5" readonly></textarea>
+						<label for="encounterOutput">Output:</label>
+						<textarea id="encounterOutput" class="form-control" rows="5" readonly></textarea>
 					</div>
-					<button id="copyButton" onclick="copyToClipboard()" class="btn btn-success" disabled>Copy to Clipboard</button>
-					<div id="popupMessage" class="popup">
-						Content copied to clipboard!
-					</div>
+					<button id="encounterCopyButton" onclick="copyToClipboard('encounterOutput')" class="btn btn-success" disabled>Copy to Clipboard</button>
 				</div>
 			</article>
 			<article id="piSimModal" aria-labelledby="simReportModalLabel">
@@ -212,14 +211,11 @@
 
 
 				<div class="mt-4 mb-3">
-					<label for="output">Output:</label>
-					<textarea id="output" class="form-control" rows="5" readonly></textarea>
+					<label for="piOutput">Output:</label>
+					<textarea id="piOutput" class="form-control" rows="5" readonly></textarea>
 				</div>
-				<button id="copyButton" onclick="copyToClipboard()" class="btn btn-outline" disabled>Copy to
+				<button id="piCopyButton" onclick="copyToClipboard('piOutput')" class="btn btn-outline" disabled>Copy to
 					Clipboard</button>
-				<div id="popupMessage" class="popup">
-					Content copied to clipboard!
-				</div>
 			</div>
 
 			<div class="container mt-5">

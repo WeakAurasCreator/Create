@@ -176,7 +176,7 @@
   
       serializedArray.push("^t");
     } else {
-      console.log(`Cannot serialize a value of type "${valueType}"`);
+      console.error(`Cannot serialize a value of type "${valueType}"`);
     }
   }
   

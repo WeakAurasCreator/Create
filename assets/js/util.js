@@ -1,5 +1,5 @@
-function copyToClipboard() {
-  const textarea = document.getElementById("output");
+function copyToClipboard(id) {
+  const textarea = document.getElementById(id);
   textarea.select();
   document.execCommand("copy");
 
@@ -10,7 +10,7 @@ function copyToClipboard() {
     popup.style.display = "none";
   }, 3000);
 }
-
+window.copyToClipboard = copyToClipboard;
 (function($) {
 
 	/**

@@ -29,8 +29,6 @@ Promise.all(piAuraFetches)
   })
   .catch((err) => console.error("Error loading templates or triggers:", err));
 
-window.copyToClipboard = copyToClipboard;
-
 // World of Warcraft class colors (hex) from https://warcraft.wiki.gg/wiki/Class_colors
 const classColors = {
   DeathKnight: "#C41E3A",
@@ -143,15 +141,15 @@ function setupTargetSelector(targets, targetSelect, defaultValue) {
 
 function renderChart(targetCount, data,ctx,chart) {
   // Filter entries for this target count
-  const entries = data.filter((e) => e.targets === String(targetCount));
+  const entries = data.filter((e) => e.targets === Number(targetCount));
   // Map to specs and absolute DPS delta; treat negatives as zero
+  
   const specGains = entries.map((e) => ({
     class: e.class,
     spec: e.spec,
     targets: e.targets,
     gain: e.dps_delta > 0 ? e.dps_delta : 0,
   }));
-
   // Sort descending by gain
   specGains.sort((a, b) => b.gain - a.gain);
 
@@ -251,7 +249,7 @@ function setupPiData(data ) {
   chart = renderChart(targets[0], data, ctx, chart);
   targetSelect.addEventListener("change", (e) => {
     chart = renderChart(Number(e.target.value),data, ctx, chart);
-    document.getElementById("output").value = "";
+    document.getElementById("piOutput").value = "";
   });
 }
 
@@ -319,19 +317,18 @@ function generatePiAura() {
   let group = createGroupToExport("PiGroup");
   setAnchorPerFrame(group.d, "UNITFRAME");
   const mode = document.querySelector('input[name="mode"]:checked').value;
-  console.log(mode)
   
   if(mode === "single"){
     const targetSelect = document.getElementById("targetSelectOverall");
-    const targetArray = dpsLookup.get(targetSelect.value);
+    const targetArray = dpsLookup.get(Number(targetSelect.value));
     generatePiAurasForTargetArray(targetArray, group , undefined)
   }
   else if (mode === "dual"){
     const targetSelectBoss = document.getElementById("targetSelectBoss");
-    const targetArrayBoss = dpsLookup.get(targetSelectBoss.value);
+    const targetArrayBoss = dpsLookup.get(Number(targetSelectBoss.value));
     generatePiAurasForTargetArray(targetArrayBoss, group, true)
     const targetSelectTrash = document.getElementById("targetSelectTrash");
-    const targetArrayTrash = dpsLookup.get(targetSelectTrash.value);
+    const targetArrayTrash = dpsLookup.get(Number(targetSelectTrash.value));
     generatePiAurasForTargetArray(targetArrayTrash, group, false)
   }
   else{
@@ -340,13 +337,12 @@ function generatePiAura() {
   }
 
   // Serialize
-  console.log(group)
   let serializedAura = serialize(group);
   // Deflate
   let deflatedData = deflate(serializedAura);
   // Encode
   let encodedString = encode(deflatedData);
   // Output
-  document.getElementById("output").value = `!WA:1!${encodedString}`;
-  document.getElementById("copyButton").disabled = false;
+  document.getElementById("piOutput").value = `!WA:1!${encodedString}`;
+  document.getElementById("piCopyButton").disabled = false;
 }

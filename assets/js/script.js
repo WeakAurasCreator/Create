@@ -253,8 +253,8 @@ function generateWeakAura() {
   // Encode
   let encodedString = encode(deflatedData);
   // Output
-  document.getElementById("output").value = `!WA:1!${encodedString}`;
-  document.getElementById("copyButton").disabled = false;
+  document.getElementById("encounterOutput").value = `!WA:1!${encodedString}`;
+  document.getElementById("encounterCopyButton").disabled = false;
 }
 
 function addTrigger(aura, trigger) {
@@ -339,20 +339,6 @@ function createGroupToExport(name) {
 }
 
 window.generateWeakAura = generateWeakAura;
-
-function copyToClipboard() {
-  const textarea = document.getElementById("output");
-  textarea.select();
-  document.execCommand("copy");
-
-  const popup = document.getElementById("popupMessage");
-  popup.style.display = "block";
-
-  setTimeout(() => {
-    popup.style.display = "none";
-  }, 3000);
-}
-window.copyToClipboard = copyToClipboard;
 
 function handleTriggerChange() {
   const triggerValue = document.getElementById("trigger").value;
