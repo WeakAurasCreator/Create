@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "16196"
+  "SpellID": "16196",
+  "name_blz": {
+    "en_US": "Resurgence",
+    "es_MX": "Resurgimiento",
+    "pt_BR": "Ressurg\u00eancia",
+    "de_DE": "R\u00fcckstrom",
+    "en_GB": "Resurgence",
+    "es_ES": "Resurgimiento",
+    "fr_FR": "R\u00e9surgence",
+    "it_IT": "Rifioritura",
+    "ru_RU": "\u0423\u043f\u043e\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ud68c\uc0dd",
+    "zh_TW": "\u5fa9\u7526",
+    "zh_CN": "\u590d\u82cf"
+  },
+  "description_blz": {
+    "en_US": "Your direct heal criticals refund a percentage of your maximum mana: 0.80% from Healing Wave, 0.48% from Healing Surge or Riptide, and 0.20% from Chain Heal.",
+    "es_MX": "Tus cr\u00edticos de sanaci\u00f3n directa restituyen un porcentaje de tu man\u00e1 m\u00e1ximo: un 0.80% con Ola de sanaci\u00f3n, un 0.48% con Oleada de sanaci\u00f3n o Mareas vivas, y un 0.20% con Sanaci\u00f3n en cadena.",
+    "pt_BR": "Suas curas diretas cr\u00edticas restituem uma percentagem do seu m\u00e1ximo de pontos de mana: 0,80% com Onda Curativa, 0,48% com Mar\u00e9 Curativa ou Contracorrente, e 0,20% com Cura Encadeada.",
+    "de_DE": "Eure kritischen Treffer mit direkten Heilzaubern stellen einen Prozentsatz Eures maximalen Manas wieder her: 0,80% von 'Welle der Heilung', 0,48% von 'Heilende Woge' oder 'Springflut' sowie 0,20% von 'Kettenheilung'.",
+    "en_GB": "Your direct heal criticals refund a percentage of your maximum mana: 0.80% from Healing Wave, 0.48% from Healing Surge or Riptide, and 0.20% from Chain Heal.",
+    "es_ES": "Tus sanaciones directas cr\u00edticas te devuelven un porcentaje de tu man\u00e1 m\u00e1ximo: un 0,80% de Ola de sanaci\u00f3n, un 0,48% de Oleada de sanaci\u00f3n o Mareas vivas y un 0,20% de Sanaci\u00f3n en cadena.",
+    "fr_FR": "Vos effets critiques de soins directs vous rendent un pourcentage de votre maximum de mana\u00a0: 0,80\u00a0% pour Vague de soins, 0,48\u00a0% pour Afflux de soins ou Remous, et 0,20\u00a0% pour Salve de gu\u00e9rison.",
+    "it_IT": "Le cure critiche dirette ripristinano una percentuale del mana massimo: il 0,80% con Ondata di Cura, il 0,48% con Eruzione Benefica o Marea Benefica e il 0,20% con Catena di Guarigione.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u043c\u0430\u043d\u0443: \"\u0412\u043e\u043b\u043d\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u2013 0,80% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430, \"\u0418\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a\" \u0438 \"\u0411\u044b\u0441\u0442\u0440\u0438\u043d\u0430\" \u2013 0,48% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430, \"\u0426\u0435\u043f\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u2013 0,20% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430.",
+    "ko_KR": "\uc9c1\uc811 \uce58\uc720 \uc8fc\ubb38\uc774 \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud558\uba74 \uc790\uc2e0\uc758 \ucd5c\ub300 \ub9c8\ub098\uc758 \uc77c\uc815 \ube44\uc728\uc744 \ub3cc\ub824\ubc1b\uc2b5\ub2c8\ub2e4. \uce58\uc720\uc758 \ubb3c\uacb0\uc740 0.80%, \uce58\uc720\uc758 \ud30c\ub3c4\uc640 \uc131\ub09c \ud574\uc77c\uc740 0.48%, \uc5f0\uc1c4 \uce58\uc720\ub294 0.20%\uc758 \ub9c8\ub098\ub97c \ub3cc\ub824\ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u76f4\u63a5\u6027\u6cbb\u7642\u6cd5\u8853\u9020\u6210\u6975\u6548\u6cbb\u7642\u6642\uff0c\u53ef\u6062\u5fa9\u6cd5\u529b\u4e0a\u9650\u7684\u4e00\u5b9a\u6bd4\u4f8b\uff1a\u6cbb\u7642\u6ce2\u6703\u6062\u5fa90.80%\u3001\u6d36\u6e67\u6cbb\u7642\u6216\u6fc0\u6d41\u6703\u6062\u5fa90.48%\u3001\u6cbb\u7642\u934a\u5247\u6703\u6062\u5fa90.20%\u3002",
+    "zh_CN": "\u4f60\u7684\u76f4\u63a5\u6cbb\u7597\u6cd5\u672f\u6240\u9020\u6210\u7684\u7206\u51fb\u4f1a\u4e3a\u4f60\u6062\u590d\u4e00\u5b9a\u6bd4\u4f8b\u7684\u6700\u5927\u6cd5\u529b\u503c\uff1a\u6cbb\u7597\u6ce2\u6062\u590d0.80%\uff0c\u6cbb\u7597\u4e4b\u6d8c\u6216\u6fc0\u6d41\u6062\u590d0.48%\uff0c\u6cbb\u7597\u94fe\u6062\u590d0.20%\u3002"
+  }
 }
