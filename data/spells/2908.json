@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "2908"
+  "SpellID": "2908",
+  "name_blz": {
+    "en_US": "Soothe",
+    "es_MX": "Calmar",
+    "pt_BR": "Confortar",
+    "de_DE": "Bes\u00e4nftigen",
+    "en_GB": "Soothe",
+    "es_ES": "Calmar",
+    "fr_FR": "Apaiser",
+    "it_IT": "Pacificazione",
+    "ru_RU": "\u0423\u043c\u0438\u0440\u043e\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub2ec\ub798\uae30",
+    "zh_TW": "\u5b89\u64ab",
+    "zh_CN": "\u5b89\u629a"
+  },
+  "description_blz": {
+    "en_US": "Soothes the target, dispelling all enrage effects.",
+    "es_MX": "Calma al objetivo y disipa todos los efectos de enfurecimiento.",
+    "pt_BR": "Acalma o alvo, dissipando todos os efeitos de enraivecimento.",
+    "de_DE": "Bes\u00e4nftigt das Ziel und bannt alle Wutzust\u00e4nde.",
+    "en_GB": "Soothes the target, dispelling all enrage effects.",
+    "es_ES": "Amansa al objetivo, lo que disipa todos los efectos de Enfurecer.",
+    "fr_FR": "Vous apaisez la cible et dissipez tous les effets d\u2019enragement.",
+    "it_IT": "Mitiga il bersaglio dissolvendo tutti gli effetti di Rabbia.",
+    "ru_RU": "\u0423\u0441\u043c\u0438\u0440\u044f\u0435\u0442 \u0446\u0435\u043b\u044c, \u0441\u043d\u0438\u043c\u0430\u044f \u0441 \u043d\u0435\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0438\u0441\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\ub300\uc0c1\uc744 \ub2ec\ub798 \ubaa8\ub4e0 \uaca9\ub178 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5b89\u64ab\u76ee\u6a19\uff0c\u9a45\u6563\u76ee\u6a19\u8eab\u4e0a\u6240\u6709\u72c2\u6012\u6548\u679c\u3002",
+    "zh_CN": "\u5b89\u629a\u76ee\u6807\uff0c\u9a71\u6563\u6240\u6709\u6fc0\u6012\u6548\u679c\u3002"
+  }
 }
