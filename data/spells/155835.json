@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "155835"
+  "SpellID": "155835",
+  "name_blz": {
+    "en_US": "Bristling Fur",
+    "es_MX": "Pelaje erizado",
+    "pt_BR": "Pelo Eri\u00e7ado",
+    "de_DE": "Gestr\u00e4ubtes Fell",
+    "en_GB": "Bristling Fur",
+    "es_ES": "Pelaje erizado",
+    "fr_FR": "Poils h\u00e9riss\u00e9s",
+    "it_IT": "Arruffamento Pelliccia",
+    "ru_RU": "\u041a\u043e\u043b\u044e\u0447\u0438\u0439 \u043c\u0435\u0445",
+    "ko_KR": "\ubee3\ubee3\ud55c \ud138",
+    "zh_TW": "\u91dd\u523a\u6bdb\u76ae",
+    "zh_CN": "\u9b03\u6bdb\u5012\u7ad6"
+  },
+  "description_blz": {
+    "en_US": "Bristle your fur, causing you to generate Rage based on damage taken for 8 sec.",
+    "es_MX": "Eriza tu piel, lo que provoca que generes Ira con base al da\u00f1o recibido durante 8 s.",
+    "pt_BR": "Ao eri\u00e7ar o pelo, gera Raiva com base no dano recebido por 8 s.",
+    "de_DE": "Stellt f\u00fcr 8 Sek. Euer Fell auf und erzeugt Wut basierend auf dem erlittenen Schaden.",
+    "en_GB": "Bristle your fur, causing you to generate Rage based on damage taken for 8 sec.",
+    "es_ES": "Erizas tu pelaje, lo que provoca que generes ira en funci\u00f3n del da\u00f1o recibido durante 8 s.",
+    "fr_FR": "Votre pelage se h\u00e9risse, vous faisant g\u00e9n\u00e9rer de la rage sur la base des d\u00e9g\u00e2ts subis pendant 8 s.",
+    "it_IT": "Ti fa arruffare la pelliccia, generando rabbia in base ai danni subiti per 8 s.",
+    "ru_RU": "\u0412\u044b \u043e\u0449\u0435\u0442\u0438\u043d\u0438\u0432\u0430\u0435\u0442\u0435 \u0441\u0432\u043e\u0439 \u043c\u0435\u0445, \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u044f \u044f\u0440\u043e\u0441\u0442\u044c \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud138\uc744 \ubc14\uc9dd \uc138\uc6cc, 8\ucd08 \ub3d9\uc548 \ubc1b\uc740 \ud53c\ud574\uc5d0 \ub530\ub77c \ubd84\ub178\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9b03\u6bdb\u5012\u8c4e\uff0c\u4f9d\u4f60\u6240\u53d7\u5230\u7684\u50b7\u5bb3\u7522\u751f\u6012\u6c23\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u9b03\u6bdb\u5012\u7ad6\uff0c\u4f7f\u4f60\u6839\u636e\u53d7\u5230\u7684\u4f24\u5bb3\u6062\u590d\u6012\u6c14\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }
