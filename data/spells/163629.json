@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "163629"
+  "SpellID": "163629",
+  "name_blz": {
+    "en_US": "Follower: Miall",
+    "es_MX": "Seguidor: Miall",
+    "pt_BR": "Seguidora: Miall",
+    "de_DE": "Anh\u00e4ngerin: Miall",
+    "en_GB": "Follower: Miall",
+    "es_ES": "Seguidora: Miall",
+    "fr_FR": "Sujet\u00a0: Miall",
+    "it_IT": "Seguace: Miall",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041c\u0438\u0430\u043b\u043b\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ubbf8\uc54c",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u7c73\u6b50",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u7c73\u963f\u5c14"
+  },
+  "description_blz": {
+    "en_US": "Miall is the former apprentice to the great smith Ared.\r\nDriven to prove herself and to honor her masters legacy she now works to create the best equipment possible.",
+    "es_MX": "Miall es una antigua aprendiz del gran herrero Ared.\r\nImpulsada por probarse a s\u00ed misma y honrar el legado de sus maestros, ahora trabaja para crear el mejor equipo posible.",
+    "pt_BR": "Miall \u00e9 a antiga aprendiz do grande ferreiro Ared.\r\nImpelida pelo desejo de provar seu valor e de honrar o legado de seu mestre, ela se empenha em forjar as melhores pe\u00e7as poss\u00edveis.",
+    "de_DE": "Miall ist der ehemalige Lehrling des gro\u00dfen Schmiedes Ared. Sie wird davon angetrieben, sich zu beweisen und sich des Erbes ihres Meisters als w\u00fcrdig zu erweisen. Sie versucht nun, die beste Ausr\u00fcstung herzustellen, die es gibt.",
+    "en_GB": "Miall is the former apprentice to the great smith Ared.\r\nDriven to prove herself and to honor her masters legacy she now works to create the best equipment possible.",
+    "es_ES": "Miall es la antigua aprendiza del gran herrero Ared. Decidida a demostrar su val\u00eda y honrar el legado de sus maestros, est\u00e1 trabajando en la creaci\u00f3n del mejor equipo.",
+    "fr_FR": "Miall \u00e9tait autrefois l\u2019apprentie du grand forgeron Ared. \r\nDans sa volont\u00e9 de faire ses preuves et d\u2019honorer l\u2019h\u00e9ritage l\u00e9gu\u00e9 par ses ma\u00eetres, elle cherche \u00e0 fabriquer le meilleur \u00e9quipement possible.",
+    "it_IT": "Miall \u00e8 il vecchio apprendista del grande fabbro Ared.\r\nPer dimostrare il proprio valore e onorare il retaggio dei propri maestri, lavora per creare il miglior equipaggiamento possibile.",
+    "ru_RU": "\u041c\u0438\u0430\u043b\u043b\u0430 \u2013 \u0431\u044b\u0432\u0448\u0430\u044f \u0443\u0447\u0435\u043d\u0438\u0446\u0430 \u0432\u0435\u043b\u0438\u043a\u043e\u0433\u043e \u043a\u0443\u0437\u043d\u0435\u0446\u0430 \u0410\u0440\u0435\u0434\u0430. \u0414\u0432\u0438\u0436\u0438\u043c\u0430\u044f \u0436\u0435\u043b\u0430\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u044f\u0432\u0438\u0442\u044c \u0441\u0435\u0431\u044f \u0438 \u043f\u043e\u0447\u0442\u0438\u0442\u044c \u043f\u0430\u043c\u044f\u0442\u044c \u0441\u0432\u043e\u0435\u0433\u043e \u0443\u0447\u0438\u0442\u0435\u043b\u044f, \u043e\u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043d\u0430\u0434 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435\u043c \u043d\u0430\u0438\u043b\u0443\u0447\u0448\u0435\u0433\u043e \u0441\u043d\u0430\u0440\u044f\u0436\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\ubbf8\uc54c\uc740 \ud55c\ub54c \uc704\ub300\ud55c \ub300\uc7a5\uc7a5\uc774 \uc544\ub808\ub4dc\uc758 \uc218\uc2b5\uc0dd\uc774\uc5c8\uc2b5\ub2c8\ub2e4.\r\n\uc2a4\uc2b9\uc758 \uc720\uc0b0\uc744 \uc787\uae30 \uc704\ud574 \uc790\uc2e0\uc758 \uc2e4\ub825\uc744 \uafb8\uc900\ud788 \uc5f0\ub9c8\ud574\uc628 \uadf8\ub140\ub294, \uc9c0\uae08 \ucd5c\uace0\uc758 \uc7a5\ube44\ub97c \ub9cc\ub4e4\uc5b4 \ub0b4\uae30 \uc704\ud574 \uc77c\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7c73\u6b50\u4ee5\u524d\u662f\u5927\u9435\u5320\u4e9e\u745e\u5fb7\u7684\u5b78\u5f92\u3002\u70ba\u4e86\u8b49\u660e\u81ea\u5df1\u548c\u69ae\u8000\u5979\u5e2b\u5085\u7684\u50b3\u5947\uff0c\u5979\u73fe\u5728\u81f4\u529b\u65bc\u5275\u9020\u6700\u597d\u7684\u88dd\u5099\u3002",
+    "zh_CN": "\u7c73\u963f\u5c14\u66fe\u5728\u94c1\u5320\u5b97\u5e08\u827e\u745e\u5fb7\u7684\u95e8\u4e0b\u505a\u8fc7\u5b66\u5f92\u3002\r\n\u4e00\u65b9\u9762\u4e3a\u4e86\u8bc1\u660e\u81ea\u5df1\uff0c\u53e6\u4e00\u65b9\u9762\u4e3a\u4e86\u5c06\u5e08\u5085\u7684\u624b\u827a\u53d1\u626c\u5149\u5927\uff0c\u7c73\u963f\u5c14\u73b0\u5728\u6b63\u5c3d\u5176\u6240\u80fd\u6253\u9020\u4f20\u4e16\u94e0\u7532\u3002"
+  }
 }
