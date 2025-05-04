@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "24487"
+  "SpellID": "24487",
+  "name_blz": {
+    "en_US": "Improved Doomguard",
+    "es_MX": "Guardia apocal\u00edptico mejorado",
+    "pt_BR": "Demonarca Aprimorado",
+    "de_DE": "Verbesserte Verdammniswache",
+    "en_GB": "Improved Doomguard",
+    "es_ES": "Guardia apocal\u00edptico mejorado",
+    "fr_FR": "Garde funeste am\u00e9lior\u00e9",
+    "it_IT": "Demone Guardiano Migliorato",
+    "ru_RU": "\u0421\u0438\u043b\u044c\u043d\u044b\u0439 \u0441\u0442\u0440\u0430\u0436 \u0443\u0436\u0430\u0441\u0430",
+    "ko_KR": "\ud30c\uba78\uc218\ud638\ubcd1 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u672b\u65e5\u5b88\u885b",
+    "zh_CN": "\u5f3a\u5316\u672b\u65e5\u5b88\u536b"
+  },
+  "description_blz": {
+    "en_US": "Decreases the cooldown of Summon Doomguard by 15%.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de Invocar guardia apocal\u00edptico un 15%.",
+    "pt_BR": "Reduz em 15% a recarga da Evocar Demonarca.",
+    "de_DE": "Verringert die Abklingzeit Eures Zaubers 'Verdammniswache beschw\u00f6ren' um 15%.",
+    "en_GB": "Decreases the cooldown of Summon Doomguard by 15%.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de Invocar guardia apocal\u00edptico un 15%.",
+    "fr_FR": "R\u00e9duit le temps de recharge d\u2019Invocation\u00a0de garde funeste de 15%.",
+    "it_IT": "Riduce il tempo di recupero di Evocazione: Demone Guardiano del 15%.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0441\u0442\u0440\u0430\u0436\u0430 \u0443\u0436\u0430\u0441\u0430 \u043d\u0430 15%.",
+    "ko_KR": "\ud30c\uba78\uc218\ud638\ubcd1 \uc18c\ud658\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u53ec\u559a\u672b\u65e5\u5b88\u885b\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed15%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u53ec\u5524\u672b\u65e5\u5b88\u536b\u7684\u51b7\u5374\u65f6\u95f4\u51cf\u5c1115%\u3002"
+  }
 }
