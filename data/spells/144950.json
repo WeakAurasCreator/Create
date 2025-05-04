@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "144950"
+  "SpellID": "144950",
+  "name_blz": {
+    "en_US": "Item - Death Knight T16 Blood 4P Bonus",
+    "es_MX": "Item - Death Knight T16 Blood 4P Bonus",
+    "pt_BR": "Item - Death Knight T16 Blood 4P Bonus",
+    "en_GB": "Item - Death Knight T16 Blood 4P Bonus",
+    "es_ES": "Item - Death Knight T16 Blood 4P Bonus",
+    "it_IT": "Item - Death Knight T16 Blood 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fd\uc74c\uc758 \uae30\uc0ac T16 \ud608\uae30 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Death Knight T16 Blood 4P Bonus",
+    "zh_CN": "Item - Death Knight T16 Blood 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Dancing Rune Weapon will reactivate 4 runes.",
+    "es_MX": "Arma de runa danzante reactivar\u00e1 4 runas.",
+    "pt_BR": "Arma R\u00fanica Dan\u00e7ante reativa 4 runas.",
+    "de_DE": "'Tanzende Runenwaffe' reaktiviert 4 Runen.",
+    "en_GB": "Dancing Rune Weapon will reactivate 4 runes.",
+    "es_ES": "Arma de runa danzante reactivar\u00e1 4 runas.",
+    "fr_FR": "Arme runique dansante r\u00e9active 4\u00a0runes.",
+    "it_IT": "Arma Runica Danzante riattiva 4 rune.",
+    "ru_RU": "\"\u0422\u0430\u043d\u0446\u0443\u044e\u0449\u0435\u0435 \u0440\u0443\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435\" \u0437\u0430\u043d\u043e\u0432\u043e \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442 4 \u0440\u0443\u043d\u044b.",
+    "ko_KR": "\ucda4\ucd94\ub294 \ub8ec \ubb34\uae30\ub97c \uc18c\ud658\ud558\uba74 4\uac1c\uc758 \ub8ec\uc774 \uc7ac\ud65c\uc131\ud654\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7b26\u6587\u6b66\u5668\u5e7b\u821e\u6703\u91cd\u65b0\u555f\u52d54\u500b\u7b26\u6587\u3002",
+    "zh_CN": "\u7b26\u6587\u5203\u821e\u5c06\u91cd\u65b0\u6fc0\u6d3b4\u679a\u7b26\u6587\u3002"
+  }
 }

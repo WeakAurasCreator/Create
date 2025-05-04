@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "144875"
+  "SpellID": "144875",
+  "name_blz": {
+    "en_US": "Item - Druid T16 Restoration 4P Bonus",
+    "es_MX": "Item - Druid T16 Restoration 4P Bonus",
+    "pt_BR": "Item - Druid T16 Restoration 4P Bonus",
+    "en_GB": "Item - Druid T16 Restoration 4P Bonus",
+    "es_ES": "Item - Druid T16 Restoration 4P Bonus",
+    "it_IT": "Item - Druid T16 Restoration 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T16 \ud68c\ubcf5 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T16 Restoration 4P Bonus",
+    "zh_CN": "Item - Druid T16 Restoration 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Targets of your Wild Growth spell are instantly healed for 1,383.",
+    "es_MX": "Los objetivos de tu hechizo Crecimiento salvaje se sanan al instante 1,383 p.",
+    "pt_BR": "Alvos do seu feiti\u00e7o Crescimento Silvestre s\u00e3o instantaneamente curados em 1.383.",
+    "de_DE": "Heilt Ziele Eures Zaubers 'Wildwuchs' sofort um 1.383.",
+    "en_GB": "Targets of your Wild Growth spell are instantly healed for 1,383.",
+    "es_ES": "Los objetivos de tu hechizo Crecimiento salvaje se sanan al instante 1383 p.",
+    "fr_FR": "Les cibles de votre Croissance sauvage re\u00e7oivent instantan\u00e9ment 1383 points de vie.",
+    "it_IT": "I bersagli di Crescita Rigogliosa rigenerano istantaneamente 1.383 salute.",
+    "ru_RU": "\u0426\u0435\u043b\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \"\u0411\u0443\u0439\u043d\u043e\u0433\u043e \u0440\u043e\u0441\u0442\u0430\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 1383 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uae09\uc18d \uc131\uc7a5 \uc8fc\ubb38\uc5d0 \uac78\ub9b0 \ub300\uc0c1\uc774 \uc989\uc2dc 1,383\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7acb\u5373\u70ba\u4f60\u7684\u91ce\u6027\u75ca\u7652\u6cd5\u8853\u76ee\u6a19\u6062\u5fa91,383\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u83b7\u5f97\u91ce\u6027\u6210\u957f\u6548\u679c\u7684\u76ee\u6807\u4f1a\u7acb\u5373\u6062\u590d1,383\u70b9\u751f\u547d\u503c\u3002"
+  }
 }
