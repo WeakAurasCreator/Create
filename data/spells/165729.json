@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165729"
+  "SpellID": "165729",
+  "name_blz": {
+    "en_US": "Follower: Kaz the Shrieker",
+    "es_MX": "Seguidor: Kaz la Aulladora",
+    "pt_BR": "Seguidor: Kaz, o Guinchador",
+    "de_DE": "Anh\u00e4ngerin: Kaz die Kreischende",
+    "en_GB": "Follower: Kaz the Shrieker",
+    "es_ES": "Seguidor: Kaz la Aulladora",
+    "fr_FR": "Sujet\u00a0: Kaz la Hurleuse",
+    "it_IT": "Seguace: Kaz l'Urlatrice",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0430\u0437 \u0412\u0438\u0437\u0433\u0443\u043d\u044c\u044f",
+    "ko_KR": "\ucd94\uc885\uc790: \uc6b8\ubd80\uc9d6\ub294 \uce74\uc988",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a \u300e\u5c16\u562f\u8005\u300f\u5361\u8332",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5c16\u5578\u8005\u5361\u5179"
+  },
+  "description_blz": {
+    "en_US": "Kaz the Shrieker is known for her brutality and love of burning things. She is a powerful shaman despite her madness.",
+    "es_MX": "Kaz la Aulladora es conocida por su brutalidad y su amor por las cosas en llamas. Es una poderosa cham\u00e1n a pesar de su locura.",
+    "pt_BR": "Kaz, a Guinchadora, \u00e9 conhecida pela brutalidade e pelo desejo de botar fogo em tudo. Apesar da loucura, \u00e9 uma xam\u00e3 poderosa.",
+    "de_DE": "Kaz die Kreischende ist f\u00fcr ihre Brutalit\u00e4t und ihre Vorliebe f\u00fcr brennende Dinge bekannt. Ungeachtet ihres Wahnsinns ist sie eine m\u00e4chtige Schamanin.",
+    "en_GB": "Kaz the Shrieker is known for her brutality and love of burning things. She is a powerful shaman despite her madness.",
+    "es_ES": "A Kaz la Aulladora se la conoce por su brutalidad y por su pasi\u00f3n por las cosas que arden. A pesar de su locura, es una cham\u00e1n muy poderosa.",
+    "fr_FR": "Kaz la Hurleuse est r\u00e9put\u00e9e pour sa brutalit\u00e9 et sa passion pour le feu. C\u2019est une puissante chamane malgr\u00e9 sa folie.",
+    "it_IT": "Kaz l'Urlatrice \u00e8 famosa per la brutalit\u00e0 e per l'amore per le cose che bruciano. \u00c8 una Sciamana potente, nonostante la sua follia.",
+    "ru_RU": "\u041a\u0430\u0437 \u0412\u0438\u0437\u0433\u0443\u043d\u044c\u044f \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u0436\u0435\u0441\u0442\u043e\u043a\u043e\u0441\u0442\u044c\u044e \u0438 \u0441\u0442\u0440\u0430\u0441\u0442\u044c\u044e \u043a \u043e\u0433\u043d\u044e. \u041e\u043d\u0430 \u0431\u0435\u0437\u0443\u043c\u043d\u0430, \u043d\u043e \u0432\u0441\u0435 \u0436\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0448\u0430\u043c\u0430\u043d\u043a\u043e\u0439.",
+    "ko_KR": "\uc6b8\ubd80\uc9d6\ub294 \uce74\uc988\ub294 \uc794\ud639\ud568\uacfc \ubb34\uc5c7\uc774\ub4e0 \ubd88\uc0b4\ub77c\ubc84\ub9ac\ub294 \uac83\uc744 \uc88b\uc544\ud558\uae30\ub85c \uc720\uba85\ud569\ub2c8\ub2e4. \uadf8\ub140\ub294 \uad11\uae30\uc5d0 \ube60\uc838 \uc788\uc9c0\ub9cc, \uc815\ub9d0 \uac15\ub825\ud55c \ub2a5\ub825\uc744 \uac16\ucd94\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u300e\u5c16\u562f\u8005\u300f\u5361\u8332\u4ee5\u5147\u6b98\u6027\u683c\u548c\u7e31\u706b\u7656\u800c\u805e\u540d\u3002\u9664\u537b\u5979\u7684\u760b\u72c2\uff0c\u5979\u7121\u7591\u662f\u4e00\u540d\u5f37\u5927\u7684\u85a9\u6eff\u3002",
+    "zh_CN": "\u5c16\u5578\u8005\u5361\u5179\u55dc\u8840\u6b8b\u66b4\uff0c\u4e14\u9177\u7231\u711a\u70e7\u4e1c\u897f\u3002\u5c3d\u7ba1\u75af\u72c2\uff0c\u5979\u5374\u662f\u4e2a\u4e0d\u6298\u4e0d\u6263\u7684\u5f3a\u529b\u8428\u6ee1\u3002"
+  }
 }
