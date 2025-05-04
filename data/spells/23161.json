@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "23161"
+  "SpellID": "23161",
+  "name_blz": {
+    "en_US": "Dreadsteed",
+    "es_MX": "Corcel nefasto",
+    "pt_BR": "Corcel Medonho",
+    "de_DE": "Schreckensross",
+    "en_GB": "Dreadsteed",
+    "es_ES": "Corcel nefasto",
+    "fr_FR": "Destrier de l\u2019effroi",
+    "it_IT": "Maldestriero",
+    "ru_RU": "\u0421\u043a\u0430\u043a\u0443\u043d \u043f\u043e\u0433\u0438\u0431\u0435\u043b\u0438",
+    "ko_KR": "\uacf5\ud3ec\ub9c8",
+    "zh_TW": "\u6050\u61fc\u6230\u99ac",
+    "zh_CN": "\u6050\u60e7\u6218\u9a6c"
+  },
+  "description_blz": {
+    "en_US": "Summons a Dreadsteed, which serves as a mount. ",
+    "es_MX": "Invoca a un corcel nefasto que sirve como montura. ",
+    "pt_BR": "Evoca um Corcel Medonho de montaria. ",
+    "de_DE": "Beschw\u00f6rt ein Schreckensross, das als Reittier dient.",
+    "en_GB": "Summons a Dreadsteed, which serves as a mount. ",
+    "es_ES": "Invoca a un corcel nefasto que sirve como montura. ",
+    "fr_FR": "Invoque un destrier de l\u2019effroi qui sert de monture. ",
+    "it_IT": "Evoca un Maldestriero da usare come cavalcatura. ",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u0445\u043e\u0432\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u2013 \u0441\u043a\u0430\u043a\u0443\u043d\u0430 \u043f\u043e\u0433\u0438\u0431\u0435\u043b\u0438. ",
+    "ko_KR": "\uacf5\ud3ec\ub9c8\ub97c \uc18c\ud658\ud558\uc5ec \ud0c8\uac83\uc73c\ub85c \uc774\uc6a9\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u53ec\u559a\u4e00\u96bb\u6050\u61fc\u6230\u99ac\u4f5c\u70ba\u4f60\u7684\u5750\u9a0e\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u5339\u6050\u60e7\u6218\u9a6c\u4f5c\u4e3a\u4f60\u7684\u5750\u9a91\u3002"
+  }
 }
