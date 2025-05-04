@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "28746"
+  "SpellID": "28746",
+  "name_blz": {
+    "en_US": "Plagueheart",
+    "es_MX": "Coraz\u00f3n de peste",
+    "pt_BR": "Cora\u00e7\u00e3o Pestilento",
+    "de_DE": "Verseuchtes Herz",
+    "en_GB": "Plagueheart",
+    "es_ES": "Coraz\u00f3n de peste",
+    "fr_FR": "Pestec\u0153ur",
+    "it_IT": "Cuore Infetto",
+    "ru_RU": "\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u043e\u0435 \u0441\u0435\u0440\u0434\u0446\u0435",
+    "ko_KR": "\uc5ed\ubcd1\uc2ec\uc7a5",
+    "zh_TW": "\u761f\u75ab\u4e4b\u5fc3",
+    "zh_CN": "\u5929\u707e\u4e4b\u5fc3"
+  },
+  "description_blz": {
+    "en_US": "Your spells generate 25% less threat. In addition, Corruption, Immolate, Curse of Agony, and Siphon Life further generate 25% less threat.",
+    "es_MX": "Tus hechizos generan un 25% menos de amenaza. Adem\u00e1s, Corrupci\u00f3n, Inmolar, Maldici\u00f3n de agon\u00eda y Succionar vida generan un 25% menos de amenaza.",
+    "pt_BR": "Seus feiti\u00e7os geram 25% a menos de amea\u00e7a. Al\u00e9m disso, seus feiti\u00e7os Corrup\u00e7\u00e3o, Imola\u00e7\u00e3o, Maldi\u00e7\u00e3o da Agonia e Sif\u00e3o de Vida geram 25% a menos de amea\u00e7a.",
+    "de_DE": "Eure Zauber erzeugen 25% weniger Bedrohung. Zus\u00e4tzlich erzeugen 'Verderbnis', 'Feuerbrand', 'Fluch der Pein' und 'Lebensentzug' 25% weniger Bedrohung.",
+    "en_GB": "Your spells generate 25% less threat. In addition, Corruption, Immolate, Curse of Agony, and Siphon Life further generate 25% less threat.",
+    "es_ES": "Tus hechizos generan un 25% menos de amenaza. Adem\u00e1s, Corrupci\u00f3n, Inmolar, Maldici\u00f3n de agon\u00eda y Succionar vida generan un 25% menos de amenaza.",
+    "fr_FR": "La g\u00e9n\u00e9ration de menace de vos sorts est r\u00e9duite de 25\u00a0%. De plus, la g\u00e9n\u00e9ration de menace de Corruption, Immolation, Mal\u00e9diction d\u2019agonie et Siphon de vie est encore r\u00e9duite de 25\u00a0%.",
+    "it_IT": "Gli incantesimi generano minaccia ridotta del 25%. Inoltre, Corruzione, Immolazione, Maledizione dell'Agonia e Aspirazione della Vita generano minaccia ridotta del 25%.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u043d\u0430 25% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0433\u0440\u043e\u0437\u044b. \"\u041f\u043e\u0440\u0447\u0430\", \"\u0416\u0435\u0440\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\", \"\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435 \u0430\u0433\u043e\u043d\u0438\u0438\" \u0438 \"\u0412\u044b\u0442\u044f\u0433\u0438\u0432\u0430\u043d\u0438\u0435 \u0436\u0438\u0437\u043d\u0438\" \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u0435\u0449\u0435 \u043d\u0430 25% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0433\u0440\u043e\u0437\u044b.",
+    "ko_KR": "\uc8fc\ubb38 \uc2dc\uc804\uc73c\ub85c \uc0dd\uc131\ub418\ub294 \uc704\ud611 \uc218\uc900\uc774 25%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ucd94\uac00\ub85c \ubd80\ud328\uc640 \uc81c\ubb3c, \uace0\ud1b5\uc758 \uc800\uc8fc, \uc0dd\uba85\ub825 \ucc29\ucde8\ub85c \uc778\ud55c \uc704\ud611 \uc218\uc900\uc774 25%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6cd5\u8853\u9020\u6210\u7684\u5a01\u8105\u503c\u964d\u4f4e25%\u3002\u53e6\u5916\uff0c\u8150\u8755\u8853\u3001\u737b\u796d\u3001\u75db\u82e6\u8a5b\u5492\u548c\u751f\u547d\u8679\u5438\u4e4b\u5f8c\u6240\u7522\u751f\u7684\u5a01\u8105\u503c\u964d\u4f4e25%\u3002",
+    "zh_CN": "\u4f60\u7684\u6cd5\u672f\u6240\u9020\u6210\u7684\u5a01\u80c1\u503c\u964d\u4f4e25%\u3002\u53e6\u5916\uff0c\u8150\u8680\u672f\u3001\u732e\u796d\u3001\u75db\u82e6\u8bc5\u5492\u548c\u751f\u547d\u8679\u5438\u6240\u9020\u6210\u7684\u5a01\u80c1\u503c\u989d\u5916\u964d\u4f4e25%\u3002"
+  }
 }
