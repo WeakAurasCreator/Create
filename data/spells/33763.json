@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "33763"
+  "SpellID": "33763",
+  "name_blz": {
+    "en_US": "Lifebloom",
+    "es_MX": "Flor de vida",
+    "pt_BR": "Brotar da Vida",
+    "de_DE": "Bl\u00fchendes Leben",
+    "en_GB": "Lifebloom",
+    "es_ES": "Flor de vida",
+    "fr_FR": "Fleur de vie",
+    "it_IT": "Bocciolo di Vita",
+    "ru_RU": "\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442",
+    "ko_KR": "\ud53c\uc5b4\ub098\ub294 \uc0dd\uba85",
+    "zh_TW": "\u751f\u547d\u4e4b\u82b1",
+    "zh_CN": "\u751f\u547d\u7efd\u653e"
+  },
+  "description_blz": {
+    "en_US": "Heals the target for 14,529 over 15 sec. When Lifebloom expires or is dispelled, the target is instantly healed for 9,864.\r\n\r\nMay be active on one target at a time.",
+    "es_MX": "Sana 14,529 p. de salud al objetivo durante 15 s. Cuando Flor de vida expira o se disipa, el objetivo sana 9,877 p. de salud al instante.\r\n\r\nPuede estar activa en un objetivo a la vez.",
+    "pt_BR": "Cura 14.529 pontos de vida do alvo ao longo de 15 s. Quando Brotar da Vida acaba ou \u00e9 dissipado, o alvo recupera 10.052 pontos de vida instantaneamente.\r\n\r\nPode estar ativo em um alvo por vez.",
+    "de_DE": "Heilt das Ziel im Verlauf von 15 Sek. um 14.529 Gesundheit. Wenn 'Bl\u00fchendes Leben' abl\u00e4uft oder gebannt wird, wird das Ziel sofort um 9.892 Gesundheit geheilt.\r\n\r\nKann auf einem Ziel gleichzeitig aktiv sein.",
+    "en_GB": "Heals the target for 14,529 over 15 sec. When Lifebloom expires or is dispelled, the target is instantly healed for 10,124.\r\n\r\nMay be active on one target at a time.",
+    "es_ES": "Sana 14529 p. al objetivo durante 15 s. Cuando Flor de vida se agota o se disipa, el objetivo se sana 9802 p. al instante.\r\n\r\nPuede estar activa solamente en un objetivo a la vez.",
+    "fr_FR": "Rend 14529\u00a0points de vie \u00e0 la cible en 15 s. Quand Fleur de vie prend fin ou est dissip\u00e9e, la cible re\u00e7oit instantan\u00e9ment 9745\u00a0points de vie.\r\n\r\nPeut \u00eatre active sur 1\u00a0cible \u00e0 la fois.",
+    "it_IT": "Cura il bersaglio di 14.529 in 15 s. Quando Bocciolo di Vita termina o viene dissolto, cura istantaneamente il bersaglio di 9.889.\r\n\r\nPu\u00f2 essere attivo su un bersaglio alla volta.",
+    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0446\u0435\u043b\u0438 14529 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 15 \u0441\u0435\u043a. \u041a\u043e\u0433\u0434\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\u0430\" \u0438\u0441\u0442\u0435\u043a\u0430\u0435\u0442 \u0438\u043b\u0438 \u0435\u0433\u043e \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u044e\u0442, \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0446\u0435\u043b\u0438 9942 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0446\u0435\u043b\u0435\u0439 \u2013 1.",
+    "ko_KR": "15\ucd08\uc5d0 \uac78\uccd0 \ub300\uc0c1\uc744 14,529\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4. \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 \ub2e4\ud558\uac70\ub098 \ubb34\ud6a8\ud654\ub418\uba74, \ub300\uc0c1\uc740 \uc989\uc2dc 9,895\ub9cc\ud07c \uce58\uc720\ub429\ub2c8\ub2e4.\r\n\r\n\ud55c \ubc88\uc5d0 \ud558\ub098\uc758 \ub300\uc0c1\uc5d0\uac8c\ub9cc \uac78\uc5b4\ub458 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u572815\u79d2\u5167\u70ba\u76ee\u6a19\u6062\u5fa914,529\u9ede\u751f\u547d\u529b\u3002\u7576\u751f\u547d\u4e4b\u82b1\u6301\u7e8c\u6642\u9593\u7d50\u675f\u6216\u88ab\u9a45\u6563\u6642\uff0c\u5c07\u7acb\u5373\u70ba\u76ee\u6a19\u6062\u5fa99,888\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u540c\u4e00\u6642\u9593\u5167\u53ea\u80fd\u4f5c\u7528\u65bc\u4e00\u500b\u76ee\u6a19\u8eab\u4e0a\u3002",
+    "zh_CN": "\u572815\u79d2\u5185\u4e3a\u76ee\u6807\u6062\u590d14,529\u70b9\u751f\u547d\u503c\u3002\u5f53\u751f\u547d\u7efd\u653e\u6548\u679c\u7ed3\u675f\u6216\u88ab\u9a71\u6563\u65f6\uff0c\u4f1a\u7acb\u5373\u4e3a\u76ee\u6807\u6062\u590d9,923\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u540c\u4e00\u65f6\u95f4\u53ef\u4ee5\u5728\u4e00\u4e2a\u76ee\u6807\u8eab\u4e0a\u6fc0\u6d3b\u3002"
+  }
 }
