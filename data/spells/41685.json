@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41685"
+  "SpellID": "41685",
+  "name_blz": {
+    "en_US": "Increased Shadow Resist 05",
+    "es_MX": "Resistencia a las Sombras aumentada 05",
+    "pt_BR": "Resist\u00eancia \u00e0 Sombra Aumentada 05",
+    "de_DE": "Erh\u00f6hter Schattenwiderstand 05",
+    "en_GB": "Increased Shadow Resist 05",
+    "es_ES": "Resistencia a las Sombras aumentada 05",
+    "fr_FR": "R\u00e9sistance \u00e0 l'Ombre augment\u00e9e\u00a0: 05",
+    "it_IT": "Resistenza all'Ombra Migliorata 05",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0438\u043b\u0430\u043c \u0422\u044c\u043c\u044b 5",
+    "ko_KR": "\uc554\ud751 \uc800\ud56d\ub825 \ud5a5\uc0c1 05",
+    "zh_TW": "\u589e\u52a0\u6697\u5f71\u6297\u6027 05",
+    "zh_CN": "Increased Shadow Resist 05"
+  },
+  "description_blz": {
+    "en_US": "+2 Shadow Resistance.",
+    "es_MX": "+2 p. de resistencia a las Sombras.",
+    "pt_BR": "+2 Resist\u00eancia \u00e0 Sombra.",
+    "de_DE": "+2 Schattenwiderstand.",
+    "en_GB": "+2 Shadow Resistance.",
+    "es_ES": "+2 p. de resistencia a las Sombras.",
+    "fr_FR": "+2 \u00e0 la r\u00e9sistance \u00e0 l'Ombre.",
+    "it_IT": "+2 Resistenza all'Ombra.",
+    "ru_RU": "+2 \u043a \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u044e \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\uc554\ud751 \uc800\ud56d\ub825 +2",
+    "zh_TW": "+2\u9ede\u6697\u5f71\u6297\u6027\u3002",
+    "zh_CN": "+2 \u6697\u5f71\u6297\u6027\u3002"
+  }
 }

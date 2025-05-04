@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41732"
+  "SpellID": "41732",
+  "name_blz": {
+    "en_US": "Increased Arcane Resist 05",
+    "es_MX": "Resistencia a lo Arcano aumentada 05",
+    "pt_BR": "Resist\u00eancia ao Arcano Aumentada 05",
+    "de_DE": "Erh\u00f6hter Arkanwiderstand 05",
+    "en_GB": "Increased Arcane Resist 05",
+    "es_ES": "Resistencia a lo Arcano aumentada 05",
+    "fr_FR": "R\u00e9sistance aux Arcanes augment\u00e9e\u00a0: 05",
+    "it_IT": "Resistenza all'Arcano Migliorata 05",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 5",
+    "ko_KR": "\ube44\uc804 \uc800\ud56d \ud5a5\uc0c1 05",
+    "zh_TW": "\u589e\u52a0\u79d8\u6cd5\u6297\u6027 05",
+    "zh_CN": "Increased Arcane Resist 05"
+  },
+  "description_blz": {
+    "en_US": "+1 Arcane Resistance.",
+    "es_MX": "+1 p. resistencia a lo Arcano.",
+    "pt_BR": "+1 Resist\u00eancia ao Arcano.",
+    "de_DE": "+1 Arkanwiderstand.",
+    "en_GB": "+1 Arcane Resistance.",
+    "es_ES": "+1 p. resistencia a lo Arcano.",
+    "fr_FR": "+1 \u00e0 la r\u00e9sistance aux Arcanes.",
+    "it_IT": "+1 Resistenza all'Arcano.",
+    "ru_RU": "+1 \u043a \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u044e \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\ube44\uc804 \uc800\ud56d\ub825 +1",
+    "zh_TW": "+1\u9ede\u79d8\u6cd5\u6297\u6027\u3002",
+    "zh_CN": "+1 \u5965\u672f\u6297\u6027\u3002"
+  }
 }
