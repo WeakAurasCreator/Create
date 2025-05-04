@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "99"
+  "SpellID": "99",
+  "name_blz": {
+    "en_US": "Incapacitating Roar",
+    "es_MX": "Rugido incapacitante",
+    "pt_BR": "Rugido Incapacitante",
+    "de_DE": "Ersch\u00fctterndes Gebr\u00fcll",
+    "en_GB": "Incapacitating Roar",
+    "es_ES": "Rugido incapacitante",
+    "fr_FR": "Rugissement incapacitant",
+    "it_IT": "Ruggito Inabilitante",
+    "ru_RU": "\u041f\u0430\u0440\u0430\u043b\u0438\u0437\u0443\u044e\u0449\u0438\u0439 \u0440\u044b\u043a",
+    "ko_KR": "\ud589\ub3d9 \ubd88\uac00\uc758 \ud3ec\ud6a8",
+    "zh_TW": "\u7671\u7613\u5486\u54ee",
+    "zh_CN": "\u593a\u9b42\u5486\u54ee"
+  },
+  "description_blz": {
+    "en_US": "Shift into Bear Form and invoke the spirit of Ursol to let loose a deafening roar, incapacitating all enemies within 10 yards for 3 sec. Damage may cancel the effect.",
+    "es_MX": "Adopta la forma de oso e invoca al esp\u00edritu de Ursol para proferir un rugido ensordecedor que incapacita a todos los enemigos en un radio de 10 m durante 3 s. El da\u00f1o puede cancelar el efecto.",
+    "pt_BR": "Assume a Forma de Urso e evoca o esp\u00edrito de Ursol para soltar um rugido ensurdecedor, incapacitando todos os inimigos em um raio de 10 m por 3 s. Dano pode cancelar o efeito.",
+    "de_DE": "Verwandelt Euch in B\u00e4rengestalt und ruft den Geist Ursols an, um ein ohrenbet\u00e4ubendes Gebr\u00fcll auszusto\u00dfen, das alle Gegner innerhalb von 10 Metern 3 Sek. lang handlungsunf\u00e4hig macht. Schaden kann den Effekt beenden.",
+    "en_GB": "Shift into Bear Form and invoke the spirit of Ursol to let loose a deafening roar, incapacitating all enemies within 10 yards for 3 sec. Damage may cancel the effect.",
+    "es_ES": "Adoptas forma de oso e invocas al esp\u00edritu de Ursol, que lanza un rugido ensordecedor e incapacita a todos los enemigos en un radio de 10 m durante 3 s. El da\u00f1o puede cancelar el efecto.",
+    "fr_FR": "Invoquant l\u2019esprit d\u2019Ursol, vous adoptez votre forme d\u2019ours et poussez un rugissement assourdissant qui stup\u00e9fie les adversaires \u00e0 moins de 10\u00a0m pendant 3 s. L\u2019effet peut \u00eatre annul\u00e9 si la cible subit des d\u00e9g\u00e2ts.",
+    "it_IT": "Muta in Forma d'Orso e invoca lo spirito di Ursol che ruggisce, inabilitando tutti i nemici entro 10 m per 3 s. Eventuali danni possono annullare l'effetto.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u043e\u0431\u043b\u0438\u043a \u043c\u0435\u0434\u0432\u0435\u0434\u044f \u0438 \u043f\u0440\u043e\u0431\u0443\u0436\u0434\u0430\u0435\u0442\u0435 \u0432 \u0441\u0435\u0431\u0435 \u0434\u0443\u0445 \u0423\u0440\u0441\u043e\u043b\u0430, \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u0438\u0437\u0434\u0430\u0435\u0442\u0435 \u043e\u0433\u043b\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430 3 \u0441\u0435\u043a. \u043f\u0430\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c. \u0423\u0440\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0441\u043d\u044f\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\uacf0\uc73c\ub85c \ubcc0\uc2e0\ud558\uc5ec \uc6b0\ub974\uc194\uc758 \ud63c\uc744 \uc77c\uae68\uc6cc \uadc0\uccad\uc774 \ud130\uc9c8 \ub4ef\ud55c \ud3ec\ud6a8\ub97c \ub0b4\uc9c0\ub985\ub2c8\ub2e4. 10\ubbf8\ud130 \uc548\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc801\uc744 3\ucd08 \ub3d9\uc548 \ud589\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\ub85c \ub9cc\ub4ed\ub2c8\ub2e4. \ub300\uc0c1\uc774 \ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9c8 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8b8a\u5f62\u6210\u718a\u5f62\u614b\uff0c\u53ec\u559a\u5384\u7d22\u723e\u4e4b\u9748\u767c\u51fa\u9707\u8033\u5486\u54ee\uff0c\u7671\u761310\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\uff0c\u6301\u7e8c3\u79d2\u3002\u50b7\u5bb3\u53ef\u80fd\u6703\u79fb\u9664\u6b64\u6548\u679c\u3002",
+    "zh_CN": "\u53d8\u4e3a\u718a\u5f62\u6001\u5e76\u53ec\u5524\u4e4c\u7d22\u5c14\u4e4b\u9b42\uff0c\u53d1\u51fa\u9707\u8033\u7684\u5486\u54ee\uff0c\u4f7f10\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\u762b\u75ea3\u79d2\u3002\u4f24\u5bb3\u53ef\u80fd\u89e3\u9664\u8be5\u6548\u679c\u3002"
+  }
 }
