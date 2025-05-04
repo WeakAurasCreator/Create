@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "50842"
+  "SpellID": "50842",
+  "name_blz": {
+    "en_US": "Blood Boil",
+    "es_MX": "Hervor de sangre",
+    "pt_BR": "Sangue Fervente",
+    "de_DE": "Siedendes Blut",
+    "en_GB": "Blood Boil",
+    "es_ES": "Hervor de sangre",
+    "fr_FR": "Furoncle sanglant",
+    "it_IT": "Ebollizione del Sangue",
+    "ru_RU": "\u0412\u0441\u043a\u0438\u043f\u0430\u043d\u0438\u0435 \u043a\u0440\u043e\u0432\u0438",
+    "ko_KR": "\ud53c\uc758 \uc18c\uc6a9\ub3cc\uc774",
+    "zh_TW": "\u6cb8\u8840\u8853",
+    "zh_CN": "\u8840\u6db2\u6cb8\u817e"
+  },
+  "description_blz": {
+    "en_US": "Deals 342 Shadow damage and infects all enemies within 10 yds with Blood Plague.\r\n\r\n Blood Plague\r\nA shadowy disease that drains 412 health from the target over 24 sec.  ",
+    "es_MX": "Inflige 345 p. de da\u00f1o de las sombras e infecta a todos los enemigos en un radio de 10 m con Peste de sangre.\r\n\r\n Peste de sangre\r\nUna enfermedad sombr\u00eda que drena 412 de salud del objetivo durante 24 s.  ",
+    "pt_BR": "Causa 344 de dano de Sombra e infecta todos os inimigos em um raio de 10 m com Peste Sangu\u00ednea.\r\n\r\n Peste Sangu\u00ednea\r\nUma doen\u00e7a sombria que drena 412 pontos de vida do alvo ao longo de 24 s.  ",
+    "de_DE": "Verursacht 347 Schattenschaden und infiziert alle Gegner innerhalb von 10 Metern mit der 'Blutseuche'.\r\n\r\n Blutseuche\r\nEine schattenhafte Krankheit, die dem Ziel im Verlauf von 24 Sek. 412 Gesundheit entzieht.",
+    "en_GB": "Deals 337 Shadow damage and infects all enemies within 10 yds with Blood Plague.\r\n\r\n Blood Plague\r\nA shadowy disease that drains 412 health from the target over 24 sec.  ",
+    "es_ES": "Inflige 346 p. de da\u00f1o de las Sombras e infecta a todos los enemigos en un radio de 10 m con Peste de sangre.\r\n\r\n Peste de sangre\r\nUna enfermedad sombr\u00eda que drena 412 p. de salud del objetivo durante 24 s.",
+    "fr_FR": "Inflige 340\u00a0points de d\u00e9g\u00e2ts d\u2019ombre et inocule Peste de sang aux adversaires \u00e0 moins de 10\u00a0m.\r\n\r\n Peste de sang\r\nUne maladie t\u00e9n\u00e9breuse qui draine 412\u00a0points de vie \u00e0 la cible en 24 s. ",
+    "it_IT": "Infligge 338 danni da ombra e infetta tutti i nemici entro 10 m con Morbo del Sangue.\r\n\r\n Morbo del Sangue\r\nUna malattia d'ombra che prosciuga 412 salute al bersaglio in 24 s.",
+    "ru_RU": "\u041d\u0430\u043d\u043e\u0441\u0438\u0442 345 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u0437\u0430\u0440\u0430\u0436\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c \"\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u0447\u0443\u043c\u043e\u0439\".\r\n\r\n \u041a\u0440\u043e\u0432\u0430\u0432\u0430\u044f \u0447\u0443\u043c\u0430\r\n\u0412\u044b\u0437\u0432\u0430\u043d\u043d\u0430\u044f \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0435\u0439 \u0431\u043e\u043b\u0435\u0437\u043d\u044c, \u043f\u043e\u0445\u0438\u0449\u0430\u044e\u0449\u0430\u044f \u0443 \u0446\u0435\u043b\u0438 412 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 24 \u0441\u0435\u043a.",
+    "ko_KR": "337\uc758 \uc554\ud751 \ud53c\ud574\ub97c 10\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c \uc785\ud788\uace0 \ucd94\uac00\ub85c \ud53c\uc758 \uc5ed\ubcd1\uc5d0 \uac10\uc5fc\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n \ud53c\uc758 \uc5ed\ubcd1\r\n\uc5b4\ub460\uc758 \uc9c8\ubcd1\uc744 \uc77c\uc73c\ucf1c 24\ucd08\uc5d0 \uac78\uccd0 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc744 \ucd1d 412\ub9cc\ud07c \ud761\uc218\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d10\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\u9020\u6210348\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4f7f\u7bc4\u570d\u5167\u6240\u6709\u6575\u4eba\u67d3\u4e0a\u8840\u9b44\u761f\u75ab\u3002\r\n\r\n\u8840\u9b44\u761f\u75ab\r\n\u4e00\u7a2e\u6697\u5f71\u822c\u7684\u75be\u75c5\uff0c\u6703\u572824\u79d2\u5167\u5f9e\u76ee\u6a19\u8eab\u4e0a\u6c72\u53d6412\u9ede\u751f\u547d\u529b\u3002  ",
+    "zh_CN": "\u9020\u6210345\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4f7f10\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\u611f\u67d3\u8840\u4e4b\u75ab\u75c5\u3002\r\n\r\n \u8840\u4e4b\u75ab\u75c5\r\n\u6697\u5f71\u75be\u75c5\uff0c\u572824\u79d2\u5185\u4ece\u76ee\u6807\u8eab\u4e0a\u5438\u53d6412\u70b9\u751f\u547d\u3002"
+  }
 }
