@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "15407"
+  "SpellID": "15407",
+  "name_blz": {
+    "en_US": "Mind Flay",
+    "es_MX": "Tortura mental",
+    "pt_BR": "A\u00e7oite Mental",
+    "de_DE": "Gedankenschinden",
+    "en_GB": "Mind Flay",
+    "es_ES": "Tortura mental",
+    "fr_FR": "Fouet mental",
+    "it_IT": "Flagello Mentale",
+    "ru_RU": "\u041f\u044b\u0442\u043a\u0430 \u0440\u0430\u0437\u0443\u043c\u0430",
+    "ko_KR": "\uc815\uc2e0\uc758 \ucc44\ucc0d",
+    "zh_TW": "\u7cbe\u795e\u97ad\u7b1e",
+    "zh_CN": "\u7cbe\u795e\u97ad\u7b1e"
+  },
+  "description_blz": {
+    "en_US": "Assaults the target's mind with Shadow energy, causing 21,921 Shadow damage over 4.1 sec and slowing their movement speed by 50%.\r\n\r\nGenerates 12 Insanity over the duration.",
+    "es_MX": "Asalta la mente del objetivo con energ\u00eda de las sombras, lo que le inflige 21,921 p. de da\u00f1o de las sombras durante 4.1 s y reduce un 50% su velocidad de movimiento.\r\n\r\nGenera 12 p. de demencia mientras dura.",
+    "pt_BR": "Ataca a mente do alvo com energia sombria, causando 21.921 de dano de Sombra ao longo de 4,1 s e reduzindo em 50% a velocidade de movimento do alvo.\r\n\r\nGera 12 de Insanidade ao longo da dura\u00e7\u00e3o.",
+    "de_DE": "Greift die Gedanken des Ziels mit Schattenenergie an, f\u00fcgt ihm so im Verlauf von 4,1 Sek. 21.921 Schattenschaden zu und verringert seine Bewegungsgeschwindigkeit um 50%.\r\n\r\nErzeugt im Verlauf der Effektdauer 12 Wahnsinn.",
+    "en_GB": "Assaults the target's mind with Shadow energy, causing 21,921 Shadow damage over 4.1 sec and slowing their movement speed by 50%.\r\n\r\nGenerates 12 Insanity over the duration.",
+    "es_ES": "Irrumpe en la mente del objetivo con energ\u00eda de las Sombras, lo que le inflige 21921 p. de da\u00f1o de las Sombras durante 4,1 s y reduce su velocidad de movimiento un 50%.\r\n\r\nGenera 12 p. de demencia mientras dura.",
+    "fr_FR": "Attaque l\u2019esprit de la cible avec l\u2019\u00e9nergie de l\u2019ombre, ce qui lui inflige 21921\u00a0points de d\u00e9g\u00e2ts d\u2019ombre en 4,1 s et r\u00e9duit sa vitesse de d\u00e9placement de 50%.\r\n\r\nG\u00e9n\u00e8re 12\u00a0points d\u2019insanit\u00e9 sur la dur\u00e9e de l\u2019effet.",
+    "it_IT": "Attacca la mente del nemico con energia d'ombra, infliggendo 21.921 danni da ombra in 4,1 s e riducendo la velocit\u00e0 di movimento del bersaglio del 50%.\r\n\r\nGenera 12 pazzia per la durata dell'effetto.",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0440\u0430\u0437\u0443\u043c \u0446\u0435\u043b\u0438 \u044d\u043d\u0435\u0440\u0433\u0438\u0435\u0439 \u0422\u044c\u043c\u044b, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0439 21921 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0437\u0430 4,1 \u0441\u0435\u043a. \u0438 \u0441\u043d\u0438\u0436\u0430\u044e\u0449\u0435\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 50%.\r\n\r\n\u0417\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0434\u0430\u0435\u0442 12 \u0435\u0434. \u0431\u0435\u0437\u0443\u043c\u0438\u044f.",
+    "ko_KR": "\ub300\uc0c1\uc758 \uc815\uc2e0\uc744 \uc554\ud751\uc758 \uae30\uc6b4\uc73c\ub85c \uacf5\uaca9\ud558\uc5ec, 4.1\ucd08\uc5d0 \uac78\uccd0 \ucd1d 21,921\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc774\ub3d9 \uc18d\ub3c4\ub97c 50%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uc9c0\uc18d\uc2dc\uac04\uc5d0 \uac78\uccd0 12\uc758 \uad11\uae30\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u6697\u5f71\u80fd\u91cf\u653b\u64ca\u76ee\u6a19\u7684\u5fc3\u667a\uff0c\u57284.1\u79d2\u5167\u9020\u621021,921\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4e14\u4f7f\u5176\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e50%\u3002\r\n\r\n\u5728\u6301\u7e8c\u6642\u9593\u5167\u7522\u751f12\u9ede\u760b\u72c2\u3002",
+    "zh_CN": "\u7528\u6697\u5f71\u80fd\u91cf\u653b\u51fb\u76ee\u6807\u7684\u7cbe\u795e\uff0c\u57284.1\u79d2\u5185\u9020\u621021,921\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4f7f\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e50%\u3002\r\n\r\n\u6301\u7eed\u671f\u95f4\u4ea7\u751f12\u70b9\u72c2\u4e71\u503c\u3002"
+  }
 }
