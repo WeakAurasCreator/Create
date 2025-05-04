@@ -80,9 +80,10 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
         1.  Fetch and reference only the most authoritative online guides for the {player_spec} {player_class} to determine which conditions matter for Power Infusion.  
         2.  Parse the given APL line, treating `&` as logical AND and `|` as logical OR.
         3.  Discard any checks irrelevant to a Priest providing Power Infusion (e.g. damage rotations, defensive cooldowns).
-        4.  Output **only** the HTML snippet that will be inserted directly into a webpage—no leading commentary or markdown fencing.
+        4.  Output only the HTML snippet that will be inserted directly into a webpage—no leading commentary or markdown fencing.
         5.  The HTML must be ready for display: use appropriate tags (e.g. `<p>`, `<strong>`, `<em>`), and keep styling minimal.
         6.  Your entire response must be pure HTML.
+        7.  Do NOT include any asterisks (*) or square brackets [ ] in your output.
 
         Here is the APL line to convert: {apl_line}
 
@@ -103,8 +104,11 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
             }
         ]
     )
+    raw = resp.choices[0].message.content.strip()
+    print(f"fetched description for{player_class} {player_spec}: {line}")
     print(resp)
-    return resp.choices[0].message.content.strip()
+    cleaned = re.sub(r"[\*\[\]]+", "", raw)
+    return cleaned
 
 def main():
     gh_token = os.getenv("GITHUB_TOKEN")
