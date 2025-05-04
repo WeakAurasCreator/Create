@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "38425"
+  "SpellID": "38425",
+  "name_blz": {
+    "en_US": "Improved Flash of Light",
+    "es_MX": "Destello de Luz mejorado",
+    "pt_BR": "Clar\u00e3o de Luz Aprimorado",
+    "de_DE": "Verbesserter Lichtblitz",
+    "en_GB": "Improved Flash of Light",
+    "es_ES": "Destello de Luz mejorado",
+    "fr_FR": "\u00c9clair lumineux am\u00e9lior\u00e9",
+    "it_IT": "Lampo di Luce Migliorato",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u0430\u044f \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uc12c\uad11 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u8056\u5149\u9583\u73fe",
+    "zh_CN": "Improved Flash of Light"
+  },
+  "description_blz": {
+    "en_US": "Increases the spell power of your Flash of Light ability by 5%.",
+    "es_MX": "Aumenta el poder con hechizos de tu facultad Destello de Luz un 5%.",
+    "pt_BR": "Aumenta em 5% o poder m\u00e1gico da sua habilidade Clar\u00e3o de Luz.",
+    "de_DE": "Erh\u00f6ht die Zaubermacht Eures Zaubers 'Lichtblitz' um 5%.",
+    "en_GB": "Increases the spell power of your Flash of Light ability by 5%.",
+    "es_ES": "Aumenta el poder con hechizos de tu facultad Destello de Luz un 5%.",
+    "fr_FR": "Augmente de 5% la puissance de votre technique \u00c9clair lumineux.",
+    "it_IT": "Aumenta la potenza magica di Lampo di Luce del 5%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0441\u0438\u043b\u0443 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0421\u0432\u0435\u0442\u0430\" \u043d\u0430 5%.",
+    "ko_KR": "\ube5b\uc758 \uc12c\uad11\uc758 \uc8fc\ubb38\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u8056\u5149\u9583\u73fe\u7684\u6cd5\u8853\u80fd\u91cf\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u5723\u5149\u95ea\u73b0\u7684\u6cd5\u672f\u5f3a\u5ea6\u63d0\u9ad85%\u3002"
+  }
 }
