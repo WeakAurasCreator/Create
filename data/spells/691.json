@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "691"
+  "SpellID": "691",
+  "name_blz": {
+    "en_US": "Summon Felhunter",
+    "es_MX": "Invocar man\u00e1fago",
+    "pt_BR": "Evocar Ca\u00e7ador Vil",
+    "de_DE": "Teufelsj\u00e4ger beschw\u00f6ren",
+    "en_GB": "Summon Felhunter",
+    "es_ES": "Invocar man\u00e1fago",
+    "fr_FR": "Invocation\u00a0: chasseur corrompu",
+    "it_IT": "Evocazione: Vilsegugio",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc9c0\uc625\uc0ac\ub0e5\uac1c \uc18c\ud658",
+    "zh_TW": "\u53ec\u559a\u60e1\u9b54\u7375\u72ac",
+    "zh_CN": "\u53ec\u5524\u5730\u72f1\u730e\u72ac"
+  },
+  "description_blz": {
+    "en_US": "Summons a Felhunter under your command, able to disrupt the spell casts of your enemies.",
+    "es_MX": "Invoca un Man\u00e1fago a tus \u00f3rdenes, capaz de interrumpir los hechizos lanzados por tus enemigos.",
+    "pt_BR": "Evoca um Ca\u00e7ador Vil que fica \u00e0s suas ordens, capaz de interromper o lan\u00e7amento de feiti\u00e7o dos seus inimigos.",
+    "de_DE": "Beschw\u00f6rt einen Teufelsj\u00e4ger, der unter Eurem Befehl steht und das Zauberwirken von Gegnern unterbrechen kann.",
+    "en_GB": "Summons a Felhunter under your command, able to disrupt the spell casts of your enemies.",
+    "es_ES": "Invoca a un man\u00e1fago a tus \u00f3rdenes capaz de interrumpir los lanzamientos de hechizos de tus enemigos.",
+    "fr_FR": "Invoque \u00e0 votre service un chasseur corrompu qui peut interrompre les sorts lanc\u00e9s par vos ennemis.",
+    "it_IT": "Evoca ai tuoi comandi un Vilsegugio, capace di interrompere il lancio d'incantesimi dei tuoi nemici.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u0421\u043a\u0432\u0435\u0440\u043d\u044b, \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432.",
+    "ko_KR": "\uc9c0\uc625\uc0ac\ub0e5\uac1c\ub97c \uc18c\ud658\ud558\uc5ec \ubd80\ub9ac\uba70 \uc801\uc758 \ub9c8\ubc95 \uc2dc\uc804\uc744 \ubc29\ud574\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u982d\u60e1\u9b54\u7375\u72ac\u4f9b\u4f60\u9a45\u4f7f\uff0c\u53ef\u4ee5\u5e72\u64fe\u6575\u4eba\u65bd\u6cd5\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u53ea\u5730\u72f1\u730e\u72ac\u4e3a\u4f60\u4f5c\u6218\uff0c\u5730\u72f1\u730e\u72ac\u80fd\u591f\u6270\u4e71\u654c\u4eba\u65bd\u6cd5\u3002"
+  }
 }
