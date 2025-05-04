@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "31230"
+  "SpellID": "31230",
+  "name_blz": {
+    "en_US": "Cheat Death",
+    "es_MX": "Burlar a la muerte",
+    "pt_BR": "Escapar da Morte",
+    "de_DE": "Von der Schippe springen",
+    "en_GB": "Cheat Death",
+    "es_ES": "Burlar a la muerte",
+    "fr_FR": "Trompe-la-mort",
+    "it_IT": "Inganno alla Morte",
+    "ru_RU": "\u041e\u0431\u043c\u0430\u043d \u0441\u043c\u0435\u0440\u0442\u0438",
+    "ko_KR": "\uad6c\uc0ac\uc77c\uc0dd",
+    "zh_TW": "\u6b7b\u4ea1\u8b0a\u8a00",
+    "zh_CN": "\u88c5\u6b7b"
+  },
+  "description_blz": {
+    "en_US": "Fatal attacks instead reduce you to 7% of your maximum health. For 3 sec afterward, you take 85% reduced damage. Cannot trigger more often than once per 6 min.",
+    "es_MX": "Los ataques fatales te dejan con un 7% de tu salud m\u00e1xima. Despu\u00e9s de esto, recibes un 85% menos de da\u00f1o durante 3 s. No puede activarse m\u00e1s de una vez cada 6 min.",
+    "pt_BR": "Em vez de morrer, voc\u00ea fica com 7% do seu m\u00e1ximo de pontos de vida. Por 3 s depois disso, voc\u00ea recebe 85% a menos de dano. Este efeito s\u00f3 pode ocorrer uma vez a cada 6 min.",
+    "de_DE": "T\u00f6dliche Angriffe setzen Eure Gesundheit auf 7% Eurer maximalen Gesundheit, statt Euch zu t\u00f6ten. Danach wird Euer erlittener Schaden 3 Sek. lang um 85% verringert. Dieser Effekt kann nur einmal alle 6 Min. auftreten.",
+    "en_GB": "Fatal attacks instead reduce you to 7% of your maximum health. For 3 sec afterward, you take 85% reduced damage. Cannot trigger more often than once per 6 min.",
+    "es_ES": "Los ataques fatales reducen tu salud a un 7% de tu salud m\u00e1xima en vez de matarte. Durante los siguientes 3 s, recibes un 85% menos de da\u00f1o. No se puede activar m\u00e1s de una vez cada 6 min.",
+    "fr_FR": "Au lieu de vous tuer, les attaques fatales vous font tomber \u00e0 7% de votre maximum de points de vie. Pendant les 3 s qui suivent, les d\u00e9g\u00e2ts subis sont r\u00e9duits de 85%. Ne peut se d\u00e9clencher plus d\u2019une fois toutes les 6 min.",
+    "it_IT": "Un attacco altrimenti letale porta al 7% di salute restante. Per i successivi 3 s, i danni subiti sono ridotti del 85%. L'effetto non pu\u00f2 verificarsi pi\u00f9 di una volta ogni 6 min.",
+    "ru_RU": "\u041f\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432\u044b \u043e\u0441\u0442\u0430\u043d\u0435\u0442\u0435\u0441\u044c \u0436\u0438\u0432\u044b; \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0435 \u0443\u043f\u0430\u0434\u0435\u0442 \u043d\u0438\u0436\u0435 7%. \u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 3 \u0441\u0435\u043a. \u0432\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u043d\u0430 85% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 6 \u043c\u0438\u043d.",
+    "ko_KR": "\uc8fd\uc74c\uc5d0 \uc774\ub974\ub294 \uce58\uba85\uc801\uc778 \uacf5\uaca9\uc744 \ubc1b\uc558\uc744 \ub54c, \uc8fd\ub294 \ub300\uc2e0 \uc804\uccb4 \uc0dd\uba85\ub825\uc758 7%\ub9cc\ud07c \uc0dd\uba85\ub825\uc774 \ubcf4\uc874\ub418\uace0, 3\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\uac00 85%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 6\ubd84\uc5d0 1\ubc88\uc529\ub9cc \ubc1c\ub3d9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u53d7\u5230\u8db3\u4ee5\u81f4\u547d\u7684\u653b\u64ca\u6642\uff0c\u4f7f\u4f60\u7684\u751f\u547d\u529b\u6700\u591a\u964d\u4f4e\u81f3\u751f\u547d\u529b\u4e0a\u9650\u76847%\uff0c\u4e26\u4e14\u5728\u5f8c\u7e8c3\u79d2\u5167\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e85%\u3002\u6b64\u6548\u679c\u6bcf6\u5206\u9418\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u539f\u672c\u81f4\u547d\u7684\u653b\u51fb\u8f6c\u800c\u4f7f\u4f60\u7684\u751f\u547d\u503c\u964d\u5230\u6700\u5927\u751f\u547d\u503c\u76847%\u3002\u4e4b\u540e\u76843\u79d2\u5185\uff0c\u4f60\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e85%\u3002\u8be5\u6548\u679c\u6bcf6\u5206\u949f\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }
