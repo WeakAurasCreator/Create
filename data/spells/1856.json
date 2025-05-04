@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1856"
+  "SpellID": "1856",
+  "name_blz": {
+    "en_US": "Vanish",
+    "es_MX": "Esfumarse",
+    "pt_BR": "Sumir",
+    "de_DE": "Verschwinden",
+    "en_GB": "Vanish",
+    "es_ES": "Esfumarse",
+    "fr_FR": "Disparition",
+    "it_IT": "Sparizione",
+    "ru_RU": "\u0418\u0441\u0447\u0435\u0437\u043d\u043e\u0432\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc18c\uba78",
+    "zh_TW": "\u6d88\u5931",
+    "zh_CN": "\u6d88\u5931"
+  },
+  "description_blz": {
+    "en_US": "Allows you to vanish from sight, entering stealth while in combat. For the first 3 sec after vanishing, damage and harmful effects received will not break stealth. Also breaks movement impairing effects.",
+    "es_MX": "Te permite esfumarte y entrar en modo sigilo durante el combate. Durante los primeros 3 s tras esfumarte, el da\u00f1o y los efectos da\u00f1inos recibidos no romper\u00e1n el sigilo. Tambi\u00e9n elimina los efectos de reducci\u00f3n de movimiento.",
+    "pt_BR": "Permite a voc\u00ea desaparecer da vista de todos, entrando em modo furtivo em combate. Nos primeiros 3 s depois de sumir, dano e efeitos nocivos recebidos n\u00e3o cancelam a furtividade. Tamb\u00e9m remove efeitos que dificultam o movimento.",
+    "de_DE": "Erm\u00f6glicht es Euch, sofort zu verschwinden und so im Kampf in den Verstohlenheitsmodus \u00fcberzugehen. F\u00fcr die ersten 3 Sek. nach dem Verschwinden k\u00f6nnen weder Schaden noch sch\u00e4dliche Effekte die Verstohlenheit brechen. Bewegungseinschr\u00e4nkende Effekte werden beim Verschwinden entfernt.",
+    "en_GB": "Allows you to vanish from sight, entering stealth while in combat. For the first 3 sec after vanishing, damage and harmful effects received will not break stealth. Also breaks movement impairing effects.",
+    "es_ES": "Te permite esfumarte y entrar en modo sigilo mientras est\u00e1s en combate. Durante los primeros 3 s tras esfumarte, el da\u00f1o y los efectos da\u00f1inos recibidos no romper\u00e1n el sigilo. Tambi\u00e9n elimina los efectos de reducci\u00f3n de movimiento.",
+    "fr_FR": "Vous permet de dispara\u00eetre et de passer en mode camouflage en combat. Pendant les 3 s qui suivent votre disparition, les d\u00e9g\u00e2ts et effets n\u00e9fastes subis n\u2019interrompent pas le camouflage. Annule \u00e9galement les effets qui affectent le d\u00e9placement.",
+    "it_IT": "Permette di scomparire, entrando in una modalit\u00e0 furtiva in combattimento. Per i primi 3 s dopo la scomparsa, i danni e gli effetti negativi ricevuti non annullano la furtivit\u00e0. Inoltre, rimuove gli effetti di limitazione al movimento.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0441\u043a\u0440\u044b\u0442\u044c\u0441\u044f \u0441 \u0433\u043b\u0430\u0437 \u0432 \u0431\u043e\u044e, \u0432\u043e\u0439\u0434\u044f \u0432 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u043e\u0441\u0442\u0438. \u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u0435 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b. \u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0432\u044b\u0445 3 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0438\u0441\u0447\u0435\u0437\u043d\u043e\u0432\u0435\u043d\u0438\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0438 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043d\u0435 \u0441\u043d\u0438\u043c\u0430\u044e\u0442 \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u043e\u0441\u0442\u044c.",
+    "ko_KR": "\uc804\ud22c \uc911 \uc2dc\uc57c\uc5d0\uc11c \uc0ac\ub77c\uc838 \uc740\uc2e0 \uc0c1\ud0dc\ub97c \ucde8\ud569\ub2c8\ub2e4. \uc18c\uba78 \uc0ac\uc6a9 \ud6c4 \ucc98\uc74c 3\ucd08 \ub3d9\uc548\uc5d0\ub294 \ud53c\ud574\ub97c \uc785\uac70\ub098 \ud574\ub85c\uc6b4 \ud6a8\uacfc\uac00 \uc801\uc6a9\ub418\uc5b4\ub3c4 \uc740\uc2e0\uc774 \ud574\uc81c\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uc774\ub3d9 \ubc29\ud574 \ud6a8\uacfc\uc5d0\uc11c \ubc97\uc5b4\ub0a0 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u6d88\u5931\u4e26\u5728\u6230\u9b25\u4e2d\u9032\u5165\u6f5b\u884c\u72c0\u614b\u3002\u5728\u6d88\u5931\u5f8c\u7684\u524d3\u79d2\u5167\u6240\u53d7\u5230\u7684\u50b7\u5bb3\u6216\u6709\u5bb3\u6548\u679c\u4e0d\u6703\u53d6\u6d88\u6f5b\u884c\u72c0\u614b\u3002\u540c\u6642\u53ef\u89e3\u9664\u79fb\u52d5\u9650\u5236\u6548\u679c\u3002",
+    "zh_CN": "\u4f7f\u4f60\u4ece\u654c\u4eba\u7684\u89c6\u91ce\u4e2d\u6d88\u5931\uff0c\u5728\u6218\u6597\u4e2d\u8fdb\u5165\u6f5c\u884c\u6a21\u5f0f\u3002\u6d88\u5931\u540e\u7684\u6700\u521d3\u79d2\u5185\uff0c\u53d7\u5230\u4f24\u5bb3\u548c\u6709\u5bb3\u6548\u679c\u5f71\u54cd\u90fd\u4e0d\u4f1a\u8131\u79bb\u6f5c\u884c\u3002\u540c\u65f6\u89e3\u9664\u4e00\u5207\u79fb\u52a8\u9650\u5236\u6548\u679c\u3002"
+  }
 }
