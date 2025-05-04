@@ -27,7 +27,7 @@ async def fetch_csv(session, url):
 async def download_image(session, spell_id, icon_filename, semaphore):
     """Download and save spell icon asynchronously using a semaphore."""
     url = f"https://render.worldofwarcraft.com/us/icons/56/{icon_filename}"
-    icon_path = f"data/icons/{spell_id}.jpg"
+    icon_path = f"data/icons/{icon_filename}"
     
     async with semaphore:
         async with session.get(url) as response:
