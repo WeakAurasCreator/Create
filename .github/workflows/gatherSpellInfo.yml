@@ -12,16 +12,9 @@ jobs:
       BLIZZARD_CLIENT_ID: ${{ secrets.BLIZZARD_CLIENT_ID }}
       BLIZZARD_CLIENT_SECRET: ${{ secrets.BLIZZARD_CLIENT_SECRET }}
       BATCH_SIZE:  30000       
-      MAX_RUNTIME_HOURS: 1
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
-
-      - name: Load Progress
-        id: load_progress
-        run: |
-          echo "::set-output name=last_index::$(jq .last_index data/progress.json)"
-          echo "::set-output name=round::$(jq .round data/progress.json)"  
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -37,7 +30,6 @@ jobs:
         run: |
             python backend_scripts/gather_spell_data.py \
               --batch-size $BATCH_SIZE \
-              --start-index ${{ steps.load_progress.outputs.last_index }}
 
       - name: Commit and push changes
         run: |

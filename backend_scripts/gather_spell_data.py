@@ -156,7 +156,6 @@ async def process_batch(batch_ids, spells, spellmisc, manifest):
 def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument("--batch-size",   type=int, required=True)
-    p.add_argument("--start-index",  type=int, required=True)
     return p.parse_args()
 # Run the async script
 async def main():
