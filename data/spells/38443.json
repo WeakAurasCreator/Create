@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "38443"
+  "SpellID": "38443",
+  "name_blz": {
+    "en_US": "Totemic Mastery",
+    "es_MX": "Maestr\u00eda tot\u00e9mica",
+    "pt_BR": "Profici\u00eancia Tot\u00eamica",
+    "de_DE": "Totembeherrschung",
+    "en_GB": "Totemic Mastery",
+    "es_ES": "Maestr\u00eda tot\u00e9mica",
+    "fr_FR": "Ma\u00eetrise tot\u00e9mique",
+    "it_IT": "Maestria Totemica",
+    "ru_RU": "\u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u0442\u043e\u0442\u0435\u043c\u043e\u0432",
+    "ko_KR": "\ud1a0\ud15c \uc804\ubb38\ud654",
+    "zh_TW": "\u7cbe\u901a\u5716\u9a30",
+    "zh_CN": "\u56fe\u817e\u638c\u63e1"
+  },
+  "description_blz": {
+    "en_US": "Increases Versatility by 0, Critical Strike by 0, and Intellect by 0.",
+    "es_MX": "Aumenta la versatilidad 0 p., el golpe cr\u00edtico 0 p. y el intelecto 0 p.",
+    "pt_BR": "Aumenta em 0 a Versatilidade, em 0 o Acerto Cr\u00edtico e em 0 o Intelecto.",
+    "de_DE": "Erh\u00f6ht die Vielseitigkeit um 0, den kritischen Trefferwert um 0 und die Intelligenz um 0.",
+    "en_GB": "Increases Versatility by 0, Critical Strike by 0, and Intellect by 0.",
+    "es_ES": "Aumenta la versatilidad 0 p., el golpe cr\u00edtico 0 p. y el intelecto 0 p.",
+    "fr_FR": "Augmente la polyvalence de 0, le score de Coup critique de 0 et l\u2019Intelligence de 0.",
+    "it_IT": "Aumenta l'indice di versatilit\u00e0 di 0, la probabilit\u00e0 di critico di 0 e l'Intelletto di 0.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043d\u0430 0, \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u2013 \u043d\u0430 0, \u0430 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442 \u2013 \u043d\u0430 0.",
+    "ko_KR": "\uc720\uc5f0\uc131\uc774 0\ub9cc\ud07c, \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uac00 0\ub9cc\ud07c, \uc9c0\ub2a5\uc774 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u81e8\u6a5f\u61c9\u8b8a\u63d0\u9ad80\u9ede\uff0c\u81f4\u547d\u4e00\u64ca\u63d0\u9ad80\u9ede\uff0c\u667a\u529b\u63d0\u9ad80\u9ede\u3002",
+    "zh_CN": "\u5168\u80fd\u63d0\u9ad80\uff0c\u7206\u51fb\u63d0\u9ad80\uff0c\u667a\u529b\u63d0\u9ad80\u70b9\u3002"
+  }
 }

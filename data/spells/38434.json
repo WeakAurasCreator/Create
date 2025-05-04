@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "38434"
+  "SpellID": "38434",
+  "name_blz": {
+    "en_US": "Chain Heal Discount",
+    "es_MX": "Descuento de Sanaci\u00f3n en cadena",
+    "pt_BR": "Desconto de Cura Encadeada",
+    "de_DE": "Kostenreduzierung f\u00fcr 'Kettenheilung'",
+    "en_GB": "Chain Heal Discount",
+    "es_ES": "Descuento de Sanaci\u00f3n en cadena",
+    "fr_FR": "Remise sur Salve de gu\u00e9rison",
+    "it_IT": "Ribasso di Catena di Guarigione",
+    "ru_RU": "\u042d\u043a\u043e\u043d\u043e\u043c\u043d\u043e\u0435 \u0446\u0435\u043f\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc5f0\uc1c4 \uce58\uc720 \ub9c8\ub098 \uc18c\ubaa8\ub7c9 \uac10\uc18c",
+    "zh_TW": "\u6cbb\u7642\u934a\u56de\u994b",
+    "zh_CN": "Chain Heal Discount"
+  },
+  "description_blz": {
+    "en_US": "Your Chain Heal ability costs 10% less mana.",
+    "es_MX": "Tu facultad Sanaci\u00f3n en cadena cuesta un 10% menos de man\u00e1.",
+    "pt_BR": "Sua habilidade Cura Encadeada custa 10% a menos de mana.",
+    "de_DE": "Euer Zauber 'Kettenheilung' kostet 10% weniger Mana.",
+    "en_GB": "Your Chain Heal ability costs 10% less mana.",
+    "es_ES": "Tu facultad Sanaci\u00f3n en cadena cuesta un 10% menos de man\u00e1.",
+    "fr_FR": "Votre technique Salve de gu\u00e9rison co\u00fbte 10% de mana en moins.",
+    "it_IT": "Catena di Guarigione costa il 10% di mana in meno.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0440\u0430\u0441\u0445\u043e\u0434 \u043c\u0430\u043d\u044b \u043d\u0430 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u0426\u0435\u043f\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u043d\u0430 10%.",
+    "ko_KR": "\uc5f0\uc1c4 \uce58\uc720\uc5d0 \uc18c\ube44\ub418\ub294 \ub9c8\ub098\uac00 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u6cbb\u7642\u934a\u6280\u80fd\u6240\u6d88\u8017\u7684\u6cd5\u529b\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u4f60\u7684\u6cbb\u7597\u94fe\u6240\u6d88\u8017\u7684\u6cd5\u529b\u503c\u51cf\u5c1110%\u3002"
+  }
 }
