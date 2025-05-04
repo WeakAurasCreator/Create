@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "2812"
+  "SpellID": "2812",
+  "name_blz": {
+    "en_US": "Denounce",
+    "es_MX": "Acusar",
+    "pt_BR": "Condenar",
+    "de_DE": "Denunzierung",
+    "en_GB": "Denounce",
+    "es_ES": "Acusar",
+    "fr_FR": "D\u00e9lation",
+    "it_IT": "Biasimo",
+    "ru_RU": "\u041e\u0431\u043b\u0438\u0447\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc120\uace0",
+    "zh_TW": "\u554f\u7f6a",
+    "zh_CN": "\u8c34\u8d23"
+  },
+  "description_blz": {
+    "en_US": "Casts down the enemy with a bolt of Holy Light, causing 21,111 Holy damage and preventing the target from causing critical effects for the next 8 sec.",
+    "es_MX": "Lanza al enemigo una descarga de Luz Sagrada, lo que inflige 21,111 p. de da\u00f1o Sagrado e impide al objetivo provocar efectos cr\u00edticos durante los pr\u00f3ximos 8 s.",
+    "pt_BR": "Subjuga o inimigo com um raio de Luz Sagrada, causando 21.111 de dano Sagrado e impedindo o alvo de causar efeitos cr\u00edticos por 8 s.",
+    "de_DE": "L\u00e4sst einen Blitz heiligen Lichts auf das Ziel niederfahren, der 21.111 Heiligschaden verursacht und es 8 Sek. lang hindert, kritische Effekte zu erzielen.",
+    "en_GB": "Casts down the enemy with a bolt of Holy Light, causing 21,111 Holy damage and preventing the target from causing critical effects for the next 8 sec.",
+    "es_ES": "Lanza al enemigo una descarga de Luz Sagrada, lo que inflige 21111 p. de da\u00f1o Sagrado e impide al objetivo provocar efectos cr\u00edticos durante los pr\u00f3ximos 8 s.",
+    "fr_FR": "Projette sur l\u2019ennemi un \u00e9clair de Lumi\u00e8re sacr\u00e9e qui lui inflige 21111 points de d\u00e9g\u00e2ts du Sacr\u00e9 et l\u2019emp\u00eache de produire des effets critiques pendant 8 s.",
+    "it_IT": "Scaglia un dardo di luce sacra sul nemico, infliggendo 21.111 danni da sacro e impedendo al bersaglio di ottenere effetti critici per i successivi 8 s.",
+    "ru_RU": "\u041f\u043e\u0441\u044b\u043b\u0430\u0435\u0442 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0437\u0430\u0440\u044f\u0434 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 21111 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044e\u0449\u0438\u0439 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a.",
+    "ko_KR": "\uc801\uc5d0\uac8c \uc2e0\uc131\ud55c \ube5b\uc758 \ud654\uc0b4\uc744 \ubc1c\uc0ac\ud558\uc5ec 21,111\uc758 \uc2e0\uc131 \ud53c\ud574\ub97c \uc785\ud788\uace0, \ub2e4\uc74c 8\ucd08 \ub3d9\uc548 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud560 \uc218 \uc5c6\uac8c \ub9cc\ub4ed\ub2c8\ub2e4.",
+    "zh_TW": "\u5c04\u51fa\u8056\u5149\u7684\u7bad\u77e2\uff0c\u5c0d\u76ee\u6a19\u9020\u621021,111\u9ede\u795e\u8056\u50b7\u5bb3\uff0c\u4e26\u4f7f\u5176\u5728\u63a5\u4e0b\u4f868\u79d2\u5167\u7121\u6cd5\u9020\u6210\u81f4\u547d\u4e00\u64ca\u7684\u6548\u679c\u3002",
+    "zh_CN": "\u5c04\u51fa\u4e00\u652f\u5723\u5149\u4e4b\u7bad\u51b2\u51fb\u654c\u4eba\uff0c\u9020\u621021,111\u70b9\u795e\u5723\u4f24\u5bb3\uff0c\u5e76\u4f7f\u76ee\u6807\u5728\u63a5\u4e0b\u6765\u76848\u79d2\u5185\u65e0\u6cd5\u9020\u6210\u7206\u51fb\u6548\u679c\u3002"
+  }
 }
