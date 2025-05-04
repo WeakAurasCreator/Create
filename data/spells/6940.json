@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "6940"
+  "SpellID": "6940",
+  "name_blz": {
+    "en_US": "Blessing of Sacrifice",
+    "es_MX": "Bendici\u00f3n de sacrificio",
+    "pt_BR": "B\u00ean\u00e7\u00e3o do Sacrif\u00edcio",
+    "de_DE": "Segen der Aufopferung",
+    "en_GB": "Blessing of Sacrifice",
+    "es_ES": "Bendici\u00f3n de sacrificio",
+    "fr_FR": "B\u00e9n\u00e9diction de sacrifice",
+    "it_IT": "Benedizione del Sacrificio",
+    "ru_RU": "\u0416\u0435\u0440\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0431\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ud76c\uc0dd\uc758 \ucd95\ubcf5",
+    "zh_TW": "\u72a7\u7272\u795d\u798f",
+    "zh_CN": "\u727a\u7272\u795d\u798f"
+  },
+  "description_blz": {
+    "en_US": "Blesses a party or raid member, reducing their damage taken by 30%, but you suffer 100% of damage prevented.\r\n\r\nLast 12 sec, or until transferred damage would cause you to fall below 20% health.",
+    "es_MX": "Bendice a un miembro de la banda o del grupo para reducir el da\u00f1o que recibe un 30%, pero t\u00fa recibes un 100% del da\u00f1o prevenido.\r\n\r\nDura 12 s o hasta que el da\u00f1o transferido te deje con menos de un 20% de salud.",
+    "pt_BR": "Aben\u00e7oa um integrante do grupo ou raide, reduzindo em 30% o dano que ele recebe, mas causando a voc\u00ea mesmo 100% do dano prevenido.\r\n\r\nDura 12 s ou at\u00e9 que o dano transferido deixe voc\u00ea com menos de 20% dos pontos de vida.",
+    "de_DE": "Segnet ein Gruppen- oder Schlachtzugsmitglied und verringert seinen erlittenen Schaden um 30%, jedoch erleidet Ihr 100% des verhinderten Schadens.\r\n\r\nH\u00e4lt 12 Sek. lang an oder bis der umgelenkte Schaden Euch unter 20% Eurer Gesundheit fallen lassen w\u00fcrde.",
+    "en_GB": "Blesses a party or raid member, reducing their damage taken by 30%, but you suffer 100% of damage prevented.\r\n\r\nLast 12 sec, or until transferred damage would cause you to fall below 20% health.",
+    "es_ES": "Bendice a un miembro del grupo o banda, lo que reduce el da\u00f1o que recibe un 30%, pero t\u00fa recibes un 100% del da\u00f1o evitado.\r\n\r\nDura 12 s o hasta que el da\u00f1o transferido provoque que tu salud disminuya por debajo del 20%.",
+    "fr_FR": "Place sur un membre du groupe ou raid une b\u00e9n\u00e9diction qui r\u00e9duit les d\u00e9g\u00e2ts subis de 30%, mais vous transf\u00e8re 100% des d\u00e9g\u00e2ts \u00e9vit\u00e9s.\r\n\r\nDure 12 s ou jusqu\u2019\u00e0 ce que les d\u00e9g\u00e2ts transf\u00e9r\u00e9s vous fassent passer sous 20% de points de vie.",
+    "it_IT": "Benedice un membro del gruppo o dell'incursione, riducendone i danni subiti del 30%, ma trasferendone il 100% dei danni subiti su di te.\r\n\r\nDura 12 s o finch\u00e9 i danni trasferiti non ti portano a meno del 20% della salute massima.",
+    "ru_RU": "\u0412\u044b \u0431\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u043b\u044f\u0435\u0442\u0435 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0438\u043c \u0443\u0440\u043e\u043d \u043d\u0430 30% \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044f 100% \u043e\u0442 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u042d\u0444\u0444\u0435\u043a\u0442 \u0434\u043b\u0438\u0442\u0441\u044f 12 \u0441\u0435\u043a. \u0438\u043b\u0438 \u0434\u043e \u0442\u0435\u0445 \u043f\u043e\u0440, \u043f\u043e\u043a\u0430 \u0432\u0430\u0448 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0435 \u0441\u043d\u0438\u0437\u0438\u0442\u0441\u044f \u0434\u043e 20% \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub300\uc0c1 \ud30c\ud2f0\uc6d0 \ub610\ub294 \uacf5\uaca9\ub300\uc6d0\uc744 \ucd95\ubcf5\ud558\uc5ec \ub300\uc0c1\uc774 \ubc1b\ub294 \ud53c\ud574\ub97c 30%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uc9c0\ub9cc, \uac10\uc18c\ud55c \ud53c\ud574\uc758 100%\ub97c \uc790\uc2e0\uc774 \uc785\uc2b5\ub2c8\ub2e4.\r\n\r\n12\ucd08 \ub3d9\uc548 \ub610\ub294 \uc774\uc804\ub41c \ud53c\ud574\ub85c \uc790\uc2e0\uc758 \uc0dd\uba85\ub825\uc774 20% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c8 \ub54c\uae4c\uc9c0 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u795d\u798f\u4e00\u540d\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\uff0c\u4f7f\u5176\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e30%\uff0c\u4f46\u4f60\u6703\u53d7\u5230\u8a72\u540d\u76df\u53cb\u6e1b\u514d\u7684100%\u50b7\u5bb3\u3002\r\n\r\n\u6301\u7e8c12\u79d2\uff0c\u6216\u76f4\u5230\u8f49\u79fb\u7684\u50b7\u5bb3\u5c0e\u81f4\u4f60\u751f\u547d\u529b\u4f4e\u65bc20%\u70ba\u6b62\u3002",
+    "zh_CN": "\u795d\u798f\u4e00\u540d\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\uff0c\u4f7f\u5176\u6240\u53d7\u4f24\u5bb3\u964d\u4f4e30%\uff0c\u964d\u4f4e\u4f24\u5bb3\u7684100%\u7531\u4f60\u6765\u627f\u62c5\u3002\r\n\r\n\u6301\u7eed12\u79d2\uff0c\u6216\u76f4\u5230\u8f6c\u79fb\u7684\u4f24\u5bb3\u4f7f\u4f60\u7684\u751f\u547d\u503c\u964d\u81f320%\u4ee5\u4e0b\u4e3a\u6b62\u3002"
+  }
 }

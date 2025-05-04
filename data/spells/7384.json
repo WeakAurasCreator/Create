@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "7384"
+  "SpellID": "7384",
+  "name_blz": {
+    "en_US": "Overpower",
+    "es_MX": "Abrumar",
+    "pt_BR": "Subjugar",
+    "de_DE": "\u00dcberw\u00e4ltigen",
+    "en_GB": "Overpower",
+    "es_ES": "Abrumar",
+    "fr_FR": "Fulgurance",
+    "it_IT": "Dominazione",
+    "ru_RU": "\u041f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u0441\u0442\u0432\u043e",
+    "ko_KR": "\uc81c\uc555",
+    "zh_TW": "\u58d3\u5236",
+    "zh_CN": "\u538b\u5236"
+  },
+  "description_blz": {
+    "en_US": "Overpower the enemy, dealing 1,550 Physical damage. Cannot be blocked, dodged, or parried.\r\n",
+    "es_MX": "Abruma al enemigo y le inflige 1,524 p. de da\u00f1o f\u00edsico. No se puede bloquear, esquivar ni parar.\r\n",
+    "pt_BR": "Subjuga o inimigo, causando 1.539 de dano F\u00edsico. N\u00e3o pode ser bloqueado, esquivado nem aparado.\r\n",
+    "de_DE": "\u00dcberw\u00e4ltigt den Gegner und f\u00fcgt ihm 1.586 k\u00f6rperlichen Schaden zu. Der Angriff kann nicht geblockt oder pariert und ihm kann nicht ausgewichen werden.\r\n",
+    "en_GB": "Overpower the enemy, dealing 1,575 Physical damage. Cannot be blocked, dodged, or parried.\r\n",
+    "es_ES": "Abruma al enemigo y le inflige 1561 p. de da\u00f1o f\u00edsico. No se puede bloquear, esquivar ni parar.\r\n",
+    "fr_FR": "D\u00e9clenche une attaque fulgurante sur l\u2019adversaire et lui inflige 1552\u00a0points de d\u00e9g\u00e2ts physiques. Ne peut pas \u00eatre bloqu\u00e9e, esquiv\u00e9e ou par\u00e9e.\r\n",
+    "it_IT": "Domina il nemico, infliggendo 1.548 danni fisici. Non pu\u00f2 essere bloccato, schivato o parato.\r\n",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f 1529 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u041e\u0442 \u044d\u0442\u043e\u0439 \u0430\u0442\u0430\u043a\u0438 \u043d\u0435\u043b\u044c\u0437\u044f \u0443\u043a\u043b\u043e\u043d\u0438\u0442\u044c\u0441\u044f, \u0435\u0435 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u043b\u0438 \u043f\u0430\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c.\r\n",
+    "ko_KR": "\uc801\uc744 \uc81c\uc555\ud558\uc5ec 1,559\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ubc29\ud328\ub85c \ub9c9\uac70\ub098, \ud68c\ud53c\ud558\uac70\ub098, \ubb34\uae30\ub85c \ub9c9\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u58d3\u5236\u6575\u4eba\uff0c\u9020\u62101,570\u9ede\u7269\u7406\u50b7\u5bb3\u3002\u58d3\u5236\u7121\u6cd5\u88ab\u683c\u64cb\u3001\u9583\u8eb2\u6216\u62db\u67b6\u3002\r\n",
+    "zh_CN": "\u538b\u5236\u654c\u4eba\uff0c\u9020\u62101,563\u70b9\u7269\u7406\u4f24\u5bb3\u3002\u65e0\u6cd5\u88ab\u683c\u6321\u3001\u8eb2\u95ea\u6216\u62db\u67b6\u3002\r\n"
+  }
 }

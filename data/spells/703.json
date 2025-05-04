@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "703"
+  "SpellID": "703",
+  "name_blz": {
+    "en_US": "Garrote",
+    "es_MX": "Garrote",
+    "pt_BR": "Garrote",
+    "de_DE": "Erdrosseln",
+    "en_GB": "Garrote",
+    "es_ES": "Garrote",
+    "fr_FR": "Garrot",
+    "it_IT": "Garrota",
+    "ru_RU": "\u0413\u0430\u0440\u0440\u043e\u0442\u0430",
+    "ko_KR": "\ubaa9\uc870\ub974\uae30",
+    "zh_TW": "\u7d5e\u5589",
+    "zh_CN": "\u9501\u5589"
+  },
+  "description_blz": {
+    "en_US": "Garrote the enemy, causing 1,827 Bleed damage over 18 sec.\r\n\r\nAwards 1 combo point.",
+    "es_MX": "Das garrotazos al enemigo, lo que inflige 1,827 p. de da\u00f1o de sangrado durante 18 s.\r\n\r\nOtorga 1 p. de combo.",
+    "pt_BR": "Garroteia o inimigo, causando 1.827 de dano de Sangramento ao longo de 18 s.\r\n\r\nConcede 1 ponto de combo.",
+    "de_DE": "Erdrosselt den Gegner und f\u00fcgt ihm im Verlauf von 18 Sek. 1.827 Blutungsschaden zu.\r\n\r\nGew\u00e4hrt 1 Combopunkt.",
+    "en_GB": "Garrote the enemy, causing 1,827 Bleed damage over 18 sec.\r\n\r\nAwards 1 combo point.",
+    "es_ES": "Agarrota al enemigo, que recibe 1827 p. de da\u00f1o de sangrado durante 18 s.\r\n\r\nOtorga 1 p. de combo.",
+    "fr_FR": "Garrotte l\u2019adversaire, lui infligeant 1827\u00a0points de d\u00e9g\u00e2ts de saignement en 18 s.\r\n\r\nConf\u00e8re 1\u00a0point de combo.",
+    "it_IT": "Strangola il nemico, infliggendo 1.827 danni da sanguinamento in 18 s.\r\n\r\nFornisce 1 punto combo.",
+    "ru_RU": "\u0414\u0443\u0448\u0438\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f 1827 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u0437\u0430 18 \u0441\u0435\u043a.\r\n\r\n+1 \u043a \u0441\u0435\u0440\u0438\u0438 \u043f\u0440\u0438\u0435\u043c\u043e\u0432.",
+    "ko_KR": "\uc801\uc758 \ubaa9\uc744 \uc878\ub77c 18\ucd08\uc5d0 \uac78\uccd0 1,827\uc758 \ucd9c\ud608 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc5f0\uacc4 \uc810\uc218 1\uc810\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u731b\u52d2\u6575\u4eba\u7684\u8116\u5b50\uff0c\u572818\u79d2\u5167\u9020\u62101,827\u9ede\u6d41\u8840\u50b7\u5bb3\u3002\r\n\r\n\u734e\u52f51\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u5bf9\u654c\u4eba\u65bd\u653e\u9501\u5589\uff0c\u572818\u79d2\u5185\u5bf9\u5176\u9020\u62101,827\u70b9\u6d41\u8840\u4f24\u5bb3\u3002\r\n\r\n\u5956\u52b11\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }
