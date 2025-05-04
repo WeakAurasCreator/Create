@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "20552"
+  "SpellID": "20552",
+  "name_blz": {
+    "en_US": "Cultivation",
+    "es_MX": "Cultivo",
+    "pt_BR": "Cultivo",
+    "de_DE": "Gr\u00fcner Daumen",
+    "en_GB": "Cultivation",
+    "es_ES": "Cultivo",
+    "fr_FR": "Culture",
+    "it_IT": "Specializzazione: Erbalismo",
+    "ru_RU": "\u041f\u0440\u043e\u0440\u0430\u0449\u0438\u0432\u0430\u043d\u0438\u0435",
+    "ko_KR": "\uc7ac\ubc30",
+    "zh_TW": "\u683d\u57f9",
+    "zh_CN": "\u683d\u57f9"
+  },
+  "description_blz": {
+    "en_US": "Increases your Herbalism Skill by 5 and Deftness by 25%. Deftness allows you to gather herbs more quickly.",
+    "es_MX": "Aumenta 5 p. tu habilidad en herborister\u00eda y un 25% la destreza. La destreza te permite recolectar hierbas m\u00e1s r\u00e1pido.",
+    "pt_BR": "Aumenta em 5 sua Per\u00edcia em Herborismo e em 25% sua Aptid\u00e3o. A Aptid\u00e3o aumenta a velocidade da coleta de plantas.",
+    "de_DE": "Erh\u00f6ht Eure Kr\u00e4uterkundefertigkeit um 5 und Eure Gewandtheit um 25%. Gewandtheit gestattet es Euch, schneller Kr\u00e4uter zu sammeln.",
+    "en_GB": "Increases your Herbalism Skill by 5 and Deftness by 25%. Deftness allows you to gather herbs more quickly.",
+    "es_ES": "Aumenta 5 p. tu habilidad en herborister\u00eda y un 25% tu destreza. La destreza te permite recolectar hierbas m\u00e1s r\u00e1pidamente.",
+    "fr_FR": "Augmente votre comp\u00e9tence en herboristerie de 5 et votre Adresse de 25%. L\u2019Adresse augmente la vitesse de cueillette des herbes.",
+    "it_IT": "Aumenta la competenza in Erbalismo di 5 e la Destrezza del 25%. La Destrezza ti permette di raccogliere erbe pi\u00f9 rapidamente.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u043d\u0430\u0432\u044b\u043a \u0442\u0440\u0430\u0432\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u043d\u0430 5 \u0438 \u0441\u043d\u043e\u0440\u043e\u0432\u043a\u0443 \u043d\u0430 25%. \u0421\u043d\u043e\u0440\u043e\u0432\u043a\u0430 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0442\u0440\u0430\u0432\u044b \u0431\u044b\u0441\u0442\u0440\u0435\u0435.",
+    "ko_KR": "\uc57d\ucd08\ucc44\uc9d1 \uc219\ub828\ub3c4\uac00 5\ub9cc\ud07c, \ub2a5\uc219\ud568\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub2a5\uc219\ud568\uc5d0 \ub530\ub77c \uc57d\ucd08\ub97c \ub354\uc6b1 \ube68\ub9ac \ucc44\uc9d1\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u8349\u85e5\u5b78\u6280\u80fd\u63d0\u9ad85\u9ede\uff0c\u7d14\u719f\u63d0\u9ad825%\u3002\u7d14\u719f\u80fd\u8b93\u4f60\u66f4\u5feb\u901f\u5730\u63a1\u96c6\u8349\u85e5\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u8349\u836f\u5b66\u6280\u80fd\u63d0\u9ad85\u70b9\uff0c\u5e76\u4f7f\u4f60\u7684\u719f\u7ec3\u63d0\u9ad825%\u3002\u719f\u7ec3\u5c5e\u6027\u4f7f\u4f60\u53ef\u4ee5\u66f4\u5feb\u5730\u91c7\u96c6\u8349\u836f\u3002"
+  }
 }
