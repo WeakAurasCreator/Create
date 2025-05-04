@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "527"
+  "SpellID": "527",
+  "name_blz": {
+    "en_US": "Purify",
+    "es_MX": "Purificar",
+    "pt_BR": "Purificar",
+    "de_DE": "L\u00e4utern",
+    "en_GB": "Purify",
+    "es_ES": "Purificar",
+    "fr_FR": "Purifier",
+    "it_IT": "Depurazione",
+    "ru_RU": "\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc815\ud654",
+    "zh_TW": "\u9a45\u6de8\u8853",
+    "zh_CN": "\u7eaf\u51c0\u672f"
+  },
+  "description_blz": {
+    "en_US": "Dispels harmful effects on the target, removing all Magic effects.",
+    "es_MX": "Disipa los efectos da\u00f1inos del objetivo y elimina todos los efectos m\u00e1gicos.",
+    "pt_BR": "Dissipa efeitos nocivos no alvo, removendo todos os efeitos m\u00e1gicos.",
+    "de_DE": "Bannt auf das Ziel wirkende sch\u00e4dliche Effekte. Entfernt s\u00e4mtliche Magieeffekte.",
+    "en_GB": "Dispels harmful effects on the target, removing all Magic effects.",
+    "es_ES": "Disipa los efectos da\u00f1inos del objetivo, lo que elimina todos los efectos m\u00e1gicos.",
+    "fr_FR": "Dissipe les effets n\u00e9fastes sur la cible, ce qui annule tous les effets de magie.",
+    "it_IT": "Disperde gli effetti dannosi sul bersaglio alleato, dissolvendo tutti gli effetti di magia.",
+    "ru_RU": "\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0446\u0435\u043b\u0438 \u0432\u0441\u0435 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uac78\ub9b0 \ud574\ub85c\uc6b4 \ud6a8\uacfc\ub97c \ubb34\ud6a8\ud654\ud558\uc5ec, \ubaa8\ub4e0 \ub9c8\ubc95 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9a45\u6563\u76ee\u6a19\u8eab\u4e0a\u7684\u6709\u5bb3\u6548\u679c\uff0c\u79fb\u9664\u6240\u6709\u9b54\u6cd5\u6548\u679c\u3002",
+    "zh_CN": "\u9a71\u6563\u76ee\u6807\u8eab\u4e0a\u7684\u6709\u5bb3\u6548\u679c\uff0c\u79fb\u9664\u6240\u6709\u9b54\u6cd5\u6548\u679c\u3002"
+  }
 }

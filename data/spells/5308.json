@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "5308"
+  "SpellID": "5308",
+  "name_blz": {
+    "en_US": "Execute",
+    "es_MX": "Ejecutar",
+    "pt_BR": "Executar",
+    "de_DE": "Hinrichten",
+    "en_GB": "Execute",
+    "es_ES": "Ejecutar",
+    "fr_FR": "Ex\u00e9cution",
+    "it_IT": "Esecuzione",
+    "ru_RU": "\u041a\u0430\u0437\u043d\u044c",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc77c\uaca9",
+    "zh_TW": "\u65ac\u6bba",
+    "zh_CN": "\u65a9\u6740"
+  },
+  "description_blz": {
+    "en_US": "Attempt to finish off a wounded foe, causing 1,693 Physical damage. Only usable on enemies that have less than 20% health.\r\n",
+    "es_MX": "Intenta acabar con un enemigo herido e inflige 1,703 p. de da\u00f1o f\u00edsico. Solo se puede usar con enemigos que tienen menos del 20% de salud.\r\n",
+    "pt_BR": "Tenta finalizar um inimigo ferido, causando 1.698 de dano F\u00edsico. S\u00f3 pode ser usado em inimigos com menos de 20% dos pontos de vida.\r\n",
+    "de_DE": "Versucht, einen verwundeten Gegner zu erledigen, und verursacht 1.685 k\u00f6rperlichen Schaden. Kann nur gegen Gegner mit weniger als 20% Gesundheit eingesetzt werden.\r\n",
+    "en_GB": "Attempt to finish off a wounded foe, causing 1,700 Physical damage. Only usable on enemies that have less than 20% health.\r\n",
+    "es_ES": "Intentas acabar con un enemigo herido, que recibe 1712 p. de da\u00f1o f\u00edsico. Solo se puede usar con enemigos que tengan menos de un 20% de salud.\r\n",
+    "fr_FR": "Vous tentez d\u2019achever un ou une adversaire ayant subi une blessure en lui infligeant 1730\u00a0points de d\u00e9g\u00e2ts physiques. Cette technique ne peut \u00eatre utilis\u00e9e que sur des adversaires disposant de moins de 20% de leurs points de vie.\r\n",
+    "it_IT": "Tenta di uccidere un bersaglio ferito, infliggendo 1.680 danni fisici. Utilizzabile solo su nemici con meno del 20% della salute massima.\r\n",
+    "ru_RU": "\u0412\u044b \u043f\u044b\u0442\u0430\u0435\u0442\u0435\u0441\u044c \u0434\u043e\u0431\u0438\u0442\u044c \u0440\u0430\u043d\u0435\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f \u0435\u043c\u0443 1685 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u041c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443, \u0443 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u043c\u0435\u043d\u0435\u0435 20% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n",
+    "ko_KR": "\uc0c1\ucc98 \uc785\uc740 \uc801\uc5d0\uac8c \ub9c8\ubb34\ub9ac \uc77c\uaca9\uc744 \uc2dc\ub3c4\ud558\uc5ec 1,712\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc0dd\uba85\ub825\uc774 20% \ubbf8\ub9cc\uc778 \uc801\uc5d0\uac8c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5617\u8a66\u6bba\u6b7b\u4e00\u500b\u53d7\u50b7\u7684\u6575\u4eba\uff0c\u9020\u62101,679\u9ede\u7269\u7406\u50b7\u5bb3\u3002\u53ea\u80fd\u5c0d\u751f\u547d\u529b\u4f4e\u65bc20%\u7684\u6575\u4eba\u4f7f\u7528\u3002",
+    "zh_CN": "\u5c1d\u8bd5\u7ec8\u7ed3\u4e00\u540d\u53d7\u4f24\u7684\u654c\u4eba\uff0c\u9020\u62101,714\u70b9\u7269\u7406\u4f24\u5bb3\u3002\u53ea\u80fd\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e20%\u7684\u654c\u4eba\u4f7f\u7528\u3002"
+  }
 }

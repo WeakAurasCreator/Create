@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "528"
+  "SpellID": "528",
+  "name_blz": {
+    "en_US": "Dispel Magic",
+    "es_MX": "Disipar magia",
+    "pt_BR": "Dissipar Magia",
+    "de_DE": "Magiebannung",
+    "en_GB": "Dispel Magic",
+    "es_ES": "Disipar magia",
+    "fr_FR": "Dissipation de la magie",
+    "it_IT": "Dissoluzione Magica",
+    "ru_RU": "\u0420\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u043d\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439",
+    "ko_KR": "\ub9c8\ubc95 \ubb34\ud6a8\ud654",
+    "zh_TW": "\u9a45\u6563\u9b54\u6cd5",
+    "zh_CN": "\u9a71\u6563\u9b54\u6cd5"
+  },
+  "description_blz": {
+    "en_US": "Dispels Magic on the enemy target, removing 1 beneficial Magic effect.",
+    "es_MX": "Elimina 1 efecto m\u00e1gico beneficioso del objetivo enemigo.",
+    "pt_BR": "Dissipa magia no alvo inimigo, removendo 1 efeito m\u00e1gico ben\u00e9fico.",
+    "de_DE": "Entfernt 1 n\u00fctzlichen magischen St\u00e4rkungszauber von einem gegnerischen Ziel.",
+    "en_GB": "Dispels Magic on the enemy target, removing 1 beneficial Magic effect.",
+    "es_ES": "Elimina 1 efecto m\u00e1gico beneficioso del objetivo enemigo.",
+    "fr_FR": "Dissipe la magie sur la cible ennemie, supprimant ainsi 1 effet magique b\u00e9n\u00e9fique.",
+    "it_IT": "Disperde la magia sul bersaglio nemico, dissolvendo 1 effetto benefico.",
+    "ru_RU": "\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 1 \u0431\u043b\u0430\u0433\u043e\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\uc801 \ub300\uc0c1\uc5d0\uac8c \uac78\ub9b0 \uc774\ub85c\uc6b4 \ub9c8\ubc95 \ud6a8\uacfc 1\uac1c\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9a45\u6563\u9b54\u6cd5\u53ef\u79fb\u9664\u6575\u65b9\u76ee\u6a19\u8eab\u4e0a1\u500b\u589e\u76ca\u9b54\u6cd5\u6548\u679c\u3002",
+    "zh_CN": "\u9a71\u6563\u654c\u65b9\u76ee\u6807\u8eab\u4e0a\u7684\u9b54\u6cd5\uff0c\u79fb\u96641\u4e2a\u589e\u76ca\u9b54\u6cd5\u6548\u679c\u3002"
+  }
 }
