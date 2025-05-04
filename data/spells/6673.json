@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "6673"
+  "SpellID": "6673",
+  "name_blz": {
+    "en_US": "Battle Shout",
+    "es_MX": "Grito de batalla",
+    "pt_BR": "Brado de Batalha",
+    "de_DE": "Schlachtruf",
+    "en_GB": "Battle Shout",
+    "es_ES": "Grito de batalla",
+    "fr_FR": "Cri de guerre",
+    "it_IT": "Urlo di Battaglia",
+    "ru_RU": "\u0411\u043e\u0435\u0432\u043e\u0439 \u043a\u0440\u0438\u043a",
+    "ko_KR": "\uc804\ud22c\uc758 \uc678\uce68",
+    "zh_TW": "\u6230\u9b25\u6012\u543c",
+    "zh_CN": "\u6218\u6597\u6012\u543c"
+  },
+  "description_blz": {
+    "en_US": "Increases the attack power of all raid and party members within 100 yards by 5% for 1 hour.",
+    "es_MX": "Aumenta un 5% el poder de ataque de todos los miembros del grupo y de la banda que est\u00e9n en un radio de 100 m durante 1 h.",
+    "pt_BR": "Aumenta em 5% o poder de ataque de todos os integrantes do grupo ou raide em um raio de 100 m. Dura 1 hora.",
+    "de_DE": "Erh\u00f6ht die Angriffskraft aller Gruppen- und Schlachtzugsmitglieder innerhalb von 100 Metern 1 Stunde lang um 5%.",
+    "en_GB": "Increases the attack power of all raid and party members within 100 yards by 5% for 1 hour.",
+    "es_ES": "Aumenta un 5% el poder de ataque de todos los miembros del grupo o banda en un radio de 100 m durante 1 h.",
+    "fr_FR": "Augmente la puissance d\u2019attaque de tous les membres du groupe ou raid \u00e0 moins de 100\u00a0m\u00e8tres de 5% pendant 1 heure.",
+    "it_IT": "Aumenta la potenza d'attacco di tutti i membri del gruppo o dell'incursione entro 100 m del 5% per 1 ora.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0441\u0438\u043b\u0443 \u0430\u0442\u0430\u043a\u0438 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 100 \u043c \u043d\u0430 5% \u043d\u0430 1 \u0447.",
+    "ko_KR": "1\uc2dc\uac04 \ub3d9\uc548 100\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \ud30c\ud2f0\uc6d0\uacfc \uacf5\uaca9\ub300\uc6d0\uc758 \uc804\ud22c\ub825\uc744 5%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f100\u78bc\u5167\u6240\u6709\u968a\u4f0d\u548c\u5718\u968a\u6210\u54e1\u7684\u653b\u64ca\u5f37\u5ea6\u63d0\u9ad85%\uff0c\u6301\u7e8c1\u5c0f\u6642\u3002",
+    "zh_CN": "\u4f7f100\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u5c0f\u961f\u548c\u56e2\u961f\u6210\u5458\u7684\u653b\u51fb\u5f3a\u5ea6\u63d0\u9ad85%\uff0c\u6301\u7eed1\u5c0f\u65f6\u3002"
+  }
 }
