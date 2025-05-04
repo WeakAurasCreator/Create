@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "26171"
+  "SpellID": "26171",
+  "name_blz": {
+    "en_US": "Increased Flash Heal",
+    "es_MX": "Sanaci\u00f3n rel\u00e1mpago aumentada",
+    "pt_BR": "Cura C\u00e9lere Aumentada",
+    "de_DE": "Erh\u00f6hte Blitzheilung",
+    "en_GB": "Increased Flash Heal",
+    "es_ES": "Sanaci\u00f3n rel\u00e1mpago aumentada",
+    "fr_FR": "Soins rapides augment\u00e9s",
+    "it_IT": "Cura Rapida Aumentata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u0435 \"\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\"",
+    "ko_KR": "\uc21c\uac04 \uce58\uc720 \ud5a5\uc0c1",
+    "zh_TW": "\u5feb\u901f\u6cbb\u7642\u6548\u679c\u63d0\u9ad8",
+    "zh_CN": "\u5f3a\u5316\u5feb\u901f\u6cbb\u7597"
+  },
+  "description_blz": {
+    "en_US": "Increases the healing of Flash Heal by 15%.",
+    "es_MX": "Aumenta la sanaci\u00f3n de Sanaci\u00f3n rel\u00e1mpago un 15%.",
+    "pt_BR": "Aumenta a cura de Cura C\u00e9lere em 15%.",
+    "de_DE": "Erh\u00f6ht die durch 'Blitzheilung' hervorgerufene Heilung um 15%.",
+    "en_GB": "Increases the healing of Flash Heal by 15%.",
+    "es_ES": "Aumenta la sanaci\u00f3n de Sanaci\u00f3n rel\u00e1mpago un 15%.",
+    "fr_FR": "Augmente de 15% les soins prodigu\u00e9s par Soins rapides.",
+    "it_IT": "Aumenta le cure fornite da Cura Rapida del 15%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0438\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u043d\u0430 15%.",
+    "ko_KR": "\uc21c\uac04 \uce58\uc720\uc758 \uce58\uc720 \ud6a8\uacfc\uac00 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u5feb\u901f\u6062\u5fa9\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u5feb\u901f\u6cbb\u7597\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad815%\u3002"
+  }
 }
