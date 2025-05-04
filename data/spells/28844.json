@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "28844"
+  "SpellID": "28844",
+  "name_blz": {
+    "en_US": "Revenge",
+    "es_MX": "Revancha",
+    "pt_BR": "Revanche",
+    "de_DE": "Rache",
+    "en_GB": "Revenge",
+    "es_ES": "Revancha",
+    "fr_FR": "Revanche",
+    "it_IT": "Rivincita",
+    "ru_RU": "\u0420\u0435\u0432\u0430\u043d\u0448",
+    "ko_KR": "\ubcf5\uc218",
+    "zh_TW": "\u5fa9\u4ec7",
+    "zh_CN": "\u590d\u4ec7"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage done by your Revenge ability by 75.",
+    "es_MX": "Aumenta 75 p. el da\u00f1o infligido con tu facultad Revancha.",
+    "pt_BR": "Aumenta em 75 o dano causado pela sua habilidade Revanche.",
+    "de_DE": "Erh\u00f6ht den Schaden, der von Eurer F\u00e4higkeit 'Rache' verursacht wird, um 75.",
+    "en_GB": "Increases the damage done by your Revenge ability by 75.",
+    "es_ES": "Aumenta 75 p. el da\u00f1o infligido con tu facultad Revancha.",
+    "fr_FR": "Augmente de 75 les d\u00e9g\u00e2ts inflig\u00e9s par votre technique Revanche.",
+    "it_IT": "Aumenta i danni inflitti da Rivincita di 75.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \"\u0420\u0435\u0432\u0430\u043d\u0448\", \u043d\u0430 75 \u0435\u0434.",
+    "ko_KR": "\ubcf5\uc218\uc758 \uacf5\uaca9\ub825\uc774 75\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u5fa9\u4ec7\u6240\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad875\u9ede\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u590d\u4ec7\u6280\u80fd\u7684\u4f24\u5bb3\u63d0\u9ad875\u70b9\u3002"
+  }
 }
