@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "60167"
+  "SpellID": "60167",
+  "name_blz": {
+    "en_US": "Spirit Link Chain Heal Boost",
+    "es_MX": "Spirit Link Chain Heal Boost",
+    "pt_BR": "Acelera\u00e7\u00e3o de Cura Encadeada de V\u00ednculo Espiritual",
+    "de_DE": "Spirit Link Chain Heal Boost",
+    "en_GB": "Spirit Link Chain Heal Boost",
+    "es_ES": "Spirit Link Chain Heal Boost",
+    "fr_FR": "Spirit Link Chain Heal Boost",
+    "it_IT": "Cure a Catena Migliorate",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0435\u043d\u0438\u044f \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \"\u0414\u0443\u0445\u043e\u0432\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438\"",
+    "ko_KR": "\uc815\uc2e0\uc758 \uace0\ub9ac \uc5f0\uc1c4 \uce58\uc720 \ucd09\uc9c4",
+    "zh_TW": "\u9748\u9b42\u9023\u7d50\u6cbb\u7642\u934a\u63d0\u5347",
+    "zh_CN": "Spirit Link Chain Heal Boost"
+  },
+  "description_blz": {
+    "en_US": "Increases the healing done by your Chain Heal and Healing Wave by 5%.",
+    "es_MX": "Aumenta la sanaci\u00f3n de tu Sanaci\u00f3n en cadena y de Ola de sanaci\u00f3n un 5%.",
+    "pt_BR": "Aumenta em 5% a cura realizada pela Cura Encadeada e pela Onda Curativa.",
+    "de_DE": "Erh\u00f6ht die gewirkte Heilung Eurer Zauber 'Kettenheilung' und 'Welle der Heilung' um 5%.",
+    "en_GB": "Increases the healing done by your Chain Heal and Healing Wave by 5%.",
+    "es_ES": "Aumenta la sanaci\u00f3n de tu Sanaci\u00f3n en cadena y de Ola de sanaci\u00f3n un 5%.",
+    "fr_FR": "Augmente les soins prodigu\u00e9s par votre Salve de gu\u00e9rison et votre Vague de soins de 5%.",
+    "it_IT": "Aumenta le cure di Catena di Guarigione e Ondata di Cura del 5%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \"\u0426\u0435\u043f\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u0438 \"\u0412\u043e\u043b\u043d\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u043d\u0430 5%.",
+    "ko_KR": "\uc5f0\uc1c4 \uce58\uc720\uc640 \uce58\uc720\uc758 \ubb3c\uacb0\ub85c \ud68c\ubcf5\ub418\ub294 \uc0dd\uba85\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u6cbb\u7642\u934a\u548c\u6cbb\u7642\u6ce2\u6240\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u6cbb\u7597\u94fe\u548c\u6cbb\u7597\u6ce2\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad85%\u3002"
+  }
 }
