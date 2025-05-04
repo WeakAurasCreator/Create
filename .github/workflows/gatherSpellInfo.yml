@@ -45,8 +45,8 @@ jobs:
           git config pull.rebase true  # Rebase on pull
 
           # Create or reset the update branch
-          git fetch origin main
-          git checkout -B $UPDATE_BRANCH origin/main
+          git fetch origin master
+          git checkout -B $UPDATE_BRANCH origin/master
       
           # Function to commit a batch if there are staged changes
           commit_batch() {
