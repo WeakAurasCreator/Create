@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "60152"
+  "SpellID": "60152",
+  "name_blz": {
+    "en_US": "Divine Storm Damage",
+    "es_MX": "Da\u00f1o de Tormenta divina",
+    "pt_BR": "Dano de Tempestade Divina",
+    "en_GB": "Divine Storm Damage",
+    "es_ES": "Da\u00f1o de Tormenta divina",
+    "it_IT": "Danni di Tempesta Divina Migliorati",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \ud3ed\ud48d \uacf5\uaca9\ub825",
+    "zh_TW": "\u795e\u6027\u98a8\u66b4\u50b7\u5bb3",
+    "zh_CN": "Divine Storm Damage"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage dealt by your Divine Storm by 10%.",
+    "es_MX": "Aumenta un 10% el da\u00f1o infligido con tu Tormenta divina.",
+    "pt_BR": "Aumenta em 10% o dano causado pela sua Tempestade Divina.",
+    "de_DE": "Erh\u00f6ht den von 'G\u00f6ttlicher Sturm' verursachten Schaden um 10%.",
+    "en_GB": "Increases the damage dealt by your Divine Storm by 10%.",
+    "es_ES": "Aumenta un 10% el da\u00f1o infligido con tu Tormenta divina.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts inflig\u00e9s par votre Temp\u00eate divine de 10%.",
+    "it_IT": "Aumenta i danni inflitti da Tempesta Divina del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0431\u0443\u0440\u044f\" \u043d\u0430 10%.",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \ud3ed\ud48d\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u795e\u6027\u98a8\u66b4\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u795e\u5723\u98ce\u66b4\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }
