@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "34477"
+  "SpellID": "34477",
+  "name_blz": {
+    "en_US": "Misdirection",
+    "es_MX": "Redirecci\u00f3n",
+    "pt_BR": "Redirecionar",
+    "de_DE": "Irref\u00fchrung",
+    "en_GB": "Misdirection",
+    "es_ES": "Redirecci\u00f3n",
+    "fr_FR": "D\u00e9tournement",
+    "it_IT": "Depistaggio",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub208\uc18d\uc784",
+    "zh_TW": "\u8aa4\u5c0e",
+    "zh_CN": "\u8bef\u5bfc"
+  },
+  "description_blz": {
+    "en_US": "Misdirects all threat you cause to the targeted party or raid member, beginning with your next attack within 30 sec and lasting for 8 sec.",
+    "es_MX": "Redirige toda la amenaza que generas hacia un miembro seleccionado del grupo o banda a partir de tu siguiente ataque en los pr\u00f3ximos 30 s y durante 8 s.",
+    "pt_BR": "Redireciona toda amea\u00e7a que voc\u00ea causa para o membro selecionado do grupo ou raide, come\u00e7ando com seu pr\u00f3ximo ataque dentro de 30 s. Dura 8 s.",
+    "de_DE": "Leitet Eure erzeugte Bedrohung auf das ausgew\u00e4hlte Gruppen- oder Schlachtzugsmitglied um. Der Effekt beginnt mit Eurem n\u00e4chsten Angriff innerhalb von 30 Sek. und h\u00e4lt 8 Sek. lang an.",
+    "en_GB": "Misdirects all threat you cause to the targeted party or raid member, beginning with your next attack within 30 sec and lasting for 8 sec.",
+    "es_ES": "Redirige toda la amenaza que generas al miembro del grupo o banda seleccionado, comenzando por tu siguiente ataque en los siguientes 30 s. Dura 8 s.",
+    "fr_FR": "Vous transf\u00e9rez la menace que vous g\u00e9n\u00e9rez vers le membre du groupe ou raid cibl\u00e9, \u00e0 partir de votre prochaine attaque effectu\u00e9e dans les 30 s et pendant 8 s.",
+    "it_IT": "Reindirizza tutta la minaccia generata sul bersaglio membro del gruppo o dell'incursione per 8 s, a iniziare dal prossimo attacco lanciato entro 30 s.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u0443\u044e \u0432\u0430\u043c\u0438 \u0443\u0433\u0440\u043e\u0437\u0443 \u043d\u0430 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430 \u043d\u0430 8 \u0441\u0435\u043a. \u041e\u0442\u0441\u0447\u0435\u0442 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0439 \u0430\u0442\u0430\u043a\u0438, \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e\u0439 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 30 \u0441\u0435\u043a.",
+    "ko_KR": "\uc790\uc2e0\uc774 \uc0dd\uc131\ud558\ub294 \ubaa8\ub4e0 \uc704\ud611 \uc218\uc900\uc744 \ub300\uc0c1 \ud30c\ud2f0\uc6d0 \ub610\ub294 \uacf5\uaca9\ub300\uc6d0\uc5d0\uac8c \uc774\uc804\ud569\ub2c8\ub2e4. 30\ucd08 \uc774\ub0b4\uc5d0 \uc2e4\uc2dc\ud558\ub294 \uc790\uc2e0\uc758 \ub2e4\uc74c \uacf5\uaca9\uc73c\ub85c\ubd80\ud130 \uc2dc\uc791\ub418\uba70, 8\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u628a\u4f60\u9020\u6210\u7684\u5a01\u8105\u503c\u5168\u90e8\u8f49\u79fb\u5230\u76ee\u6a19\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u8eab\u4e0a\uff0c\u5f9e\u4f6030\u79d2\u5167\u7684\u4e0b\u4e00\u6b21\u653b\u64ca\u958b\u59cb\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u4f60\u4ece30\u79d2\u5185\u7684\u4e0b\u4e00\u6b21\u653b\u51fb\u5f00\u59cb\u4ea7\u751f\u7684\u6240\u6709\u5a01\u80c1\u503c\u4f1a\u8bef\u5bfc\u7ed9\u6307\u5b9a\u7684\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }
