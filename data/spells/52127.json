@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "52127"
+  "SpellID": "52127",
+  "name_blz": {
+    "en_US": "Water Shield",
+    "es_MX": "Escudo de agua",
+    "pt_BR": "Escudo de \u00c1gua",
+    "de_DE": "Wasserschild",
+    "en_GB": "Water Shield",
+    "es_ES": "Escudo de agua",
+    "fr_FR": "Bouclier d\u2019eau",
+    "it_IT": "Scudo d'Acqua",
+    "ru_RU": "\u0412\u043e\u0434\u043d\u044b\u0439 \u0449\u0438\u0442",
+    "ko_KR": "\ubb3c\uc758 \ubcf4\ud638\ub9c9",
+    "zh_TW": "\u6c34\u4e4b\u76fe",
+    "zh_CN": "\u6c34\u4e4b\u62a4\u76fe"
+  },
+  "description_blz": {
+    "en_US": "The caster is surrounded by globes of water, granting 238 mana per 5 sec. When a melee attack hits the caster, the caster regains 2% of their mana. This effect can only occur once every 3 sec. \r\n\r\nOnly one of your Elemental Shields can be active on you at once.",
+    "es_MX": "El taumaturgo queda rodeado de esferas de agua que le otorgan 238 p. de man\u00e1 cada 5 s. Cuando un ataque cuerpo a cuerpo lo golpea, el taumaturgo recupera un 2% de su man\u00e1. Este efecto solo ocurre una vez cada 3 s. \r\n\r\nSolo puedes tener activo uno de tus escudos elementales a la vez.",
+    "pt_BR": "O lan\u00e7ador \u00e9 cercado por globos de \u00e1gua, que concedem 238 de mana por 5 s. Quando um ataque corpo a corpo atinge o lan\u00e7ador, ele recupera 2% do pr\u00f3prio mana. Este efeito ocorre em intervalos de 3 s. \r\n\r\nApenas um Escudo Elemental pode estar ativo por vez.",
+    "de_DE": "Der Zaubernde wird von Wasserkugeln umgeben, die alle 5 Sek. 238 Mana gew\u00e4hren. Wenn ein Nahkampfangriff den Zaubernden trifft, erh\u00e4lt er 2% seines Manas zur\u00fcck. Dieser Effekt kann nur alle 3 Sek. auftreten.\r\n\r\nEs kann immer nur einer Eurer Elementarschilde auf Euch aktiv sein.",
+    "en_GB": "The caster is surrounded by globes of water, granting 238 mana per 5 sec. When a melee attack hits the caster, the caster regains 2% of their mana. This effect can only occur once every 3 sec. \r\n\r\nOnly one of your Elemental Shields can be active on you at once.",
+    "es_ES": "El taumaturgo queda rodeado por unas esferas de agua que le otorgan 238 p. de man\u00e1 cada 5 s. Cuando un ataque cuerpo a cuerpo le golpea, recupera un 2% de su man\u00e1. Este efecto solo puede ocurrir una vez cada 3 s. \r\n\r\nSolo puedes tener un escudo elemental activo a la vez.",
+    "fr_FR": "Le lanceur ou la lanceuse s\u2019entoure de globes d\u2019eau qui lui conf\u00e8rent 238\u00a0points de mana toutes les 5\u00a0s et, si une attaque de m\u00eal\u00e9e l\u2019atteint, r\u00e9cup\u00e8re 2\u00a0% de son mana. Cet effet ne peut se produire plus d\u2019une fois toutes les 3\u00a0s.\r\n\r\nVous ne pouvez b\u00e9n\u00e9ficier que d\u2019un bouclier \u00e9l\u00e9mentaire \u00e0 la fois.",
+    "it_IT": "L'incantatore \u00e8 circondato da globi d'acqua che rigenerano 238 mana in 5 s. Quando un attacco in mischia colpisce l'incantatore, questi rigenera il 2% del mana. L'effetto pu\u00f2 attivarsi solo una volta ogni 3 s.\r\n\r\nPu\u00f2 essere attivo solo uno Scudo Elementale per Sciamano alla volta.",
+    "ru_RU": "\u0412\u0430\u0441 \u043e\u043a\u0440\u0443\u0436\u0430\u0435\u0442 \u0449\u0438\u0442 \u0438\u0437 \u0432\u043e\u0434\u044f\u043d\u044b\u0445 \u0441\u0444\u0435\u0440, \u0440\u0430\u0437 \u0432 5 \u0441\u0435\u043a. \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0438\u0439 238 \u0435\u0434. \u043c\u0430\u043d\u044b. \u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0443\u0434\u0430\u0440 \u0432 \u0431\u043b\u0438\u0436\u043d\u0435\u043c \u0431\u043e\u044e, \u0449\u0438\u0442 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c 2% \u043c\u0430\u043d\u044b. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 3 \u0441\u0435\u043a.\r\n\r\n\u0412\u0430\u0441 \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u043d\u043e \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \"\u0429\u0438\u0442 \u0441\u0442\u0438\u0445\u0438\u0439\" \u0435\u0434\u0438\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e.",
+    "ko_KR": "\ubb3c\ubc29\uc6b8\uc774 \uc2dc\uc804\uc790 \uc8fc\uc704\uc5d0 \uba38\ubb34\ub974\uba70, 5\ucd08\ub2f9 \ub9c8\ub098 \ud68c\ubcf5\ub7c9\uc744 238\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \uadfc\uc811 \uacf5\uaca9\uc5d0 \uc801\uc911\ub2f9\ud558\uba74 \uc2dc\uc804\uc790\ub294 \ub9c8\ub098\uc758 2%\ub97c \ud68c\ubcf5\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 3\ucd08\ub9c8\ub2e4 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.\r\n\r\n\uc6d0\uc18c \ubcf4\ud638\ub9c9\uc740 \ub3d9\uc2dc\uc5d0 \ud558\ub098\ub9cc \uc720\uc9c0\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u6cd5\u8005\u53d7\u5230\u6c34\u7403\u74b0\u7e5e\uff0c\u6bcf5\u79d2\u7372\u5f97238\u9ede\u6cd5\u529b\u3002\u6bcf\u7576\u65bd\u6cd5\u8005\u88ab\u8fd1\u6230\u653b\u64ca\u547d\u4e2d\u6642\uff0c\u6703\u6062\u5fa9\u5176\u6cd5\u529b\u76842%\u3002\u6b64\u6548\u679c\u6bcf3\u79d2\u53ea\u6703\u89f8\u767c\u4e00\u6b21\u3002\r\n\r\n\u540c\u4e00\u6642\u9593\u5167\uff0c\u5728\u4f60\u8eab\u4e0a\u53ea\u80fd\u555f\u52d5\u4e00\u7a2e\u4f60\u7684\u5143\u7d20\u4e4b\u76fe\u3002",
+    "zh_CN": "\u65bd\u6cd5\u8005\u88ab\u6c34\u7403\u73af\u7ed5\uff0c\u6bcf5\u79d2\u83b7\u5f97238\u70b9\u6cd5\u529b\u503c\u3002\u6bcf\u5f53\u65bd\u6cd5\u8005\u53d7\u5230\u8fd1\u6218\u653b\u51fb\u65f6\uff0c\u4f1a\u91cd\u83b72%\u7684\u6cd5\u529b\u503c\u3002\u8fd9\u4e2a\u6548\u679c\u6bcf3\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002\r\n\r\n\u8428\u6ee1\u796d\u53f8\u5728\u540c\u4e00\u65f6\u95f4\u53ea\u80fd\u6fc0\u6d3b\u4e00\u79cd\u5143\u7d20\u62a4\u76fe\u3002"
+  }
 }

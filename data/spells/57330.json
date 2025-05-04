@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "57330"
+  "SpellID": "57330",
+  "name_blz": {
+    "en_US": "Horn of Winter",
+    "es_MX": "Cuerno de invierno",
+    "pt_BR": "Berrante do Inverno",
+    "de_DE": "Horn des Winters",
+    "en_GB": "Horn of Winter",
+    "es_ES": "Cuerno de invierno",
+    "fr_FR": "Cor de l\u2019hiver",
+    "it_IT": "Corno Invernale",
+    "ru_RU": "\u0417\u0438\u043c\u043d\u0438\u0439 \u0433\u043e\u0440\u043d",
+    "ko_KR": "\uaca8\uc6b8\uc758 \ubfd4\ud53c\ub9ac",
+    "zh_TW": "\u51dc\u51ac\u865f\u89d2",
+    "zh_CN": "\u5bd2\u51ac\u53f7\u89d2"
+  },
+  "description_blz": {
+    "en_US": "Blow the Horn of Winter, gaining 2 Runes and generating 25 Runic Power.",
+    "es_MX": "Sopla el Cuerno de invierno, lo que te otorga 2 runas y genera 25 p. de poder r\u00fanico.",
+    "pt_BR": "Voc\u00ea sopra o Berrante do Inverno, recebendo 2 Runas e gerando 25 de Poder R\u00fanico.",
+    "de_DE": "Ihr blast das Horn des Winters, gewinnt 2 Runen hinzu und erzeugt 25 Runenmacht.",
+    "en_GB": "Blow the Horn of Winter, gaining 2 Runes and generating 25 Runic Power.",
+    "es_ES": "Haces sonar el Cuerno de invierno, obtienes 2 runas y generas 25 p. de poder r\u00fanico.",
+    "fr_FR": "Vous soufflez dans le Cor de l\u2019hiver et obtenez 2\u00a0runes en plus de g\u00e9n\u00e9rer 25\u00a0points de puissance runique.",
+    "it_IT": "Soffiare nel corno ripristina 2 rune e genera 25 potenza runica.",
+    "ru_RU": "\u0412\u044b \u0442\u0440\u0443\u0431\u0438\u0442\u0435 \u0432 \u0437\u0438\u043c\u043d\u0438\u0439 \u0433\u043e\u0440\u043d, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c 2 \u0440\u0443\u043d\u044b \u0438 25 \u0435\u0434. \u0441\u0438\u043b\u044b \u0440\u0443\u043d.",
+    "ko_KR": "\uaca8\uc6b8\uc758 \ubfd4\ud53c\ub9ac\ub97c \ubd88\uc5b4 2\uac1c\uc758 \ub8ec\uacfc 25\uc758 \ub8ec \ub9c8\ub825\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5439\u97ff\u51dc\u51ac\u865f\u89d2\uff0c\u7372\u5f972\u500b\u7b26\u6587\uff0c\u4e26\u7522\u751f25\u9ede\u7b26\u80fd\u3002",
+    "zh_CN": "\u5439\u54cd\u5bd2\u51ac\u53f7\u89d2\uff0c\u83b7\u5f972\u4e2a\u7b26\u6587\uff0c\u5e76\u4ea7\u751f25\u70b9\u7b26\u6587\u80fd\u91cf\u3002"
+  }
 }

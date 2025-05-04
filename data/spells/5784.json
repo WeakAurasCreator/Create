@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "5784"
+  "SpellID": "5784",
+  "name_blz": {
+    "en_US": "Felsteed",
+    "es_MX": "Corcel vil",
+    "pt_BR": "Corcel Vil",
+    "de_DE": "Teufelsross",
+    "en_GB": "Felsteed",
+    "es_ES": "Corcel vil",
+    "fr_FR": "Palefroi corrompu",
+    "it_IT": "Vildestriero",
+    "ru_RU": "\u041a\u043e\u043d\u044c \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc9c0\uc625\ub9c8 \uc18c\ud658",
+    "zh_TW": "\u60e1\u9b54\u6230\u99ac",
+    "zh_CN": "\u5730\u72f1\u6218\u9a6c"
+  },
+  "description_blz": {
+    "en_US": "Summons a Felsteed, which serves as a mount. ",
+    "es_MX": "Invoca a un corcel vil que sirve como montura. ",
+    "pt_BR": "Evoca um Corcel Vil de montaria. ",
+    "de_DE": "Beschw\u00f6rt ein Teufelsross, das als Reittier dient. ",
+    "en_GB": "Summons a Felsteed, which serves as a mount. ",
+    "es_ES": "Invoca a un corcel vil que sirve de montura. ",
+    "fr_FR": "Invoque un palefroi corrompu qui sert de monture. ",
+    "it_IT": "Evoca un Vildestriero da usare come cavalcatura.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442 \u2013 \u043a\u043e\u043d\u044f \u0421\u043a\u0432\u0435\u0440\u043d\u044b.",
+    "ko_KR": "\uc9c0\uc625\ub9c8\ub97c \uc18c\ud658\ud558\uc5ec \ud0c8\uac83\uc73c\ub85c \uc774\uc6a9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u96bb\u60e1\u9b54\u6230\u99ac\u4f5c\u70ba\u4f60\u7684\u5750\u9a0e\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u5339\u5730\u72f1\u6218\u9a6c\u4f5c\u4e3a\u4f60\u7684\u5750\u9a91\u3002"
+  }
 }
