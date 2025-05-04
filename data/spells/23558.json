@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "23558"
+  "SpellID": "23558",
+  "name_blz": {
+    "en_US": "Improved Feint",
+    "es_MX": "Amago mejorado",
+    "pt_BR": "Finta Aprimorada",
+    "de_DE": "Verbesserte Finte",
+    "en_GB": "Improved Feint",
+    "es_ES": "Amago mejorado",
+    "fr_FR": "Feinte am\u00e9lior\u00e9e",
+    "it_IT": "Finta Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u0430\u044f \u0443\u043b\u043e\u0432\u043a\u0430",
+    "ko_KR": "\uad50\ub780 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u4f6f\u653b",
+    "zh_CN": "\u5f3a\u5316\u4f6f\u653b"
+  },
+  "description_blz": {
+    "en_US": "Improves the damage reduction of Feint by 5%.",
+    "es_MX": "Mejora la reducci\u00f3n de da\u00f1o de Amago un 5%.",
+    "pt_BR": "Melhora em 5% a redu\u00e7\u00e3o de dano de Finta.",
+    "de_DE": "Verbessert die Schadensverringerung von 'Finte' um 5%.",
+    "en_GB": "Improves the damage reduction of Feint by 5%.",
+    "es_ES": "Mejora la reducci\u00f3n de da\u00f1o de Amago un 5%.",
+    "fr_FR": "Am\u00e9liore la r\u00e9duction des d\u00e9g\u00e2ts de la Feinte de 5%.",
+    "it_IT": "Aumenta l'effetto di riduzione dei danni subiti fornito da Finta del 5%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u0438\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0423\u043b\u043e\u0432\u043a\u0430\" \u043d\u0430 5%.",
+    "ko_KR": "\uad50\ub780 \uc0ac\uc6a9 \uc2dc \ubc1b\ub294 \ud53c\ud574\uac00 5%\ub9cc\ud07c \ub354 \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f6f\u653b\u6280\u80fd\u6e1b\u5c11\u50b7\u5bb3\u7684\u6548\u679c\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u4f7f\u4f6f\u653b\u6280\u80fd\u4f24\u5bb3\u51cf\u514d\u7684\u6548\u679c\u63d0\u9ad85%\u3002"
+  }
 }
