@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "37516"
+  "SpellID": "37516",
+  "name_blz": {
+    "en_US": "Revenge Bonus",
+    "es_MX": "Bonus de Revancha",
+    "pt_BR": "B\u00f4nus de Revanche",
+    "de_DE": "Bonus f\u00fcr 'Rache'",
+    "en_GB": "Revenge Bonus",
+    "es_ES": "Bonus de Revancha",
+    "fr_FR": "Bonus de Revanche",
+    "it_IT": "Bonus di Rivincita",
+    "ru_RU": "\u0420\u0435\u0432\u0430\u043d\u0448 - \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442",
+    "ko_KR": "\ubcf5\uc218 \uc5f0\ub9c8",
+    "zh_TW": "\u5fa9\u4ec7",
+    "zh_CN": "Revenge Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Revenge ability causes your next damaging ability to do 10% more damage.",
+    "es_MX": "Tu facultad Revancha provoca que tu pr\u00f3xima facultad da\u00f1ina inflija un 10% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Sua habilidade Revanche faz com que sua pr\u00f3xima habilidade causadora de dano cause mais 10% de dano.",
+    "de_DE": "Eure F\u00e4higkeit 'Rache' erh\u00f6ht den Schaden Eurer n\u00e4chsten Schaden verursachenden F\u00e4higkeit um 10%.",
+    "en_GB": "Your Revenge ability causes your next damaging ability to do 10% more damage.",
+    "es_ES": "Tu facultad Revancha provoca que tu pr\u00f3xima facultad da\u00f1ina inflija un 10% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Votre technique Revanche permet \u00e0 votre prochaine technique causant des d\u00e9g\u00e2ts de faire 10% de points de d\u00e9g\u00e2ts suppl\u00e9mentaires.",
+    "it_IT": "Rivincita induce la successiva abilit\u00e0 d'attacco a infliggere il 10% di danni aggiuntivi.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0420\u0435\u0432\u0430\u043d\u0448\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0435\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 10%.",
+    "ko_KR": "\ubcf5\uc218 \uc0ac\uc6a9 \uc2dc \ub2e4\uc74c \uacf5\uaca9 \uae30\uc220\ub85c \uc785\ud788\ub294 \ud53c\ud574\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u5fa9\u4ec7\u53ef\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u50b7\u5bb3\u6280\u80fd\u63d0\u9ad810%\u50b7\u5bb3\u503c\u3002",
+    "zh_CN": "\u4f60\u7684\u590d\u4ec7\u6280\u80fd\u53ef\u4ee5\u4ee4\u4f60\u7684\u4e0b\u4e00\u6b21\u4f24\u5bb3\u6280\u80fd\u6240\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }
