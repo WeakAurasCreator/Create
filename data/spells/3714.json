@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "3714"
+  "SpellID": "3714",
+  "name_blz": {
+    "en_US": "Path of Frost",
+    "es_MX": "Camino de hielo",
+    "pt_BR": "Caminho de Gelo",
+    "de_DE": "Eisige Pfade",
+    "en_GB": "Path of Frost",
+    "es_ES": "Camino de hielo",
+    "fr_FR": "Passage de givre",
+    "it_IT": "Sentiero di Ghiaccio",
+    "ru_RU": "\u041b\u044c\u0434\u0438\u0441\u0442\u044b\u0439 \u043f\u0443\u0442\u044c",
+    "ko_KR": "\uc5bc\uc74c\uae38",
+    "zh_TW": "\u51b0\u971c\u4e4b\u5f91",
+    "zh_CN": "\u51b0\u971c\u4e4b\u8def"
+  },
+  "description_blz": {
+    "en_US": "Activates a freezing aura for 10 min that creates ice beneath your feet, allowing party or raid members within 50 yards to walk on water.\r\n\r\nUsable while mounted, but being attacked or damaged will cancel the effect.",
+    "es_MX": "Activa un aura congelante durante 10 min que crea hielo sobre el suelo que pisas, de manera que los miembros de tu grupo o banda pueden caminar sobre el agua en un radio de 50 m.\r\n\r\nFunciona sobre montura, pero el efecto se cancela si recibes da\u00f1o o si te atacan.",
+    "pt_BR": "Ativa uma aura congelante que cria gelo sob os seus p\u00e9s, permitindo a membros do grupo ou raide em um raio de 50 m andar sobre a \u00e1gua por 10 min.\r\n\r\nPode ser usada enquanto est\u00e1 montado, mas, se voc\u00ea for atacado ou receber dano, o efeito ser\u00e1 cancelado.",
+    "de_DE": "Aktiviert eine eisige Aura, die 10 Min. lang Eis unter Euren F\u00fc\u00dfen erschafft, sodass Gruppen- oder Schlachtzugsmitglieder innerhalb von 50 Metern \u00fcber Wasser gehen k\u00f6nnen.\r\n\r\nKann beritten eingesetzt werden, erlittener Schaden oder erlittene Angriffe beenden den Effekt.",
+    "en_GB": "Activates a freezing aura for 10 min that creates ice beneath your feet, allowing party or raid members within 50 yards to walk on water.\r\n\r\nUsable while mounted, but being attacked or damaged will cancel the effect.",
+    "es_ES": "Activa un aura congelante durante 10 min que crea hielo bajo tus pies, lo que permite a los miembros del grupo o banda en un radio de 50 m caminar sobre el agua.\r\n\r\nSe puede usar mientras est\u00e1s montado, pero si te atacan o sufres da\u00f1o se cancela el efecto.",
+    "fr_FR": "Active pendant 10 min une aura givrante qui g\u00e9n\u00e8re de la glace \u00e0 vos pieds, permettant aux membres du groupe ou raid \u00e0 moins de 50\u00a0m\u00e8tres de marcher sur l\u2019eau.\r\n\r\nPeut \u00eatre utilis\u00e9 sur une monture, mais l\u2019effet est annul\u00e9 si vous \u00eates attaqu\u00e9 ou subissez des d\u00e9g\u00e2ts.",
+    "it_IT": "Attiva un'aura congelante per 10 min che crea del ghiaccio sotto ai piedi, permettendo ai membri del gruppo o dell'incursione entro 50 m di camminare sull'acqua.\r\n\r\nAgisce anche mentre si sta cavalcando. Eventuali danni inflitti o subiti interrompono l'effetto.",
+    "ru_RU": "\u041c\u043e\u0440\u043e\u0437\u043d\u0430\u044f \u0430\u0443\u0440\u0430 \u0441\u043a\u043e\u0432\u044b\u0432\u0430\u0435\u0442 \u043b\u044c\u0434\u043e\u043c \u0432\u043e\u0434\u0443 \u043f\u043e\u0434 \u0432\u0430\u0448\u0438\u043c\u0438 \u043d\u043e\u0433\u0430\u043c\u0438 \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430\u043c \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 50 \u043c \u0445\u043e\u0434\u0438\u0442\u044c \u043f\u043e \u0432\u043e\u0434\u0435 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u043c\u0438\u043d.\r\n\r\n\u041c\u043e\u0436\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0435. \u041f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0438 \u0443\u0440\u043e\u043d\u0430 \u0438\u043b\u0438 \u0435\u0441\u043b\u0438 \u0432\u0430\u0441 \u0430\u0442\u0430\u043a\u0443\u044e\u0442.",
+    "ko_KR": "\ub0c9\uae30\ub97c \ubc1c\uc0b0\ud574 10\ubd84 \ub3d9\uc548 50\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ud30c\ud2f0\uc6d0 \ub610\ub294 \uacf5\uaca9\ub300\uc6d0\uc758 \ubc1c \uc544\ub798 \uc5bc\uc74c\uc744 \ub9cc\ub4e4\uc5b4 \uc218\uba74\uc744 \uac78\uc744 \uc218 \uc788\uac8c \ud569\ub2c8\ub2e4.\r\n\r\n\ud0c8\uac83\uc744 \ud0c4 \uc0c1\ud0dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uacf5\uaca9\uc744 \ubc1b\uac70\ub098 \ud53c\ud574\ub97c \uc785\uc73c\uba74 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u555f\u52d5\u51b0\u51cd\u5149\u74b0\uff0c\u6301\u7e8c10\u5206\u9418\uff0c\u5728\u4f60\u8173\u4e0b\u51dd\u7d50\u5bd2\u51b0\uff0c\u4f7f50\u78bc\u5167\u7684\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u53ef\u4ee5\u5728\u6c34\u4e0a\u884c\u8d70\u3002\r\n\r\n\u53ef\u65bc\u9a0e\u4e58\u5750\u9a0e\u6642\u4f7f\u7528\uff0c\u4f46\u53d7\u5230\u4efb\u4f55\u653b\u64ca\u6216\u50b7\u5bb3\u5747\u6703\u53d6\u6d88\u6b64\u6548\u679c\u3002",
+    "zh_CN": "\u4f60\u7684\u5bd2\u51b7\u6c14\u606f\u5728\u4f60\u811a\u4e0b\u5236\u9020\u4e00\u7247\u5bd2\u51b0\uff0c\u4f7f50\u7801\u5185\u7684\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\u53ef\u4ee5\u5728\u6c34\u4e0a\u884c\u8d70\uff0c\u6301\u7eed10\u5206\u949f\u3002\r\n\r\n\u53ef\u4ee5\u5728\u9a91\u4e58\u72b6\u6001\u4e0b\u4f7f\u7528\uff0c\u4f46\u53d7\u5230\u653b\u51fb\u6216\u4efb\u4f55\u4f24\u5bb3\u90fd\u4f1a\u53d6\u6d88\u8fd9\u4e2a\u6548\u679c\u3002"
+  }
 }
