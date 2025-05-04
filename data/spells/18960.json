@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "18960"
+  "SpellID": "18960",
+  "name_blz": {
+    "en_US": "Teleport: Moonglade",
+    "es_MX": "Teletransporte a: Claro de la Luna",
+    "pt_BR": "Teleporte: Clareira da Lua",
+    "de_DE": "Teleport: Mondlichtung",
+    "en_GB": "Teleport: Moonglade",
+    "es_ES": "Teletransporte a: Claro de la Luna",
+    "fr_FR": "T\u00e9l\u00e9portation\u00a0: Reflet-de-Lune",
+    "it_IT": "Teletrasporto: Radaluna",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u041b\u0443\u043d\u043d\u0430\u044f \u043f\u043e\u043b\u044f\u043d\u0430",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9: \ub2ec\uc232",
+    "zh_TW": "\u50b3\u9001\uff1a\u6708\u5149\u6797\u5730",
+    "zh_CN": "\u4f20\u9001\uff1a\u6708\u5149\u6797\u5730"
+  },
+  "description_blz": {
+    "en_US": "Teleport to the Moonglade.\r\n\r\nCasting Teleport: Moonglade while in Moonglade will return you back to near your departure point.",
+    "es_MX": "Te teletransporta a Claro de la Luna.\r\n\r\nLanzar Teletransporte a: Claro de la Luna mientras est\u00e9s en Claro de la Luna te devolver\u00e1 cerca del punto de salida.",
+    "pt_BR": "Teleporta-se para a Clareira da Lua.\r\n\r\nLan\u00e7ar Teleporte: Clareira da Lua quando j\u00e1 se est\u00e1 na Clareira da Lua levar\u00e1 voc\u00ea de volta para perto do seu ponto de partida.",
+    "de_DE": "Teleportiert Euch zur Mondlichtung.\r\n\r\nDas Wirken von 'Teleport: Mondlichtung' in der Mondlichtung l\u00e4sst Euch in die N\u00e4he Eures Ausgangsortes zur\u00fcckkehren.",
+    "en_GB": "Teleport to the Moonglade.\r\n\r\nCasting Teleport: Moonglade while in Moonglade will return you back to near your departure point.",
+    "es_ES": "Te teletransporta a Claro de la Luna.\r\n\r\nLanzar Teletransporte a: Claro de la Luna mientras est\u00e9s en Claro de la Luna te devolver\u00e1 cerca del punto de salida.",
+    "fr_FR": "Vous t\u00e9l\u00e9porte \u00e0 Reflet-de-Lune.\r\n\r\nLancer T\u00e9l\u00e9portation\u00a0: Reflet-de-Lune depuis Reflet-de-Lune vous renvoie pr\u00e8s de votre point de d\u00e9part.",
+    "it_IT": "Ti teletrasporta a Radaluna.\r\n\r\nLanciare Teletrasporto: Radaluna mentre ci si trova a Radaluna riporta nei pressi del punto di partenza.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u043d\u0430 \u041b\u0443\u043d\u043d\u0443\u044e \u043f\u043e\u043b\u044f\u043d\u0443.\r\n\r\n\u041f\u0440\u0438\u043c\u0435\u043d\u0438\u0432 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u041b\u0443\u043d\u043d\u0430\u044f \u043f\u043e\u043b\u044f\u043d\u0430\" \u043d\u0430 \u041b\u0443\u043d\u043d\u043e\u0439 \u043f\u043e\u043b\u044f\u043d\u0435, \u0432\u044b \u0432\u0435\u0440\u043d\u0435\u0442\u0435\u0441\u044c \u0432 \u043e\u0442\u043f\u0440\u0430\u0432\u043d\u0443\u044e \u0442\u043e\u0447\u043a\u0443.",
+    "ko_KR": "\ub2ec\uc232\uc73c\ub85c \uc21c\uac04\uc774\ub3d9\ud569\ub2c8\ub2e4.\r\n\r\n\ub2ec\uc232\uc5d0\uc11c \uc0ac\uc6a9\ud558\uba74 \ucc98\uc74c \ub5a0\ub0ac\ub358 \uc9c0\uc810 \uadfc\ucc98\ub85c \ub418\ub3cc\uc544\uac11\ub2c8\ub2e4.",
+    "zh_TW": "\u50b3\u9001\u81f3\u6708\u5149\u6797\u5730\u3002\r\n\r\n\u5728\u6708\u5149\u6797\u5730\u65bd\u5c55\u50b3\u9001\uff1a\u6708\u5149\u6797\u5730\u6703\u5c07\u4f60\u50b3\u9001\u56de\u51fa\u767c\u5730\u9ede\u9644\u8fd1\u3002",
+    "zh_CN": "\u4f20\u9001\u5230\u6708\u5149\u6797\u5730\u3002\r\n\r\n\u5728\u6708\u5149\u6797\u5730\u5185\u65bd\u653e\u8be5\u6cd5\u672f\u53ef\u4ee5\u5c06\u4f60\u9001\u5230\u539f\u5148\u7684\u79bb\u5f00\u5730\u70b9\u9644\u8fd1\u3002"
+  }
 }
