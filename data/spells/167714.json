@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "167714"
+  "SpellID": "167714",
+  "name_blz": {
+    "en_US": "Item - Druid T17 Restoration 4P Bonus",
+    "es_MX": "Item - Druid T17 Restoration 4P Bonus",
+    "pt_BR": "Item - B\u00f4nus 4P Druida Restaura\u00e7\u00e3o T17",
+    "en_GB": "Item - Druid T17 Restoration 4P Bonus",
+    "es_ES": "Item - Druid T17 Restoration 4P Bonus (Genesis)",
+    "it_IT": "Item - Druid T17 Restoration 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T17 \ud68c\ubcf5 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T17 Restoration 4P Bonus",
+    "zh_CN": "Item - Druid T17 Restoration 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When you cast 2 sequential Healing Touch spells, the mana cost of your next Wild Growth is reduced by 25%.",
+    "es_MX": "Cuando lanzas 2 hechizos secuenciales de Toque de sanaci\u00f3n, el costo de man\u00e1 de tu siguiente Crecimiento salvaje se reduce un 25%.",
+    "pt_BR": "Ao lan\u00e7ar 2 Toques de Cura em sequ\u00eancia, o custo de mana do pr\u00f3ximo Crescimento Silvestre \u00e9 reduzido em 25%.",
+    "de_DE": "Wenn Ihr 2-mal hintereinander 'Heilende Ber\u00fchrung' wirkt, werden die Manakosten Eures n\u00e4chsten Einsatzes von 'Wildwuchs' um 25% verringert.",
+    "en_GB": "When you cast 2 sequential Healing Touch spells, the mana cost of your next Wild Growth is reduced by 25%.",
+    "es_ES": "Cuando lanzas 2 hechizos de Toque de sanaci\u00f3n consecutivos, el coste de man\u00e1 de tu siguiente Crecimiento salvaje se reduce un 25%.",
+    "fr_FR": "Quand vous lancez 2 sorts Toucher gu\u00e9risseur \u00e0 la suite, le co\u00fbt en mana de votre prochaine Croissance sauvage est r\u00e9duit de 25%.",
+    "it_IT": "Lanciare per 2 volte di seguito Tocco Curativo riduce il costo in mana della successiva Crescita Rigogliosa del 25%.",
+    "ru_RU": "\u0415\u0441\u043b\u0438 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u0426\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u0435\" 2 \u0440\u0430\u0437\u0430 \u043f\u043e\u0434\u0440\u044f\u0434, \u0440\u0430\u0441\u0445\u043e\u0434 \u043c\u0430\u043d\u044b \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u0411\u0443\u0439\u043d\u044b\u0439 \u0440\u043e\u0441\u0442\" \u0441\u043d\u0438\u0436\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25%.",
+    "ko_KR": "\uce58\uc720\uc758 \uc190\uae38 \uc8fc\ubb38\uc744 2\ud68c \uc5f0\uc18d\ud574\uc11c \uc0ac\uc6a9\ud558\uba74, \ub2e4\uc74c \uae09\uc18d \uc131\uc7a5\uc758 \ub9c8\ub098 \uc18c\ubaa8\ub7c9\uc774 25%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u9023\u7e8c\u65bd\u653e2\u6b21\u6cbb\u7642\u4e4b\u89f8\u5f8c\uff0c\u4f60\u4e0b\u4e00\u500b\u91ce\u6027\u75ca\u7652\u6d88\u8017\u7684\u6cd5\u529b\u6703\u964d\u4f4e25%\u3002",
+    "zh_CN": "\u8fde\u7eed\u65bd\u653e2\u4e2a\u6cbb\u7597\u4e4b\u89e6\u65f6\uff0c\u4f1a\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u91ce\u6027\u6210\u957f\u7684\u6cd5\u529b\u6d88\u8017\u964d\u4f4e25%\u3002"
+  }
 }

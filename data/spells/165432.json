@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165432"
+  "SpellID": "165432",
+  "name_blz": {
+    "en_US": "Item - Druid T17 Feral 4P Bonus",
+    "es_MX": "Objeto - Druida T17 Feral 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - B\u00f4nus 4P Druida Feral T17",
+    "en_GB": "Item - Druid T17 Feral 4P Bonus",
+    "es_ES": "Item - Druid T17 Feral 4P Bonus",
+    "it_IT": "Item - Druid T17 Feral 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T17 \uc57c\uc131 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1 - \u5fb7\u9b6f\u4f0aT17\u91ce\u60274\u4ef6\u52a0\u6210",
+    "zh_CN": "Item - Druid T17 Feral 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "While Berserk is active, special attacks deal an additional 30% bleed damage to the target over 6 sec.",
+    "es_MX": "Mientras Rabia est\u00e1 activo, los ataques especiales infligen al objetivo un 30% de da\u00f1o de sangrado extra durante 6 s.",
+    "pt_BR": "Enquanto Berserk estiver ativo, os ataques especiais causam 30% de dano de sangramento a mais ao alvo, ao longo de 6 s.",
+    "de_DE": "W\u00e4hrend 'Berserker' aktiv ist, f\u00fcgen Spezialangriffe dem Ziel im Verlauf von 6 Sek. zus\u00e4tzlich 30% Blutungsschaden zu.",
+    "en_GB": "While Berserk is active, special attacks deal an additional 30% bleed damage to the target over 6 sec.",
+    "es_ES": "Mientras Rabia est\u00e1 activa, los ataques especiales infligen un 30% extra de da\u00f1o de sangrado al objetivo durante 6 s.",
+    "fr_FR": "Tant que Berserk est actif, les attaques sp\u00e9ciales infligent 30% de d\u00e9g\u00e2ts de saignement suppl\u00e9mentaires \u00e0 la cible en 6 s.",
+    "it_IT": "Durante Berserk, gli attacchi speciali infliggono il 30% di danni da sanguinamento aggiuntivi ai bersagli in 6 s.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0411\u0435\u0440\u0441\u0435\u0440\u043a\", \u043e\u0441\u043e\u0431\u044b\u0435 \u0430\u0442\u0430\u043a\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0446\u0435\u043b\u0438 30% \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uad11\ud3ed\ud654 \ud65c\uc131\ud654 \uc911\uc5d0 \uc801\uc5d0\uac8c \uc801\uc911\ud558\ub294 \ud2b9\uc218 \uacf5\uaca9\uc740 6\ucd08 \ub3d9\uc548 30%\uc758 \ucd9c\ud608 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u72c2\u66b4\u7684\u6548\u679c\u6301\u7e8c\u6642\u9593\u5167\uff0c\u7279\u6b8a\u653b\u64ca\u6703\u5c0d\u76ee\u6a19\u9020\u6210\u984d\u591630%\u7684\u6d41\u8840\u50b7\u5bb3\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u6fc0\u6d3b\u72c2\u66b4\u65f6\uff0c\u7279\u6b8a\u653b\u51fb\u4f1a\u5bf9\u76ee\u6807\u989d\u5916\u9020\u621030%\u7684\u6d41\u8840\u4f24\u5bb3\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

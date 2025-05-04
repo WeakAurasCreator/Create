@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165514"
+  "SpellID": "165514",
+  "name_blz": {
+    "en_US": "Item - Rogue T17 Subtlety 4P Bonus",
+    "es_MX": "Objeto - P\u00edcaro T17 Sutileza 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - Ladino T17 Subterf\u00fagio 4P B\u00f4nus",
+    "en_GB": "Item - Rogue T17 Subtlety 4P Bonus",
+    "es_ES": "Item - Rogue T17 Subtlety 4P Bonus",
+    "it_IT": "Item - Rogue T17 Subtlety 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub3c4\uc801 T17 \uc7a0\ud589 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Rogue T17 Subtlety 4P Bonus",
+    "zh_CN": "Item - Rogue T17 Subtlety 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When Shadow Dance expires, your next finishing move refunds 2 combo points.",
+    "es_MX": "Cuando Danza de las Sombras se acaba, el pr\u00f3ximo remate devuelve 2 puntos de combo.",
+    "pt_BR": "Quando Dan\u00e7a das Sombras expira, seu golpe final seguinte recupera 2 pontos de combo.",
+    "de_DE": "Eure Finishing-Moves stellen nach dem Ende von 'Schattentanz' 2 Combopunkte wieder her.",
+    "en_GB": "When Shadow Dance expires, your next finishing move refunds 2 combo points.",
+    "es_ES": "Cuando finaliza Danza de las Sombras, tu siguiente remate te devuelve 2 p. de combo.",
+    "fr_FR": "Quand Danse de l\u2019ombre prend fin, votre prochain coup de gr\u00e2ce vous restitue 2\u00a0points de combo.",
+    "it_IT": "Al termine di Danza dell'Ombra, la successiva mossa risolutiva ripristina 2 punti combo.",
+    "ru_RU": "\u041f\u043e \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0422\u0430\u043d\u0446\u0430 \u0442\u0435\u043d\u0435\u0439\" \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0438\u0439 \u043f\u0440\u0438\u0435\u043c \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0441\u0435\u0440\u0438\u044e \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u043d\u0430 2.",
+    "ko_KR": "\uc5b4\ub460\uc758 \ucda4\uc774 \ub05d\ub09c \ub4a4 \uc0ac\uc6a9\ud558\ub294 \ub2e4\uc74c 1\ud68c\uc758 \ub9c8\ubb34\ub9ac \uc77c\uaca9\uc740 2\uc758 \uc5f0\uacc4 \uc810\uc218\ub97c \ubc18\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u6697\u5f71\u4e4b\u821e\u7d50\u675f\u5f8c\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u7d42\u7d50\u6280\u6703\u56de\u65362\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u6697\u5f71\u4e4b\u821e\u7ed3\u675f\u540e\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u7ec8\u7ed3\u6280\u4f1a\u8fd4\u8fd82\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "166056"
+  "SpellID": "166056",
+  "name_blz": {
+    "en_US": "Item - Death Knight WoD PvP Frost 4P Bonus",
+    "es_MX": "Objeto - Caballero de la Muerte WoD JcJ Escarcha 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - Cavaleiro da Morte WoD JxJ Gelo 4P B\u00f4nus",
+    "en_GB": "Item - Death Knight WoD PvP Frost 4P Bonus",
+    "es_ES": "Item - Death Knight WoD PvP Frost 4P Bonus",
+    "it_IT": "Item - Death Knight WoD PvP Frost 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fd\uc74c\uc758 \uae30\uc0ac WoD PvP \ub0c9\uae304P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Death Knight WoD PvP Frost 4P Bonus",
+    "zh_CN": "Item - Death Knight WoD PvP Frost 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When you have Rime active, your next Howling Blast will increase Frost damage taken on all targets by 10% for 8 sec.",
+    "es_MX": "Cuando tienes Helada blanca activa, tu pr\u00f3xima Explosi\u00f3n aullante aumenta un 10% el da\u00f1o por Escarcha recibido por todos los objetivos durante 8 s.",
+    "pt_BR": "Quando Geada est\u00e1 ativo, o pr\u00f3ximo Impacto Uivante aumenta em 10% o dano de Gelo recebido por todos os alvos durante 8 s.",
+    "de_DE": "Wenn Euer 'Raureif' aktiv ist, erh\u00f6ht Euer n\u00e4chster Einsatz von 'Heulende B\u00f6e' den erlittenen Frostschaden aller Ziele f\u00fcr 8 Sek. um 10%.",
+    "en_GB": "When you have Rime active, your next Howling Blast will increase Frost damage taken on all targets by 10% for 8 sec.",
+    "es_ES": "Cuando tienes Helada blanca activa, tu siguiente Explosi\u00f3n aullante aumentar\u00e1 el da\u00f1o de Escarcha que reciben todos los objetivos un 10% durante 8 s.",
+    "fr_FR": "Quand Frimas est actif, votre prochaine Rafale hurlante augmente les d\u00e9g\u00e2ts de Givre subis par toutes les cibles de 10% pendant 8 s.",
+    "it_IT": "Durante Brina, la successiva Folata Gelida aumenta i danni da gelo subiti da tutti i bersagli del 10% per 8 s.",
+    "ru_RU": "\u041f\u0440\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u0435 \"\u0418\u043d\u0435\u0439\" \u0432\u0430\u0448\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0412\u043e\u044e\u0449\u0438\u0439 \u0432\u0435\u0442\u0435\u0440\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0432\u0441\u0435\u043c\u0438 \u0446\u0435\u043b\u044f\u043c\u0438 \u0443\u0440\u043e\u043d \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430 \u043d\u0430 10% \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ub2e8\ub2e8\ud55c \uc5bc\uc74c\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \ub2e4\uc74c \uc6b8\ubd80\uc9d6\ub294 \ud55c\ud30c\uac00 \ubaa8\ub4e0 \ub300\uc0c1\uc5d0\uac8c \uc785\ud788\ub294 \ub0c9\uae30 \ud53c\ud574\ub97c 8\ucd08 \ub3d9\uc548 10%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u51dd\u971c\u555f\u52d5\u4e4b\u5f8c\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u51dc\u98a8\u885d\u64ca\u6703\u4f7f\u76ee\u6a19\u53d7\u5230\u7684\u6240\u6709\u51b0\u971c\u50b7\u5bb3\u63d0\u9ad810%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u767d\u971c\u6fc0\u6d3b\u65f6\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u51db\u98ce\u51b2\u51fb\u4f1a\u4f7f\u6240\u6709\u76ee\u6807\u53d7\u5230\u7684\u51b0\u971c\u4f24\u5bb3\u63d0\u9ad810%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

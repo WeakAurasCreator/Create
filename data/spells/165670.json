@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165670"
+  "SpellID": "165670",
+  "name_blz": {
+    "en_US": "Item - Warrior WoD Warrior 4P Bonus",
+    "es_MX": "Item - Warrior WoD Warrior 4P Bonus",
+    "pt_BR": "Item - Guerreiro WoD Guerreiro 4P B\u00f4nus",
+    "en_GB": "Item - Warrior WoD Warrior 4P Bonus",
+    "es_ES": "Item - Warrior WoD Warrior 4P Bonus",
+    "it_IT": "Item - Warrior WoD Warrior 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc804\uc0ac WoD \uc804\uc0ac 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Warrior WoD Warrior 4P Bonus",
+    "zh_CN": "Item - Warrior WoD Warrior 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "You now generate Rage from taking damage.",
+    "es_MX": "Ahora generas Ira al recibir da\u00f1o.",
+    "pt_BR": "Voc\u00ea passa a gerar Raiva ao receber dano.",
+    "de_DE": "Ihr erzeugt jetzt Wut, wenn Ihr Schaden erleidet.",
+    "en_GB": "You now generate Rage from taking damage.",
+    "es_ES": "Ahora generas ira al recibir da\u00f1o.",
+    "fr_FR": "Vous g\u00e9n\u00e9rez d\u00e9sormais de la rage quand vous subissez des d\u00e9g\u00e2ts.",
+    "it_IT": "Subire danni genera rabbia.",
+    "ru_RU": "\u041f\u043e\u043b\u0443\u0447\u0430\u044f \u0443\u0440\u043e\u043d, \u0432\u044b \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442\u0435 \u044f\u0440\u043e\u0441\u0442\u044c.",
+    "ko_KR": "\ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \ubd84\ub178\uac00 \uc0dd\uc131\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u53d7\u50b7\u6642\u6703\u7522\u751f\u6012\u6c23\u3002",
+    "zh_CN": "\u4f60\u73b0\u5728\u53d7\u5230\u4f24\u5bb3\u65f6\u4f1a\u4ea7\u751f\u6012\u6c14\u503c\u3002"
+  }
 }

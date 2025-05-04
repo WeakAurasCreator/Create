@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "167947"
+  "SpellID": "167947",
+  "name_blz": {
+    "en_US": "Expert Logging",
+    "es_MX": "Experto le\u00f1ador",
+    "pt_BR": "Lenhador Especialista",
+    "de_DE": "Holzf\u00e4llerexperte",
+    "en_GB": "Expert Logging",
+    "es_ES": "Experto le\u00f1ador",
+    "fr_FR": "Abattage (expert)",
+    "it_IT": "Falegname Esperto",
+    "ru_RU": "\u041b\u0435\u0441\u043e\u0437\u0430\u0433\u043e\u0442\u043e\u0432\u043a\u0430 (\u0443\u043c\u0435\u043b\u0435\u0446)",
+    "ko_KR": "\uc219\ub828 \ubc8c\ubaa9",
+    "zh_TW": "\u9ad8\u7d1a\u4f10\u6728",
+    "zh_CN": "\u9ad8\u7ea7\u4f10\u6728"
+  },
+  "description_blz": {
+    "en_US": "Allows you to harvest large sized timber across Draenor.",
+    "es_MX": "Te permite recolectar maderos de gran tama\u00f1o en todo Draenor.",
+    "pt_BR": "Permite a voc\u00ea encontrar e coletar pe\u00e7as grandes de madeira em Draenor.",
+    "de_DE": "Erm\u00f6glicht es Euch, in Draenor gro\u00dfe B\u00e4ume zu f\u00e4llen.",
+    "en_GB": "Allows you to harvest large sized timber across Draenor.",
+    "es_ES": "Te permite recoger madera de gran tama\u00f1o de Draenor.",
+    "fr_FR": "Vous permet de pr\u00e9lever du bois de construction de grande taille en Draenor.",
+    "it_IT": "Ti permette di raccogliere dei tronchi grossi su Draenor.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0437\u0430\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u0434\u0440\u0435\u0432\u0435\u0441\u0438\u043d\u0443 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0434\u0435\u0440\u0435\u0432\u044c\u0435\u0432 \u043d\u0430 \u0414\u0440\u0435\u043d\u043e\u0440\u0435.",
+    "ko_KR": "\ub4dc\ub808\ub178\uc5b4 \uc804\uc5ed\uc5d0\uc11c \ucee4\ub2e4\ub780 \ub098\ubb34\ub97c \ubc8c\ubaa9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u53ef\u4ee5\u5728\u5fb7\u62c9\u8afe\u63a1\u4f10\u5927\u91cf\u6728\u6599\u3002",
+    "zh_CN": "\u8ba9\u4f60\u53ef\u4ee5\u91c7\u96c6\u5fb7\u62c9\u8bfa\u7684\u5927\u578b\u6728\u6750\u3002"
+  }
 }
