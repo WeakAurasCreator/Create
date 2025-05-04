@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1126"
+  "SpellID": "1126",
+  "name_blz": {
+    "en_US": "Mark of the Wild",
+    "es_MX": "Marca de lo salvaje",
+    "pt_BR": "Marca do Indomado",
+    "de_DE": "Mal der Wildnis",
+    "en_GB": "Mark of the Wild",
+    "es_ES": "Marca de lo Salvaje",
+    "fr_FR": "Marque du fauve",
+    "it_IT": "Marchio Selvaggio",
+    "ru_RU": "\u0417\u043d\u0430\u043a \u0434\u0438\u043a\u043e\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u044b",
+    "ko_KR": "\uc57c\uc0dd\uc758 \uc9d5\ud45c",
+    "zh_TW": "\u91ce\u6027\u5370\u8a18",
+    "zh_CN": "\u91ce\u6027\u5370\u8bb0"
+  },
+  "description_blz": {
+    "en_US": "Infuse a friendly target with the power of the wild, increasing their Versatility by 3% for 60 minutes.\r\n\r\nIf target is in your party or raid, all party and raid members will be affected.\r\n",
+    "es_MX": "Infunde a un objetivo aliado con el poder de lo salvaje para aumentar un 3% su versatilidad durante 60 min.\r\n\r\nSi el objetivo est\u00e1 en tu grupo o banda, el efecto tambi\u00e9n se aplica a todos los miembros del grupo o de la banda.\r\n",
+    "pt_BR": "Imbui um alvo aliado com o poder da natureza selvagem, aumentando em 3% a Versatilidade por 60 min.\r\n\r\nSe o alvo estiver no seu grupo ou raide, todos os membros do grupo ou raide ser\u00e3o afetados pelo signo.\r\n",
+    "de_DE": "Erf\u00fcllt ein verb\u00fcndetes Ziel mit der Macht der Wildnis. Erh\u00f6ht die Vielseitigkeit des Ziels 60 Min. lang um 3%.\r\n\r\nWenn sich das Ziel in Eurer Gruppe oder Eurem Schlachtzug befindet, erhalten alle Mitglieder den Effekt.\r\n",
+    "en_GB": "Infuse a friendly target with the power of the wild, increasing their Versatility by 3% for 60 minutes.\r\n\r\nIf target is in your party or raid, all party and raid members will be affected.\r\n",
+    "es_ES": "Imbuyes a un objetivo amistoso del poder de lo salvaje, lo que aumenta un 3% su versatilidad durante 60 min.\r\n\r\nSi el objetivo pertenece a tu grupo o banda, todos los miembros del grupo o banda se ver\u00e1n afectados.\r\n",
+    "fr_FR": "Vous impr\u00e9gnez une cible alli\u00e9e de la puissance du fauve, ce qui augmente sa Polyvalence de 3% pendant 60\u00a0minutes.\r\n\r\nSi elle se trouve dans votre groupe ou raid, tous les membres sont affect\u00e9s.\r\n",
+    "it_IT": "Infonde un bersaglio alleato con il potere della selva, aumentandone la versatilit\u00e0 del 3% per 60 min.\r\n\r\nSe il bersaglio \u00e8 un membro del gruppo o dell'incursione, tutti i membri del gruppo o dell'incursione ne saranno affetti.\r\n",
+    "ru_RU": "\u041f\u0440\u0438\u0434\u0430\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 \u0441\u0438\u043b\u0443 \u0434\u0438\u043a\u043e\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u044b, \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u0435\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043d\u0430 3% \u043d\u0430 60 \u043c\u0438\u043d.\r\n\r\n\u0415\u0441\u043b\u0438 \u0446\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0432\u0430\u0448\u0435\u0439 \u0433\u0440\u0443\u043f\u043f\u0435 \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0435, \u044d\u0444\u0444\u0435\u043a\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043a\u043e \u0432\u0441\u0435\u043c \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430\u043c.\r\n",
+    "ko_KR": "\uc544\uad70 \ub300\uc0c1\uc5d0\uac8c \uc57c\uc0dd\uc758 \ud798\uc744 \uc8fc\uc785\ud558\uc5ec 60\ubd84 \ub3d9\uc548 \uc720\uc5f0\uc131\uc744 3%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ub300\uc0c1\uc774 \uac19\uc740 \ud30c\ud2f0\ub098 \uacf5\uaca9\ub300\uc5d0 \uc18d\ud574 \uc788\ub2e4\uba74, \ubaa8\ub4e0 \ud30c\ud2f0\uc6d0\uacfc \uacf5\uaca9\ub300\uc6d0\uc774 \ud6a8\uacfc\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u91ce\u6027\u4e4b\u529b\u6ce8\u5165\u4e00\u500b\u53cb\u65b9\u76ee\u6a19\uff0c\u4f7f\u5176\u81e8\u6a5f\u61c9\u8b8a\u63d0\u9ad83%\uff0c\u6301\u7e8c60\u5206\u9418\u3002\r\n\r\n\u5982\u679c\u76ee\u6a19\u5728\u4f60\u7684\u968a\u4f0d\u6216\u5718\u968a\uff0c\u6240\u6709\u7684\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u90fd\u6703\u53d7\u5230\u5f71\u97ff\u3002\r\n",
+    "zh_CN": "\u5c06\u91ce\u6027\u4e4b\u529b\u6ce8\u5165\u4e00\u540d\u53cb\u65b9\u76ee\u6807\u7684\u4f53\u5185\uff0c\u4f7f\u5176\u5168\u80fd\u63d0\u9ad83%\uff0c\u6301\u7eed60\u5206\u949f\u3002\r\n\r\n\u5982\u679c\u76ee\u6807\u5728\u4f60\u7684\u5c0f\u961f\u6216\u56e2\u961f\u4e2d\uff0c\u5219\u5168\u4f53\u5c0f\u961f\u548c\u56e2\u961f\u6210\u5458\u90fd\u4f1a\u83b7\u5f97\u6b64\u6548\u679c\u3002"
+  }
 }
