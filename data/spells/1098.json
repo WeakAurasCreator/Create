@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1098"
+  "SpellID": "1098",
+  "name_blz": {
+    "en_US": "Subjugate Demon",
+    "es_MX": "Subyugar demonio",
+    "pt_BR": "Subjugar Dem\u00f4nio",
+    "de_DE": "D\u00e4mon unterwerfen",
+    "en_GB": "Subjugate Demon",
+    "es_ES": "Subyugar demonio",
+    "fr_FR": "Subjugation de d\u00e9mon",
+    "it_IT": "Soggiogamento Demone",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0431\u043e\u0449\u0435\u043d\u0438\u0435 \u0434\u0435\u043c\u043e\u043d\u0430",
+    "ko_KR": "\uc545\ub9c8 \uc608\uc18d",
+    "zh_TW": "\u5236\u4f0f\u60e1\u9b54",
+    "zh_CN": "\u5f81\u670d\u6076\u9b54"
+  },
+  "description_blz": {
+    "en_US": "Subjugates the target demon up to level 71, forcing it to do your bidding for 10 min.",
+    "es_MX": "Subyuga a un demonio objetivo de nivel 71 o inferior y lo obliga a obedecer tus \u00f3rdenes durante 10 min.",
+    "pt_BR": "Subjuga o dem\u00f4nio selecionado at\u00e9 o n\u00edvel 71, for\u00e7ando-o a obedecer seus comandos por 10 min.",
+    "de_DE": "Unterwirft den anvisierten D\u00e4mon bis zu Stufe 71 und zwingt ihn f\u00fcr 10 Min., Euren Befehlen Folge zu leisten.",
+    "en_GB": "Subjugates the target demon up to level 71, forcing it to do your bidding for 10 min.",
+    "es_ES": "Subyuga a un demonio de hasta nivel 71, y lo obliga a obedecer tus \u00f3rdenes durante 10 min.",
+    "fr_FR": "Subjugue le d\u00e9mon cibl\u00e9 jusqu\u2019au niveau\u00a071 et le contraint \u00e0 vous ob\u00e9ir pendant 10 min.",
+    "it_IT": "Soggioga un bersaglio demone fino al livello 71, piegandolo al tuo volere per 10 min.",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0431\u043e\u0449\u0430\u0435\u0442 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0434\u0435\u043c\u043e\u043d\u0430 \u0434\u043e 71-\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0432\u0430\u0448\u0438 \u043f\u0440\u0438\u043a\u0430\u0437\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u043c\u0438\u043d.",
+    "ko_KR": "\ucd5c\ub300 71 \ub808\ubca8\uc758 \ub300\uc0c1 \uc545\ub9c8\ub97c \uc9c0\ubc30\ud574 10\ubd84 \ub3d9\uc548 \uba85\ub839\uc744 \ub530\ub974\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5236\u4f0f\u6700\u9ad871\u7d1a\u7684\u60e1\u9b54\uff0c\u4f7f\u5176\u807d\u5f9e\u4f60\u7684\u865f\u4ee4\uff0c\u6301\u7e8c10\u5206\u9418\u3002",
+    "zh_CN": "\u5236\u4f0f\u7b49\u7ea7\u4e0d\u8d85\u8fc771\u7684\u76ee\u6807\u6076\u9b54\uff0c\u8feb\u4f7f\u5176\u542c\u4ece\u4f60\u7684\u547d\u4ee4\uff0c\u6301\u7eed10\u5206\u949f\u3002"
+  }
 }
