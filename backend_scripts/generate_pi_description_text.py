@@ -68,7 +68,7 @@ def get_openai_client(api_key):
     )
     return client
 
-def llm_describe(client, line, player_class, player_spec, model: str = "deepseek/deepseek-chat-v3-0324:free"):
+def llm_describe(client, line, player_class, player_spec, model: str = "deepseek/deepseek-r1:free"):
     """
     Fallback: send the raw APL line to OpenAI and ask for a human-readable rewrite.
     """
