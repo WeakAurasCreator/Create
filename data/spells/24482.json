@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "24482"
+  "SpellID": "24482",
+  "name_blz": {
+    "en_US": "Improved Smite and Holy Fire",
+    "es_MX": "Punici\u00f3n y Fuego Sagrado mejorados",
+    "pt_BR": "Puni\u00e7\u00e3o e Fogo Sagrado Aprimorados",
+    "de_DE": "Verbesserte heilige Pein und heiliges Feuer",
+    "en_GB": "Improved Smite and Holy Fire",
+    "es_ES": "Punici\u00f3n y Fuego Sagrado mejorados",
+    "fr_FR": "Ch\u00e2timent et Flammes sacr\u00e9es am\u00e9lior\u00e9s",
+    "it_IT": "Punizione e Fuoco Sacro Migliorati",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0435 \u043a\u0430\u0440\u0430 \u0438 \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c",
+    "ko_KR": "\uc131\uc2a4\ub7ec\uc6b4 \uc77c\uaca9 \ubc0f \uc2e0\uc131\ud55c \ubd88\uaf43 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u61f2\u64ca/\u795e\u8056\u4e4b\u706b",
+    "zh_CN": "\u5f3a\u5316\u60e9\u51fb/\u795e\u5723\u4e4b\u706b"
+  },
+  "description_blz": {
+    "en_US": "Increase the range of your Smite and Holy Fire spells by 5 yds.",
+    "es_MX": "Aumenta el alcance de tus hechizos Fuego Sagrado y Punici\u00f3n 5 m.",
+    "pt_BR": "Aumenta em 5 m o alcance dos seus feiti\u00e7os Puni\u00e7\u00e3o e Fogo Sagrado.",
+    "de_DE": "Erh\u00f6ht die Reichweite Eurer Zauber 'Heilige Pein' und 'Heiliges Feuer' um 5 Meter.",
+    "en_GB": "Increase the range of your Smite and Holy Fire spells by 5 yds.",
+    "es_ES": "Aumenta el alcance de tus hechizos Fuego Sagrado y Punici\u00f3n 5 m.",
+    "fr_FR": "Augmente la port\u00e9e de vos sorts Ch\u00e2timent et Flammes sacr\u00e9es de 5 m\u00e8tres.",
+    "it_IT": "Aumenta la portata di Punizione e Fuoco Sacro di 5 m.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \"\u041a\u0430\u0440\u0430\" \u0438 \"\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\" \u043d\u0430 5 \u043c.",
+    "ko_KR": "\uc131\uc2a4\ub7ec\uc6b4 \uc77c\uaca9 \ubc0f \uc2e0\uc131\ud55c \ubd88\uaf43\uc758 \uc0ac\uc815\uac70\ub9ac\uac00 5\ubbf8\ud130\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u61f2\u64ca\u548c\u795e\u8056\u4e4b\u706b\u7684\u5c04\u7a0b\u5ef6\u95775\u78bc\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u60e9\u51fb\u548c\u795e\u5723\u4e4b\u706b\u7684\u5c04\u7a0b\u589e\u52a05\u7801\u3002"
+  }
 }

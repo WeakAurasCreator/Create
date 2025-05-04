@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "24456"
+  "SpellID": "24456",
+  "name_blz": {
+    "en_US": "Improved Intimidating Shout",
+    "es_MX": "Grito intimidante mejorado",
+    "pt_BR": "Brado Intimidador Aprimorado",
+    "de_DE": "Verbesserter Drohruf",
+    "en_GB": "Improved Intimidating Shout",
+    "es_ES": "Grito intimidador mejorado",
+    "fr_FR": "Cri d'intimidation am\u00e9lior\u00e9",
+    "it_IT": "Urlo Intimidatorio Migliorato",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0441\u0442\u0440\u0430\u0448\u0430\u044e\u0449\u0438\u0439 \u043a\u0440\u0438\u043a",
+    "ko_KR": "\uc704\ud611\uc758 \uc678\uce68 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u7834\u81bd\u6012\u543c",
+    "zh_CN": "\u5f3a\u5316\u7834\u80c6\u6012\u543c"
+  },
+  "description_blz": {
+    "en_US": "Decreases the cooldown of Intimidating Shout by 15 sec.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de Grito intimidante 15 s.",
+    "pt_BR": "Reduz em 15 s a recarga do Brado Intimidador.",
+    "de_DE": "Verringert die Abklingzeit Eurer F\u00e4higkeit 'Drohruf' um 15 Sek.",
+    "en_GB": "Decreases the cooldown of Intimidating Shout by 15 sec.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de Grito intimidador 15 s.",
+    "fr_FR": "Diminue le temps de recharge de Cri d'intimidation de 15 s.",
+    "it_IT": "Riduce il tempo di recupero di Urlo Intimidatorio di 15 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0423\u0441\u0442\u0440\u0430\u0448\u0430\u044e\u0449\u0438\u0439 \u043a\u0440\u0438\u043a\" \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\uc704\ud611\uc758 \uc678\uce68\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u7834\u81bd\u6012\u543c\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed15\u79d2\u3002",
+    "zh_CN": "\u4f7f\u7834\u80c6\u6012\u543c\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed15\u79d2\u3002"
+  }
 }
