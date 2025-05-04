@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "20243"
+  "SpellID": "20243",
+  "name_blz": {
+    "en_US": "Devastate",
+    "es_MX": "Devastar",
+    "pt_BR": "Devastar",
+    "de_DE": "Verw\u00fcsten",
+    "en_GB": "Devastate",
+    "es_ES": "Devastar",
+    "fr_FR": "D\u00e9vaster",
+    "it_IT": "Sfondamento",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0443\u0448\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc555\ub3c4",
+    "zh_TW": "\u632b\u6557",
+    "zh_CN": "\u6bc1\u706d\u6253\u51fb"
+  },
+  "description_blz": {
+    "en_US": "A direct strike, dealing 342 Physical damage.",
+    "es_MX": "Un golpe directo que inflige 342 p. de da\u00f1o f\u00edsico.",
+    "pt_BR": "Um golpe direto que causa 342 de dano F\u00edsico.",
+    "de_DE": "Ein direkter Angriff, der 346 k\u00f6rperlichen Schaden verursacht.",
+    "en_GB": "A direct strike, dealing 343 Physical damage.",
+    "es_ES": "Un golpe directo que inflige 337 p. de da\u00f1o f\u00edsico.",
+    "fr_FR": "Une attaque directe infligeant 344\u00a0points de d\u00e9g\u00e2ts physiques.",
+    "it_IT": "Un colpo diretto che infligge 337 danni fisici.",
+    "ru_RU": "\u041d\u0430\u043d\u043e\u0441\u0438\u0442 338 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc9c1\uc811 \ud0c0\uaca9\ud558\uc5ec 342\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4e00\u8a18\u76f4\u63a5\u653b\u64ca\uff0c\u9020\u6210335\u9ede\u7269\u7406\u50b7\u5bb3\u3002",
+    "zh_CN": "\u76f4\u63a5\u53d1\u52a8\u653b\u51fb\uff0c\u9020\u6210346\u70b9\u7269\u7406\u4f24\u5bb3\u3002"
+  }
 }
