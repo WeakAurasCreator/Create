@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1966"
+  "SpellID": "1966",
+  "name_blz": {
+    "en_US": "Feint",
+    "es_MX": "Amago",
+    "pt_BR": "Finta",
+    "de_DE": "Finte",
+    "en_GB": "Feint",
+    "es_ES": "Amago",
+    "fr_FR": "Feinte",
+    "it_IT": "Finta",
+    "ru_RU": "\u0423\u043b\u043e\u0432\u043a\u0430",
+    "ko_KR": "\uad50\ub780",
+    "zh_TW": "\u4f6f\u653b",
+    "zh_CN": "\u4f6f\u653b"
+  },
+  "description_blz": {
+    "en_US": "Performs an evasive maneuver, reducing damage taken from area-of-effect attacks by 40% for 6 sec.",
+    "es_MX": "Realiza una maniobra evasiva que reduce el da\u00f1o recibido de los ataques de \u00e1rea de efecto un 40% durante 6 s.",
+    "pt_BR": "Executa uma manobra evasiva, reduzindo em 40% o dano recebido de ataques em \u00e1rea por 6 s.",
+    "de_DE": "F\u00fchrt ein Ausweichman\u00f6ver durch, das 6 Sek. lang den durch Fl\u00e4cheneffekte erlittenen Schaden um 40% verringert.",
+    "en_GB": "Performs an evasive maneuver, reducing damage taken from area-of-effect attacks by 40% for 6 sec.",
+    "es_ES": "Realiza una maniobra evasiva que reduce un 40% el da\u00f1o recibido de los ataques de \u00e1rea de efecto durante 6 s.",
+    "fr_FR": "Ex\u00e9cute une man\u0153uvre d\u2019\u00e9vasion, ce qui r\u00e9duit les d\u00e9g\u00e2ts de zone subis de 40\u00a0% pendant 6 s.",
+    "it_IT": "Effettua una manovra evasiva, riducendo i danni ad area subiti del 40% per 6 s.",
+    "ru_RU": "\u0423\u043b\u043e\u0432\u043a\u0430, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0449\u0430\u044f \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u043e\u0442 \u0430\u0442\u0430\u043a \u043f\u043e \u043e\u0431\u043b\u0430\u0441\u0442\u0438, \u043d\u0430 40% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\ud68c\ud53c \ub3d9\uc791\uc744 \ucde8\ud558\uc5ec \uad11\uc5ed \uacf5\uaca9\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574\ub97c 40%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. 6\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u5c55\u4ee4\u4eba\u96e3\u4ee5\u6349\u6478\u7684\u6b3a\u6575\u8eab\u6cd5\uff0c\u4f7f\u53d7\u5230\u7684\u7bc4\u570d\u50b7\u5bb3\u964d\u4f4e40%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u505a\u51fa\u95ea\u907f\u52a8\u4f5c\uff0c\u4f7f\u4f60\u57286\u79d2\u5185\u56e0\u8303\u56f4\u653b\u51fb\u800c\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e40%\u3002"
+  }
 }

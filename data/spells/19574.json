@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "19574"
+  "SpellID": "19574",
+  "name_blz": {
+    "en_US": "Bestial Wrath",
+    "es_MX": "C\u00f3lera de las bestias",
+    "pt_BR": "Ira Bestial",
+    "de_DE": "Zorn des Wildtiers",
+    "en_GB": "Bestial Wrath",
+    "es_ES": "C\u00f3lera de las bestias",
+    "fr_FR": "Courroux bestial",
+    "it_IT": "Ira Bestiale",
+    "ru_RU": "\u0417\u0432\u0435\u0440\u0438\u043d\u044b\u0439 \u0433\u043d\u0435\u0432",
+    "ko_KR": "\uc57c\uc218\uc758 \uaca9\ub178",
+    "zh_TW": "\u72c2\u91ce\u6012\u706b",
+    "zh_CN": "\u72c2\u91ce\u6012\u706b"
+  },
+  "description_blz": {
+    "en_US": "Sends you and your pet into a rage, instantly dealing 0 Physical damage to its target, and increasing all damage you both deal by 30% for 15 sec. Removes all crowd control effects from your pet. ",
+    "es_MX": "Te llena de ira a ti y a tu mascota, lo que inflige 0 p. de da\u00f1o f\u00edsico de forma inmediata a su objetivo y aumenta todo el da\u00f1o que ambos infligen un 30% durante 15 s. Elimina todos los efectos de control de masas que afectan a tu mascota. ",
+    "pt_BR": "Enfurece voc\u00ea e seu ajudante, causando instantaneamente 0 de dano F\u00edsico ao alvo e aumentando em 30% todo o dano que voc\u00eas dois causam por 15 s. Remove todos os efeitos de controle coletivo do seu ajudante. ",
+    "de_DE": "Versetzt Euch selbst und Euren Begleiter in Rage, wodurch Ihr sofort seinem Ziel 0 k\u00f6rperlichen Schaden zuf\u00fcgt und sowohl Ihr als auch Euer Begleiter 30% mehr Schaden verursacht. H\u00e4lt 15 Sek. lang an. Entfernt alle Kontrollverlusteffekte von Eurem Begleiter.",
+    "en_GB": "Sends you and your pet into a rage, instantly dealing 0 Physical damage to its target, and increasing all damage you both deal by 30% for 15 sec. Removes all crowd control effects from your pet. ",
+    "es_ES": "Tu mascota y t\u00fa mont\u00e1is en c\u00f3lera, lo que inflige 0 p. de da\u00f1o f\u00edsico instant\u00e1neamente al objetivo y aumenta un 30% todo el da\u00f1o que ambos inflig\u00eds durante 15 s. Elimina los efectos de control de masas de tu mascota. ",
+    "fr_FR": "Votre familier et vous entrez dans une rage folle, ce qui inflige imm\u00e9diatement 0\u00a0points de d\u00e9g\u00e2ts physiques \u00e0 sa cible et augmente vos d\u00e9g\u00e2ts \u00e0 tous les deux de 30% pendant 15 s. Dissipe les effets de contr\u00f4le affectant votre familier.  et l\u2019activation de Courroux bestial conf\u00e8re 0\u00a0charge de Tir ac\u00e9r\u00e9.[]",
+    "it_IT": "Fa infuriare te e il tuo famiglio, infliggendo istantaneamente 0 danni fisici al bersaglio e aumentando tutti i danni inflitti da entrambi del 30% per 15 s. Dissolve tutti gli effetti di controllo delle controllo delle creature dal tuo famiglio.",
+    "ru_RU": "\u0412\u0430\u0441 \u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430 \u043e\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u044f\u0440\u043e\u0441\u0442\u044c, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u043e\u0431\u043e\u0438\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 30% \u043d\u0430 15 \u0441\u0435\u043a., \u0430 \u0432\u0430\u0448\u0430 \u0446\u0435\u043b\u044c \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 0 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430 \u0432\u0441\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f. ",
+    "ko_KR": "\uc2dc\uc804\uc790\uc640 \uc57c\uc218\uac00 \uad11\ud3ed\ud574\uc838 \ub300\uc0c1\uc5d0\uac8c \uc989\uc2dc 0\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ub610\ud55c 15\ucd08 \ub3d9\uc548 \uc2dc\uc804\uc790\uc640 \uc57c\uc218\uc758 \ubaa8\ub4e0 \uacf5\uaca9\ub825\uc774 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc57c\uc218\uc5d0\uac8c \uac78\ub9b0 \ubaa8\ub4e0 \uad70\uc911 \uc81c\uc5b4 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u548c\u5bf5\u7269\u9032\u5165\u72c2\u6012\u72c0\u614b\uff0c\u7acb\u5373\u5c0d\u76ee\u6a19\u9020\u62100\u9ede\u7269\u7406\u50b7\u5bb3\uff0c\u4e26\u4e14\u4f7f\u4f60\u5011\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad830%\uff0c\u6301\u7e8c15\u79d2\u3002\u79fb\u9664\u4f60\u5bf5\u7269\u8eab\u4e0a\u7684\u6240\u6709\u63a7\u5834\u6548\u679c\u3002",
+    "zh_CN": "\u4f7f\u4f60\u548c\u4f60\u7684\u5ba0\u7269\u8fdb\u5165\u72c2\u6012\u72b6\u6001\uff0c\u7acb\u5373\u5bf9\u5ba0\u7269\u7684\u76ee\u6807\u9020\u62100\u70b9\u7269\u7406\u4f24\u5bb3\uff0c\u4f60\u548c\u5ba0\u7269\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad830%\uff0c\u6301\u7eed15\u79d2\u3002\u79fb\u9664\u4f60\u7684\u5ba0\u7269\u53d7\u5230\u7684\u6240\u6709\u7fa4\u4f53\u63a7\u5236\u6548\u679c\u3002"
+  }
 }
