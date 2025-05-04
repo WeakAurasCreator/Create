@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "6196"
+  "SpellID": "6196",
+  "name_blz": {
+    "en_US": "Far Sight",
+    "es_MX": "Visi\u00f3n lejana",
+    "pt_BR": "Vis\u00e3o Distante",
+    "de_DE": "Fernsicht",
+    "en_GB": "Far Sight",
+    "es_ES": "Visi\u00f3n lejana",
+    "fr_FR": "Double vue",
+    "it_IT": "Sguardo Lontano",
+    "ru_RU": "\u0414\u0430\u043b\u044c\u043d\u0435\u0435 \u0437\u0440\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ucc9c\ub9ac\uc548",
+    "zh_TW": "\u8996\u754c\u8853",
+    "zh_CN": "\u89c6\u754c\u672f"
+  },
+  "description_blz": {
+    "en_US": "Changes your viewpoint to the targeted location for 1 min.",
+    "es_MX": "Cambia tu visi\u00f3n a la ubicaci\u00f3n seleccionada durante 1 min.",
+    "pt_BR": "Muda o seu ponto de vista para o local selecionado por 1 min.",
+    "de_DE": "Versetzt Euren Blickwinkel f\u00fcr 1 Min. an die anvisierte Position.",
+    "en_GB": "Changes your viewpoint to the targeted location for 1 min.",
+    "es_ES": "Cambia tu punto de vista a la ubicaci\u00f3n seleccionada durante 1 min.",
+    "fr_FR": "D\u00e9place votre point de vue \u00e0 l\u2019emplacement cibl\u00e9 pendant 1 min.",
+    "it_IT": "Il tuo punto di vista si sposta sulla posizione bersaglio per 1 min.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0442\u043e\u0447\u043a\u0443 \u043e\u0431\u0437\u043e\u0440\u0430 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u043d\u0430 1 \u043c\u0438\u043d.",
+    "ko_KR": "1\ubd84 \ub3d9\uc548 \uc9c0\uc815\ud55c \uacf3\uc73c\ub85c \uc2dc\uc57c\ub97c \uc774\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u7684\u8996\u9ede\u79fb\u5230\u76ee\u6a19\u5730\u9ede\uff0c\u6301\u7e8c1\u5206\u9418\u3002",
+    "zh_CN": "\u5c06\u4f60\u7684\u89c6\u89d2\u5207\u6362\u5230\u76ee\u6807\u533a\u57df\uff0c\u6301\u7eed1\u5206\u949f\u3002"
+  }
 }

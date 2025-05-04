@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "6197"
+  "SpellID": "6197",
+  "name_blz": {
+    "en_US": "Eagle Eye",
+    "es_MX": "Ojo de \u00e1guila",
+    "pt_BR": "Olho de \u00c1guia",
+    "de_DE": "Adlerauge",
+    "en_GB": "Eagle Eye",
+    "es_ES": "Ojo de \u00e1guila",
+    "fr_FR": "\u0152il d'aigle",
+    "it_IT": "Occhio d'Aquila",
+    "ru_RU": "\u041e\u0440\u043b\u0438\u043d\u044b\u0439 \u0433\u043b\u0430\u0437",
+    "ko_KR": "\ub3c5\uc218\ub9ac\uc758 \ub208",
+    "zh_TW": "\u9df9\u773c\u8853",
+    "zh_CN": "\u9e70\u773c\u672f"
+  },
+  "description_blz": {
+    "en_US": "Changes your viewpoint to the targeted location for 1 min. Only usable outdoors.",
+    "es_MX": "Cambia tu visi\u00f3n a la ubicaci\u00f3n seleccionada durante 1 min. Solo se puede utilizar al exterior.",
+    "pt_BR": "Muda o seu ponto de vista para o local selecionado por 1 min. S\u00f3 pode ser utilizado em ambientes abertos.",
+    "de_DE": "Versetzt Euren Blickwinkel f\u00fcr 1 Min. an die anvisierte Position. Kann nur im Freien verwendet werden.",
+    "en_GB": "Changes your viewpoint to the targeted location for 1 min. Only usable outdoors.",
+    "es_ES": "Cambia tu punto de vista a la ubicaci\u00f3n objetivo durante 1 min. Solo se puede usar en el exterior.",
+    "fr_FR": "D\u00e9place votre point de vue \u00e0 l\u2019emplacement cibl\u00e9 pendant 1 min. Utilisable uniquement en ext\u00e9rieur.",
+    "it_IT": "Il tuo punto di vista si sposta sulla posizione bersaglio per 1 min. Utilizzabile solo all'esterno.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0442\u043e\u0447\u043a\u0443 \u043e\u0431\u0437\u043e\u0440\u0430 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u043d\u0430 1 \u043c\u0438\u043d. \u0414\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0432\u043d\u0435 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439.",
+    "ko_KR": "1\ubd84 \ub3d9\uc548 \uc2dc\uc57c\ub97c \ub300\uc0c1 \uc704\uce58\ub85c \ubcc0\uacbd\ud569\ub2c8\ub2e4. \uc57c\uc678\uc5d0\uc11c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u7684\u8996\u9ede\u8f49\u79fb\u5230\u6307\u5b9a\u5730\u9ede\u3002\u53ea\u80fd\u5728\u6236\u5916\u4f7f\u7528\uff0c\u6301\u7e8c1\u5206\u9418\u3002",
+    "zh_CN": "\u5c06\u4f60\u7684\u89c6\u89d2\u8f6c\u79fb\u81f3\u76ee\u6807\u533a\u57df\uff0c\u6301\u7eed1\u5206\u949f\u3002\u53ea\u80fd\u5728\u6237\u5916\u4f7f\u7528\u3002"
+  }
 }
