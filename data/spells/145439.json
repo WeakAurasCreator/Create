@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "145439"
+  "SpellID": "145439",
+  "name_blz": {
+    "en_US": "Item - Monk T16 Mistweaver 2P Bonus",
+    "es_MX": "Item - Monk T16 Mistweaver 2P Bonus",
+    "pt_BR": "Item - Monk T16 Mistweaver 2P Bonus",
+    "en_GB": "Item - Monk T16 Mistweaver 2P Bonus",
+    "es_ES": "Item - Monk T16 Mistweaver 2P Bonus",
+    "it_IT": "Item - Monk T16 Mistweaver 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc218\ub3c4\uc0ac T16 \uc6b4\ubb34 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Monk T16 Mistweaver 2P Bonus",
+    "zh_CN": "Item - Monk T16 Mistweaver 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When Gift of the Serpent spheres heal a player, they gain an absorb for 45% of the amount healed.",
+    "es_MX": "Cuando las esferas de Ofrenda del drag\u00f3n sanan a un jugador, tambi\u00e9n obtiene una absorci\u00f3n del 45% de la cantidad sanada.",
+    "pt_BR": "Quando as esferas da D\u00e1diva da Serpente curam um jogador, ele ganha uma absor\u00e7\u00e3o equivalente a 45% do total curado.",
+    "de_DE": "Wenn die Sph\u00e4ren Eures Zaubers 'Gabe der Schlange' einen Spielercharakter heilen, erh\u00e4lt dieser einen Absorptionsschild in H\u00f6he von 45% des geheilten Wertes.",
+    "en_GB": "When Gift of the Serpent spheres heal a player, they gain an absorb for 45% of the amount healed.",
+    "es_ES": "Cuando las esferas de Ofrenda del drag\u00f3n sanan a un jugador, tambi\u00e9n obtiene una absorci\u00f3n del 45% de la cantidad sanada.",
+    "fr_FR": "Lorsque des sph\u00e8res de Don du serpent soignent un personnage-joueur, ce dernier b\u00e9n\u00e9ficie aussi d\u2019une absorption de d\u00e9g\u00e2ts \u00e9gale \u00e0 45% du montant soign\u00e9.",
+    "it_IT": "Quando le sfere del Dono della Serpe curano un personaggio, il personaggio ottiene uno scudo che assorbe danni pari al 45% dell'ammontare curato.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0441\u0444\u0435\u0440\u044b \"\u0414\u0430\u0440\u0430 \u0437\u043c\u0435\u0438\" \u0438\u0441\u0446\u0435\u043b\u044f\u044e\u0442 \u0438\u0433\u0440\u043e\u043a\u0430, \u0435\u0433\u043e \u043e\u043a\u0440\u0443\u0436\u0430\u0435\u0442 \u0449\u0438\u0442, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 45% \u043e\u0442 \u043e\u0431\u044a\u0435\u043c\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\uc6a9\uc758 \uc120\ubb3c \uad6c\uc2ac\uc774 \ud50c\ub808\uc774\uc5b4\ub97c \uce58\uc720\ud558\uba74, \ud574\ub2f9 \ud50c\ub808\uc774\uc5b4\ub294 \uce58\uc720\ub7c9\uc758 45%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud761\uc218 \ubcf4\ud638\ub9c9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7389\u86df\u4e4b\u8cdc\u7684\u6cbb\u7642\u7389\u6cbb\u7642\u73a9\u5bb6\uff0c\u53ef\u7372\u5f97\u76f8\u7576\u65bc\u8a72\u6b21\u6cbb\u7642\u91cf45%\u7684\u50b7\u5bb3\u5438\u6536\u8b77\u76fe\u3002",
+    "zh_CN": "\u73a9\u5bb6\u5728\u63a5\u53d7\u9752\u9f99\u4e4b\u8d50\u7684\u7597\u4f24\u73e0\u6cbb\u7597\u65f6\u8fd8\u80fd\u5438\u6536\u4f24\u5bb3\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u6cbb\u7597\u91cf\u768445%\u3002"
+  }
 }

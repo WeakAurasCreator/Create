@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "146956"
+  "SpellID": "146956",
+  "name_blz": {
+    "en_US": "Light's Revocation",
+    "es_MX": "Revocaci\u00f3n de la Luz",
+    "pt_BR": "Revoca\u00e7\u00e3o da Luz",
+    "de_DE": "Widerruf des Lichts",
+    "en_GB": "Light's Revocation",
+    "es_ES": "Revocaci\u00f3n de la Luz",
+    "fr_FR": "R\u00e9vocation de la Lumi\u00e8re",
+    "it_IT": "Revoca della Luce",
+    "ru_RU": "\u041b\u0438\u0448\u0435\u043d\u0438\u0435 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \ud30c\uae30",
+    "zh_TW": "\u8056\u5149\u5ee2\u6b62",
+    "zh_CN": "\u5723\u5149\u51b3\u65ad"
+  },
+  "description_blz": {
+    "en_US": "Removing harmful effects with Divine Shield heals you for 10% for each effect removed.  This heal cannot exceed 30% of your maximum health.\r\n\r\nDivine Shield may now be cast while Forbearance is active.",
+    "es_MX": "Eliminar efectos da\u00f1inos con Escudo divino te sana un 10% por cada efecto eliminado. Esta sanaci\u00f3n no puede superar el 30% de tu salud m\u00e1xima.\r\n\r\nEscudo divino ahora se puede lanzar mientras Abstinencia est\u00e1 activa.",
+    "pt_BR": "Remover efeitos nocivos com Escudo Divino cura 10% dos seus pontos de vida para cada efeito removido. Esta cura n\u00e3o pode passar de 30% do seu m\u00e1ximo de pontos de vida.\r\n\r\nEscudo Divino agora pode ser lan\u00e7ado quando Abstin\u00eancia est\u00e1 ativa.",
+    "de_DE": "Das Entfernen sch\u00e4dlicher Effekte mittels 'Gottesschild' heilt Euch pro entferntem Effekt um 10%. Diese Heilung kann 30% Eurer Maximalgesundheit nicht \u00fcbersteigen.\r\n\r\n'Gottesschild' kann jetzt eingesetzt werden, w\u00e4hrend 'Vorahnung' aktiv ist.",
+    "en_GB": "Removing harmful effects with Divine Shield heals you for 10% for each effect removed.  This heal cannot exceed 30% of your maximum health.\r\n\r\nDivine Shield may now be cast while Forbearance is active.",
+    "es_ES": "Al eliminar efectos da\u00f1inos con Escudo divino, te sanas un 10% por cada efecto eliminado. Esta sanaci\u00f3n no puede superar el 30% de tu salud m\u00e1xima.\r\n\r\nAhora se puede lanzar Escudo divino mientras Abstinencia est\u00e1 activo.",
+    "fr_FR": "L\u2019annulation d\u2019effets n\u00e9fastes avec Bouclier divin vous rend 10\u00a0% de vos points de vie par effet annul\u00e9. Ces soins ne peuvent d\u00e9passer 30\u00a0% de vos points de vie maximum.\r\n\r\nBouclier divin peut d\u00e9sormais \u00eatre lanc\u00e9 lorsque Longanimit\u00e9 est actif.",
+    "it_IT": "Quando Scudo Divino dissolve un effetto dannoso, rigenera anche il 10 della tua salute per ogni effetto dissolto, fino a un massimo del 30% della tua salute massima.\r\n\r\nScudo Divino ora pu\u00f2 essere lanciato mentre Rigorosit\u00e0 \u00e8 attiva.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0449\u0438\u0442\" \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0432\u0430\u0441 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b, \u0432\u044b \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0435 10% \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442. \u041e\u0431\u0449\u0435\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u043c\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u0442\u044c 30% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430.\r\n\r\n\u0422\u0435\u043f\u0435\u0440\u044c \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0449\u0438\u0442\" \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \"\u0412\u043e\u0437\u0434\u0435\u0440\u0436\u0430\u043d\u043d\u043e\u0441\u0442\u0438\".",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \ubcf4\ud638\ub9c9\uc73c\ub85c \ud574\ub85c\uc6b4 \ud6a8\uacfc\uac00 \uc81c\uac70\ub418\uba74, \uc81c\uac70\ub41c \ud6a8\uacfc \ud558\ub098\ub2f9 10%\uc758 \uc0dd\uba85\ub825\uc774 \ud68c\ubcf5\ub429\ub2c8\ub2e4. \uce58\uc720\ub7c9\uc740 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 30%\ub97c \ucd08\uacfc\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc774\uc81c \ucc38\uc744\uc131\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548\uc5d0\ub3c4 \ucc9c\uc0c1\uc758 \ubcf4\ud638\ub9c9\uc744 \uc2dc\uc804\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u7528\u8056\u76fe\u8853\u79fb\u9664\u4e00\u500b\u6709\u5bb3\u6548\u679c\uff0c\u53ef\u70ba\u4f60\u6062\u5fa910%\u751f\u547d\u529b\u3002\u6062\u5fa9\u7684\u751f\u547d\u529b\u4e0d\u6703\u8d85\u904e\u4f60\u751f\u547d\u529b\u4e0a\u9650\u768430%\u3002\r\n\r\n\u73fe\u5728\u53ef\u5728\u81ea\u5f8b\u751f\u6548\u671f\u9593\u65bd\u653e\u8056\u76fe\u8853\u3002",
+    "zh_CN": "\u5723\u76fe\u672f\u6bcf\u79fb\u9664\u4e00\u4e2a\u6709\u5bb3\u6548\u679c\uff0c\u5c31\u4f1a\u4e3a\u4f60\u6062\u590d10%\u7684\u751f\u547d\u503c\u3002\u8be5\u6cbb\u7597\u7684\u6cbb\u7597\u91cf\u4e0d\u4f1a\u8d85\u8fc7\u4f60\u6700\u5927\u751f\u547d\u503c\u768430%\u3002\r\n\r\n\u5904\u4e8e\u81ea\u5f8b\u6548\u679c\u65f6\u4ecd\u53ef\u65bd\u653e\u5723\u76fe\u672f\u3002"
+  }
 }
