@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "21973"
+  "SpellID": "21973",
+  "name_blz": {
+    "en_US": "Prophecy Flash Heal Bonus",
+    "es_MX": "Bonus de sanaci\u00f3n rel\u00e1mpago de profec\u00eda",
+    "pt_BR": "B\u00f4nus de Profecia da Cura C\u00e9lere",
+    "de_DE": "Prophezeiung des Blitzheilungsbonus",
+    "en_GB": "Prophecy Flash Heal Bonus",
+    "es_ES": "Bonus de sanaci\u00f3n rel\u00e1mpago de profec\u00eda",
+    "fr_FR": "Bonus de la Proph\u00e9tie\u00a0: Soins rapides",
+    "it_IT": "Bonus di Cura Rapida",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f",
+    "ko_KR": "\uc21c\uac04 \uce58\uc720 \uc5f0\ub9c8",
+    "zh_TW": "\u9810\u8a00\u5957\u88dd\u5feb\u901f\u6cbb\u7642\u734e\u52f5",
+    "zh_CN": "Prophecy Flash Heal Bonus"
+  },
+  "description_blz": {
+    "en_US": "-0.1 sec to the casting time of your Flash Heal spell.",
+    "es_MX": "-0.1 s de tiempo de lanzamiento de tu hechizo Sanaci\u00f3n rel\u00e1mpago.",
+    "pt_BR": "Reduz em -0,1 s o tempo de lan\u00e7amento da sua Cura C\u00e9lere.",
+    "de_DE": "Verringert die Zauberzeit Eures Zaubers 'Blitzheilung' um 0,1 Sek.",
+    "en_GB": "-0.1 sec to the casting time of your Flash Heal spell.",
+    "es_ES": "-0,1 s de tiempo de lanzamiento de tu hechizo Sanaci\u00f3n rel\u00e1mpago.",
+    "fr_FR": "-0,1 s au temps d'incantation de votre sort Soins rapides.",
+    "it_IT": "-0,1 s al tempo di lancio di Cura Rapida.",
+    "ru_RU": "-0,1 \u0441\u0435\u043a. \u043a\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0411\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\".",
+    "ko_KR": "\uc21c\uac04 \uce58\uc720\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 0.1\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u5feb\u901f\u6cbb\u7642\u6cd5\u8853\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed0.1\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u5feb\u901f\u6cbb\u7597\u6cd5\u672f\u7684\u65bd\u6cd5\u65f6\u95f4\u51cf\u5c110.1\u79d2\u3002"
+  }
 }
