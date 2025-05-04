@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "20555"
+  "SpellID": "20555",
+  "name_blz": {
+    "en_US": "Regeneration",
+    "es_MX": "Regeneraci\u00f3n",
+    "pt_BR": "Regenera\u00e7\u00e3o",
+    "de_DE": "Regeneration",
+    "en_GB": "Regeneration",
+    "es_ES": "Regeneraci\u00f3n",
+    "fr_FR": "R\u00e9g\u00e9n\u00e9ration",
+    "it_IT": "Rigenerazione",
+    "ru_RU": "\u0420\u0435\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u044f",
+    "ko_KR": "\uc7ac\uc0dd\ub825",
+    "zh_TW": "\u518d\u751f",
+    "zh_CN": "\u518d\u751f"
+  },
+  "description_blz": {
+    "en_US": "Health regeneration rate increased by 10%. 10% of total Health regeneration may continue during combat.",
+    "es_MX": "Aumenta la velocidad de regeneraci\u00f3n de salud un 10%. Un 10% de la regeneraci\u00f3n de salud total puede mantenerse mientras est\u00e1s en combate.",
+    "pt_BR": "Taxa de regenera\u00e7\u00e3o de vida aumentada em 10%. 10% do seu total de pontos de vida continuam a ser regenerados durante o combate.",
+    "de_DE": "Gesundheitsregenerationsrate um 10% erh\u00f6ht. 10% der gesamten Gesundheitsregeneration kann w\u00e4hrend des Kampfs weiterlaufen.",
+    "en_GB": "Health regeneration rate increased by 10%. 10% of total Health regeneration may continue during combat.",
+    "es_ES": "Aumenta la velocidad de regeneraci\u00f3n de salud un 10%. Un 10% de la regeneraci\u00f3n de salud total puede seguir mientras est\u00e1s en combate.",
+    "fr_FR": "Vitesse de r\u00e9cup\u00e9ration des points de vie augment\u00e9e de 10%. 10% de la vitesse de r\u00e9cup\u00e9ration des points de vie sont actifs pendant les combats.",
+    "it_IT": "Aumenta la velocit\u00e0 di rigenerazione della salute del 10%. Il 10% della rigenerazione della salute massima continua anche in combattimento.",
+    "ru_RU": "\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0430 \u043d\u0430 10%. 10% \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u044c\u0441\u044f \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0431\u0438\u0442\u0432\u044b.",
+    "ko_KR": "\uc0dd\uba85\ub825 \ud68c\ubcf5 \uc18d\ub3c4\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc804\ud22c \uc911\uc5d0\ub3c4 10%\uc758 \uc18d\ub3c4\ub85c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u751f\u547d\u529b\u6062\u5fa9\u901f\u5ea6\u63d0\u9ad810%\u3002\u5728\u6230\u9b25\u4e2d\u4ecd\u53ef\u4fdd\u630110%\u7684\u751f\u547d\u529b\u6062\u5fa9\u901f\u5ea6\u3002",
+    "zh_CN": "\u751f\u547d\u503c\u56de\u590d\u901f\u5ea6\u63d0\u9ad810%\uff0c\u5728\u6218\u6597\u4e2d\u4ecd\u53ef\u4fdd\u630110%\u7684\u751f\u547d\u503c\u56de\u590d\u901f\u5ea6\u3002"
+  }
 }
