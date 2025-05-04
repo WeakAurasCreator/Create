@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "30146"
+  "SpellID": "30146",
+  "name_blz": {
+    "en_US": "Summon Felguard",
+    "es_MX": "Invocar guardia vil",
+    "pt_BR": "Evocar Guarda Vil",
+    "de_DE": "Teufelswache beschw\u00f6ren",
+    "en_GB": "Summon Felguard",
+    "es_ES": "Invocar guardia vil",
+    "fr_FR": "Invocation de gangregarde",
+    "it_IT": "Evocazione: Vilguardia",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u0441\u0442\u0440\u0430\u0436\u0430 \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc9c0\uc625\uc218\ud638\ubcd1 \uc18c\ud658",
+    "zh_TW": "\u53ec\u559a\u60e1\u9b54\u5b88\u885b",
+    "zh_CN": "\u53ec\u5524\u6076\u9b54\u536b\u58eb"
+  },
+  "description_blz": {
+    "en_US": "Summons a Felguard under your command as a powerful melee combatant.",
+    "es_MX": "Invoca un guardia vil bajo tus \u00f3rdenes como un poderoso combatiente cuerpo a cuerpo.",
+    "pt_BR": "Evoca um Guarda Vil que fica \u00e0s suas ordens e \u00e9 um poderoso combatente corpo a corpo.",
+    "de_DE": "Beschw\u00f6rt eine Teufelswache, die unter Eurem Befehl steht und Euch als m\u00e4chtiger Nahk\u00e4mpfer dient.",
+    "en_GB": "Summons a Felguard under your command as a powerful melee combatant.",
+    "es_ES": "Invoca un guardia vil bajo tu mando como poderoso combatiente cuerpo a cuerpo.",
+    "fr_FR": "Invoque \u00e0 votre service un gangregarde qui agit comme puissant combattant en m\u00eal\u00e9e.",
+    "it_IT": "Evoca ai tuoi comandi una Vilguardia, potente combattente da mischia.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u0442\u0440\u0430\u0436\u0430 \u0421\u043a\u0432\u0435\u0440\u043d\u044b, \u0441\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u043e\u0439\u0446\u0430 \u0431\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0431\u043e\u044f.",
+    "ko_KR": "\uac15\ub825\ud55c \uadfc\uc811 \uc804\ud22c\ud615 \ud22c\uc0ac\uc778 \uc9c0\uc625\uc218\ud638\ubcd1\uc744 \uc18c\ud658\ud558\uc5ec \ubd80\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u96bb\u60e1\u9b54\u5b88\u885b\u70ba\u4f60\u6548\u529b\uff0c\u662f\u5f37\u5927\u7684\u8fd1\u6230\u9b25\u58eb\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u4e2a\u6076\u9b54\u536b\u58eb\u4e3a\u4f60\u4f5c\u6218\uff0c\u6076\u9b54\u536b\u58eb\u662f\u5f3a\u5927\u7684\u8fd1\u6218\u6597\u58eb\u3002"
+  }
 }
