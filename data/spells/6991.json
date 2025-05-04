@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "83446",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "6991"
+  "SpellID": "6991",
+  "name_blz": {
+    "en_US": "Feed Pet",
+    "es_MX": "Alimentar mascota",
+    "pt_BR": "Alimentar Ajudante",
+    "de_DE": "Tier f\u00fcttern",
+    "en_GB": "Feed Pet",
+    "es_ES": "Alimentar mascota",
+    "fr_FR": "Nourrir le familier",
+    "it_IT": "Nutri Famiglio",
+    "ru_RU": "\u041a\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u043f\u0438\u0442\u043e\u043c\u0446\u0430",
+    "ko_KR": "\uba39\uc774\uc8fc\uae30",
+    "zh_TW": "\u9935\u990a\u5bf5\u7269",
+    "zh_CN": "\u5582\u517b\u5ba0\u7269"
+  },
+  "description_blz": {
+    "en_US": "Feeds your pet the selected item, instantly restoring 50% of its total health. Not usable in combat.\r\n\r\nYou may use the Beast Lore ability to identify what types of foods your pet will eat.",
+    "es_MX": "Le das el objeto seleccionado a tu mascota, lo que restaura al instante un 50% de su salud total. No se puede usar en combate.\r\n\r\nPuedes usar la habilidad Tradici\u00f3n de bestias para identificar qu\u00e9 tipos de comida quiere comer tu mascota.",
+    "pt_BR": "Alimenta seu ajudante com o item selecionado, restaurando instantaneamente 50% do total de pontos de vida dele. N\u00e3o pode ser usado em combate.\r\n\r\n Voc\u00ea pode usar a habilidade Tradi\u00e7\u00e3o das Feras para identificar que tipo de comida que sua mascote come.",
+    "de_DE": "Verf\u00fcttert Eurem Tier die ausgew\u00e4hlte Speise, wodurch es sofort 50% seiner gesamten Gesundheit regeneriert. Kann nicht im Kampf eingesetzt werden.\r\n\r\nIhr k\u00f6nnt 'Wildtierkunde' einsetzen, um herauszufinden, welche Arten von Futter Euer Begleiter annimmt.",
+    "en_GB": "Feeds your pet the selected item, instantly restoring 50% of its total health. Not usable in combat.\r\n\r\nYou may use the Beast Lore ability to identify what types of foods your pet will eat.",
+    "es_ES": "Alimenta a tu mascota con el objeto seleccionado, lo que restaura al instante un 50% de su salud total. No se puede usar en combate.\r\n\r\nPuedes usar la facultad Tradici\u00f3n de bestias para identificar los tipos de comida que come tu mascota.",
+    "fr_FR": "Donne l\u2019objet s\u00e9lectionn\u00e9 \u00e0 votre familier pour qu\u2019il le mange, ce qui lui rend instantan\u00e9ment 50% de son maximum de points de vie. Ne peut pas \u00eatre utilis\u00e9 en combat.\r\n\r\nVous pouvez utiliser Connaissance des b\u00eates pour identifier le type de nourriture que votre familier mange.",
+    "it_IT": "Nutre il famiglio con l'oggetto selezionato, rigenerandone istantaneamente il 50% della salute massima. Non utilizzabile in combattimento.\r\n\r\nConoscenze Animali permette di scoprire quali tipi di cibo piacciono al famiglio.",
+    "ru_RU": "\u0421\u043a\u0430\u0440\u043c\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0448\u0435\u043c\u0443 \u043f\u0438\u0442\u043e\u043c\u0446\u0443 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044f \u0435\u043c\u0443 50% \u043e\u0442 \u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u041d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0431\u043e\u044f.\r\n\r\n\u0427\u0442\u043e\u0431\u044b \u0443\u0437\u043d\u0430\u0442\u044c, \u0447\u0442\u043e \u0435\u0441\u0442 \u0432\u0430\u0448 \u043f\u0438\u0442\u043e\u043c\u0435\u0446, \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435\u0441\u044c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \"\u0417\u043d\u0430\u043d\u0438\u0435 \u0437\u0432\u0435\u0440\u044f\".",
+    "ko_KR": "\uc790\uc2e0\uc758 \uc57c\uc218\uc5d0\uac8c \uc120\ud0dd\ud55c \uba39\uc774\ub97c \uba39\uc5ec \uc57c\uc218\uc758 \uc0dd\uba85\ub825\uc744 \uc804\uccb4 \uc0dd\uba85\ub825\uc758 50%\ub9cc\ud07c \uc989\uc2dc \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. \uc804\ud22c \uc911\uc5d0\ub294 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc57c\uc218 \uc5f0\uad6c \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc57c\uc218\uac00 \uc5b4\ub5a4 \uba39\uc774\ub97c \uba39\ub294\uc9c0 \ud655\uc778\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u6307\u5b9a\u7269\u54c1\u4f86\u9935\u98df\u4f60\u7684\u5bf5\u7269\uff0c\u7acb\u5373\u6062\u5fa9\u7e3d\u751f\u547d\u529b\u768450%\u3002\u7121\u6cd5\u5728\u6230\u9b25\u4e2d\u4f7f\u7528\u3002\r\n\r\n\u4f60\u53ef\u4ee5\u904b\u7528\u91ce\u7378\u77e5\u8b58\u6280\u80fd\u4f86\u8fa8\u660e\u4f60\u7684\u5bf5\u7269\u6703\u5403\u4ec0\u9ebc\u98df\u7269\u3002",
+    "zh_CN": "\u4f7f\u7528\u6307\u5b9a\u7684\u98df\u7269\u4e3a\u4f60\u7684\u5ba0\u7269\u5582\u98df\uff0c\u7acb\u5373\u4e3a\u5176\u6062\u590d50%\u7684\u603b\u751f\u547d\u503c\u3002\u65e0\u6cd5\u5728\u6218\u6597\u4e2d\u4f7f\u7528\u3002\r\n\r\n\u4f60\u53ef\u4ee5\u4f7f\u7528\u91ce\u517d\u77e5\u8bc6\u6280\u80fd\uff0c\u786e\u8ba4\u81ea\u5df1\u7684\u5ba0\u7269\u559c\u6b22\u5403\u54ea\u79cd\u98df\u7269\u3002"
+  }
 }
