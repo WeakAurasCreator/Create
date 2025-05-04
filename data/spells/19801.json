@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "19801"
+  "SpellID": "19801",
+  "name_blz": {
+    "en_US": "Tranquilizing Shot",
+    "es_MX": "Disparo tranquilizante",
+    "pt_BR": "Tiro Tranquilizante",
+    "de_DE": "Einlullender Schuss",
+    "en_GB": "Tranquilizing Shot",
+    "es_ES": "Disparo tranquilizante",
+    "fr_FR": "Tir tranquillisant",
+    "it_IT": "Tiro Tranquillizzante",
+    "ru_RU": "\u0423\u0441\u043c\u0438\u0440\u044f\u044e\u0449\u0438\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b",
+    "ko_KR": "\ud3c9\uc815\uc758 \uc0ac\uaca9",
+    "zh_TW": "\u5be7\u795e\u5c04\u64ca",
+    "zh_CN": "\u5b81\u795e\u5c04\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Removes 1 Enrage and 1 Magic effect from an enemy target.",
+    "es_MX": "Elimina 1 efecto de Enfurecer y 1 efecto m\u00e1gico de un objetivo enemigo.",
+    "pt_BR": "Remove 1 efeito de F\u00faria e 1 efeito M\u00e1gico de um alvo inimigo.",
+    "de_DE": "Entfernt 1 Wutzustand und 1 Magieeffekt vom Gegner.",
+    "en_GB": "Removes 1 Enrage and 1 Magic effect from an enemy target.",
+    "es_ES": "Elimina 1 Enfurecer y 1 efecto de magia de un objetivo enemigo.",
+    "fr_FR": "Annule 1\u00a0effet de rage et 1\u00a0effet de magie sur une cible ennemie.",
+    "it_IT": "Dissolve 1 effetto di rabbia e 1 effetto magico da un bersaglio nemico.",
+    "ru_RU": "\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 1 \u044d\u0444\u0444\u0435\u043a\u0442 \u0438\u0441\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0438 1 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442. ",
+    "ko_KR": "\uc801\uc5d0\uac8c\uc11c 1\uac1c\uc758 \uaca9\ub178 \ud6a8\uacfc\uc640 1\uac1c\uc758 \ub9c8\ubc95 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u79fb\u9664\u4e00\u540d\u6575\u65b9\u76ee\u6a19\u8eab\u4e0a\u76841\u500b\u72c2\u6012\u6548\u679c\u548c1\u500b\u9b54\u6cd5\u6548\u679c\u3002",
+    "zh_CN": "\u4ece\u4e00\u4e2a\u654c\u65b9\u76ee\u6807\u8eab\u4e0a\u79fb\u96641\u4e2a\u6fc0\u6012\u6548\u679c\u548c1\u4e2a\u9b54\u6cd5\u6548\u679c\u3002"
+  }
 }

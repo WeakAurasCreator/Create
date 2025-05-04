@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "19885"
+  "SpellID": "19885",
+  "name_blz": {
+    "en_US": "Track Hidden",
+    "es_MX": "Rastrear lo oculto",
+    "pt_BR": "Rastrear Furtivos",
+    "de_DE": "Verborgenes aufsp\u00fcren",
+    "en_GB": "Track Hidden",
+    "es_ES": "Rastrear lo oculto",
+    "fr_FR": "Pistage des camoufl\u00e9s",
+    "it_IT": "Individua Nascosti",
+    "ru_RU": "\u0412\u044b\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0441\u043a\u0440\u044b\u0442\u044b\u0445",
+    "ko_KR": "\uc740\uc2e0 \ucd94\uc801",
+    "zh_TW": "\u8ffd\u8e64\u96b1\u85cf\u751f\u7269",
+    "zh_CN": "\u8ffd\u8e2a\u9690\u85cf\u751f\u7269"
+  },
+  "description_blz": {
+    "en_US": "Greatly increases stealth detection and shows hidden units within detection range on the minimap.",
+    "es_MX": "Aumenta mucho la Detecci\u00f3n de sigilo y revela unidades ocultas dentro del radio de detecci\u00f3n en el minimapa.",
+    "pt_BR": "Aumenta muito a detec\u00e7\u00e3o de furtividade e mostra unidades escondidas dentro do alcance de detec\u00e7\u00e3o no minimapa.",
+    "de_DE": "Erh\u00f6ht Verstohlenheitsaufdeckung stark und zeigt versteckte Einheiten innerhalb der Entdeckungsreichweite auf der Minikarte an.",
+    "en_GB": "Greatly increases stealth detection and shows hidden units within detection range on the minimap.",
+    "es_ES": "Aumenta mucho la Detecci\u00f3n de sigilo y revela unidades ocultas dentro del radio de detecci\u00f3n en el minimapa.",
+    "fr_FR": "Augmente consid\u00e9rablement la d\u00e9tection du camouflage et indique sur la minicarte les unit\u00e9s camoufl\u00e9es qui se trouvent \u00e0 port\u00e9e de d\u00e9tection.",
+    "it_IT": "Aumenta significativamente l'individuazione della furtivit\u00e0 e indica sulla minimappa le unit\u00e0 nascoste a portata di rilevamento.",
+    "ru_RU": "\u0417\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0432\u0430\u0442\u044c \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u044b\u0445 \u0441\u0443\u0449\u0435\u0441\u0442\u0432; \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u043e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u043c\u0438\u043d\u0438-\u043a\u0430\u0440\u0442\u0435.",
+    "ko_KR": "\uc740\uc2e0 \uac10\uc9c0\uac00 \ub300\ud3ed \uc99d\uac00\ud558\uace0 \uac10\uc9c0 \ubc94\uc704 \ub0b4\uc5d0 \uc788\ub294 \uc740\uc2e0 \ubb3c\uccb4\ub97c \ubbf8\ub2c8\ub9f5\uc5d0 \ud45c\uc2dc\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5927\u5e45\u5ea6\u63d0\u9ad8\u5075\u6e2c\u6f5b\u884c\u80fd\u529b\uff0c\u4e26\u5728\u5c0f\u5730\u5716\u4e0a\u986f\u793a\u5075\u6e2c\u7bc4\u570d\u5167\u7684\u96b1\u85cf\u751f\u7269\u3002",
+    "zh_CN": "\u6781\u5927\u5730\u63d0\u9ad8\u6f5c\u884c\u4fa6\u6d4b\u80fd\u529b\uff0c\u5e76\u5728\u5fae\u7f29\u5730\u56fe\u4e0a\u663e\u793a\u4fa6\u6d4b\u8303\u56f4\u5185\u7684\u9690\u85cf\u751f\u7269\u3002"
+  }
 }
