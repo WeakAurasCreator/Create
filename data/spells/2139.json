@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "2139"
+  "SpellID": "2139",
+  "name_blz": {
+    "en_US": "Counterspell",
+    "es_MX": "Contrahechizo",
+    "pt_BR": "Contrafeiti\u00e7o",
+    "de_DE": "Gegenzauber",
+    "en_GB": "Counterspell",
+    "es_ES": "Contrahechizo",
+    "fr_FR": "Contresort",
+    "it_IT": "Controincantesimo",
+    "ru_RU": "\u0410\u043d\u0442\u0438\u043c\u0430\u0433\u0438\u044f",
+    "ko_KR": "\ub9c8\ubc95 \ucc28\ub2e8",
+    "zh_TW": "\u6cd5\u8853\u53cd\u5236",
+    "zh_CN": "\u6cd5\u672f\u53cd\u5236"
+  },
+  "description_blz": {
+    "en_US": "Counters the enemy's spellcast, preventing any spell from that school of magic from being cast for 5 sec.",
+    "es_MX": "Contrarresta el lanzamiento de hechizos del enemigo, lo que evita que lance hechizos de esa escuela de magia durante 5 s.",
+    "pt_BR": "Interrompe o lan\u00e7amento do feiti\u00e7o do inimigo, impedindo que qualquer feiti\u00e7o da mesma escola de magia seja lan\u00e7ado por 5 s.",
+    "de_DE": "Kontert das Zauberwirken des Gegners und verhindert so 5 Sek. lang, dass ein Zauber dieser Art gewirkt werden kann.",
+    "en_GB": "Counters the enemy's spellcast, preventing any spell from that school of magic from being cast for 5 sec.",
+    "es_ES": "Contrarresta el lanzamiento de hechizos del enemigo, lo que evita que lance hechizos de esa escuela de magia durante 5 s.",
+    "fr_FR": "Contre l\u2019incantation de sort de l\u2019ennemi, l\u2019emp\u00eache de lancer des sorts de cette \u00e9cole de magie pendant 5 s.",
+    "it_IT": "Interrompe il lancio d'incantesimi e impedisce il lancio di altri incantesimi della stessa scuola di magia per 5 s.",
+    "ru_RU": "\u041f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0442\u043e\u0439 \u0436\u0435 \u0448\u043a\u043e\u043b\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 5 \u0441\u0435\u043a.",
+    "ko_KR": "\uc801\uc758 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ucc28\ub2e8\ud558\uc5ec, 5\ucd08 \ub3d9\uc548 \uac19\uc740 \uacc4\uc5f4\uc758 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uc9c0 \ubabb\ud558\uac8c \ub9cc\ub4ed\ub2c8\ub2e4.",
+    "zh_TW": "\u53cd\u5236\u6575\u4eba\u7684\u65bd\u6cd5\uff0c\u9632\u6b62\u5c0d\u65b9\u57285\u79d2\u5167\u65bd\u5c55\u540c\u7cfb\u6cd5\u8853\u3002",
+    "zh_CN": "\u53cd\u5236\u654c\u4eba\u65bd\u653e\u7684\u6cd5\u672f\uff0c\u4f7f\u5176\u57285\u79d2\u5185\u65e0\u6cd5\u65bd\u653e\u4efb\u4f55\u8be5\u7cfb\u6cd5\u672f\u3002"
+  }
 }
