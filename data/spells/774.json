@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "774"
+  "SpellID": "774",
+  "name_blz": {
+    "en_US": "Rejuvenation",
+    "es_MX": "Rejuvenecimiento",
+    "pt_BR": "Rejuvenescer",
+    "de_DE": "Verj\u00fcngung",
+    "en_GB": "Rejuvenation",
+    "es_ES": "Rejuvenecimiento",
+    "fr_FR": "R\u00e9cup\u00e9ration",
+    "it_IT": "Rinvigorimento",
+    "ru_RU": "\u041e\u043c\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ud68c\ubcf5",
+    "zh_TW": "\u56de\u6625\u8853",
+    "zh_CN": "\u56de\u6625\u672f"
+  },
+  "description_blz": {
+    "en_US": "Heals the target for 7,762 over 12 sec.",
+    "es_MX": "Sana 7,762 p. de salud al objetivo durante 12 s.",
+    "pt_BR": "Concede ao alvo 7.762 de cura ao longo de 12 s.",
+    "de_DE": "Heilt das Ziel im Verlauf von 12 Sek. um 7.762 Gesundheit.",
+    "en_GB": "Heals the target for 7,762 over 12 sec.",
+    "es_ES": "Sana 7762 p. al objetivo durante 12 s.",
+    "fr_FR": "Rend 7762\u00a0points de vie \u00e0 la cible en 12 s.",
+    "it_IT": "Cura il bersaglio di 7.762 in 12 s.",
+    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0446\u0435\u043b\u0438 7762 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 12 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc744 12\ucd08\uc5d0 \uac78\uccd0 7,762\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u572812\u79d2\u5167\u70ba\u76ee\u6a19\u6062\u5fa97,762\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u572812\u79d2\u5185\u4e3a\u76ee\u6807\u6062\u590d7,762\u70b9\u751f\u547d\u503c\u3002"
+  }
 }
