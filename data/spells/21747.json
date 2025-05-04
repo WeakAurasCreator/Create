@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "21747"
+  "SpellID": "21747",
+  "name_blz": {
+    "en_US": "Lawbringer",
+    "es_MX": "Justiciero",
+    "pt_BR": "Mantenedor da Lei",
+    "de_DE": "Rechtbringer",
+    "en_GB": "Lawbringer",
+    "es_ES": "Justiciero",
+    "fr_FR": "Judiciaire",
+    "it_IT": "Araldo della Legge",
+    "ru_RU": "\u0417\u0430\u043a\u043e\u043d\u043d\u0438\u043a",
+    "ko_KR": "\uc9d1\ud589\uc790",
+    "zh_TW": "\u79e9\u5e8f\u4e4b\u6e90",
+    "zh_CN": "\u79e9\u5e8f\u4e4b\u6e90"
+  },
+  "description_blz": {
+    "en_US": "Gives the Paladin a chance on every melee hit to heal your party for 0.",
+    "es_MX": "Da al palad\u00edn una probabilidad en cada combate cuerpo a cuerpo de sanar a su grupo 0 p.",
+    "pt_BR": "Concede ao Paladino uma chance a cada acerto corpo a corpo de curar 0 pontos de vida do seu grupo.",
+    "de_DE": "Gibt dem Paladin eine Chance, Eure Gruppe bei jedem Nahkampftreffer um 0 zu heilen.",
+    "en_GB": "Gives the Paladin a chance on every melee hit to heal your party for 0.",
+    "es_ES": "Da al palad\u00edn una probabilidad en cada combate cuerpo a cuerpo de sanar a su grupo 0 p.",
+    "fr_FR": "Donne au paladin une chance de gu\u00e9rir son groupe de 0 sur chaque coup en m\u00eal\u00e9e qui touche.",
+    "it_IT": "Fornisce al Paladino una probabilit\u00e0 a ogni attacco in mischia di curare il gruppo di 0.",
+    "ru_RU": "\u041f\u0430\u043b\u0430\u0434\u0438\u043d \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u0438 \u043a\u0430\u0436\u0434\u043e\u043c \u0443\u0434\u0430\u0447\u043d\u043e\u043c \u0443\u0434\u0430\u0440\u0435 \u0431\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0431\u043e\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c 0 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0443 \u0441\u0432\u043e\u0435\u0439 \u0433\u0440\u0443\u043f\u043f\u044b.",
+    "ko_KR": "\uadfc\uc811 \uacf5\uaca9\uc774 \uc801\uc911\ud560 \ub54c\ub9c8\ub2e4 \uc77c\uc815 \ud655\ub960\ub85c \ud30c\ud2f0\uc6d0\uc758 \uc0dd\uba85\ub825\uc744 0\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u9a0e\u58eb\u5728\u5c0d\u6575\u4eba\u9020\u6210\u8fd1\u6230\u50b7\u5bb3\u7684\u6642\u5019\u6709\u6a5f\u7387\u66ff\u81ea\u5df1\u7684\u968a\u4f0d\u6062\u5fa90\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5723\u9a91\u58eb\u5bf9\u654c\u4eba\u9020\u6210\u8fd1\u6218\u4f24\u5bb3\u7684\u65f6\u5019\u6709\u4e00\u5b9a\u51e0\u7387\u4e3a\u6574\u4e2a\u5c0f\u961f\u56de\u590d0\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

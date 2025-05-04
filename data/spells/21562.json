@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "21562"
+  "SpellID": "21562",
+  "name_blz": {
+    "en_US": "Power Word: Fortitude",
+    "es_MX": "Palabra de poder: entereza",
+    "pt_BR": "Palavra de Poder: Fortitude",
+    "de_DE": "Machtwort: Seelenst\u00e4rke",
+    "en_GB": "Power Word: Fortitude",
+    "es_ES": "Palabra de poder: entereza",
+    "fr_FR": "Mot de pouvoir\u00a0: Robustesse",
+    "it_IT": "Parola del Potere: Fermezza",
+    "ru_RU": "\u0421\u043b\u043e\u0432\u043e \u0441\u0438\u043b\u044b: \u0421\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc2e0\uc758 \uad8c\ub2a5: \uc778\ub0b4",
+    "zh_TW": "\u771f\u8a00\u8853\uff1a\u97cc",
+    "zh_CN": "\u771f\u8a00\u672f\uff1a\u97e7"
+  },
+  "description_blz": {
+    "en_US": "Infuses the target with vitality, increasing their Stamina by 5% for 1 hour.\r\n\r\nIf the target is in your party or raid, all party and raid members will be affected.",
+    "es_MX": "Insufla al objetivo con vitalidad, lo que aumenta su aguante un 5% durante 1 h.\r\n\r\nSi el objetivo est\u00e1 en tu grupo o banda, el efecto se trasladar\u00e1 a todos los miembros del grupo o de la banda.",
+    "pt_BR": "Imbui o alvo em vitalidade, aumentando em 5% o Vigor dele por 1 hora.\r\n\r\nSe o alvo estiver no seu grupo ou raide, todos os membros do grupo ou raide ser\u00e3o afetados.",
+    "de_DE": "Erf\u00fcllt das Ziel mit Lebenskraft, die seine Ausdauer 1 Stunde lang um 5% erh\u00f6ht.\r\n\r\nWenn sich das Ziel in Eurer Gruppe oder Eurem Schlachtzug befindet, werden alle Mitglieder den Effekt erhalten.",
+    "en_GB": "Infuses the target with vitality, increasing their Stamina by 5% for 1 hour.\r\n\r\nIf the target is in your party or raid, all party and raid members will be affected.",
+    "es_ES": "Imbuye de vitalidad al objetivo, lo que aumenta un 5% su aguante durante 1 h.\r\n\r\nSi el objetivo pertenece a tu grupo o banda, afectar\u00e1 a todos los miembros del grupo o banda.",
+    "fr_FR": "Vous impr\u00e9gnez la cible de vitalit\u00e9, ce qui augmente son Endurance de 5% pendant 1 heure.\r\n\r\nSi elle se trouve dans votre groupe ou raid, tous les membres sont affect\u00e9s.",
+    "it_IT": "Infonde vitalit\u00e0 nel bersaglio alleato, aumentandone la Tempra del 5% per 1 ora.\r\n\r\nSe il bersaglio \u00e8 un membro del gruppo o dell'incursione, tutti i membri del gruppo o dell'incursione ne saranno affetti.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430 \u043d\u0430 5% \u043d\u0430 1 \u0447.\r\n\r\n\u0415\u0441\u043b\u0438 \u0446\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0432\u0430\u0448\u0435\u0439 \u0433\u0440\u0443\u043f\u043f\u0435 \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0435, \u044d\u0444\u0444\u0435\u043a\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043a\u043e \u0432\u0441\u0435\u043c \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430\u043c.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uc131\uc2a4\ub7ec\uc6b4 \uae30\uc6b4\uc744 \ubd88\uc5b4\ub123\uc5b4, 1\uc2dc\uac04 \ub3d9\uc548 \ub300\uc0c1\uc758 \uccb4\ub825\uc744 5%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ub300\uc0c1\uc774 \uac19\uc740 \ud30c\ud2f0\ub098 \uacf5\uaca9\ub300\uc5d0 \uc18d\ud574 \uc788\ub2e4\uba74, \ubaa8\ub4e0 \ud30c\ud2f0\uc6d0\uacfc \uacf5\uaca9\ub300\uc6d0\uc774 \ud6a8\uacfc\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u76ee\u6a19\u704c\u6ce8\u6d3b\u529b\uff0c\u4f7f\u5176\u8010\u529b\u63d0\u9ad85%\uff0c\u6301\u7e8c1\u5c0f\u6642\u3002\r\n\r\n\u5982\u679c\u76ee\u6a19\u5728\u4f60\u7684\u968a\u4f0d\u6216\u5718\u968a\u4e4b\u4e2d\uff0c\u6240\u6709\u7684\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u90fd\u6703\u53d7\u5230\u5f71\u97ff\u3002",
+    "zh_CN": "\u4e3a\u76ee\u6807\u6ce8\u5165\u6d3b\u529b\uff0c\u4f7f\u5176\u8010\u529b\u63d0\u9ad85%\uff0c\u6301\u7eed1\u5c0f\u65f6\u3002\r\n\r\n\u5982\u679c\u76ee\u6807\u5728\u4f60\u7684\u5c0f\u961f\u6216\u56e2\u961f\u4e2d\uff0c\u5219\u5168\u4f53\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\u90fd\u4f1a\u83b7\u5f97\u6b64\u6548\u679c\u3002"
+  }
 }
