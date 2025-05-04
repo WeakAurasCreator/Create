@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "19750"
+  "SpellID": "19750",
+  "name_blz": {
+    "en_US": "Flash of Light",
+    "es_MX": "Destello de Luz",
+    "pt_BR": "Clar\u00e3o de Luz",
+    "de_DE": "Lichtblitz",
+    "en_GB": "Flash of Light",
+    "es_ES": "Destello de Luz",
+    "fr_FR": "\u00c9clair lumineux",
+    "it_IT": "Lampo di Luce",
+    "ru_RU": "\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uc12c\uad11",
+    "zh_TW": "\u8056\u5149\u9583\u73fe",
+    "zh_CN": "\u5723\u5149\u95ea\u73b0"
+  },
+  "description_blz": {
+    "en_US": "Quickly heal a friendly target for 17,617.",
+    "es_MX": "Restituye r\u00e1pidamente 17,795 p. de salud a un objetivo aliado.",
+    "pt_BR": "Cura rapidamente 17.681 pontos de vida de um alvo aliado.",
+    "de_DE": "Ihr heilt rasch ein verb\u00fcndetes Ziel um 17.327 Gesundheit.",
+    "en_GB": "Quickly heal a friendly target for 17,637.",
+    "es_ES": "Sana r\u00e1pidamente 17200 p. a un objetivo amistoso.",
+    "fr_FR": "Soins rapides qui rendent 17212\u00a0points de vie \u00e0 une cible alli\u00e9e.",
+    "it_IT": "Cura rapidamente un bersaglio alleato di 17.804.",
+    "ru_RU": "\u0411\u044b\u0441\u0442\u0440\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 17864 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ube60\ub974\uac8c \uc544\uad70 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc744 17,758\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5feb\u901f\u6cbb\u7642\u4e00\u500b\u53cb\u65b9\u76ee\u6a19\uff0c\u6062\u5fa917,069\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5feb\u901f\u4e3a\u4e00\u540d\u53cb\u65b9\u76ee\u6807\u6062\u590d17,285\u70b9\u751f\u547d\u503c\u3002"
+  }
 }
