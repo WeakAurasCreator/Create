@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "158504"
+  "SpellID": "158504",
+  "name_blz": {
+    "en_US": "Dream of Cenarius",
+    "es_MX": "Sue\u00f1o de Cenarius",
+    "pt_BR": "Sonho de Cenarius",
+    "de_DE": "Traum des Cenarius",
+    "en_GB": "Dream of Cenarius",
+    "es_ES": "Sue\u00f1o de Cenarius",
+    "fr_FR": "R\u00eave de C\u00e9narius",
+    "it_IT": "Sogno di Cenarius",
+    "ru_RU": "\u0421\u043e\u043d \u041a\u0435\u043d\u0430\u0440\u0438\u044f",
+    "ko_KR": "\uc138\ub098\ub9ac\uc6b0\uc2a4\uc758 \uafc8",
+    "zh_TW": "\u585e\u7d0d\u7559\u65af\u4e4b\u5922",
+    "zh_CN": "\u585e\u7eb3\u7559\u65af\u7684\u68a6\u5883"
+  },
+  "description_blz": {
+    "en_US": "Wrath and Shred transfer 100% of their damage and Starfire and Swipe transfer 50% of their damage into healing onto a nearby ally. \r\n\r\nThis effect is increased by 200% while Heart of the Wild is active.",
+    "es_MX": "C\u00f3lera y Triturar transfieren un 100% de su da\u00f1o, y Fuego estelar y Flagelo transfieren un 50% de su da\u00f1o en sanaci\u00f3n a un aliado cercano.\r\n\r\nEste efecto aumenta un 200% mientras Coraz\u00f3n de fiera est\u00e1 activo.",
+    "pt_BR": "Os feiti\u00e7os Ira e Despeda\u00e7ar transferem 100% do dano, e Fogo Estelar e Patada transferem 50% do dano para a cura de um aliado pr\u00f3ximo.\r\n\r\nEste efeito aumenta em 200% quando o Cora\u00e7\u00e3o das Selvas est\u00e1 ativo.",
+    "de_DE": "100% des Schadens von 'Zorn' und 'Schreddern' sowie 50% des Schadens von 'Sternenfeuer' und 'Prankenhieb' werden als Heilung auf einen Verb\u00fcndeten in der N\u00e4he \u00fcbertragen.\r\n\r\nDieser Effekt wird um 200% erh\u00f6ht, wenn 'Herz der Wildnis' aktiv ist.",
+    "en_GB": "Wrath and Shred transfer 100% of their damage and Starfire and Swipe transfer 50% of their damage into healing onto a nearby ally. \r\n\r\nThis effect is increased by 200% while Heart of the Wild is active.",
+    "es_ES": "C\u00f3lera y Triturar transfieren un 100% de su da\u00f1o como sanaci\u00f3n a un aliado cercano. Fuego estelar y Flagelo hacen lo propio con un 50%.\r\n\r\nEste efecto aumenta un 200% mientras Coraz\u00f3n de lo Salvaje est\u00e1 activo.",
+    "fr_FR": "Col\u00e8re et Lambeau convertissent 100\u00a0% et Feu stellaire et Balayage 50\u00a0% de leurs d\u00e9g\u00e2ts en soins prodigu\u00e9s aux personnages alli\u00e9s proches.\r\n\r\nCet effet est augment\u00e9 de 200\u00a0% lorsque C\u0153ur de fauve est actif.",
+    "it_IT": "Ira Silvana e Artigliata trasformano il 100% dei loro danni inflitti e Fuoco Stellare e Spazzata trasferiscono il 50% dei loro danni inflitti in cure per un alleato vicino.\r\n\r\nL'effetto aumenta del 200% quando Cuore Selvaggio \u00e8 attivo.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0413\u043d\u0435\u0432\" \u0438 \"\u041f\u043e\u043b\u043e\u0441\u043d\u0443\u0442\u044c\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u043c\u0443\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 100% \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430, \u0430 \"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\" \u0438 \"\u0420\u0430\u0437\u043c\u0430\u0445\" \u2013 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 50% \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \r\n\r\n\u042d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 200% \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0421\u0435\u0440\u0434\u0446\u0430 \u0434\u0438\u043a\u043e\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u044b\".",
+    "ko_KR": "\ucc9c\ubc8c \ubc0f \uce7c\ub0a0 \ubc1c\ud1b1\uc774 \uc785\ud78c \ud53c\ud574\uc758 100%\ub9cc\ud07c, \ubcc4\ube5b\uc12c\uad11 \ubc0f \ud718\ub458\ub7ec\uce58\uae30\uac00 \uc785\ud78c \ud53c\ud574\uc758 50%\ub9cc\ud07c \uc8fc\uc704\uc758 \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\n\uc57c\uc0dd\uc758 \uc815\uc218\uac00 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \ud6a8\uacfc\uac00 200%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u61a4\u6012\u548c\u6495\u788e\u50b7\u5bb3\u7684100%\uff0c\u4ee5\u53ca\u661f\u706b\u8853\u548c\u63ee\u64ca\u50b7\u5bb3\u768450%\uff0c\u90fd\u6703\u8f49\u63db\u6210\u5c0d\u9644\u8fd1\u4e00\u4f4d\u76df\u53cb\u7684\u6cbb\u7642\u6548\u679c\u3002\r\n\r\n\u6b64\u6548\u679c\u5728\u91ce\u6027\u4e4b\u5fc3\u4f5c\u7528\u671f\u9593\u63d0\u9ad8200%\u3002",
+    "zh_CN": "\u6124\u6012\u548c\u6495\u788e\u4f1a\u5c06100%\u7684\u4f24\u5bb3\u3001\u661f\u706b\u672f\u548c\u6a2a\u626b\u4f1a\u5c0650%\u7684\u4f24\u5bb3\u8f6c\u5316\u4e3a\u6cbb\u7597\uff0c\u4e3a\u9644\u8fd1\u7684\u4e00\u540d\u76df\u53cb\u6062\u590d\u751f\u547d\u503c\u3002\r\n\r\n\u91ce\u6027\u4e4b\u5fc3\u6fc0\u6d3b\u65f6\uff0c\u8be5\u6548\u679c\u63d0\u9ad8200%\u3002"
+  }
 }
