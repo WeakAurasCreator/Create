@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "83446",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "118"
+  "SpellID": "118",
+  "name_blz": {
+    "en_US": "Polymorph",
+    "es_MX": "Polimorfia",
+    "pt_BR": "Polimorfia",
+    "de_DE": "Verwandlung",
+    "en_GB": "Polymorph",
+    "es_ES": "Polimorfia",
+    "fr_FR": "M\u00e9tamorphose",
+    "it_IT": "Metamorfosi",
+    "ru_RU": "\u041f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ubcc0\uc774",
+    "zh_TW": "\u8b8a\u5f62\u8853",
+    "zh_CN": "\u53d8\u5f62\u672f"
+  },
+  "description_blz": {
+    "en_US": "Transforms the enemy into a sheep, wandering around incapacitated for 1 min. While affected, the victim cannot take actions but will regenerate health very quickly. Damage may cancel the effect. Limit 1.\r\n\r\nOnly works on Beasts, Humanoids and Critters.",
+    "es_MX": "Transforma al enemigo en una oveja que vaga sin direcci\u00f3n y queda incapacitada durante 1 min. Durante el efecto, la v\u00edctima no puede realizar ninguna acci\u00f3n, pero regenera salud con mucha rapidez. El da\u00f1o puede cancelar el efecto. L\u00edmite: 1.\r\n\r\nSolo funciona en bestias, humanoides y alima\u00f1as.",
+    "pt_BR": "Transforma o inimigo em ovelha, fazendo com que perambule incapacitado por 1 min. Enquanto estiver afetada, a v\u00edtima n\u00e3o pode realizar nenhuma a\u00e7\u00e3o, mas seus pontos de vida se regeneram rapidamente. Dano pode cancelar o efeito. Limite de 1. \r\n\r\nS\u00f3 funciona em Feras, Humanoides e Bichos.",
+    "de_DE": "Verwandelt den Gegner in ein Schaf, das 1 Min. lang handlungsunf\u00e4hig umherirrt. In diesem Zustand kann das Opfer nicht agieren, regeneriert aber seine Gesundheit sehr schnell. Schaden kann den Effekt abbrechen. Es kann nur jeweils 1 Ziel betroffen sein.\r\n\r\nWirkt nur bei Wildtieren, Humanoiden und Kleintieren.",
+    "en_GB": "Transforms the enemy into a sheep, wandering around incapacitated for 1 min. While affected, the victim cannot take actions but will regenerate health very quickly. Damage may cancel the effect. Limit 1.\r\n\r\nOnly works on Beasts, Humanoids and Critters.",
+    "es_ES": "Transforma al enemigo en una oveja, que merodea incapacitada durante 1 min. Mientras la v\u00edctima est\u00e1 afectada, no puede realizar acciones, pero su salud se regenera muy r\u00e1pidamente. El da\u00f1o puede cancelar el efecto. Limitado a 1.\r\n\r\nSolo funciona con bestias, humanoides y alima\u00f1as.",
+    "fr_FR": "Transforme l\u2019adversaire en mouton et l\u2019oblige \u00e0 errer dans les environs, en proie \u00e0 la stup\u00e9faction, pendant 1 min. La victime ne peut entreprendre aucune action, mais elle se soigne tr\u00e8s rapidement. Les d\u00e9g\u00e2ts peuvent annuler l\u2019effet. Limit\u00e9 \u00e0 1\u00a0cible.\r\n\r\nNe fonctionne que sur les b\u00eates, humano\u00efdes et bestioles.",
+    "it_IT": "Trasforma il nemico in una pecora, costringendolo a vagare senza meta, inabilitato, per 1 min. In questo stato, l'animale non pu\u00f2 attaccare o lanciare incantesimi, ma la sua salute si rigenera molto rapidamente. Eventuali danni possono annullare l'effetto. L'effetto pu\u00f2 essere attivo su un solo bersaglio alla volta.\r\n\r\nFunziona solo su bestie, umanoidi e animali.",
+    "ru_RU": "\u041f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0432 \u043e\u0432\u0446\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0440\u0430\u0441\u0442\u0435\u0440\u044f\u043d\u043d\u043e \u0431\u0440\u043e\u0434\u0438\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 1 \u043c\u0438\u043d. \u0416\u0435\u0440\u0442\u0432\u0430 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f, \u043d\u043e \u043e\u0447\u0435\u043d\u044c \u0431\u044b\u0441\u0442\u0440\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435. \u0423\u0440\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0441\u043d\u044f\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0446\u0435\u043b\u0435\u0439 \u2013 1.\r\n\r\n\u0414\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432, \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u0438 \u0437\u0432\u0435\u0440\u044c\u043a\u043e\u0432.",
+    "ko_KR": "1\ubd84 \ub3d9\uc548 \uc801\uc744 \uc591\uc73c\ub85c \ubcc0\uc774\uc2dc\ucf1c, \ud589\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\uac00 \ub41c \ucc44 \uc8fc\ubcc0\uc744 \ub5a0\ub3cc\uac8c \ub9cc\ub4ed\ub2c8\ub2e4. \ub300\uc0c1\uc740 \ub5a0\ub3c4\ub294 \ub3d9\uc548 \uc544\ubb34\ub7f0 \ud589\ub3d9\uc744 \ucde8\ud558\uc9c0 \ubabb\ud558\uc9c0\ub9cc \ub9e4\uc6b0 \ube60\ub978 \uc18d\ub3c4\ub85c \uc0dd\uba85\ub825\uc774 \ud68c\ubcf5\ub429\ub2c8\ub2e4. \ub300\uc0c1\uc774 \ud53c\ud574\ub97c \uc785\uc73c\uba74 \ud6a8\uacfc\uac00 \ucde8\uc18c\ub420 \uc218 \uc788\uc73c\uba70, \ub3d9\uc2dc\uc5d0 \ud55c \ub300\uc0c1\ub9cc \ubcc0\uc774\uc2dc\ud0ac \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc57c\uc218, \uc778\uac04\ud615, \ub3d9\ubb3c\uc5d0\uac8c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u6575\u4eba\u8b8a\u6210\u4e00\u96bb\u56db\u8655\u904a\u8569\u7684\u7f8a\uff0c\u6301\u7e8c1\u5206\u9418\u3002\u88ab\u8b8a\u6210\u7f8a\u7684\u76ee\u6a19\u884c\u52d5\u7671\u7613\uff0c\u4f46\u6703\u8fc5\u901f\u6062\u5fa9\u751f\u547d\u529b\u3002\u50b7\u5bb3\u53ef\u80fd\u6703\u79fb\u9664\u6b64\u6548\u679c\u3002\u540c\u4e00\u6642\u9593\u53ea\u80fd\u5f71\u97ff1\u500b\u76ee\u6a19\u3002\r\n\r\n\u53ea\u80fd\u5c0d\u91ce\u7378\u3001\u4eba\u5f62\u751f\u7269\u548c\u5c0f\u52d5\u7269\u65bd\u653e\u3002",
+    "zh_CN": "\u5c06\u654c\u4eba\u53d8\u6210\u4e00\u53ea\u7ef5\u7f8a\uff0c\u4f7f\u5176\u5728\u5468\u56f4\u5230\u5904\u95f2\u901b\uff0c\u762b\u75ea1\u5206\u949f\u3002\u53d7\u6b64\u6cd5\u672f\u5f71\u54cd\u671f\u95f4\uff0c\u7ef5\u7f8a\u65e0\u6cd5\u653b\u51fb\u6216\u65bd\u6cd5\uff0c\u4f46\u4f1a\u4ee5\u6781\u5feb\u7684\u901f\u5ea6\u6062\u590d\u751f\u547d\u503c\uff0c\u4efb\u4f55\u4f24\u5bb3\u90fd\u53ef\u80fd\u53d6\u6d88\u6b64\u6548\u679c\u3002\u53ea\u80fd\u5f71\u54cd\u4e00\u4e2a\u76ee\u6807\u3002\r\n\r\n\u53ea\u80fd\u5bf9\u91ce\u517d\u3001\u4eba\u578b\u751f\u7269\u548c\u5c0f\u52a8\u7269\u65bd\u653e\u3002"
+  }
 }

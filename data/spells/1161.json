@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1161"
+  "SpellID": "1161",
+  "name_blz": {
+    "en_US": "Challenging Shout",
+    "es_MX": "Grito desafiante",
+    "pt_BR": "Brado Desafiador",
+    "de_DE": "Herausforderungsruf",
+    "en_GB": "Challenging Shout",
+    "es_ES": "Grito desafiante",
+    "fr_FR": "Cri de d\u00e9fi",
+    "it_IT": "Urlo di Sfida",
+    "ru_RU": "\u0412\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u043a\u0440\u0438\u043a",
+    "ko_KR": "\ub3c4\uc804\uc758 \uc678\uce68",
+    "zh_TW": "\u6311\u6230\u6012\u543c",
+    "zh_CN": "\u6311\u6218\u6012\u543c"
+  },
+  "description_blz": {
+    "en_US": "Taunts all enemies within 10 yds to attack you for 6 sec.",
+    "es_MX": "Provoca a todos los enemigos en un radio de 10 m. para que te ataquen durante 6 s.",
+    "pt_BR": "Provoca todos os inimigos em um raio de 10 m, fazendo com que ataquem voc\u00ea por 6 s.",
+    "de_DE": "Verspottet alle Gegner innerhalb von 10 Metern, sodass sie 6 Sek. lang Euch angreifen.",
+    "en_GB": "Taunts all enemies within 10 yds to attack you for 6 sec.",
+    "es_ES": "Provoca a todos los enemigos en un radio de 10 m para que te ataquen durante 6 s.",
+    "fr_FR": "Vous provoquez les ennemis \u00e0 moins de 10\u00a0m\u00e8tres et les poussez \u00e0 focaliser leurs attaques sur vous pendant 6 s.",
+    "it_IT": "Provoca tutti i nemici entro 10 m per 6 s.",
+    "ru_RU": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0432\u0430\u0441 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a.",
+    "ko_KR": "10\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc744 \ub3c4\ubc1c\ud558\uc5ec 6\ucd08 \ub3d9\uc548 \uc790\uc2e0\uc744 \uacf5\uaca9\ud558\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5632\u8af710\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\uff0c\u4f7f\u5176\u653b\u64ca\u4f60\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5632\u8bbd10\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\uff0c\u4f7f\u5176\u653b\u51fb\u4f60\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }
