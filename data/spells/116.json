@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "116"
+  "SpellID": "116",
+  "name_blz": {
+    "en_US": "Frostbolt",
+    "es_MX": "Descarga de Escarcha",
+    "pt_BR": "Seta de Gelo",
+    "de_DE": "Frostblitz",
+    "en_GB": "Frostbolt",
+    "es_ES": "Descarga de Escarcha",
+    "fr_FR": "\u00c9clair de givre",
+    "it_IT": "Dardo di Gelo",
+    "ru_RU": "\u041b\u0435\u0434\u044f\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430",
+    "ko_KR": "\uc5bc\uc74c \ud654\uc0b4",
+    "zh_TW": "\u5bd2\u51b0\u7bad",
+    "zh_CN": "\u5bd2\u51b0\u7bad"
+  },
+  "description_blz": {
+    "en_US": "Launches a bolt of frost at the enemy, causing 6,544 Frost damage and slowing movement speed by 50% for 8 sec.",
+    "es_MX": "Lanza una descarga de escarcha al enemigo que inflige 6,641 p. de da\u00f1o de escarcha y reduce un 50% la velocidad de movimiento durante 8 s.",
+    "pt_BR": "Lan\u00e7a uma seta de gelo no inimigo, causando 6.677 de dano de Gelo e reduzindo em 50% a velocidade de movimento por 8 s.",
+    "de_DE": "Schleudert einen Frostblitz auf den Gegner, der 6.723 Frostschaden verursacht und seine Bewegungsgeschwindigkeit 8 Sek. lang um 50% verringert.",
+    "en_GB": "Launches a bolt of frost at the enemy, causing 6,626 Frost damage and slowing movement speed by 50% for 8 sec.",
+    "es_ES": "Lanza una descarga de Escarcha al enemigo que inflige 6594 p. de da\u00f1o de Escarcha y reduce un 50% su velocidad de movimiento durante 8 s.",
+    "fr_FR": "Lance un \u00e9clair de givre sur l\u2019adversaire, lui inflige 6739\u00a0points de d\u00e9g\u00e2ts de givre et r\u00e9duit sa vitesse de d\u00e9placement de 50% pendant 8 s.",
+    "it_IT": "Lancia un dardo gelido contro il nemico, infliggendo 6.624 danni da gelo e riducendone la velocit\u00e0 di movimento del 50% per 8 s.",
+    "ru_RU": "\u0412\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043b\u0435\u0434\u044f\u043d\u0443\u044e \u0441\u0442\u0440\u0435\u043b\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0430\u043d\u043e\u0441\u0438\u0442 6549 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430 \u0438 \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 50% \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\uc801\uc5d0\uac8c \uc5bc\uc74c \ud654\uc0b4\uc744 \ub0a0\ub824 6,521\uc758 \ub0c9\uae30 \ud53c\ud574\ub97c \uc785\ud788\uace0 8\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\ub97c 50%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5411\u6575\u4eba\u5c04\u51fa\u4e00\u652f\u5bd2\u51b0\u7bad\uff0c\u9020\u62106,622\u9ede\u51b0\u971c\u50b7\u5bb3\uff0c\u4e26\u4f7f\u5176\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e50%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u5411\u654c\u4eba\u5c04\u51fa\u4e00\u652f\u5bd2\u51b0\u7bad\uff0c\u9020\u62106,519\u70b9\u51b0\u971c\u4f24\u5bb3\u5e76\u4f7f\u5176\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e50%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }
