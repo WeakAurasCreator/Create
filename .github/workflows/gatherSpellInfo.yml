@@ -43,6 +43,10 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git config pull.rebase true  # Rebase on pull
+
+          # Create or reset the update branch
+          git fetch origin main
+          git checkout -B $UPDATE_BRANCH origin/main
       
           # Function to commit a batch if there are staged changes
           commit_batch() {
