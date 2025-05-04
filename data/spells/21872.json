@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "21872"
+  "SpellID": "21872",
+  "name_blz": {
+    "en_US": "Faster Regrowth Cast",
+    "es_MX": "Lanzamiento de recrecimiento m\u00e1s rauda",
+    "pt_BR": "Lan\u00e7amento de Recrescimento Mais R\u00e1pido",
+    "de_DE": "Schnelleres Wirken von 'Nachwachsen'",
+    "en_GB": "Faster Regrowth Cast",
+    "es_ES": "Lanzamiento de recrecimiento m\u00e1s rauda",
+    "fr_FR": "Incantation de R\u00e9tablissement plus rapide",
+    "it_IT": "Lancio Rapido di Ricrescita",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u0438\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043d\u0430\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\".",
+    "ko_KR": "\uc7ac\uc0dd \uc5f0\ub9c8",
+    "zh_TW": "\u5feb\u901f\u65bd\u653e\u7652\u5408",
+    "zh_CN": "\u5feb\u901f\u56de\u590d\u65bd\u6cd5"
+  },
+  "description_blz": {
+    "en_US": "Reduces the casting time of your Regrowth spell by 0.2 sec.",
+    "es_MX": "Reduce el tiempo de lanzamiento de tu hechizo Recrecimiento 0.2 s.",
+    "pt_BR": "Reduz em 0,2 s o tempo de lan\u00e7amento do seu feiti\u00e7o Recrescimento.",
+    "de_DE": "Verringert die Zauberzeit Eures Zaubers 'Nachwachsen' um 0,2 Sek.",
+    "en_GB": "Reduces the casting time of your Regrowth spell by 0.2 sec.",
+    "es_ES": "Reduce el tiempo de lanzamiento de tu hechizo Recrecimiento 0,2 s.",
+    "fr_FR": "R\u00e9duit le temps d'incantation de votre sort R\u00e9tablissement de 0,2 s.",
+    "it_IT": "Riduce il tempo di lancio di Ricrescita di 0,2 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\" \u043d\u0430 0,2 \u0441\u0435\u043a.",
+    "ko_KR": "\uc7ac\uc0dd\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 0.2\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7652\u5408\u6cd5\u8853\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed0.2\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u6108\u5408\u6cd5\u672f\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed0.2\u79d2\u3002"
+  }
 }
