@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  gather-items:
+  gather-spell-info:
     runs-on: ubuntu-latest
     env:
       BLIZZARD_CLIENT_ID: ${{ secrets.BLIZZARD_CLIENT_ID }}
@@ -49,7 +49,7 @@ jobs:
             fi
           }
       
-          BATCH_SIZE=1000
+          BATCH_SIZE=5000
       
           # Batch commit for icons
           echo "Committing icons in batches..."
