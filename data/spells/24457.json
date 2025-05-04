@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "24457"
+  "SpellID": "24457",
+  "name_blz": {
+    "en_US": "Improved Holy Light",
+    "es_MX": "Luz Sagrada mejorada",
+    "pt_BR": "Luz Sagrada Aprimorada",
+    "de_DE": "Verbessertes heiliges Licht",
+    "en_GB": "Improved Holy Light",
+    "es_ES": "Luz Sagrada mejorada",
+    "fr_FR": "Lumi\u00e8re sacr\u00e9e am\u00e9lior\u00e9e",
+    "it_IT": "Luce Sacra Migliorata",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0442\u043d\u044b\u0439 \u0421\u0432\u0435\u0442 \u043d\u0435\u0431\u0435\u0441",
+    "ko_KR": "\uc131\uc2a4\ub7ec\uc6b4 \ube5b \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u8056\u5149\u8853",
+    "zh_CN": "\u5f3a\u5316\u5723\u5149\u672f"
+  },
+  "description_blz": {
+    "en_US": "Reduces the casting time of your Holy Light spell by 0.1 sec.",
+    "es_MX": "Reduce el tiempo de lanzamiento de tu hechizo Luz Sagrada 0.1 s.",
+    "pt_BR": "Reduz em 0,1 s o tempo de lan\u00e7amento do seu feiti\u00e7o Luz Sagrada.",
+    "de_DE": "Verringert die Zauberzeit Eurer Zauber 'Heiliges Licht' um 0,1 Sek.",
+    "en_GB": "Reduces the casting time of your Holy Light spell by 0.1 sec.",
+    "es_ES": "Reduce el tiempo de lanzamiento de tu hechizo Luz Sagrada 0,1 s.",
+    "fr_FR": "R\u00e9duit le temps d'incantation de votre sort Lumi\u00e8re sacr\u00e9e de 0,1 s.",
+    "it_IT": "Riduce il tempo di lancio di Luce Sacra di 0,1 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0421\u0432\u0435\u0442\u0430 \u043d\u0435\u0431\u0435\u0441\" \u043d\u0430 0,1 \u0441\u0435\u043a.",
+    "ko_KR": "\uc131\uc2a4\ub7ec\uc6b4 \ube5b\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 0.1\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u8056\u5149\u8853\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed0.1\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u5723\u5149\u672f\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed0.1\u79d2\u3002"
+  }
 }

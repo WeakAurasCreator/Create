@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "24469"
+  "SpellID": "24469",
+  "name_blz": {
+    "en_US": "Improved Blind",
+    "es_MX": "Ceguera mejorada",
+    "pt_BR": "Cegar Aprimorado",
+    "de_DE": "Verbessertes Blenden",
+    "en_GB": "Improved Blind",
+    "es_ES": "Ceguera mejorada",
+    "fr_FR": "C\u00e9cit\u00e9 am\u00e9lior\u00e9e",
+    "it_IT": "Accecamento Migliorato",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u0430\u044f \u0441\u043b\u0435\u043f\u043e\u0442\u0430",
+    "ko_KR": "\uc2e4\uba85 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u81f4\u76f2",
+    "zh_CN": "\u5f3a\u5316\u81f4\u76f2"
+  },
+  "description_blz": {
+    "en_US": "Decreases the cooldown of Blind by 5 sec.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de Ceguera 5 s.",
+    "pt_BR": "Reduz em 5 s a recarga do Cegar.",
+    "de_DE": "Verringert die Abklingzeit Eurer F\u00e4higkeit 'Blenden' um 5 Sek.",
+    "en_GB": "Decreases the cooldown of Blind by 5 sec.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de Ceguera 5 s.",
+    "fr_FR": "R\u00e9duit le temps de recharge de C\u00e9cit\u00e9 de 5 s.",
+    "it_IT": "Riduce il tempo di recupero di Accecamento di 5 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u041e\u0441\u043b\u0435\u043f\u043b\u0435\u043d\u0438\u0435\" \u043d\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e4\uba85\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u81f4\u76f2\u6280\u80fd\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed5\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u81f4\u76f2\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u51cf\u5c115\u79d2\u3002"
+  }
 }
