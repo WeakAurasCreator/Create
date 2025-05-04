@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165351"
+  "SpellID": "165351",
+  "name_blz": {
+    "en_US": "Item - Warrior T17 Protection 4P Bonus",
+    "es_MX": "Item - Warrior T17 Protection 4P Bonus",
+    "pt_BR": "Item - Guerreiro T17 Prote\u00e7\u00e3o 4P B\u00f4nus",
+    "en_GB": "Item - Warrior T17 Protection 4P Bonus",
+    "es_ES": "Item - Warrior T17 Protection 4P Bonus",
+    "it_IT": "Item - Warrior T17 Protection 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc804\uc0ac T17 \ubc29\uc5b4 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Warrior T17 Protection 4P Bonus",
+    "zh_CN": "Item - Warrior T17 Protection 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "While Shield Block is active, your shield block value is increased by 5%.",
+    "es_MX": "Mientras Bloquear con escudo est\u00e1 activo, el valor de tu bloqueo con escudo aumenta un 5%.",
+    "pt_BR": "Enquanto Levantar Escudo estiver ativo, o valor de bloqueio do seu escudo aumenta em 5%.",
+    "de_DE": "W\u00e4hrend 'Schildblock' aktiv ist, ist Euer Blockwert um 5% erh\u00f6ht.",
+    "en_GB": "While Shield Block is active, your shield block value is increased by 5%.",
+    "es_ES": "Mientras Bloquear con escudo est\u00e1 activo, tu valor de bloqueo con escudo aumenta un 5%.",
+    "fr_FR": "Tant que Ma\u00eetrise du blocage est active, votre valeur de blocage est augment\u00e9e de 5%.",
+    "it_IT": "Quando Scudo Saldo \u00e8 attivo, la probabilit\u00e0 di blocco aumenta del 5%.",
+    "ru_RU": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0411\u043b\u043e\u043a\u0430 \u0449\u0438\u0442\u043e\u043c\" \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0449\u0438\u0442\u0430 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5%.",
+    "ko_KR": "\ubc29\ud328 \uc62c\ub9ac\uae30\uac00 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \ubc29\ud328 \ub9c9\uae30\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u76fe\u724c\u683c\u64cb\u7684\u6301\u7e8c\u671f\u9593\u5167\uff0c\u4f60\u7684\u76fe\u724c\u683c\u64cb\u503c\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u5f53\u76fe\u724c\u683c\u6321\u6fc0\u6d3b\u65f6\uff0c\u4f60\u7684\u76fe\u724c\u683c\u6321\u503c\u63d0\u9ad85%\u3002"
+  }
 }
