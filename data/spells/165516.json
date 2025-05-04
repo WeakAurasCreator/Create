@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165516"
+  "SpellID": "165516",
+  "name_blz": {
+    "en_US": "Item - Rogue T17 Assassination 2P Bonus",
+    "es_MX": "Item - Rogue T17 Assassination 2P Bonus",
+    "pt_BR": "Item - Ladino T17 Assassinato 2P B\u00f4nus",
+    "en_GB": "Item - Rogue T17 Assassination 2P Bonus",
+    "es_ES": "Item - Rogue T17 Assassination 2P Bonus",
+    "it_IT": "Item - Rogue T17 Assassination 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub3c4\uc801 T17 \uc554\uc0b4 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Rogue T17 Assassination 2P Bonus",
+    "zh_CN": "Item - Rogue T17 Assassination 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Mutilate and Hemorrhage critical strikes restore 4 energy.",
+    "es_MX": "Los golpes cr\u00edticos de Mutilar y Hemorragia restauran 4 p. de Energ\u00eda.",
+    "pt_BR": "Os acertos cr\u00edticos de Mutilar e Hemorragia restauram 4 de energia.",
+    "de_DE": "Kritische Treffer von 'Verst\u00fcmmeln' und 'Blutsturz' stellen 4 Energie wieder her.",
+    "en_GB": "Mutilate and Hemorrhage critical strikes restore 4 energy.",
+    "es_ES": "Los golpes cr\u00edticos de Mutilar y Hemorragia restauran 4 p. de energ\u00eda.",
+    "fr_FR": "Les coups critiques r\u00e9ussis avec Estropier et H\u00e9morragie restaurent 4 points d\u2019\u00e9nergie.",
+    "it_IT": "I colpi critici di Mutilazione ed Emorragia rigenerano 4 energia.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0434\u0430\u0440\u044b, \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u044b\u0435 \"\u0420\u0430\u0441\u043f\u0440\u0430\u0432\u043e\u0439\" \u0438 \"\u041a\u0440\u043e\u0432\u043e\u0438\u0437\u043b\u0438\u044f\u043d\u0438\u0435\u043c\", \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 4 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438.",
+    "ko_KR": "\uc808\ub2e8\uacfc \uacfc\ub2e4\ucd9c\ud608\uc774 \uce58\uba85\ud0c0\ub85c \uc801\uc911\ud558\uba74 4\uc758 \uae30\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u622a\u80a2\u548c\u51fa\u8840\u9020\u6210\u81f4\u547d\u4e00\u64ca\u6642\u6703\u6062\u5fa94\u9ede\u80fd\u91cf\u3002",
+    "zh_CN": "\u6bc1\u4f24\u548c\u51fa\u8840\u7206\u51fb\u65f6\u4f1a\u6062\u590d4\u70b9\u80fd\u91cf\u503c\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165439"
+  "SpellID": "165439",
+  "name_blz": {
+    "en_US": "Item - Paladin T17 Retribution 4P Bonus",
+    "es_MX": "Item - Paladin T17 Retribution 4P Bonus",
+    "pt_BR": "Item - B\u00f4nus 4P Paladino Retribui\u00e7\u00e3o T17",
+    "en_GB": "Item - Paladin T17 Retribution 4P Bonus",
+    "es_ES": "Item - Paladin T17 Retribution 4P Bonus",
+    "it_IT": "Item - Paladin T17 Retribution 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc131\uae30\uc0ac T17 \uc9d5\ubc8c 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "zzOld\u7269\u54c1 - \u8056\u9a0e\u58ebT17\u61f2\u62124\u4ef6\u734e\u52f5",
+    "zh_CN": "Item - Paladin T17 Retribution 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Judgment causes your next Templar's Verdict or Divine Storm to refund 1 Holy Power. ",
+    "es_MX": "Tu Sentencia hace que tu siguiente Veredicto del templario o Tormenta divina devuelvan 1 de Poder Sagrado. ",
+    "pt_BR": "Seu Julgamento faz com seu pr\u00f3ximo Veredito do Templ\u00e1rio ou Tempestade Divina restitua 1 de Poder Sagrado. ",
+    "de_DE": "Durch 'Richturteil' stellt Euer n\u00e4chster Einsatz von 'Urteil des Templers' oder 'G\u00f6ttlicher Sturm' 1 Heilige Kraft wieder her. ",
+    "en_GB": "Your Judgment causes your next Templar's Verdict or Divine Storm to refund 1 Holy Power. ",
+    "es_ES": "Tu Sentencia provoca que tu siguiente Veredicto del templario o Tormenta divina devuelva 1 p. de poder sagrado.",
+    "fr_FR": "Jugement permet \u00e0 votre prochain Verdict du templier ou Temp\u00eate divine de vous restituer 1\u00a0charge de puissance sacr\u00e9e. ",
+    "it_IT": "Giudizio permette al successivo Verdetto dei Templari o Tempesta Divina di ripristinare 1 carica di potere sacro.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u044f\" \u0432\u0430\u0448 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0412\u0435\u0440\u0434\u0438\u043a\u0442 \u0445\u0440\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0430\" \u0438\u043b\u0438 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0431\u0443\u0440\u044f\" \u0432\u0435\u0440\u043d\u0435\u0442 \u0432\u0430\u043c 1 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430.",
+    "ko_KR": "\uc2ec\ud310 \uc0ac\uc6a9 \ud6c4 \ub2e4\uc74c\uc5d0 \uc0ac\uc6a9\ud558\ub294 \uae30\uc0ac\ub2e8\uc758 \uc120\uace0 \ub610\ub294 \ucc9c\uc0c1\uc758 \ud3ed\ud48d\uc774 \uc2e0\uc131\ud55c \ud798 1\uac1c\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u5be9\u5224\u6703\u8b93\u4e0b\u4e00\u500b\u8056\u6bbf\u9a0e\u58eb\u4e4b\u88c1\u6c7a\u6216\u795e\u6027\u98a8\u66b4\u8fd4\u90841\u9053\u8056\u80fd\u3002",
+    "zh_CN": "\u4f60\u7684\u5ba1\u5224\u4f1a\u4f7f\u4e0b\u4e00\u4e2a\u5723\u6bbf\u9a91\u58eb\u7684\u88c1\u51b3\u6216\u795e\u5723\u98ce\u66b4\u8fd4\u8fd81\u5c42\u795e\u5723\u80fd\u91cf\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165349"
+  "SpellID": "165349",
+  "name_blz": {
+    "en_US": "Item - Warrior T17 Fury 4P Bonus",
+    "es_MX": "Item - Warrior T17 Fury 4P Bonus",
+    "pt_BR": "Item - Guerreiro T17 F\u00faria 4P B\u00f4nus",
+    "en_GB": "Item - Warrior T17 Fury 4P Bonus",
+    "es_ES": "Item - Warrior T17 Fury 4P Bonus",
+    "it_IT": "Item - Warrior T17 Fury 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc804\uc0ac T17 \ubd84\ub178 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Warrior T17 Fury 4P Bonus",
+    "zh_CN": "Item - Warrior T17 Fury 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "While Battle Cry is active,  your attack speed and critical strike chance increase by 6% every second.",
+    "es_MX": "Mientras Grito de batalla est\u00e1 activo, tu velocidad de ataque y la probabilidad de golpe cr\u00edtico aumentan un 6% por segundo.",
+    "pt_BR": "Quando Grito de Batalha est\u00e1 ativo, sua velocidade de ataque e chance de acerto cr\u00edtico aumentam em 6% a cada segundo.",
+    "de_DE": "W\u00e4hrend 'Kampfschrei' aktiv ist, werden Euer Angriffstempo und Eure kritische Trefferchance pro Sekunde um 6% erh\u00f6ht.",
+    "en_GB": "While Battle Cry is active,  your attack speed and critical strike chance increase by 6% every second.",
+    "es_ES": "Mientras Grito de batalla est\u00e1 activo, aumenta un 6% tu velocidad de ataque y tu probabilidad de golpe cr\u00edtico cada segundo.",
+    "fr_FR": "Tant que Cri de bataille est actif, votre vitesse d\u2019attaque et vos chances de coup critique augmentent de 6% par seconde.",
+    "it_IT": "Grido di Battaglia aumenta la velocit\u00e0 d'attacco e la probabilit\u00e0 di critico del 6% ogni secondo.",
+    "ru_RU": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0411\u043e\u0435\u0432\u043e\u0439 \u043a\u0440\u0438\u043a\" \u0432\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0430\u0442\u0430\u043a\u0438 \u0438 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 6% \u043a\u0430\u0436\u0434\u0443\u044e \u0441\u0435\u043a\u0443\u043d\u0434\u0443.",
+    "ko_KR": "\uc804\ud22c\uc758 \ud568\uc131\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uacf5\uaca9 \uc18d\ub3c4\uc640 \uce58\uba85\ud0c0\uc728\uc774 1\ucd08\ub9c8\ub2e4 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6230\u9b25\u72c2\u562f\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u7684\u653b\u64ca\u901f\u5ea6\u548c\u81f4\u547d\u4e00\u64ca\u6a5f\u7387\u6bcf\u79d2\u63d0\u9ad86%\u3002",
+    "zh_CN": "\u6fc0\u6d3b\u6218\u543c\u4f1a\u4f7f\u4f60\u7684\u653b\u51fb\u901f\u5ea6\u548c\u7206\u51fb\u51e0\u7387\u6bcf\u79d2\u63d0\u9ad86%\u3002"
+  }
 }
