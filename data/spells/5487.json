@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "5487"
+  "SpellID": "5487",
+  "name_blz": {
+    "en_US": "Bear Form",
+    "es_MX": "Forma de oso",
+    "pt_BR": "Forma de Urso",
+    "de_DE": "B\u00e4rengestalt",
+    "en_GB": "Bear Form",
+    "es_ES": "Forma de oso",
+    "fr_FR": "Forme d'ours",
+    "it_IT": "Forma d'Orso",
+    "ru_RU": "\u041e\u0431\u043b\u0438\u043a \u043c\u0435\u0434\u0432\u0435\u0434\u044f",
+    "ko_KR": "\uacf0 \ubcc0\uc2e0",
+    "zh_TW": "\u718a\u5f62\u614b",
+    "zh_CN": "\u718a\u5f62\u6001"
+  },
+  "description_blz": {
+    "en_US": "Shapeshift into Bear Form, increasing armor by 220% and Stamina by 25%, granting protection from Polymorph effects, and increasing threat generation.\r\n\r\nThe act of shapeshifting frees you from movement impairing effects.",
+    "es_MX": "Cambia a Forma de oso, lo que aumenta la armadura un 220% y el aguante un 25%. Tambi\u00e9n otorga protecci\u00f3n contra los efectos de polimorfia y aumenta la generaci\u00f3n de amenazas.\r\n\r\nEl cambio de forma te libera de los efectos de reducci\u00f3n de movimiento.",
+    "pt_BR": "Assume a Forma de Urso, aumentando em 220% a Armadura e em 25% o Vigor. Concede prote\u00e7\u00e3o contra Polimorfia e aumenta a gera\u00e7\u00e3o de amea\u00e7a.\r\n\r\nMudar de forma liberta voc\u00ea de efeitos que dificultam o movimento.",
+    "de_DE": "Verwandelt Eure Gestalt in die eines B\u00e4ren, erh\u00f6ht R\u00fcstung um 220% und Ausdauer um 25%, sch\u00fctzt Euch vor Verwandlungseffekten und erh\u00f6ht die Bedrohungserzeugung.\r\n\r\nDer Akt des Gestaltwandelns befreit Euch von bewegungseinschr\u00e4nkenden Effekten.",
+    "en_GB": "Shapeshift into Bear Form, increasing armor by 220% and Stamina by 25%, granting protection from Polymorph effects, and increasing threat generation.\r\n\r\nThe act of shapeshifting frees you from movement impairing effects.",
+    "es_ES": "Cambias a forma de oso, lo que aumenta la armadura un 220% y el aguante un 25%, otorga protecci\u00f3n frente a efectos de polimorfia y aumenta la generaci\u00f3n de amenaza.\r\n\r\nEl cambio de forma te libera de los efectos de reducci\u00f3n de movimiento.",
+    "fr_FR": "Vous adoptez votre forme d\u2019ours, ce qui augmente votre Armure de 220% et votre Endurance de 25%, vous prot\u00e8ge des effets de m\u00e9tamorphose et augmente votre g\u00e9n\u00e9ration de menace.\r\n\r\nLa transformation vous lib\u00e8re des effets qui affectent le d\u00e9placement.",
+    "it_IT": "Muta in Forma d'Orso, aumentando l'armatura del 220% e la Tempra del 25%. Rende immuni agli effetti di metamorfosi e aumenta la generazione di minaccia.\r\n\r\nMutare forma libera dagli effetti di limitazione al movimento.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u043e\u0431\u043b\u0438\u043a \u043c\u0435\u0434\u0432\u0435\u0434\u044f. \u0412\u0430\u0448\u0430 \u0431\u0440\u043e\u043d\u044f \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 220%, \u0430 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25%. \u0412 \u044d\u0442\u043e\u043c \u043e\u0431\u043b\u0438\u043a\u0435 \u0432\u044b \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u044b \u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442\u0435 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u0443\u044e \u0443\u0433\u0440\u043e\u0437\u0443.\r\n\r\n\u0421\u043c\u0435\u043d\u0430 \u043e\u0431\u043b\u0438\u043a\u0430 \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u0432\u0430\u0441 \u043e\u0442 \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u0445 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432.",
+    "ko_KR": "\uacf0 \ubaa8\uc2b5\uc73c\ub85c \ubcc0\uc2e0\ud569\ub2c8\ub2e4. \ubc29\uc5b4\ub3c4\uac00 220%\ub9cc\ud07c, \uccb4\ub825\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ubcc0\uc774 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub418\uace0, \uc704\ud611 \uc218\uc900 \uc0dd\uc131\ub7c9\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ubcc0\uc2e0\uc744 \ud558\uba74 \uc774\ub3d9 \ubc29\ud574 \ud6a8\uacfc\uc5d0\uc11c \ubc97\uc5b4\ub0a9\ub2c8\ub2e4.",
+    "zh_TW": "\u8b8a\u8eab\u6210\u718a\u5f62\u614b\uff0c\u8b77\u7532\u63d0\u9ad8220%\u4e14\u8010\u529b\u63d0\u9ad825%\uff0c\u7372\u5f97\u514d\u75ab\u8b8a\u5f62\u8853\u7684\u80fd\u529b\uff0c\u4e26\u63d0\u9ad8\u7522\u751f\u7684\u5a01\u8105\u503c\u3002\r\n\r\n\u8b8a\u8eab\u53ef\u89e3\u9664\u4f60\u8eab\u4e0a\u7684\u79fb\u52d5\u9650\u5236\u6548\u679c\u3002",
+    "zh_CN": "\u53d8\u5f62\u8fdb\u5165\u718a\u5f62\u6001\uff0c\u62a4\u7532\u503c\u63d0\u9ad8220%\uff0c\u8010\u529b\u63d0\u9ad825%\uff0c\u514d\u75ab\u53d8\u5f62\u6548\u679c\uff0c\u5e76\u63d0\u9ad8\u4ea7\u751f\u7684\u5a01\u80c1\u503c\u3002\r\n\r\n\u53d8\u5f62\u53ef\u4ee5\u89e3\u9664\u65bd\u6cd5\u8005\u8eab\u4e0a\u7684\u79fb\u52a8\u9650\u5236\u6548\u679c\u3002"
+  }
 }
