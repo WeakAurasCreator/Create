@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "138136"
+  "SpellID": "138136",
+  "name_blz": {
+    "en_US": "Item - Shaman T15 Enhancement 2P Bonus",
+    "es_MX": "Item - Shaman T15 Enhancement 2P Bonus",
+    "pt_BR": "Item - Shaman T15 Enhancement 2P Bonus",
+    "en_GB": "Item - Shaman T15 Enhancement 2P Bonus",
+    "es_ES": "Item - Shaman T15 Enhancement 2P Bonus",
+    "it_IT": "Item - Shaman T15 Enhancement 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac T15 \uace0\uc591 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Shaman T15 Enhancement 2P Bonus",
+    "zh_CN": "Item - Shaman T15 Enhancement 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Stormstrike also grants you 2 additional charges of Maelstrom Weapon.",
+    "es_MX": "Tu facultad Golpe de tormenta tambi\u00e9n te otorga 2 cargas de Arma vor\u00e1gine.",
+    "pt_BR": "Ataque da Tempestade tamb\u00e9m concede 2 cargas adicionais de Arma da Voragem.",
+    "de_DE": "Eure F\u00e4higkeit 'Sturmschlag' gew\u00e4hrt Euch zus\u00e4tzlich 2 weitere Aufladungen von 'Waffe des Mahlstroms'.",
+    "en_GB": "Your Stormstrike also grants you 2 additional charges of Maelstrom Weapon.",
+    "es_ES": "Tu facultad Golpe de tormenta tambi\u00e9n te otorga 2 cargas de Arma vor\u00e1gine.",
+    "fr_FR": "Votre Frappe-temp\u00eate vous conf\u00e8re \u00e9galement 2 charges suppl\u00e9mentaires d\u2019Arme du Maelstr\u00f6m.",
+    "it_IT": "Assalto della Tempesta fornisce 2 cariche aggiuntive di Arma del Maelstrom.",
+    "ru_RU": "\u0412\u0430\u0448 \"\u0423\u0434\u0430\u0440 \u0431\u0443\u0440\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \"\u041e\u0440\u0443\u0436\u0438\u044f \u0412\u043e\u0434\u043e\u0432\u043e\u0440\u043e\u0442\u0430\" \u043d\u0430 2.",
+    "ko_KR": "\ud3ed\ud48d\uc758 \uc77c\uaca9 \uc0ac\uc6a9 \uc2dc \uc18c\uc6a9\ub3cc\uc774\uce58\ub294 \ubb34\uae30 \ud6a8\uacfc\ub97c \ucd94\uac00\ub85c 2\uac1c \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u98a8\u66b4\u6253\u64ca\u6703\u8ce6\u4e882\u5c64\u6c23\u6f29\u6b66\u5668\u5806\u758a\u6548\u679c\u3002",
+    "zh_CN": "\u98ce\u66b4\u6253\u51fb\u8fd8\u53ef\u4f7f\u4f60\u989d\u5916\u83b7\u5f972\u5c42\u6f29\u6da1\u6b66\u5668\u6548\u679c\u3002"
+  }
 }
