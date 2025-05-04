@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "83446",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "883"
+  "SpellID": "883",
+  "name_blz": {
+    "en_US": "Call Pet 1",
+    "es_MX": "Llamar a mascota 1",
+    "pt_BR": "Chamar Ajudante 1",
+    "de_DE": "Begleiter 1 rufen",
+    "en_GB": "Call Pet 1",
+    "es_ES": "Llamar a mascota 1",
+    "fr_FR": "Appel du familier 1",
+    "it_IT": "Richiamo: Famiglio 1",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u043f\u0438\u0442\u043e\u043c\u0446\u0430 1",
+    "ko_KR": "\uc57c\uc218 \ubd80\ub974\uae30 I",
+    "zh_TW": "\u53ec\u559a\u5bf5\u72691",
+    "zh_CN": "\u53ec\u5524\u5ba0\u7269 1"
+  },
+  "description_blz": {
+    "en_US": "Summons your first pet to you.",
+    "es_MX": "Invoca a tu primera mascota.",
+    "pt_BR": "Evoca o primeiro ajudante.",
+    "de_DE": "Beschw\u00f6rt Euer erstes Tier zu Euch.",
+    "en_GB": "Summons your first pet to you.",
+    "es_ES": "Invoca a tu primera mascota.",
+    "fr_FR": "Invoque votre premier familier aupr\u00e8s de vous.",
+    "it_IT": "Richiama il tuo primo famiglio.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430.",
+    "ko_KR": "\uae38\ub4e4\uc778 \uccab \ubc88\uc9f8 \uc57c\uc218\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4f60\u7684\u7b2c\u4e00\u96bb\u5bf5\u7269\u5230\u4f60\u8eab\u908a\u3002",
+    "zh_CN": "\u53ec\u5524\u4f60\u7684\u7b2c\u4e00\u4e2a\u5ba0\u7269\u3002"
+  }
 }
