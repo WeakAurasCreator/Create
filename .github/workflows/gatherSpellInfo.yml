@@ -99,5 +99,5 @@ jobs:
         run: |
             PR_NUMBER=$(gh pr list --head ${{ env.UPDATE_BRANCH }} --state open \
               --json number --jq '.[0].number')
-            gh pr merge "$PR_NUMBER" --auto --merge
+            gh pr merge "$PR_NUMBER" --auto --squash
   
