@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1079"
+  "SpellID": "1079",
+  "name_blz": {
+    "en_US": "Rip",
+    "es_MX": "Destripar",
+    "pt_BR": "Rasgar",
+    "de_DE": "Zerfetzen",
+    "en_GB": "Rip",
+    "es_ES": "Destripar",
+    "fr_FR": "D\u00e9chirure",
+    "it_IT": "Squarcio",
+    "ru_RU": "\u0420\u0430\u0437\u043e\u0440\u0432\u0430\u0442\u044c",
+    "ko_KR": "\ub3c4\ub824\ub0b4\uae30",
+    "zh_TW": "\u6495\u626f",
+    "zh_CN": "\u5272\u88c2"
+  },
+  "description_blz": {
+    "en_US": "Finishing move that causes Bleed damage over time. Lasts longer per combo point.\r\n\r\n   1 point  : 756 over 8 sec\r\n   2 points: 1,134 over 12 sec\r\n   3 points: 1,512 over 16 sec\r\n   4 points: 1,890 over 20 sec\r\n   5 points: 2,268 over 24 sec",
+    "es_MX": "Remate que inflige da\u00f1o de sangrado con el tiempo. Se prolonga m\u00e1s por cada p. de combo.\r\n\r\n   1 punto: 756 p. de da\u00f1o durante 8 s\r\n   2 puntos : 1,134 p. de da\u00f1o durante 12 s\r\n   3 puntos: 1,512 p. de da\u00f1o durante 16 s\r\n   4 puntos: 1,890 p. de da\u00f1o durante 20 s\r\n   5 puntos: 2,268 p. de da\u00f1o durante 24 s",
+    "pt_BR": "Golpe final que causa dano de Sangramento ao longo do tempo. Dura\u00e7\u00e3o proporcional \u00e0 quantidade de pontos de combo.\r\n\r\n   1 ponto: 756 ao longo de 8 s\r\n   2 pontos: 1.134 ao longo de 12 s\r\n   3 pontos: 1.512 ao longo de 16 s\r\n   4 pontos: 1.890 ao longo de 20 s\r\n   5 pontos: 2.268 ao longo de 24 s",
+    "de_DE": "Finishing-Move, der regelm\u00e4\u00dfigen Blutungsschaden verursacht. H\u00e4lt pro Combopunkt l\u00e4nger an.\r\n\r\n   1 Punkt: 756 im Verlauf von 8 Sek.\r\n   2 Punkte: 1.134 im Verlauf von 12 Sek.\r\n   3 Punkte: 1.512 im Verlauf von 16 Sek.\r\n   4 Punkte: 1.890 im Verlauf von 20 Sek.\r\n   5 Punkte: 2.268 im Verlauf von 24 Sek.",
+    "en_GB": "Finishing move that causes Bleed damage over time. Lasts longer per combo point.\r\n\r\n   1 point  : 756 over 8 sec\r\n   2 points: 1,134 over 12 sec\r\n   3 points: 1,512 over 16 sec\r\n   4 points: 1,890 over 20 sec\r\n   5 points: 2,268 over 24 sec",
+    "es_ES": "Remate que inflige da\u00f1o de sangrado en el tiempo. Se prolonga por cada punto de combo.\r\n\r\n   1 p.: 756 p. durante 8 s\r\n   2 p.: 1134 p. durante 12 s\r\n   3 p.: 1512 p. durante 16 s\r\n   4 p.: 1890 p. durante 20 s\r\n   5 p.: 2268 p. durante 24 s",
+    "fr_FR": "Coup de gr\u00e2ce qui inflige des d\u00e9g\u00e2ts de saignement sur la dur\u00e9e. La dur\u00e9e d\u00e9pend du nombre de points de combo.\r\n\r\n   1\u00a0point\u00a0: 756 en 8\u00a0s\r\n   2\u00a0points\u00a0: 1134 en 12\u00a0s\r\n   3\u00a0points\u00a0: 1512 en 16\u00a0s\r\n   4\u00a0points\u00a0: 1890 en 20\u00a0s\r\n   5\u00a0points\u00a0: 2268 en 24\u00a0s",
+    "it_IT": "Mossa risolutiva che infligge danni periodici da sanguinamento. Dura in base ai punti combo:\r\n1 punto: 756 danni in 8 s\r\n2 punti: 1.134 danni in 12 s\r\n3 punti: 1.512 in 16 s\r\n4 punti: 1.890 danni in 20 s\r\n5 punti: 2.268 danni in 24 s",
+    "ru_RU": "\u0417\u0430\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0438\u0439 \u043f\u0440\u0438\u0435\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u0443 \u0446\u0435\u043b\u0438 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u0435, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0435 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043e\u0442 \u0434\u043b\u0438\u043d\u044b \u0441\u0435\u0440\u0438\u0438.\r\n\r\n 1 \u043f\u0440\u0438\u0435\u043c: 756 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 8 \u0441\u0435\u043a.\r\n 2 \u043f\u0440\u0438\u0435\u043c\u0430: 1134 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 12 \u0441\u0435\u043a.\r\n 3 \u043f\u0440\u0438\u0435\u043c\u0430: 1512 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 16 \u0441\u0435\u043a.\r\n 4 \u043f\u0440\u0438\u0435\u043c\u0430: 1890 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 20 \u0441\u0435\u043a.\r\n 5 \u043f\u0440\u0438\u0435\u043c\u043e\u0432: 2268 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 24 \u0441\u0435\u043a.",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc77c\uaca9\uc73c\ub85c \uc9c0\uc18d\uc801\uc778 \ucd9c\ud608 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc5f0\uacc4 \uc810\uc218\uc5d0 \ub530\ub77c \uc9c0\uc18d\uc2dc\uac04\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n  \uc5f0\uacc4 \uc810\uc218 1\uc810: 8\ucd08\uc5d0 \uac78\uccd0 756\uc758 \ud53c\ud574\r\n  \uc5f0\uacc4 \uc810\uc218 2\uc810: 12\ucd08\uc5d0 \uac78\uccd0 1,134\uc758 \ud53c\ud574\r\n  \uc5f0\uacc4 \uc810\uc218 3\uc810: 16\ucd08\uc5d0 \uac78\uccd0 1,512\uc758 \ud53c\ud574\r\n  \uc5f0\uacc4 \uc810\uc218 4\uc810: 20\ucd08\uc5d0 \uac78\uccd0 1,890\uc758 \ud53c\ud574\r\n  \uc5f0\uacc4 \uc810\uc218 5\uc810: 24\ucd08\uc5d0 \uac78\uccd0 2,268\uc758 \ud53c\ud574",
+    "zh_TW": "\u9020\u6210\u6301\u7e8c\u6027\u6d41\u8840\u6548\u679c\u7684\u7d42\u7d50\u6280\u3002\u6bcf\u500b\u9023\u64ca\u9ede\u6578\u53ef\u4ee5\u5ef6\u9577\u6709\u6548\u6642\u9593\u3002\r\n\r\n   1\u9ede\uff1a8\u79d2\u5167\u9020\u6210756\u9ede\u50b7\u5bb3\r\n   2\u9ede\uff1a12\u79d2\u5167\u9020\u62101,134\u9ede\u50b7\u5bb3\r\n   3\u9ede\uff1a16\u79d2\u5167\u9020\u62101,512\u9ede\u50b7\u5bb3\r\n   4\u9ede\uff1a20\u79d2\u5167\u9020\u62101,890\u9ede\u50b7\u5bb3\r\n   5\u9ede\uff1a24\u79d2\u5167\u9020\u62102,268\u9ede\u50b7\u5bb3",
+    "zh_CN": "\u7ec8\u7ed3\u6280\uff0c\u4f7f\u76ee\u6807\u6301\u7eed\u53d7\u5230\u6d41\u8840\u4f24\u5bb3\u3002\u8fde\u51fb\u70b9\u6570\u8d8a\u591a\uff0c\u6301\u7eed\u65f6\u95f4\u8d8a\u957f\u3002\r\n\r\n   1\u70b9\uff1a\u57288\u79d2\u5185\u9020\u6210756\u70b9\u4f24\u5bb3\r\n   2\u70b9\uff1a\u572812\u79d2\u5185\u9020\u62101,134\u70b9\u4f24\u5bb3\r\n   3\u70b9\uff1a\u572816\u79d2\u5185\u9020\u62101,512\u70b9\u4f24\u5bb3\r\n   4\u70b9\uff1a\u572820\u79d2\u5185\u9020\u62101,890\u70b9\u4f24\u5bb3\r\n   5\u70b9\uff1a\u572824\u79d2\u5185\u9020\u62102,268\u70b9\u4f24\u5bb3"
+  }
 }
