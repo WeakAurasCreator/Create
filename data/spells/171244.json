@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "171244"
+  "SpellID": "171244",
+  "name_blz": {
+    "en_US": "Follower: Ahm",
+    "es_MX": "Seguidor: Ahm",
+    "pt_BR": "Seguidor: Ahm",
+    "de_DE": "Anh\u00e4nger: Ahm",
+    "en_GB": "Follower: Ahm",
+    "es_ES": "Seguidor: Ahm",
+    "fr_FR": "Sujet\u00a0: Ahm",
+    "it_IT": "Seguace: Ahm",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0410\u0445\u043c",
+    "ko_KR": "\ucd94\uc885\uc790: \uc554",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a \u963f\u54c8\u59c6",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u963f\u59c6"
+  },
+  "description_blz": {
+    "en_US": "Ahm was captured by Blademaster Bralok when the cruel orc attacked his home town. The orc had Ahm starved and beaten, but Ahm refused to relent. In death, he continues to persevere and seek revenge against the Iron Horde for their travesties.",
+    "es_MX": "Ahm fue capturado por el maestro del acero Bralok cuando el cruel orco atac\u00f3 su hogar. El orco orden\u00f3 golpear y privar de comida a Ahm, pero este no cedi\u00f3. Tras su muerte, contin\u00faa preservando y buscando la venganza en contra de la Horda de Hierro por sus farsas.",
+    "pt_BR": "Ahm foi capturado pelo Mestre de Espadas Bralok quando o tem\u00edvel orc atacou sua cidade natal. Ahm passou fome e foi torturado, mas nunca desistiu de lutar. Mesmo ap\u00f3s a morte, ele busca vingan\u00e7a pelas atrocidades da Horda de Ferro.",
+    "de_DE": "Ahm wurde von dem grausamen Orc Klingenmeister Bralok gefangen genommen, als dieser sein Heimatdorf angriff. W\u00e4hrend seiner Gefangenschaft qu\u00e4lte der Orc ihn mit Schl\u00e4gen und Essensentzug, aber dennoch beugte sich Ahm nicht seinem Willen. Im Tode macht er weiterhin Jagd auf die Eiserne Horde, um Rache f\u00fcr ihre Grausamkeiten zu nehmen.",
+    "en_GB": "Ahm was captured by Blademaster Bralok when the cruel orc attacked his home town. The orc had Ahm starved and beaten, but Ahm refused to relent. In death, he continues to persevere and seek revenge against the Iron Horde for their travesties.",
+    "es_ES": "A Ahm lo captur\u00f3 un malvado orco, el maestro del acero Bralok, durante el ataque que perpetr\u00f3 contra su hogar. El orco maltrataba y mataba de hambre a Ahm, pero este nunca claudic\u00f3. Incluso muerto, contin\u00faa intentando vengarse de la Horda de Hierro por sus traiciones.",
+    "fr_FR": "Ahm a \u00e9t\u00e9 captur\u00e9 par le cruel ma\u00eetre-lame orc Bralok quand ce dernier a attaqu\u00e9 sa ville. M\u00eame affam\u00e9 et battu, il a refus\u00e9 de se soumettre. Dans la mort, il continue \u00e0 exercer sa vengeance contre la Horde de Fer pour ses exactions.",
+    "it_IT": "Ahm \u00e8 stato catturato dal Maestro di Spade Bralok quando l'Orco crudele ha attaccato la sua citt\u00e0 natale. L'Orco aveva catturato e torturato Ahm, ma Ahm si era rifiutato di cedere. Anche vicino alla morte, continuava a resistere e a meditare vendetta contro l'Orda di Ferro.",
+    "ru_RU": "\u041c\u0430\u0441\u0442\u0435\u0440 \u043a\u043b\u0438\u043d\u043a\u0430 \u0411\u0440\u0430\u043b\u043e\u043a \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043b \u0433\u043e\u0440\u043e\u0434, \u0433\u0434\u0435 \u0436\u0438\u043b \u0410\u0445\u043c, \u0438 \u0432\u0437\u044f\u043b \u0441\u0430\u043c\u043e\u0433\u043e \u0435\u0433\u043e \u0432 \u043f\u043b\u0435\u043d. \u041e\u0440\u043a\u0438 \u043c\u043e\u0440\u0438\u043b\u0438 \u0410\u0445\u043c\u0430 \u0433\u043e\u043b\u043e\u0434\u043e\u043c \u0438 \u0438\u0437\u0431\u0438\u0432\u0430\u043b\u0438 \u0435\u0433\u043e, \u043d\u043e \u0438\u043c \u043d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0435\u0433\u043e \u0441\u043b\u043e\u043c\u0438\u0442\u044c. \u0414\u0430\u0436\u0435 \u043f\u043e\u0441\u043b\u0435 \u0441\u043c\u0435\u0440\u0442\u0438 \u043e\u043d \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f \u043e\u0442\u043e\u043c\u0441\u0442\u0438\u0442\u044c \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0439 \u041e\u0440\u0434\u0435 \u0437\u0430 \u0435\u0435 \u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\uc554\uc740 \uc794\uc545\ud55c \uc624\ud06c\ub4e4\uc774 \uadf8\uc758 \uace0\ud5a5\uc744 \uacf5\uaca9\ud588\uc744 \ub54c \uac80\uadc0 \ube0c\ub784\ub85c\ud06c\uc5d0 \uc758\ud574 \uc0dd\ud3ec\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc624\ud06c\ub4e4\uc740 \uc554\uc744 \uad76\uc8fc\ub9ac\uac8c \ud558\uace0 \ud760\uc52c \ub450\ub4e4\uaca8\ub314\uc9c0\ub9cc, \uadf8\ub294 \uc808\ub300 \ubb3c\ub7ec\uc11c\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4. \uc554\uc740 \uc8fd\uc74c\uc758 \uc21c\uac04\uc5d0\uc11c\ub3c4 \uad74\ud558\uc9c0 \uc54a\uace0 \ub05d\uae4c\uc9c0 \uac15\ucca0 \ud638\ub4dc\uc758 \uc878\ub82c\ud568\uc5d0 \ub300\ud55c \ubcf5\uc218\ub97c \uac08\ub9dd\ud588\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u963f\u54c8\u59c6\u5728\u5927\u528d\u5e2b\u5e03\u745e\u7f85\u514b\u9019\u540d\u6b98\u9177\u7378\u4eba\u9032\u653b\u81ea\u5df1\u5bb6\u9109\u6642\u88ab\u4fd8\u3002\u7378\u4eba\u8b93\u963f\u54c8\u59c6\u98fd\u53d7\u9951\u9913\u8207\u8650\u5f85\uff0c\u4f46\u963f\u54c8\u59c6\u62d2\u7d55\u5c48\u670d\u3002\u5c31\u9023\u6b7b\u4ea1\uff0c\u4e5f\u7121\u6cd5\u6253\u6d88\u4ed6\u5411\u92fc\u9435\u90e8\u843d\u8a0e\u56de\u516c\u9053\u7684\u5805\u6c7a\u610f\u5ff5\u3002",
+    "zh_CN": "\u5f53\u6b8b\u9177\u7684\u517d\u4eba\u88ad\u51fb\u4ed6\u7684\u5bb6\u56ed\u65f6\uff0c\u963f\u59c6\u88ab\u5251\u5723\u5df4\u7f57\u514b\u4fd8\u864f\u4e86\u3002\u517d\u4eba\u4e0d\u65ad\u6298\u78e8\u963f\u59c6\uff0c\u4f46\u4ed6\u62d2\u7edd\u5c48\u670d\u3002\u6b7b\u540e\uff0c\u963f\u59c6\u7ee7\u7eed\u5f98\u5f8a\u5728\u8fd9\u4e2a\u4e16\u754c\uff0c\u6e34\u671b\u5411\u94a2\u94c1\u90e8\u843d\u548c\u5b83\u7684\u540c\u515a\u590d\u4ec7\u3002"
+  }
 }
