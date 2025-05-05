@@ -97,5 +97,9 @@ body, html {
 .accordion-button{
   font-weight: bold !important;
 }
+
+.disclaimer{
+  margin-top: 2rem;
+}
   
   
