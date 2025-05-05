@@ -80,10 +80,17 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
         1.  Fetch and reference only the most authoritative online guides for the {player_spec} {player_class} to determine which conditions matter for Power Infusion.  
         2.  Parse the given APL line, treating `&` as logical AND and `|` as logical OR.
         3.  Discard any checks irrelevant to a Priest providing Power Infusion (e.g. damage rotations, defensive cooldowns).
-        4.  Output only the HTML snippet that will be inserted directly into a webpage—no leading commentary or markdown fencing.
-        5.  The HTML must be ready for display: use appropriate tags (e.g. `<p>`, `<strong>`, `<em>`), and keep styling minimal.
-        6.  Your entire response must be pure HTML.
-        7.  Do NOT include any asterisks (*) or square brackets [ ] in your output.
+        4.  For each ability name encountered (e.g. Power Infusion, Combustion):
+            1. Perform an HTTP GET on
+                https://www.wowhead.com/search?q={Ability+Name}
+                and parse the first search-result link on that page (its href will be of the form /spell=12345…), extracting the numeric ID from =12345.
+            2. Use that ID in both the href and data-wowhead attributes of your <a> tag which should wrap your abilities.
+        5.  Output only an HTML snippet that fits this strict format: 
+            - Start with a paragraph (<p>) like: "Use <strong>Power Infusion</strong> on the Frost DeathKnight when:"
+            - Follow with a bullet list (<ul>) where each relevant condition is a <li>, written in a complete, natural sentence.
+            - Each <li> must be clear, concise, and use <strong>HTML bold tags</strong> (<strong>) to highlight important cooldown names or abilities.  
+        6.  Keep styling minimal and professional. Avoid adding inline styles or unnecessary formatting.
+        7.  Never use asterisks, square brackets, or markdown syntax. Your entire response must be pure HTML.
 
         Here is the APL line to convert: {apl_line}
 
