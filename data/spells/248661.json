@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "248661"
+  "SpellID": "248661",
+  "name_blz": {
+    "en_US": "Schematic: Wormhole Generator: Argus",
+    "es_MX": "Esquema: Generador de agujero de gusano: Argus",
+    "pt_BR": "Diagrama: Gerador de Buraco de Minhoca: Argus",
+    "de_DE": "Bauplan: Wurmlochgenerator: Argus",
+    "en_GB": "Schematic: Wormhole Generator: Argus",
+    "es_ES": "Esquema: generador de agujeros de gusano: Argus",
+    "fr_FR": "Sch\u00e9ma\u00a0: G\u00e9n\u00e9rateur de tunnel spatiotemporel : Argus",
+    "it_IT": "Schema: Generatore di Tunnel Spaziotemporali: Argus",
+    "ru_RU": "\u0421\u0445\u0435\u043c\u0430: \u0433\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440 \u0447\u0435\u0440\u0432\u043e\u0442\u043e\u0447\u0438\u043d: \u0410\u0440\u0433\u0443\u0441",
+    "ko_KR": "\uc124\uacc4\ub3c4: \uc6dc\ud640 \uc0dd\uc131\uae30: \uc544\ub974\uac70\uc2a4",
+    "zh_TW": "\u7d50\u69cb\u5716\uff1a\u87f2\u6d1e\u7522\u751f\u5668\uff1a\u963f\u53e4\u65af",
+    "zh_CN": "\u7ed3\u6784\u56fe\uff1a\u866b\u6d1e\u53d1\u751f\u5668\uff1a\u963f\u53e4\u65af"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to craft a Wormhole Generator: Argus.",
+    "es_MX": "Te ense\u00f1a a fabricar un Generador de agujero de gusano: Argus.",
+    "pt_BR": "Ensina a fazer Gerador de Buraco de Minhoca: Argus.",
+    "de_DE": "Lehrt Euch, wie man einen Wurmlochgenerator: Argus herstellt.",
+    "en_GB": "Teaches you how to craft a Wormhole Generator: Argus.",
+    "es_ES": "Te ense\u00f1a a fabricar un generador de agujeros de gusano: Argus.",
+    "fr_FR": "Vous apprend \u00e0 fabriquer un G\u00e9n\u00e9rateur de tunnel spatiotemporel : Argus.",
+    "it_IT": "Apprendi come creare un Generatore di Tunnel Spaziotemporali: Argus.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0433\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440\u0430 \u0447\u0435\u0440\u0432\u043e\u0442\u043e\u0447\u0438\u043d\u044b: \u0410\u0440\u0433\u0443\u0441.",
+    "ko_KR": "\uc6dc\ud640 \uc0dd\uc131\uae30: \uc544\ub974\uac70\uc2a4 \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u88fd\u4f5c\u87f2\u6d1e\u7522\u751f\u5668\uff1a\u963f\u53e4\u65af\u3002",
+    "zh_CN": "\u6559\u4f1a\u4f60\u5982\u4f55\u5236\u9020\u963f\u53e4\u65af\u866b\u6d1e\u53d1\u751f\u5668\u3002"
+  }
 }

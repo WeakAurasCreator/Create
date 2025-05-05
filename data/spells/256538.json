@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "256538"
+  "SpellID": "256538",
+  "name_blz": {
+    "en_US": "Inspire",
+    "es_MX": "Inspirar",
+    "pt_BR": "Inspirar",
+    "de_DE": "Inspirieren",
+    "en_GB": "Inspire",
+    "es_ES": "Inspirar",
+    "fr_FR": "Inspirer",
+    "it_IT": "Ispirazione",
+    "ru_RU": "\u0412\u043e\u043e\u0434\u0443\u0448\u0435\u0432\u0438\u0442\u044c",
+    "ko_KR": "\uaca9\ub824",
+    "zh_TW": "\u9f13\u821e",
+    "zh_CN": "\u6fc0\u52b1"
+  },
+  "description_blz": {
+    "en_US": "Inspire nearby troops, increasing their attack power and health.",
+    "es_MX": "Inspira a las tropas cercanas y aumenta su poder de ataque y su salud.",
+    "pt_BR": "Inspira as tropas pr\u00f3ximas, aumentando o poder de ataque e os pontos de vida.",
+    "de_DE": "Inspiriert Truppen in der N\u00e4he und erh\u00f6ht ihre Angriffskraft sowie ihre Gesundheit.",
+    "en_GB": "Inspire nearby troops, increasing their attack power and health.",
+    "es_ES": "Inspira a las tropas cercanas, lo que aumenta su poder de ataque y salud.",
+    "fr_FR": "Vous inspirez les troupes proches, ce qui augmente leur Puissance d\u2019attaque et leurs points de vie.",
+    "it_IT": "Ispira le truppe vicine, aumentandone la potenza d'attacco e la salute.",
+    "ru_RU": "\u041f\u043e\u0434\u043d\u0438\u043c\u0430\u0435\u0442 \u0431\u043e\u0435\u0432\u043e\u0439 \u0434\u0443\u0445 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0432\u043e\u0439\u0441\u043a, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0438\u0445 \u0441\u0438\u043b\u0443 \u0430\u0442\u0430\u043a\u0438 \u0438 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc8fc\uc704\uc758 \ubcd1\ub825\uc744 \uaca9\ub824\ud558\uc5ec \uc804\ud22c\ub825\uacfc \uc0dd\uba85\ub825\uc744 \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6fc0\u52f5\u9644\u8fd1\u7684\u90e8\u968a\uff0c\u63d0\u9ad8\u4ed6\u5011\u7684\u653b\u64ca\u5f37\u5ea6\u548c\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u6fc0\u52b1\u9644\u8fd1\u7684\u58eb\u5175\uff0c\u63d0\u9ad8\u4ed6\u4eec\u7684\u653b\u51fb\u5f3a\u5ea6\u548c\u751f\u547d\u503c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "255654"
+  "SpellID": "255654",
+  "name_blz": {
+    "en_US": "Bull Rush",
+    "es_MX": "Carrera del toro",
+    "pt_BR": "Investida do Touro",
+    "de_DE": "Aufs Geweih nehmen",
+    "en_GB": "Bull Rush",
+    "es_ES": "Embestida astada",
+    "fr_FR": "Charge de taureau",
+    "it_IT": "Scatto del Toro",
+    "ru_RU": "\u0411\u044b\u0447\u0438\u0439 \u043d\u0430\u0442\u0438\u0441\u043a",
+    "ko_KR": "\ud669\uc18c \ub3cc\uc9c4",
+    "zh_TW": "\u6012\u725b\u66b4\u885d",
+    "zh_CN": "\u86ee\u725b\u51b2\u649e"
+  },
+  "description_blz": {
+    "en_US": "Charge forward for 1 sec, knocking enemies down for 1.5 sec.",
+    "es_MX": "Arremete hacia adelante durante 1 s y derriba a los enemigos a su paso durante 1.5 s.",
+    "pt_BR": "Investe \u00e0 frente por 1 s, derrubando os inimigos por 1,5 s.",
+    "de_DE": "St\u00fcrmt 1 Sek. lang vorw\u00e4rts und st\u00f6\u00dft Gegner f\u00fcr 1,5 Sek. zu Boden.",
+    "en_GB": "Charge forward for 1 sec, knocking enemies down for 1.5 sec.",
+    "es_ES": "Carga hacia delante durante 1 s y derriba a los enemigos durante 1,5 s.",
+    "fr_FR": "Charge droit devant pendant 1 s et renverse les ennemis pendant 1,5 s.",
+    "it_IT": "Carica in avanti per 1 s, facendo cadere i nemici per 1,5 s.",
+    "ru_RU": "\u0417\u0430\u043a\u043b\u0438\u043d\u0430\u0442\u0435\u043b\u044c \u043d\u0435\u0441\u0435\u0442\u0441\u044f \u0432\u043f\u0435\u0440\u0435\u0434 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 1 \u0441\u0435\u043a., \u0441\u0431\u0438\u0432\u0430\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0441 \u043d\u043e\u0433 \u043d\u0430 1,5 \u0441\u0435\u043a",
+    "ko_KR": "1\ucd08 \ub3d9\uc548 \uc804\ubc29\uc73c\ub85c \ub3cc\uc9c4\ud558\uc5ec, 1.5\ucd08 \ub3d9\uc548 \uc801\uc744 \uc4f0\ub7ec\ub728\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u5411\u524d\u885d\u92d21\u79d2\uff0c\u5c07\u6575\u4eba\u64ca\u50121.5\u79d2\u3002",
+    "zh_CN": "\u57281\u79d2\u5185\u5411\u524d\u51b2\u950b\u5e76\u51fb\u5012\u654c\u4eba\uff0c\u6301\u7eed1.5\u79d2\u3002"
+  }
 }
