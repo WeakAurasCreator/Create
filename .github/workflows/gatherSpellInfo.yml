@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
-
+permissions:
+  contents: write        # for checkout & push
+  pull-requests: write   # for gh pr create/merge
 env: 
    UPDATE_BRANCH: spell-data-updates
 
@@ -19,6 +21,9 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0           
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -89,7 +94,7 @@ jobs:
         run: |
           PR_URL=$(gh pr list --head ${{ env.UPDATE_BRANCH }} --state open --json url --jq '.[0].url')
           if [ -z "$PR_URL" ]; then
-            gh pr create --base main --head ${{ env.UPDATE_BRANCH }} \
+            gh pr create --base master --head ${{ env.UPDATE_BRANCH }} \
               --title "Automated spell data update" \
               --body "Batched updates generated on $(date -u +'%Y-%m-%d')." \
               --label update,spells
