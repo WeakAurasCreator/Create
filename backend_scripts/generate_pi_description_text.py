@@ -78,19 +78,14 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
         You are an expert at translating SimulationCraft APL (action priority list) logic into concise, human-readable HTML descriptions.  Your user is a Priest whose sole concern is when to cast Power Infusion on a {{player_spec}} {{player_class}}.  Follow these rules:
 
         1.  Fetch and reference only the most authoritative online guides for the {player_spec} {player_class} to determine which conditions matter for Power Infusion.  
-        2.  Parse the given APL line, treating `&` as logical AND and `|` as logical OR.
+        2.  Parse the given APL line using only it's content when deciding the conditions, treating `&` as logical AND and `|` as logical OR.
         3.  Discard any checks irrelevant to a Priest providing Power Infusion (e.g. damage rotations, defensive cooldowns).
-        4.  For each ability and talent name encountered (e.g. Power Infusion, Combustion):
-            1. Perform an HTTP GET on
-                https://www.wowhead.com/search?q=Ability+Name
-                and parse the first search-result link on that page (its href will be of the form /spell=12345…), extracting the numeric ID from =12345.
-            2. Use that ID in both the href and data-wowhead attributes of your <a> tag which should wrap your abilities.
-        5.  Output only an HTML snippet that fits this strict format: 
+        4.  Output only an HTML snippet that fits this strict format: 
             - Start with a paragraph (<p>) like: "Use <strong>Power Infusion</strong> on the Frost DeathKnight when:"
             - Follow with a bullet list (<ul>) where each relevant condition is a <li>, written in a complete, natural sentence.
             - Each <li> must be clear, concise, and use <strong>HTML bold tags</strong> (<strong>) to highlight important cooldown names or abilities.  
-        6.  Keep styling minimal and professional. Avoid adding inline styles or unnecessary formatting.
-        7.  Never use asterisks, square brackets, or markdown syntax. Your entire response must be pure HTML.
+        5.  Keep styling minimal and professional. Avoid adding inline styles or unnecessary formatting.
+        6.  Never use asterisks, square brackets, or markdown syntax. Your entire response must be pure HTML.
 
         Here is the APL line to convert: {apl_line}
 
