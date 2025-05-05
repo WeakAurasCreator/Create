@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "248752"
+  "SpellID": "248752",
+  "name_blz": {
+    "en_US": "Design: Lightweave Breeches (Rank 1)",
+    "es_MX": "Dise\u00f1o: Calzones de tejido de luz (rango 1)",
+    "pt_BR": "Desenho: Cal\u00e7\u00f5es de Teceluma (Ranque 1)",
+    "de_DE": "Muster: Lichtgewirkte Bundhosen (Rang 1)",
+    "en_GB": "Design: Lightweave Breeches (Rank 1)",
+    "es_ES": "Patr\u00f3n: calzones de tejido de luz (Rango 1)",
+    "fr_FR": "Patron\u00a0: Braies en tisse-lumi\u00e8re (rang 1)",
+    "it_IT": "Modello: Calzoni di Fontemagica (Grado 1)",
+    "ru_RU": "\u0412\u044b\u043a\u0440\u043e\u0439\u043a\u0430: \u0441\u0432\u0435\u0442\u043e\u0442\u043a\u0430\u043d\u044b\u0435 \u0431\u0440\u044e\u043a\u0438 (\u0443\u0440\u043e\u0432\u0435\u043d\u044c 1)",
+    "ko_KR": "\ub3c4\uc548: \ube5b\ub9e4\ub4ed \uc9e7\uc740\ubc14\uc9c0 (1 \ub4f1\uae09)",
+    "zh_TW": "\u5716\u6a23\uff1a\u5149\u7d21\u99ac\u8932(\u7b49\u7d1a1)",
+    "zh_CN": "\u56fe\u6837\uff1a\u5149\u7eb9\u9a6c\u88e4\uff08\u7b49\u7ea7 1\uff09"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to craft Lightweave Breeches (Rank 1).",
+    "es_MX": "Te ense\u00f1a a fabricar Calzones de tejido de luz (rango 1).",
+    "pt_BR": "Ensina a fazer Cal\u00e7\u00f5es de Teceluma (Ranque 1).",
+    "de_DE": "Lehrt Euch, wie man lichtgewirkte Bundhosen (Rang 1) herstellt.",
+    "en_GB": "Teaches you how to craft Lightweave Breeches (Rank 1).",
+    "es_ES": "Te ense\u00f1a a fabricar unos calzones de tejido de luz (Rango 1).",
+    "fr_FR": "Vous apprend \u00e0 confectionner des braies en tisse-lumi\u00e8re (rang\u00a01).",
+    "it_IT": "Apprendi come creare dei Calzoni di Fontemagica (Grado 1).",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0441\u0432\u0435\u0442\u043e\u0442\u043a\u0430\u043d\u044b\u0445 \u0431\u0440\u044e\u043a (\u0443\u0440\u043e\u0432\u0435\u043d\u044c 1).",
+    "ko_KR": "\ube5b\ub9e4\ub4ed \uc9e7\uc740\ubc14\uc9c0 \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4. (1 \ub4f1\uae09)",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u88fd\u4f5c\u5149\u7d21\u99ac\u8932(\u7b49\u7d1a1)\u3002",
+    "zh_CN": "\u6559\u4f1a\u4f60\u5982\u4f55\u5236\u9020\u5149\u7eb9\u9a6c\u88e4\uff08\u7b49\u7ea71\uff09\u3002"
+  }
 }

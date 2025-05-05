@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "252199"
+  "SpellID": "252199",
+  "name_blz": {
+    "en_US": "Lightforged Beacon: Triumvirate's End",
+    "es_MX": "Faro templeluz: Fin del Triunvirato",
+    "pt_BR": "Sinalizador Forjado a Luz: O Fim do Triunvirato",
+    "de_DE": "Lichtgeschmiedetes Signal: Triumviratsbruch",
+    "en_GB": "Lightforged Beacon: Triumvirate's End",
+    "es_ES": "Baliza forjada por la Luz: Fin del Triunvirato",
+    "fr_FR": "Balise sancteforge\u00a0: Chute du triumvirat",
+    "it_IT": "Dislocatore Forgialuce: Fine del Triumvirato",
+    "ru_RU": "\u041c\u0430\u044f\u043a \u043e\u0437\u0430\u0440\u0435\u043d\u043d\u044b\u0445: \u043f\u0440\u0435\u0434\u0435\u043b \u0422\u0440\u0438\u0443\u043c\u0432\u0438\u0440\u0430\u0442\u0430",
+    "ko_KR": "\ube5b\ubcbc\ub9bc \uc2e0\ud638\uae30: \uc0bc\ub450\uc815\uc758 \ub05d\uc790\ub77d",
+    "zh_TW": "\u5149\u9444\u4fe1\u6a19\uff1a\u4e09\u5091\u7d55\u7fa9\u4e4b\u5730",
+    "zh_CN": "\u5149\u94f8\u9053\u6807\uff1a\u6267\u653f\u56e2\u4e4b\u672b"
+  },
+  "description_blz": {
+    "en_US": "Adds Triumvirate's End to your Navigation Console.",
+    "es_MX": "Agrega Fin del Triunvirato a tu consola de navegaci\u00f3n.",
+    "pt_BR": "Adiciona o Fim do Triunvirato ao seu Console de Navega\u00e7\u00e3o.",
+    "de_DE": "F\u00fcgt den Triumviratsbruch Eurer Navigationskonsole hinzu.",
+    "en_GB": "Adds Triumvirate's End to your Navigation Console.",
+    "es_ES": "A\u00f1ade Fin del Triunvirato a tu consola de navegaci\u00f3n.",
+    "fr_FR": "Ajoute la Chute du triumvirat \u00e0 votre console de navigation.",
+    "it_IT": "Aggiunge Fine del Triumvirato alla tua Console di Navigazione.",
+    "ru_RU": "\u0414\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u0440\u0435\u0434\u0435\u043b \u0422\u0440\u0438\u0443\u043c\u0432\u0438\u0440\u0430\u0442\u0430 \u043d\u0430 \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u043e\u043d\u043d\u0443\u044e \u043f\u0430\u043d\u0435\u043b\u044c.",
+    "ko_KR": "\uc870\ud0c0 \uc7a5\uce58\uc5d0 \uc0bc\ub450\uc815\uc758 \ub05d\uc790\ub77d\uc744 \ucd94\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u7684\u5c0e\u822a\u63a7\u5236\u81fa\u4e0a\u65b0\u589e\u4e09\u5091\u7d55\u7fa9\u4e4b\u5730\u3002",
+    "zh_CN": "\u5c06\u6267\u653f\u56e2\u4e4b\u672b\u52a0\u5165\u4f60\u7684\u5bfc\u822a\u63a7\u5236\u53f0\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "255653"
+  "SpellID": "255653",
+  "name_blz": {
+    "en_US": "Demonbane",
+    "es_MX": "Demonicidio",
+    "pt_BR": "Matador de Dem\u00f4nio",
+    "de_DE": "D\u00e4monenschrecken",
+    "en_GB": "Demonbane",
+    "es_ES": "Ruina demon\u00edaca",
+    "fr_FR": "Fl\u00e9au des d\u00e9mons",
+    "it_IT": "Flagellademoni",
+    "ru_RU": "\u0413\u0440\u043e\u0437\u0430 \u0434\u0435\u043c\u043e\u043d\u043e\u0432",
+    "ko_KR": "\uc545\ub9c8\ud30c\uba78\uc790",
+    "zh_TW": "\u60e1\u9b54\u524b\u661f",
+    "zh_CN": "\u6076\u9b54\u4e4b\u707e"
+  },
+  "description_blz": {
+    "en_US": "Experience gains from killing Demons increased by 20%.",
+    "es_MX": "Aumenta un 20% la experiencia que se obtiene por matar demonios.",
+    "pt_BR": "Aumenta em 20% a experi\u00eancia recebida por matar Dem\u00f4nios.",
+    "de_DE": "Erh\u00f6ht die durch das T\u00f6ten von D\u00e4monen erhaltene Erfahrung um 20%.",
+    "en_GB": "Experience gains from killing Demons increased by 20%.",
+    "es_ES": "Experiencia obtenida al matar demonios aumentada un 20%.",
+    "fr_FR": "Augmente de 20% les points d\u2019exp\u00e9rience gagn\u00e9s en tuant des d\u00e9mons.",
+    "it_IT": "Aumenta l'esperienza guadagnata dall'uccisione di Demoni del 20%.",
+    "ru_RU": "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u043f\u044b\u0442\u0430, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0433\u043e \u0437\u0430 \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u043e \u0434\u0435\u043c\u043e\u043d\u043e\u0432, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20%.",
+    "ko_KR": "\uc545\ub9c8\ub97c \ucc98\uce58\ud574 \uc5bb\ub294 \uacbd\ud5d8\uce58\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u64ca\u6bba\u60e1\u9b54\u6642\u7372\u5f97\u7684\u7d93\u9a57\u503c\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u901a\u8fc7\u6740\u6b7b\u6076\u9b54\u83b7\u5f97\u7684\u7ecf\u9a8c\u503c\u63d0\u9ad820%\u3002"
+  }
 }

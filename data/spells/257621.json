@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "257621"
+  "SpellID": "257621",
+  "name_blz": {
+    "en_US": "Trick Shots",
+    "es_MX": "Disparos con truco",
+    "pt_BR": "Tiros de Mestre",
+    "de_DE": "Gekonnte Sch\u00fcsse",
+    "en_GB": "Trick Shots",
+    "es_ES": "Disparos trucados",
+    "fr_FR": "Tirs pi\u00e9g\u00e9s",
+    "it_IT": "Tiri Ingannevoli",
+    "ru_RU": "\u041a\u043e\u0432\u0430\u0440\u043d\u044b\u0435 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u044b",
+    "ko_KR": "\uad50\ubb18\ud55c \uc0ac\uaca9",
+    "zh_TW": "\u82b1\u5f0f\u5c04\u64ca",
+    "zh_CN": "\u6280\u5de7\u5c04\u51fb"
+  },
+  "description_blz": {
+    "en_US": "When Multi-Shot hits 3 or more targets, your next Aimed Shot or Rapid Fire will ricochet and hit up to 5 additional targets for 75% of normal damage.",
+    "es_MX": "Cuando Multidisparo golpea 3 o m\u00e1s objetivos, tu siguiente Disparo de punter\u00eda o Fuego r\u00e1pido rebota y golpea a un m\u00e1ximo de 5 objetivos adicionales y les inflige un 75% del da\u00f1o normal.",
+    "pt_BR": "Quando o Tiro M\u00faltiplo acerta 3 ou mais alvos, seu pr\u00f3ximo Tiro Certo ou Tiro R\u00e1pido ricocheteia e atinge at\u00e9 5 alvos adicionais, causando 75% do dano normal.",
+    "de_DE": "Wenn 'Mehrfachschuss' 3 oder mehr Ziele trifft, prallt Euer n\u00e4chster Einsatz von 'Gezielter Schuss' oder 'Schnellfeuer' auf bis zu 5 zus\u00e4tzliche Ziele ab und f\u00fcgt ihnen 75% des normalen Schadens zu.",
+    "en_GB": "When Multi-Shot hits 3 or more targets, your next Aimed Shot or Rapid Fire will ricochet and hit up to 5 additional targets for 75% of normal damage.",
+    "es_ES": "Cuando Multidisparo golpee a 3 o m\u00e1s objetivos, tu siguiente Disparo de punter\u00eda o Fuego r\u00e1pido rebotar\u00e1, golpear\u00e1 a un m\u00e1ximo de 5 objetivos extras y les infligir\u00e1 un 75% de su da\u00f1o normal.",
+    "fr_FR": "Lorsque Fl\u00e8ches multiples touche au moins 3\u00a0cibles, votre prochaine Vis\u00e9e ou Tir rapide rebondit et touche jusqu\u2019\u00e0 5\u00a0cibles suppl\u00e9mentaires en leur infligeant 75% des d\u00e9g\u00e2ts normaux.",
+    "it_IT": "Quando Tiro Multiplo colpisce 3 o pi\u00f9 bersagli, il successivo Tiro Mirato o Rapidit\u00e0 di Tiro rimbalza e colpisce fino a 5 bersagli aggiuntivi, infliggendo il 75% dei danni normali.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0417\u0430\u043b\u043f\" \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 3 \u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 \u0446\u0435\u043b\u0435\u0439, \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0438\u043b\u0438 \"\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0430\" \u0440\u0438\u043a\u043e\u0448\u0435\u0442\u0438\u0442 \u0438 \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0435\u0449\u0435 \u0434\u043e 5 \u0446\u0435\u043b\u0435\u0439, \u043d\u0430\u043d\u043e\u0441\u044f \u0438\u043c 75% \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc77c\uc81c \uc0ac\uaca9\uc774 3\uba85 \uc774\uc0c1\uc758 \ub300\uc0c1\uc5d0\uac8c \uc801\uc911\ud558\uba74 \ub2e4\uc74c \uc870\uc900 \uc0ac\uaca9 \ub610\ub294 \uc18d\uc0ac\uc758 \ud22c\uc0ac\uccb4\uac00 \ud295\uaca8 \ucd94\uac00\ub85c \ucd5c\ub300 5\uba85\uc758 \ub300\uc0c1\uc5d0\uac8c \uc77c\ubc18 \uacf5\uaca9\ub825\uc758 75%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u591a\u91cd\u5c04\u64ca\u547d\u4e2d3\u500b\u4ee5\u4e0a\u7684\u6575\u4eba\u6642\uff0c\u4f60\u7684\u4e0b\u4e00\u6b21\u7784\u6e96\u5c04\u64ca\u6216\u6025\u901f\u5c04\u64ca\u6703\u5f48\u8df3\u64ca\u4e2d\u9644\u8fd15\u500b\u984d\u5916\u7684\u76ee\u6a19\uff0c\u9020\u6210\u4e00\u822c\u50b7\u5bb3\u768475%\u3002",
+    "zh_CN": "\u5f53\u591a\u91cd\u5c04\u51fb\u51fb\u4e2d3\u540d\u6216\u4ee5\u4e0a\u76ee\u6807\u65f6\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u7784\u51c6\u5c04\u51fb\u6216\u6025\u901f\u5c04\u51fb\u5c06\u4f1a\u5f39\u5c04\u5e76\u51fb\u4e2d\u6700\u591a5\u540d\u989d\u5916\u76ee\u6807\uff0c\u5bf9\u5176\u9020\u6210\u76f8\u5f53\u4e8e\u6b63\u5e38\u60c5\u51b575%\u7684\u4f24\u5bb3\u3002"
+  }
 }

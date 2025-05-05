@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "247483"
+  "SpellID": "247483",
+  "name_blz": {
+    "en_US": "Tigereye Brew",
+    "es_MX": "Brebaje de ojo de tigre",
+    "pt_BR": "Cerveja Olho de Tigre",
+    "de_DE": "Tigeraugengebr\u00e4u",
+    "en_GB": "Tigereye Brew",
+    "es_ES": "Brebaje de ojo de tigre",
+    "fr_FR": "Infusion \u0153il-du-tigre",
+    "it_IT": "Birra dell'Occhio di Tigre",
+    "ru_RU": "\u041e\u0442\u0432\u0430\u0440 \u0442\u0438\u0433\u0440\u0438\u043d\u043e\u0439 \u0441\u0438\u043b\u044b",
+    "ko_KR": "\ud638\uc548\uc8fc",
+    "zh_TW": "\u864e\u773c\u7d55\u91c0",
+    "zh_CN": "\u864e\u773c\u9152"
+  },
+  "description_blz": {
+    "en_US": "Consumes up to 10 stacks of Tigereye Brew to empower your Physical abilities with wind for 2 sec per stack consumed. Damage of your strikes are reduced, but bypass armor.\r\n\r\nFor each 3 Chi you consume, you gain a stack of Tigereye Brew.",
+    "es_MX": "Consumes hasta 10 acumulaciones de Brebaje de ojo de tigre para potenciar todas tus habilidades f\u00edsicas con viento durante 2 s por cada acumulaci\u00f3n consumida. Reduce el da\u00f1o de tus golpes, pero traspasan la armadura.\r\n\r\nCada 3 p. de chi que consumes, obtienes una acumulaci\u00f3n de Brebaje de ojo de tigre.",
+    "pt_BR": "Consome at\u00e9 10 aplica\u00e7\u00f5es de Cerveja Olho de Tigre para potencializar suas habilidades f\u00edsicas com vento por 2 s para cada aplica\u00e7\u00e3o consumida. Seus golpes causam menos dano, mas passam a ignorar a armadura do inimigo.\r\n\r\nPara cada 3 de Chi consumido, voc\u00ea ganha uma aplica\u00e7\u00e3o de Cerveja Olho de Tigre.",
+    "de_DE": "Verbraucht bis zu 10 Stapel 'Tigeraugengebr\u00e4u' und verst\u00e4rkt all Eure k\u00f6rperlichen F\u00e4higkeiten mit Wind. H\u00e4lt pro verbrauchtem Stapel 2 Sek. lang an. Der Schaden Eurer Angriffe ist verringert, umgeht aber R\u00fcstung.\r\n\r\nIhr erhaltet pro 3 verbrauchtem Chi einen Stapel 'Tigeraugengebr\u00e4u'.",
+    "en_GB": "Consumes up to 10 stacks of Tigereye Brew to empower your Physical abilities with wind for 2 sec per stack consumed. Damage of your strikes are reduced, but bypass armor.\r\n\r\nFor each 3 Chi you consume, you gain a stack of Tigereye Brew.",
+    "es_ES": "Consume hasta 10 acumulaciones de Brebaje de ojo de tigre para potenciar tus facultades f\u00edsicas con viento durante 2 s por cada acumulaci\u00f3n consumida. Tus golpes infligen menos da\u00f1o, pero ignoran la armadura.\r\n\r\nPor cada 3 p. de chi que consumes, obtienes una acumulaci\u00f3n de Brebaje de ojo de tigre.",
+    "fr_FR": "Consomme jusqu\u2019\u00e0 10\u00a0cumuls d\u2019Infusion \u0153il-du-tigre pour renforcer toutes vos techniques physiques avec du vent, pendant 2 s par cumul consomm\u00e9. Vos coups infligent des d\u00e9g\u00e2ts r\u00e9duits, mais ignorent l\u2019armure.\r\n\r\nPour chaque tranche de 3\u00a0points de chi consomm\u00e9s, vous obtenez un cumul d\u2019Infusion \u0153il-du-tigre.",
+    "it_IT": "Consuma fino a 10 accumuli di Birra dell'Occhio di Tigre per potenziare le tue abilit\u00e0 fisiche con il vento. Dura 2 s per accumulo consumato. I tuoi colpi infliggono meno danni ma ignorano l'armatura del bersaglio.\r\n\r\nOgni 3 Chi consumato, si ottiene una carica di Birra dell'Occhio di Tigre.",
+    "ru_RU": "\u0412\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \u0434\u043e 10 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \"\u041e\u0442\u0432\u0430\u0440\u0430 \u0442\u0438\u0433\u0440\u0438\u043d\u043e\u0439 \u0441\u0438\u043b\u044b\", \u0447\u0442\u043e\u0431\u044b \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 2 \u0441\u0435\u043a. \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442. \u041d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0438\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442\u0441\u044f, \u043d\u043e \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u0442 \u0431\u0440\u043e\u043d\u044e \u0446\u0435\u043b\u0438.\r\n\r\n\u0417\u0430 \u043a\u0430\u0436\u0434\u044b\u0435 3 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0435\u0434\u0438\u043d\u0438\u0446\u044b \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0446\u0438 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041e\u0442\u0432\u0430\u0440\u0430 \u0442\u0438\u0433\u0440\u0438\u043d\u043e\u0439 \u0441\u0438\u043b\u044b\".",
+    "ko_KR": "\ud638\uc548\uc8fc\ub97c \ucd5c\ub300 10\uc911\ucca9\uae4c\uc9c0 \uc18c\ubaa8\ud558\uace0, \uc18c\ubaa8\ud55c \uc911\ucca9 \ud558\ub098\ub2f9 \ubc14\ub78c\uc744 \uc0ac\uc6a9\ud558\ub294 \ubb3c\ub9ac \ub2a5\ub825\uc744 2\ucd08 \ub3d9\uc548 \uac15\ud654\ud569\ub2c8\ub2e4. \uacf5\uaca9\ub825\uc774 \uac10\uc18c\ud558\uc9c0\ub9cc, \ubc29\uc5b4\ub3c4\ub97c \ubb34\uc2dc\ud569\ub2c8\ub2e4.\r\n\r\n\uae30\ub97c 3 \uc18c\ubaa8\ud560 \ub54c\ub9c8\ub2e4 \ud638\uc548\uc8fc \uc911\ucca9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6d88\u8017\u6700\u591a10\u5c64\u864e\u773c\u7d55\u91c0\uff0c\u8b93\u98a8\u5f37\u5316\u4f60\u6240\u6709\u7684\u7269\u7406\u6280\u80fd\uff0c\u6bcf\u6d88\u8017\u4e00\u5c64\u5c31\u984d\u5916\u6301\u7e8c2\u79d2\u3002\u4f60\u7684\u653b\u64ca\u53ef\u7121\u8996\u8b77\u7532\uff0c\u4f46\u50b7\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u4f60\u6bcf\u6d88\u80173\u9ede\u771f\u6c23\u5c31\u6703\u7522\u751f\u4e00\u5c64\u864e\u773c\u7d55\u91c0\u3002",
+    "zh_CN": "\u6d88\u8017\u6700\u591a10\u5c42\u864e\u773c\u9152\u6548\u679c\uff0c\u7528\u98ce\u4e4b\u529b\u5f3a\u5316\u4f60\u7684\u7269\u7406\u6280\u80fd\uff0c\u6bcf\u6d88\u8017\u4e00\u5c42\u6548\u679c\uff0c\u5c31\u53ef\u4ee5\u6301\u7eed2\u79d2\u3002\u4f60\u7684\u6253\u51fb\u4f24\u5bb3\u964d\u4f4e\uff0c\u4f46\u80fd\u591f\u65e0\u89c6\u62a4\u7532\u3002\r\n\r\n\u4f60\u6bcf\u6d88\u80173\u70b9\u771f\u6c14\uff0c\u5c31\u83b7\u5f97\u4e00\u5c42\u864e\u773c\u9152\u6548\u679c\u3002"
+  }
 }

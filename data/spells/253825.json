@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "253825"
+  "SpellID": "253825",
+  "name_blz": {
+    "en_US": "Umbral Shift",
+    "es_MX": "Mutaci\u00f3n umbr\u00eda",
+    "pt_BR": "Deslocamento Umbr\u00e1tico",
+    "de_DE": "Umbralverschiebung",
+    "en_GB": "Umbral Shift",
+    "es_ES": "Cambio umbr\u00edo",
+    "fr_FR": "Forme ombreuse",
+    "it_IT": "Cambiamento Ombroso",
+    "ru_RU": "\u041c\u0440\u0430\u0447\u043d\u044b\u0439 \u0441\u0434\u0432\u0438\u0433",
+    "ko_KR": "\uc554\uc601 \ubcc0\ud654",
+    "zh_TW": "\u6666\u5f71\u8f49\u79fb",
+    "zh_CN": "\u6697\u5f71\u8fc5\u6377"
+  },
+  "description_blz": {
+    "en_US": "Umbral Shift also increases your Mastery by 44.",
+    "es_MX": "Mutaci\u00f3n umbr\u00eda tambi\u00e9n aumenta tu maestr\u00eda 44 p.",
+    "pt_BR": "Deslocamento Umbr\u00e1tico tamb\u00e9m aumenta em 44 a Maestria.",
+    "de_DE": "'Umbralverschiebung' erh\u00f6ht zus\u00e4tzlich Eure Meisterschaft um 44.",
+    "en_GB": "Umbral Shift also increases your Mastery by 44.",
+    "es_ES": "Cambio umbr\u00edo tambi\u00e9n aumenta tu maestr\u00eda 44 p.",
+    "fr_FR": "Forme ombreuse augmente \u00e9galement votre Ma\u00eetrise de 44.",
+    "it_IT": "Cambiamento Ombroso aumenta l'indice di maestria di 44.",
+    "ru_RU": "\"\u041c\u0440\u0430\u0447\u043d\u044b\u0439 \u0441\u0434\u0432\u0438\u0433\" \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 44.",
+    "ko_KR": "\uc554\uc601 \ubcc0\ud654\uac00 \uc790\uc2e0\uc758 \ud2b9\ud654\ub97c 44\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6666\u5f71\u8f49\u79fb\u6703\u540c\u6642\u4f7f\u4f60\u7684\u7cbe\u901a\u63d0\u9ad844\u9ede\u3002",
+    "zh_CN": "\u6697\u5f71\u8fc5\u6377\u540c\u65f6\u4f7f\u4f60\u7684\u7cbe\u901a\u63d0\u9ad844\u3002"
+  }
 }
