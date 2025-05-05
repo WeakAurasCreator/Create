@@ -58,6 +58,15 @@ function setupWaTargetSelectors(data){
   setupTargetSelector(targets, targetSelectOverall, targets[0].toString());
   setupTargetSelector(targets, targetSelectBoss,  targets[0].toString());
   setupTargetSelector(targets, targetSelectTrash,  targets[3].toString());
+  targetSelectOverall.addEventListener("change", (e) => {
+    document.getElementById("piOutput").value = "";
+  });
+  targetSelectBoss.addEventListener("change", (e) => {
+    document.getElementById("piOutput").value = "";
+  });
+  targetSelectTrash.addEventListener("change", (e) => {
+    document.getElementById("piOutput").value = "";
+  });
 }
 
 function renderAllExplanations() {
@@ -122,8 +131,10 @@ function toggleModeUI(singleWrapper, dualWrapper) {
   dualWrapper  .classList.toggle("d-none", mode === "single");
 }
 modeRadios.forEach(radio =>
-  radio.addEventListener("change", () =>
-    toggleModeUI(singleWrap, dualWrap)
+  radio.addEventListener("change", () => {
+    toggleModeUI(singleWrap, dualWrap);
+    document.getElementById("piOutput").value = "";
+  }
   )
 );
 
@@ -247,9 +258,9 @@ function setupPiData(data ) {
 
   // Render chart for selected target count
   chart = renderChart(targets[0], data, ctx, chart);
+
   targetSelect.addEventListener("change", (e) => {
     chart = renderChart(Number(e.target.value),data, ctx, chart);
-    document.getElementById("piOutput").value = "";
   });
 }
 
