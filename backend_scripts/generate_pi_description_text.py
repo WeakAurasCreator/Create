@@ -80,9 +80,9 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
         1.  Fetch and reference only the most authoritative online guides for the {player_spec} {player_class} to determine which conditions matter for Power Infusion.  
         2.  Parse the given APL line, treating `&` as logical AND and `|` as logical OR.
         3.  Discard any checks irrelevant to a Priest providing Power Infusion (e.g. damage rotations, defensive cooldowns).
-        4.  For each ability name encountered (e.g. Power Infusion, Combustion):
+        4.  For each ability and talent name encountered (e.g. Power Infusion, Combustion):
             1. Perform an HTTP GET on
-                https://www.wowhead.com/search?q={Ability+Name}
+                https://www.wowhead.com/search?q=Ability+Name
                 and parse the first search-result link on that page (its href will be of the form /spell=12345…), extracting the numeric ID from =12345.
             2. Use that ID in both the href and data-wowhead attributes of your <a> tag which should wrap your abilities.
         5.  Output only an HTML snippet that fits this strict format: 
