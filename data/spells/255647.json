@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "255647"
+  "SpellID": "255647",
+  "name_blz": {
+    "en_US": "Light's Judgment",
+    "es_MX": "Sentencia de la Luz",
+    "pt_BR": "Julgamento da Luz",
+    "de_DE": "Urteil des Lichts",
+    "en_GB": "Light's Judgment",
+    "es_ES": "Sentencia de la Luz",
+    "fr_FR": "Jugement de la Lumi\u00e8re",
+    "it_IT": "Giudizio della Luce",
+    "ru_RU": "\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uc2ec\ud310",
+    "zh_TW": "\u8056\u5149\u5be9\u5224",
+    "zh_CN": "\u5723\u5149\u88c1\u51b3\u8005"
+  },
+  "description_blz": {
+    "en_US": "Call down a strike of Holy energy, dealing 23,242 Holy damage to enemies within 10 yards after 3 sec. Damage reduced beyond 8 targets.",
+    "es_MX": "Invoca una r\u00e1faga de energ\u00eda sagrada que inflige 23,242 p. de da\u00f1o sagrado a todos los enemigos en un radio de 10 m despu\u00e9s de 3 s. El da\u00f1o se reduce si golpea a m\u00e1s de 8 objetivos.",
+    "pt_BR": "Evoca um raio de energia Sagrada, causando 23.242 de dano Sagrado a inimigos em um raio de 10 m ap\u00f3s 3 s. Dano reduzido acima de 8 alvos.",
+    "de_DE": "Ruft einen Blitz aus heiliger Energie herab, der Gegnern innerhalb von 10 Metern nach 3 Sek. 23.242 Heiligschaden zuf\u00fcgt. F\u00fcgt Zielen \u00fcber 8 Ziele hinaus verringerten Schaden zu.",
+    "en_GB": "Call down a strike of Holy energy, dealing 23,242 Holy damage to enemies within 10 yards after 3 sec. Damage reduced beyond 8 targets.",
+    "es_ES": "Lanza un ataque de energ\u00eda Sagrada que inflige 23242 p. de da\u00f1o Sagrado a los enemigos en un radio de 10 m tras 3 s. El da\u00f1o se reduce cuando afecta a m\u00e1s de 8 objetivos.",
+    "fr_FR": "Vous appelez une d\u00e9charge d\u2019\u00e9nergie qui inflige 23242\u00a0points de d\u00e9g\u00e2ts du sacr\u00e9 aux adversaires \u00e0 moins de 10\u00a0m au bout de 3\u00a0s. D\u00e9g\u00e2ts r\u00e9duits au-del\u00e0 de 8\u00a0cibles.",
+    "it_IT": "Richiama un'esplosione di energia sacra, infliggendo 23.242 danni da sacro ai nemici entro 10 m dopo 3 s. Danni ridotti oltre 8 bersagli.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0437\u0430\u0440\u044f\u0434 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0447\u0435\u0440\u0435\u0437 3 \u0441\u0435\u043a. \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c 23242 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043c\u0430\u0433\u0438\u0438. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 8-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d.",
+    "ko_KR": "\uc2e0\uc131 \ub9c8\ub825\uc73c\ub85c \uc801\uc744 \uac15\ud0c0\ud558\uc5ec 3\ucd08 \ud6c4\uc5d0 10\ubbf8\ud130 \ub0b4\uc758 \ub300\uc0c1\uc5d0\uac8c 23,242\uc758 \uc2e0\uc131 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. 8\uba85\uc744 \ucd08\uacfc\ud558\ub294 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u9053\u795e\u8056\u80fd\u91cf\u76f4\u64ca\u800c\u4e0b\uff0c\u57283\u79d2\u5f8c\u5c0d10\u78bc\u5167\u7684\u6575\u4eba\u9020\u621023,242\u9ede\u795e\u8056\u50b7\u5bb3\u3002\u8d85\u904e8\u500b\u76ee\u6a19\u6642\uff0c\u50b7\u5bb3\u964d\u4f4e\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u9053\u795e\u5723\u80fd\u91cf\u4ece\u5929\u800c\u964d\uff0c3\u79d2\u540e\u5bf9\u5468\u56f410\u7801\u8303\u56f4\u5185\u7684\u654c\u4eba\u9020\u621023,242\u70b9\u795e\u5723\u4f24\u5bb3\u3002\u76ee\u6807\u8d85\u8fc78\u4e2a\u65f6\u4f24\u5bb3\u964d\u4f4e\u3002"
+  }
 }
