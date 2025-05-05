@@ -34,5 +34,24 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "251883"
+  "SpellID": "251883",
+  "name_blz": {
+    "en_US": "Item - Warrior T21 Protection 2P Bonus",
+    "en_GB": "Item - Warrior T21 Protection 2P Bonus",
+    "es_ES": "Item - Warrior T21 Protection 2P Bonus - Blocked Attacks Buff Ignore Pain"
+  },
+  "description_blz": {
+    "en_US": "Blocking an attack increases the value of an existing Ignore Pain effect by 2,124.\r\nThis can only occur once every 1 sec.",
+    "es_MX": "Bloquear un ataque aumenta el valor de un efecto de Ignorar dolor existente en 2,124.\r\nEsto puede ocurrir una sola vez cada 1 s.",
+    "pt_BR": "Bloquear um ataque aumenta em 2.124 o valor de um efeito de Ignorar Dor existente.\r\nIsso s\u00f3 pode ocorrer uma vez a cada 1 s.",
+    "de_DE": "Wenn 'Z\u00e4hne zusammenbei\u00dfen' aktiv ist, erh\u00f6ht das Blocken eines Angriffs die Wirksamkeit des Effekts um 2.124.\r\nDieser Effekt kann nur ein Mal alle 1 Sek. auftreten.",
+    "en_GB": "Blocking an attack increases the value of an existing Ignore Pain effect by 2,124.\r\nThis can only occur once every 1 sec.",
+    "es_ES": "Bloquear un ataque aumenta 2124 p. el valor de un efecto de Ignorar dolor.\r\nSolo puede ocurrir una vez cada 1 s.",
+    "fr_FR": "Bloquer une attaque augmente de 2124 l\u2019efficacit\u00e9 de tout effet Dur au mal d\u00e9j\u00e0 actif.\r\nCet effet ne peut se produire plus d\u2019une fois toutes les 1\u00a0s.",
+    "it_IT": "Bloccare un attacco aumenta il valore di un effetto gi\u00e0 presente di Insensibilit\u00e0 di 2.124.\r\nPu\u00f2 verificarsi solo una volta ogni 1 s.",
+    "ru_RU": "\u041f\u0440\u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 \u0430\u0442\u0430\u043a\u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u0431\u044a\u0435\u043c \u0443\u0440\u043e\u043d\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d \u0443\u0436\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0439 \"\u0421\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u044c\u044e \u043a \u0431\u043e\u043b\u0438\", \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 2124.\r\n\u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 1 \u0441\u0435\u043a.",
+    "ko_KR": "\uacf5\uaca9\uc744 \ub9c9\uc73c\uba74 \uae30\uc874 \uace0\ud1b5 \uac10\ub0b4\ub85c \ud761\uc218\ud558\ub294 \ud53c\ud574\uac00 \uae30\uc874\ubcf4\ub2e4 2,124\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. 1\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u683c\u64cb\u4e00\u6b21\u653b\u64ca\uff0c\u53ef\u4f7f\u4f5c\u7528\u4e2d\u7684\u7121\u8996\u82e6\u75db\u6240\u80fd\u627f\u53d7\u7684\u50b7\u5bb3\u63d0\u9ad82,124\u9ede\u3002\r\n\u6b64\u6548\u679c\u6bcf1\u79d2\u53ea\u6703\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u683c\u6321\u653b\u51fb\u4f7f\u5df2\u5b58\u5728\u7684\u65e0\u89c6\u82e6\u75db\u7684\u4f24\u5bb3\u5438\u6536\u91cf\u63d0\u9ad82,124\u70b9\u3002\r\n\u8be5\u6548\u679c\u6bcf1\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }
