@@ -131,18 +131,8 @@ def main():
         # find Power Infusion invocation and its preceding comments
         for idx, line in enumerate(lines):
             if "invoke_external_buff,name=power_infusion" in line:
-                comments = []
-                j = idx - 1
-                while j >= 0 and lines[j].strip().startswith("#"):
-                    comment = lines[j].strip().lstrip("#").strip()
-                    comments.insert(0, comment)
-                    j -= 1    
-                explanations[key] = " ".join(comments)
-                if "wowhead" not in explanations[key]:
-                    print("No wowhead link found, using LLM to describe ", key)
-                    description = llm_describe(client, line, key.split("_")[0], key.split("_")[1])
-                    explanations[key] = description
-                print("Found Power infusion explanation for", key)    
+                description = llm_describe(client, line, key.split("_")[0], key.split("_")[1])
+                explanations[key] = description  
                 break
 
     # write to data/piExplanations.json
