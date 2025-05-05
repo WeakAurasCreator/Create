@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "248600"
+  "SpellID": "248600",
+  "name_blz": {
+    "en_US": "Schematic: Gravitational Reduction Slippers",
+    "es_MX": "Esquema: Zapatillas de reducci\u00f3n gravitacional",
+    "pt_BR": "Diagrama: Sapatilhas de Redu\u00e7\u00e3o Gravitacional",
+    "de_DE": "Bauplan: Gravitationsverringerungspantoffeln",
+    "en_GB": "Schematic: Gravitational Reduction Slippers",
+    "es_ES": "Esquema: zapatillas de reducci\u00f3n gravitacional",
+    "fr_FR": "Sch\u00e9ma\u00a0: Mules \u00e0 gravit\u00e9 r\u00e9duite",
+    "it_IT": "Schema: Stivali della Riduzione Gravitazionale",
+    "ru_RU": "\u0421\u0445\u0435\u043c\u0430: \u0430\u043d\u0442\u0438\u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0443\u0444\u043b\u0438",
+    "ko_KR": "\uc124\uacc4\ub3c4: \uc911\ub825 \uac10\uc1c4 \ub04c\uc2e0",
+    "zh_TW": "\u7d50\u69cb\u5716\uff1a\u53cd\u91cd\u529b\u978b\u5957",
+    "zh_CN": "\u7ed3\u6784\u56fe\uff1a\u51cf\u91cd\u4fbf\u978b"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to craft Gravitational Reduction Slippers.",
+    "es_MX": "Te ense\u00f1a a fabricar unas zapatillas de reducci\u00f3n gravitacional.",
+    "pt_BR": "Ensina a fazer Sapatilhas de Redu\u00e7\u00e3o Gravitacional.",
+    "de_DE": "Lehrt Euch, wie man Gravitationsverringerungspantoffeln herstellt.",
+    "en_GB": "Teaches you how to craft Gravitational Reduction Slippers.",
+    "es_ES": "Te ense\u00f1a a fabricar unas zapatillas de reducci\u00f3n gravitacional.",
+    "fr_FR": "Vous apprend \u00e0 fabriquer des mules \u00e0 gravit\u00e9 r\u00e9duite.",
+    "it_IT": "Apprendi come creare degli Stivali della Riduzione Gravitazionale.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0430\u043d\u0442\u0438\u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0443\u0444\u0435\u043b\u044c.",
+    "ko_KR": "\uc911\ub825 \uac10\uc1c4 \ub04c\uc2e0 \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u88fd\u4f5c\u53cd\u91cd\u529b\u978b\u5957\u3002",
+    "zh_CN": "\u6559\u4f1a\u4f60\u5982\u4f55\u5236\u9020\u51cf\u91cd\u4fbf\u978b\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "252573"
+  "SpellID": "252573",
+  "name_blz": {
+    "en_US": "Krokuun World Quests",
+    "es_MX": "Misiones de mundo de Krokuun",
+    "pt_BR": "Miss\u00f5es Mundiais de Krokuun",
+    "de_DE": "Weltquests von Krokuun",
+    "en_GB": "Krokuun World Quests",
+    "es_ES": "Misiones del mundo de Krokuun",
+    "fr_FR": "Exp\u00e9ditions de Krokuun",
+    "it_IT": "Missioni Mondiali di Krokuun",
+    "ru_RU": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0432 \u041a\u0440\u043e\u043a\u0443\u0443\u043d\u0435",
+    "ko_KR": "\ud06c\ub85c\ucfe0\uc6b4 \uc804\uc5ed \ud018\uc2a4\ud2b8",
+    "zh_TW": "\u514b\u5eab\u6069\u4e16\u754c\u4efb\u52d9",
+    "zh_CN": "\u514b\u7f57\u5e93\u6069\u4e16\u754c\u4efb\u52a1"
+  },
+  "description_blz": {
+    "en_US": "Unlocks access to World Quests in Krokuun.",
+    "es_MX": "Desbloquea el acceso a las misiones de mundo en Krokuun.",
+    "pt_BR": "Desbloqueia o acesso \u00e0s Miss\u00f5es Mundiais em Krokuun.",
+    "de_DE": "Schaltet Zugang zu Weltquests in Krokuun frei.",
+    "en_GB": "Unlocks access to World Quests in Krokuun.",
+    "es_ES": "Desbloquea el acceso a misiones del mundo en Krokuun.",
+    "fr_FR": "D\u00e9bloque l\u2019acc\u00e8s aux exp\u00e9ditions de Krokuun.",
+    "it_IT": "Sblocca l'accesso alle missioni mondiali a Krokuun.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u043c \u0437\u0430\u0434\u0430\u043d\u0438\u044f\u043c \u0432 \u041a\u0440\u043e\u043a\u0443\u0443\u043d\u0435.",
+    "ko_KR": "\ud06c\ub85c\ucfe0\uc6b4\uc758 \uc804\uc5ed \ud018\uc2a4\ud2b8\ub97c \uc218\ud589\ud560 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u514b\u5eab\u6069\u7684\u4e16\u754c\u4efb\u52d9\u3002",
+    "zh_CN": "\u89e3\u9501\u514b\u7f57\u5e93\u6069\u7684\u4e16\u754c\u4efb\u52a1\u3002"
+  }
 }
