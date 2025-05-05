@@ -66,6 +66,10 @@ body, html {
     align-items: center;
     margin-bottom: 1rem;
   }
+
+  #WAOptions{
+    margin-top: 2rem;
+  }
   
   .controls .btn-group {
     flex: 0 0 auto;   /* toggle only takes as much as it needs */

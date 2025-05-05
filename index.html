@@ -13,15 +13,13 @@
 	<noscript>
 		<link rel="stylesheet" href="assets/css/noscript.css" />
 	</noscript>
-	<meta name="description"
-		content="Generate WeakAuras for WoW using up-to-date data.">
+	<meta name="description" content="Generate WeakAuras for WoW using up-to-date data.">
 	<title>WeakAura Creator | Create WeakAuras in seconds</title>
 	<link rel="canonical" href="https://weakaurascreator.github.io/Create">
 	<meta name="robots" content="index, follow">
 	<!-- Open Graph -->
 	<meta property="og:title" content="WeakAura Creator | Create WeakAuras in seconds">
-	<meta property="og:description"
-		content="Generate WeakAuras for WoW using up-to-date data.">
+	<meta property="og:description" content="Generate WeakAuras for WoW using up-to-date data.">
 	<meta property="og:image" content="https://weakaurascreator.github.io/Create/favicon/web-app-manifest-512x512.png">
 	<meta property="og:url" content="https://weakaurascreator.github.io/Create">
 	<meta property="og:type" content="website">
@@ -29,8 +27,7 @@
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="WeakAura Creator | Create WeakAuras in seconds">
-	<meta name="twitter:description"
-		content="Generate WeakAuras for WoW using up-to-date data.">
+	<meta name="twitter:description" content="Generate WeakAuras for WoW using up-to-date data.">
 	<meta name="twitter:image" content="https://weakaurascreator.github.io/Create/favicon/web-app-manifest-512x512.png">
 
 	<link rel="icon" type="image/png" href="favicon/favicon-96x96.png" sizes="96x96" />
@@ -65,7 +62,7 @@
 			</div>
 			<nav>
 				<ul>
-					
+
 					<li><a href="#wizard">Wizard</a></li>
 					<li><a href="#encounter">Boss</a></li>
 					<li><a href="#powerInfusion">Pi WA</a></li>
@@ -89,7 +86,7 @@
 				<div class="container mt-5" data-bs-theme="dark">
 					<h1>WeakAura Generator</h1>
 					<p></p>
-			
+
 					<form id="WeakAuraForm">
 						<div class="form-group">
 							<label for="auraType">Aura Type:</label>
@@ -123,7 +120,7 @@
 							<label for="trigger">Trigger:</label>
 							<select id="trigger" class="form-control" onchange="handleTriggerChange()">
 								<option value="encounterTime">Encounter Time</option>
-			
+
 							</select>
 						</div>
 						<div class="form-group" id="encounterTimeField" style="display: block;">
@@ -137,19 +134,22 @@
 						<div class="form-group">
 							<label for="encounterPicker" class="form-label">Encounter:</label>
 							<div class="multi-select-container" data-bs-theme="dark">
-								<select id="encounterPicker" data-style="btn-dark" class="selectpicker" data-live-search="true" multiple
-									title="Select Encounter(s)..." data-selected-text-format="count">
+								<select id="encounterPicker" data-style="btn-dark" class="selectpicker"
+									data-live-search="true" multiple title="Select Encounter(s)..."
+									data-selected-text-format="count">
 								</select>
 							</div>
 						</div>
-						<button type="button" class="btn btn-primary" onclick="generateWeakAura()">Generate WeakAura</button>
+						<button type="button" class="btn btn-primary" onclick="generateWeakAura()">Generate
+							WeakAura</button>
 					</form>
-			
+
 					<div class="mt-4">
 						<label for="encounterOutput">Output:</label>
 						<textarea id="encounterOutput" class="form-control" rows="5" readonly></textarea>
 					</div>
-					<button id="encounterCopyButton" onclick="copyToClipboard('encounterOutput')" class="btn btn-success" disabled>Copy to Clipboard</button>
+					<button id="encounterCopyButton" onclick="copyToClipboard('encounterOutput')"
+						class="btn btn-success" disabled>Copy to Clipboard</button>
 				</div>
 			</article>
 			<article id="piSimModal" aria-labelledby="simReportModalLabel">
@@ -163,104 +163,152 @@
 					<h6>With Power Infusion</h6>
 					<iframe id="reportWithPi" src="" style="width:100%; height:80vh; border:none;"></iframe>
 				</div>
-		</article>
-		<!-- Power Infusion -->
-		<article id="powerInfusion">
-			<h2 class="major">Power Infusion</h2>
+			</article>
+			<!-- Power Infusion -->
+			<article id="powerInfusion">
+				<h2 class="major">Power Infusion</h2>
 
-
-			<div class="container mt-5">
-				<h1>DPS Gains from Power Infusion</h1>
-				<div class="controls">
-					<label for="targetSelect">Select Target Count:</label>
-					<select id="targetSelect" data-style="btn-dark" class="selectpicker" title="Select Target Count">
-					</select>
-				</div>
-				<div class="chart-wrapper">
-					<canvas id="dpsChart"></canvas>
-				</div>
-				<h2> WeakAura Options</h2>
-				<div class="controls mb-3">
-					<div class="btn-group me-3" role="group" id="mode-selector" aria-label="Mode">
-						<input type="radio" class="btn-check" name="mode" id="modeSingle" autocomplete="off"
-							value="single" checked>
-						<label class="btn btn-outline-secondary" for="modeSingle">Unified</label>
-						<input type="radio" class="btn-check" name="mode" id="modeDual" autocomplete="off" value="dual">
-						<label class="btn btn-outline-secondary" for="modeDual">Separated</label>
+				<div class="container mt-5">
+					<h1>DPS Gains from Power Infusion</h1>
+					<div class="controls">
+						<label for="targetSelect">Select Target Count:</label>
+						<select id="targetSelect" data-style="btn-dark" class="selectpicker"
+							title="Select Target Count">
+						</select>
 					</div>
-					<div id="selectWrapper">
-						<div id="singleSelectWrapper" class="selector-row">
-							<label for="targetSelectOverall" class="mb-0">Targets:</label>
-							<select id="targetSelectOverall" data-style="btn-dark" class="selectpicker"
-								title="Select Target Count"></select>
+					<div class="chart-wrapper">
+						<canvas id="dpsChart"></canvas>
+					</div>
+					<a href="#pi-sim-explanation" style="display: block; float: right;">See How It’s Calculated</a>
+					<h2 id="WAOptions"> WeakAura Options</h2>
+					<div class="controls mb-3">
+						<div class="btn-group me-3" role="group" id="mode-selector" aria-label="Mode">
+							<input type="radio" class="btn-check" name="mode" id="modeSingle" autocomplete="off"
+								value="single" checked>
+							<label class="btn btn-outline-secondary" for="modeSingle">Unified</label>
+							<input type="radio" class="btn-check" name="mode" id="modeDual" autocomplete="off"
+								value="dual">
+							<label class="btn btn-outline-secondary" for="modeDual">Separated</label>
 						</div>
+						<div id="selectWrapper">
+							<div id="singleSelectWrapper" class="selector-row">
+								<label for="targetSelectOverall" class="mb-0">Targets:</label>
+								<select id="targetSelectOverall" data-style="btn-dark" class="selectpicker"
+									title="Select Target Count"></select>
+							</div>
 
-						<div id="dualSelectWrapper" class="d-none selector-row">
-							<label for="targetSelectBoss" class="mb-0">Boss:</label>
-							<select id="targetSelectBoss" data-style="btn-dark" class="selectpicker"
-								title="Boss Target (s)"></select>
-							<label for="targetSelectTrash" class="mb-0">Trash:</label>
-							<select id="targetSelectTrash" data-style="btn-dark" class="selectpicker"
-								title="Trash Target (s)"></select>
+							<div id="dualSelectWrapper" class="d-none selector-row">
+								<label for="targetSelectBoss" class="mb-0">Boss:</label>
+								<select id="targetSelectBoss" data-style="btn-dark" class="selectpicker"
+									title="Boss Target (s)"></select>
+								<label for="targetSelectTrash" class="mb-0">Trash:</label>
+								<select id="targetSelectTrash" data-style="btn-dark" class="selectpicker"
+									title="Trash Target (s)"></select>
+							</div>
 						</div>
 					</div>
+					<button type="button" class="btn btn-outline" onclick="generatePiAura()">Generate WeakAura</button>
+
+
+
+					<div class="mt-4 mb-3">
+						<label for="piOutput">Output:</label>
+						<textarea id="piOutput" class="form-control" rows="5" readonly></textarea>
+					</div>
+					<button id="piCopyButton" onclick="copyToClipboard('piOutput')" class="btn btn-outline"
+						disabled>Copy to
+						Clipboard</button>
 				</div>
-				<button type="button" class="btn btn-outline" onclick="generatePiAura()">Generate WeakAura</button>
 
-
-
-				<div class="mt-4 mb-3">
-					<label for="piOutput">Output:</label>
-					<textarea id="piOutput" class="form-control" rows="5" readonly></textarea>
+				<div class="container mt-5">
+					<h2>Power Infusion Explanations</h2>
+					<input id="piFilter" class="form-control mb-3" placeholder="Filter specs…">
+					<div class="accordion" id="piAccordion"></div>
+					<div class="disclaimer">
+						<p><strong>Disclaimer:</strong> The explanations shown here are extracted directly from
+							SimulationCraft APL logic and translated into human-readable form using the Deepseek R1
+							large language model.</p>
+						<p>As with any automatically generated guidance, these recommendations should be used with care
+							and always cross-checked against the official class guides and other authoritative sources
+							for your specialization.</p>
+						<p>While we strive for accuracy, the model may misunderstand complex conditional logic—please
+							verify each suggestion before use.</p>
+					</div>
 				</div>
-				<button id="piCopyButton" onclick="copyToClipboard('piOutput')" class="btn btn-outline" disabled>Copy to
-					Clipboard</button>
-			</div>
+			</article>
 
-			<div class="container mt-5">
-				<h2>Power Infusion Explanations</h2>
-				<input id="piFilter" class="form-control mb-3" placeholder="Filter specs…">
-				<div class="accordion" id="piAccordion"></div>
-				<div class="disclaimer">
-					<p><strong>Disclaimer:</strong> The explanations shown here are extracted directly from SimulationCraft APL logic and translated into human-readable form using the Deepseek R1 large language model.</p>
-					<p>As with any automatically generated guidance, these recommendations should be used with care and always cross-checked against the official class guides and other authoritative sources for your specialization.</p>
-					<p>While we strive for accuracy, the model may misunderstand complex conditional logic—please verify each suggestion before use.</p>
-				</div>
-			</div>
-		</article>
-		<!-- Contact -->
-		<article id="support">
-			<h2 class="major">Support</h2>
-			<p> If you want to support the devlopment of this page you can do so through.</p>
-			<ul class="icons">
-				<li><a href="https://www.paypal.com/donate/?hosted_button_id=PSQ4D3HXNZKMG" target="_blank" class="icon brands fa-paypal"><span class="label">Paypal</span></a></li>
-				<li><a href="https://ko-fi.com/jodsderechte" target="_blank" class="icon brands fa-patreon"><span class="label">GitHub</span></a></li>
-			</ul>
-			<p> If you have any suggestions or Feedback feel free to reach out through</p>
-			<ul class="icons">
-				<li><a href="https://discord.gg/v3gYmYamGJ" target="_blank" class="icon brands fa-discord"><span class="label">Discord</span></a></li>
-				<li><a href="https://github.com/WeakAurasCreator/Create" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-			</ul>
-		</article>
+			<article id="pi-sim-explanation">
+				<h2>How “PI Gain” Is Generated</h2>
 
-	</div>
+				<p>We measure the benefit of <strong>Power Infusion</strong> by running two identical simulations. Once
+					with PI and once without using live talent data from Warcraft Logs. Single-target sims use raid boss
+					talent choices, while multi-target sims use Mythic + dungeon talent choices, so each run reflects
+					current top-player specs.</p>
 
-	<!-- Footer -->
-	<footer id="footer">
-		<p class="copyright">&copy; WeakAuras Creator. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-		<p class="copyright">
-			World of Warcraft and Warcraft are trademarks or registered trademarks of Blizzard Entertainment, Inc. 
-		</p>
-		<p class="copyright">
-			Trademarks are the property of their respective owners. 
-		</p>
-		<p class="copyright">
-			Game materials copyright Blizzard Entertainment. 
-		</p>
-		<p class="copyright">
-			Blizzard Entertainment has not endorsed and is not responsible for this site or its content.
-		</p>
-	</footer>
+				<h3>Step 1: Talent Selection</h3>
+				<p>For every class and spec, we pull the most popular talent builds directly from Warcraft Logs. Raid
+					logs drive single-target setups while Mythic + logs drive multi-target setups, ensuring the
+					simulations match the current meta.</p>
+
+				<h3>Step 2: Dual Simulation Runs</h3>
+				<ul>
+					<li><strong>Baseline Run:</strong> The profile is executed as-is, yielding a “DPS without PI” value.
+					</li>
+					<li><strong>Buffed Run:</strong> The same profile is executed again with <strong>Power
+							Infusion</strong> applied once, yielding “DPS with PI.”</li>
+				</ul>
+
+				<h3>Step 3: Calculating the Gain</h3>
+				<p>We take the two DPS figures, compute their difference (DPS with PI minus DPS without PI). This
+					isolates the exact impact of Power Infusion under real-world talent choices.</p>
+
+				<h3>Why It Matters</h3>
+				<p>This approach keeps everything except Power Infusion constant. Gear, fight length, rotation logic and
+					target count remain the same. The result is a transparent, reproducible measure of what Power
+					Infusion truly contributes in today’s raid and Mythic + environments.</p>
+
+				<blockquote>Feel free to compare the PI Gain values yourself by hovering or clicking on each bar. Each
+					data point is fully interactive. When you click a bar, you’ll see the complete simulation details,
+					allowing you to review the exact DPS figures and talent setup behind every result.</blockquote>
+			</article>
+
+			<!-- Contact -->
+			<article id="support">
+				<h2 class="major">Support</h2>
+				<p> If you want to support the devlopment of this page you can do so through.</p>
+				<ul class="icons">
+					<li><a href="https://www.paypal.com/donate/?hosted_button_id=PSQ4D3HXNZKMG" target="_blank"
+							class="icon brands fa-paypal"><span class="label">Paypal</span></a></li>
+					<li><a href="https://ko-fi.com/jodsderechte" target="_blank" class="icon brands fa-patreon"><span
+								class="label">GitHub</span></a></li>
+				</ul>
+				<p> If you have any suggestions or Feedback feel free to reach out through</p>
+				<ul class="icons">
+					<li><a href="https://discord.gg/v3gYmYamGJ" target="_blank" class="icon brands fa-discord"><span
+								class="label">Discord</span></a></li>
+					<li><a href="https://github.com/WeakAurasCreator/Create" target="_blank"
+							class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+				</ul>
+			</article>
+
+		</div>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<p class="copyright">&copy; WeakAuras Creator. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+			<p class="copyright">
+				World of Warcraft and Warcraft are trademarks or registered trademarks of Blizzard Entertainment, Inc.
+			</p>
+			<p class="copyright">
+				Trademarks are the property of their respective owners.
+			</p>
+			<p class="copyright">
+				Game materials copyright Blizzard Entertainment.
+			</p>
+			<p class="copyright">
+				Blizzard Entertainment has not endorsed and is not responsible for this site or its content.
+			</p>
+		</footer>
 
 	</div>
 
