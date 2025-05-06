@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "357495"
+  "SpellID": "357495",
+  "name_blz": {
+    "en_US": "Perpetual Paralysis",
+    "es_MX": "Par\u00e1lisis perpetua",
+    "pt_BR": "Paralisia Perp\u00e9tua",
+    "de_DE": "Anhaltende Paralyse",
+    "en_GB": "Perpetual Paralysis",
+    "es_ES": "Par\u00e1lisis perpetua",
+    "fr_FR": "Paralysie perp\u00e9tuelle",
+    "it_IT": "Paralisi Perpetua",
+    "ru_RU": "\u041f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0430\u043b\u0438\u0447",
+    "ko_KR": "\uc601\uc18d\uc801\uc778 \ub9c8\ube44",
+    "zh_TW": "\u9023\u9396\u9ebb\u75fa",
+    "zh_CN": "\u9519\u9aa8\u4e4b\u52ab"
+  },
+  "description_blz": {
+    "en_US": "Paralysis range reduced by 5 yards, but spreads to 2 new enemies when removed.",
+    "es_MX": "Se reduce el alcance de Par\u00e1lisis 5 m, pero cuando se elimina, se propaga y afecta a 2 enemigos nuevos.",
+    "pt_BR": "Alcance de Paralisia reduzido em 5 m, mas ela se espalha para 2 novos inimigos ao ser removida.",
+    "de_DE": "Verringert die Reichweite von 'Paralyse' um 5 Meter, aber der Effekt springt auf 2 weitere Gegner \u00fcber, wenn er entfernt wird.",
+    "en_GB": "Paralysis range reduced by 5 yards, but spreads to 2 new enemies when removed.",
+    "es_ES": "El alcance de Par\u00e1lisis se reduce 5 m, pero se extiende a 2 nuevos enemigos cuando se elimina.",
+    "fr_FR": "La port\u00e9e de Paralysie est r\u00e9duite de 5\u00a0m\u00e8tres, mais elle se propage \u00e0 2\u00a0nouveaux ennemis lorsque l\u2019effet est dissip\u00e9.",
+    "it_IT": "Riduce la portata di Paralisi di 5 m, ma l'effetto si diffonde su 2 nuovi nemici quando viene dissolto.",
+    "ru_RU": "\u0420\u0430\u0434\u0438\u0443\u0441 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041f\u0430\u0440\u0430\u043b\u0438\u0447\u0430\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5 \u043c, \u043d\u043e \u043f\u0440\u0438 \u0441\u043d\u044f\u0442\u0438\u0438 \u043e\u043d \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0435\u0449\u0435 \u043d\u0430 2 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432.",
+    "ko_KR": "\ub9c8\ube44\uc758 \uc0ac\uc815\uac70\ub9ac\uac00 5\ubbf8\ud130\ub9cc\ud07c \uac10\uc18c\ud558\uc9c0\ub9cc, \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9c8 \ub54c 2\uba85\uc758 \uc0c8\ub85c\uc6b4 \uc801\uc5d0\uac8c \uc804\uc774\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u9ede\u7a74\u8ddd\u96e2\u964d\u4f4e5\u78bc\uff0c\u4f46\u662f\u6703\u5728\u6548\u679c\u79fb\u9664\u6642\u64f4\u6563\u81f3\u9644\u8fd16\u78bc\u5167\u76842\u500b\u65b0\u76ee\u6a19\u3002",
+    "zh_CN": "\u5206\u7b4b\u9519\u9aa8\u7684\u8ddd\u79bb\u51cf\u5c0f5\u7801\uff0c\u4f46\u4ece\u76ee\u6807\u8eab\u4e0a\u79fb\u9664\u65f6\u4f1a\u6269\u6563\u52302\u540d\u65b0\u7684\u654c\u4eba\u8eab\u4e0a\u3002"
+  }
 }

@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364610"
+  "SpellID": "364610",
+  "name_blz": {
+    "en_US": "[DND] Upgrades - Talent - Interface 1 - Supportive Coroutine - Rank 2",
+    "en_GB": "[DND] Upgrades - Talent - Interface 1 - Supportive Coroutine - Rank 2"
+  },
+  "description_blz": {
+    "en_US": "Upgrades Pocopoc's Supportive ability, Restorative Light, to also cause Light Barrier.\r\n\r\nLight Barrier:\r\nPocopoc forms a light barrier around you, absorbing 90,340 damage for 10 sec.",
+    "es_MX": "Mejora la habilidad de apoyo de Pocopoc Luz restauradora para que tambi\u00e9n provoque Barrera de luz.\r\n\r\nBarrera de luz:\r\nPocopoc forma una barrera de luz a tu alrededor que absorbe 90,340 p. de da\u00f1o durante 10 s.",
+    "pt_BR": "Aprimora a habilidade de Suporte da Pocopoc, Luz Restaurativa, que passa a lan\u00e7ar Barreira de Luz.\r\n\r\nBarreira de Luz:\r\nPocopoc forma ao redor de voc\u00ea uma barreira de luz que absorve 90.340 de dano por 10 s.",
+    "de_DE": "Wertet Pocopocs Unterst\u00fctzungsf\u00e4higkeit 'Erholsames Licht' auf, sodass sie auch 'Lichtbarriere' ausl\u00f6st.\r\n\r\nLichtbarriere:\r\nPocopoc erschafft eine Lichtbarriere um Euch, die 10 Sek. lang bestehen bleibt und 90.340 Schaden absorbiert.",
+    "en_GB": "Upgrades Pocopoc's Supportive ability, Restorative Light, to also cause Light Barrier.\r\n\r\nLight Barrier:\r\nPocopoc forms a light barrier around you, absorbing 90,340 damage for 10 sec.",
+    "es_ES": "Mejora la facultad de apoyo de Pocopoc, Luz restauradora, para que aplique tambi\u00e9n Barrera lum\u00ednica.\r\n\r\nBarrera lum\u00ednica:\r\nPocopoc levanta una barrera lum\u00ednica a tu alrededor que absorbe 90340 p. de da\u00f1o durante 10 s.",
+    "fr_FR": "Am\u00e9liore la technique d\u2019assistance Lumi\u00e8re revitalisante de Pocopoc et lui permet de d\u00e9clencher \u00e9galement Barri\u00e8re de lumi\u00e8re.\r\n\r\nBarri\u00e8re de lumi\u00e8re\u00a0:\r\nPocopoc forme autour de vous une barri\u00e8re lumineuse qui dure 10 s et absorbe 90340\u00a0points de d\u00e9g\u00e2ts.",
+    "it_IT": "Potenzia l'abilit\u00e0 di supporto di Pocopoc, Luce Rigenerante, in modo che attivi anche Barriera di Luce.\r\n\r\nBarriera di Luce:\r\nPocopoc crea una barriera di luce attorno a te, assorbendo 90.340 danni subiti per 10 s.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u041f\u043e\u043a\u043e\u043f\u043e\u043a\u0430 \"\u0418\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0439 \u0421\u0432\u0435\u0442\" \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0411\u0430\u0440\u044c\u0435\u0440 \u0438\u0437 \u0441\u0432\u0435\u0442\u0430\".\r\n\r\n\u0411\u0430\u0440\u044c\u0435\u0440 \u0438\u0437 \u0441\u0432\u0435\u0442\u0430:\r\n\u041f\u043e\u043a\u043e\u043f\u043e\u043a \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0432\u043e\u043a\u0440\u0443\u0433 \u0432\u0430\u0441 \u0431\u0430\u0440\u044c\u0435\u0440 \u0421\u0432\u0435\u0442\u0430, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 90340 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 10 \u0441\u0435\u043a.",
+    "ko_KR": "\ud3ec\ucf54\ud3ed\uc758 \uc9c0\uc6d0 \uae30\uc220 \ud68c\ubcf5\uc758 \ube5b\ub97c \uac15\ud654\ud558\uc5ec \ucd94\uac00\ub85c \ube5b \ubc29\ubcbd\ub97c \uc218\ud589\ud558\uac8c \ud569\ub2c8\ub2e4.\r\n\r\n\ube5b \ubc29\ubcbd:\r\n\ud3ec\ucf54\ud3ed\uc774 \uc2dc\uc804\uc790 \uc8fc\uc704\uc5d0 \ube5b \ubc29\ubcbd\uc744 \ud615\uc131\ud558\uc5ec 10\ucd08 \ub3d9\uc548 90,340\uc758 \ud53c\ud574\ub97c \ud761\uc218\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5347\u7d1a\u6ce2\u514b\u6ce2\u53ef\u7684\u8f14\u52a9\u6280\u80fd\u6ecb\u88dc\u4e4b\u5149\u4e5f\u6703\u767c\u52d5\u5149\u4e4b\u5c4f\u969c\u3002\r\n\r\n\u5149\u4e4b\u5c4f\u969c\uff1a\r\n\u6ce2\u514b\u6ce2\u53ef\u5728\u4f60\u5468\u570d\u5f62\u6210\u5149\u4e4b\u5c4f\u969c\uff0c\u5438\u653690,340\u9ede\u50b7\u5bb3\uff0c\u6301\u7e8c10\u79d2\u3002",
+    "zh_CN": "\u5347\u7ea7\u6ce2\u53ef\u6ce2\u514b\u7684\u652f\u63f4\u6280\u80fd\u6108\u5408\u4e4b\u5149\uff0c\u73b0\u5728\u8fd8\u4f1a\u9020\u6210\u5723\u5149\u5c4f\u969c\u6548\u679c\u3002\r\n\r\n\u5723\u5149\u5c4f\u969c:\r\n\u6ce2\u53ef\u6ce2\u514b\u5728\u4f60\u5468\u56f4\u5f62\u6210\u5149\u4e4b\u5c4f\u969c\uff0c\u5438\u653690,340\u70b9\u4f24\u5bb3\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }

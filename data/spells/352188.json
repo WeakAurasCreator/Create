@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "352188"
+  "SpellID": "352188",
+  "name_blz": {
+    "en_US": "Effusive Anima Accelerator",
+    "es_MX": "Acelerador de \u00e1nima efusivo",
+    "pt_BR": "Acelerador de \u00c2nima Efusivo",
+    "de_DE": "Auslaufender Animabeschleuniger",
+    "en_GB": "Effusive Anima Accelerator",
+    "es_ES": "Acelerador de \u00e1nima expansivo",
+    "fr_FR": "Acc\u00e9l\u00e9rateur d\u2019anima jaillissant",
+    "it_IT": "Acceleratore d'Animum Effusivo",
+    "ru_RU": "\u0411\u0443\u0440\u043d\u044b\u0439 \u0430\u043a\u0441\u0435\u043b\u0435\u0440\u0430\u0442\u043e\u0440 \u0430\u043d\u0438\u043c\u044b",
+    "ko_KR": "\ubd84\ucd9c\uc131 \ub839 \uac00\uc18d\uae30",
+    "zh_TW": "\u6eff\u6ea2\u9748\u9b44\u52a0\u901f\u5668",
+    "zh_CN": "\u6ea2\u6d41\u5fc3\u80fd\u52a0\u901f\u5668"
+  },
+  "description_blz": {
+    "en_US": "Radiant Spark releases a blast of overcharged anima at your target's location, dealing 6,748 Arcane damage split evenly between all targets over 8 sec.\r\n\r\nReduce the cooldown of Radiant Spark by 2 sec per affected enemy, to a maximum of 10 sec.",
+    "es_MX": "Chispa radiante libera una descarga de \u00e1nima sobrecargada en la ubicaci\u00f3n de tu objetivo, lo que inflige 6,748 p. de da\u00f1o arcano dividido en partes iguales entre todos los objetivos durante 8 s.\r\n\r\nReduce el tiempo de reutilizaci\u00f3n de Chispa radiante 2 s por cada enemigo afectado, hasta un m\u00e1ximo de 10 s.",
+    "pt_BR": "Fagulha Radiante provoca um estouro sobrecarregado de \u00e2nima onde o alvo estiver, causando 6.748 de dano Arcano dividido igualmente entre todos os alvos ao longo de 8 s.\r\n\r\nReduz a recarga de Fagulha Radiante em 2 s por inimigo afetado, at\u00e9 um m\u00e1ximo de 10 s.",
+    "de_DE": "Wenn Ihr 'Strahlender Funke' aktiviert, wird eine Explosion \u00fcberladener Anima an der Position Eures Ziels entfesselt, die \u00fcber 8 Sek. 6.748 gleichm\u00e4\u00dfig aufgeteilten Arkanschaden verursacht.\r\n\r\nVerringert die Abklingzeit von 'Strahlender Funke' pro getroffenem Gegner um 2 Sek., bis zu maximal 10 Sek.",
+    "en_GB": "Radiant Spark releases a blast of overcharged anima at your target's location, dealing 6,748 Arcane damage split evenly between all targets over 8 sec.\r\n\r\nReduce the cooldown of Radiant Spark by 2 sec per affected enemy, to a maximum of 10 sec.",
+    "es_ES": "Chispa radiante libera una explosi\u00f3n de \u00e1nima sobrecargada en la ubicaci\u00f3n del objetivo, lo que inflige 6748 p. de da\u00f1o Arcano divididos a partes iguales entre todos los objetivos durante 8 s.\r\n\r\nReduce 2 s el tiempo de reutilizaci\u00f3n de Chispa radiante por cada enemigo afectado, hasta un m\u00e1ximo de 10 s.",
+    "fr_FR": "\u00c9tincelle radieuse lib\u00e8re une explosion d\u2019anima \u00e0 l\u2019emplacement de la cible, ce qui inflige 6748\u00a0points de d\u00e9g\u00e2ts des arcanes r\u00e9partis \u00e9quitablement entre toutes les cibles en 8 s.\r\n\r\nR\u00e9duit le temps de recharge \u00c9tincelle radieuse de 2\u00a0s par adversaire touch\u00e9, jusqu\u2019\u00e0 un maximum de 10\u00a0s.",
+    "it_IT": "Lanciare Scintilla Radiante scatena un'esplosione di Animum sovraccarico sulla posizione del bersaglio, infliggendo 6.748 danni da arcano suddivisi equamente tra tutti i bersagli in 8 s.\r\n\r\nRiduce il tempo di recupero di Scintilla Radiante di 2 s per ogni nemico affetto, fino a una massimo di 10 s.",
+    "ru_RU": "\"\u0421\u0438\u044f\u044e\u0449\u0430\u044f \u0438\u0441\u043a\u0440\u0430\" \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432 \u0442\u043e\u0447\u043a\u0435 \u043f\u0440\u0435\u0431\u044b\u0432\u0430\u043d\u0438\u044f \u0446\u0435\u043b\u0438 \u0437\u0430\u0440\u044f\u0434 \u043f\u0435\u0440\u0435\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u043e\u0439 \u0430\u043d\u0438\u043c\u044b, \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 6748 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 (\u044d\u0442\u043e\u0442 \u0443\u0440\u043e\u043d \u043f\u043e\u0440\u043e\u0432\u043d\u0443 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0438\u0441\u044f \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0446\u0435\u043b\u044f\u043c\u0438).\r\n\r\n\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0421\u0438\u044f\u044e\u0449\u0435\u0439 \u0438\u0441\u043a\u0440\u044b\" \u043d\u0430 2 \u0441\u0435\u043a. \u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 10 \u0441\u0435\u043a.",
+    "ko_KR": "\ube5b\ub098\ub294 \ubd88\uaf43 \ud65c\uc131\ud654 \uc2dc \ub300\uc0c1\uc758 \uc704\uce58\uc5d0 \uacfc\ucda9\uc804\ub41c \ub839\uc744 \ubc29\ucd9c\ud558\uc5ec \ubaa8\ub4e0 \ub300\uc0c1\uc5d0\uac8c 8\ucd08\uc5d0 \uac78\uccd0 6,748\uc758 \ube44\uc804 \ud53c\ud574\ub97c \ub098\ub204\uc5b4 \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc601\ud5a5\uc744 \ubc1b\ub294 \uc801 \ud558\ub098\ub2f9 \ube5b\ub098\ub294 \ubd88\uaf43\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c, \ucd5c\ub300 10\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7480\u74a8\u661f\u706b\u6703\u671d\u76ee\u6a19\u4f4d\u7f6e\u91cb\u653e\u4e00\u9053\u8d85\u8f09\u7684\u9748\u9b44\uff0c\u57288\u79d2\u5167\u9020\u62106,748\u9ede\u79d8\u6cd5\u50b7\u5bb3\uff0c\u7531\u6240\u6709\u76ee\u6a19\u5e73\u5747\u5206\u6524\u3002\r\n\r\n\u6bcf\u500b\u53d7\u5f71\u97ff\u7684\u6575\u4eba\u4f7f\u7480\u74a8\u661f\u706b\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\uff0c\u6700\u591a\u53ef\u7e2e\u77ed10\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u7480\u74a8\u706b\u82b1[\u4f60\u7684\u683c\u91cc\u6069\u804c\u4e1a\u6cd5\u672f]\u65f6\uff0c\u5c06\u5411\u76ee\u6807\u4f4d\u7f6e\u91ca\u653e\u4e00\u80a1\u8fc7\u8f7d\u7684\u5fc3\u80fd\u51b2\u51fb\uff0c\u57288\u79d2\u5185\u9020\u62106,748\u70b9\u5965\u672f\u4f24\u5bb3\uff0c\u7531\u6240\u6709\u76ee\u6807\u5206\u644a\u3002\r\n\r\n\u6bcf\u5bf9\u4e00\u540d\u654c\u4eba\u9020\u6210\u5f71\u54cd\uff0c\u4fbf\u4f7f\u4f60\u7684\u7480\u74a8\u706b\u82b1[\u683c\u91cc\u6069\u804c\u4e1a\u6cd5\u672f]\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\uff0c\u6700\u591a\u7f29\u77ed10\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "346021"
+  "SpellID": "346021",
+  "name_blz": {
+    "en_US": "Boneshatter Armor Recipes",
+    "es_MX": "Recetas de armadura de triturahuesos",
+    "pt_BR": "Instru\u00e7\u00f5es de Armadura de Tritura-ossos",
+    "de_DE": "Muster: Knochenschmetternde R\u00fcstung",
+    "en_GB": "Boneshatter Armor Recipes",
+    "es_ES": "Recetas de armadura de triturahuesos",
+    "fr_FR": "Patrons d\u2019armure fracasse-os",
+    "it_IT": "Ricette d'Armatura Spaccaossa",
+    "ru_RU": "\u0427\u0435\u0440\u0442\u0435\u0436\u0438 \u0434\u043e\u0441\u043f\u0435\u0445\u043e\u0432 \u043a\u043e\u0441\u0442\u0435\u0434\u0440\u043e\u0431\u0438\u0442\u0435\u043b\u044f",
+    "ko_KR": "\uae30\uace8\ubd84\uc1c4 \ubc29\uc5b4\uad6c \uc81c\uc870\ubc95",
+    "zh_TW": "\u788e\u9aa8\u8b77\u7532\u5716\u6a23",
+    "zh_CN": "\u788e\u9aa8\u62a4\u7532\u56fe\u7eb8"
+  },
+  "description_blz": {
+    "en_US": "Unlock the Boneshatter Armor recipes at your trainer in Oribos.",
+    "es_MX": "Desbloquea las recetas de armadura de triturahuesos en Oribos con tu instructor.",
+    "pt_BR": "Desbloqueia as instru\u00e7\u00f5es de Armadura Tritura-ossos no seu treinador em Oribos.",
+    "de_DE": "Schaltet die Muster f\u00fcr knochenschmetternde R\u00fcstung bei Eurem Lehrer in Oribos frei.",
+    "en_GB": "Unlock the Boneshatter Armor recipes at your trainer in Oribos.",
+    "es_ES": "Desbloquea las recetas de la armadura de triturahuesos con tu instructor de Oribos.",
+    "fr_FR": "Permet de d\u00e9bloquer les patrons d\u2019armure fracasse-os aupr\u00e8s de votre ma\u00eetre \u00e0 Oribos.",
+    "it_IT": "Sblocca le Ricette d'Armatura Spaccaossa dall'istruttore a Oribos.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u043d\u0430\u0441\u0442\u0430\u0432\u043d\u0438\u043a\u0443 \u0432 \u041e\u0440\u0438\u0431\u043e\u0441\u0435 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0447\u0435\u0440\u0442\u0435\u0436\u0430\u043c \u0434\u043e\u0441\u043f\u0435\u0445\u043e\u0432 \u043a\u043e\u0441\u0442\u0435\u0434\u0440\u043e\u0431\u0438\u0442\u0435\u043b\u044f.",
+    "ko_KR": "\uc624\ub9ac\ubcf4\uc2a4\uc5d0 \uc788\ub294 \uc804\ubb38 \uad50\uad00\uc5d0\uac8c\uc11c \uae30\uace8\ubd84\uc1c4 \ubc29\uc5b4\uad6c \uc81c\uc870\ubc95\uc744 \uc7a0\uae08 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u627e\u5967\u777f\u535a\u53f8\u7684\u8a13\u7df4\u5e2b\u89e3\u9396\u788e\u9aa8\u8b77\u7532\u5716\u6a23\u3002",
+    "zh_CN": "\u5728\u5965\u5229\u6ce2\u65af\u7684\u8bad\u7ec3\u5e08\u5904\u89e3\u9501\u788e\u9aa8\u62a4\u7532\u56fe\u7eb8\u3002"
+  }
 }

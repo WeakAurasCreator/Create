@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364438"
+  "SpellID": "364438",
+  "name_blz": {
+    "en_US": "Deadly Dance",
+    "es_MX": "Danza mort\u00edfera",
+    "pt_BR": "Dan\u00e7a Mortal",
+    "de_DE": "T\u00f6dlicher Tanz",
+    "en_GB": "Deadly Dance",
+    "es_ES": "Danza letal",
+    "fr_FR": "Danse mortelle",
+    "it_IT": "Ballo Letale",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u044b\u0439 \u0442\u0430\u043d\u0435\u0446",
+    "ko_KR": "\uce58\uba85\uc801\uc778 \ucda4",
+    "zh_TW": "\u81f4\u547d\u4e4b\u821e",
+    "zh_CN": "\u81f4\u547d\u821e\u6b65"
+  },
+  "description_blz": {
+    "en_US": "Increases Blade Dance and Chaos Strike damage by 20%.",
+    "es_MX": "Aumenta un 20% el da\u00f1o de Danza de hojas y Golpe de caos.",
+    "pt_BR": "Aumenta em 20% o dano de Dan\u00e7a de L\u00e2minas e Golpe do Caos.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Klingentanz' und 'Chaossto\u00df' um 20%.",
+    "en_GB": "Increases Blade Dance and Chaos Strike damage by 20%.",
+    "es_ES": "Aumenta un 20% el da\u00f1o de Danza de hojas y Golpe de caos.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de Danse des lames et Frappe du chaos de 20%.",
+    "it_IT": "Aumenta i danni inflitti da Lame Danzanti e Assalto del Caos del 20%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0422\u0430\u043d\u0446\u0430 \u043a\u043b\u0438\u043d\u043a\u043e\u0432\" \u0438 \"\u0423\u0434\u0430\u0440\u0430 \u0425\u0430\u043e\u0441\u0430\" \u043d\u0430 20%.",
+    "ko_KR": "\uce7c\ucda4 \ubc0f \ud63c\ub3c8\uc758 \uc77c\uaca9\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u528d\u5203\u4e4b\u821e\u548c\u6df7\u6c8c\u4e4b\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u5203\u821e\u548c\u6df7\u4e71\u6253\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad820%\u3002"
+  }
 }

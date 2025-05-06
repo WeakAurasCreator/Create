@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364383"
+  "SpellID": "364383",
+  "name_blz": {
+    "en_US": "Arctic Assault",
+    "es_MX": "Ataque \u00e1rtico",
+    "pt_BR": "Ataque \u00c1rtico",
+    "de_DE": "Arktischer Angriff",
+    "en_GB": "Arctic Assault",
+    "es_ES": "Asalto \u00e1rtico",
+    "fr_FR": "Assaut arctique",
+    "it_IT": "Assalto Artico",
+    "ru_RU": "\u0410\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0430\u0442\u0430\u043a\u0430",
+    "ko_KR": "\ubd81\uadf9\uc758 \ub9f9\uacf5",
+    "zh_TW": "\u9177\u5bd2\u4e4b\u64ca",
+    "zh_CN": "\u6781\u5730\u7a81\u88ad"
+  },
+  "description_blz": {
+    "en_US": "Remorseless Winter grants 8% Critical Strike while active.\r\n\r\n",
+    "es_MX": "Invierno sin remordimientos otorga un 8% de golpe cr\u00edtico mientras est\u00e1 activo.\r\n\r\n",
+    "pt_BR": "Inverno Impiedoso concede 8% de acerto cr\u00edtico enquanto estiver ativo.\r\n\r\n",
+    "de_DE": "'Unbarmherziger Winter' gew\u00e4hrt 8% kritische Trefferchance, solange der Effekt aktiv ist.\r\n\r\n",
+    "en_GB": "Remorseless Winter grants 8% Critical Strike while active.\r\n\r\n",
+    "es_ES": "Invierno sin remordimientos otorga un 8% de golpe cr\u00edtico mientras est\u00e1 activo.\r\n\r\n",
+    "fr_FR": "Tant qu\u2019il est actif, Hiver impitoyable conf\u00e8re un bonus de 8% au score de Coup critique.\r\n\r\n",
+    "it_IT": "Inverno Spietato aumenta la probabilit\u00e0 di critico del 8%.\r\n\r\n",
+    "ru_RU": "\"\u0411\u0435\u0441\u043f\u043e\u0449\u0430\u0434\u043d\u043e\u0441\u0442\u044c \u0437\u0438\u043c\u044b\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u043d\u0430 8% \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.\r\n\r\n",
+    "ko_KR": "\ub0c9\ud639\ud55c \uaca8\uc6b8\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uac00 8%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n",
+    "zh_TW": "\u51b7\u9177\u51dc\u51ac\u5728\u4f5c\u7528\u671f\u9593\u53ef\u8ce6\u4e888%\u81f4\u547d\u4e00\u64ca\u3002",
+    "zh_CN": "\u51b7\u9177\u4e25\u51ac\u6fc0\u6d3b\u65f6\u83b7\u5f978%\u7206\u51fb\u51e0\u7387\u3002"
+  }
 }

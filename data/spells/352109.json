@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "352109"
+  "SpellID": "352109",
+  "name_blz": {
+    "en_US": "Undulating Maneuvers",
+    "es_MX": "Maniobras ondulantes",
+    "pt_BR": "Manobras Ondulantes",
+    "de_DE": "Wogende Man\u00f6ver",
+    "en_GB": "Undulating Maneuvers",
+    "es_ES": "Maniobras ondulantes",
+    "fr_FR": "Man\u0153uvres ondulantes",
+    "it_IT": "Manovre Ondeggianti",
+    "ru_RU": "\u041e\u0431\u043c\u0430\u043d\u0447\u0438\u0432\u044b\u0435 \u043a\u043e\u043b\u044b\u0445\u0430\u043d\u0438\u044f",
+    "ko_KR": "\ubc18\ub3d9 \ub300\uc751\ubc95",
+    "zh_TW": "\u6ce2\u52d5\u6280\u5de7",
+    "zh_CN": "\u8d77\u4f0f\u673a\u52a8"
+  },
+  "description_blz": {
+    "en_US": "While above 80% health, 5% of damage taken is absorbed and spread out over 5 sec.",
+    "es_MX": "Cuando tu salud est\u00e1 por encima del 80%, un 5% del da\u00f1o recibido se absorbe y se divide a lo largo de 5 s.",
+    "pt_BR": "Enquanto estiver com mais de 80% de vida, 5% do dano recebido \u00e9 absorvido, sendo causado ao longo de 5 s.",
+    "de_DE": "W\u00e4hrend Ihr \u00fcber mehr als 80% Gesundheit verf\u00fcgt, werden 5% des eintreffenden Schadens absorbiert und \u00fcber 5 Sek. verteilt.",
+    "en_GB": "While above 80% health, 5% of damage taken is absorbed and spread out over 5 sec.",
+    "es_ES": "Al estar por encima del 80% de salud, un 5% del da\u00f1o recibido se absorbe y se aplica a lo largo de 5 s.",
+    "fr_FR": "\u00c0 plus de 80% des points de vie, 5% des d\u00e9g\u00e2ts subis sont absorb\u00e9s et \u00e9chelonn\u00e9s sur 5 s.",
+    "it_IT": "Quando si ha almeno il 80% di salute restante, il 5% dei danni subiti viene assorbito e distribuito in 5 s.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0432\u0430\u0448 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u0435\u0442 80%, 5% \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0441\u044f \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 5 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 80% \uc774\uc0c1\uc77c \ub54c, \ubc1b\ub294 \ud53c\ud574\uc758 5%\ub97c \ud761\uc218\ud574 5\ucd08\uc5d0 \uac78\uccd0 \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u529b\u9ad8\u65bc80%\u6642\uff0c\u4f60\u53d7\u5230\u76845%\u50b7\u5bb3\u6703\u88ab\u5438\u6536\uff0c\u5206\u6563\u52305\u79d2\u5167\u627f\u53d7\u3002",
+    "zh_CN": "\u5f53\u751f\u547d\u503c\u9ad8\u4e8e80%\u65f6\uff0c\u5438\u6536\u53d7\u5230\u4f24\u5bb3\u76845%\uff0c\u5206\u6563\u57285\u79d2\u5185\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "354831"
+  "SpellID": "354831",
+  "name_blz": {
+    "en_US": "Wailing Arrow",
+    "es_MX": "Flecha sollozante",
+    "pt_BR": "Seta Plangente",
+    "de_DE": "Klagender Pfeil",
+    "en_GB": "Wailing Arrow",
+    "es_ES": "Flecha lastimera",
+    "fr_FR": "Fl\u00e8che g\u00e9missante",
+    "it_IT": "Freccia Funesta",
+    "ru_RU": "\u0421\u0442\u0435\u043d\u0430\u044e\u0449\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430",
+    "ko_KR": "\uc6b8\ubd80\uc9d6\ub294 \ud654\uc0b4",
+    "zh_TW": "\u60b2\u9cf4\u7bad",
+    "zh_CN": "\u54c0\u6078\u7bad"
+  },
+  "description_blz": {
+    "en_US": "Fire an enchanted arrow, dealing 1,507 Shadow damage to your target and an additional 597 Shadow damage to all enemies within 8 yds of your target. Targets struck by a Wailing Arrow are silenced for 5 sec.",
+    "es_MX": "Dispara una flecha encantada que inflige 1,498 p. de da\u00f1o de las sombras a tu objetivo y 597 p. m\u00e1s de da\u00f1o de las sombras a todos los enemigos en un radio de 8 m de tu objetivo. Los objetivos golpeados por Flecha sollozante quedan silenciados durante 5 s.",
+    "pt_BR": "Dispara uma flecha encantada, causando 1.461 de dano de Sombra ao alvo e mais 597 de dano de Sombra a todos os inimigos em um raio de 8 m dele. Alvos atingidos pela Seta Plangente s\u00e3o silenciados por 5 s.",
+    "de_DE": "Verschie\u00dft einen verzauberten Pfeil, der Eurem Ziel 1.475 Schattenschaden sowie allen Gegnern innerhalb von 8 Metern um das Ziel zus\u00e4tzlich 597 Schattenschaden zuf\u00fcgt. Ziele, die von 'Klagender Pfeil' getroffen werden, werden 5 Sek. zum Schweigen gebracht.",
+    "en_GB": "Fire an enchanted arrow, dealing 1,453 Shadow damage to your target and an additional 597 Shadow damage to all enemies within 8 yds of your target. Targets struck by a Wailing Arrow are silenced for 5 sec.",
+    "es_ES": "Dispara una flecha encantada que inflige 1459 p. de da\u00f1o de las Sombras a tu objetivo y 597 p. de da\u00f1o de las Sombras extras a todos los enemigos en un radio de 8 m de tu objetivo. Los afectados por Flecha lastimera quedan silenciados durante 5 s.",
+    "fr_FR": "Vous tirez une fl\u00e8che enchant\u00e9e qui inflige 1472\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre \u00e0 sa cible ainsi que 597\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre suppl\u00e9mentaires aux ennemis \u00e0 moins de 8\u00a0m d\u2019elle. Les cr\u00e9atures frapp\u00e9es par Fl\u00e8che g\u00e9missante sont \u00e9tourdies pendant 5 s.",
+    "it_IT": "Scaglia una freccia incantata, infliggendo 1.485 danni da ombra al bersaglio e 597 danni da ombra aggiuntivi a tutti i nemici entro 8 m dal bersaglio. I bersagli colpiti da una Freccia Funesta vengono silenziati per 5 s.",
+    "ru_RU": "\u0412\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0437\u0430\u0447\u0430\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0441\u0442\u0440\u0435\u043b\u0443, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0443\u044e 1476 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \u0438 \u0435\u0449\u0435 597 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0432\u0441\u0435\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c \u043e\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0446\u0435\u043b\u0438. \u041d\u0430 \u0446\u0435\u043b\u0438, \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0435 \"\u0421\u0442\u0435\u043d\u0430\u044e\u0449\u0435\u0439 \u0441\u0442\u0440\u0435\u043b\u043e\u0439\", \u043d\u0430 5 \u0441\u0435\u043a. \u043d\u0430\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u044d\u0444\u0444\u0435\u043a\u0442 \u043d\u0435\u043c\u043e\u0442\u044b.",
+    "ko_KR": "\ub9c8\ub825 \uae43\ub4e0 \ud654\uc0b4\uc744 \ubc1c\uc0ac\ud558\uc5ec \ub300\uc0c1\uc5d0\uac8c 1,471\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \ub300\uc0c1\uc758 8\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc801\uc5d0\uac8c\ub294 597\uc758 \ucd94\uac00 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc6b8\ubd80\uc9d6\ub294 \ud654\uc0b4\uc5d0 \uc801\uc911\ub2f9\ud55c \ub300\uc0c1\uc740 5\ucd08\ucd08 \ub3d9\uc548 \uce68\ubb35 \uc0c1\ud0dc\uac00 \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u767c\u5c04\u4e00\u652f\u9644\u9b54\u7bad\u77e2\uff0c\u5c0d\u4f60\u7684\u76ee\u6a19\u9020\u62101,463\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u5c0d\u76ee\u6a198\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\u984d\u5916\u9020\u6210597\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\u88ab\u60b2\u9cf4\u7bad\u64ca\u4e2d\u7684\u76ee\u6a19\u6703\u9677\u5165\u6c89\u9ed8\uff0c\u6301\u7e8c5\u79d2\u3002",
+    "zh_CN": "\u5c04\u51fa\u4e00\u652f\u9b54\u6cd5\u7bad\uff0c\u5bf9\u4f60\u7684\u76ee\u6807\u9020\u62101,494\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u5bf9\u76ee\u6807\u5468\u56f48\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\u989d\u5916\u9020\u6210597\u70b9\u6697\u5f71\u4f24\u5bb3\u3002\u88ab\u54c0\u6078\u7bad\u51fb\u4e2d\u7684\u6240\u6709\u76ee\u6807\u5747\u4f1a\u6c89\u9ed85\u79d2\u3002"
+  }
 }

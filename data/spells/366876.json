@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "366876"
+  "SpellID": "366876",
+  "name_blz": {
+    "en_US": "Branding Blade",
+    "es_MX": "Espada de marcar",
+    "pt_BR": "L\u00e2mina Ardente",
+    "de_DE": "Brennende Klinge",
+    "en_GB": "Branding Blade",
+    "es_ES": "Hoja cauterizadora",
+    "fr_FR": "Lame de fl\u00e9trissure",
+    "it_IT": "Lama a Caldo",
+    "ru_RU": "\u041a\u043b\u0435\u0439\u043c\u044f\u0449\u0438\u0439 \u043a\u043b\u0438\u043d\u043e\u043a",
+    "ko_KR": "\ub099\uc778\uc758 \uce7c\ub0a0",
+    "zh_TW": "\u70d9\u5370\u5200\u5203",
+    "zh_CN": "\u70d9\u5370\u4e4b\u5203"
+  },
+  "description_blz": {
+    "en_US": "While affected, your Off-Hand strikes sear the wound, dealing 154 Fire damage.",
+    "es_MX": "Mientras te afecta, tus Golpes de siniestra abrasan la herida e infligen 154 p. de da\u00f1o de fuego.",
+    "pt_BR": "Enquanto estiver sob o efeito, seus ataques de M\u00e3o Secund\u00e1ria calcinam a ferida, causando 154 de dano de Fogo.",
+    "de_DE": "W\u00e4hrend Ihr von diesem Effekt betroffen seid, brennen Eure Angriffe mit der Schildhand die Wunde aus, was 154 Feuerschaden verursacht.",
+    "en_GB": "While affected, your Off-Hand strikes sear the wound, dealing 154 Fire damage.",
+    "es_ES": "Mientras te afecta, el arma de tu mano izquierda cauteriza la herida, lo que inflige 154 p. de da\u00f1o de Fuego.",
+    "fr_FR": "Tant que dure cet effet, les coups port\u00e9s avec votre main gauche ont une chance de caut\u00e9riser la plaie, ce qui inflige 154\u00a0points de d\u00e9g\u00e2ts de Feu.",
+    "it_IT": "Mentre si \u00e8 affetti, i colpi della mano secondaria bruciano la ferita, infliggendo 154 danni da fuoco.",
+    "ru_RU": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0432\u0430\u0448\u0438 \u0443\u0434\u0430\u0440\u044b \u043b\u0435\u0432\u043e\u0439 \u0440\u0443\u043a\u043e\u0439 \u043e\u043f\u0430\u043b\u044f\u044e\u0442 \u0440\u0430\u043d\u0443, \u043d\u0430\u043d\u043e\u0441\u044f 154 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f.",
+    "ko_KR": "\ud6a8\uacfc\uac00 \uc9c0\uc18d\ub418\ub294 \ub3d9\uc548 \ubcf4\uc870 \ubb34\uae30 \uacf5\uaca9\uc774 \uc0c1\ucc98\ub97c \ubd88\ud0dc\uc6cc 154\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6548\u679c\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u7684\u526f\u624b\u653b\u64ca\u6703\u707c\u71d2\u50b7\u53e3\uff0c\u9020\u6210154\u9ede\u706b\u7130\u50b7\u5bb3\u3002",
+    "zh_CN": "\u53d7\u5f71\u54cd\u65f6\uff0c\u4f60\u7684\u526f\u624b\u653b\u51fb\u707c\u70e7\u4f24\u8005\uff0c\u9020\u6210154\u70b9\u706b\u7130\u4f24\u5bb3\u3002"
+  }
 }

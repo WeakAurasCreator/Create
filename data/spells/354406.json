@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "354406"
+  "SpellID": "354406",
+  "name_blz": {
+    "en_US": "Control is King",
+    "es_MX": "El control reina",
+    "pt_BR": "Controle \u00e9 Tudo",
+    "de_DE": "Kontrolle ist alles",
+    "en_GB": "Control is King",
+    "es_ES": "Controla y vencer\u00e1s",
+    "fr_FR": "Tout est sous contr\u00f4le",
+    "it_IT": "Controllo \u00e8 Potere",
+    "ru_RU": "\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u2013 \u044d\u0442\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c",
+    "ko_KR": "\uc81c\uc5b4\uc758 \uae30\uc138",
+    "zh_TW": "\u63a7\u5236\u81f3\u4e0a",
+    "zh_CN": "\u5236\u8005\u4e3a\u738b"
+  },
+  "description_blz": {
+    "en_US": "Cheap Shot grants Slice and Dice for 15 sec and Kidney Shot restores 10 Energy per combo point spent.",
+    "es_MX": "Golpe bajo otorga Hacer picadillo durante 15 s y Golpe en los ri\u00f1ones restaura 10 p. de energ\u00eda por punto de combo gastado.",
+    "pt_BR": "Golpe Baixo concede Retalhar por 15 s. Golpe no Rim restaura 10 de Energia por ponto de combo gasto.",
+    "de_DE": "'Fieser Trick' gew\u00e4hrt Euch f\u00fcr 15 Sek. 'Zerh\u00e4ckseln', und 'Nierenhieb' stellt pro verbrauchtem Combopunkt 10 Energie wieder her.",
+    "en_GB": "Cheap Shot grants Slice and Dice for 15 sec and Kidney Shot restores 10 Energy per combo point spent.",
+    "es_ES": "Golpe bajo otorga Hacer picadillo durante 15 s y Golpe en los ri\u00f1ones restaura 10 p. de energ\u00eda por cada punto de combo gastado.",
+    "fr_FR": "Coup bas conf\u00e8re D\u00e9biter pendant 15\u00a0s et Aiguillon perfide rend 10 points d\u2019\u00e9nergie par point de combo d\u00e9pens\u00e9.",
+    "it_IT": "Colpo Basso fornisce Fendenti Furiosi per 15 s e Colpo ai Reni rigenera 10 energia per ogni punto combo consumato.",
+    "ru_RU": "\"\u041f\u043e\u0434\u043b\u044b\u0439 \u0442\u0440\u044e\u043a\" \u043d\u0430 15 \u0441\u0435\u043a. \u0434\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041c\u044f\u0441\u043e\u0440\u0443\u0431\u043a\u0430\", \u0430 \"\u0423\u0434\u0430\u0440 \u043f\u043e \u043f\u043e\u0447\u043a\u0430\u043c\" \u0434\u0430\u0435\u0442 10 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0439 \u043f\u0440\u0438\u0435\u043c \u0441\u0435\u0440\u0438\u0438.",
+    "ko_KR": "\ube44\uc5f4\ud55c \uc2b5\uaca9 \uc0ac\uc6a9 \uc2dc 15\ucd08 \ub3d9\uc548 \ub09c\ub3c4\uc9c8 \ud6a8\uacfc\uac00 \ubd80\uc5ec\ub429\ub2c8\ub2e4. \ub610\ud55c \uae09\uc18c \uac00\uaca9\uc740 \uc18c\ubaa8\ud55c \uc5f0\uacc4 \uc810\uc218\ub2f9 10\uc758 \uae30\ub825\uc744 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5077\u8972\u6703\u8ce6\u4e8815\u79d2\u7684\u5207\u5272\uff0c\u800c\u814e\u64ca\u6bcf\u82b1\u8cbb\u4e00\u9ede\u9023\u64ca\u9ede\u6578\u5c31\u6703\u56de\u5fa910\u9ede\u80fd\u91cf\u3002",
+    "zh_CN": "\u5077\u88ad\u65f6\u83b7\u5f9715\u79d2\u7684\u5207\u5272\u6548\u679c\u3002\u80be\u51fb\u6bcf\u82b1\u8d39\u4e00\u4e2a\u8fde\u51fb\u70b9\u6570\uff0c\u5c31\u4f1a\u6062\u590d10\u70b9\u80fd\u91cf\u3002"
+  }
 }

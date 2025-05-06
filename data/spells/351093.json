@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "351093"
+  "SpellID": "351093",
+  "name_blz": {
+    "en_US": "Resilient Stitching",
+    "es_MX": "Costura resistente",
+    "pt_BR": "Sutura Resiliente",
+    "de_DE": "Widerstandsf\u00e4hige N\u00e4herei",
+    "en_GB": "Resilient Stitching",
+    "es_ES": "Costura resistente",
+    "fr_FR": "Sutures r\u00e9sistantes",
+    "it_IT": "Cucitura Resiliente",
+    "ru_RU": "\u0421\u0442\u043e\u0439\u043a\u0438\u0435 \u0448\u0432\u044b",
+    "ko_KR": "\ud0c4\ub825\uc758 \ubc14\ub290\uc9c8",
+    "zh_TW": "\u5805\u97cc\u7e2b\u7d09",
+    "zh_CN": "\u5f39\u6027\u7f1d\u5408"
+  },
+  "description_blz": {
+    "en_US": "While above 90% health, you gain a shield that absorbs 31,574 magic damage for 1 min. This effect may only occur once every 1 min.",
+    "es_MX": "Mientras tu salud est\u00e1 por encima del 90%, obtienes un escudo que absorbe 31,574 p. de da\u00f1o m\u00e1gico durante 1 min. Este efecto solo puede ocurrir una vez cada 1 min.",
+    "pt_BR": "Ao ficar com menos de 90% dos pontos de vida, voc\u00ea ganha um escudo que absorve 31.574 de dano m\u00e1gico por 1 min. Este efeito s\u00f3 pode ocorrer uma vez a cada 1 min.",
+    "de_DE": "Wenn Eure Gesundheit \u00fcber 90% liegt, erhaltet Ihr f\u00fcr 1 Min. einen Schild, der 31.574 Magieschaden absorbiert. Dieser Effekt kann nur einmal alle 1 Min. auftreten.",
+    "en_GB": "While above 90% health, you gain a shield that absorbs 31,574 magic damage for 1 min. This effect may only occur once every 1 min.",
+    "es_ES": "Mientras est\u00e9s por encima del 90% de salud, obtienes un escudo que absorbe 31574 p. de da\u00f1o m\u00e1gico durante 1 min. Este efecto solo puede ocurrir una vez cada 1 min s.",
+    "fr_FR": "Au-dessus de 90% de points de vie, vous b\u00e9n\u00e9ficiez d\u2019un bouclier absorbant 31574\u00a0points de d\u00e9g\u00e2ts magiques pendant 1 min. Cet effet ne peut se produire plus d\u2019une fois toutes les 1 min.",
+    "it_IT": "Quando si ha pi\u00f9 del 90% della salute massima, si ottiene uno scudo che assorbe 31.574 danni magici subiti per 1 min. L'effetto pu\u00f2 aver luogo solo una volta ogni 1 min.",
+    "ru_RU": "\u041f\u0440\u0438 \u0443\u0440\u043e\u0432\u043d\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432\u044b\u0448\u0435 90% \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0449\u0438\u0442, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 31574 \u0435\u0434. \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0449\u0438\u0442\u0430 \u2013 1 \u043c\u0438\u043d. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 1 \u043c\u0438\u043d.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 90% \uc774\uc0c1\uc774\uba74 1\ubd84 \ub3d9\uc548 31,574\uc758 \ub9c8\ubc95 \ud53c\ud574\ub97c \ud761\uc218\ud558\ub294 \ubcf4\ud638\ub9c9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 1\ubd84\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u529b\u9ad8\u65bc90%\u6642\uff0c\u4f60\u6703\u7372\u5f97\u5438\u653631,574\u9ede\u9b54\u6cd5\u50b7\u5bb3\u7684\u8b77\u76fe\uff0c\u6301\u7e8c1\u5206\u9418\u3002\u6b64\u6548\u679c\u6bcf1\u5206\u9418\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5f53\u751f\u547d\u503c\u9ad8\u4e8e90%\u65f6\uff0c\u4f60\u83b7\u5f97\u4e00\u4e2a\u62a4\u76fe\uff0c\u5438\u653631,574\u70b9\u9b54\u6cd5\u4f24\u5bb3\uff0c\u6301\u7eed1\u5206\u949f\u3002 \u8be5\u6548\u679c\u6bcf1\u5206\u949f\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

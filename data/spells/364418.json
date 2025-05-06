@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364418"
+  "SpellID": "364418",
+  "name_blz": {
+    "en_US": "Fists of Primordium",
+    "es_MX": "Pu\u00f1os de primordio",
+    "pt_BR": "Punhos do Primordium",
+    "de_DE": "Primordiumf\u00e4uste",
+    "en_GB": "Fists of Primordium",
+    "es_ES": "Pu\u00f1os de primordium",
+    "fr_FR": "Poings de primordium",
+    "it_IT": "Pugni di Primordio",
+    "ru_RU": "\u0418\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0443\u043b\u0430\u043a\u0438",
+    "ko_KR": "\uc6d0\uc2dc\uc758 \uc8fc\uba39",
+    "zh_TW": "\u539f\u9ad4\u4e4b\u62f3",
+    "zh_CN": "\u57fa\u5143\u4e4b\u62f3"
+  },
+  "description_blz": {
+    "en_US": "Increases Fists of Fury damage by 40%.",
+    "es_MX": "Aumenta el da\u00f1o de Pu\u00f1os de furia un 40%.",
+    "pt_BR": "Aumenta em 40% o dano de Punhos da F\u00faria.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Furorf\u00e4uste' um 40%.",
+    "en_GB": "Increases Fists of Fury damage by 40%.",
+    "es_ES": "Aumenta un 40% el da\u00f1o de Pu\u00f1os de furia.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de Poings de fureur de 40%.",
+    "it_IT": "Aumenta i danni inflitti da Pugni della Furia del 40%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u044b\u0445 \u043a\u0443\u043b\u0430\u043a\u043e\u0432\" \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d \u043d\u0430 40%.",
+    "ko_KR": "\ubd84\ub178\uc758 \uc8fc\uba39\uc758 \uacf5\uaca9\ub825\uc774 40%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u72c2\u62f3\u9023\u6253\u7684\u50b7\u5bb3\u63d0\u9ad840%\u3002",
+    "zh_CN": "\u6012\u96f7\u7834\u7684\u4f24\u5bb3\u63d0\u9ad840%\u3002"
+  }
 }

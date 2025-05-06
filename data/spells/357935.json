@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "357935"
+  "SpellID": "357935",
+  "name_blz": {
+    "en_US": "Archivists' Codex",
+    "es_MX": "C\u00f3dice de los Archivistas",
+    "pt_BR": "C\u00f3dice dos Arquivistas",
+    "de_DE": "Archivarskodex",
+    "en_GB": "Archivists' Codex",
+    "es_ES": "C\u00f3dice de los Archivistas",
+    "fr_FR": "Codex des archivistes",
+    "it_IT": "Codice degli Archivisti",
+    "ru_RU": "\u041a\u043e\u0434\u0435\u043a\u0441 \u0430\u0440\u0445\u0438\u0432\u0430\u0440\u0438\u0443\u0441\u0430",
+    "ko_KR": "\uae30\ub85d\uad00\uc758 \uc804\uc11c",
+    "zh_TW": "\u535a\u6587\u8005\u5bf6\u5178",
+    "zh_CN": "\u6863\u6848\u5458\u5377\u5b97"
+  },
+  "description_blz": {
+    "en_US": "Unlocks the Archivists' Codex reputation with Roh-Suir, allowing him to create Cataloged Research from Korthian Relics.",
+    "es_MX": "Desbloquea la reputaci\u00f3n del C\u00f3dice de los Archivistas con Roh-Suir, lo que le permite crear una investigaci\u00f3n catalogada a partir de reliquias korthianas.",
+    "pt_BR": "Desbloqueia a reputa\u00e7\u00e3o do C\u00f3dice dos Arquivistas com Roh-Suir, permitindo que ele crie Pesquisa Catalogada com Rel\u00edquias Korthianas.",
+    "de_DE": "Schaltet den Ruf 'Der Archivarskodex' bei Roh-Suir frei, sodass er katalogisierte Forschung aus korthianischen Relikten erschaffen kann.",
+    "en_GB": "Unlocks the Archivists' Codex reputation with Roh-Suir, allowing him to create Cataloged Research from Korthian Relics.",
+    "es_ES": "Desbloquea la reputaci\u00f3n con el C\u00f3dice de los Archivistas con Roh-Suir, que le permite generar puntos de investigaci\u00f3n catalogada con reliquias korthianas.",
+    "fr_FR": "D\u00e9bloque la r\u00e9putation aupr\u00e8s du Codex des archivistes et de Roh-Suir, ce qui lui permet de cr\u00e9er des trouvailles catalogu\u00e9es gr\u00e2ce aux reliques korthiennes.",
+    "it_IT": "Sblocca la reputazione del Codice degli Archivisti con Roh-Suir, permettendogli di creare una Ricerca Catalogata dalle Reliquie di Korthia.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0440\u0435\u043f\u0443\u0442\u0430\u0446\u0438\u044e \u0443 \u041a\u043e\u0434\u0435\u043a\u0441\u0430 \u0430\u0440\u0445\u0438\u0432\u0430\u0440\u0438\u0443\u0441\u0430, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0420\u043e-\u0421\u044e\u0438\u0440\u0443 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0430 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043e\u0440\u0442\u0438\u0439\u0441\u043a\u0438\u0445 \u0440\u0435\u043b\u0438\u043a\u0432\u0438\u0439.",
+    "ko_KR": "\uae30\ub85d\uad00\uc758 \uc804\uc11c \ud3c9\ud310\uc744 \ud574\uc81c\ud569\ub2c8\ub2e4. \ub85c\uc26c\ub974\uac00 \ucf54\ub974\uc2dc\uc544 \uc720\ubb3c\ub85c \ubd84\ub958\ub41c \uc5f0\uad6c\ubb3c\uc744 \ub9cc\ub4e4 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u548c\u7f85\u8ff0\u723e\u7684\u535a\u6587\u8005\u5bf6\u5178\u8072\u671b\uff0c\u8b93\u4ed6\u53ef\u4ee5\u5f9e\u79d1\u897f\u4e9e\u6587\u7269\u88fd\u9020\u7de8\u76ee\u7814\u7a76\u3002",
+    "zh_CN": "\u5728\u6863\u6848\u5458\u7f57-\u9042\u5c14\u5904\u89e3\u9501\u6863\u6848\u5458\u5377\u5b97\u7684\u58f0\u671b\uff0c\u4f7f\u5176\u53ef\u4ee5\u7528\u523b\u5e0c\u4e9a\u5723\u7269\u5236\u4f5c\u7f16\u96c6\u7814\u7a76\u3002"
+  }
 }

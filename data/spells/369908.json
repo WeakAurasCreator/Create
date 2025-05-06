@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "369908"
+  "SpellID": "369908",
+  "name_blz": {
+    "en_US": "Power Nexus",
+    "es_MX": "Nexo de poder",
+    "pt_BR": "Nexus de Energia",
+    "de_DE": "Kraftnexus",
+    "en_GB": "Power Nexus",
+    "es_ES": "Nexo de poder",
+    "fr_FR": "Nexus de puissance",
+    "it_IT": "Nexus del Potere",
+    "ru_RU": "\u041d\u0435\u043a\u0441\u0443\u0441 \u0441\u0438\u043b\u044b",
+    "ko_KR": "\ud798\uc758 \uc5f0\uacb0\uccb4",
+    "zh_TW": "\u529b\u91cf\u6a1e\u7d10",
+    "zh_CN": "\u80fd\u91cf\u67a2\u7ebd"
+  },
+  "description_blz": {
+    "en_US": "Increases your maximum Essence to 6.",
+    "es_MX": "Aumenta tu esencia m\u00e1xima a 6 p.",
+    "pt_BR": "Aumenta seu m\u00e1ximo de Ess\u00eancia para 6.",
+    "de_DE": "Erh\u00f6ht Eure maximale Essenz auf 6.",
+    "en_GB": "Increases your maximum Essence to 6.",
+    "es_ES": "Aumenta a 6 p. tu esencia m\u00e1xima.",
+    "fr_FR": "Augmente votre maximum d\u2019essence \u00e0 6.",
+    "it_IT": "Aumenta l'essenza massima a 6.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438 \u0434\u043e 6.",
+    "ko_KR": "\ucd5c\ub300 \uc815\uc218\uac00 6\uc73c\ub85c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u9f8d\u80fd\u4e0a\u9650\u63d0\u9ad8\u81f36\u9ede\u3002",
+    "zh_CN": "\u4f60\u7684\u7cbe\u534e\u4e0a\u9650\u63d0\u9ad8\u81f36\u3002"
+  }
 }

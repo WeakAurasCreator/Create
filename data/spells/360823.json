@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "360823"
+  "SpellID": "360823",
+  "name_blz": {
+    "en_US": "Naturalize",
+    "es_MX": "Naturalizar",
+    "pt_BR": "Naturalizar",
+    "de_DE": "Naturalisieren",
+    "en_GB": "Naturalize",
+    "es_ES": "Naturalizar",
+    "fr_FR": "Naturalisation",
+    "it_IT": "Naturalizzazione",
+    "ru_RU": "\u041d\u0430\u0442\u0443\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f",
+    "ko_KR": "\uc790\uc5f0\ud654",
+    "zh_TW": "\u81ea\u7136\u5316",
+    "zh_CN": "\u81ea\u7136\u5e73\u8861"
+  },
+  "description_blz": {
+    "en_US": "Cleanses harmful effects from the target, removing all Magic and Poison effects.",
+    "es_MX": "Limpia los efectos da\u00f1inos del objetivo y elimina todos los efectos m\u00e1gicos y de envenenamiento.",
+    "pt_BR": "Purifica efeitos nocivos do alvo, removendo todos os efeitos de Magia e Veneno.",
+    "de_DE": "Reinigt das Ziel von sch\u00e4dlichen Effekten. Entfernt alle magischen und Gifteffekte.",
+    "en_GB": "Cleanses harmful effects from the target, removing all Magic and Poison effects.",
+    "es_ES": "Purifica los efectos da\u00f1inos del objetivo, lo que elimina todos los efectos m\u00e1gicos y de veneno.",
+    "fr_FR": "Purifie la cible des effets magiques n\u00e9fastes et de poison qui l\u2019affectent.",
+    "it_IT": "Purifica gli effetti dannosi dal bersaglio, dissolvendo tutti gli effetti di magia e di veleno.",
+    "ru_RU": "\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0446\u0435\u043b\u0438 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u044f\u0434\u0430.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uac78\ub9b0 \ud574\ub85c\uc6b4 \ud6a8\uacfc\ub97c \uc815\ud654\ud558\uc5ec, \ubaa8\ub4e0 \ub9c8\ubc95 \ubc0f \ub3c5 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6de8\u5316\u76ee\u6a19\u8eab\u4e0a\u7684\u6709\u5bb3\u6548\u679c\uff0c\u79fb\u9664\u6240\u6709\u7684\u9b54\u6cd5\u6548\u679c\u548c\u4e2d\u6bd2\u6548\u679c\u3002",
+    "zh_CN": "\u6e05\u9664\u76ee\u6807\u8eab\u4e0a\u7684\u6709\u5bb3\u6548\u679c\uff0c\u79fb\u9664\u6240\u6709\u9b54\u6cd5\u548c\u4e2d\u6bd2\u6548\u679c\u3002"
+  }
 }

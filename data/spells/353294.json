@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "353294"
+  "SpellID": "353294",
+  "name_blz": {
+    "en_US": "Shadow Rift",
+    "es_MX": "Falla de sombras",
+    "pt_BR": "Fenda Sombria",
+    "de_DE": "Schattenriss",
+    "en_GB": "Shadow Rift",
+    "es_ES": "Falla de las Sombras",
+    "fr_FR": "Faille d\u2019ombre",
+    "it_IT": "Fenditura d'Ombra",
+    "ru_RU": "\u0422\u0435\u043d\u0435\u0432\u043e\u0439 \u0440\u0430\u0437\u043b\u043e\u043c",
+    "ko_KR": "\uadf8\ub9bc\uc790 \uade0\uc5f4",
+    "zh_TW": "\u6697\u5f71\u88c2\u9699",
+    "zh_CN": "\u6697\u5f71\u88c2\u9699"
+  },
+  "description_blz": {
+    "en_US": "Conjure a Shadow Rift at the target location lasting 2 sec. Enemy players within the rift when it expires are teleported to your Demonic Circle.\r\n\r\nMust be within 40 yds of your Demonic Circle to cast.",
+    "es_MX": "Conjura una Falla de sombras en la ubicaci\u00f3n objetivo que dura 2 s. Los jugadores enemigos que permanecen en la falla cuando expira se teletransportan a tu C\u00edrculo demon\u00edaco.\r\n\r\nPara lanzarla, debe encontrarse en un radio de 40 m de tu C\u00edrculo demon\u00edaco.",
+    "pt_BR": "Conjura no local selecionado uma Fenda Sombria que dura 2 s. Os jogadores inimigos que estiverem dentro quando ela expirar ser\u00e3o teleportados para o seu C\u00edrculo Demon\u00edaco.\r\n\r\nS\u00f3 \u00e9 poss\u00edvel lan\u00e7ar a at\u00e9 40 m de dist\u00e2ncia do seu C\u00edrculo Demon\u00edaco.",
+    "de_DE": "Beschw\u00f6rt am Zielort einen Schattenriss, der 2 Sek. lang anh\u00e4lt. Gegnerische Spielercharaktere, die sich bei Ablauf im Riss befinden, werden zu Eurem d\u00e4monischen Zirkel teleportiert.\r\n\r\nIhr m\u00fcsst Euch beim Einsatz innerhalb von 40 Metern um Euren d\u00e4monischen Zirkel befinden.",
+    "en_GB": "Conjure a Shadow Rift at the target location lasting 2 sec. Enemy players within the rift when it expires are teleported to your Demonic Circle.\r\n\r\nMust be within 40 yds of your Demonic Circle to cast.",
+    "es_ES": "Crea en la ubicaci\u00f3n seleccionada una Falla de las Sombras que dura 2 s. Los jugadores enemigos que se encuentren en el interior de la falla cuando se agote se teletransportar\u00e1n a tu C\u00edrculo demon\u00edaco.\r\n\r\nDebes estar en un radio de 40 m de tu C\u00edrculo demon\u00edaco para poder lanzar esto.",
+    "fr_FR": "Vous invoquez \u00e0 l\u2019emplacement cibl\u00e9 une faille d\u2019ombre qui dure 2 s. Les personnages-joueurs ennemis qui s\u2019y tiennent quand la faille se referme sont t\u00e9l\u00e9port\u00e9s dans votre cercle d\u00e9moniaque.\r\n\r\nVous devez vous trouver \u00e0 moins de 40\u00a0m\u00e8tres de votre cercle pour lancer ce sort.",
+    "it_IT": "Evoca una Fenditura d'Ombra sulla posizione bersaglio per 2 s. Quando termina, i personaggi nemici nell'area d'effetto vengono teletrasportati sul tuo Circolo Demoniaco.\r\n\r\nPer lanciarla, bisogna essere entro 40 m dal proprio Circolo Demoniaco.",
+    "ru_RU": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u043c \u043c\u0435\u0441\u0442\u0435 \u0442\u0435\u043d\u0435\u0432\u043e\u0439 \u0440\u0430\u0437\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 2 \u0441\u0435\u043a. \u0412\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u0435 \u0438\u0433\u0440\u043e\u043a\u0438, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0435\u0441\u044f \u0432 \u0440\u0430\u0437\u043b\u043e\u043c\u0435 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0435\u0433\u043e \u0438\u0441\u0447\u0435\u0437\u043d\u043e\u0432\u0435\u043d\u0438\u044f, \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0442\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0432 \u0432\u0430\u0448 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0440\u0443\u0433.\r\n\r\n\u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043d\u0435 \u0434\u0430\u043b\u0435\u0435 \u0447\u0435\u043c \u0432 40 \u043c \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043a\u0440\u0443\u0433\u0430.",
+    "ko_KR": "\ub300\uc0c1 \uc9c0\uc5ed\uc5d0 2\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub418\ub294 \uadf8\ub9bc\uc790 \uade0\uc5f4\uc744 \ubd88\ub7ec\ub0c5\ub2c8\ub2e4. \uade0\uc5f4\uc774 \ub9cc\ub8cc\ub420 \ub54c \uc801\uc774 \uadf8 \uc548\uc5d0 \ub0a8\uc544 \uc788\uc73c\uba74 \uc545\ub9c8\uc758 \ub9c8\ubc95\uc9c4\uc73c\ub85c \uc21c\uac04\uc774\ub3d9\ub429\ub2c8\ub2e4.\r\n\r\n\uc545\ub9c8\uc758 \ub9c8\ubc95\uc9c4 40\ubbf8\ud130 \ub0b4\uc5d0 \uc788\uc5b4\uc57c \uc2dc\uc804\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u76ee\u6a19\u5730\u9ede\u53ec\u559a\u4e00\u500b\u6697\u5f71\u88c2\u9699\uff0c\u6301\u7e8c2\u79d2\u3002\u6548\u679c\u7d50\u675f\u6642\u9084\u5728\u88c2\u9699\u5167\u7684\u6575\u65b9\u73a9\u5bb6\uff0c\u6703\u88ab\u50b3\u9001\u81f3\u4f60\u7684\u60e1\u9b54\u6cd5\u9663\u3002\r\n\r\n\u5fc5\u9808\u8ddd\u96e2\u4f60\u7684\u60e1\u9b54\u6cd5\u966340\u78bc\u4ee5\u5167\u624d\u53ef\u4ee5\u65bd\u653e\u3002",
+    "zh_CN": "\u5728\u76ee\u6807\u4f4d\u7f6e\u53ec\u5524\u4e00\u9053\u6697\u5f71\u88c2\u9699\uff0c\u6301\u7eed2\u79d2\u3002\u88c2\u9699\u6301\u7eed\u65f6\u95f4\u7ed3\u675f\u65f6\uff0c\u4f4d\u4e8e\u5176\u4e2d\u7684\u654c\u65b9\u73a9\u5bb6\u4f1a\u88ab\u4f20\u9001\u5230\u4f60\u7684\u6076\u9b54\u6cd5\u9635\u5904\u3002\r\n\r\n\u9700\u8981\u5728\u6076\u9b54\u6cd5\u963540\u7801\u8303\u56f4\u5185\u624d\u80fd\u65bd\u653e\u3002"
+  }
 }

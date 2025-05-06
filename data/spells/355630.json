@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "355630"
+  "SpellID": "355630",
+  "name_blz": {
+    "en_US": "Seasoned Winds",
+    "es_MX": "Vientos avezados",
+    "pt_BR": "Ventos Versados",
+    "de_DE": "Kampferprobte Winde",
+    "en_GB": "Seasoned Winds",
+    "es_ES": "Vientos avezados",
+    "fr_FR": "Vents saisonniers",
+    "it_IT": "Venti Esperti",
+    "ru_RU": "\u0417\u0430\u043a\u0430\u043b\u044f\u044e\u0449\u0438\u0439 \u0432\u0435\u0442\u0435\u0440",
+    "ko_KR": "\uc219\ub828\uc758 \ubc14\ub78c",
+    "zh_TW": "\u8001\u7df4\u4e4b\u98a8",
+    "zh_CN": "\u53d8\u5e7b\u4e4b\u98ce"
+  },
+  "description_blz": {
+    "en_US": "Interrupting a spell with Wind Shear decreases your damage taken from that spell school by 15% for 18 sec. Stacks up to 2 times.",
+    "es_MX": "Interrumpir un hechizo con Corte de viento disminuye un 15% el da\u00f1o recibido de esa escuela de hechizos durante 18 s. Se acumula hasta 2 veces.",
+    "pt_BR": "Interromper um feiti\u00e7o com Rajada de Vento reduz em 15% o dano recebido da mesma escola de feiti\u00e7os por 18 s. Acumula at\u00e9 2 vezes.",
+    "de_DE": "Wenn Ihr einen Zauber mit 'Windsto\u00df' unterbrecht, erleidet Ihr 18 Sek. lang 15% weniger Schaden durch diese Zauberart. Bis zu 2-mal stapelbar.",
+    "en_GB": "Interrupting a spell with Wind Shear decreases your damage taken from that spell school by 15% for 18 sec. Stacks up to 2 times.",
+    "es_ES": "Al interrumpir un hechizo con Corte de viento, se reduce un 15% el da\u00f1o que recibes de hechizos de esa misma escuela durante 18 s. Se acumula hasta 2 veces.",
+    "fr_FR": "Interrompre un sort avec Cisaille de vent r\u00e9duit les d\u00e9g\u00e2ts que vous subissez de la m\u00eame \u00e9cole de 15% pendant 18 s. Cumulable jusqu\u2019\u00e0 2\u00a0fois.",
+    "it_IT": "Interrompere un incantesimo con Raffica di Vento riduce i danni subiti dalla scuola di magia di quell'incantesimo del 15% per 18 s. Si accumula fino a 2 volte.",
+    "ru_RU": "\u041f\u0440\u0435\u0440\u044b\u0432\u0430\u043d\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \"\u041f\u0440\u043e\u043d\u0438\u0437\u044b\u0432\u0430\u044e\u0449\u0435\u0433\u043e \u0432\u0435\u0442\u0440\u0430\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u044d\u0442\u043e\u0439 \u0448\u043a\u043e\u043b\u044b, \u043d\u0430 15% \u043d\u0430 18 \u0441\u0435\u043a. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 2 \u0440\u0430\u0437.",
+    "ko_KR": "\ub0a0\uce74\ub85c\uc6b4 \ubc14\ub78c\uc73c\ub85c \uc8fc\ubb38\uc744 \ubc29\ud574\ud558\uba74 18\ucd08 \ub3d9\uc548 \uac19\uc740 \uacc4\uc5f4\uc758 \uc8fc\ubb38\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574\uac00 15%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ucd5c\ub300 2\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u7528\u524a\u98a8\u8853\u4e2d\u65b7\u6cd5\u8853\u6703\u4f7f\u8a72\u7cfb\u6cd5\u8853\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e15%\uff0c\u6301\u7e8c18\u79d2\uff0c\u6700\u591a\u53ef\u5806\u758a2\u6b21\u3002",
+    "zh_CN": "\u4f7f\u7528\u98ce\u526a\u6253\u65ad\u6cd5\u672f\u65f6\u4f1a\u4f7f\u4f60\u53d7\u5230\u7684\u8be5\u7cfb\u6cd5\u672f\u7684\u4f24\u5bb3\u964d\u4f4e15%\uff0c\u6301\u7eed18\u79d2\u3002\u53ef\u53e0\u52a02\u6b21\u3002"
+  }
 }

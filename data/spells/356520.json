@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "356520"
+  "SpellID": "356520",
+  "name_blz": {
+    "en_US": "Necrotic Wounds",
+    "es_MX": "Heridas necr\u00f3ticas",
+    "pt_BR": "Feridas Necr\u00f3ticas",
+    "de_DE": "Nekrotische Wunden",
+    "en_GB": "Necrotic Wounds",
+    "es_ES": "Heridas necr\u00f3ticas",
+    "fr_FR": "Blessures n\u00e9crotiques",
+    "it_IT": "Ferite Necrotiche",
+    "ru_RU": "\u041d\u0435\u043a\u0440\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044f\u0437\u0432\u044b",
+    "ko_KR": "\uad34\uc800 \uc0c1\ucc98",
+    "zh_TW": "\u4ea1\u57df\u50b7\u53e3",
+    "zh_CN": "\u6b7b\u75bd\u4f24\u53e3"
+  },
+  "description_blz": {
+    "en_US": "Bursting a Festering Wound converts it into a Necrotic Wound, absorbing 4% of all healing received for 15 sec.\r\n\r\nMax 6 stacks. Adding a stack does not refresh the duration.",
+    "es_MX": "Reventar una Herida degenerativa la convierte en una Herida necr\u00f3tica, lo que absorbe un 4% de toda la sanaci\u00f3n recibida durante 15 s.\r\n\r\nSe puede acumular hasta 6 veces. Agregar una acumulaci\u00f3n no restablece la duraci\u00f3n.",
+    "pt_BR": "Estourar uma Ferida Purulenta a transforma em Ferida Necr\u00f3tica, absorvendo 4% de toda a cura recebida por 15 s.\r\n\r\nM\u00e1ximo de 6 aplica\u00e7\u00f5es. Adicionar uma aplica\u00e7\u00e3o n\u00e3o renova a dura\u00e7\u00e3o.",
+    "de_DE": "Wenn eine schw\u00e4rende Wunde aufbricht, wird sie zu einer nekrotischen Wunde, die 15 Sek. lang 4% der erhaltenen Heilung absorbiert.\r\n\r\nMaximal 6 Stapel. Bei Hinzuf\u00fcgen eines Stapels wird die Dauer nicht erneuert.",
+    "en_GB": "Bursting a Festering Wound converts it into a Necrotic Wound, absorbing 4% of all healing received for 15 sec.\r\n\r\nMax 6 stacks. Adding a stack does not refresh the duration.",
+    "es_ES": "El estallido de una herida degenerativa la convierte en una herida necr\u00f3tica que absorbe un 4% de toda la sanaci\u00f3n recibida durante 15 s.\r\n\r\nSe acumula hasta 6 veces. Al a\u00f1adir una acumulaci\u00f3n, no se reinicia la duraci\u00f3n.",
+    "fr_FR": "Faire \u00e9clater une blessure purulente la transforme en blessure n\u00e9crotique qui absorbe 4\u00a0% des soins re\u00e7us pendant 15 s.\r\n\r\n6\u00a0charges au maximum. L\u2019ajout d\u2019une charge ne r\u00e9initialise pas la dur\u00e9e.",
+    "it_IT": "Far manifestare un accumulo di Ferita Putrescente la converte in una Ferita Necrotica, che assorbe il 4% delle cure ricevute per 15 s.\r\n\r\nSi accumula fino a 6 volte. Aggiungere un accumulo non rinnova la durata.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0433\u043d\u043e\u0439\u043d\u0430\u044f \u044f\u0437\u0432\u0430 \u043f\u0440\u043e\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f, \u043e\u043d\u0430 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u043d\u0435\u043a\u0440\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u044f\u0437\u0432\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 15 \u0441\u0435\u043a. \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 4% \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0433\u043e \u0446\u0435\u043b\u044c\u044e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f.\r\n\r\n\u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 6 \u0440\u0430\u0437. \u041f\u0440\u0438 \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0438 \u043d\u043e\u0432\u044b\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\uace0\ub984 \uc0c1\ucc98\ub97c \ud30c\uc5f4\uc2dc\ud0a4\uba74 \uad34\uc800 \uc0c1\ucc98\ub85c \ubcc0\ud658\ub418\uc5b4 15\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ubaa8\ub4e0 \uce58\uc720 \ud6a8\uacfc\ub97c 4%\ub9cc\ud07c \ud761\uc218\ud569\ub2c8\ub2e4.\r\n\r\n\ucd5c\ub300 6\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. \uc911\ucca9\ub418\uc5b4\ub3c4 \uc9c0\uc18d\uc2dc\uac04\uc744 \uac31\uc2e0\uc2dc\ud0a4\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5f15\u7206\u81bf\u7621\u50b7\u53e3\u6703\u5c07\u5176\u8f49\u5316\u70ba\u4ea1\u57df\u50b7\u53e3\uff0c\u5438\u65364%\u6240\u6709\u53d7\u5230\u7684\u6cbb\u7642\u6548\u679c\uff0c\u6301\u7e8c15\u79d2\u3002\r\n\r\n\u6700\u591a\u53ef\u5806\u758a6\u5c64\u3002\u5806\u758a\u4e0d\u6703\u91cd\u7f6e\u6301\u7e8c\u6642\u9593\u3002",
+    "zh_CN": "\u5f15\u7206\u6e83\u70c2\u4e4b\u4f24\u65f6\u4f1a\u5c06\u5176\u8f6c\u53d8\u4e3a\u6b7b\u75bd\u4f24\u53e3\uff0c\u572815\u79d2\u5185\u5438\u6536\u6240\u6709\u53d7\u5230\u6cbb\u7597\u6548\u679c\u76844%\u3002\r\n\r\n\u53ef\u53e0\u52a06\u5c42\u3002\u6dfb\u52a0\u5c42\u6570\u4e0d\u4f1a\u5237\u65b0\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

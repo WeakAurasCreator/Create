@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "352366"
+  "SpellID": "352366",
+  "name_blz": {
+    "en_US": "Nimble Steps",
+    "es_MX": "Pasos veloces",
+    "pt_BR": "Passos Ligeiros",
+    "de_DE": "Geschickte Schritte",
+    "en_GB": "Nimble Steps",
+    "es_ES": "Pasos \u00e1giles",
+    "fr_FR": "Pas lestes",
+    "it_IT": "Passi Evasivi",
+    "ru_RU": "\u041b\u0435\u0433\u043a\u0438\u0435 \u0448\u0430\u0433\u0438",
+    "ko_KR": "\uc7bd\uc2fc \ubc1c\ub180\ub9bc",
+    "zh_TW": "\u9748\u5de7\u6b65\u4f10",
+    "zh_CN": "\u8f7b\u76c8\u6b65"
+  },
+  "description_blz": {
+    "en_US": "Enemies within 8 yds are slowed by 10%. If you fall below 35% health, enemies within 8 yds are rooted for 4 sec. This can only occur once every 60 sec.",
+    "es_MX": "Los enemigos que est\u00e1n en un radio de 8 m sufren una ralentizaci\u00f3n del 10%. Si tu salud cae por debajo del 35%, los enemigos en un radio de 8 m quedan enraizados durante 4 s. Esto solo puede ocurrir una vez cada 60 s.",
+    "pt_BR": "Os inimigos em um raio de 8 m ficam desacelerados em 10%. Se voc\u00ea ficar com menos de 35% dos pontos de vida, os inimigos em um raio de 8 m ficar\u00e3o enraizados por 4 s. Este efeito s\u00f3 pode ocorrer uma vez a cada 60 s.",
+    "de_DE": "Gegner innerhalb von 8 Metern werden um 10% verlangsamt. Wenn Eure Gesundheit unter 35% f\u00e4llt, werden Gegner innerhalb von 8 Metern f\u00fcr 4 Sek. bewegungsunf\u00e4hig gemacht. Dieser Effekt kann nur einmal alle 60 Sek. auftreten.",
+    "en_GB": "Enemies within 8 yds are slowed by 10%. If you fall below 35% health, enemies within 8 yds are rooted for 4 sec. This can only occur once every 60 sec.",
+    "es_ES": "Ralentiza un 10% a los enemigos en un radio de 8 m. Si tu salud cae por debajo del 35%, enra\u00edza durante 4 s a los enemigos en un radio de 8 m. Esto solo puede ocurrir una vez cada 60 s.",
+    "fr_FR": "Les ennemis \u00e0 moins de 8\u00a0m\u00e8tres sont ralentis de 10%. Lorsque vous tombez sous 35% de points de vie, les ennemis \u00e0 moins de 8\u00a0m\u00e8tres sont immobilis\u00e9s pendant 4 s. Ne peut se produire qu\u2019une fois toutes les 60\u00a0s.",
+    "it_IT": "Riduce la velocit\u00e0 di movimento dei nemici entro 8 m del 10%. Se si scende al di sotto del 35% della salute massima, i nemici entro 8 m restano immobilizzati per 4 s. Pu\u00f2 verificarsi solo una volta ogni 60 s.",
+    "ru_RU": "\u0417\u0430\u043c\u0435\u0434\u043b\u044f\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c \u043d\u0430 10%. \u041a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0430\u0434\u0430\u0435\u0442 \u043d\u0438\u0436\u0435 35%, \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 4 \u0441\u0435\u043a. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 60 \u0441\u0435\u043a.",
+    "ko_KR": "8\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \uc801\uc758 \uc774\ub3d9 \uc18d\ub3c4\uac00 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \uc0dd\uba85\ub825\uc774 35% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74 8\ubbf8\ud130 \ub0b4\uc758 \uc801\uc744 4\ucd08 \ub3d9\uc548 \uc774\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\ub85c \ub9cc\ub4ed\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 60\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "8\u78bc\u5167\u7684\u6575\u4eba\u7de9\u901f10%\u3002\u5982\u679c\u4f60\u964d\u81f335%\u751f\u547d\u529b\uff0c\u9644\u8fd18\u78bc\u5167\u7684\u6575\u4eba\u6703\u88ab\u5b9a\u8eab4\u79d2\u3002\u9019\u500b\u6548\u679c\u6bcf60\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "8\u7801\u5185\u7684\u654c\u4eba\u88ab\u51cf\u901f10%\u3002 \u5982\u679c\u4f60\u7684\u751f\u547d\u503c\u4f4e\u4e8e35%\uff0c\u52198\u7801\u5185\u7684\u654c\u4eba\u5c06\u88ab\u5b9a\u8eab4\u79d2\u3002 \u8be5\u6548\u679c\u6bcf60\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

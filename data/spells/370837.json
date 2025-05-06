@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "370837"
+  "SpellID": "370837",
+  "name_blz": {
+    "en_US": "Engulfing Blaze",
+    "es_MX": "Llamarada envolvente",
+    "pt_BR": "Labareda Devoradora",
+    "de_DE": "Packende Lohe",
+    "en_GB": "Engulfing Blaze",
+    "es_ES": "Llamarada engullidora",
+    "fr_FR": "Brasier enveloppant",
+    "it_IT": "Fiammata Avvolgente",
+    "ru_RU": "\u041e\u043a\u0443\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u0435 \u043f\u043b\u0430\u043c\u044f",
+    "ko_KR": "\ubd88\uae38\uc758 \uae30\uc138",
+    "zh_TW": "\u541e\u6c92\u70c8\u7130",
+    "zh_CN": "\u566c\u4f53\u5149\u7130"
+  },
+  "description_blz": {
+    "en_US": "Living Flame deals 25% increased damage and healing, but its cast time is increased by 0.3 sec.",
+    "es_MX": "Llama viva inflige un 25% m\u00e1s de da\u00f1o y de sanaci\u00f3n, pero su tiempo de lanzamiento aumenta 0.3 s.",
+    "pt_BR": "Chama Viva tem dano e cura 25% maiores, mas o tempo de lan\u00e7amento aumenta em 0,3 s.",
+    "de_DE": "'Lebende Flamme' verursacht 25% mehr Schaden und Heilung, aber die Zauberzeit ist um 0,3 Sek. erh\u00f6ht.",
+    "en_GB": "Living Flame deals 25% increased damage and healing, but its cast time is increased by 0.3 sec.",
+    "es_ES": "Llama viva inflige y aplica un 25% m\u00e1s de da\u00f1o y de sanaci\u00f3n, pero el tiempo de lanzamiento aumenta en 0,3 s.",
+    "fr_FR": "Les d\u00e9g\u00e2ts et les soins de Flamme vivante sont augment\u00e9s de 25%, mais son temps d\u2019incantation est rallong\u00e9 de 0,3\u00a0s.",
+    "it_IT": "Aumenta i danni inflitti e le cure fornite da Fiamma Vivente del 25% e aumenta il suo tempo di lancio di 0,3 s.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u0438 \u0441\u0438\u043b\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \"\u0416\u0438\u0432\u043e\u0433\u043e \u0436\u0430\u0440\u0430\" \u043d\u0430 25%, \u043d\u043e \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043d\u0430 0,3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0b4\uc544\uc788\ub294 \ubd88\uaf43\uc758 \uacf5\uaca9\ub825\uacfc \uce58\uc720\ub7c9\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud558\uc9c0\ub9cc, \uc2dc\uc804 \uc2dc\uac04 \ub610\ud55c 0.3\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u70c8\u7130\u53ef\u9020\u621025%\u984d\u5916\u50b7\u5bb3\u548c\u6cbb\u7642\uff0c\u4f46\u65bd\u6cd5\u6642\u9593\u5ef6\u95770.3\u79d2\u3002",
+    "zh_CN": "\u6d3b\u5316\u70c8\u7130\u9020\u6210\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u63d0\u9ad825%\uff0c\u4f46\u65bd\u6cd5\u65f6\u95f4\u5ef6\u957f0.3\u79d2\u3002"
+  }
 }

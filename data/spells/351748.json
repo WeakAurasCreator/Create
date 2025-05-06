@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "351748"
+  "SpellID": "351748",
+  "name_blz": {
+    "en_US": "Life is but an Appetizer",
+    "es_MX": "La vida es un aperitivo",
+    "pt_BR": "A Vida \u00e9 um Aperitivo",
+    "de_DE": "Das Leben ist nur die Vorspeise",
+    "en_GB": "Life is but an Appetizer",
+    "es_ES": "La vida no es m\u00e1s que el aperitivo",
+    "fr_FR": "L\u2019app\u00e9tit de vivre",
+    "it_IT": "Antipasto di Vita",
+    "ru_RU": "\u0416\u0438\u0437\u043d\u044c \u2013 \u0432\u0441\u0435\u0433\u043e \u043b\u0438\u0448\u044c \u0437\u0430\u043a\u0443\u0441\u043a\u0430",
+    "ko_KR": "\uc0b6\uc774\ub780 \uc804\ucc44 \uc694\ub9ac\uc5d0 \ubd88\uacfc\ud560 \ubfd0",
+    "zh_TW": "\u751f\u547d\u53ea\u662f\u5c0f\u83dc\u4e00\u789f",
+    "zh_CN": "\u751f\u547d\u53ea\u662f\u5f00\u80c3\u83dc"
+  },
+  "description_blz": {
+    "en_US": "While you are Well Fed, gain 163 Speed and 163 Avoidance.",
+    "es_MX": "Mientras est\u00e1s Bien alimentado, obtienes 163 p. de velocidad y 163 p. de evasi\u00f3n.",
+    "pt_BR": "Quando est\u00e1 Bem Alimentado, voc\u00ea ganha 163 de Velocidade e 163 de Evas\u00e3o.",
+    "de_DE": "W\u00e4hrend Ihr satt seid, ist Eure Geschwindigkeit um 163 und Eure Vermeidung um 163 erh\u00f6ht.",
+    "en_GB": "While you are Well Fed, gain 163 Speed and 163 Avoidance.",
+    "es_ES": "Mientras est\u00e9s bajo los efectos de Bien alimentado, obtienes 163 p. de velocidad y 163 p. de evasi\u00f3n.",
+    "fr_FR": "Tant que vous \u00eates \u00ab\u00a0bien nourri\u00a0\u00bb, vous b\u00e9n\u00e9ficiez d\u2019un bonus de 163 \u00e0 la Vitesse et de 163 \u00e0 l\u2019\u00c9vitement.",
+    "it_IT": "Quando si \u00e8 sotto gli effetti di Ben Nutrito, la velocit\u00e0 di movimento aumenta di 163 e l'indice d'elusione aumenta di 163.",
+    "ru_RU": "\u0412 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0441\u044b\u0442\u043e\u0441\u0442\u0438 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 163, \u0430 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0438\u0437\u0431\u0435\u0436\u0430\u043d\u0438\u044f \u2013 \u043d\u0430 163.",
+    "ko_KR": "\ud3ec\ub9cc\uac10 \uc0c1\ud0dc\uc77c \ub54c \uc18d\ub3c4\uac00 163\ub9cc\ud07c, \uad11\uc5ed\ud68c\ud53c\uac00 163\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ea\u8981\u4f60\u6709\u5145\u5206\u9032\u98df\u6548\u679c\uff0c\u984d\u5916\u7372\u5f97163\u9ede\u901f\u5ea6\u548c163\u9ede\u8ff4\u907f\u3002",
+    "zh_CN": "\u5f53\u4f60\u8fdb\u98df\u5145\u5206\u65f6\uff0c\u83b7\u5f97163\u52a0\u901f\u548c163\u95ea\u907f\u3002"
+  }
 }

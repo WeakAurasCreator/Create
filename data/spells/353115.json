@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "353115"
+  "SpellID": "353115",
+  "name_blz": {
+    "en_US": "Living Tide",
+    "es_MX": "Marea viva",
+    "pt_BR": "Mar\u00e9 Viva",
+    "de_DE": "Lebendige Flut",
+    "en_GB": "Living Tide",
+    "es_ES": "Marea viviente",
+    "fr_FR": "Mar\u00e9e vivifiante",
+    "it_IT": "Marea Vivente",
+    "ru_RU": "\u0416\u0438\u0432\u0430\u044f \u0432\u043e\u043b\u043d\u0430",
+    "ko_KR": "\uc0b4\uc544\uc788\ub294 \ud574\uc77c",
+    "zh_TW": "\u6d3b\u5316\u6d6a\u6f6e",
+    "zh_CN": "\u6d3b\u6f6e"
+  },
+  "description_blz": {
+    "en_US": "Healing Tide Totem's cooldown is reduced by 45 sec and it heals for 25% more each time it pulses.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de T\u00f3tem de Marea de sanaci\u00f3n se reduce 45 s y sana un 25% m\u00e1s con cada pulso.",
+    "pt_BR": "A recarga do Totem de Mar\u00e9 Curativa \u00e9 reduzida em 45 s e ele cura 25% a mais a cada pulso.",
+    "de_DE": "Verringert die Abklingzeit Eures Totems der Heilungsflut um 45 Sek. und das Totem heilt mit jedem Impuls um 25% mehr.",
+    "en_GB": "Healing Tide Totem's cooldown is reduced by 45 sec and it heals for 25% more each time it pulses.",
+    "es_ES": "Reduce 45 s el tiempo de reutilizaci\u00f3n de T\u00f3tem de Marea de sanaci\u00f3n y sana un 25% m\u00e1s con cada pulso.",
+    "fr_FR": "R\u00e9duit le temps de recharge du totem de mar\u00e9e de soins de 45\u00a0s et augmente les soins qu\u2019il prodigue de 25% \u00e0 chaque pulsation.",
+    "it_IT": "Riduce il tempo di recupero del Totem della Marea Curativa di 45 s e ne aumenta le cure fornite del 25% ogni volta che pulsa.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u043e\u0442\u0435\u043c\u0430 \u0446\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043b\u0438\u0432\u0430 \u043d\u0430 45 \u0441\u0435\u043a. \u0421 \u043a\u0430\u0436\u0434\u044b\u043c \u0438\u043c\u043f\u0443\u043b\u044c\u0441\u043e\u043c \u0442\u043e\u0442\u0435\u043c \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043d\u0430 25% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uce58\uc720\uc758 \ud574\uc77c \ud1a0\ud15c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 45\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \ubc15\ub3d9\ud560 \ub54c\ub9c8\ub2e4 25%\uc758 \uc0dd\uba85\ub825\uc744 \ucd94\uac00\ub85c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7642\u7652\u4e4b\u6f6e\u5716\u9a30\u7684\u51b7\u537b\u6642\u9593\u964d\u4f4e45\u79d2\uff0c\u6bcf\u6b21\u8108\u885d\u6cbb\u7642\u6548\u679c\u984d\u5916\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u6cbb\u7597\u4e4b\u6f6e\u56fe\u817e\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed45\u79d2\uff0c\u6bcf\u6b21\u6cbb\u7597\u65f6\uff0c\u5176\u6cbb\u7597\u6548\u679c\u63d0\u9ad825%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "357528"
+  "SpellID": "357528",
+  "name_blz": {
+    "en_US": "Legend of the Animaswell",
+    "es_MX": "Leyenda de la Fuente de \u00c1nima",
+    "pt_BR": "Lenda do Manancial de \u00c2nima",
+    "de_DE": "Legende der Animaquelle",
+    "en_GB": "Legend of the Animaswell",
+    "es_ES": "Leyenda de la animapoza",
+    "fr_FR": "L\u00e9gende du tsunanima",
+    "it_IT": "Leggenda del Grandanimum",
+    "ru_RU": "\u041b\u0435\u0433\u0435\u043d\u0434\u0430 \u043e \u041a\u043e\u043b\u043e\u0434\u0446\u0435 \u0430\u043d\u0438\u043c\u044b",
+    "ko_KR": "\ub839 \uc6a9\ucc9c\uc758 \uc804\uc124",
+    "zh_TW": "\u9748\u9b44\u6e67\u6cc9\u50b3\u8aaa",
+    "zh_CN": "\u5fc3\u80fd\u4e4b\u6d8c\u7684\u4f20\u8bf4"
+  },
+  "description_blz": {
+    "en_US": "The lucrative \"Legend of the Animaswell\" adventure is available on your Command Table for this week.",
+    "es_MX": "La lucrativa aventura \"Leyenda de la Fuente de \u00c1nima\" est\u00e1 disponible en tu mesa de comando esta semana.",
+    "pt_BR": "A lucrativa aventura \"Lenda do Manancial de \u00c2nima\" est\u00e1 dispon\u00edvel na sua Mesa de Comando esta semana.",
+    "de_DE": "Das lukrative Abenteuer \"Legende der Animaquelle\" ist f\u00fcr diese Woche an Eurem Befehlstisch verf\u00fcgbar.",
+    "en_GB": "The lucrative \"Legend of the Animaswell\" adventure is available on your Command Table for this week.",
+    "es_ES": "La lucrativa aventura \"La leyenda de la animapoza\" est\u00e1 disponible esta semana en tu mesa de mando.",
+    "fr_FR": "L\u2019aventure lucrative \u00ab\u00a0L\u00e9gende du tsunanima\u00a0\u00bb est disponible sur votre table de commandement pendant toute cette semaine.",
+    "it_IT": "La remunerativa avventura \"Leggenda del Grandanimum\" \u00e8 disponibile al Tavolo del Comandante per questa settimana.",
+    "ru_RU": "\u041d\u0430 \u044d\u0442\u043e\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043e\u043c\u0430\u043d\u0434\u0438\u0440\u0441\u043a\u043e\u0433\u043e \u0441\u0442\u043e\u043b\u0430 \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0447\u0430\u0442\u044c \u0441\u0443\u043b\u044f\u0449\u0435\u0435 \u0446\u0435\u043d\u043d\u0443\u044e \u043d\u0430\u0433\u0440\u0430\u0434\u0443 \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \"\u041b\u0435\u0433\u0435\u043d\u0434\u0430 \u043e \u041a\u043e\u043b\u043e\u0434\u0446\u0435 \u0430\u043d\u0438\u043c\u044b\".",
+    "ko_KR": "\uc774\ubc88 \uc8fc \uc0ac\ub839\uad00\uc758 \ud0c1\uc790\uc5d0\uc11c \uc9c4\uadc0\ud55c \"\ub839 \uc6a9\ucc9c\uc758 \uc804\uc124\" \ubaa8\ud5d8\uc744 \uc9c4\ud589\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u672c\u9031\u53ef\u900f\u904e\u6307\u63ee\u684c\u9032\u884c\u734e\u52f5\u512a\u6e25\u7684\u300c\u9748\u9b44\u6e67\u6cc9\u50b3\u8aaa\u300d\u5192\u96aa\u3002",
+    "zh_CN": "\u672c\u5468\uff0c\u4f60\u7684\u6307\u6325\u53f0\u4e0a\u4f1a\u51fa\u73b0\u5956\u52b1\u4e30\u539a\u7684\u201c\u5fc3\u80fd\u4e4b\u6d8c\u7684\u4f20\u8bf4\u201d\u5192\u9669\u3002"
+  }
 }

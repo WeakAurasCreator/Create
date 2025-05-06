@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "350441"
+  "SpellID": "350441",
+  "name_blz": {
+    "en_US": "Bonus Time",
+    "es_MX": "Bonificaci\u00f3n de tiempo",
+    "pt_BR": "B\u00f4nus de Tempo",
+    "de_DE": "Bonuszeit",
+    "en_GB": "Bonus Time",
+    "es_ES": "Bonus de tiempo",
+    "fr_FR": "Temps bonus",
+    "it_IT": "Tempo Bonus",
+    "ru_RU": "\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f",
+    "ko_KR": "\ubcf4\ub108\uc2a4 \uc2dc\uac04",
+    "zh_TW": "\u984d\u5916\u6642\u9593",
+    "zh_CN": "\u52a0\u65f6"
+  },
+  "description_blz": {
+    "en_US": "Extends the current Ember Court time limit.",
+    "es_MX": "Extiende el tiempo l\u00edmite actual de la Corte de Brasas.",
+    "pt_BR": "Estende o limite de tempo da Corte das Brasas atual.",
+    "de_DE": "Erh\u00f6ht das Zeitlimit des aktuellen Gluthofs.",
+    "en_GB": "Extends the current Ember Court time limit.",
+    "es_ES": "Ampl\u00eda el l\u00edmite de tiempo restante para la conclusi\u00f3n de la Corte de Ascuas.",
+    "fr_FR": "Prolonge le temps imparti pour la r\u00e9ception de la cour des Braises.",
+    "it_IT": "Estende la durata massima dell'attuale Corte delle Braci.",
+    "ru_RU": "\u041f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0442\u0435\u043a\u0443\u0449\u0438\u0439 \u043f\u0440\u0438\u0435\u043c \u043f\u0440\u0438 \u041f\u0435\u043f\u0435\u043b\u044c\u043d\u043e\u043c \u0434\u0432\u043e\u0440\u0435.",
+    "ko_KR": "\ud604\uc7ac \uc7bf\ubd88 \uad81\uc815\uc758 \uc81c\ud55c \uc2dc\uac04\uc744 \uc5f0\uc7a5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5ef6\u9577\u76ee\u524d\u9019\u5834\u9918\u71fc\u5bb4\u6703\u7684\u6642\u9593\u9650\u5236\u3002",
+    "zh_CN": "\u5ef6\u957f\u5f53\u524d\u7070\u70ec\u738b\u5ead\u7684\u65f6\u9650\u3002"
+  }
 }
