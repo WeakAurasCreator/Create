@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41659"
+  "SpellID": "41659",
+  "name_blz": {
+    "en_US": "Increased Mana Regen",
+    "es_MX": "Regeneraci\u00f3n de man\u00e1 aumentada",
+    "pt_BR": "Regenera\u00e7\u00e3o Aumentada de Mana",
+    "de_DE": "Manaregeneration erh\u00f6ht",
+    "en_GB": "Increased Mana Regen",
+    "es_ES": "Regeneraci\u00f3n de man\u00e1 aumentada",
+    "fr_FR": "R\u00e9g\u00e9n\u00e9ration du mana augment\u00e9e",
+    "it_IT": "Rigenerazione Mana Migliorata",
+    "ru_RU": "\u0423\u0441\u043a\u043e\u0440\u0435\u043d\u043d\u043e\u0435 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043c\u0430\u043d\u044b",
+    "ko_KR": "\ub9c8\ub098 \ud68c\ubcf5 \ud5a5\uc0c1",
+    "zh_TW": "\u63d0\u9ad8\u6cd5\u529b\u6062\u5fa9\u901f\u5ea6",
+    "zh_CN": "Increased Mana Regen"
+  },
+  "description_blz": {
+    "en_US": "Increases your Versatility by 0.",
+    "es_MX": "Aumenta 0 p. tu versatilidad.",
+    "pt_BR": "Aumenta a Versatilidade em 0.",
+    "de_DE": "Erh\u00f6ht Eure Vielseitigkeit um 0.",
+    "en_GB": "Increases your Versatility by 0.",
+    "es_ES": "Aumenta tu versatilidad 0 p.",
+    "fr_FR": "Augmente la polyvalence de 0.",
+    "it_IT": "Aumenta l'indice di versatilit\u00e0 di 0.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043d\u0430 0.",
+    "ko_KR": "\uc720\uc5f0\uc131\uc774 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u81e8\u6a5f\u61c9\u8b8a\u63d0\u9ad80\u9ede\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u5168\u80fd\u63d0\u9ad80\u3002"
+  }
 }
