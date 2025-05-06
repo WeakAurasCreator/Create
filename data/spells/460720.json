@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "460720"
+  "SpellID": "460720",
+  "name_blz": {
+    "en_US": "Wrench Evil",
+    "es_MX": "Extirpar el mal",
+    "pt_BR": "Arranca Males",
+    "de_DE": "B\u00f6ses ausrotten",
+    "en_GB": "Wrench Evil",
+    "es_ES": "Arrancar el mal",
+    "fr_FR": "Renvoi du mal",
+    "it_IT": "Malvagit\u00e0 Distorta",
+    "ru_RU": "\u0418\u0441\u043a\u043e\u0440\u0435\u043d\u0435\u043d\u0438\u0435 \u0437\u043b\u0430",
+    "ko_KR": "\uc545\ub839 \uc808\uba78",
+    "zh_TW": "\u6ec5\u9664\u90aa\u60e1",
+    "zh_CN": "\u626d\u8f6c\u90aa\u6076"
+  },
+  "description_blz": {
+    "en_US": "Turn Evil's cast time is reduced by 100%.",
+    "es_MX": "El tiempo de lanzamiento de Ahuyentar el mal se reduce un 100%.",
+    "pt_BR": "Tempo de lan\u00e7amento de Esconjurar o Mal reduzido em 100%.",
+    "de_DE": "Die Zauberzeit von 'B\u00f6ses vertreiben' ist um 100% verringert.",
+    "en_GB": "Turn Evil's cast time is reduced by 100%.",
+    "es_ES": "El tiempo de lanzamiento de Ahuyentar el mal se reduce un 100%.",
+    "fr_FR": "Le temps d\u2019incantation de Renvoi du mal est r\u00e9duit de 100\u00a0%.",
+    "it_IT": "Riduce il tempo di lancio di Repulsione del Male del 100%.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0418\u0437\u0433\u043d\u0430\u043d\u0438\u044f \u0437\u043b\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100%.",
+    "ko_KR": "\uc545\ub839 \ud1f4\uce58\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 100%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9000\u90aa\u8853\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed100%\u3002",
+    "zh_CN": "\u8d85\u5ea6\u90aa\u6076\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed100%\u3002"
+  }
 }

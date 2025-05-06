@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "459814"
+  "SpellID": "459814",
+  "name_blz": {
+    "en_US": "The Ringing Deeps",
+    "es_MX": "Las Minas Resonantes",
+    "pt_BR": "Fosso Ressonante",
+    "de_DE": "Die Schallenden Tiefen",
+    "en_GB": "The Ringing Deeps",
+    "es_ES": "Cavernas Resonantes",
+    "fr_FR": "Les ab\u00eemes Retentissants",
+    "it_IT": "Profondit\u00e0 Risonanti",
+    "ru_RU": "\u0413\u0443\u043b\u043a\u0438\u0435 \u0433\u043b\u0443\u0431\u0438\u043d\u044b",
+    "ko_KR": "\uc6b8\ub9ac\ub294 \uc2ec\uc5f0",
+    "zh_TW": "\u9cf4\u97ff\u6df1\u6df5",
+    "zh_CN": "\u55a7\u9e23\u6df1\u7a9f"
+  },
+  "description_blz": {
+    "en_US": "Unlocks access to the Ringing Deeps Elevator in the Orecreg.\r\n",
+    "es_MX": "Desbloquea el acceso al elevador de las Minas Resonantes en las Menas Rocosas.\r\n",
+    "pt_BR": "Desbloqueia o acesso ao Elevador do Fosso Ressonante em Miner\u00e1lia.\r\n",
+    "de_DE": "Schaltet den Zugang zum Aufzug der Schallenden Tiefen in der Erzgrube frei.\r\n",
+    "en_GB": "Unlocks access to the Ringing Deeps Elevator in the Orecreg.\r\n",
+    "es_ES": "Desbloquea el acceso al elevador de las Cavernas Resonantes en la Minarroca.\r\n",
+    "fr_FR": "D\u00e9bloque l\u2019acc\u00e8s \u00e0 l\u2019ascenseur des ab\u00eemes Retentissants dans la Mineroc.\r\n",
+    "it_IT": "Sblocca l'accesso all'ascensore delle Profondit\u00e0 Risonanti a Mineralia.\r\n",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043f\u043e\u0434\u044a\u0435\u043c\u043d\u0438\u043a\u0443 \u0413\u0443\u043b\u043a\u0438\u0445 \u0433\u043b\u0443\u0431\u0438\u043d \u0432 \u0420\u0443\u0434\u043d\u043e\u0439 \u0441\u043a\u0430\u043b\u0435.\r\n",
+    "ko_KR": "\uad11\uc11d\ub2e8\uce35\uc5d0\uc11c \uc6b8\ub9ac\ub294 \uc2ec\uc5f0 \uc2b9\uac15\uae30\ub97c \uc774\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u89e3\u9396\u7926\u77f3\u5834\u7684\u9cf4\u97ff\u6df1\u6df5\u5347\u964d\u68af\u3002\r\n",
+    "zh_CN": "\u89e3\u9501\u539f\u77f3\u5ca9\u77ff\u7684\u55a7\u9e23\u6df1\u7a9f\u5347\u964d\u673a\u3002\r\n"
+  }
 }

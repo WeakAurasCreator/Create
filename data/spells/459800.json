@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "459800"
+  "SpellID": "459800",
+  "name_blz": {
+    "en_US": "Rapid Fire Barrage",
+    "es_MX": "Tromba de Fuego r\u00e1pido",
+    "pt_BR": "Barragem de Tiros R\u00e1pidos",
+    "de_DE": "Schnellfeuerbeschuss",
+    "en_GB": "Rapid Fire Barrage",
+    "es_ES": "Tromba de Fuego r\u00e1pido",
+    "fr_FR": "Barrage de feu rapide",
+    "it_IT": "Sbarramento Rapido",
+    "ru_RU": "\u0411\u0435\u0433\u043b\u044b\u0439 \u0448\u043a\u0432\u0430\u043b",
+    "ko_KR": "\uc18d\uc0ac \ud0c4\ub9c9",
+    "zh_TW": "\u6025\u901f\u5c04\u64ca\u5f48\u5e55",
+    "zh_CN": "\u6025\u901f\u5f39\u5e55"
+  },
+  "description_blz": {
+    "en_US": "Barrage now instead shoots Rapid Fires at your target and up to 4 nearby enemies at 40% effectiveness, but its cooldown is increased by 40 sec.",
+    "es_MX": "Tromba ahora dispara Fuegos r\u00e1pidos contra tu objetivo y hasta 4 enemigos cercanos con una eficacia del 40%, pero su tiempo de reutilizaci\u00f3n aumenta 40 s.",
+    "pt_BR": "Barragem agora dispara Tiros R\u00e1pidos no alvo e em at\u00e9 4 inimigos pr\u00f3ximos com 40% da efic\u00e1cia, mas tem a recarga aumentada em 40 s.",
+    "de_DE": "'Sperrfeuer' verschie\u00dft nun stattdessen 'Schnellfeuer' mit einer Effektivit\u00e4t von 40% auf Euer Ziel und bis zu 4 Gegner in der N\u00e4he, doch die Abklingzeit ist um 40 Sek. erh\u00f6ht.",
+    "en_GB": "Barrage now instead shoots Rapid Fires at your target and up to 4 nearby enemies at 40% effectiveness, but its cooldown is increased by 40 sec.",
+    "es_ES": "Ahora, Tromba dispara Fuego r\u00e1pido contra tu objetivo y hasta un m\u00e1ximo de 4 enemigos cercanos con un 40% de efectividad, pero el tiempo de reutilizaci\u00f3n aumenta 40 s.",
+    "fr_FR": "Barrage d\u00e9clenche \u00e0 la place des Tirs rapides sur votre cible et jusqu\u2019\u00e0 4\u00a0adversaires proches \u00e0 40\u00a0% d\u2019efficacit\u00e9, mais son temps de recharge est augment\u00e9 de 40\u00a0s.",
+    "it_IT": "Sbarramento lancia Rapidit\u00e0 di Tiro contro il bersaglio e massimo 4 nemici vicini al 40% dell'efficacia, ma il suo tempo di recupero aumenta di 40 s.",
+    "ru_RU": "\"\u0428\u043a\u0432\u0430\u043b\" \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0446\u0435\u043b\u044c \u0438 4 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \"\u0411\u0435\u0433\u043b\u044b\u043c \u043e\u0433\u043d\u0435\u043c\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 40%, \u043d\u043e \u0435\u0433\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 40 \u0441\u0435\u043a.",
+    "ko_KR": "\ud0c4\ub9c9\uc774 \ucd5c\ub300 4\uba85\uc758 \uc8fc\uc704 \uc801\uc5d0\uac8c 40%\uc758 \ud6a8\uc728\ub85c \uc18d\uc0ac\ub97c \ud37c\ubd93\uc9c0\ub9cc, \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 40\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5f48\u5e55\u73fe\u5728\u8b8a\u6210\u671d\u4f60\u7684\u76ee\u6a19\u548c\u9644\u8fd1\u6700\u591a4\u500b\u6575\u4eba\u767c\u5c04\u6025\u901f\u5c04\u64ca\uff0c\u4f46\u6548\u679c\u5f37\u5ea6\u8b8a\u70ba40%\uff0c\u4e14\u51b7\u537b\u6642\u9593\u5ef6\u957740\u79d2\u3002",
+    "zh_CN": "\u5f39\u5e55\u5c04\u51fb\u73b0\u5728\u6539\u4e3a\u5bf9\u4f60\u7684\u76ee\u6807\u548c\u6700\u591a4\u540d\u9644\u8fd1\u7684\u654c\u4eba\u65bd\u653e\u6025\u901f\u5c04\u51fb\uff0c\u9020\u621040%\u7684\u4f24\u5bb3\uff0c\u4f46\u5176\u51b7\u5374\u65f6\u95f4\u589e\u52a040\u79d2\u3002"
+  }
 }

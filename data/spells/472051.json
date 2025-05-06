@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "472051"
+  "SpellID": "472051",
+  "name_blz": {
+    "en_US": "Runecaster's Eye",
+    "es_MX": "Ojo de invocarrunas",
+    "pt_BR": "Olho do Lan\u00e7a-runas",
+    "de_DE": "Auge des Runenmagiers",
+    "en_GB": "Runecaster's Eye",
+    "es_ES": "Ojo de taumaturgo",
+    "fr_FR": "\u0152il de lanceur de runes",
+    "it_IT": "Occhio del Lanciarune",
+    "ru_RU": "\u0413\u043b\u0430\u0437 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u0442\u0435\u043b\u044f \u0440\u0443\u043d",
+    "ko_KR": "\ub8ec\ub9c8\uc220\uc0ac\uc758 \ub208",
+    "zh_TW": "\u7b26\u6587\u4f7f\u4e4b\u773c",
+    "zh_CN": "\u7b26\u6587\u6cd5\u5e08\u4e4b\u76ee"
+  },
+  "description_blz": {
+    "en_US": "Gain the ability to find and unveil hidden treasures around Siren Isle. The wind will passively guide you towards them.",
+    "es_MX": "Obtienes la habilidad de encontrar y develar tesoros ocultos en la Isla de las Sirenas. El viento te guiar\u00e1 de forma pasiva hacia ellos.",
+    "pt_BR": "Ganha a habilidade de encontrar e revelar tesouros escondidos pela Ilha das Sirenas. O vento conduzir\u00e1 voc\u00ea passivamente na dire\u00e7\u00e3o deles.",
+    "de_DE": "Erhaltet die F\u00e4higkeit, verborgene Sch\u00e4tze auf den Sireneninseln zu finden und aufzudecken. Der Wind wird Euch passiv zu ihnen leiten.",
+    "en_GB": "Gain the ability to find and unveil hidden treasures around Siren Isle. The wind will passively guide you towards them.",
+    "es_ES": "Obtienes la capacidad de desvelar tesoros ocultos en la Isla de la Sirena. El viento te guiar\u00e1 hacia ellos.",
+    "fr_FR": "Vous avez d\u00e9sormais la possibilit\u00e9 de trouver et de r\u00e9v\u00e9ler des tr\u00e9sors cach\u00e9s sur l\u2019\u00eele aux Sir\u00e8nes. Le vent vous guidera de mani\u00e8re naturelle vers eux.",
+    "it_IT": "Fornisce l'abilit\u00e0 di trovare e svelare tesori nascosti sull' Isola delle Sirene. Il vento guida passivamente nella loro direzione.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c \u0438 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0441\u043a\u0440\u044b\u0442\u044b\u0435 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430 \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u0421\u0438\u0440\u0435\u043d. \u0412\u0435\u0442\u0435\u0440 \u0443\u043a\u0430\u0436\u0435\u0442 \u0432\u0430\u043c \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435.",
+    "ko_KR": "\uc138\uc774\ub80c\uc758 \uc12c\uc5d0\uc11c \uc228\uaca8\uc9c4 \ubcf4\ubb3c\uc744 \ucc3e\uc544 \ub4dc\ub7ec\ub0b4\ub294 \ub2a5\ub825\uc744 \uc5bb\uc2b5\ub2c8\ub2e4. \ubc14\ub78c\uc774 \ubcf4\ubb3c\uc774 \uc788\ub294 \ubc29\ud5a5\uc73c\ub85c \uc778\ub3c4\ud574 \uc90d\ub2c8\ub2e4.",
+    "zh_TW": "\u7372\u5f97\u5728\u6d77\u5996\u5cf6\u767c\u73fe\u548c\u63ed\u9732\u96b1\u85cf\u5bf6\u85cf\u7684\u80fd\u529b\u3002\u98a8\u6703\u88ab\u52d5\u5f15\u5c0e\u4f60\u524d\u5f80\u5bf6\u85cf\u7684\u4f4d\u7f6e\u3002",
+    "zh_CN": "\u83b7\u5f97\u5bfb\u627e\u5e76\u53d1\u73b0\u6d77\u5996\u5c9b\u5468\u56f4\u9690\u85cf\u5b9d\u85cf\u7684\u80fd\u529b\u3002\u98ce\u4f1a\u81ea\u52a8\u4e3a\u4f60\u6307\u660e\u5b9d\u85cf\u65b9\u5411\u3002"
+  }
 }

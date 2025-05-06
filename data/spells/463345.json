@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "463345"
+  "SpellID": "463345",
+  "name_blz": {
+    "en_US": "Pheromones: High Hollows",
+    "es_MX": "Feromonas: Escondrijos Elevados",
+    "pt_BR": "Ferom\u00f4nios: Altagrota",
+    "de_DE": "Pheromone: Hochh\u00f6hlen",
+    "en_GB": "Pheromones: High Hollows",
+    "es_ES": "Feromonas: Cuencas Altas",
+    "fr_FR": "Ph\u00e9romones\u00a0: Haut-Creux",
+    "it_IT": "Feromoni: Alte Fosse",
+    "ru_RU": "\u0424\u0435\u0440\u043e\u043c\u043e\u043d\u044b: \u0412\u0435\u0440\u0445\u043d\u0438\u0435 \u041b\u043e\u0449\u0438\u043d\u044b",
+    "ko_KR": "\ud398\ub85c\ubaac: \ub4dc\ub192\uc740 \uacf5\ub3d9",
+    "zh_TW": "\u8cbb\u6d1b\u8499\uff1a\u8cb4\u65cf\u8c37",
+    "zh_CN": "\u4fe1\u606f\u7d20\uff1a\u9ad8\u8038\u865a\u5c45"
+  },
+  "description_blz": {
+    "en_US": "Gain Pheromones that allow entry into the High Hollows. You may engage with citizens, but guards will see through your ruse if you get too close.",
+    "es_MX": "Otorga feromonas que permiten acceder a los Escondrijos Elevados. Podr\u00e1s interactuar con los ciudadanos, pero los guardias se dar\u00e1n cuenta de tu farsa si te acercas demasiado.",
+    "pt_BR": "Ganha Ferom\u00f4nios que permitem a entrada em Altagrota. Voc\u00ea pode interagir com os habitantes de l\u00e1, mas os guardas ver\u00e3o sua farsa se voc\u00ea se aproximar demais.",
+    "de_DE": "Erhaltet Pheromone, die Euch Zugang zu den Hochh\u00f6hlen gew\u00e4hren. Ihr k\u00f6nnt mit B\u00fcrgern interagieren, doch Wachen werden Eure List durchschauen, wenn Ihr ihnen zu nahe kommt.",
+    "en_GB": "Gain Pheromones that allow entry into the High Hollows. You may engage with citizens, but guards will see through your ruse if you get too close.",
+    "es_ES": "Consigues feromonas que te permiten entrar a las Cuencas Altas. Puedes relacionarte con los ciudadanos, pero los guardias descubrir\u00e1n tu artima\u00f1a si te acercas demasiado.",
+    "fr_FR": "Gagnez des ph\u00e9romones qui permettent d\u2019entrer dans le Haut-Creux. Vous pouvez parler \u00e0 la population civile, mais les gardes perceront votre ruse \u00e0 jour si vous approchez.",
+    "it_IT": "Fornisce Feromoni che permettono di entrare nelle Alte Fosse. \u00c8 possibile parlare con gli abitanti, ma le guardie riconosceranno l'inganno se arriveranno abbastanza vicine.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0444\u0435\u0440\u043e\u043c\u043e\u043d\u044b, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0435 \u0432\u043e\u0439\u0442\u0438 \u0432 \u0412\u0435\u0440\u0445\u043d\u0438\u0435 \u041b\u043e\u0449\u0438\u043d\u044b. \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f \u0441 \u043c\u0438\u0440\u043d\u044b\u043c\u0438 \u0436\u0438\u0442\u0435\u043b\u044f\u043c\u0438, \u043d\u043e \u0441\u0442\u0440\u0430\u0436\u043d\u0438\u043a\u0438 \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u044e\u0442 \u0432\u0430\u0441, \u0435\u0441\u043b\u0438 \u0432\u044b \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0431\u043b\u0438\u0437\u043a\u043e.",
+    "ko_KR": "\ub4dc\ub192\uc740 \uacf5\ub3d9 \uc785\uc7a5\uc5d0 \ud544\uc694\ud55c \ud398\ub85c\ubaac\uc744 \uc5bb\uc2b5\ub2c8\ub2e4. \uc2dc\ubbfc\uacfc \uad50\ub958\ud560 \uc218 \uc788\uc9c0\ub9cc \uacbd\ube44\ubcd1\uc5d0\uac8c \ub108\ubb34 \uac00\uae4c\uc774 \ub2e4\uac00\uac00\uba74 \ub4e4\ud1b5\ub0a0 \uac83\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u7372\u5f97\u5141\u8a31\u9032\u5165\u8cb4\u65cf\u8c37\u7684\u8cbb\u6d1b\u8499\u3002\u4f60\u80fd\u8207\u5c45\u6c11\u4ea4\u6d41\uff0c\u4e0d\u904e\uff0c\u5982\u679c\u4f60\u9760\u5f97\u592a\u8fd1\uff0c\u5b88\u885b\u6703\u770b\u900f\u4f60\u7684\u82b1\u62db\u3002",
+    "zh_CN": "\u83b7\u53d6\u4f7f\u4f60\u80fd\u591f\u8fdb\u5165\u9ad8\u8038\u865a\u5c45\u7684\u4fe1\u606f\u7d20\u3002\u4f60\u53ef\u4ee5\u4e0e\u5e02\u6c11\u5f80\u6765\uff0c\u4f46\u5982\u679c\u8fc7\u4e8e\u9760\u8fd1\u536b\u5175\uff0c\u4ed6\u4eec\u4f1a\u6d1e\u5bdf\u4f60\u7684\u8be1\u8ba1\u3002"
+  }
 }

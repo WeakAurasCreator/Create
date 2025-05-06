@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462840"
+  "SpellID": "462840",
+  "name_blz": {
+    "en_US": "Fusion of Elements",
+    "es_MX": "Fusi\u00f3n de elementos",
+    "pt_BR": "Fus\u00e3o dos Elementos",
+    "de_DE": "Fusion der Elemente",
+    "en_GB": "Fusion of Elements",
+    "es_ES": "Fusi\u00f3n de elementos",
+    "fr_FR": "Fusion des \u00e9l\u00e9ments",
+    "it_IT": "Fusione degli Elementi",
+    "ru_RU": "\u0421\u043b\u0438\u044f\u043d\u0438\u0435 \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc815\uae30\uc758 \uc735\ud569",
+    "zh_TW": "\u5143\u7d20\u878d\u5408",
+    "zh_CN": "\u5143\u7d20\u878d\u805a"
+  },
+  "description_blz": {
+    "en_US": "After casting Icefury, the next time you cast a damaging Nature and Fire spell, you additionally cast an Elemental Blast at your target at 60% effectiveness.",
+    "es_MX": "Despu\u00e9s de lanzar Hielofuria, la pr\u00f3xima vez que lances un hechizo da\u00f1ino de naturaleza y uno de fuego, tambi\u00e9n lanzar\u00e1s una Explosi\u00f3n elemental sobre tu objetivo con un 60% de eficacia.",
+    "pt_BR": "Depois de lan\u00e7ar Algif\u00faria, na pr\u00f3xima vez que lan\u00e7ar um feiti\u00e7o de dano de Natureza e Fogo, voc\u00ea tamb\u00e9m lan\u00e7ar\u00e1 um Impacto Elemental no alvo com 60% de efic\u00e1cia.",
+    "de_DE": "Nachdem Ihr 'Eisfuror' gezaubert habt, l\u00f6st Euer n\u00e4chster Natur- oder Feuerschadenszauber zus\u00e4tzlich einen 'Elementarschlag' aus, der Euer Ziel mit 60% Effektivit\u00e4t trifft.",
+    "en_GB": "After casting Icefury, the next time you cast a damaging Nature and Fire spell, you additionally cast an Elemental Blast at your target at 60% effectiveness.",
+    "es_ES": "Tras lanzar Hielofuria, la pr\u00f3xima vez que lances un hechizo da\u00f1ino de Naturaleza y Fuego, tambi\u00e9n lanzas una Explosi\u00f3n elemental a tu objetivo con un 60% de efectividad.",
+    "fr_FR": "Apr\u00e8s avoir lanc\u00e9 Furie-de-glace, la prochaine fois que vous lancez un sort de nature et de feu infligeant des d\u00e9g\u00e2ts, vous lancez en plus une Explosion \u00e9l\u00e9mentaire sur votre cible avec une efficacit\u00e9 de 60\u00a0%.",
+    "it_IT": "Dopo aver lanciato Furiagelida, lanciare un incantesimo d'attacco di natura e di fuoco fa s\u00ec che si lanci una Detonazione Elementale aggiuntiva sul bersaglio al 60% dell'efficacia.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u041b\u0435\u0434\u044f\u043d\u0443\u044e \u044f\u0440\u043e\u0441\u0442\u044c\", \u0432\u0430\u0448\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0435 \u0443\u0440\u043e\u043d \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \u043e\u0433\u043d\u044f \u0438\u043b\u0438 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0446\u0435\u043b\u044c \"\u0423\u0434\u0430\u0440\u043e\u043c \u0434\u0443\u0445\u043e\u0432 \u0441\u0442\u0438\u0445\u0438\u0439\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 60%.",
+    "ko_KR": "\uc5bc\uc74c\uaca9\ub178 \uc2dc\uc804 \ud6c4 \ub2e4\uc74c\uc73c\ub85c \uc790\uc5f0 \ubc0f \ud654\uc5fc \uacf5\uaca9 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud560 \ub54c, \ucd94\uac00\ub85c \ub300\uc0c1\uc5d0\uac8c 60%\uc758 \ud6a8\uc728\ub85c \uc815\uae30 \uc791\ub82c\uc744 \uc2dc\uc804\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u51b0\u6012\u4e4b\u5f8c\uff0c\u4f60\u4e0b\u4e00\u6b21\u65bd\u653e\u4e00\u500b\u50b7\u5bb3\u6027\u81ea\u7136\u8207\u706b\u7130\u6cd5\u8853\u6642\uff0c\u6703\u984d\u5916\u5c0d\u76ee\u6a19\u65bd\u653e\u4e00\u500b\u6548\u679c\u5f37\u5ea6\u70ba60%\u7684\u5143\u7d20\u885d\u64ca\u3002",
+    "zh_CN": "\u65bd\u653e\u51b0\u6012\u540e\uff0c\u4e0b\u4e00\u6b21\u65bd\u653e\u4f24\u5bb3\u6027\u81ea\u7136\u548c\u706b\u7130\u6cd5\u672f\u65f6\uff0c\u4f60\u4f1a\u989d\u5916\u5bf9\u76ee\u6807\u65bd\u653e\u4e00\u6b21\u5143\u7d20\u51b2\u51fb\uff0c\u4ea7\u751f60%\u7684\u6548\u679c\u3002"
+  }
 }

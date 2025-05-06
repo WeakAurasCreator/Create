@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "6795"
+  "SpellID": "6795",
+  "name_blz": {
+    "en_US": "Growl",
+    "es_MX": "Bramido",
+    "pt_BR": "Rosnar",
+    "de_DE": "Knurren",
+    "en_GB": "Growl",
+    "es_ES": "Bramido",
+    "fr_FR": "Grondement",
+    "it_IT": "Ringhio",
+    "ru_RU": "\u0420\u044b\u043a",
+    "ko_KR": "\ud3ec\ud6a8",
+    "zh_TW": "\u4f4e\u543c",
+    "zh_CN": "\u4f4e\u543c"
+  },
+  "description_blz": {
+    "en_US": "Taunts the target to attack you.",
+    "es_MX": "Provoca al objetivo para que te ataque.",
+    "pt_BR": "Provoca o alvo a atacar voc\u00ea.",
+    "de_DE": "Verspottet das Ziel, damit es Euch angreift.",
+    "en_GB": "Taunts the target to attack you.",
+    "es_ES": "Provoca al objetivo para que te ataque.",
+    "fr_FR": "Provoque la cible et la force \u00e0 vous attaquer.",
+    "it_IT": "Provoca il bersaglio, inducendolo ad attaccarti.",
+    "ru_RU": "\u0417\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0432\u0430\u0441.",
+    "ko_KR": "\uc801\uc744 \ub3c4\ubc1c\ud558\uc5ec \uc790\uc2e0\uc744 \uacf5\uaca9\ud558\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5632\u8af7\u76ee\u6a19\u653b\u64ca\u4f60\u3002",
+    "zh_CN": "\u5632\u8bbd\u76ee\u6807\u653b\u51fb\u4f60\u3002"
+  }
 }
