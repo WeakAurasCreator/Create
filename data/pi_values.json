@@ -269,9 +269,9 @@
     "dps_delta": 304650.36,
     "dps_pct_gain": 3.02,
     "pi_dep_spell_ids": {
-      "ascendance": 114051,
+      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "feral_spirit": 333957
+      "ascendance": 114051
     }
   },
   {
@@ -284,9 +284,9 @@
     "dps_delta": 373794.47,
     "dps_pct_gain": 2.87,
     "pi_dep_spell_ids": {
-      "ascendance": 114051,
+      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "feral_spirit": 333957
+      "ascendance": 114051
     }
   },
   {
@@ -299,9 +299,9 @@
     "dps_delta": 189425.85,
     "dps_pct_gain": 3.31,
     "pi_dep_spell_ids": {
-      "ascendance": 114051,
+      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "feral_spirit": 333957
+      "ascendance": 114051
     }
   },
   {
@@ -314,9 +314,9 @@
     "dps_delta": 520677.97,
     "dps_pct_gain": 3.08,
     "pi_dep_spell_ids": {
-      "ascendance": 114051,
+      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "feral_spirit": 333957
+      "ascendance": 114051
     }
   },
   {
@@ -329,8 +329,8 @@
     "dps_delta": 85489.08,
     "dps_pct_gain": 3.21,
     "pi_dep_spell_ids": {
-      "doom_winds": 466772,
-      "feral_spirit": 333957
+      "feral_spirit": 333957,
+      "doom_winds": 466772
     }
   },
   {
@@ -408,8 +408,8 @@
     "dps_delta": 231762.14,
     "dps_pct_gain": 2.97,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": 152279,
-      "pillar_of_frost": 51271
+      "pillar_of_frost": 51271,
+      "breath_of_sindragosa": 152279
     }
   },
   {
@@ -435,8 +435,8 @@
     "dps_delta": 288741.0,
     "dps_pct_gain": 2.74,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": 152279,
-      "pillar_of_frost": 51271
+      "pillar_of_frost": 51271,
+      "breath_of_sindragosa": 152279
     }
   },
   {
@@ -449,8 +449,8 @@
     "dps_delta": 459227.82,
     "dps_pct_gain": 2.79,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": 152279,
-      "pillar_of_frost": 51271
+      "pillar_of_frost": 51271,
+      "breath_of_sindragosa": 152279
     }
   },
   {
@@ -463,8 +463,8 @@
     "dps_delta": 170990.29,
     "dps_pct_gain": 3.06,
     "pi_dep_spell_ids": {
-      "breath_of_sindragosa": 152279,
-      "pillar_of_frost": 51271
+      "pillar_of_frost": 51271,
+      "breath_of_sindragosa": 152279
     }
   },
   {
