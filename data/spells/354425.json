@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "354425"
+  "SpellID": "354425",
+  "name_blz": {
+    "en_US": "Drink Up Me Hearties",
+    "es_MX": "Beban, mis valientes",
+    "pt_BR": "Bebam, Camaradas",
+    "de_DE": "Trinkt aus, Matrosen",
+    "en_GB": "Drink Up Me Hearties",
+    "es_ES": "Empinar el codo",
+    "fr_FR": "Buvez, compagnons\u00a0!",
+    "it_IT": "Bevuta in Compagnia",
+    "ru_RU": "\u041f\u0438\u0442\u044c\u0435 \u0434\u043b\u044f \u0432\u0441\u0435\u0445",
+    "ko_KR": "\uc8fc\uc6b1 \ub4e4\uc774\ud0a4\ub77c\uace0",
+    "zh_TW": "\u4f19\u4f34\u5011\u4e7e\u676f",
+    "zh_CN": "\u5f00\u6000\u7545\u996e"
+  },
+  "description_blz": {
+    "en_US": "Crimson Vial restores 5% additional maximum health and grants 60% of its healing to allies within 15 yds.",
+    "es_MX": "Vial carmes\u00ed restaura un 5% m\u00e1s de salud m\u00e1xima y otorga un 60% de la sanaci\u00f3n a los aliados que est\u00e1n en un radio de 15 m.",
+    "pt_BR": "O Frasco Rubro restaura mais 5% do m\u00e1ximo de pontos de vida e concede 60% da cura aos aliados em um raio de 15 m.",
+    "de_DE": "'Blutrote Phiole' stellt zus\u00e4tzlich 5% der maximalen Gesundheit wieder her und gew\u00e4hrt Verb\u00fcndeten innerhalb von 15 Metern 60% der Heilung.",
+    "en_GB": "Crimson Vial restores 5% additional maximum health and grants 60% of its healing to allies within 15 yds.",
+    "es_ES": "Vial carmes\u00ed restaura un 5% de salud m\u00e1xima extra y otorga un 60% de su sanaci\u00f3n a los aliados en un radio de 15 m.",
+    "fr_FR": "Fiole cramoisie rend\u00a05% suppl\u00e9mentaires du maximum de points de vie et conf\u00e8re 60% de ses soins aux alli\u00e9s \u00e0 moins de 15\u00a0m\u00e8tres.",
+    "it_IT": "Fiala Cremisi rigenera il 5% della salute massima in pi\u00f9 e fornisce il 60% delle sue cure agli alleati entro 15 m.",
+    "ru_RU": "\"\u0410\u043b\u044b\u0439 \u0444\u0438\u0430\u043b\" \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u0435\u0449\u0435 5% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 15 \u043c \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 60%.",
+    "ko_KR": "\uc9c4\ud64d\uc0c9 \uc57d\ubcd1 \uc0ac\uc6a9 \uc2dc \ucd94\uac00\ub85c \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 5%\ub9cc\ud07c \ud68c\ubcf5\ud558\uace0, 15\ubbf8\ud130 \ub0b4\uc758 \uc544\uad70\uc744 \uce58\uc720\ub7c9\uc758 60%\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8d64\u7d05\u85e5\u74f6\u6703\u984d\u5916\u6cbb\u7642\u751f\u547d\u529b\u4e0a\u9650\u76845%\uff0c\u4e26\u4e14\u8ce6\u4e8815\u78bc\u7bc4\u570d\u5167\u7684\u76df\u53cb\u8a72\u6cbb\u7642\u91cf\u768460%\u3002",
+    "zh_CN": "\u7329\u7ea2\u4e4b\u74f6\u989d\u5916\u6062\u590d5%\u7684\u6700\u5927\u751f\u547d\u503c\uff0c\u5e76\u4e14\u4f1a\u5bf9\u9644\u8fd115\u7801\u8303\u56f4\u5185\u7684\u76df\u53cb\u9020\u621060%\u7684\u6cbb\u7597\u6548\u679c\u3002"
+  }
 }

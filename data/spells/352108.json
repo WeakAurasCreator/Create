@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "352108"
+  "SpellID": "352108",
+  "name_blz": {
+    "en_US": "Viscous Trail",
+    "es_MX": "Rastro viscoso",
+    "pt_BR": "Rastro Viscoso",
+    "de_DE": "Z\u00e4hfl\u00fcssige Spur",
+    "en_GB": "Viscous Trail",
+    "es_ES": "Rastro viscoso",
+    "fr_FR": "Tra\u00een\u00e9e visqueuse",
+    "it_IT": "Traccia Viscosa",
+    "ru_RU": "\u0412\u044f\u0437\u043a\u0438\u0439 \u0441\u043b\u0435\u0434",
+    "ko_KR": "\ub048\uc801\uc774\ub294 \ud754\uc801",
+    "zh_TW": "\u9ecf\u7a20\u75d5\u8de1",
+    "zh_CN": "\u9ecf\u6027\u8e2a\u8ff9"
+  },
+  "description_blz": {
+    "en_US": "When struck by a snare, you drop a puddle that lasts for 10 sec. Enemies that step in the puddle are slowed by 70% for 5 sec.\r\n\r\nMay only occur once every 60 sec.",
+    "es_MX": "Cuando te afecta un efecto de frenado, dejas un charco que dura 10 s. El charco ralentiza a los enemigos que lo pisan un 70% durante 5 s.\r\n\r\nSolo puede ocurrir una vez cada 60 s.",
+    "pt_BR": "Ao ficar sob efeito de lerdeza, voc\u00ea cria uma po\u00e7a que dura 10 s. Os inimigos dentro dela ficam desacelerados em 70% por 5 s.\r\n\r\nEste efeito s\u00f3 pode ocorrer uma vez a cada 60 s.",
+    "de_DE": "Wenn Ihr von einem bewegungseinschr\u00e4nkenden Effekt getroffen werdet, erschafft Ihr eine Pf\u00fctze, die 10 Sek. lang anh\u00e4lt. Gegner, die die Pf\u00fctze betreten, werden f\u00fcr 5 Sek. um 70% verlangsamt.\r\n\r\nKann nur einmal alle 60 Sek. auftreten.",
+    "en_GB": "When struck by a snare, you drop a puddle that lasts for 10 sec. Enemies that step in the puddle are slowed by 70% for 5 sec.\r\n\r\nMay only occur once every 60 sec.",
+    "es_ES": "Al recibir un efecto de frenado, dejas un charco que dura 10 s y ralentiza a los enemigos que lo pisan un 70% durante 5 s.\r\n\r\nSolo puede ocurrir una vez cada 60 s.",
+    "fr_FR": "Lorsque vous \u00eates ralenti, vous cr\u00e9ez une flaque qui persiste 10 s. Les ennemis qui y marchent sont ralentis de 70% pendant5 s.\r\n\r\nNe peut se produire plus d\u2019une fois toutes les 60\u00a0s.",
+    "it_IT": "Quando si viene colpiti da una trappola, si rilascia una pozza che dura 10 s e che riduce la velocit\u00e0 di movimento dei nemici che ci entrano del 70% per 5 s.\r\n\r\nPu\u00f2 verificarsi solo una volta ogni 60 s.",
+    "ru_RU": "\u041f\u043e\u043f\u0430\u0432 \u043f\u043e\u0434 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u0430, \u0441\u043d\u0438\u0436\u0430\u044e\u0449\u0435\u0433\u043e \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f, \u0432\u044b \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0430 5 \u0441\u0435\u043a. \u0437\u0430\u043c\u0435\u0434\u043b\u044f\u0435\u0442 \u043f\u043e\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0445 \u0432 \u043d\u0435\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 70%. \u042d\u0442\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 10 \u0441\u0435\u043a.\r\n\r\n\u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 60 \u0441\u0435\u043a.",
+    "ko_KR": "\uac10\uc18d \ud6a8\uacfc\uc5d0 \uac78\ub9ac\uba74 10\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub418\ub294 \uc6c5\ub369\uc774\ub97c \ub0a8\uae41\ub2c8\ub2e4. \uc6c5\ub369\uc774 \uc548\uc5d0 \ub4e4\uc5b4\uc624\ub294 \uc801\uc740 5\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 70%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n60\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53d7\u5230\u7de9\u901f\u6642\uff0c\u4f60\u6703\u7559\u4e0b\u5c0f\u6ce5\u6cbc\uff0c\u6301\u7e8c10\u79d2\u3002\u8e29\u5230\u6ce5\u6cbc\u7684\u6575\u4eba\u6703\u88ab\u7de9\u901f70%\uff0c\u6301\u7e8c5\u79d2\u3002\r\n\r\n\u6bcf60\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u88ab\u8bf1\u6355\u51fb\u4e2d\u540e\uff0c\u4f60\u4f1a\u6389\u843d\u4e00\u6ee9\u9ecf\u8ff9\uff0c\u6301\u7eed10\u79d2\u3002 \u8e0f\u5165\u9ecf\u8ff9\u7684\u654c\u4eba\u4f1a\u88ab\u51cf\u901f70%\uff0c\u6301\u7eed5\u79d2\u3002\r\n\r\n\u6bcf60\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

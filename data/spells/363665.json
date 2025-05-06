@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "363665"
+  "SpellID": "363665",
+  "name_blz": {
+    "en_US": "Killing Frenzy",
+    "es_MX": "Frenes\u00ed asesino",
+    "pt_BR": "Farnesim Fatal",
+    "de_DE": "Mordrausch",
+    "en_GB": "Killing Frenzy",
+    "es_ES": "Frenes\u00ed asesino",
+    "fr_FR": "Fr\u00e9n\u00e9sie meurtri\u00e8re",
+    "it_IT": "Frenesia Omicida",
+    "ru_RU": "\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e",
+    "ko_KR": "\ud559\uc0b4\uc758 \uad11\ub780",
+    "zh_TW": "\u6bba\u622e\u72c2\u4e82",
+    "zh_CN": "\u6740\u622e\u72c2\u4e71"
+  },
+  "description_blz": {
+    "en_US": "Kill Command critical hits empower your next Cobra Shot or Multi-Shot, increasing the damage and cooldown reduction of Cobra Shot by 40% or causing Multi-Shot to grant an additional 6.0 sec of Beast Cleave.",
+    "es_MX": "Los golpes cr\u00edticos de Matar potencian tu pr\u00f3ximo Disparo de cobra o Multidisparo, lo que aumenta un 40% el da\u00f1o y la reducci\u00f3n de tiempo de reutilizaci\u00f3n de Disparo de cobra o hace que Multidisparo otorgue 6.0 s m\u00e1s de Tajo de la bestia.",
+    "pt_BR": "Os acertos cr\u00edticos de Comando para Matar potencializam seu pr\u00f3ximo Disparo da Naja ou Tiro M\u00faltiplo, aumentando 40% o dano e a redu\u00e7\u00e3o de recarga de Disparo da Naja ou fazendo Tiro M\u00faltiplo conceder um adicional de 6,0 s de Cutilada da Fera.",
+    "de_DE": "Kritische Treffer mit 'T\u00f6tungsbefehl' verst\u00e4rken Euren n\u00e4chsten Einsatz von 'Kobraschuss' oder 'Mehrfachschuss'. Der Schaden und die Abklingzeitverringerung sind um 40% erh\u00f6ht. 'Mehrfachschuss' gew\u00e4hrt zus\u00e4tzliche 6,0 Sek. 'Raubtierhiebe'.",
+    "en_GB": "Kill Command critical hits empower your next Cobra Shot or Multi-Shot, increasing the damage and cooldown reduction of Cobra Shot by 40% or causing Multi-Shot to grant an additional 6.0 sec of Beast Cleave.",
+    "es_ES": "Los golpes cr\u00edticos de Matar potencian tu siguiente Disparo de cobra o Multidisparo. Aumenta un 40% el da\u00f1o y la reducci\u00f3n del tiempo de reutilizaci\u00f3n de Disparo de cobra, o hace que Multidisparo aumente 6,0 s la duraci\u00f3n de Tajo de la bestia.",
+    "fr_FR": "Les coups critiques d\u2019Ordre de tuer renforcent le prochain Tir du cobra ou Fl\u00e8ches multiples, ce qui augmente les d\u00e9g\u00e2ts et la r\u00e9duction de temps de recharge de Tir du cobra de 40% ou permet \u00e0 Fl\u00e8ches multiples de rallonger Encha\u00eenement bestial de 6,0\u00a0s.",
+    "it_IT": "I colpi critici di Ordine di Morte potenziano il successivo Tiro del Cobra o Tiro Multiplo, aumentando i danni inflitti e la riduzione del tempo di recupero di Tiro del Cobra del 40% o facendo s\u00ec che Tiro Multiplo fornisca 6,0 s aggiuntivi di Fendente Bestiale.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0434\u0430\u0440\u044b \"\u041a\u043e\u043c\u0430\u043d\u0434\u044b \"\u0412\u0437\u044f\u0442\u044c!\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0412\u044b\u0441\u0442\u0440\u0435\u043b \u043a\u043e\u0431\u0440\u044b\" \u0438\u043b\u0438 \"\u0417\u0430\u043b\u043f\", \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0443\u0440\u043e\u043d \u0438 \u0431\u043e\u043d\u0443\u0441 \u043a \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0412\u044b\u0441\u0442\u0440\u0435\u043b\u0430 \u043a\u043e\u0431\u0440\u044b\" \u043d\u0430 40% \u0438\u043b\u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \"\u0417\u0430\u043b\u043f\u0443\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0423\u0434\u0430\u0440\u0430 \u0437\u0432\u0435\u0440\u044f\" \u043d\u0430 6,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0b4\uc0c1 \uba85\ub839\uc774 \uce58\uba85\ud0c0\ub85c \uc801\uc911\ud558\uba74 \ub2e4\uc74c \ucf54\ube0c\ub77c \uc0ac\uaca9 \ub610\ub294 \uc77c\uc81c \uc0ac\uaca9\uc774 \uac15\ud654\ub418\uba70, \ucf54\ube0c\ub77c \uc0ac\uaca9\uc758 \uacf5\uaca9\ub825\uacfc \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04 \uac10\uc18c \ud6a8\uacfc\ub97c 40%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uac70\ub098 \uc77c\uc81c \uc0ac\uaca9\uc758 \uc57c\uc218\uc758 \ud68c\uc804\ubca0\uae30\uac00 6.0\ucd08 \ub354 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u64ca\u6bba\u547d\u4ee4\u7684\u81f4\u547d\u4e00\u64ca\u6703\u5f37\u5316\u4f60\u4e0b\u4e00\u500b\u773c\u93e1\u86c7\u5c04\u64ca\u6216\u591a\u91cd\u5c04\u64ca\uff0c\u4f7f\u773c\u93e1\u86c7\u5c04\u64ca\u7684\u50b7\u5bb3\u548c\u51b7\u537b\u6642\u9593\u7e2e\u77ed\u5e45\u5ea6\u63d0\u9ad840%\uff0c\u6216\u4f7f\u591a\u91cd\u5c04\u64ca\u984d\u5916\u7372\u5f976.0\u79d2\u7684\u7378\u5288\u65ac\u3002",
+    "zh_CN": "\u6740\u622e\u547d\u4ee4\u7206\u51fb\u540e\uff0c\u4f1a\u5f3a\u5316\u4f60\u7684\u4e0b\u4e00\u6b21\u773c\u955c\u86c7\u5c04\u51fb\u6216\u591a\u91cd\u5c04\u51fb\uff0c\u773c\u955c\u86c7\u5c04\u51fb\u7684\u4f24\u5bb3\u548c\u51b7\u5374\u65f6\u95f4\u7f29\u77ed\u6548\u679c\u63d0\u9ad840%\uff0c\u800c\u591a\u91cd\u5c04\u51fb\u4f1a\u989d\u5916\u63d0\u4f9b6.0\u79d2\u7684\u91ce\u517d\u987a\u5288\u589e\u76ca\u3002"
+  }
 }

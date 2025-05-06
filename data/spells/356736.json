@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "356736"
+  "SpellID": "356736",
+  "name_blz": {
+    "en_US": "Unleash Shield",
+    "es_MX": "Liberar escudo",
+    "pt_BR": "Projetar Escudo",
+    "de_DE": "Schild entfesseln",
+    "en_GB": "Unleash Shield",
+    "es_ES": "Liberar escudo",
+    "fr_FR": "D\u00e9cha\u00eenement de bouclier",
+    "it_IT": "Sfogo dello Scudo",
+    "ru_RU": "\u042d\u043d\u0435\u0440\u0433\u0438\u044f \u0449\u0438\u0442\u0430",
+    "ko_KR": "\ubcf4\ud638\ub9c9 \ubc29\ucd9c",
+    "zh_TW": "\u91cb\u653e\u8b77\u76fe",
+    "zh_CN": "\u91ca\u653e\u62a4\u76fe"
+  },
+  "description_blz": {
+    "en_US": "Unleash your Elemental Shield's energy on an enemy target:\r\n\r\nLightning Shield: Knocks them away.\r\n\r\nEarth Shield: Roots them in place for 2 sec.\r\n\r\nWater Shield: Summons a whirlpool for 6 sec, reducing damage and healing by 50% while they stand within it.",
+    "es_MX": "Desata la energ\u00eda de tu Escudo elemental sobre un objetivo enemigo:\r\n\r\nEscudo de rel\u00e1mpagos: Lo repele.\r\n\r\nEscudo de tierra: Lo enra\u00edza durante 2 s.\r\n\r\nEscudo de agua: Invoca un remolino durante 6 s que reduce un 50% el da\u00f1o y la sanaci\u00f3n mientras el enemigo est\u00e1 dentro de \u00e9l.",
+    "pt_BR": "Lan\u00e7a a energia do seu Escudo Elemental em um alvo inimigo:\r\n\r\nEscudo de Raios: alvo repelido.\r\n\r\nEscudo da Terra: alvo enraizado por 2 s.\r\n\r\nEscudo de \u00c1gua: cria um redemoinho que dura 6 s, reduzindo em 50% o dano e a cura enquanto eles permanecerem nele.",
+    "de_DE": "Entfesselt die Energie Eures Elementarschilds auf ein gegnerisches Ziel:\r\n\r\nBlitzschlagschild: St\u00f6\u00dft das Ziel zur\u00fcck.\r\n\r\nErdschild: Macht das Ziel f\u00fcr 2 Sek. bewegungsunf\u00e4hig.\r\n\r\nWasserschild: Beschw\u00f6rt f\u00fcr 6 Sek. einen Strudel, der Schaden und Heilung um 50% verringert, solange das Ziel sich darin aufh\u00e4lt.",
+    "en_GB": "Unleash your Elemental Shield's energy on an enemy target:\r\n\r\nLightning Shield: Knocks them away.\r\n\r\nEarth Shield: Roots them in place for 2 sec.\r\n\r\nWater Shield: Summons a whirlpool for 6 sec, reducing damage and healing by 50% while they stand within it.",
+    "es_ES": "Libera la energ\u00eda de tu Escudo elemental hacia un objetivo enemigo:\r\n\r\nEscudo de rel\u00e1mpagos: lo repele.\r\n\r\nEscudo de tierra: lo enra\u00edza durante 2 s.\r\n\r\nEscudo de agua: invoca durante 6 s un remolino que reduce un 50% su da\u00f1o y su sanaci\u00f3n mientras permanezca en el interior.",
+    "fr_FR": "D\u00e9cha\u00eene l\u2019\u00e9nergie de votre bouclier \u00e9l\u00e9mentaire sur une cible ennemie\u00a0:\r\n\r\n@spellicon192106Bouclier de foudre\u00a0: repousse la cible.\r\n\r\nBouclier de terre\u00a0: immobilise la cible pendant 2 s.\r\n\r\nBouclier d\u2019eau\u00a0: invoque pendant 6 s un tourbillon qui r\u00e9duit les d\u00e9g\u00e2ts et les soins de 50% tant que la cible se tient \u00e0 l\u2019int\u00e9rieur.",
+    "it_IT": "Libera l'energia dello Scudo Elementale sul bersaglio nemico:\r\n\r\nScudo di Fulmini: respinge indietro il bersaglio.\r\n\r\nScudo di Terra: immobilizza il bersaglio sul posto per 2 s.\r\n\r\nScudo d'Acqua: evoca un gorgo per 6 s, riducendo i danni inflitti e le cure fornite dai bersagli nell'area d'effetto del 50%.",
+    "ru_RU": "\u041e\u0431\u0440\u0443\u0448\u0438\u0432\u0430\u0435\u0442 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0449\u0438\u0442\u0430 \u0441\u0442\u0438\u0445\u0438\u0439 \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430:\r\n\r\n\u0429\u0438\u0442 \u043c\u043e\u043b\u043d\u0438\u0439: \u043e\u0442\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442 \u0446\u0435\u043b\u044c.\r\n\r\n\u0429\u0438\u0442 \u0437\u0435\u043c\u043b\u0438: \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043b\u044c \u043d\u0430 2 \u0441\u0435\u043a.\r\n\r\n\u0412\u043e\u0434\u043d\u044b\u0439 \u0449\u0438\u0442: \u043d\u0430 6 \u0441\u0435\u043a. \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432\u043e\u0434\u043e\u0432\u043e\u0440\u043e\u0442, \u043d\u0430 50% \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u0438 \u0441\u0438\u043b\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0446\u0435\u043b\u0438, \u043f\u043e\u043a\u0430 \u043e\u043d\u0430 \u0432 \u043d\u0435\u043c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f.",
+    "ko_KR": "\uc6d0\uc18c \ubcf4\ud638\ub9c9\uc758 \ud798\uc744 \uc801 \ub300\uc0c1\uc5d0\uac8c \ubc29\ucd9c\ud569\ub2c8\ub2e4.\r\n\r\n\ubc88\uac1c \ubcf4\ud638\ub9c9: \ub300\uc0c1\uc744 \ubc00\uccd0\ub0c5\ub2c8\ub2e4.\r\n\r\n\ub300\uc9c0\uc758 \ubcf4\ud638\ub9c9: \ub300\uc0c1\uc744 2\ucd08 \ub3d9\uc548 \uc774\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\ub85c \ub9cc\ub4ed\ub2c8\ub2e4.\r\n\r\n\ubb3c\uc758 \ubcf4\ud638\ub9c9: 6\ucd08 \ub3d9\uc548 \uc18c\uc6a9\ub3cc\uc774\ub97c \uc18c\ud658\ud558\uc5ec, \uc548\uc5d0 \uc11c \uc788\ub294 \ub300\uc0c1\uc758 \uacf5\uaca9\ub825\uacfc \uce58\uc720\ub7c9\uc744 50%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u6575\u65b9\u76ee\u6a19\u91cb\u653e\u4f60\u5143\u7d20\u8b77\u76fe\u7684\u80fd\u91cf\uff1a\r\n\r\n\u9583\u96fb\u4e4b\u76fe\uff1a\u64ca\u9000\u76ee\u6a19\u3002\r\n\r\n\u5927\u5730\u4e4b\u76fe\uff1a\u4f7f\u76ee\u6a19\u5b9a\u8eab\uff0c\u6301\u7e8c2\u79d2\u3002\r\n\r\n\u6c34\u4e4b\u76fe\uff1a\u53ec\u559a\u4e00\u9053\u6f29\u6e26\uff0c\u6301\u7e8c6\u79d2\uff0c\u4f7f\u7bc4\u570d\u5167\u9020\u6210\u7684\u50b7\u5bb3\u548c\u6cbb\u7642\u6548\u679c\u964d\u4f4e50%\u3002",
+    "zh_CN": "\u5411\u4e00\u4e2a\u654c\u65b9\u76ee\u6807\u91ca\u653e\u4f60\u7684\u5143\u7d20\u62a4\u76fe\u7684\u80fd\u91cf\uff1a\r\n\r\n\u95ea\u7535\u4e4b\u76fe: \u51fb\u9000\u654c\u4eba\u3002\r\n\r\n\u5927\u5730\u4e4b\u76fe: \u5c06\u654c\u4eba\u56fa\u5b9a\u5728\u539f\u5730\uff0c\u6301\u7eed2\u79d2\u3002\r\n\r\n\u6c34\u4e4b\u62a4\u76fe: \u53ec\u5524\u4e00\u4e2a\u6f29\u6da1\uff0c\u6301\u7eed6\u79d2\uff0c\u654c\u4eba\u7ad9\u5728\u6f29\u6da1\u4e2d\u65f6\u9020\u6210\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u6548\u679c\u964d\u4f4e50%\u3002"
+  }
 }

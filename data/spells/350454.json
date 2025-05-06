@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "350454"
+  "SpellID": "350454",
+  "name_blz": {
+    "en_US": "Shell Shocked",
+    "es_MX": "Conmoci\u00f3n traum\u00e1tica",
+    "pt_BR": "De Ovo Virado",
+    "de_DE": "Schrapnellschock",
+    "en_GB": "Shell Shocked",
+    "es_ES": "Conmociovado",
+    "fr_FR": "Traumatisme",
+    "it_IT": "Scioccato",
+    "ru_RU": "\u0421\u043a\u043e\u0440\u043b\u0443\u043f\u0430\u043d\u0446\u0438\u0440\u044c",
+    "ko_KR": "\ud53c\ud0c4 \ucda9\uaca9",
+    "zh_TW": "\u7832\u706b\u9707\u64ca",
+    "zh_CN": "\u86cb\u58f3\u9707\u8361"
+  },
+  "description_blz": {
+    "en_US": "Reduces all damage taken by 50% and increases all damage done by 50%.",
+    "es_MX": "Reduce todo el da\u00f1o recibido un 50% y aumenta todo el da\u00f1o realizado un 50%.",
+    "pt_BR": "Reduz em 50% todo o dano recebido e aumenta em 50% todo o dano causado.",
+    "de_DE": "Verringert s\u00e4mtlichen erlittenen Schaden um 50% und erh\u00f6ht s\u00e4mtlichen verursachten Schaden um 50%.",
+    "en_GB": "Reduces all damage taken by 50% and increases all damage done by 50%.",
+    "es_ES": "Reduce todo el da\u00f1o recibido un 50% y aumenta todo el da\u00f1o infligido un 50%.",
+    "fr_FR": "R\u00e9duit les d\u00e9g\u00e2ts subis de 50% et augmente les d\u00e9g\u00e2ts inflig\u00e9s de 50%.",
+    "it_IT": "Riduce i danni subiti del 50% e aumenta i danni inflitti del 50%.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 50% \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 50%.",
+    "ko_KR": "\ubaa8\ub4e0 \ubc1b\ub294 \ud53c\ud574\uac00 50%\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \ubaa8\ub4e0 \uacf5\uaca9\ub825\uc774 50%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u964d\u4f4e50%\uff0c\u4e14\u9020\u6210\u7684\u6240\u6709\u50b7\u5bb3\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e50%\uff0c\u9020\u6210\u7684\u6240\u6709\u4f24\u5bb3\u63d0\u9ad850%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "363951"
+  "SpellID": "363951",
+  "name_blz": {
+    "en_US": "Malicious Imp-Pact",
+    "es_MX": "Impacto malicioso",
+    "pt_BR": "Pacto do Diabrete Malicioso",
+    "de_DE": "Boshafte Wichtelwirkung",
+    "en_GB": "Malicious Imp-Pact",
+    "es_ES": "Pacto malicioso de diablillos",
+    "fr_FR": "Pacte de diablotin malveillant",
+    "it_IT": "Imp-Patto Maligno",
+    "ru_RU": "\u0423\u0434\u0430\u0440 \u0437\u043b\u043e\u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0431\u0435\u0441\u0430",
+    "ko_KR": "\uc545\ub3c5\ud55c \uc784\ud504\uc758 \uc11c\uc57d",
+    "zh_TW": "\u90aa\u60e1\u5c0f\u9b3c\u885d\u64ca",
+    "zh_CN": "\u6076\u6bd2\u5c0f\u9b3c\u5951\u7ea6"
+  },
+  "description_blz": {
+    "en_US": "Your Hand of Gul'dan has a 15% chance per Soul Shard to summon a Malicious Imp. When slain, Malicious Imp will either deal 4,703 Fire damage to all nearby enemies of your Implosion or deal it to your current target.",
+    "es_MX": "Tu Mano de Gul'dan tiene un 15% de probabilidad por fragmento de alma de invocar un Diablillo malicioso. Cuando lo matan, el Diablillo malicioso inflige 4,703 p. de da\u00f1o de fuego a todos los enemigos cercanos a tu Implosi\u00f3n o le inflige ese da\u00f1o a tu objetivo actual.",
+    "pt_BR": "Sua M\u00e3o de Gul'dan tem 15% de chance por Estilha\u00e7o de Alma de evocar um Diabrete Malicioso. Ao morrer, o Diabrete Malicioso causa 4.703 de dano de Fogo a todos os inimigos pr\u00f3ximos da sua Implos\u00e3o ou ao seu alvo atual.",
+    "de_DE": "Eure 'Hand von Gul'dan' hat eine Chance von 15% pro Seelensplitter, einen boshaften Wichtel zu beschw\u00f6ren. Wenn der boshafte Wichtel get\u00f6tet wird, f\u00fcgt er entweder allen Gegnern in der N\u00e4he Eurer 'Implosion' oder Eurem aktuellen Ziel 4.703 Feuerschaden zu.",
+    "en_GB": "Your Hand of Gul'dan has a 15% chance per Soul Shard to summon a Malicious Imp. When slain, Malicious Imp will either deal 4,703 Fire damage to all nearby enemies of your Implosion or deal it to your current target.",
+    "es_ES": "Mano de Gul'dan tiene un 15% de probabilidad por fragmento de alma de invocar a un diablillo malicioso. Cuando muere, el diablillo malicioso inflige 4703 p. de da\u00f1o de Fuego de Implosi\u00f3n a todos los enemigos cercanos o bien a tu objetivo actual.",
+    "fr_FR": "Votre Main de Gul\u2019dan a 15% de chances par \u00e9clat d\u2019\u00e2me d\u2019invoquer un diablotin malveillant. Lorsqu\u2019il meurt, le diablotin inflige 4703\u00a0points de d\u00e9g\u00e2ts de Feu aux ennemis proches de votre Implosion ou \u00e0 votre cible actuelle.",
+    "it_IT": "Mano di Gul'dan ha una probabilit\u00e0 del 15% per frammento d'anima di evocare un Imp Maligno. Quando muore, l'Imp Maligno infligge 4.703 danni da fuoco a tutti i nemici vicini al bersaglio di Implosione o li infligge al tuo bersaglio attuale.",
+    "ru_RU": "\u0412\u0430\u0448\u0430 \"\u0420\u0443\u043a\u0430 \u0413\u0443\u043b'\u0434\u0430\u043d\u0430\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 15% \u0437\u0430 \u043e\u0441\u043a\u043e\u043b\u043e\u043a \u0434\u0443\u0448\u0438 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0437\u043b\u043e\u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0431\u0435\u0441\u0430. \u041f\u043e\u0441\u043b\u0435 \u0433\u0438\u0431\u0435\u043b\u0438 \u0431\u0435\u0441 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 4703 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u043b\u0438\u0431\u043e \u0446\u0435\u043b\u044f\u043c \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0432\u0430\u0448\u0435\u0439 \"\u0418\u043c\u043f\u043b\u043e\u0437\u0438\u0438\", \u043b\u0438\u0431\u043e \u0432\u0430\u0448\u0435\u0439 \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\uad74\ub2e8\uc758 \uc190 \uc2dc\uc804 \uc2dc 15%\uc758 \ud655\ub960\ub85c \uc601\ud63c\uc758 \uc870\uac01 \ud558\ub098\ub2f9 \uc545\ub3c5\ud55c \uc784\ud504\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4. \uc0ac\ub9dd \uc2dc \uc545\ub3c5\ud55c \uc784\ud504\ub294 \ud30c\uc5f4 \uc8fc\uc704\uc758 \ubaa8\ub4e0 \uc801 \ub610\ub294 \ud604\uc7ac \ub300\uc0c1\uc5d0\uac8c 4,703\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u584a\u9748\u9b42\u88c2\u7247\u4f7f\u4f60\u7684\u53e4\u723e\u4e39\u4e4b\u624b\u670915%\u6a5f\u7387\u53ec\u559a\u90aa\u60e1\u5c0f\u9b3c\u3002\u90aa\u60e1\u5c0f\u9b3c\u5728\u6b7b\u4ea1\u6642\u6703\u5c0d\u5c0f\u9b3c\u7206\u7834\u9644\u8fd1\u7684\u6240\u6709\u6575\u4eba\u6216\u662f\u4f60\u7684\u7576\u524d\u76ee\u6a19\u9020\u62104,703\u9ede\u706b\u7130\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u53e4\u5c14\u4e39\u4e4b\u624b\u6bcf\u6d88\u8017\u4e00\u4e2a\u7075\u9b42\u788e\u7247\uff0c\u5c31\u670915%\u7684\u51e0\u7387\u53ec\u5524\u4e00\u4e2a\u6076\u6bd2\u7684\u5c0f\u9b3c\u3002\u6076\u6bd2\u7684\u5c0f\u9b3c\u88ab\u6740\u6b7b\u65f6\uff0c\u5bf9\u4f60\u65bd\u653e\u5185\u7206\u7684\u76ee\u6807\u9644\u8fd1\u7684\u6240\u6709\u654c\u4eba\u9020\u62104,703\u70b9\u706b\u7130\u4f24\u5bb3\uff0c\u6216\u8005\u5bf9\u4f60\u5f53\u524d\u7684\u76ee\u6807\u9020\u6210\u6b64\u4f24\u5bb3\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "350899"
+  "SpellID": "350899",
+  "name_blz": {
+    "en_US": "Carver's Eye",
+    "es_MX": "Ojo del tallador",
+    "pt_BR": "Olho da Entalhadora",
+    "de_DE": "Auge des Metzen",
+    "en_GB": "Carver's Eye",
+    "es_ES": "Ojo de tallador",
+    "fr_FR": "\u0152il du sculpteur",
+    "it_IT": "Occhio dell'Incisore",
+    "ru_RU": "\u041e\u043a\u043e \u0440\u0435\u0437\u0447\u0438\u043a\u0430",
+    "ko_KR": "\uc870\uac01\uac00\uc758 \ub208",
+    "zh_TW": "\u5207\u9aa8\u8005\u4e4b\u773c",
+    "zh_CN": "\u5207\u8089\u8005\u4e4b\u773c"
+  },
+  "description_blz": {
+    "en_US": "Damaging an enemy above 90% health grants you 371 Mastery for 5 sec, up to 5 stacks. You cannot gain this benefit from the same target for 10 sec.",
+    "es_MX": "Da\u00f1ar a un enemigo con m\u00e1s del 90% de salud te otorga 371 p. de maestr\u00eda durante 5 s, hasta 5 acumulaciones. No puedes recibir este beneficio del mismo objetivo durante 10 s.",
+    "pt_BR": "Causar dano a um inimigo acima de 90% pontos de vida concede a voc\u00ea 371 de Maestria por 5 s, acumulando 5 vezes. O benef\u00edcio n\u00e3o pode ser ganho do mesmo alvo por 10 s.",
+    "de_DE": "Wenn Ihr einem Gegner mit mehr als 90% Gesundheit Schaden zuf\u00fcgt, wird Eure Meisterschaft f\u00fcr 5 Sek. um 371 erh\u00f6ht, bis zu 5 Stapel. Ihr k\u00f6nnt diesen Effekt 10 Sek. lang nicht erneut vom selben Ziel erhalten.",
+    "en_GB": "Damaging an enemy above 90% health grants you 371 Mastery for 5 sec, up to 5 stacks. You cannot gain this benefit from the same target for 10 sec.",
+    "es_ES": "Al infligir da\u00f1o a un enemigo con m\u00e1s del 90% de salud, obtienes 371 p. de maestr\u00eda durante 5 s, hasta un m\u00e1ximo de 5 acumulaciones. No puedes obtener este beneficio del mismo objetivo durante 10 s.",
+    "fr_FR": "Infliger des d\u00e9g\u00e2ts \u00e0 un ennemi au-dessus de 90% de points de vie vous conf\u00e8re un bonus de 371 \u00e0 la Ma\u00eetrise pendant 5 s, cumulable jusqu\u2019\u00e0 5\u00a0fois. Vous ne pouvez pas obtenir deux fois cet effet de la m\u00eame cible \u00e0 moins de 10\u00a0s d\u2019intervalle.",
+    "it_IT": "Infliggere danni a un nemico che ha pi\u00f9 del 90% della salute massima aumenta l'indice di maestria di 371 per 5 s. Si accumula fino a 5 volte. Non \u00e8 possibile ottenere questo beneficio dallo stesso bersaglio per 10 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432\u044b\u0448\u0435 90%, \u0432\u0430\u0448\u0430 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 371 \u043d\u0430 5 \u0441\u0435\u043a. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437. \u0412\u044b \u043d\u0435 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0431\u043e\u043d\u0443\u0441 \u043e\u0442 \u0442\u043e\u0439 \u0436\u0435 \u0446\u0435\u043b\u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 90% \uc774\uc0c1\uc778 \uc801\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 5\ucd08 \ub3d9\uc548 \ud2b9\ud654\uac00 371\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. 10\ucd08\uac00 \uc9c0\ub098\uae30 \uc804\uae4c\uc9c0\ub294 \uac19\uc740 \ub300\uc0c1\uc5d0\uac8c\uc11c \uc774 \ud6a8\uacfc\ub97c \uc5bb\uc9c0 \ubabb\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u751f\u547d\u529b\u9ad8\u65bc90%\u7684\u6575\u4eba\u9020\u6210\u50b7\u5bb3\u6703\u4f7f\u4f60\u7684\u7cbe\u901a\u63d0\u9ad8371%\uff0c\u6301\u7e8c5\u79d2\uff0c\u6700\u591a\u5806\u758a5\u6b21\u300210\u79d2\u5167\u4f60\u7121\u6cd5\u5f9e\u540c\u4e00\u500b\u76ee\u6a19\u7372\u5f97\u6b64\u5f37\u5316\u3002",
+    "zh_CN": "\u5bf9\u751f\u547d\u503c\u9ad8\u4e8e90%\u7684\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u4f1a\u4f7f\u4f60\u83b7\u5f97371\u7cbe\u901a\uff0c\u6301\u7eed5\u79d2\uff0c\u6700\u591a\u53ef\u53e0\u52a05\u5c42\u3002\u4f60\u65e0\u6cd5\u4ece\u540c\u4e00\u76ee\u6807\u8eab\u4e0a\u83b7\u5f97\u6b64\u6548\u679c\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }
