@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41793"
+  "SpellID": "41793",
+  "name_blz": {
+    "en_US": "Increased Parry 20",
+    "es_MX": "Parar aumentado 20",
+    "pt_BR": "Aparo Aumentado 20",
+    "de_DE": "Erh\u00f6htes Parieren 20",
+    "en_GB": "Increased Parry 20",
+    "es_ES": "Parar aumentado 20",
+    "fr_FR": "Parade augment\u00e9e 20",
+    "it_IT": "Parata Migliorata 20",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u043f\u0430\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f 20",
+    "ko_KR": "\ubb34\uae30 \ub9c9\uae30 \ud5a5\uc0c1 20",
+    "zh_TW": "\u589e\u52a0\u62db\u67b6 20",
+    "zh_CN": "Increased Parry 20"
+  },
+  "description_blz": {
+    "en_US": "Increases your parry by 0.",
+    "es_MX": "Aumenta tu parada 0 p.",
+    "pt_BR": "Aumenta em 0 o aparo.",
+    "de_DE": "Erh\u00f6ht Euer Parieren um 0.",
+    "en_GB": "Increases your parry by 0.",
+    "es_ES": "Aumenta tu parada 0 p.",
+    "fr_FR": "Augmente votre parade de 0.",
+    "it_IT": "Aumenta l'indice di parata di 0.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043f\u0430\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 0.",
+    "ko_KR": "\ubb34\uae30 \ub9c9\uae30\uac00 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u62db\u67b6\u63d0\u9ad80\u9ede\u3002",
+    "zh_CN": "\u4f60\u7684\u62db\u67b6\u63d0\u9ad80\u70b9\u3002"
+  }
 }
