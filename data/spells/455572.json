@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455572"
+  "SpellID": "455572",
+  "name_blz": {
+    "en_US": "The Houndmaster's Gambit",
+    "es_MX": "El gambito del maestro de canes",
+    "pt_BR": "Jogada do Mestre de Matilha",
+    "de_DE": "Gambit des Hundemeisters",
+    "en_GB": "The Houndmaster's Gambit",
+    "es_ES": "Gambito del maestro de canes",
+    "fr_FR": "Man\u0153uvre du dresseur de molosses",
+    "it_IT": "Azzardo del Maestro dei Segugi",
+    "ru_RU": "\u0413\u0430\u043c\u0431\u0438\u0442 \u043f\u0441\u0430\u0440\u044f",
+    "ko_KR": "\uc0ac\ub0e5\uac1c\uc870\ub828\uc0ac\uc758 \uc2b9\ubd80\uc218",
+    "zh_TW": "\u99b4\u72ac\u8005\u7684\u96aa\u62db",
+    "zh_CN": "\u9a6f\u72ac\u5927\u5e08\u7684\u5947\u7b56"
+  },
+  "description_blz": {
+    "en_US": "Your Dreadstalkers deal 50% increased damage while your Vilefiend is active.",
+    "es_MX": "Tu Acechador nefasto inflige un 50% m\u00e1s de da\u00f1o mientras est\u00e9 activo tu demoniovil.",
+    "pt_BR": "Seus Espreitadores do Medo causam 50% a mais de dano enquanto seu Diabo Vil estiver ativo.",
+    "de_DE": "Eure 'Schreckenspirscher' verursachen 50% mehr Schaden, solange Euer 'Finsteres Scheusal' aktiv ist.",
+    "en_GB": "Your Dreadstalkers deal 50% increased damage while your Vilefiend is active.",
+    "es_ES": "Tus terracechadores infligen un 50% m\u00e1s de da\u00f1o mientras tu maligno vil est\u00e1 activo.",
+    "fr_FR": "Vos traqueffrois infligent 50\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires lorsque votre d\u00e9mon abject est actif.",
+    "it_IT": "Gli Inseguitori Maligni infliggono il 50% di danni aggiuntivi quando il Demonio Vile \u00e8 attivo.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0432\u0430\u0448 \u043c\u0435\u0440\u0437\u043e\u0442\u0435\u043d\u044c \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0431\u043e\u044e, \u0432\u0430\u0448\u0438 \u0437\u043b\u043e\u0432\u0435\u0449\u0438\u0435 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 50% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc369\uc740\ub9c8\uadc0\uac00 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uacf5\ud3ec\uc0ac\ub0e5\uac1c\uc758 \uacf5\uaca9\ub825\uc774 50%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u7684\u90aa\u60e1\u72ac\u9b54\u8655\u65bc\u6d3b\u52d5\u72c0\u614b\u6642\uff0c\u4f60\u7684\u6050\u61fc\u6f5b\u7375\u72ac\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u5728\u4f60\u7684\u90aa\u72ac\u5904\u4e8e\u6fc0\u6d3b\u72b6\u6001\u65f6\uff0c\u4f60\u7684\u6050\u60e7\u730e\u72ac\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad850%\u3002"
+  }
 }

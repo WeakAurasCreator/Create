@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453722"
+  "SpellID": "453722",
+  "name_blz": {
+    "en_US": "Mage Fire 11.0 Class Set 2pc",
+    "es_MX": "Mage Fire 11.0 Class Set 2pc",
+    "pt_BR": "Mago, Fogo, 11.0, Conjunto de Classe, 2 p\u00e7",
+    "de_DE": "Magierklassenset, Feuer, 11.0, 2 Teile",
+    "en_GB": "Mage Fire 11.0 Class Set 2pc",
+    "es_ES": "Conjunto de clase de mago Fuego 11.0 (2 piezas)",
+    "fr_FR": "Ensemble de classe de mage Feu 11.0 (2\u00a0pi\u00e8ces)",
+    "it_IT": "Mago Fuoco, Set di Classe 11.0, 2 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043c\u0430\u0433\u0430 11.0 \u2013 \u043e\u0433\u043e\u043d\u044c, 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ud654\uc5fc \ub9c8\ubc95\uc0ac 11.0 \uc9c1\uc5c5 \uc138\ud2b8 2\uc138\ud2b8",
+    "zh_TW": "\u6cd5\u5e2b\u706b\u713011.0\u8077\u696d\u5957\u88dd2\u4ef6",
+    "zh_CN": "\u706b\u7130\u6cd5\u5e0811.0\u804c\u4e1a\u5957\u88c52\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Phoenix Flames damage increased by 10%. This amount is increased to 25% on its primary target.",
+    "es_MX": "El da\u00f1o de Llamas del f\u00e9nix aumenta un 10%. Esta cantidad se suma al 25% de su objetivo principal.",
+    "pt_BR": "Dano de Chamas da F\u00eanix aumentado em 10%. A quantidade aumenta para 25% no alvo prim\u00e1rio.",
+    "de_DE": "Schaden von Ph\u00f6nixflammen wird um 10% erh\u00f6ht. Dieser Wert steigt f\u00fcr das Prim\u00e4rziel auf 25%.",
+    "en_GB": "Phoenix Flames damage increased by 10%. This amount is increased to 25% on its primary target.",
+    "es_ES": "Da\u00f1o de Llamas de f\u00e9nix aumentado un 10%. Esta cantidad se incrementa hasta un 25% en su objetivo principal.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Flammes de ph\u00e9nix sont augment\u00e9s de 10\u00a0%. Ce montant est port\u00e9 \u00e0 25\u00a0% sur la cible principale.",
+    "it_IT": "Aumenta i danni inflitti da Fiamme della Fenice del 10%. L'ammontare aumenta al 25% sul bersaglio primario.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u041f\u043b\u0430\u043c\u0435\u043d\u0438 \u0444\u0435\u043d\u0438\u043a\u0441\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%. \u0411\u043e\u043d\u0443\u0441 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0434\u043e 25% \u043f\u0440\u043e\u0442\u0438\u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\ubd88\uc0ac\uc870\uc758 \ubd88\uae38\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc8fc \ub300\uc0c1\uc5d0\uac8c\ub294 \ud6a8\uacfc\uac00 25%\ub85c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9cf3\u51f0\u4e4b\u708e\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002\u5c0d\u4e3b\u8981\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad8\u81f325%\u3002",
+    "zh_CN": "\u4e0d\u6b7b\u9e1f\u4e4b\u7130\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002\u5bf9\u4e3b\u8981\u76ee\u6807\u7684\u6548\u679c\u63d0\u9ad8\u81f325%\u3002"
+  }
 }

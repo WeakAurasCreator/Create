@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "472741"
+  "SpellID": "472741",
+  "name_blz": {
+    "en_US": "Lead From the Front",
+    "es_MX": "Liderar la vanguardia",
+    "pt_BR": "Linha de Frente",
+    "de_DE": "Mit gutem Beispiel voran",
+    "en_GB": "Lead From the Front",
+    "es_ES": "Liderar desde el frente",
+    "fr_FR": "Premi\u00e8re ligne",
+    "it_IT": "Comando dalla Prima Linea",
+    "ru_RU": "\u0412\u043e \u0433\u043b\u0430\u0432\u0435 \u0430\u0442\u0430\u043a\u0438",
+    "ko_KR": "\uc194\uc120\uc218\ubc94",
+    "zh_TW": "\u8eab\u5148\u58eb\u5352",
+    "zh_CN": "\u8eab\u5148\u58eb\u5352"
+  },
+  "description_blz": {
+    "en_US": "Casting Bestial Wrath grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pets by 15% for 12 sec.",
+    "es_MX": "Lanzar C\u00f3lera de las bestias otorga Aullido de l\u00edder de la manada y aumenta el da\u00f1o infligido por tus bestias un 25%, y, el de tus mascotas, un 15% durante 12 s.",
+    "pt_BR": "Lan\u00e7ar Ira Bestial concede Uivo do L\u00edder da Alcateia, aumentando em 25% o dano causado pelas suas Feras, e em 15% o dano causado pelas suas mascotes por 12 s.",
+    "de_DE": "Der Einsatz von 'Zorn des Wildtiers' gew\u00e4hrt 'Heulen des Rudelf\u00fchrers' und erh\u00f6ht den Schaden Eurer Wildtiere um 25% und den Schaden Eurer Begleiter um 15%. H\u00e4lt 12 Sek. lang an.",
+    "en_GB": "Casting Bestial Wrath grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pets by 15% for 12 sec.",
+    "es_ES": "El lanzamiento de C\u00f3lera de las bestias otorga Aullido del l\u00edder de manada y aumenta un 25% el da\u00f1o infligido por tus bestias y un 15% el de tus mascotas durante 12 s.",
+    "fr_FR": "Le lancement de Courroux bestial conf\u00e8re Hurlement du chef de meute et augmente les d\u00e9g\u00e2ts de vos b\u00eates de 25\u00a0% et de vos familiers de 15\u00a0% pendant 12 s.",
+    "it_IT": "Lanciare Ira Bestiale fornisce Ululato del Capobranco e aumenta i danni inflitti dalle tue Bestie del 25% e dai tuoi famigli del 15% per 12 s.",
+    "ru_RU": "\"\u0417\u0432\u0435\u0440\u0438\u043d\u044b\u0439 \u0433\u043d\u0435\u0432\" \u0434\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0412\u043e\u0439 \u0432\u043e\u0436\u0430\u043a\u0430 \u0441\u0442\u0430\u0438\" \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u0448\u0438\u043c\u0438 \u0437\u0432\u0435\u0440\u044f\u043c\u0438, \u043d\u0430 25%, \u0430 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u0448\u0438\u043c\u0438 \u043f\u0438\u0442\u043e\u043c\u0446\u0430\u043c\u0438, \u043d\u0430 15% \u043d\u0430 12 \u0441\u0435\u043a.",
+    "ko_KR": "\uc57c\uc218\uc758 \uaca9\ub178 \uc2dc\uc804 \uc2dc \ubb34\ub9ac\uc758 \uc9c0\ub3c4\uc790\uc758 \ud3ec\ud6a8\uac00 \ubd80\uc5ec\ub418\uace0 12\ucd08 \ub3d9\uc548 \ub9f9\uc218\uc758 \uacf5\uaca9\ub825\uc774 25%\ub9cc\ud07c, \uc57c\uc218\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u72c2\u91ce\u6012\u706b\u6703\u8ce6\u4e88\u7378\u7fa4\u9818\u8896\u72c2\u568e\uff0c\u4e26\u4f7f\u4f60\u7684\u91ce\u7378\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad825%\uff0c\u4f60\u7684\u5bf5\u7269\u5247\u63d0\u9ad815%\uff0c\u6301\u7e8c12\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u72c2\u91ce\u6012\u706b\u4f1a\u83b7\u5f97\u730e\u7fa4\u9886\u8896\u4e4b\u568e\uff0c\u4f7f\u4f60\u7684\u91ce\u517d\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad825%\uff0c\u4f60\u7684\u5ba0\u7269\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u6301\u7eed12\u79d2\u3002"
+  }
 }

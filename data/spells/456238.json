@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "456238"
+  "SpellID": "456238",
+  "name_blz": {
+    "en_US": "Hyperpyrexia",
+    "es_MX": "Hiperpirexia",
+    "pt_BR": "Hiperpirexia",
+    "de_DE": "Hyperpyrexie",
+    "en_GB": "Hyperpyrexia",
+    "es_ES": "Hiperpirexia",
+    "fr_FR": "Hyperpyrexie",
+    "it_IT": "Iperpiressia",
+    "ru_RU": "\u0413\u0438\u043f\u0435\u0440\u043f\u0438\u0440\u0435\u043a\u0441\u0438\u044f",
+    "ko_KR": "\uc774\uc0c1\uace0\uc5f4\uc99d",
+    "zh_TW": "\u9ad8\u71b1",
+    "zh_CN": "\u971c\u4fb5\u70ed\u6bd2"
+  },
+  "description_blz": {
+    "en_US": "Your Runic Power spending abilities have a chance to additionally deal 45% of the damage dealt over 4 sec.",
+    "es_MX": "Tus habilidades que gastan poder r\u00fanico tienen una probabilidad de infligir un 45% m\u00e1s de da\u00f1o durante 4 s.",
+    "pt_BR": "Suas habilidades que consomem Poder R\u00fanico t\u00eam chance de tamb\u00e9m causar 45% do dano causado ao longo de 4 s.",
+    "de_DE": "Eure F\u00e4higkeiten, die Runenmacht verbrauchen, haben eine Chance, zus\u00e4tzlich 45% des verursachten Schadens im Verlauf von 4 Sek. zuzuf\u00fcgen.",
+    "en_GB": "Your Runic Power spending abilities have a chance to additionally deal 45% of the damage dealt over 4 sec.",
+    "es_ES": "Existe la posibilidad de que las facultades que consumen poder r\u00fanico inflijan un 45% del da\u00f1o infligido en los \u00faltimos 4 s como da\u00f1o extra.",
+    "fr_FR": "Vos techniques qui d\u00e9pensent de la puissance runique ont une chance d\u2019infliger en plus 45\u00a0% des d\u00e9g\u00e2ts inflig\u00e9s en 4\u00a0s.",
+    "it_IT": "Le abilit\u00e0 che consumano potenza runica hanno una probabilit\u00e0 di infliggere danni aggiuntivi pari al 45% dei danni inflitti in 4 s.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0449\u0438\u0435 \u0441\u0438\u043b\u0443 \u0440\u0443\u043d, \u043c\u043e\u0433\u0443\u0442 \u043d\u0430\u043d\u0435\u0441\u0442\u0438 \u0435\u0449\u0435 45% \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 4 \u0441\u0435\u043a.",
+    "ko_KR": "\ub8ec \ub9c8\ub825\uc744 \uc18c\ubaa8\ud558\ub294 \ub2a5\ub825 \uc0ac\uc6a9 \uc2dc \uc77c\uc815 \ud655\ub960\ub85c 4\ucd08\uc5d0 \uac78\uccd0 \uc785\ud78c \ud53c\ud574\uc758 45%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6d88\u8017\u7b26\u80fd\u7684\u6280\u80fd\u6709\u4e00\u5b9a\u6a5f\u7387\u57284\u79d2\u5167\u984d\u5916\u9020\u621045%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u6d88\u8017\u7b26\u6587\u80fd\u91cf\u7684\u6280\u80fd\u6709\u51e0\u7387\u57284\u79d2\u5185\u989d\u5916\u9020\u621045%\u7684\u4f24\u5bb3\u3002"
+  }
 }

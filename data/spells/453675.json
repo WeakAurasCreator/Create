@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453675"
+  "SpellID": "453675",
+  "name_blz": {
+    "en_US": "Evoker Devastation 11.0 Class Set 4pc",
+    "es_MX": "Evoker Devastation 11.0 Class Set 4pc",
+    "pt_BR": "Conjurante, Devasta\u00e7\u00e3o, 11.0, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Ruferklassenset, Verheerung, 11.0, 4 Teile",
+    "en_GB": "Evoker Devastation 11.0 Class Set 4pc",
+    "es_ES": "Conjunto de clase de evocador Devastaci\u00f3n 11.0 (4 piezas)",
+    "fr_FR": "Ensemble de classe d\u2019\u00e9vocateur ou \u00e9vocatrice D\u00e9vastation 11.0 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Evocatore Devastazione, Set di Classe 11.0, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043f\u0440\u043e\u0431\u0443\u0434\u0438\u0442\u0435\u043b\u044f 11.0 \u2013 \u043e\u043f\u0443\u0441\u0442\u043e\u0448\u0438\u0442\u0435\u043b\u044c, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ud669\ud3d0 \uae30\uc6d0\uc0ac 11.0 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u559a\u80fd\u5e2b\u7834\u6ec511.0\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u6e6e\u706d\u5524\u9b54\u5e0811.0\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Eternity Surge and Shattering Star's cooldowns are decreased by 1.0 sec and Eternity Surge now grants Essence Burst.",
+    "es_MX": "Los tiempos de reutilizaci\u00f3n de Oleada de eternidad y Estrella destrozadora se reducen 1.0 s, y Oleada de eternidad ahora otorga R\u00e1faga esencial.",
+    "pt_BR": "A recarga de Surto da Eternidade e Estrela Estilha\u00e7ante \u00e9 reduzida em 1,0 s, e Surto da Eternidade agora concede Estouro de Ess\u00eancia.",
+    "de_DE": "Die Abklingzeiten von 'Ewigkeitswoge' und 'Zerschmetternder Stern' werden um 1,0 Sek. verringert und 'Ewigkeitswoge' gew\u00e4hrt jetzt 'Essenzexplosion'.",
+    "en_GB": "Eternity Surge and Shattering Star's cooldowns are decreased by 1.0 sec and Eternity Surge now grants Essence Burst.",
+    "es_ES": "Reduce 1,0 s el tiempo de reutilizaci\u00f3n de Oleada de eternidad y Estrella devastadora. Adem\u00e1s, ahora Oleada de eternidad otorga Explosi\u00f3n de esencia.",
+    "fr_FR": "Le temps de recharge d\u2019Afflux d\u2019\u00e9ternit\u00e9 et d\u2019\u00c9toile fracassante est r\u00e9duit de 1,0\u00a0s, et Afflux d\u2019\u00e9ternit\u00e9 conf\u00e8re d\u00e9sormais Explosion d\u2019essence.",
+    "it_IT": "Riduce i tempi di recupero di Impeto dell'Eternit\u00e0 e Stella Frantumante di 1,0 s e Impeto dell'Eternit\u00e0 ora fornisce Detonazione dell'Essenza.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0412\u0441\u043f\u043b\u0435\u0441\u043a\u0430 \u0432\u0435\u0447\u043d\u043e\u0441\u0442\u0438\" \u0438 \"\u0421\u043e\u043a\u0440\u0443\u0448\u0430\u044e\u0449\u0435\u0439 \u0437\u0432\u0435\u0437\u0434\u044b\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1,0 \u0441\u0435\u043a. \"\u0412\u0441\u043f\u043b\u0435\u0441\u043a \u0432\u0435\u0447\u043d\u043e\u0441\u0442\u0438\" \u0442\u0435\u043f\u0435\u0440\u044c \u0434\u0430\u0435\u0442 \"\u0412\u0437\u0440\u044b\u0432\u043d\u0443\u044e \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c\".",
+    "ko_KR": "\uc601\uc6d0\uc758 \uc1c4\ub3c4 \ubc0f \uc0b0\uc0b0\uc774 \ubd80\uc11c\uc9c0\ub294 \ubcc4\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \uc601\uc6d0\uc758 \uc1c4\ub3c4\uac00 \uc815\uc218 \ud3ed\ubc1c\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6c38\u6046\u5954\u9a30\u548c\u5d29\u788e\u4e4b\u661f\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\uff0c\u4e14\u6c38\u6046\u5954\u9a30\u73fe\u5728\u6703\u8ce6\u4e88\u9f8d\u80fd\u7206\u767c\u3002",
+    "zh_CN": "\u6c38\u6052\u4e4b\u6d8c\u548c\u788e\u88c2\u661f\u8fb0\u7684\u51b7\u5374\u65f6\u95f4\u51cf\u5c111.0\u79d2\uff0c\u6c38\u6052\u4e4b\u6d8c\u73b0\u5728\u4f1a\u4f7f\u4f60\u83b7\u5f97\u7cbe\u534e\u8ff8\u53d1\u3002"
+  }
 }

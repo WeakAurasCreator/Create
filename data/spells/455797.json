@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455797"
+  "SpellID": "455797",
+  "name_blz": {
+    "en_US": "Cenarius' Might",
+    "es_MX": "Poder\u00edo de Cenarius",
+    "pt_BR": "Poder de Cenarius",
+    "de_DE": "Macht von Cenarius",
+    "en_GB": "Cenarius' Might",
+    "es_ES": "Poder\u00edo de Cenarius",
+    "fr_FR": "Force de C\u00e9narius",
+    "it_IT": "Vigore di Cenarius",
+    "ru_RU": "\u0421\u0438\u043b\u0430 \u041a\u0435\u043d\u0430\u0440\u0438\u044f",
+    "ko_KR": "\uc138\ub098\ub9ac\uc6b0\uc2a4\uc758 \uad8c\ub2a5",
+    "zh_TW": "\u585e\u7d0d\u7559\u65af\u7684\u529b\u91cf",
+    "zh_CN": "\u585e\u7eb3\u7559\u65af\u4e4b\u529b"
+  },
+  "description_blz": {
+    "en_US": "Casting Swiftmend increases your Haste by 10% for 6 sec.",
+    "es_MX": "Lanzar Alivio presto aumenta tu celeridad un 10% durante 6 s.",
+    "pt_BR": "Lan\u00e7ar Recomposi\u00e7\u00e3o R\u00e1pida aumenta em 10% sua Acelera\u00e7\u00e3o por 6 s.",
+    "de_DE": "Das Wirken von 'Rasche Heilung' Erh\u00f6ht Euer Tempo 6 Sek. lang um 10%.",
+    "en_GB": "Casting Swiftmend increases your Haste by 10% for 6 sec.",
+    "es_ES": "Al lanzar Alivio presto, se incrementa un 10% tu celeridad durante 6 s.",
+    "fr_FR": "Lancer Prompte gu\u00e9rison augmente votre H\u00e2te de 10\u00a0% pendant 6 s.",
+    "it_IT": "Lanciare Guarigione Immediata aumenta la celerit\u00e0 del 10% per 6 s.",
+    "ru_RU": "\"\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 10% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\uc18d\ud55c \uce58\uc720 \uc2dc\uc804 \uc2dc 6\ucd08 \ub3d9\uc548 \uac00\uc18d\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u8fc5\u7652\u6703\u4f7f\u4f60\u7684\u52a0\u901f\u63d0\u9ad810%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u8fc5\u6377\u6cbb\u6108\u5c06\u4f7f\u4f60\u7684\u6025\u901f\u63d0\u9ad810%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

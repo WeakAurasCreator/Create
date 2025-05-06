@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "470945"
+  "SpellID": "470945",
+  "name_blz": {
+    "en_US": "Aspect of the Hydra",
+    "es_MX": "Aspecto de la hidra",
+    "pt_BR": "Aspecto da Hidra",
+    "de_DE": "Aspekt der Hydra",
+    "en_GB": "Aspect of the Hydra",
+    "es_ES": "Aspecto de la hidra",
+    "fr_FR": "Aspect de l\u2019hydre",
+    "it_IT": "Aspetto dell'Idra",
+    "ru_RU": "\u0414\u0443\u0445 \u0433\u0438\u0434\u0440\u044b",
+    "ko_KR": "\ud788\ub4dc\ub77c\uc758 \uc0c1",
+    "zh_TW": "\u591a\u982d\u86c7\u5b88\u8b77",
+    "zh_CN": "\u591a\u5934\u86c7\u5b88\u62a4"
+  },
+  "description_blz": {
+    "en_US": "Aimed Shot, Rapid Fire, and Arcane Shot now hit a second nearby target for 60% of their damage.",
+    "es_MX": "Disparo de punter\u00eda, Fuego r\u00e1pido y Disparo arcano ahora golpean a un objetivo secundario cercano y le infligen un 60% de su da\u00f1o.",
+    "pt_BR": "Tiro Certo, Tiro R\u00e1pido e Tiro Arcano agora atingem um segundo alvo pr\u00f3ximo, causando 60% do dano.",
+    "de_DE": "Die F\u00e4higkeiten 'Gezielter Schuss', 'Schnellfeuer' und 'Arkaner Schuss' treffen jetzt ein zweites Ziel in der N\u00e4he und f\u00fcgen ihm 60% ihres Schadens zu.",
+    "en_GB": "Aimed Shot, Rapid Fire, and Arcane Shot now hit a second nearby target for 60% of their damage.",
+    "es_ES": "Ahora, Disparo de punter\u00eda, Fuego r\u00e1pido y Disparo Arcano golpean a un segundo objetivo cercano y le infligen un 60% de da\u00f1o.",
+    "fr_FR": "Vis\u00e9e, Tir rapide et Tir des arcanes touchent d\u00e9sormais une deuxi\u00e8me cible proche \u00e0 60\u00a0% des d\u00e9g\u00e2ts.",
+    "it_IT": "Tiro Mirato, Rapidit\u00e0 di Tiro e Tiro Arcano colpiscono un bersaglio vicino aggiuntivo, infliggendo il 60% dei danni.",
+    "ru_RU": "\"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\", \"\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0430\" \u0438 \"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0442 \u0435\u0449\u0435 \u043e\u0434\u043d\u0443 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f \u0435\u0439 60% \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc870\uc900 \uc0ac\uaca9, \uc18d\uc0ac, \uc2e0\ube44\ud55c \uc0ac\uaca9 \uc0ac\uc6a9 \uc2dc \uc8fc\uc704\uc758 \ub300\uc0c1 \ud558\ub098\uc5d0\uac8c 60%\uc758 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u7784\u6e96\u5c04\u64ca\u3001\u6025\u901f\u5c04\u64ca\u548c\u79d8\u6cd5\u5c04\u64ca\u73fe\u5728\u6703\u547d\u4e2d\u9644\u8fd1\u7b2c\u4e8c\u500b\u76ee\u6a19\uff0c\u9020\u621060%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u7784\u51c6\u5c04\u51fb\u3001\u6025\u901f\u5c04\u51fb\u548c\u5965\u672f\u5c04\u51fb\u73b0\u5728\u4f1a\u5bf9\u9644\u8fd1\u7684\u53e6\u4e00\u4e2a\u76ee\u6807\u9020\u621060%\u7684\u4f24\u5bb3\u3002"
+  }
 }

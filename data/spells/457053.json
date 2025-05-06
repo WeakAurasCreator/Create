@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "457053"
+  "SpellID": "457053",
+  "name_blz": {
+    "en_US": "Clear the Witnesses",
+    "es_MX": "Eliminar a los testigos",
+    "pt_BR": "Eliminar Testemunhas",
+    "de_DE": "Beseitigt die Zeugen",
+    "en_GB": "Clear the Witnesses",
+    "es_ES": "Sin testigos",
+    "fr_FR": "\u00c9limination des t\u00e9moins",
+    "it_IT": "Nessun Testimone",
+    "ru_RU": "\u0423\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u0435\u0439",
+    "ko_KR": "\ubaa9\uaca9\uc790 \uc81c\uac70",
+    "zh_TW": "\u4e0d\u7559\u6d3b\u53e3",
+    "zh_CN": "\u89c1\u8005\u5c3d\u706d"
+  },
+  "description_blz": {
+    "en_US": "Your next Fan of Knives after applying Deathstalker's Mark deals an additional 531 Plague damage and generates 1 additional combo point.",
+    "es_MX": "Tu siguiente lanzamiento de Abanico de cuchillos despu\u00e9s de aplicar Marca del mortacechador inflige 531 p. m\u00e1s de da\u00f1o de peste y genera 1 p. de combo m\u00e1s.",
+    "pt_BR": "Seu pr\u00f3ximo lan\u00e7amento de Leque de Facas depois de aplicar a Marca do Sic\u00e1rio causa 531 a mais de dano de Peste e gera 1 ponto de combo.",
+    "de_DE": "Nachdem Ihr ein Ziel mit 'Mal des Todespirschers' belegt, verursacht Euer n\u00e4chster Einsatz von 'Dolchf\u00e4cher' zus\u00e4tzlich 531 Seuchenschaden und erzeugt 1 zus\u00e4tzlichen Combopunkt.",
+    "en_GB": "Your next Fan of Knives after applying Deathstalker's Mark deals an additional 531 Plague damage and generates 1 additional combo point.",
+    "es_ES": "El siguiente Abanico de cuchillos que lances tras aplicar Marca de mortacechador inflige 531 p. de da\u00f1o de Peste m\u00e1s y genera 1 p. de combo m\u00e1s.",
+    "fr_FR": "Votre prochaine technique \u00c9ventail de couteaux apr\u00e8s l\u2019application de Marque de n\u00e9crotraqueur inflige 531\u00a0points de d\u00e9g\u00e2ts de peste suppl\u00e9mentaires et g\u00e9n\u00e8re 1\u00a0point de combo suppl\u00e9mentaire.",
+    "it_IT": "Il successivo lancio di Ventaglio di Lame dopo aver applicato Marchio dell'Inseguitore della Morte infligge 531 danni da piaga aggiuntivi e fornisce 1 punto combo aggiuntivo.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u041c\u0435\u0442\u043a\u0443 \u043b\u043e\u0432\u0447\u0435\u0433\u043e \u0441\u043c\u0435\u0440\u0442\u0438\", \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0412\u0435\u0435\u0440 \u043a\u043b\u0438\u043d\u043a\u043e\u0432\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 531 \u0435\u0434. \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0447\u0443\u043c\u044b \u0438 \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0441\u0435\u0440\u0438\u044e \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u0435\u0449\u0435 \u043d\u0430 1.",
+    "ko_KR": "\uc8fd\uc74c\ucd94\uc801\uc790\uc758 \uc9d5\ud45c\ub97c \ubd80\uc5ec\ud55c \ud6c4\uc5d0 \uc2dc\uc804\ud558\ub294 \ub2e4\uc74c \uce7c\ub0a0 \ubd80\ucc44\uac00 531\uc758 \ucd94\uac00 \uc5ed\ubcd1 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc5f0\uacc4 \uc810\uc218 1\uc810\uc744 \ucd94\uac00\ub85c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u65bd\u52a0\u4ea1\u9748\u54e8\u5175\u5370\u8a18\u5f8c\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u98db\u821e\u5200\u5203\u6703\u984d\u5916\u9020\u6210531\u9ede\u761f\u75ab\u50b7\u5bb3\uff0c\u4e26\u984d\u5916\u7522\u751f1\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u65bd\u52a0\u6b7b\u4ea1\u730e\u624b\u6807\u8bb0\u540e\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u5200\u6247\u989d\u5916\u9020\u6210531\u70b9\u761f\u75ab\u4f24\u5bb3\uff0c\u5e76\u989d\u5916\u4ea7\u751f1\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }

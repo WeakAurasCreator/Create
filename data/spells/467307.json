@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "467307"
+  "SpellID": "467307",
+  "name_blz": {
+    "en_US": "Rushing Wind Kick",
+    "es_MX": "Patada de viento impetuoso",
+    "pt_BR": "Chute do Vento Veloz",
+    "de_DE": "Tritt des aufziehenden Windes",
+    "en_GB": "Rushing Wind Kick",
+    "es_ES": "Patada del viento impetuoso",
+    "fr_FR": "Coup de pied du vent imp\u00e9tueux",
+    "it_IT": "Calcio dei Venti Impetuosi",
+    "ru_RU": "\u0423\u0434\u0430\u0440 \u043f\u043e\u0440\u044b\u0432\u0430 \u0432\u0435\u0442\u0440\u0430",
+    "ko_KR": "\uc9c8\ud48d\ucc28\uae30",
+    "zh_TW": "\u75be\u98a8\u8e22",
+    "zh_CN": "\u75be\u98ce\u547c\u5578\u8e22"
+  },
+  "description_blz": {
+    "en_US": "Kick up a powerful gust of wind, dealing 1,908 Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\r\n\r\nGrants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 200%.",
+    "es_MX": "Levanta una poderosa r\u00e1faga de viento que inflige 1,908 p. de da\u00f1o de naturaleza en un cono de 25 m a los enemigos frente a ti, repartido de forma equitativa entre ellos. El da\u00f1o aumenta un 6% por cada objetivo golpeado, hasta un 30%.\r\n\r\nOtorga vientos impetuosos durante 4 s, lo que aumenta un 200% la sanaci\u00f3n de Niebla renovadora.",
+    "pt_BR": "Levanta uma rajada de vento, causando 1.908 de dano de Natureza a inimigos em uma \u00e1rea c\u00f4nica de 25 m, dividido igualmente entre eles. O dano \u00e9 aumentado em 6% para cada alvo atingido, at\u00e9 30%.\r\n\r\nConcede Ventos Velozes por 4 s, aumentando em 200% a cura de Brumas da Renova\u00e7\u00e3o.",
+    "de_DE": "Erzeugt einen starken Windsto\u00df, der Gegnern vor Euch in einem kegelf\u00f6rmigen Bereich von 25 Metern 1.908 Naturschaden zuf\u00fcgt, der gleichm\u00e4\u00dfig auf sie verteilt wird. Der Schaden erh\u00f6ht sich um 6% f\u00fcr jedes getroffene Ziel, bis zu 30%.\r\n\r\nGew\u00e4hrt 4 Sek. lang 'Rauschende Winde', wodurch die Heilung von 'Erneuernder Nebel' um 200% erh\u00f6ht wird.",
+    "en_GB": "Kick up a powerful gust of wind, dealing 1,908 Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\r\n\r\nGrants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 200%.",
+    "es_ES": "Lanzas una poderosa r\u00e1faga de viento que inflige 1908 p. de da\u00f1o de Naturaleza en un cono de 25 m a los enemigos que tienes delante, a dividir a partes iguales entre todos ellos. El da\u00f1o aumenta un 6% por cada objetivo golpeado, hasta un m\u00e1ximo de un 30%.\r\n\r\nOtorga Vientos impetuosos durante 4 s, lo que aumenta un 200% la sanaci\u00f3n de Niebla renovadora.",
+    "fr_FR": "Provoque une puissante bourrasque de vent, infligeant 1908\u00a0points de d\u00e9g\u00e2ts de nature aux adversaires dans un c\u00f4ne de 25\u00a0m devant vous, r\u00e9partis \u00e9quitablement entre eux. Les d\u00e9g\u00e2ts sont augment\u00e9s de 6\u00a0% pour chaque cible touch\u00e9e, jusqu\u2019\u00e0 un maximum de 30\u00a0%.\r\n\r\nAccorde Vents imp\u00e9tueux pendant 4 s, ce qui augmente les soins de Brume de r\u00e9novation de 200\u00a0%.",
+    "it_IT": "Solleva una potente folata di vento, infliggendo 1.908 danni da natura ai nemici frontali in un cono di 25 m, suddivisi equamente tra di loro. Aumenta i danni inflitti del 6% per ogni bersaglio colpito, fino al 30%.\r\n\r\nFornisce Venti Impetuosi per 4 s, aumentando le cure fornite da Nebbia Curativa del 200%.",
+    "ru_RU": "\u0412\u044b \u0441\u043e\u0437\u0434\u0430\u0435\u0442\u0435 \u043f\u043e\u0440\u044b\u0432 \u0432\u0435\u0442\u0440\u0430, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 1908 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b, \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u043e\u0433\u043e \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c\u0438 \u0432 \u0441\u0435\u043a\u0442\u043e\u0440\u0435 25 \u043c \u043f\u0435\u0440\u0435\u0434 \u0432\u0430\u043c\u0438. \u0423\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 6% \u0437\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u0443\u044e \u0446\u0435\u043b\u044c \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 30%.\r\n\r\n\u0414\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041f\u043e\u0440\u044b\u0432\u044b \u0432\u0435\u0442\u0440\u0430\" \u043d\u0430 4 \u0441\u0435\u043a., \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0442\u0443\u043c\u0430\u043d\u0430\" \u043d\u0430 200%.",
+    "ko_KR": "\uac15\ud55c \ub3cc\ud48d\uc744 \uc77c\uc73c\ucf1c \uc804\ubc29 25\ubbf8\ud130 \ubd80\ucc44\uaf34 \ubc94\uc704 \ub0b4\uc758 \uc801\uc5d0\uac8c 1,908\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \ub098\ub204\uc5b4 \uc785\ud799\ub2c8\ub2e4. \uc801\uc911\ub2f9\ud55c \ub300\uc0c1 \ud558\ub098\ub2f9 \uacf5\uaca9\ub825\uc774 6%\ub9cc\ud07c, \ucd5c\ub300 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n4\ucd08 \ub3d9\uc548 \ub9f9\ub82c\ud55c \ubc14\ub78c\uc774 \ubd80\uc5ec\ub418\uc5b4 \uc18c\uc0dd\uc758 \uc548\uac1c\uc758 \uce58\uc720\ub7c9\uc774 200%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8e22\u8d77\u4e00\u9663\u5f37\u98a8\uff0c\u5c0d\u4f60\u9762\u524d25\u78bc\u9310\u5f62\u7bc4\u570d\u5167\u7684\u6575\u4eba\u9020\u62101,908\u9ede\u81ea\u7136\u50b7\u5bb3\uff0c\u7531\u53d7\u5f71\u97ff\u7684\u76ee\u6a19\u5e73\u5747\u5206\u6524\u3002\u6bcf\u547d\u4e2d\u4e00\u500b\u76ee\u6a19\uff0c\u90fd\u6703\u4f7f\u50b7\u5bb3\u63d0\u9ad86%\uff0c\u6700\u591a\u63d0\u9ad830%\u3002\r\n\r\n\u8ce6\u4e88\u8ff4\u65cb\u75be\u98a8\uff0c\u6301\u7e8c4\u79d2\uff0c\u4f7f\u56de\u751f\u8ff7\u9727\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad8200%\u3002",
+    "zh_CN": "\u6380\u8d77\u4e00\u80a1\u5f3a\u52b2\u75be\u98ce\uff0c\u5bf9\u4f60\u524d\u65b925\u7801\u9525\u5f62\u8303\u56f4\u5185\u7684\u654c\u4eba\u9020\u62101,908\u70b9\u81ea\u7136\u4f24\u5bb3\uff0c\u7531\u6240\u6709\u654c\u4eba\u5747\u644a\u3002\u6bcf\u547d\u4e2d\u4e00\u4e2a\u76ee\u6807\uff0c\u4f24\u5bb3\u63d0\u9ad86%\uff0c\u6700\u591a\u63d0\u9ad830%\u3002\r\n\r\n\u83b7\u5f97\u75be\u5578\u72c2\u98ce\uff0c\u6301\u7eed4\u79d2\uff0c\u4f7f\u590d\u82cf\u4e4b\u96fe\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad8200%\u3002"
+  }
 }

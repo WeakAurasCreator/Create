@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "458348"
+  "SpellID": "458348",
+  "name_blz": {
+    "en_US": "Austin Huxworth",
+    "es_MX": "Austin Huxworth",
+    "pt_BR": "Austin Huxworth",
+    "de_DE": "Austin Haxwart",
+    "en_GB": "Austin Huxworth",
+    "es_ES": "Austin Huxworth",
+    "fr_FR": "Austin Huxworth",
+    "it_IT": "Austin Huxworth",
+    "ru_RU": "\u041e\u0441\u0442\u0438\u043d \u0425\u0430\u043a\u0441\u0432\u043e\u0440\u0442",
+    "ko_KR": "\uc624\uc2a4\ud2f4 \ud5c9\uc2a4\uc6cc\uc2a4",
+    "zh_TW": "\u5967\u65af\u6c40\u2027\u54c8\u514b\u65af\u6c83",
+    "zh_CN": "\u5965\u65af\u6c40\u00b7\u54c8\u514b\u65af\u6c83\u65af"
+  },
+  "description_blz": {
+    "en_US": "Beastmaster Hunter",
+    "es_MX": "Maestro de bestias cazador",
+    "pt_BR": "Ca\u00e7ador Senhor das Feras",
+    "de_DE": "Bestienmeisterj\u00e4ger",
+    "en_GB": "Beastmaster Hunter",
+    "es_ES": "Cazador Maestro de bestias",
+    "fr_FR": "Chasseur Ma\u00eetrise des b\u00eates",
+    "it_IT": "Cacciatore (Affinit\u00e0 Animale)",
+    "ru_RU": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a - \u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u0437\u0432\u0435\u0440\u0435\u0439",
+    "ko_KR": "\uc57c\uc218 \uc0ac\ub0e5\uafbc",
+    "zh_TW": "\u91ce\u7378\u63a7\u5236\u7375\u4eba",
+    "zh_CN": "\u91ce\u517d\u63a7\u5236\u730e\u4eba"
+  }
 }
