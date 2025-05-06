@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "350433"
+  "SpellID": "350433",
+  "name_blz": {
+    "en_US": "Bonus Happiness",
+    "es_MX": "Bonificaci\u00f3n de felicidad",
+    "pt_BR": "B\u00f4nus de Felicidade",
+    "de_DE": "Bonuszufriedenheit",
+    "en_GB": "Bonus Happiness",
+    "es_ES": "Bonus de felicidad",
+    "fr_FR": "Bonus de satisfaction",
+    "it_IT": "Felicit\u00e0 Bonus",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f",
+    "ko_KR": "\ucd94\uac00 \ub9cc\uc871\ub3c4",
+    "zh_TW": "\u6eff\u610f\u503c\u52a0\u6210",
+    "zh_CN": "\u5feb\u4e50\u52a0\u6210"
+  },
+  "description_blz": {
+    "en_US": "Improves the Mood of all guests.",
+    "es_MX": "Mejora el humor de todos los invitados.",
+    "pt_BR": "Melhora o Humor de todos os convidados.",
+    "de_DE": "Verbessert die Stimmung aller G\u00e4ste.",
+    "en_GB": "Improves the Mood of all guests.",
+    "es_ES": "Mejora el humor de todos los invitados.",
+    "fr_FR": "Augmente le niveau de satisfaction de tous les invit\u00e9s.",
+    "it_IT": "Migliora l'umore di tutti gli ospiti.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u0433\u043e\u0441\u0442\u0435\u0439.",
+    "ko_KR": "\ubaa8\ub4e0 \uc190\ub2d8\uc758 \uae30\ubd84\uc744 \ud5a5\uc0c1\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6539\u5584\u6240\u6709\u8cd3\u5ba2\u7684\u5fc3\u60c5\u3002",
+    "zh_CN": "\u6539\u5584\u6240\u6709\u5ba2\u4eba\u7684\u5fc3\u60c5\u3002"
+  }
 }

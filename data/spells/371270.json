@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "371270"
+  "SpellID": "371270",
+  "name_blz": {
+    "en_US": "Punctuality",
+    "es_MX": "Puntualidad",
+    "pt_BR": "Pontualidade",
+    "de_DE": "P\u00fcnktlichkeit",
+    "en_GB": "Punctuality",
+    "es_ES": "Puntualidad",
+    "fr_FR": "Ponctualit\u00e9",
+    "it_IT": "Puntualit\u00e0",
+    "ru_RU": "\u041f\u0443\u043d\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ucca0\ub450\ucca0\ubbf8",
+    "zh_TW": "\u5206\u79d2\u4e0d\u5dee",
+    "zh_CN": "\u606a\u65f6\u5b88\u5206"
+  },
+  "description_blz": {
+    "en_US": "Reversion has 2 charges.",
+    "es_MX": "Reversi\u00f3n tiene 2 cargas.",
+    "pt_BR": "Revers\u00e3o tem 2 cargas.",
+    "de_DE": "'Umkehrung' verf\u00fcgt \u00fcber 2 Aufladungen.",
+    "en_GB": "Reversion has 2 charges.",
+    "es_ES": "Reversi\u00f3n tiene 2 cargas.",
+    "fr_FR": "R\u00e9version a 2\u00a0charges.",
+    "it_IT": "Regressione ha 2 cariche.",
+    "ru_RU": "\"\u0418\u043d\u0432\u0435\u0440\u0441\u0438\u044f\" \u0438\u043c\u0435\u0435\u0442 2 \u0437\u0430\u0440\u044f\u0434\u0430.",
+    "ko_KR": "\ub418\uac10\uae30\uac00 2\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u9006\u8f49\u53ef\u4f7f\u75282\u6b21\u3002",
+    "zh_CN": "\u9006\u8f6c\u53ef\u4ee5\u4f7f\u75282\u6b21\u3002"
+  }
 }

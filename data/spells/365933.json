@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365933"
+  "SpellID": "365933",
+  "name_blz": {
+    "en_US": "Aerial Mastery",
+    "es_MX": "Maestr\u00eda a\u00e9rea",
+    "pt_BR": "Maestria A\u00e9rea",
+    "de_DE": "Meisterschaft \u00fcber die L\u00fcfte",
+    "en_GB": "Aerial Mastery",
+    "es_ES": "Maestr\u00eda a\u00e9rea",
+    "fr_FR": "Ma\u00eetrise a\u00e9rienne",
+    "it_IT": "Maestria Aerea",
+    "ru_RU": "\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u0432 \u043d\u0435\u0431\u0435",
+    "ko_KR": "\uccb4\uacf5 \ud2b9\ud654",
+    "zh_TW": "\u5347\u7a7a\u7cbe\u901a",
+    "zh_CN": "\u98de\u884c\u638c\u63e1"
+  },
+  "description_blz": {
+    "en_US": "Hover gains 1 additional charge.",
+    "es_MX": "Sobrevolar obtiene 1 carga m\u00e1s.",
+    "pt_BR": "Pairar ganha 1 carga adicional.",
+    "de_DE": "'Schweben' erh\u00e4lt 1 zus\u00e4tzliche Aufladung.",
+    "en_GB": "Hover gains 1 additional charge.",
+    "es_ES": "Flotar obtiene 1 carga extra.",
+    "fr_FR": "Survoler obtient 1\u00a0charge suppl\u00e9mentaire.",
+    "it_IT": "Aumenta le cariche di Volo Sospeso di 1.",
+    "ru_RU": "\"\u0411\u0440\u0435\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0435\u0442\" \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0435\u0449\u0435 1 \u0437\u0430\u0440\u044f\u0434.",
+    "ko_KR": "\ubd80\uc591\uc774 \ucd94\uac00\ub85c 1\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u76e4\u65cb\u984d\u5916\u7372\u5f971\u6b21\u4f7f\u7528\u6b21\u6578\u3002",
+    "zh_CN": "\u60ac\u7a7a\u989d\u5916\u83b7\u5f971\u6b21\u4f7f\u7528\u6b21\u6570\u3002"
+  }
 }

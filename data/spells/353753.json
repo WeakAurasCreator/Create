@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "353753"
+  "SpellID": "353753",
+  "name_blz": {
+    "en_US": "Bonds of Fel",
+    "es_MX": "V\u00ednculos de vileza",
+    "pt_BR": "V\u00ednculos Vis",
+    "de_DE": "Teufelsfesseln",
+    "en_GB": "Bonds of Fel",
+    "es_ES": "Ataduras de energ\u00eda vil",
+    "fr_FR": "Liens de corruption",
+    "it_IT": "Vilvincoli",
+    "ru_RU": "\u0423\u0437\u044b \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc9c0\uc625\uc758 \uacb0\uc18d",
+    "zh_TW": "\u60e1\u9b54\u675f\u7e1b",
+    "zh_CN": "\u90aa\u80fd\u675f\u7f1a"
+  },
+  "description_blz": {
+    "en_US": "Encircle enemy players with Bonds of Fel. If any affected player leaves the 8 yd radius they explode, dealing 40,450 Fire damage split amongst all nearby enemies.",
+    "es_MX": "Rodea a los jugadores enemigos con V\u00ednculos de vileza. Si un jugador afectado abandona el radio de 8 m, explota e inflige 40,763 p. de da\u00f1o de fuego divididos entre todos los enemigos cercanos.",
+    "pt_BR": "Cerca os jogadores inimigos com V\u00ednculos Vis. Se qualquer jogador afetado sair da \u00e1rea de 8 m, ele explode, causando 40.035 de dano de Fogo dividido entre todos os inimigos pr\u00f3ximos.",
+    "de_DE": "Umkreist gegnerische Spielercharaktere mit Teufelsfesseln. Wenn ein betroffener Spielercharakter den Radius von 8 Metern verl\u00e4sst, explodiert er und verursacht 40.909 Feuerschaden, der auf alle Gegner in der N\u00e4he aufgeteilt wird.",
+    "en_GB": "Encircle enemy players with Bonds of Fel. If any affected player leaves the 8 yd radius they explode, dealing 39,486 Fire damage split amongst all nearby enemies.",
+    "es_ES": "Rodeas a los jugadores enemigos con Ataduras de energ\u00eda vil. Si alg\u00fan jugador afectado sale de un radio de 8 m, explota e inflige 40846 p. de da\u00f1o de Fuego dividido entre todos los enemigos cercanos.",
+    "fr_FR": "Encercle les personnages-joueurs ennemis \u00e0 l\u2019aide de Liens de corruption. Si un personnage-joueur affect\u00e9 s\u2019\u00e9loigne \u00e0 plus de 8\u00a0m\u00e8tres, il explose et inflige 40271\u00a0points de d\u00e9g\u00e2ts de Feu r\u00e9partis entre les ennemis proches.",
+    "it_IT": "Lega i personaggi nemici con dei Vilvincoli. Se un personaggio affetto si allontana per pi\u00f9 di 8 m dall'area d'effetto, esplode, infliggendo 39.829 danni da fuoco suddivisi tra tutti i nemici vicini.",
+    "ru_RU": "\u041e\u043f\u0443\u0442\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0443\u0437\u0430\u043c\u0438 \u0421\u043a\u0432\u0435\u0440\u043d\u044b. \u0415\u0441\u043b\u0438 \u043b\u044e\u0431\u043e\u0439 \u0438\u0437 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0445 \u0438\u0433\u0440\u043e\u043a\u043e\u0432 \u043f\u043e\u043a\u0438\u043d\u0435\u0442 \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0440\u0430\u0434\u0438\u0443\u0441\u043e\u043c 8 \u043c, \u0432\u043e\u043a\u0440\u0443\u0433 \u043d\u0435\u0433\u043e \u043f\u0440\u043e\u0438\u0437\u043e\u0439\u0434\u0435\u0442 \u0432\u0437\u0440\u044b\u0432, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 39772 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f, \u0440\u0430\u0432\u043d\u043e\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u043e\u0433\u043e \u043c\u0435\u0436\u0434\u0443 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0438\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0432\u0440\u0430\u0433\u0430\u043c\u0438.",
+    "ko_KR": "\uc9c0\uc625\uc758 \uacb0\uc18d\uc73c\ub85c \uc801 \ud50c\ub808\uc774\uc5b4\ub97c \ud718\uac10\uc2b5\ub2c8\ub2e4. \uc601\ud5a5\uc744 \ubc1b\uc740 \ub300\uc0c1\uc774 8\ubbf8\ud130 \ubc18\uacbd\uc744 \ubc97\uc5b4\ub098\uba74 \uacb0\uc18d\uc774 \ud3ed\ubc1c\ud558\uc5ec \uc8fc\uc704 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 40,996\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \ub098\ub204\uc5b4 \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u7528\u60e1\u9b54\u675f\u7e1b\u56f0\u4f4f\u6575\u65b9\u73a9\u5bb6\u3002\u4efb\u4f55\u53d7\u5230\u5f71\u97ff\u7684\u73a9\u5bb6\u96e2\u958b8\u78bc\u7bc4\u570d\u6642\u6703\u7206\u70b8\uff0c\u5c0d\u9644\u8fd1\u6240\u6709\u6575\u4eba\u9020\u621040,574\u706b\u7130\u50b7\u5bb3\u3002",
+    "zh_CN": "\u7528\u90aa\u80fd\u675f\u7f1a\u73af\u7ed5\u4e00\u540d\u654c\u65b9\u73a9\u5bb6\u3002\u5982\u679c\u4efb\u4f55\u53d7\u5f71\u54cd\u7684\u76ee\u6807\u79bb\u5f00\u539f\u5730\u8d85\u8fc78\u7801\uff0c\u5219\u4f1a\u53d1\u751f\u7206\u70b8\uff0c\u9020\u621041,147\u70b9\u706b\u7130\u4f24\u5bb3\uff0c\u7531\u9644\u8fd1\u6240\u6709\u654c\u4eba\u5206\u644a\u3002"
+  }
 }

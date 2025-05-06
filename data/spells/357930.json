@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "357930"
+  "SpellID": "357930",
+  "name_blz": {
+    "en_US": "Archivists' Progress",
+    "es_MX": "Progreso de los Archivistas",
+    "pt_BR": "Progresso dos Arquivistas",
+    "de_DE": "Fortschritt der Archivare",
+    "en_GB": "Archivists' Progress",
+    "es_ES": "Progreso de los archivistas",
+    "fr_FR": "Avanc\u00e9e des archivistes",
+    "it_IT": "Progresso degli Archivisti",
+    "ru_RU": "\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441 \u0430\u0440\u0445\u0438\u0432\u0430\u0440\u0438\u0443\u0441\u0430",
+    "ko_KR": "\uae30\ub85d\uad00 \uc9c4\ud589 \uc0c1\ud0dc",
+    "zh_TW": "\u535a\u6587\u8005\u7684\u9032\u5ea6",
+    "zh_CN": "\u6863\u6848\u7ba1\u7406\u5458\u7684\u8fdb\u7a0b "
+  },
+  "description_blz": {
+    "en_US": "Begins the process of unlocking the reputation, \"The Archivists' Codex\", allowing you to create Cataloged Research from Korthian Relics.",
+    "es_MX": "Inicia el proceso de desbloquear la reputaci\u00f3n \"C\u00f3dice de los Archivistas\", que te permite crear una investigaci\u00f3n catalogada a partir de reliquias korthianas.",
+    "pt_BR": "Come\u00e7a o processo de desbloquear a reputa\u00e7\u00e3o com o C\u00f3dice dos Arquivistas, permitindo a cria\u00e7\u00e3o de Pesquisa Catalogada com Rel\u00edquias Korthianas.",
+    "de_DE": "Beginnt den Vorgang, den Ruf 'Der Archivarskodex' freizuschalten, sodass Ihr katalogisierte Forschung aus korthianischen Relikten erschaffen k\u00f6nnt.",
+    "en_GB": "Begins the process of unlocking the reputation, \"The Archivists' Codex\", allowing you to create Cataloged Research from Korthian Relics.",
+    "es_ES": "Comienza el proceso para desbloquear la reputaci\u00f3n con el C\u00f3dice de los Archivistas, que te permite generar puntos de investigaci\u00f3n catalogada con reliquias korthianas.",
+    "fr_FR": "Initie le d\u00e9blocage de la r\u00e9putation aupr\u00e8s du \u00ab\u00a0Codex des archivistes\u00a0\u00bb, qui vous permet de cr\u00e9er des trouvailles catalogu\u00e9es avec des reliques korthiennes.",
+    "it_IT": "Inizia il processo di sblocco della reputazione, \"Il Codice degli Archivisti\", permettendoti di creare una Ricerca Catalogata dalle Reliquie di Korthia.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0440\u0435\u043f\u0443\u0442\u0430\u0446\u0438\u0438 \"\u041a\u043e\u0434\u0435\u043a\u0441 \u0430\u0440\u0445\u0438\u0432\u0430\u0440\u0438\u0443\u0441\u0430\" \u0438 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0430 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043e\u0440\u0442\u0438\u0439\u0441\u043a\u0438\u0445 \u0440\u0435\u043b\u0438\u043a\u0432\u0438\u0439.",
+    "ko_KR": "\"\uae30\ub85d\uad00\uc758 \uc804\uc11c\" \ud3c9\ud310\uc744 \ud574\uc81c\ud558\ub294 \uacfc\uc815\uc744 \uc2dc\uc791\ud569\ub2c8\ub2e4. \ud3c9\ud310\uc744 \ud574\uc81c\ud558\uba74 \ucf54\ub974\uc2dc\uc544 \uc720\ubb3c\ub85c \ubd84\ub958\ub41c \uc5f0\uad6c\ubb3c\uc744 \ub9cc\ub4e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u958b\u59cb\u89e3\u9396\u300c\u535a\u6587\u8005\u5bf6\u5178\u300d\u8072\u671b\uff0c\u6b64\u53ef\u8b93\u4f60\u5f9e\u79d1\u897f\u4e9e\u6587\u7269\u88fd\u9020\u7de8\u76ee\u7814\u7a76\u3002",
+    "zh_CN": "\u5f00\u542f\u89e3\u9501\u58f0\u671b\u201c\u6863\u6848\u5458\u5377\u5b97\u201d\u7684\u8fc7\u7a0b\uff0c\u4f7f\u4f60\u53ef\u4ee5\u7528\u523b\u5e0c\u4e9a\u5723\u7269\u5236\u4f5c\u7f16\u96c6\u7814\u7a76\u3002"
+  }
 }
