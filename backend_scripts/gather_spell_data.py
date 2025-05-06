@@ -122,7 +122,7 @@ async def fetch_blizzard_spell(session, spell_id, token):
     url = API_SPELL_URL.format(spell_id=spell_id)
     params = {"namespace": NAMESPACE}
     headers = {"Authorization": f"Bearer {token}"}
-    return fetch_data(session, url, headers, params, retries=MAX_RETRIES)
+    return await fetch_data(session, url, headers, params, retries=MAX_RETRIES)
 
 async def fetch_csv(session, url):
     """Download CSV data asynchronously and return as a list of lines."""
@@ -155,7 +155,7 @@ async def handle_spell(session, semaphore, spell_id, spell_data, spellmisc, mani
     try:
         blz = await fetch_blizzard_spell(session, spell_id, token)
         print(f"[INFO] Blizzard API success for {spell_id} found {blz}")
-        combined_data["name_blz"]        = blz["name"]
+        combined_data["name_blz"]        = blz.get("name","")
         combined_data["description_blz"] = blz.get("description", {})
     except Exception as e:
         print(f"[WARN] Blizzard API failed for {spell_id}: {e}")
