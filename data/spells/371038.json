@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "371038"
+  "SpellID": "371038",
+  "name_blz": {
+    "en_US": "Honed Aggression",
+    "es_MX": "Agresi\u00f3n aguda",
+    "pt_BR": "Agress\u00e3o Afiada",
+    "de_DE": "Gerichtete Aggression",
+    "en_GB": "Honed Aggression",
+    "es_ES": "Agresividad afinada",
+    "fr_FR": "Agression cinglante",
+    "it_IT": "Aggressione Perfezionata",
+    "ru_RU": "\u041e\u0441\u0442\u0440\u0430\u044f \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044f",
+    "ko_KR": "\uacf5\uaca9\uc131 \uc5f0\ub9c8",
+    "zh_TW": "\u8001\u7df4\u7a81\u64ca",
+    "zh_CN": "\u950b\u9510\u4fb5\u653b"
+  },
+  "description_blz": {
+    "en_US": "Azure Strike and Living Flame deal 5% more damage.",
+    "es_MX": "Golpe azur y Llama viva infligen un 5% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Ataque Laz\u00fali e Chama Viva causam 5% a mais de dano.",
+    "de_DE": "'Azursto\u00df' und 'Lebende Flamme' verursachen 5% mehr Schaden.",
+    "en_GB": "Azure Strike and Living Flame deal 5% more damage.",
+    "es_ES": "Ataque azur y Llama viva infligen un 5% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Frappe d\u2019azur et de Flamme vivante sont augment\u00e9s de 5%.",
+    "it_IT": "Aumenta i danni inflitti da Assalto Azzurro e Fiamma Vivente del 5%.",
+    "ru_RU": "\"\u041b\u0430\u0437\u0443\u0440\u043d\u044b\u0439 \u0443\u0434\u0430\u0440\" \u0438 \"\u0416\u0438\u0432\u043e\u0439 \u0436\u0430\u0440\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 5% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud558\ub298\ube5b \uc77c\uaca9\uacfc \uc0b4\uc544\uc788\ub294 \ubd88\uaf43\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u84bc\u85cd\u6253\u64ca\u548c\u751f\u547d\u70c8\u7130\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u78a7\u84dd\u6253\u51fb\u548c\u6d3b\u5316\u70c8\u7130\u7684\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "368838"
+  "SpellID": "368838",
+  "name_blz": {
+    "en_US": "Heavy Wingbeats",
+    "es_MX": "Alas pesadas",
+    "pt_BR": "Asas Pesadas",
+    "de_DE": "Schwere Fl\u00fcgelschl\u00e4ge",
+    "en_GB": "Heavy Wingbeats",
+    "es_ES": "Aleteos pesados",
+    "fr_FR": "Battement d\u2019ailes puissant",
+    "it_IT": "Colpi d'Ala Pesanti",
+    "ru_RU": "\u0422\u044f\u0436\u0435\u043b\u044b\u0435 \u0432\u0437\u043c\u0430\u0445\u0438",
+    "ko_KR": "\ubb34\uac70\uc6b4 \ub0a0\uac1c\uc9d3",
+    "zh_TW": "\u5f37\u529b\u62cd\u7ffc",
+    "zh_CN": "\u7fc5\u5927\u529b\u6c89"
+  },
+  "description_blz": {
+    "en_US": "Wing Buffet's cooldown is reduced by 2 min.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Sacudida de alas se reduce 2 min.",
+    "pt_BR": "Recarga de Bofetada de Asa reduzida em 2 min.",
+    "de_DE": "Die Abklingzeit von 'Fl\u00fcgelsto\u00df' wird um 2 Min. verringert.",
+    "en_GB": "Wing Buffet's cooldown is reduced by 2 min.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Sacudida de alas se reduce 2 min.",
+    "fr_FR": "Le temps de recharge de Frappe des ailes est r\u00e9duit de 2\u00a0min.",
+    "it_IT": "Riduce il tempo di recupero di Battito d'Ali di {120.000/-60000} min.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0412\u0437\u043c\u0430\u0445\u0430 \u043a\u0440\u044b\u043b\u044c\u044f\u043c\u0438\" \u043d\u0430 2 \u043c\u0438\u043d.",
+    "ko_KR": "\ud3ed\ud48d \ub0a0\uac1c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ubd84\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u632f\u7fc5\u653b\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u5206\u9418\u3002",
+    "zh_CN": "\u98de\u7ffc\u6253\u51fb\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u5206\u949f\u3002"
+  }
 }

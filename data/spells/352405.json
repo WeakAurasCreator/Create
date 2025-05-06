@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "352405"
+  "SpellID": "352405",
+  "name_blz": {
+    "en_US": "Sinful Preservation",
+    "es_MX": "Preservaci\u00f3n pecaminosa",
+    "pt_BR": "Preserva\u00e7\u00e3o Pecaminosa",
+    "de_DE": "S\u00fcndige Bewahrung",
+    "en_GB": "Sinful Preservation",
+    "es_ES": "Protecci\u00f3n pecaminosa",
+    "fr_FR": "Pr\u00e9servation vicieuse",
+    "it_IT": "Preservazione Peccaminosa",
+    "ru_RU": "\u0413\u0440\u0435\u0445\u043e\u0432\u043d\u043e\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc8c4\uc545\uc758 \ubcf4\uc874",
+    "zh_TW": "\u7f6a\u5b7d\u64c1\u8b77",
+    "zh_CN": "\u7f6a\u5b7d\u4fdd\u62a4"
+  },
+  "description_blz": {
+    "en_US": "Health Potions and Healthstones grant you an absorb shield equal to 50% of the amount healed for 20 sec.",
+    "es_MX": "Las pociones de salud y piedras de salud te otorgan un escudo de absorci\u00f3n equivalente al 50% de la cantidad sanada durante 20 s.",
+    "pt_BR": "Po\u00e7\u00f5es de Vida e Pedras de Vida tamb\u00e9m concedem um escudo de absor\u00e7\u00e3o equivalente a 50% do valor curado por 20 s.",
+    "de_DE": "Heiltr\u00e4nke und Gesundheitssteine gew\u00e4hren Euch einen Absorptionsschild in H\u00f6he von 50% der geheilten Gesundheit, der 20 Sek. lang anh\u00e4lt.",
+    "en_GB": "Health Potions and Healthstones grant you an absorb shield equal to 50% of the amount healed for 20 sec.",
+    "es_ES": "Las pociones de salud y las piedras de salud te otorgan un escudo de absorci\u00f3n equivalente al 50% de la sanaci\u00f3n realizada durante 20 s.",
+    "fr_FR": "Les potions et pierres de soins conf\u00e8rent un bouclier d\u2019absorption \u00e9gal \u00e0 50% des points de vie rendus pendant 20 s.",
+    "it_IT": "Pozioni di Salute e Pietre della Salute forniscono uno scudo che assorbe danni subiti pari al 50% delle cure fornite per 20 s.",
+    "ru_RU": "\u0417\u0435\u043b\u044c\u044f \u0438 \u043a\u0430\u043c\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0434\u0430\u044e\u0442 \u0432\u0430\u043c \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u0449\u0438\u0442 \u0441 \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c\u044e 50% \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0430 20 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0dd\uba85\ub825 \ubb3c\uc57d \ubc0f \uc0dd\uba85\uc11d\uc774 \uce58\uc720\ub7c9\uc758 50%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \ud761\uc218\ud558\ub294 \ubcf4\ud638\ub9c9\uc744 20\ucd08 \ub3d9\uc548 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u529b\u85e5\u6c34\u548c\u6cbb\u7642\u77f3\u6703\u8ce6\u4e88\u4f60\u4e00\u9762\u5438\u6536\u8b77\u76fe\uff0c\u5438\u6536\u7b49\u540c\u6cbb\u7642\u91cf50%\u7684\u50b7\u5bb3\uff0c\u6301\u7e8c20\u79d2\u3002",
+    "zh_CN": "\u751f\u547d\u836f\u6c34\u548c\u6cbb\u7597\u77f3\u4f7f\u4f60\u83b7\u5f97\u4e00\u5c42\u5438\u6536\u62a4\u76fe\uff0c\u5438\u6536\u91cf\u76f8\u5f53\u4e8e\u6cbb\u7597\u91cf\u768450%\uff0c\u6301\u7eed20\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "355917"
+  "SpellID": "355917",
+  "name_blz": {
+    "en_US": "Rodeo",
+    "es_MX": "Rodeo",
+    "pt_BR": "Rodeio",
+    "de_DE": "Rodeo",
+    "en_GB": "Rodeo",
+    "es_ES": "Rodeo",
+    "fr_FR": "Rod\u00e9o",
+    "it_IT": "Rodeo",
+    "ru_RU": "\u0420\u043e\u0434\u0435\u043e",
+    "ko_KR": "\ub09c\ud3ed\ud55c \uc870\ub828",
+    "zh_TW": "\u99b4\u725b",
+    "zh_CN": "\u731b\u70c8\u51b2\u649e"
+  },
+  "description_blz": {
+    "en_US": "Every 3 sec while Clash is off cooldown, your next Clash can be reactivated immediately to wildly Clash an additional enemy. This effect can stack up to 3 times.",
+    "es_MX": "Cada 3 s mientras Colisi\u00f3n no est\u00e1 en tiempo de reutilizaci\u00f3n, tu siguiente Colisi\u00f3n se puede reactivar de inmediato para causar una Colisi\u00f3n salvaje con un enemigo m\u00e1s. Este efecto se puede acumular hasta 3 veces.",
+    "pt_BR": "A cada 3 s, quando a Colis\u00e3o est\u00e1 fora de recarga, sua Colis\u00e3o seguinte pode ser reativada imediatamente para causar outra Colis\u00e3o devastadora em outro inimigo. Este efeito pode acumular at\u00e9 3 vezes.",
+    "de_DE": "W\u00e4hrend die Abklingzeit von 'Aufprall' nicht aktiv ist, kann Euer n\u00e4chster Einsatz von 'Aufprall' alle 3 Sek. sofort erneut aktiviert werden, um heftig auf einen zus\u00e4tzlichen Gegner zu prallen. Dieser Effekt ist bis zu 3-mal stapelbar.",
+    "en_GB": "Every 3 sec while Clash is off cooldown, your next Clash can be reactivated immediately to wildly Clash an additional enemy. This effect can stack up to 3 times.",
+    "es_ES": "Por cada 3 s que Colisi\u00f3n no est\u00e9 en tiempo de reutilizaci\u00f3n, tu siguiente Colisi\u00f3n se puede reactivar de inmediato y lanzarse contra un enemigo adicional. Este efecto se puede acumular hasta 3 veces.",
+    "fr_FR": "Toutes les 3\u00a0s hors temps de recharge de Fracas, le prochain Fracas peut \u00eatre r\u00e9activ\u00e9 imm\u00e9diatement pour frapper sauvagement un ennemi suppl\u00e9mentaire. Cumulable jusqu\u2019\u00e0 3\u00a0fois.",
+    "it_IT": "Ogni 3 s in cui Scontro non \u00e8 in tempo di recupero, il successivo Scontro pu\u00f2 essere riattivato immediatamente per colpire selvaggiamente un nemico aggiuntivo. Si accumula fino a 3 volte.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \"\u0421\u0442\u043e\u043b\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0435\" \u043d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f, \u0432\u044b \u0440\u0430\u0437 \u0432 3 \u0441\u0435\u043a. \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u044d\u0442\u0443 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0434\u0432\u0430 \u0440\u0430\u0437\u0430 \u043f\u043e\u0434\u0440\u044f\u0434 \u0438 \u0441\u0442\u043e\u043b\u043a\u043d\u0443\u0442\u044c\u0441\u044f \u0441 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u043c. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 3 \u0440\u0430\u0437.",
+    "ko_KR": "\ucda9\ub3cc\uc774 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \uc544\ub2d0 \ub54c 3\ucd08\ub9c8\ub2e4 \ub2e4\uc74c \ucda9\ub3cc\uc744 \uc989\uc2dc \uc7ac\ud65c\uc131\ud654\ud558\uc5ec \ucd94\uac00 \ub300\uc0c1\uc5d0\uac8c \ub9f9\ub82c\ud558\uac8c \ucda9\ub3cc\ud560 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 \ucd5c\ub300 3\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5929\u5f15\u8e8d\u64ca\u6c92\u6709\u8655\u5728\u51b7\u537b\u72c0\u614b\u7684\u6bcf3\u79d2\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u5929\u5f15\u8e8d\u64ca\u53ef\u7acb\u523b\u518d\u6b21\u767c\u52d5\uff0c\u4e26\u5c0d\u984d\u5916\u4e00\u500b\u6575\u4eba\u767c\u52d5\u5f37\u70c8\u653b\u64ca\u3002\u6b64\u6548\u679c\u6700\u591a\u53ef\u5806\u758a3\u5c64\u3002",
+    "zh_CN": "\u5bf9\u51b2\u7684\u51b7\u5374\u7ed3\u675f\u540e\uff0c\u6bcf\u8fc73\u79d2\uff0c\u4f60\u4e0b\u4e00\u6b21\u4f7f\u7528\u5bf9\u51b2\u4e4b\u540e\u53ef\u4ee5\u7acb\u5373\u91cd\u65b0\u65bd\u653e\uff0c\u5e76\u989d\u5916\u547d\u4e2d\u4e00\u540d\u654c\u4eba\u3002\u6b64\u6548\u679c\u6700\u591a\u53ef\u53e0\u52a03\u6b21\u3002"
+  }
 }
