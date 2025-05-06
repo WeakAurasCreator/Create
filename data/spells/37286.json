@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "37286"
+  "SpellID": "37286",
+  "name_blz": {
+    "en_US": "Rejuvenation Dodge",
+    "es_MX": "Rejuvenecimiento y Esquivar",
+    "pt_BR": "Esquiva de Rejuvenescimento",
+    "de_DE": "Ausweichen der Verj\u00fcngung",
+    "en_GB": "Rejuvenation Dodge",
+    "es_ES": "Rejuvenecimiento y Esquivar",
+    "fr_FR": "Esquive de R\u00e9cup\u00e9ration",
+    "it_IT": "Schivata Rinvigorente",
+    "ru_RU": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0443\u043a\u043b\u043e\u043d\u0435\u043d\u0438\u044f",
+    "ko_KR": "\ud68c\ubcf5 \ud68c\ud53c",
+    "zh_TW": "\u56de\u6625\u9583\u8eb2",
+    "zh_CN": "\u56de\u6625\u8eb2\u95ea"
+  },
+  "description_blz": {
+    "en_US": "Increases the healing of Rejuvenation by 2%.",
+    "es_MX": "Aumenta la sanaci\u00f3n de Rejuvenecimiento un 2%.",
+    "pt_BR": "Aumenta em 2% a cura de Rejuvenescer.",
+    "de_DE": "Erh\u00f6ht die Heilung von 'Verj\u00fcngung' um 2%.",
+    "en_GB": "Increases the healing of Rejuvenation by 2%.",
+    "es_ES": "Aumenta la sanaci\u00f3n de Rejuvenecimiento un 2%.",
+    "fr_FR": "Augmente les soins prodigu\u00e9s par votre sort R\u00e9cup\u00e9ration de 2%.",
+    "it_IT": "Aumenta le cure fornite da Rinvigorimento del 2%.",
+    "ru_RU": "\"\u041e\u043c\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043d\u0430 2% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ud68c\ubcf5 \uc8fc\ubb38\uc758 \uce58\uc720\ub7c9\uc774 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u56de\u6625\u8853\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad82%\u3002",
+    "zh_CN": "\u56de\u6625\u672f\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad82%\u3002"
+  }
 }
