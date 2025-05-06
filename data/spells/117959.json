@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "117959"
+  "SpellID": "117959",
+  "name_blz": {
+    "en_US": "Crackling Jade Lightning",
+    "es_MX": "Rel\u00e1mpago crepitante de jade",
+    "pt_BR": "Raio Jade Crepitante",
+    "de_DE": "Knisternder Jadeblitz",
+    "en_GB": "Crackling Jade Lightning",
+    "es_ES": "Rel\u00e1mpago crepitante de jade",
+    "fr_FR": "\u00c9clair de jade cr\u00e9pitant",
+    "it_IT": "Fulmine di Giada Crepitante",
+    "ru_RU": "\u0421\u0432\u0435\u0440\u043a\u0430\u044e\u0449\u0430\u044f \u043d\u0435\u0444\u0440\u0438\u0442\u043e\u0432\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f",
+    "ko_KR": "\uc9dc\ub9bf\ud55c \ube44\ucde8 \ubc88\uac1c",
+    "zh_TW": "\u788e\u7389\u8f5f\u96f7\u638c",
+    "zh_CN": "\u788e\u7389\u95ea\u7535"
+  },
+  "description_blz": {}
 }
