@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215709"
+  "SpellID": "1215709",
+  "name_blz": {
+    "en_US": "Paladin Retribution 11.1 Class Set 4pc",
+    "es_MX": "Paladin Retribution 11.1 Class Set 4pc",
+    "pt_BR": "Paladino Retribui\u00e7\u00e3o 11.1, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Paladinklassenset, Vergeltung, 11.1, 4 Teile",
+    "en_GB": "Paladin Retribution 11.1 Class Set 4pc",
+    "es_ES": "Conjunto de clase de palad\u00edn Reprensi\u00f3n 11.1 (4 piezas)",
+    "fr_FR": "Ensemble de classe de paladin ou paladine Vindicte 11.1 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Paladino Castigo, Set di Classe 11.1, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043f\u0430\u043b\u0430\u0434\u0438\u043d\u0430 11.1 \u2013 \u0432\u043e\u0437\u0434\u0430\u044f\u043d\u0438\u0435, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uc9d5\ubc8c \uc131\uae30\uc0ac 11.1 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u8056\u9a0e\u58eb\u61f2\u621211.1\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u60e9\u6212\u5723\u9a91\u58eb11.1\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "When you lose your Winning Streak! you get the last Holy Power spent back, you cannot lose Holy Power for the next 4.0 sec, and the damage of your Holy Power abilities are increased by 10%.",
+    "es_MX": "Cuando pierdes tu \u00a1Racha de victorias!, recuperas lo \u00faltimo de poder sagrado que gastaste, no podr\u00e1s perder poder sagrado durante los pr\u00f3ximos 4.0 s, y el da\u00f1o de tus habilidades de poder sagrado aumentar\u00e1 un 10%.",
+    "pt_BR": "Quando perde sua Sequ\u00eancia Vencedora!, voc\u00ea recebe o \u00faltimo Poder Sagrado de volta, n\u00e3o perde Poder Sagrado pelos pr\u00f3ximos 4,0 s e o dano das suas habilidades de Poder Sagrado aumenta em 10%.",
+    "de_DE": "Wenn Ihr Eure Siegesserie! verliert, erhaltet Ihr die zuletzt verbrauchte Heilige Kraft zur\u00fcck, k\u00f6nnt die n\u00e4chsten 4,0 Sek. lang keine Heilige Kraft verlieren, und der Schaden Eurer Heilige Kraft verbrauchenden F\u00e4higkeiten wird um 10% erh\u00f6ht.",
+    "en_GB": "When you lose your Winning Streak! you get the last Holy Power spent back, you cannot lose Holy Power for the next 4.0 sec, and the damage of your Holy Power abilities are increased by 10%.",
+    "es_ES": "Cuando pierdes tu \u00a1Racha ganadora!, recuperas el \u00faltimo punto de poder sagrado gastado. Adem\u00e1s, no puedes perder puntos de poder sagrado durante 4,0 s tras perder la racha, y el da\u00f1o de tus facultades de poder sagrado aumenta un 10%.",
+    "fr_FR": "Lorsque S\u00e9quence victorieuse\u00a0! prend fin, vous r\u00e9cup\u00e9rez les derni\u00e8res charges de puissance sacr\u00e9e consomm\u00e9es et ne pouvez en perdre davantage pendant 4,0\u00a0s. Par ailleurs, les d\u00e9g\u00e2ts de vos techniques \u00e0 puissance sacr\u00e9e augmentent de 10\u00a0%.",
+    "it_IT": "Quando si perde una Serie Vincente!, le ultime cariche di potere sacro consumate vengono ripristinate. Inoltre, per i successivi 4,0 s non si perdono cariche di potere sacro e i danni inflitti dalle abilit\u00e0 che consumano cariche di potere sacro aumentano del 10%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0442\u0435\u0440\u044f\u0435\u0442\u0435 \"\u0427\u0435\u0440\u0435\u0434\u0443 \u043f\u043e\u0431\u0435\u0434!\", \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0421\u0432\u0435\u0442\u0430, \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u0443\u044e \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438. \u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4,0 \u0441\u0435\u043a. \u0432\u044b \u043d\u0435 \u0442\u0435\u0440\u044f\u0435\u0442\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0421\u0432\u0435\u0442\u0430, \u0430 \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0449\u0438\u0435 \u0435\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc5f0\uc18d \ub2f9\ucca8! \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9c0\uba74 \ub9c8\uc9c0\ub9c9\uc73c\ub85c \uc18c\ubaa8\ud55c \uc2e0\uc131\ud55c \ud798\uc744 \ub418\ub3cc\ub824\ubc1b\uc2b5\ub2c8\ub2e4. \uadf8\ub9ac\uace0 \ub2e4\uc74c 4.0\ucd08 \ub3d9\uc548 \uc2e0\uc131\ud55c \ud798\uc774 \uac10\uc18c\ud558\uc9c0 \uc54a\uc73c\uba70 \uc2e0\uc131\ud55c \ud798 \ub2a5\ub825\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u5931\u53bb\u9023\u52dd\uff01\u6642\uff0c\u4f60\u91cd\u7372\u6d88\u8017\u7684\u6700\u5f8c\u4e00\u9053\u8056\u80fd\uff0c\u4e14\u5728\u63a5\u4e0b\u4f86\u76844.0\u79d2\u5167\u7121\u6cd5\u5931\u53bb\u8056\u80fd\uff0c\u540c\u6642\u4f60\u8056\u80fd\u6280\u80fd\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u5f53\u4f60\u5931\u53bb\u8fde\u80dc\uff01\u6548\u679c\u65f6\uff0c\u4f1a\u8fd4\u8fd8\u6700\u540e\u6d88\u8017\u7684\u795e\u5723\u80fd\u91cf\uff0c\u4e14\u5728\u63a5\u4e0b\u6765\u76844.0\u79d2\u5185\u65e0\u6cd5\u5931\u53bb\u795e\u5723\u80fd\u91cf\uff0c\u540c\u65f6\u6d88\u8017\u795e\u5723\u80fd\u91cf\u7684\u6280\u80fd\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

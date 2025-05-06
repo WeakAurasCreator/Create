@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1216953"
+  "SpellID": "1216953",
+  "name_blz": {
+    "en_US": "Freezing Winds",
+    "es_MX": "Vientos congelantes",
+    "pt_BR": "Ventos Congelantes",
+    "de_DE": "Eiskalte Winde",
+    "en_GB": "Freezing Winds",
+    "es_ES": "Vientos congelantes",
+    "fr_FR": "Vents givrants",
+    "it_IT": "Venti Gelidi",
+    "ru_RU": "\u041b\u0435\u0434\u044f\u043d\u044b\u0435 \u0432\u0435\u0442\u0440\u0430",
+    "ko_KR": "\uc5bc\uc5b4\ubd99\ub294 \ubc14\ub78c",
+    "zh_TW": "\u51b0\u51cd\u4e4b\u98a8",
+    "zh_CN": "\u51bb\u7ed3\u5bd2\u98ce"
+  },
+  "description_blz": {
+    "en_US": "Frozen Orb deals 15% increased damage to units affected by your Blizzard.",
+    "es_MX": "Orbe congelado inflige un 15% m\u00e1s de da\u00f1o a las unidades afectadas por tu Ventisca.",
+    "pt_BR": "Orbe Congelado causa 15% a mais de dano \u00e0s unidades afetadas pela sua Nevasca.",
+    "de_DE": "Eure 'Gefrorene Kugel' f\u00fcgt von Eurem 'Schneesturm' betroffenen Einheiten 15% mehr Schaden zu.",
+    "en_GB": "Frozen Orb deals 15% increased damage to units affected by your Blizzard.",
+    "es_ES": "Orbe congelado inflige un 15% m\u00e1s de da\u00f1o a las unidades afectadas por tu Ventisca.",
+    "fr_FR": "Orbe gel\u00e9 inflige 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires aux unit\u00e9s affect\u00e9es par votre Blizzard.",
+    "it_IT": "Aumenta i danni inflitti da Globo Congelato ai bersagli affetti da una tua Tormenta del 15%.",
+    "ru_RU": "\"\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0448\u0430\u0440\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0446\u0435\u043b\u044f\u043c \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0432\u0430\u0448\u0435\u0439 \"\u0421\u043d\u0435\u0436\u043d\u043e\u0439 \u0431\u0443\u0440\u0438\".",
+    "ko_KR": "\uc5bc\uc5b4\ubd99\uc740 \uad6c\uc2ac\uc774 \ub208\ubcf4\ub77c\uc5d0 \uc601\ud5a5\uc744 \ubc1b\ub294 \ub300\uc0c1\uc5d0\uac8c 15%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u51b0\u971c\u4e4b\u7403\u5c0d\u53d7\u4f60\u66b4\u98a8\u96ea\u5f71\u97ff\u7684\u55ae\u4f4d\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u5bd2\u51b0\u5b9d\u73e0\u5bf9\u53d7\u4f60\u66b4\u98ce\u96ea\u5f71\u54cd\u7684\u76ee\u6807\u989d\u5916\u9020\u621015%\u4f24\u5bb3\u3002"
+  }
 }

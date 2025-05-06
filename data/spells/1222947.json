@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1222947"
+  "SpellID": "1222947",
+  "name_blz": {
+    "en_US": "Aether Fragment",
+    "es_MX": "Fragmento de \u00e9ter",
+    "pt_BR": "Fragmento de A\u00e9ter",
+    "de_DE": "\u00c4therfragment",
+    "en_GB": "Aether Fragment",
+    "es_ES": "Fragmento de \u00e9ter",
+    "fr_FR": "Fragment d\u2019\u00e9ther",
+    "it_IT": "Frammento Etereo",
+    "ru_RU": "\u0424\u0440\u0430\u0433\u043c\u0435\u043d\u0442 \u044d\u0444\u0438\u0440\u0430",
+    "ko_KR": "\uc5d0\ud14c\ub974 \ud30c\ud3b8",
+    "zh_TW": "\u4e59\u592a\u788e\u7247",
+    "zh_CN": "\u4ee5\u592a\u788e\u7247"
+  },
+  "description_blz": {
+    "en_US": "Intuition's damage bonus increased by 20%.",
+    "es_MX": "La bonificaci\u00f3n de da\u00f1o de Intuici\u00f3n aumenta un 20%.",
+    "pt_BR": "Dano extra de Intui\u00e7\u00e3o aumentado em 20%.",
+    "de_DE": "Erh\u00f6ht den Schadensbonus von 'Intuition' um 20%.",
+    "en_GB": "Intuition's damage bonus increased by 20%.",
+    "es_ES": "Bonus de da\u00f1o de Intuici\u00f3n aumentado un 20%.",
+    "fr_FR": "Le bonus aux d\u00e9g\u00e2ts d\u2019Intuition est augment\u00e9 de 20\u00a0%.",
+    "it_IT": "Bonus ai danni fornito da Intuizione aumentato del 20%.",
+    "ru_RU": "\u0411\u043e\u043d\u0443\u0441 \u043a \u0443\u0440\u043e\u043d\u0443 \u043e\u0442 \"\u0418\u043d\u0442\u0443\u0438\u0446\u0438\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20%.",
+    "ko_KR": "\uc9c1\uad00\ub825\uc758 \uacf5\uaca9\ub825 \uc99d\uac00\ub7c9\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u76f4\u89ba\u7684\u50b7\u5bb3\u52a0\u6210\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u654f\u9510\u76f4\u89c9\u7684\u4f24\u5bb3\u52a0\u6210\u63d0\u9ad820%\u3002"
+  }
 }
