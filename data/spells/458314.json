@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "458314"
+  "SpellID": "458314",
+  "name_blz": {
+    "en_US": "Henry Garrick",
+    "es_MX": "Henry Garrick",
+    "pt_BR": "Henrique Garrick",
+    "de_DE": "Henry Garrick",
+    "en_GB": "Henry Garrick",
+    "es_ES": "Henry Garrick",
+    "fr_FR": "Henry Garrick",
+    "it_IT": "Henry Garrick",
+    "ru_RU": "\u0413\u0435\u043d\u0440\u0438 \u0413\u044d\u0440\u0440\u0438\u043a",
+    "ko_KR": "\ud5e8\ub9ac \uac1c\ub9ad",
+    "zh_TW": "\u4ea8\u5229\u2027\u84cb\u745e\u514b",
+    "zh_CN": "\u4ea8\u5229\u00b7\u5609\u91cc\u514b"
+  },
+  "description_blz": {
+    "en_US": "Holy Priest",
+    "es_MX": "Sacerdote sagrado",
+    "pt_BR": "Sacerdote Sagrado",
+    "de_DE": "Heiligpriester",
+    "en_GB": "Holy Priest",
+    "es_ES": "Sacerdote Sagrado",
+    "fr_FR": "Pr\u00eatre Sacr\u00e9",
+    "it_IT": "Sacerdote (Sacro)",
+    "ru_RU": "\u0416\u0440\u0435\u0446 - \u0421\u0432\u0435\u0442",
+    "ko_KR": "\uc2e0\uc131 \uc0ac\uc81c",
+    "zh_TW": "\u795e\u8056\u7267\u5e2b",
+    "zh_CN": "\u795e\u5723\u7267\u5e08"
+  }
 }

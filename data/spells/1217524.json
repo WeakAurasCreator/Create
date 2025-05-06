@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1217524"
+  "SpellID": "1217524",
+  "name_blz": {
+    "en_US": "Dire Cleave",
+    "es_MX": "Rajadura temible",
+    "pt_BR": "Cutilada Atroz",
+    "de_DE": "Alphahiebe",
+    "en_GB": "Dire Cleave",
+    "es_ES": "Cuchillada temible",
+    "fr_FR": "Encha\u00eenement f\u00e9roce",
+    "it_IT": "Fendente Feroce",
+    "ru_RU": "\u0423\u0436\u0430\u0441\u043d\u044b\u0439 \u0443\u0434\u0430\u0440 \u0437\u0432\u0435\u0440\u044f",
+    "ko_KR": "\uad11\ud3ec\ud55c \ud68c\uc804\ubca0\uae30",
+    "zh_TW": "\u5147\u883b\u65ac",
+    "zh_CN": "\u51f6\u66b4\u987a\u5288"
+  },
+  "description_blz": {
+    "en_US": "When summoned, Dire Beasts gain Beast Cleave at 100% effectiveness for 8.0 sec.",
+    "es_MX": "Cuando se invocan, las Bestias temibles obtienen Tajo de la bestia con un 100% de efectividad durante 8.0 s.",
+    "pt_BR": "Ao ser evocadas, Feras Atrozes ganham Cutilada da Fera com 100% de efic\u00e1cia por 8,0 s.",
+    "de_DE": "Wenn Alphatiere beschworen werden, erhalten sie f\u00fcr 8,0 Sek. 'Raubtierhiebe' mit 100% Effektivit\u00e4t.",
+    "en_GB": "When summoned, Dire Beasts gain Beast Cleave at 100% effectiveness for 8.0 sec.",
+    "es_ES": "Cuando se invocan, las bestias temibles obtienen Tajo de la bestia con un 100% de efectividad durante 8,0 s.",
+    "fr_FR": "Quand vous invoquez vos b\u00eates f\u00e9roces, elles gagnent Encha\u00eenement bestial \u00e0 100\u00a0% d\u2019efficacit\u00e9 pendant 8,0\u00a0s.",
+    "it_IT": "Le Bestie Feroci evocate ottengono Fendente Bestiale al 100% dell'efficacia per 8,0 s.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0435 \u0443\u0436\u0430\u0441\u043d\u044b\u0435 \u0437\u0432\u0435\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0423\u0434\u0430\u0440 \u0437\u0432\u0435\u0440\u044f\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 100% \u043d\u0430 8,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uad11\ud3ec\ud55c \uc57c\uc218 \uc18c\ud658 \uc2dc 8.0\ucd08 \ub3d9\uc548 100%\uc758 \ud6a8\uc728\ub85c \uc57c\uc218\uc758 \ud68c\uc804\ubca0\uae30\uac00 \ubd80\uc5ec\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u51fa\u7684\u51f6\u66b4\u91ce\u7378\u7372\u5f97\u5147\u883b\u65ac\uff0c\u5176\u6548\u679c\u5f37\u5ea6\u8b8a\u70ba100%\uff0c\u6301\u7e8c8.0\u79d2\u3002",
+    "zh_CN": "\u53ec\u5524\u65f6\uff0c\u51f6\u66b4\u91ce\u517d\u83b7\u5f97100%\u7684\u91ce\u517d\u987a\u5288\u6548\u679c\uff0c\u6301\u7eed8.0\u79d2\u3002"
+  }
 }

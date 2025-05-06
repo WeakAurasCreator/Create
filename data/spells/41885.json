@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41885"
+  "SpellID": "41885",
+  "name_blz": {
+    "en_US": "Increased Block 10",
+    "es_MX": "Bloqueo aumentado 10",
+    "pt_BR": "Bloqueio Aumentado 10",
+    "de_DE": "Erh\u00f6htes Blocken 10",
+    "en_GB": "Increased Block 10",
+    "es_ES": "Bloqueo aumentado 10",
+    "fr_FR": "Blocage augment\u00e9 de 10",
+    "it_IT": "Blocco Migliorato 10",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u0431\u043b\u043e\u043a\u0430 10",
+    "ko_KR": "\ubc29\ud328 \ub9c9\uae30 \uc99d\uac00 10",
+    "zh_TW": "\u63d0\u9ad8\u683c\u64cb 10",
+    "zh_CN": "Increased Block 10"
+  },
+  "description_blz": {
+    "en_US": "Increases your dodge by 0.",
+    "es_MX": "Aumenta tu esquivar 0 p.",
+    "pt_BR": "Aumenta em 0 sua esquiva.",
+    "de_DE": "Erh\u00f6ht Euer Ausweichen um 0.",
+    "en_GB": "Increases your dodge by 0.",
+    "es_ES": "Aumenta tu esquivar 0 p.",
+    "fr_FR": "Augmente votre esquive de 0.",
+    "it_IT": "Aumenta l'indice di schivata di 0.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0443\u043a\u043b\u043e\u043d\u0435\u043d\u0438\u044f \u043d\u0430 0.",
+    "ko_KR": "\ud68c\ud53c\uac00 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u63d0\u9ad80\u9ede\u9583\u8eb2\u3002",
+    "zh_CN": "\u4f60\u7684\u8eb2\u95ea\u63d0\u9ad80\u70b9\u3002"
+  }
 }

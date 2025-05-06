@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "471366"
+  "SpellID": "471366",
+  "name_blz": {
+    "en_US": "Tensile Bowstring",
+    "es_MX": "Cuerda de tracci\u00f3n",
+    "pt_BR": "Corda de Arco T\u00eansil",
+    "de_DE": "Dehnbare Bogensehne",
+    "en_GB": "Tensile Bowstring",
+    "es_ES": "Cuerda de tracci\u00f3n",
+    "fr_FR": "Corde d\u2019arc extensible",
+    "it_IT": "Corda Duttile",
+    "ru_RU": "\u042d\u043b\u0430\u0441\u0442\u0438\u0447\u043d\u0430\u044f \u0442\u0435\u0442\u0438\u0432\u0430",
+    "ko_KR": "\uace0\uc7a5\ub825 \uc2dc\uc704",
+    "zh_TW": "\u4f38\u7e2e\u5f13\u5f26",
+    "zh_CN": "\u97e7\u6027\u5f13\u5f26"
+  },
+  "description_blz": {
+    "en_US": "While Trueshot is active, consuming Precise Shots extends Trueshot's duration by 1.0 sec, up to 5.0 sec.\r\n\r\n\r\nAdditionally, Trueshot now increases the effectiveness of Streamline by 50%.",
+    "es_MX": "Mientras Disparo certero est\u00e1 activo, consumir Disparos precisos extiende 1.0 s la duraci\u00f3n de Disparo certero, hasta 5.0 s.\r\n\r\n\r\nAdem\u00e1s, Disparo certero ahora aumenta un 50% la efectividad de Aerodinamizaci\u00f3n.",
+    "pt_BR": "Quando Tiro Certeiro est\u00e1 ativo, consumir Tiros Precisos prolonga a dura\u00e7\u00e3o de Tiro Certeiro em 1,0 s, at\u00e9 um m\u00e1ximo de 5,0 s.\r\n\r\n\r\nAl\u00e9m disso, Tiro Certeiro agora aumenta em 50% a efic\u00e1cia de Otimiza\u00e7\u00e3o.",
+    "de_DE": "W\u00e4hrend 'Volltreffer' aktiv ist, erh\u00f6ht der Verbrauch von 'Pr\u00e4zise Sch\u00fcsse' die Dauer von 'Volltreffer' um 1,0 Sek, bis zu 5,0 Sek.\r\n\r\n\r\n'Volltreffer' erh\u00f6ht jetzt au\u00dferdem die Effektivit\u00e4t von 'Optimierung' um 50%.",
+    "en_GB": "While Trueshot is active, consuming Precise Shots extends Trueshot's duration by 1.0 sec, up to 5.0 sec.\r\n\r\n\r\nAdditionally, Trueshot now increases the effectiveness of Streamline by 50%.",
+    "es_ES": "Mientras Disparo certero est\u00e1 activo, el consumo de Disparos precisos extiende 1,0\u00a0s la duraci\u00f3n de Disparo certero, hasta un m\u00e1ximo de 5,0\u00a0s.\r\n\r\n\r\nAdem\u00e1s, Disparo certero aumenta un 50% la efectividad de Aerodinamizar.",
+    "fr_FR": "Lorsque Pr\u00e9cision est actif, le fait de consommer Tir pr\u00e9cis augmente la dur\u00e9e de Pr\u00e9cision de 1,0\u00a0s, jusqu\u2019\u00e0 un maximum de 5,0\u00a0s.\r\n\r\n\r\nDe plus, Pr\u00e9cision augmente d\u00e9sormais l\u2019efficacit\u00e9 d\u2019Efficacit\u00e9 accrue de 50\u00a0%.",
+    "it_IT": "Quando Precisione \u00e8 attiva, consumare Tiri Precisi estende la durata di Precisione di 1,0 s, fino a un massimo di 5,0 s.\r\n\r\n\r\nInoltre, Precisione aumenta l'efficacia di Flusso Continuo del 50%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0422\u043e\u0447\u043d\u044b\u0435 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u044b\" \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041c\u0435\u0442\u043a\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\", \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \"\u041c\u0435\u0442\u043a\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1,0 \u0441\u0435\u043a. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u0438\u0431\u0430\u0432\u043a\u0430 \u2013 5,0 \u0441\u0435\u043a.\r\n\r\n\r\n\u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \"\u041c\u0435\u0442\u043a\u0438\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \"\u041e\u0431\u0442\u0435\u043a\u0430\u0435\u043c\u043e\u0441\u0442\u0438\" \u043d\u0430 50%.",
+    "ko_KR": "\uc815\uc870\uc900\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc815\ubc00 \uc0ac\uaca9\uc744 \uc18c\ubaa8\ud558\uba74 \uc815\uc870\uc900\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 1.0\ucd08\ub9cc\ud07c, \ucd5c\ub300 5.0\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\r\n\ucd94\uac00\ub85c \uc815\uc870\uc900\uc774 \ub2a5\ub960\uc801\uc778 \uc18d\uc0ac\uc758 \ud6a8\uacfc\ub97c 50%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u5f37\u64ca\u4f5c\u7528\u671f\u9593\uff0c\u6d88\u8017\u7cbe\u6e96\u5c04\u64ca\u6703\u4f7f\u5f37\u64ca\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95771.0\u79d2\uff0c\u6700\u591a\u5ef6\u95775.0\u79d2\u3002\r\n\r\n\r\n\u6b64\u5916\uff0c\u5f37\u64ca\u73fe\u5728\u6703\u4f7f\u5c04\u64ca\u7121\u963b\u7684\u6548\u679c\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u767e\u53d1\u767e\u4e2d\u6fc0\u6d3b\u671f\u95f4\uff0c\u6d88\u8017\u5f39\u65e0\u865a\u53d1\u6548\u679c\u4f1a\u4f7f\u767e\u53d1\u767e\u4e2d\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f1.0\u79d2\uff0c\u6700\u591a\u5ef6\u957f5.0\u79d2\u3002\r\n\r\n\r\n\u6b64\u5916\uff0c\u767e\u53d1\u767e\u4e2d\u73b0\u5728\u4f1a\u4f7f\u884c\u4e91\u6d41\u6c34\u7684\u6548\u679c\u63d0\u9ad850%\u3002"
+  }
 }

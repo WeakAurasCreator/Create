@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "474526"
+  "SpellID": "474526",
+  "name_blz": {
+    "en_US": "Grievous Wounds",
+    "es_MX": "Lesiones graves",
+    "pt_BR": "Ferimentos Atrozes",
+    "de_DE": "Schreckliche Wunden",
+    "en_GB": "Grievous Wounds",
+    "es_ES": "Lesiones graves",
+    "fr_FR": "Blessures graves",
+    "it_IT": "Ferite Atroci",
+    "ru_RU": "\u0422\u044f\u0436\u043a\u0438\u0435 \u0440\u0430\u043d\u044b",
+    "ko_KR": "\uce58\uba85\uc0c1",
+    "zh_TW": "\u91cd\u5275\u50b7",
+    "zh_CN": "\u4f24\u53e3\u6076\u5316"
+  },
+  "description_blz": {
+    "en_US": "Rake, Rip, and Thrash damage increased by 10%.",
+    "es_MX": "El da\u00f1o de Ara\u00f1azo, Destripar, y Vapulear aumenta un 10%.",
+    "pt_BR": "Dano de Estra\u00e7alhar, Rasgar e Surra aumentado em 10%.",
+    "de_DE": "Erh\u00f6ht den Schaden durch 'Krallenhieb', 'Zerfetzen' und 'Hauen' um 10%.",
+    "en_GB": "Rake, Rip, and Thrash damage increased by 10%.",
+    "es_ES": "El da\u00f1o de Ara\u00f1azo, Destripar y Vapulear aumenta un 10%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Griffure, D\u00e9chirure et Rosser sont augment\u00e9s de 10\u00a0%.",
+    "it_IT": "Danni inflitti da Graffio, Squarcio e Falciata del 10%.",
+    "ru_RU": "\"\u0413\u043b\u0443\u0431\u043e\u043a\u0430\u044f \u0440\u0430\u043d\u0430\", \"\u0420\u0430\u0437\u043e\u0440\u0432\u0430\u0442\u044c\" \u0438 \"\u0412\u0437\u0431\u0443\u0447\u043a\u0430\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uac08\ud034 \ubc1c\ud1b1, \ub3c4\ub824\ub0b4\uae30, \ub09c\ud0c0\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6383\u64ca\u3001\u6495\u626f\u548c\u75db\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u659c\u63a0\u3001\u5272\u88c2\u548c\u75db\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

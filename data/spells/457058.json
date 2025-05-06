@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "457058"
+  "SpellID": "457058",
+  "name_blz": {
+    "en_US": "Darkest Night",
+    "es_MX": "La noche m\u00e1s oscura",
+    "pt_BR": "Noite Preta",
+    "de_DE": "Dunkelste Nacht",
+    "en_GB": "Darkest Night",
+    "es_ES": "Noche cerrada",
+    "fr_FR": "Nuit noire",
+    "it_IT": "Notte Cupa",
+    "ru_RU": "\u041d\u0435\u043f\u0440\u043e\u0433\u043b\u044f\u0434\u043d\u0430\u044f \u043d\u043e\u0447\u044c",
+    "ko_KR": "\uc5b4\ub461\uace0 \uc5b4\ub450\uc6b4 \ubc24",
+    "zh_TW": "\u6df1\u6c89\u6697\u591c",
+    "zh_CN": "\u81f3\u9ed1\u4e4b\u591c"
+  },
+  "description_blz": {
+    "en_US": "When you consume the final Deathstalker's Mark from a target or your target dies, gain 40 Energy and your next Envenom cast with maximum combo points is guaranteed to critically strike, deals 60% additional damage, and applies 3 stacks of Deathstalker's Mark to the target.",
+    "es_MX": "Cuando consumes la \u00faltima marca de Marca del mortacechador de un objetivo o cuando tu objetivo muere, obtienes 40 p. de energ\u00eda, y tu siguiente lanzamiento de Envenenar con el n\u00famero m\u00e1ximo de puntos de combo es un golpe cr\u00edtico que inflige un 60% m\u00e1s de da\u00f1o y le aplica 3 acumulaciones de Marca del mortacechador al objetivo.",
+    "pt_BR": "Ao consumir a Marca do Sic\u00e1rio final de um alvo ou quando seu alvo morre, voc\u00ea ganha 40 de Energia e seu pr\u00f3ximo lan\u00e7amento de Envenenar com o m\u00e1ximo de pontos de combo \u00e9 um acerto cr\u00edtico garantido, causa 60% a mais de dano e aplica 3 ac\u00famulos de Marca do Sic\u00e1rio ao alvo.",
+    "de_DE": "Wenn Ihr den letzten Stapel von 'Mal des Todespirschers' auf Eurem Ziel verbraucht oder Euer Ziel stirbt, erhaltet Ihr 40 Energie und Euer n\u00e4chster Einsatz von 'Vergiften' mit maximalen Combopunkten trifft garantiert kritisch, verursacht 60% zus\u00e4tzlichen Schaden und belegt das Ziel mit 3 Stapeln von 'Mal des Todespirschers'.",
+    "en_GB": "When you consume the final Deathstalker's Mark from a target or your target dies, gain 40 Energy and your next Envenom cast with maximum combo points is guaranteed to critically strike, deals 60% additional damage, and applies 3 stacks of Deathstalker's Mark to the target.",
+    "es_ES": "Cuando consumes tu \u00faltima Marca de mortacechador de un objetivo o cuando tu objetivo muere, ganas 40\u00a0p. de energ\u00eda y tu siguiente Envenenar con el m\u00e1ximo de puntos de combo asestar\u00e1 un golpe cr\u00edtico, infligir\u00e1 un 60% m\u00e1s de da\u00f1o y aplicar\u00e1 3 acumulaciones de Marca de mortacechador en el objetivo.",
+    "fr_FR": "Lorsque vous consommez la derni\u00e8re Marque de n\u00e9crotraqueur d\u2019une cible ou si celle-ci meurt, vous obtenez 40\u00a0points d\u2019\u00e9nergie et votre prochaine technique Envenimer ex\u00e9cut\u00e9e avec le maximum de points de combo inflige \u00e0 coup s\u00fbr un coup critique, inflige 60\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires et applique 3\u00a0charges de Marque de n\u00e9crotraqueur \u00e0 la cible.",
+    "it_IT": "Quando si consuma l'ultimo Marchio dell'Inseguitore della Morte su un bersaglio o il bersaglio muore, si rigenera 40 energia e il successivo lancio di Affondo Venefico con il massimo di punti combo \u00e8 sempre un colpo critico, infligge il 60% di danni aggiuntivi e applica 3 accumuli di Marchio dell'Inseguitore della Morte al bersaglio.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044e\u044e \"\u041c\u0435\u0442\u043a\u0443 \u043b\u043e\u0432\u0447\u0435\u0433\u043e \u0441\u043c\u0435\u0440\u0442\u0438\" \u043d\u0430 \u0446\u0435\u043b\u0438 \u0438\u043b\u0438 \u0432\u0430\u0448\u0430 \u0446\u0435\u043b\u044c \u043f\u043e\u0433\u0438\u0431\u0430\u0435\u0442, \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 40 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438, \u0430 \u0432\u0430\u0448\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \"\u041e\u0442\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\", \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0449\u0435\u0435 \u0441\u0435\u0440\u0438\u044e \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u043b\u0438\u043d\u044b, \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0434\u0430\u0440, \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 60% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 3 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041c\u0435\u0442\u043a\u0430 \u043b\u043e\u0432\u0447\u0435\u0433\u043e \u0441\u043c\u0435\u0440\u0442\u0438\".",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uac78\ub9b0 \ub9c8\uc9c0\ub9c9 \uc8fd\uc74c\ucd94\uc801\uc790\uc758 \uc9d5\ud45c\ub97c \uc18c\ubaa8\ud558\uac70\ub098 \ub300\uc0c1\uc774 \uc0ac\ub9dd\uc5d0 \uc774\ub974\uba74 40\uc758 \uae30\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4. \ub610\ud55c \ucd5c\ub300 \uc5f0\uacc4 \uc810\uc218\ub97c \uc18c\ubaa8\ud558\uc5ec \uc2dc\uc804\ud558\ub294 \ub2e4\uc74c \ub3c5\uc0b4\uc774 \ud56d\uc0c1 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud558\uba70, 60%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud788\uace0 \ub300\uc0c1\uc5d0\uac8c \uc8fd\uc74c\ucd94\uc801\uc790\uc758 \uc9d5\ud45c 3\uc911\ucca9\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u6d88\u8017\u76ee\u6a19\u8eab\u4e0a\u6700\u5f8c\u4e00\u500b\u4ea1\u9748\u54e8\u5175\u5370\u8a18\u6216\u76ee\u6a19\u6b7b\u4ea1\u6642\uff0c\u7372\u5f9740\u9ede\u80fd\u91cf\uff0c\u4e14\u4f60\u4e0b\u4e00\u500b\u4ee5\u6700\u5927\u9023\u64ca\u9ede\u6578\u65bd\u653e\u7684\u6bd2\u5316\u5fc5\u5b9a\u9020\u6210\u81f4\u547d\u4e00\u64ca\uff0c\u984d\u5916\u9020\u621060%\u50b7\u5bb3\uff0c\u4e26\u5c0d\u76ee\u6a19\u65bd\u52a03\u5c64\u4ea1\u9748\u54e8\u5175\u5370\u8a18\u3002",
+    "zh_CN": "\u5f53\u4f60\u6d88\u8017\u76ee\u6807\u8eab\u4e0a\u7684\u6700\u540e\u4e00\u4e2a\u6b7b\u4ea1\u730e\u624b\u6807\u8bb0\uff0c\u6216\u76ee\u6807\u6b7b\u4ea1\u65f6\uff0c\u83b7\u5f9740\u70b9\u80fd\u91cf\uff0c\u5e76\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u4ee5\u6700\u5927\u8fde\u51fb\u70b9\u6570\u65bd\u653e\u7684\u6bd2\u4f24\u5fc5\u5b9a\u7206\u51fb\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad860%\uff0c\u5e76\u4e14\u5bf9\u76ee\u6807\u65bd\u52a03\u5c42\u6b7b\u4ea1\u730e\u624b\u6807\u8bb0\u3002"
+  }
 }

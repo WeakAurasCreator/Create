@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "467033"
+  "SpellID": "467033",
+  "name_blz": {
+    "en_US": "L00T RAID-R",
+    "es_MX": "C4Z4B0T1N3S",
+    "pt_BR": "Radar S4qu3",
+    "de_DE": "B3U13R\u00c4UB-R",
+    "en_GB": "L00T RAID-R",
+    "es_ES": "D3SP-0-J4-D0-R",
+    "fr_FR": "RAID-R @ 8UT1N",
+    "it_IT": "R4D4R D3L T3S0R-0",
+    "ru_RU": "\u04204-\u0414\u0410\u0420 \u04140661-\u0427\u0418",
+    "ko_KR": "\uc804SI\ud488 \ud0d0ZI\uae30",
+    "zh_TW": "\u6230\u5229\u54c1RAID-R",
+    "zh_CN": "\u6218\u5229\u54c1\u96f7\u8fbe"
+  },
+  "description_blz": {
+    "en_US": "Every 60 sec or 5 sec after entering combat, scan the environment highlighting Mislaid Curiosities and making enemies below 95% health take 4% more damage for 10 sec.",
+    "es_MX": "Cada 60 s o tras 5 s de haber entrado en combate, escanea el entorno, marca las curiosidades extraviadas y hace que los enemigos con menos del 95% de salud reciban un 4% m\u00e1s de da\u00f1o durante 10 s.",
+    "pt_BR": "A cada 60 s ou 5 s ap\u00f3s entrar em combate, escaneia o ambiente, destacando Curiosidades Desviadas e fazendo inimigos com menos de 95% dos pontos de vida receber 4% a mais de dano por 10 s.",
+    "de_DE": "Tastet die Umgebung alle 60 Sek. oder 5 Sek. nach Kampfbeginn ab, hebt verlegte Kuriosit\u00e4ten hervor und l\u00e4sst Gegner mit weniger als 95% Gesundheit 10 Sek. lang 4% mehr Schaden erleiden.",
+    "en_GB": "Every 60 sec or 5 sec after entering combat, scan the environment highlighting Mislaid Curiosities and making enemies below 95% health take 4% more damage for 10 sec.",
+    "es_ES": "Cada 60 s o tras 5 s despu\u00e9s de entrar en combate, analiza el entorno para resaltar curiosidades extraviadas y hacer que los enemigos con menos de un 95% de salud reciban un 4% m\u00e1s de da\u00f1o durante 10 s.",
+    "fr_FR": "Toutes les 60\u00a0s ou 5 s apr\u00e8s l\u2019entr\u00e9e en combat, analyse l\u2019environnement pour signaler les curiosit\u00e9s fourvoy\u00e9es et augmenter de 4\u00a0% les d\u00e9g\u00e2ts que subissent les adversaires disposant de moins de 95\u00a0% de points de vie pendant 10 s.",
+    "it_IT": "Ogni 60 s o 5 s dopo essere entrati in combattimento, scansiona l'ambiente circostante, mettendo in evidenza dei Reperti Smarriti e aumentando i danni subiti dai nemici con meno del 95% della salute massima del 4% per 10 s.",
+    "ru_RU": "\u0420\u0430\u0437 \u0432 60 \u0441\u0435\u043a. \u0438\u043b\u0438 \u0447\u0435\u0440\u0435\u0437 5 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0432\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0432 \u0431\u043e\u0439 \u0441\u043a\u0430\u043d\u0438\u0440\u0443\u0435\u0442 \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0443\u044e \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044e, \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0432\u0430\u044f \u043f\u043e\u0442\u0435\u0440\u044f\u043d\u043d\u044b\u0435 \u0432\u0435\u0449\u0438\u0446\u044b \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c\u0438 \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0438\u0436\u0435 95%, \u043d\u0430 4% \u043d\u0430 10 \u0441\u0435\u043a.",
+    "ko_KR": "60\ucd08\ub9c8\ub2e4 \ub610\ub294 \uc804\ud22c\uac00 \uc2dc\uc791\ub418\uace0 5\ucd08 \ud6c4\uc5d0 \uc8fc\ubcc0 \ud658\uacbd\uc744 \ud0d0\uc0c9\ud574 \uc798\ubabb \ub193\uc778 \uc9c4\uadc0\ud488\uc744 \uac15\uc870 \ud45c\uc2dc\ud558\uace0 \uc0dd\uba85\ub825\uc774 95% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c4 \uc801\uc774 \ubc1b\ub294 \ud53c\ud574\ub97c 4%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. 10\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf60\u79d2\u6216\u9032\u5165\u6230\u9b255\u79d2\u5f8c\u6383\u63cf\u74b0\u5883\uff0c\u7a81\u986f\u51fa\u4e82\u653e\u7684\u73cd\u54c1\uff0c\u4e26\u4f7f\u751f\u547d\u529b\u4f4e\u65bc95%\u7684\u6575\u4eba\u53d7\u5230\u7684\u50b7\u5bb3\u63d0\u9ad84%\uff0c\u6301\u7e8c10\u79d2\u3002",
+    "zh_CN": "\u6bcf\u969460\u79d2\uff0c\u6216\u8fdb\u5165\u6218\u65975\u79d2\u540e\u626b\u63cf\u5468\u56f4\u7684\u73af\u5883\uff0c\u6807\u4eae\u9519\u653e\u7684\u5947\u73cd\uff0c\u5e76\u4f7f\u751f\u547d\u503c\u4f4e\u4e8e95%\u7684\u654c\u4eba\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad84%\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455590"
+  "SpellID": "455590",
+  "name_blz": {
+    "en_US": "Earthsurge",
+    "es_MX": "Oleada de tierra",
+    "pt_BR": "Surto da Terra",
+    "de_DE": "Erdwoge",
+    "en_GB": "Earthsurge",
+    "es_ES": "Terraluvi\u00f3n",
+    "fr_FR": "Afflux de terre",
+    "it_IT": "Scarica Terrestre",
+    "ru_RU": "\u0417\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0438\u043c\u043f\u0443\u043b\u044c\u0441",
+    "ko_KR": "\ub300\uc9c0\uc758 \uc1c4\ub3c4",
+    "zh_TW": "\u5927\u5730\u5954\u9a30",
+    "zh_CN": "\u5927\u5730\u5954\u6d8c"
+  },
+  "description_blz": {
+    "en_US": "Allies affected by your Earthen Wall Totem, Ancestral Protection Totem, and Earthliving effect receive 15% increased healing from you.",
+    "es_MX": "Los aliados que est\u00e9n bajo el efecto de T\u00f3tem Muro de tierra, T\u00f3tem de protecci\u00f3n ancestral y Vida terrestre reciben un 15% m\u00e1s de sanaci\u00f3n de tu parte.",
+    "pt_BR": "Aliados sob efeito dos seus Totem de Muralha Terrana, Totem de Prote\u00e7\u00e3o Ancestral e Terraviva recebem 15% a mais de cura de voc\u00ea.",
+    "de_DE": "Verb\u00fcndete, die von Eurem Totem des irdenen Walls, Totem des Schutzes der Ahnen oder Eurem Effekt 'Lebensgeister' betroffen sind, erhalten 15% mehr Heilung von Euch.",
+    "en_GB": "Allies affected by your Earthen Wall Totem, Ancestral Protection Totem, and Earthliving effect receive 15% increased healing from you.",
+    "es_ES": "Los aliados afectados por tu T\u00f3tem Muro de tierra, T\u00f3tem de Protecci\u00f3n ancestral y tu efecto de Vida terrestre reciben un 15% m\u00e1s de sanaci\u00f3n de ti.",
+    "fr_FR": "Les personnages alli\u00e9s affect\u00e9s par vos effets Totem de mur terrestre, Totem de protection ancestrale ou Viveterre re\u00e7oivent 15\u00a0% de soins suppl\u00e9mentaires de votre part.",
+    "it_IT": "Gli alleati affetti da un tuo effetto di Totem del Muro Terrigeno, Totem del Risveglio Ancestrale o Terra Benefica ricevono il 15% di cure aggiuntive da te.",
+    "ru_RU": "\u0412\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0432\u0430\u0448 \"\u0422\u043e\u0442\u0435\u043c \u0437\u0435\u043c\u043b\u044f\u043d\u043e\u0439 \u0441\u0442\u0435\u043d\u044b\", \"\u0422\u043e\u0442\u0435\u043c \u0437\u0430\u0449\u0438\u0442\u044b \u041f\u0440\u0435\u0434\u043a\u043e\u0432\" \u0438\u043b\u0438 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0416\u0438\u0437\u043d\u044c \u0417\u0435\u043c\u043b\u0438\".",
+    "ko_KR": "\ub300\uc9c0\uc758 \ubcbd \ud1a0\ud15c, \uc120\uc870\uc758 \ubcf4\ud638 \ud1a0\ud15c, \ub300\uc9c0\uc0dd\uba85 \ud6a8\uacfc\uc5d0 \uc601\ud5a5\uc744 \ubc1b\ub294 \uc544\uad70\uc740 \uc2dc\uc804\uc790\uc5d0\uac8c \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\uac00 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u76df\u53cb\u53d7\u4f60\u7684\u5927\u5730\u76fe\u7246\u5716\u9a30\u3001\u5148\u7956\u4fdd\u8b77\u5716\u9a30\u548c\u5927\u5730\u751f\u547d\u6548\u679c\u5f71\u97ff\u6642\uff0c\u4f60\u5c0d\u5176\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u88ab\u4f60\u7684\u5927\u5730\u4e4b\u5899\u56fe\u817e\u3001\u5148\u7956\u62a4\u4f51\u56fe\u817e\u548c\u5927\u5730\u751f\u547d\u6548\u679c\u5f71\u54cd\u7684\u76df\u53cb\u53d7\u5230\u4f60\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad815%\u3002"
+  }
 }

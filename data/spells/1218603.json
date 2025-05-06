@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1218603"
+  "SpellID": "1218603",
+  "name_blz": {
+    "en_US": "Death's Cold Embrace",
+    "es_MX": "Fr\u00edo abrazo de la muerte",
+    "pt_BR": "Abra\u00e7o Gelado da Morte",
+    "de_DE": "Kalte Umarmung des Todes",
+    "en_GB": "Death's Cold Embrace",
+    "es_ES": "Fr\u00edo abrazo de la muerte",
+    "fr_FR": "\u00c9treinte glaciale de la mort",
+    "it_IT": "Abbraccio Freddo della Morte",
+    "ru_RU": "\u041b\u0435\u0434\u044f\u043d\u044b\u0435 \u043e\u0431\u044a\u044f\u0442\u0438\u044f \u0441\u043c\u0435\u0440\u0442\u0438",
+    "ko_KR": "\uc8fd\uc74c\uc758 \ucc28\uac00\uc6b4 \ud488",
+    "zh_TW": "\u6b7b\u4ea1\u7684\u5bd2\u51b7\u64c1\u62b1",
+    "zh_CN": "\u6b7b\u795e\u7684\u51b0\u51b7\u62e5\u62b1"
+  },
+  "description_blz": {
+    "en_US": "Pillar of Frost grants you Remorseless Winter and increases its damage by 400% and its radius by 150%, but your movement speed is heavily reduced for its duration.\r\n\r\nPillar of Frost's cooldown is increased by 15 sec.",
+    "es_MX": "Pilar de escarcha te otorga Invierno sin remordimientos y aumenta su da\u00f1o un 400% y su radio un 150%, pero reduce considerablemente tu velocidad de movimiento mientras dura.\r\n\r\nEl tiempo de reutilizaci\u00f3n de Pilar de escarcha aumenta 15 s.",
+    "pt_BR": "Pilar de Gelo concede Inverno Impiedoso e aumenta em 400% o dano e em 150% o raio dessa habilidade, mas a velocidade de movimento \u00e9 severamente reduzida enquanto durar o efeito.\r\n\r\nA recarga de Pilar de Gelo \u00e9 aumentada em 15 s.",
+    "de_DE": "Eure 'S\u00e4ule des Frosts' gew\u00e4hrt Euch 'Unbarmherziger Winter', erh\u00f6ht seinen Schaden um 400% und seinen Radius um 150%, aber Eure Bewegungsgeschwindigkeit ist f\u00fcr die Effektdauer stark verringert.\r\n\r\nDie Abklingzeit von 'S\u00e4ule des Frosts' wird um 15 Sek. erh\u00f6ht.",
+    "en_GB": "Pillar of Frost grants you Remorseless Winter and increases its damage by 400% and its radius by 150%, but your movement speed is heavily reduced for its duration.\r\n\r\nPillar of Frost's cooldown is increased by 15 sec.",
+    "es_ES": "Pilar de Escarcha otorga Invierno sin remordimientos y aumenta un 400% su da\u00f1o y un 150% su radio, pero tu velocidad de movimiento disminuye mucho mientras dura.\r\n\r\nAumenta 15\u00a0s el tiempo de reutilizaci\u00f3n de Pilar de Escarcha.",
+    "fr_FR": "Pilier de givre vous conf\u00e8re Hiver impitoyable et augmente ses d\u00e9g\u00e2ts de 400\u00a0% et son rayon de 150\u00a0%, mais votre vitesse de d\u00e9placement est grandement r\u00e9duite pendant sa dur\u00e9e.\r\n\r\nLe temps de recharge de Pilier de givre est augment\u00e9 de 15\u00a0s.",
+    "it_IT": "Pilastro di Ghiaccio fornisce Inverno Spietato, aumentandone i danni inflitti del 400% e la portata del 150%, ma riduce significativamente la velocit\u00e0 di movimento per tutta la sua durata.\r\n\r\nAumenta il tempo di recupero di Pilastro di Ghiaccio di 15 s.",
+    "ru_RU": "\"\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0441\u0442\u043e\u043b\u043f\" \u0434\u0430\u0435\u0442 \"\u0411\u0435\u0441\u043f\u043e\u0449\u0430\u0434\u043d\u043e\u0441\u0442\u044c \u0437\u0438\u043c\u044b\" \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0435\u0435 \u0443\u0440\u043e\u043d \u043d\u0430 400%, \u0430 \u0440\u0430\u0434\u0438\u0443\u0441 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 \u043d\u0430 150%, \u043d\u043e \u0441\u0438\u043b\u044c\u043d\u043e \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f, \u043f\u043e\u043a\u0430 \u043e\u043d\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442.\r\n\r\n\u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041b\u0435\u0434\u044f\u043d\u043e\u0433\u043e \u0441\u0442\u043e\u043b\u043f\u0430\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\uc5bc\uc74c \uae30\ub465 \uc2dc\uc804 \uc2dc \ub0c9\ud639\ud55c \uaca8\uc6b8\uc774 \ubd80\uc5ec\ub418\uace0 \uacf5\uaca9\ub825\uc740 400%\ub9cc\ud07c, \ubc18\uacbd\uc740 150%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 \ud06c\uac8c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\uc5bc\uc74c \uae30\ub465\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u51b0\u971c\u4e4b\u67f1\u8ce6\u4e88\u4f60\u51b7\u9177\u51dc\u51ac\uff0c\u4f7f\u5176\u50b7\u5bb3\u63d0\u9ad8400%\u4e14\u7bc4\u570d\u63d0\u9ad8150%\uff0c\u4f46\u5728\u5176\u6301\u7e8c\u6642\u9593\u5167\uff0c\u4f60\u7684\u79fb\u52d5\u901f\u5ea6\u5927\u5e45\u964d\u4f4e\u3002\r\n\r\n\u51b0\u971c\u4e4b\u67f1\u7684\u51b7\u537b\u6642\u9593\u5ef6\u957715\u79d2\u3002",
+    "zh_CN": "\u51b0\u971c\u4e4b\u67f1\u4f7f\u4f60\u83b7\u5f97\u51b7\u9177\u4e25\u51ac\uff0c\u5e76\u4f7f\u5176\u4f24\u5bb3\u63d0\u9ad8400%\uff0c\u8303\u56f4\u6269\u5927150%\uff0c\u4f46\u5176\u6301\u7eed\u671f\u95f4\u4f60\u7684\u79fb\u52a8\u901f\u5ea6\u5927\u5e45\u964d\u4f4e\u3002\r\n\r\n\u51b0\u971c\u4e4b\u67f1\u7684\u51b7\u5374\u65f6\u95f4\u5ef6\u957f15\u79d2\u3002"
+  }
 }

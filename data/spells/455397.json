@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455397"
+  "SpellID": "455397",
+  "name_blz": {
+    "en_US": "Festering Scythe",
+    "es_MX": "Guada\u00f1a purulenta",
+    "pt_BR": "Foice Purulenta",
+    "de_DE": "Schw\u00e4rende Sense",
+    "en_GB": "Festering Scythe",
+    "es_ES": "Guada\u00f1a purulenta",
+    "fr_FR": "Faux purulente",
+    "it_IT": "Falce Putrescente",
+    "ru_RU": "\u0413\u043d\u043e\u0439\u043d\u0430\u044f \u043a\u043e\u0441\u0430",
+    "ko_KR": "\ubd80\ud328\uc758 \ub0ab",
+    "zh_TW": "\u81bf\u7621\u942e\u5200",
+    "zh_CN": "\u8113\u75ae\u6bd2\u9570"
+  },
+  "description_blz": {
+    "en_US": "Every 20 Festering Wound you burst empowers your next Festering Strike to become Festering Scythe for 12 sec.\r\n\r\nFestering Scythe\r\nSweep through all enemies within 14 yds in front of you, dealing 1,047 Shadow damage and infecting them with 2-3 Festering Wounds.",
+    "es_MX": "Cada 20 Heridas degenerativas que revientes, se potencia tu siguiente Golpe purulento y lo convierte en Guada\u00f1a purulenta durante 12 s.\r\n\r\nGuada\u00f1a purulenta\r\nAtaca a todos los enemigos en un radio de 14 m frente a ti, inflige 1,081 p. de da\u00f1o de las sombras y los infecta con 2-3 heridas degenerativas.",
+    "pt_BR": "Ao estourar 20 Feridas Purulentas, voc\u00ea potencializa seu pr\u00f3ximo Ataque Supurante e o transforma em Foice Purulenta por 12 s.\r\n\r\nFoice Purulenta\r\nGolpeia todos os inimigos a at\u00e9 14 m \u00e0 sua frente, causando 1.054 de dano de Sombra e infectando-os com 2\u20133 Feridas Purulentas.",
+    "de_DE": "Nachdem Ihr 20 schw\u00e4rende Wunden habt aufrei\u00dfen lassen, wird Euer n\u00e4chster 'Schw\u00e4render Sto\u00df' 12 Sek. lang zu 'Schw\u00e4rende Sense'.\r\n\r\nSchw\u00e4rende Sense\r\nFegt durch alle Gegner innerhalb von 14 Metern vor Euch, f\u00fcgt ihnen 1.045 Schattenschaden zu und infiziert sie mit 2 bis 3 Stapeln von 'Schw\u00e4rende Wunde'.",
+    "en_GB": "Every 20 Festering Wound you burst empowers your next Festering Strike to become Festering Scythe for 12 sec.\r\n\r\nFestering Scythe\r\nSweep through all enemies within 14 yds in front of you, dealing 1,054 Shadow damage and infecting them with 2-3 Festering Wounds.",
+    "es_ES": "Por cada 20 lanzamientos de Herida degenerativa que haces explotar, se potencia tu pr\u00f3ximo Golpe purulento y se convierte en Guada\u00f1a purulenta durante 12 s.\r\n\r\nGuada\u00f1a purulenta\r\nGolpea con un barrido a todos los enemigos en un radio de 14 m frente a ti, que reciben 1052 p. de da\u00f1o de las Sombras y entre 2 y 3 heridas degenerativas.",
+    "fr_FR": "Par tranche de 20\u00a0blessures purulentes que vous faites \u00e9clater, vous renforcez votre prochaine Frappe purulente, qui devient Faux purulente pendant 12 s.\r\n\r\n Faux purulente\r\nVous fauchez les adversaires \u00e0 moins de 14\u00a0m devant vous, infligeant 1074\u00a0points de d\u00e9g\u00e2ts d\u2019ombre ainsi que 2 \u00e0 3 blessures purulentes.",
+    "it_IT": "Ogni 20 accumuli di Ferita Putrescente manifestati, il successivo Assalto Putrescente si potenzia in Falce Putrescente per 12 s.\r\n\r\nFalce Putrescente\r\nFalcia tutti i nemici frontali entro 14 m, infliggendo 1.063 danni da ombra e infettandoli con 2-3 accumuli di Ferita Putrescente.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u0430\u044f 20-\u044f \u043f\u0440\u043e\u0440\u0432\u0430\u043d\u043d\u0430\u044f \"\u0413\u043d\u043e\u0439\u043d\u0430\u044f \u044f\u0437\u0432\u0430\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0423\u0434\u0430\u0440 \u0440\u0430\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u044f\", \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u044f \u0435\u0433\u043e \u0432 \"\u0413\u043d\u043e\u0439\u043d\u0443\u044e \u043a\u043e\u0441\u0443\" \u043d\u0430 12 \u0441\u0435\u043a.\r\n\r\n\u0413\u043d\u043e\u0439\u043d\u0430\u044f \u043a\u043e\u0441\u0430\r\n\u0412\u044b \u0440\u0430\u0441\u0441\u0435\u043a\u0430\u0435\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 14 \u043c \u043f\u0435\u0440\u0435\u0434 \u0441\u043e\u0431\u043e\u0439 \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 1059 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u0437\u0430\u0440\u0430\u0436\u0430\u044f \u0446\u0435\u043b\u0438 2-3 \u0433\u043d\u043e\u0439\u043d\u044b\u043c\u0438 \u044f\u0437\u0432\u0430\u043c\u0438.",
+    "ko_KR": "\uace0\ub984 \uc0c1\ucc98\ub97c 20\uac1c \ud30c\uc5f4\uc2dc\ud0ac \ub54c\ub9c8\ub2e4 12\ucd08 \ub3d9\uc548 \ub2e4\uc74c \uace0\ub984 \uc77c\uaca9\uc774 \ubd80\ud328\uc758 \ub0ab\uc73c\ub85c \uac15\ud654\ub429\ub2c8\ub2e4.\r\n\r\n\ubd80\ud328\uc758 \ub0ab\r\n\uc804\ubc29 14\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc744 \ud729\uc4f8\uc5b4 1,060\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uace0\ub984 \uc0c1\ucc98 2-3\uc911\ucca9\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u5f15\u720620\u9053\u81bf\u7621\u50b7\u53e3\uff0c\u5c31\u6703\u5c07\u4f60\u7684\u4e0b\u4e00\u500b\u81bf\u7621\u6f70\u64ca\u5f37\u5316\u6210\u81bf\u7621\u942e\u5200\uff0c\u6301\u7e8c12\u79d2\u3002\r\n\r\n\u81bf\u7621\u942e\u5200\r\n\u6a6b\u6383\u4f60\u9762\u524d14\u78bc\u5167\u7684\u6240\u6709\u6575\u4eba\uff0c\u9020\u62101,058\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4f7f\u5176\u611f\u67d32-3\u9053\u81bf\u7621\u50b7\u53e3\u3002",
+    "zh_CN": "\u6bcf\u5f15\u720620\u5c42\u6e83\u70c2\u4e4b\u4f24\u90fd\u4f1a\u5f3a\u5316\u4f60\u7684\u4e0b\u4e00\u6b21\u8113\u75ae\u6253\u51fb\uff0c\u4f7f\u5176\u53d8\u4e3a\u8113\u75ae\u6bd2\u9570\uff0c\u6301\u7eed12\u79d2\u3002\r\n\r\n\u8113\u75ae\u6bd2\u9570\r\n\u6a2a\u626b\u6253\u51fb\u524d\u65b914\u7801\u5185\u7684\u6240\u6709\u654c\u4eba\uff0c\u9020\u62101,054\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4f7f\u5176\u611f\u67d32\u52303\u5c42\u6e83\u70c2\u4e4b\u4f24\u3002"
+  }
 }

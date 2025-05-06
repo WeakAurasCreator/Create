@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "39881"
+  "SpellID": "39881",
+  "name_blz": {
+    "en_US": "Increased Critical Spell",
+    "es_MX": "Golpe cr\u00edtico con hechizos aumentado",
+    "pt_BR": "Feiti\u00e7o Cr\u00edtico Aumentado",
+    "de_DE": "Erh\u00f6hter kritischer Zaubertrefferwert",
+    "en_GB": "Increased Critical Spell",
+    "es_ES": "Golpe cr\u00edtico con hechizos aumentado",
+    "fr_FR": "Critiques des sorts augment\u00e9s",
+    "it_IT": "Critici Magici Migliorati",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0430 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439",
+    "ko_KR": "\uadf9\ub300\ud654 \ud6a8\uacfc \ud5a5\uc0c1",
+    "zh_TW": "\u63d0\u9ad8\u6cd5\u8853\u81f4\u547d\u4e00\u64ca",
+    "zh_CN": "\u5f3a\u5316\u7206\u51fb\u6cd5\u672f"
+  },
+  "description_blz": {
+    "en_US": "Increases your critical strike by 14.",
+    "es_MX": "Aumenta tu golpe cr\u00edtico 14 p.",
+    "pt_BR": "Aumenta em 14 o seu acerto cr\u00edtico.",
+    "de_DE": "Erh\u00f6ht Euren kritischen Trefferwert um 14.",
+    "en_GB": "Increases your critical strike by 14.",
+    "es_ES": "Aumenta tu golpe cr\u00edtico 14 p.",
+    "fr_FR": "Augmente votre score de Coup critique de 14.",
+    "it_IT": "Aumenta l'indice di critico di 14.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u043d\u0430 14.",
+    "ko_KR": "\uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uac00 14\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u63d0\u9ad814\u9ede\u81f4\u547d\u4e00\u64ca\u3002",
+    "zh_CN": "\u4f60\u7684\u7206\u51fb\u63d0\u9ad814\u70b9\u3002"
+  }
 }

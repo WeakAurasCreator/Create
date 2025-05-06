@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215629"
+  "SpellID": "1215629",
+  "name_blz": {
+    "en_US": "Mage Frost 11.1 Class Set 4pc",
+    "es_MX": "Mage Frost 11.1 Class Set 4pc",
+    "pt_BR": "Mago, Gelo, 11.1, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Magierklassenset, Frost, 11.1, 4 Teile",
+    "en_GB": "Mage Frost 11.1 Class Set 4pc",
+    "es_ES": "Conjunto de clase de mago de Escarcha 11.1 (4 piezas)",
+    "fr_FR": "Ensemble de classe de mage Givre 11.1 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Mago Gelo, Set di Classe 11.1, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043c\u0430\u0433\u0430 11.1 \u2013 \u043b\u0435\u0434, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ub0c9\uae30 \ub9c8\ubc95\uc0ac 11.1 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u6cd5\u5e2b\u51b0\u971c11.1\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u51b0\u971c\u6cd5\u5e0811.1\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Icy Veins causes you to hit a Jackpot! at 100% effectiveness every 10 sec for 30 sec.",
+    "es_MX": "Venas heladas hace que ganes el \u00a1Bingo! con un 100% de efectividad cada 10 s durante 30 s.",
+    "pt_BR": "Veias G\u00e9lidas fazem voc\u00ea tirar a Sorte Grande! com 100% de efic\u00e1cia a cada 10 s por 30 s.",
+    "de_DE": "Mit dem Einsatz von 'Eisige Adern' landet Ihr 30 Sek. lang alle 10 Sek. einen Volltreffer! mit 100% Effektivit\u00e4t.",
+    "en_GB": "Icy Veins causes you to hit a Jackpot! at 100% effectiveness every 10 sec for 30 sec.",
+    "es_ES": "Venas heladas provoca que ganes un \u00a1Premio! con un100% de efectividad cada 10 s durante 30 s.",
+    "fr_FR": "Veines glaciales d\u00e9clenche un Jackpot\u00a0! \u00e0 100\u00a0% de son efficacit\u00e9 toutes les 10\u00a0s pendant 30 s.",
+    "it_IT": "Vene Gelide permette di fare Jackpot! al 100% dell'efficacia ogni 10 s per 30 s.",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0435\u043d\u0438\u0432 \"\u0421\u0442\u044b\u043b\u0443\u044e \u043a\u0440\u043e\u0432\u044c\", \u0432\u044b \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442\u0435 \"\u0414\u0436\u0435\u043a\u043f\u043e\u0442!\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 100% \u0440\u0430\u0437 \u0432 10 \u0441\u0435\u043a. \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 30 \u0441\u0435\u043a.",
+    "ko_KR": "\uc5bc\uc74c \ud54f\uc904\uc774 30\ucd08 \ub3d9\uc548 10\ucd08\ub9c8\ub2e4 100%\uc758 \ud6a8\uc728\ub85c \ud6a1\uc7ac! \ud6a8\uacfc\ub97c \ubc1c\ub3d9\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u51b0\u5bd2\u8108\u52d5\u6bcf10\u79d2\u4f7f\u4f60\u4e2d\u4e00\u6b21\u5927\u734e\uff01\uff0c\u5176\u6548\u679c\u5f37\u5ea6\u70ba100%\uff0c\u6301\u7e8c30\u79d2\u3002",
+    "zh_CN": "\u51b0\u51b7\u8840\u8109\u6bcf10\u79d2\u8d62\u5f97\u4e00\u6b21\u5934\u5956\uff01\uff0c\u4ea7\u751f100%\u7684\u6548\u679c\uff0c\u6301\u7eed30\u79d2\u3002"
+  }
 }

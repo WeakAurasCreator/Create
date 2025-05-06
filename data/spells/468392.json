@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "468392"
+  "SpellID": "468392",
+  "name_blz": {
+    "en_US": "Pin Cushion",
+    "es_MX": "Alfiletero",
+    "pt_BR": "Agulheiro",
+    "de_DE": "Nadelkissen",
+    "en_GB": "Pin Cushion",
+    "es_ES": "Alfiletero",
+    "fr_FR": "Couss\u00e9pingle",
+    "it_IT": "Puntaspilli",
+    "ru_RU": "\u0418\u0433\u043e\u043b\u044c\u043d\u0438\u043a",
+    "ko_KR": "\ubc14\ub298\uaca8\ub808",
+    "zh_TW": "\u7bad\u9776",
+    "zh_CN": "\u4e71\u7bad\u7a7f\u5fc3"
+  },
+  "description_blz": {
+    "en_US": "Steady Shot reduces the cooldown of Aimed Shot by 2 seconds.",
+    "es_MX": "Disparo firme reduce el tiempo de reutilizaci\u00f3n de Disparo de punter\u00eda 2 s.",
+    "pt_BR": "Tiro Firme reduz a recarga de Tiro Certo em 2 s.",
+    "de_DE": "'Zuverl\u00e4ssiger Schuss' verringert die Abklingzeit von 'Gezielter Schuss' um 2 Sekunden.",
+    "en_GB": "Steady Shot reduces the cooldown of Aimed Shot by 2 seconds.",
+    "es_ES": "Disparo firme reduce 2 s el tiempo de reutilizaci\u00f3n de Disparo certero.",
+    "fr_FR": "Tir assur\u00e9 r\u00e9duit le temps de recharge de Vis\u00e9e de 2\u00a0s.",
+    "it_IT": "Tiro Stabilizzato riduce il tempo di recupero di Tiro Mirato di 2 s.",
+    "ru_RU": "\"\u0412\u0435\u0440\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u043d\u0430 2 \u0441\u0435\u043a.",
+    "ko_KR": "\uace0\uc815 \uc0ac\uaca9 \uc0ac\uc6a9 \uc2dc \uc870\uc900 \uc0ac\uaca9\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7a69\u56fa\u5c04\u64ca\u6703\u4f7f\u7784\u6e96\u5c04\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\u3002",
+    "zh_CN": "\u7a33\u56fa\u5c04\u51fb\u4f1a\u4f7f\u7784\u51c6\u5c04\u51fb\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\u3002"
+  }
 }

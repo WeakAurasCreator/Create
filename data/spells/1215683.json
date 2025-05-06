@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215683"
+  "SpellID": "1215683",
+  "name_blz": {
+    "en_US": "Warlock Affliction 11.1 Class Set 4pc",
+    "es_MX": "Warlock Affliction 11.1 Class Set 4pc",
+    "pt_BR": "Bruxo, Supl\u00edcio, 11.1, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Hexenmeisterklassenset, Gebrechen, 11.1, 4 Teile",
+    "en_GB": "Warlock Affliction 11.1 Class Set 4pc",
+    "es_ES": "Conjunto de clase de brujo Aflicci\u00f3n 11.1 (4 piezas)",
+    "fr_FR": "Ensemble de classe de d\u00e9moniste Affliction 11.1 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Stregone Afflizione, Set di Classe 11.1, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0447\u0435\u0440\u043d\u043e\u043a\u043d\u0438\u0436\u043d\u0438\u043a\u0430 11.1 \u2013 \u043a\u043e\u043b\u0434\u043e\u0432\u0441\u0442\u0432\u043e, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uace0\ud1b5 \ud751\ub9c8\ubc95\uc0ac 11.1 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u8853\u58eb\u75db\u82e611.1\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u75db\u82e6\u672f\u58eb11.1\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Hitting a Jackpot! also increases the damage of Unstable Affliction by 50% and causes Unstable Affliction to spread to up to 3 targets within 40 yds for 12 sec.",
+    "es_MX": "Ganar el \u00a1Bingo! tambi\u00e9n aumenta el da\u00f1o de Aflicci\u00f3n inestable un 50% y hace que Aflicci\u00f3n inestable se propague a un m\u00e1ximo de 3 objetivos que est\u00e9n en un radio de 40 m durante 12 s.",
+    "pt_BR": "Tirar a Sorte Grande!tamb\u00e9m aumenta em 50% o dano de Agonia Inst\u00e1vel e propaga a Agonia Inst\u00e1vel para at\u00e9 3 alvos em um raio de 40 m por 12 s.",
+    "de_DE": "Ein Volltreffer! erh\u00f6ht auch den Schaden von 'Instabiles Gebrechen' um 50% und sorgt 12 Sek. lang daf\u00fcr, dass sich 'Instabiles Gebrechen' auf bis zu 3 Ziele innerhalb von 40 Metern ausbreitet.",
+    "en_GB": "Hitting a Jackpot! also increases the damage of Unstable Affliction by 50% and causes Unstable Affliction to spread to up to 3 targets within 40 yds for 12 sec.",
+    "es_ES": "Cuando ganas un \u00a1Premio!, tambi\u00e9n se aumenta un 50% el da\u00f1o de tu Aflicci\u00f3n inestable y este hechizo se propaga a un m\u00e1ximo de 3 objetivos en un radio de 40 m durante 12 s.",
+    "fr_FR": "Lorsque vous d\u00e9clenchez un Jackpot\u00a0!, vous augmentez \u00e9galement les d\u00e9g\u00e2ts d\u2019Affliction instable de 50\u00a0% et Affliction instable se r\u00e9pand \u00e0 un maximum de 3\u00a0cibles \u00e0 moins de 40\u00a0m pendant 12 s.",
+    "it_IT": "Fare Jackpot! aumenta i danni inflitti da Afflizione Instabile del 50% e fa s\u00ec che Afflizione Instabile si diffonda su massimo 3 bersagli entro 40 m per 12 s.",
+    "ru_RU": "\"\u0414\u0436\u0435\u043a\u043f\u043e\u0442!\" \u0442\u0430\u043a\u0436\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043b\u0434\u043e\u0432\u0441\u0442\u0432\u0430\" \u043d\u0430 50% \u0438 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442 \u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u043d\u0430 3 \u0446\u0435\u043b\u0438 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c \u043d\u0430 12 \u0441\u0435\u043a.",
+    "ko_KR": "\ud6a1\uc7ac! \ud6a8\uacfc\uac00 \ubc1c\ub3d9\ud558\uba74 \ucd94\uac00\ub85c \ubd88\uc548\uc815\ud55c \uace0\ud1b5\uc758 \uacf5\uaca9\ub825\uc774 50%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ubd88\uc548\uc815\ud55c \uace0\ud1b5\uc774 12\ucd08 \ub3d9\uc548 40\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ucd5c\ub300 3\uba85\uc758 \ub300\uc0c1\uc5d0\uac8c \ud37c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u4e2d\u5927\u734e\uff01\u4e5f\u6703\u4f7f\u75db\u82e6\u52d5\u76ea\u7684\u50b7\u5bb3\u63d0\u9ad850%\uff0c\u4e26\u4f7f\u75db\u82e6\u52d5\u76ea\u6563\u64ad\u81f340\u78bc\u7bc4\u570d\u5167\u6700\u591a3\u500b\u76ee\u6a19\uff0c\u6301\u7e8c12\u79d2\u3002",
+    "zh_CN": "\u8d62\u5f97\u5934\u5956\uff01\u4e5f\u4f1a\u4f7f\u75db\u82e6\u65e0\u5e38\u7684\u4f24\u5bb3\u63d0\u9ad850%\uff0c\u5e76\u4f7f\u75db\u82e6\u65e0\u5e38\u6269\u6563\u81f340\u7801\u8303\u56f4\u5185\u6700\u591a3\u4e2a\u76ee\u6807\uff0c\u6301\u7eed12\u79d2\u3002"
+  }
 }

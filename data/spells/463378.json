@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "463378"
+  "SpellID": "463378",
+  "name_blz": {
+    "en_US": "Notoriety Pays Off",
+    "es_MX": "La notoriedad da sus frutos",
+    "pt_BR": "Notoriedade Compensa",
+    "de_DE": "Bekanntheit zahlt sich aus",
+    "en_GB": "Notoriety Pays Off",
+    "es_ES": "La notoriedad vale la pena",
+    "fr_FR": "La notori\u00e9t\u00e9 a du bon",
+    "it_IT": "Notoriet\u00e0 Conveniente",
+    "ru_RU": "\u0414\u0443\u0440\u043d\u0430\u044f \u0441\u043b\u0430\u0432\u0430 \u2013 \u0442\u043e\u0436\u0435 \u0441\u043b\u0430\u0432\u0430",
+    "ko_KR": "\uc545\uba85\uc758 \ub300\uac00",
+    "zh_TW": "\u60e1\u540d\u7684\u56de\u5831",
+    "zh_CN": "\u6076\u540d\u6536\u76ca"
+  },
+  "description_blz": {
+    "en_US": "The General's War Chest received from completing \"Blade of the General\" will award even more Kej.",
+    "es_MX": "El cofre de guerra del General recibido por completar \"Espada del General\" otorgar\u00e1 incluso m\u00e1s kej como recompensa.",
+    "pt_BR": "O Ba\u00fa de Guerra do General recebido ao concluir \"A l\u00e2mina do General\" conceder\u00e1 ainda mais kejs.",
+    "de_DE": "Die Kriegskasse des Generals, die Ihr durch den Abschluss von \"Klinge des Generals\" erhaltet, gew\u00e4hrt noch mehr Kej.",
+    "en_GB": "The General's War Chest received from completing \"Blade of the General\" will award even more Kej.",
+    "es_ES": "El cofre de guerra del general recibido por completar \"La hoja del general\" otorgar\u00e1 a\u00fan m\u00e1s kej.",
+    "fr_FR": "Le tr\u00e9sor de guerre du g\u00e9n\u00e9ral remis pour l\u2019accomplissement de La lame du G\u00e9n\u00e9ral rapporte encore plus de kejs.",
+    "it_IT": "La Cassa da Guerra del Generale ricevuta completando \"La lama del Generale\" fornisce ancora pi\u00f9 Kej.",
+    "ru_RU": "\u0422\u0440\u043e\u0444\u0435\u0439\u043d\u044b\u0439 \u0441\u0443\u043d\u0434\u0443\u043a \u0433\u0435\u043d\u0435\u0440\u0430\u043b\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0437\u0430 \u0437\u0430\u0434\u0430\u043d\u0438\u0435\u00a0\"\u041a\u043b\u0438\u043d\u043e\u043a \u0433\u0435\u043d\u0435\u0440\u0430\u043b\u0430\", \u0431\u0443\u0434\u0435\u0442 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0435\u0449\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u043a\u0435\u0434\u0436\u0435\u0439.",
+    "ko_KR": "\"\uc7a5\uad70\uc758 \uce7c\ub0a0\" \uc644\ub8cc \uc2dc \uc7a5\uad70\uc758 \uc804\uc7c1 \uc0c1\uc790\ub85c \ud68d\ub4dd\ud558\ub294 \ucf00\uc988\uc758 \uc591\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5b8c\u6210\u300c\u5c07\u8ecd\u4e4b\u5203\u300d\u5f8c\u7372\u5f97\u7684\u5c07\u8ecd\u7684\u6230\u722d\u5bf6\u7bb1\u6703\u734e\u52f5\u66f4\u591a\u5361\u5409\u3002",
+    "zh_CN": "\u5b8c\u6210\u201c\u5c06\u519b\u4e4b\u950b\u201d\u4efb\u52a1\u83b7\u5f97\u7684\u5c06\u519b\u7684\u6218\u4e89\u5b9d\u7bb1\u4f1a\u5956\u52b1\u66f4\u591a\u523b\u57fa\u3002"
+  }
 }

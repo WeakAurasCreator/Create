@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "470170"
+  "SpellID": "470170",
+  "name_blz": {
+    "en_US": "Wings of the Siren",
+    "es_MX": "Alas de sirena",
+    "pt_BR": "Asas da Sirena",
+    "de_DE": "Schwingen der Sirene",
+    "en_GB": "Wings of the Siren",
+    "es_ES": "Alas de la sirena",
+    "fr_FR": "Ailes de la sir\u00e8ne",
+    "it_IT": "Ali della Sirena",
+    "ru_RU": "\u041a\u0440\u044b\u043b\u044c\u044f \u0441\u0438\u0440\u0435\u043d\u044b",
+    "ko_KR": "\uc138\uc774\ub80c\uc758 \ub0a0\uac1c",
+    "zh_TW": "\u6d77\u5996\u4e4b\u7ffc",
+    "zh_CN": "\u6d77\u5996\u4e4b\u7ffc"
+  },
+  "description_blz": {
+    "en_US": "Cyrce's Circlet now passively allows you to control the winds, allowing you to take flight on Siren Isle.",
+    "es_MX": "El aro de Cyrce ahora controla los vientos de forma pasiva, lo que te permite alzar vuelo en la Isla de las Sirenas.",
+    "pt_BR": "O Aro de Circe agora permite passivamente que voc\u00ea controle os ventos e alce voo na Ilha das Sirenas.",
+    "de_DE": "Cyrces Reif erm\u00f6glicht Euch jetzt passiv, die Winde zu beherrschen, sodass Ihr \u00fcber der Sireneninsel fliegen k\u00f6nnt.",
+    "en_GB": "Cyrce's Circlet now passively allows you to control the winds, allowing you to take flight on Siren Isle.",
+    "es_ES": "Ahora, el aro de Cyrce te permite de manera pasiva controlar los vientos, por lo que puedes alzar el vuelo en la Isla de la Sirena.",
+    "fr_FR": "Le diad\u00e8me de Cyrc\u00e9 vous permet de mani\u00e8re passive de contr\u00f4ler les vents et de voler au-dessus de l\u2019\u00eele aux Sir\u00e8nes.",
+    "it_IT": "Il Cerchio di Cyrce consente passivamente di controllare i venti, permettendo di volare sull'Isola delle Sirene.",
+    "ru_RU": "\u041f\u0435\u0440\u0441\u0442\u0435\u043d\u044c \u0426\u0438\u0440\u0446\u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0430\u043c \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u0432\u0435\u0442\u0440\u043e\u043c \u0438 \u043b\u0435\u0442\u0430\u0442\u044c \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u0421\u0438\u0440\u0435\u043d.",
+    "ko_KR": "\ud0a4\ub974\ucf00\uc758 \ubc18\uc9c0\uac00 \uc9c0\uc18d\uc801\uc73c\ub85c \ubc14\ub78c\uc744 \ub2e4\uc2a4\ub9ac\ub294 \ud798\uc744 \uc120\uc0ac\ud574, \uc138\uc774\ub80c\uc758 \uc12c\uc5d0\uc11c \ube44\ud589\uc744 \ud560 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8cfd\u65af\u7684\u98fe\u74b0\u8b93\u4f60\u80fd\u5920\u63a7\u5236\u5f37\u98a8\uff0c\u8ce6\u4e88\u4f60\u5728\u6d77\u5996\u5cf6\u4e0a\u98db\u884c\u7684\u88ab\u52d5\u80fd\u529b\u3002",
+    "zh_CN": "\u5580\u8033\u523b\u7684\u6307\u73af\u4f7f\u4f60\u80fd\u591f\u81ea\u52a8\u638c\u63a7\u72c2\u98ce\uff0c\u53ef\u4ee5\u5728\u6d77\u5996\u5c9b\u98de\u884c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1214705"
+  "SpellID": "1214705",
+  "name_blz": {
+    "en_US": "Kaja'Cola Carrier",
+    "es_MX": "Transportador de Kaja'Cola",
+    "pt_BR": "Carregador de Jaka'Cola",
+    "de_DE": "Kaja'Cola-Tr\u00e4ger",
+    "en_GB": "Kaja'Cola Carrier",
+    "es_ES": "Transportador de Kaja'Cola",
+    "fr_FR": "Transport de Kaja\u2019Cola",
+    "it_IT": "Contenitore di Kaja'Cola",
+    "ru_RU": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u0434\u043b\u044f \"\u041a\u0430\u0434\u0436\u0430-\u041a\u043e\u043b\u044b\"",
+    "ko_KR": "\uce74\uc790\ucf5c\ub77c \uc6b4\ubc18 \uc6a9\uae30",
+    "zh_TW": "\u5361\u8fe6\u53ef\u6a02\u642c\u904b\u5668",
+    "zh_CN": "\u5361\u4e9a\u53ef\u4e50\u8fd0\u8f7d\u5668"
+  },
+  "description_blz": {
+    "en_US": "Mislaid Curiosities now have a 45% chance to contain 2 Kaja'Colas and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\r\n\r\nThere are various Kaja'Cola flavors, and each one has its own effect that applies when collected.\r\n",
+    "es_MX": "Las curiosidades extraviadas ahora tienen un 45% de probabilidad de contener 2 Kaja'Colas, y ahora, una vez por abismo, Brann invoca un paquete de 6 Kaja' cuando enciende hogueras.\r\n\r\nHay distintos sabores de Kaja'Cola, cada uno con un efecto particular que se aplica cuando se recolecta.\r\n",
+    "pt_BR": "Agora, Curiosidades Desviadas t\u00eam 45% de chance de conter 2 Jaka'Colas e, uma vez por imers\u00e3o, Brann evoca um Jaka'Pack com 6 Jaka'Colas quando cria fogueiras.\r\n\r\nS\u00e3o diversos sabores de Jaka'Cola, e cada um aplica um efeito quando coletado.\r\n",
+    "de_DE": "Verlegte Kuriosit\u00e4ten haben jetzt einmal pro Tiefe eine Chance von 45%, 2 Kaja'Colas zu enthalten, und Brann beschw\u00f6rt jetzt ein Sechserpack Kaja'Cola, wenn er ein Lagerfeuer macht.\r\n\r\nEs gibt verschiedene Kaja'Cola-Geschmacksrichtungen und jede hat einen eigenen Effekt, der beim Einsammeln wirkt.\r\n",
+    "en_GB": "Mislaid Curiosities now have a 45% chance to contain 2 Kaja'Colas and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\r\n\r\nThere are various Kaja'Cola flavors, and each one has its own effect that applies when collected.\r\n",
+    "es_ES": "Ahora, las curiosidades extraviadas tienen un 45% de probabilidad de contener 2 Kaja'Colas. Adem\u00e1s, Brann invoca una caja de seis Kaja'Colas al crear hogueras una vez en cada profundidad.\r\n\r\nHay varios sabores de Kaja'Cola, cada uno con su propio efecto, que se aplica al recogerla.\r\n",
+    "fr_FR": "Les curiosit\u00e9s fourvoy\u00e9es ont d\u00e9sormais 45\u00a0% de chances de contenir 2\u00a0unit\u00e9s de Kaja\u2019Cola et Brann fait maintenant appara\u00eetre une fois par Gouffre un pack de 6 \u00e0 la cr\u00e9ation des feux de camp.\r\n\r\nPlusieurs parfums de Kaja\u2019Cola existent, chacun appliquant un effet sp\u00e9cifique une fois collect\u00e9.\r\n",
+    "it_IT": "Le Curiosit\u00e0 Smarrite hanno una probabilit\u00e0 del 45% di contenere 2 Kaja'Cola e, una volta per Scorribanda, Brann evoca un Pacchetto da 6 di Kaja'Cola quando crea un fal\u00f2.\r\n\r\nCi sono vari gusti di Kaja'Cola, ciascuno dei quali ha un effetto diverso che si attiva quando la si raccoglie.\r\n",
+    "ru_RU": "\u041f\u043e\u0442\u0435\u0440\u044f\u043d\u043d\u044b\u0435 \u0432\u0435\u0449\u0438\u0446\u044b \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 45% \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442 2 \u0431\u0430\u043d\u043a\u0438 \"\u041a\u0430\u0434\u0436\u0430-\u041a\u043e\u043b\u044b\". \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u0437\u0430 \u0432\u044b\u043b\u0430\u0437\u043a\u0443 \u0411\u0440\u0430\u043d\u043d \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0443\u043f\u0430\u043a\u043e\u0432\u043a\u0443 \"\u041a\u0430\u0434\u0436\u0430-\u041a\u043e\u043b\u044b\", \u043a\u043e\u0433\u0434\u0430 \u0440\u0430\u0437\u0432\u043e\u0434\u0438\u0442 \u043a\u043e\u0441\u0442\u0435\u0440.\r\n\r\n\u0415\u0441\u0442\u044c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0438\u0434\u043e\u0432 \"\u041a\u0430\u0434\u0436\u0430-\u041a\u043e\u043b\u044b\", \u043a\u0430\u0436\u0434\u044b\u0439 \u0441\u043e \u0441\u0432\u043e\u0438\u043c \u0432\u043a\u0443\u0441\u043e\u043c \u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u043c.\r\n",
+    "ko_KR": "\uc798\ubabb \ub193\uc778 \uc9c4\uadc0\ud488\uc5d0\uc11c 45%\uc758 \ud655\ub960\ub85c \uce74\uc790\ucf5c\ub77c 2\uac1c\ub97c \ud68d\ub4dd\ud569\ub2c8\ub2e4. \ub610\ud55c \uad6c\ub801 \ud68c\ucc28\ub9c8\ub2e4 \ud55c \ubc88\uc529 \ube0c\ub780\uc774 \ubaa8\ub2e5\ubd88\uc744 \ud53c\uc6b8 \ub54c \uce74\uc790\ucf5c\ub77c 6\uac1c\ub4e4\uc774 \ubb36\uc74c\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4.\r\n\r\n\uce74\uc790\ucf5c\ub77c\ub294 \ub2e4\uc591\ud55c \ub9db\uc774 \uc874\uc7ac\ud558\uba70, \uac01\uac01 \uc5bb\uc744 \ub54c\ub9c8\ub2e4 \uace0\uc720\ud55c \ud6a8\uacfc\uac00 \ubd80\uc5ec\ub429\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u4e82\u653e\u7684\u73cd\u54c1\u73fe\u5728\u670945%\u7684\u6a5f\u7387\u5167\u542b2\u7f50\u5361\u8fe6\u53ef\u6a02\uff0c\u4e14\u6bcf\u5834\u63a2\u7a76\u4e00\u6b21\uff0c\u5e03\u840a\u6069\u5347\u8d77\u71df\u706b\u6642\u73fe\u5728\u6703\u53ec\u559a\u534a\u6253\u5361\u8fe6\u53ef\u6a02\u3002\r\n\r\n\u5361\u8fe6\u53ef\u6a02\u6709\u5404\u7a2e\u53e3\u5473\uff0c\u6bcf\u7a2e\u53e3\u5473\u7684\u6548\u679c\u5404\u6709\u4e0d\u540c\uff0c\u4e26\u6703\u5728\u6536\u96c6\u6642\u65bd\u52a0\u3002\r\n",
+    "zh_CN": "\u9519\u653e\u7684\u5947\u73cd\u73b0\u5728\u670945%\u7684\u51e0\u7387\u5305\u542b2\u7f50\u5361\u4e9a\u53ef\u4e50\u3002\u5728\u6bcf\u4e2a\u5730\u4e0b\u5821\u4e2d\uff0c\u5e03\u83b1\u6069\u5236\u4f5c\u8425\u706b\u65f6\u73b0\u5728\u53ef\u4ee5\u53ec\u5524\u4e00\u6b21\u5361\u4e9a\u53ef\u4e506\u7f50\u88c5\u3002\r\n\r\n\u5361\u4e9a\u53ef\u4e50\u98ce\u5473\u7e41\u591a\uff0c\u6536\u96c6\u6bcf\u79cd\u53e3\u5473\u53ef\u4ee5\u83b7\u5f97\u4e0d\u540c\u7684\u6548\u679c\u3002\r\n"
+  }
 }

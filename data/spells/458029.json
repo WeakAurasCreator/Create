@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "458029"
+  "SpellID": "458029",
+  "name_blz": {
+    "en_US": "Malefic Touch",
+    "es_MX": "Toque mal\u00e9fico",
+    "pt_BR": "Toque Mal\u00e9fico",
+    "de_DE": "Unheilvolle Ber\u00fchrung",
+    "en_GB": "Malefic Touch",
+    "es_ES": "Toque mal\u00e9fico",
+    "fr_FR": "Toucher mal\u00e9fique",
+    "it_IT": "Tocco Malefico",
+    "ru_RU": "\u041f\u0430\u0433\u0443\u0431\u043d\u043e\u0435 \u043a\u0430\u0441\u0430\u043d\u0438\u0435",
+    "ko_KR": "\uc0ac\uc545\ud55c \uc190\uae38",
+    "zh_TW": "\u90aa\u60e1\u4e4b\u89f8",
+    "zh_CN": "\u707e\u96be\u4e4b\u89e6"
+  },
+  "description_blz": {
+    "en_US": "Malefic Rapture deals an additional 3,095 Shadowflame damage to each target it affects.",
+    "es_MX": "Rapto mal\u00e9fico inflige 3,095 p. de da\u00f1o de pirosombra m\u00e1s a cada objetivo al que afecta.",
+    "pt_BR": "Arrebatamento Mal\u00e9fico causa 3.095 a mais de dano de Chama Sombria a cada alvo que afeta.",
+    "de_DE": "'Unheilvolle Euphorie' f\u00fcgt jedem Ziel, das es betrifft, zus\u00e4tzlich 3.095 Schattenflammenschaden zu.",
+    "en_GB": "Malefic Rapture deals an additional 3,095 Shadowflame damage to each target it affects.",
+    "es_ES": "\u00c9xtasis mal\u00e9fico inflige 3095 p. de da\u00f1o de llama de las Sombras m\u00e1s a cada objetivo al que afecta.",
+    "fr_FR": "Extase mal\u00e9fique inflige 3095\u00a0points de d\u00e9g\u00e2ts d\u2019ombreflamme suppl\u00e9mentaires \u00e0 chaque cible affect\u00e9e.",
+    "it_IT": "Estasi Malefica infligge 3.095 danni da ombrofuoco aggiuntivi a ogni bersaglio che affligge.",
+    "ru_RU": "\"\u041f\u0430\u0433\u0443\u0431\u043d\u044b\u0439 \u0432\u043e\u0441\u0442\u043e\u0440\u0433\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c \u0446\u0435\u043b\u044f\u043c \u0435\u0449\u0435 3095 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043f\u043b\u0430\u043c\u0435\u043d\u0438 \u0422\u044c\u043c\u044b.",
+    "ko_KR": "\uc0ac\uc545\ud55c \ud658\ud76c\uac00 \uc601\ud5a5\uc744 \uc8fc\ub294 \uac01 \ub300\uc0c1\uc5d0\uac8c 3,095\uc758 \ucd94\uac00 \uc554\ud751\ubd88\uae38 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u90aa\u60e1\u72c2\u559c\u5c0d\u53d7\u5176\u5f71\u97ff\u7684\u6bcf\u500b\u76ee\u6a19\u984d\u5916\u9020\u62103,095\u9ede\u6697\u7130\u50b7\u5bb3\u3002",
+    "zh_CN": "\u707e\u96be\u72c2\u6b22\u5bf9\u53d7\u5230\u5f71\u54cd\u7684\u6bcf\u4e2a\u76ee\u6807\u989d\u5916\u9020\u62103,095\u70b9\u6697\u5f71\u70c8\u7130\u4f24\u5bb3\u3002"
+  }
 }

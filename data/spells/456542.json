@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "456542"
+  "SpellID": "456542",
+  "name_blz": {
+    "en_US": "Combat Curios",
+    "es_MX": "Singularidades de combate",
+    "pt_BR": "Badulaques de Combate",
+    "de_DE": "Kampfkuriosit\u00e4ten",
+    "en_GB": "Combat Curios",
+    "es_ES": "Bibelots de combate",
+    "fr_FR": "Bibelots de combat",
+    "it_IT": "Reperti di Combattimento",
+    "ru_RU": "\u0411\u043e\u0435\u0432\u044b\u0435 \u0434\u0438\u043a\u043e\u0432\u0438\u043d\u043a\u0438",
+    "ko_KR": "\uc804\ud22c \uc218\uc9d1\ud488",
+    "zh_TW": "\u6230\u9b25\u73cd\u54c1",
+    "zh_CN": "\u6218\u6597\u73cd\u73a9"
+  },
+  "description_blz": {
+    "en_US": "Brann gains access to combat curios, allowing you to earn and use them to configure his combat behavior.",
+    "es_MX": "Brann accede a las singularidades de combate, lo que te permite obtenerlas y usarlas para ajustar su comportamiento en combate.",
+    "pt_BR": "Brann ganha acesso a badulaques de combate que podem ser usados para configurar o comportamento de combate dele.",
+    "de_DE": "Brann erh\u00e4lt Zugriff auf Kampfkuriosit\u00e4ten, wodurch Ihr sie verdienen und nutzen k\u00f6nnt, um sein Kampfverhalten anzupassen.",
+    "en_GB": "Brann gains access to combat curios, allowing you to earn and use them to configure his combat behavior.",
+    "es_ES": "Brann obtiene acceso a bibelots de combate, lo que permite conseguir estos bibelots y usarlos para configurar su comportamiento en combate.",
+    "fr_FR": "Brann obtient l\u2019acc\u00e8s aux bibelots de combat, ce qui vous permet de les obtenir et de les utiliser pour param\u00e9trer son comportement en combat.",
+    "it_IT": "Brann ottiene l'accesso ai Reperti di Combattimento, che ti permettono di configurare il suo comportamento in battaglia.",
+    "ru_RU": "\u0411\u0440\u0430\u043d\u043d \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0431\u043e\u0435\u0432\u044b\u0435 \u0434\u0438\u043a\u043e\u0432\u0438\u043d\u043a\u0438. \u0414\u043e\u0431\u044b\u0432\u0430\u0439\u0442\u0435 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0438\u0445, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0442\u044c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0411\u0440\u0430\u043d\u043d\u0430 \u0432 \u0431\u043e\u044e.",
+    "ko_KR": "\ube0c\ub780\uc774 \uc804\ud22c \uc218\uc9d1\ud488\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4. \uc774\uc81c \uc804\ud22c \uc218\uc9d1\ud488\uc744 \ud68d\ub4dd\ud574 \ube0c\ub780\uc758 \uc804\ud22c \ud589\ub3d9 \ubc29\uc2dd\uc744 \uc124\uc815\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5e03\u840a\u6069\u7372\u5f97\u4f7f\u7528\u6230\u9b25\u73cd\u54c1\u7684\u6b0a\u9650\uff0c\u8b93\u4f60\u80fd\u5920\u7372\u5f97\u4e26\u4f7f\u7528\u5b83\u5011\u4f86\u8a2d\u5b9a\u5176\u6230\u9b25\u884c\u70ba\u3002",
+    "zh_CN": "\u5e03\u83b1\u6069\u53ef\u4ee5\u4f7f\u7528\u6218\u6597\u73cd\u73a9\uff0c\u4f7f\u4f60\u53ef\u4ee5\u83b7\u5f97\u5e76\u5229\u7528\u5b83\u4eec\u6765\u914d\u7f6e\u4ed6\u7684\u6218\u6597\u884c\u4e3a\u3002"
+  }
 }

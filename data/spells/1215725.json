@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215725"
+  "SpellID": "1215725",
+  "name_blz": {
+    "en_US": "Rogue Outlaw 11.1 Class Set 4pc",
+    "es_MX": "Rogue Outlaw 11.1 Class Set 4pc",
+    "pt_BR": "Ladino, Fora da Lei, 11.1, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Schurkenklassenset, Gesetzlos, 11.1, 4 Teile",
+    "en_GB": "Rogue Outlaw 11.1 Class Set 4pc",
+    "es_ES": "Conjunto de clase de p\u00edcaro Forajido 11.1 (4 piezas)",
+    "fr_FR": "Ensemble de classe de voleur ou voleuse Hors-la-loi 11.1 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Ladro Fuorilegge, Set di Classe 11.1, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438\u043a\u0430 11.1 \u2013 \u0433\u043e\u043b\u043e\u0432\u043e\u0440\u0435\u0437, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ubb34\ubc95 \ub3c4\uc801 11.1 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u76dc\u8cca\u66b4\u5f9211.1\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u72c2\u5f92\u6f5c\u884c\u800511.1\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Roll the Bones has a 40% increased chance of granting additional combat enhancements and also applies 1 stack of  Winning Streak! for each combat enhancement granted.\r\n\r\nStacks applied by Roll the Bones can exceed the normal Winning Streak! maximum of 5.",
+    "es_MX": "Lanzar huesos tiene un 40% m\u00e1s de probabilidad de otorgar m\u00e1s mejoras de combate y tambi\u00e9n aplica 1 acumulaci\u00f3n de \u00a1Racha de victorias! por cada mejora de combate otorgada.\r\n\r\nLas acumulaciones aplicadas por Lanzar huesos pueden exceder el l\u00edmite normal de 5 que tiene \u00a1Racha de victorias!",
+    "pt_BR": "Golpe de Sorte tem 40% a mais de chance de conceder aprimoramentos de combate adicionais e aplica tamb\u00e9m 1 carga de  Sequ\u00eancia Vencedora! para cada aprimoramento de combate concedido.\r\n\r\nAs cargas aplicadas pelo Golpe de Sorte podem exceder o m\u00e1ximo normal de 5 de Sequ\u00eancia Vencedora!",
+    "de_DE": "'Schicksalsw\u00fcrfel' hat eine um 40% erh\u00f6hte Chance, zus\u00e4tzliche Kampfverst\u00e4rkungen zu gew\u00e4hren, und wendet au\u00dferdem f\u00fcr jede gew\u00e4hrte Kampfverst\u00e4rkung 1 Stapel von Siegesserie! an.\r\n\r\nDie Stapel, die durch 'Schicksalsw\u00fcrfel' angewendet werden, k\u00f6nnen das normale Maximum von 5 Stapeln von Siegesserie! \u00fcbersteigen.",
+    "en_GB": "Roll the Bones has a 40% increased chance of granting additional combat enhancements and also applies 1 stack of  Winning Streak! for each combat enhancement granted.\r\n\r\nStacks applied by Roll the Bones can exceed the normal Winning Streak! maximum of 5.",
+    "es_ES": "A suertes tiene un 40% m\u00e1s de probabilidades de otorgar mejoras de combate extra y tambi\u00e9n aplica 1 acumulaci\u00f3n de \u00a1Racha ganadora! por cada mejora de combate otorgada.\r\n\r\nLas acumulaciones que otorga A suertes pueden superar las 5 acumulaciones m\u00e1ximas normales de \u00a1Racha ganadora!.",
+    "fr_FR": "Jet d\u2019osselets a 40\u00a0% de chances de conf\u00e9rer des am\u00e9liorations de combat suppl\u00e9mentaires et octroie 1\u00a0charge de S\u00e9quence victorieuse\u00a0! par am\u00e9lioration de combat obtenue.\r\n\r\nLes charges octroy\u00e9es par Jet d\u2019osselets peuvent d\u00e9passer la limite maximale habituelle de 5 de la S\u00e9quence victorieuse\u00a0!.",
+    "it_IT": "Roulette Assassina ha una probabilit\u00e0 aggiuntiva del 40% di fornire dei potenziamenti aggiuntivi in combattimento e inoltre fornisce 1 accumulo di Serie Vincente! per ogni potenziamento di combattimento fornito.\r\n\r\nGli accumuli applicati da Roulette Assassina possono eccedere il limite massimo di accumuli per Serie Vincente! di 5.",
+    "ru_RU": "\"\u0411\u0440\u043e\u0441\u043e\u043a \u043a\u043e\u0441\u0442\u0435\u0439\" \u0434\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0443\u0441\u0438\u043b\u0435\u043d\u0438\u044f \u0441 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0439 \u043d\u0430 40% \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u0430\u0435\u0442 1 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0427\u0435\u0440\u0435\u0434\u044b \u043f\u043e\u0431\u0435\u0434!\" \u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0435 \u0443\u0441\u0438\u043b\u0435\u043d\u0438\u0435.\r\n\r\n\u042d\u0444\u0444\u0435\u043a\u0442\u044b \"\u0427\u0435\u0440\u0435\u0434\u044b \u043f\u043e\u0431\u0435\u0434!\", \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0435 \u0437\u0430 \u0441\u0447\u0435\u0442 \"\u0411\u0440\u043e\u0441\u043a\u0430 \u043a\u043e\u0441\u0442\u0435\u0439\", \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u0442\u044c \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043d\u0430 5.",
+    "ko_KR": "\ubf08\uc8fc\uc0ac\uc704 \uc0ac\uc6a9 \uc2dc \ucd94\uac00 \uc804\ud22c \uac15\ud654 \ud6a8\uacfc\ub97c \uc5bb\uc744 \ud655\ub960\uc774 40%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ubd80\uc5ec\ub41c \uc804\ud22c \uac15\ud654 \ud6a8\uacfc \ud558\ub098\ub2f9 \uc5f0\uc18d \ub2f9\ucca8! 1\uc911\ucca9\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.\r\n\r\n\ubf08\uc8fc\uc0ac\uc704\ub85c \ubd80\uc5ec\ub418\ub294 \uc911\ucca9\uc740 \uc5f0\uc18d \ub2f9\ucca8!\uc758 \uae30\ubcf8 \uc911\ucca9 \ucd5c\ub300\uce58\uc778 5\ubc88\uc744 \ucd08\uacfc\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u547d\u904b\u4e4b\u9ab0\u8ce6\u4e88\u984d\u5916\u6230\u9b25\u589e\u5f37\u6548\u679c\u7684\u6a5f\u7387\u63d0\u9ad840%\uff0c\u4e14\u6bcf\u8ce6\u4e88\u4e00\u500b\u6230\u9b25\u589e\u5f37\u6548\u679c\uff0c\u5c31\u6703\u65bd\u52a01\u5c64\u9023\u52dd\uff01\u3002\r\n\r\n\u547d\u904b\u4e4b\u9ab0\u65bd\u52a0\u7684\u5c64\u6578\u53ef\u4ee5\u6bd4\u9023\u52dd\uff01\u7684\u4e00\u822c\u5c64\u6578\u4e0a\u9650\u518d\u591a5\u5c64\u3002",
+    "zh_CN": "\u547d\u8fd0\u9aa8\u9ab0\u83b7\u5f97\u989d\u5916\u6218\u6597\u589e\u76ca\u6548\u679c\u7684\u51e0\u7387\u63d0\u9ad840%\uff0c\u4e14\u6bcf\u83b7\u5f97\u4e00\u4e2a\u6218\u6597\u589e\u76ca\u6548\u679c\u65f6\uff0c\u989d\u5916\u83b7\u5f971\u5c42\u8fde\u80dc\uff01\u6548\u679c\u3002\r\n\r\n\u547d\u8fd0\u9aa8\u9ab0\u63d0\u4f9b\u7684\u53e0\u52a0\u5c42\u6570\u53ef\u4ee5\u8d85\u8fc75\u5c42\u8fde\u80dc\uff01\u7684\u6b63\u5e38\u4e0a\u9650\u3002"
+  }
 }

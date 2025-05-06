@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453718"
+  "SpellID": "453718",
+  "name_blz": {
+    "en_US": "Rogue Outlaw 11.0 Class Set 4pc",
+    "es_MX": "Rogue Outlaw 11.0 Class Set 4pc",
+    "pt_BR": "Ladino, Fora da Lei, 11.0, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Schurkenklassenset, Gesetzlos, 11.0, 4 Teile",
+    "en_GB": "Rogue Outlaw 11.0 Class Set 4pc",
+    "es_ES": "Conjunto de clase de p\u00edcaro Forajido 11.0 (4 piezas)",
+    "fr_FR": "Ensemble de classe de voleur ou voleuse Hors-la-loi 11.0 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Ladro Fuorilegge, Set di Classe 11.0, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438\u043a\u0430 11.0 \u2013 \u0433\u043e\u043b\u043e\u0432\u043e\u0440\u0435\u0437, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ubb34\ubc95 \ub3c4\uc801 11.0 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u76dc\u8cca\u66b4\u5f9211.0\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u72c2\u5f92\u6f5c\u884c\u800511.0\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Ethereal Rampage additionally increases the damage of your next Between the Eyes by 15%, stacking up to 4 times.",
+    "es_MX": "Furia et\u00e9rea tambi\u00e9n aumenta el da\u00f1o de tu siguiente Entre los ojos un 15%. El efecto se acumula hasta un m\u00e1ximo de 4 veces.",
+    "pt_BR": "Furor Et\u00e9reo tamb\u00e9m aumenta em 15% o dano do seu pr\u00f3ximo No Meio da Testa, acumulando at\u00e9 4 vezes.",
+    "de_DE": "'Astrales Toben' erh\u00f6ht zus\u00e4tzlich den Schaden Eures n\u00e4chsten Einsatzes von 'Zwischen die Augen' um 15%. Bis zu 4-mal stapelbar.",
+    "en_GB": "Ethereal Rampage additionally increases the damage of your next Between the Eyes by 15%, stacking up to 4 times.",
+    "es_ES": "Desenfreno et\u00e9reo tambi\u00e9n aumenta un 15% el da\u00f1o de tu siguiente Entre ceja y ceja. Se acumula hasta 4 veces.",
+    "fr_FR": "Saccage \u00e9th\u00e9r\u00e9 augmente \u00e9galement les d\u00e9g\u00e2ts de votre prochaine technique Entre les deux yeux de 15\u00a0%, cumulable jusqu\u2019\u00e0 4\u00a0fois.",
+    "it_IT": "Furia Eterea aumenta i danni inflitti dal successivo In Mezzo agli Occhi del 15% aggiuntivo. Si accumula fino a 4 volte.",
+    "ru_RU": "\"\u041f\u0440\u0438\u0437\u0440\u0430\u0447\u043d\u043e\u0435 \u0431\u0443\u0439\u0441\u0442\u0432\u043e\" \u0442\u0430\u043a\u0436\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u041f\u0440\u043e\u043c\u0435\u0436 \u0433\u043b\u0430\u0437\" \u043d\u0430 15%. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 4 \u0440\u0430\u0437.",
+    "ko_KR": "\ud5c8\uc0c1\uc758 \uad11\ub780\uc774 \ucd94\uac00\ub85c \ub2e4\uc74c \ubbf8\uac04 \uc801\uc911\uc758 \uacf5\uaca9\ub825\uc744 15%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \ucd5c\ub300 4\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u592a\u66b4\u6012\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u6b63\u4e2d\u7709\u5fc3\u7684\u50b7\u5bb3\u984d\u5916\u63d0\u9ad815%\uff0c\u6700\u591a\u53ef\u5806\u758a4\u5c64\u3002",
+    "zh_CN": "\u865a\u6e3a\u66b4\u8d70\u8fd8\u4f1a\u4f7f\u4f60\u7684\u4e0b\u4e00\u6b21\u6b63\u4e2d\u7709\u5fc3\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u6700\u591a\u53ef\u53e0\u52a04\u6b21\u3002"
+  }
 }

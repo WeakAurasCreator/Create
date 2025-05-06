@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453918"
+  "SpellID": "453918",
+  "name_blz": {
+    "en_US": "Incessant Screams",
+    "es_MX": "Gritos incesantes",
+    "pt_BR": "Gritos Incessantes",
+    "de_DE": "Unaufh\u00f6rliche Schreie",
+    "en_GB": "Incessant Screams",
+    "es_ES": "Gritos incesantes",
+    "fr_FR": "Cris incessants",
+    "it_IT": "Urla Incessanti",
+    "ru_RU": "\u041d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u0435 \u043a\u0440\u0438\u043a\u0438",
+    "ko_KR": "\ub04a\uc784\uc5c6\ub294 \ube44\uba85",
+    "zh_TW": "\u9023\u74b0\u5c16\u562f",
+    "zh_CN": "\u65e0\u5c3d\u5c16\u53eb"
+  },
+  "description_blz": {
+    "en_US": "Psychic Scream creates an image of you at your location. After 4 sec, the image will let out a Psychic Scream.",
+    "es_MX": "Alarido ps\u00edquico crea una imagen de ti en tu ubicaci\u00f3n. Despu\u00e9s de 4 s, la imagen emitir\u00e1 un alarido ps\u00edquico.",
+    "pt_BR": "Grito Ps\u00edquico cria uma imagem sua no lugar onde voc\u00ea est\u00e1. Ap\u00f3s 4 s, a imagem emite um Grito Ps\u00edquico.",
+    "de_DE": "'Psychischer Schrei' erzeugt ein Abbild von Euch an Eurer Position. Nach 4 Sek. st\u00f6\u00dft Euer Abbild 'Psychischer Schrei' aus.",
+    "en_GB": "Psychic Scream creates an image of you at your location. After 4 sec, the image will let out a Psychic Scream.",
+    "es_ES": "Alarido ps\u00edquico crea una imagen tuya en tu ubicaci\u00f3n. Despu\u00e9s 4 s, la imagen proferir\u00e1 un Alarido ps\u00edquico.",
+    "fr_FR": "Cri psychique cr\u00e9e une image de vous \u00e0 votre emplacement. Au bout de 4\u00a0s, cette image pousse un Cri psychique.",
+    "it_IT": "Urlo Psichico crea una tua immagine nelle vicinanze. Dopo 4 s, l'immagine lancia Urlo Psichico.",
+    "ru_RU": "\"\u041c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u0440\u0438\u043a\" \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0440\u044f\u0434\u043e\u043c \u0441 \u0432\u0430\u043c\u0438 \u0432\u0430\u0448\u0443 \u043a\u043e\u043f\u0438\u044e. \u0427\u0435\u0440\u0435\u0437 4 \u0441\u0435\u043a. \u043a\u043e\u043f\u0438\u044f \u0438\u0437\u0434\u0430\u0435\u0442 \"\u041c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u0440\u0438\u043a\".",
+    "ko_KR": "\uc601\ud63c\uc758 \uc808\uaddc \uc2dc\uc804 \uc2dc \ud604\uc7ac \uc704\uce58\uc5d0 \uc790\uc2e0\uc758 \ud658\uc601\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4. 4\ucd08 \ud6c4\uc5d0 \ud658\uc601\uc774 \uc601\ud63c\uc758 \uc808\uaddc\ub97c \ub0b4\uc9c0\ub985\ub2c8\ub2e4.",
+    "zh_TW": "\u5fc3\u9748\u5c16\u562f\u6703\u5728\u4f60\u7684\u4f4d\u7f6e\u88fd\u9020\u4f60\u7684\u5e7b\u8c61\u3002\u57284\u79d2\u5f8c\uff0c\u8a72\u5e7b\u8c61\u6703\u767c\u51fa\u5fc3\u9748\u5c16\u562f\u3002",
+    "zh_CN": "\u5fc3\u7075\u5c16\u5578\u5728\u4f60\u7684\u4f4d\u7f6e\u521b\u9020\u4e00\u4e2a\u4f60\u7684\u5e7b\u8c61\u30024\u79d2\u540e\u5e7b\u8c61\u5c06\u91ca\u653e\u4e00\u6b21\u5fc3\u7075\u5c16\u5578\u3002"
+  }
 }

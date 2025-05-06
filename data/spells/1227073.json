@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1227073"
+  "SpellID": "1227073",
+  "name_blz": {
+    "en_US": "Winner's Podium, High Score",
+    "es_MX": "Podio de ganadores, mejor puntaje",
+    "pt_BR": "P\u00f3dio do Vencedor, Pontua\u00e7\u00e3o alta",
+    "de_DE": "Siegerpodest, H\u00f6chstpunktzahl",
+    "en_GB": "Winner's Podium, High Score",
+    "es_ES": "Podio de ganador, puntuaci\u00f3n m\u00e1xima",
+    "fr_FR": "Podium de victoire, record",
+    "it_IT": "Podio del Vincitore, Miglior Punteggio",
+    "ru_RU": "\u041f\u043e\u0434\u0438\u0443\u043c \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044f, \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0441\u0447\u0435\u0442",
+    "ko_KR": "\uc2b9\uc790\uc758 \ub2e8\uc0c1, \ucd5c\uace0 \uc810\uc218",
+    "zh_TW": "\u52dd\u8005\u7684\u9818\u734e\u53f0\uff0c\u9ad8\u5206",
+    "zh_CN": "\u80dc\u8005\u9886\u5956\u53f0\uff0c\u9ad8\u5206"
+  },
+  "description_blz": {
+    "en_US": "Place a Winner's Podium and show off your highest score!",
+    "es_MX": "\u00a1Coloca un podio de ganadores y presume tu puntuaci\u00f3n m\u00e1s alta!",
+    "pt_BR": "Garante uma vaga no P\u00f3dio do Vencedor e exibe sua pontua\u00e7\u00e3o mais alta!",
+    "de_DE": "Platziert ein Siegerpodest und stellt Eure H\u00f6chstwertung zur Schau!",
+    "en_GB": "Place a Winner's Podium and show off your highest score!",
+    "es_ES": "\u00a1Colocas un podio de ganador y alardeas de tu r\u00e9cord de puntuaci\u00f3n!",
+    "fr_FR": "Vous placez un podium de victoire pour exhiber votre meilleur score\u00a0!",
+    "it_IT": "Piazza un Podio del Vincitore e vantati del tuo punteggio pi\u00f9 alto!",
+    "ru_RU": "\u0420\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043f\u043e\u0434\u0438\u0443\u043c \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044f \u0438 \u043f\u043e\u0445\u0432\u0430\u0441\u0442\u0430\u0442\u044c\u0441\u044f \u0441\u0432\u043e\u0438\u043c \u0441\u0430\u043c\u044b\u043c \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u0441\u0447\u0435\u0442\u043e\u043c!",
+    "ko_KR": "\uc2b9\uc790\uc758 \ub2e8\uc0c1\uc744 \ub193\uace0 \ucd5c\uace0 \uc810\uc218\ub97c \ubf50\ub0c5\ub2c8\ub2e4!",
+    "zh_TW": "\u653e\u7f6e\u52dd\u8005\u7684\u9818\u734e\u53f0\u4e26\u70ab\u8000\u4f60\u7684\u6700\u9ad8\u5206\u6578\uff01",
+    "zh_CN": "\u6446\u653e\u4e00\u5ea7\u80dc\u8005\u9886\u5956\u53f0\uff0c\u5c3d\u60c5\u70ab\u8000\u4f60\u7684\u6700\u9ad8\u5f97\u5206\uff01"
+  }
 }

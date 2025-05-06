@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "57421"
+  "SpellID": "57421",
+  "name_blz": {
+    "en_US": "Northern Stew",
+    "es_MX": "Estofado del Norte",
+    "pt_BR": "Ensopado do Norte",
+    "de_DE": "Nordischer Eintopf",
+    "en_GB": "Northern Stew",
+    "es_ES": "Estofado del Norte",
+    "fr_FR": "Rago\u00fbt nordique",
+    "it_IT": "Stufato Nordico",
+    "ru_RU": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u043f\u043e\u0445\u043b\u0435\u0431\u043a\u0430",
+    "ko_KR": "\ubd81\uadf9 \uc2a4\ud29c",
+    "zh_TW": "\u5317\u5730\u71c9\u8089",
+    "zh_CN": "\u8bfa\u68ee\u5fb7\u7096\u8089"
+  },
+  "description_blz": {}
 }

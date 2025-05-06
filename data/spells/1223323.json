@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1223323"
+  "SpellID": "1223323",
+  "name_blz": {
+    "en_US": "Unbreakable Bond",
+    "es_MX": "V\u00ednculo inquebrantable",
+    "pt_BR": "V\u00ednculo Inquebr\u00e1vel",
+    "de_DE": "Unzerst\u00f6rbares Band",
+    "en_GB": "Unbreakable Bond",
+    "es_ES": "V\u00ednculo irrompible",
+    "fr_FR": "Lien ind\u00e9fectible",
+    "it_IT": "Legame Indistruttibile",
+    "ru_RU": "\u041d\u0435\u0440\u0430\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c",
+    "ko_KR": "\ub04a\uc5b4\uc9c0\uc9c0 \uc54a\ub294 \uc720\ub300",
+    "zh_TW": "\u4e0d\u7834\u9023\u7d50",
+    "zh_CN": "\u4e0d\u7834\u4e4b\u8c0a"
+  },
+  "description_blz": {
+    "en_US": "Regain access to Call Pet.\r\n\r\nWhile outdoors, your pet deals 15% increased damage and takes 15% reduced damage.",
+    "es_MX": "Vuelve a obtener acceso a Llamar a mascota.\r\n\r\nMientras est\u00e1s en exteriores, tu mascota inflige un 15% m\u00e1s de da\u00f1o y recibe un 15% menos de da\u00f1o.",
+    "pt_BR": "Recupera o acesso a Chamar Ajudante.\r\n\r\nEm ambientes externos, seu ajudante causa 15% a mais de dano e recebe 15% a menos de dano.",
+    "de_DE": "Erhaltet wieder Zugriff auf 'Begleiter rufen'.\r\n\r\nIn der Au\u00dfenwelt verursacht Euer Begleiter um 15% erh\u00f6hten Schaden und erleidet 15% weniger Schaden.",
+    "en_GB": "Regain access to Call Pet.\r\n\r\nWhile outdoors, your pet deals 15% increased damage and takes 15% reduced damage.",
+    "es_ES": "Recupera el acceso a Llamar a mascota.\r\n\r\nMientras est\u00e9s en zonas exteriores, tu mascota inflige un 15% m\u00e1s de da\u00f1o y recibe un 15% menos de da\u00f1o.",
+    "fr_FR": "Vous r\u00e9cup\u00e9rez la technique Appel du familier.\r\n\r\nLorsque vous \u00eates \u00e0 l\u2019ext\u00e9rieur, votre familier inflige 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires et subit des d\u00e9g\u00e2ts r\u00e9duits de 15\u00a0%.",
+    "it_IT": "Rifornisce l'accesso a Richiamo: Famiglio.\r\n\r\nAll'esterno, aumenta i danni inflitti dal famiglio del 15% e ne riduce i danni subiti del 15%.",
+    "ru_RU": "\u0412\u044b \u0441\u043d\u043e\u0432\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \"\u041f\u0440\u0438\u0437\u044b\u0432 \u043f\u0438\u0442\u043e\u043c\u0446\u0430\".\r\n\r\n\u0412\u043d\u0435 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439 \u0432\u0430\u0448 \u043f\u0438\u0442\u043e\u043c\u0435\u0446 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043d\u0430 15% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub2e4\uc2dc \uc57c\uc218 \ubd80\ub974\uae30\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc57c\uc678\uc5d0\uc11c \uc57c\uc218\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \ubc1b\ub294 \ud53c\ud574\ub294 15%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ef\u518d\u6b21\u4f7f\u7528\u53ec\u559a\u5bf5\u7269\u3002\r\n\r\n\u4f60\u7684\u5bf5\u7269\u5728\u6236\u5916\u6642\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\uff0c\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e15%\u3002",
+    "zh_CN": "\u91cd\u65b0\u83b7\u5f97\u53ec\u5524\u5ba0\u7269\u3002\r\n\r\n\u5728\u6237\u5916\u65f6\uff0c\u4f60\u7684\u5ba0\u7269\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e15%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1217622"
+  "SpellID": "1217622",
+  "name_blz": {
+    "en_US": "Therazane's Resilience",
+    "es_MX": "Resiliencia de Therazane",
+    "pt_BR": "Resili\u00eancia de Therazane",
+    "de_DE": "Therazanes Widerstandskraft",
+    "en_GB": "Therazane's Resilience",
+    "es_ES": "Temple de Therazane",
+    "fr_FR": "R\u00e9silience de Therazane",
+    "it_IT": "Resilienza di Therazane",
+    "ru_RU": "\u0421\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u044c \u0422\u0435\u0440\u0430\u0437\u0430\u043d",
+    "ko_KR": "\ud14c\ub77c\uc81c\uc778\uc758 \ud0c4\ub825",
+    "zh_TW": "\u745f\u62c9\u8d0a\u6069\u7684\u97cc\u6027",
+    "zh_CN": "\u585e\u62c9\u8d5e\u6069\u7684\u97e7\u6027"
+  },
+  "description_blz": {
+    "en_US": "Earth Shield and Water Shield no longer lose charges and are 115% effective.",
+    "es_MX": "Escudo de tierra y Escudo de agua ya no pierden cargas y tienen un 115% de efectividad.",
+    "pt_BR": "O Escudo da Terra e o Escudo de \u00c1gua n\u00e3o perdem mais cargas e t\u00eam 115% de efic\u00e1cia.",
+    "de_DE": "Eure Zauber 'Erdschild' und 'Wasserschild' verlieren keine Aufladungen mehr und haben eine Effektivit\u00e4t von 115%.",
+    "en_GB": "Earth Shield and Water Shield no longer lose charges and are 115% effective.",
+    "es_ES": "Escudo de tierra y Escudo de agua ya no pierden cargas y son un 115% m\u00e1s efectivos.",
+    "fr_FR": "Bouclier de terre et Bouclier d\u2019eau ne perdent plus de charges et sont 115\u00a0% plus efficaces.",
+    "it_IT": "Scudo di Terra e Scudo d'Acqua non perdono pi\u00f9 le loro cariche e hanno il 115% d'efficacia.",
+    "ru_RU": "\"\u0429\u0438\u0442 \u0437\u0435\u043c\u043b\u0438\" \u0438 \"\u0412\u043e\u0434\u043d\u044b\u0439 \u0449\u0438\u0442\" \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0442 \u0437\u0430\u0440\u044f\u0434\u044b \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 115%.",
+    "ko_KR": "\ub300\uc9c0\uc758 \ubcf4\ud638\ub9c9\uacfc \ubb3c\uc758 \ubcf4\ud638\ub9c9\uc758 \ucda9\uc804 \ud69f\uc218\uac00 \ub354\ub294 \uc18c\ubaa8\ub418\uc9c0 \uc54a\uc73c\uba70 115%\uc758 \ud6a8\uc728\uc744 \ubc1c\ud718\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5927\u5730\u4e4b\u76fe\u548c\u6c34\u4e4b\u76fe\u4e0d\u518d\u6e1b\u5c11\u4f7f\u7528\u6b21\u6578\uff0c\u4e14\u5176\u6548\u679c\u5f37\u5ea6\u8b8a\u70ba115%\u3002",
+    "zh_CN": "\u5927\u5730\u4e4b\u76fe\u548c\u6c34\u4e4b\u62a4\u76fe\u4e0d\u518d\u6d88\u8017\u5145\u80fd\uff0c\u4e14\u62e5\u6709115%\u7684\u6548\u80fd\u3002"
+  }
 }

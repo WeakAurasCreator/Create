@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "464754"
+  "SpellID": "464754",
+  "name_blz": {
+    "en_US": "Squadron - Inactive",
+    "es_MX": "Escuadr\u00f3n - Desactivado",
+    "pt_BR": "Esquadr\u00e3o - Inativo",
+    "de_DE": "Geschwader - Inaktiv",
+    "en_GB": "Squadron - Inactive",
+    "es_ES": "Escuadr\u00f3n - Deshabilitado",
+    "fr_FR": "Escadron \u2013 inactif",
+    "it_IT": "Squadrone - Inattivo",
+    "ru_RU": "\u041e\u0442\u0440\u044f\u0434 \u2013 \u043d\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u043e",
+    "ko_KR": "\ud3b8\ub300 - \ube44\ud65c\uc131\ud654",
+    "zh_TW": "\u4e2d\u968a - \u505c\u7528",
+    "zh_CN": "\u5217\u961f - \u5173\u95ed"
+  },
+  "description_blz": {
+    "en_US": "You fly solo.\r\n\r\nYou will never start or join a Soar Squadron.\r\n\r\nThis option has no cost.",
+    "es_MX": "Vuelas en solitario.\r\n\r\nNunca crear\u00e1s ni te unir\u00e1s a un escuadr\u00f3n de vuelo.\r\n\r\nEsta opci\u00f3n no tiene costo.",
+    "pt_BR": "Voc\u00ea voa solo.\r\n\r\nVoc\u00ea nunca liderar\u00e1 ou entrar\u00e1 para um Esquadr\u00e3o de Voo Alto.\r\n\r\nEsta op\u00e7\u00e3o n\u00e3o tem custo.",
+    "de_DE": "Ihr fliegt allein.\r\n\r\nIhr startet kein Segelgeschwader und tretet auch keinem bei.\r\n\r\nDiese Option ist kostenlos.",
+    "en_GB": "You fly solo.\r\n\r\nYou will never start or join a Soar Squadron.\r\n\r\nThis option has no cost.",
+    "es_ES": "Vuelas a solas.\r\n\r\nNunca iniciar\u00e1s o te unir\u00e1s a un escuadr\u00f3n de vuelo.\r\n\r\nEsta opci\u00f3n no tiene coste.",
+    "fr_FR": "Vous volez en solitaire.\r\n\r\nVous ne pourrez jamais rejoindre ou cr\u00e9er un escadron d\u2019envol.\r\n\r\nCette option n\u2019a pas de co\u00fbt.",
+    "it_IT": "Permette di volare da soli.\r\n\r\nImpedisce di creare o unirsi a uno Suadrone di Volteggio.\r\n\r\nQuesta opzione non ha costi.",
+    "ru_RU": "\u0412\u044b \u043b\u0435\u0442\u0430\u0435\u0442\u0435 \u0432 \u043e\u0434\u0438\u043d\u043e\u0447\u043a\u0443.\r\n\r\n\u0412\u044b \u043d\u0435 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a \u043b\u0435\u0442\u043d\u043e\u043c\u0443 \u043e\u0442\u0440\u044f\u0434\u0443 \u0438\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0439.\r\n\r\n\u041d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0437\u0430\u0442\u0440\u0430\u0442 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432.",
+    "ko_KR": "\ub2e8\ub3c5\uc73c\ub85c \ube44\ud589\ud569\ub2c8\ub2e4.\r\n\r\n\ud3b8\ub300 \ube44\ud589\uc744 \uc2dc\uc791\ud558\uc9c0\ub3c4 \ud569\ub958\ud558\uc9c0\ub3c4 \uc54a\uc2b5\ub2c8\ub2e4.\r\n\r\n\ubcc4\ub3c4\uc758 \uc790\uc6d0\uc744 \uc18c\ubaa8\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7368\u81ea\u98db\u884c\u3002\r\n\r\n\u4f60\u6c38\u9060\u4e0d\u6703\u5efa\u7acb\u6216\u52a0\u5165\u98db\u9a30\u4e2d\u968a\u3002\r\n\r\n\u6b64\u9078\u9805\u7121\u9808\u6d88\u8017\u5929\u7a7a\u9a0e\u8853\u7cbe\u901a\u9ede\u6578\u3002",
+    "zh_CN": "\u4f60\u5c06\u72ec\u81ea\u98de\u884c\u3002\r\n\r\n\u4f60\u65e0\u6cd5\u7ec4\u5efa\u6216\u52a0\u5165\u7ff1\u7fd4\u5c0f\u961f\u3002\r\n\r\n\u8be5\u9009\u9879\u4e0d\u8bbe\u6210\u672c\u3002"
+  }
 }

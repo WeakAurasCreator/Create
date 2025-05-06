@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455043"
+  "SpellID": "455043",
+  "name_blz": {
+    "en_US": "Strike At Dawn",
+    "es_MX": "Ataque al amanecer",
+    "pt_BR": "Ataque ao Alvorecer",
+    "de_DE": "Angriff im Morgengrauen",
+    "en_GB": "Strike At Dawn",
+    "es_ES": "Ataque matutino",
+    "fr_FR": "Frappe au lever du jour",
+    "it_IT": "Assalto all'Alba",
+    "ru_RU": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430",
+    "ko_KR": "\uc0c8\ubcbd \uac15\uc2b5",
+    "zh_TW": "\u7834\u66c9\u51fa\u64ca",
+    "zh_CN": "\u65e5\u51fa\u800c\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Rising Sun Kick grants a stack of Elusive Brawler.",
+    "es_MX": "Patada del sol naciente otorga una acumulaci\u00f3n de P\u00fagil esquivo.",
+    "pt_BR": "Chute do Sol Nascente concede uma aplica\u00e7\u00e3o de Lutador Evasivo.",
+    "de_DE": "'Tritt der aufgehenden Sonne' gew\u00e4hrt einen Stapel von 'Fl\u00fcchtiger K\u00e4mpfer'.",
+    "en_GB": "Rising Sun Kick grants a stack of Elusive Brawler.",
+    "es_ES": "Patada del sol naciente otorga una acumulaci\u00f3n de P\u00fagil esquivo.",
+    "fr_FR": "Coup de pied du soleil levant octroie une charge de Combattant insaisissable.",
+    "it_IT": "Calcio del Sole Nascente fornisce 1 accumulo di Attaccabrighe Inafferrabile.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u0434\u0430\u0435\u0442 \u043e\u0434\u0438\u043d \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0412\u0435\u0440\u0442\u043a\u043e\u0433\u043e \u0437\u0430\u0434\u0438\u0440\u044b\".",
+    "ko_KR": "\ud574\uc624\ub984\ucc28\uae30 \uc0ac\uc6a9 \uc2dc \uad50\ubb18\ud55c \ud22c\uc0ac \uc911\ucca9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7fd4\u967d\u8173\u8ce6\u4e88\u4e00\u5c64\u98c4\u6e3a\u7d55\u5b78\u3002",
+    "zh_CN": "\u65ed\u65e5\u4e1c\u5347\u8e22\u989d\u5916\u4ea7\u751f\u4e00\u5c42\u9189\u62f3\u5927\u5e08\u3002"
+  }
 }

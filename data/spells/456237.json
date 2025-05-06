@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "456237"
+  "SpellID": "456237",
+  "name_blz": {
+    "en_US": "Cryogenic Chamber",
+    "es_MX": "C\u00e1mara criog\u00e9nica",
+    "pt_BR": "C\u00e2mara Criog\u00eanica",
+    "de_DE": "Kryogenische Kammer",
+    "en_GB": "Cryogenic Chamber",
+    "es_ES": "C\u00e1mara criog\u00e9nica",
+    "fr_FR": "Chambre cryog\u00e9nique",
+    "it_IT": "Camera Criogenica",
+    "ru_RU": "\u041a\u0440\u0438\u043e\u0433\u0435\u043d\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430",
+    "ko_KR": "\uadf9\uc800\uc628 \uacf5\uac04",
+    "zh_TW": "\u6975\u51cd\u7a7a\u9593",
+    "zh_CN": "\u4f4e\u6e29\u51b0\u51bb"
+  },
+  "description_blz": {
+    "en_US": "Each time Frost Fever deals damage, 15% of the damage dealt is gathered into the next cast of Remorseless Winter, up to 20 times.",
+    "es_MX": "Cada vez que Fiebre de escarcha inflige da\u00f1o, un 15% del da\u00f1o infligido se acumula para el siguiente lanzamiento de Invierno sin remordimientos, hasta un m\u00e1ximo de 20 veces.",
+    "pt_BR": "Sempre que a Febre do Gelo causa dano, 15% do dano causado \u00e9 somado ao pr\u00f3ximo lan\u00e7amento de Inverno Impiedoso, at\u00e9 20 vezes.",
+    "de_DE": "Jedes Mal, wenn 'Frostfieber' Schaden verursacht, wird 15% davon gesammelt und auf Euren n\u00e4chsten Einsatz von 'Unbarmherziger Winter' angerechnet, bis zu 20-mal.",
+    "en_GB": "Each time Frost Fever deals damage, 15% of the damage dealt is gathered into the next cast of Remorseless Winter, up to 20 times.",
+    "es_ES": "Cada vez que Fiebre de Escarcha inflige da\u00f1o, un 15% del da\u00f1o infligido se recoge en el siguiente lanzamiento de Invierno sin remordimientos, hasta un m\u00e1ximo de 20 veces.",
+    "fr_FR": "Chaque fois que Fi\u00e8vre de givre inflige des d\u00e9g\u00e2ts, 15\u00a0% des d\u00e9g\u00e2ts inflig\u00e9s sont accumul\u00e9s dans le prochain lancer d\u2019Hiver impitoyable, jusqu\u2019\u00e0 20\u00a0fois.",
+    "it_IT": "Ogni volta che Febbre del Gelo infligge danni, il 15% dei danni inflitti viene raccolto dal successivo lancio di Inverno Spietato, fino a un massimo di 20 volte.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u041e\u0437\u043d\u043e\u0431\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, 15% \u044d\u0442\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a \u0443\u0440\u043e\u043d\u0443 \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \"\u0411\u0435\u0441\u043f\u043e\u0449\u0430\u0434\u043d\u043e\u0441\u0442\u0438 \u0437\u0438\u043c\u044b\". \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 20 \u0440\u0430\u0437.",
+    "ko_KR": "\uc11c\ub9ac \uc5f4\ubcd1\uc73c\ub85c \ud53c\ud574\ub97c \uc785\ud790 \ub54c\ub9c8\ub2e4 \uc785\ud78c \ud53c\ud574\uc758 15%\ub97c \ucd95\uc801\ud569\ub2c8\ub2e4. \ub2e4\uc74c\uc5d0 \ub0c9\ud639\ud55c \uaca8\uc6b8\uc744 \uc2dc\uc804\ud560 \ub54c \ucd95\uc801\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ucd5c\ub300 20\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u51b0\u971c\u71b1\u75ab\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u5c07\u6703\u7d2f\u7a4d15%\u8a72\u6b21\u50b7\u5bb3\uff0c\u8ffd\u52a0\u81f3\u4e0b\u4e00\u6b21\u65bd\u653e\u7684\u51b7\u9177\u51dc\u51ac\uff0c\u6700\u591a\u5806\u758a20\u6b21\u3002",
+    "zh_CN": "\u6bcf\u6b21\u51b0\u971c\u75ab\u75c5\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u768415%\u4f1a\u79ef\u6512\u5230\u4e0b\u4e00\u6b21\u51b7\u9177\u4e25\u51ac\u4e2d\uff0c\u6700\u591a\u79ef\u651220\u6b21\u3002"
+  }
 }

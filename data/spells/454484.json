@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "454484"
+  "SpellID": "454484",
+  "name_blz": {
+    "en_US": "One With the Wind",
+    "es_MX": "Uno con el viento",
+    "pt_BR": "Uni\u00e3o com o Vento",
+    "de_DE": "Eins mit dem Wind",
+    "en_GB": "One With the Wind",
+    "es_ES": "Uno con el viento",
+    "fr_FR": "Union avec le vent",
+    "it_IT": "Tutt'uno col Vento",
+    "ru_RU": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u043e \u0441 \u0432\u0435\u0442\u0440\u043e\u043c",
+    "ko_KR": "\ubc14\ub78c\uacfc \ud558\ub098",
+    "zh_TW": "\u8207\u98a8\u70ba\u4f0d",
+    "zh_CN": "\u6e05\u98ce\u4f5c\u4f34"
+  },
+  "description_blz": {
+    "en_US": "You have a 10% chance to not reset your Elusive Brawler stacks after a successful dodge.",
+    "es_MX": "Tienes un 10% de probabilidad de no restablecer tus acumulaciones de P\u00fagil esquivo tras esquivar con \u00e9xito.",
+    "pt_BR": "Voc\u00ea tem 10% de chance de n\u00e3o zerar suas aplica\u00e7\u00f5es de Lutador Evasivo ap\u00f3s uma esquiva bem-sucedida.",
+    "de_DE": "Ihr habt eine Chance von 10%, Eure Stapel von 'Fl\u00fcchtiger K\u00e4mpfer' nach erfolgreichem Ausweichen nicht zur\u00fcckzusetzen.",
+    "en_GB": "You have a 10% chance to not reset your Elusive Brawler stacks after a successful dodge.",
+    "es_ES": "Tienes un 10% de probabilidades de no reiniciar las acumulaciones de P\u00fagil esquivo despu\u00e9s de esquivar con \u00e9xito.",
+    "fr_FR": "Vous avez 10\u00a0% de chances de ne pas r\u00e9initialiser vos charges de Combattant insaisissable apr\u00e8s une esquive r\u00e9ussie.",
+    "it_IT": "Fornisce una probabilit\u00e0 del 10% di non azzerare gli accumuli di Attaccabrighe Inafferrabile dopo una schivata.",
+    "ru_RU": "\u0421 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 10% \u044d\u0444\u0444\u0435\u043a\u0442\u044b \"\u0412\u0435\u0440\u0442\u043a\u0438\u0439 \u0437\u0430\u0434\u0438\u0440\u0430\" \u043d\u0435 \u0441\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0443\u043a\u043b\u043e\u043d\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\ud68c\ud53c\uc5d0 \uc131\uacf5\ud558\uba74 10%\uc758 \ud655\ub960\ub85c \uad50\ubb18\ud55c \ud22c\uc0ac \uc911\ucca9\uc774 \ucd08\uae30\ud654\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6210\u529f\u9583\u8eb2\u5f8c\uff0c\u4f60\u670910%\u7684\u6a5f\u7387\u4e0d\u91cd\u7f6e\u98c4\u6e3a\u7d55\u5b78\u5c64\u6578\u3002",
+    "zh_CN": "\u6210\u529f\u7684\u8eb2\u95ea\u670910%\u7684\u51e0\u7387\u4e0d\u91cd\u7f6e\u9189\u62f3\u5927\u5e08\u7684\u5c42\u6570\u3002"
+  }
 }

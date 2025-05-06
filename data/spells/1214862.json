@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1214862"
+  "SpellID": "1214862",
+  "name_blz": {
+    "en_US": "Paint: Goblin Green",
+    "es_MX": "Pintura: Verde goblin",
+    "pt_BR": "Pintura: Verde Gobl\u00ednico",
+    "de_DE": "Farbe: Goblingr\u00fcn",
+    "en_GB": "Paint: Goblin Green",
+    "es_ES": "Pintura: Verde goblin",
+    "fr_FR": "Peinture\u00a0: vert gobelin",
+    "it_IT": "Vernice: Verde Goblin",
+    "ru_RU": "\u0426\u0432\u0435\u0442: \u0433\u043e\u0431\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0437\u0435\u043b\u0435\u043d\u044b\u0439",
+    "ko_KR": "\ub3c4\uc0c9: \uace0\ube14\ub9b0 \ucd08\ub85d",
+    "zh_TW": "\u5857\u88dd\uff1a\u54e5\u5e03\u6797\u7da0",
+    "zh_CN": "\u6f06\u6599\uff1a\u5730\u7cbe\u4e4b\u7eff"
+  },
+  "description_blz": {
+    "en_US": "There's nothing environmentally friendly about this paint.",
+    "es_MX": "Esta pintura no tiene NADA de ecol\u00f3gica.",
+    "pt_BR": "Essa pintura n\u00e3o tem nada de ecologicamente correta.",
+    "de_DE": "An dieser Farbe ist so rein gar nichts umweltfreundlich.",
+    "en_GB": "There's nothing environmentally friendly about this paint.",
+    "es_ES": "Esta pintura no tiene nada de ecol\u00f3gica.",
+    "fr_FR": "Cette peinture n\u2019a rien d\u2019\u00e9cologique.",
+    "it_IT": "Non c'\u00e8 nulla di ecologico in questa vernice.",
+    "ru_RU": "\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \"\u0437\u0435\u043b\u0435\u043d\u044b\u0439\" \u043d\u0435 \u0437\u043d\u0430\u0447\u0438\u0442 \"\u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438 \u0447\u0438\u0441\u0442\u044b\u0439\".",
+    "ko_KR": "\uc774 \ub3c4\uc0c9\uc740 \uc804\uc801\uc73c\ub85c \ud658\uacbd\uce5c\ud654\uc801\uc774\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9019\u500b\u5857\u88dd\u8207\u74b0\u4fdd\u5b8c\u5168\u7121\u95dc\u3002",
+    "zh_CN": "\u8fd9\u79cd\u6f06\u6599\u5176\u5b9e\u5e76\u4e0d\u73af\u4fdd\u3002"
+  }
 }

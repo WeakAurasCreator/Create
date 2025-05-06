@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "472660"
+  "SpellID": "472660",
+  "name_blz": {
+    "en_US": "No Mercy",
+    "es_MX": "Sin piedad",
+    "pt_BR": "Sem Miseric\u00f3rdia",
+    "de_DE": "Keine Gnade",
+    "en_GB": "No Mercy",
+    "es_ES": "Sin piedad",
+    "fr_FR": "Sans piti\u00e9",
+    "it_IT": "Senza Piet\u00e0",
+    "ru_RU": "\u041d\u0438\u043a\u0430\u043a\u043e\u0439 \u043f\u043e\u0449\u0430\u0434\u044b",
+    "ko_KR": "\ubb34\uc790\ube44",
+    "zh_TW": "\u7d55\u4e0d\u7559\u60c5",
+    "zh_CN": "\u4ece\u65e0\u601c\u60af"
+  },
+  "description_blz": {
+    "en_US": "Damage from your Kill Shot sends your pets into a rage, causing all active pets within 20 yds and your Bear to pounce to the target and Smack, Claw, or Bite it.\r\n\r\nYour pets will not leap if their target is already in melee range.",
+    "es_MX": "El da\u00f1o de tu Disparo letal enfurece a tus mascotas, lo que hace que todas las mascotas activas en un radio de 20 m y tu oso salten sobre el objetivo y lo ataquen con Bofetada, Zarpa o Mordedura.\r\n\r\nTus mascotas no saltar\u00e1n si el objetivo ya est\u00e1 en radio cuerpo a cuerpo.",
+    "pt_BR": "Dano do seu Tiro Mortal deixa seus ajudantes furiosos, fazendo todas as mascotes ativas em um raio de 20 m e seu Urso saltarem no alvo para atacar com uma Pancada, com a Garra ou com uma Mordida.\r\n\r\nSuas mascotes n\u00e3o saltam se o alvo estiver dentro do alcance corpo a corpo.",
+    "de_DE": "Schaden durch Eure F\u00e4higkeit 'T\u00f6dlicher Schuss' versetzt Eure Begleiter in Raserei, wodurch alle aktiven Begleiter innerhalb von 20 Metern und Euer B\u00e4r sich auf das Ziel st\u00fcrzen und 'Zusto\u00dfen', 'Klaue' oder 'Biss' einsetzen.\r\n\r\nEure Begleiter st\u00fcrzen sich nicht auf das Ziel, wenn es sich bereits in Nahkampfreichweite befindet.",
+    "en_GB": "Damage from your Kill Shot sends your pets into a rage, causing all active pets within 20 yds and your Bear to pounce to the target and Smack, Claw, or Bite it.\r\n\r\nYour pets will not leap if their target is already in melee range.",
+    "es_ES": "El da\u00f1o de tu Disparo mortal hace que tus mascotas se enfurezcan. A continuaci\u00f3n, todas las mascotas activas en un radio de 20 m y tu oso se abalanzan sobre el objetivo y lo golpean, ara\u00f1an o muerden.\r\n\r\nTus mascotas no saltar\u00e1n si su objetivo ya est\u00e1 al alcance cuerpo a cuerpo.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Tir mortel font enrager vos familiers actifs \u00e0 moins de 20\u00a0m et votre ours. Ils bondissent sur la cible et l\u2019attaquent avec Coup de patte, Griffe ou Morsure.\r\n\r\nVos familiers ne bondiront pas si leur cible est d\u00e9j\u00e0 \u00e0 port\u00e9e de m\u00eal\u00e9e.",
+    "it_IT": "I danni inflitti da Tiro Mortale fanno infuriare i tuoi famigli, facendo s\u00ec che tutti i tuoi famigli attivi entro 20 m e il tuo Orso balzino sul bersaglio e lo attacchino con Botta, Sfregio o Morso.\r\n\r\nI tuoi famigli non balzano se il bersaglio \u00e8 gi\u00e0 a portata di mischia.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448 \"\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \u0432\u0441\u0435 \u0432\u0430\u0448\u0438 \u043f\u0438\u0442\u043e\u043c\u0446\u044b \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 20 \u043c \u0438 \u0432\u0430\u0448 \u043c\u0435\u0434\u0432\u0435\u0434\u044c \u0432 \u044f\u0440\u043e\u0441\u0442\u0438 \u043d\u0430\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u0446\u0435\u043b\u044c \u0438 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u0435\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \"\u0425\u043b\u043e\u043f\u043e\u043a\", \"\u0426\u0430\u043f\u043d\u0443\u0442\u044c\" \u0438 \"\u0423\u043a\u0443\u0441\".\r\n\r\n\u041f\u0438\u0442\u043e\u043c\u0446\u044b, \u0443\u0436\u0435 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0435\u0441\u044f \u043d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u0431\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0431\u043e\u044f, \u043d\u0435 \u0441\u043e\u0432\u0435\u0440\u0448\u0430\u044e\u0442 \u043f\u0440\u044b\u0436\u043e\u043a \u043a \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc0ac\uaca9\uc73c\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \uc57c\uc218\uac00 \ubd84\ub178\uc5d0 \ud729\uc2f8\uc774\uba70, 20\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \ud65c\uc131\ud654\ub41c \uc57c\uc218\uc640 \uacf0\uc774 \ub300\uc0c1\uc744 \ub36e\uccd0 \ud6c4\ub824\uce58\uac70\ub098, \ud560\ud034\uac70\ub098, \ubb3c\uc5b4\ub72f\uc2b5\ub2c8\ub2e4.\r\n\r\n\ub300\uc0c1\uc774 \uc774\ubbf8 \uadfc\uc811 \uacf5\uaca9 \ubc94\uc704 \uc548\uc5d0 \uc788\ub2e4\uba74 \uc57c\uc218\ub294 \ub3c4\uc57d\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u64ca\u6bba\u5c04\u64ca\u50b7\u5bb3\u8b93\u4f60\u7684\u5bf5\u7269\u61a4\u6012\uff0c\u4f7f20\u78bc\u7bc4\u570d\u5167\u6240\u6709\u555f\u7528\u7684\u5bf5\u7269\u4ee5\u53ca\u4f60\u7684\u718a\u8df3\u5411\u76ee\u6a19\uff0c\u4e26\u9032\u884c\u638c\u64ca\u3001\u722a\u64ca\u6216\u6495\u54ac\u3002\r\n\r\n\u5982\u679c\u5176\u76ee\u6a19\u5df2\u5728\u8fd1\u6230\u7bc4\u570d\u5167\uff0c\u4f60\u7684\u5bf5\u7269\u4fbf\u4e0d\u6703\u8df3\u5411\u76ee\u6a19\u3002",
+    "zh_CN": "\u4f60\u7684\u593a\u547d\u5c04\u51fb\u9020\u6210\u4f24\u5bb3\u4f1a\u4f7f\u4f60\u7684\u5ba0\u7269\u9677\u5165\u72c2\u6012\uff0c\u8ba920\u7801\u8303\u56f4\u5185\u6240\u6709\u6fc0\u6d3b\u7684\u5ba0\u7269\u4ee5\u53ca\u4f60\u7684\u5de8\u718a\u5411\u76ee\u6807\u731b\u6251\u5e76\u53d1\u8d77\u62cd\u51fb\u3001\u722a\u51fb\u6216\u6495\u54ac\u3002\r\n\r\n\u5982\u679c\u76ee\u6807\u5df2\u7ecf\u5904\u4e8e\u8fd1\u6218\u8303\u56f4\u5185\uff0c\u4f60\u7684\u5ba0\u7269\u5c06\u4e0d\u4f1a\u53d1\u8d77\u731b\u6251\u3002"
+  }
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "53056"
+  "SpellID": "53056",
+  "name_blz": {
+    "en_US": "Kungaloosh",
+    "es_MX": "Kungaloosh",
+    "pt_BR": "Kentaum",
+    "de_DE": "Kungaloosh",
+    "en_GB": "Kungaloosh",
+    "es_ES": "Kungaloosh",
+    "fr_FR": "Kungaloosh",
+    "it_IT": "Sbrogliabudella",
+    "ru_RU": "\u041a\u0443\u043d\u0433\u0430\u043b\u0443\u0448",
+    "ko_KR": "\uacfc\uc77c\ub3d9\ub3d9 \ub9db\ub098\uc8fc",
+    "zh_TW": "\u5eb7\u52a0\u9732\u8a31\u8abf\u9152",
+    "zh_CN": "\u751c\u679c\u9152"
+  },
+  "description_blz": {}
 }

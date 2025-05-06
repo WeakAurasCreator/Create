@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "456498"
+  "SpellID": "456498",
+  "name_blz": {
+    "en_US": "Brute Force Idol",
+    "es_MX": "\u00cddolo de fuerza bruta",
+    "pt_BR": "\u00cddolo da For\u00e7a Bruta",
+    "de_DE": "G\u00f6tze der brutalen Kraft",
+    "en_GB": "Brute Force Idol",
+    "es_ES": "\u00cddolo de fuerza bruta",
+    "fr_FR": "Idole de force brute",
+    "it_IT": "Idolo della Forza Bruta",
+    "ru_RU": "\u0418\u0434\u043e\u043b \u0433\u0440\u0443\u0431\u043e\u0439 \u0441\u0438\u043b\u044b",
+    "ko_KR": "\uad34\ub825\uc758 \uc6b0\uc0c1",
+    "zh_TW": "\u883b\u6a6b\u4e4b\u529b\u5851\u50cf",
+    "zh_CN": "\u86ee\u529b\u795e\u50cf"
+  },
+  "description_blz": {
+    "en_US": "When Brann calls for it, jumping on him will cause him to hurl players into their enemies, knocking and dealing significant Physical damage split between them.",
+    "es_MX": "Cuando Brann lo solicite, los jugadores podr\u00e1n saltar sobre \u00e9l para que los lance contra sus enemigos. Esto los golpear\u00e1 e infligir\u00e1 un da\u00f1o f\u00edsico considerable que se repartir\u00e1 entre todos.",
+    "pt_BR": "Quando Brann d\u00e1 a ordem, pular nele faz os jogadores serem arremessados contra os inimigos, colidindo e causando dano F\u00edsico significativo dividido entre eles.",
+    "de_DE": "Springt auf Brann, wenn er dazu auffordert, damit er Spielercharaktere auf ihre Gegner schleudert, was diese zur\u00fcckst\u00f6\u00dft und ihnen erheblichen k\u00f6rperlichen Schaden zuf\u00fcgt, der unter ihnen aufgeteilt wird.",
+    "en_GB": "When Brann calls for it, jumping on him will cause him to hurl players into their enemies, knocking and dealing significant Physical damage split between them.",
+    "es_ES": "Cuando Brann lo pida, si saltas sobre \u00e9l, te arrojar\u00e1 contra los enemigos, que ser\u00e1n derribados y recibir\u00e1n una cantidad considerable de da\u00f1o f\u00edsico a dividir entre todos.",
+    "fr_FR": "Lorsque Brann le souhaite, les personnages-joueurs peuvent lui sauter dessus pour se faire projeter sur les adversaires, les frappant et leur infligeant des d\u00e9g\u00e2ts physiques consid\u00e9rables r\u00e9partis entre eux.",
+    "it_IT": "Al comando di Brann, saltare su di lui fa s\u00ec che lui lanci i personaggi sui nemici, respingendoli indietro e infliggendo ingenti danni fisici suddivisi tra loro.",
+    "ru_RU": "\u041f\u043e \u043a\u043e\u043c\u0430\u043d\u0434\u0435 \u0411\u0440\u0430\u043d\u043d\u0430 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u044b\u0433\u043d\u0443\u0442\u044c \u043d\u0430 \u043d\u0435\u0433\u043e, \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u043e\u043d \u0431\u0440\u043e\u0441\u0438\u0442 \u0432\u0430\u0441 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u043f\u043e\u0434\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044f \u0438\u0445 \u0438 \u043d\u0430\u043d\u043e\u0441\u044f \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d, \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u044b\u0439 \u043c\u0435\u0436\u0434\u0443 \u0446\u0435\u043b\u044f\u043c\u0438.",
+    "ko_KR": "\ube0c\ub780\uc774 \ubd80\ub97c \ub54c, \ube0c\ub780 \uc704\ub85c \ub3c4\uc57d\ud558\uba74 \ube0c\ub780\uc774 \ud50c\ub808\uc774\uc5b4\ub97c \uc801\uc5d0\uac8c\ub85c \ub358\uc838 \ub9c9\ub300\ud55c \ubb3c\ub9ac \ud53c\ud574\ub97c \ub098\ub204\uc5b4 \uc785\ud788\uace0 \ub4a4\ub85c \ubc00\uccd0\ub0c5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u5e03\u840a\u6069\u547c\u53eb\u6642\uff0c\u8df3\u5230\u4ed6\u8eab\u4e0a\u6703\u4f7f\u4ed6\u5c07\u73a9\u5bb6\u4e1f\u5411\u6575\u4eba\u4e26\u9032\u884c\u649e\u64ca\uff0c\u9020\u6210\u5927\u91cf\u7269\u7406\u50b7\u5bb3\uff0c\u7531\u6575\u4eba\u5e73\u5747\u5206\u6524\u3002",
+    "zh_CN": "\u5f53\u5e03\u83b1\u6069\u547c\u5524\u65f6\uff0c\u8df3\u5230\u4ed6\u8eab\u4e0a\u4f1a\u4f7f\u4ed6\u5c06\u73a9\u5bb6\u6295\u5411\u654c\u4eba\uff0c\u51fb\u9000\u5e76\u5bf9\u4ed6\u4eec\u9020\u6210\u9ad8\u989d\u7684\u7269\u7406\u4f24\u5bb3\uff0c\u4f24\u5bb3\u7531\u5176\u5747\u644a\u3002"
+  }
 }

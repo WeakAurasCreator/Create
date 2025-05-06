@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453640"
+  "SpellID": "453640",
+  "name_blz": {
+    "en_US": "Warrior Protection 11.0 Class Set 2pc",
+    "es_MX": "Warrior Protection 11.0 Class Set 2pc",
+    "pt_BR": "Guerreiro Prote\u00e7\u00e3o 11.0, Conjunto de Classe, 2 p\u00e7",
+    "de_DE": "Kriegerklassenset, Schutz, 11.0, 2 Teile",
+    "en_GB": "Warrior Protection 11.0 Class Set 2pc",
+    "es_ES": "Conjunto de clase de guerrero Protecci\u00f3n 11.0 (2 piezas)",
+    "fr_FR": "Ensemble de classe de guerrier ou guerri\u00e8re Protection 11.0 (2\u00a0pi\u00e8ces)",
+    "it_IT": "Guerriero Protezione, Set di Classe 11.0, 2 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0432\u043e\u0438\u043d\u0430 11.0 \u2013 \u0437\u0430\u0449\u0438\u0442\u0430, 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ubc29\uc5b4 \uc804\uc0ac 11.0 \uc9c1\uc5c5 \uc138\ud2b8 2\uc138\ud2b8",
+    "zh_TW": "\u6230\u58eb\u9632\u8b7711.0\u8077\u696d\u5957\u88dd2\u4ef6",
+    "zh_CN": "\u9632\u62a4\u6218\u58eb11.0\u804c\u4e1a\u5957\u88c52\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "When your Shield Slam cooldown is reset by Strategist, you gain Expert Strategist, increasing the damage of Shield Slam by 5% and reducing all damage taken by 3% for 6 sec.",
+    "es_MX": "Cuando el tiempo de reutilizaci\u00f3n de Embate con escudo se restablece con Estratega, obtienes Estratega experto, lo que aumenta un 5% el da\u00f1o de Embate con escudo y reduce un 3% todo el da\u00f1o recibido durante 6 s.",
+    "pt_BR": "Quando a recarga da sua Escudada \u00e9 zerada por Estrategista, voc\u00ea ganha Estrategista Especialista, o que aumenta em 5% o dano da Escudada e reduz em 3% todo o dano recebido por 6 s.",
+    "de_DE": "Wenn die Abklingzeit von 'Schildschlag' durch 'Stratege' zur\u00fcckgesetzt wird, erhaltet Ihr 'Strategieexperte', der 6 Sek. lang den Schaden von 'Schildschlag' um 5% erh\u00f6ht und jeglichen erlittenen Schaden um 3% verringert.",
+    "en_GB": "When your Shield Slam cooldown is reset by Strategist, you gain Expert Strategist, increasing the damage of Shield Slam by 5% and reducing all damage taken by 3% for 6 sec.",
+    "es_ES": "Cuando Estratega reinicia tu tiempo de reutilizaci\u00f3n de Embate con escudo, obtienes Estratega experto, lo que aumenta un 5% el da\u00f1o de Embate con escudo y reduce un 3% todo el da\u00f1o recibido durante 6 s.",
+    "fr_FR": "Lorsque le temps de recharge de Heurt de bouclier est annul\u00e9 par Strat\u00e8ge, vous b\u00e9n\u00e9ficiez de Strat\u00e8ge expert, ce qui augmente les d\u00e9g\u00e2ts de Heurt de bouclier de 5\u00a0% et r\u00e9duit les d\u00e9g\u00e2ts subis de 3\u00a0% pendant 6 s.",
+    "it_IT": "Quando il tempo di recupero di Colpo di Scudo viene azzerato da Stratega, si attiva Stratega Esperto, che aumenta i danni inflitti da Colpo di Scudo del 5% e riduce tutti i danni subiti del 3% per 6 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0421\u0442\u0440\u0430\u0442\u0435\u0433\" \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0430\u0448\u0435\u0433\u043e \"\u041c\u043e\u0449\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u0449\u0438\u0442\u043e\u043c\", \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041c\u0430\u0441\u0442\u0435\u0440-\u0441\u0442\u0440\u0430\u0442\u0435\u0433\", \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041c\u043e\u0449\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u0449\u0438\u0442\u043e\u043c\" \u043d\u0430 5% \u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 3% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc804\ub7b5\uac00\uc758 \ud6a8\uacfc\ub85c \ubc29\ud328 \ubc00\uccd0\ub0b4\uae30\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd08\uae30\ud654\ub418\uba74 \ub2a5\uc219\ud55c \uc804\ub7b5\uac00\uac00 \ubd80\uc5ec\ub418\uc5b4 6\ucd08 \ub3d9\uc548 \ubc29\ud328 \ubc00\uccd0\ub0b4\uae30\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\uac00 3%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u76fe\u724c\u731b\u64ca\u7684\u51b7\u537b\u6642\u9593\u88ab\u8ecd\u4e8b\u5c08\u5bb6\u91cd\u7f6e\u6642\uff0c\u7372\u5f97\u8ecd\u4e8b\u9ad8\u624b\uff0c\u4f7f\u76fe\u724c\u731b\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad85%\uff0c\u4e14\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u964d\u4f4e3%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5f53\u4f60\u7684\u76fe\u724c\u731b\u51fb\u51b7\u5374\u65f6\u95f4\u88ab\u6218\u7565\u4e13\u5bb6\u91cd\u7f6e\u65f6\uff0c\u4f60\u83b7\u5f97\u6218\u7565\u5947\u624d\u6548\u679c\uff0c\u4f7f\u76fe\u724c\u731b\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u5e76\u4e14\u4f7f\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e3%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

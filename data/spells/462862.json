@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462862"
+  "SpellID": "462862",
+  "name_blz": {
+    "en_US": "Lightning Capacitor",
+    "es_MX": "Condensador de rel\u00e1mpagos",
+    "pt_BR": "Capacitor de Rel\u00e2mpagos",
+    "de_DE": "Blitzkondensator",
+    "en_GB": "Lightning Capacitor",
+    "es_ES": "Capacitador de rel\u00e1mpagos",
+    "fr_FR": "Condensateur de foudre",
+    "it_IT": "Condensatore Fulminante",
+    "ru_RU": "\u041a\u043e\u043d\u0434\u0435\u043d\u0441\u0430\u0442\u043e\u0440 \u043c\u043e\u043b\u043d\u0438\u0439",
+    "ko_KR": "\ubc88\uac1c \ucd95\uc804\uae30",
+    "zh_TW": "\u96fb\u5149\u76f8\u5bb9\u5668",
+    "zh_CN": "\u95ea\u7535\u5bb9\u84c4"
+  },
+  "description_blz": {
+    "en_US": "While Lightning Shield is active, your Nature damage dealt is increased by 8%.",
+    "es_MX": "Mientras Escudo de rel\u00e1mpagos est\u00e1 activo, tu da\u00f1o de naturaleza infligido aumenta un 8%.",
+    "pt_BR": "Enquanto o Escudo de Raios estiver ativo, o dano de Natureza que voc\u00ea causa \u00e9 aumentado em 8%.",
+    "de_DE": "W\u00e4hrend 'Blitzschlagschild' aktiv ist, verursacht Ihr 8% mehr Naturschaden.",
+    "en_GB": "While Lightning Shield is active, your Nature damage dealt is increased by 8%.",
+    "es_ES": "Mientras Escudo de rel\u00e1mpagos est\u00e1 activo, el da\u00f1o de Naturaleza que infliges aumenta un 8%.",
+    "fr_FR": "Lorsque Bouclier de foudre est actif, vos d\u00e9g\u00e2ts de nature sont augment\u00e9s de 8\u00a0%.",
+    "it_IT": "Quando lo Scudo di Fulmini \u00e8 attivo, i danni da natura inflitti aumentano del 8%.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0429\u0438\u0442 \u043c\u043e\u043b\u043d\u0438\u0439\", \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 8%.",
+    "ko_KR": "\ubc88\uac1c \ubcf4\ud638\ub9c9\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548\uc5d0\ub294 \uc790\uc5f0 \uacf5\uaca9\ub825\uc774 8%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9583\u96fb\u4e4b\u76fe\u751f\u6548\u6642\uff0c\u4f60\u9020\u6210\u7684\u81ea\u7136\u50b7\u5bb3\u63d0\u9ad88%\u3002",
+    "zh_CN": "\u95ea\u7535\u4e4b\u76fe\u6fc0\u6d3b\u65f6\uff0c\u4f60\u9020\u6210\u7684\u81ea\u7136\u4f24\u5bb3\u63d0\u9ad88%\u3002"
+  }
 }

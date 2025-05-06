@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455110"
+  "SpellID": "455110",
+  "name_blz": {
+    "en_US": "Supercharge",
+    "es_MX": "Supercarga",
+    "pt_BR": "Supercarga",
+    "de_DE": "Superladung",
+    "en_GB": "Supercharge",
+    "es_ES": "Ultracarga",
+    "fr_FR": "Supercharge",
+    "it_IT": "Supercarica",
+    "ru_RU": "\u0421\u0443\u043f\u0435\u0440\u0437\u0430\u0440\u044f\u0434",
+    "ko_KR": "\ucd08\uc790\ub825 \ucda9\uc804",
+    "zh_TW": "\u8d85\u7d1a\u5145\u80fd",
+    "zh_CN": "\u8d85\u8377\u5145\u80fd"
+  },
+  "description_blz": {
+    "en_US": "Lightning Bolt, Tempest, and Chain Lightning have a 35% chance to refund 2 Maelstrom Weapon stacks.",
+    "es_MX": "Descarga de rel\u00e1mpagos, Tempestad y Cadena de rel\u00e1mpagos tienen un 35% de probabilidad de restituir 2 acumulaciones de Arma vor\u00e1gine.",
+    "pt_BR": "Raio, Tormenta e Cadeia de Raios t\u00eam 35% de chance de restaurar 2 aplica\u00e7\u00f5es de Arma da Voragem.",
+    "de_DE": "'Blitzschlag', 'Sturmgewitter' und 'Kettenblitzschlag' haben eine Chance von 35%, 2 Stapel von 'Waffe des Mahlstroms' zur\u00fcckzuerstatten.",
+    "en_GB": "Lightning Bolt, Tempest, and Chain Lightning have a 35% chance to refund 2 Maelstrom Weapon stacks.",
+    "es_ES": "Los lanzamientos de Descarga de rel\u00e1mpagos, Tempestad y Cadena de rel\u00e1mpagos tienen un 35% de probabilidades de restaurar 2 acumulaciones de Arma vor\u00e1gine.",
+    "fr_FR": "\u00c9clair, Temp\u00eate et Cha\u00eene d\u2019\u00e9clairs ont 35\u00a0% de chances de restituer 2\u00a0charges d\u2019Arme du Maelstr\u00f6m.",
+    "it_IT": "Dardo Fulminante, Tempesta e Catena di Fulmini hanno una probabilit\u00e0 del 35% di ripristinare 2 accumuli di Arma del Maelstrom.",
+    "ru_RU": "\"\u041c\u043e\u043b\u043d\u0438\u044f\", \"\u0411\u0443\u0440\u044f\" \u0438 \"\u0426\u0435\u043f\u043d\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 35% \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0442 2 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041e\u0440\u0443\u0436\u0438\u0435 \u0412\u043e\u0434\u043e\u0432\u043e\u0440\u043e\u0442\u0430\".",
+    "ko_KR": "\ubc88\uac1c \ud654\uc0b4, \ud3ed\ud48d \ubc0f \uc5f0\uc1c4 \ubc88\uac1c\uac00 35%\uc758 \ud655\ub960\ub85c \uc18c\uc6a9\ub3cc\uc774\uce58\ub294 \ubb34\uae30 2\uc911\ucca9\uc744 \ubc18\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9583\u96fb\u7bad\u3001\u66b4\u98a8\u96e8\u548c\u9583\u96fb\u93c8\u670935%\u7684\u6a5f\u7387\u6062\u5fa92\u5c64\u6c23\u6f29\u6b66\u5668\u3002",
+    "zh_CN": "\u95ea\u7535\u7bad\u3001\u72c2\u98ce\u6012\u53f7\u548c\u95ea\u7535\u94fe\u670935%\u7684\u51e0\u7387\u8fd4\u8fd82\u5c42\u6f29\u6da1\u6b66\u5668\u5c42\u6570\u3002"
+  }
 }

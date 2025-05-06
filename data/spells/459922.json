@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "459922"
+  "SpellID": "459922",
+  "name_blz": {
+    "en_US": "Relentless Primal Ferocity",
+    "es_MX": "Ferocidad primitiva e incansable",
+    "pt_BR": "Ferocidade Primeva Implac\u00e1vel",
+    "de_DE": "Unerbittliche Urzeitwildheit",
+    "en_GB": "Relentless Primal Ferocity",
+    "es_ES": "Ferocidad primigenia incansable",
+    "fr_FR": "F\u00e9rocit\u00e9 primitive impitoyable",
+    "it_IT": "Ferocia Primordiale Implacabile",
+    "ru_RU": "\u041d\u0435\u0443\u0434\u0435\u0440\u0436\u0438\u043c\u0430\u044f \u043f\u0435\u0440\u0432\u043e\u0431\u044b\u0442\u043d\u0430\u044f \u044f\u0440\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ubb34\uc790\ube44\ud55c \uc6d0\uc2dc\uc758 \uc57c\uc131",
+    "zh_TW": "\u7121\u60c5\u539f\u521d\u51f6\u66b4",
+    "zh_CN": "\u65e0\u60c5\u539f\u59cb\u72c2\u91ce"
+  },
+  "description_blz": {
+    "en_US": "Coordinated Assault sends you and your pet into a state of primal power. For the duration of Coordinated Assault, Kill Command generates 2 additional stack of Tip of the Spear, you gain 10% Haste, and Tip of the Spear's damage bonus is increased by 50%. ",
+    "es_MX": "Asalto coordinado hace que t\u00fa y tu mascota entren en un estado de poder primigenio. Mientras dura Asalto coordinado, Matar genera 2 acumulaci\u00f3n m\u00e1s de Punta de la lanza y aumenta un 10% tu celeridad, y la bonificaci\u00f3n de da\u00f1o de Punta de la lanza aumenta un 50%. ",
+    "pt_BR": "Ataque Coordenado p\u00f5e voc\u00ea e seu ajudante em um estado de poder primevo. Enquanto durar o efeito do Ataque Coordenado, Comando para Matar gera 2 aplica\u00e7\u00f5es a mais de Ponta da Lan\u00e7a, voc\u00ea ganha 10% de acelera\u00e7\u00e3o e o dano extra de Ponta da Lan\u00e7a aumenta em 50%. ",
+    "de_DE": "'Koordinierter Angriff' versetzt Euch und Euren Begleiter in einen Zustand urzeitlicher Macht. W\u00e4hrend der Dauer von 'Koordinierter Angriff' erzeugt 'T\u00f6tungsbefehl' 2 zus\u00e4tzliche Stapel von 'Speerspitze'. Au\u00dferdem wird Euer Tempo um 10% und der Schadensbonus von 'Speerspitze' um 50% erh\u00f6ht. ",
+    "en_GB": "Coordinated Assault sends you and your pet into a state of primal power. For the duration of Coordinated Assault, Kill Command generates 2 additional stack of Tip of the Spear, you gain 10% Haste, and Tip of the Spear's damage bonus is increased by 50%. ",
+    "es_ES": "Ataque coordinado hace que tu mascota y t\u00fa entr\u00e9is en un estado de poder primigenio. Mientras dure Ataque coordinado, Matar genera 2 acumulaci\u00f3n m\u00e1s de Punta de la lanza, obtienes un 10% de celeridad y el da\u00f1o extra de Punta de la lanza aumenta un 50%. ",
+    "fr_FR": "Assaut coordonn\u00e9 vous plonge, vous et votre familier, dans un \u00e9tat de puissance primitive. Pendant la dur\u00e9e d\u2019Assaut coordonn\u00e9, Ordre de tuer g\u00e9n\u00e8re 2\u00a0charges suppl\u00e9mentaires de Pointe de la lance, vous gagnez 10\u00a0% de H\u00e2te et le bonus aux d\u00e9g\u00e2ts de Pointe de la lance est augment\u00e9 de 50\u00a0%. ",
+    "it_IT": "Assalto Coordinato attiva uno stato di potenza primordiale per te e il tuo famiglio. Per tutta la durata dell'effetto, Ordine di Morte fornisce 2 accumuli aggiuntivi di Punta della Lancia, la celerit\u00e0 aumenta del 10% e il bonus ai danni fornito da Punta della Lancia aumenta del 50%. ",
+    "ru_RU": "\"\u0421\u043e\u0433\u043b\u0430\u0441\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0441 \u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430 \u043f\u0435\u0440\u0432\u043e\u0431\u044b\u0442\u043d\u043e\u0439 \u043c\u043e\u0449\u044c\u044e. \u041f\u043e\u043a\u0430 \u043e\u043d\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442, \"\u041a\u043e\u043c\u0430\u043d\u0434\u0430 \"\u0412\u0437\u044f\u0442\u044c!\" \u0434\u0430\u0435\u0442 \u0435\u0449\u0435 2 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041d\u0430\u043a\u043e\u043d\u0435\u0447\u043d\u0438\u043a\u0430 \u043a\u043e\u043f\u044c\u044f\", \u0432\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%, \u0430 \u0431\u043e\u043d\u0443\u0441 \u043a \u0443\u0440\u043e\u043d\u0443 \u043e\u0442 \"\u041d\u0430\u043a\u043e\u043d\u0435\u0447\u043d\u0438\u043a\u0430 \u043a\u043e\u043f\u044c\u044f\" \u2013 \u043d\u0430 50%. ",
+    "ko_KR": "\ud611\uacf5\uc774 \uc0ac\ub0e5\uafbc\uacfc \uc57c\uc218\ub97c \uc6d0\uc2dc\uc758 \ud798 \uc0c1\ud0dc\ub85c \ub9cc\ub4ed\ub2c8\ub2e4. \ud611\uacf5\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \uc0b4\uc0c1 \uba85\ub839\uc774 \ucc3d\ub05d 2\uc911\ucca9\uc744 \ucd94\uac00\ub85c \uc0dd\uc131\ud558\uba70, \uac00\uc18d\uc774 10%\ub9cc\ud07c, \ucc3d\ub05d\uc758 \uacf5\uaca9\ub825 \uc99d\uac00 \ud6a8\uacfc\uac00 50%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u806f\u624b\u8972\u64ca\u6703\u4f7f\u4f60\u548c\u4f60\u7684\u5bf5\u7269\u9032\u5165\u539f\u59cb\u529b\u91cf\u72c0\u614b\u3002\u5728\u806f\u624b\u8972\u64ca\u7684\u6301\u7e8c\u6642\u9593\u5167\uff0c\u64ca\u6bba\u547d\u4ee4\u984d\u5916\u7522\u751f2\u5c64\u9577\u77db\u4e4b\u5c16\uff0c\u4f60\u7372\u5f9710%\u52a0\u901f\uff0c\u4e14\u9577\u77db\u4e4b\u5c16\u7684\u50b7\u5bb3\u52a0\u6210\u63d0\u9ad850%\u3002 ",
+    "zh_CN": "\u534f\u540c\u8fdb\u653b\u8ba9\u4f60\u548c\u4f60\u7684\u5ba0\u7269\u8fdb\u5165\u539f\u59cb\u529b\u91cf\u7206\u53d1\u7684\u72b6\u6001\u3002\u5728\u534f\u540c\u8fdb\u653b\u7684\u6301\u7eed\u65f6\u95f4\u5185\uff0c\u6740\u622e\u547d\u4ee4\u4f1a\u989d\u5916\u751f\u62102\u5c42\u5229\u77db\u4e4b\u5203\uff0c\u4f60\u83b7\u5f9710%\u7684\u6025\u901f\uff0c\u5e76\u4e14\u5229\u77db\u4e4b\u5203\u7684\u4f24\u5bb3\u52a0\u6210\u63d0\u9ad850%\u3002 "
+  }
 }

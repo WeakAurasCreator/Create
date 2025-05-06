@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215703"
+  "SpellID": "1215703",
+  "name_blz": {
+    "en_US": "Priest Shadow 11.1 Class Set 4pc",
+    "es_MX": "Priest Shadow 11.1 Class Set 4pc",
+    "pt_BR": "Sacerdote, Sombra, 11.1, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Priesterklassenset, Schatten, 11.1, 4 Teile",
+    "en_GB": "Priest Shadow 11.1 Class Set 4pc",
+    "es_ES": "Conjunto de clase de sacerdote Sombra 11.1 (4 piezas)",
+    "fr_FR": "Ensemble de classe de pr\u00eatre ou pr\u00eatresse Ombre 11.1 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Sacerdote Ombra, Set di Classe 11.1, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0436\u0440\u0435\u0446\u0430 11.1 \u2013 \u0442\u044c\u043c\u0430, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uc554\ud751 \uc0ac\uc81c 11.1 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u7267\u5e2b\u6697\u5f7111.1\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u6697\u5f71\u7267\u5e0811.1\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Hitting a Jackpot! grants you 5.0 seconds of Power Infusion. Mind Blast and Void Bolt deal 10% increased damage while Power Infusion is active.",
+    "es_MX": "Ganar el \u00a1Bingo! te otorga 5.0 segundos de Infusi\u00f3n de poder. Explosi\u00f3n mental y Descarga del Vac\u00edo infligen un 10% m\u00e1s de da\u00f1o mientras Infusi\u00f3n de poder est\u00e1 activo.",
+    "pt_BR": "Tirar a Sorte Grande! concede 5,0 s de Infus\u00e3o de Poder. Impacto Mental e Seta Ca\u00f3tica causam 10% a mais de dano enquanto Infus\u00e3o de Poder estiver ativo.",
+    "de_DE": "Wenn Ihr einen Volltreffer! landet, erhaltet Ihr 5,0 Sek. lang 'Seele der Macht'. 'Gedankenschlag' und 'Leerenblitz' verursachen 10% mehr Schaden, w\u00e4hrend 'Seele der Macht' aktiv ist.",
+    "en_GB": "Hitting a Jackpot! grants you 5.0 seconds of Power Infusion. Mind Blast and Void Bolt deal 10% increased damage while Power Infusion is active.",
+    "es_ES": "Si consigues un \u00a1Premio!, recibes 5,0 s de Infusi\u00f3n de poder. Explosi\u00f3n mental y Descarga del Vac\u00edo infligen un 10% m\u00e1s de da\u00f1o mientras Infusi\u00f3n de poder est\u00e1 activa.",
+    "fr_FR": "Le fait de d\u00e9clencher un Jackpot\u00a0! vous conf\u00e8re 5,0\u00a0s d\u2019Infusion de puissance. Tant que cet effet est actif, Attaque mentale et \u00c9clair de Vide infligent 10\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires.",
+    "it_IT": "Fare Jackpot! fornisce Infusione di Potere per 5,0 s. Detonazione Mentale e Dardo del Vuoto infliggono il 10% di danni aggiuntivi quando Infusione di Potere \u00e8 attiva.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442\u0435 \"\u0414\u0436\u0435\u043a\u043f\u043e\u0442!\", \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \"\u041f\u0440\u0438\u0434\u0430\u043d\u0438\u0435 \u0441\u0438\u043b\" \u043d\u0430 5,0 \u0441\u0435\u043a. \u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u041f\u0440\u0438\u0434\u0430\u043d\u0438\u0435 \u0441\u0438\u043b\", \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0412\u0437\u0440\u044b\u0432 \u0440\u0430\u0437\u0443\u043c\u0430\" \u0438 \"\u0421\u0442\u0440\u0435\u043b\u0430 \u0411\u0435\u0437\u0434\u043d\u044b\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud6a1\uc7ac! \ud6a8\uacfc \ubc1c\ub3d9 \uc2dc 5.0\ucd08 \ub3d9\uc548 \ub9c8\ub825 \uc8fc\uc785\uc774 \ubd80\uc5ec\ub429\ub2c8\ub2e4. \ub9c8\ub825 \uc8fc\uc785\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc815\uc2e0 \ubd84\uc5f4 \ubc0f \uacf5\ud5c8\uc758 \ud654\uc0b4\uc774 10%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4e2d\u5927\u734e\uff01\u6703\u8ce6\u4e88\u4f60\u6301\u7e8c5.0\u79d2\u7684\u6ce8\u5165\u80fd\u91cf\u3002\u5728\u6ce8\u5165\u80fd\u91cf\u4f5c\u7528\u671f\u9593\uff0c\u5fc3\u9748\u9707\u7206\u548c\u865b\u7121\u7bad\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u8d62\u5f97\u5934\u5956\uff01\u65f6\u83b7\u5f975.0\u79d2\u7684\u80fd\u91cf\u704c\u6ce8\u3002\u80fd\u91cf\u704c\u6ce8\u671f\u95f4\uff0c\u5fc3\u7075\u9707\u7206\u548c\u865a\u7a7a\u7bad\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

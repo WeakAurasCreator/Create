@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455143"
+  "SpellID": "455143",
+  "name_blz": {
+    "en_US": "Acrobatic Strikes",
+    "es_MX": "Golpes acrob\u00e1ticos",
+    "pt_BR": "Golpes Acrob\u00e1ticos",
+    "de_DE": "Akrobatische Attacken",
+    "en_GB": "Acrobatic Strikes",
+    "es_ES": "Golpes acrob\u00e1ticos",
+    "fr_FR": "Frappes acrobatiques",
+    "it_IT": "Assalti Acrobatici",
+    "ru_RU": "\u0410\u043a\u0440\u043e\u0431\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0434\u0430\u0440\u044b",
+    "ko_KR": "\uace1\uc608\uc758 \uc77c\uaca9",
+    "zh_TW": "\u7279\u6280\u6253\u64ca",
+    "zh_CN": "\u6742\u800d\u6253\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Auto-attacks increase auto-attack damage and movement speed by 1.0% for 3 sec, stacking up to 10%.",
+    "es_MX": "Los ataques autom\u00e1ticos aumentan el da\u00f1o de los ataques autom\u00e1ticos y la velocidad de movimiento un 1.0% durante 3 s, se acumula hasta alcanzar un 10%.",
+    "pt_BR": "Ataques autom\u00e1ticos aumentam o dano de ataque autom\u00e1tico e a velocidade de movimento em 1,0% por 3 s, acumulando at\u00e9 10%.",
+    "de_DE": "Automatische Angriffe erh\u00f6hen den Schaden automatischer Angriffe und Bewegungsgeschwindigkeit 3 Sek. lang um 1,0%. Bis zu einem Wert von 10% stapelbar.",
+    "en_GB": "Auto-attacks increase auto-attack damage and movement speed by 1.0% for 3 sec, stacking up to 10%.",
+    "es_ES": "Los ataques autom\u00e1ticos aumentan un 1,0% el da\u00f1o de ataque autom\u00e1tico y la velocidad de movimiento durante 3 s. Se acumula hasta un m\u00e1ximo de un 10%.",
+    "fr_FR": "Les attaques automatiques augmentent les d\u00e9g\u00e2ts qu\u2019elles infligent et la vitesse de d\u00e9placement de 1,0\u00a0% pendant 3 s, cumulable jusqu\u2019\u00e0 10\u00a0%.",
+    "it_IT": "Gli attacchi automatici aumentano i danni inflitti dagli attacchi automatici e la velocit\u00e0 di movimento del 1,0% per 3 s, fino a un massimo del 10%.",
+    "ru_RU": "\u0410\u0432\u0442\u043e\u0430\u0442\u0430\u043a\u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0430\u0432\u0442\u043e\u0430\u0442\u0430\u043a \u0438 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 1,0% \u043d\u0430 3 \u0441\u0435\u043a. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u043e\u043d\u0443\u0441 \u2013 10%.",
+    "ko_KR": "\uc790\ub3d9 \uacf5\uaca9 \uc2dc 3\ucd08 \ub3d9\uc548 \uc790\ub3d9 \uacf5\uaca9\uc758 \uacf5\uaca9\ub825\uacfc \uc774\ub3d9 \uc18d\ub3c4\uac00 1.0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 10%\ub9cc\ud07c \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u81ea\u52d5\u653b\u64ca\u6703\u4f7f\u81ea\u52d5\u653b\u64ca\u50b7\u5bb3\u548c\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad81.0%\uff0c\u6301\u7e8c3\u79d2\uff0c\u6700\u9ad8\u53ef\u5806\u758a10%\u3002",
+    "zh_CN": "\u81ea\u52a8\u653b\u51fb\u4f7f\u81ea\u52a8\u653b\u51fb\u4f24\u5bb3\u548c\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad81.0%\uff0c\u6301\u7eed3\u79d2\uff0c\u6700\u591a\u53e0\u52a0\u81f310%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "456270"
+  "SpellID": "456270",
+  "name_blz": {
+    "en_US": "Snap Induction",
+    "es_MX": "Chasquido de inducci\u00f3n",
+    "pt_BR": "Indu\u00e7\u00e3o de Quebra",
+    "de_DE": "Schnappinduktion",
+    "en_GB": "Snap Induction",
+    "es_ES": "Inducci\u00f3n r\u00e1pida",
+    "fr_FR": "Induction instantan\u00e9e",
+    "it_IT": "Induzione di Schianto",
+    "ru_RU": "\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0438\u043d\u0434\u0443\u043a\u0446\u0438\u044f",
+    "ko_KR": "\uc77c\uaca9 \uc720\ub3c4",
+    "zh_TW": "\u8a98\u767c\u731b\u54ac",
+    "zh_CN": "\u60ca\u9706\u611f\u5e94"
+  },
+  "description_blz": {
+    "en_US": "Activating Recklessness grants a charge of Thunder Blast.",
+    "es_MX": "Activar Temeridad otorga una carga de R\u00e1faga atronadora.",
+    "pt_BR": "Ativar Temeridade concede uma carga de Impacto Trovejante.",
+    "de_DE": "'Tollk\u00fchnheit' zu wirken, verleiht eine Aufladung von 'Donnerexplosion'.",
+    "en_GB": "Activating Recklessness grants a charge of Thunder Blast.",
+    "es_ES": "Al activar Temeridad, recibes una carga de Explosi\u00f3n de trueno.",
+    "fr_FR": "L\u2019activation de T\u00e9m\u00e9rit\u00e9 conf\u00e8re une charge d\u2019Explosion de tonnerre.",
+    "it_IT": "Attivare Avventatezza fornisce 1 carica di Boato del Tuono.",
+    "ru_RU": "\u0410\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u044f \"\u0411\u0435\u0437\u0440\u0430\u0441\u0441\u0443\u0434\u0441\u0442\u0432\u0430\" \u0434\u0430\u0435\u0442 \u043e\u0434\u0438\u043d \u0437\u0430\u0440\u044f\u0434 \"\u0420\u0430\u0437\u0440\u044f\u0434\u0430 \u0433\u0440\u043e\u043c\u0430\".",
+    "ko_KR": "\ubb34\ubaa8\ud55c \ud76c\uc0dd \ud65c\uc131\ud654 \uc2dc \uc6b0\ub808 \uc791\ub82c\uc774 1\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u555f\u52d5\u9b6f\u83bd\u6703\u8ce6\u4e88\u4e00\u6b21\u96f7\u9706\u66b4\u64ca\u4f7f\u7528\u6b21\u6578\u3002",
+    "zh_CN": "\u6fc0\u6d3b\u9c81\u83bd\u4f1a\u83b7\u5f97\u4e00\u6b21\u96f7\u9706\u8f70\u51fb\u7684\u5145\u80fd\u3002"
+  }
 }

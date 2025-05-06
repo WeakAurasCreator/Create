@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "474738"
+  "SpellID": "474738",
+  "name_blz": {
+    "en_US": "Unerring Vision",
+    "es_MX": "Visi\u00f3n infalible",
+    "pt_BR": "Vis\u00e3o Infal\u00edvel",
+    "de_DE": "Unfehlbare Sicht",
+    "en_GB": "Unerring Vision",
+    "es_ES": "Visi\u00f3n infalible",
+    "fr_FR": "Vision infaillible",
+    "it_IT": "Visione Precisa",
+    "ru_RU": "\u0412\u0435\u0440\u043d\u044b\u0439 \u0433\u043b\u0430\u0437",
+    "ko_KR": "\ub610\ub837\ud55c \uc2dc\uc57c",
+    "zh_TW": "\u7cbe\u6e96\u8996\u89ba",
+    "zh_CN": "\u5343\u91cc\u4e4b\u76ee"
+  },
+  "description_blz": {
+    "en_US": "Trueshot now increases your critical strike chance by an additional 10% and increases your critical strike damage by an additional 20%.\r\n\r\nAdditionally, Calling the Shots reduces Trueshot's cooldown by an additional 1.0 sec.",
+    "es_MX": "Disparo certero ahora aumenta tu probabilidad de golpe cr\u00edtico un 10% m\u00e1s y aumenta tu da\u00f1o de golpe cr\u00edtico un 20% m\u00e1s.\r\n\r\nAdem\u00e1s, Caza intr\u00e9pida reduce 1.0 s m\u00e1s el tiempo de reutilizaci\u00f3n de Disparo certero.",
+    "pt_BR": "Tiro Certeiro agora aumenta em mais 10% sua chance de acerto cr\u00edtico e em mais 20% seu dano de acerto cr\u00edtico.\r\n\r\nAl\u00e9m disso, Tiros em Sequ\u00eancia reduz a recarga de Tiro Certeiro em mais 1,0 s.",
+    "de_DE": "Euer Talent 'Volltreffer' erh\u00f6ht Eure kritische Trefferchance um zus\u00e4tzliche 10% und Euren kritischen Trefferschaden um zus\u00e4tzliche 20%.\r\n\r\nZus\u00e4tzlich verringert 'Schie\u00dfbefehl' die Abklingzeit von 'Volltreffer' um weitere 1,0 Sek.",
+    "en_GB": "Trueshot now increases your critical strike chance by an additional 10% and increases your critical strike damage by an additional 20%.\r\n\r\nAdditionally, Calling the Shots reduces Trueshot's cooldown by an additional 1.0 sec.",
+    "es_ES": "Ahora, Disparo certero aumenta un 10% m\u00e1s tu probabilidad de golpe cr\u00edtico y un 20% m\u00e1s tu da\u00f1o cr\u00edtico.\r\n\r\nAdem\u00e1s, Anticipar los disparos reduce 1,0 s m\u00e1s el tiempo de reutilizaci\u00f3n de Disparo certero.",
+    "fr_FR": "Pr\u00e9cision augmente d\u00e9sormais vos chances de coup critique de 10\u00a0% suppl\u00e9mentaires et augmente vos d\u00e9g\u00e2ts critiques de 20\u00a0% suppl\u00e9mentaires.\r\n\r\nDe plus, Instinct du tireur r\u00e9duit le temps de recharge de Pr\u00e9cision de 1,0\u00a0s suppl\u00e9mentaire.",
+    "it_IT": "Precisione aumenta la probabilit\u00e0 di critico del 10% aggiuntivo e i danni critici inflitti del 20% aggiuntivo.\r\n\r\nInoltre, Prendere la Mira riduce il tempo di recupero di Precisione di 1,0 s aggiuntivi.",
+    "ru_RU": "\"\u041c\u0435\u0442\u043a\u0438\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u0435\u0449\u0435 \u043d\u0430 10% \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u0435\u0449\u0435 \u043d\u0430 20%.\r\n\r\n\u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \"\u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u043a \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\u043c\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041c\u0435\u0442\u043a\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0435\u0449\u0435 \u043d\u0430 1,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\uc870\uc900\uc774 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uc728\uc744 \ucd94\uac00\ub85c 10%\ub9cc\ud07c, \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud53c\ud574\ub97c 20%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ucd94\uac00\ub85c \uc0ac\uaca9 \uc9c0\ud718\uac00 \uc815\uc870\uc900\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 \ucd94\uac00\ub85c 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5f37\u64ca\u73fe\u5728\u6703\u4f7f\u4f60\u7684\u81f4\u547d\u4e00\u64ca\u6a5f\u7387\u984d\u5916\u63d0\u9ad810%\uff0c\u81f4\u547d\u4e00\u64ca\u50b7\u5bb3\u984d\u5916\u63d0\u9ad820%\u3002\r\n\r\n\u6b64\u5916\uff0c\u5f37\u529b\u638c\u63a7\u6703\u4f7f\u5f37\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002",
+    "zh_CN": "\u767e\u53d1\u767e\u4e2d\u73b0\u5728\u4f1a\u4f7f\u4f60\u7684\u7206\u51fb\u51e0\u7387\u989d\u5916\u63d0\u9ad810%\uff0c\u5e76\u4f7f\u4f60\u7684\u7206\u51fb\u4f24\u5bb3\u989d\u5916\u63d0\u9ad820%\u3002\r\n\r\n\u53e6\u5916\uff0c\u7bad\u5728\u5f26\u4e0a\u4f1a\u4f7f\u767e\u53d1\u767e\u4e2d\u7684\u51b7\u5374\u65f6\u95f4\u989d\u5916\u7f29\u77ed1.0\u79d2\u3002"
+  }
 }

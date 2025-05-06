@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215241"
+  "SpellID": "1215241",
+  "name_blz": {
+    "en_US": "Divinity",
+    "es_MX": "Divinidad",
+    "pt_BR": "Divindade",
+    "de_DE": "G\u00f6ttlichkeit",
+    "en_GB": "Divinity",
+    "es_ES": "Divinidad",
+    "fr_FR": "Divinit\u00e9",
+    "it_IT": "Divinit\u00e0",
+    "ru_RU": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc2e0\uc559",
+    "zh_TW": "\u8056\u6f54",
+    "zh_CN": "\u5723\u6d01"
+  },
+  "description_blz": {
+    "en_US": "Your healing is increased by 10% while Apotheosis is active.\r\n\r\nCasting Apotheosis causes your next 3 Heal or Prayer of Healing casts to be instant and heal for 25% more.",
+    "es_MX": "Tu sanaci\u00f3n aumenta un 10% mientras Apoteosis est\u00e1 activa.\r\n\r\nLanzar Apoteosis hace que tus siguientes 3 lanzamientos de Sanar o Rezo de sanaci\u00f3n sean instant\u00e1neos y sanen un 25% m\u00e1s.",
+    "pt_BR": "Sua cura aumenta em 10% enquanto a Apoteose estiver ativa.\r\n\r\nLan\u00e7ar Apoteose torna instant\u00e2neos 3 feiti\u00e7os Cura ou Prece de Cura, curando 25% a mais.",
+    "de_DE": "W\u00e4hrend 'Apotheose' aktiv ist, wird Eure Heilung um 10% erh\u00f6ht.\r\n\r\nBeim Einsatz von 'Apotheose' werden Eure n\u00e4chsten 3 Eins\u00e4tze von 'Heilung' oder 'Gebet der Heilung' zu Spontanzaubern und heilen um 25% mehr Gesundheit.",
+    "en_GB": "Your healing is increased by 10% while Apotheosis is active.\r\n\r\nCasting Apotheosis causes your next 3 Heal or Prayer of Healing casts to be instant and heal for 25% more.",
+    "es_ES": "Tu sanaci\u00f3n aumenta un 10% mientras Apoteosis est\u00e1 activa.\r\n\r\nAl lanzar Apoteosis, tus 3 pr\u00f3ximos lanzamientos de Sanar o Rezo de sanaci\u00f3n son instant\u00e1neos y sanan un 25% m\u00e1s.",
+    "fr_FR": "Tant que votre technique Apoth\u00e9ose est active, les soins que vous prodiguez augmentent de 10\u00a0%.\r\n\r\nLorsque vous lancez Apoth\u00e9ose, vos 3\u00a0prochaines utilisations de Soins ou Pri\u00e8re de soins sont instantan\u00e9es et rendent 25\u00a0% de points de vie suppl\u00e9mentaires.",
+    "it_IT": "Quando Apoteosi \u00e8 attiva, le cure fornite aumentano del 10%.\r\n\r\nLanciare Apoteosi fa s\u00ec che i successivi 3 lanci di Cura o Preghiera di Cura siano istantanei e forniscano il 25% di cure aggiuntive.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u041f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u0438\u0435\", \u0441\u0438\u043b\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%.\r\n\r\n\u041f\u0440\u0438\u043c\u0435\u043d\u0438\u0432 \"\u041f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u0438\u0435\", \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 3 \u0440\u0430\u0437\u0430 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \"\u0418\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u0438\u043b\u0438 \"\u041c\u043e\u043b\u0438\u0442\u0432\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u0441 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u043d\u0430 25% \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e.",
+    "ko_KR": "\uc808\uc815\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uce58\uc720\ub7c9\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc808\uc815 \uc2dc\uc804 \uc2dc \ub2e4\uc74c 3\ud68c\uc758 \uce58\uc720 \ub610\ub294 \uce58\uc720\uc758 \uae30\uc6d0\uc774 \uc989\uc2dc \uc2dc\uc804\ub418\uace0 \uce58\uc720\ub7c9\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u795e\u5316\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad810%\u3002\r\n\r\n\u65bd\u653e\u795e\u5316\u5f8c\uff0c\u4f60\u63a5\u4e0b\u4f86\u65bd\u653e3\u500b\u6cbb\u7642\u8853\u6216\u6cbb\u7642\u79b1\u8a00\u6210\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u4e14\u6cbb\u7642\u6548\u679c\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u795e\u5723\u5316\u8eab\u671f\u95f4\uff0c\u4f60\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad810%\u3002\r\n\r\n\u65bd\u653e\u795e\u5723\u5316\u8eab\u4f1a\u4f7f\u4f60\u63a5\u4e0b\u67653\u6b21\u6cbb\u7597\u672f\u6216\u6cbb\u7597\u7977\u8a00\u6ca1\u6709\u65bd\u6cd5\u65f6\u95f4\uff0c\u5e76\u4f7f\u6cbb\u7597\u6548\u679c\u63d0\u9ad825%\u3002"
+  }
 }

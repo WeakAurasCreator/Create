@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "469895"
+  "SpellID": "469895",
+  "name_blz": {
+    "en_US": "Spellbreaker",
+    "es_MX": "Rompedor de hechizos",
+    "pt_BR": "Quebra-feiti\u00e7o",
+    "de_DE": "Zauberbrecher",
+    "en_GB": "Spellbreaker",
+    "es_ES": "Rompedor de hechizos",
+    "fr_FR": "Brise-sort",
+    "it_IT": "Spezzamagie",
+    "ru_RU": "\u0420\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c \u0447\u0430\u0440",
+    "ko_KR": "\uc8fc\ubb38\ud30c\uad34\uc790",
+    "zh_TW": "\u7834\u6cd5\u8005",
+    "zh_CN": "\u7834\u6cd5\u8005"
+  },
+  "description_blz": {
+    "en_US": "Eye for an Eye can now also trigger at 100% effectiveness from direct Magic damage.",
+    "es_MX": "Ojo por ojo ahora tambi\u00e9n se puede activar por da\u00f1o m\u00e1gico directo con un 100% de efectividad.",
+    "pt_BR": "Olho por Olho agora tamb\u00e9m pode ser ativado com 100% de efic\u00e1cia a partir de dano M\u00e1gico direto.",
+    "de_DE": "Der Zauber 'Auge um Auge' kann jetzt auch durch direkten Magieschaden mit 100% Effektivit\u00e4t ausgel\u00f6st werden.",
+    "en_GB": "Eye for an Eye can now also trigger at 100% effectiveness from direct Magic damage.",
+    "es_ES": "Ahora, Ojo por ojo puede activarse con un 100% de efectividad a partir del da\u00f1o m\u00e1gico directo.",
+    "fr_FR": "\u0152il pour \u0153il peut d\u00e9sormais se d\u00e9clencher \u00e0 100\u00a0% d\u2019efficacit\u00e9 \u00e0 partir des d\u00e9g\u00e2ts magiques directs.",
+    "it_IT": "Occhio per Occhio ora si attiva anche al 100% dell'efficacia con i danni magici diretti.",
+    "ru_RU": "\"\u041e\u043a\u043e \u0437\u0430 \u043e\u043a\u043e\" \u0442\u0435\u043f\u0435\u0440\u044c \u043c\u043e\u0436\u0435\u0442 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u043e\u0442 \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 100%.",
+    "ko_KR": "\ub208\uc5d0\ub294 \ub208\uc740 \uc774\uc81c \uc9c1\uc811 \ub9c8\ubc95 \ud53c\ud574\ub97c \ubc1b\uc544\ub3c4 100%\uc758 \ud6a8\uc728\ub85c \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u773c\u9084\u773c\u73fe\u5728\u4e5f\u80fd\u7d93\u7531\u76f4\u63a5\u9b54\u6cd5\u50b7\u5bb3\u89f8\u767c\uff0c\u4f46\u6548\u679c\u5f37\u5ea6\u8b8a\u70ba100%\u3002",
+    "zh_CN": "\u4ee5\u773c\u8fd8\u773c\u8fd8\u4f1a\u5bf9\u76f4\u63a5\u9b54\u6cd5\u4f24\u5bb3\u89e6\u53d1\uff0c\u4ea7\u751f100%\u7684\u6548\u679c\u3002"
+  }
 }

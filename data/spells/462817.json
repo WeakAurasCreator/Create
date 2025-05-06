@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462817"
+  "SpellID": "462817",
+  "name_blz": {
+    "en_US": "Jet Stream",
+    "es_MX": "Corriente propulsora",
+    "pt_BR": "Torrente a Jato",
+    "de_DE": "Strahlstrom",
+    "en_GB": "Jet Stream",
+    "es_ES": "Corriente propulsora",
+    "fr_FR": "Courant-jet",
+    "it_IT": "Corrente a Getto",
+    "ru_RU": "\u0420\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0443\u044f",
+    "ko_KR": "\uc81c\ud2b8 \uae30\ub958",
+    "zh_TW": "\u5674\u5c04\u6c23\u6d41",
+    "zh_CN": "\u55b7\u6d41"
+  },
+  "description_blz": {
+    "en_US": "Wind Rush Totem's movement speed bonus is increased by 10% and now removes snares.",
+    "es_MX": "La bonificaci\u00f3n de velocidad de movimiento del T\u00f3tem de R\u00e1faga de viento aumenta un 10%, y ahora elimina los efectos de frenado.",
+    "pt_BR": "B\u00f4nus de velocidade de movimento do Totem de Vento S\u00fabito aumentado em 10%, e agora remove lerdeza.",
+    "de_DE": "Der Bewegungsgeschwindigkeitsbonus des Totems des Windsturms wird um 10% erh\u00f6ht und entfernt jetzt Verlangsamungseffekte.",
+    "en_GB": "Wind Rush Totem's movement speed bonus is increased by 10% and now removes snares.",
+    "es_ES": "El bonus de velocidad de movimiento de T\u00f3tem de Carga de viento aumenta un 10% y ahora elimina los efectos de frenado.",
+    "fr_FR": "Le bonus de vitesse de d\u00e9placement de Totem de bouff\u00e9e de vent est augment\u00e9 de 10\u00a0% et supprime d\u00e9sormais les effets de ralentissements.",
+    "it_IT": "Aumenta il bonus alla velocit\u00e0 di movimento del Totem del Soffio di Vento del 10%. Inoltre, il Totem del Soffio di Vento dissolve gli effetti di intrappolamento.",
+    "ru_RU": "\u0422\u043e\u0442\u0435\u043c \u0432\u0435\u0442\u0440\u044f\u043d\u043e\u0433\u043e \u043f\u043e\u0440\u044b\u0432\u0430 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0435\u0449\u0435 \u043d\u0430 10% \u0438 \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0437\u0430\u043c\u0435\u0434\u043b\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\ubc14\ub78c \uc9c8\uc8fc \ud1a0\ud15c\uc758 \uc774\ub3d9 \uc18d\ub3c4 \uc99d\uac00\ub7c9\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud558\uba70 \uc774\ub3d9 \uc18d\ub3c4 \uac10\uc18c \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u98a8\u9a5f\u5716\u9a30\u7684\u79fb\u52d5\u901f\u5ea6\u52a0\u6210\u63d0\u9ad810%\uff0c\u4e14\u73fe\u5728\u53ef\u79fb\u9664\u7de9\u901f\u6548\u679c\u3002",
+    "zh_CN": "\u72c2\u98ce\u56fe\u817e\u7684\u79fb\u52a8\u901f\u5ea6\u52a0\u6210\u63d0\u9ad810%\uff0c\u73b0\u5728\u4f1a\u79fb\u9664\u8bf1\u6355\u6548\u679c\u3002"
+  }
 }

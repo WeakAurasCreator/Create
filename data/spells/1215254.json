@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215254"
+  "SpellID": "1215254",
+  "name_blz": {
+    "en_US": "Three Dimensional Bioprinter",
+    "es_MX": "Bioimpresora tridimensional",
+    "pt_BR": "Bioimpressora Tridimensional",
+    "de_DE": "3D-Biodrucker",
+    "en_GB": "Three Dimensional Bioprinter",
+    "es_ES": "Bioimpresora tridimensional",
+    "fr_FR": "Bioimprimante tridimensionnelle",
+    "it_IT": "Biostampante Tridimensionale",
+    "ru_RU": "\u0422\u0440\u0435\u0445\u043c\u0435\u0440\u043d\u044b\u0439 \u0431\u0438\u043e\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440",
+    "ko_KR": "3\ucc28\uc6d0 \uc0dd\uccb4\uc778\uc1c4\uae30",
+    "zh_TW": "\u4e09\u5ea6\u751f\u7269\u5217\u5370\u6a5f",
+    "zh_CN": "\u4e09\u7ef4\u751f\u7269\u6253\u5370\u673a"
+  },
+  "description_blz": {
+    "en_US": "Damaging an Elite creature below 40% health creates an imperfect copy of it at 75% power to fight by your side. Only 1 copy can exist at the same time.\r\n\r\nThe device may malfunction creating imperfect copies of your companion.",
+    "es_MX": "Da\u00f1ar a una criatura de \u00e9lite que tiene menos del 40% de salud crea una copia imperfecta con un 75% de su poder para que pelee a tu lado. Solo puede haber 1 copia a la vez.\r\n\r\nEl dispositivo puede tener un desperfecto y crear copias imperfectas de tu compa\u00f1ero.",
+    "pt_BR": "Causar dano a uma criatura de Elite com menos de 40% dos pontos de vida cria uma c\u00f3pia imperfeita dela com 75% do poder para lutar ao seu lado. Apenas 1 c\u00f3pia podem existir ao mesmo tempo.\r\n\r\nO dispositivo pode apresentar defeito, criando c\u00f3pias imperfeitas do seu companheiro.",
+    "de_DE": "Wenn Ihr einer Elitekreatur mit weniger als 40% Gesundheit Schaden zuf\u00fcgt, wird eine unvollkommene Kopie dieser Kreatur mit 75% Energie erschaffen, die an Eurer Seite k\u00e4mpft. Nur 1 Kopie kann gleichzeitig existieren.\r\n\r\nDas Ger\u00e4t k\u00f6nnte eine Fehlfunktion haben und unvollkommene Kopien Eures Begleiters erzeugen.",
+    "en_GB": "Damaging an Elite creature below 40% health creates an imperfect copy of it at 75% power to fight by your side. Only 1 copy can exist at the same time.\r\n\r\nThe device may malfunction creating imperfect copies of your companion.",
+    "es_ES": "Al da\u00f1ar a una criatura de \u00e9lite por debajo del 40% de salud, se crea una copia imperfecta de esta con un 75% de poder para que luche a tu lado. Solo puede haber 1 copia a la vez.\r\n\r\nEl dispositivo puede fallar y crear copias imperfectas de tu compa\u00f1ero.",
+    "fr_FR": "Lorsque vous infligez des d\u00e9g\u00e2ts \u00e0 une cr\u00e9ature \u00e9lite disposant de moins de 40\u00a0% de ses points de vie, vous cr\u00e9ez une copie imparfaite d\u2019elle, dot\u00e9e de 75\u00a0% de sa puissance, qui combat \u00e0 vos c\u00f4t\u00e9s. Vous ne pouvez poss\u00e9der que 1\u00a0copie simultan\u00e9ment.\r\n\r\nIl est possible que l\u2019appareil pr\u00e9sente des dysfonctionnements et cr\u00e9e des copies imparfaites de votre compagnon.",
+    "it_IT": "Infliggere danni a una creatura d'\u00e9lite con meno del 40% della salute massima ne crea una copia imperfetta con il 75% della potenza che combatte al tuo fianco. 1 sola copia pu\u00f2 esistere alla volta.\r\n\r\nUn malfunzionamento nel dispositivo potrebbe creare delle copie imperfette del tuo compagno.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u044d\u043b\u0438\u0442\u043d\u043e\u043c\u0443 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443 \u0441 \u0437\u0430\u043f\u0430\u0441\u043e\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043c\u0435\u043d\u0435\u0435 40%, \u0432\u044b \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u0435\u0433\u043e \u043d\u0435\u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u0443\u044e \u043a\u043e\u043f\u0438\u044e, \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0449\u0443\u044e \u0432\u0430\u043c \u0432 \u0431\u043e\u044e. \u0421\u0438\u043b\u0430 \u043a\u043e\u043f\u0438\u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 75% \u0441\u0438\u043b\u044b \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u0430. \u041e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043c\u043e\u0436\u0435\u0442 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043d\u0435 \u0431\u043e\u043b\u0435\u0435 1 \u043a\u043e\u043f\u0438\u0438.\r\n\r\n\u0421 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e \u0432 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0441\u0431\u043e\u0439, \u0438 \u043e\u043d\u043e \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043d\u0435\u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u043f\u0438\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u0430.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 40% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c4 \uc815\uc608 \ubaac\uc2a4\ud130\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 75%\uc758 \uc804\ud22c\ub825\uc744 \uc9c0\ub2cc \ubd88\uc644\uc804\ud55c \ubcf5\uc81c\uccb4\ub97c \uc0dd\uc131\ud558\uc5ec \uc804\ud22c\ub97c \ub3d5\uac8c \ud569\ub2c8\ub2e4. \ub3d9\uc2dc\uc5d0 1\uac1c\uc758 \ubcf5\uc81c\uccb4\ub9cc \uc874\uc7ac\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\uae30\uae30\uac00 \uc77c\uc815 \ud655\ub960\ub85c \uc624\uc791\ub3d9\ud558\uc5ec \ubd88\uc644\uc804\ud55c \ub3d9\ub8cc\uc758 \ubcf5\uc81c\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u751f\u547d\u529b\u4f4e\u65bc40%\u7684\u7cbe\u82f1\u751f\u7269\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u53ef\u88fd\u9020\u8a72\u751f\u7269\u7684\u4e0d\u5b8c\u7f8e\u8907\u88fd\u9ad4\uff0c\u4ee575%\u5f37\u5ea6\u70ba\u4f60\u4f5c\u6230\u3002\u540c\u4e00\u6642\u9593\u53ea\u80fd\u5b58\u57281\u500b\u8907\u88fd\u9ad4\u3002\r\n\r\n\u8a72\u88dd\u7f6e\u6709\u53ef\u80fd\u6703\u56e0\u70ba\u6545\u969c\u800c\u751f\u6210\u4f60\u5925\u4f34\u7684\u4e0d\u5b8c\u7f8e\u8907\u88fd\u9ad4\u3002",
+    "zh_CN": "\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e40%\u7684\u7cbe\u82f1\u751f\u7269\u9020\u6210\u4f24\u5bb3\u4f1a\u4ea7\u751f\u4e00\u4e2a\u4e0d\u5b8c\u7f8e\u7684\u590d\u5236\u4f53\u4e3a\u4f60\u4f5c\u6218\uff0c\u4f46\u5f3a\u5ea6\u4e3a75%\u3002\u540c\u4e00\u65f6\u95f4\u53ea\u80fd\u5b58\u57281\u4e2a\u590d\u5236\u4f53\u3002\r\n\r\n\u8be5\u88c5\u7f6e\u53ef\u80fd\u53d1\u751f\u6545\u969c\uff0c\u4ea7\u751f\u4f19\u4f34\u7684\u4e0d\u5b8c\u7f8e\u7684\u590d\u5236\u4f53\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1214860"
+  "SpellID": "1214860",
+  "name_blz": {
+    "en_US": "Paint: Neutral",
+    "es_MX": "Pintura: Neutro",
+    "pt_BR": "Pintura: Neutra",
+    "de_DE": "Farbe: Neutral",
+    "en_GB": "Paint: Neutral",
+    "es_ES": "Pintura: neutra",
+    "fr_FR": "Peinture\u00a0: neutre",
+    "it_IT": "Vernice: Neutrale",
+    "ru_RU": "\u0426\u0432\u0435\u0442: \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439",
+    "ko_KR": "\ub3c4\uc0c9: \uc911\ub9bd",
+    "zh_TW": "\u5857\u88dd\uff1a\u4e2d\u6027\u8272",
+    "zh_CN": "\u6f06\u6599\uff1a\u4e2d\u548c\u8272\u8c03"
+  },
+  "description_blz": {
+    "en_US": "For folks that like to go with the flow. Put it in neutral.",
+    "es_MX": "Para todos los que disfrutan de seguir la corriente. Ponlo en neutro.",
+    "pt_BR": "Para quem curte s\u00f3 seguir o fluxo. Uma aposta na neutralidade.",
+    "de_DE": "F\u00fcr Leute, die gerne mit dem Strom schwimmen. Macht es neutral.",
+    "en_GB": "For folks that like to go with the flow. Put it in neutral.",
+    "es_ES": "Para la gente a la que le gusta seguir la corriente. El punto muerto de las pinturas.",
+    "fr_FR": "Pour les gens qui aiment se laisser entra\u00eener par le mouvement. La neutralit\u00e9.",
+    "it_IT": "Per quelli cui piace seguire il flusso. E mettere in folle.",
+    "ru_RU": "\u0414\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u043f\u043b\u044b\u0432\u0435\u0442 \u043f\u043e \u0442\u0435\u0447\u0435\u043d\u0438\u044e. \u041e\u043a\u0440\u0430\u0441\u0438\u0442\u044c \u0432 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0446\u0432\u0435\u0442.",
+    "ko_KR": "\ud750\ub984\uc5d0 \ubab8\uc744 \ub9e1\uae30\ub294 \uc774\ub4e4\uc744 \uc704\ud55c \ubd80\ud488\uc785\ub2c8\ub2e4. \uc911\ub9bd\uc73c\ub85c \ub461\ub2c8\ub2e4.",
+    "zh_TW": "\u9069\u5408\u559c\u6b61\u96a8\u6ce2\u9010\u6d41\u7684\u4eba\u3002\u4f7f\u7528\u4e2d\u6027\u8272\u3002",
+    "zh_CN": "\u9762\u5411\u559c\u6b22\u968f\u5927\u6d41\u7684\u4eba\uff0c\u4f7f\u7528\u4e2d\u548c\u8272\u8c03\u5427\u3002"
+  }
 }

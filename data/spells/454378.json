@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "454378"
+  "SpellID": "454378",
+  "name_blz": {
+    "en_US": "Improved Malefic Rapture",
+    "es_MX": "Rapto mal\u00e9fico mejorado",
+    "pt_BR": "Arrebatamento Mal\u00e9fico Aprimorado",
+    "de_DE": "Verbesserte unheilvolle Euphorie",
+    "en_GB": "Improved Malefic Rapture",
+    "es_ES": "\u00c9xtasis mal\u00e9fico mejorado",
+    "fr_FR": "Extase mal\u00e9fique am\u00e9lior\u00e9e",
+    "it_IT": "Estasi Malefica Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u043f\u0430\u0433\u0443\u0431\u043d\u044b\u0439 \u0432\u043e\u0441\u0442\u043e\u0440\u0433",
+    "ko_KR": "\uc0ac\uc545\ud55c \ud658\ud76c \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u90aa\u60e1\u72c2\u559c",
+    "zh_CN": "\u5f3a\u5316\u707e\u96be\u72c2\u6b22"
+  },
+  "description_blz": {
+    "en_US": "Increases Malefic Rapture damage by 5% and reduces its cast time by 10%.",
+    "es_MX": "Aumenta el da\u00f1o de Rapto mal\u00e9fico un 5% y reduce su tiempo de lanzamiento un 10%.",
+    "pt_BR": "Aumenta o dano de Arrebatamento Mal\u00e9fico em 5% e reduz o tempo de lan\u00e7amento em 10%.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Unheilvolle Euphorie' um 5% und verringert die Zauberzeit um 10%.",
+    "en_GB": "Increases Malefic Rapture damage by 5% and reduces its cast time by 10%.",
+    "es_ES": "Aumenta un 5% el da\u00f1o de \u00c9xtasis mal\u00e9fico y reduce un 10% su tiempo de lanzamiento.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts d\u2019Extase mal\u00e9fique de 5\u00a0% et r\u00e9duit son temps d\u2019incantation de 10\u00a0%.",
+    "it_IT": "Aumenta i danni inflitti da Estasi Malefica del 5% e ne riduce il tempo di lancio del 10%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u041f\u0430\u0433\u0443\u0431\u043d\u043e\u0433\u043e \u0432\u043e\u0441\u0442\u043e\u0440\u0433\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5%, \u0430 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%.",
+    "ko_KR": "\uc0ac\uc545\ud55c \ud658\ud76c\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \uc2dc\uc804 \uc2dc\uac04\uc740 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u90aa\u60e1\u72c2\u559c\u7684\u50b7\u5bb3\u63d0\u9ad85%\uff0c\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed10%\u3002",
+    "zh_CN": "\u4f7f\u707e\u96be\u72c2\u6b22\u7684\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u5e76\u4e14\u4f7f\u5176\u65bd\u6cd5\u65f6\u95f4\u964d\u4f4e10%\u3002"
+  }
 }

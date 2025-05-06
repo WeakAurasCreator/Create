@@ -34,5 +34,17 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "5301"
+  "SpellID": "5301",
+  "name_blz": {
+    "en_US": "Revenge Trigger",
+    "es_MX": "Revenge Trigger",
+    "pt_BR": "Gatilho da Revanche",
+    "en_GB": "Revenge Trigger",
+    "es_ES": "Revenge Trigger",
+    "it_IT": "Attivatore Rivincita",
+    "ko_KR": "\ubcf5\uc218 \ud2b8\ub9ac\uac70",
+    "zh_TW": "Revenge Trigger",
+    "zh_CN": "Revenge Trigger"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "467270"
+  "SpellID": "467270",
+  "name_blz": {
+    "en_US": "Refreshment",
+    "es_MX": "Refrigerio",
+    "pt_BR": "Refei\u00e7\u00e3o",
+    "de_DE": "Erfrischung",
+    "en_GB": "Refreshment",
+    "es_ES": "Refrigerio",
+    "fr_FR": "Rafra\u00eechissement",
+    "it_IT": "Rinfresco",
+    "ru_RU": "\u042f\u0441\u0442\u0432\u0430",
+    "ko_KR": "\uc6d0\uae30 \ud68c\ubcf5",
+    "zh_TW": "\u63d0\u795e\u8336\u9ede",
+    "zh_CN": "\u8fdb\u98df\u996e\u6c34"
+  },
+  "description_blz": {
+    "en_US": "Life Cocoon grants up to 5 stacks of Mana Tea and applies 2 stacks of Healing Elixir to its target.",
+    "es_MX": "Cris\u00e1lida vital otorga hasta 5 acumulaciones de T\u00e9 de man\u00e1 y aplica 2 acumulaciones de Elixir de sanaci\u00f3n en su objetivo.",
+    "pt_BR": "Casulo de Vida concede at\u00e9 5 aplica\u00e7\u00f5es de Ch\u00e1 de Mana e aplica 2 cargas de Elixir Curativo ao alvo.",
+    "de_DE": "'Lebenskokon' gew\u00e4hrt bis zu 5 Stapel 'Manatee' und belegt sein Ziel mit 2 Stapeln 'Heilelixier'.",
+    "en_GB": "Life Cocoon grants up to 5 stacks of Mana Tea and applies 2 stacks of Healing Elixir to its target.",
+    "es_ES": "Cris\u00e1lida vital otorga hasta 5 acumulaciones de T\u00e9 de man\u00e1 y aplica 2 acumulaciones de Elixir de sanaci\u00f3n a su objetivo.",
+    "fr_FR": "Cocon de vie conf\u00e8re jusqu\u2019\u00e0 5\u00a0cumuls de Th\u00e9 de mana et applique 2\u00a0cumuls d\u2019\u00c9lixir de soins \u00e0 sa cible.",
+    "it_IT": "Bozzolo di Vita fornisce fino a 5 accumuli di T\u00e8 al Mana e applica 2 accumuli di Elisir Curativo al bersaglio.",
+    "ru_RU": "\"\u0418\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0439 \u043a\u043e\u043a\u043e\u043d\" \u0434\u0430\u0435\u0442 \u0434\u043e 5 \u0437\u0430\u0440\u044f\u0434\u043e\u0432 \"\u041c\u0430\u043d\u0430\u0447\u0430\u044f\" \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u0446\u0435\u043b\u0438 2 \u0437\u0430\u0440\u044f\u0434\u0430 \"\u0426\u0435\u043b\u0435\u0431\u043d\u043e\u0433\u043e \u044d\u043b\u0438\u043a\u0441\u0438\u0440\u0430\".",
+    "ko_KR": "\uae30\uc758 \uace0\uce58\uac00 \ub9c8\ub098 \ucc28 \ucd5c\ub300 5\uc911\ucca9\uc744 \ubd80\uc5ec\ud558\uace0 \ub300\uc0c1\uc5d0\uac8c\ub294 \uce58\uc720\uc758 \ube44\uc57d 2\uc911\ucca9\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6c23\u7e6d\u8b77\u9ad4\u6703\u8ce6\u4e88\u76ee\u6a19\u6700\u591a5\u5c64\u6cd5\u529b\u8336\uff0c\u4e26\u65bd\u52a02\u5c64\u98f2\u4e2d\u4f5c\u6a02\u3002",
+    "zh_CN": "\u4f5c\u8327\u7f1a\u547d\u4f1a\u4ea7\u751f5\u5c42\u6cd5\u529b\u8336\uff0c\u5e76\u4e3a\u76ee\u6807\u65bd\u52a02\u5c42\u91d1\u521b\u836f\u3002"
+  }
 }

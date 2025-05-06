@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455461"
+  "SpellID": "455461",
+  "name_blz": {
+    "en_US": "Lethal Preservation",
+    "es_MX": "Preservaci\u00f3n letal",
+    "pt_BR": "Preserva\u00e7\u00e3o Letal",
+    "de_DE": "T\u00f6dliche Bewahrung",
+    "en_GB": "Lethal Preservation",
+    "es_ES": "Preservaci\u00f3n letal",
+    "fr_FR": "Pr\u00e9servation mortelle",
+    "it_IT": "Preservazione Letale",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u043e\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uce58\uba85\uc801\uc778 \ubcf4\uc874",
+    "zh_TW": "\u81f4\u547d\u5b88\u8b77",
+    "zh_CN": "\u6781\u6548\u9632\u62a4"
+  },
+  "description_blz": {
+    "en_US": "When you remove an effect with Soothe or Remove Corruption, gain a combo point and heal for 4% of your maximum health. If you are at full health an injured party or raid member will be healed instead.",
+    "es_MX": "Cuando eliminas un efecto con Calmar o Eliminar corrupci\u00f3n, ganas un punto de combo y sanas un 4% de tu salud m\u00e1xima. Si tienes la salud al m\u00e1ximo, se sanar\u00e1 a un miembro herido del grupo o de la banda.",
+    "pt_BR": "Ao remover um efeito com Confortar ou Remover Corrup\u00e7\u00e3o, voc\u00ea ganha um ponto de combo e cura 4% do seu m\u00e1ximo de pontos de vida. Se voc\u00ea estiver com a vida cheia, em vez disso, um integrante ferido do grupo ou raide \u00e9 curado.",
+    "de_DE": "Wenn Ihr einen Effekt mit 'Bes\u00e4nftigen' oder 'Verderbnis entfernen' aufhebt, erhaltet Ihr einen Combopunkt und werdet um 4% Eurer maximalen Gesundheit geheilt. Wenn Ihr bei voller Gesundheit seid, wird stattdessen ein verletztes Mitglied Eurer Gruppe oder Eures Schlachtzugs geheilt.",
+    "en_GB": "When you remove an effect with Soothe or Remove Corruption, gain a combo point and heal for 4% of your maximum health. If you are at full health an injured party or raid member will be healed instead.",
+    "es_ES": "Cuando eliminas un efecto con Calmar o Eliminar corrupci\u00f3n, obtienes un punto de combo y te sanas un 4% de tu salud m\u00e1xima. Si tienes el m\u00e1ximo de salud, sanar\u00e1s a un miembro herido de tu grupo o banda.",
+    "fr_FR": "Lorsque vous supprimez un effet avec Apaiser ou D\u00e9livrance de la corruption, vous obtenez un point de combo et vous soignez pour 4\u00a0% de votre maximum de points de vie. Si vous \u00eates au maximum de points de vie, un membre bless\u00e9 du groupe ou du raid sera soign\u00e9 \u00e0 la place.",
+    "it_IT": "Quando si dissolve un effetto con Pacificazione o Rimozione Corruzione, si ottiene 1 punto combo e si rigenera il 4% della salute massima. Se si ha il massimo della salute, allora viene curato un membro del gruppo o dell'incursione.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0441\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \"\u0423\u043c\u0438\u0440\u043e\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u0435\" \u0438\u043b\u0438 \"\u0421\u043d\u044f\u0442\u0438\u0435 \u043f\u043e\u0440\u0447\u0438\", \u0432\u0430\u0448\u0430 \u0441\u0435\u0440\u0438\u044f \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1, \u0438 \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 4% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0415\u0441\u043b\u0438 \u0443 \u0432\u0430\u0441 \u043f\u043e\u043b\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0432\u044b \u0432\u043c\u0435\u0441\u0442\u043e \u044d\u0442\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442\u0435 \u0440\u0430\u043d\u0435\u043d\u043e\u0433\u043e \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430.",
+    "ko_KR": "\ub2ec\ub798\uae30 \ub610\ub294 \ud574\uc81c\ub85c \ud6a8\uacfc\ub97c \uc81c\uac70\ud558\uba74 \uc5f0\uacc4 \uc810\uc218 1\uc810\uc744 \uc0dd\uc131\ud558\uace0 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 4%\ub97c \ud68c\ubcf5\ud569\ub2c8\ub2e4. \uc0dd\uba85\ub825\uc774 \ucd5c\ub300\uc77c \uacbd\uc6b0 \ubd80\uc0c1\ub2f9\ud55c \ud30c\ud2f0\uc6d0 \ub610\ub294 \uacf5\uaca9\ub300\uc6d0\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u4ee5\u5b89\u64ab\u6216\u89e3\u9664\u8150\u5316\u79fb\u9664\u6548\u679c\u6642\uff0c\u7372\u5f97\u4e00\u500b\u9023\u64ca\u9ede\u6578\uff0c\u4e26\u6cbb\u7642\u751f\u547d\u529b\u4e0a\u9650\u76844%\u3002\u5982\u679c\u4f60\u751f\u547d\u529b\u5168\u6eff\uff0c\u5247\u6703\u8f49\u800c\u6cbb\u7642\u53d7\u50b7\u7684\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u3002",
+    "zh_CN": "\u5f53\u4f60\u4f7f\u7528\u5b89\u629a\u6216\u6e05\u9664\u8150\u8680\u79fb\u9664\u4e00\u4e2a\u6548\u679c\u65f6\uff0c\u83b7\u5f97\u4e00\u4e2a\u8fde\u51fb\u70b9\u6570\uff0c\u5e76\u6062\u590d4%\u7684\u6700\u5927\u751f\u547d\u503c\u3002\u5982\u679c\u4f60\u751f\u547d\u503c\u5df2\u6ee1\uff0c\u5219\u4f1a\u6539\u4e3a\u6cbb\u7597\u4e00\u4e2a\u53d7\u4f24\u7684\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\u3002"
+  }
 }

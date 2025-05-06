@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "468626"
+  "SpellID": "468626",
+  "name_blz": {
+    "en_US": "Earthshatter",
+    "es_MX": "Rompeterra",
+    "pt_BR": "Quebraterra",
+    "de_DE": "Erdspaltung",
+    "en_GB": "Earthshatter",
+    "es_ES": "Rompeterra",
+    "fr_FR": "Choc sismique",
+    "it_IT": "Spaccaterra",
+    "ru_RU": "\u0417\u0435\u043c\u043b\u0435\u0442\u0440\u044f\u0441\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub300\uc9c0\ubd84\uc1c4",
+    "zh_TW": "\u788e\u5730\u8005",
+    "zh_CN": "\u88c2\u5730\u731b\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Increases Earth Shock and Earthquake damage by 8% and the stat bonuses granted by Elemental Blast by 25%.",
+    "es_MX": "Aumenta el da\u00f1o de Choque de tierra y Terremoto un 8%, y las bonificaciones de estad\u00edsticas otorgadas por Explosi\u00f3n elemental aumentan un 25%.",
+    "pt_BR": "Aumenta em 8% o dano de Choque Terreno e Terremoto, e em 25% os b\u00f4nus de atributo concedidos pelo Impacto Elemental.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Erdschock' und 'Erdbeben' um 8% und die durch 'Elementarschlag' gew\u00e4hrten Werteboni um 25%.",
+    "en_GB": "Increases Earth Shock and Earthquake damage by 8% and the stat bonuses granted by Elemental Blast by 25%.",
+    "es_ES": "Aumenta un 8% el da\u00f1o de Choque de tierra y de Terremoto y un 25% los bonus a las estad\u00edsticas que otorga Explosi\u00f3n elemental.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de Horion de terre et S\u00e9isme de 8\u00a0%, et le bonus de caract\u00e9ristique conf\u00e9r\u00e9 par Explosion \u00e9l\u00e9mentaire de 25\u00a0%.",
+    "it_IT": "Aumenta i danni di Folgore della Terra e Terremoto del 8% e i bonus alle statistiche forniti da Detonazione Elementale del 25%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u0417\u0435\u043c\u043d\u043e\u0433\u043e \u0448\u043e\u043a\u0430\" \u0438 \"\u0417\u0435\u043c\u043b\u0435\u0442\u0440\u044f\u0441\u0435\u043d\u0438\u044f\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 8%. \u041f\u0440\u0438\u0431\u0430\u0432\u043a\u0430 \u043a \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430\u043c \u043e\u0442 \"\u0423\u0434\u0430\u0440\u0430 \u0434\u0443\u0445\u043e\u0432 \u0441\u0442\u0438\u0445\u0438\u0439\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25%.",
+    "ko_KR": "\ub300\uc9c0 \ucda9\uaca9\uacfc \uc9c0\uc9c4\uc758 \uacf5\uaca9\ub825\uc774 8%\ub9cc\ud07c, \uc815\uae30 \uc791\ub82c\ub85c \uc99d\uac00\ud558\ub294 \ub2a5\ub825\uce58 \uc99d\uac00 \ud6a8\uacfc\uac00 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u5927\u5730\u9707\u64ca\u548c\u5730\u9707\u8853\u7684\u50b7\u5bb3\u63d0\u9ad88%\uff0c\u4e14\u5143\u7d20\u885d\u64ca\u8ce6\u4e88\u7684\u5c6c\u6027\u52a0\u6210\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u5927\u5730\u9707\u51fb\u548c\u5730\u9707\u672f\u7684\u4f24\u5bb3\u63d0\u9ad88%\uff0c\u5143\u7d20\u51b2\u51fb\u63d0\u4f9b\u7684\u5c5e\u6027\u52a0\u6210\u63d0\u9ad825%\u3002"
+  }
 }

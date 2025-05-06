@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "472433"
+  "SpellID": "472433",
+  "name_blz": {
+    "en_US": "Evangelism",
+    "es_MX": "Evangelizaci\u00f3n",
+    "pt_BR": "Evangelismo",
+    "de_DE": "Prediger",
+    "en_GB": "Evangelism",
+    "es_ES": "Proselitismo",
+    "fr_FR": "\u00c9vang\u00e9lisme",
+    "it_IT": "Evangelismo",
+    "ru_RU": "\u041f\u0440\u043e\u043f\u043e\u0432\u0435\u0434\u044c",
+    "ko_KR": "\uc0ac\ub3c4",
+    "zh_TW": "\u4f48\u9053",
+    "zh_CN": "\u798f\u97f3"
+  },
+  "description_blz": {
+    "en_US": "Extends Atonement on all allies by 6 sec and heals for 320,972, split evenly among them. ",
+    "es_MX": "Extiende 6 s la Contrici\u00f3n de todos los aliados y sana 320,972 p. divididos entre ellos en partes iguales. ",
+    "pt_BR": "Prolonga a Expia\u00e7\u00e3o em todos os aliados em 6 s e concede 320.972 de cura, dividida igualmente entre eles. ",
+    "de_DE": "Verl\u00e4ngert 'Abbitte' auf allen Verb\u00fcndeten um 6 Sek. und heilt 320.972 Gesundheit, die gleichm\u00e4\u00dfig unter ihnen aufgeteilt werden.",
+    "en_GB": "Extends Atonement on all allies by 6 sec and heals for 320,972, split evenly among them. ",
+    "es_ES": "Extiende Expiaci\u00f3n a todos los aliados durante 6\u00a0s y les sana 320972\u00a0p. de salud, a dividir a partes iguales. ",
+    "fr_FR": "Augmente la dur\u00e9e d\u2019Expiation sur tous les personnages alli\u00e9s de 6\u00a0s et rend 320972\u00a0points de vie, r\u00e9partis \u00e9quitablement entre toutes les cibles. ",
+    "it_IT": "Estende la durata degli effetti di Espiazione su tutti gli alleati di 6 s e fornisce 320.972 cure, suddivise equamente tra loro. ",
+    "ru_RU": "\u041f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0418\u0441\u043a\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0432\u0438\u043d\u044b\" \u043d\u0430 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u0445 \u043d\u0430 6 \u0441\u0435\u043a. \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0438\u043c 320972 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044f \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043c\u0435\u0436\u0434\u0443 \u0446\u0435\u043b\u044f\u043c\u0438. ",
+    "ko_KR": "\ubaa8\ub4e0 \uc544\uad70\uc5d0\uac8c \ubd80\uc5ec\ub41c \uc18d\uc8c4\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 6\ucd08\ub9cc\ud07c \uc5f0\uc7a5\ub418\uace0 320,972\ub9cc\ud07c \uace0\ub974\uac8c \ub098\ub204\uc5b4 \uce58\uc720\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u4f7f\u6240\u6709\u76df\u53cb\u8eab\u4e0a\u7684\u8d16\u7f6a\u5ef6\u95776\u79d2\uff0c\u4e26\u6cbb\u7642320,972\u9ede\u751f\u547d\u529b\uff0c\u7531\u90a3\u4e9b\u76df\u53cb\u5e73\u5747\u5206\u6524\u3002",
+    "zh_CN": "\u4f7f\u6240\u6709\u76df\u53cb\u7684\u6551\u8d4e\u6301\u7eed\u65f6\u95f4\u5ef6\u957f6\u79d2\uff0c\u5e76\u5e73\u5747\u5206\u914d320,972\u70b9\u6cbb\u7597\u91cf\u3002"
+  }
 }

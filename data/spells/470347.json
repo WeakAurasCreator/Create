@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "470347"
+  "SpellID": "470347",
+  "name_blz": {
+    "en_US": "Supercharger",
+    "es_MX": "Supercargador",
+    "pt_BR": "Supercarregador",
+    "de_DE": "Superlader",
+    "en_GB": "Supercharger",
+    "es_ES": "Ultracargador",
+    "fr_FR": "Surchargeur",
+    "it_IT": "Supercaricatore",
+    "ru_RU": "\u0421\u0443\u043f\u0435\u0440\u0437\u0430\u0440\u044f\u0434\u043a\u0430",
+    "ko_KR": "\ucd08\uc790\ub825 \ucda9\uc804\uae30",
+    "zh_TW": "\u8d85\u7d1a\u5145\u80fd\u5668",
+    "zh_CN": "\u8d85\u8377\u5145\u80fd"
+  },
+  "description_blz": {
+    "en_US": "Shiv supercharges 1 combo point.\r\n\r\nDamaging finishing moves consume a supercharged combo point to function as if they spent 2 additional combo points.",
+    "es_MX": "Puyazo supercarga 1 p. de combo.\r\n\r\nLos remates de da\u00f1o consumen un p. de combo supercargado para funcionar como si usaran 2 p. de combo m\u00e1s.",
+    "pt_BR": "Estocada supercarrega 1 ponto de combo.\r\n\r\nGolpes finais bem-sucedidos consomem um ponto de combo supercarregado para funcionar como se tivessem consumido 2 pontos de combo adicionais.",
+    "de_DE": "'T\u00fcckische Klinge' superl\u00e4dt 1 Combopunkt.\r\n\r\nSchaden verursachende Finishing-Moves verbrauchen einen supergeladenen Combopunkt und wirken, als h\u00e4tten sie 2 zus\u00e4tzliche Combopunkte verbraucht.",
+    "en_GB": "Shiv supercharges 1 combo point.\r\n\r\nDamaging finishing moves consume a supercharged combo point to function as if they spent 2 additional combo points.",
+    "es_ES": "Puyazo ultracarga 1 p. de combo.\r\n\r\nLos remates da\u00f1inos consumen un punto de combo ultracargado para funcionar como si hubieran gastado 2 p. de combo m\u00e1s.",
+    "fr_FR": "Kriss surcharge 1\u00a0point de combo.\r\n\r\nLes coups de gr\u00e2ce infligeant des d\u00e9g\u00e2ts consomment un point de combo surcharg\u00e9 pour se comporter comme s\u2019ils d\u00e9pensaient 2\u00a0points de combo suppl\u00e9mentaires.",
+    "it_IT": "Stilettata supercarica 1 punto combo.\r\n\r\nLe mosse risolutive che infliggono danni consumano un punto combo supercarico per funzionare come se avessero consumato 2 punti combo aggiuntivi.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041e\u0442\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0443\u043a\u043e\u043b\" \u0441\u0443\u043f\u0435\u0440\u0437\u0430\u0440\u044f\u0436\u0430\u0435\u0442 1 \u043f\u0440\u0438\u0435\u043c \u0432 \u0441\u0435\u0440\u0438\u0438.\r\n\r\n\u041d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0443\u0440\u043e\u043d \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0438\u0435 \u043f\u0440\u0438\u0435\u043c\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0442 \u043f\u0440\u0438\u0435\u043c \u0441 \u0441\u0443\u043f\u0435\u0440\u0437\u0430\u0440\u044f\u0434\u043e\u043c \u0438 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u044e\u0442 \u043a\u0430\u043a \u0435\u0441\u043b\u0438 \u0431\u044b \u0432 \u0441\u0435\u0440\u0438\u0438 \u0431\u044b\u043b\u043e \u043d\u0430 2 \u043f\u0440\u0438\u0435\u043c\u0430 \u0431\u043e\u043b\u044c\u0448\u0435.",
+    "ko_KR": "\ub3c5\uce7c \uc0ac\uc6a9 \uc2dc \uc5f0\uacc4 \uc810\uc218 1\uc810\uc774 \uacfc\ucda9\uc804\ub429\ub2c8\ub2e4.\r\n\r\n\ub9c8\ubb34\ub9ac \uc77c\uaca9\uc744 \uc0ac\uc6a9\ud558\uba74 \uacfc\ucda9\uc804\ub41c \uc5f0\uacc4 \uc810\uc218\ub97c \uc18c\ubaa8\ud558\uc5ec \uc5f0\uacc4 \uc810\uc218 2\uc810\uc744 \ucd94\uac00\ub85c \uc18c\ubaa8\ud55c \uac83\uacfc \uac19\uc740 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bd2\u8972\u6703\u4f7f1\u500b\u9023\u64ca\u9ede\u6578\u7372\u5f97\u8d85\u7d1a\u5145\u80fd\u3002\r\n\r\n\u50b7\u5bb3\u6027\u7d42\u7d50\u6280\u6703\u6d88\u8017\u4e00\u500b\u8d85\u7d1a\u5145\u80fd\u7684\u9023\u64ca\u9ede\u6578\uff0c\u4ee5\u6d88\u80172\u500b\u984d\u5916\u9023\u64ca\u9ede\u6578\u7684\u65b9\u5f0f\u767c\u63ee\u6548\u7528\u3002",
+    "zh_CN": "\u6bd2\u5203\u4f1a\u4f7f1\u4e2a\u8fde\u51fb\u70b9\u6570\u88ab\u8d85\u8377\u5145\u80fd\u3002\r\n\r\n\u5f53\u4f24\u5bb3\u6027\u7ec8\u7ed3\u6280\u6d88\u8017\u8d85\u8377\u5145\u80fd\u7684\u8fde\u51fb\u70b9\u6570\u65f6\uff0c\u4f60\u53ef\u4ee5\u9020\u6210\u76f8\u5f53\u4e8e\u989d\u5916\u6d88\u80172\u4e2a\u8fde\u51fb\u70b9\u6570\u7684\u6548\u679c\u3002"
+  }
 }

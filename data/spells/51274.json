@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "51274"
+  "SpellID": "51274",
+  "name_blz": {
+    "en_US": "Increased Agility 15",
+    "es_MX": "Agilidad aumentada 15",
+    "pt_BR": "Agilidade Aumentada 15",
+    "de_DE": "Erh\u00f6hte Beweglichkeit 15",
+    "en_GB": "Increased Agility 15",
+    "es_ES": "Agilidad aumentada 15",
+    "fr_FR": "Agilit\u00e9 augment\u00e9e de 15",
+    "it_IT": "Agilit\u00e0 Migliorata 15",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u043b\u043e\u0432\u043a\u043e\u0441\u0442\u0438 15",
+    "ko_KR": "\uc804\ud22c\ub825 \uc99d\uac00 15",
+    "zh_TW": "\u589e\u52a0\u654f\u6377 15",
+    "zh_CN": "Increased Agility 15"
+  },
+  "description_blz": {
+    "en_US": "Increases your Agility by 7.",
+    "es_MX": "Aumenta tu agilidad 7 p.",
+    "pt_BR": "Aumenta em 7 a sua Agilidade.",
+    "de_DE": "Erh\u00f6ht Eure Beweglichkeit um 7.",
+    "en_GB": "Increases your Agility by 7.",
+    "es_ES": "Aumenta tu agilidad 7 p.",
+    "fr_FR": "Augmente votre Agilit\u00e9 de 7.",
+    "it_IT": "Aumenta l'Agilit\u00e0 di 7.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043b\u043e\u0432\u043a\u043e\u0441\u0442\u044c \u043d\u0430 7.",
+    "ko_KR": "\ubbfc\ucca9\uc131\uc774 7\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u63d0\u9ad87\u9ede\u654f\u6377\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u654f\u6377\u63d0\u9ad87\u70b9\u3002"
+  }
 }

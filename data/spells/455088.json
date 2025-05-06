@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455088"
+  "SpellID": "455088",
+  "name_blz": {
+    "en_US": "Storm Swell",
+    "es_MX": "Tormenta creciente",
+    "pt_BR": "Tempestade Ampliada",
+    "de_DE": "Woge des Sturms",
+    "en_GB": "Storm Swell",
+    "es_ES": "Incremento tormentoso",
+    "fr_FR": "Afflux de temp\u00eate",
+    "it_IT": "Ondata di Tempesta",
+    "ru_RU": "\u041a\u0440\u0435\u043f\u043d\u0443\u0449\u0430\u044f \u0431\u0443\u0440\u044f",
+    "ko_KR": "\ud33d\ucc3d\ud558\ub294 \ud3ed\ud48d",
+    "zh_TW": "\u98a8\u66b4\u6e67\u52d5",
+    "zh_CN": "\u98ce\u66b4\u6d8c\u6d6a"
+  },
+  "description_blz": {
+    "en_US": "Tempest grants 6% Mastery for 6 sec.\r\n",
+    "es_MX": "Tempestad otorga un 6% de maestr\u00eda durante 6 s.\r\n",
+    "pt_BR": "Tormenta concede 6% de Maestria por 6 s.\r\n",
+    "de_DE": "Der Zauber 'Sturmgewitter' gew\u00e4hrt 6 Sek. lang 6% Meisterschaft.\r\n",
+    "en_GB": "Tempest grants 6% Mastery for 6 sec.\r\n",
+    "es_ES": "Tempestad otorga un 6% de maestr\u00eda durante 6 s.\r\n",
+    "fr_FR": "Temp\u00eate conf\u00e8re un bonus de 6\u00a0% \u00e0 la Ma\u00eetrise pendant 6 s.\r\n",
+    "it_IT": "Tempesta aumenta la maestria del 6% per 6 s.\r\n",
+    "ru_RU": "\"\u0411\u0443\u0440\u044f\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 6% \u043d\u0430 6 \u0441\u0435\u043a.\r\n",
+    "ko_KR": "\ud3ed\ud48d\uc774 6\ucd08 \ub3d9\uc548 \ud2b9\ud654\ub97c 6%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u66b4\u98a8\u96e8\u6703\u4f7f\u7cbe\u901a\u63d0\u9ad86%\uff0c\u6301\u7e8c6\u79d2\u3002\r\n",
+    "zh_CN": "\u72c2\u98ce\u6012\u53f7\u4f7f\u4f60\u83b7\u5f976%\u7684\u7cbe\u901a\uff0c\u6301\u7eed6\u79d2\u3002\r\n"
+  }
 }

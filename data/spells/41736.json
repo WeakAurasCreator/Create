@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41736"
+  "SpellID": "41736",
+  "name_blz": {
+    "en_US": "Increase Spell Dam 23 - Dreadmist",
+    "es_MX": "Aumentar da\u00f1o con hechizos 23 - Cal\u00edgine",
+    "pt_BR": "Aumentar Dano M\u00e1gico 23 \u2013 Brumedo",
+    "de_DE": "Zauberschaden erh\u00f6hen 23 - Furcht",
+    "en_GB": "Increase Spell Dam 23 - Dreadmist",
+    "es_ES": "Aumentar da\u00f1o con hechizos 23 - Cal\u00edgine",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts des sorts de 23 - Brume-funeste",
+    "it_IT": "Danni Magici Migliorati 23 - Brumafunesta",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 23 - \u041c\u0433\u043b\u0438\u0441\u0442\u044b\u0439 \u0443\u0436\u0430\u0441",
+    "ko_KR": "\ubaa8\ub4e0 \uacc4\uc5f4 \ud6a8\uacfc \uc99d\uac00 23 - \uacf5\ud3ec\uc548\uac1c",
+    "zh_TW": "\u63d0\u9ad8\u6cd5\u8853\u50b7\u5bb3 23 - \u9b3c\u9727",
+    "zh_CN": "Increase Spell Dam 23 - Dreadmist"
+  },
+  "description_blz": {
+    "en_US": "Increases Intellect by 10.",
+    "es_MX": "Aumenta el intelecto 10 p.",
+    "pt_BR": "Aumenta em 10 o Intelecto.",
+    "de_DE": "Erh\u00f6ht die Intelligenz um 10.",
+    "en_GB": "Increases Intellect by 10.",
+    "es_ES": "Aumenta el intelecto 10 p.",
+    "fr_FR": "Augmente l'Intelligence de 10.",
+    "it_IT": "Aumenta l'Intelletto di 10.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442 \u043d\u0430 10.",
+    "ko_KR": "\uc9c0\ub2a5\uc774 10\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u667a\u529b\u63d0\u9ad810\u9ede\u3002",
+    "zh_CN": "\u667a\u529b\u63d0\u9ad810\u70b9\u3002"
+  }
 }

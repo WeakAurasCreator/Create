@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "454434"
+  "SpellID": "454434",
+  "name_blz": {
+    "en_US": "Inevitabile End",
+    "es_MX": "Final inevitable",
+    "pt_BR": "Fim Inevit\u00e1vel",
+    "de_DE": "Unausweichliches Ende",
+    "en_GB": "Inevitabile End",
+    "es_ES": "Final inevitable",
+    "fr_FR": "Fin in\u00e9luctable",
+    "it_IT": "Fine Inevitabile",
+    "ru_RU": "\u041d\u0435\u0438\u0437\u0431\u0435\u0436\u043d\u044b\u0439 \u0444\u0438\u043d\u0430\u043b",
+    "ko_KR": "\ud53c\ud560 \uc218 \uc5c6\ub294 \ucd5c\ud6c4",
+    "zh_TW": "\u5fc5\u7136\u7d50\u679c",
+    "zh_CN": "\u5fc5\u7136\u5f52\u5bbf"
+  },
+  "description_blz": {
+    "en_US": "Cold Blood now benefits the next two abilities but only applies to Dispatch. Fatebound Coins flipped by these abilities are guaranteed to match the same outcome as the last flip.",
+    "es_MX": "Sangre fr\u00eda ahora beneficia las dos siguientes habilidades, pero solo se aplica a Despachar. Las monedas sinoatadas lanzadas por estas habilidades coincidir\u00e1n con el mismo resultado del \u00faltimo lanzamiento.",
+    "pt_BR": "Sangue Frio agora beneficia as duas pr\u00f3ximas habilidades, mas s\u00f3 se aplica a Liquidar. Moedas Destinadas lan\u00e7adas por essas habilidades t\u00eam a garantia de darem um resultado igual ao \u00faltimo.",
+    "de_DE": "Die n\u00e4chsten zwei F\u00e4higkeiten profitieren jetzt von 'Kaltbl\u00fctigkeit', allerdings nur 'T\u00f6tung'. 'Schicksalsgebundene M\u00fcnzen', die von diesen F\u00e4higkeiten geworfen werden, erzielen garantiert das gleiche Ergebnis, auf dem sie auch beim letzten Wurf gelandet sind.",
+    "en_GB": "Cold Blood now benefits the next two abilities but only applies to Dispatch. Fatebound Coins flipped by these abilities are guaranteed to match the same outcome as the last flip.",
+    "es_ES": "Ahora, Sangre fr\u00eda beneficia a las dos facultades siguientes, pero solo se aplica a Despachar. Las monedas vinculadas al destino que se tiren con estas facultades mostrar\u00e1n la misma cara que en la \u00faltima tirada.",
+    "fr_FR": "Sang froid s\u2019applique \u00e0 pr\u00e9sent aux deux prochaines techniques, mais ne s\u2019applique qu\u2019\u00e0 Couperet. Les pi\u00e8ces pr\u00e9destin\u00e9es lanc\u00e9es par ces techniques tomberont toujours du m\u00eame c\u00f4t\u00e9 que la pr\u00e9c\u00e9dente.",
+    "it_IT": "Sangue Freddo fornisce benefici alle successive 2 abilit\u00e0 ma si applica solo a Eliminazione. Le Monete Vincolafato lanciate da queste abilit\u00e0 mostrano sempre lo stesso risultato dell'ultimo lancio.",
+    "ru_RU": "\"\u0425\u043b\u0430\u0434\u043d\u043e\u043a\u0440\u043e\u0432\u0438\u0435\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u0432\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u043d\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \"\u0423\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435\". \u0421\u0443\u0434\u044c\u0431\u043e\u043d\u043e\u0441\u043d\u044b\u0435 \u043c\u043e\u043d\u0435\u0442\u044b, \u043f\u043e\u0434\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0435 \u0437\u0430 \u0441\u0447\u0435\u0442 \u044d\u0442\u0438\u0445 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439, \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e \u043f\u0430\u0434\u0430\u044e\u0442 \u0442\u043e\u0439 \u0436\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u043e\u0439, \u0447\u0442\u043e \u0438 \u043f\u0440\u0438 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u043c \u0431\u0440\u043e\u0441\u043a\u0435.",
+    "ko_KR": "\ub0c9\ud608\uc774 \ub2e4\uc74c 2\ud68c \ub3d9\uc548 \uc0ac\uc6a9\ud558\ub294 \ub2a5\ub825\uc5d0 \uc774\ub85c\uc6b4 \ud6a8\uacfc\ub97c \ubd80\uc5ec\ud558\uc9c0\ub9cc \uc18d\uacb0\uc5d0\ub9cc \uc601\ud5a5\uc744 \uc90d\ub2c8\ub2e4. \uc774 \ub2a5\ub825\uc73c\ub85c \uc6b4\uba85\uacb0\uc18d \ub3d9\uc804\uc744 \ub358\uc9c8 \uacbd\uc6b0 \ubc18\ub4dc\uc2dc \uc774\uc804 \uc2dc\ub3c4\uc640 \uac19\uc740 \uacb0\uacfc\uac00 \ub098\uc635\ub2c8\ub2e4.",
+    "zh_TW": "\u51b7\u8840\u73fe\u5728\u6703\u5c0d\u63a5\u4e0b\u4f86\u5169\u500b\u6280\u80fd\u751f\u6548\uff0c\u4f46\u50c5\u9069\u7528\u65bc\u62b9\u6bba\u3002\u9019\u4e9b\u6280\u80fd\u64f2\u51fa\u547d\u7e1b\u786c\u5e63\u6642\uff0c\u4fdd\u8b49\u8207\u4e0a\u6b21\u64f2\u5230\u7684\u7d50\u679c\u76f8\u540c\u3002",
+    "zh_CN": "\u51b7\u8840\u73b0\u5728\u5c06\u5f71\u54cd\u4e0b2\u4e2a\u4f60\u4f7f\u7528\u7684\u6280\u80fd\uff0c\u4f46\u4ec5\u9650\u4e8e\u65a9\u51fb\u3002\u901a\u8fc7\u8fd9\u4e9b\u6280\u80fd\u63b7\u51fa\u7684\u547d\u8fd0\u786c\u5e01\u5fc5\u5b9a\u4e0e\u4e0a\u4e00\u6b21\u63b7\u51fa\u7684\u7ed3\u679c\u76f8\u540c\u3002"
+  }
 }
