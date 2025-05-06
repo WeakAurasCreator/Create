@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "137018"
+  "SpellID": "137018",
+  "name_blz": {
+    "en_US": "Mage",
+    "es_MX": "Mago",
+    "pt_BR": "Mago",
+    "de_DE": "Magier",
+    "en_GB": "Mage",
+    "es_ES": "Mago",
+    "fr_FR": "Mage",
+    "it_IT": "Mago",
+    "ru_RU": "\u041c\u0430\u0433",
+    "ko_KR": "\ub9c8\ubc95\uc0ac",
+    "zh_TW": "\u6cd5\u5e2b",
+    "zh_CN": "\u6cd5\u5e08"
+  },
+  "description_blz": {}
 }
