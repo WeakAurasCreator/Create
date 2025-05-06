@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "345615"
+  "SpellID": "345615",
+  "name_blz": {
+    "en_US": "Serenity Blessing",
+    "es_MX": "Bendici\u00f3n de serenidad",
+    "pt_BR": "B\u00ean\u00e7\u00e3o da Serenidade",
+    "de_DE": "Segen des Gleichmuts",
+    "en_GB": "Serenity Blessing",
+    "es_ES": "Bendici\u00f3n de serenidad",
+    "fr_FR": "B\u00e9n\u00e9diction de s\u00e9r\u00e9nit\u00e9",
+    "it_IT": "Benedizione della Serenit\u00e0",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435 \u0431\u0435\u0437\u043c\u044f\u0442\u0435\u0436\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\ud3c9\uc628\uc758 \ucd95\ubcf5",
+    "zh_TW": "\u5be7\u975c\u795d\u798f",
+    "zh_CN": "\u9759\u8c27\u795d\u798f"
+  },
+  "description_blz": {
+    "en_US": "Phial of Serenity grants 70 Intellect for 30 sec. Removing a disease, poison, curse, or bleed increases the amount granted by 50%.\r\n",
+    "es_MX": "Ampolla de serenidad otorga 70 p. de Intelecto durante 30 s. Eliminar un efecto de enfermedad, veneno, maldici\u00f3n o sangrado aumenta un 50% la cantidad obtenida.\r\n",
+    "pt_BR": "Frasco de Serenidade concede 70 de Intelecto por 30 s. Remover uma doen\u00e7a, maldi\u00e7\u00e3o ou sangramento aumenta em 50% a quantidade concedida.\r\n",
+    "de_DE": "Die Phiole des Gleichmuts gew\u00e4hrt f\u00fcr 30 Sek. 70 Intelligenz. Entfernung eines Krankheits-, Gift-, Fluch- oder Blutungseffekts erh\u00f6ht den Wert um 50%.\r\n",
+    "en_GB": "Phial of Serenity grants 70 Intellect for 30 sec. Removing a disease, poison, curse, or bleed increases the amount granted by 50%.\r\n",
+    "es_ES": "Ampolla de serenidad otorga 70 p. de Intelecto durante 30 s. Eliminar una enfermedad, veneno, maldici\u00f3n o sangrado aumenta un 50% la cantidad otorgada.\r\n",
+    "fr_FR": "Flasque de s\u00e9r\u00e9nit\u00e9 augmente votre Intelligence de 70 pendant 30 s. Supprimer une maladie, un poison, une mal\u00e9diction ou un saignement augmente ce bonus de 50%.\r\n",
+    "it_IT": "Fiala della Serenit\u00e0 fornisce 70 [Intelletto] per 30 s. Dissolvere un effetto di malattia, veleno, maledizione o sanguinamento aumenta il bonus fornito del 50%.\r\n",
+    "ru_RU": "\u0424\u043b\u0430\u043a\u043e\u043d \u0431\u0435\u0437\u043c\u044f\u0442\u0435\u0436\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 30 \u0441\u0435\u043a. \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u0443\u044e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0443 (\u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442) \u043d\u0430 70. \u041f\u0440\u0438 \u0441\u043d\u044f\u0442\u0438\u0438 \u0431\u043e\u043b\u0435\u0437\u043d\u0438, \u044f\u0434\u0430, \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u044f \u0438\u043b\u0438 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50%.",
+    "ko_KR": "\ud3c9\uc628\uc758 \uc57d\ubcd1 \uc0ac\uc6a9 \uc2dc 30\ucd08 \ub3d9\uc548 \uc9c0\ub2a5\uc774 70\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc9c8\ubcd1, \ub3c5, \uc800\uc8fc, \ucd9c\ud608 \ud6a8\uacfc\ub97c \uc81c\uac70\ud560 \uacbd\uc6b0 \uc99d\uac00\ub7c9\uc774 50%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u5be7\u975c\u4e4b\u74f6\u4f7f\u667a\u529b\u63d0\u9ad870\u9ede\uff0c\u6301\u7e8c30\u79d2\u3002\u79fb\u9664\u75be\u75c5\u3001\u4e2d\u6bd2\u3001\u8a5b\u5492\u6216\u6d41\u8840\u6548\u679c\u5f8c\uff0c\u53ef\u984d\u5916\u63d0\u9ad850%\u5c6c\u6027\u503c\u3002\r\n",
+    "zh_CN": "\u9759\u8c27\u4e4b\u74f6\u4f7f\u4f60\u7684\u667a\u529b\u63d0\u9ad870\u70b9\uff0c\u6301\u7eed30\u79d2\u3002\u79fb\u9664\u75be\u75c5\u3001\u4e2d\u6bd2\u3001\u8bc5\u5492\u6216\u6d41\u8840\u6548\u679c\u540e\uff0c\u589e\u76ca\u6548\u679c\u4f1a\u63d0\u9ad850%\u3002"
+  }
 }
