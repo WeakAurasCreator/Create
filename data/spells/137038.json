@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "137038"
+  "SpellID": "137038",
+  "name_blz": {
+    "en_US": "Shaman",
+    "es_MX": "Cham\u00e1n",
+    "pt_BR": "Xam\u00e3",
+    "de_DE": "Schamane",
+    "en_GB": "Shaman",
+    "es_ES": "Cham\u00e1n",
+    "fr_FR": "Chaman",
+    "it_IT": "Sciamano",
+    "ru_RU": "\u0428\u0430\u043c\u0430\u043d",
+    "ko_KR": "\uc8fc\uc220\uc0ac",
+    "zh_TW": "\u85a9\u6eff",
+    "zh_CN": "\u8428\u6ee1\u796d\u53f8"
+  },
+  "description_blz": {}
 }
