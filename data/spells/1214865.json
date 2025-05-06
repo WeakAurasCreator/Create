@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1214865"
+  "SpellID": "1214865",
+  "name_blz": {
+    "en_US": "Paint: Redlining Red",
+    "es_MX": "Pintura: Rojo m\u00e1xima velocidad",
+    "pt_BR": "Pintura: Vermelho Rubrificante",
+    "de_DE": "Farbe: Tiefrot",
+    "en_GB": "Paint: Redlining Red",
+    "es_ES": "Pintura: rojo al l\u00edmite",
+    "fr_FR": "Peinture\u00a0: rouge hors limite",
+    "it_IT": "Vernice: Rosso Sottolineatura",
+    "ru_RU": "\u0426\u0432\u0435\u0442: \u0431\u0435\u0437\u0431\u0430\u0448\u0435\u043d\u043d\u044b\u0439 \u043a\u0440\u0430\u0441\u043d\u044b\u0439",
+    "ko_KR": "\ub3c4\uc0c9: \ud55c\uacc4\ub97c \ub2ec\ub9ac\ub294 \ube68\uac15",
+    "zh_TW": "\u5857\u88dd\uff1a\u7d05\u7dda\u7d05",
+    "zh_CN": "\u6f06\u6599\uff1a\u6279\u793a\u4e4b\u7ea2"
+  },
+  "description_blz": {
+    "en_US": "Red is, of course, the fastest color.",
+    "es_MX": "El rojo es, sin lugar a dudas, el color de la velocidad.",
+    "pt_BR": "O vermelho \u00e9 a cor mais veloz, \u00e9 claro.",
+    "de_DE": "Rot ist nat\u00fcrlich die schnellste Farbe.",
+    "en_GB": "Red is, of course, the fastest color.",
+    "es_ES": "El rojo es, obviamente, el color m\u00e1s r\u00e1pido.",
+    "fr_FR": "Le rouge est, bien \u00e9videmment, la couleur la plus rapide.",
+    "it_IT": "Il rosso, si sa, \u00e8 il colore pi\u00f9 veloce",
+    "ru_RU": "\u0412\u0441\u0435\u043c \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e \u043a\u0440\u0430\u0441\u043d\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b \u2013 \u0441\u0430\u043c\u044b\u0435 \u0431\u044b\u0441\u0442\u0440\u044b\u0435.",
+    "ko_KR": "\ub2f9\uc5f0\ud55c \uc598\uae30\uc9c0\ub9cc, \ubd89\uc740\uc0c9\uc740 \uac00\uc7a5 \ube60\ub978 \uc0c9\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u7d05\u8272\uff0c\u4e00\u5411\u662f\u6700\u5feb\u7684\u984f\u8272\u3002",
+    "zh_CN": "\u6beb\u65e0\u7591\u95ee\uff0c\u6d82\u6210\u7ea2\u8272\u624d\u80fd\u8dd1\u5f97\u6700\u5feb\u3002"
+  }
 }

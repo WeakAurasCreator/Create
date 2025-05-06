@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215610"
+  "SpellID": "1215610",
+  "name_blz": {
+    "en_US": "Evoker Preservation 11.1 Class Set 4pc",
+    "es_MX": "Evoker Preservation 11.1 Class Set 4pc",
+    "pt_BR": "Conjurante, Preserva\u00e7\u00e3o, 11.1, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Ruferklassenset, Bewahrung, 11.1, 4 Teile",
+    "en_GB": "Evoker Preservation 11.1 Class Set 4pc",
+    "es_ES": "Conjunto de clase de evocador Preservaci\u00f3n 11.1 (4 piezas)",
+    "fr_FR": "Ensemble de classe d\u2019\u00e9vocateur ou \u00e9vocatrice Pr\u00e9servation\u00a011.1 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Evocatore Conservazione, Set di Classe 11.1, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043f\u0440\u043e\u0431\u0443\u0434\u0438\u0442\u0435\u043b\u044f 11.1 \u2013 \u0445\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044c, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ubcf4\uc874 \uae30\uc6d0\uc0ac 11.1 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u559a\u80fd\u5e2b\u8b77\u5b5811.1\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u6069\u62a4\u5524\u9b54\u5e0811.1\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Verdant Embrace always grants Insurance! to you and your target for 6 sec and its cooldown is reduced by 4.0 sec.",
+    "es_MX": "Abrazo glauco siempre te otorga \u00a1Seguro m\u00e9dico! a ti y a tus objetivos durante 6 s, y su tiempo de reutilizaci\u00f3n se reduce 4.0 s.",
+    "pt_BR": "Abra\u00e7o Verdejante sempre concede Seguro! a voc\u00ea e ao seu alvo por 6,0 s, e sua recarga \u00e9 reduzida em 4,0 s.",
+    "de_DE": "Eure 'Tiefgr\u00fcne Umarmung' gew\u00e4hrt Euch und Eurem Ziel immer 6 Sek. lang Versicherung! und die Abklingzeit ist um 4,0 Sek. verringert.",
+    "en_GB": "Verdant Embrace always grants Insurance! to you and your target for 6 sec and its cooldown is reduced by 4.0 sec.",
+    "es_ES": "Abrazo verde siempre os otorga \u00a1Seguro! a ti y a tu objetivo durante 6 s, y su tiempo de reutilizaci\u00f3n se reduce 4,0 s.",
+    "fr_FR": "\u00c9treinte verdoyante d\u00e9clenche syst\u00e9matiquement Assurance\u00a0! sur votre cible et vous-m\u00eame pendant 6\u00a0s, et son temps de recharge est r\u00e9duit de 4,0\u00a0s.",
+    "it_IT": "Abbraccio Lussureggiante fornisce sempre Assicurazione! a te e al tuo bersaglio per 6 s. Inoltre, il suo tempo di recupero si riduce di 4,0 s.",
+    "ru_RU": "\"\u0416\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043e\u0431\u044a\u044f\u0442\u0438\u044f\" \u0432\u0441\u0435\u0433\u0434\u0430 \u0434\u0430\u044e\u0442 \u0432\u0430\u043c \u0438 \u0432\u0430\u0448\u0435\u0439 \u0446\u0435\u043b\u0438 \"\u0421\u0442\u0440\u0430\u0445\u043e\u0432\u043a\u0443!\" \u043d\u0430 6 \u0441\u0435\u043a., \u0430 \u0438\u0445 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 4,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\ub85d\uc758 \ud488\uc774 \ud56d\uc0c1 \uc790\uc2e0\uacfc \ub300\uc0c1\uc5d0\uac8c 6\ucd08 \ub3d9\uc548 \ubcf4\ud5d8! \ud6a8\uacfc\ub97c \ubd80\uc5ec\ud558\uba70, \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc740 4.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7fe0\u7da0\u4e4b\u64c1\u5fc5\u5b9a\u8ce6\u4e88\u4f60\u548c\u4f60\u7684\u76ee\u6a19\u4fdd\u96aa\uff01\uff0c\u6301\u7e8c6\u79d2\uff0c\u5176\u51b7\u537b\u6642\u9593\u7e2e\u77ed4.0\u79d2\u3002",
+    "zh_CN": "\u9752\u7fe0\u4e4b\u62e5\u603b\u662f\u4e3a\u4f60\u548c\u4f60\u7684\u76ee\u6807\u63d0\u4f9b6\u79d2\u7684\u4fdd\u9669\uff01\u6548\u679c\uff0c\u4e14\u5176\u51b7\u5374\u65f6\u95f4\u7f29\u77ed4.0\u79d2\u3002"
+  }
 }
