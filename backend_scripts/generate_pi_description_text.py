@@ -81,7 +81,7 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
         2.  Parse the given APL line using only it's content when deciding the conditions, treating `&` as logical AND and `|` as logical OR.
         3.  Discard any checks irrelevant to a Priest providing Power Infusion (e.g. damage rotations, defensive cooldowns).
         4.  Output only an HTML snippet that fits this strict format: 
-            - Start with a paragraph (<p>) like: "Use <strong>Power Infusion</strong> on the Frost DeathKnight when:"
+            - Start with a paragraph (<p>) like: "Use <strong>Power Infusion</strong> on the {player_spec} {player_class} when:"
             - Follow with a bullet list (<ul>) where each relevant condition is a <li>, written in a complete, natural sentence.
             - Each <li> must be clear, concise, and use <strong>HTML bold tags</strong> (<strong>) to highlight important cooldown names or abilities.  
         5.  Keep styling minimal and professional. Avoid adding inline styles or unnecessary formatting.
