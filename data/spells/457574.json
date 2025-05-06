@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "457574"
+  "SpellID": "457574",
+  "name_blz": {
+    "en_US": "Unyielding Will",
+    "es_MX": "Voluntad f\u00e9rrea",
+    "pt_BR": "Vontade Obstinada",
+    "de_DE": "Unersch\u00fctterlicher Wille",
+    "en_GB": "Unyielding Will",
+    "es_ES": "Voluntad f\u00e9rrea",
+    "fr_FR": "Volont\u00e9 inflexible",
+    "it_IT": "Volont\u00e0 Inflessibile",
+    "ru_RU": "\u041d\u0435\u043f\u0440\u0435\u043a\u043b\u043e\u043d\u043d\u0430\u044f \u0432\u043e\u043b\u044f",
+    "ko_KR": "\ubd88\uad74\uc758 \uc758\uc9c0",
+    "zh_TW": "\u4e0d\u5c48\u610f\u5fd7",
+    "zh_CN": "\u4e0d\u5c48\u610f\u5fd7"
+  },
+  "description_blz": {
+    "en_US": "Anti-Magic shell now removes all harmful magical effects when activated, but it's cooldown is increased by 20  sec.",
+    "es_MX": "El Caparaz\u00f3n antimagia ahora elimina todos los efectos m\u00e1gicos perjudiciales cuando se activa, pero su tiempo de reutilizaci\u00f3n aumenta 20 s.",
+    "pt_BR": "Carapa\u00e7a Antimagia agora remove todos os efeitos m\u00e1gicos nocivos quando \u00e9 ativada, mas a recarga aumenta em 20 s.",
+    "de_DE": "Eure 'Antimagische H\u00fclle' entfernt bei Aktivierung nun alle sch\u00e4dlichen magischen Effekte, doch die Abklingzeit ist um 20 Sek. erh\u00f6ht.",
+    "en_GB": "Anti-Magic shell now removes all harmful magical effects when activated, but it's cooldown is increased by 20  sec.",
+    "es_ES": "Ahora, Caparaz\u00f3n antimagia elimina todos los efectos m\u00e1gicos da\u00f1inos al activarse, pero su tiempo de reutilizaci\u00f3n aumenta 20 s.",
+    "fr_FR": "Carapace anti-magie supprime d\u00e9sormais tous les effets magiques n\u00e9fastes \u00e0 l\u2019activation, mais son temps de recharge est augment\u00e9 de 20\u00a0s.",
+    "it_IT": "Scudo Antimagia ora rimuove tutti gli effetti magici dannosi all'attivazione, ma il suo tempo di recupero aumenta di 20 s.",
+    "ru_RU": "\"\u0410\u043d\u0442\u0438\u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0430\u043d\u0446\u0438\u0440\u044c\" \u0442\u0435\u043f\u0435\u0440\u044c \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0432\u0441\u0435 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043f\u0440\u0438 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438, \u043d\u043e \u0435\u0433\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\ub9c8\ubc95 \ubcf4\ud638\ub9c9 \ud65c\uc131\ud654 \uc2dc \ubaa8\ub4e0 \ud574\ub85c\uc6b4 \ub9c8\ubc95 \ud6a8\uacfc\ub97c \uc81c\uac70\ud558\uc9c0\ub9cc \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 20\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u555f\u52d5\u53cd\u9b54\u6cd5\u8b77\u7f69\u6642\uff0c\u73fe\u5728\u6703\u79fb\u9664\u6240\u6709\u6709\u5bb3\u9b54\u6cd5\u6548\u679c\uff0c\u4f46\u5176\u51b7\u537b\u6642\u9593\u5ef6\u957720\u79d2\u3002",
+    "zh_CN": "\u53cd\u9b54\u6cd5\u62a4\u7f69\u6fc0\u6d3b\u65f6\u53ef\u4ee5\u79fb\u9664\u6240\u6709\u6709\u5bb3\u9b54\u6cd5\u6548\u679c\uff0c\u4f46\u51b7\u5374\u65f6\u95f4\u5ef6\u957f20\u79d2\u3002"
+  }
 }

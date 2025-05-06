@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "470942"
+  "SpellID": "470942",
+  "name_blz": {
+    "en_US": "Maniacal Melodies",
+    "es_MX": "Melod\u00edas man\u00edacas",
+    "pt_BR": "Melodias Man\u00edacas",
+    "de_DE": "Irrsinnige Melodien",
+    "en_GB": "Maniacal Melodies",
+    "es_ES": "Melod\u00edas man\u00edacas",
+    "fr_FR": "M\u00e9lodies maniaques",
+    "it_IT": "Melodie Maniacali",
+    "ru_RU": "\u041c\u0430\u043d\u0438\u0430\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0435\u043b\u043e\u0434\u0438\u0438",
+    "ko_KR": "\uad11\ub780\uc758 \uc120\uc728",
+    "zh_TW": "\u760b\u72c2\u65cb\u5f8b",
+    "zh_CN": "\u766b\u72c2\u65cb\u5f8b"
+  },
+  "description_blz": {
+    "en_US": "Crisp, clear, polite. This horn is none of those things.",
+    "es_MX": "N\u00edtida, clara y cort\u00e9s. Esta bocina no tiene ninguna de esas caracter\u00edsticas.",
+    "pt_BR": "Polida, agrad\u00e1vel, educada. Essa buzina n\u00e3o \u00e9 nada disso.",
+    "de_DE": "Knackig, deutlich, h\u00f6flich. Dieses Horn ist nichts davon.",
+    "en_GB": "Crisp, clear, polite. This horn is none of those things.",
+    "es_ES": "N\u00edtida, clara y educada. Esta bocina no es nada de eso.",
+    "fr_FR": "Clair, limpide, courtois. Ce klaxon n\u2019est absolument rien de tout cela.",
+    "it_IT": "Nitido, chiaro, educato. Questo clacson non \u00e8 nulla di tutto ci\u00f2.",
+    "ru_RU": "\u0427\u0435\u0442\u043a\u0438\u0439, \u0447\u0438\u0441\u0442\u044b\u0439 \u0438 \u043f\u0440\u0438\u044f\u0442\u043d\u044b\u0439 \u0437\u0432\u0443\u043a... \u0422\u0430\u043a\u043e\u0433\u043e \u044d\u0442\u043e\u0433\u043e \u0433\u0443\u0434\u043e\u043a \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0438\u0437\u0434\u0430\u0441\u0442.",
+    "ko_KR": "\uae54\ub054\ud568, \uc120\uba85\ud568, \uc815\uc911\ud568. \uc774 \uacbd\uc801\uc740 \uadf8 \ubb34\uc5c7\ub3c4 \ud574\ub2f9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9019\u526f\u5587\u53ed\u767c\u51fa\u7684\u8072\u97f3\u65e2\u4e0d\u6e05\u8106\u3001\u4e5f\u4e0d\u97ff\u4eae\uff0c\u66f4\u6beb\u7121\u79ae\u8c8c\u53ef\u8a00\u3002",
+    "zh_CN": "\u6e05\u8106\uff0c\u60a6\u8033\uff0c\u793c\u8c8c\u3002\u4ee5\u4e0a\u90fd\u548c\u8fd9\u6b3e\u5587\u53ed\u6ca1\u6709\u534a\u6bdb\u94b1\u5173\u7cfb\u3002"
+  }
 }

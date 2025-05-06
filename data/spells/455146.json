@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455146"
+  "SpellID": "455146",
+  "name_blz": {
+    "en_US": "Adopt Marbleheart Ramolith",
+    "es_MX": "Adoptar carnerolito musgopelaje",
+    "pt_BR": "Adotar Agnolito Marmoc\u00f3rdio",
+    "de_DE": "Adoptiert Marmorherzramolith",
+    "en_GB": "Adopt Marbleheart Ramolith",
+    "es_ES": "Adoptar cabrolito coram\u00e1rmol",
+    "fr_FR": "Adoption d\u2019un b\u00e9li\u00e9rithe c\u0153ur-de-marbre",
+    "it_IT": "Adozione Montone Litico Cuormarmoreo",
+    "ru_RU": "\u041f\u0440\u0438\u0440\u0443\u0447\u0435\u043d\u0438\u0435 \u043c\u0440\u0430\u043c\u043e\u0440\u043d\u043e\u0433\u043e \u0431\u0430\u0440\u0430\u043d\u043e\u043b\u0438\u0442\u0430",
+    "ko_KR": "\ub300\ub9ac\uc11d\uc2ec\uc7a5 \ub3cc\uc0b0\uc591 \uc785\uc591",
+    "zh_TW": "\u9818\u990a\u77f3\u5fc3\u5927\u5ca9\u7f8a",
+    "zh_CN": "\u6536\u517b\u78d0\u5fc3\u78d0\u7f8a"
+  },
+  "description_blz": {
+    "en_US": "Teaches you to summon a Marbleheart Ramolith hunter pet.",
+    "es_MX": "Te ense\u00f1a a invocar un carnerolito coram\u00e1rmol como mascota de cazador.",
+    "pt_BR": "Ensina voc\u00ea a evocar o ajudante de ca\u00e7ador Agnolito Marmoc\u00f3rdio.",
+    "de_DE": "Lehrt Euch, wie man einen Marmorherzramolith als J\u00e4gerbegleiter beschw\u00f6rt.",
+    "en_GB": "Teaches you to summon a Marbleheart Ramolith hunter pet.",
+    "es_ES": "Te ense\u00f1a a invocar una mascota de cazador cabrolito coram\u00e1rmol.",
+    "fr_FR": "Vous apprend \u00e0 invoquer un familier de chasse, le b\u00e9li\u00e9rithe c\u0153ur-de-marbre.",
+    "it_IT": "Ti insegna a evocare un famiglio Montone Litico Cuormarmoreo.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0442\u044c \u043f\u0438\u0442\u043e\u043c\u0446\u0430 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u2013 \u043c\u0440\u0430\u043c\u043e\u0440\u043d\u043e\u0433\u043e \u0431\u0430\u0440\u0430\u043d\u043e\u043b\u0438\u0442\u0430.",
+    "ko_KR": "\ub300\ub9ac\uc11d\uc2ec\uc7a5 \ub3cc\uc0b0\uc591 \uc57c\uc218 \uc18c\ud658\ud558\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u53ec\u559a\u7375\u4eba\u5bf5\u7269\u77f3\u5fc3\u5927\u5ca9\u7f8a\u3002",
+    "zh_CN": "\u6559\u4f60\u5b66\u4f1a\u53ec\u5524\u78d0\u5fc3\u78d0\u7f8a\u730e\u4eba\u5ba0\u7269\u3002"
+  }
 }

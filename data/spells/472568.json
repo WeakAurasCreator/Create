@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "472568"
+  "SpellID": "472568",
+  "name_blz": {
+    "en_US": "Encroaching Shadows",
+    "es_MX": "Sombras invasoras",
+    "pt_BR": "Sombras Usurpadoras",
+    "de_DE": "Wuchernde Schatten",
+    "en_GB": "Encroaching Shadows",
+    "es_ES": "Sombras invasoras",
+    "fr_FR": "Ombres envahissantes",
+    "it_IT": "Ombre Opprimenti",
+    "ru_RU": "\u041a\u0440\u0430\u0434\u0443\u0449\u0438\u0435\u0441\u044f \u0442\u0435\u043d\u0438",
+    "ko_KR": "\uc7a0\uc2dd\ud558\ub294 \uc5b4\ub460",
+    "zh_TW": "\u9041\u5165\u6697\u5f71",
+    "zh_CN": "\u6e17\u900f\u6697\u5f71"
+  },
+  "description_blz": {
+    "en_US": "Shadow Word: Pain Spreads to a nearby enemy when you cast Penance on the target.",
+    "es_MX": "Palabra de las sombras: dolor se extiende a un enemigo cercano cuando lanzas Penitencia hacia el objetivo.",
+    "pt_BR": "Palavra Sombria: Dor se espalha para um inimigo pr\u00f3ximo quando voc\u00ea lan\u00e7a Penit\u00eancia do alvo.",
+    "de_DE": "Euer 'Schattenwort: Schmerz' breitet sich auf einen Gegner in der N\u00e4he aus, wenn ihr 'S\u00fchne' auf das Ziel wirkt.",
+    "en_GB": "Shadow Word: Pain Spreads to a nearby enemy when you cast Penance on the target.",
+    "es_ES": "Palabra de las Sombras: dolor se propaga a un enemigo cercano cuando lanzas Penitencia sobre el objetivo.",
+    "fr_FR": "Mot de l\u2019ombre\u00a0: Douleur se propage \u00e0 une cible adverse proche lorsque vous lancez P\u00e9nitence sur la cible.",
+    "it_IT": "Quando si lancia Contrizione sul bersaglio, Parola d'Ombra: Dolore si diffonde su 1 nemico vicino.",
+    "ru_RU": "\"\u0418\u0441\u043f\u043e\u0432\u0435\u0434\u044c\" \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442 \"\u0421\u043b\u043e\u0432\u043e \u0422\u044c\u043c\u044b: \u0411\u043e\u043b\u044c\" \u0441 \u0446\u0435\u043b\u0438 \u043d\u0430 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \ud68c\uac1c \uc2dc\uc804 \uc2dc \uc8fc\uc704\uc758 \uc801\uc5d0\uac8c \uc5b4\ub460\uc758 \uad8c\ub2a5: \uace0\ud1b5\uc744 \ud37c\ub728\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u76ee\u6a19\u65bd\u653e\u61fa\u609f\u6642\uff0c\u6697\u8a00\u8853\uff1a\u75db\u6703\u64f4\u6563\u81f3\u4e00\u540d\u9644\u8fd1\u7684\u6575\u4eba\u3002",
+    "zh_CN": "\u5f53\u4f60\u5bf9\u76ee\u6807\u65bd\u653e\u82e6\u4fee\u65f6\uff0c\u6697\u8a00\u672f\uff1a\u75db\u4f1a\u6269\u6563\u5230\u4e00\u4e2a\u9644\u8fd1\u7684\u654c\u4eba\u8eab\u4e0a\u3002"
+  }
 }

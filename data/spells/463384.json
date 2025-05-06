@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "463384"
+  "SpellID": "463384",
+  "name_blz": {
+    "en_US": "Ability: Unstable Concoction",
+    "es_MX": "Habilidad: Mejunje inestable",
+    "pt_BR": "Habilidade: Mistura Inst\u00e1vel",
+    "de_DE": "F\u00e4higkeit: Instabile Substanz",
+    "en_GB": "Ability: Unstable Concoction",
+    "es_ES": "Facultad: Mejunje inestable",
+    "fr_FR": "Technique\u00a0: D\u00e9coction instable",
+    "it_IT": "Abilit\u00e0: Mistura Instabile",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041d\u0435\u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0435 \u0432\u0430\u0440\u0435\u0432\u043e\"",
+    "ko_KR": "\ub2a5\ub825: \ubd88\uc548\uc815\ud55c \ud63c\ud569\ubb3c",
+    "zh_TW": "\u6280\u80fd\uff1a\u4e0d\u7a69\u5b9a\u5316\u5408\u7269",
+    "zh_CN": "\u6280\u80fd\uff1a\u4e0d\u7a33\u5b9a\u7684\u6df7\u5408\u7269"
+  },
+  "description_blz": {
+    "en_US": "As an agent of the Vizier, cycle through a variety of experimental potions to achieve a variety of unique effects.",
+    "es_MX": "Como agente del Visir, pruebas un surtido de pociones experimentales para obtener una variedad de efectos \u00fanicos.",
+    "pt_BR": "Como agente do Vizir, se vale de uma diversidade de po\u00e7\u00f5es experimentais para obter diversos efeitos \u00fanicos.",
+    "de_DE": "Arbeitet Euch im Namen des Wesirs durch verschiedene experimentelle Tr\u00e4nke, um eine Vielzahl einzigartiger Effekte zu erzielen.",
+    "en_GB": "As an agent of the Vizier, cycle through a variety of experimental potions to achieve a variety of unique effects.",
+    "es_ES": "Como agente del visir, prueba diferentes pociones experimentales para lograr una variedad de efectos \u00fanicos.",
+    "fr_FR": "En tant qu\u2019\u00e9missaire du Vizir, vous pouvez utiliser diverses potions exp\u00e9rimentales pour obtenir une vari\u00e9t\u00e9 d\u2019effets uniques.",
+    "it_IT": "In quanto agente del Visir, puoi scegliere tra una variet\u00e0 di misture sperimentali per ottenere diversi effetti unici.",
+    "ru_RU": "\u0411\u0443\u0434\u0443\u0447\u0438 \u0430\u0433\u0435\u043d\u0442\u043e\u043c \u0432\u0438\u0437\u0438\u0440\u044f, \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e \u043e\u0447\u0435\u0440\u0435\u0434\u0438 \u043f\u0438\u0442\u044c \u0440\u0430\u0437\u043d\u044b\u0435 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0435\u043b\u044c\u044f, \u0434\u0430\u044e\u0449\u0438\u0435 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b.",
+    "ko_KR": "\uc7ac\uc0c1\uc758 \ub300\ub9ac\uc778\uc73c\ub85c\uc11c \uc5ec\ub7ec \uc2e4\ud5d8\uc6a9 \ubb3c\uc57d\uc744 \uc0ac\uc6a9\ud574 \uac00\uba70 \ub3c5\ud2b9\ud55c \ud6a8\uacfc\ub97c \ub204\ub9b4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8eab\u70ba\u8f14\u81e3\u7684\u5bc6\u63a2\uff0c\u8f2a\u6d41\u4f7f\u7528\u5404\u7a2e\u5be6\u9a57\u6027\u85e5\u6c34\uff0c\u89f8\u767c\u5404\u7a2e\u7368\u7279\u6548\u679c\u3002",
+    "zh_CN": "\u4f5c\u4e3a\u5bb0\u76f8\u7684\u4ee3\u7406\u4eba\uff0c\u4f60\u53ef\u4ee5\u5faa\u73af\u5229\u7528\u591a\u79cd\u8bd5\u9a8c\u6027\u836f\u6c34\uff0c\u5e76\u83b7\u5f97\u5404\u7c7b\u4e0e\u4f17\u4e0d\u540c\u7684\u6548\u679c\u3002"
+  }
 }

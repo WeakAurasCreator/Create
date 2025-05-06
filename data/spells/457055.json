@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "457055"
+  "SpellID": "457055",
+  "name_blz": {
+    "en_US": "Singular Focus",
+    "es_MX": "Enfoque singular",
+    "pt_BR": "Foco Singular",
+    "de_DE": "Einzelner Fokus",
+    "en_GB": "Singular Focus",
+    "es_ES": "Concentraci\u00f3n singular",
+    "fr_FR": "Focalisation singuli\u00e8re",
+    "it_IT": "Unico Obiettivo",
+    "ru_RU": "\u0418\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f",
+    "ko_KR": "\ud558\ub098 \ub41c \uc9d1\uc911\ub825",
+    "zh_TW": "\u4e00\u5fc3\u4e00\u610f",
+    "zh_CN": "\u6b8a\u5203\u540c\u5f52"
+  },
+  "description_blz": {
+    "en_US": "Damage dealt to targets other than your Marked target deals 5% Plague damage to your Marked target.\r\n",
+    "es_MX": "Infligir da\u00f1o a objetivos aparte de tu objetivo marcado inflige un 5% de da\u00f1o de peste a tu objetivo marcado.\r\n",
+    "pt_BR": "Dano causado a alvos que n\u00e3o sejam o alvo Marcado causa 5% de dano de Peste ao seu alvo Marcado.\r\n",
+    "de_DE": "Schaden, der anderen Zielen als dem von Euch markierten Ziel zugef\u00fcgt wird, f\u00fcgt dem von Euch markierten Ziel 5% Seuchenschaden zu.\r\n",
+    "en_GB": "Damage dealt to targets other than your Marked target deals 5% Plague damage to your Marked target.\r\n",
+    "es_ES": "El da\u00f1o infligido a objetivos que no sean tu objetivo marcado inflige un 5% de da\u00f1o de Peste a tu objetivo marcado.\r\n",
+    "fr_FR": "Les d\u00e9g\u00e2ts inflig\u00e9s aux cibles autres que votre cible marqu\u00e9e infligent 5\u00a0% de d\u00e9g\u00e2ts de peste \u00e0 votre cible marqu\u00e9e.\r\n",
+    "it_IT": "I danni inflitti a bersagli che non sono stati Marchiati da te infliggono il 5% di danni da piaga aggiuntivi al bersaglio Marchiato.\r\n",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u0446\u0435\u043b\u0438, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u043d\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0432\u0430\u0448\u0430 \u043c\u0435\u0442\u043a\u0430, \u043e\u0442\u043c\u0435\u0447\u0435\u043d\u043d\u0430\u044f \u0432\u0430\u043c\u0438 \u0446\u0435\u043b\u044c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 5% \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0447\u0443\u043c\u044b.\r\n",
+    "ko_KR": "\uc9d5\ud45c\uc5d0 \uac78\ub9b0 \ub300\uc0c1 \uc678\uc758 \ub300\uc0c1\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 \uc9d5\ud45c\uc5d0 \uac78\ub9b0 \ub300\uc0c1\uc5d0\uac8c 5%\uc758 \uc5ed\ubcd1 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u5c0d\u6a19\u8a18\u76ee\u6a19\u4ee5\u5916\u7684\u76ee\u6a19\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u4e5f\u6703\u5c0d\u6a19\u8a18\u76ee\u6a19\u9020\u62105%\u761f\u75ab\u50b7\u5bb3\u3002\r\n",
+    "zh_CN": "\u5bf9\u975e\u6807\u8bb0\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u4e5f\u4f1a\u5bf9\u88ab\u6807\u8bb0\u7684\u76ee\u6807\u9020\u62105%\u7684\u761f\u75ab\u4f24\u5bb3\u3002\r\n"
+  }
 }

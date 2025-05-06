@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "469279"
+  "SpellID": "469279",
+  "name_blz": {
+    "en_US": "Worthy Sacrifice",
+    "es_MX": "Sacrificio merecido",
+    "pt_BR": "Sacrif\u00edcio Digno",
+    "de_DE": "W\u00fcrdiges Opfer",
+    "en_GB": "Worthy Sacrifice",
+    "es_ES": "Sacrificio digno",
+    "fr_FR": "Digne sacrifice",
+    "it_IT": "Sacrificio Degno",
+    "ru_RU": "\u0414\u043e\u0441\u0442\u043e\u0439\u043d\u0430\u044f \u0436\u0435\u0440\u0442\u0432\u0430",
+    "ko_KR": "\uac00\uce58 \uc788\ub294 \uc81c\ubb3c",
+    "zh_TW": "\u53ef\u656c\u72a7\u7272",
+    "zh_CN": "\u65e0\u6094\u727a\u7272"
+  },
+  "description_blz": {
+    "en_US": "You automatically cast Blessing of Sacrifice onto an ally within 40 yds when they are below 35% health and you are not in a loss of control effect.\r\n\r\nThis effect activates 100% of Blessing of Sacrifice's cooldown.",
+    "es_MX": "Lanzas Bendici\u00f3n de sacrificio de forma autom\u00e1tica sobre un aliado en un radio de 40 m cuando su salud est\u00e1 por debajo del 35% y t\u00fa no est\u00e1s bajo un efecto de p\u00e9rdida de control.\r\n\r\nEste efecto activa un 100% del tiempo de reutilizaci\u00f3n de Bendici\u00f3n de sacrificio.",
+    "pt_BR": "Voc\u00ea lan\u00e7a B\u00ean\u00e7\u00e3o do Sacrif\u00edcio automaticamente em um aliado em um raio de 40 m quando ele estiver com menos de 35% dos pontos de vida e voc\u00ea n\u00e3o estiver sob um efeito de perda de controle.\r\n\r\nAtiva 100% da recarga de B\u00ean\u00e7\u00e3o do Sacrif\u00edcio.",
+    "de_DE": "Ihr wirkt automatisch 'Segen der Aufopferung' auf einen Verb\u00fcndeten im Umkreis von 40 Metern, wenn dieser weniger als 35% Gesundheit hat und Ihr nicht unter einem Kontrollverlust-Effekt leidet.\r\n\r\nDieser Effekt aktiviert 100% der Abklingzeit von 'Segen der Aufopferung'.",
+    "en_GB": "You automatically cast Blessing of Sacrifice onto an ally within 40 yds when they are below 35% health and you are not in a loss of control effect.\r\n\r\nThis effect activates 100% of Blessing of Sacrifice's cooldown.",
+    "es_ES": "Lanzas Bendici\u00f3n de sacrificio de forma autom\u00e1tica a un aliado en un radio de 40 m cuando su salud baja de un 35% si no te afecta un efecto de p\u00e9rdida de control.\r\n\r\nEste efecto activa un 100% del tiempo de reutilizaci\u00f3n de Bendici\u00f3n de sacrificio.",
+    "fr_FR": "Vous lancez automatiquement B\u00e9n\u00e9diction de sacrifice sur un personnage alli\u00e9 \u00e0 moins de 40\u00a0m lorsqu\u2019il tombe sous 35\u00a0% de points de vie et que vous ne subissez aucun effet de perte de contr\u00f4le.\r\n\r\nCet effet active 100\u00a0% du temps de recharge de B\u00e9n\u00e9diction de sacrifice.",
+    "it_IT": "Se non sei sotto un effetto di perdita di controllo del personaggio, lanci automaticamente Benedizione del Sacrificio su un alleato con meno del 35% della salute massima entro 40 m.\r\n\r\nL'effetto attiva il 100% del tempo di recupero di Benedizione del Sacrificio.",
+    "ru_RU": "\u0412\u044b \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u0416\u0435\u0440\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0431\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435\" \u043a \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c, \u043a\u043e\u0433\u0434\u0430 \u0435\u0433\u043e \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0430\u0434\u0430\u0435\u0442 \u043d\u0438\u0436\u0435 35%, \u0430 \u0432\u044b \u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0435\u0441\u044c \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u043f\u043e\u0442\u0435\u0440\u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f.\r\n\r\n\u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \"\u0416\u0435\u0440\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0431\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435\" \u0442\u0440\u0435\u0431\u0443\u0435\u0442 100% \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f.",
+    "ko_KR": "40\ubbf8\ud130 \ub0b4 \uc544\uad70\uc758 \uc0dd\uba85\ub825\uc774 35% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc84c\uc744 \ub54c \uc790\uc2e0\uc774 \uc81c\uc5b4 \ubd88\uac00 \ud6a8\uacfc\uc5d0 \uac78\ub824 \uc788\uc9c0 \uc54a\ub2e4\uba74 \uc790\ub3d9\uc73c\ub85c \ud574\ub2f9 \uc544\uad70\uc5d0\uac8c \ud76c\uc0dd\uc758 \ucd95\ubcf5\uc744 \uc2dc\uc804\ud569\ub2c8\ub2e4.\r\n\r\n\uc774 \ud6a8\uacfc\ub294 \ud76c\uc0dd\uc758 \ucd95\ubcf5\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 100%\ub9cc\ud07c \ud65c\uc131\ud654\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u757640\u78bc\u5167\u7684\u4e00\u4f4d\u76df\u53cb\u751f\u547d\u529b\u4f4e\u65bc35%\uff0c\u4e14\u4f60\u672a\u53d7\u63a7\u5834\u6548\u679c\u5f71\u97ff\u6642\uff0c\u4f60\u6703\u81ea\u52d5\u5c0d\u8a72\u76df\u53cb\u65bd\u653e\u72a7\u7272\u795d\u798f\u3002\r\n\r\n\u6b64\u6548\u679c\u6703\u89f8\u767c\u72a7\u7272\u795d\u798f\u7684\u51b7\u537b\u6642\u9593\uff0c\u4f46\u7e2e\u77ed\u70ba100%\u3002",
+    "zh_CN": "\u5f5340\u7801\u8303\u56f4\u5185\u7684\u76df\u53cb\u751f\u547d\u503c\u4f4e\u4e8e35%\u4e14\u4f60\u672a\u5904\u4e8e\u5931\u63a7\u72b6\u6001\u65f6\uff0c\u4f60\u4f1a\u81ea\u52a8\u5bf9\u5176\u65bd\u653e\u727a\u7272\u795d\u798f\u3002\r\n\r\n\u6b64\u6548\u679c\u4f1a\u6fc0\u6d3b\u727a\u7272\u795d\u798f100%\u7684\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

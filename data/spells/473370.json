@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "473370"
+  "SpellID": "473370",
+  "name_blz": {
+    "en_US": "Double Tap",
+    "es_MX": "Doble toque",
+    "pt_BR": "Disparo Duplo",
+    "de_DE": "Doppelpack",
+    "en_GB": "Double Tap",
+    "es_ES": "Doble impacto",
+    "fr_FR": "Double dose",
+    "it_IT": "Doppio Colpo",
+    "ru_RU": "\u0414\u0432\u043e\u0439\u043d\u043e\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b",
+    "ko_KR": "\uc5f0\ud0c0 \uacf5\uaca9",
+    "zh_TW": "\u96d9\u91cd\u5c04\u64ca",
+    "zh_CN": "\u4e8c\u8fde\u53d1"
+  },
+  "description_blz": {
+    "en_US": "Casting Trueshot or Volley grants Double Tap, causing your next Aimed Shot to fire again at 80% power, or your next Rapid Fire to fire 80% additional shots during its channel.",
+    "es_MX": "Lanzar Disparo certero o Salva otorga Doble toque, lo que hace que Disparo de punter\u00eda se dispare de nuevo con un 80% de poder, o que tu pr\u00f3ximo Fuego r\u00e1pido dispare un 80% m\u00e1s de tiros durante su canalizaci\u00f3n.",
+    "pt_BR": "Lan\u00e7ar Tiro Certeiro ou Salva concede Disparo Duplo, fazendo seu pr\u00f3ximo Tiro Certo disparar novamente com 80% da pot\u00eancia, ou seu pr\u00f3ximo Tiro R\u00e1pido disparar 80% a mais de tiros durante a canaliza\u00e7\u00e3o.",
+    "de_DE": "Der Einsatz von 'Volltreffer' oder 'Salve' gew\u00e4hrt 'Doppelpack', was Euren n\u00e4chsten Einsatz von 'Gezielter Schuss' einen weiteren Schuss mit 80% Effektivit\u00e4t abgeben oder Euren n\u00e4chsten Einsatz von 'Schnellfeuer' w\u00e4hrend der Kanalisierung 80% zus\u00e4tzliche Sch\u00fcsse abfeuern l\u00e4sst.",
+    "en_GB": "Casting Trueshot or Volley grants Double Tap, causing your next Aimed Shot to fire again at 80% power, or your next Rapid Fire to fire 80% additional shots during its channel.",
+    "es_ES": "Al lanzar Disparo certero o Salva, se obtiene Doble impacto, que hace que tu siguiente Disparo de punter\u00eda se ejecute otra vez con un 80% de potencia o que tu siguiente Fuego r\u00e1pido realice un 80% m\u00e1s de disparos durante su canalizaci\u00f3n.",
+    "fr_FR": "L\u2019utilisation de Pr\u00e9cision ou de Salve conf\u00e8re Double dose, ce qui permet \u00e0 votre prochaine Vis\u00e9e de tirer \u00e0 nouveau \u00e0 80\u00a0% de puissance, ou \u00e0 votre prochain Tir rapide de lancer 80\u00a0% de tirs suppl\u00e9mentaires pendant sa canalisation.",
+    "it_IT": "Lanciare Precisione o Raffica fornisce Doppio Colpo, che lancia nuovamente il successivo Tiro Mirato al 80% dell'efficacia o aumenta i colpi sparati durante la canalizzazione della successiva Rapidit\u00e0 di Tiro del 80%.",
+    "ru_RU": "\"\u041c\u0435\u0442\u043a\u0438\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0438 \"\u0411\u0435\u0433\u043b\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\" \u0434\u0430\u044e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0414\u0432\u043e\u0439\u043d\u043e\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\": \u0432\u0430\u0448 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 80% \u043b\u0438\u0431\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \"\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0430\" \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u043d\u0430 80% \u0431\u043e\u043b\u044c\u0448\u0435 \u0441\u043d\u0430\u0440\u044f\u0434\u043e\u0432 \u0437\u0430 \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f.",
+    "ko_KR": "\uc815\uc870\uc900 \ub610\ub294 \uc5f0\ubc1c \uacf5\uaca9 \uc2dc\uc804 \uc2dc \uc5f0\ud0c0 \uacf5\uaca9\uc774 \ubd80\uc5ec\ub418\uc5b4 \ub2e4\uc74c \uc870\uc900 \uc0ac\uaca9 \uc0ac\uc6a9 \uc2dc 80%\uc758 \uc704\ub825\uc73c\ub85c \ud55c \ubc88 \ub354 \ubc1c\uc0ac\ud558\uac70\ub098, \ub610\ub294 \ub2e4\uc74c \uc18d\uc0ac \uc911 \uc0ac\uaca9\ud558\ub294 \ud22c\uc0ac\uccb4\uac00 80%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u5f37\u64ca\u6216\u7bad\u96e8\u6703\u8ce6\u4e88\u96d9\u91cd\u5c04\u64ca\uff0c\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u7784\u6e96\u5c04\u64ca\u518d\u6b21\u89f8\u767c\uff0c\u4f46\u6548\u679c\u5f37\u5ea6\u8b8a\u70ba80%\uff0c\u6216\u5728\u4f60\u5f15\u5c0e\u4e0b\u4e00\u500b\u6025\u901f\u5c04\u64ca\u6642\uff0c\u767c\u5c04\u6b21\u6578\u984d\u5916\u63d0\u9ad880%\u3002",
+    "zh_CN": "\u65bd\u653e\u767e\u53d1\u767e\u4e2d\u6216\u4e71\u5c04\u65f6\u4f1a\u83b7\u5f97\u4e8c\u8fde\u53d1\uff0c\u4f7f\u4e0b\u4e00\u53d1\u7784\u51c6\u5c04\u51fb\u4ee580%\u7684\u5a01\u529b\u989d\u5916\u53d1\u5c04\u4e00\u6b21\uff0c\u6216\u4f7f\u4e0b\u4e00\u6b21\u6025\u901f\u5c04\u51fb\u5728\u5f15\u5bfc\u671f\u95f4\u989d\u5916\u53d1\u5c0480%\u7684\u7bad\u5f39\u3002"
+  }
 }
