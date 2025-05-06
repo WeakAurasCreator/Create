@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41778"
+  "SpellID": "41778",
+  "name_blz": {
+    "en_US": "Increased Stamina 18",
+    "es_MX": "Aguante aumentado 18",
+    "pt_BR": "Vigor Aumentado 18",
+    "de_DE": "Erh\u00f6hte Ausdauer 18",
+    "en_GB": "Increased Stamina 18",
+    "es_ES": "Aguante aumentado 18",
+    "fr_FR": "Endurance augment\u00e9e\u00a0: 18",
+    "it_IT": "Tempra Migliorata 18",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438 \u043d\u0430 18",
+    "ko_KR": "\uccb4\ub825 \ud5a5\uc0c1 18",
+    "zh_TW": "\u589e\u52a0\u8010\u529b 18",
+    "zh_CN": "Increased Stamina 18"
+  },
+  "description_blz": {
+    "en_US": "+8 Stamina.",
+    "es_MX": "+8 p. de aguante.",
+    "pt_BR": "+8 Vigor.",
+    "de_DE": "+8 Ausdauer.",
+    "en_GB": "+8 Stamina.",
+    "es_ES": "+8 p. de aguante.",
+    "fr_FR": "+8 en Endurance.",
+    "it_IT": "+8 Tempra.",
+    "ru_RU": "+8 \u043a \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uccb4\ub825 +8",
+    "zh_TW": "+8\u9ede\u8010\u529b\u3002",
+    "zh_CN": "+8 \u8010\u529b\u3002"
+  }
 }
