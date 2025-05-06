@@ -34,5 +34,17 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "126893"
+  "SpellID": "126893",
+  "name_blz": {
+    "en_US": "Zen Pilgrimage/Death Gate/Moonglade Storage Aura I",
+    "es_MX": "Zen Pilgrimage/Death Gate/Moonglade Storage Aura I",
+    "pt_BR": "Zen Pilgrimage/Death Gate/Moonglade Storage Aura I",
+    "en_GB": "Zen Pilgrimage/Death Gate/Moonglade Storage Aura I",
+    "es_ES": "Zen Pilgrimage/Death Gate/Moonglade Storage Aura I",
+    "it_IT": "Zen Pilgrimage/Death Gate/Moonglade Storage Aura I",
+    "ko_KR": "\uc21c\ub840/\uc8fd\uc74c\uc758 \uad00\ubb38/\ub2ec\uc232 \uc800\uc7a5 \uc624\ub77c I",
+    "zh_TW": "\u79aa\u5b9a\u6b78\u5b97/\u6b7b\u4ea1\u4e4b\u9580/\u6708\u5149\u6797\u5730\u5009\u5eab\u5149\u74b0I",
+    "zh_CN": "Zen Pilgrimage/Death Gate/Moonglade Storage Aura I"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "132626"
+  "SpellID": "132626",
+  "name_blz": {
+    "en_US": "Portal: Vale of Eternal Blossoms",
+    "es_MX": "Portal: Valle de la Flor Eterna",
+    "pt_BR": "Portal: Vale das Flores Eternas",
+    "de_DE": "Portal: Tal der Ewigen Bl\u00fcten",
+    "en_GB": "Portal: Vale of Eternal Blossoms",
+    "es_ES": "Portal: Valle de la Flor Eterna",
+    "fr_FR": "Portail\u00a0: Val de l\u2019\u00c9ternel printemps",
+    "it_IT": "Portale: Vallata dell'Eterna Primavera",
+    "ru_RU": "\u041f\u043e\u0440\u0442\u0430\u043b \u0432 \u0412\u0435\u0447\u043d\u043e\u0446\u0432\u0435\u0442\u0443\u0449\u0438\u0439 \u0434\u043e\u043b",
+    "ko_KR": "\ucc28\uc6d0\ubb38: \uc601\uc6d0\uaf43 \uace8\uc9dc\uae30",
+    "zh_TW": "\u50b3\u9001\u9580\uff1a\u6046\u6625\u8c37",
+    "zh_CN": "\u4f20\u9001\u95e8\uff1a\u9526\u7ee3\u8c37"
+  },
+  "description_blz": {
+    "en_US": "Creates a portal, teleporting group members that use it to Vale of Eternal Blossoms.",
+    "es_MX": "Crea un portal que teletransporta a los miembros del grupo que lo utilicen hasta el Valle de la Flor Eterna.",
+    "pt_BR": "Cria um portal e teleporta os integrantes do grupo que o utilizarem para o Vale das Flores Eternas.",
+    "de_DE": "L\u00e4sst ein Portal entstehen, das Gruppenmitglieder, die es benutzen, ins Tal der Ewigen Bl\u00fcten teleportiert.",
+    "en_GB": "Creates a portal, teleporting group members that use it to Vale of Eternal Blossoms.",
+    "es_ES": "Crea un portal que teletransporta a los miembros del grupo que lo utilicen hasta el Valle de la Flor Eterna.",
+    "fr_FR": "Cr\u00e9e un portail qui t\u00e9l\u00e9porte les membres du groupe qui l'empruntent au val de l\u2019\u00c9ternel printemps.",
+    "it_IT": "Crea un portale che teletrasporta i membri del gruppo che lo utilizzano alla Vallata dell'Eterna Primavera.",
+    "ru_RU": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u043f\u043e\u0440\u0442\u0430\u043b, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0432\u0448\u0438\u0445 \u0435\u0433\u043e \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0433\u0440\u0443\u043f\u043f\u044b \u0432 \u0412\u0435\u0447\u043d\u043e\u0446\u0432\u0435\u0442\u0443\u0449\u0438\u0439 \u0434\u043e\u043b.",
+    "ko_KR": "\ud30c\ud2f0\uc6d0\ub4e4\uc774 \uc774\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d \uc601\uc6d0\uaf43 \uace8\uc9dc\uae30\ub85c \ud1b5\ud558\ub294 \ucc28\uc6d0\ubb38\uc744 \uc5fd\ub2c8\ub2e4.",
+    "zh_TW": "\u88fd\u9020\u4e00\u500b\u50b3\u9001\u9580\uff0c\u5c07\u7a7f\u8d8a\u5b83\u7684\u968a\u53cb\u50b3\u9001\u81f3\u6046\u6625\u8c37\u3002",
+    "zh_CN": "\u5236\u9020\u4e00\u4e2a\u4f20\u9001\u95e8\uff0c\u5c06\u4f7f\u7528\u4f20\u9001\u95e8\u7684\u961f\u4f0d\u6210\u5458\u4f20\u9001\u5230\u9526\u7ee3\u8c37\u57ce\u3002"
+  }
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "137010"
+  "SpellID": "137010",
+  "name_blz": {
+    "en_US": "Guardian Druid",
+    "es_MX": "Druida guardi\u00e1n",
+    "pt_BR": "Druida Guardi\u00e3o",
+    "de_DE": "W\u00e4chterdruide",
+    "en_GB": "Guardian Druid",
+    "es_ES": "Druida Guardi\u00e1n",
+    "fr_FR": "Druide Gardien",
+    "it_IT": "Druido (Guardiano Ferino)",
+    "ru_RU": "\u0414\u0440\u0443\u0438\u0434 - \u0421\u0442\u0440\u0430\u0436",
+    "ko_KR": "\uc218\ud638 \ub4dc\ub8e8\uc774\ub4dc",
+    "zh_TW": "\u5b88\u8b77\u8005\u5fb7\u9b6f\u4f0a",
+    "zh_CN": "\u5b88\u62a4\u5fb7\u9c81\u4f0a"
+  },
+  "description_blz": {}
 }

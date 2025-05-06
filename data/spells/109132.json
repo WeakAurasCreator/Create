@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "109132"
+  "SpellID": "109132",
+  "name_blz": {
+    "en_US": "Roll",
+    "es_MX": "Rodar",
+    "pt_BR": "Rolamento",
+    "de_DE": "Rollen",
+    "en_GB": "Roll",
+    "es_ES": "Rodar",
+    "fr_FR": "Roulade",
+    "it_IT": "Capriola",
+    "ru_RU": "\u041a\u0443\u0432\u044b\u0440\u043e\u043a",
+    "ko_KR": "\uad6c\ub974\uae30",
+    "zh_TW": "\u8fc5\u7a7a\u7ffb",
+    "zh_CN": "\u6eda\u5730\u7ffb"
+  },
+  "description_blz": {
+    "en_US": "Roll a short distance.",
+    "es_MX": "Ruedas una corta distancia.",
+    "pt_BR": "Rola por uma curta dist\u00e2ncia.",
+    "de_DE": "Rollt eine kurze Entfernung.",
+    "en_GB": "Roll a short distance.",
+    "es_ES": "Rodando una peque\u00f1a distancia.",
+    "fr_FR": "Vous effectuez une roulade sur une courte distance.",
+    "it_IT": "Una capriola che ti fa coprire una piccola distanza.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043a\u0430\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435.",
+    "ko_KR": "\uc9e7\uc740 \uac70\ub9ac\ub97c \uad74\ub7ec\uac11\ub2c8\ub2e4.",
+    "zh_TW": "\u7ffb\u6efe\u4e00\u5c0f\u6bb5\u8ddd\u96e2\u3002",
+    "zh_CN": "\u8fdb\u884c\u77ed\u8ddd\u79bb\u7ffb\u6eda\u3002"
+  }
 }

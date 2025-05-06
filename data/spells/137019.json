@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "137019"
+  "SpellID": "137019",
+  "name_blz": {
+    "en_US": "Fire Mage",
+    "es_MX": "Mago de Fuego",
+    "pt_BR": "Mago de Fogo",
+    "de_DE": "Feuermagier",
+    "en_GB": "Fire Mage",
+    "es_ES": "Mago Fuego",
+    "fr_FR": "Mage Feu",
+    "it_IT": "Mago (Fuoco)",
+    "ru_RU": "\u041c\u0430\u0433 - \u041e\u0433\u043e\u043d\u044c",
+    "ko_KR": "\ud654\uc5fc \ub9c8\ubc95\uc0ac",
+    "zh_TW": "\u706b\u7130\u6cd5\u5e2b",
+    "zh_CN": "\u706b\u7130\u6cd5\u5e08"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "92258"
+  "SpellID": "92258",
+  "name_blz": {
+    "en_US": "Agiilty 70",
+    "es_MX": "Agilidad 70",
+    "pt_BR": "Agilidade 70",
+    "de_DE": "Beweglichkeit 70",
+    "en_GB": "Agiilty 70",
+    "es_ES": "Agilidad 70",
+    "fr_FR": "Agilit\u00e9 : 70",
+    "it_IT": "Agiilty 70",
+    "ru_RU": "\u041b\u043e\u0432\u043a\u043e\u0441\u0442\u044c 70",
+    "ko_KR": "\ubbfc\ucca9\uc131 70",
+    "zh_TW": "\u654f\u637770",
+    "zh_CN": "\u654f\u6377 70"
+  },
+  "description_blz": {
+    "en_US": "Increases Agility by 0.",
+    "es_MX": "Aumenta la agilidad 0 p.",
+    "pt_BR": "Aumenta em 0 a Agilidade.",
+    "de_DE": "Erh\u00f6ht die Beweglichkeit um 0.",
+    "en_GB": "Increases Agility by 0.",
+    "es_ES": "Aumenta la agilidad 0 p.",
+    "fr_FR": "Augmente l'Agilit\u00e9 de 0.",
+    "it_IT": "Aumenta l'Agilit\u00e0 di 0.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043b\u043e\u0432\u043a\u043e\u0441\u0442\u044c \u043d\u0430 0.",
+    "ko_KR": "\ubbfc\ucca9\uc131\uc774 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u654f\u6377\u63d0\u9ad80\u9ede\u3002",
+    "zh_CN": "\u654f\u6377\u63d0\u9ad80\u70b9\u3002"
+  }
 }

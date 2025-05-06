@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "132467"
+  "SpellID": "132467",
+  "name_blz": {
+    "en_US": "Chi Wave",
+    "es_MX": "Ola de chi",
+    "pt_BR": "Onda de Chi",
+    "de_DE": "Chiwelle",
+    "en_GB": "Chi Wave",
+    "es_ES": "Ola de chi",
+    "fr_FR": "Onde de chi",
+    "it_IT": "Ondata del Chi",
+    "ru_RU": "\u0412\u043e\u043b\u043d\u0430 \u0446\u0438",
+    "ko_KR": "\uae30\uc758 \ubb3c\uacb0",
+    "zh_TW": "\u771f\u6c23\u6ce2",
+    "zh_CN": "\u771f\u6c14\u6ce2"
+  },
+  "description_blz": {
+    "en_US": "Every 15 sec, your next Rising Sun Kick or Vivify releases a wave of Chi energy that flows through friends and foes, dealing 106 Nature damage or 323 healing. Bounces up to 7 times to targets within 25 yards.",
+    "es_MX": "Cada 15 s, tu siguiente Patada del sol naciente o Vivificar libera una oleada de energ\u00eda de chi que fluye a trav\u00e9s de aliados y enemigos, lo que inflige 105 p. de da\u00f1o de naturaleza o restaura 313 p. de salud. Rebota hasta 7 veces hacia objetivos en un radio de 25 m.",
+    "pt_BR": "A cada 15 s, seu pr\u00f3ximo Chute do Sol Nascente ou Vivificar solta uma onda de energia de Chi que flui atrav\u00e9s de aliados e inimigos, causando 106 de dano de Natureza ou curando 313 pontos de vida. Salta at\u00e9 7 vezes para alvos em um raio de 25 m.",
+    "de_DE": "Alle 15 Sek. entfesselt Euer n\u00e4chster Einsatz von 'Tritt der aufgehenden Sonne' oder 'Beleben' eine Welle aus Chienergie, die durch Verb\u00fcndete und Gegner flie\u00dft und 106 Naturschaden beziehungsweise 314 Heilung verursacht. Springt bis zu 7-mal auf Ziele innerhalb von 25 Metern \u00fcber.",
+    "en_GB": "Every 15 sec, your next Rising Sun Kick or Vivify releases a wave of Chi energy that flows through friends and foes, dealing 107 Nature damage or 319 healing. Bounces up to 7 times to targets within 25 yards.",
+    "es_ES": "Cada 15\u00a0s, tu siguiente Patada del sol naciente o Vivificar libera una ola de energ\u00eda chi que atraviesa a amigos y enemigos por igual. Inflige 106 p. de da\u00f1o de Naturaleza o sana 321 p. de salud. Rebota hasta 7 veces en los objetivos en un radio de 25 m.",
+    "fr_FR": "Toutes les 15\u00a0s, votre prochain Coup de pied du Soleil levant ou Vivifier lib\u00e8re une onde de chi qui traverse les personnages alli\u00e9s et adversaires, infligeant 105\u00a0points de d\u00e9g\u00e2ts de nature ou rendant 324\u00a0points de vie. L\u2019onde rebondit jusqu\u2019\u00e0 7\u00a0fois vers des cibles \u00e0 moins de 25\u00a0m.",
+    "it_IT": "Ogni 15 s, il successivo lancio di Calcio del Sole Nascente o Vivificazione scatena un'ondata d'energia del chi che travolge amici e nemici, infliggendo 105 danni da natura o fornendo 311 cure. L'ondata rimbalza per un massimo di 7 volte sui bersagli entro 25 m.",
+    "ru_RU": "\u0420\u0430\u0437 \u0432 15 \u0441\u0435\u043a. \u0432\u0430\u0448\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0423\u0434\u0430\u0440 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u0438\u043b\u0438 \"\u041e\u0436\u0438\u0432\u0438\u0442\u044c\" \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432\u043e\u043b\u043d\u0443 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0446\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0430\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u043d\u0430\u043d\u043e\u0441\u044f 106 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0438\u043b\u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f 316 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u041f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u043c\u0435\u0436\u0434\u0443 \u0446\u0435\u043b\u044f\u043c\u0438 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 25 \u043c \u0434\u043e 7 \u0440\u0430\u0437.",
+    "ko_KR": "15\ucd08\ub9c8\ub2e4 \ub2e4\uc74c \ud574\uc624\ub984\ucc28\uae30 \ub610\ub294 \uc0dd\uae30 \ucda9\uc804 \uc0ac\uc6a9 \uc2dc \uae30\uc758 \ubb3c\uacb0\uc744 \ubc29\ucd9c\ud574 \uc544\uad70\uacfc \uc801\uc744 \ub118\ub098\ub4e4\uba70 107\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\ud788\uac70\ub098 313\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. \ucd5c\ub300 7\ubc88\uae4c\uc9c0 25\ubbf8\ud130 \ub0b4\uc758 \ub300\uc0c1\uc5d0\uac8c \ud295\uae41\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf15\u79d2\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u7fd4\u967d\u8173\u6216\u751f\u6c23\u52c3\u52c3\u6703\u91cb\u653e\u771f\u6c23\u5728\u76df\u53cb\u8207\u6575\u4eba\u4e4b\u9593\u6d41\u7ac4\uff0c\u9020\u6210107\u9ede\u81ea\u7136\u50b7\u5bb3\u6216\u6cbb\u7642316\u9ede\u751f\u547d\u529b\u3002\u6700\u591a\u53ef\u572825\u78bc\u5167\u7684\u76ee\u6a19\u4e4b\u9593\u5f48\u8df37\u6b21\u3002",
+    "zh_CN": "\u6bcf\u8fc715\u79d2\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u65ed\u65e5\u4e1c\u5347\u8e22\u6216\u6d3b\u8840\u672f\u4f1a\u91ca\u653e\u4e00\u9053\u771f\u6c14\u80fd\u91cf\u6ce2\u62c2\u8fc7\u4f60\u7684\u76df\u53cb\u548c\u654c\u4eba\uff0c\u9020\u6210107\u70b9\u81ea\u7136\u4f24\u5bb3\u6216\u6062\u590d316\u70b9\u751f\u547d\u503c\u3002\u53ef\u5f39\u5c04\u523025\u7801\u8303\u56f4\u5185\u7684\u76ee\u6807\u8eab\u4e0a\uff0c\u6700\u591a\u5f39\u5c047\u6b21\u3002"
+  }
 }

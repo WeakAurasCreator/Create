@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "137023"
+  "SpellID": "137023",
+  "name_blz": {
+    "en_US": "Brewmaster Monk",
+    "es_MX": "Monje maestro cervecero",
+    "pt_BR": "Monge Mestre Cervejeiro",
+    "de_DE": "Braumeisterm\u00f6nch",
+    "en_GB": "Brewmaster Monk",
+    "es_ES": "Monje Maestro cervecero",
+    "fr_FR": "Moine Ma\u00eetre brasseur",
+    "it_IT": "Monaco (Mastro Birraio)",
+    "ru_RU": "\u041c\u043e\u043d\u0430\u0445 - \u0425\u043c\u0435\u043b\u0435\u0432\u0430\u0440",
+    "ko_KR": "\uc591\uc870 \uc218\ub3c4\uc0ac",
+    "zh_TW": "\u91c0\u9152\u6b66\u50e7",
+    "zh_CN": "\u9152\u4ed9\u6b66\u50e7"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "137050"
+  "SpellID": "137050",
+  "name_blz": {
+    "en_US": "Fury Warrior",
+    "es_MX": "Guerrero de furia",
+    "pt_BR": "Guerreiro de F\u00faria",
+    "de_DE": "Furorkrieger",
+    "en_GB": "Fury Warrior",
+    "es_ES": "Guerrero Furia",
+    "fr_FR": "Guerrier Fureur",
+    "it_IT": "Guerriero (Furia)",
+    "ru_RU": "\u0412\u043e\u0438\u043d - \u041d\u0435\u0438\u0441\u0442\u043e\u0432\u0441\u0442\u0432\u043e",
+    "ko_KR": "\ubd84\ub178 \uc804\uc0ac",
+    "zh_TW": "\u72c2\u6012\u6230\u58eb",
+    "zh_CN": "\u72c2\u6012\u6218\u58eb"
+  },
+  "description_blz": {}
 }

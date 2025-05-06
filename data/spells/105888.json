@@ -34,5 +34,27 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "105888"
+  "SpellID": "105888",
+  "name_blz": {
+    "en_US": "Item - Warlock T13 2P Bonus (Haste)",
+    "es_MX": "Item - Warlock T13 2P Bonus (Haste)",
+    "pt_BR": "Item \u2013 B\u00f4nus 2P de Bruxo T13 (Acelera\u00e7\u00e3o)",
+    "en_GB": "Item - Warlock T13 2P Bonus (Haste)",
+    "es_ES": "Item - Warlock T13 2P Bonus (Haste)",
+    "it_IT": "Item - Warlock T13 2P Bonus (Haste)"
+  },
+  "description_blz": {
+    "en_US": "Haste increased by 5%.",
+    "es_MX": "Celeridad aumentada un 5%.",
+    "pt_BR": "Acelera\u00e7\u00e3o aumentada em 5%.",
+    "de_DE": "Erh\u00f6ht Euer Tempo um 5%.",
+    "en_GB": "Haste increased by 5%.",
+    "es_ES": "Celeridad aumentada un 5%.",
+    "fr_FR": "H\u00e2te augment\u00e9e de 5%.",
+    "it_IT": "Aumenta la celerit\u00e0 del 5%.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 5%.",
+    "ko_KR": "\uac00\uc18d 5%\ub9cc\ud07c \uc99d\uac00",
+    "zh_TW": "\u52a0\u901f\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u6025\u901f\u63d0\u9ad85%\u3002"
+  }
 }
