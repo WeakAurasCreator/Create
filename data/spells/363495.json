@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "363495"
+  "SpellID": "363495",
+  "name_blz": {
+    "en_US": "Ephemeral Incarnation",
+    "es_MX": "Encarnaci\u00f3n ef\u00edmera",
+    "pt_BR": "Encarna\u00e7\u00e3o Ef\u00eamera",
+    "de_DE": "Ephemere Inkarnation",
+    "en_GB": "Ephemeral Incarnation",
+    "es_ES": "Encarnaci\u00f3n ef\u00edmera",
+    "fr_FR": "Incarnation \u00e9ph\u00e9m\u00e8re",
+    "it_IT": "Incarnazione Effimera",
+    "ru_RU": "\u042d\u0444\u0435\u043c\u0435\u0440\u043e\u0432\u044b\u0435 \u0447\u0430\u0440\u044b",
+    "ko_KR": "\ucc30\ub098\uc758 \ud654\uc2e0",
+    "zh_TW": "\u5143\u8cea\u5316\u8eab",
+    "zh_CN": "\u5e7b\u78f7\u5316\u8eab"
+  },
+  "description_blz": {
+    "en_US": "Every 3 casts of Swiftmend grants you Incarnation: Tree of Life for 9 sec.",
+    "es_MX": "Cada 3 lanzamientos de Alivio presto, obtienes Encarnaci\u00f3n: \u00c1rbol de vida durante 9 s.",
+    "pt_BR": "Cada 3 de Recomposi\u00e7\u00e3o R\u00e1pida concede Encarna\u00e7\u00e3o: \u00c1rvore da Vida por 9 s.",
+    "de_DE": "Jeder 3. Einsatz von 'Rasche Heilung' gew\u00e4hrt Euch f\u00fcr 9 Sek. 'Inkarnation: Baum des Lebens'.",
+    "en_GB": "Every 3 casts of Swiftmend grants you Incarnation: Tree of Life for 9 sec.",
+    "es_ES": "Cada 3 lanzamientos de Alivio presto, recibes Encarnaci\u00f3n: \u00c1rbol de vida durante 9 s.",
+    "fr_FR": "Vous recevez Incarnation\u00a0: Arbre de vie pendant 9\u00a0s toutes les 3\u00a0incantations de Prompte gu\u00e9rison.",
+    "it_IT": "Ogni 3 lanci di Guarigione Immediata si ottiene Incarnazione: Albero della Vita per 9 s.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u043e\u0435 3-\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \"\u0411\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\" \u0434\u0430\u0435\u0442 \u0432\u0430\u043c \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0412\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u0435: \u0434\u0440\u0435\u0432\u043e \u0436\u0438\u0437\u043d\u0438\" \u043d\u0430 9 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\uc18d\ud55c \uce58\uc720\ub97c 3\ubc88 \uc2dc\uc804\ud560 \ub54c\ub9c8\ub2e4 9\ucd08 \ub3d9\uc548 \ud654\uc2e0: \uc0dd\uba85\uc758 \ub098\ubb34\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u65bd\u653e3\u6b21\u8fc5\u7652\u53ef\u8ce6\u4e88\u4f60\u5316\u8eab\uff1a\u751f\u547d\u4e4b\u6a39\uff0c\u6301\u7e8c9\u79d2\u3002",
+    "zh_CN": "\u4f60\u6bcf\u65bd\u653e3\u6b21\u8fc5\u6377\u6cbb\u6108\uff0c\u5c31\u4f1a\u83b7\u5f97\u5316\u8eab\uff1a\u751f\u547d\u4e4b\u6811\u6548\u679c\uff0c\u6301\u7eed9\u79d2\u3002"
+  }
 }

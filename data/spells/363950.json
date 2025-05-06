@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "363950"
+  "SpellID": "363950",
+  "name_blz": {
+    "en_US": "Avatar of Destruction",
+    "es_MX": "Avatar de la destrucci\u00f3n",
+    "pt_BR": "Avatar da Destrui\u00e7\u00e3o",
+    "de_DE": "Avatar der Zerst\u00f6rung",
+    "en_GB": "Avatar of Destruction",
+    "es_ES": "Avatar de destrucci\u00f3n",
+    "fr_FR": "Avatar de destruction",
+    "it_IT": "Avatar della Distruzione",
+    "ru_RU": "\u0410\u0432\u0430\u0442\u0430\u0440\u0430 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u0438\u044f",
+    "ko_KR": "\ud30c\uad34\uc758 \ud654\uc2e0",
+    "zh_TW": "\u6bc0\u6ec5\u5316\u8eab",
+    "zh_CN": "\u6bc1\u706d\u5316\u8eab"
+  },
+  "description_blz": {
+    "en_US": "When Chaos Bolt or Rain of Fire consumes a charge of Ritual of Ruin, you summon a Blasphemy for 8 sec.",
+    "es_MX": "Cuando tu Descarga de caos o Lluvia de fuego consumen una carga de Ritual de ruina, invocas una Blasfemia durante 8 s.",
+    "pt_BR": "Quando a Seta do Caos ou a Chuva de Fogo consomem uma carga de Ritual de Ru\u00edna, voc\u00ea evoca uma Blasf\u00eamia por 8 s.",
+    "de_DE": "Wenn 'Chaosblitz' oder 'Feuerregen' eine Aufladung von 'Ritual des Ruins' verbrauchen, beschw\u00f6rt Ihr f\u00fcr 8 Sek. eine Blasphemie.",
+    "en_GB": "When Chaos Bolt or Rain of Fire consumes a charge of Ritual of Ruin, you summon a Blasphemy for 8 sec.",
+    "es_ES": "Cuando Descarga de caos o Lluvia de Fuego consumen una carga de Ritual de ruina, invocas una blasfemia durante 8 s.",
+    "fr_FR": "Vous invoquez un blasph\u00e8me pendant 8\u00a0s chaque fois que Pluie de feu ou Trait du chaos consomme une charge de Rituel de ruine.",
+    "it_IT": "Quando Dardo del Caos o Pioggia di Fuoco consuma una carica di Rituale della Rovina, evoca una Blasfemia per 8 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u043b\u0438\u0432\u0435\u043d\u044c\" \u0438\u043b\u0438 \"\u0421\u0442\u0440\u0435\u043b\u0430 \u0425\u0430\u043e\u0441\u0430\" \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \"\u0420\u0438\u0442\u0443\u0430\u043b \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u0438\u044f\", \u0432\u044b \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u041a\u043e\u0449\u0443\u043d\u0441\u0442\u0432\u043e \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ud669\ud3d0\uc758 \uc758\uc2dd\uc744 \uc18c\ubaa8\ud558\uc5ec \ud63c\ub3c8\uc758 \ud654\uc0b4\uc774\ub098 \ubd88\uc758 \ube44\ub97c \uc2dc\uc804\ud558\uba74 8\ucd08 \ub3d9\uc548 \uc2e0\uc131\ubaa8\ub3c5\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6df7\u6c8c\u7bad\u6216\u706b\u96e8\u8853\u6d88\u8017\u4e00\u6b21\u6bc0\u6ec5\u5100\u5f0f\u6642\uff0c\u4f60\u6703\u53ec\u559a\u4e00\u500b\u893b\u7006\u9b54\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u5f53\u6df7\u4e71\u4e4b\u7bad\u6216\u706b\u7130\u4e4b\u96e8\u6d88\u8017\u4e00\u5c42\u6bc1\u706d\u4eea\u5f0f\u6548\u679c\u65f6\uff0c\u4f60\u53ec\u5524\u4e00\u53ea\u6e0e\u795e\u9b54\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }
