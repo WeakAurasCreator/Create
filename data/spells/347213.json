@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "347213"
+  "SpellID": "347213",
+  "name_blz": {
+    "en_US": "Fueled by Violence",
+    "es_MX": "Alimentado por la violencia",
+    "pt_BR": "Alimentado pela Viol\u00eancia",
+    "de_DE": "Von Gewalt getrieben",
+    "en_GB": "Fueled by Violence",
+    "es_ES": "Impulsado por la violencia",
+    "fr_FR": "Attis\u00e9 par la violence",
+    "it_IT": "Alimentato dalla Violenza",
+    "ru_RU": "\u041c\u043e\u0442\u0438\u0432\u0438\u0440\u0443\u044e\u0449\u0435\u0435 \u043d\u0430\u0441\u0438\u043b\u0438\u0435",
+    "ko_KR": "\uaca9\ub82c\ud55c \uc6d0\ub3d9\ub825",
+    "zh_TW": "\u66b4\u529b\u50ac\u5316",
+    "zh_CN": "\u6b8b\u66b4\u52a8\u529b"
+  },
+  "description_blz": {
+    "en_US": "You are healed for 15.0% of the damage dealt by Deep Wounds.",
+    "es_MX": "Te sanas por un 15.0% del da\u00f1o infligido por Heridas profundas.",
+    "pt_BR": "Voc\u00ea recebe uma cura equivalente a 15,0% do dano causado por Feridas Profundas.",
+    "de_DE": "Heilt Euch um 15,0% des von 'Tiefe Wunden' verursachten Schadens.",
+    "en_GB": "You are healed for 15.0% of the damage dealt by Deep Wounds.",
+    "es_ES": "Te sanas un 15,0% del da\u00f1o infligido por Heridas profundas.",
+    "fr_FR": "Vous r\u00e9cup\u00e9rez un montant de points de vie \u00e9gal \u00e0 15,0% des d\u00e9g\u00e2ts inflig\u00e9s par Blessures profondes.",
+    "it_IT": "Rigenera salute pari al 15,0% dei danni inflitti da Ferite Profonde.",
+    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 15,0% \u0443\u0440\u043e\u043d\u0430, \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \"\u0413\u043b\u0443\u0431\u043e\u043a\u0438\u043c\u0438 \u0440\u0430\u043d\u0430\u043c\u0438\".",
+    "ko_KR": "\uce58\uba85\uc0c1\uc73c\ub85c \uc785\ud78c \ud53c\ud574\uc758 15.0%\ub9cc\ud07c \uce58\uc720\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u6062\u5fa9\u76f8\u7576\u65bc\u91cd\u50b7\u9020\u6210\u7684\u50b7\u5bb3\u91cf\u768415.0%\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u91cd\u4f24\u9020\u6210\u4f24\u5bb3\u65f6\u4f1a\u4e3a\u4f60\u6062\u590d15.0%\u7684\u751f\u547d\u503c\u3002"
+  }
 }
