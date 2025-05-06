@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41857"
+  "SpellID": "41857",
+  "name_blz": {
+    "en_US": "Increased All Resist 08",
+    "es_MX": "Todas las resistencias aumentadas 08",
+    "pt_BR": "Aumenta todas as resist\u00eancias 08",
+    "de_DE": "Alle Widerstandsarten erh\u00f6ht 08",
+    "en_GB": "Increased All Resist 08",
+    "es_ES": "Todas las resistencias aumentadas 08",
+    "fr_FR": "Augmente toutes les r\u00e9sistances de 8",
+    "it_IT": "Tutte le Resistenze Migliorate 08",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u043c\u0443 8",
+    "ko_KR": "\ubaa8\ub4e0 \uc800\ud56d\ub825 \ud5a5\uc0c1",
+    "zh_TW": "\u63d0\u9ad8\u6240\u6709\u6297\u6027 08",
+    "zh_CN": "Increased All Resist 08"
+  },
+  "description_blz": {
+    "en_US": "Reduces magical damage taken by 5%.",
+    "es_MX": "Reduce el da\u00f1o m\u00e1gico recibido un 5%.",
+    "pt_BR": "Reduz em 5% o dano m\u00e1gico recebido.",
+    "de_DE": "Verringert den erlittenen Magieschaden um 5%.",
+    "en_GB": "Reduces magical damage taken by 5%.",
+    "es_ES": "Reduce el da\u00f1o m\u00e1gico recibido un 5%.",
+    "fr_FR": "R\u00e9duit les d\u00e9g\u00e2ts magiques subis de 5%.",
+    "it_IT": "Riduce tutti i danni magici subiti del 5%.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 5%.",
+    "ko_KR": "\ubc1b\ub294 \ubaa8\ub4e0 \ub9c8\ubc95 \ud53c\ud574\uac00 5%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53d7\u5230\u7684\u9b54\u6cd5\u50b7\u5bb3\u964d\u4f4e5%\u3002",
+    "zh_CN": "\u53d7\u5230\u7684\u6cd5\u672f\u4f24\u5bb3\u964d\u4f4e5%\u3002"
+  }
 }

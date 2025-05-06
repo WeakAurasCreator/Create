@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41871"
+  "SpellID": "41871",
+  "name_blz": {
+    "en_US": "Increased Fire Resist 10",
+    "es_MX": "Resistencia al Fuego aumentada 10",
+    "pt_BR": "Resist\u00eancia ao Fogo Aumentada 10",
+    "de_DE": "Erh\u00f6hter Feuerwiderstand 10",
+    "en_GB": "Increased Fire Resist 10",
+    "es_ES": "Resistencia al Fuego aumentada 10",
+    "fr_FR": "R\u00e9sistance au Feu augment\u00e9e\u00a0: 10",
+    "it_IT": "Resistenza al Fuoco Migliorata 10",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043e\u0433\u043d\u044e 10",
+    "ko_KR": "\ud654\uc5fc \uc800\ud56d\ub825 \ud5a5\uc0c1 10",
+    "zh_TW": "\u589e\u52a0\u706b\u7130\u6297\u6027 10",
+    "zh_CN": "Increased Fire Resist 10"
+  },
+  "description_blz": {
+    "en_US": "+5 Fire Resistance.",
+    "es_MX": "+5 p. de resistencia al Fuego.",
+    "pt_BR": "+5 Resist\u00eancia ao Fogo.",
+    "de_DE": "+5 Feuerwiderstand.",
+    "en_GB": "+5 Fire Resistance.",
+    "es_ES": "+5 p. de resistencia al Fuego.",
+    "fr_FR": "+5 \u00e0 la r\u00e9sistance au Feu.",
+    "it_IT": "+5 Resistenza al Fuoco.",
+    "ru_RU": "+5 \u043a \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u044e \u043e\u0433\u043d\u044e.",
+    "ko_KR": "\ud654\uc5fc \uc800\ud56d\ub825 +5",
+    "zh_TW": "+5\u9ede\u706b\u7130\u6297\u6027\u3002",
+    "zh_CN": "+5 \u706b\u7130\u6297\u6027\u3002"
+  }
 }

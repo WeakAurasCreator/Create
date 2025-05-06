@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41636"
+  "SpellID": "41636",
+  "name_blz": {
+    "en_US": "Increased Intellect 06",
+    "es_MX": "Intelecto aumentado 06",
+    "pt_BR": "Intelecto Aumentado 06",
+    "de_DE": "Erh\u00f6hte Intelligenz 06",
+    "en_GB": "Increased Intellect 06",
+    "es_ES": "Intelecto aumentado 06",
+    "fr_FR": "Intelligence augment\u00e9e 06",
+    "it_IT": "Intelletto Migliorato 06",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430 6",
+    "ko_KR": "\uc9c0\ub2a5 \ud5a5\uc0c1 6",
+    "zh_TW": "\u589e\u52a0\u667a\u529b 06",
+    "zh_CN": "Increased Intellect 06"
+  },
+  "description_blz": {
+    "en_US": "+0 Intellect.",
+    "es_MX": "+0 p. de intelecto.",
+    "pt_BR": "+0 Intelecto.",
+    "de_DE": "+0 Intelligenz.",
+    "en_GB": "+0 Intellect.",
+    "es_ES": "+0 p. de intelecto.",
+    "fr_FR": "+0 en Intelligence.",
+    "it_IT": "+0 Intelletto.",
+    "ru_RU": "+0 \u043a \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443.",
+    "ko_KR": "\uc9c0\ub2a5 +0",
+    "zh_TW": "+0\u9ede\u667a\u529b\u3002",
+    "zh_CN": "+0 \u667a\u529b\u3002"
+  }
 }

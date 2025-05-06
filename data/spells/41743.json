@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "41743"
+  "SpellID": "41743",
+  "name_blz": {
+    "en_US": "Increased Strength 25",
+    "es_MX": "Fuerza aumentada 25",
+    "pt_BR": "For\u00e7a Aumentada 25",
+    "de_DE": "Erh\u00f6hte St\u00e4rke 25",
+    "en_GB": "Increased Strength 25",
+    "es_ES": "Fuerza aumentada 25",
+    "fr_FR": "Force augment\u00e9e\u00a0: 25",
+    "it_IT": "Forza Migliorata 25",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0441\u0438\u043b\u0430 \u043d\u0430 25",
+    "ko_KR": "\ud798 \ud5a5\uc0c1 25",
+    "zh_TW": "\u589e\u52a0\u529b\u91cf 25",
+    "zh_CN": "Increased Strength 25"
+  },
+  "description_blz": {
+    "en_US": "+13 Strength.",
+    "es_MX": "+13 p. de fuerza.",
+    "pt_BR": "+13 For\u00e7a.",
+    "de_DE": "+13 St\u00e4rke.",
+    "en_GB": "+13 Strength.",
+    "es_ES": "+13 p. de fuerza.",
+    "fr_FR": "+13 en Force.",
+    "it_IT": "+13 Forza.",
+    "ru_RU": "+13 \u043a \u0441\u0438\u043b\u0435.",
+    "ko_KR": "\ud798 +13",
+    "zh_TW": "+13\u9ede\u529b\u91cf\u3002",
+    "zh_CN": "+13 \u529b\u91cf\u3002"
+  }
 }
