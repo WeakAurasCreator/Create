@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "3025"
+  "SpellID": "3025",
+  "name_blz": {
+    "en_US": "Cat Form",
+    "es_MX": "Forma felina",
+    "pt_BR": "Forma de Felino",
+    "de_DE": "Katzengestalt",
+    "en_GB": "Cat Form",
+    "es_ES": "Forma felina",
+    "fr_FR": "Forme de f\u00e9lin",
+    "it_IT": "Forma Felina",
+    "ru_RU": "\u041e\u0431\u043b\u0438\u043a \u043a\u043e\u0448\u043a\u0438",
+    "ko_KR": "\ud45c\ubc94 \ubcc0\uc2e0",
+    "zh_TW": "\u7375\u8c79\u5f62\u614b",
+    "zh_CN": "\u730e\u8c79\u5f62\u6001"
+  },
+  "description_blz": {}
 }
