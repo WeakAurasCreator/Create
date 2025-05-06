@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "454372"
+  "SpellID": "454372",
+  "name_blz": {
+    "en_US": "Surging Currents",
+    "es_MX": "Corrientes crecientes",
+    "pt_BR": "Correntes Rompantes",
+    "de_DE": "Wogende Str\u00f6mungen",
+    "en_GB": "Surging Currents",
+    "es_ES": "Corrientes emergentes",
+    "fr_FR": "Courants d\u00e9ferlants",
+    "it_IT": "Correnti Impetuose",
+    "ru_RU": "\u0411\u0443\u0440\u043d\u044b\u0435 \u043f\u043e\u0442\u043e\u043a\u0438",
+    "ko_KR": "\uc1c4\ub3c4\ud558\ub294 \ud574\ub958",
+    "zh_TW": "\u6d36\u6e67\u6c34\u6d41",
+    "zh_CN": "\u55b7\u8584\u4e4b\u6d41"
+  },
+  "description_blz": {
+    "en_US": "When you cast Tempest you gain Surging Currents, increasing the effectiveness of your next Chain Heal or Healing Surge by 20%, up to 100%.",
+    "es_MX": "Cuando lanzas Tempestad, obtienes Corrientes crecientes, lo que aumenta un 20% la efectividad de tu siguiente Sanaci\u00f3n en cadena u Oleada de sanaci\u00f3n, hasta un m\u00e1ximo de 100%.",
+    "pt_BR": "Quando lan\u00e7a Tormenta, voc\u00ea ganha Correntes Rompantes, aumentando em 20% a efic\u00e1cia da pr\u00f3xima Cura Encadeada ou Mar\u00e9 Curativa, at\u00e9 100%.",
+    "de_DE": "Wenn Ihr 'Sturmgewitter' zaubert, erlangt Ihr 'Wogende Str\u00f6mungen', die die Wirksamkeit Eures n\u00e4chsten Einsatzes von 'Kettenheilung' oder 'Heilende Woge' um 20% erh\u00f6hen, auf bis zu 100%.",
+    "en_GB": "When you cast Tempest you gain Surging Currents, increasing the effectiveness of your next Chain Heal or Healing Surge by 20%, up to 100%.",
+    "es_ES": "Cuando lanzas Tempestad, obtienes Corrientes emergentes, que aumenta un 20% la efectividad de tu siguiente Sanaci\u00f3n en cadena u Oleada de sanaci\u00f3n, hasta un m\u00e1ximo del 100%.",
+    "fr_FR": "Lorsque vous lancez Temp\u00eate, vous b\u00e9n\u00e9ficiez de Courants d\u00e9ferlants, ce qui augmente l\u2019efficacit\u00e9 de votre prochain sort Salve de gu\u00e9rison ou Afflux de soins de 20\u00a0%, jusqu\u2019\u00e0 un maximum de 100\u00a0%.",
+    "it_IT": "Lanciare Tempesta fornisce Correnti Impetuose, che aumenta l'efficacia del successivo lancio di Catena di Guarigione o Eruzione Benefica del 20%, fino al 100%.",
+    "ru_RU": "\"\u0411\u0443\u0440\u044f\" \u0434\u0430\u0435\u0442 \u0432\u0430\u043c \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0411\u0443\u0440\u043d\u044b\u0435 \u043f\u043e\u0442\u043e\u043a\u0438\", \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0426\u0435\u043f\u043d\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u0438\u043b\u0438 \"\u0418\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0432\u0441\u043f\u043b\u0435\u0441\u043a\u0430\" \u043d\u0430 20%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 100%.",
+    "ko_KR": "\ud3ed\ud48d \uc2dc\uc804 \uc2dc \uc1c4\ub3c4\ud558\ub294 \ud574\ub958\uac00 \ubd80\uc5ec\ub418\uc5b4 \ub2e4\uc74c \uc5f0\uc1c4 \uce58\uc720 \ub610\ub294 \uce58\uc720\uc758 \ud30c\ub3c4\uc758 \ud6a8\uacfc\uac00 20%\ub9cc\ud07c, \ucd5c\ub300 100%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u65bd\u653e\u66b4\u98a8\u96e8\u6642\uff0c\u6703\u7372\u5f97\u6d36\u6e67\u6c34\u6d41\uff0c\u4f7f\u4f60\u4e0b\u4e00\u500b\u6cbb\u7642\u934a\u6216\u6d36\u6e67\u6cbb\u7642\u7684\u6548\u679c\u63d0\u9ad820%\uff0c\u6700\u591a\u63d0\u9ad8100%\u3002",
+    "zh_CN": "\u5f53\u65bd\u653e\u72c2\u98ce\u6012\u53f7\u65f6\uff0c\u4f60\u83b7\u5f97\u55b7\u8584\u4e4b\u6d41\uff0c\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u6cbb\u7597\u94fe\u6216\u6cbb\u7597\u4e4b\u6d8c\u7684\u6548\u679c\u63d0\u9ad820%\uff0c\u6700\u9ad8100%\u3002"
+  }
 }

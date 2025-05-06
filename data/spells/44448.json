@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "44448"
+  "SpellID": "44448",
+  "name_blz": {
+    "en_US": "Pyroblast Clearcasting Driver",
+    "es_MX": "Pyroblast Clearcasting Driver",
+    "pt_BR": "Operador de Lan\u00e7amento Livre de Ignimpacto",
+    "de_DE": "Pyroblast Clearcasting Driver",
+    "en_GB": "Pyroblast Clearcasting Driver",
+    "es_ES": "Pyroblast Clearcasting Driver",
+    "fr_FR": "Pilote de suppression d\u2019explosion pyrotechnique",
+    "it_IT": "Controllo Lancio Istintivo di Pirosfera",
+    "ru_RU": "\u042f\u0441\u043d\u043e\u0441\u0442\u044c \u043c\u044b\u0441\u043b\u0438 \u041e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0433\u043b\u044b\u0431\u0430",
+    "ko_KR": "\ubd88\ub369\uc774 \uc791\ub82c \ubc88\ub729\uc784 \ucd94\uc9c4",
+    "zh_TW": "\u708e\u7206\u8853\u7bc0\u80fd\u65bd\u6cd5\u9a45\u52d5",
+    "zh_CN": "Pyroblast Clearcasting Driver"
+  },
+  "description_blz": {}
 }

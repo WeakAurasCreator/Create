@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "473522"
+  "SpellID": "473522",
+  "name_blz": {
+    "en_US": "Magnetic Gunpowder",
+    "es_MX": "P\u00f3lvora magn\u00e9tica",
+    "pt_BR": "P\u00f3lvora Magn\u00e9tica",
+    "de_DE": "Magnetisches Schie\u00dfpulver",
+    "en_GB": "Magnetic Gunpowder",
+    "es_ES": "P\u00f3lvora magn\u00e9tica",
+    "fr_FR": "Poudre \u00e0 canon magn\u00e9tique",
+    "it_IT": "Polvere da Sparo Magnetica",
+    "ru_RU": "\u041c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439 \u043f\u043e\u0440\u043e\u0445",
+    "ko_KR": "\uc804\uc790\uae30 \ud654\uc57d",
+    "zh_TW": "\u78c1\u6027\u706b\u85e5",
+    "zh_CN": "\u78c1\u6027\u706b\u836f"
+  },
+  "description_blz": {
+    "en_US": "Consuming Precise Shots reduces the cooldown of Explosive Shot by 2.0 sec.\r\n\r\nConsuming Lock and Load reduces the cooldown of Explosive Shot by 8.0 sec.",
+    "es_MX": "Consumir Disparos precisos reduce 2.0 s el tiempo de reutilizaci\u00f3n de Disparo explosivo.\r\n\r\nConsumir Bloquear y cargar reduce 8.0 s el tiempo de reutilizaci\u00f3n de Disparo explosivo.",
+    "pt_BR": "Consumir Tiros Precisos reduz em 2,0 s a recarga de Tiro Explosivo.\r\n\r\nConsumir Largar o Dedo reduz em 8. 1 s a recarga de Tiro Explosivo.",
+    "de_DE": "Der Verbrauch von 'Pr\u00e4zise Sch\u00fcsse' verringert die Abklingzeit von 'Explosivschuss' um 2,0 Sek.\r\n\r\nDer Verbrauch von 'Sichern und Laden' verringert die Abklingzeit von 'Explosivschuss' um 8,0 Sek.",
+    "en_GB": "Consuming Precise Shots reduces the cooldown of Explosive Shot by 2.0 sec.\r\n\r\nConsuming Lock and Load reduces the cooldown of Explosive Shot by 8.0 sec.",
+    "es_ES": "Al consumir Disparos precisos, se reduce 2,0 s el tiempo de reutilizaci\u00f3n de Disparo explosivo.\r\n\r\nAl consumir Bloquear y cargar, se reduce 8,0 s el tiempo de reutilizaci\u00f3n de Disparo explosivo.",
+    "fr_FR": "Le fait de consommer Tir pr\u00e9cis r\u00e9duit le temps de recharge de Tir explosif de 2,0\u00a0s.\r\n\r\nLe fait de consommer Pr\u00eat \u00e0 tirer r\u00e9duit le temps de recharge de Tir explosif de 8,0\u00a0s.",
+    "it_IT": "Consumare Tiri Precisi riduce il tempo di recupero di Tiro Esplosivo di 2,0 s.\r\n\r\nConsumare Pronto al Tiro riduce il tempo di recupero di Tiro Esplosivo di 8,0 s.",
+    "ru_RU": "\u041f\u0440\u0438 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u0422\u043e\u0447\u043d\u044b\u0435 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u044b\" \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0420\u0430\u0437\u0440\u044b\u0432\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 2,0 \u0441\u0435\u043a.\r\n\r\n\u041f\u0440\u0438 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041d\u0430 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043a\u0443!\" \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0420\u0430\u0437\u0440\u044b\u0432\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 8,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\ubc00 \uc0ac\uaca9\uc744 \uc18c\ubaa8\ud558\uba74 \ud3ed\ubc1c \uc0ac\uaca9\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\uc2e4\ud0c4 \uc7a5\uc804\uc744 \uc18c\ubaa8\ud558\uba74 \ud3ed\ubc1c \uc0ac\uaca9\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 8.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4,",
+    "zh_TW": "\u6d88\u8017\u7cbe\u6e96\u5c04\u64ca\u6703\u4f7f\u7206\u88c2\u5c04\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2.0\u79d2\u3002\r\n\r\n\u6d88\u8017\u84c4\u52e2\u5f85\u767c\u6703\u4f7f\u7206\u88c2\u5c04\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed8.0\u79d2\u3002",
+    "zh_CN": "\u6d88\u8017\u5f39\u65e0\u865a\u53d1\u4f1a\u4f7f\u7206\u70b8\u5c04\u51fb\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2.0\u79d2\u3002\r\n\r\n\u6d88\u8017\u8377\u67aa\u5b9e\u5f39\u6548\u679c\u65f6\u4f7f\u7206\u70b8\u5c04\u51fb\u51b7\u5374\u65f6\u95f4\u7f29\u77ed8.0\u79d2\u3002"
+  }
 }

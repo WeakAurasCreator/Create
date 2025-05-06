@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "457060"
+  "SpellID": "457060",
+  "name_blz": {
+    "en_US": "Lessons of Space-Time [NYI]",
+    "en_GB": "Lessons of Space-Time [NYI]"
+  },
+  "description_blz": {
+    "en_US": "While you have a Dimensional Rift open, all of your damage is increased by 0%.",
+    "es_MX": "Todo tu da\u00f1o aumenta un 0% mientras tengas abierta una Falla dimensional.",
+    "pt_BR": "Enquanto voc\u00ea tiver uma Fenda Dimensional aberta, todo o seu dano ser\u00e1 aumentado em 0%.",
+    "de_DE": "Erh\u00f6ht jeglichen verursachten Schaden um 0%, solange ein 'Dimensionsriss' offen ist.",
+    "en_GB": "While you have a Dimensional Rift open, all of your damage is increased by 0%.",
+    "es_ES": "Mientras tienes una Falla dimensional abierta, todo tu da\u00f1o aumenta un 0%.",
+    "fr_FR": "Tant qu\u2019une faille dimensionnelle est ouverte, vos d\u00e9g\u00e2ts sont augment\u00e9s de 0\u00a0%.",
+    "it_IT": "Finch\u00e9 c'\u00e8 una Fenditura Dimensionale aperta, i danni inflitti aumentano del 0%.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u043c\u0438 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0440\u0430\u0437\u043b\u043e\u043c, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 0%.",
+    "ko_KR": "\ucc28\uc6d0\uc758 \uade0\uc5f4\uc774 \uc5f4\ub824 \uc788\ub294 \ub3d9\uc548 \ubaa8\ub4e0 \uacf5\uaca9\ub825\uc774 0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u958b\u555f\u6b21\u5143\u88c2\u9699\u6642\uff0c\u4f60\u7684\u6240\u6709\u50b7\u5bb3\u63d0\u9ad80%\u3002",
+    "zh_CN": "\u4f60\u5f00\u542f\u7684\u6b21\u5143\u88c2\u9699\u5b58\u5728\u671f\u95f4\uff0c\u9020\u6210\u7684\u6240\u6709\u4f24\u5bb3\u63d0\u9ad80%\u3002"
+  }
 }

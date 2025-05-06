@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "457022"
+  "SpellID": "457022",
+  "name_blz": {
+    "en_US": "Ethereal Cloak",
+    "es_MX": "Capa et\u00e9rea",
+    "pt_BR": "Manto Et\u00e9reo",
+    "de_DE": "\u00c4therische Verschleierung",
+    "en_GB": "Ethereal Cloak",
+    "es_ES": "Capa et\u00e9rea",
+    "fr_FR": "Cape \u00e9th\u00e9r\u00e9e",
+    "it_IT": "Manto Etereo",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u0440\u0430\u0447\u043d\u0430\u044f \u043c\u0430\u043d\u0442\u0438\u044f",
+    "ko_KR": "\uc2e4\uccb4 \uc5c6\ub294 \uc740\ud3d0\ub9c9",
+    "zh_TW": "\u9748\u9ad4\u62ab\u98a8",
+    "zh_CN": "\u865a\u6e3a\u6597\u7bf7"
+  },
+  "description_blz": {
+    "en_US": "Cloak of Shadows duration increased by 2 sec.",
+    "es_MX": "La duraci\u00f3n de Capa de las sombras aumenta 2 s.",
+    "pt_BR": "Dura\u00e7\u00e3o de Manto das Sombras aumentada em 2 s.",
+    "de_DE": "Erh\u00f6ht die Dauer von 'Mantel der Schatten' um 2 Sek.",
+    "en_GB": "Cloak of Shadows duration increased by 2 sec.",
+    "es_ES": "La duraci\u00f3n de Capa de las Sombras aumenta 2 s.",
+    "fr_FR": "La dur\u00e9e de Cape d\u2019ombre est augment\u00e9e de 2\u00a0s.",
+    "it_IT": "Aumenta la durata di Manto d'Ombra di 2 s.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041f\u043b\u0430\u0449\u0430 \u0442\u0435\u043d\u0435\u0439\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 2 \u0441\u0435\u043a.",
+    "ko_KR": "\uadf8\ub9bc\uc790 \ub9dd\ud1a0\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6697\u5f71\u62ab\u98a8\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95772\u79d2\u3002",
+    "zh_CN": "\u6697\u5f71\u6597\u7bf7\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f2\u79d2\u3002"
+  }
 }

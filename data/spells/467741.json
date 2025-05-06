@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "467741"
+  "SpellID": "467741",
+  "name_blz": {
+    "en_US": "Shadow Dagger",
+    "es_MX": "Daga de las sombras",
+    "pt_BR": "Adaga Sombria",
+    "de_DE": "Schattendolch",
+    "en_GB": "Shadow Dagger",
+    "es_ES": "Daga de las Sombras",
+    "fr_FR": "Dague de l\u2019ombre",
+    "it_IT": "Pugnale d'Ombra",
+    "ru_RU": "\u041a\u0438\u043d\u0436\u0430\u043b \u0442\u0435\u043d\u0438",
+    "ko_KR": "\uc5b4\ub460\uc758 \ube44\uc218",
+    "zh_TW": "\u6697\u5f71\u5315\u9996",
+    "zh_CN": "\u6697\u5f71\u5315\u9996"
+  },
+  "description_blz": {
+    "en_US": "While in combat, Disengage releases a fan of shadow daggers, dealing 2 Shadow damage per second and reducing affected target's movement speed by 30% for 6 sec.",
+    "es_MX": "Durante el combate, al lanzar Separaci\u00f3n se libera un abanico de dagas que inflige 2 p. de da\u00f1o de las sombras por segundo y reduce un 30% la velocidad de movimiento del objetivo afectado durante 6 s.",
+    "pt_BR": "Em combate, lan\u00e7ar Desvencilhar solta um leque de adagas sombrias, causando 2 de dano de Sombra por segundo e reduzindo em 30% a velocidade de movimento do alvo por 6 s.",
+    "de_DE": "Im Kampf entfesselt 'R\u00fcckzug' einen F\u00e4cher aus Schattendolchen, der pro Sek. 2 Schattenschaden verursacht und die Bewegungsgeschwindigkeit des betroffenen Ziels 6 Sek. lang um 30% verringert.",
+    "en_GB": "While in combat, Disengage releases a fan of shadow daggers, dealing 2 Shadow damage per second and reducing affected target's movement speed by 30% for 6 sec.",
+    "es_ES": "Mientras est\u00e9s en combate, Separaci\u00f3n libera un abanico de dagas sombr\u00edas que infligen 2 p. de da\u00f1o de las Sombras por segundo y reducen un 30% la velocidad de movimiento del objetivo afectado durante 6 s.",
+    "fr_FR": "Lorsque vous \u00eates en combat, D\u00e9sengagement lib\u00e8re un \u00e9ventail de dagues d\u2019ombres, infligeant 2\u00a0points de d\u00e9g\u00e2ts d\u2019ombre par seconde et r\u00e9duisant la vitesse de d\u00e9placement des cibles affect\u00e9es de 30\u00a0% pendant 6 s.",
+    "it_IT": "Quando si \u00e8 in combattimento, lanciare Disimpegno scaglia una ventata di pugnali d'ombra, infliggendo 2 danni da ombra al secondo e riducendo la velocit\u00e0 di movimento del bersaglio colpito del 30% per 6 s.",
+    "ru_RU": "\u0412 \u0431\u043e\u044e \"\u041e\u0442\u0440\u044b\u0432\" \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432\u0435\u0435\u0440 \u043a\u043b\u0438\u043d\u043a\u043e\u0432, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0445 2 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0440\u0430\u0437 \u0432 \u0441\u0435\u043a. \u0438 \u0441\u043d\u0438\u0436\u0430\u044e\u0449\u0438\u0445 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0446\u0435\u043b\u0435\u0439 \u043d\u0430 30%. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc804\ud22c \uc911 \ucca0\uc218 \uc2dc\uc804 \uc2dc \uc554\ud751\uc758 \ub2e8\uac80\uc744 \uc77c\uc81c\ud788 \ud22c\ucc99\ud558\uc5ec 1\ucd08\ub9c8\ub2e4 2\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc601\ud5a5\uc744 \ubc1b\ub294 \ub300\uc0c1\uc758 \uc774\ub3d9 \uc18d\ub3c4\ub97c 6\ucd08 \ub3d9\uc548 30%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6230\u9b25\u6642\uff0c\u9003\u812b\u6703\u91cb\u653e\u98db\u821e\u7684\u6697\u5f71\u5315\u9996\uff0c\u6bcf\u79d2\u9020\u62102\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4f7f\u53d7\u5f71\u97ff\u76ee\u6a19\u7684\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e30%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5728\u6218\u6597\u4e2d\u65bd\u653e\u9003\u8131\u4f1a\u6254\u51fa\u4e00\u9635\u6697\u5f71\u5315\u9996\uff0c\u6bcf\u79d2\u9020\u62102\u70b9\u6697\u5f71\u4f24\u5bb3\u5e76\u4f7f\u53d7\u5f71\u54cd\u76ee\u6807\u7684\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e30%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

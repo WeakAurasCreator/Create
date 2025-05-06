@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453721"
+  "SpellID": "453721",
+  "name_blz": {
+    "en_US": "Mage Fire 11.0 Class Set 4pc",
+    "es_MX": "Mage Fire 11.0 Class Set 4pc",
+    "pt_BR": "Mago, Fogo, 11.0, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Magierklassenset, Feuer, 11.0, 4 Teile",
+    "en_GB": "Mage Fire 11.0 Class Set 4pc",
+    "es_ES": "Conjunto de clase de mago Fuego 11.0 (4 piezas)",
+    "fr_FR": "Ensemble de classe de mage Feu 11.0 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Mago Fuoco, Set di Classe 11.0, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043c\u0430\u0433\u0430 11.0 \u2013 \u043e\u0433\u043e\u043d\u044c, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ud654\uc5fc \ub9c8\ubc95\uc0ac 11.0 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u6cd5\u5e2b\u706b\u713011.0\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u706b\u7130\u6cd5\u5e0811.0\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "After dealing damage, Phoenix Flames has a 10% chance to return to you, refunding 1% of the cooldown on Phoenix Flames and granting you 6% increased spell damage for 10 sec.",
+    "es_MX": "Despu\u00e9s de infligir da\u00f1o, Llamas del f\u00e9nix tiene un 10% de probabilidad de regresar a ti, lo que reintegra un 1% del tiempo de reutilizaci\u00f3n de Llamas del f\u00e9nix y te otorga un 6% de da\u00f1o con hechizos aumentado durante 10 s.",
+    "pt_BR": "Ap\u00f3s causar dano, as Chamas da F\u00eanix t\u00eam 10% de chance de retornarem para voc\u00ea, restaurando 1% da recarga de Chamas da F\u00eanix e concedendo a voc\u00ea 6% a mais de dano m\u00e1gico por 10 s.",
+    "de_DE": "Nachdem 'Ph\u00f6nixflammen' Schaden verursacht haben, kehren sie mit einer Chance von 10% zu Euch zur\u00fcck, um 1% ihrer Abklingzeit wiederherzustellen und Euch 10 Sek. lang 6% erh\u00f6hten Zauberschaden zu gew\u00e4hren.",
+    "en_GB": "After dealing damage, Phoenix Flames has a 10% chance to return to you, refunding 1% of the cooldown on Phoenix Flames and granting you 6% increased spell damage for 10 sec.",
+    "es_ES": "Tras infligir da\u00f1o, Llamas de f\u00e9nix tiene un 10% de probabilidades de volver a ti para devolverte un 1% del tiempo de reutilizaci\u00f3n de Llamas de f\u00e9nix y otorgarte un 6% m\u00e1s de da\u00f1o con hechizos durante 10 s.",
+    "fr_FR": "Apr\u00e8s avoir inflig\u00e9 des d\u00e9g\u00e2ts, Flammes de ph\u00e9nix a 10\u00a0% de chances de revenir \u00e0 vous, r\u00e9duisant le temps de recharge du sort de 1\u00a0% et vous accordant une augmentation des d\u00e9g\u00e2ts des sorts de 6\u00a0% pendant 10 s.",
+    "it_IT": "Dopo aver inflitto danni, l'effetto di Fiamme della Fenice ha una probabilit\u00e0 del 10% di tornare da te, ripristinando il 1% del tempo di recupero di Fiamme della Fenice e aumentando i danni magici inflitti del 6% per 10 s.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \"\u041f\u043b\u0430\u043c\u044f \u0444\u0435\u043d\u0438\u043a\u0441\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \u043e\u043d\u043e \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 10% \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043a \u0432\u0430\u043c, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044f \u0441\u0432\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 1% \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0432\u0430\u0448 \u0443\u0440\u043e\u043d \u043e\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043d\u0430 6% \u043d\u0430 10 \u0441\u0435\u043a.",
+    "ko_KR": "\ubd88\uc0ac\uc870\uc758 \ubd88\uae38\ub85c \ud53c\ud574\ub97c \uc785\ud78c \ud6c4, 10%\uc758 \ud655\ub960\ub85c \ubd88\uae38\uc744 \uac70\ub450\uc5b4 \ubd88\uc0ac\uc870\uc758 \ubd88\uae38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1%\ub9cc\ud07c \uac10\uc18c\ud558\uace0 10\ucd08 \ub3d9\uc548 \uc8fc\ubb38 \uacf5\uaca9\ub825\uc774 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9020\u6210\u50b7\u5bb3\u5f8c\uff0c\u9cf3\u51f0\u4e4b\u708e\u670910%\u7684\u6a5f\u7387\u56de\u5230\u4f60\u8eab\u4e0a\uff0c\u8fd4\u9084\u9cf3\u51f0\u4e4b\u708e\u76841%\u51b7\u537b\u6642\u9593\uff0c\u4e26\u4f7f\u4f60\u7684\u6cd5\u8853\u50b7\u5bb3\u63d0\u9ad86%\uff0c\u6301\u7e8c10\u79d2\u3002",
+    "zh_CN": "\u9020\u6210\u4f24\u5bb3\u540e\uff0c\u4e0d\u6b7b\u9e1f\u4e4b\u7130\u670910%\u7684\u51e0\u7387\u8fd4\u56de\u4f60\u8eab\u8fb9\uff0c\u8fd4\u8fd8\u4e0d\u6b7b\u9e1f\u4e4b\u7130\u51b7\u5374\u65f6\u95f4\u76841%\uff0c\u5e76\u4f7f\u4f60\u7684\u6cd5\u672f\u4f24\u5bb3\u63d0\u9ad86%\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "474541"
+  "SpellID": "474541",
+  "name_blz": {
+    "en_US": "Circle of the Heavens",
+    "es_MX": "C\u00edrculo de los sue\u00f1os",
+    "pt_BR": "C\u00edrculo dos C\u00e9us",
+    "de_DE": "Kreis der Himmel",
+    "en_GB": "Circle of the Heavens",
+    "es_ES": "C\u00edrculo de los cielos",
+    "fr_FR": "Cercle des cieux",
+    "it_IT": "Circolo Celeste",
+    "ru_RU": "\u041a\u0440\u0443\u0433 \u043d\u0435\u0431\u0435\u0441",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \uad74\ub808",
+    "zh_TW": "\u5929\u570b\u4e4b\u74b0",
+    "zh_CN": "\u5929\u5802\u4e4b\u73af"
+  },
+  "description_blz": {
+    "en_US": "Magical damage dealt by your spells increased by 5%.",
+    "es_MX": "El da\u00f1o m\u00e1gico de tus hechizos aumenta un 5%.",
+    "pt_BR": "Dano m\u00e1gico causado pelos seus feiti\u00e7os aumentado em 5%.",
+    "de_DE": "Der verursachte Magieschaden Eurer Zauber ist um 5% erh\u00f6ht.",
+    "en_GB": "Magical damage dealt by your spells increased by 5%.",
+    "es_ES": "El da\u00f1o m\u00e1gico infligido por tus hechizos aumenta un 5%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts magiques inflig\u00e9s par vos sorts sont augment\u00e9s de 5\u00a0%.",
+    "it_IT": "Aumenta i danni magici inflitti dagli incantesimi del 5%.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 5% \u0431\u043e\u043b\u044c\u0448\u0435 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc8fc\ubb38\uc758 \ub9c8\ubc95 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6cd5\u8853\u9020\u6210\u7684\u9b54\u6cd5\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u6cd5\u672f\u9020\u6210\u7684\u9b54\u6cd5\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }

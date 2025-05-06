@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "459527"
+  "SpellID": "459527",
+  "name_blz": {
+    "en_US": "Unnatural Causes",
+    "es_MX": "Causas no naturales",
+    "pt_BR": "Causas N\u00e3o Naturais",
+    "de_DE": "Unnat\u00fcrliche Ursachen",
+    "en_GB": "Unnatural Causes",
+    "es_ES": "Causas antinaturales",
+    "fr_FR": "Causes non naturelles",
+    "it_IT": "Cause Innaturali",
+    "ru_RU": "\u041d\u0435\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u0447\u0438\u043d\u044b",
+    "ko_KR": "\ube44\uc815\uc0c1\uc801\uc778 \uc6d0\uc778",
+    "zh_TW": "\u975e\u81ea\u7136\u56e0\u7d20",
+    "zh_CN": "\u975e\u81ea\u7136\u539f\u56e0"
+  },
+  "description_blz": {
+    "en_US": "Your damage over time effects deal 10% increased damage.\r\n\r\nThis effect is increased by 50% on targets below 20% health.",
+    "es_MX": "Tus efectos de da\u00f1o con el tiempo infligen un 10% de da\u00f1o aumentado.\r\n\r\nEste efecto aumenta un 50% en los objetivos que tienen menos de un 20% de salud.",
+    "pt_BR": "Seus efeitos de dano ao longo do tempo causam 10% a mais de dano.\r\n\r\nEste efeito aumenta em 50% em alvos abaixo de 20% dos pontos de vida.",
+    "de_DE": "Eure regelm\u00e4\u00dfigen Schadenseffekte verursachen 10% mehr Schaden.\r\n\r\nDieser Effekt ist gegen Ziele mit 20% oder weniger Gesundheit um 50% erh\u00f6ht.",
+    "en_GB": "Your damage over time effects deal 10% increased damage.\r\n\r\nThis effect is increased by 50% on targets below 20% health.",
+    "es_ES": "Tus efectos de da\u00f1o en el tiempo infligen un 10% m\u00e1s de da\u00f1o.\r\n\r\nEste efecto aumenta un 50% en objetivos con menos del 20% de salud.",
+    "fr_FR": "Vos effets de d\u00e9g\u00e2ts sur la dur\u00e9e infligent 10\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires.\r\n\r\nCet effet est augment\u00e9 de 50\u00a0% contre les cibles ayant moins de 20\u00a0% de points de vie.",
+    "it_IT": "Aumenta i danni inflitti dai tuoi effetti dannosi periodici del 10%.\r\n\r\nL'effetto aumenta del 50% sui bersagli con meno del 20% della salute massima.",
+    "ru_RU": "\u0412\u0430\u0448 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%.\r\n\r\n\u042d\u0444\u0444\u0435\u043a\u0442 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50% \u043f\u0440\u043e\u0442\u0438\u0432 \u0446\u0435\u043b\u0435\u0439 \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0438\u0436\u0435 20%.",
+    "ko_KR": "\uc9c0\uc18d \ud53c\ud574 \ud6a8\uacfc\uac00 10%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc774 50% \ubbf8\ub9cc\uc77c \ub54c \ud6a8\uacfc\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6301\u7e8c\u6027\u50b7\u5bb3\u6548\u679c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u76ee\u6a19\u751f\u547d\u529b\u4f4e\u65bc20%\u6642\uff0c\u6b64\u6548\u679c\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u4f60\u7684\u6301\u7eed\u6027\u4f24\u5bb3\u6548\u679c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e20%\u7684\u76ee\u6807\uff0c\u8be5\u6548\u679c\u589e\u52a050%\u3002"
+  }
 }

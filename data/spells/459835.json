@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "459835"
+  "SpellID": "459835",
+  "name_blz": {
+    "en_US": "Isle of Dorn",
+    "es_MX": "Isla de Dorn",
+    "pt_BR": "Ilha de Dorn",
+    "de_DE": "Insel von Dorn",
+    "en_GB": "Isle of Dorn",
+    "es_ES": "Isla de Dorn",
+    "fr_FR": "\u00cele de Dorn",
+    "it_IT": "Isola di Dorn",
+    "ru_RU": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0414\u043e\u0440\u043d",
+    "ko_KR": "\ub3c4\ub978\uc758 \uc12c",
+    "zh_TW": "\u591a\u6069\u5cf6",
+    "zh_CN": "\u591a\u6069\u5c9b"
+  },
+  "description_blz": {
+    "en_US": "Unlocks access to the Isle of Dorn Elevator in Pillarstone Spire.\r\n",
+    "es_MX": "Desbloquea el acceso al elevador de la Isla de Dorn en el Pin\u00e1culo de Piedrapilar.\r\n",
+    "pt_BR": "D\u00e1 acesso ao Elevador da Ilha de Dorn no Pin\u00e1culo da Pedrapilar.\r\n",
+    "de_DE": "Schaltet den Zugang zum Aufzug der Insel von Dorn an der S\u00e4ulensteinspitze frei.\r\n",
+    "en_GB": "Unlocks access to the Isle of Dorn Elevator in Pillarstone Spire.\r\n",
+    "es_ES": "Desbloquea el acceso al elevador de la Isla de Dorn en la Aguja Piedrapilar.\r\n",
+    "fr_FR": "D\u00e9bloque l\u2019acc\u00e8s \u00e0 l\u2019ascenseur de l\u2019\u00eele de Dorn dans le pic Pierrepilier.\r\n",
+    "it_IT": "Sblocca l'accesso all'ascensore dell'Isola di Dorn nella Guglia Miliare.\r\n",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043f\u043e\u0434\u044a\u0435\u043c\u043d\u0438\u043a\u0443 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0414\u043e\u0440\u043d \u0432\u043e \u0412\u0441\u0435\u0434\u0435\u0440\u0436\u0430\u0449\u0435\u043c \u0421\u0442\u043e\u043b\u043f\u0435.\r\n",
+    "ko_KR": "\uae30\ub465\uc11d \ucca8\ud0d1\uc5d0\uc11c \ub3c4\ub978\uc758 \uc12c \uc2b9\uac15\uae30\ub97c \uc774\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u89e3\u9396\u67f1\u77f3\u9b54\u5854\u7684\u591a\u6069\u5cf6\u5347\u964d\u68af\u3002\r\n",
+    "zh_CN": "\u89e3\u9501\u67f1\u77f3\u9ad8\u5854\u7684\u591a\u6069\u5c9b\u5347\u964d\u673a\u3002\r\n"
+  }
 }

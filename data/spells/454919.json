@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "454919"
+  "SpellID": "454919",
+  "name_blz": {
+    "en_US": "Voltaic Surge",
+    "es_MX": "Oleada voltaica",
+    "pt_BR": "Surto Voltaico",
+    "de_DE": "Voltaikwoge",
+    "en_GB": "Voltaic Surge",
+    "es_ES": "Oleada voltaica",
+    "fr_FR": "Afflux volta\u00efque",
+    "it_IT": "Impeto Voltaico",
+    "ru_RU": "\u0413\u0430\u043b\u044c\u0432\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a",
+    "ko_KR": "\uace0\uc555 \uc1c4\ub3c4",
+    "zh_TW": "\u96fb\u6d41\u5954\u9a30",
+    "zh_CN": "\u6d41\u7535\u5954\u817e"
+  },
+  "description_blz": {
+    "en_US": "Crash Lightning and Chain Lightning damage increased by 15%.",
+    "es_MX": "El da\u00f1o de Rel\u00e1mpago estruendoso y Cadena de rel\u00e1mpagos aumenta un 15%.",
+    "pt_BR": "Dano de Raio Poderoso e Cadeia de Raios aumentado em 15%.",
+    "de_DE": "Der Schaden von 'Tobende Blitze' und 'Kettenblitzschlag' ist um 15% erh\u00f6ht.",
+    "en_GB": "Crash Lightning and Chain Lightning damage increased by 15%.",
+    "es_ES": "Da\u00f1o de Estallido de rel\u00e1mpagos y Cadena de rel\u00e1mpagos aumentado un 15%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts inflig\u00e9s par Impact foudroyant et Cha\u00eene d\u2019\u00e9clairs sont augment\u00e9s de 15\u00a0%.",
+    "it_IT": "Aumenta i danni inflitti da Schianto di Fulmini e Catena di Fulmini del 15%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u0421\u043e\u043a\u0440\u0443\u0448\u0430\u044e\u0449\u0435\u0439 \u043c\u043e\u043b\u043d\u0438\u0438\" \u0438 \"\u0426\u0435\u043f\u043d\u043e\u0439 \u043c\u043e\u043b\u043d\u0438\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15%.",
+    "ko_KR": "\ub099\ub8b0 \ubc0f \uc5f0\uc1c4 \ubc88\uac1c\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9583\u96fb\u8f5f\u64ca\u548c\u9583\u96fb\u93c8\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u6bc1\u706d\u95ea\u7535\u548c\u95ea\u7535\u94fe\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

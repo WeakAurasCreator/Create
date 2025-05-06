@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "469325"
+  "SpellID": "469325",
+  "name_blz": {
+    "en_US": "Light's Countenance",
+    "es_MX": "Apoyo de la Luz",
+    "pt_BR": "Semblante da Luz",
+    "de_DE": "Antlitz des Lichts",
+    "en_GB": "Light's Countenance",
+    "es_ES": "Semblante de la Luz",
+    "fr_FR": "Contenance de la Lumi\u00e8re",
+    "it_IT": "Espressione della Luce",
+    "ru_RU": "\u041f\u043e\u043a\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uc751\uc6d0",
+    "zh_TW": "\u8056\u5149\u9762\u5bb9",
+    "zh_CN": "\u5723\u5149\u9762\u5bb9"
+  },
+  "description_blz": {
+    "en_US": "The cooldowns of Repentance and Blinding Light are reduced by 15 sec.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Arrepentimiento y Luz cegadora se reduce 15 s.",
+    "pt_BR": "Reduz em 15 s a recarga de Contri\u00e7\u00e3o e Luz Ofuscante.",
+    "de_DE": "Die Abklingzeiten von 'Bu\u00dfe' und 'Blendendes Licht' werden um 15 Sek. verringert.",
+    "en_GB": "The cooldowns of Repentance and Blinding Light are reduced by 15 sec.",
+    "es_ES": "Los tiempos de reutilizaci\u00f3n de Arrepentimiento y Luz cegadora se reducen 15 s.",
+    "fr_FR": "Les temps de recharge de Repentir et Lumi\u00e8re aveuglante sont r\u00e9duits de 15\u00a0s.",
+    "it_IT": "Riduce i tempi di recupero di Penitenza e Luce Accecante di 15 s.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u043e\u043a\u0430\u044f\u043d\u0438\u044f\" \u0438 \"\u0421\u043b\u0435\u043f\u044f\u0449\u0435\u0433\u043e \u0441\u0432\u0435\u0442\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\ucc38\ud68c \ubc0f \ub208\ubd80\uc2e0 \ube5b\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u61fa\u6094\u548c\u76f2\u76ee\u4e4b\u5149\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed15\u79d2\u3002",
+    "zh_CN": "\u5fcf\u6094\u548c\u76f2\u76ee\u4e4b\u5149\u7684\u51b7\u5374\u65f6\u95f4\u51cf\u5c1115\u79d2\u3002"
+  }
 }

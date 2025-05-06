@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453625"
+  "SpellID": "453625",
+  "name_blz": {
+    "en_US": "Monk Windwalker 11.0 Class Set 4pc",
+    "es_MX": "Monk Windwalker 11.0 Class Set 4pc",
+    "pt_BR": "Monge, Andarilho do Vento 11.0, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "M\u00f6nchsklassenset, Windl\u00e4ufer, 11.0, 4 Teile",
+    "en_GB": "Monk Windwalker 11.0 Class Set 4pc",
+    "es_ES": "Conjunto de clase de monje Viajero del viento 11.0 (4 piezas)",
+    "fr_FR": "Ensemble de classe de moine ou moniale Marche-vent 11.0 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Monaco Impeto, Set di Classe 11.0, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043c\u043e\u043d\u0430\u0445\u0430 11.0 \u2013 \u0442\u0430\u043d\u0446\u0443\u044e\u0449\u0438\u0439 \u0441 \u0432\u0435\u0442\u0440\u043e\u043c, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ud48d\uc6b4 \uc218\ub3c4\uc0ac 11.0 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u6b66\u50e7\u5fa1\u98a811.0\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u8e0f\u98ce\u6b66\u50e711.0\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Your other melee abilities increase the damage of your next Tiger Palm by 25%, stacking up to 6 times. 15% of Tiger Palm's damage is dealt onto nearby enemies, reduced beyond 5 targets. ",
+    "es_MX": "Tus otras habilidades cuerpo a cuerpo aumentan el da\u00f1o de tu siguiente Palma del tigre un 25%, que se acumula hasta 6 veces. Un 15% del da\u00f1o de Palma del tigre se inflige a los enemigos cercanos. Se reduce si golpea a m\u00e1s de 5 objetivos. ",
+    "pt_BR": "Suas outras habilidades corpo a corpo aumentam em 25% o dano da sua pr\u00f3xima Palma do Tigre, acumulando at\u00e9 6 vezes.15% do dano da Palma do Tigre \u00e9 causado a inimigos pr\u00f3ximos, com redu\u00e7\u00e3o acima de 5 alvos. ",
+    "de_DE": "Eure anderen Nahkampff\u00e4higkeiten erh\u00f6hen den Schaden Eures n\u00e4chsten Einsatzes von 'Tigerklaue' um 25%. Bis zu 6-mal stapelbar. 15% des durch 'Tigerklaue' verursachten Schadens wird Gegnern in der N\u00e4he zugef\u00fcgt. Schaden bei Zielen \u00fcber 5 Ziele hinaus verringert. ",
+    "en_GB": "Your other melee abilities increase the damage of your next Tiger Palm by 25%, stacking up to 6 times. 15% of Tiger Palm's damage is dealt onto nearby enemies, reduced beyond 5 targets. ",
+    "es_ES": "Tus otras facultades cuerpo a cuerpo aumentan un 25% el da\u00f1o de tu siguiente Palma del tigre, valor que se acumula hasta 6 veces. Un 15% del da\u00f1o de Palma del tigre se inflige a enemigos cercanos, aunque el valor se reduce a partir de 5 objetivos. ",
+    "fr_FR": "Vos autres techniques de m\u00eal\u00e9e augmentent les d\u00e9g\u00e2ts de votre prochaine Paume du tigre de 25\u00a0%, cumulable jusqu\u2019\u00e0 6\u00a0fois. 15\u00a0% des d\u00e9g\u00e2ts de Paume du tigre sont inflig\u00e9s aux adversaires proches, r\u00e9duits au-del\u00e0 de 5\u00a0cibles. ",
+    "it_IT": "Le altre abilit\u00e0 in mischia aumentano i danni inflitti dal successivo Palmo della Tigre del 25%. Si accumula fino a 6 volte. Il 15% dei danni inflitti da Palmo della Tigre vengono inflitti ai nemici vicini. Danni ridotti oltre 5 bersagli. ",
+    "ru_RU": "\u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0448\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0431\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0431\u043e\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \"\u041b\u0430\u043f\u044b \u0442\u0438\u0433\u0440\u0430\" \u043d\u0430 25%. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 6 \u0440\u0430\u0437. \"\u041b\u0430\u043f\u0430 \u0442\u0438\u0433\u0440\u0430\" \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 15% \u0443\u0440\u043e\u043d\u0430 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 5-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d. ",
+    "ko_KR": "\ub2e4\ub978 \uadfc\uc811 \ub2a5\ub825 \uc0ac\uc6a9 \uc2dc \ub2e4\uc74c \ubc94\uc758 \uc7a5\ud48d\uc758 \uacf5\uaca9\ub825\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 6\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. \ubc94\uc758 \uc7a5\ud48d\uc73c\ub85c \uc785\ud78c \ud53c\ud574\uc758 15%\ub97c \uc8fc\uc704\uc758 \uc801\uc5d0\uac8c\ub3c4 \uc785\ud799\ub2c8\ub2e4. 5\uba85\uc744 \ucd08\uacfc\ud558\ub294 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. ",
+    "zh_TW": "\u4f60\u7684\u5176\u4ed6\u8fd1\u6230\u6280\u80fd\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u864e\u638c\u7684\u50b7\u5bb3\u63d0\u9ad825%\uff0c\u6700\u591a\u53ef\u5806\u758a6\u5c64\u3002\u5c0d\u9644\u8fd1\u6575\u4eba\u9020\u6210\u864e\u638c\u768415%\u50b7\u5bb3\uff0c\u8d85\u904e5\u500b\u76ee\u6a19\u6642\uff0c\u50b7\u5bb3\u964d\u4f4e\u3002 ",
+    "zh_CN": "\u4f60\u7684\u5176\u4ed6\u8fd1\u6218\u6280\u80fd\u4f1a\u4f7f\u4e0b\u4e00\u4e2a\u731b\u864e\u638c\u7684\u4f24\u5bb3\u63d0\u9ad825%\uff0c\u6700\u591a\u53e0\u52a06\u6b21\u3002\u731b\u864e\u638c\u5bf9\u5468\u56f4\u7684\u654c\u4eba\u9020\u621015%\u7684\u4f24\u5bb3\uff0c\u76ee\u6807\u8d85\u8fc75\u4e2a\u65f6\u4f24\u5bb3\u964d\u4f4e\u3002 "
+  }
 }
