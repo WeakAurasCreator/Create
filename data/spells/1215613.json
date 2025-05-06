@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1215613"
+  "SpellID": "1215613",
+  "name_blz": {
+    "en_US": "Paladin Holy 11.1 Class Set 4pc",
+    "es_MX": "Paladin Holy 11.1 Class Set 4pc",
+    "pt_BR": "Paladino, Sagrado, 11.1, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Paladinklassenset, Heilig, 11.1, 4 Teile",
+    "en_GB": "Paladin Holy 11.1 Class Set 4pc",
+    "es_ES": "Conjunto de clase de palad\u00edn Sagrado 11.1 (4 piezas)",
+    "fr_FR": "Ensemble de classe de paladin ou paladine Sacr\u00e9 11.1 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Paladino Sacro, Set di Classe 11.1, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043f\u0430\u043b\u0430\u0434\u0438\u043d\u0430 11.1 \u2013 \u0421\u0432\u0435\u0442, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uc2e0\uc131 \uc131\uae30\uc0ac 11.1 \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u8056\u9a0e\u58eb\u795e\u805611.1\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u795e\u5723\u5723\u9a91\u58eb11.1\u804c\u4e1a\u5957\u88c54\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Divine Toll applies Insurance! to allies it heals for 8 sec. Divine Toll's cooldown is reduced by 1.0 sec each time you spend Holy Power.",
+    "es_MX": "Ta\u00f1ido divino aplica \u00a1Seguro m\u00e9dico! a los aliados que sana durante 8 s. El tiempo de reutilizaci\u00f3n de Ta\u00f1ido divino se reduce 1.0 s cada vez que gastas poder sagrado.",
+    "pt_BR": "Pre\u00e7o Divino aplica Seguro! nos aliados curados por 8 s. A recarga de Pre\u00e7o Divino \u00e9 reduzida em 1,0 s cada vez que voc\u00ea gasta Poder Sagrado.",
+    "de_DE": "Wenn 'G\u00f6ttlicher Glockenschlag' Verb\u00fcndete 8 Sek. lang heilt, werden diese mit Versicherung! belegt. Die Abklingzeit von 'G\u00f6ttlicher Glockenschlag' wird jedes Mal, wenn Ihr Heilige Kraft verbraucht, um 1,0 Sek. verringert.",
+    "en_GB": "Divine Toll applies Insurance! to allies it heals for 8 sec. Divine Toll's cooldown is reduced by 1.0 sec each time you spend Holy Power.",
+    "es_ES": "Estrago divino aplica \u00a1Seguro! a aliados y los sana durante 8 s. El tiempo de reutilizaci\u00f3n de Estrago divino disminuye 1,0 s cada vez que gastas Poder sagrado.",
+    "fr_FR": "Les personnages alli\u00e9s soign\u00e9s par Glas divin obtiennent Assurance\u00a0! pendant 8\u00a0s. Le temps de recharge de Glas divin est r\u00e9duit de 1,0\u00a0s chaque fois que vous d\u00e9pensez de la puissance sacr\u00e9e.",
+    "it_IT": "Rintocco Divino applica Assicurazione! agli alleati che cura per 8 s. Il tempo di recupero di Rintocco Divino si riduce di 1,0 s ogni volta che si consuma una carica di potere sacro.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0431\u043b\u0430\u0433\u043e\u0432\u0435\u0441\u0442\" \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432, \u043e\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u043d\u0438\u043c \"\u0421\u0442\u0440\u0430\u0445\u043e\u0432\u043a\u0443! \u043d\u0430 8 \u0441\u0435\u043a. \u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u0435\u0442\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0421\u0432\u0435\u0442\u0430, \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0431\u043b\u0430\u0433\u043e\u0432\u0435\u0441\u0442\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1,0 \u0441\u0435\u043a.",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \uc885\uc774 \uc544\uad70\uc744 \uce58\uc720\ud558\uba74 8\ucd08 \ub3d9\uc548 \ubcf4\ud5d8! \ud6a8\uacfc\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4. \uc2e0\uc131\ud55c \ud798\uc744 \uc18c\ubaa8\ud560 \ub54c\ub9c8\ub2e4 \ucc9c\uc0c1\uc758 \uc885\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u795e\u8056\u9cf4\u97ff\u6703\u5c0d\u6cbb\u7642\u7684\u76df\u53cb\u65bd\u52a0\u4fdd\u96aa\uff01\uff0c\u6301\u7e8c8\u79d2\u3002\u6bcf\u6b21\u6d88\u8017\u8056\u80fd\u6642\uff0c\u90fd\u6703\u4f7f\u795e\u8056\u9cf4\u97ff\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002",
+    "zh_CN": "\u5723\u6d01\u9e23\u949f\u4f1a\u4e3a\u5176\u6cbb\u7597\u7684\u76df\u53cb\u65bd\u52a0\u4fdd\u9669\uff01\uff0c\u6301\u7eed8\u79d2\u3002\u6bcf\u6b21\u6d88\u8017\u795e\u5723\u80fd\u91cf\u90fd\u4f1a\u4f7f\u5723\u6d01\u9e23\u949f\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.0\u79d2\u3002"
+  }
 }

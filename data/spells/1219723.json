@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1219723"
+  "SpellID": "1219723",
+  "name_blz": {
+    "en_US": "Azure Celerity",
+    "es_MX": "Celeridad azur",
+    "pt_BR": "Celeridade Laz\u00fali",
+    "de_DE": "Azurschnelligkeit",
+    "en_GB": "Azure Celerity",
+    "es_ES": "Celeridad azur",
+    "fr_FR": "C\u00e9l\u00e9rit\u00e9 d\u2019azur",
+    "it_IT": "Celerit\u00e0 Azzurra",
+    "ru_RU": "\u041b\u0430\u0437\u0443\u0440\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ud558\ub298\ube5b \uae30\ubbfc\ud568",
+    "zh_TW": "\u84bc\u85cd\u8fc5\u654f",
+    "zh_CN": "\u78a7\u84dd\u8fc5\u6377"
+  },
+  "description_blz": {
+    "en_US": "Disintegrate ticks 1 additional time, but deals 10% less damage.",
+    "es_MX": "Desintegrar pulsa 1 vez m\u00e1s, pero inflige un 10% menos de da\u00f1o.",
+    "pt_BR": "Desintegrar \u00e9 aplicado mais 1 vez, mas causa 10% a menos de dano.",
+    "de_DE": "Eure 'Desintegration' hat 1 Tick mehr, verursacht aber 10% weniger Schaden.",
+    "en_GB": "Disintegrate ticks 1 additional time, but deals 10% less damage.",
+    "es_ES": "Desintegrar obtiene 1 pulso m\u00e1s, pero inflige un 10% menos de da\u00f1o.",
+    "fr_FR": "D\u00e9sint\u00e9gration se d\u00e9clenche 1\u00a0fois de plus, mais inflige des d\u00e9g\u00e2ts r\u00e9duits de 10\u00a0%.",
+    "it_IT": "Aumenta gli intervalli di Disintegrazione di 1 ma ne riduce i danni inflitti del 10%.",
+    "ru_RU": "\"\u0414\u0435\u0437\u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f\" \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u0435\u0449\u0435 1 \u0440\u0430\u0437, \u043d\u043e \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 10% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud30c\uc5f4\uc758 \uc8fc\uae30\uac00 1\ud68c \uc99d\uac00\ud558\uc9c0\ub9cc \uacf5\uaca9\ub825\uc740 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5d29\u89e3\u9020\u6210\u984d\u59161\u6b21\u50b7\u5bb3\uff0c\u4f46\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u88c2\u89e3\u989d\u5916\u9020\u62101\u6b21\u4f24\u5bb3\uff0c\u4f46\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e10%\u3002"
+  }
 }
