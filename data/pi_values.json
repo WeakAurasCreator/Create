@@ -269,9 +269,9 @@
     "dps_delta": 304650.36,
     "dps_pct_gain": 3.02,
     "pi_dep_spell_ids": {
-      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "feral_spirit": 333957
     }
   },
   {
@@ -284,9 +284,9 @@
     "dps_delta": 642794.23,
     "dps_pct_gain": 5.03,
     "pi_dep_spell_ids": {
-      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "feral_spirit": 333957
     }
   },
   {
@@ -299,9 +299,9 @@
     "dps_delta": 182793.78,
     "dps_pct_gain": 3.22,
     "pi_dep_spell_ids": {
-      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "feral_spirit": 333957
     }
   },
   {
@@ -314,9 +314,9 @@
     "dps_delta": 483459.39,
     "dps_pct_gain": 2.91,
     "pi_dep_spell_ids": {
-      "feral_spirit": 333957,
       "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "feral_spirit": 333957
     }
   },
   {
@@ -329,8 +329,8 @@
     "dps_delta": 84846.5,
     "dps_pct_gain": 3.18,
     "pi_dep_spell_ids": {
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "doom_winds": 466772,
+      "feral_spirit": 333957
     }
   },
   {
@@ -408,8 +408,8 @@
     "dps_delta": 229665.79,
     "dps_pct_gain": 2.94,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -435,8 +435,8 @@
     "dps_delta": 307384.12,
     "dps_pct_gain": 2.92,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -449,8 +449,8 @@
     "dps_delta": 438485.44,
     "dps_pct_gain": 2.66,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -463,8 +463,8 @@
     "dps_delta": 170123.38,
     "dps_pct_gain": 3.04,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -607,8 +607,8 @@
     "dps_delta": -188101.5,
     "dps_pct_gain": -4.12,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
@@ -621,8 +621,8 @@
     "dps_delta": -284856.14,
     "dps_pct_gain": -4.08,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
@@ -635,8 +635,8 @@
     "dps_delta": 842744.38,
     "dps_pct_gain": 5.1,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
@@ -663,8 +663,8 @@
     "dps_delta": 422227.51,
     "dps_pct_gain": 4.03,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
