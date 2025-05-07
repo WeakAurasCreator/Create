@@ -3,6 +3,7 @@ import os
 import re
 import json
 from openai import OpenAI
+import string
 
 GITHUB_API = "https://api.github.com/repos/simulationcraft/simc/contents/profiles"
 RAW_BASE   = "https://raw.githubusercontent.com/simulationcraft/simc/master/profiles"
@@ -131,7 +132,9 @@ def main():
         # find Power Infusion invocation and its preceding comments
         for idx, line in enumerate(lines):
             if "invoke_external_buff,name=power_infusion" in line:
-                description = llm_describe(client, line, key.split("_")[0], key.split("_")[1])
+                class_var =  string.capwords(key.split("_")[0].lower())
+                spec_var  =  string.capwords(key.split("_")[1].lower())
+                description = llm_describe(client, line, class_var, spec_var)
                 explanations[key] = description  
                 break
 
