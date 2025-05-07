@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "166116"
+  "SpellID": "166116",
+  "name_blz": {
+    "en_US": "Follower: Gidwin Goldbraids",
+    "es_MX": "Seguidor: Gidwin Trenzadorada",
+    "pt_BR": "Seguidor: Gidwin Fit\u00e1urea",
+    "de_DE": "Anh\u00e4nger: Gidwin Goldzopf",
+    "en_GB": "Follower: Gidwin Goldbraids",
+    "es_ES": "Seguidor: Gidwin Trenzadorada",
+    "fr_FR": "Sujet\u00a0: Gidwin Nattes-d\u2019Or",
+    "it_IT": "Seguace: Gidwin Treccedoro",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0413\u0438\u0434\u0432\u0438\u043d \u0417\u043b\u0430\u0442\u043e\u043a\u043e\u0441",
+    "ko_KR": "\ucd94\uc885\uc790: \uae30\ub4dc\uc708 \uace8\ub4dc\ube0c\ub808\uc774\uc988",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u57fa\u5fb7\u6eab\u2027\u91d1\u8fae",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5409\u5fb7\u6587\u00b7\u91d1\u987b"
+  },
+  "description_blz": {
+    "en_US": "Artificer Romuul's hammer is as mighty as his knowledge of crystalworking.",
+    "es_MX": "El martillo del Artificiero Romuul es tan poderoso como su conocimiento del trabajo en cristal.",
+    "pt_BR": "O martelo do Art\u00edfice Romuul \u00e9 t\u00e3o grande quanto seu conhecimento sobre cristais.",
+    "de_DE": "Konstrukteur Romuuls Hammer ist so gewaltig wie sein Wissen \u00fcber das Kristallhandwerk.",
+    "en_GB": "Artificer Romuul's hammer is as mighty as his knowledge of crystalworking.",
+    "es_ES": "El martillo del artificiero Romuul es tan poderoso como sus conocimientos en el manejo de cristales.",
+    "fr_FR": "Le marteau de l\u2019artificier Romuul est aussi puissant que sa connaissance du travail des cristaux.",
+    "it_IT": "Il martello del Mastro Ingegnere Romuul \u00e8 potente come la sua conoscenza della lavorazione dei cristalli.",
+    "ru_RU": "\u041c\u043e\u043b\u043e\u0442 \u043c\u0435\u0445\u0430\u043d\u043e\u043b\u043e\u0433\u0430 \u0420\u043e\u043c\u0443\u0443\u043b\u0430 \u0442\u0430\u043a \u0436\u0435 \u0432\u0435\u043b\u0438\u043a, \u043a\u0430\u043a \u0432\u0435\u043b\u0438\u043a\u0438 \u0435\u0433\u043e \u043f\u043e\u0437\u043d\u0430\u043d\u0438\u044f \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u043e\u0432.",
+    "ko_KR": "\uae30\uc220\ubcd1 \ub85c\ubbac\uc758 \ub9dd\uce58\ub294 \uc218\uc815 \uae30\uc220\uc5d0 \ub300\ud55c \uadf8\uc758 \uc9c0\uc2dd\ub9cc\ud07c\uc774\ub098 \uac15\ub825\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5de5\u85dd\u5e2b\u7f85\u7a46\u723e\u7684\u9318\u6253\u6280\u8853\u5c31\u8ddf\u4ed6\u7684\u6c34\u6676\u5de5\u85dd\u77e5\u8b58\u4e00\u6a23\u51fa\u795e\u5165\u5316\u3002",
+    "zh_CN": "\u6280\u5e08\u7f57\u59c6\u5c14\u7684\u4f7f\u7528\u6218\u9524\u7684\u672c\u9886\u5c31\u8ddf\u4ed6\u7684\u6c34\u6676\u5236\u4f5c\u6280\u672f\u4e00\u6837\u795e\u4e4e\u5176\u795e\u3002"
+  }
 }

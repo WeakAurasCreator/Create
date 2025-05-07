@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "197692"
+  "SpellID": "197692",
+  "name_blz": {
+    "en_US": "Feral Overrides Passive",
+    "es_MX": "Feral Overrides Passive",
+    "pt_BR": "Feral Overrides Passive",
+    "de_DE": "Wildheit \u00fcberschreibt Passiv",
+    "en_GB": "Feral Overrides Passive",
+    "es_ES": "Feral sobrescribe a Pasivo",
+    "fr_FR": "Farouche supplante Passif",
+    "it_IT": "Ferino Passivo",
+    "ru_RU": "\u041e\u0431\u043b\u0438\u043a \u043a\u043e\u0448\u043a\u0438 \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442",
+    "ko_KR": "\uc57c\uc131 \uc911\ub2e8 \uc9c0\uc18d\ud6a8\uacfc",
+    "zh_TW": "\u91ce\u6027\u6230\u9b25\u64a4\u92b7\u88ab\u52d5\u6548\u679c",
+    "zh_CN": "Feral Overrides Passive"
+  },
+  "description_blz": {}
 }

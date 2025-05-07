@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "190427"
+  "SpellID": "190427",
+  "name_blz": {
+    "en_US": "Arcane Charge",
+    "es_MX": "Carga arcana",
+    "pt_BR": "Carga Arcana",
+    "de_DE": "Arkane Aufladung",
+    "en_GB": "Arcane Charge",
+    "es_ES": "Carga Arcana",
+    "fr_FR": "Charge arcanique",
+    "it_IT": "Carica Arcana",
+    "ru_RU": "\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u0437\u0430\u0440\u044f\u0434",
+    "ko_KR": "\ube44\uc804 \ucda9\uc804\ubb3c",
+    "zh_TW": "\u79d8\u6cd5\u5145\u80fd",
+    "zh_CN": "\u5965\u672f\u5145\u80fd"
+  },
+  "description_blz": {}
 }

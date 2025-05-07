@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "179114"
+  "SpellID": "179114",
+  "name_blz": {
+    "en_US": "Item - LFR T17 Leather Melee DPS 2P Bonus",
+    "es_MX": "Item - LFR T17 Leather Melee DPS 2P Bonus",
+    "pt_BR": "Item - LFR T17 Leather Melee DPS 2P Bonus",
+    "en_GB": "Item - LFR T17 Leather Melee DPS 2P Bonus",
+    "es_ES": "Item - LFR T17 Leather Melee DPS 2P Bonus",
+    "it_IT": "Item - LFR T17 Leather Melee DPS 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uacf5\uaca9\ub300 \ucc3e\uae30 T17 \uac00\uc8fd \uadfc\uc811 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - LFR T17 Leather Melee DPS 2P Bonus",
+    "zh_CN": "Item - LFR T17 Leather Melee DPS 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Agility increased by 173.",
+    "es_MX": "Agilidad aumentada 173 p.",
+    "pt_BR": "Agilidade aumentada em 173.",
+    "de_DE": "Beweglichkeit um 173 erh\u00f6ht.",
+    "en_GB": "Agility increased by 173.",
+    "es_ES": "Agilidad aumentada 173 p.",
+    "fr_FR": "Agilit\u00e9 augment\u00e9e de 173.",
+    "it_IT": "Aumenta l'Agilit\u00e0 di 173.",
+    "ru_RU": "\u041b\u043e\u0432\u043a\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 173.",
+    "ko_KR": "\ubbfc\ucca9\uc131\uc774 173\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u654f\u6377\u63d0\u9ad8173\u9ede\u3002",
+    "zh_CN": "\u654f\u6377\u63d0\u9ad8173\u70b9\u3002"
+  }
 }

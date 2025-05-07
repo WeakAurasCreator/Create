@@ -34,5 +34,14 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "162699"
+  "SpellID": "162699",
+  "name_blz": {
+    "en_US": "Stat Negation Aura - Intellect DPS",
+    "es_MX": "Stat Negation Aura - Intellect DPS",
+    "pt_BR": "Aura de Nega\u00e7\u00e3o de Atributo - DPS Intelecto",
+    "en_GB": "Stat Negation Aura - Intellect DPS",
+    "es_ES": "Stat Negation Aura - Intellect DPS",
+    "it_IT": "Stat Negation Aura - Intellect DPS"
+  },
+  "description_blz": {}
 }
