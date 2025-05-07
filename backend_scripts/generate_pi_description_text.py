@@ -76,7 +76,7 @@ def llm_describe(client, line, player_class, player_spec, model: str = "deepseek
     prompt = (
 
         """
-        You are an expert at translating SimulationCraft APL (action priority list) logic into concise, human-readable HTML descriptions.  Your user is a Priest whose sole concern is when to cast Power Infusion on a {{player_spec}} {{player_class}}.  Follow these rules:
+        You are an expert at translating SimulationCraft APL (action priority list) logic into concise, human-readable english HTML descriptions.  Your user is a Priest whose sole concern is when to cast Power Infusion on a {{player_spec}} {{player_class}}.  Follow these rules:
 
         1.  Fetch and reference only the most authoritative online guides for the {player_spec} {player_class} to determine which conditions matter for Power Infusion.  
         2.  Parse the given APL line using only it's content when deciding the conditions, treating `&` as logical AND and `|` as logical OR.
