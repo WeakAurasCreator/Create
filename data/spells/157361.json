@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "157361"
+  "SpellID": "157361",
+  "name_blz": {
+    "en_US": "Roll Speed Controls",
+    "es_MX": "Controles de velocidad de rodar",
+    "pt_BR": "Controles de Velocidade de Rolamento",
+    "de_DE": "Rollgeschwindigkeitssteuerung",
+    "en_GB": "Roll Speed Controls",
+    "es_ES": "Controles de velocidad de Rodar",
+    "fr_FR": "Contr\u00f4le de vitesse des tonneaux",
+    "it_IT": "Controlli di Velocit\u00e0 della Capriola",
+    "ru_RU": "\u041d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u043e\u0435 \u043a\u0430\u0447\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uad6c\ub974\uae30 \uc18d\ub3c4 \uc870\uc815",
+    "zh_TW": "\u7ffb\u6efe\u901f\u5ea6\u63a7\u5236",
+    "zh_CN": "\u6eda\u7ffb\u63a7\u5236"
+  },
+  "description_blz": {}
 }
