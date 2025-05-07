@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "186007"
+  "SpellID": "186007",
+  "name_blz": {
+    "en_US": "Garrison Shipyard",
+    "es_MX": "Astillero de la fortaleza",
+    "pt_BR": "Estaleiro da Guarni\u00e7\u00e3o",
+    "de_DE": "Garnisonswerft",
+    "en_GB": "Garrison Shipyard",
+    "es_ES": "Astillero de la ciudadela",
+    "fr_FR": "Chantier naval du fief",
+    "it_IT": "Cantiere Navale della Guarnigione",
+    "ru_RU": "\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c \u0433\u0430\u0440\u043d\u0438\u0437\u043e\u043d\u0430",
+    "ko_KR": "\uc8fc\ub454\uc9c0 \uc870\uc120\uc18c",
+    "zh_TW": "\u8981\u585e\u8239\u5862",
+    "zh_CN": "\u8981\u585e\u8239\u575e"
+  },
+  "description_blz": {
+    "en_US": "Establishes a shipyard at your garrison, allowing you to build ships and run naval missions.",
+    "es_MX": "Establece un astillero en tu fortaleza, lo que te permite construir naves y realizar misiones navales.",
+    "pt_BR": "Estabelece um estaleiro na guarni\u00e7\u00e3o, possibilitando a constru\u00e7\u00e3o de navios e o empreendimento de miss\u00f5es navais.",
+    "de_DE": "Errichtet eine Werft in Eurer Garnison, mit der Ihr Schiffe bauen und Marinemissionen starten k\u00f6nnt.",
+    "en_GB": "Establishes a shipyard at your garrison, allowing you to build ships and run naval missions.",
+    "es_ES": "Establece un astillero en tu ciudadela, lo que te permite construir barcos y dirigir misiones navales.",
+    "fr_FR": "Installe un chantier naval dans votre fief, ce qui vous permet de construire des navires et d\u2019effectuer des missions navales.",
+    "it_IT": "Edifica un Cantiere Navale nella tua Guarnigione, permettendoti di costruire navi e di affrontare missioni navali.",
+    "ru_RU": "\u0412\u043e\u0437\u0432\u043e\u0434\u0438\u0442 \u043f\u0440\u0438\u0441\u0442\u0430\u043d\u044c \u0432 \u0433\u0430\u0440\u043d\u0438\u0437\u043e\u043d\u0435, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043a\u043e\u0440\u0430\u0431\u043b\u0438 \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0434\u043b\u044f \u0444\u043b\u043e\u0442\u0430.",
+    "ko_KR": "\uc8fc\ub454\uc9c0\uc5d0 \uc870\uc120\uc18c\ub97c \uac74\uc124\ud569\ub2c8\ub2e4. \uc870\uc120\uc18c\uc5d0\uc11c\ub294 \ud568\uc120\uc744 \uac74\uc870\ud558\uace0 \ud574\uc0c1 \uc784\ubb34\ub97c \uc218\ud589\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u7684\u8981\u585e\u84cb\u8239\u5862\uff0c\u8b93\u4f60\u53ef\u4ee5\u5efa\u9020\u8239\u8266\u4e26\u57f7\u884c\u6d77\u8ecd\u4efb\u52d9\u3002",
+    "zh_CN": "\u5728\u8981\u585e\u5efa\u9020\u4e00\u5ea7\u8239\u575e\uff0c\u4f7f\u4f60\u80fd\u5efa\u9020\u8239\u53ea\u5e76\u6267\u884c\u6d77\u519b\u884c\u52a8\u3002"
+  }
 }
