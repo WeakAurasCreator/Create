@@ -17,6 +17,9 @@ jobs:
           - addon_id: "rkGryYKy"
             file_name: "SharedMedia_Causese/Soundpaths.lua"
             parent_key: "shared-media-causese"
+          - addon_id: "VBNBxKx5"
+            file_name: "WeakAuras/Types.lua"
+            parent_key: "default"
 
     steps:
       - name: Check out code
