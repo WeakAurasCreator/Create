@@ -7,7 +7,718 @@
         "description": "Causese's shared Media Addon",
         "link": "https://www.curseforge.com/wow/addons/sharedmedia_causese",
         "values": [
-          
+            {
+                "name": "|cFFFF00001|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\1.ogg"
+            },
+            {
+                "name": "|cFFFF00002|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\2.ogg"
+            },
+            {
+                "name": "|cFFFF00003|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\3.ogg"
+            },
+            {
+                "name": "|cFFFF00004|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\4.ogg"
+            },
+            {
+                "name": "|cFFFF00005|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\5.ogg"
+            },
+            {
+                "name": "|cFFFF00006|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\6.ogg"
+            },
+            {
+                "name": "|cFFFF00007|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\7.ogg"
+            },
+            {
+                "name": "|cFFFF00008|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\8.ogg"
+            },
+            {
+                "name": "|cFFFF00009|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\9.ogg"
+            },
+            {
+                "name": "|cFFFE000010|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\10.ogg"
+            },
+            {
+                "name": "|cFFFF00001. First|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\First.ogg"
+            },
+            {
+                "name": "|cFFFF00002. Second|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Second.ogg"
+            },
+            {
+                "name": "|cFFFF00003. Third|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Third.ogg"
+            },
+            {
+                "name": "|cFFFF00004. Fourth|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Fourth.ogg"
+            },
+            {
+                "name": "|cFFFF00005. Fifth|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Fifth.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_1:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\01.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_2:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\02.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_3:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\03.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_4:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\04.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_5:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\05.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_6:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\06.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_7:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\07.ogg"
+            },
+            {
+                "name": "|TInterface\\\\TargetingFrame\\\\UI-RaidTargetingIcon_8:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\08.ogg"
+            },
+            {
+                "name": "|cFFFF0000Add|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Add.ogg"
+            },
+            {
+                "name": "|cFFFF0000Adds|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Adds.ogg"
+            },
+            {
+                "name": "|cFFFF0000Affix|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Affix.ogg"
+            },
+            {
+                "name": "|cFFFF0000AoE|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\AoE.ogg"
+            },
+            {
+                "name": "|cFFFF0000Assist|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Assist.ogg"
+            },
+            {
+                "name": "|cFFFF0000Avoid|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Avoid.ogg"
+            },
+            {
+                "name": "|cFFFF0000Back|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Back.ogg"
+            },
+            {
+                "name": "|cFFFF0000Backup|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Backup.ogg"
+            },
+            {
+                "name": "|cFFFF0000Bait|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Bait.ogg"
+            },
+            {
+                "name": "|cFFFF0000Beam|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Beam.ogg"
+            },
+            {
+                "name": "|cFFFF0000Bloodlust|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Bloodlust.ogg"
+            },
+            {
+                "name": "|cFFFF0000Blue|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Blue.ogg"
+            },
+            {
+                "name": "|cFFFF0000Bombs|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Bombs.ogg"
+            },
+            {
+                "name": "|cFFFF0000Boss|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Boss.ogg"
+            },
+            {
+                "name": "|cFFFF0000Break|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Break.ogg"
+            },
+            {
+                "name": "|cFFFF0000Buff|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Buff.ogg"
+            },
+            {
+                "name": "|cFFFF0000CC|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\CC.ogg"
+            },
+            {
+                "name": "|cFFFF0000CD|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\CD.ogg"
+            },
+            {
+                "name": "|cFFFF0000Center|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Center.ogg"
+            },
+            {
+                "name": "|cFFFF0000Chain|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Chain.ogg"
+            },
+            {
+                "name": "|cFFFF0000Charge|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Charge.ogg"
+            },
+            {
+                "name": "|cFFFF0000Clear|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Clear.ogg"
+            },
+            {
+                "name": "|cFFFF0000Collect|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Collect.ogg"
+            },
+            {
+                "name": "|cFFFF0000Dance|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Dance.ogg"
+            },
+            {
+                "name": "|cFFFF0000Defensive|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Defensive.ogg"
+            },
+            {
+                "name": "|cFFFF0000Debuff|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Debuff.ogg"
+            },
+            {
+                "name": "|cFFFF0000Dispell|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Dispell.ogg"
+            },
+            {
+                "name": "|cFFFF0000Dodge|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Dodge.ogg"
+            },
+            {
+                "name": "|cFFFF0000Dont|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Dont.ogg"
+            },
+            {
+                "name": "|cFFFF0000Dont Move|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Dont Move.ogg"
+            },
+            {
+                "name": "|cFFFF0000Dot|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Dot.ogg"
+            },
+            {
+                "name": "|cFFFF0000Drop|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Drop.ogg"
+            },
+            {
+                "name": "|cFFFF0000Enter|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Enter.ogg"
+            },
+            {
+                "name": "|cFFFF0000Escort|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Escort.ogg"
+            },
+            {
+                "name": "|cFFFF0000Exit|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Exit.ogg"
+            },
+            {
+                "name": "|cFFFF0000External|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\External.ogg"
+            },
+            {
+                "name": "|cFFFF0000Feet|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Feet.ogg"
+            },
+            {
+                "name": "|cFFFF0000Fixate|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Fixate.ogg"
+            },
+            {
+                "name": "|cFFFF0000Focus|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Focus.ogg"
+            },
+            {
+                "name": "|cFFFF0000Front|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Front.ogg"
+            },
+            {
+                "name": "|cFFFF0000Gate|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Gate.ogg"
+            },
+            {
+                "name": "|cFFFF0000Gather|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Gather.ogg"
+            },
+            {
+                "name": "|cFFFF0000Green|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Green.ogg"
+            },
+            {
+                "name": "|cFFFF0000Go|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Go.ogg"
+            },
+            {
+                "name": "|cFFFF0000Grip|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Grip.ogg"
+            },
+            {
+                "name": "|cFFFF0000Healcd|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Healcd.ogg"
+            },
+            {
+                "name": "|cFFFF0000Hide|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Hide.ogg"
+            },
+            {
+                "name": "|cFFFF0000High Energy|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\High Energy.ogg"
+            },
+            {
+                "name": "|cFFFF0000High Stacks|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\High Stacks.ogg"
+            },
+            {
+                "name": "|cFFFF0000Immunity|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Immunity.ogg"
+            },
+            {
+                "name": "|cFFFF0000In|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\In.ogg"
+            },
+            {
+                "name": "|cFFFF0000Interrupt|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Interrupt.ogg"
+            },
+            {
+                "name": "|cFFFF0000Intermission|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Intermission.ogg"
+            },
+            {
+                "name": "|cFFFF0000Invisibility|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Invisibility.ogg"
+            },
+            {
+                "name": "|cFFFF0000Jump|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Jump.ogg"
+            },
+            {
+                "name": "|cFFFF0000Kick|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Kick.ogg"
+            },
+            {
+                "name": "|cFFFF0000Kite|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Kite.ogg"
+            },
+            {
+                "name": "|cFFFF0000Knock|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Knock.ogg"
+            },
+            {
+                "name": "|cFFFF0000Last|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Last.ogg"
+            },
+            {
+                "name": "|cFFFF0000Left|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Left.ogg"
+            },
+            {
+                "name": "|cFFFF0000Leap|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Leap.ogg"
+            },
+            {
+                "name": "|cFFFF0000Link|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Link.ogg"
+            },
+            {
+                "name": "|cFFFF0000Linked|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Linked.ogg"
+            },
+            {
+                "name": "|cFFFF0000LoS|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\LoS.ogg"
+            },
+            {
+                "name": "|cFFFF0000Macro|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Macro.ogg"
+            },
+            {
+                "name": "|cFFFF0000Melee|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Melee.ogg"
+            },
+            {
+                "name": "|cFFFF0000Mines|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Mines.ogg"
+            },
+            {
+                "name": "|cFFFF0000Move|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Move.ogg"
+            },
+            {
+                "name": "|cFFFF0000Next|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Next.ogg"
+            },
+            {
+                "name": "|cFFFF0000Nuke|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Nuke.ogg"
+            },
+            {
+                "name": "|cFFFF0000Orange|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Orange.ogg"
+            },
+            {
+                "name": "|cFFFF0000Orb|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Orb.ogg"
+            },
+            {
+                "name": "|cFFFF0000Out|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Out.ogg"
+            },
+            {
+                "name": "|cFFFF0000Overlap|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Overlap.ogg"
+            },
+            {
+                "name": "|cFFFF0000Pop|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Pop.ogg"
+            },
+            {
+                "name": "|cFFFF0000Pots|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Pots.ogg"
+            },
+            {
+                "name": "|cFFFF0000Pull|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Pull.ogg"
+            },
+            {
+                "name": "|cFFFF0000Purple|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Purple.ogg"
+            },
+            {
+                "name": "|cFFFF0000Push|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Push.ogg"
+            },
+            {
+                "name": "|cFFFF0000Range|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Range.ogg"
+            },
+            {
+                "name": "|cFFFF0000Ready|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Ready.ogg"
+            },
+            {
+                "name": "|cFFFF0000Red|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Red.ogg"
+            },
+            {
+                "name": "|cFFFF0000Reflect|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Reflect.ogg"
+            },
+            {
+                "name": "|cFFFF0000Refresh|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Refresh.ogg"
+            },
+            {
+                "name": "|cFFFF0000Right|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Right.ogg"
+            },
+            {
+                "name": "|cFFFF0000Ring|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Ring.ogg"
+            },
+            {
+                "name": "|cFFFF0000Root|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Root.ogg"
+            },
+            {
+                "name": "|cFFFF0000Seed|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Seed.ogg"
+            },
+            {
+                "name": "|cFFFF0000Selfcd|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Selfcd.ogg"
+            },
+            {
+                "name": "|cFFFF0000Shield|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Shield.ogg"
+            },
+            {
+                "name": "|cFFFF0000Soak|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Soak.ogg"
+            },
+            {
+                "name": "|cFFFF0000Soon|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Soon.ogg"
+            },
+            {
+                "name": "|cFFFF0000Spawn|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Spawn.ogg"
+            },
+            {
+                "name": "|cFFFF0000Spellsteal|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Spellsteal.ogg"
+            },
+            {
+                "name": "|cFFFF0000Split|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Split.ogg"
+            },
+            {
+                "name": "|cFFFF0000Spread|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Spread.ogg"
+            },
+            {
+                "name": "|cFFFF0000Stack|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Stack.ogg"
+            },
+            {
+                "name": "|cFFFF0000Stay|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Stay.ogg"
+            },
+            {
+                "name": "|cFFFF0000Stop|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Stop.ogg"
+            },
+            {
+                "name": "|cFFFF0000Stopcast|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Stopcast.ogg"
+            },
+            {
+                "name": "|cFFFF0000Swap|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Swap.ogg"
+            },
+            {
+                "name": "|cFFFF0000Switch|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Switch.ogg"
+            },
+            {
+                "name": "|cFFFF0000Targeted|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Targeted.ogg"
+            },
+            {
+                "name": "|cFFFF0000Taunt|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Taunt.ogg"
+            },
+            {
+                "name": "|cFFFF0000Totem|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Totem.ogg"
+            },
+            {
+                "name": "|cFFFF0000Transition|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Transition.ogg"
+            },
+            {
+                "name": "|cFFFF0000Trap|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Trap.ogg"
+            },
+            {
+                "name": "|cFFFF0000Turn|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Turn.ogg"
+            },
+            {
+                "name": "|cFFFF0000Use|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Use.ogg"
+            },
+            {
+                "name": "|cFFFF0000Volley|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Volley.ogg"
+            },
+            {
+                "name": "|cFFFF0000Wave|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Wave.ogg"
+            },
+            {
+                "name": "|cFFFF0000Winds|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Winds.ogg"
+            },
+            {
+                "name": "|cFFFF0000Yellow|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Yellow.ogg"
+            },
+            {
+                "name": "|cFFFF1000AMZ|r |T237510:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\AMZ.ogg"
+            },
+            {
+                "name": "|cFFFF1000Angel|r |T612969:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Angel.ogg"
+            },
+            {
+                "name": "|cFFFF1000Ascendance|r |T135791:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Ascendance.ogg"
+            },
+            {
+                "name": "|cFFFF1000Autumn|r |T3636843:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Autumn.ogg"
+            },
+            {
+                "name": "|cFFFF1000Bark|r |T572025:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Bark.ogg"
+            },
+            {
+                "name": "|cFFFF1000Barrier|r |T253400:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Barrier.ogg"
+            },
+            {
+                "name": "|cFFFF1000Chi-Ji|r |T877514:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Chi-ji.ogg"
+            },
+            {
+                "name": "|cFFFF1000Cocoon|r |T627485:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Cocoon.ogg"
+            },
+            {
+                "name": "|cFFFF1000Darkness|r |T1305154:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Darkness.ogg"
+            },
+            {
+                "name": "|cFFFF1000Devo|r |T135893:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Devo.ogg"
+            },
+            {
+                "name": "|cFFFF1000Dwarf|r |T136225:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Dwarf.ogg"
+            },
+            {
+                "name": "|cFFFF1000Freedom|r |T135968:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Freedom.ogg"
+            },
+            {
+                "name": "|cFFFF1000Healing Tide|r |T538569:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Healing Tide.ogg"
+            },
+            {
+                "name": "|cFFFF1000Hymn|r |T237540:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Hymn.ogg"
+            },
+            {
+                "name": "|cFFFF1000Incarn|r |T236157:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Incarn.ogg"
+            },
+            {
+                "name": "|cFFFF1000Innervate|r |T136048:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Innervate.ogg"
+            },
+            {
+                "name": "|cFFFF1000Lay|r |T135928:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Lay.ogg"
+            },
+            {
+                "name": "|cFFFF1000Meld|r |T132089:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Meld.ogg"
+            },
+            {
+                "name": "|cFFFF1000Misdirect|r |T132180:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Misdirect.ogg"
+            },
+            {
+                "name": "|cFFFF1000Paradox|r |T5199645:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Paradox.ogg"
+            },
+            {
+                "name": "|cFFFF1000PI|r |T135939:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\PI.ogg"
+            },
+            {
+                "name": "|cFFFF1000Protection|r |T135964:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Protection.ogg"
+            },
+            {
+                "name": "|cFFFF1000PS|r |T135936:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\PS.ogg"
+            },
+            {
+                "name": "|cFFFF1000Rally|r |T132351:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Rally.ogg"
+            },
+            {
+                "name": "|cFFFF1000Rescue|r |T4622460:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Rescue.ogg"
+            },
+            {
+                "name": "|cFFFF1000Revival|r |T1020466:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Revival.ogg"
+            },
+            {
+                "name": "|cFFFF1000Rewind|r |T4622474:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Rewind.ogg"
+            },
+            {
+                "name": "|cFFFF1000Roar|r |T463283:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Roar.ogg"
+            },
+            {
+                "name": "|cFFFF1000Sac|r |T135966:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Sac.ogg"
+            },
+            {
+                "name": "|cFFFF1000SLT|r |T237586:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\SLT.ogg"
+            },
+            {
+                "name": "|cFFFF1000Shroud|r |T635350:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Shroud.ogg"
+            },
+            {
+                "name": "|cFFFF1000Spellwarding|r |T135880:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Spellwarding.ogg"
+            },
+            {
+                "name": "|cFFFF1000Spring|r |T3636844:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Spring.ogg"
+            },
+            {
+                "name": "|cFFFF1000SS|r |T136210:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\SS.ogg"
+            },
+            {
+                "name": "|cFFFF1000Summer|r |T3636845:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Summer.ogg"
+            },
+            {
+                "name": "|cFFFF1000Time Spiral|r |T4622479:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Time Spiral.ogg"
+            },
+            {
+                "name": "|cFFFF1000TD|r |T4622478:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\TD.ogg"
+            },
+            {
+                "name": "|cFFFF1000Tiger's Lust|r |T651727:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Tiger's Lust.ogg"
+            },
+            {
+                "name": "|cFFFF1000Tranq|r |T136107:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Tranq.ogg"
+            },
+            {
+                "name": "|cFFFF1000Tricks|r |T236283:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Tricks.ogg"
+            },
+            {
+                "name": "|cFFFF1000Wind Rush|r |T538576:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Wind Rush.ogg"
+            },
+            {
+                "name": "|cFFFF1000Winter|r |T3636846:16|t",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Winter.ogg"
+            }
         ]
     }
 }
