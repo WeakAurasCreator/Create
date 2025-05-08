@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207250"
+  "SpellID": "207250",
+  "name_blz": {
+    "en_US": "Follower: Kira Iresoul",
+    "es_MX": "Seguidor: Kira Alma\u00edra",
+    "pt_BR": "Seguidora: Kira Iralma",
+    "de_DE": "Anh\u00e4ngerin: Kira Zornseele",
+    "en_GB": "Follower: Kira Iresoul",
+    "es_ES": "Seguidora: Kira Alma\u00edra",
+    "fr_FR": "Sujet\u00a0: Kira Ir\u00e2me",
+    "it_IT": "Seguace: Kira Iranima",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0438\u0440\u0430 \u0417\u043b\u043e\u0431\u043d\u0430\u044f \u0414\u0443\u0448\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ud0a4\ub77c \uc544\uc774\uc5b4\uc18c\uc6b8",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u742a\u62c9\u2027\u6012\u9b42",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5947\u62c9\u00b7\u827e\u7d22\u5c14"
+  },
+  "description_blz": {
+    "en_US": "[WRITE TEXT HERE]",
+    "es_MX": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "pt_BR": "[WRITE TEXT HERE]",
+    "de_DE": "[WRITE TEXT HERE]",
+    "en_GB": "[WRITE TEXT HERE]",
+    "es_ES": "[WRITE TEXT HERE]",
+    "fr_FR": "[WRITE TEXT HERE]",
+    "it_IT": "[WRITE TEXT HERE]",
+    "ru_RU": "[WRITE TEXT HERE]",
+    "ko_KR": "[\uc5ec\uae30\uc5d0 \uc791\uc131]",
+    "zh_TW": "[WRITE TEXT HERE]",
+    "zh_CN": "[WRITE TEXT HERE]"
+  }
 }
