@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "219756"
+  "SpellID": "219756",
+  "name_blz": {
+    "en_US": "Follower: Calia Menethil",
+    "es_MX": "Seguidor: Calia Menethil",
+    "pt_BR": "Seguidora: Calia Menethil",
+    "de_DE": "Anh\u00e4ngerin: Calia Menethil",
+    "en_GB": "Follower: Calia Menethil",
+    "es_ES": "Seguidora: Calia Menethil",
+    "fr_FR": "Sujet\u00a0: Calia Menethil",
+    "it_IT": "Seguace: Calia Menethil",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0430\u043b\u0438\u044f \u041c\u0435\u043d\u0435\u0442\u0438\u043b",
+    "ko_KR": "\ucd94\uc885\uc790: \uce7c\ub9ac\uc544 \uba54\ub124\uc2e4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5361\u8389\u96c5\u2027\u7c73\u5948\u5e0c\u723e",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u4f73\u8389\u5a05\u00b7\u7c73\u5948\u5e0c\u5c14"
+  },
+  "description_blz": {
+    "en_US": "[WRITE TEXT HERE]",
+    "es_MX": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "pt_BR": "[WRITE TEXT HERE]",
+    "de_DE": "[HIER GEH\u00d6RT TEXT HIN]",
+    "en_GB": "[WRITE TEXT HERE]",
+    "es_ES": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "fr_FR": "[WRITE TEXT HERE]",
+    "it_IT": "[WRITE TEXT HERE]",
+    "ru_RU": "[\u0417\u0414\u0415\u0421\u042c \u0411\u0423\u0414\u0415\u0422 \u0422\u0415\u041a\u0421\u0422]",
+    "ko_KR": "[\uc5ec\uae30\uc5d0 \uc791\uc131]",
+    "zh_TW": "[WRITE TEXT HERE]",
+    "zh_CN": "\u5360\u4f4d\u5b57\u7b26"
+  }
 }

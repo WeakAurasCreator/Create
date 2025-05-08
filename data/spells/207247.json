@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207247"
+  "SpellID": "207247",
+  "name_blz": {
+    "en_US": "Follower: Calydus",
+    "es_MX": "Seguidor: Calydus",
+    "pt_BR": "Seguidor: Calydus",
+    "de_DE": "Anh\u00e4nger: Calydus",
+    "en_GB": "Follower: Calydus",
+    "es_ES": "Seguidor: Calydus",
+    "fr_FR": "Sujet\u00a0: Calydus",
+    "it_IT": "Seguace: Calydus",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0430\u043b\u0438\u0434",
+    "ko_KR": "\ucd94\uc885\uc790: \uce7c\ub9ac\ub450\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5361\u840a\u5fb7\u65af",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5361\u91cc\u675c\u65af"
+  },
+  "description_blz": {
+    "en_US": "[WRITE TEXT HERE]",
+    "es_MX": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "pt_BR": "[WRITE TEXT HERE]",
+    "de_DE": "[WRITE TEXT HERE]",
+    "en_GB": "[WRITE TEXT HERE]",
+    "es_ES": "[WRITE TEXT HERE]",
+    "fr_FR": "[WRITE TEXT HERE]",
+    "it_IT": "[WRITE TEXT HERE]",
+    "ru_RU": "[WRITE TEXT HERE]",
+    "ko_KR": "[\uc5ec\uae30\uc5d0 \uc791\uc131]",
+    "zh_TW": "[WRITE TEXT HERE]",
+    "zh_CN": "[WRITE TEXT HERE]"
+  }
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "214986"
+  "SpellID": "214986",
+  "name_blz": {
+    "en_US": "Follower: Archmage Kalec",
+    "es_MX": "Seguidor: Archimago Kalec",
+    "pt_BR": "Seguidor: Arquimago Kalec",
+    "de_DE": "Anh\u00e4nger: Erzmagier Kalec",
+    "en_GB": "Follower: Archmage Kalec",
+    "es_ES": "Seguidor: Archimago Kalec",
+    "fr_FR": "Sujet\u00a0: archimage Kalec",
+    "it_IT": "Seguace: Arcimago Kalec",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0432\u0435\u0440\u0445\u043e\u0432\u043d\u044b\u0439 \u043c\u0430\u0433 \u041a\u0435\u0439\u043b\u0435\u043a",
+    "ko_KR": "\ucd94\uc885\uc790: \ub300\ub9c8\ubc95\uc0ac \uce7c\ub809",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5927\u6cd5\u5e2b\u5361\u96f7\u514b",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5927\u6cd5\u5e08\u5361\u96f7"
+  },
+  "description_blz": {}
 }

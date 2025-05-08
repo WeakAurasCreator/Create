@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "216789"
+  "SpellID": "216789",
+  "name_blz": {
+    "en_US": "Follower: Addie Fizzlebog",
+    "es_MX": "Seguidor: Addie Chisparisma",
+    "pt_BR": "Seguidora: Addie Chiabrejo",
+    "de_DE": "Anh\u00e4ngerin: Addie Zischmoor",
+    "en_GB": "Follower: Addie Fizzlebog",
+    "es_ES": "Seguidora: Addie Silbarisma",
+    "fr_FR": "Sujet\u00a0: Addie P\u00e9tibourbe",
+    "it_IT": "Seguace: Addie Frizzabrago",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0410\u0434\u0434\u0438 \u0428\u0438\u043f\u043e\u0442\u043e\u043f\u0447\u0438\u043a",
+    "ko_KR": "\ucd94\uc885\uc790: \uc560\ub514 \ud53c\uc990\ubcf4\uadf8",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u827e\u7b1b\u2027\u5636\u6cbc",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u827e\u8fea\u00b7\u6ce1\u6cbc"
+  },
+  "description_blz": {
+    "en_US": "[WRITE TEXT HERE]",
+    "es_MX": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "pt_BR": "[WRITE TEXT HERE]",
+    "de_DE": "[HIER GEH\u00d6RT TEXT HIN]",
+    "en_GB": "[WRITE TEXT HERE]",
+    "es_ES": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "fr_FR": "[WRITE TEXT HERE]",
+    "it_IT": "[WRITE TEXT HERE]",
+    "ru_RU": "[\u0417\u0414\u0415\u0421\u042c \u0411\u0423\u0414\u0415\u0422 \u0422\u0415\u041a\u0421\u0422]",
+    "ko_KR": "[\uc5ec\uae30\uc5d0 \uc791\uc131]",
+    "zh_TW": "[WRITE TEXT HERE]",
+    "zh_CN": "\u5360\u4f4d\u5b57\u7b26"
+  }
 }
