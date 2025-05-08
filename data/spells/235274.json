@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "235274"
+  "SpellID": "235274",
+  "name_blz": {
+    "en_US": "Follower: Aethas Sunreaver",
+    "es_MX": "Seguidor: Aethas Atracasol",
+    "pt_BR": "Seguidor: Aethas Fendessol",
+    "de_DE": "Anh\u00e4nger: Aethas Sonnenh\u00e4scher",
+    "en_GB": "Follower: Aethas Sunreaver",
+    "es_ES": "Seguidor: Aethas Atracasol",
+    "fr_FR": "Sujet\u00a0: Aethas Saccage-Soleil",
+    "it_IT": "Seguace: Aethas il Predatore del Sole",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u042d\u0442\u0430\u0441 \u041f\u043e\u0445\u0438\u0442\u0438\u0442\u0435\u043b\u044c \u0421\u043e\u043b\u043d\u0446\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \uc5d0\uc774\ud0c0\uc2a4 \uc120\ub9ac\ubc84",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u57c3\u85a9\u2027\u596a\u65e5\u8005",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u827e\u8428\u65af\u00b7\u593a\u65e5\u8005"
+  },
+  "description_blz": {}
 }
