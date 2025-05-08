@@ -32,9 +32,9 @@ jobs:
 
       - name: Run asset update script
         env:
-          ADDON_ID: ${{ matrix.addon.addon_id }}
-          FILE_NAME: ${{ matrix.addon.file_name }}
-          PARENT_KEY: ${{ matrix.addon.parent_key }}
+          ADDON_ID: ${{ matrix.addon_id }}
+          FILE_NAME: ${{ matrix.file_name }}
+          PARENT_KEY: ${{ matrix.parent_key }}
           WAGO_ADDONS_DECRYPT_KEY: ${{ secrets.WAGO_ADDONS_DECRYPT_KEY }}
           WAGO_ADDONS_DECRYPT_IV:  ${{ secrets.WAGO_ADDONS_DECRYPT_IV }}
         run: |
