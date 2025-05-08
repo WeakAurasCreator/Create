@@ -40,12 +40,10 @@ jobs:
         run: |
           python backend_scripts/fetchWagoAddon.py
 
-      - name: Commit & Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update media assets for ${{ matrix.addon.parent_key }}"
-          branch: main
-          file_pattern: |
-            assets/json/*.json
-          author_name: github-actions
-          author_email: actions@github.com
+      - name: Commit & push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/json/
+          git diff --staged --quiet || git commit -m "ci: update WoW talent-tree data"
+          git push
