@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "215171"
+  "SpellID": "215171",
+  "name_blz": {
+    "en_US": "Follower: Esara Verrix",
+    "es_MX": "Seguidor: Esara Verrix",
+    "pt_BR": "Seguidor: Esara Verrix",
+    "de_DE": "Anh\u00e4ngerin: Esara Verrix",
+    "en_GB": "Follower: Esara Verrix",
+    "es_ES": "Seguidora: Esara Verrinde",
+    "fr_FR": "Sujet\u00a0: Esara Verrix",
+    "it_IT": "Seguace: Esara Verrix",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u042d\u0437\u0430\u0440\u0430 \u0412\u0435\u0440\u0440\u0438\u043a\u0441",
+    "ko_KR": "\ucd94\uc885\uc790: \uc774\uc0ac\ub77c \ubca0\ub9ad\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u4f0a\u85a9\u83c8\u2027\u8587\u8389\u7d72",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u827e\u838e\u62c9\u00b7\u7ef4\u6797\u514b\u65af"
+  },
+  "description_blz": {}
 }

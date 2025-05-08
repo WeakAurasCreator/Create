@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "216790"
+  "SpellID": "216790",
+  "name_blz": {
+    "en_US": "Follower: Hemet Nesingwary",
+    "es_MX": "Seguidor: Hemet Nesingwary",
+    "pt_BR": "Seguidor: Rosar\u00e3es Guima",
+    "de_DE": "Anh\u00e4nger: Hemet Nesingwary",
+    "en_GB": "Follower: Hemet Nesingwary",
+    "es_ES": "Seguidor: Hemet Nesingwary",
+    "fr_FR": "Sujet\u00a0: Hemet Nesingwary",
+    "it_IT": "Seguace: Hemet Nesingwary",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0425\u0435\u043c\u0438\u043d\u0433 \u042d\u0440\u043d\u0435\u0441\u0442\u0443\u044d\u0439",
+    "ko_KR": "\ucd94\uc885\uc790: \ud5e4\uba67 \ub124\uc2f1\uc6cc\ub9ac",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u8d6b\u7c73\u7279\u2027\u5948\u8f9b\u74e6\u91cc",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u8d6b\u7c73\u7279\u00b7\u5948\u8f9b\u74e6\u91cc"
+  },
+  "description_blz": {
+    "en_US": "[WRITE TEXT HERE]",
+    "es_MX": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "pt_BR": "[WRITE TEXT HERE]",
+    "de_DE": "[HIER GEH\u00d6RT TEXT HIN]",
+    "en_GB": "[WRITE TEXT HERE]",
+    "es_ES": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "fr_FR": "[WRITE TEXT HERE]",
+    "it_IT": "[WRITE TEXT HERE]",
+    "ru_RU": "[\u0417\u0414\u0415\u0421\u042c \u0411\u0423\u0414\u0415\u0422 \u0422\u0415\u041a\u0421\u0422]",
+    "ko_KR": "[\uc5ec\uae30\uc5d0 \uc791\uc131]",
+    "zh_TW": "[WRITE TEXT HERE]",
+    "zh_CN": "\u5360\u4f4d\u5b57\u7b26"
+  }
 }
