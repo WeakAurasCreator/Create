@@ -5,13 +5,15 @@ on:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+   - cron: '0 10 * * WED'
 
 jobs:
   update-media:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        addon:
+        include:
           - addon_id: "rkGryYKy"
             file_name: "SharedMedia_Causese/Soundpaths.lua"
             parent_key: "shared-media-causese"
@@ -22,8 +24,6 @@ jobs:
 
       - name: Set up Python
         uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
 
       - name: Install dependencies
         run: |
