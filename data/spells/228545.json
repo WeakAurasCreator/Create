@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "228545"
+  "SpellID": "228545",
+  "name_blz": {
+    "en_US": "Shapeshift Form",
+    "es_MX": "Cambio de forma",
+    "pt_BR": "Forma Metamorfoseada",
+    "de_DE": "Verwandelte Gestalt",
+    "en_GB": "Shapeshift Form",
+    "es_ES": "Forma cambiada",
+    "fr_FR": "Changeforme",
+    "it_IT": "Mutaforma",
+    "ru_RU": "\u0421\u043c\u0435\u043d\u0430 \u043e\u0431\u043b\u0438\u043a\u0430",
+    "ko_KR": "\ubcc0\uc2e0",
+    "zh_TW": "\u8b8a\u8eab\u5f62\u614b",
+    "zh_CN": "\u53d8\u5f62\u5f62\u6001"
+  },
+  "description_blz": {}
 }

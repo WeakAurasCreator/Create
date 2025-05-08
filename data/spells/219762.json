@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "219762"
+  "SpellID": "219762",
+  "name_blz": {
+    "en_US": "Follower: Mariella Ward",
+    "es_MX": "Seguidora: Mariella Ward",
+    "pt_BR": "Seguidora: Protetora Mariella",
+    "de_DE": "Anh\u00e4ngerin: Mariella Ward",
+    "en_GB": "Follower: Mariella Ward",
+    "es_ES": "Seguidora: Mariella Ward",
+    "fr_FR": "Sujet\u00a0: Mariella Ward",
+    "it_IT": "Seguace: Mariel Ward",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041c\u0430\u0440\u0438\u044d\u043b\u043b\u0430 \u0423\u043e\u0440\u0434",
+    "ko_KR": "\ucd94\uc885\uc790: \ub9c8\ub9ac\uc5d8\ub77c \uc6cc\ub4dc",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u746a\u8389\u62c9\u2027\u74e6\u5fb7",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u9a6c\u4e3d\u62c9\u00b7\u74e6\u5c14\u5fb7"
+  },
+  "description_blz": {
+    "en_US": "[WRITE TEXT HERE]",
+    "es_MX": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "pt_BR": "[WRITE TEXT HERE]",
+    "de_DE": "[HIER GEH\u00d6RT TEXT HIN]",
+    "en_GB": "[WRITE TEXT HERE]",
+    "es_ES": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "fr_FR": "[WRITE TEXT HERE]",
+    "it_IT": "[WRITE TEXT HERE]",
+    "ru_RU": "[\u0417\u0414\u0415\u0421\u042c \u0411\u0423\u0414\u0415\u0422 \u0422\u0415\u041a\u0421\u0422]",
+    "ko_KR": "[\uc5ec\uae30\uc5d0 \uc791\uc131]",
+    "zh_TW": "[WRITE TEXT HERE]",
+    "zh_CN": "\u5360\u4f4d\u5b57\u7b26"
+  }
 }

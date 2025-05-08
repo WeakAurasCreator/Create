@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "234265"
+  "SpellID": "234265",
+  "name_blz": {
+    "en_US": "Follower: Almai",
+    "es_MX": "Seguidora: Almai",
+    "pt_BR": "Seguidor: Almai",
+    "de_DE": "Anh\u00e4nger: Almai",
+    "en_GB": "Follower: Almai",
+    "es_ES": "Seguidora: Almai",
+    "fr_FR": "Sujet\u00a0: Almai",
+    "it_IT": "Seguace: Almai",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0410\u043b\u044c\u043c\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \uc54c\ub9c8\uc774",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u611b\u746a\u4f0a",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u963f\u9ea6"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207248"
+  "SpellID": "207248",
+  "name_blz": {
+    "en_US": "Follower: Jubeka Shadowbreaker",
+    "es_MX": "Seguidor: Jubeka Domasombras",
+    "pt_BR": "Seguidor: Jubeka Quebrassombra",
+    "de_DE": "Anh\u00e4ngerin: Jubeka Schattenbrecher",
+    "en_GB": "Follower: Jubeka Shadowbreaker",
+    "es_ES": "Seguidora: Jubeka Domasombras",
+    "fr_FR": "Sujet\u00a0: Jubeka Brisombre",
+    "it_IT": "Seguace: Jubeka Spezzaombre",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0414\u0436\u0443\u0431\u0435\u043a\u0430 \u0422\u0435\u043d\u0435\u043b\u043e\u043c",
+    "ko_KR": "\ucd94\uc885\uc790: \uc8fc\ubca0\uce74 \uc100\ub3c4\ube0c\ub808\uc774\ucee4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u88d8\u8c9d\u5361\u2027\u7834\u5f71\u8005",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u88d8\u78a7\u5361\u00b7\u788e\u5f71"
+  },
+  "description_blz": {
+    "en_US": "[WRITE TEXT HERE]",
+    "es_MX": "[ESCRIBIR TEXTO AQU\u00cd]",
+    "pt_BR": "[WRITE TEXT HERE]",
+    "de_DE": "[WRITE TEXT HERE]",
+    "en_GB": "[WRITE TEXT HERE]",
+    "es_ES": "[WRITE TEXT HERE]",
+    "fr_FR": "[WRITE TEXT HERE]",
+    "it_IT": "[WRITE TEXT HERE]",
+    "ru_RU": "[WRITE TEXT HERE]",
+    "ko_KR": "[\uc5ec\uae30\uc5d0 \uc791\uc131]",
+    "zh_TW": "[WRITE TEXT HERE]",
+    "zh_CN": "[WRITE TEXT HERE]"
+  }
 }

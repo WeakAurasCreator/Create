@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "214353"
+  "SpellID": "214353",
+  "name_blz": {
+    "en_US": "Follower: Ragnvald Drakeborn",
+    "es_MX": "Seguidor: Rangvald Draconato",
+    "pt_BR": "Seguidor: Ragnvald Filho de Draco",
+    "de_DE": "Anh\u00e4nger: Ragnvald Drachenson",
+    "en_GB": "Follower: Ragnvald Drakeborn",
+    "es_ES": "Seguidor: Ragnvald Hijo de Draco",
+    "fr_FR": "Sujet\u00a0: Ragnvald Drake-N\u00e9",
+    "it_IT": "Seguace: Ragnvald Dragen\u00eca",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0420\u0430\u0433\u043d\u0432\u0430\u043b\u044c\u0434 \u0414\u0440\u0430\u043a\u043e\u043d\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u043d\u044b\u0439",
+    "ko_KR": "\ucd94\uc885\uc790: \ub77c\uadf8\ub290\ubc1c\ub4dc \ub4dc\ub808\uc774\ud06c\ubcf8",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u62c9\u683c\u74e6\u5fb7\u2027\u9f8d\u88d4",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u62c9\u683c\u74e6\u5c14\u5fb7\u00b7\u9f99\u8109"
+  },
+  "description_blz": {}
 }

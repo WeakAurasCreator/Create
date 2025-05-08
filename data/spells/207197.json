@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207197"
+  "SpellID": "207197",
+  "name_blz": {
+    "en_US": "Riposte",
+    "es_MX": "Contestaci\u00f3n",
+    "pt_BR": "Ripostar",
+    "de_DE": "Riposte",
+    "en_GB": "Riposte",
+    "es_ES": "Contestaci\u00f3n",
+    "fr_FR": "Riposte",
+    "it_IT": "Replica Immediata",
+    "ru_RU": "\u041e\u0442\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u0440\u043e\u0432",
+    "ko_KR": "\ubc18\uaca9",
+    "zh_TW": "\u9084\u64ca",
+    "zh_CN": "\u8fd8\u51fb"
+  },
+  "description_blz": {
+    "en_US": "You gain Parry equal to 100% of your Critical Strike from gear.",
+    "es_MX": "Obtienes Parada igual al 100% de tu golpe cr\u00edtico del equipo.",
+    "pt_BR": "Voc\u00ea ganha um Aparo equivalente a 100% do Acerto Cr\u00edtico dos seus equipamentos.",
+    "de_DE": "Erh\u00f6ht Euer Parieren um 100% des von Eurer Ausr\u00fcstung gew\u00e4hrten kritischen Trefferwerts.",
+    "en_GB": "You gain Parry equal to 100% of your Critical Strike from gear.",
+    "es_ES": "Obtienes una probabilidad de parar equivalente a un 100% del golpe cr\u00edtico de tu equipo.",
+    "fr_FR": "Vous obtenez un bonus au score de parade \u00e9gal \u00e0 100% des chances de coup critique apport\u00e9es par votre \u00e9quipement.",
+    "it_IT": "Fornisce una probabilit\u00e0 di parata pari al 100% della probabilit\u00e0 di critico fornita dall'equipaggiamento.",
+    "ru_RU": "\u0412\u0430\u0448\u0430 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043f\u0430\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100% \u043e\u0442 \u0431\u043e\u043d\u0443\u0441\u0430 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0430\u0435\u0442 \u044d\u043a\u0438\u043f\u0438\u0440\u043e\u0432\u043a\u0430.",
+    "ko_KR": "\uc7a5\ube44 \ucc29\uc6a9\uc73c\ub85c \uc99d\uac00\ud558\ub294 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uc758 100%\ub9cc\ud07c \ubb34\uae30 \ub9c9\uae30\uac00 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7372\u5f97\u76f8\u7576\u65bc\u88dd\u5099\u81f4\u547d\u4e00\u64ca\u52a0\u6210100%\u7684\u62db\u67b6\u3002",
+    "zh_CN": "\u83b7\u5f97\u62db\u67b6\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u7531\u88c5\u5907\u63d0\u4f9b\u7684\u7206\u51fb\u7684100%\u3002"
+  }
 }

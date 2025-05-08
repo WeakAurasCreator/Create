@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "214385"
+  "SpellID": "214385",
+  "name_blz": {
+    "en_US": "Follower: Thorim",
+    "es_MX": "Seguidor: Thorim",
+    "pt_BR": "Seguidor: Thorim",
+    "de_DE": "Anh\u00e4nger: Thorim",
+    "en_GB": "Follower: Thorim",
+    "es_ES": "Seguidor: Thorim",
+    "fr_FR": "Sujet\u00a0: Thorim",
+    "it_IT": "Seguace: Thorim",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0422\u043e\u0440\u0438\u043c",
+    "ko_KR": "\ucd94\uc885\uc790: \ud1a0\ub9bc",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u7d22\u6797\u59c6",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6258\u91cc\u59c6"
+  },
+  "description_blz": {}
 }
