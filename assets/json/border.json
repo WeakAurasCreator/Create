@@ -1,6 +1,14 @@
 {
     "default": {
         "values": [
+            {
+                "name": "Square Full White",
+                "value": "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite.tga"
+            },
+            {
+                "name": "Drop Shadow",
+                "value": "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Border_DropShadow"
+            }
         ]
     }
 }

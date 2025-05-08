@@ -1,6 +1,267 @@
 {
     "default": {
-        "values": []
+        "values": [
+            {
+                "name": "Heartbeat Single",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\HeartbeatSingle.ogg"
+            },
+            {
+                "name": "Batman Punch",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\BatmanPunch.ogg"
+            },
+            {
+                "name": "Bike Horn",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\BikeHorn.ogg"
+            },
+            {
+                "name": "Boxing Arena Gong",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\BoxingArenaSound.ogg"
+            },
+            {
+                "name": "Bleat",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Bleat.ogg"
+            },
+            {
+                "name": "Cartoon Hop",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\CartoonHop.ogg"
+            },
+            {
+                "name": "Cat Meow",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\CatMeow2.ogg"
+            },
+            {
+                "name": "Kitten Meow",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\KittenMeow.ogg"
+            },
+            {
+                "name": "Robot Blip",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\RobotBlip.ogg"
+            },
+            {
+                "name": "Sharp Punch",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\SharpPunch.ogg"
+            },
+            {
+                "name": "Water Drop",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\WaterDrop.ogg"
+            },
+            {
+                "name": "Air Horn",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\AirHorn.ogg"
+            },
+            {
+                "name": "Applause",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Applause.ogg"
+            },
+            {
+                "name": "Banana Peel Slip",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\BananaPeelSlip.ogg"
+            },
+            {
+                "name": "Blast",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Blast.ogg"
+            },
+            {
+                "name": "Cartoon Voice Baritone",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\CartoonVoiceBaritone.ogg"
+            },
+            {
+                "name": "Cartoon Walking",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\CartoonWalking.ogg"
+            },
+            {
+                "name": "Cow Mooing",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\CowMooing.ogg"
+            },
+            {
+                "name": "Ringing Phone",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\RingingPhone.ogg"
+            },
+            {
+                "name": "Roaring Lion",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\RoaringLion.ogg"
+            },
+            {
+                "name": "Shotgun",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Shotgun.ogg"
+            },
+            {
+                "name": "Squish Fart",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\SquishFart.ogg"
+            },
+            {
+                "name": "Temple Bell",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\TempleBellHuge.ogg"
+            },
+            {
+                "name": "Torch",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Torch.ogg"
+            },
+            {
+                "name": "Warning Siren",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\WarningSiren.ogg"
+            },
+            {
+                "name": "Sheep Blerping",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\SheepBleat.ogg"
+            },
+            {
+                "name": "Rooster Chicken Call",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\RoosterChickenCalls.ogg"
+            },
+            {
+                "name": "Goat Bleeting",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\GoatBleating.ogg"
+            },
+            {
+                "name": "Acoustic Guitar",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\AcousticGuitar.ogg"
+            },
+            {
+                "name": "Synth Chord",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\SynthChord.ogg"
+            },
+            {
+                "name": "Chicken Alarm",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\ChickenAlarm.ogg"
+            },
+            {
+                "name": "Xylophone",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Xylophone.ogg"
+            },
+            {
+                "name": "Drums",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Drums.ogg"
+            },
+            {
+                "name": "Tada Fanfare",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\TadaFanfare.ogg"
+            },
+            {
+                "name": "Squeaky Toy Short",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\SqueakyToyShort.ogg"
+            },
+            {
+                "name": "Error Beep",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\ErrorBeep.ogg"
+            },
+            {
+                "name": "Oh No",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\OhNo.ogg"
+            },
+            {
+                "name": "Double Whoosh",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\DoubleWhoosh.ogg"
+            },
+            {
+                "name": "Brass",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Brass.mp3"
+            },
+            {
+                "name": "Glass",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Glass.mp3"
+            },
+            {
+                "name": "Voice: Adds",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Adds.ogg"
+            },
+            {
+                "name": "Voice: Boss",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Boss.ogg"
+            },
+            {
+                "name": "Voice: Circle",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Circle.ogg"
+            },
+            {
+                "name": "Voice: Cross",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Cross.ogg"
+            },
+            {
+                "name": "Voice: Diamond",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Diamond.ogg"
+            },
+            {
+                "name": "Voice: Don't Release",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\DontRelease.ogg"
+            },
+            {
+                "name": "Voice: Empowered",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Empowered.ogg"
+            },
+            {
+                "name": "Voice: Focus",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Focus.ogg"
+            },
+            {
+                "name": "Voice: Idiot",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Idiot.ogg"
+            },
+            {
+                "name": "Voice: Left",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Left.ogg"
+            },
+            {
+                "name": "Voice: Moon",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Moon.ogg"
+            },
+            {
+                "name": "Voice: Next",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Next.ogg"
+            },
+            {
+                "name": "Voice: Portal",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Portal.ogg"
+            },
+            {
+                "name": "Voice: Protected",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Protected.ogg"
+            },
+            {
+                "name": "Voice: Release",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Release.ogg"
+            },
+            {
+                "name": "Voice: Right",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Right.ogg"
+            },
+            {
+                "name": "Voice: Run Away",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\RunAway.ogg"
+            },
+            {
+                "name": "Voice: Skull",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Skull.ogg"
+            },
+            {
+                "name": "Voice: Spread",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Spread.ogg"
+            },
+            {
+                "name": "Voice: Square",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Square.ogg"
+            },
+            {
+                "name": "Voice: Stack",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Stack.ogg"
+            },
+            {
+                "name": "Voice: Star",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Star.ogg"
+            },
+            {
+                "name": "Voice: Switch",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Switch.ogg"
+            },
+            {
+                "name": "Voice: Taunt",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Taunt.ogg"
+            },
+            {
+                "name": "Voice: Triangle",
+                "value": "Interface\\\\AddOns\\\\WeakAuras\\\\Media\\\\Sounds\\\\Triangle.ogg"
+            }
+        ]
     },
     "shared-media-causese": {
         "label": "Shared Media",

@@ -1,6 +1,22 @@
 {
     "default": {
         "values": [
+            {
+                "name": "Clean",
+                "value": "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Statusbar_Clean"
+            },
+            {
+                "name": "Stripes",
+                "value": "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Statusbar_Stripes"
+            },
+            {
+                "name": "Thick Stripes",
+                "value": "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Statusbar_Stripes_Thick"
+            },
+            {
+                "name": "Thin Stripes",
+                "value": "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Statusbar_Stripes_Thin"
+            }
         ]
     }
 }

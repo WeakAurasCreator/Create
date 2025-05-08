@@ -1,6 +1,34 @@
 {
     "default": {
         "values": [
+            {
+                "name": "Fira Mono Medium",
+                "value": "Interface\\\\Addons\\\\WeakAuras\\\\Media\\\\Fonts\\\\FiraMono-Medium.ttf"
+            },
+            {
+                "name": "Fira Sans Black",
+                "value": "Interface\\\\Addons\\\\WeakAuras\\\\Media\\\\Fonts\\\\FiraSans-Heavy.ttf"
+            },
+            {
+                "name": "Fira Sans Condensed Black",
+                "value": "Interface\\\\Addons\\\\WeakAuras\\\\Media\\\\Fonts\\\\FiraSansCondensed-Heavy.ttf"
+            },
+            {
+                "name": "Fira Sans Condensed Medium",
+                "value": "Interface\\\\Addons\\\\WeakAuras\\\\Media\\\\Fonts\\\\FiraSansCondensed-Medium.ttf"
+            },
+            {
+                "name": "Fira Sans Medium",
+                "value": "Interface\\\\Addons\\\\WeakAuras\\\\Media\\\\Fonts\\\\FiraSans-Medium.ttf"
+            },
+            {
+                "name": "PT Sans Narrow Regular",
+                "value": "Interface\\\\Addons\\\\WeakAuras\\\\Media\\\\Fonts\\\\PTSansNarrow-Regular.ttf"
+            },
+            {
+                "name": "PT Sans Narrow Bold",
+                "value": "Interface\\\\Addons\\\\WeakAuras\\\\Media\\\\Fonts\\\\PTSansNarrow-Bold.ttf"
+            }
         ]
     }
 }
