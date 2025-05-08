@@ -1,0 +1,51 @@
+name: Update SharedMedia Assets
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-media:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        addon:
+          - addon_id: "rkGryYKy"
+            file_name: "SharedMedia_Causese/Soundpaths.lua"
+            parent_key: "shared-media-causese"
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pycryptodome
+
+      - name: Run asset update script
+        env:
+          ADDON_ID: ${{ matrix.addon.addon_id }}
+          FILE_NAME: ${{ matrix.addon.file_name }}
+          PARENT_KEY: ${{ matrix.addon.parent_key }}
+          WAGO_ADDONS_DECRYPT_KEY: ${{ secrets.WAGO_ADDONS_DECRYPT_KEY }}
+          WAGO_ADDONS_DECRYPT_IV:  ${{ secrets.WAGO_ADDONS_DECRYPT_IV }}
+        run: |
+          python backend_scripts/fetchWagoAddon.py
+
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update media assets for ${{ matrix.addon.parent_key }}"
+          branch: main
+          file_pattern: |
+            assets/json/*.json
+          author_name: github-actions
+          author_email: actions@github.com

@@ -1,0 +1,13 @@
+{
+    "default": {
+        "values": []
+    },
+    "shared-media-causese": {
+        "label": "Shared Media",
+        "description": "Causese's shared Media Addon",
+        "link": "https://www.curseforge.com/wow/addons/sharedmedia_causese",
+        "values": [
+          
+        ]
+    }
+}
