@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "292495"
+  "SpellID": "292495",
+  "name_blz": {
+    "en_US": "Languages",
+    "es_MX": "Idiomas",
+    "pt_BR": "L\u00ednguas",
+    "de_DE": "Sprachen",
+    "en_GB": "Languages",
+    "es_ES": "Idiomas",
+    "fr_FR": "Langues",
+    "it_IT": "Lingue",
+    "ru_RU": "\u042f\u0437\u044b\u043a\u0438",
+    "ko_KR": "\uc5b8\uc5b4",
+    "zh_TW": "\u8a9e\u8a00",
+    "zh_CN": "\u8bed\u8a00"
+  },
+  "description_blz": {
+    "en_US": "Common\nGnomish",
+    "es_MX": "Common\nGnomish",
+    "pt_BR": "Common\nGnomish",
+    "de_DE": "Common\nGnomish",
+    "en_GB": "Common\nGnomish",
+    "es_ES": "Common\nGnomish",
+    "fr_FR": "Common\nGnomish",
+    "it_IT": "Common\nGnomish",
+    "ru_RU": "Common\nGnomish",
+    "ko_KR": "Common\nGnomish",
+    "zh_TW": "Common\nGnomish",
+    "zh_CN": "Common\nGnomish"
+  }
 }
