@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "265868"
+  "SpellID": "265868",
+  "name_blz": {
+    "en_US": "Legion Skinning",
+    "es_MX": "Desuello de Legion",
+    "pt_BR": "Esfolamento de Legion",
+    "de_DE": "K\u00fcrschnerei der Verheerten Inseln",
+    "en_GB": "Legion Skinning",
+    "es_ES": "Desuello de Legion",
+    "fr_FR": "D\u00e9pe\u00e7age de Legion",
+    "it_IT": "Scuoiatura di Legion",
+    "ru_RU": "\u0421\u043d\u044f\u0442\u0438\u0435 \u0448\u043a\u0443\u0440 Legion",
+    "ko_KR": "\uad70\ub2e8 \ubb34\ub450\uc9c8",
+    "zh_TW": "\u8ecd\u5718\u525d\u76ae",
+    "zh_CN": "\u519b\u56e2\u5265\u76ae"
+  },
+  "description_blz": {
+    "en_US": "The basics of how to skin animals for their pelts and furs for use in Leatherworking. Gives a potential skinning skill of 100.",
+    "es_MX": "Informaci\u00f3n b\u00e1sica sobre el desuello de animales para conseguir pieles y pelajes para usar en peleter\u00eda. Otorga un potencial de habilidad de desuello de 100.",
+    "pt_BR": "Os fundamentos sobre como esfolar animais para obter pelagens e pelames para uso em Couraria. Permite treinar a per\u00edcia Esfolamento at\u00e9 o n\u00edvel 100.",
+    "de_DE": "Grundlagen, wie man Tiere h\u00e4utet und ihre Pelze und Felle f\u00fcr die Lederverarbeitung bearbeitet. Verleiht eine potenzielle K\u00fcrschnerfertigkeit von 100.",
+    "en_GB": "The basics of how to skin animals for their pelts and furs for use in Leatherworking. Gives a potential skinning skill of 100.",
+    "es_ES": "Informaci\u00f3n b\u00e1sica sobre el desuello de animales para conseguir pelambres y pelajes para usarlos en peleter\u00eda. Otorga una habilidad en desuello potencial de 100.",
+    "fr_FR": "Les rudiments du d\u00e9pe\u00e7age, permettant de r\u00e9cup\u00e9rer des peaux et des fourrures utilis\u00e9es en Travail du cuir. Permet d\u2019atteindre un niveau de comp\u00e9tence maximum de\u00a0100 en D\u00e9pe\u00e7age.",
+    "it_IT": "Permette a uno scuoiatore di ricavare dagli animali pelli e pellicce, materie prime utili per Conciatura. Puoi salire di competenza fino a un massimo di 100.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0441\u043d\u0438\u043c\u0430\u0442\u044c \u0448\u043a\u0443\u0440\u044b \u0438 \u043c\u0435\u0445 \u0441 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445. \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0432 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0432 \u043a\u043e\u0436\u0435\u0432\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0435. \u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u044c \u043d\u0430\u0432\u044b\u043a \u0441\u043d\u044f\u0442\u0438\u044f \u0448\u043a\u0443\u0440 \u0434\u043e \u0443\u0440\u043e\u0432\u043d\u044f 100.",
+    "ko_KR": "\ub3d9\ubb3c\uc758 \uac00\uc8fd\uc744 \ubc97\uaca8 \uac00\uc8fd\uc138\uacf5\uc5d0 \uc774\uc6a9\ud558\ub294 \ucd08\ubcf4\uc801\uc778 \uae30\uc220\uc785\ub2c8\ub2e4. \ubb34\ub450\uc9c8\uc758 \ucd5c\ub300 \uc219\ub828\ub3c4\uac00 100\uc73c\ub85c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u57fa\u672c\u7684\u525d\u76ae\u6280\u80fd\uff0c\u8b93\u4f60\u53ef\u4ee5\u5f9e\u52d5\u7269\u8eab\u4e0a\u7372\u53d6\u76ae\u9769\u548c\u6bdb\u76ae\u4ee5\u7528\u65bc\u88fd\u76ae\u6280\u80fd\u3002\u4f7f\u4f60\u7684\u525d\u76ae\u6280\u80fd\u4e0a\u9650\u63d0\u9ad8\u5230100\u9ede\u3002",
+    "zh_CN": "\u57fa\u672c\u7684\u5265\u76ae\u6280\u80fd\uff0c\u8ba9\u4f60\u53ef\u4ee5\u4ece\u52a8\u7269\u8eab\u4e0a\u83b7\u53d6\u76ae\u9769\u548c\u6bdb\u76ae\u4ee5\u7528\u4e8e\u5236\u76ae\u3002\u4f7f\u4f60\u83b7\u5f97100\u70b9\u7684\u5265\u76ae\u6280\u80fd\u4e0a\u9650\u3002"
+  }
 }
