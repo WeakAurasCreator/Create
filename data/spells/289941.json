@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "289941"
+  "SpellID": "289941",
+  "name_blz": {
+    "en_US": "Holy Shock",
+    "es_MX": "Choque sagrado",
+    "pt_BR": "Choque Sagrado",
+    "de_DE": "Heiliger Schock",
+    "en_GB": "Holy Shock",
+    "es_ES": "Choque Sagrado",
+    "fr_FR": "Horion sacr\u00e9",
+    "it_IT": "Folgore Sacra",
+    "ru_RU": "\u0428\u043e\u043a \u043d\u0435\u0431\u0435\u0441",
+    "ko_KR": "\uc2e0\uc131 \ucda9\uaca9",
+    "zh_TW": "\u795e\u8056\u9707\u64ca",
+    "zh_CN": "\u795e\u5723\u9707\u51fb"
+  },
+  "description_blz": {}
 }
