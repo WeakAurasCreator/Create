@@ -17,9 +17,11 @@ jobs:
           - addon_id: "rkGryYKy"
             file_name: "SharedMedia_Causese/Soundpaths.lua"
             parent_key: "shared-media-causese"
+            addon-name: "Sharedmedia Causese"
           - addon_id: "VBNBxKx5"
             file_name: "WeakAuras/Types.lua"
             parent_key: "default"
+            addon-name: "WeakAuras"
 
     steps:
       - name: Check out code
@@ -48,5 +50,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/json/
-          git diff --staged --quiet || git commit -m "ci: update Sharedmedia data for ${{ matrix.addon_id }}"
+          git diff --staged --quiet || git commit -m "ci: update Sharedmedia data for ${{ matrix.addon-name }}"
           git push
