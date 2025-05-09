@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "281376"
+  "SpellID": "281376",
+  "name_blz": {
+    "en_US": "Upgrades",
+    "es_MX": "Mejoras",
+    "pt_BR": "Aprimoramentos",
+    "de_DE": "Aufwertungen",
+    "en_GB": "Upgrades",
+    "es_ES": "Mejoras",
+    "fr_FR": "Am\u00e9liorations",
+    "it_IT": "Potenziamenti",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u044f",
+    "ko_KR": "\uc5c5\uadf8\ub808\uc774\ub4dc",
+    "zh_TW": "\u5347\u7d1a",
+    "zh_CN": "\u5347\u7ea7"
+  },
+  "description_blz": {}
 }

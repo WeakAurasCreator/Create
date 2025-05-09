@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "274015"
+  "SpellID": "274015",
+  "name_blz": {
+    "en_US": "Follower: Lilian Voss",
+    "es_MX": "Seguidora: Lilian Voss",
+    "pt_BR": "Seguidora: Lilian Voss",
+    "de_DE": "Anh\u00e4nger: Lilian Voss",
+    "en_GB": "Follower: Lilian Voss",
+    "es_ES": "Seguidora: Lilian Voss",
+    "fr_FR": "Sujet\u00a0: Lilian Voss",
+    "it_IT": "Seguace: Lilian Voss",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041b\u0438\u043b\u0438\u0430\u043d \u0412\u043e\u0441\u0441",
+    "ko_KR": "\ucd94\uc885\uc790: \ub9b4\ub9ac\uc548 \ubcf4\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u8389\u8389\u5b89\u2027\u4f5b\u65af",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u8389\u8389\u5b89\u00b7\u6c83\u65af"
+  },
+  "description_blz": {}
 }

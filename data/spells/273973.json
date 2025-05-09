@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "273973"
+  "SpellID": "273973",
+  "name_blz": {
+    "en_US": "Follower: John J. Keeshan",
+    "es_MX": "Seguidor: John J. Keeshan",
+    "pt_BR": "Seguidor: John J. Keeshan",
+    "de_DE": "Anh\u00e4nger: John J. Keeshan",
+    "en_GB": "Follower: John J. Keeshan",
+    "es_ES": "Seguidor: John J. Keeshan",
+    "fr_FR": "Sujet\u00a0: John J. Keeshan",
+    "it_IT": "Seguace: John J. Keeshan",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0414\u0436\u043e\u043d \u0414\u0436\u0435\u0439 \u041a\u0438\u0448\u0430\u043d",
+    "ko_KR": "\ucd94\uc885\uc790: \uc874 J. \ud0a4\uc0e8",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u7d04\u7ff0\u2027J\u2027\u57fa\u6c99\u6069",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u7ea6\u7ff0\u00b7J\u00b7\u57fa\u6c99\u6069"
+  },
+  "description_blz": {}
 }

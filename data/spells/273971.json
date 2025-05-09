@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "273971"
+  "SpellID": "273971",
+  "name_blz": {
+    "en_US": "Follower: Hobart Grapplehammer",
+    "es_MX": "Seguidor: Hobart Martillazos",
+    "pt_BR": "Seguidor: Roberto Agarramalho",
+    "de_DE": "Anh\u00e4nger: Hobart Wurfhammer",
+    "en_GB": "Follower: Hobart Grapplehammer",
+    "es_ES": "Seguidor: Hobart Martillazos",
+    "fr_FR": "Sujet\u00a0: Hobart Martelutte",
+    "it_IT": "Seguace: Hobart Multivite",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0425\u043e\u0431\u0430\u0440\u0442 \u0414\u0440\u0435\u043a",
+    "ko_KR": "\ucd94\uc885\uc790: \ud638\ubc14\ud2b8 \uadf8\ub798\ud50c\ud574\uba38",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u8377\u5df4\u723e\u7279\u2027\u7e6b\u9318",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u970d\u5df4\u7279\u00b7\u94a9\u9524"
+  },
+  "description_blz": {}
 }
