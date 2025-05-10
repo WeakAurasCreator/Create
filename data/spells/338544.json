@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338544"
+  "SpellID": "338544",
+  "name_blz": {
+    "en_US": "Follower: Te'zan",
+    "es_MX": "Seguidor: Te'zan",
+    "pt_BR": "Seguidor: Te'zan",
+    "de_DE": "Anh\u00e4nger: Te'zan",
+    "en_GB": "Follower: Te'zan",
+    "es_ES": "Seguidor: Te'zan",
+    "fr_FR": "Sujet\u00a0: Te\u2019zan",
+    "it_IT": "Seguace: Te'zan",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0422\u0435'\u0437\u0430\u043d",
+    "ko_KR": "\ucd94\uc885\uc790: \ud14c\uc794",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5fd2\u5360",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6cf0\u8d5e"
+  },
+  "description_blz": {}
 }

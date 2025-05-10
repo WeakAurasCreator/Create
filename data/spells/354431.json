@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "354431"
+  "SpellID": "354431",
+  "name_blz": {
+    "en_US": "Follower: Lassik Spinebender",
+    "es_MX": "Seguidor: Lassik Doblaespinas",
+    "pt_BR": "Seguidor: Lassik Quebra-espinhas",
+    "de_DE": "Anh\u00e4nger: Lassik Gratkr\u00fcmmer",
+    "en_GB": "Follower: Lassik Spinebender",
+    "es_ES": "Seguidor: Lassik Doblaespinazos",
+    "fr_FR": "Sujet\u00a0: Lassik Courb\u00e9chine",
+    "it_IT": "Seguace: Lassik Piegavertebre",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041b\u0430\u0441\u0441\u0438\u043a \u0418\u0433\u043b\u043e\u043a\u0440\u0443\u0442",
+    "ko_KR": "\ucd94\uc885\uc790: \ub77c\uc2dc\ud06c \uc2a4\ud30c\uc778\ubc34\ub354",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u840a\u897f\u514b\u2027\u65b7\u810a\u8005",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u62c9\u897f\u514b\u00b7\u6298\u810a\u8005"
+  },
+  "description_blz": {}
 }

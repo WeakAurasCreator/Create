@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338548"
+  "SpellID": "338548",
+  "name_blz": {
+    "en_US": "Follower: Qadarin",
+    "es_MX": "Seguidor: Qadarin",
+    "pt_BR": "Seguidor: Qadarin",
+    "de_DE": "Anh\u00e4nger: Qadarin",
+    "en_GB": "Follower: Qadarin",
+    "es_ES": "Seguidor: Qadarin",
+    "fr_FR": "Sujet\u00a0: Qadarin",
+    "it_IT": "Seguace: Qadarin",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0430\u0434\u0430\u0440\u0438\u043d",
+    "ko_KR": "\ucd94\uc885\uc790: \uce74\ub2e4\ub9b0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u53ef\u9054\u6797",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5361\u8fbe\u6797"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341415"
+  "SpellID": "341415",
+  "name_blz": {
+    "en_US": "Follower: Khaliiq",
+    "es_MX": "Seguidora: Khaliiq",
+    "pt_BR": "Seguidora: Khaliaq",
+    "de_DE": "Anh\u00e4ngerin: Khaliiq",
+    "en_GB": "Follower: Khaliiq",
+    "es_ES": "Seguidor: Khaliiq",
+    "fr_FR": "Sujet\u00a0: Khaliiq",
+    "it_IT": "Seguace: Khaliiq",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0445\u0430\u043b\u0438\u043a",
+    "ko_KR": "\ucd94\uc885\uc790: \uce7c\ub9ac\ud06c",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5361\u8389\u514b",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5361\u83b1\u514b"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338536"
+  "SpellID": "338536",
+  "name_blz": {
+    "en_US": "Follower: Sika",
+    "es_MX": "Seguidora: Sika",
+    "pt_BR": "Seguidora: Sika",
+    "de_DE": "Anh\u00e4ngerin: Sika",
+    "en_GB": "Follower: Sika",
+    "es_ES": "Seguidora: Sika",
+    "fr_FR": "Sujet\u00a0: Sika",
+    "it_IT": "Seguace: Sika",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0421\u0438\u043a\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \uc2dc\uce74",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u897f\u5361",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u897f\u5361"
+  },
+  "description_blz": {}
 }

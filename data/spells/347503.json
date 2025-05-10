@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "347503"
+  "SpellID": "347503",
+  "name_blz": {
+    "en_US": "Unrated PvP Item Level",
+    "es_MX": "Nivel de objeto del JcJ sin puntuar",
+    "pt_BR": "N\u00edveis de Item do JxJ N\u00e3o Ranqueado",
+    "de_DE": "Gegenstandsstufe f\u00fcr ungewertetes PvP",
+    "en_GB": "Unrated PvP Item Level",
+    "es_ES": "Nivel de objeto de JcJ sin puntuar",
+    "fr_FR": "Niveau d\u2019objet JcJ non cot\u00e9",
+    "it_IT": "Livello Oggetti PvP Non Classificato",
+    "ru_RU": "\u0423\u0440\u043e\u0432\u0435\u043d\u044c \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430 \u0437\u0430 \u043d\u0435\u0440\u0435\u0439\u0442\u0438\u043d\u0433\u043e\u0432\u044b\u0435 PvP-\u0431\u043e\u0438",
+    "ko_KR": "\ube44\ud3c9\uc810\uc81c PvP \uc544\uc774\ud15c \ub808\ubca8",
+    "zh_TW": "\u7121\u7a4d\u5206PvP\u88dd\u5099\u7269\u54c1\u7b49\u7d1a",
+    "zh_CN": "\u975e\u8bc4\u7ea7PvP\u7269\u54c1\u7b49\u7ea7"
+  },
+  "description_blz": {
+    "en_US": "You may upgrade Unrated PvP equipment to Rank 7.",
+    "es_MX": "Puedes mejorar equipo de JcJ no puntuado a rango 7.",
+    "pt_BR": "Voc\u00ea pode aprimorar uma equipamento de JxJ N\u00e3o Ranqueado para o ranque 7.",
+    "de_DE": "Ihr k\u00f6nnt Ausr\u00fcstung aus ungewertetem PvP auf Rang 7 aufwerten.",
+    "en_GB": "You may upgrade Unrated PvP equipment to Rank 7.",
+    "es_ES": "Puedes mejorar tu equipo de JcJ sin puntuar al rango 7.",
+    "fr_FR": "Permet d\u2019am\u00e9liorer l\u2019\u00e9quipement JcJ non cot\u00e9 au rang\u00a07.",
+    "it_IT": "Permette di potenziare l'equipaggiamento PvP non classificato al Grado 7.",
+    "ru_RU": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043d\u0430\u0433\u0440\u0430\u0434\u044b \u0437\u0430 \u043d\u0435\u0440\u0435\u0439\u0442\u0438\u043d\u0433\u043e\u0432\u044b\u0435 PvP-\u0431\u043e\u0438 \u0434\u043e 7-\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f.",
+    "ko_KR": "\ube44\ud3c9\uc810\uc81c PvP \uc7a5\ube44\ub97c 7 \ub4f1\uae09\uc73c\ub85c \uac15\ud654\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u53ef\u4ee5\u5c07\u7121\u7a4d\u5206PvP\u88dd\u5099\u5347\u7d1a\u81f3\u7b49\u7d1a7\u3002",
+    "zh_CN": "\u4f60\u53ef\u4ee5\u5c06\u975e\u8bc4\u7ea7PvP\u7684\u5956\u52b1\u5347\u7ea7\u81f3\u7b49\u7ea77\u3002"
+  }
 }

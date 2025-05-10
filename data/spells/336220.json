@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "336220"
+  "SpellID": "336220",
+  "name_blz": {
+    "en_US": "Follower: Blisswing",
+    "es_MX": "Seguidor: Alaj\u00fabilo",
+    "pt_BR": "Seguidor: Jubilasa",
+    "de_DE": "Anh\u00e4nger: Wonnenschwinge",
+    "en_GB": "Follower: Blisswing",
+    "es_ES": "Seguidor: Aladichosa",
+    "fr_FR": "Sujet\u00a0: Euphoraile",
+    "it_IT": "Seguace: Alagioia",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0420\u0430\u0434\u043e\u0441\u0442\u043d\u043e\u0435 \u041a\u0440\u044b\u043b\u043e",
+    "ko_KR": "\ucd94\uc885\uc790: \ube14\ub9ac\uc2a4\uc719",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u798f\u7ffc",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u4e50\u7ffc"
+  },
+  "description_blz": {}
 }

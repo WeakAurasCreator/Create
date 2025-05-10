@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "335430"
+  "SpellID": "335430",
+  "name_blz": {
+    "en_US": "Follower: Ayeleth the Deprived",
+    "es_MX": "Seguidor: Ayeleth, el Carente",
+    "pt_BR": "Seguidor: Ayeleth, o Despojado",
+    "de_DE": "Anh\u00e4nger: Ayeleth der Beraubte",
+    "en_GB": "Follower: Ayeleth the Deprived",
+    "es_ES": "Seguidor: Ayeleth el Necesitado",
+    "fr_FR": "Sujet\u00a0: Ayeleth le D\u00e9muni",
+    "it_IT": "Seguace: Ayeleth il Disagiato",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0410\u0439\u0435\u043b\u0435\u0442 \u041e\u0431\u0434\u0435\u043b\u0435\u043d\u043d\u044b\u0439",
+    "ko_KR": "\ucd94\uc885\uc790: \ubc15\ud0c8\ub2f9\ud55c \uc790 \uc544\uc774\ub808\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u300e\u55aa\u9b42\u8005\u300f\u827e\u6a02\u601d",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u4e00\u65e0\u6240\u6709\u7684\u963f\u8036\u52d2\u65af"
+  },
+  "description_blz": {}
 }

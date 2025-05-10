@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "342104"
+  "SpellID": "342104",
+  "name_blz": {
+    "en_US": "Follower: Hala",
+    "es_MX": "Seguidora: Hala",
+    "pt_BR": "Seguidora: Hala",
+    "de_DE": "Anh\u00e4ngerin: Hala",
+    "en_GB": "Follower: Hala",
+    "es_ES": "Seguidora: Hala",
+    "fr_FR": "Sujet\u00a0: Hala",
+    "it_IT": "Seguace: Hala",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0413\u0430\u043b\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ud560\ub77c",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u54c8\u83c8",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u54c8\u62c9"
+  },
+  "description_blz": {}
 }

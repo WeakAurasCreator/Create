@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341412"
+  "SpellID": "341412",
+  "name_blz": {
+    "en_US": "Follower: Secutor Mevix",
+    "es_MX": "Seguidor: Secutor Mevix",
+    "pt_BR": "Seguidor: Secutor Mevix",
+    "de_DE": "Anh\u00e4nger: Secutor Mevix",
+    "en_GB": "Follower: Secutor Mevix",
+    "es_ES": "Seguidor: Secutor Mevix",
+    "fr_FR": "Sujet\u00a0: secutor M\u00e9vix",
+    "it_IT": "Seguace: Secutor Mevix",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0441\u0435\u043a\u0443\u0442\u043e\u0440 \u041c\u0435\u0432\u0438\u043a\u0441",
+    "ko_KR": "\ucd94\uc885\uc790: \uac80\uc0ac \uba54\ube45\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u6b66\u9b25\u58eb\u6885\u7dad\u65af",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5251\u6597\u58eb\u7c73\u7ef4\u514b\u65af"
+  },
+  "description_blz": {}
 }

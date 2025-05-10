@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "345643"
+  "SpellID": "345643",
+  "name_blz": {
+    "en_US": "Soulbind: Dreamweaver",
+    "es_MX": "Lazo de alma: Tejesue\u00f1os",
+    "pt_BR": "V\u00ednculo de Almas: Tece-sonhos",
+    "de_DE": "Seelenband: Traumweber",
+    "en_GB": "Soulbind: Dreamweaver",
+    "es_ES": "Nexo de almas: Tejesue\u00f1os",
+    "fr_FR": "Lien d\u2019\u00e2me\u00a0: Tisse-R\u00eaves",
+    "it_IT": "Vincolo dell'Anima: Plasmasogni",
+    "ru_RU": "\u041c\u0435\u0434\u0438\u0443\u043c: \u0422\u0432\u043e\u0440\u0435\u0446 \u0421\u043d\u043e\u0432",
+    "ko_KR": "\uc601\ud63c\uacb0\uc18d: \ub4dc\ub9bc\uc704\ubc84",
+    "zh_TW": "\u9748\u9b42\u4e4b\u7d46\uff1a\u7e54\u5922\u8005",
+    "zh_CN": "\u7075\u9b42\u7f81\u7eca\uff1a\u7ec7\u68a6\u8005"
+  },
+  "description_blz": {}
 }

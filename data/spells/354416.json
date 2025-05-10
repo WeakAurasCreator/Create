@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "354416"
+  "SpellID": "354416",
+  "name_blz": {
+    "en_US": "Follower: Spore of Marasmius",
+    "es_MX": "Seguidora: Espora de Marasmius",
+    "pt_BR": "Seguidor: Esporo de Marasmius",
+    "de_DE": "Anh\u00e4nger: Spore von Marasmius",
+    "en_GB": "Follower: Spore of Marasmius",
+    "es_ES": "Seguidor: Espora de Marasmius",
+    "fr_FR": "Sujet\u00a0: spore de Marasmius",
+    "it_IT": "Seguace: Spora di Marasmio",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0441\u043f\u043e\u0440\u0430 \u0427\u0435\u0441\u043d\u043e\u0447\u043d\u0438\u043a\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ub9c8\ub77c\uc2a4\ubbf8\uc6b0\uc2a4\uc758 \ud3ec\uc790",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u746a\u62c9\u8332\u83ab\u65af\u5b62\u5b50",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a \u739b\u62c9\u65af\u7f2a\u65af\u7684\u5b62\u5b50"
+  },
+  "description_blz": {}
 }

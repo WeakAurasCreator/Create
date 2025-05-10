@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "354429"
+  "SpellID": "354429",
+  "name_blz": {
+    "en_US": "Follower: Kinessa the Absorbent",
+    "es_MX": "Seguidora: Kinessa, la Absorbente",
+    "pt_BR": "Seguidor: Kinessa, o Esponja",
+    "de_DE": "Anh\u00e4ngerin: Kinessa die Aufnahmef\u00e4hige",
+    "en_GB": "Follower: Kinessa the Absorbent",
+    "es_ES": "Seguidora: Kinessa la Permeable",
+    "fr_FR": "Sujet\u00a0: Kinessa le Spongieux",
+    "it_IT": "Seguace: Kinessa il Prosciugante",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0438\u043d\u0435\u0441\u0441\u0430 \u0413\u0430\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ud761\uc218\ud558\ub294 \uc790 \ud0a4\ub124\uc0ac",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u300e\u5438\u6536\u8005\u300f\u67ef\u59ae\u838e",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5438\u6536\u8005\u91d1\u5c3c\u8428"
+  },
+  "description_blz": {}
 }

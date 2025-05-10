@@ -34,5 +34,12 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "346104"
+  "SpellID": "346104",
+  "name_blz": {
+    "en_US": "Windwalker Monk Two-Hand Adjustment",
+    "en_GB": "Windwalker Monk Two-Hand Adjustment",
+    "es_ES": "Ajuste de dos manos de monje Viajero del viento",
+    "fr_FR": "Ajustement \u00e0 deux mains de moine marche-vent"
+  },
+  "description_blz": {}
 }

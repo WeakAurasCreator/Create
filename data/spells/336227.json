@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "336227"
+  "SpellID": "336227",
+  "name_blz": {
+    "en_US": "Follower: Yira'lya",
+    "es_MX": "Seguidora: Yira'lya",
+    "pt_BR": "Seguidora: Yira'lya",
+    "de_DE": "Anh\u00e4ngerin: Yira'lya",
+    "en_GB": "Follower: Yira'lya",
+    "es_ES": "Seguidora: Yira'lya",
+    "fr_FR": "Sujet\u00a0: Yira\u2019lya",
+    "it_IT": "Seguace: Yira'lya",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0419\u0438\u0440\u0430'\u043b\u0438\u044f",
+    "ko_KR": "\ucd94\uc885\uc790: \uc774\ub784\ub9ac\uc57c",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u4f0a\u62c9\u91cc\u96c5",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u4f0a\u62c9\u8389\u4e9a"
+  },
+  "description_blz": {}
 }

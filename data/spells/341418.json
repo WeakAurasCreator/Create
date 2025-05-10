@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341418"
+  "SpellID": "341418",
+  "name_blz": {
+    "en_US": "Follower: Rathan",
+    "es_MX": "Seguidor: Rathan",
+    "pt_BR": "Seguidor: Rathan",
+    "de_DE": "Anh\u00e4nger: Rathan",
+    "en_GB": "Follower: Rathan",
+    "es_ES": "Seguidor: Rathan",
+    "fr_FR": "Sujet\u00a0: Rathan",
+    "it_IT": "Seguace: Rathan",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0420\u0430\u0444\u0430\u043d",
+    "ko_KR": "\ucd94\uc885\uc790: \ub77c\uc0b0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u62c9\u6851",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u62c9\u8428\u6069"
+  },
+  "description_blz": {}
 }
