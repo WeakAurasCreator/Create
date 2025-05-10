@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338534"
+  "SpellID": "338534",
+  "name_blz": {
+    "en_US": "Follower: Nemea",
+    "es_MX": "Seguidora: Nemea",
+    "pt_BR": "Seguidora: Nemeia",
+    "de_DE": "Anh\u00e4ngerin: Nemea",
+    "en_GB": "Follower: Nemea",
+    "es_ES": "Seguidora: Nemea",
+    "fr_FR": "Sujet\u00a0: N\u00e9m\u00e9a",
+    "it_IT": "Seguace: Nemea",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041d\u0435\u043c\u0435\u044f",
+    "ko_KR": "\ucd94\uc885\uc790: \ub124\ubbf8\uc544",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5167\u6885\u96c5",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6d85\u7f8e\u5a05"
+  },
+  "description_blz": {}
 }

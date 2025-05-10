@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341417"
+  "SpellID": "341417",
+  "name_blz": {
+    "en_US": "Follower: Plaguey",
+    "es_MX": "Seguidor: Plagoso",
+    "pt_BR": "Seguidor: Pestento",
+    "de_DE": "Anh\u00e4nger: Seuchi",
+    "en_GB": "Follower: Plaguey",
+    "es_ES": "Seguidor: Apest\u00edn",
+    "fr_FR": "Sujet\u00a0: Pesti",
+    "it_IT": "Seguace: Piaghetto",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0427\u0443\u043c\u043d\u0438\u043a",
+    "ko_KR": "\ucd94\uc885\uc790: \uc5ed\ubcd1\uc774",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5c0f\u761f\u6ce5",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u70e6\u70e6"
+  },
+  "description_blz": {}
 }

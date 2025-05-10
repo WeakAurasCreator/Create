@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "335429"
+  "SpellID": "335429",
+  "name_blz": {
+    "en_US": "Follower: Kaletar the Mender",
+    "es_MX": "Seguidor: Kaletar, el Ensalmador",
+    "pt_BR": "Seguidor: Kaletar, o Reparador",
+    "de_DE": "Anh\u00e4ngerin: Kaletar die Heilerin",
+    "en_GB": "Follower: Kaletar the Mender",
+    "es_ES": "Seguidora: Kaletar la Ensalmadora",
+    "fr_FR": "Sujet\u00a0: Kal\u00e9tar la Soigneuse",
+    "it_IT": "Seguace: Kaletar il Guaritore",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0446\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u041a\u0430\u043b\u0435\u0442\u0430\u0440",
+    "ko_KR": "\ucd94\uc885\uc790: \uce58\uc720\uc0ac \uce7c\ub808\ud0c0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u300e\u6cbb\u7652\u8005\u300f\u51f1\u52d2\u5854",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6cbb\u6108\u8005\u5361\u857e\u5854\u5c14"
+  },
+  "description_blz": {}
 }
