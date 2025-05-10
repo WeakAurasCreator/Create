@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338543"
+  "SpellID": "338543",
+  "name_blz": {
+    "en_US": "Follower: Guardian Kota",
+    "es_MX": "Seguidor: Guardiana Kota",
+    "pt_BR": "Seguidora: Guardi\u00e3 Kota",
+    "de_DE": "Anh\u00e4ngerin: W\u00e4chterin Kota",
+    "en_GB": "Follower: Guardian Kota",
+    "es_ES": "Seguidora: Guardiana Kota",
+    "fr_FR": "Sujet\u00a0: gardienne Kota",
+    "it_IT": "Seguace: Guardiana Kota",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0441\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u0430 \u041a\u043e\u0442\u0442\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \uc218\ud638\uc790 \ucf54\ud0c0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5b88\u8b77\u8005\u5bc7\u9054",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5b88\u62a4\u8005\u79d1\u5854"
+  },
+  "description_blz": {}
 }

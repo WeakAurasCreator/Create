@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "328224"
+  "SpellID": "328224",
+  "name_blz": {
+    "en_US": "Ebon Clarion",
+    "es_MX": "Clar\u00edn de \u00e9bano",
+    "pt_BR": "Trombeta de \u00c9bano",
+    "de_DE": "Schwarze Fanfare",
+    "en_GB": "Ebon Clarion",
+    "es_ES": "Corneta de \u00c9bano",
+    "fr_FR": "Clairon d\u2019\u00e9b\u00e8ne",
+    "it_IT": "Clarino d'Ebano",
+    "ru_RU": "\u0427\u0435\u0440\u043d\u044b\u0439 \u0437\u043e\u0432",
+    "ko_KR": "\uce60\ud751\uc758 \ub098\ud314",
+    "zh_TW": "\u9eef\u5203\u865f\u89d2",
+    "zh_CN": "\u9ed1\u950b\u53f7\u89d2"
+  },
+  "description_blz": {
+    "en_US": "Summons Ebon Blade reinforcements to attack your current target.",
+    "es_MX": "Invoca refuerzos de la Espada de \u00c9bano para que ataquen a tu objetivo actual.",
+    "pt_BR": "Evoca refor\u00e7os da L\u00e2mina de \u00c9bano para atacar seu alvo atual.",
+    "de_DE": "Ruft Verst\u00e4rkung der Schwarzen Klinge, um Euer aktuelles Ziel anzugreifen.",
+    "en_GB": "Summons Ebon Blade reinforcements to attack your current target.",
+    "es_ES": "Invoca refuerzos de la Espada de \u00c9bano que atacan a tu objetivo actual.",
+    "fr_FR": "Invoque des renforts de la Lame d\u2019\u00e9b\u00e8ne et leur ordonne d\u2019attaquer votre cible actuelle.",
+    "it_IT": "Richiama dei rinforzi della Spada d'Ebano per attaccare il bersaglio attuale.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u0441\u0435\u0431\u0435 \u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c \u0440\u044b\u0446\u0430\u0440\u0435\u0439 \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043b\u0438\u043d\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u0432\u0430\u0448\u0443 \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\uce60\ud751\uc758 \uae30\uc0ac\ub2e8 \uc9c0\uc6d0\uad70\uc744 \uc18c\ud658\ud574 \ud604\uc7ac \ub300\uc0c1\uc744 \uacf5\uaca9\ud558\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u9eef\u5203\u589e\u63f4\u90e8\u968a\uff0c\u653b\u64ca\u4f60\u7684\u7576\u524d\u76ee\u6a19\u3002",
+    "zh_CN": "\u53ec\u5524\u9ed1\u950b\u9a91\u58eb\u56e2\u63f4\u519b\u6765\u653b\u51fb\u4f60\u7684\u5f53\u524d\u76ee\u6807\u3002"
+  }
 }

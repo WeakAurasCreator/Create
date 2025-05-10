@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "356581"
+  "SpellID": "356581",
+  "name_blz": {
+    "en_US": "Follower: Cromas the Mystic",
+    "es_MX": "Seguidor: Cromas, el M\u00edstico",
+    "pt_BR": "Seguidor: Cromas, o M\u00edstico",
+    "de_DE": "Anh\u00e4nger: Cromas der Mystiker",
+    "en_GB": "Follower: Cromas the Mystic",
+    "es_ES": "Seguidor: Cromas el M\u00edstico",
+    "fr_FR": "Sujet\u00a0:Cromas le Mystique",
+    "it_IT": "Seguace: Cromas il Mistico",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0440\u043e\u043c\u0430\u0441 \u041c\u0438\u0441\u0442\u0438\u043a",
+    "ko_KR": "\ucd94\uc885\uc790: \ube44\uc220\uc0ac \ud06c\ub85c\ub9c8\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u4e0d\u53ef\u601d\u8b70\u7684\u5eab\u6d1b\u746a\u65af",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u79d8\u672f\u5e08\u514b\u7f57\u9a6c\u65af"
+  },
+  "description_blz": {}
 }

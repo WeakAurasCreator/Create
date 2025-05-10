@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339250"
+  "SpellID": "339250",
+  "name_blz": {
+    "en_US": "Follower: Velkein",
+    "es_MX": "Seguidor: Velkein",
+    "pt_BR": "Seguidora: Velkein",
+    "de_DE": "Anh\u00e4nger: Velkein",
+    "en_GB": "Follower: Velkein",
+    "es_ES": "Seguidor: Velkein",
+    "fr_FR": "Sujet\u00a0: Velkein",
+    "it_IT": "Seguace: Velkein",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0412\u0435\u043b\u043a\u0430\u0439\u043d",
+    "ko_KR": "\ucd94\uc885\uc790: \ubca8\ucf00\uc778",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u7dad\u51f1\u56e0",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5a01\u5c14\u51ef\u6069"
+  },
+  "description_blz": {}
 }

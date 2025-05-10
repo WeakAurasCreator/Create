@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "335743"
+  "SpellID": "335743",
+  "name_blz": {
+    "en_US": "Follower: Telethakas",
+    "es_MX": "Seguidor: Telethakas",
+    "pt_BR": "Seguidor: Tel\u00e9thacas",
+    "de_DE": "Anh\u00e4nger: Telethakas",
+    "en_GB": "Follower: Telethakas",
+    "es_ES": "Seguidor: Telethakas",
+    "fr_FR": "Sujet\u00a0: T\u00e9l\u00e9thakas",
+    "it_IT": "Seguace: Telethakas",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0422\u0435\u043b\u0435\u0442\u0430\u043a\u0430\u0441",
+    "ko_KR": "\ucd94\uc885\uc790: \ud154\ub808\ud0c0\uce74\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u6cf0\u52d2\u6492\u5361\u53f8",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6cf0\u5229\u8428\u5361\u65af"
+  },
+  "description_blz": {}
 }
