@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "356583"
+  "SpellID": "356583",
+  "name_blz": {
+    "en_US": "Follower: Sulanoom",
+    "es_MX": "Seguidora: Sulanoom",
+    "pt_BR": "Seguidor: Sulanoom",
+    "de_DE": "Anh\u00e4ngerin: Sulanoom",
+    "en_GB": "Follower: Sulanoom",
+    "es_ES": "Seguidora: Sulanoom",
+    "fr_FR": "Sujet\u00a0: Sulanoom",
+    "it_IT": "Seguace: Sulana",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0421\u0443\u043b\u0430\u043d\u0443\u043c",
+    "ko_KR": "\ucd94\uc885\uc790: \uc220\ub77c\ub204\uc6c0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u8607\u62c9\u8afe\u59c6",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u82cf\u62c9\u52aa\u59c6"
+  },
+  "description_blz": {}
 }
