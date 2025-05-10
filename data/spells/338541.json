@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338541"
+  "SpellID": "338541",
+  "name_blz": {
+    "en_US": "Follower: Disciple Kosmas",
+    "es_MX": "Seguidor: Disc\u00edpulo Kosmas",
+    "pt_BR": "Seguidor: Disc\u00edpulo Kosmas",
+    "de_DE": "Anh\u00e4nger: J\u00fcnger Kosmas",
+    "en_GB": "Follower: Disciple Kosmas",
+    "es_ES": "Seguidor: Disc\u00edpulo Kosmas",
+    "fr_FR": "Sujet\u00a0: disciple Kosmas",
+    "it_IT": "Seguace: Discepolo Kosmas",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u043f\u043e\u0441\u043b\u0443\u0448\u043d\u0438\u043a \u041a\u043e\u0441\u043c\u0430\u0441",
+    "ko_KR": "\ucd94\uc885\uc790: \uc0ac\ub3c4 \ucf54\uc2a4\ub9c8\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u4f8d\u5f92\u5bc7\u65af\u746a\u65af",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u4fe1\u5f92\u523b\u65af\u739b\u65af"
+  },
+  "description_blz": {}
 }

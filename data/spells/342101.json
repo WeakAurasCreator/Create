@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "342101"
+  "SpellID": "342101",
+  "name_blz": {
+    "en_US": "Follower: Molako",
+    "es_MX": "Seguidor: Molako",
+    "pt_BR": "Seguidor: Molako",
+    "de_DE": "Anh\u00e4nger: Molako",
+    "en_GB": "Follower: Molako",
+    "es_ES": "Seguidor: Molako",
+    "fr_FR": "Sujet\u00a0: Molako",
+    "it_IT": "Seguace: Molako",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041c\u043e\u043b\u0430\u043a\u043e",
+    "ko_KR": "\ucd94\uc885\uc790: \ubab0\ub77c\ucf54",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u6469\u62c9\u5bc7",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u83ab\u62c9\u79d1"
+  },
+  "description_blz": {}
 }

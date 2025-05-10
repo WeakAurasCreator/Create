@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "335941"
+  "SpellID": "335941",
+  "name_blz": {
+    "en_US": "Primordial Wave",
+    "es_MX": "Ola primordial",
+    "pt_BR": "Onda Primordial",
+    "de_DE": "Urzeitliche Welle",
+    "en_GB": "Primordial Wave",
+    "es_ES": "Oleada primigenia",
+    "fr_FR": "Vague primordiale",
+    "it_IT": "Ondata Primordiale",
+    "ru_RU": "\u041f\u0435\u0440\u0432\u043e\u0437\u0434\u0430\u043d\u043d\u0430\u044f \u0432\u043e\u043b\u043d\u0430",
+    "ko_KR": "\ud0dc\uace0\uc758 \ud30c\ub3c4",
+    "zh_TW": "\u539f\u521d\u9707\u6ce2",
+    "zh_CN": "\u59cb\u6e90\u4e4b\u6f6e"
+  },
+  "description_blz": {
+    "en_US": "Blast your target with a Primordial Wave, dealing 3,569 Shadow damage and apply Flame Shock to an enemy, or heal an ally for 3,587.\r\n\r\nYour next Healing Wave will also hit all targets affected by your Riptide for 150% of normal damage.",
+    "es_MX": "Golpea a tu objetivo con una Ola primordial que inflige 3,624 p. de da\u00f1o de las sombras y aplica Choque de llamas a un enemigo, o restablece 3,641 p. de salud a un aliado.\r\n\r\nTu siguiente Ola de sanaci\u00f3n tambi\u00e9n se aplicar\u00e1 a todos los objetivos afectados por tu Mareas vivas, que recibir\u00e1n un 150% de da\u00f1o normal.",
+    "pt_BR": "Lan\u00e7a uma Onda Primordial no alvo, causando 3.576 de dano de Sombra e aplicando Choque Flamejante a um inimigo ou curando 3.532 pontos de vida de um aliado.\r\n\r\nSeu pr\u00f3ximo feiti\u00e7o Onda Curativa tamb\u00e9m ser\u00e1 lan\u00e7ado nos alvos afetados pela sua Contracorrente com 150% do dano normal.",
+    "de_DE": "\u00dcberzieht Euer Ziel mit einer urzeitlichen Welle, die 3.534 Schattenschaden verursacht und einen Gegner mit 'Flammenschock' belegt oder einen Verb\u00fcndeten um 3.527 Gesundheit heilt.\r\n\r\nEuer n\u00e4chster Einsatz von 'Welle der Heilung' trifft zus\u00e4tzlich alle Ziele, die mit Eurem Effekt 'Springflut' belegt sind, und verursacht dabei 150% des normalen Schadens.",
+    "en_GB": "Blast your target with a Primordial Wave, dealing 3,583 Shadow damage and apply Flame Shock to an enemy, or heal an ally for 3,620.\r\n\r\nYour next Healing Wave will also hit all targets affected by your Riptide for 150% of normal damage.",
+    "es_ES": "Golpeas a tu objetivo con Oleada primigenia, lo que inflige 3642 p. de da\u00f1o de las Sombras y aplica Choque de llamas a un enemigo, o sana 3652 p. a un aliado.\r\n\r\nTu siguiente Ola de sanaci\u00f3n tambi\u00e9n golpear\u00e1 a todos los objetivos afectados por tu Mareas vivas e infligir\u00e1 da\u00f1o igual a un 150% de lo normal.",
+    "fr_FR": "Vous frappez la cible avec une vague primordiale qui inflige 3573\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre et applique Horion de flammes \u00e0 un ennemi, ou rend 3551\u00a0points de vie \u00e0 un alli\u00e9.\r\n\r\nVotre prochain sort Vague de soins touche toutes les cibles affect\u00e9es par votre Remous \u00e0 hauteur de 150% des d\u00e9g\u00e2ts normaux.",
+    "it_IT": "Colpisce il bersaglio con un'Ondata Primordiale, infliggendo 3.573 danni da ombra e affliggendolo con Folgore del Fuoco se \u00e8 un nemico o curandolo di 3.512 se \u00e8 un alleato.\r\n\r\nIl successivo lancio di Ondata di Cura colpisce anche tutti i bersagli con un tuo effetto di Marea Benefica attivo con un'efficacia del 150% dei normali danni inflitti.",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0446\u0435\u043b\u044c \"\u041f\u0435\u0440\u0432\u043e\u0437\u0434\u0430\u043d\u043d\u043e\u0439 \u0432\u043e\u043b\u043d\u043e\u0439\", \u043d\u0430\u043d\u043e\u0441\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 3531 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044f \u043a \u043d\u0435\u043c\u0443 \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0448\u043e\u043a\" \u0438\u043b\u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 3644 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u041f\u0440\u0438 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \"\u0412\u043e\u043b\u043d\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043a \u0446\u0435\u043b\u044f\u043c \u0441 \u0432\u0430\u0448\u0435\u0439 \"\u0411\u044b\u0441\u0442\u0440\u0438\u043d\u043e\u0439\", \u043d\u0430\u043d\u043e\u0441\u044f \u0443\u0440\u043e\u043d \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 150%.",
+    "ko_KR": "\ub300\uc0c1\uc744 \ud0dc\uace0\uc758 \ud30c\ub3c4\ub85c \uac15\ud0c0\ud574 3,575\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc801\uc5d0\uac8c \ud654\uc5fc \ucda9\uaca9\uc744 \ubd80\uc5ec\ud558\uac70\ub098 \uc544\uad70\uc744 \uce58\uc720\ud574 3,520\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ucd94\uac00\ub85c \ub2e4\uc74c \uce58\uc720\uc758 \ubb3c\uacb0\uc774 \uc790\uc2e0\uc758 \uc131\ub09c \ud574\uc77c\uc758 \uc601\ud5a5\uc744 \ubc1b\ub294 \ubaa8\ub4e0 \ub300\uc0c1\uc5d0\uac8c \uc77c\ubc18 \uacf5\uaca9\ub825\uc758 150%\uc758 \ud6a8\uc728\ub85c \uc801\uc911\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u539f\u521d\u9707\u6ce2\u885d\u64ca\u76ee\u6a19\uff0c\u5c0d\u4e00\u500b\u6575\u4eba\u9020\u62103,521\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u65bd\u52a0\u70c8\u7130\u9707\u64ca\u6548\u679c\uff0c\u6216\u4f7f\u4e00\u540d\u76df\u53cb\u6062\u5fa93,599\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u4f60\u7684\u4e0b\u4e00\u500b\u6cbb\u7642\u6ce2\u4e5f\u6703\u547d\u4e2d\u6240\u6709\u53d7\u5230\u4f60\u6fc0\u6d41\u6548\u679c\u5f71\u97ff\u7684\u76ee\u6a19\uff0c\u4f7f\u5176\u53d7\u5230\u666e\u901a\u50b7\u5bb3\u7684150%\u3002",
+    "zh_CN": "\u7528\u59cb\u6e90\u4e4b\u6f6e\u51b2\u51fb\u4f60\u7684\u76ee\u6807\uff0c\u9020\u62103,642\u70b9\u6697\u5f71\u4f24\u5bb3\u5e76\u5bf9\u4e00\u540d\u654c\u4eba\u65bd\u52a0\u70c8\u7130\u9707\u51fb\uff0c\u6216\u8005\u4e3a\u4e00\u540d\u76df\u53cb\u6062\u590d3,661\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u4f60\u7684\u4e0b\u4e00\u4e2a\u6cbb\u7597\u6ce2\u4f1a\u547d\u4e2d\u6240\u6709\u53d7\u5230\u4f60\u6fc0\u6d41\u5f71\u54cd\u7684\u76ee\u6807\uff0c\u4ea7\u751f150%\u7684\u666e\u901a\u4f24\u5bb3\u3002"
+  }
 }

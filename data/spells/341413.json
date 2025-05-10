@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341413"
+  "SpellID": "341413",
+  "name_blz": {
+    "en_US": "Follower: Gunn Gorgebone",
+    "es_MX": "Seguidora: Gunn Tragahuesos",
+    "pt_BR": "Seguidora: Guna Gorgosso",
+    "de_DE": "Anh\u00e4ngerin: Gunn Knochenschlinger",
+    "en_GB": "Follower: Gunn Gorgebone",
+    "es_ES": "Seguidor: Gunn Garganta\u00f3sea",
+    "fr_FR": "Sujet\u00a0: Gunn Gave-Moelle",
+    "it_IT": "Seguace: Gunn Ossotetro",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0413\u0443\u043d\u043d \u041a\u043e\u0441\u0442\u043e\u0433\u043b\u043e\u0434\u043a\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \uac74 \uace0\uc9c0\ubcf8",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u525b\u6069\u2027\u541e\u9aa8",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u52a0\u6069\u00b7\u541e\u9aa8"
+  },
+  "description_blz": {}
 }

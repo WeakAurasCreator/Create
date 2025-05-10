@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "335742"
+  "SpellID": "335742",
+  "name_blz": {
+    "en_US": "Follower: Teliah",
+    "es_MX": "Seguidora: Telia",
+    "pt_BR": "Seguidora: Teliah",
+    "de_DE": "Anh\u00e4ngerin: Teliah",
+    "en_GB": "Follower: Teliah",
+    "es_ES": "Seguidora: Teliah",
+    "fr_FR": "Sujet\u00a0: T\u00e9liah",
+    "it_IT": "Seguace: Teliah",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0422\u044d\u043b\u0438\u044f",
+    "ko_KR": "\ucd94\uc885\uc790: \ud154\ub9ac\uc544",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u6cf0\u8389\u96c5",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6cf0\u8389\u963f"
+  },
+  "description_blz": {}
 }
