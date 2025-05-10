@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "356587"
+  "SpellID": "356587",
+  "name_blz": {
+    "en_US": "Follower: Enceladus",
+    "es_MX": "Seguidor: Enceladus",
+    "pt_BR": "Seguidor: Encel\u00e1dus",
+    "de_DE": "Anh\u00e4nger: Enceladus",
+    "en_GB": "Follower: Enceladus",
+    "es_ES": "Seguidor: Enceladus",
+    "fr_FR": "Sujet\u00a0: Enc\u00e9ladus",
+    "it_IT": "Seguace: Enceladus",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u042d\u043d\u043a\u0435\u043b\u0430\u0434",
+    "ko_KR": "\ucd94\uc885\uc790: \uc5d4\uc140\ub77c\ub450\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5b89\u897f\u62c9\u675c",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u6069\u514b\u62c9\u591a\u65af"
+  },
+  "description_blz": {}
 }

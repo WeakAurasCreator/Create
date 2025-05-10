@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "356579"
+  "SpellID": "356579",
+  "name_blz": {
+    "en_US": "Follower: Lucia",
+    "es_MX": "Seguidora: Luc\u00eda",
+    "pt_BR": "Seguidora: Lucia",
+    "de_DE": "Anh\u00e4ngerin: Lucia",
+    "en_GB": "Follower: Lucia",
+    "es_ES": "Seguidora: Luc\u00eda",
+    "fr_FR": "Sujet\u00a0: Lucia",
+    "it_IT": "Seguace: Lucia",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041b\u044e\u0441\u0438\u044f",
+    "ko_KR": "\ucd94\uc885\uc790: \ub8e8\uc2dc\uc544",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u9732\u5e0c\u4e9e",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u9732\u897f\u4e9a"
+  },
+  "description_blz": {}
 }
