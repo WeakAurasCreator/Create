@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "320421"
+  "SpellID": "320421",
+  "name_blz": {
+    "en_US": "Rush of Chaos",
+    "es_MX": "Aceleraci\u00f3n ca\u00f3tica",
+    "pt_BR": "\u00cdmpeto do Caos",
+    "de_DE": "Rausch des Chaos",
+    "en_GB": "Rush of Chaos",
+    "es_ES": "Avalancha de caos",
+    "fr_FR": "Ru\u00e9e du chaos",
+    "it_IT": "Scatto del Caos",
+    "ru_RU": "\u0420\u044b\u0432\u043e\u043a \u0425\u0430\u043e\u0441\u0430",
+    "ko_KR": "\ud63c\ub3c8\uc758 \uc9c8\uc8fc",
+    "zh_TW": "\u6df7\u6c8c\u885d\u523a",
+    "zh_CN": "\u6df7\u4e71\u75be\u901f"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of Metamorphosis by 30 sec.",
+    "es_MX": "Reduce 30 s el tiempo de reutilizaci\u00f3n de Metamorfosis.",
+    "pt_BR": "Reduz em 30 s a recarga de Metamorfose.",
+    "de_DE": "Verringert die Abklingzeit von 'Metamorphose' um 30 Sek.",
+    "en_GB": "Reduces the cooldown of Metamorphosis by 30 sec.",
+    "es_ES": "Reduce 30 s el tiempo de reutilizaci\u00f3n de Metamorfosis.",
+    "fr_FR": "R\u00e9duit le temps de recharge de M\u00e9tamorphose de 30\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Metamorfosi Demoniaca di 30 s.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0437\u044b\" \u043d\u0430 30 \u0441\u0435\u043a.",
+    "ko_KR": "\ud0c8\ud0dc\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 30\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u60e1\u9b54\u5316\u8eab\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed30\u79d2\u3002",
+    "zh_CN": "\u4f7f\u6076\u9b54\u53d8\u5f62\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed30\u79d2\u3002"
+  }
 }

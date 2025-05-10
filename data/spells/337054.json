@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "337054"
+  "SpellID": "337054",
+  "name_blz": {
+    "en_US": "Chain Harvest",
+    "es_MX": "Cosecha en cadena",
+    "pt_BR": "Ceifa Encadeada",
+    "de_DE": "Kettenernte",
+    "en_GB": "Chain Harvest",
+    "es_ES": "Cosecha en cadena",
+    "fr_FR": "Moisson en cha\u00eene",
+    "it_IT": "Raccolto a Catena",
+    "ru_RU": "\u0426\u0435\u043f\u043d\u0430\u044f \u0436\u0430\u0442\u0432\u0430",
+    "ko_KR": "\uc5f0\uc1c4 \uc218\ud655",
+    "zh_TW": "\u9023\u9396\u6536\u5272",
+    "zh_CN": "\u6536\u5272\u94fe"
+  },
+  "description_blz": {
+    "en_US": "Send a wave of anima at the target, which then jumps to additional nearby targets. Deals 11,305 Shadow damage to up to 5 enemies, and restores 17,159 health to up to 5 allies.\r\n\r\nFor each target critically struck, the cooldown of Chain Harvest is reduced by 5 sec.",
+    "es_MX": "Despide una oleada de \u00e1nima hacia el objetivo que luego salta a otros objetivos cercanos. Inflige 11,522 p. de da\u00f1o de las sombras a un m\u00e1ximo de 5 enemigos, y restaura 17,225 p. de salud a un m\u00e1ximo de 5 aliados.\r\n\r\nPor cada objetivo que recibe un golpe cr\u00edtico, el tiempo de reutilizaci\u00f3n de Cosecha en cadena se reduce 5 s.",
+    "pt_BR": "Lan\u00e7a uma onda de \u00e2nima no alvo que se propaga para outros aliados. Causa 11.427 de dano de Sombra a at\u00e9 5 inimigos e cura 17.168 pontos de vida de at\u00e9 5 aliados.\r\n\r\nPara cada alvo acertado criticamente, a recarga da Ceifa Encadeada \u00e9 reduzida em 5 s.",
+    "de_DE": "Schleudert eine Animawelle auf das Ziel, die auf weitere Ziele in der N\u00e4he \u00fcberspringt. F\u00fcgt bis zu 5 Gegnern 11.179 Schattenschaden zu und heilt bis zu 5 Verb\u00fcndete um 17.076 Gesundheit.\r\n\r\nDie Abklingzeit von 'Kettenernte' wird pro kritisch getroffenem Ziel um 5 Sek. verringert.",
+    "en_GB": "Send a wave of anima at the target, which then jumps to additional nearby targets. Deals 11,384 Shadow damage to up to 5 enemies, and restores 17,851 health to up to 5 allies.\r\n\r\nFor each target critically struck, the cooldown of Chain Harvest is reduced by 5 sec.",
+    "es_ES": "Env\u00eda una oleada de \u00e1nima al objetivo que luego salta a objetivos cercanos extras. Inflige 11119 p. de da\u00f1o de las Sombras a un m\u00e1ximo de 5 enemigos y restaura 17015 p. de salud a un m\u00e1ximo de 5 aliados.\r\n\r\nPor cada objetivo que reciba un impacto cr\u00edtico, el tiempo de reutilizaci\u00f3n de Cosecha en cadena se reduce 5 s.",
+    "fr_FR": "Une vague d\u2019anima s\u2019abat sur la cible, puis se propage \u00e0 d\u2019autres cibles proches. Inflige 11455\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre \u00e0 un maximum de 5\u00a0ennemis et rend 17323\u00a0points de vie \u00e0 un maximum de 5\u00a0alli\u00e9s.\r\n\r\nLe temps de recharge de Moisson en cha\u00eene est r\u00e9duit de 5\u00a0s pour chaque cible touch\u00e9e par un coup critique.",
+    "it_IT": "Invia un'ondata di Animum contro il bersaglio, saltando poi su bersagli vicini aggiuntivi. Infligge 11.457 danni da ombra a un massimo di 5 nemici e rigenera 17.660 salute a un massimo di 5 alleati.\r\n\r\nPer ogni bersaglio colpito da un effetto critico, il tempo di recupero di Raccolto a Catena si riduce di 5 s.",
+    "ru_RU": "\u0412\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432 \u0446\u0435\u043b\u044c \u0432\u043e\u043b\u043d\u0443 \u0430\u043d\u0438\u043c\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0440\u0438\u043a\u043e\u0448\u0435\u0442\u0438\u0442 \u0438 \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0434\u0440\u0443\u0433\u0438\u0435 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0435\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0446\u0435\u043b\u0438. \u041d\u0430\u043d\u043e\u0441\u0438\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c 11475 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c 17257 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u0417\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u0446\u0435\u043b\u044c, \u043f\u043e\u043b\u0443\u0447\u0438\u0432\u0448\u0443\u044e \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442, \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0426\u0435\u043f\u043d\u043e\u0439 \u0436\u0430\u0442\u0432\u044b\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \ub839\uc758 \ud30c\ub3d9\uc744 \ub0b4\ubfdc\uc2b5\ub2c8\ub2e4. \ud30c\ub3d9\uc740 \uc8fc\uc704\uc758 \ub2e4\ub978 \ub300\uc0c1\ub4e4\uc5d0\uac8c \uc62e\uaca8 \uac00\uba70, \ucd5c\ub300 5\uba85\uc758 \uc801\uc5d0\uac8c 11,224\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \ucd5c\ub300 5\uba85\uc758 \uc544\uad70\uc758 \uc0dd\uba85\ub825\uc744 17,382\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uc5d0 \uc801\uc911 \ub2f9\ud55c \ub300\uc0c1 \ud558\ub098\ub2f9 \uc5f0\uc1c4 \uc218\ud655\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u671d\u76ee\u6a19\u9001\u51fa\u4e00\u6ce2\u9748\u9b44\uff0c\u7136\u5f8c\u984d\u5916\u5f48\u8df3\u5230\u9644\u8fd1\u7684\u76ee\u6a19\u8eab\u4e0a\uff0c\u6700\u591a\u5c0d5\u540d\u6575\u4eba\u9020\u621011,506\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4e14\u6700\u591a\u70ba5\u540d\u76df\u53cb\u6062\u5fa917,625\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u6bcf\u5c0d\u4e00\u540d\u76ee\u6a19\u9020\u6210\u81f4\u547d\u4e00\u64ca\uff0c\u9023\u9396\u6536\u5272\u7684\u51b7\u537b\u6642\u9593\u5c31\u7e2e\u77ed5\u79d2\u3002",
+    "zh_CN": "\u5411\u76ee\u6807\u53d1\u5c04\u4e00\u9053\u5fc3\u80fd\uff0c\u4e4b\u540e\u5fc3\u80fd\u4f1a\u8df3\u81f3\u9644\u8fd1\u7684\u5176\u4ed6\u76ee\u6807\u8eab\u4e0a\u3002\u6700\u591a\u5bf95\u540d\u654c\u4eba\u9020\u621011,173\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u6700\u591a\u4e3a5\u4f4d\u76df\u53cb\u6062\u590d17,189\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u6bcf\u5bf9\u4e00\u4e2a\u76ee\u6807\u9020\u6210\u7206\u51fb\uff0c\u6536\u5272\u94fe\u7684\u51b7\u5374\u65f6\u95f4\u5c31\u7f29\u77ed5\u79d2\u3002"
+  }
 }

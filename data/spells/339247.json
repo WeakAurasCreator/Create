@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339247"
+  "SpellID": "339247",
+  "name_blz": {
+    "en_US": "Follower: Talethi",
+    "es_MX": "Seguidor: Talethi",
+    "pt_BR": "Seguidora: Talethi",
+    "de_DE": "Anh\u00e4ngerin: Talethi",
+    "en_GB": "Follower: Talethi",
+    "es_ES": "Seguidor: Talethi",
+    "fr_FR": "Sujet\u00a0: Talethi",
+    "it_IT": "Seguace: Talethi",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0422\u0430\u043b\u0435\u0444\u0438",
+    "ko_KR": "\ucd94\uc885\uc790: \ud0c8\ub808\uc2dc",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u5854\u52d2\u897f",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5854\u52d2\u897f"
+  },
+  "description_blz": {}
 }

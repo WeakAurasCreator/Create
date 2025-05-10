@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338555"
+  "SpellID": "338555",
+  "name_blz": {
+    "en_US": "Follower: Groonoomcrooek",
+    "es_MX": "Seguidora: Groonoomcrooek",
+    "pt_BR": "Seguidor: Grunumcruek",
+    "de_DE": "Anh\u00e4ngerin: Groonoomcrooek",
+    "en_GB": "Follower: Groonoomcrooek",
+    "es_ES": "Seguidora: Groonoomcrooek",
+    "fr_FR": "Sujet\u00a0: Grounoumcrouek",
+    "it_IT": "Seguace: Gramcrok",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0413\u0440\u043e\u043e\u043d\u043e\u043e\u043c\u043a\u0440\u043e\u0443\u043a",
+    "ko_KR": "\ucd94\uc885\uc790: \uadf8\ub8e8\ub214\ud06c\ub8e9",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u683c\u9b6f\u6069\u79d1\u9b6f\u514b",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u683c\u9c81\u8bfa\u59c6\u514b\u9c81\u514b"
+  },
+  "description_blz": {}
 }

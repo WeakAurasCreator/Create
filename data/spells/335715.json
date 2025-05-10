@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "335715"
+  "SpellID": "335715",
+  "name_blz": {
+    "en_US": "Follower: Kythekios",
+    "es_MX": "Seguidor: Kythekios",
+    "pt_BR": "Seguidor: Cit\u00e9quio",
+    "de_DE": "Anh\u00e4nger: Kythekios",
+    "en_GB": "Follower: Kythekios",
+    "es_ES": "Seguidor: Kythekios",
+    "fr_FR": "Sujet\u00a0: Kyth\u00e9kios",
+    "it_IT": "Seguace: Kythekios",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0438\u0442\u0435\u043a\u0438\u043e\u0441",
+    "ko_KR": "\ucd94\uc885\uc790: \ud0a4\ub370\ud0a4\uc624\uc2a4",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u51f1\u5e0c\u514b\u723e\u65af",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u51ef\u5179\u5409\u5965\u65af"
+  },
+  "description_blz": {}
 }
