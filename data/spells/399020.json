@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "399020"
+  "SpellID": "399020",
+  "name_blz": {
+    "en_US": "Extra Net - Grimtusk's",
+    "es_MX": "Red adicional - Colmigrima",
+    "pt_BR": "Rede Extra - De Presatroz",
+    "de_DE": "Zus\u00e4tzliches Netz - Grimmhauers Angelloch",
+    "en_GB": "Extra Net - Grimtusk's",
+    "es_ES": "Red extra - Colmigrima",
+    "fr_FR": "Filet suppl\u00e9mentaire \u2013 D\u00e9fense-Sinistre",
+    "it_IT": "Rete Aggiuntiva - Zannatetra",
+    "ru_RU": "\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u0442\u044c \u2013 \u041c\u0440\u0430\u0447\u043d\u043e\u043a\u043b\u044b\u043a",
+    "ko_KR": "\ucd94\uac00 \uadf8\ubb3c - \uc74c\uc6b8\uc5c4\ub2c8",
+    "zh_TW": "\u53b2\u7259\u7684\u984d\u5916\u6f01\u7db2",
+    "zh_CN": "\u989d\u5916\u7684\u6e14\u7f51 - \u7070\u7259"
+  },
+  "description_blz": {
+    "en_US": "Completing this task frees up space for another net to be placed in this fishing hole today.",
+    "es_MX": "Completar esta tarea ha liberado espacio para colocar otra red en este punto de pesca hoy.",
+    "pt_BR": "Completar esta tarefa abre espa\u00e7o para outra rede ser colocada neste pesqueiro hoje.",
+    "de_DE": "Der Abschluss dieser Aufgabe macht in diesem Angelloch Platz f\u00fcr ein weiteres Netz frei, der heute genutzt werden kann.",
+    "en_GB": "Completing this task frees up space for another net to be placed in this fishing hole today.",
+    "es_ES": "Al completar esta tarea, se libera espacio para colocar hoy otra red en este agujero de pesca.",
+    "fr_FR": "L\u2019accomplissement de cette t\u00e2che lib\u00e8re de l\u2019espace pour poser un autre filet dans ce coin de p\u00eache.",
+    "it_IT": "Completare questo compito libera spazio per un'altra rete da piazzare in questa zona di pesca.",
+    "ru_RU": "\u0412\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u043c\u0435\u0441\u0442\u043e \u0434\u043b\u044f \u0435\u0449\u0435 \u043e\u0434\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0432 \u0440\u044b\u0431\u043e\u043b\u043e\u0432\u043d\u043e\u0439 \u043b\u0443\u043d\u043a\u0435 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0434\u043d\u044f.",
+    "ko_KR": "\uc774 \uacfc\uc81c\ub97c \uc644\ub8cc\ud558\uc5ec \uc624\ub298 \ud574\ub2f9 \ub09a\uc2dc \uad6c\uba4d\uc5d0 \ub610 \ub2e4\ub978 \uadf8\ubb3c\uc744 \ub193\uc744 \uacf5\uac04\uc774 \uc0dd\uacbc\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5b8c\u6210\u9019\u500b\u4efb\u52d9\u5f8c\uff0c\u4eca\u5929\u53ef\u7a7a\u51fa\u7a7a\u9593\uff0c\u5c07\u53e6\u4e00\u5f35\u7db2\u653e\u5165\u9019\u500b\u91e3\u9b5a\u6d1e\u3002",
+    "zh_CN": "\u5b8c\u6210\u8be5\u4efb\u52a1\u4f1a\u817e\u51fa\u7a7a\u95f4\uff0c\u4eca\u5929\u53ef\u4ee5\u5728\u8be5\u9c7c\u7a9d\u4e2d\u518d\u653e\u7f6e\u4e00\u5f20\u7f51\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "404521"
+  "SpellID": "404521",
+  "name_blz": {
+    "en_US": "Rampant Growth",
+    "es_MX": "Crecimiento desenfrenado",
+    "pt_BR": "Crescimento Desenfreado",
+    "de_DE": "Ungez\u00fcgeltes Wachsen",
+    "en_GB": "Rampant Growth",
+    "es_ES": "Crecimiento desenfrenado",
+    "fr_FR": "Croissance rampante",
+    "it_IT": "Crescita Sfrenata",
+    "ru_RU": "\u041e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ubb34\uc131\ud55c \uc0dd\uc7a5",
+    "zh_TW": "\u731b\u70c8\u751f\u9577",
+    "zh_CN": "\u5feb\u901f\u751f\u957f"
+  },
+  "description_blz": {
+    "en_US": "Regrowth's healing over time is increased by 50%, and it also applies to the target of your Lifebloom.",
+    "es_MX": "Aumenta un 50% la sanaci\u00f3n con el tiempo de Recrecimiento y tambi\u00e9n se aplica al objetivo de tu Flor de vida.",
+    "pt_BR": "A cura ao longo do tempo de Recrescimento aumenta em 50% e \u00e9 aplicada ao alvo do seu Brotar da Vida.",
+    "de_DE": "Die regelm\u00e4\u00dfige Heilung von 'Nachwachsen' ist um 50% erh\u00f6ht und wird zus\u00e4tzlich auf das Ziel Eurer F\u00e4higkeit 'Bl\u00fchendes Leben' angewendet.",
+    "en_GB": "Regrowth's healing over time is increased by 50%, and it also applies to the target of your Lifebloom.",
+    "es_ES": "La sanaci\u00f3n en el tiempo de Recrecimiento aumenta un 50%, y tambi\u00e9n se aplica al objetivo de tu Flor de vida.",
+    "fr_FR": "R\u00e9tablissement rend 50% de points de vie suppl\u00e9mentaires sur sa dur\u00e9e, et ses effets de soins sur la dur\u00e9e s\u2019appliquent \u00e9galement \u00e0 la cible de votre Fleur de vie.",
+    "it_IT": "Aumenta le cure periodiche fornite da Ricrescita del 50%. Inoltre, il suo effetto si applica anche al bersaglio di Bocciolo di Vita.",
+    "ru_RU": "\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50%. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u043e\u043d\u043e \u0442\u0430\u043a\u0436\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 \u0446\u0435\u043b\u044c \u0441 \u0432\u0430\u0448\u0438\u043c \"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\u043e\u043c\".",
+    "ko_KR": "\uc7ac\uc0dd\uc758 \uc9c0\uc18d \uce58\uc720 \ud6a8\uacfc\uac00 50%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85\uc758 \ub300\uc0c1\uc5d0\uac8c\ub3c4 \uc801\uc6a9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7652\u5408\u7684\u6301\u7e8c\u6027\u6cbb\u7642\u6548\u679c\u63d0\u9ad850%\uff0c\u6b64\u52a0\u6210\u540c\u6a23\u9069\u7528\u65bc\u53d7\u5230\u4f60\u7684\u751f\u547d\u4e4b\u82b1\u5f71\u97ff\u7684\u76ee\u6a19\u3002",
+    "zh_CN": "\u6108\u5408\u7684\u6301\u7eed\u6cbb\u7597\u6548\u679c\u63d0\u9ad850%\uff0c\u4e14\u5176\u6301\u7eed\u6cbb\u7597\u6548\u679c\u4e5f\u4f1a\u4f5c\u7528\u4e8e\u4f60\u7684\u751f\u547d\u7efd\u653e\u7684\u76ee\u6807\u3002"
+  }
 }
