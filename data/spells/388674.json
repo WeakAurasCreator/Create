@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388674"
+  "SpellID": "388674",
+  "name_blz": {
+    "en_US": "Ferocity of Xuen",
+    "es_MX": "Ferocidad de Xuen",
+    "pt_BR": "Ferocidade de Xuen",
+    "de_DE": "Wildheit von Xuen",
+    "en_GB": "Ferocity of Xuen",
+    "es_ES": "Ferocidad de Xuen",
+    "fr_FR": "F\u00e9rocit\u00e9 de Xuen",
+    "it_IT": "Ferocia di Xuen",
+    "ru_RU": "\u0421\u0432\u0438\u0440\u0435\u043f\u043e\u0441\u0442\u044c \u0421\u044e\u044d\u043d\u044f",
+    "ko_KR": "\uc26c\uc5d4\uc758 \ub9f9\ub82c\ud568",
+    "zh_TW": "\u96ea\u6012\u4e4b\u731b",
+    "zh_CN": "\u96ea\u6012\u4e4b\u52c7"
+  },
+  "description_blz": {
+    "en_US": "Increases all damage dealt by 2%.",
+    "es_MX": "Aumenta todo el da\u00f1o infligido un 2%.",
+    "pt_BR": "Aumenta em 2% todo o dano causado.",
+    "de_DE": "Erh\u00f6ht s\u00e4mtlichen verursachten Schaden um 2%.",
+    "en_GB": "Increases all damage dealt by 2%.",
+    "es_ES": "Aumenta un 2% todo el da\u00f1o infligido.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts inflig\u00e9s de 2%.",
+    "it_IT": "Aumenta tutti i danni inflitti del 2%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 2%.",
+    "ko_KR": "\ubaa8\ub4e0 \uacf5\uaca9\ub825\uc774 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9020\u6210\u7684\u6240\u6709\u50b7\u5bb3\u63d0\u9ad82%\u3002",
+    "zh_CN": "\u9020\u6210\u7684\u6240\u6709\u4f24\u5bb3\u63d0\u9ad82%\u3002"
+  }
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365076"
+  "SpellID": "365076",
+  "name_blz": {
+    "en_US": "Scarlet Helicid",
+    "es_MX": "Hel\u00edcido escarlata",
+    "pt_BR": "Helic\u00eddeo Escarlate",
+    "de_DE": "Scharlachroter Helicid",
+    "en_GB": "Scarlet Helicid",
+    "es_ES": "Hel\u00edcido escarlata",
+    "fr_FR": "H\u00e9licid\u00e9 \u00e9carlate",
+    "it_IT": "Elicide Scarlatto",
+    "ru_RU": "\u0410\u043b\u044b\u0439 \u0445\u0435\u043b\u0438\u0446\u0438\u0434",
+    "ko_KR": "\uc9c4\ud64d\ube5b \uc6d0\uc2dc\ub2ec\ud33d\uc774",
+    "zh_TW": "\u8d64\u7d05\u539f\u8778",
+    "zh_CN": "\u7329\u7ea2\u5143\u87ba"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375120"
+  "SpellID": "375120",
+  "name_blz": {
+    "en_US": "Flame-Touched Helmet",
+    "es_MX": "Casco tocado por las llamas",
+    "pt_BR": "Capacete Flam\u00edgero",
+    "de_DE": "Flammenber\u00fchrter Helm",
+    "en_GB": "Flame-Touched Helmet",
+    "es_ES": "Casco tocado por las llamas",
+    "fr_FR": "Casque touch\u00e9 par les flammes",
+    "it_IT": "Elmetto Toccato dalla Fiamma",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u044b\u0439 \u0448\u043b\u0435\u043c",
+    "ko_KR": "\ubd88\uae38\uc5d0 \ubb3c\ub4e0 \ubcf4\ud638\ubaa8",
+    "zh_TW": "\u70c8\u7130\u4e4b\u64c1\u982d\u76d4",
+    "zh_CN": "\u7130\u89e6\u5934\u76d4"
+  },
+  "description_blz": {}
 }

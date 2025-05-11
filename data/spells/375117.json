@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375117"
+  "SpellID": "375117",
+  "name_blz": {
+    "en_US": "Flame-Touched Chainmail",
+    "es_MX": "Malla de anillas tocada por las llamas",
+    "pt_BR": "Malha de An\u00e9is Flam\u00edgera",
+    "de_DE": "Flammenber\u00fchrter Kettenpanzer",
+    "en_GB": "Flame-Touched Chainmail",
+    "es_ES": "Malla de anillas tocada por las llamas",
+    "fr_FR": "Cotte de mailles touch\u00e9e par les flammes",
+    "it_IT": "Cotta di Maglia Toccata dalla Fiamma",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u043b\u044c\u0447\u0443\u0433\u0430",
+    "ko_KR": "\ubd88\uae38\uc5d0 \ubb3c\ub4e0 \uc1e0\uc0ac\uc2ac\uac11\uc637",
+    "zh_TW": "\u70c8\u7130\u4e4b\u64c1\u9396\u5b50\u7532",
+    "zh_CN": "\u7130\u89e6\u94fe\u7532"
+  },
+  "description_blz": {}
 }

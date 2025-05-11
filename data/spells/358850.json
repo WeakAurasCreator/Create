@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "358850"
+  "SpellID": "358850",
+  "name_blz": {
+    "en_US": "Follower: Ben Howell",
+    "es_MX": "Seguidor: Ben Howell",
+    "pt_BR": "Seguidor: Bento Roriz",
+    "de_DE": "Anh\u00e4nger: Ben Howell",
+    "en_GB": "Follower: Ben Howell",
+    "es_ES": "Seguidor: Ben Howell",
+    "fr_FR": "Sujet\u00a0: Ben Howell",
+    "it_IT": "Seguace: Ben Howell",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0411\u0435\u043d \u0425\u0430\u0443\u044d\u043b\u043b",
+    "ko_KR": "\ucd94\uc885\uc790: \ubca4 \ud558\uc6f0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u73ed\u6069\u2027\u970d\u723e",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u672c\u00b7\u8c6a\u5a01\u5c14"
+  },
+  "description_blz": {}
 }

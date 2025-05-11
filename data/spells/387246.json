@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387246"
+  "SpellID": "387246",
+  "name_blz": {
+    "en_US": "Zapthrottle Soul Inhaler",
+    "es_MX": "Inhalador de almas zapacelerador",
+    "pt_BR": "Inalador de Almas Zapeacelera",
+    "de_DE": "Schockdrosselnder Seeleninhalierer",
+    "en_GB": "Zapthrottle Soul Inhaler",
+    "es_ES": "Inhalador de almas de zapacelerador",
+    "fr_FR": "Inhalateur d\u2019\u00e2me Zappeur-Gazier",
+    "it_IT": "Inalatore d'Anima Ultraccelerato",
+    "ru_RU": "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0432\u0434\u044b\u0445\u0430\u0442\u0435\u043b\u044c \u0434\u0443\u0448",
+    "ko_KR": "\uae30\uc555\uc870\uc808 \uc601\ud63c \ud761\uc218\uae30",
+    "zh_TW": "\u5feb\u901f\u7bc0\u6d41\u5438\u9b42\u5668",
+    "zh_CN": "\u6c14\u9600\u7075\u9b42\u5438\u5165\u5668"
+  },
+  "description_blz": {}
 }
