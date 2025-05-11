@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375124"
+  "SpellID": "375124",
+  "name_blz": {
+    "en_US": "Flame-Touched Cuffs",
+    "es_MX": "Pu\u00f1os tocados por las llamas",
+    "pt_BR": "Manilhas Flam\u00edgeras",
+    "de_DE": "Flammenber\u00fchrte Manschetten",
+    "en_GB": "Flame-Touched Cuffs",
+    "es_ES": "Pu\u00f1os tocados por las llamas",
+    "fr_FR": "Crispins touch\u00e9s par les flammes",
+    "it_IT": "Polsiere Toccate dalla Fiamma",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u044b\u0435 \u043c\u0430\u043d\u0436\u0435\u0442\u044b",
+    "ko_KR": "\ubd88\uae38\uc5d0 \ubb3c\ub4e0 \uc18c\ub9e4\uc7a5\uc2dd",
+    "zh_TW": "\u70c8\u7130\u4e4b\u64c1\u8155\u8f2a",
+    "zh_CN": "\u7130\u89e6\u8155\u6263"
+  },
+  "description_blz": {}
 }

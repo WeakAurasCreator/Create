@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375122"
+  "SpellID": "375122",
+  "name_blz": {
+    "en_US": "Flame-Touched Spaulders",
+    "es_MX": "Bufas tocadas por las llamas",
+    "pt_BR": "Espaldares Flam\u00edgeros",
+    "de_DE": "Flammenber\u00fchrte Schiftung",
+    "en_GB": "Flame-Touched Spaulders",
+    "es_ES": "Bufas tocadas por las llamas",
+    "fr_FR": "Spalli\u00e8res touch\u00e9es par les flammes",
+    "it_IT": "Guardaspalle Toccati dalla Fiamma",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u044b\u0439 \u043d\u0430\u043f\u043b\u0435\u0447",
+    "ko_KR": "\ubd88\uae38\uc5d0 \ubb3c\ub4e0 \uc5b4\uae68\ub36e\uac1c",
+    "zh_TW": "\u70c8\u7130\u4e4b\u64c1\u80a9\u7532",
+    "zh_CN": "\u7130\u89e6\u80a9\u7532"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383533"
+  "SpellID": "383533",
+  "name_blz": {
+    "en_US": "Azurescale Sigil",
+    "es_MX": "Sigilo escamazur",
+    "pt_BR": "Signo da Escama Laz\u00fali",
+    "de_DE": "Azurschuppensiegel",
+    "en_GB": "Azurescale Sigil",
+    "es_ES": "Sigilo escamazur",
+    "fr_FR": "Cachet \u00e9cailles-d\u2019azur",
+    "it_IT": "Sigillo di Scaglie Azzurre",
+    "ru_RU": "\u041f\u0435\u0447\u0430\u0442\u044c \u043b\u0430\u0437\u0443\u0440\u043d\u043e\u0439 \u0447\u0435\u0448\u0443\u0438",
+    "ko_KR": "\ud558\ub298\ube44\ub298 \uc778\uc7a5",
+    "zh_TW": "\u84bc\u9c57\u7b26\u5370",
+    "zh_CN": "\u78a7\u84dd\u9cde\u7247\u5fbd\u8bb0"
+  },
+  "description_blz": {}
 }
