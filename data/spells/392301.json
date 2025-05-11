@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392301"
+  "SpellID": "392301",
+  "name_blz": {
+    "en_US": "Undergrowth",
+    "es_MX": "Tope de floraci\u00f3n",
+    "pt_BR": "Relva Profusa",
+    "de_DE": "Unterschwelliges Wachstum",
+    "en_GB": "Undergrowth",
+    "es_ES": "Broza",
+    "fr_FR": "Broussailles",
+    "it_IT": "Crescita Ridotta",
+    "ru_RU": "\u041d\u0438\u0437\u043a\u0430\u044f \u0442\u0440\u0430\u0432\u0430",
+    "ko_KR": "\uad00\ubaa9",
+    "zh_TW": "\u53e2\u751f",
+    "zh_CN": "\u8513\u751f\u7efd\u653e"
+  },
+  "description_blz": {
+    "en_US": "You may Lifebloom two targets at once, but Lifebloom's healing is reduced by 10%.",
+    "es_MX": "Puedes lanzar Flor de vida sobre dos objetivos a la vez, pero la sanaci\u00f3n de Flor de vida se reduce un 10%.",
+    "pt_BR": "Voc\u00ea pode lan\u00e7ar o feiti\u00e7o Brotar da Vida em dois alvos ao mesmo tempo, mas a cura dele \u00e9 reduzida em 10%.",
+    "de_DE": "'Bl\u00fchendes Leben' kann auf zwei Zielen gleichzeitig aktiv sein, aber die Heilung von 'Bl\u00fchendes Leben' ist um 10% verringert.",
+    "en_GB": "You may Lifebloom two targets at once, but Lifebloom's healing is reduced by 10%.",
+    "es_ES": "Puedes aplicar Flor de vida a dos objetivos a la vez, pero la sanaci\u00f3n de Flor de vida se reduce un 10%.",
+    "fr_FR": "Vous pouvez utiliser Fleur de vie sur 2\u00a0cibles \u00e0 la fois, mais les soins du sort sont r\u00e9duits de 10%.",
+    "it_IT": "Permette di lanciare Bocciolo di Vita su due bersagli alla volta, ma ne riduce le cure del 10%.",
+    "ru_RU": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\" \u043a \u0434\u0432\u0443\u043c \u0446\u0435\u043b\u044f\u043c \u0435\u0434\u0438\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e, \u043d\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \u043d\u0435\u0433\u043e \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0430 10%.",
+    "ko_KR": "\ud55c \ubc88\uc5d0 \ub450 \ub300\uc0c1\uc5d0\uac8c \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85\uc744 \ubd80\uc5ec\ud560 \uc218 \uc788\uc9c0\ub9cc, \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85\uc758 \uce58\uc720 \ud6a8\uacfc\uac00 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u540c\u4e00\u6642\u9593\u5167\u751f\u547d\u4e4b\u82b1\u80fd\u4f5c\u7528\u65bc\u5169\u500b\u76ee\u6a19\u8eab\u4e0a\uff0c\u4f46\u662f\u751f\u547d\u4e4b\u82b1\u7684\u6cbb\u7642\u6548\u679c\u6703\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u4f60\u7684\u751f\u547d\u7efd\u653e\u53ef\u4ee5\u540c\u65f6\u5728\u4e24\u4e2a\u76ee\u6807\u8eab\u4e0a\u751f\u6548\uff0c\u4f46\u751f\u547d\u7efd\u653e\u7684\u6cbb\u7597\u6548\u679c\u964d\u4f4e10%\u3002"
+  }
 }

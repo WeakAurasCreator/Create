@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393940"
+  "SpellID": "393940",
+  "name_blz": {
+    "en_US": "Starweaver",
+    "es_MX": "Tejestrellas",
+    "pt_BR": "Tece-estrelas",
+    "de_DE": "Sternweber",
+    "en_GB": "Starweaver",
+    "es_ES": "Tejestrellas",
+    "fr_FR": "Tiss\u00e9toile",
+    "it_IT": "Filastelle",
+    "ru_RU": "\u0422\u043a\u0430\u0447 \u0417\u0432\u0435\u0437\u0434",
+    "ko_KR": "\ubcc4\uc7ac\ubd09\uc0ac",
+    "zh_TW": "\u7e54\u661f\u8005",
+    "zh_CN": "\u7ec7\u661f\u8005"
+  },
+  "description_blz": {
+    "en_US": "Starsurge has a 20% chance to make Starfall free. Starfall has a 40% chance to make Starsurge free.",
+    "es_MX": "Oleada de estrellas tiene un 20% de probabilidad de hacer que Lluvia de estrellas no tenga costo. Lluvia de estrellas tiene un 40% de probabilidad de hacer que Oleada de estrellas no tenga costo.",
+    "pt_BR": "Surto Estelar tem 20% de chance de remover o custo da Chuva Estelar. Chuva Estelar tem 40% de chance de remover o custo do Surto Estelar.",
+    "de_DE": "'Sternensog' hat eine Chance von 20%, 'Sternenregen' kostenlos werden zu lassen. 'Sternenregen' hat eine Chance von 40%, 'Sternensog' kostenlos werden zu lassen.",
+    "en_GB": "Starsurge has a 20% chance to make Starfall free. Starfall has a 40% chance to make Starsurge free.",
+    "es_ES": "Oleada de estrellas tiene un 20% de probabilidad de provocar que Lluvia de estrellas no tenga coste. Lluvia de estrellas tiene un 40% de probabilidades de provocar que Oleada de estrellas no tenga coste.",
+    "fr_FR": "\u00c9ruption stellaire a 20% de chances d\u2019annuler le co\u00fbt de M\u00e9t\u00e9ores. M\u00e9t\u00e9ores a 40% de chances d\u2019annuler le co\u00fbte d\u2019\u00c9ruption stellaire.",
+    "it_IT": "Cometa Arcana ha una probabilit\u00e0 del 20% di azzerare il costo di Pioggia di Stelle. Pioggia di Stelle ha una probabilit\u00e0 del 40% di azzerare il costo di Cometa Arcana.",
+    "ru_RU": "\"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 20% \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \"\u0417\u0432\u0435\u0437\u0434\u043e\u043f\u0430\u0434\" \u0431\u0435\u0437 \u0437\u0430\u0442\u0440\u0430\u0442 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432. \"\u0417\u0432\u0435\u0437\u0434\u043e\u043f\u0430\u0434\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 40% \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u0431\u0435\u0437 \u0437\u0430\u0442\u0440\u0430\u0442 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432.",
+    "ko_KR": "\ubcc4\ube5b\uc1c4\ub3c4\uac00 20%\uc758 \ud655\ub960\ub85c \ubcc4\ub625\ubcc4\uc758 \uc790\uc6d0 \uc18c\ubaa8\ub7c9\uc744 \uc5c6\uc560\uace0, \ubcc4\ub625\ubcc4\uc740 40%\uc758 \ud655\ub960\ub85c \ubcc4\ube5b\uc1c4\ub3c4\uc758 \uc790\uc6d0 \uc18c\ubaa8\ub7c9\uc744 \uc5c6\uc571\ub2c8\ub2e4.",
+    "zh_TW": "\u661f\u6e67\u8853\u670920%\u6a5f\u7387\u8b93\u661f\u6b9e\u8853\u4e0d\u6d88\u8017\u661f\u80fd\u3002\u661f\u6b9e\u8853\u670940%\u6a5f\u7387\u8b93\u661f\u6e67\u8853\u4e0d\u6d88\u8017\u661f\u80fd\u3002",
+    "zh_CN": "\u661f\u6d8c\u672f\u670920%\u51e0\u7387\u4f7f\u661f\u8fb0\u5760\u843d\u4e0d\u4ea7\u751f\u6d88\u8017\uff0c\u661f\u8fb0\u5760\u843d\u670940%\u7684\u51e0\u7387\u4f7f\u661f\u6d8c\u672f\u4e0d\u4ea7\u751f\u6d88\u8017\u3002"
+  }
 }
