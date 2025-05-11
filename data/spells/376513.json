@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376513"
+  "SpellID": "376513",
+  "name_blz": {
+    "en_US": "Vibrant Wildercloth Handwraps",
+    "es_MX": "Manijas de tela salvaje vibrante",
+    "pt_BR": "Mitenes de Selvatrama Vibrante",
+    "de_DE": "Schillernde Wildstoffhandlappen",
+    "en_GB": "Vibrant Wildercloth Handwraps",
+    "es_ES": "Manijas de tela salvaje vibrante",
+    "fr_FR": "Prot\u00e8ge-mains en trame-sauvage chatoyante",
+    "it_IT": "Mitene di Stoffabrada Vibrante",
+    "ru_RU": "\u042f\u0440\u043a\u0438\u0435 \u043f\u043e\u0432\u044f\u0437\u043a\u0438 \u0438\u0437 \u0442\u043a\u0430\u043d\u0438 \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc601\ub871\ud55c \uc57c\uc0dd\ucc9c \uc190\ub4f1\uc2f8\uac1c",
+    "zh_TW": "\u9bae\u4eae\u8352\u7d0b\u5e03\u88f9\u624b",
+    "zh_CN": "\u751f\u673a\u8352\u5e03\u88f9\u624b"
+  },
+  "description_blz": {}
 }

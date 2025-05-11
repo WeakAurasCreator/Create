@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365050"
+  "SpellID": "365050",
+  "name_blz": {
+    "en_US": "Desertwing Hunter",
+    "es_MX": "Cazador alades\u00e9rtica",
+    "pt_BR": "Ca\u00e7ador Asa do Deserto",
+    "de_DE": "W\u00fcstenschwingenj\u00e4ger",
+    "en_GB": "Desertwing Hunter",
+    "es_ES": "Cazador aladesierto",
+    "fr_FR": "Chasseur aile-du-d\u00e9sert",
+    "it_IT": "Cacciatore del Deserto",
+    "ru_RU": "\u041a\u0440\u044b\u043b\u0430\u0442\u044b\u0439 \u043e\u0445\u043e\u0442\u043d\u0438\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u0438",
+    "ko_KR": "\uc0ac\ub9c9\ub0a0\uac1c \uc0ac\ub0e5\uafbc",
+    "zh_TW": "\u6c99\u6f20\u4e4b\u7ffc\u7375\u9df9",
+    "zh_CN": "\u7802\u7ffc\u730e\u9e70"
+  },
+  "description_blz": {}
 }

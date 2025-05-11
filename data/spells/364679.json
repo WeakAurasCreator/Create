@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364679"
+  "SpellID": "364679",
+  "name_blz": {
+    "en_US": "Multichicken",
+    "es_MX": "Multigallina",
+    "pt_BR": "Multifrango",
+    "de_DE": "Multihuhn",
+    "en_GB": "Multichicken",
+    "es_ES": "Multipollo",
+    "fr_FR": "Multipoulet",
+    "it_IT": "Multipollo",
+    "ru_RU": "\u041c\u0443\u043b\u044c\u0442\u0438\u0446\u044b\u043f",
+    "ko_KR": "\ub2e4\uc911\ub2ed",
+    "zh_TW": "\u591a\u91cd\u96de",
+    "zh_CN": "\u591a\u91cd\u9e21"
+  },
+  "description_blz": {}
 }

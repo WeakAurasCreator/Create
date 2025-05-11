@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365073"
+  "SpellID": "365073",
+  "name_blz": {
+    "en_US": "Bronze Helicid",
+    "es_MX": "Hel\u00edcido de bronce",
+    "pt_BR": "Helic\u00eddeo de Bronze",
+    "de_DE": "Bronzener Helicid",
+    "en_GB": "Bronze Helicid",
+    "es_ES": "Hel\u00edcido de bronce",
+    "fr_FR": "H\u00e9licid\u00e9 de bronze",
+    "it_IT": "Elicide Bronzeo",
+    "ru_RU": "\u0411\u0440\u043e\u043d\u0437\u043e\u0432\u044b\u0439 \u0445\u0435\u043b\u0438\u0446\u0438\u0434",
+    "ko_KR": "\uccad\ub3d9 \uc6d0\uc2dc\ub2ec\ud33d\uc774",
+    "zh_TW": "\u9752\u9285\u539f\u8778",
+    "zh_CN": "\u9752\u94dc\u5143\u87ba"
+  },
+  "description_blz": {}
 }

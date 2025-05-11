@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364527"
+  "SpellID": "364527",
+  "name_blz": {
+    "en_US": "Ambystan Darter",
+    "es_MX": "Dardo ambystano",
+    "pt_BR": "Dardejante Ambistano",
+    "de_DE": "Ambystidenflitzer",
+    "en_GB": "Ambystan Darter",
+    "es_ES": "Dardo ambistano",
+    "fr_FR": "Dard ambystome",
+    "it_IT": "Ambistomide Sfrecciante",
+    "ru_RU": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0430\u043c\u0431\u0438\u0441\u0442\u0430\u043d",
+    "ko_KR": "\uc3dc\uc0b4\uc774 \uc6d0\uc2dc\ub3c4\ub871\ub1fd",
+    "zh_TW": "\u920d\u53e3\u539f\u8811\u75be\u5954\u8005",
+    "zh_CN": "\u5143\u8788\u98de\u63a0\u8005"
+  },
+  "description_blz": {}
 }

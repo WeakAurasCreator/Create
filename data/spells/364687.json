@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364687"
+  "SpellID": "364687",
+  "name_blz": {
+    "en_US": "Violent Poultrid",
+    "es_MX": "Gallin\u00e1ceo violento",
+    "pt_BR": "Galin\u00eddeo Violento",
+    "de_DE": "Aggressiver Puttrid",
+    "en_GB": "Violent Poultrid",
+    "es_ES": "Fais\u00e1nido violento",
+    "fr_FR": "Galliforme violent",
+    "it_IT": "Fasianide Violento",
+    "ru_RU": "\u0410\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043d\u044b\u0439 \u0446\u044b\u043f\u043e\u0438\u0434",
+    "ko_KR": "\ud3ec\uc545\ud55c \uc6d0\uc2dc\ub2ed",
+    "zh_TW": "\u5147\u66b4\u539f\u96de",
+    "zh_CN": "\u66b4\u623e\u7684\u5143\u9e21"
+  },
+  "description_blz": {}
 }

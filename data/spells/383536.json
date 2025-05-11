@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383536"
+  "SpellID": "383536",
+  "name_blz": {
+    "en_US": "Bronzescale Sigil",
+    "es_MX": "Sigilo escamas bronce",
+    "pt_BR": "Signo da Escama Bronze",
+    "de_DE": "Bronzeschuppensiegel",
+    "en_GB": "Bronzescale Sigil",
+    "es_ES": "Sigilo de escamas bronce",
+    "fr_FR": "Cachet \u00e9cailles-de-bronze",
+    "it_IT": "Sigillo di Scaglie di Bronzo",
+    "ru_RU": "\u041f\u0435\u0447\u0430\u0442\u044c \u0431\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u0439 \u0447\u0435\u0448\u0443\u0438",
+    "ko_KR": "\uccad\ub3d9\ube44\ub298 \uc778\uc7a5",
+    "zh_TW": "\u9285\u9c57\u7b26\u5370",
+    "zh_CN": "\u9752\u94dc\u9cde\u7247\u5fbd\u8bb0"
+  },
+  "description_blz": {}
 }

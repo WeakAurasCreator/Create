@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389220"
+  "SpellID": "389220",
+  "name_blz": {
+    "en_US": "Fiery Demise",
+    "es_MX": "Muerte ardiente",
+    "pt_BR": "\u00d3bito \u00cdgneo",
+    "de_DE": "Flammender Untergang",
+    "en_GB": "Fiery Demise",
+    "es_ES": "Perdici\u00f3n \u00edgnea",
+    "fr_FR": "Tr\u00e9pas enflamm\u00e9",
+    "it_IT": "Disfatta Ardente",
+    "ru_RU": "\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0435 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub728\uac70\uc6b4 \ucd5c\ud6c4",
+    "zh_TW": "\u71be\u708e\u711a\u8eab",
+    "zh_CN": "\u70bd\u70c8\u706d\u4ea1"
+  },
+  "description_blz": {
+    "en_US": "Fiery Brand also increases Fire damage you deal to the target by 15%.",
+    "es_MX": "Marca ardiente tambi\u00e9n aumenta un 15% todo el da\u00f1o de fuego que inflijas al objetivo.",
+    "pt_BR": "Marca Ardente tamb\u00e9m aumenta em 15% o dano de Fogo causado ao alvo.",
+    "de_DE": "'Flammendes Brandmal' erh\u00f6ht au\u00dferdem den Feuerschaden, den Ihr dem Ziel zuf\u00fcgt, um 15%.",
+    "en_GB": "Fiery Brand also increases Fire damage you deal to the target by 15%.",
+    "es_ES": "Marca \u00edgnea tambi\u00e9n aumenta un 15% el da\u00f1o de Fuego que infliges al objetivo.",
+    "fr_FR": "Marque enflamm\u00e9e augmente \u00e9galement de 15% les d\u00e9g\u00e2ts de feu que vous infligez \u00e0 la cible.",
+    "it_IT": "Marchiatura Ardente aumenta i danni da fuoco inflitti da te al bersaglio del 15%.",
+    "ru_RU": "\"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0435 \u043a\u043b\u0435\u0439\u043c\u043e\" \u0442\u0430\u043a\u0436\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0435\u0441\u044c \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0446\u0435\u043b\u0438 \u0443\u0440\u043e\u043d \u043e\u0442 \u043e\u0433\u043d\u044f \u043d\u0430 15%.",
+    "ko_KR": "\ubd88\ud0c0\ub294 \ub099\uc778\uc774 \ub300\uc0c1\uc5d0\uac8c \uc785\ud788\ub294 \uc790\uc2e0\uc758 \ud654\uc5fc \ud53c\ud574\ub97c 15%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u71be\u708e\u70d9\u5370\u6703\u4f7f\u4f60\u5c0d\u76ee\u6a19\u9020\u6210\u7684\u706b\u7130\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u70c8\u706b\u70d9\u5370\u8fd8\u4f1a\u4f7f\u4f60\u5bf9\u76ee\u6807\u9020\u6210\u7684\u706b\u7130\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

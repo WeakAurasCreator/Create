@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374468"
+  "SpellID": "374468",
+  "name_blz": {
+    "en_US": "Skillful Illimited Diamond",
+    "es_MX": "Diamante ilimitado habilidoso",
+    "pt_BR": "Diamante Ilimitado Habilidoso",
+    "de_DE": "Fachkundiger Endlosdiamant",
+    "en_GB": "Skillful Illimited Diamond",
+    "es_ES": "Diamante ilimitado habilidoso",
+    "fr_FR": "Diamant insondable habile",
+    "it_IT": "Diamante Illimitato Esperto",
+    "ru_RU": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0438\u0439 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0430\u043b\u043c\u0430\u0437",
+    "ko_KR": "\uad50\ubb18\ud55c \ubb34\ud55c\uc758 \ub2e4\uc774\uc544\ubaac\ub4dc",
+    "zh_TW": "\u5afb\u719f\u7684\u7121\u9650\u947d\u77f3",
+    "zh_CN": "\u5a34\u719f\u4e4b\u65e0\u9650\u94bb\u77f3"
+  },
+  "description_blz": {}
 }

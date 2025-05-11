@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365052"
+  "SpellID": "365052",
+  "name_blz": {
+    "en_US": "Raptora Swooper",
+    "es_MX": "Zambullidor raptora",
+    "pt_BR": "Rapinante Ofensiva",
+    "de_DE": "Raptorasturzflieger",
+    "en_GB": "Raptora Swooper",
+    "es_ES": "Accip\u00edtrido planeador",
+    "fr_FR": "Raptora planeur",
+    "it_IT": "Falconide Predatore",
+    "ru_RU": "\u0420\u0430\u043f\u0442\u043e\u0440\u0430-\u043e\u0445\u043e\u0442\u043d\u0438\u0446\u0430",
+    "ko_KR": "\uc721\uc2dd\uc870 \uac15\ud558\uc790",
+    "zh_TW": "\u539f\u9df9\u731b\u9df2",
+    "zh_CN": "\u4fef\u51b2\u5143\u9e70"
+  },
+  "description_blz": {}
 }
