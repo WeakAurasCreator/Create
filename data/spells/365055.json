@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365055"
+  "SpellID": "365055",
+  "name_blz": {
+    "en_US": "Genesis Crawler",
+    "es_MX": "Reptador genes\u00edaco",
+    "pt_BR": "Rastejante da G\u00eanese",
+    "de_DE": "Genesiskrabbler",
+    "en_GB": "Genesis Crawler",
+    "es_ES": "Reptador de g\u00e9nesis",
+    "fr_FR": "Clampant de la Gen\u00e8se",
+    "it_IT": "Strisciatore della Genesi",
+    "ru_RU": "\u0421\u043e\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u043b\u0437\u0443\u043d",
+    "ko_KR": "\uae30\uc6d0\uc758 \uac70\ubbf8",
+    "zh_TW": "\u5275\u59cb\u722c\u884c\u8005",
+    "zh_CN": "\u6e90\u751f\u722c\u86db"
+  },
+  "description_blz": {}
 }

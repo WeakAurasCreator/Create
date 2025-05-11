@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376511"
+  "SpellID": "376511",
+  "name_blz": {
+    "en_US": "Vibrant Wildercloth Vestments",
+    "es_MX": "Vestimentas de tela salvaje vibrante",
+    "pt_BR": "Vestimenta de Selvatrama Vibrante",
+    "de_DE": "Schillerndes Wildstoffgewand",
+    "en_GB": "Vibrant Wildercloth Vestments",
+    "es_ES": "Vestimentas de tela salvaje vibrante",
+    "fr_FR": "Habits en trame-sauvage chatoyante",
+    "it_IT": "Vesti di Stoffabrada Vibrante",
+    "ru_RU": "\u042f\u0440\u043a\u043e\u0435 \u043e\u0431\u043b\u0430\u0447\u0435\u043d\u0438\u0435 \u0438\u0437 \u0442\u043a\u0430\u043d\u0438 \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc601\ub871\ud55c \uc57c\uc0dd\ucc9c \uc608\ubcf5",
+    "zh_TW": "\u9bae\u4eae\u8352\u7d0b\u5e03\u6cd5\u8863",
+    "zh_CN": "\u751f\u673a\u8352\u5e03\u6cd5\u8863"
+  },
+  "description_blz": {}
 }

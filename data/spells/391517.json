@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "391517"
+  "SpellID": "391517",
+  "name_blz": {
+    "en_US": "Umbilicus Eternus",
+    "es_MX": "Umbilicus Eternus",
+    "pt_BR": "Umbilicus Eternus",
+    "de_DE": "Blutnabel",
+    "en_GB": "Umbilicus Eternus",
+    "es_ES": "Umbilicus eternus",
+    "fr_FR": "Umbilicus Eternus",
+    "it_IT": "Ombelico Eterno",
+    "ru_RU": "\u0412\u0435\u0447\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c",
+    "ko_KR": "\ud761\ud608\uc758 \uad6c",
+    "zh_TW": "\u4e0d\u6ec5\u8840\u7cfb",
+    "zh_CN": "\u6c38\u6052\u8110\u5e26"
+  },
+  "description_blz": {
+    "en_US": "After Vampiric Blood expires, you absorb damage equal to 5 times the damage your Blood Plague dealt during Vampiric Blood.",
+    "es_MX": "Cuando Sangre vamp\u00edrica termina, absorbes da\u00f1o equivalente a 5 veces el da\u00f1o que has infligido con Peste de sangre durante Sangre vamp\u00edrica.",
+    "pt_BR": "Quando Sangue Vamp\u00edrico acaba, voc\u00ea absorve dano equivalente a 5 vezes o dano causado por Peste Sangu\u00ednea durante Sangue Vamp\u00edrico.",
+    "de_DE": "Wenn 'Vampirblut' abl\u00e4uft, erhaltet Ihr einen Absorptionseffekt in H\u00f6he des 5-fachen des Schadens, den Eure 'Blutseuche' w\u00e4hrend der Dauer von 'Vampirblut' verursacht hat.",
+    "en_GB": "After Vampiric Blood expires, you absorb damage equal to 5 times the damage your Blood Plague dealt during Vampiric Blood.",
+    "es_ES": "Cuando Sangre vamp\u00edrica se agota, absorbes una cantidad de da\u00f1o igual a 5 veces el da\u00f1o que ha infligido tu Peste de sangre durante Sangre vamp\u00edrica.",
+    "fr_FR": "Lorsque Sang vampirique prend fin, vous absorbez un montant de d\u00e9g\u00e2ts \u00e9gal \u00e0 5\u00a0fois les d\u00e9g\u00e2ts inflig\u00e9s par Peste de sang pendant la dur\u00e9e de Sang vampirique.",
+    "it_IT": "Quando Sangue Vampirico termina, fornisce un effetto di assorbimento pari a 5 volte i danni inflitti con Morbo del Sangue mentre era attivo.",
+    "ru_RU": "\u041f\u043e \u0438\u0441\u0442\u0435\u0447\u0435\u043d\u0438\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041a\u0440\u043e\u0432\u0438 \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u043d\u0430 \u0432\u0430\u0441 \u0431\u0443\u0434\u0435\u0442 \u043d\u0430\u043b\u043e\u0436\u0435\u043d \u0449\u0438\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442 \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435, \u0440\u0430\u0432\u043d\u043e\u043c 5-\u043a\u0440\u0430\u0442\u043d\u043e\u043c\u0443 \u0443\u0440\u043e\u043d\u0443 \u043e\u0442 \u0432\u0430\u0448\u0435\u0439 \"\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u0447\u0443\u043c\u044b\", \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u043c\u0443 \u0437\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041a\u0440\u043e\u0432\u0438 \u0432\u0430\u043c\u043f\u0438\u0440\u0430\".",
+    "ko_KR": "\ud761\ud608\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 \ub05d\ub098\uba74, \ud761\ud608\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \ud53c\uc758 \uc5ed\ubcd1\uc73c\ub85c \uc785\ud78c \ud53c\ud574\uc758 5\ubc30\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \ud761\uc218\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u8840\u65cf\u4e4b\u88d4\u7d50\u675f\u6642\u7372\u5f97\u4e00\u5c64\u5438\u6536\u6548\u679c\uff0c\u5176\u5438\u6536\u91cf\u76f8\u7576\u65bc\u8840\u9b44\u761f\u75ab\u5728\u8840\u65cf\u4e4b\u88d4\u6709\u6548\u671f\u9593\u6240\u9020\u6210\u50b7\u5bb3\u7e3d\u91cf\u76845\u500d\u3002",
+    "zh_CN": "\u5438\u8840\u9b3c\u4e4b\u8840\u7ed3\u675f\u65f6\uff0c\u4f60\u53ef\u4ee5\u5438\u6536\u4f24\u5bb3\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u5438\u8840\u9b3c\u4e4b\u8840\u6301\u7eed\u671f\u95f4\u8840\u4e4b\u75ab\u75c5\u9020\u6210\u4f24\u5bb3\u76845\u500d\u3002"
+  }
 }

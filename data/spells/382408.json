@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382408"
+  "SpellID": "382408",
+  "name_blz": {
+    "en_US": "Atomic Recalibrator",
+    "es_MX": "Recalibrador at\u00f3mico",
+    "pt_BR": "Recalibrador At\u00f4mico",
+    "de_DE": "Atomarer Rekalibrierer",
+    "en_GB": "Atomic Recalibrator",
+    "es_ES": "Recalibrador at\u00f3mico",
+    "fr_FR": "Recalibrateur atomique",
+    "it_IT": "Ricalibratore Atomico",
+    "ru_RU": "\u0410\u0442\u043e\u043c\u043d\u044b\u0439 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c",
+    "ko_KR": "\uc6d0\uc790 \uc7ac\uce21\uc815\uae30",
+    "zh_TW": "\u539f\u5b50\u6821\u6e96\u5668",
+    "zh_CN": "\u539f\u5b50\u91cd\u6821\u5668"
+  },
+  "description_blz": {}
 }

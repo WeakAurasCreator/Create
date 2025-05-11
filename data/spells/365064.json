@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365064"
+  "SpellID": "365064",
+  "name_blz": {
+    "en_US": "Curious Crystalsniffer",
+    "es_MX": "Huelecristales curioso",
+    "pt_BR": "Farejador de Cristais Curioso",
+    "de_DE": "Neugieriger Kristallschn\u00fcffler",
+    "en_GB": "Curious Crystalsniffer",
+    "es_ES": "Huelecristales curioso",
+    "fr_FR": "Flaire-cristaux curieux",
+    "it_IT": "Annusacristalli Curioso",
+    "ru_RU": "\u041b\u044e\u0431\u043e\u043f\u044b\u0442\u043d\u044b\u0439 \u043d\u044e\u0445\u0430\u0447 \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u043e\u0432",
+    "ko_KR": "\ud638\uae30\uc2ec \ub9ce\uc740 \uc218\uc815\ud081\ud081\uc774",
+    "zh_TW": "\u5947\u7279\u7684\u55c5\u6676\u8005",
+    "zh_CN": "\u597d\u5947\u7684\u6c34\u6676\u63a2\u55c5\u8005"
+  },
+  "description_blz": {}
 }

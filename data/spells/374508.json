@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374508"
+  "SpellID": "374508",
+  "name_blz": {
+    "en_US": "Statue of Tyr's Herald",
+    "es_MX": "Estatua de heraldo de Tyr",
+    "pt_BR": "Est\u00e1tua do Arauto de Tyr",
+    "de_DE": "Statue von Tyrs Herold",
+    "en_GB": "Statue of Tyr's Herald",
+    "es_ES": "Estatua del heraldo de Tyr",
+    "fr_FR": "Statue du h\u00e9raut de Tyr",
+    "it_IT": "Statua dell'Alfiere di Tyr",
+    "ru_RU": "\u0421\u0442\u0430\u0442\u0443\u044d\u0442\u043a\u0430 \u0433\u043b\u0430\u0448\u0430\u0442\u0430\u044f \u0422\u0438\u0440\u0430",
+    "ko_KR": "\ud2f0\ub974\uc758 \uc804\ub839 \uc870\uac01\uc0c1",
+    "zh_TW": "\u63d0\u723e\u4f7f\u8005\u7684\u96d5\u50cf",
+    "zh_CN": "\u63d0\u5c14\u5148\u9a71\u7684\u5851\u50cf"
+  },
+  "description_blz": {}
 }

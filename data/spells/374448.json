@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374448"
+  "SpellID": "374448",
+  "name_blz": {
+    "en_US": "Zen Malygite",
+    "es_MX": "Maliquita zen",
+    "pt_BR": "Malygita Zen",
+    "de_DE": "Meditativer Malygit",
+    "en_GB": "Zen Malygite",
+    "es_ES": "Malygita zen",
+    "fr_FR": "Malygite zen",
+    "it_IT": "Malygosite Zen",
+    "ru_RU": "\u0414\u0437\u0435\u043d-\u043c\u0430\u043b\u0438\u0433\u0438\u0442",
+    "ko_KR": "\ucc38\uc120\uc758 \ub9d0\ub9ac\uac00\uc774\ud2b8",
+    "zh_TW": "\u79aa\u5fc3\u7684\u746a\u91cc\u85cd\u947d",
+    "zh_CN": "\u7985\u609f\u4e4b\u739b\u91cc\u82df\u77f3"
+  },
+  "description_blz": {}
 }

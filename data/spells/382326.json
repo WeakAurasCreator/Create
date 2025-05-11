@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382326"
+  "SpellID": "382326",
+  "name_blz": {
+    "en_US": "High Intensity Thermal Scanner",
+    "es_MX": "Esc\u00e1ner t\u00e9rmico de alta intensidad",
+    "pt_BR": "Mira de Ataque T\u00e9rmica Avan\u00e7ada",
+    "de_DE": "Hochleistungsthermoscanner",
+    "en_GB": "High Intensity Thermal Scanner",
+    "es_ES": "Esc\u00e1ner t\u00e9rmico de alta intensidad",
+    "fr_FR": "Scanner thermique \u00e0 haute intensit\u00e9",
+    "it_IT": "Scansionatore Termico ad Alta Intensit\u00e0",
+    "ru_RU": "\u0412\u044b\u0441\u043e\u043a\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u043f\u043b\u043e\u0432\u0438\u0437\u043e\u0440",
+    "ko_KR": "\uace0\ubc00\ub3c4 \uc5f4\uae30 \uce21\uc815\uae30",
+    "zh_TW": "\u9ad8\u6548\u80fd\u71b1\u6383\u7784\u93e1",
+    "zh_CN": "\u9ad8\u5f3a\u5ea6\u70ed\u626b\u63cf\u4eea"
+  },
+  "description_blz": {}
 }

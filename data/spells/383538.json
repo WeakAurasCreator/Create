@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383538"
+  "SpellID": "383538",
+  "name_blz": {
+    "en_US": "Jetscale Sigil",
+    "es_MX": "Sigilo escamas c\u00e9leres",
+    "pt_BR": "Signo da Escama Azeviche",
+    "de_DE": "Kohleschuppensiegel",
+    "en_GB": "Jetscale Sigil",
+    "es_ES": "Sigilo de escamas azabache",
+    "fr_FR": "Cachet \u00e9cailles-de-jais",
+    "it_IT": "Sigillo di Scaglie Travolgenti",
+    "ru_RU": "\u041f\u0435\u0447\u0430\u0442\u044c \u0430\u0433\u0430\u0442\u043e\u0432\u043e\u0439 \u0447\u0435\u0448\u0443\u0438",
+    "ko_KR": "\ud751\uc625\ube44\ub298 \uc778\uc7a5",
+    "zh_TW": "\u70cf\u9c57\u7b26\u5370",
+    "zh_CN": "\u55b7\u6d41\u9cde\u7247\u5fbd\u8bb0"
+  },
+  "description_blz": {}
 }

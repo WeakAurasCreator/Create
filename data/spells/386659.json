@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386659"
+  "SpellID": "386659",
+  "name_blz": {
+    "en_US": "Dark Accord",
+    "es_MX": "Acuerdo oscuro",
+    "pt_BR": "Acordo Sombrio",
+    "de_DE": "Finsteres Abkommen",
+    "en_GB": "Dark Accord",
+    "es_ES": "Convenio oscuro",
+    "fr_FR": "Sombre trait\u00e9",
+    "it_IT": "Accordo Oscuro",
+    "ru_RU": "\u0422\u0435\u043c\u043d\u043e\u0435 \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc5b4\ub460\uc758 \ud611\uc758",
+    "zh_TW": "\u9ed1\u6697\u5354\u8b70",
+    "zh_CN": "\u9ed1\u6697\u534f\u7ea6"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of Unending Resolve by 45 sec.",
+    "es_MX": "Reduce 45 s el tiempo de reutilizaci\u00f3n de Resoluci\u00f3n inagotable.",
+    "pt_BR": "Reduz em 45 s a recarga da Determina\u00e7\u00e3o Intermin\u00e1vel.",
+    "de_DE": "Verringert die Abklingzeit von 'Erbarmungslose Entschlossenheit' um 45 Sek.",
+    "en_GB": "Reduces the cooldown of Unending Resolve by 45 sec.",
+    "es_ES": "Reduce 45 s el tiempo de reutilizaci\u00f3n de Resoluci\u00f3n inagotable.",
+    "fr_FR": "R\u00e9duit le temps de recharge de R\u00e9solution interminable de 45\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Determinazione Assoluta di 45 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0422\u0432\u0435\u0440\u0434\u043e\u0439 \u0440\u0435\u0448\u0438\u043c\u043e\u0441\u0442\u0438\" \u043d\u0430 45 \u0441\u0435\u043a.",
+    "ko_KR": "\uc601\uc6d0\ud55c \uacb0\uc758\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 45\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5fc3\u5fd7\u5805\u5b9a\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed45\u79d2\u3002",
+    "zh_CN": "\u4e0d\u706d\u51b3\u5fc3\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed45\u79d2\u3002"
+  }
 }

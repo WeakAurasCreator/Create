@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383128"
+  "SpellID": "383128",
+  "name_blz": {
+    "en_US": "Bottled Pheromones",
+    "es_MX": "Feromonas embotelladas",
+    "pt_BR": "Ferom\u00f4nios Engarrafados",
+    "de_DE": "Abgef\u00fcllte Pheromone",
+    "en_GB": "Bottled Pheromones",
+    "es_ES": "Feromonas embotelladas",
+    "fr_FR": "Ph\u00e9romones en bouteille",
+    "it_IT": "Feromoni Imbottigliati",
+    "ru_RU": "\u0411\u0443\u0442\u044b\u043b\u043e\u0447\u043a\u0430 \u0444\u0435\u0440\u043e\u043c\u043e\u043d\u043e\u0432",
+    "ko_KR": "\ubcd1\uc5d0 \ub2f4\uae34 \ud398\ub85c\ubaac",
+    "zh_TW": "\u74f6\u88dd\u8cbb\u6d1b\u8499",
+    "zh_CN": "\u4e00\u74f6\u4fe1\u606f\u7d20"
+  },
+  "description_blz": {}
 }

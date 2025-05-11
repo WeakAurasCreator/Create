@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365040"
+  "SpellID": "365040",
+  "name_blz": {
+    "en_US": "Pale Regal Cervid",
+    "es_MX": "C\u00e9rvido majestuoso p\u00e1lido",
+    "pt_BR": "Cerv\u00eddeo R\u00e9gio P\u00e1lido",
+    "de_DE": "Blasser majest\u00e4tischer Cervid",
+    "en_GB": "Pale Regal Cervid",
+    "es_ES": "C\u00e9rvido regio p\u00e1lido",
+    "fr_FR": "Cervid\u00e9 r\u00e9galien p\u00e2le",
+    "it_IT": "Cervide Regale Tenue",
+    "ru_RU": "\u0421\u0432\u0435\u0442\u043b\u044b\u0439 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0441\u0435\u0440\u0432\u0438\u0434",
+    "ko_KR": "\ucc3d\ubc31\ud55c \uc81c\uc655 \uc6d0\uc2dc\uc0ac\uc2b4",
+    "zh_TW": "\u7070\u767d\u5e1d\u738b\u539f\u9e7f",
+    "zh_CN": "\u7070\u767d\u7687\u5bb6\u5143\u9e7f"
+  },
+  "description_blz": {}
 }

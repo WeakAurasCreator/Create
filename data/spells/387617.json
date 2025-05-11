@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387617"
+  "SpellID": "387617",
+  "name_blz": {
+    "en_US": "Boon of the Covenants",
+    "es_MX": "Favor de los pactos",
+    "pt_BR": "B\u00ean\u00e7\u00e3o dos Pactos",
+    "de_DE": "Segen der Pakte",
+    "en_GB": "Boon of the Covenants",
+    "es_ES": "Favor de las curias",
+    "fr_FR": "Faveur des congr\u00e9gations",
+    "it_IT": "Dono delle Congreghe",
+    "ru_RU": "\u0414\u0430\u0440 \u043a\u043e\u0432\u0435\u043d\u0430\u043d\u0442\u043e\u0432",
+    "ko_KR": "\uc131\uc57d\uc758 \ub2e8\uc758 \uc740\ud61c",
+    "zh_TW": "\u8a93\u76df\u7684\u6069\u6fa4",
+    "zh_CN": "\u76df\u7ea6\u6069\u6cfd"
+  },
+  "description_blz": {
+    "en_US": "Call upon the Covenants of the Shadowlands to aid you, restoring 33,204 health and increasing your Versatility by 10% for 12 sec.\r\n\r\nPassive: The Covenants have granted you a portion of their power, increasing your damage and healing by 4.0%.",
+    "es_MX": "Invoca la ayuda de los pactos de las Tierras de las Sombras, lo que restaura 33,204 p. de salud y aumenta un 10% tu versatilidad durante 12 s.\r\n\r\nPasivo: Los pactos te han otorgado una parte de su poder, lo que aumenta tu da\u00f1o y sanaci\u00f3n un 4.0%.",
+    "pt_BR": "Convoca os Pactos das Terras Sombrias para ajudar voc\u00ea, restaurando 33.204 pontos de vida e aumentando em 10% sua Versatilidade por 12 s.\r\n\r\nPassivo: Os Pactos concedem uma por\u00e7\u00e3o do poder deles, aumentando em 4,0% seu dano e sua cura.",
+    "de_DE": "Ruft die Pakte der Schattenlande zu Hilfe, stellt 33.204 Gesundheit wieder her und erh\u00f6ht Eure Vielseitigkeit 12 Sek. lang um 10%.\r\n\r\nPassiv: Die Pakte haben Euch einen Teil ihrer Macht gew\u00e4hrt, was Euren Schaden und Eure Heilung um 4,0% erh\u00f6ht.",
+    "en_GB": "Call upon the Covenants of the Shadowlands to aid you, restoring 33,204 health and increasing your Versatility by 10% for 12 sec.\r\n\r\nPassive: The Covenants have granted you a portion of their power, increasing your damage and healing by 4.0%.",
+    "es_ES": "Invoca a las curias de las Tierras Sombr\u00edas para que te ayuden, lo que te permite recuperar 33204 p. de salud y aumenta 10% tu versatilidad un durante 12 s.\r\n\r\nPasivo: Las curias te han otorgado parte de su poder, lo que aumenta un 4,0% tu da\u00f1o y sanaci\u00f3n.",
+    "fr_FR": "Vous appelez les congr\u00e9gations de l\u2019Ombreterre \u00e0 votre aide, ce qui vous rend 33204\u00a0points de vie et augmente votre Polyvalence de 10% pendant 12 s.\r\n\r\nPassif\u00a0: les congr\u00e9gations vous conf\u00e8rent une partie de leur puissance, ce qui augmente vos d\u00e9g\u00e2ts et vos soins de 4,0%.",
+    "it_IT": "Le Congreghe delle Terretetre offrono il proprio aiuto, rigenerando 33.204 salute e aumentando la versatilit\u00e0 del 10% per 12 s.\r\n\r\nPassivo: le Congreghe offrono una parte del proprio potere, aumentando i danni inflitti e le cure fornite del 4,0%.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c \u043a\u043e\u0432\u0435\u043d\u0430\u043d\u0442\u044b \u0422\u0435\u043c\u043d\u044b\u0445 \u0417\u0435\u043c\u0435\u043b\u044c, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f 33204 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043d\u0430 10% \u043d\u0430 12 \u0441\u0435\u043a.\r\n\r\n\u041f\u0430\u0441\u0441\u0438\u0432\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442: \u043a\u043e\u0432\u0435\u043d\u0430\u043d\u0442\u044b \u0434\u0430\u0440\u0443\u044e\u0442 \u0432\u0430\u043c \u0447\u0430\u0441\u0442\u044c \u0441\u0432\u043e\u0435\u0439 \u0441\u0438\u043b\u044b, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0443\u0440\u043e\u043d \u0438 \u0441\u0438\u043b\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043d\u0430 4,0%.",
+    "ko_KR": "\uc5b4\ub460\ub545 \uc131\uc57d\uc758 \ub2e8\uc744 \ubd88\ub7ec\ub0b4 \ub3c4\uc6c0\uc744 \ubc1b\uc2b5\ub2c8\ub2e4. 33,204\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud558\uace0 12\ucd08 \ub3d9\uc548 \uc720\uc5f0\uc131\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc9c0\uc18d\ud6a8\uacfc: \uc131\uc57d\uc758 \ub2e8\uc73c\ub85c\ubd80\ud130 \ud798 \uc77c\ubd80\ub97c \ubc1b\uc544 \uacf5\uaca9\ub825\uacfc \uce58\uc720\ub7c9\uc774 4.0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u547c\u53eb\u6697\u5f71\u4e4b\u5883\u7684\u8a93\u76df\u4f86\u652f\u63f4\u4f60\uff0c\u6062\u5fa933,204\u9ede\u751f\u547d\u529b\uff0c\u4e26\u4f7f\u4f60\u7684\u81e8\u6a5f\u61c9\u8b8a\u63d0\u9ad810%\uff0c\u6301\u7e8c12\u79d2\u3002\r\n\r\n\u88ab\u52d5\uff1a\u8a93\u76df\u8ce6\u4e88\u4f60\u4e00\u90e8\u5206\u7684\u529b\u91cf\uff0c\u4f7f\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u548c\u6cbb\u7642\u6548\u679c\u63d0\u9ad84.0%\u3002",
+    "zh_CN": "\u53ec\u5524\u6697\u5f71\u754c\u7684\u76df\u7ea6\u524d\u6765\u76f8\u52a9\uff0c\u6062\u590d33,204\u70b9\u751f\u547d\u503c\uff0c\u5e76\u4f7f\u4f60\u7684\u5168\u80fd\u63d0\u9ad810%\uff0c\u6301\u7eed12\u79d2\u3002\r\n\r\n\u88ab\u52a8\uff1a\u76df\u7ea6\u5c06\u5176\u529b\u91cf\u7684\u4e00\u90e8\u5206\u8d60\u4e88\u4e86\u4f60\uff0c\u4f7f\u4f60\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u6548\u679c\u63d0\u9ad84.0%\u3002"
+  }
 }

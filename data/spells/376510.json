@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376510"
+  "SpellID": "376510",
+  "name_blz": {
+    "en_US": "Vibrant Wildercloth Shawl",
+    "es_MX": "Chal de tela salvaje vibrante",
+    "pt_BR": "Xale de Selvatrama Vibrante",
+    "de_DE": "Schillernder Wildstoffschal",
+    "en_GB": "Vibrant Wildercloth Shawl",
+    "es_ES": "Chal de tela salvaje vibrante",
+    "fr_FR": "Ch\u00e2le en trame-sauvage chatoyante",
+    "it_IT": "Scialle di Stoffabrada Vibrante",
+    "ru_RU": "\u042f\u0440\u043a\u0430\u044f \u043f\u0435\u043b\u0435\u0440\u0438\u043d\u0430 \u0438\u0437 \u0442\u043a\u0430\u043d\u0438 \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc601\ub871\ud55c \uc57c\uc0dd\ucc9c \uc5b4\uae68\ub9dd\ud1a0",
+    "zh_TW": "\u9bae\u4eae\u8352\u7d0b\u5e03\u62ab\u5dfe",
+    "zh_CN": "\u751f\u673a\u8352\u5e03\u7eb1\u5dfe"
+  },
+  "description_blz": {}
 }

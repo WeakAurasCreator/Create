@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364691"
+  "SpellID": "364691",
+  "name_blz": {
+    "en_US": "Prototickles",
+    "es_MX": "Protocosquillas",
+    "pt_BR": "Protocosquinha",
+    "de_DE": "Protoprickler",
+    "en_GB": "Prototickles",
+    "es_ES": "Protocosquillas",
+    "fr_FR": "Protofilament",
+    "it_IT": "Protolletico",
+    "ru_RU": "\u041f\u0440\u043e\u0442\u043e\u0449\u0435\u043a\u043e\u0442\u043e\u043a",
+    "ko_KR": "\uc6d0\uc2dc\ud1a1\ud1a1\uc774",
+    "zh_TW": "\u539f\u578b\u89f8\u624b\u602a",
+    "zh_CN": "\u539f\u578b\u4e4b\u75d2"
+  },
+  "description_blz": {}
 }

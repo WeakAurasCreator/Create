@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383535"
+  "SpellID": "383535",
+  "name_blz": {
+    "en_US": "Emberscale Sigil",
+    "es_MX": "Sigilo escamas de ascuas",
+    "pt_BR": "Signo da Escama de Brasa",
+    "de_DE": "Glutschuppensiegel",
+    "en_GB": "Emberscale Sigil",
+    "es_ES": "Sigilo de escamas de ascuas",
+    "fr_FR": "Cachet \u00e9cailles-de-braise",
+    "it_IT": "Sigillo di Scaglie Ardenti",
+    "ru_RU": "\u041f\u0435\u0447\u0430\u0442\u044c \u043f\u0435\u043f\u0435\u043b\u044c\u043d\u043e\u0439 \u0447\u0435\u0448\u0443\u0438",
+    "ko_KR": "\uc7bf\ubd88\ube44\ub298 \uc778\uc7a5",
+    "zh_TW": "\u71fc\u9c57\u7b26\u5370",
+    "zh_CN": "\u7070\u70ec\u9cde\u7247\u5fbd\u8bb0"
+  },
+  "description_blz": {}
 }

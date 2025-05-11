@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "370730"
+  "SpellID": "370730",
+  "name_blz": {
+    "en_US": "Brood Salt",
+    "es_MX": "Sal de cr\u00eda",
+    "pt_BR": "Sal da Ninhada",
+    "de_DE": "Brutsalz",
+    "en_GB": "Brood Salt",
+    "es_ES": "Sal de linaje",
+    "fr_FR": "Sel de couv\u00e9e",
+    "it_IT": "Sale della Stirpe",
+    "ru_RU": "\u041f\u043b\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0441\u043e\u043b\u044c",
+    "ko_KR": "\ud608\uc871\uc758 \uc5fc\ubd84",
+    "zh_TW": "\u88d4\u9e7d",
+    "zh_CN": "\u9f99\u5de2\u4e4b\u76d0"
+  },
+  "description_blz": {}
 }

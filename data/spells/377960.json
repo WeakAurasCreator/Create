@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "377960"
+  "SpellID": "377960",
+  "name_blz": {
+    "en_US": "Split-Lens Specs",
+    "es_MX": "Gafas de medialuna",
+    "pt_BR": "\u00d3culos de Lente Dividida",
+    "de_DE": "Halbglasbrille",
+    "en_GB": "Split-Lens Specs",
+    "es_ES": "Gafas de lentes partidas",
+    "fr_FR": "Binocles \u00e0 double foyer",
+    "it_IT": "Occhiali con Lenti Separate",
+    "ru_RU": "\u041e\u0447\u043a\u0438 \u0441 \u0434\u0432\u0443\u0445\u0446\u0432\u0435\u0442\u043d\u044b\u043c\u0438 \u043b\u0438\u043d\u0437\u0430\u043c\u0438",
+    "ko_KR": "\ubd84\uc5f4 \ub80c\uc988 \uc548\uacbd",
+    "zh_TW": "\u5c0d\u5207\u900f\u93e1\u7784\u6e96\u93e1",
+    "zh_CN": "\u5206\u5149\u773c\u955c"
+  },
+  "description_blz": {}
 }

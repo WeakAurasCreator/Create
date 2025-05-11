@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365051"
+  "SpellID": "365051",
+  "name_blz": {
+    "en_US": "Mawdapted Raptora",
+    "es_MX": "Raptora fauceliente",
+    "pt_BR": "Rapinante Adaptada \u00e0 Gorja",
+    "de_DE": "Schlundadaptierter Raptora",
+    "en_GB": "Mawdapted Raptora",
+    "es_ES": "Accip\u00edtrido adaptado de Las Fauces",
+    "fr_FR": "Raptora antradapt\u00e9",
+    "it_IT": "Falconide Adattato alla Fauce",
+    "ru_RU": "\u0420\u0430\u043f\u0442\u043e\u0440\u0430 \u0423\u0442\u0440\u043e\u0431\u044b",
+    "ko_KR": "\ub098\ub77d\uc5d0 \uc801\uc751\ud55c \uc721\uc2dd\uc870",
+    "zh_TW": "\u9069\u6df5\u539f\u9df9",
+    "zh_CN": "\u6297\u6e0a\u5143\u9e70"
+  },
+  "description_blz": {}
 }

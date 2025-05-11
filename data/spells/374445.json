@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374445"
+  "SpellID": "374445",
+  "name_blz": {
+    "en_US": "Deadly Alexstraszite",
+    "es_MX": "Alexstracita letal",
+    "pt_BR": "Alexstraszita Mortal",
+    "de_DE": "T\u00f6dlicher Alexstraszit",
+    "en_GB": "Deadly Alexstraszite",
+    "es_ES": "Alexstraszita mortal",
+    "fr_FR": "Alexstraszite mortelle",
+    "it_IT": "Alexstraszite Letale",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u044b\u0439 \u0430\u043b\u0435\u043a\u0441\u0442\u0440\u0430\u0437\u0438\u0442",
+    "ko_KR": "\uce58\uba85\uc801\uc778 \uc54c\ub809\uc2a4\ud2b8\ub77c\uc790\uc774\ud2b8",
+    "zh_TW": "\u81f4\u547d\u7684\u96c5\u7acb\u53f2\u7d05\u6676",
+    "zh_CN": "\u81f4\u547d\u7684\u963f\u83b1\u514b\u4e1d\u5854\u8428\u4e4b\u7389"
+  },
+  "description_blz": {}
 }

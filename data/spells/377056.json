@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "377056"
+  "SpellID": "377056",
+  "name_blz": {
+    "en_US": "Biting Cold",
+    "es_MX": "Fr\u00edo cortante",
+    "pt_BR": "Frio Penetrante",
+    "de_DE": "Bei\u00dfende K\u00e4lte",
+    "en_GB": "Biting Cold",
+    "es_ES": "Fr\u00edo cortante",
+    "fr_FR": "Froid mordant",
+    "it_IT": "Freddo Pungente",
+    "ru_RU": "\u0422\u0440\u0435\u0441\u043a\u0443\u0447\u0438\u0439 \u043c\u043e\u0440\u043e\u0437",
+    "ko_KR": "\ub9e4\uc11c\uc6b4 \ucd94\uc704",
+    "zh_TW": "\u523a\u9aa8\u4e4b\u5bd2",
+    "zh_CN": "\u523a\u9aa8\u4e4b\u5bd2"
+  },
+  "description_blz": {
+    "en_US": "Remorseless Winter damage is increased by 35%. The first time Remorseless Winter deals damage to 3 different enemies, you gain Rime.",
+    "es_MX": "Aumenta un 35% el da\u00f1o de Invierno sin remordimientos. La primera vez que Invierno sin remordimientos inflige da\u00f1o a 3 enemigos diferentes, obtienes Helada blanca.",
+    "pt_BR": "O dano de Inverno Impiedoso aumenta em 35%. Na primeira vez que Inverno Impiedoso causa dano a 3 inimigos, voc\u00ea ganha Geada.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Unbarmherziger Winter' um 35%. Wenn 'Unbarmherziger Winter' zum ersten Mal 3 verschiedenen Gegnern Schaden zuf\u00fcgt, erhaltet Ihr 'Raureif'.",
+    "en_GB": "Remorseless Winter damage is increased by 35%. The first time Remorseless Winter deals damage to 3 different enemies, you gain Rime.",
+    "es_ES": "El da\u00f1o de Invierno sin remordimientos aumenta un 35%. La primera vez que Invierno sin remordimientos inflige da\u00f1o a 3 enemigos distintos, obtienes Helada blanca.",
+    "fr_FR": "Les d\u00e9g\u00e2ts d\u2019Hiver impitoyable sont augment\u00e9s de 35%. Vous gagnez Frimas la premi\u00e8re fois que cette technique inflige des d\u00e9g\u00e2ts \u00e0 3\u00a0adversaires diff\u00e9rents.",
+    "it_IT": "Aumenta i danni inflitti da Inverno Spietato del 35%. La prima volta che Inverno Spietato infligge danni a 3 nemici diversi, attiva Brina.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0411\u0435\u0441\u043f\u043e\u0449\u0430\u0434\u043d\u043e\u0441\u0442\u0438 \u0437\u0438\u043c\u044b\" \u043d\u0430 35%. \u041a\u043e\u0433\u0434\u0430 \"\u0411\u0435\u0441\u043f\u043e\u0449\u0430\u0434\u043d\u043e\u0441\u0442\u044c \u0437\u0438\u043c\u044b\" \u0432 \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d 3 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c, \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \"\u0418\u043d\u0435\u0439\".",
+    "ko_KR": "\ub0c9\ud639\ud55c \uaca8\uc6b8\uc758 \uacf5\uaca9\ub825\uc774 35%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. 3\uba85\uc758 \ub2e4\ub978 \uc801\uc5d0\uac8c \ucc98\uc74c\uc73c\ub85c \ub0c9\ud639\ud55c \uaca8\uc6b8\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \ub2e8\ub2e8\ud55c \uc5bc\uc74c \ud6a8\uacfc\ub97c \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u51b7\u9177\u51dc\u51ac\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad835%\u3002\u51b7\u9177\u51dc\u51ac\u5c0d3\u540d\u4e0d\u540c\u6575\u4eba\u7b2c\u4e00\u6b21\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u4f60\u7372\u5f97\u51dd\u971c\u3002",
+    "zh_CN": "\u51b7\u9177\u4e25\u51ac\u7684\u4f24\u5bb3\u63d0\u9ad835%\u3002\u51b7\u9177\u4e25\u51ac\u9996\u6b21\u5bf93\u540d\u4e0d\u540c\u7684\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u540e\uff0c\u4f60\u83b7\u5f97\u767d\u971c\u6548\u679c\u3002"
+  }
 }

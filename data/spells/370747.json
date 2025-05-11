@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "370747"
+  "SpellID": "370747",
+  "name_blz": {
+    "en_US": "Advanced Phial Experimentation",
+    "es_MX": "Experimentaci\u00f3n con ampollas avanzada",
+    "pt_BR": "Experimento Avan\u00e7ado com Frasco",
+    "de_DE": "Fortgeschrittene Phiolenexperimente",
+    "en_GB": "Advanced Phial Experimentation",
+    "es_ES": "Experimentaci\u00f3n avanzada con ampollas",
+    "fr_FR": "Exp\u00e9rimentation avec flasque avanc\u00e9e",
+    "it_IT": "Fiala Sperimentale Avanzata",
+    "ru_RU": "\u041f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u044b\u0435 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u044b (\u0444\u043b\u0430\u043a\u043e\u043d\u044b)",
+    "ko_KR": "\uace0\uae09 \uc57d\ubcd1 \uc2e4\ud5d8",
+    "zh_TW": "\u9032\u968e\u85e5\u74f6\u5be6\u9a57",
+    "zh_CN": "\u9ad8\u7ea7\u74f6\u5242\u5b9e\u9a8c"
+  },
+  "description_blz": {
+    "en_US": "Experiment with volatile reagents in hopes of discovering new phial recipes.",
+    "es_MX": "Experimenta con componentes vol\u00e1tiles con la esperanza de descubrir nuevas recetas de ampollas.",
+    "pt_BR": "Fa\u00e7a experimentos com reagentes vol\u00e1teis para descobrir novas receitas de frascos.",
+    "de_DE": "Experimentiert mit instabilen Reagenzien in der Hoffnung, neue Phiolenrezepte zu entdecken.",
+    "en_GB": "Experiment with volatile reagents in hopes of discovering new phial recipes.",
+    "es_ES": "Experimenta con componentes vol\u00e1tiles con la esperanza de descubrir nuevas recetas de ampollas.",
+    "fr_FR": "Permet de faire des exp\u00e9riences avec des composants instables dans l\u2019espoir de d\u00e9couvrir de nouvelles recettes de flasques.",
+    "it_IT": "Sperimenta con reagenti instabili nella speranza di scoprire nuove ricette di fiale.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442 \u0441 \u043d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u043c\u0438 \u0440\u0435\u0430\u0433\u0435\u043d\u0442\u0430\u043c\u0438, \u0447\u0442\u043e\u0431\u044b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0440\u0435\u0446\u0435\u043f\u0442\u044b \u0444\u043b\u0430\u043a\u043e\u043d\u043e\u0432.",
+    "ko_KR": "\uc0c8\ub85c\uc6b4 \uc57d\ubcd1 \uc870\uc81c\ubc95\uc744 \uc54c\uc544\ub0b4\ub824\uba74 \ubd88\uc548\uc815\ud55c \uc7ac\ub8cc\ub85c \uc2e4\ud5d8\uc744 \uc9c4\ud589\ud574\uc57c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9032\u884c\u7206\u71c3\u6750\u6599\u7684\u76f8\u95dc\u5be6\u9a57\uff0c\u671f\u671b\u767c\u73fe\u65b0\u7684\u85e5\u74f6\u914d\u65b9\u3002",
+    "zh_CN": "\u7528\u70c8\u6027\u7684\u539f\u6599\u8fdb\u884c\u8bd5\u9a8c\uff0c\u5e0c\u671b\u53d1\u73b0\u65b0\u7684\u74f6\u5242\u914d\u65b9\u3002"
+  }
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382365"
+  "SpellID": "382365",
+  "name_blz": {
+    "en_US": "Completely Safe Rockets",
+    "es_MX": "Cohetes absolutamente seguros",
+    "pt_BR": "Foguetes Completamente Seguros",
+    "de_DE": "Vollkommen sichere Raketen",
+    "en_GB": "Completely Safe Rockets",
+    "es_ES": "Cohetes totalmente seguros",
+    "fr_FR": "Roquettes parfaitement s\u00fbres",
+    "it_IT": "Razzi Assolutamente Sicuri",
+    "ru_RU": "\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0435 \u0440\u0430\u043a\u0435\u0442\u044b",
+    "ko_KR": "\uc804\uc801\uc73c\ub85c \uc548\uc804\ud55c \ub85c\ucf13",
+    "zh_TW": "\u8d85\u5b89\u5168\u706b\u7bad",
+    "zh_CN": "\u7edd\u5bf9\u5b89\u5168\u7684\u706b\u7bad"
+  },
+  "description_blz": {}
 }

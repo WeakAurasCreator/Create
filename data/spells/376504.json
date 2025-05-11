@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376504"
+  "SpellID": "376504",
+  "name_blz": {
+    "en_US": "Chronocloth Leggings",
+    "es_MX": "Leotardos de cronotela",
+    "pt_BR": "Perneiras de Cronotrama",
+    "de_DE": "Chronostoffgamaschen",
+    "en_GB": "Chronocloth Leggings",
+    "es_ES": "Leotardos de cronotela",
+    "fr_FR": "Jambi\u00e8res en \u00e9toffe-du-temps",
+    "it_IT": "Gambiere di Cronostoffa",
+    "ru_RU": "\u041f\u043e\u043d\u043e\u0436\u0438 \u0438\u0437 \u0445\u0440\u043e\u043d\u043e\u0442\u043a\u0430\u043d\u0438",
+    "ko_KR": "\uc2dc\uac04\ucc9c \ub2e4\ub9ac\ubcf4\ud638\uad6c",
+    "zh_TW": "\u6642\u7e54\u5e03\u8b77\u817f",
+    "zh_CN": "\u65f6\u5e8f\u5e03\u62a4\u817f"
+  },
+  "description_blz": {}
 }

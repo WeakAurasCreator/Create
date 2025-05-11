@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364699"
+  "SpellID": "364699",
+  "name_blz": {
+    "en_US": "Viperid Menace",
+    "es_MX": "Amenaza vip\u00e9rida",
+    "pt_BR": "Amea\u00e7a Viper\u00eddea",
+    "de_DE": "Plageviperid",
+    "en_GB": "Viperid Menace",
+    "es_ES": "Amenaza vip\u00e9rida",
+    "fr_FR": "Vip\u00e9rid\u00e9 mena\u00e7ant",
+    "it_IT": "Viperide Minaccioso",
+    "ru_RU": "\u0423\u0433\u0440\u043e\u0436\u0430\u044e\u0449\u0438\u0439 \u0432\u0438\u043f\u0435\u0440\u0438\u0434",
+    "ko_KR": "\uc704\ud611\uc801\uc778 \uc6d0\uc2dc\ubc40",
+    "zh_TW": "\u539f\u86c7\u5a01\u8105\u8005",
+    "zh_CN": "\u6050\u5413\u5143\u86c7"
+  },
+  "description_blz": {}
 }

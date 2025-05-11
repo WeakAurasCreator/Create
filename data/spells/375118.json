@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375118"
+  "SpellID": "375118",
+  "name_blz": {
+    "en_US": "Flame-Touched Treads",
+    "es_MX": "Botines tocados por las llamas",
+    "pt_BR": "Botinas Flam\u00edgeras",
+    "de_DE": "Flammenber\u00fchrte Treter",
+    "en_GB": "Flame-Touched Treads",
+    "es_ES": "Botines tocados por las llamas",
+    "fr_FR": "Bottines touch\u00e9es par les flammes",
+    "it_IT": "Stivaletti Toccati dalla Fiamma",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u044b\u0435 \u0431\u043e\u0442\u0444\u043e\u0440\u0442\u044b",
+    "ko_KR": "\ubd88\uae38\uc5d0 \ubb3c\ub4e0 \ubc1c\ubcf4\ud638\ub300",
+    "zh_TW": "\u70c8\u7130\u4e4b\u64c1\u8db3\u9774",
+    "zh_CN": "\u7130\u89e6\u4fbf\u978b"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "362790"
+  "SpellID": "362790",
+  "name_blz": {
+    "en_US": "Language Glyphic 2",
+    "es_MX": "Idioma gl\u00edfico 2",
+    "pt_BR": "L\u00edngua Gl\u00edfica 2",
+    "de_DE": "Sprache: Glyphisch 2",
+    "en_GB": "Language Glyphic 2",
+    "es_ES": "Idioma gl\u00edfico II",
+    "fr_FR": "Langage glyphique\u00a02",
+    "it_IT": "Lingua Glifica 2",
+    "ru_RU": "\u042f\u0437\u044b\u043a \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 2",
+    "ko_KR": "\uc5b8\uc5b4 \uc0c1\ud615 \ubb38\uc790 2",
+    "zh_TW": "\u8a9e\u8a00\u96d5\u7d0b2",
+    "zh_CN": "\u8c61\u5f62\u6587\u5b57 2"
+  },
+  "description_blz": {}
 }

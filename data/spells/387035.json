@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387035"
+  "SpellID": "387035",
+  "name_blz": {
+    "en_US": "Fundamental Observation",
+    "es_MX": "Observaci\u00f3n fundamental",
+    "pt_BR": "Observa\u00e7\u00e3o Fundamental",
+    "de_DE": "Der Blick f\u00fcr das Wesentliche",
+    "en_GB": "Fundamental Observation",
+    "es_ES": "Observaci\u00f3n fundamental",
+    "fr_FR": "Observation fondamentale",
+    "it_IT": "Osservazione Fondamentale",
+    "ru_RU": "\u0424\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f",
+    "ko_KR": "\uadfc\ubcf8\uc758 \uad00\ucc30",
+    "zh_TW": "\u660e\u5bdf\u79cb\u6beb",
+    "zh_CN": "\u539f\u521d\u89c2\u5bdf\u5668"
+  },
+  "description_blz": {
+    "en_US": "Zen Meditation has 25% reduced cooldown and is no longer cancelled when you move or when you are hit by melee attacks.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Meditaci\u00f3n zen se reduce un 25%, y el hechizo ya no se cancela cuando te mueves o recibes ataques cuerpo a cuerpo.",
+    "pt_BR": "Medita\u00e7\u00e3o Zen tem 25% a menos de recarga e n\u00e3o ser\u00e1 cancelada quando voc\u00ea se mover ou for atingido por ataques corpo a corpo.",
+    "de_DE": "'Zenmeditation' klingt 25% schneller ab und wird nicht mehr durch Bewegung oder erlittene Nahkampftreffer abgebrochen.",
+    "en_GB": "Zen Meditation has 25% reduced cooldown and is no longer cancelled when you move or when you are hit by melee attacks.",
+    "es_ES": "Meditaci\u00f3n zen tiene un 25% menos de tiempo de reutilizaci\u00f3n y ya no se cancela cuando te mueves o cuando recibes un golpe cuerpo a cuerpo.",
+    "fr_FR": "M\u00e9ditation zen voit son temps de recharge r\u00e9duit de 25% et persiste d\u00e9sormais quand vous vous d\u00e9placez ou si vous \u00eates touch\u00e9 par des attaques de m\u00eal\u00e9e.",
+    "it_IT": "Riduce il tempo di recupero di Meditazione Zen del 25%. Inoltre, l'effetto non viene interrotto quando ci si muove o si subiscono degli attacchi in mischia.",
+    "ru_RU": "\"\u0414\u0437\u0435\u043d-\u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f\" \u0438\u043c\u0435\u0435\u0442 \u043d\u0430 25% \u043c\u0435\u043d\u044c\u0448\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0438 \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0441\u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0435\u0441\u044c \u0441 \u043c\u0435\u0441\u0442\u0430 \u0438\u043b\u0438 \u0432\u0430\u0441 \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0430\u044f \u0430\u0442\u0430\u043a\u0430 \u0432 \u0431\u043b\u0438\u0436\u043d\u0435\u043c \u0431\u043e\u044e.",
+    "ko_KR": "\uba85\uc0c1\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 25%\ub9cc\ud07c \uac10\uc18c\ud558\uace0, \uc6c0\uc9c1\uc774\uac70\ub098 \uadfc\uc811 \uacf5\uaca9\uc744 \ubc1b\uc544\ub3c4 \ucde8\uc18c\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u51a5\u601d\u79aa\u529f\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed25%\uff0c\u4e14\u4e0d\u518d\u56e0\u4f60\u79fb\u52d5\u6216\u53d7\u5230\u8fd1\u6230\u653b\u64ca\u800c\u4e2d\u65b7\u3002",
+    "zh_CN": "\u7985\u609f\u51a5\u60f3\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed25%\uff0c\u4e14\u79fb\u52a8\u6216\u906d\u53d7\u8fd1\u6218\u653b\u51fb\u4e0d\u4f1a\u518d\u53d6\u6d88\u7985\u609f\u51a5\u60f3\u3002"
+  }
 }

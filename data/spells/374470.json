@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374470"
+  "SpellID": "374470",
+  "name_blz": {
+    "en_US": "Resplendent Illimited Diamond",
+    "es_MX": "Diamante ilimitado resplandeciente",
+    "pt_BR": "Diamante Ilimitado Resplandecente",
+    "de_DE": "Prunkvoller Endlosdiamant",
+    "en_GB": "Resplendent Illimited Diamond",
+    "es_ES": "Diamante ilimitado rutilante",
+    "fr_FR": "Diamant insondable resplendissant",
+    "it_IT": "Diamante Illimitato Risplendente",
+    "ru_RU": "\u0413\u043b\u044f\u043d\u0446\u0435\u0432\u044b\u0439 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0430\u043b\u043c\u0430\u0437",
+    "ko_KR": "\ubc18\ub4e4\ubc18\ub4e4\ud55c \ubb34\ud55c\uc758 \ub2e4\uc774\uc544\ubaac\ub4dc",
+    "zh_TW": "\u7480\u74a8\u7684\u7121\u9650\u947d\u77f3",
+    "zh_CN": "\u707f\u70c2\u65e0\u9650\u94bb\u77f3"
+  },
+  "description_blz": {}
 }

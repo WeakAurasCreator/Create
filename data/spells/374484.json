@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374484"
+  "SpellID": "374484",
+  "name_blz": {
+    "en_US": "Pounce",
+    "es_MX": "Polvillo secante",
+    "pt_BR": "Boneca de Desenho",
+    "de_DE": "Schreibsand",
+    "en_GB": "Pounce",
+    "es_ES": "Garra",
+    "fr_FR": "Bond f\u00e9roce",
+    "it_IT": "Polverino",
+    "ru_RU": "\u0423\u0433\u043e\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0440\u043e\u0448\u043e\u043a",
+    "ko_KR": "\uac00\ub8e8",
+    "zh_TW": "\u5438\u58a8\u7c89",
+    "zh_CN": "\u5438\u58a8\u7c89"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "361948"
+  "SpellID": "361948",
+  "name_blz": {
+    "en_US": "Language Verbal I",
+    "es_MX": "Idioma verbal I",
+    "pt_BR": "Idioma Verbal I",
+    "de_DE": "Sprache: Verbal I",
+    "en_GB": "Language Verbal I",
+    "es_ES": "Verbal de idioma I",
+    "fr_FR": "Langage verbal\u00a0I",
+    "it_IT": "Lingua Verbale I",
+    "ru_RU": "\u0412\u0435\u0440\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u044f\u0437\u044b\u043a I",
+    "ko_KR": "\uc5b8\uc5b4 \uad6c\uc220 I",
+    "zh_TW": "\u8a9e\u8a00\u53e3\u8a9eI",
+    "zh_CN": "\u53e3\u8bed I"
+  },
+  "description_blz": {}
 }

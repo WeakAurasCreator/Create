@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376518"
+  "SpellID": "376518",
+  "name_blz": {
+    "en_US": "Vibrant Wildercloth Wristwraps",
+    "es_MX": "Cubremu\u00f1ecas de tela salvaje vibrante",
+    "pt_BR": "Munhecas de Selvatrama Vibrante",
+    "de_DE": "Schillernde Wildstoffgelenkb\u00e4nder",
+    "en_GB": "Vibrant Wildercloth Wristwraps",
+    "es_ES": "Cubremu\u00f1ecas de tela salvaje vibrante",
+    "fr_FR": "Bandelettes en trame-sauvage chatoyante",
+    "it_IT": "Bracciali Leggeri di Stoffabrada Vibrante",
+    "ru_RU": "\u042f\u0440\u043a\u0438\u0435 \u043d\u0430\u043f\u0443\u043b\u044c\u0441\u043d\u0438\u043a\u0438 \u0438\u0437 \u0442\u043a\u0430\u043d\u0438 \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc601\ub871\ud55c \uc57c\uc0dd\ucc9c \uc190\ubaa9\uc2f8\uac1c",
+    "zh_TW": "\u9bae\u4eae\u8352\u7d0b\u5e03\u88f9\u8155",
+    "zh_CN": "\u751f\u673a\u8352\u5e03\u88f9\u8155"
+  },
+  "description_blz": {}
 }

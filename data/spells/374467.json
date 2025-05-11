@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374467"
+  "SpellID": "374467",
+  "name_blz": {
+    "en_US": "Fierce Illimited Diamond",
+    "es_MX": "Diamante ilimitado feroz",
+    "pt_BR": "Diamante Ilimitado Ferino",
+    "de_DE": "Wilder Endlosdiamant",
+    "en_GB": "Fierce Illimited Diamond",
+    "es_ES": "Diamante ilimitado fiero",
+    "fr_FR": "Diamant insondable f\u00e9roce",
+    "it_IT": "Diamante Illimitato Feroce",
+    "ru_RU": "\u0411\u0440\u043e\u0441\u043a\u0438\u0439 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0430\u043b\u043c\u0430\u0437",
+    "ko_KR": "\uc774\uae00\uac70\ub9ac\ub294 \ubb34\ud55c\uc758 \ub2e4\uc774\uc544\ubaac\ub4dc",
+    "zh_TW": "\u71be\u70c8\u7684\u7121\u9650\u947d\u77f3",
+    "zh_CN": "\u51f6\u731b\u65e0\u9650\u94bb\u77f3"
+  },
+  "description_blz": {}
 }

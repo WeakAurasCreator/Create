@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "371366"
+  "SpellID": "371366",
+  "name_blz": {
+    "en_US": "Khaz'gorite Pickaxe",
+    "es_MX": "Piqueta de khaz'gorita",
+    "pt_BR": "Picareta de Khaz'gorita",
+    "de_DE": "Khaz'goritspitzhacke",
+    "en_GB": "Khaz'gorite Pickaxe",
+    "es_ES": "Piqueta de khaz'gorita",
+    "fr_FR": "Pioche en khaz\u2019gorite",
+    "it_IT": "Piccone di Khaz'gorite",
+    "ru_RU": "\u041a\u0430\u0437'\u0433\u043e\u0440\u0438\u0442\u043e\u0432\u0430\u044f \u043a\u0438\u0440\u043a\u0430",
+    "ko_KR": "\uce74\uc988\uace0\ub77c\uc774\ud2b8 \uace1\uad2d\uc774",
+    "zh_TW": "\u5361\u8332\u683c\u7f85\u5ca9\u93ac",
+    "zh_CN": "\u5361\u5179\u683c\u7f57\u91d1\u77ff\u9550"
+  },
+  "description_blz": {}
 }

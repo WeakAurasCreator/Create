@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "362791"
+  "SpellID": "362791",
+  "name_blz": {
+    "en_US": "Language Interface 1",
+    "es_MX": "Idioma de interfaz 1",
+    "pt_BR": "Interface de Idioma 1",
+    "de_DE": "Sprache: Schnittstelle 1",
+    "en_GB": "Language Interface 1",
+    "es_ES": "Interfaz de idioma I",
+    "fr_FR": "Interface linguistique\u00a01",
+    "it_IT": "Lingua Interfaccia 1",
+    "ru_RU": "\u042f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 1",
+    "ko_KR": "\uc5b8\uc5b4 \uc778\ud130\ud398\uc774\uc2a4 1",
+    "zh_TW": "\u8a9e\u8a00\u4ecb\u97621",
+    "zh_CN": "\u754c\u9762\u8bed\u8a00 1"
+  },
+  "description_blz": {}
 }

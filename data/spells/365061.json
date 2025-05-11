@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365061"
+  "SpellID": "365061",
+  "name_blz": {
+    "en_US": "Patient Bufonid",
+    "es_MX": "Buf\u00f3nido paciente",
+    "pt_BR": "Bufon\u00eddeo Paciente",
+    "de_DE": "Geduldiger Bufonid",
+    "en_GB": "Patient Bufonid",
+    "es_ES": "Buf\u00f3nido paciente",
+    "fr_FR": "Bufonid\u00e9 patient",
+    "it_IT": "Bufonide Paziente",
+    "ru_RU": "\u0422\u0435\u0440\u043f\u0435\u043b\u0438\u0432\u044b\u0439 \u0431\u0443\u0444\u043e\u043d\u0438\u0434",
+    "ko_KR": "\uc778\ub0b4\uc2ec\uc774 \ub9ce\uc740 \uc6d0\uc2dc\ub450\uaebc\ube44",
+    "zh_TW": "\u6709\u8010\u5fc3\u7684\u539f\u87fe",
+    "zh_CN": "\u8010\u5fc3\u7684\u5143\u87fe"
+  },
+  "description_blz": {}
 }

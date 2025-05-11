@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386620"
+  "SpellID": "386620",
+  "name_blz": {
+    "en_US": "Sweet Souls",
+    "es_MX": "Almas dulces",
+    "pt_BR": "Almas Doces",
+    "de_DE": "S\u00fc\u00dfe Seelen",
+    "en_GB": "Sweet Souls",
+    "es_ES": "Dulces almas",
+    "fr_FR": "\u00c2mes aimables",
+    "it_IT": "Anime Dolci",
+    "ru_RU": "\u0421\u043b\u0430\u0434\u043a\u0438\u0435 \u0434\u0443\u0448\u0438",
+    "ko_KR": "\uc601\ud63c\uc758 \ub2ec\ucf64\ud568",
+    "zh_TW": "\u751c\u7f8e\u9748\u9b42",
+    "zh_CN": "\u751c\u7f8e\u7684\u7075\u9b42"
+  },
+  "description_blz": {
+    "en_US": "Your Healthstone heals you for an additional 10% of your maximum health. Any party or raid member using a Healthstone also heals you for that amount.",
+    "es_MX": "Tu Piedra de salud te sana por un 10% de tu salud m\u00e1xima adicional. Cualquier miembro del grupo o banda que use una Piedra de salud tambi\u00e9n te sana por la misma cantidad.",
+    "pt_BR": "Sua Pedra de Vida cura mais 10% do seu m\u00e1ximo de pontos de vida. Qualquer membro do grupo ou do raide que usar uma Pedra de Vida tamb\u00e9m curar\u00e1 voc\u00ea na mesma quantidade.",
+    "de_DE": "Euer Gesundheitsstein heilt Euch um zus\u00e4tzliche 10% Eurer maximalen Gesundheit. Wenn ein Gruppen- oder Schlachtzugsmitglied einen Gesundheitsstein nutzt, werdet Ihr ebenfalls um diesen Gesundheitswert geheilt.",
+    "en_GB": "Your Healthstone heals you for an additional 10% of your maximum health. Any party or raid member using a Healthstone also heals you for that amount.",
+    "es_ES": "Tu piedra de salud te sana un 10% extra de tu salud m\u00e1xima. Cualquier miembro del grupo o banda que use una piedra de salud te sana tambi\u00e9n a ti esa cantidad.",
+    "fr_FR": "Votre pierre de soins vous rend 10% suppl\u00e9mentaires de votre maximum de points de vie. Lorsqu\u2019un membre du groupe ou raid utilise une pierre de soins, vous r\u00e9cup\u00e9rez le m\u00eame montant de points de vie.",
+    "it_IT": "Le tue Pietre della Salute ti curano del 10% aggiuntivo della tua salute massima. Inoltre, qualsiasi membro del gruppo o dell'incursione usi una Pietra della Salute ti cura dell'ammontare di cui viene curato.",
+    "ru_RU": "\u0412\u0430\u0448 \u043a\u0430\u043c\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u043c 10% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u041f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u043a\u0430\u043c\u043d\u044f \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043b\u044e\u0431\u044b\u043c \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u043c \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430 \u0432\u044b \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0435 \u0442\u0430\u043a\u043e\u0435 \u0436\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc0dd\uba85\uc11d\uc774 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 10%\ub97c \ucd94\uac00\ub85c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. \ud30c\ud2f0\uc6d0 \ub610\ub294 \uacf5\uaca9\ub300\uc6d0\uc774 \uc0dd\uba85\uc11d\uc744 \uc0ac\uc6a9\ud558\uba74, \ub300\uc0c1\uc758 \uc0dd\uba85\ub825 \ud68c\ubcf5\ub7c9\ub9cc\ud07c \uc790\uc2e0\uc758 \uc0dd\uba85\ub825\ub3c4 \ud68c\ubcf5\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6cbb\u7642\u77f3\u53ef\u4ee5\u70ba\u4f60\u984d\u5916\u6062\u5fa9\u751f\u547d\u529b\u4e0a\u9650\u768410%\u3002\u4efb\u4e00\u4f4d\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u4f7f\u7528\u6cbb\u7642\u77f3\uff0c\u4e5f\u6703\u70ba\u4f60\u6062\u5fa9\u7b49\u503c\u751f\u547d\u3002",
+    "zh_CN": "\u4f60\u81ea\u5df1\u7684\u6cbb\u7597\u77f3\u53ef\u989d\u5916\u6062\u590d\u4f60\u6700\u5927\u751f\u547d\u503c\u768410%\u3002\u4efb\u4f55\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\u4f7f\u7528\u6cbb\u7597\u77f3\u65f6\u4f1a\u4e3a\u4f60\u6062\u590d\u540c\u7b49\u6570\u503c\u7684\u751f\u547d\u3002"
+  }
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375123"
+  "SpellID": "375123",
+  "name_blz": {
+    "en_US": "Flame-Touched Chain",
+    "es_MX": "Cadena tocada por las llamas",
+    "pt_BR": "Corrente Flam\u00edgera",
+    "de_DE": "Flammenber\u00fchrte Kette",
+    "en_GB": "Flame-Touched Chain",
+    "es_ES": "Cadena tocada por las llamas",
+    "fr_FR": "Cha\u00eene touch\u00e9e par les flammes",
+    "it_IT": "Catenina Toccata dalla Fiamma",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u0446\u0435\u043f\u044c",
+    "ko_KR": "\ubd88\uae38\uc5d0 \ubb3c\ub4e0 \uc0ac\uc2ac",
+    "zh_TW": "\u70c8\u7130\u4e4b\u64c1\u8170\u934a",
+    "zh_CN": "\u7130\u89e6\u8170\u94fe"
+  },
+  "description_blz": {}
 }

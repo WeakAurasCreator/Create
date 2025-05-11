@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "394178"
+  "SpellID": "394178",
+  "name_blz": {
+    "en_US": "Azureweaving",
+    "es_MX": "Entramado azur",
+    "pt_BR": "Tecelagem L\u00e1zuli",
+    "de_DE": "Azurweben",
+    "en_GB": "Azureweaving",
+    "es_ES": "Confecci\u00f3n con tejido azur",
+    "fr_FR": "Tissage d\u2019azur",
+    "it_IT": "Tessitura di Telazzurra",
+    "ru_RU": "\u041b\u0430\u0437\u0443\u0440\u043d\u043e\u0435 \u043f\u043b\u0435\u0442\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ud558\ub298\uc7ac\ubd09\uc220",
+    "zh_TW": "\u7de8\u7e54\u85cd\u7e54\u5e03\u6599",
+    "zh_CN": "\u9752\u7eb9\u5e03\u7eba\u7ec7"
+  },
+  "description_blz": {}
 }

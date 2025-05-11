@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "364703"
+  "SpellID": "364703",
+  "name_blz": {
+    "en_US": "Leaping Leporid",
+    "es_MX": "Lep\u00f3rido saltar\u00edn",
+    "pt_BR": "Lepor\u00eddeo Saltador",
+    "de_DE": "Hoppelnder Leporid",
+    "en_GB": "Leaping Leporid",
+    "es_ES": "Lep\u00f3rido saltar\u00edn",
+    "fr_FR": "L\u00e9porid\u00e9 bondissant",
+    "it_IT": "Leporide Saltellante",
+    "ru_RU": "\u0421\u043a\u0430\u0447\u0443\u0449\u0438\u0439 \u043b\u0435\u043f\u043e\u0440\u0438\u0434",
+    "ko_KR": "\ud384\uca4d\uc774 \uc6d0\uc2dc\ud1a0\ub07c",
+    "zh_TW": "\u8df3\u8e8d\u539f\u5154",
+    "zh_CN": "\u8df3\u8dc3\u7684\u5143\u5154"
+  },
+  "description_blz": {}
 }

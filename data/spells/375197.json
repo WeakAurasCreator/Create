@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375197"
+  "SpellID": "375197",
+  "name_blz": {
+    "en_US": "Flaring Cowl",
+    "es_MX": "Capucha flam\u00edgera",
+    "pt_BR": "Capucho Fulgurante",
+    "de_DE": "Lodergugel",
+    "en_GB": "Flaring Cowl",
+    "es_ES": "Capucha flam\u00edgera",
+    "fr_FR": "Capuche flamboyante",
+    "it_IT": "Copricapo Sfolgorante",
+    "ru_RU": "\u041f\u044b\u043b\u0430\u044e\u0449\u0438\u0439 \u043a\u043b\u043e\u0431\u0443\u043a",
+    "ko_KR": "\ud604\ub780\ud55c \uc218\ub3c4\ub450\uac74",
+    "zh_TW": "\u71be\u71c3\u98a8\u5e3d",
+    "zh_CN": "\u5149\u8000\u98ce\u5e3d"
+  },
+  "description_blz": {}
 }

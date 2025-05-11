@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383009"
+  "SpellID": "383009",
+  "name_blz": {
+    "en_US": "Stormkeeper",
+    "es_MX": "Guardatormentas",
+    "pt_BR": "Guardi\u00e3o da Tempestade",
+    "de_DE": "Sturmh\u00fcter",
+    "en_GB": "Stormkeeper",
+    "es_ES": "Guardia de la Tormenta",
+    "fr_FR": "Gardien des temp\u00eates",
+    "it_IT": "Custode della Tempesta",
+    "ru_RU": "\u0425\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044c \u0431\u0443\u0440\u044c",
+    "ko_KR": "\ud3ed\ud48d\uc218\ud638\uc790",
+    "zh_TW": "\u98a8\u66b4\u5b88\u8b77\u8005",
+    "zh_CN": "\u98ce\u66b4\u5b88\u62a4\u8005"
+  },
+  "description_blz": {
+    "en_US": "Charge yourself with lightning, causing your next 2 Lightning Bolts or Chain Lightnings to deal 150% more damage and be instant cast.",
+    "es_MX": "Te cargas con rel\u00e1mpagos para que tus siguientes 2 Descargas de rel\u00e1mpagos o Cadenas de rel\u00e1mpagos inflijan un 150% m\u00e1s de da\u00f1o y puedan lanzarse de forma instant\u00e1nea.",
+    "pt_BR": "Carrega-se com raios, fazendo com que os pr\u00f3ximos 2 feiti\u00e7os Raio ou Cadeia de Raios causem mais 150% de dano e sejam instant\u00e2neos.",
+    "de_DE": "L\u00e4dt Euch mit Blitzen auf, sodass Eure n\u00e4chsten 2 Eins\u00e4tze von 'Blitzschlag' oder 'Kettenblitzschlag' 150% mehr Schaden verursachen und zu Spontanzaubern werden.",
+    "en_GB": "Charge yourself with lightning, causing your next 2 Lightning Bolts or Chain Lightnings to deal 150% more damage and be instant cast.",
+    "es_ES": "Te cargas de rel\u00e1mpagos, lo que hace que tus siguientes 2 Descargas de rel\u00e1mpagos o Cadenas de rel\u00e1mpagos inflijan un 150% m\u00e1s de da\u00f1o y sean de lanzamiento instant\u00e1neo.",
+    "fr_FR": "Vous vous chargez d\u2019\u00e9lectricit\u00e9. Vos 2\u00a0prochains sorts \u00c9clair ou Cha\u00eene d\u2019\u00e9clairs infligent 150% de d\u00e9g\u00e2ts suppl\u00e9mentaires et leur incantation est instantan\u00e9e.",
+    "it_IT": "La carica del fulmine fa s\u00ec che i successivi 2 lanci di Dardo Fulminante o Catena di Fulmini infliggano il 150% di danni aggiuntivi e siano istantanei.",
+    "ru_RU": "\u0412\u0430\u0441 \u043d\u0430\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u044d\u043d\u0435\u0440\u0433\u0438\u044f \u0433\u0440\u043e\u0437\u044b, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e 2 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \"\u041c\u043e\u043b\u043d\u0438\u0438\" \u0438\u043b\u0438 \"\u0426\u0435\u043f\u043d\u044b\u0435 \u043c\u043e\u043b\u043d\u0438\u0438\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 150% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc790\uc2e0\uc744 \ubc88\uac1c\ub85c \ucda9\uc804\ud558\uc5ec \ub2e4\uc74c 2\ud68c\uc758 \ubc88\uac1c \ud654\uc0b4 \ub610\ub294 \uc5f0\uc1c4 \ubc88\uac1c\uc758 \uacf5\uaca9\ub825\uc744 150%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uace0 \uc989\uc2dc \uc2dc\uc804\ub418\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u9583\u96fb\u70ba\u4f60\u5145\u80fd\uff0c\u4f7f\u4f60\u7684\u4e0b2\u500b\u9583\u96fb\u7bad\u6216\u9583\u96fb\u93c8\u984d\u5916\u9020\u6210150%\u50b7\u5bb3\uff0c\u4e26\u4e14\u70ba\u77ac\u767c\u6cd5\u8853\u3002",
+    "zh_CN": "\u4e3a\u81ea\u8eab\u704c\u6ce8\u7535\u80fd\uff0c\u4f7f\u63a5\u4e0b\u67652\u6b21\u95ea\u7535\u7bad\u6216\u95ea\u7535\u94fe\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8150%\u5e76\u4e14\u53ef\u77ac\u53d1\u3002"
+  }
 }

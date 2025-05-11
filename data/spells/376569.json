@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376569"
+  "SpellID": "376569",
+  "name_blz": {
+    "en_US": "Market Tent",
+    "es_MX": "Tienda de mercado",
+    "pt_BR": "Tenda do Mercado",
+    "de_DE": "Marktzelt",
+    "en_GB": "Market Tent",
+    "es_ES": "Tienda de mercado",
+    "fr_FR": "Tonnelle pliante",
+    "it_IT": "Tenda del Mercato",
+    "ru_RU": "\u0420\u044b\u043d\u043e\u0447\u043d\u0430\u044f \u043f\u0430\u043b\u0430\u0442\u043a\u0430",
+    "ko_KR": "\uc2dc\uc7a5 \ucc9c\ub9c9",
+    "zh_TW": "\u5e02\u96c6\u5e33\u7bf7",
+    "zh_CN": "\u96c6\u5e02\u5e10\u7bf7"
+  },
+  "description_blz": {}
 }

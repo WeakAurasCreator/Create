@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382328"
+  "SpellID": "382328",
+  "name_blz": {
+    "en_US": "S.A.V.I.O.R.",
+    "es_MX": "S.A.L.V.A.D.O.R.",
+    "pt_BR": "S.A.L.V.A.D.O.R.",
+    "de_DE": "R.E.T.T.E.R.",
+    "en_GB": "S.A.V.I.O.R.",
+    "es_ES": "S.A.L.V.A.D.O.R.",
+    "fr_FR": "\u00c9.G.I.D.E.",
+    "it_IT": "S.A.L.V.A.T.O.R.E.",
+    "ru_RU": "\u0421\u041f\u0410\u0421\u0418\u0422\u0415\u041b\u042c",
+    "ko_KR": "9.S.E.Z.O.O.",
+    "zh_TW": "S.A.V.I.O.R.",
+    "zh_CN": "S.A.V.I.O.R.\u6551\u4e16\u673a\u5668\u4eba"
+  },
+  "description_blz": {}
 }
