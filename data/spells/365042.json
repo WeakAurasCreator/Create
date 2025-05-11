@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365042"
+  "SpellID": "365042",
+  "name_blz": {
+    "en_US": "Sundered Zerethsteed",
+    "es_MX": "Corcel de Zereth hendido",
+    "pt_BR": "Corcel de Zereth Fendido",
+    "de_DE": "Gemarterter Zerethhirsch",
+    "en_GB": "Sundered Zerethsteed",
+    "es_ES": "Corcel de Zereth hendido",
+    "fr_FR": "Destrier de Zereth scind\u00e9",
+    "it_IT": "Destriero di Zereth Spezzato",
+    "ru_RU": "\u0420\u0430\u0441\u043a\u043e\u043b\u043e\u0442\u044b\u0439 \u0437\u0435\u0440\u0435\u0442\u0441\u043a\u0438\u0439 \u0431\u0435\u0433\u0443\u043d",
+    "ko_KR": "\ubd84\uc5f4\ub41c \uc81c\ub808\uc2a4\ubc1c\uad7d",
+    "zh_TW": "\u7834\u788e\u6fa4\u745e\u65af\u6230\u9a0e",
+    "zh_CN": "\u65ad\u79bb\u4e4b\u624e\u96f7\u9a81\u9a91"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376516"
+  "SpellID": "376516",
+  "name_blz": {
+    "en_US": "Vibrant Wildercloth Shoulderspikes",
+    "es_MX": "Sobrehombros de tela salvaje vibrante",
+    "pt_BR": "Espinhos de Ombro de Selvatrama Vibrante",
+    "de_DE": "Schillernde Wildstoffschulterstacheln",
+    "en_GB": "Vibrant Wildercloth Shoulderspikes",
+    "es_ES": "Hombreras punzantes de tela salvaje vibrante",
+    "fr_FR": "\u00c9pauli\u00e8res \u00e0 pointes en trame-sauvage chatoyante",
+    "it_IT": "Spallacci di Stoffabrada Vibrante",
+    "ru_RU": "\u042f\u0440\u043a\u0438\u0435 \u043d\u0430\u043f\u043b\u0435\u0447\u043d\u0438\u043a\u0438 \u0438\u0437 \u0442\u043a\u0430\u043d\u0438 \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc601\ub871\ud55c \uc57c\uc0dd\ucc9c \uc5b4\uae68\uc410\uae30",
+    "zh_TW": "\u9bae\u4eae\u8352\u7d0b\u5e03\u810a\u523a\u80a9\u7532",
+    "zh_CN": "\u751f\u673a\u8352\u5e03\u80a9\u523a"
+  },
+  "description_blz": {}
 }

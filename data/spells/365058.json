@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "365058"
+  "SpellID": "365058",
+  "name_blz": {
+    "en_US": "Goldplate Bufonid",
+    "es_MX": "Buf\u00f3nido placa\u00e1urea",
+    "pt_BR": "Bufon\u00eddeo Chapeado",
+    "de_DE": "Goldplattenbufonid",
+    "en_GB": "Goldplate Bufonid",
+    "es_ES": "Buf\u00f3nido de placas de oro",
+    "fr_FR": "Bufonid\u00e9 plaque-d\u2019or",
+    "it_IT": "Bufonide Placcato in Oro",
+    "ru_RU": "\u0417\u043e\u043b\u043e\u0442\u043e\u0439 \u0431\u0443\u0444\u043e\u043d\u0438\u0434",
+    "ko_KR": "\ud669\uae08\ud310\uae08 \uc6d0\uc2dc\ub450\uaebc\ube44",
+    "zh_TW": "\u91d1\u7532\u539f\u87fe",
+    "zh_CN": "\u91d1\u7532\u5143\u87fe"
+  },
+  "description_blz": {}
 }

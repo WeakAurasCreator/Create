@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376500"
+  "SpellID": "376500",
+  "name_blz": {
+    "en_US": "Azureweave Robe",
+    "es_MX": "Toga de entramado azur",
+    "pt_BR": "Veste de Lazulinho",
+    "de_DE": "Azurgewobene Robe",
+    "en_GB": "Azureweave Robe",
+    "es_ES": "Toga de tejido azur",
+    "fr_FR": "Robe en trame-d\u2019azur",
+    "it_IT": "Tonaca di Telazzurra",
+    "ru_RU": "\u041e\u0434\u0435\u044f\u043d\u0438\u044f \u043b\u0430\u0437\u0443\u0440\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u043e\u0442\u043d\u0430",
+    "ko_KR": "\ud558\ub298\ub9e4\ub4ed \ub85c\ube0c",
+    "zh_TW": "\u85cd\u7e54\u5e03\u9577\u888d",
+    "zh_CN": "\u9752\u7eb9\u957f\u888d"
+  },
+  "description_blz": {}
 }

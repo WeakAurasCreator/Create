@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387173"
+  "SpellID": "387173",
+  "name_blz": {
+    "en_US": "Diabolic Embers",
+    "es_MX": "Ascuas endemoniadas",
+    "pt_BR": "Brasas Diab\u00f3licas",
+    "de_DE": "Diabolische Glut",
+    "en_GB": "Diabolic Embers",
+    "es_ES": "Ascuas diab\u00f3licas",
+    "fr_FR": "Braises diaboliques",
+    "it_IT": "Braci Diaboliche",
+    "ru_RU": "\u0414\u044c\u044f\u0432\u043e\u043b\u044c\u0441\u043a\u0438\u0435 \u0443\u0433\u043b\u0438",
+    "ko_KR": "\uc545\ub9c8\uc758 \uc7bf\ubd88",
+    "zh_TW": "\u9b54\u9b3c\u9918\u71fc",
+    "zh_CN": "\u5929\u9b54\u4f59\u70ec"
+  },
+  "description_blz": {
+    "en_US": "Incinerate now generates 100% additional Soul Shard Fragments.",
+    "es_MX": "Incinerar ahora genera un 100% m\u00e1s de trozos de fragmento de alma.",
+    "pt_BR": "Incinerar passa a gerar mais 100% de Fragmentos de Estilha\u00e7o de Alma.",
+    "de_DE": "'Verbrennen' erzeugt 100% zus\u00e4tzliche Seelensplitterfragmente.",
+    "en_GB": "Incinerate now generates 100% additional Soul Shard Fragments.",
+    "es_ES": "Incinerar ahora genera un 100% extra de trozos de fragmento de alma.",
+    "fr_FR": "Incin\u00e9rer g\u00e9n\u00e8re d\u00e9sormais 100% de fragments d\u2019\u00e9clats d\u2019\u00e2me suppl\u00e9mentaires.",
+    "it_IT": "Incenerimento fornisce il 100% aggiuntivo di schegge di frammento d'anima.",
+    "ru_RU": "\"\u0418\u0441\u043f\u0435\u043f\u0435\u043b\u0435\u043d\u0438\u0435\" \u0434\u0430\u0435\u0442 \u0435\u0449\u0435 100% \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u0441\u043a\u043e\u043b\u043a\u043e\u0432 \u0434\u0443\u0448\u0438.",
+    "ko_KR": "\uc18c\uac01\uc774 \uc601\ud63c\uc758 \uc870\uac01 \ud30c\ud3b8\uc744 100%\ub9cc\ud07c \ucd94\uac00\ub85c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u71d2\u76e1\u73fe\u5728\u6703\u984d\u5916\u7522\u751f100%\u9748\u9b42\u88c2\u7247\u788e\u584a\u3002",
+    "zh_CN": "\u70e7\u5c3d\u73b0\u5728\u53ef\u4ee5\u989d\u5916\u751f\u6210100%\u7684\u7075\u9b42\u788e\u7247\u88c2\u7247\u3002"
+  }
 }

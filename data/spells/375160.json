@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375160"
+  "SpellID": "375160",
+  "name_blz": {
+    "en_US": "Toxified Armor Patch",
+    "es_MX": "Parche de armadura t\u00f3xico",
+    "pt_BR": "Remendo de Armadura Toxificado",
+    "de_DE": "Giftiger R\u00fcstungsflicken",
+    "en_GB": "Toxified Armor Patch",
+    "es_ES": "Parche de armadura intoxicado",
+    "fr_FR": "Pi\u00e8ce d\u2019armure toxique",
+    "it_IT": "Toppa per Armatura Intossicata",
+    "ru_RU": "\u041f\u0440\u043e\u043f\u0438\u0442\u0430\u043d\u043d\u0430\u044f \u044f\u0434\u043e\u043c \u0431\u0440\u043e\u043d\u0435\u0432\u0430\u044f \u043f\u043b\u0430\u0441\u0442\u0438\u043d\u0430",
+    "ko_KR": "\ub3c5\uc18c \uc911\ub3c5 \ubc29\uc5b4\uad6c \ub3c4\uad6c",
+    "zh_TW": "\u6bd2\u5316\u8b77\u7532\u7247",
+    "zh_CN": "\u6bd2\u5316\u62a4\u7532\u8865\u4e01"
+  },
+  "description_blz": {
+    "en_US": "This putrid recipe requires an altar infused with powerful decay magic, rumored to be deep in Brackenhide Hollow.",
+    "es_MX": "Esta receta p\u00fatrida requiere un altar infundido con magia de descomposici\u00f3n poderosa, que seg\u00fan los rumores se encuentra en lo profundo de Hondonada Frondacuero.",
+    "pt_BR": "A receita p\u00fatrida requer um altar imbu\u00eddo com a poderosa magia da decomposi\u00e7\u00e3o, que dizem ficar nas profundezas da Clareira de Courambaia.",
+    "de_DE": "Dieses widerw\u00e4rtige Muster erfordert einen mit m\u00e4chtiger Verfallmagie erf\u00fcllten Altar, den es angeblich tief in der Brackenfellh\u00f6hle geben soll.",
+    "en_GB": "This putrid recipe requires an altar infused with powerful decay magic, rumored to be deep in Brackenhide Hollow.",
+    "es_ES": "Esta receta p\u00fatrida requiere un altar imbuido de una poderosa magia de descomposici\u00f3n. Se rumorea que se encuentra en las profundidades de la Hondonada Frondacuero.",
+    "fr_FR": "Cette recette naus\u00e9abonde n\u00e9cessite l\u2019autel puissamment impr\u00e9gn\u00e9 de la magie de putr\u00e9faction qui se trouverait au fin fond du creux des Fougerobes.",
+    "it_IT": "Questa ricetta putrida richiede un altare infuso dalla potente magia del decadimento, che si dice si trovi nella Conca dei Felcepelle.",
+    "ru_RU": "\u0414\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u043c\u0435\u0440\u0437\u043a\u043e\u0433\u043e \u0440\u0435\u0446\u0435\u043f\u0442\u0430 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0430\u043b\u0442\u0430\u0440\u044c, \u043d\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u044b\u0439 \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0435\u0439 \u0433\u043d\u0438\u043b\u0438. \u041f\u043e \u0441\u043b\u0443\u0445\u0430\u043c, \u0435\u0433\u043e \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0439\u0442\u0438 \u0433\u043b\u0443\u0431\u043e\u043a\u043e \u0432 \u043b\u043e\u0449\u0438\u043d\u0435 \u0411\u0443\u0440\u043e\u0448\u043a\u0443\u0440\u043e\u0432.",
+    "ko_KR": "\uc774 \uc81c\uc791\ubc95\uc744 \uc0ac\uc6a9\ud558\ub824\uba74 \uac15\ub825\ud55c \ubd80\ud328 \ub9c8\ubc95\uc774 \uc8fc\uc785\ub41c \uc81c\ub2e8\uc774 \ud544\uc694\ud569\ub2c8\ub2e4. \ud56d\uac04\uc5d0\ub294 \ub2f4\uc7c1\uc774\uac00\uc8fd \uace8\uc9dc\uae30\uc5d0 \uc788\ub2e4\ub294 \uc18c\ubb38\uc774 \ub3cc\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9019\u500b\u8150\u81ed\u914d\u65b9\u9700\u8981\u4f7f\u7528\u6ce8\u5165\u5f37\u5927\u8150\u673d\u9b54\u6cd5\u7684\u796d\u58c7\uff0c\u64da\u8aaa\u9019\u500b\u796d\u58c7\u5c31\u5728\u8568\u76ae\u8c37\u6df1\u8655\u3002",
+    "zh_CN": "\u8fd9\u4efd\u8150\u70c2\u914d\u65b9\u9700\u8981\u5145\u6ee1\u5f3a\u5927\u8150\u70c2\u9b54\u6cd5\u7684\u796d\u575b\uff0c\u636e\u4f20\u8568\u76ae\u5c71\u8c37\u6df1\u5904\u5c31\u6709\u8fd9\u6837\u7684\u796d\u575b\u3002"
+  }
 }

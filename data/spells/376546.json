@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376546"
+  "SpellID": "376546",
+  "name_blz": {
+    "en_US": "Dragoncloth Tailoring Vestments",
+    "es_MX": "Vestimentas de sastrer\u00eda de tela drac\u00f3nica",
+    "pt_BR": "Vestimenta de Alfaiataria de Tecidraco",
+    "de_DE": "Schneidereigew\u00e4nder aus Drachenstoff",
+    "en_GB": "Dragoncloth Tailoring Vestments",
+    "es_ES": "Vestimentas de sastrer\u00eda de tela de drag\u00f3n",
+    "fr_FR": "Habits de couture en tissu draconique",
+    "it_IT": "Vesti da Sartoria di Tessuto Draconico",
+    "ru_RU": "\u041e\u0431\u043b\u0430\u0447\u0435\u043d\u0438\u0435 \u043f\u043e\u0440\u0442\u043d\u043e\u0433\u043e \u0438\u0437 \u0434\u0440\u0430\u043a\u043e\u043d\u044c\u0435\u0439 \u0442\u043a\u0430\u043d\u0438",
+    "ko_KR": "\uc6a9\uc637\uac10 \uc7ac\ubd09\ub41c \uc758\ubcf5",
+    "zh_TW": "\u9f8d\u5e03\u88c1\u7e2b\u6cd5\u8863",
+    "zh_CN": "\u9f99\u5e03\u88c1\u7f1d\u5916\u8863"
+  },
+  "description_blz": {}
 }

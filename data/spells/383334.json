@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383334"
+  "SpellID": "383334",
+  "name_blz": {
+    "en_US": "Inner Grace",
+    "es_MX": "Gracia interna",
+    "pt_BR": "Gra\u00e7a Interior",
+    "de_DE": "Innere Anmut",
+    "en_GB": "Inner Grace",
+    "es_ES": "Gracia interior",
+    "fr_FR": "Gr\u00e2ce int\u00e9rieure",
+    "it_IT": "Grazia Interiore",
+    "ru_RU": "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044f\u044f \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0442\u044c",
+    "ko_KR": "\ub0b4\uba74\uc758 \uc740\ucd1d",
+    "zh_TW": "\u5167\u5728\u6069\u5178",
+    "zh_CN": "\u4f18\u96c5\u5185\u5fc3"
+  },
+  "description_blz": {
+    "en_US": "Every 12 sec in combat, you gain 1 Holy Power.",
+    "es_MX": "Cada 12 s que pasas en combate, obtienes 1 p. de poder sagrado.",
+    "pt_BR": "Voc\u00ea ganha 1 de Poder Sagrado a cada 12 s em combate.",
+    "de_DE": "Im Kampf erhaltet Ihr alle 12 Sek. 1 Heilige Kraft.",
+    "en_GB": "Every 12 sec in combat, you gain 1 Holy Power.",
+    "es_ES": "Cada 12 s en combate, obtienes 1 p. de poder sagrado.",
+    "fr_FR": "Vous gagnez 1\u00a0point de puissance sacr\u00e9e toutes les 12\u00a0s en combat.",
+    "it_IT": "Ogni 12 s in combattimento fornisce 1 carica di potere sacro.",
+    "ru_RU": "\u041d\u0430\u0445\u043e\u0434\u044f\u0441\u044c \u0432 \u0431\u043e\u044e, \u0432\u044b \u0440\u0430\u0437 \u0432 12 \u0441\u0435\u043a. \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 1 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430.",
+    "ko_KR": "\uc804\ud22c \uc911 12\ucd08\ub9c8\ub2e4 \uc2e0\uc131\ud55c \ud798 1\uac1c\ub97c \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6230\u9b25\u4e2d\u6bcf\u7d93\u904e12\u79d2\uff0c\u4f60\u7372\u5f971\u9053\u8056\u80fd\u3002",
+    "zh_CN": "\u5728\u6218\u6597\u4e2d\uff0c\u4f60\u6bcf12\u79d2\u83b7\u5f971\u5c42\u795e\u5723\u80fd\u91cf\u3002"
+  }
 }
