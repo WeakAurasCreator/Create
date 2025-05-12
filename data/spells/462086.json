@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462086"
+  "SpellID": "462086",
+  "name_blz": {
+    "en_US": "Frost Mage",
+    "es_MX": "Mago de escarcha",
+    "pt_BR": "Mago de Gelo",
+    "de_DE": "Frostmagier",
+    "en_GB": "Frost Mage",
+    "es_ES": "Mago Escarcha",
+    "fr_FR": "Mage Givre",
+    "it_IT": "Mago Gelo",
+    "ru_RU": "\u041c\u0430\u0433 - \u041b\u0435\u0434",
+    "ko_KR": "\ub0c9\uae30 \ub9c8\ubc95\uc0ac",
+    "zh_TW": "\u51b0\u971c\u6cd5\u5e2b",
+    "zh_CN": "\u51b0\u971c\u6cd5\u5e08"
+  },
+  "description_blz": {}
 }
