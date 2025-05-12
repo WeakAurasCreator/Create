@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "434552"
+  "SpellID": "434552",
+  "name_blz": {
+    "en_US": "Versatile Ruby",
+    "es_MX": "Rub\u00ed vers\u00e1til",
+    "pt_BR": "Rubi Vers\u00e1til",
+    "de_DE": "Vielseitiger Rubin",
+    "en_GB": "Versatile Ruby",
+    "es_ES": "Rub\u00ed vers\u00e1til",
+    "fr_FR": "Rubis polyvalent",
+    "it_IT": "Rubino Versatile",
+    "ru_RU": "\u0420\u0443\u0431\u0438\u043d \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uc720\uc5f0\ud55c \ub8e8\ube44",
+    "zh_TW": "\u591a\u7528\u9014\u7684\u7d05\u5bf6\u77f3",
+    "zh_CN": "\u4e07\u80fd\u7ea2\u5b9d\u77f3"
+  },
+  "description_blz": {}
 }

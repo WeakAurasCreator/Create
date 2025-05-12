@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "437545"
+  "SpellID": "437545",
+  "name_blz": {
+    "en_US": "Test",
+    "es_MX": "Prueba",
+    "pt_BR": "Teste",
+    "de_DE": "Test",
+    "en_GB": "Test",
+    "es_ES": "Prueba",
+    "fr_FR": "Test",
+    "it_IT": "Prova",
+    "ru_RU": "\u0422\u0435\u0441\u0442",
+    "ko_KR": "\uc2dc\ud5d8\uc6a9",
+    "zh_TW": "\u6e2c\u8a66",
+    "zh_CN": "\u6d4b\u8bd5"
+  },
+  "description_blz": {}
 }

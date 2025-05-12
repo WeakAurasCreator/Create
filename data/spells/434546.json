@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "434546"
+  "SpellID": "434546",
+  "name_blz": {
+    "en_US": "Quick Onyx",
+    "es_MX": "\u00d3nice r\u00e1pido",
+    "pt_BR": "\u00d4nix Veloz",
+    "de_DE": "Schneller Onyx",
+    "en_GB": "Quick Onyx",
+    "es_ES": "\u00d3nice r\u00e1pido",
+    "fr_FR": "Onyx rapide",
+    "it_IT": "Onice Rapido",
+    "ru_RU": "\u041e\u043d\u0438\u043a\u0441 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438",
+    "ko_KR": "\ucf8c\uc18d\uc758 \uc624\ub2c9\uc2a4",
+    "zh_TW": "\u8fc5\u901f\u7684\u746a\u7459",
+    "zh_CN": "\u8fc5\u6377\u739b\u7459"
+  },
+  "description_blz": {}
 }

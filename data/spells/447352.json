@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447352"
+  "SpellID": "447352",
+  "name_blz": {
+    "en_US": "P.0.W. x2",
+    "es_MX": "PAM x2",
+    "pt_BR": "P0U x2",
+    "de_DE": "W.U.M.M.S. x2",
+    "en_GB": "P.0.W. x2",
+    "es_ES": "P.0.W. x2",
+    "fr_FR": "P.A.N. \u00d72",
+    "it_IT": "P.0.W. x2",
+    "ru_RU": "\u041f\u0418\u0424-\u041f4\u0424",
+    "ko_KR": "\ubd84.\ud574.\ud3ec. x2",
+    "zh_TW": "P.0.W. x2",
+    "zh_CN": "P.0.W. x2\u578b"
+  },
+  "description_blz": {}
 }

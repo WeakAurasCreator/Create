@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442647"
+  "SpellID": "442647",
+  "name_blz": {
+    "en_US": "Arathor Hammerfish Lure",
+    "es_MX": "Cebo de pez martillo de Arathor",
+    "pt_BR": "Isca de Peixe-martelo de Arathor",
+    "de_DE": "K\u00f6der f\u00fcr Arathorhammerfische",
+    "en_GB": "Arathor Hammerfish Lure",
+    "es_ES": "Cebo de pez martillo de Arathor",
+    "fr_FR": "App\u00e2t \u00e0 poisson-marteau d\u2019Arathor",
+    "it_IT": "Esca per Pesce Martello di Arathor",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0430\u043d\u043a\u0430 \u043d\u0430 \u0430\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u0443\u044e \u0440\u044b\u0431\u0443-\u043c\u043e\u043b\u043e\u0442",
+    "ko_KR": "\uc544\ub77c\uc18c\ub974 \ub9dd\uce58\uc5b4 \ubbf8\ub07c",
+    "zh_TW": "\u963f\u62c9\u7d22\u9318\u982d\u9b5a\u8a98\u990c",
+    "zh_CN": "\u963f\u62c9\u7d22\u9524\u5934\u9ca8\u9c7c\u9975"
+  },
+  "description_blz": {}
 }

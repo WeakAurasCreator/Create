@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450285"
+  "SpellID": "450285",
+  "name_blz": {
+    "en_US": "Ironclaw Whetstone",
+    "es_MX": "Piedra de afilar de garraf\u00e9rrea",
+    "pt_BR": "Pedra de Amolar Garraf\u00e9rrea",
+    "de_DE": "Eisenklauenschleifstein",
+    "en_GB": "Ironclaw Whetstone",
+    "es_ES": "Piedra de afilar de colmillof\u00e9rreo",
+    "fr_FR": "Pierre \u00e0 aiguiser en griffefer",
+    "it_IT": "Cote di Grinfiaferro",
+    "ru_RU": "\u0422\u043e\u0447\u0438\u043b\u044c\u043d\u044b\u0439 \u043a\u0430\u043c\u0435\u043d\u044c \u0438\u0437 \u043a\u043e\u0433\u0442\u0435\u0441\u0442\u0430\u043b\u0438",
+    "ko_KR": "\ubb34\uc1e0\ubc1c\ud1b1 \uc22b\ub3cc",
+    "zh_TW": "\u9435\u722a\u78e8\u77f3",
+    "zh_CN": "\u9554\u722a\u78e8\u5200\u77f3"
+  },
+  "description_blz": {}
 }

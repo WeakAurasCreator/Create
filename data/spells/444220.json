@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444220"
+  "SpellID": "444220",
+  "name_blz": {
+    "en_US": "Contract: Council of Dornogal",
+    "es_MX": "Contrato: Consejo de Dornogal",
+    "pt_BR": "Contrato: Conselho de Dornogal",
+    "de_DE": "Vertrag: Rat von Dornogal",
+    "en_GB": "Contract: Council of Dornogal",
+    "es_ES": "Contrato: Consejo de Dornogal",
+    "fr_FR": "Contrat\u00a0: conseil de Dornogal",
+    "it_IT": "Contratto - Concilio di Dornogal",
+    "ru_RU": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442: \u0441\u043e\u0432\u0435\u0442 \u0414\u043e\u0440\u043d\u043e\u0433\u0430\u043b\u0430",
+    "ko_KR": "\uacc4\uc57d\uc11c: \ub3c4\ub974\ub178\uac08 \uc758\ud68c",
+    "zh_TW": "\u5408\u7d04\uff1a\u591a\u6069\u8afe\u52a0\u8b70\u6703",
+    "zh_CN": "\u5408\u7ea6\uff1a\u591a\u6069\u8bfa\u5609\u5c14\u8bae\u4f1a"
+  },
+  "description_blz": {}
 }
