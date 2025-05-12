@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442990"
+  "SpellID": "442990",
+  "name_blz": {
+    "en_US": "Empowered Mulch",
+    "es_MX": "Mantillo potenciado",
+    "pt_BR": "H\u00famus Potencializado",
+    "de_DE": "Machterf\u00fcllter Mulch",
+    "en_GB": "Empowered Mulch",
+    "es_ES": "Mantillo potenciado",
+    "fr_FR": "Paillis renforc\u00e9",
+    "it_IT": "Concime Potenziato",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0435\u043d\u043d\u0430\u044f \u043c\u0443\u043b\u044c\u0447\u0430",
+    "ko_KR": "\uac15\ud654\ub41c \uac70\ub984",
+    "zh_TW": "\u5f37\u5316\u5806\u80a5",
+    "zh_CN": "\u5f3a\u5316\u62a4\u571f"
+  },
+  "description_blz": {}
 }

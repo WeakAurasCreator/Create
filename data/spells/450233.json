@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450233"
+  "SpellID": "450233",
+  "name_blz": {
+    "en_US": "Everforged Mace",
+    "es_MX": "Maza de aleaci\u00f3n presurizada",
+    "pt_BR": "Ma\u00e7a Semperforja",
+    "de_DE": "Ewiggeschmiedeter Streitkolben",
+    "en_GB": "Everforged Mace",
+    "es_ES": "Maza de forja eterna",
+    "fr_FR": "Masse en forge perp\u00e9tuelle",
+    "it_IT": "Mazza Eternoforgiata",
+    "ru_RU": "\u0412\u044b\u043a\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043d\u0430\u0432\u0435\u043a\u0438 \u0431\u0443\u043b\u0430\u0432\u0430",
+    "ko_KR": "\uc601\uc6d0\ubcbc\ub9bc \ucca0\ud1f4",
+    "zh_TW": "\u6c38\u9444\u91d8\u9318",
+    "zh_CN": "\u6c38\u94f8\u4e4b\u9524"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442652"
+  "SpellID": "442652",
+  "name_blz": {
+    "en_US": "Elusive Creature Lure",
+    "es_MX": "Cebo para criatura esquiva",
+    "pt_BR": "Isca de Criatura Esquiva",
+    "de_DE": "K\u00f6der f\u00fcr scheue Kreaturen",
+    "en_GB": "Elusive Creature Lure",
+    "es_ES": "Cebo de criatura esquiva",
+    "fr_FR": "Leurre \u00e0 cr\u00e9ature insaisissable",
+    "it_IT": "Esca per Creature Elusive",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0430\u043d\u043a\u0430 \u043d\u0430 \u043d\u0435\u0443\u043b\u043e\u0432\u0438\u043c\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e",
+    "ko_KR": "\ub3c4\ub9dd \ub2e4\ub2c8\ub294 \uc0dd\uba85\uccb4 \ubbf8\ub07c",
+    "zh_TW": "\u96e3\u4ee5\u6349\u6478\u7684\u751f\u7269\u8a98\u990c",
+    "zh_CN": "\u9690\u79d8\u751f\u7269\u4e4b\u9975"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "441057"
+  "SpellID": "441057",
+  "name_blz": {
+    "en_US": "Rune-Branded Waistband",
+    "es_MX": "Pretina marcada con runas",
+    "pt_BR": "Cintel com Marca\u00e7\u00f5es R\u00fanicas",
+    "de_DE": "Runengezeichneter G\u00fcrtelbund",
+    "en_GB": "Rune-Branded Waistband",
+    "es_ES": "Pretina con runas marcadas",
+    "fr_FR": "Baudrier marqu\u00e9 de runes",
+    "it_IT": "Fusciacca Marchiata con Rune",
+    "ru_RU": "\u0411\u043e\u0435\u0432\u043e\u0439 \u043f\u043e\u044f\u0441 \u0441 \u0440\u0443\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043a\u043b\u0435\u0439\u043c\u043e\u043c",
+    "ko_KR": "\ub8ec\ub099\uc778 \ud5c8\ub9ac\ubcf4\ud638\ub760",
+    "zh_TW": "\u7b26\u6587\u70d9\u5370\u8170\u74b0",
+    "zh_CN": "\u7b26\u70d9\u8170\u5e26"
+  },
+  "description_blz": {}
 }

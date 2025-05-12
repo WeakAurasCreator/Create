@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "465129"
+  "SpellID": "465129",
+  "name_blz": {
+    "en_US": "Earthen Allied Race",
+    "es_MX": "Raza aliada terr\u00e1nea",
+    "pt_BR": "Ra\u00e7a Aliada Terrana",
+    "de_DE": "Verb\u00fcndetes Volk: Irdene",
+    "en_GB": "Earthen Allied Race",
+    "es_ES": "Raza aliada: terr\u00e1neos",
+    "fr_FR": "Race alli\u00e9e\u00a0: Terrestres",
+    "it_IT": "Razza Alleata dei Terrigeni",
+    "ru_RU": "\u0421\u043e\u044e\u0437\u043d\u0430\u044f \u0440\u0430\u0441\u0430 \u2013 \u0437\u0435\u043c\u0435\u043b\u044c\u043d\u0438\u043a\u0438",
+    "ko_KR": "\ud1a0\uc11d\uc778 \ub3d9\ub9f9 \uc885\uc871",
+    "zh_TW": "\u571f\u9748\u540c\u76df\u7a2e\u65cf",
+    "zh_CN": "\u571f\u7075\u540c\u76df\u79cd\u65cf"
+  },
+  "description_blz": {}
 }

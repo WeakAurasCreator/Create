@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446928"
+  "SpellID": "446928",
+  "name_blz": {
+    "en_US": "Dawnweave Bolt",
+    "es_MX": "Madeja de tejido del alba",
+    "pt_BR": "Rolo de Tecido Alvorecente",
+    "de_DE": "Morgengespinstballen",
+    "en_GB": "Dawnweave Bolt",
+    "es_ES": "Rollo de tejido del amanecer",
+    "fr_FR": "Rouleau de tisse-aube",
+    "it_IT": "Rotolo di Tessialba",
+    "ru_RU": "\u0420\u0443\u043b\u043e\u043d \u0440\u0430\u0441\u0441\u0432\u0435\u0442\u043d\u043e\u0439 \u0442\u043a\u0430\u043d\u0438",
+    "ko_KR": "\uc5ec\uba85\ub9e4\ub4ed \ub450\ub8e8\ub9c8\ub9ac",
+    "zh_TW": "\u6668\u7e54\u5e03\u5377",
+    "zh_CN": "\u6668\u7eb9\u5e03\u5377"
+  },
+  "description_blz": {}
 }

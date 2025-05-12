@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462080"
+  "SpellID": "462080",
+  "name_blz": {
+    "en_US": "Hunter",
+    "es_MX": "Cazador",
+    "pt_BR": "Ca\u00e7ador",
+    "de_DE": "J\u00e4ger",
+    "en_GB": "Hunter",
+    "es_ES": "Cazador",
+    "fr_FR": "Chasseur/chasseuse",
+    "it_IT": "Cacciatore",
+    "ru_RU": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a",
+    "ko_KR": "\uc0ac\ub0e5\uafbc",
+    "zh_TW": "\u7375\u4eba",
+    "zh_CN": "\u730e\u4eba"
+  },
+  "description_blz": {}
 }

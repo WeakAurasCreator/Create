@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "441064"
+  "SpellID": "441064",
+  "name_blz": {
+    "en_US": "Glyph-Etched Epaulets",
+    "es_MX": "Cubrehombros grabados con glifos",
+    "pt_BR": "Palas Gravadas com Glifos",
+    "de_DE": "Glyphengravierte Schulterklappen",
+    "en_GB": "Glyph-Etched Epaulets",
+    "es_ES": "Cubrehombros con glifos grabados",
+    "fr_FR": "\u00c9paulettes grav\u00e9es de glyphes",
+    "it_IT": "Spalline Incise con Glifi",
+    "ru_RU": "\u0413\u0440\u0430\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u0430\u043c\u0438 \u044d\u043f\u043e\u043b\u0435\u0442\u044b",
+    "ko_KR": "\ubb38\uc591\uc0c8\uae40 \uacac\uc7a5",
+    "zh_TW": "\u96d5\u7d0b\u8755\u523b\u80a9\u5191",
+    "zh_CN": "\u523b\u7eb9\u80a9\u7532"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450284"
+  "SpellID": "450284",
+  "name_blz": {
+    "en_US": "Forged Framework",
+    "es_MX": "Marco forjado",
+    "pt_BR": "Estrutura Forjada",
+    "de_DE": "Geschmiedeter Rahmen",
+    "en_GB": "Forged Framework",
+    "es_ES": "Armaz\u00f3n forjado",
+    "fr_FR": "Structure forg\u00e9e",
+    "it_IT": "Struttura Forgiata",
+    "ru_RU": "\u041a\u043e\u0432\u0430\u043d\u044b\u0439 \u043a\u0430\u0440\u043a\u0430\u0441",
+    "ko_KR": "\uc81c\ub828\ub41c \ud2c0",
+    "zh_TW": "\u935b\u9020\u6846\u67b6",
+    "zh_CN": "\u7cbe\u94f8\u6846\u67b6"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446934"
+  "SpellID": "446934",
+  "name_blz": {
+    "en_US": "Warm Sunrise Bracers",
+    "es_MX": "Brazales de alba c\u00e1lida",
+    "pt_BR": "Bra\u00e7adeiras do Alvorecer Quente",
+    "de_DE": "Armschienen des warmen Sonnenaufgangs",
+    "en_GB": "Warm Sunrise Bracers",
+    "es_ES": "Brazales del alba c\u00e1lido",
+    "fr_FR": "Brassards chauds de point du jour",
+    "it_IT": "Bracciali dell'Alba Calda",
+    "ru_RU": "\u041d\u0430\u0440\u0443\u0447\u0438 \u0442\u0435\u043f\u043b\u043e\u0433\u043e \u0440\u0430\u0441\u0441\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ub530\ub73b\ud55c \ud574\ub3cb\uc774 \ud314\ubcf4\ud638\uad6c",
+    "zh_TW": "\u6eab\u6696\u65e5\u5347\u8b77\u8155",
+    "zh_CN": "\u6696\u5fc3\u65ed\u65e5\u62a4\u8155"
+  },
+  "description_blz": {}
 }

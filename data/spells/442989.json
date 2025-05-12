@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442989"
+  "SpellID": "442989",
+  "name_blz": {
+    "en_US": "Imbued Mulch",
+    "es_MX": "Mantillo imbuido",
+    "pt_BR": "H\u00famus Imbu\u00eddo",
+    "de_DE": "Verzauberter Mulch",
+    "en_GB": "Imbued Mulch",
+    "es_ES": "Mantillo imbuido",
+    "fr_FR": "Paillis impr\u00e9gn\u00e9",
+    "it_IT": "Concime Infuso",
+    "ru_RU": "\u041d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u0430\u044f \u043c\u0443\u043b\u044c\u0447\u0430",
+    "ko_KR": "\uc8fc\uc785\ub41c \uac70\ub984",
+    "zh_TW": "\u704c\u80fd\u5806\u80a5",
+    "zh_CN": "\u6ce8\u80fd\u62a4\u571f"
+  },
+  "description_blz": {}
 }

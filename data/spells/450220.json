@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450220"
+  "SpellID": "450220",
+  "name_blz": {
+    "en_US": "Everforged Sabatons",
+    "es_MX": "Escarpes de aleaci\u00f3n presurizada",
+    "pt_BR": "Escarpes Semperforja",
+    "de_DE": "Ewiggeschmiedete Sabatons",
+    "en_GB": "Everforged Sabatons",
+    "es_ES": "Escarpes de forja eterna",
+    "fr_FR": "Solerets en forge perp\u00e9tuelle",
+    "it_IT": "Calzari Eternoforgiati",
+    "ru_RU": "\u0412\u044b\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043d\u0430\u0432\u0435\u043a\u0438 \u0431\u0430\u0448\u043c\u0430\u043a\u0438",
+    "ko_KR": "\uc601\uc6d0\ubcbc\ub9bc \ubc1c\ub36e\uac1c",
+    "zh_TW": "\u6c38\u9444\u811b\u7532",
+    "zh_CN": "\u6c38\u94f8\u6218\u9774"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444194"
+  "SpellID": "444194",
+  "name_blz": {
+    "en_US": "Darkmoon Sigil: Symbiosis",
+    "es_MX": "Sigilo Luna Negra: Simbiosis",
+    "pt_BR": "Signo de Negraluna: Simbiose",
+    "de_DE": "Dunkelmondsiegel: Symbiose",
+    "en_GB": "Darkmoon Sigil: Symbiosis",
+    "es_ES": "Sigilo de la Luna Negra: Simbiosis",
+    "fr_FR": "Cachet de Sombrelune\u00a0: Symbiose",
+    "it_IT": "Sigillo di Lunacupa: Simbiosi",
+    "ru_RU": "\u0421\u0438\u043c\u0432\u043e\u043b \u041d\u043e\u0432\u043e\u043b\u0443\u043d\u0438\u044f \"\u0421\u0438\u043c\u0431\u0438\u043e\u0437\"",
+    "ko_KR": "\ub2e4\ud06c\ubb38 \uc778\uc7a5: \uacf5\uc0dd",
+    "zh_TW": "\u6697\u6708\u7b26\u5370\uff1a\u5171\u751f",
+    "zh_CN": "\u6697\u6708\u5fbd\u8bb0\uff1a\u5171\u751f"
+  },
+  "description_blz": {}
 }

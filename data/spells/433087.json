@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "433087"
+  "SpellID": "433087",
+  "name_blz": {
+    "en_US": "Formulated Courage",
+    "es_MX": "Valor formulado",
+    "pt_BR": "Coragem Formulada",
+    "de_DE": "Formulierter Mut",
+    "en_GB": "Formulated Courage",
+    "es_ES": "Coraje formulado",
+    "fr_FR": "Courage concoct\u00e9",
+    "it_IT": "Coraggio Espresso",
+    "ru_RU": "\u0417\u0430\u043c\u0435\u0448\u0430\u043d\u043d\u0430\u044f \u043e\u0442\u0432\u0430\u0433\u0430",
+    "ko_KR": "\uc815\ub9bd\ub41c \uc6a9\uae30",
+    "zh_TW": "\u914d\u88fd\u52c7\u6c23",
+    "zh_CN": "\u516c\u5f0f\u4e4b\u52c7"
+  },
+  "description_blz": {}
 }

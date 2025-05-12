@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450241"
+  "SpellID": "450241",
+  "name_blz": {
+    "en_US": "Charged Invoker",
+    "es_MX": "Invocador cargado",
+    "pt_BR": "Invocador Carregado",
+    "de_DE": "Geladener Verk\u00fcnder",
+    "en_GB": "Charged Invoker",
+    "es_ES": "Convocadora cargada",
+    "fr_FR": "Invocatrice charg\u00e9e",
+    "it_IT": "Invocatore Carico",
+    "ru_RU": "\u0417\u0430\u0440\u044f\u0436\u0435\u043d\u043d\u044b\u0439 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u0442\u0435\u043b\u044c",
+    "ko_KR": "\ucda9\ub9cc\ud55c \uae30\uc6d0\ucca0\ud1f4",
+    "zh_TW": "\u5145\u80fd\u5851\u80fd\u9318",
+    "zh_CN": "\u5145\u80fd\u7948\u9524"
+  },
+  "description_blz": {}
 }

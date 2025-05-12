@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442645"
+  "SpellID": "442645",
+  "name_blz": {
+    "en_US": "Quiet River Bass Lure",
+    "es_MX": "Cebo de lobina de r\u00edo serena",
+    "pt_BR": "Isca de Robalo Fluvial Calmo",
+    "de_DE": "K\u00f6der f\u00fcr stille Flussbarsche",
+    "en_GB": "Quiet River Bass Lure",
+    "es_ES": "Cebo de lubina de r\u00edo tranquila",
+    "fr_FR": "App\u00e2t \u00e0 bar muet des rivi\u00e8res",
+    "it_IT": "Esca per Spigola di Fiume Quieta",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0430\u043d\u043a\u0430 \u043d\u0430 \u0431\u0435\u0441\u0448\u0443\u043c\u043d\u043e\u0433\u043e \u0440\u0435\u0447\u043d\u043e\u0433\u043e \u043e\u043a\u0443\u043d\u044f",
+    "ko_KR": "\uce68\ubb35\uc758 \uac15\ub18d\uc5b4 \ubbf8\ub07c",
+    "zh_TW": "\u975c\u6cb3\u9c78\u8a98\u990c",
+    "zh_CN": "\u9759\u8c27\u6cb3\u9c88\u9c7c\u9975"
+  },
+  "description_blz": {}
 }

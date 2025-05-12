@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447356"
+  "SpellID": "447356",
+  "name_blz": {
+    "en_US": "Adjustable Cogwheel",
+    "es_MX": "Engranaje ajustable",
+    "pt_BR": "Engrenagem Ajust\u00e1vel",
+    "de_DE": "Einstellbares Zahnrad",
+    "en_GB": "Adjustable Cogwheel",
+    "es_ES": "Engranaje ajustable",
+    "fr_FR": "Roue dent\u00e9e ajustable",
+    "it_IT": "Ingranaggio Regolabile",
+    "ru_RU": "\u0420\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u0435\u043c\u043e\u0435 \u0437\u0443\u0431\u0447\u0430\u0442\u043e\u0435 \u043a\u043e\u043b\u0435\u0441\u043e",
+    "ko_KR": "\uc870\uc815\uc2dd \ub9de\ubb3c\ub9bc\ud1b1\ub2c8",
+    "zh_TW": "\u8abf\u6574\u5f0f\u69ab\u8f2a",
+    "zh_CN": "\u53ef\u8c03\u9f7f\u8f6e"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447354"
+  "SpellID": "447354",
+  "name_blz": {
+    "en_US": "Overclocked Cogwheel",
+    "es_MX": "Engranaje revolucionado",
+    "pt_BR": "Engrenagem Turbinada",
+    "de_DE": "\u00dcbertaktetes Zahnrad",
+    "en_GB": "Overclocked Cogwheel",
+    "es_ES": "Engranaje revolucionado",
+    "fr_FR": "Roue dent\u00e9e suraliment\u00e9e",
+    "it_IT": "Ingranaggio Velocizzato",
+    "ru_RU": "\u0420\u0430\u0437\u043e\u0433\u043d\u0430\u043d\u043d\u043e\u0435 \u0437\u0443\u0431\u0447\u0430\u0442\u043e\u0435 \u043a\u043e\u043b\u0435\u0441\u043e",
+    "ko_KR": "\uacfc\ubd80\ud558\ub41c \ub9de\ubb3c\ub9bc\ud1b1\ub2c8",
+    "zh_TW": "\u8d85\u983b\u69ab\u8f2a",
+    "zh_CN": "\u8d85\u9891\u9f7f\u8f6e"
+  },
+  "description_blz": {}
 }

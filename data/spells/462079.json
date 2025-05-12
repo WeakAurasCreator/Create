@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462079"
+  "SpellID": "462079",
+  "name_blz": {
+    "en_US": "Beast Mastery Hunter",
+    "es_MX": "Cazador con maestr\u00eda de bestias",
+    "pt_BR": "Ca\u00e7ador de Dom\u00ednio das Feras",
+    "de_DE": "Tierherrschaftsj\u00e4ger",
+    "en_GB": "Beast Mastery Hunter",
+    "es_ES": "Cazador Bestias",
+    "fr_FR": "Chasseur/chasseuse Ma\u00eetrise des b\u00eates",
+    "it_IT": "Cacciatore Affinit\u00e0 Animale",
+    "ru_RU": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a - \u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u0437\u0432\u0435\u0440\u0435\u0439",
+    "ko_KR": "\uc57c\uc218 \uc0ac\ub0e5\uafbc",
+    "zh_TW": "\u91ce\u7378\u63a7\u5236\u7375\u4eba",
+    "zh_CN": "\u91ce\u517d\u63a7\u5236\u730e\u4eba"
+  },
+  "description_blz": {}
 }

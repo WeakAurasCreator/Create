@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442644"
+  "SpellID": "442644",
+  "name_blz": {
+    "en_US": "Specular Rainbowfish Lure",
+    "es_MX": "Cebo de pez arco\u00edris especular",
+    "pt_BR": "Isca de Peixe Arco-\u00edris Especular",
+    "de_DE": "K\u00f6der f\u00fcr Spiegelregenbogenfische",
+    "en_GB": "Specular Rainbowfish Lure",
+    "es_ES": "Cebo de pez arco\u00edris especular",
+    "fr_FR": "App\u00e2t \u00e0 poisson arc-en-ciel sp\u00e9culaire",
+    "it_IT": "Esca per Pesce Arcobaleno Speculare",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0430\u043d\u043a\u0430 \u043d\u0430 \u0431\u043b\u0435\u0441\u0442\u044f\u0449\u0443\u044e \u0440\u0430\u0434\u0443\u0436\u043d\u0443\u044e \u0440\u044b\u0431\u043a\u0443",
+    "ko_KR": "\ubb34\uc9c0\uac2f\ube5b \ub180\ub798\uae30 \ubbf8\ub07c",
+    "zh_TW": "\u93e1\u9762\u5f69\u8679\u9b5a\u8a98\u990c",
+    "zh_CN": "\u9ad8\u5149\u8679\u9c7c\u9c7c\u9975"
+  },
+  "description_blz": {}
 }

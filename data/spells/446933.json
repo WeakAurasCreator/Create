@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446933"
+  "SpellID": "446933",
+  "name_blz": {
+    "en_US": "Slippers of the Woven Dusk",
+    "es_MX": "Zapatillas del ocaso hilado",
+    "pt_BR": "Sapatilhas do Crep\u00fasculo Tecido",
+    "de_DE": "Pantoffeln der gewebten Abendd\u00e4mmerung",
+    "en_GB": "Slippers of the Woven Dusk",
+    "es_ES": "Zapatillas del ocaso tejido",
+    "fr_FR": "Mules du cr\u00e9puscule tress\u00e9",
+    "it_IT": "Pianelle del Vespro Intrecciato",
+    "ru_RU": "\u0422\u0443\u0444\u043b\u0438 \u0438\u0437 \u0437\u0430\u043a\u0430\u0442\u043d\u043e\u0439 \u0442\u043a\u0430\u043d\u0438",
+    "ko_KR": "\uc5ee\uc5b4\ub0b8 \ud669\ud63c\uc758 \ub04c\uc2e0",
+    "zh_TW": "\u7e54\u66ae\u8edf\u9774",
+    "zh_CN": "\u7ec7\u9020\u8424\u66ae\u4fbf\u978b"
+  },
+  "description_blz": {}
 }

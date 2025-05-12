@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447333"
+  "SpellID": "447333",
+  "name_blz": {
+    "en_US": "Aqirite Fueled Samophlange",
+    "es_MX": "Churumbele potenciado con aqirita",
+    "pt_BR": "Rebimboca Movida a Aqirita",
+    "de_DE": "Aqiritbetriebenes Samophlang",
+    "en_GB": "Aqirite Fueled Samophlange",
+    "es_ES": "Churumbele impulsado de aqirita",
+    "fr_FR": "Samophlange aliment\u00e9 en aqirite",
+    "it_IT": "Samoflago ad Aqirite",
+    "ru_RU": "\u0417\u0430\u0440\u044f\u0436\u0435\u043d\u043d\u044b\u0439 \u0430\u043a\u0438\u0440\u0438\u0442\u043e\u043c \u0441\u0430\u043c\u043e\u0444\u043b\u0430\u043d\u0436",
+    "ko_KR": "\uc544\ud034\ub77c\uc774\ud2b8 \uc5f0\ub8cc\uc2dd \uc0ac\ubaa8\ud50c\ub79c\uc9c0",
+    "zh_TW": "\u4e9e\u57fa\u5ca9\u704c\u6ce8\u7684\u4e3b\u52d5\u5f0f\u8ca0\u8f09\u5e73\u8861\u5668",
+    "zh_CN": "\u4e9a\u57fa\u80fd\u4e3b\u52a8\u5f0f\u8d1f\u8f7d\u5e73\u8861\u5668"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "441460"
+  "SpellID": "441460",
+  "name_blz": {
+    "en_US": "Blessed Weapon Grip",
+    "es_MX": "Agarre de arma bendecida",
+    "pt_BR": "Empunhadura Aben\u00e7oada para Arma",
+    "de_DE": "Gesegneter Waffengriff",
+    "en_GB": "Blessed Weapon Grip",
+    "es_ES": "Empu\u00f1adura de arma bendita",
+    "fr_FR": "Manche d\u2019arme b\u00e9nie",
+    "it_IT": "Impugnatura dell'Arma Benedetta",
+    "ru_RU": "\u0420\u0443\u043a\u043e\u044f\u0442\u044c \u0431\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0440\u0443\u0436\u0438\u044f",
+    "ko_KR": "\ucd95\ubcf5\ubc1b\uc740 \ubb34\uae30 \uc190\uc7a1\uc774",
+    "zh_TW": "\u795d\u798f\u6b66\u5668\u63e1\u67c4",
+    "zh_CN": "\u8499\u798f\u6b66\u5668\u63e1\u67c4"
+  },
+  "description_blz": {}
 }

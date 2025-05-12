@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444198"
+  "SpellID": "444198",
+  "name_blz": {
+    "en_US": "Vagabond's Careful Crutch",
+    "es_MX": "Bast\u00f3n delicado del vagabundo",
+    "pt_BR": "Bengala Cautelosa do Vagabundo",
+    "de_DE": "Kompakte Kr\u00fccke des Vagabunden",
+    "en_GB": "Vagabond's Careful Crutch",
+    "es_ES": "Muleta cuidadosa de vagabundo",
+    "fr_FR": "B\u00e9quille prudente de vagabondage",
+    "it_IT": "Stampella Attenta del Vagabondo",
+    "ru_RU": "\u0410\u043a\u043a\u0443\u0440\u0430\u0442\u043d\u0430\u044f \u0442\u0440\u043e\u0441\u0442\u044c \u0431\u0440\u043e\u0434\u044f\u0433\u0438",
+    "ko_KR": "\ubc29\ub791\uc790\uc758 \uc2e0\uc911\ud55c \ubaa9\ubc1c",
+    "zh_TW": "\u904a\u6c11\u7684\u7cbe\u7dfb\u62d0\u6756",
+    "zh_CN": "\u6d41\u6d6a\u8005\u7684\u7cbe\u7ec6\u814b\u6756"
+  },
+  "description_blz": {}
 }

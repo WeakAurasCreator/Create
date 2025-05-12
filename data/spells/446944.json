@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446944"
+  "SpellID": "446944",
+  "name_blz": {
+    "en_US": "Consecrated Mantle",
+    "es_MX": "Manto consagrado",
+    "pt_BR": "Dragonas Consagradas",
+    "de_DE": "Geweihter Mantel",
+    "en_GB": "Consecrated Mantle",
+    "es_ES": "Manto consagrado",
+    "fr_FR": "Mantelet consacr\u00e9",
+    "it_IT": "Coprispalle Consacrati",
+    "ru_RU": "\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0435 \u043e\u043f\u043b\u0435\u0447\u044c\u0435",
+    "ko_KR": "\ucd95\uc131\ub41c \uc5b4\uae68\ub367\uc637",
+    "zh_TW": "\u8056\u5316\u62ab\u80a9",
+    "zh_CN": "\u5723\u5316\u62ab\u80a9"
+  },
+  "description_blz": {}
 }

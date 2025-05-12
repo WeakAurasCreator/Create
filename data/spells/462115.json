@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462115"
+  "SpellID": "462115",
+  "name_blz": {
+    "en_US": "Arms Warrior",
+    "es_MX": "Guerrero de armas",
+    "pt_BR": "Guerreiro em Armas",
+    "de_DE": "Waffenkrieger",
+    "en_GB": "Arms Warrior",
+    "es_ES": "Guerrero Armas",
+    "fr_FR": "Guerrier/guerri\u00e8re Armes",
+    "it_IT": "Guerriero Armi",
+    "ru_RU": "\u0412\u043e\u0438\u043d - \u041e\u0440\u0443\u0436\u0438\u0435",
+    "ko_KR": "\ubb34\uae30 \uc804\uc0ac",
+    "zh_TW": "\u6b66\u5668\u6230\u58eb",
+    "zh_CN": "\u6b66\u5668\u6218\u58eb"
+  },
+  "description_blz": {}
 }

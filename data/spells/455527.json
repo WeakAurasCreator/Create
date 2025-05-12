@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "455527"
+  "SpellID": "455527",
+  "name_blz": {
+    "en_US": "Dawnweaving",
+    "es_MX": "Tejido de alba",
+    "pt_BR": "Tecelagem Alvorecente",
+    "de_DE": "Morgengespinstweben",
+    "en_GB": "Dawnweaving",
+    "es_ES": "Tejer el amanecer",
+    "fr_FR": "Filage de tisse-aube",
+    "it_IT": "Tessitura dell'Alba",
+    "ru_RU": "\u0420\u0430\u0441\u0441\u0432\u0435\u0442\u043d\u0430\u044f \u0442\u043a\u0430\u043d\u044c",
+    "ko_KR": "\uc5ec\uba85\ub9e4\ub4ed \uc9c1\uc870",
+    "zh_TW": "\u6668\u7e54",
+    "zh_CN": "\u6668\u7eb9\u5236\u4f5c"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447353"
+  "SpellID": "447353",
+  "name_blz": {
+    "en_US": "Serrated Cogwheel",
+    "es_MX": "Engranaje dentado",
+    "pt_BR": "Engrenagem Serrilhada",
+    "de_DE": "Gezacktes Zahnrad",
+    "en_GB": "Serrated Cogwheel",
+    "es_ES": "Engranaje dentado",
+    "fr_FR": "Roue dent\u00e9e en dents de scie",
+    "it_IT": "Ingranaggio Dentellato",
+    "ru_RU": "\u0417\u0430\u0437\u0443\u0431\u0440\u0435\u043d\u043d\u043e\u0435 \u0437\u0443\u0431\u0447\u0430\u0442\u043e\u0435 \u043a\u043e\u043b\u0435\u0441\u043e",
+    "ko_KR": "\ud1b1\ub2c8 \ub9de\ubb3c\ub9bc\ud1b1\ub2c8",
+    "zh_TW": "\u92f8\u9f52\u69ab\u8f2a",
+    "zh_CN": "\u952f\u72b6\u9f7f\u8f6e"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450558"
+  "SpellID": "450558",
+  "name_blz": {
+    "en_US": "Harmony of the Heavens",
+    "es_MX": "Armon\u00eda de los cielos",
+    "pt_BR": "Harmonia dos C\u00e9us",
+    "de_DE": "Harmonie der Himmel",
+    "en_GB": "Harmony of the Heavens",
+    "es_ES": "Armon\u00eda de los cielos",
+    "fr_FR": "Harmonie des cieux",
+    "it_IT": "Armonia dei Cieli",
+    "ru_RU": "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f \u043d\u0435\u0431\u0435\u0441",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \uc870\ud654",
+    "zh_TW": "\u5929\u4e4b\u548c\u8ae7",
+    "zh_CN": "\u661f\u6708\u8c10\u5f8b"
+  },
+  "description_blz": {
+    "en_US": "Starsurge or Starfall increase your current Eclipse's Arcane or Nature damage bonus by an additional 2%, up to 6%.",
+    "es_MX": "Oleada de estrellas o Lluvia de estrellas aumentan la bonificaci\u00f3n de da\u00f1o arcano o de naturaleza de tu Eclipse actual un 2% m\u00e1s, hasta un 6%.",
+    "pt_BR": "Surto Estelar ou Chuva Estelar aumentam o b\u00f4nus de dano Arcano ou de Natureza do seu Eclipse atual em mais 2%, at\u00e9 um m\u00e1ximo de 6%.",
+    "de_DE": "'Sternensog' oder 'Sternenregen' erh\u00f6hen den Arkan- oder Naturschadenbonus Eurer aktuellen 'Finsternis' um zus\u00e4tzlich 2%, bis zu 6%.",
+    "en_GB": "Starsurge or Starfall increase your current Eclipse's Arcane or Nature damage bonus by an additional 2%, up to 6%.",
+    "es_ES": "Oleada de estrellas o Lluvia de estrellas aumentan un 2% m\u00e1s el bonus de da\u00f1o Arcano o de Naturaleza de tu Eclipse actual, hasta un 6% como m\u00e1ximo.",
+    "fr_FR": "\u00c9ruption stellaire et M\u00e9t\u00e9ore am\u00e9liorent le bonus de d\u00e9g\u00e2ts des arcanes ou de nature de votre \u00c9clipse actuelle de 2\u00a0% suppl\u00e9mentaires, jusqu\u2019\u00e0 6\u00a0%.",
+    "it_IT": "Cometa Arcana o Pioggia di Stelle aumentano il bonus ai danni da arcano o da natura attuale di Eclissi del 2%, fino a un massimo del 6%.",
+    "ru_RU": "\"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u0438\u043b\u0438 \"\u0417\u0432\u0435\u0437\u0434\u043e\u043f\u0430\u0434\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u0431\u043e\u043d\u0443\u0441 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \"\u0417\u0430\u0442\u043c\u0435\u043d\u0438\u044f\" \u043a \u0443\u0440\u043e\u043d\u0443 \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438\u043b\u0438 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0435\u0449\u0435 \u043d\u0430 2% \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 6%.",
+    "ko_KR": "\ubcc4\ube5b\uc1c4\ub3c4 \ub610\ub294 \ubcc4\ub625\ubcc4 \uc2dc\uc804 \uc2dc \ud604\uc7ac \ud65c\uc131\ud654\ub41c \uc77c\uc6d4\uc2dd\uc758 \ube44\uc804 \ub610\ub294 \uc790\uc5f0 \uacf5\uaca9\ub825 \uc99d\uac00\ub7c9\uc774 \ucd94\uac00\ub85c 2%\ub9cc\ud07c, \ucd5c\ub300 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u661f\u6e67\u8853\u6216\u661f\u6b9e\u8853\u6703\u4f7f\u4f60\u7576\u524d\u8755\u661f\u853d\u6708\u7684\u79d8\u6cd5\u6216\u81ea\u7136\u50b7\u5bb3\u52a0\u6210\u984d\u5916\u63d0\u9ad82%\uff0c\u6700\u9ad8\u53ef\u90546%\u3002",
+    "zh_CN": "\u661f\u6d8c\u672f\u6216\u661f\u8fb0\u5760\u843d\u4f1a\u4f7f\u65e5\u6708\u4e4b\u8680\u5f53\u524d\u7684\u5965\u672f\u6216\u81ea\u7136\u4f24\u5bb3\u52a0\u6210\u989d\u5916\u63d0\u9ad82%\uff0c\u6700\u591a6%\u3002"
+  }
 }
