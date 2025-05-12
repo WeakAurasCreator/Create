@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450282"
+  "SpellID": "450282",
+  "name_blz": {
+    "en_US": "Artisan Blacksmith's Toolbox",
+    "es_MX": "Caja de herramientas de artesano herrero",
+    "pt_BR": "Caixa de Ferramentas do Ferreiro Art\u00edfice",
+    "de_DE": "Schmiedewerkzeugkasten des Kunsthandwerkers",
+    "en_GB": "Artisan Blacksmith's Toolbox",
+    "es_ES": "Caja de herramientas de herrero artesano",
+    "fr_FR": "Bo\u00eete \u00e0 outils de forge d\u2019artisan",
+    "it_IT": "Attrezzi da Fabbro Artigianali",
+    "ru_RU": "\u041d\u0430\u0431\u043e\u0440 \u043a\u0443\u0437\u043d\u0435\u0446\u0430-\u0440\u0435\u043c\u0435\u0441\u043b\u0435\u043d\u043d\u0438\u043a\u0430",
+    "ko_KR": "\uc7a5\uc778 \ub300\uc7a5\uc7a5\uc774 \uc5f0\uc7a5\ud1b5",
+    "zh_TW": "\u5de5\u5320\u9435\u5320\u5de5\u5177\u7bb1",
+    "zh_CN": "\u5320\u4eba\u94c1\u5320\u5de5\u5177\u7bb1"
+  },
+  "description_blz": {}
 }

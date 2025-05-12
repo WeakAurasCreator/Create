@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "463383"
+  "SpellID": "463383",
+  "name_blz": {
+    "en_US": "Crypt Lord's Severed Thread",
+    "es_MX": "Hilo cortado del se\u00f1or de la cripta",
+    "pt_BR": "Fio Cortado do Senhor da Cripta",
+    "de_DE": "Durchtrennter Faden des Gruftlords",
+    "en_GB": "Crypt Lord's Severed Thread",
+    "es_ES": "Hilo cortado de se\u00f1or de la cripta",
+    "fr_FR": "Fil tranch\u00e9 de seigneur des cryptes",
+    "it_IT": "Filo Reciso del Signore delle Cripte",
+    "ru_RU": "\u041e\u0442\u0440\u0435\u0437\u0430\u043d\u043d\u0430\u044f \u043d\u0438\u0442\u044c \u0432\u043b\u0430\u0434\u044b\u043a\u0438 \u0441\u043a\u043b\u0435\u043f\u0430",
+    "ko_KR": "\uc9c0\ud558\uad70\uc8fc\uc758 \uc808\ub2e8\ub41c \uc2e4\ud1b3",
+    "zh_TW": "\u5730\u7a74\u9818\u4e3b\u7684\u65b7\u88c2\u7d72\u7dda",
+    "zh_CN": "\u5730\u7a74\u9886\u4e3b\u7684\u65a9\u79bb\u4e4b\u4e1d"
+  },
+  "description_blz": {
+    "en_US": "Adds a unique visual effect to the hearthstone sold by the Severed Threads Quartermaster, allowing you to return home in style.",
+    "es_MX": "Agrega un efecto visual \u00fanico a la piedra de hogar que vende la intendente de los Hilos Cortados, lo que te permitir\u00e1 volver a casa con estilo.",
+    "pt_BR": "Adiciona um efeito visual \u00fanico \u00e0 pedra de regresso vendida pelo Intendente dos Fios Cortados, permitindo voltar para casa com estilo.",
+    "de_DE": "Verleiht dem Ruhestein, der beim R\u00fcstmeister der Durchtrennten F\u00e4den verf\u00fcgbar ist, einen einzigartigen visuellen Effekt, damit Ihr stilvoll nach Hause kommt.",
+    "en_GB": "Adds a unique visual effect to the hearthstone sold by the Severed Threads Quartermaster, allowing you to return home in style.",
+    "es_ES": "A\u00f1ade un efecto visual \u00fanico a la piedra de hogar que vende el intendente de los Hilos Cortados, lo que te permite volver a casa con estilo.",
+    "fr_FR": "Ajoute un effet visuel unique \u00e0 la pierre de foyer vendue par l\u2019intendance des Fils tranch\u00e9s, vous permettant de rentrer chez vous avec \u00e9l\u00e9gance.",
+    "it_IT": "Aggiunge un effetto grafico unico alla Pietra del Ritorno venduta dal Quartiermastro dei Fili Recisi, permettendoti di tornare a casa con stile.",
+    "ru_RU": "\u0414\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0434\u043b\u044f \u043a\u0430\u043c\u043d\u044f \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f, \u043f\u0440\u043e\u0434\u0430\u044e\u0449\u0435\u0433\u043e\u0441\u044f \u0443 \u0438\u043d\u0442\u0435\u043d\u0434\u0430\u043d\u0442\u0430 \u041e\u0442\u0440\u0435\u0437\u0430\u043d\u043d\u044b\u0445 \u043d\u0438\u0442\u0435\u0439. \u0412\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0439\u0442\u0435\u0441\u044c \u0434\u043e\u043c\u043e\u0439 \u043a\u0440\u0430\u0441\u0438\u0432\u043e!",
+    "ko_KR": "\ub2e8\uc808\ub41c \uc2e4\ud1b3 \ubcd1\ucc38\uc7a5\uad50\uac00 \ud310\ub9e4\ud558\ub294 \uadc0\ud658\uc11d\uc5d0 \ub3c5\ud2b9\ud55c \uc2dc\uac01\ud6a8\uacfc\ub97c \ucd94\uac00\ud569\ub2c8\ub2e4. \uba4b\uc9c0\uac8c \uadc0\ud658\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u65b7\u88c2\u7d72\u7dda\u8ecd\u9700\u5b98\u8ca9\u552e\u7684\u7210\u77f3\u589e\u52a0\u7368\u4e00\u7121\u4e8c\u7684\u8996\u89ba\u6548\u679c\uff0c\u8b93\u4f60\u80fd\u5920\u62c9\u98a8\u5730\u56de\u5bb6\u3002",
+    "zh_CN": "\u4e3a\u65a9\u79bb\u4e4b\u4e1d\u519b\u9700\u5b98\u51fa\u552e\u7684\u7089\u77f3\u589e\u6dfb\u72ec\u7279\u7684\u89c6\u89c9\u6548\u679c\uff0c\u4f7f\u4f60\u80fd\u591f\u70ab\u9177\u5730\u56de\u5bb6\u3002"
+  }
 }

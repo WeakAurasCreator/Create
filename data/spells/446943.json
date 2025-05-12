@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446943"
+  "SpellID": "446943",
+  "name_blz": {
+    "en_US": "Consecrated Leggings",
+    "es_MX": "Leotardos consagrados",
+    "pt_BR": "Perneiras Consagradas",
+    "de_DE": "Geweihte Gamaschen",
+    "en_GB": "Consecrated Leggings",
+    "es_ES": "Leotardos consagrados",
+    "fr_FR": "Jambi\u00e8res consacr\u00e9es",
+    "it_IT": "Gambiere Consacrate",
+    "ru_RU": "\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u043f\u043e\u043d\u043e\u0436\u0438",
+    "ko_KR": "\ucd95\uc131\ub41c \ub2e4\ub9ac\ubcf4\ud638\uad6c",
+    "zh_TW": "\u8056\u5316\u8b77\u817f",
+    "zh_CN": "\u5723\u5316\u7ed1\u817f"
+  },
+  "description_blz": {}
 }

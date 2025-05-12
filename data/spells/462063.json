@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462063"
+  "SpellID": "462063",
+  "name_blz": {
+    "en_US": "Frost Death Knight",
+    "es_MX": "Caballero de la muerte de escarcha",
+    "pt_BR": "Cavaleiro da Morte G\u00e9lido",
+    "de_DE": "Frosttodesritter",
+    "en_GB": "Frost Death Knight",
+    "es_ES": "Caballero de la Muerte Escarcha",
+    "fr_FR": "Chevalier/chevali\u00e8re de la mort Givre",
+    "it_IT": "Cavaliere della Morte Gelo",
+    "ru_RU": "\u0420\u044b\u0446\u0430\u0440\u044c \u0441\u043c\u0435\u0440\u0442\u0438 - \u041b\u0435\u0434",
+    "ko_KR": "\ub0c9\uae30 \uc8fd\uc74c\uc758 \uae30\uc0ac",
+    "zh_TW": "\u51b0\u971c\u6b7b\u4ea1\u9a0e\u58eb",
+    "zh_CN": "\u51b0\u971c\u6b7b\u4ea1\u9a91\u58eb"
+  },
+  "description_blz": {}
 }

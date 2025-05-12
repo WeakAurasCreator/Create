@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446937"
+  "SpellID": "446937",
+  "name_blz": {
+    "en_US": "Consecrated Slippers",
+    "es_MX": "Zapatillas consagradas",
+    "pt_BR": "Sapatilhas Consagradas",
+    "de_DE": "Geweihte Pantoffeln",
+    "en_GB": "Consecrated Slippers",
+    "es_ES": "Zapatillas consagradas",
+    "fr_FR": "Mules consacr\u00e9es",
+    "it_IT": "Pianelle Consacrate",
+    "ru_RU": "\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u0442\u0443\u0444\u043b\u0438",
+    "ko_KR": "\ucd95\uc131\ub41c \ub04c\uc2e0",
+    "zh_TW": "\u8056\u5316\u8edf\u9774",
+    "zh_CN": "\u5723\u5316\u4fbf\u978b"
+  },
+  "description_blz": {}
 }

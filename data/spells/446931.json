@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446931"
+  "SpellID": "446931",
+  "name_blz": {
+    "en_US": "Treads of the Woven Dawn",
+    "es_MX": "Botines del alba hilada",
+    "pt_BR": "Botinas da Aurora Tecida",
+    "de_DE": "Treter der gewebten Morgend\u00e4mmerung",
+    "en_GB": "Treads of the Woven Dawn",
+    "es_ES": "Botines del amanecer tejido",
+    "fr_FR": "Bottines de l\u2019aube tress\u00e9e",
+    "it_IT": "Stivaletti dell'Alba Intrecciata",
+    "ru_RU": "\u0411\u043e\u0442\u0444\u043e\u0440\u0442\u044b \u0438\u0437 \u0440\u0430\u0441\u0441\u0432\u0435\u0442\u043d\u043e\u0439 \u0442\u043a\u0430\u043d\u0438",
+    "ko_KR": "\uc5ee\uc5b4\ub0b8 \uc5ec\uba85\uc758 \ubc1c\ubcf4\ud638\ub300",
+    "zh_TW": "\u7e54\u6668\u8db3\u9774",
+    "zh_CN": "\u7ec7\u9020\u66d9\u5149\u4e4b\u5c65"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462105"
+  "SpellID": "462105",
+  "name_blz": {
+    "en_US": "Subtlety Rogue",
+    "es_MX": "P\u00edcaro de sutileza",
+    "pt_BR": "Ladino de Subterf\u00fagio",
+    "de_DE": "T\u00e4uschungsschurke",
+    "en_GB": "Subtlety Rogue",
+    "es_ES": "P\u00edcaro Sutileza",
+    "fr_FR": "Voleur/Voleuse Finesse",
+    "it_IT": "Ladro Scaltrezza",
+    "ru_RU": "\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0438\u043a - \u0421\u043a\u0440\u044b\u0442\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc7a0\ud589 \ub3c4\uc801",
+    "zh_TW": "\u654f\u92b3\u76dc\u8cca",
+    "zh_CN": "\u654f\u9510\u6f5c\u884c\u8005"
+  },
+  "description_blz": {}
 }

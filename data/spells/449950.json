@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449950"
+  "SpellID": "449950",
+  "name_blz": {
+    "en_US": "Khaz Algar Transmutation Mastery",
+    "es_MX": "Maestr\u00eda en transmutaci\u00f3n de Khaz Algar",
+    "pt_BR": "Maestria em Transmuta\u00e7\u00e3o de Khaz Algar",
+    "de_DE": "Transmutationsmeisterschaft von Khaz Algar",
+    "en_GB": "Khaz Algar Transmutation Mastery",
+    "es_ES": "Maestr\u00eda en transmutaciones de Khaz Algar",
+    "fr_FR": "Ma\u00eetrise de la transmutation de Khaz Algar",
+    "it_IT": "Maestria nella Trasmutazione di Khaz Algar",
+    "ru_RU": "\u041c\u0430\u0441\u0442\u0435\u0440 \u0442\u0440\u0430\u043d\u0441\u043c\u0443\u0442\u0430\u0446\u0438\u0438 \u041a\u0430\u0437 \u0410\u043b\u0433\u0430\u0440\u0430",
+    "ko_KR": "\uce74\uc988 \uc54c\uac00\ub974 \ubcc0\ud658\uc758 \ub300\uac00",
+    "zh_TW": "\u5361\u8332\u963f\u723e\u52a0\u8f49\u5316\u7cbe\u901a",
+    "zh_CN": "\u5361\u5179\u963f\u52a0\u8f6c\u5316\u4e13\u7cbe"
+  },
+  "description_blz": {}
 }

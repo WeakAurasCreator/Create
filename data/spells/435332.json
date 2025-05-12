@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "435332"
+  "SpellID": "435332",
+  "name_blz": {
+    "en_US": "Prismatic Null Stone",
+    "es_MX": "Piedra nula prism\u00e1tica",
+    "pt_BR": "Pedra Nula Prism\u00e1tica",
+    "de_DE": "Prismatischer Nullstein",
+    "en_GB": "Prismatic Null Stone",
+    "es_ES": "Piedra nula prism\u00e1tica",
+    "fr_FR": "Pierre du N\u00e9ant prismatique",
+    "it_IT": "Pietra del Nulla Prismatica",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043d\u0443\u043b\u044c-\u043a\u0430\u043c\u0435\u043d\u044c",
+    "ko_KR": "\uc624\uc0c9 \ubb34\uc704\uc11d",
+    "zh_TW": "\u7a1c\u5f69\u7a7a\u7121\u77f3",
+    "zh_CN": "\u68f1\u5f69\u865a\u65e0\u77f3"
+  },
+  "description_blz": {}
 }
