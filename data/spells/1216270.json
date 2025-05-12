@@ -34,5 +34,10 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1216270"
+  "SpellID": "1216270",
+  "name_blz": {
+    "en_US": "Debug - Trait Test 2",
+    "en_GB": "Debug - Trait Test 2"
+  },
+  "description_blz": {}
 }
