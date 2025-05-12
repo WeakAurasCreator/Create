@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "458315"
+  "SpellID": "458315",
+  "name_blz": {
+    "en_US": "Random",
+    "es_MX": "Aleatorio",
+    "pt_BR": "Aleat\u00f3rio",
+    "de_DE": "Zufall",
+    "en_GB": "Random",
+    "es_ES": "Aleatorio",
+    "fr_FR": "Al\u00e9atoire",
+    "it_IT": "Casuale",
+    "ru_RU": "\u0421\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440",
+    "ko_KR": "\ubb34\uc791\uc704",
+    "zh_TW": "\u96a8\u6a5f",
+    "zh_CN": "\u968f\u673a"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "434551"
+  "SpellID": "434551",
+  "name_blz": {
+    "en_US": "Masterful Ruby",
+    "es_MX": "Rub\u00ed de maestr\u00eda",
+    "pt_BR": "Rubi Primoroso",
+    "de_DE": "Meisterhafter Rubin",
+    "en_GB": "Masterful Ruby",
+    "es_ES": "Rub\u00ed magistral",
+    "fr_FR": "Rubis magistral",
+    "it_IT": "Rubino Magistrale",
+    "ru_RU": "\u0420\u0443\u0431\u0438\u043d \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uac15\ub825\ud55c \ub8e8\ube44",
+    "zh_TW": "\u7cbe\u6e5b\u7684\u7d05\u5bf6\u77f3",
+    "zh_CN": "\u7cbe\u6e5b\u7ea2\u5b9d\u77f3"
+  },
+  "description_blz": {}
 }

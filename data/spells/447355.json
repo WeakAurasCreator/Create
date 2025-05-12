@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447355"
+  "SpellID": "447355",
+  "name_blz": {
+    "en_US": "Impeccable Cogwheel",
+    "es_MX": "Engranaje impecable",
+    "pt_BR": "Engrenagem Impec\u00e1vel",
+    "de_DE": "Einwandfreies Zahnrad",
+    "en_GB": "Impeccable Cogwheel",
+    "es_ES": "Engranaje impecable",
+    "fr_FR": "Roue dent\u00e9e impeccable",
+    "it_IT": "Ingranaggio Impeccabile",
+    "ru_RU": "\u0411\u0435\u0437\u0443\u043f\u0440\u0435\u0447\u043d\u043e\u0435 \u0437\u0443\u0431\u0447\u0430\u0442\u043e\u0435 \u043a\u043e\u043b\u0435\u0441\u043e",
+    "ko_KR": "\uc644\ubcbd\ud55c \ub9de\ubb3c\ub9bc\ud1b1\ub2c8",
+    "zh_TW": "\u5b8c\u7f8e\u69ab\u8f2a",
+    "zh_CN": "\u5b8c\u7f8e\u9f7f\u8f6e"
+  },
+  "description_blz": {}
 }

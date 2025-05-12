@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "462088"
+  "SpellID": "462088",
+  "name_blz": {
+    "en_US": "Monk",
+    "es_MX": "Monje",
+    "pt_BR": "Monge",
+    "de_DE": "M\u00f6nch",
+    "en_GB": "Monk",
+    "es_ES": "Monje",
+    "fr_FR": "Moine/moniale",
+    "it_IT": "Monaco",
+    "ru_RU": "\u041c\u043e\u043d\u0430\u0445",
+    "ko_KR": "\uc218\ub3c4\uc0ac",
+    "zh_TW": "\u6b66\u50e7",
+    "zh_CN": "\u6b66\u50e7"
+  },
+  "description_blz": {}
 }

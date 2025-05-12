@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "456051"
+  "SpellID": "456051",
+  "name_blz": {
+    "en_US": "Rak-Ush Stagshell World Quests Unlocked",
+    "es_MX": "Misiones de mundo de caparapincho Rak-Ush desbloqueadas",
+    "pt_BR": "Miss\u00f5es Mundiais do Durapa\u00e7a de Rak-Ush Desbloqueadas",
+    "de_DE": "Weltquests von Rak-Ush Hirschpanzer freigeschaltet",
+    "en_GB": "Rak-Ush Stagshell World Quests Unlocked",
+    "es_ES": "Misiones del mundo de cornaconchas de Rak-Ush desbloqueadas",
+    "fr_FR": "Exp\u00e9ditions des lucanes de Rak-Ush d\u00e9bloqu\u00e9es",
+    "it_IT": "Missioni Mondiali del Gusciocorno di Rak-Ush Sbloccate",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u044f, \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435 \u0441 \u0440\u0430\u043a-\u0443\u0448\u0441\u043a\u0438\u043c\u0438 \u043e\u043b\u0435\u043d\u0435\u043f\u0430\u043d\u0446\u0438\u0440\u043d\u0438\u043a\u0430\u043c\u0438",
+    "ko_KR": "\ub77d\uc6b0\uc26c \uac00\uc9c0\ubfd4\uaecd\uc9c8 \uc804\uc5ed \ud018\uc2a4\ud2b8 \ud50c\ub808\uc774 \uac00\ub2a5",
+    "zh_TW": "\u89e3\u9396\u62c9\u514b-\u4e9e\u7dd2\u9e7f\u6bbc\u87f2\u4e16\u754c\u4efb\u52d9",
+    "zh_CN": "\u62c9\u514b-\u4e4c\u4ec0\u9e7f\u58f3\u866b\u4e16\u754c\u4efb\u52a1\u5df2\u89e3\u9501"
+  },
+  "description_blz": {}
 }
