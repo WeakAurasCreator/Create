@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "108416"
+  "SpellID": "108416",
+  "name_blz": {
+    "en_US": "Dark Pact",
+    "es_MX": "Pacto oscuro",
+    "pt_BR": "Pacto Sombrio",
+    "de_DE": "Dunkler Pakt",
+    "en_GB": "Dark Pact",
+    "es_ES": "Pacto oscuro",
+    "fr_FR": "Sombre pacte",
+    "it_IT": "Patto Oscuro",
+    "ru_RU": "\u0422\u0435\u043c\u043d\u044b\u0439 \u043f\u0430\u043a\u0442",
+    "ko_KR": "\uc5b4\ub460\uc758 \uc11c\uc57d",
+    "zh_TW": "\u9ed1\u6697\u5951\u7d04",
+    "zh_CN": "\u9ed1\u6697\u5951\u7ea6"
+  },
+  "description_blz": {
+    "en_US": "Sacrifices 20% of your current health to shield you for 200% of the sacrificed health plus an additional 13,835 for 20 sec. Usable while suffering from control impairing effects.",
+    "es_MX": "Sacrifica un 20% de tu salud actual para otorgarte un escudo equivalente al 200% de la salud sacrificada m\u00e1s 13,835 p. durante 20 s. Se puede utilizar mientras sufres efectos de p\u00e9rdida de control.",
+    "pt_BR": "Sacrifica 20% dos seus pontos de vida atuais para receber um escudo equivalente a 200% da vida sacrificada mais 13.835 por 20 s. Pode ser usado sob efeitos que prejudicam o controle.",
+    "de_DE": "Opfert 20% Eurer aktuellen Gesundheit, um Euch 20 Sek. lang in einen Schild zu h\u00fcllen, der Schaden in H\u00f6he von 200% der geopferten Gesundheit plus 13.835 absorbiert. Kann eingesetzt werden, w\u00e4hrend Ihr von Kontrollverlusteffekten betroffen seid.",
+    "en_GB": "Sacrifices 20% of your current health to shield you for 200% of the sacrificed health plus an additional 13,835 for 20 sec. Usable while suffering from control impairing effects.",
+    "es_ES": "Sacrifica un 20% de tu salud actual para otorgarte un escudo con un 200% de la salud sacrificada y 13835 p. extras durante 20 s. Se puede usar mientras se est\u00e1 bajo efectos de p\u00e9rdida de control.",
+    "fr_FR": "Vous sacrifiez 20% de vos points de vie actuels pour b\u00e9n\u00e9ficier d\u2019une protection absorbant un montant de d\u00e9g\u00e2ts \u00e9gal \u00e0 200% des points de vie sacrifi\u00e9s, plus 13835\u00a0points suppl\u00e9mentaires. Dure 20 s. Utilisable lorsque vous \u00eates victime d\u2019effets de contr\u00f4le.",
+    "it_IT": "Sacrifica il 20% della salute attuale per proteggere da danni subiti pari al 200% della salute sacrificata, e 13.835 danni subiti aggiuntivi, per 20 s. Utilizzabile anche sotto effetti di limitazione al controllo del personaggio.",
+    "ru_RU": "\u0416\u0435\u0440\u0442\u0432\u0443\u0435\u0442 20% \u0442\u0435\u043a\u0443\u0449\u0435\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u0434\u0430\u0435\u0442 \u0449\u0438\u0442, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 200% \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f + 13835 \u0435\u0434. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 20 \u0441\u0435\u043a. \u041c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f.",
+    "ko_KR": "\ud604\uc7ac \uc0dd\uba85\ub825\uc758 20%\ub9cc\ud07c\uc744 \ud76c\uc0dd\uc2dc\ucf1c, 20\ucd08 \ub3d9\uc548 \ud76c\uc0dd\ud55c \uc0dd\uba85\ub825\uc758 200%\ub9cc\ud07c \ud53c\ud574\ub97c \ud761\uc218\ud558\uace0 \ucd94\uac00\ub85c 13,835\uc758 \ud53c\ud574\ub97c \ud761\uc218\ud558\ub294 \ubcf4\ud638\ub9c9\uc744 \uc790\uc2e0\uc5d0\uac8c \uc50c\uc6c1\ub2c8\ub2e4. \uc81c\uc5b4 \ubc29\ud574 \ud6a8\uacfc\uc5d0 \uac78\ub9b0 \uc0c1\ud0dc\uc5d0\uc11c\ub3c4 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u72a7\u7272\u4f60\u7576\u524d\u751f\u547d\u529b\u768420%\uff0c\u4f7f\u4f60\u7372\u5f97\u76f8\u7576\u65bc\u72a7\u7272\u751f\u547d\u529b200%\u53ca\u984d\u591613,835\u9ede\u7684\u5438\u6536\u8b77\u76fe\uff0c\u6301\u7e8c20\u79d2\u3002\u53ef\u5728\u53d7\u5230\u63a7\u5834\u6548\u679c\u6642\u4f7f\u7528\u3002",
+    "zh_CN": "\u727a\u7272\u4f60\u5f53\u524d\u751f\u547d\u503c\u768420%\uff0c\u4e3a\u4f60\u65bd\u52a0\u62a4\u76fe\u62b5\u6321\u4f24\u5bb3\u3002\u8be5\u62a4\u76fe\u53ef\u5438\u6536\u76f8\u5f53\u4e8e\u5df2\u727a\u7272\u751f\u547d\u503c\u7684200%\u4ee5\u53ca\u989d\u5916\u768413,835\u70b9\u4f24\u5bb3\uff0c\u6301\u7eed20\u79d2\u3002\u53ef\u5728\u906d\u53d7\u63a7\u5236\u9650\u5236\u6548\u679c\u65f6\u65bd\u653e\u3002"
+  }
 }

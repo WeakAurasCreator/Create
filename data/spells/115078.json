@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "115078"
+  "SpellID": "115078",
+  "name_blz": {
+    "en_US": "Paralysis",
+    "es_MX": "Par\u00e1lisis",
+    "pt_BR": "Paralisia",
+    "de_DE": "Paralyse",
+    "en_GB": "Paralysis",
+    "es_ES": "Par\u00e1lisis",
+    "fr_FR": "Paralysie",
+    "it_IT": "Paralisi",
+    "ru_RU": "\u041f\u0430\u0440\u0430\u043b\u0438\u0447",
+    "ko_KR": "\ub9c8\ube44",
+    "zh_TW": "\u9ede\u7a74",
+    "zh_CN": "\u5206\u7b4b\u9519\u9aa8"
+  },
+  "description_blz": {
+    "en_US": "Incapacitates the target for 1 min. Limit 1. Damage may cancel the effect.",
+    "es_MX": "Incapacita al objetivo durante 1 min. L\u00edmite de 1. El da\u00f1o puede cancelar el efecto.",
+    "pt_BR": "Incapacita o alvo por 1 min. Limite de 1. Dano pode cancelar o efeito.",
+    "de_DE": "Macht das Ziel f\u00fcr 1 Min. handlungsunf\u00e4hig. Es kann nur 1 Ziel betroffen sein. Schaden kann den Effekt abbrechen.",
+    "en_GB": "Incapacitates the target for 1 min. Limit 1. Damage may cancel the effect.",
+    "es_ES": "Incapacita al objetivo durante 1 min. Limitado a 1 objetivo. El da\u00f1o puede cancelar el efecto.",
+    "fr_FR": "Stup\u00e9fie la cible pendant 1 min. Limit\u00e9 \u00e0 1\u00a0cible. Les d\u00e9g\u00e2ts peuvent annuler l\u2019effet.",
+    "it_IT": "Inabilita il bersaglio per 1 min. L'effetto pu\u00f2 essere attivo su un solo bersaglio alla volta. Eventuali danni possono annullare l'effetto.",
+    "ru_RU": "\u041f\u0430\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0446\u0435\u043b\u044c \u043d\u0430 1 \u043c\u0438\u043d. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0446\u0435\u043b\u0435\u0439 \u2013 1. \u0423\u0440\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0441\u043d\u044f\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\ub300\uc0c1\uc744 1\ubd84 \ub3d9\uc548 \ud589\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\ub85c \ub9cc\ub4ed\ub2c8\ub2e4. \ud558\ub098\uc758 \ub300\uc0c1\uc73c\ub85c \uc81c\ud55c\ub429\ub2c8\ub2e4. \ub300\uc0c1\uc774 \ud53c\ud574\ub97c \uc785\uc73c\uba74 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9c8 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u76ee\u6a19\u9677\u5165\u7671\u7613\uff0c\u6301\u7e8c1\u5206\u9418\u3002\u540c\u4e00\u6642\u9593\u53ea\u80fd\u5f71\u97ff1\u500b\u76ee\u6a19\u3002\u50b7\u5bb3\u53ef\u80fd\u6703\u79fb\u9664\u6b64\u6548\u679c\u3002",
+    "zh_CN": "\u4f7f\u76ee\u6807\u762b\u75ea\uff0c\u6301\u7eed1\u5206\u949f\u3002\u53ea\u80fd\u5bf9\u4e00\u4e2a\u76ee\u6807\u4f7f\u7528\u3002\u4f24\u5bb3\u53ef\u80fd\u53d6\u6d88\u8be5\u6548\u679c\u3002"
+  }
 }

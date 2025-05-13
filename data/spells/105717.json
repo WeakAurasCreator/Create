@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "105717"
+  "SpellID": "105717",
+  "name_blz": {
+    "en_US": "Item - Druid T13 Balance 4P Bonus (Starsurge)",
+    "es_MX": "Item - Druid T13 Balance 4P Bonus (Starsurge)",
+    "pt_BR": "Item - Druid T13 Balance 4P Bonus (Starsurge)",
+    "en_GB": "Item - Druid T13 Balance 4P Bonus (Starsurge)",
+    "es_ES": "Item - Druid T13 Balance 4P Bonus (Starsurge)",
+    "it_IT": "Oggetto - Druido T13 Equilibrio 4P Bonus (Cometa Arcana)",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T13 \uc870\ud654 4P \ubcf4\ub108\uc2a4 (\ubcc4\ube5b\uc1c4\ub3c4)",
+    "zh_TW": "\u7269\u54c1 - \u5fb7\u9b6f\u4f0aT13\u5e73\u88614P\u734e\u52f5 (\u661f\u6e67\u8853)",
+    "zh_CN": "Item - Druid T13 Balance 4P Bonus (Starsurge)"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage of Starsurge by 15%.",
+    "es_MX": "Aumenta un 15% el da\u00f1o de Oleada de estrellas.",
+    "pt_BR": "Aumenta o dano de Surto Estelar em 15%.",
+    "de_DE": "Erh\u00f6ht den von 'Sternensog' verursachten Schaden um 15%.",
+    "en_GB": "Increases the damage of Starsurge by 15%.",
+    "es_ES": "Aumenta el da\u00f1o de Oleada de estrellas un 15%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts inflig\u00e9s par \u00c9ruption stellaire de 15%.",
+    "it_IT": "Aumenta i danni inflitti da Cometa Arcana del 15%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u043d\u0430 15%.",
+    "ko_KR": "\ubcc4\ube5b\uc1c4\ub3c4\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u661f\u6e67\u8853\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u661f\u6d8c\u672f\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

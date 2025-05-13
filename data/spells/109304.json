@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "109304"
+  "SpellID": "109304",
+  "name_blz": {
+    "en_US": "Exhilaration",
+    "es_MX": "Exaltaci\u00f3n",
+    "pt_BR": "Exalta\u00e7\u00e3o",
+    "de_DE": "Freudentaumel",
+    "en_GB": "Exhilaration",
+    "es_ES": "Excitaci\u00f3n",
+    "fr_FR": "Enthousiasme",
+    "it_IT": "Fuga Curativa",
+    "ru_RU": "\u0416\u0438\u0432\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ud65c\uae30",
+    "zh_TW": "\u5fc3\u66e0\u795e\u6021",
+    "zh_CN": "\u610f\u6c14\u98ce\u53d1"
+  },
+  "description_blz": {
+    "en_US": "Heals you for 30% and your pet for 100% of maximum health.",
+    "es_MX": "Te sana por un 30% y a tu mascota por un 100% de la salud m\u00e1xima.",
+    "pt_BR": "Concede a voc\u00ea uma cura equivalente a 30% e ao seu ajudante uma cura equivalente a 100% dos respectivos m\u00e1ximos de pontos de vida.",
+    "de_DE": "Heilt Euch um 30% und Euren Begleiter um 100% der maximalen Gesundheit.",
+    "en_GB": "Heals you for 30% and your pet for 100% of maximum health.",
+    "es_ES": "Te sana un 30% a ti y un 100% de su salud m\u00e1xima a tu mascota.",
+    "fr_FR": "Vous r\u00e9cup\u00e9rez 30% de votre maximum de points de vie et votre familier 100% du sien.",
+    "it_IT": "Rigenera il 30% della tua salute massima e il 100% della salute massima del tuo famiglio.",
+    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c 30%, \u0430 \u0432\u0430\u0448\u0435\u043c\u0443 \u043f\u0438\u0442\u043e\u043c\u0446\u0443 \u2013 100% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc790\uc2e0\uc758 \uc0dd\uba85\ub825\uc774 30%\ub9cc\ud07c, \uc57c\uc218\uc758 \uc0dd\uba85\ub825\uc774 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 100%\ub9cc\ud07c \ud68c\ubcf5\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u4f60\u6cbb\u7642\u751f\u547d\u529b\u4e0a\u9650\u768430%\uff0c\u4e26\u70ba\u5bf5\u7269\u6cbb\u7642\u751f\u547d\u529b\u4e0a\u9650\u7684100%\u3002",
+    "zh_CN": "\u4e3a\u4f60\u6062\u590d30%\u7684\u6700\u5927\u751f\u547d\u503c\uff0c\u5e76\u4e3a\u4f60\u7684\u5ba0\u7269\u6062\u590d100%\u7684\u6700\u5927\u751f\u547d\u503c\u3002"
+  }
 }
