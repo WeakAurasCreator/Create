@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "1231772"
+  "SpellID": "1231772",
+  "name_blz": {
+    "en_US": "Elemental Shaman",
+    "es_MX": "Cham\u00e1n elemental",
+    "pt_BR": "Xam\u00e3 Elemental",
+    "de_DE": "Elementarschamane",
+    "en_GB": "Elemental Shaman",
+    "es_ES": "Cham\u00e1n Elemental",
+    "fr_FR": "Chaman/chamane \u00c9l\u00e9mentaire",
+    "it_IT": "Sciamano Elementale",
+    "ru_RU": "\u0428\u0430\u043c\u0430\u043d - \u0421\u0442\u0438\u0445\u0438\u0438",
+    "ko_KR": "\uc815\uae30 \uc8fc\uc220\uc0ac",
+    "zh_TW": "\u5143\u7d20\u85a9\u6eff",
+    "zh_CN": "\u5143\u7d20\u8428\u6ee1\u796d\u53f8"
+  },
+  "description_blz": {
+    "en_US": "Elemental Shaman baseline passive",
+    "es_MX": "Pasiva b\u00e1sica de cham\u00e1n elemental",
+    "pt_BR": "Passiva Principal de Xam\u00e3 Elemental",
+    "de_DE": "Elementarschamane, Grundwerte, passiv",
+    "en_GB": "Elemental Shaman baseline passive",
+    "es_ES": "Pasiva de base de cham\u00e1n Elemental",
+    "fr_FR": "Passif de base de chaman/chamane \u00c9l\u00e9mentaire.",
+    "it_IT": "Abilit\u00e0 Passiva Base Sciamano Elementale.",
+    "ru_RU": "\u0411\u0430\u0437\u043e\u0432\u044b\u0439 \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0448\u0430\u043c\u0430\u043d\u043e\u0432 \u0441\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \"\u0421\u0442\u0438\u0445\u0438\u0438\".",
+    "ko_KR": "\uc815\uae30 \uc8fc\uc220\uc0ac \uae30\ubcf8 \uc9c0\uc18d\ud6a8\uacfc",
+    "zh_TW": "\u5143\u7d20\u85a9\u6eff\u57fa\u790e\u88ab\u52d5",
+    "zh_CN": "\u5143\u7d20\u8428\u6ee1\u796d\u53f8\u57fa\u7840\u88ab\u52a8"
+  }
 }

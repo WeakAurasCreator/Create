@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "110959"
+  "SpellID": "110959",
+  "name_blz": {
+    "en_US": "Greater Invisibility",
+    "es_MX": "Invisibilidad superior",
+    "pt_BR": "Invisibilidade Maior",
+    "de_DE": "Gro\u00dfe Unsichtbarkeit",
+    "en_GB": "Greater Invisibility",
+    "es_ES": "Invisibilidad superior",
+    "fr_FR": "Invisibilit\u00e9 sup\u00e9rieure",
+    "it_IT": "Invisibilit\u00e0 Superiore",
+    "ru_RU": "\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc0c1\uae09 \ud22c\uba85\ud654",
+    "zh_TW": "\u5f37\u6548\u96b1\u5f62",
+    "zh_CN": "\u5f3a\u5316\u9690\u5f62\u672f"
+  },
+  "description_blz": {
+    "en_US": "Makes you invisible and untargetable for 20 sec, removing all threat. Any action taken cancels this effect.\r\n\r\nYou take 60% reduced damage while invisible and for 3 sec after reappearing.",
+    "es_MX": "Te vuelve invisible e impide que te seleccionen como objetivo durante 20 s, lo que elimina toda amenaza. Llevar a cabo cualquier acci\u00f3n cancela el efecto.\r\n\r\nRecibes un 60% menos de da\u00f1o mientras eres invisible y durante 3 s despu\u00e9s de que termina el efecto.",
+    "pt_BR": "Faz com que voc\u00ea fique invis\u00edvel e inating\u00edvel durante 20 s, removendo toda a amea\u00e7a. Qualquer a\u00e7\u00e3o cancela o efeito.\r\n\r\nVoc\u00ea receber\u00e1 60% a menos de dano enquanto estiver invis\u00edvel e por 3 s ap\u00f3s reaparecer.",
+    "de_DE": "Macht Euch unsichtbar und sorgt daf\u00fcr, dass Gegner Euch 20 Sek. lang nicht anvisieren k\u00f6nnen. Entfernt jegliche Bedrohung. Jede Aktion bricht diesen Effekt ab.\r\n\r\nW\u00e4hrend Ihr unsichtbar seid und f\u00fcr 3 Sek. nach Wiedererscheinen erleidet Ihr 60% weniger Schaden.",
+    "en_GB": "Makes you invisible and untargetable for 20 sec, removing all threat. Any action taken cancels this effect.\r\n\r\nYou take 60% reduced damage while invisible and for 3 sec after reappearing.",
+    "es_ES": "Te vuelve invisible, impide que te puedan seleccionar como objetivo durante 20 s y elimina toda la amenaza. Cualquier acci\u00f3n que realices cancela este efecto.\r\n\r\nRecibes un 60% menos de da\u00f1o mientras eres invisible y durante 3 s despu\u00e9s de reaparecer.",
+    "fr_FR": "Vous rend invisible et impossible \u00e0 cibler pendant 20 s, et annule toute menace. L\u2019effet est annul\u00e9 si vous effectuez une action.\r\n\r\nLes d\u00e9g\u00e2ts subis sont r\u00e9duits de 60\u00a0% tant que vous \u00eates invisible et pendant 3\u00a0s apr\u00e8s votre r\u00e9apparition.",
+    "it_IT": "Ti rende invisibile e non selezionabile per 20 s, dissolvendo tutta la minaccia. Eventuali azioni interrompono l'effetto.\r\n\r\nI danni subiti si riducono del 60% mentre si \u00e8 invisibili e per 3 s dopo il termine dell'effetto.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0432\u0430\u043c \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u044c \u0438 \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u0432\u0430\u0441 \u0446\u0435\u043b\u044c\u044e \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 20 \u0441\u0435\u043a., \u043e\u0431\u043d\u0443\u043b\u044f\u044f \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0443\u0433\u0440\u043e\u0437\u044b. \u041b\u044e\u0431\u043e\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u044d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442.\r\n\r\n\u0412 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 \u043d\u0435\u0433\u043e \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043d\u0430 60% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc989\uc2dc \ud22c\uba85 \uc0c1\ud0dc\ub85c \ubcc0\ud574 20\ucd08 \ub3d9\uc548 \uc801\uc758 \ub300\uc0c1\uc774 \ub418\uc9c0 \uc54a\uace0 \uc704\ud611 \uc218\uc900\uc744 \ubaa8\ub450 \uc81c\uac70\ud569\ub2c8\ub2e4. \uc5b4\ub5a4 \ud589\ub3d9\uc774\ub4e0 \ucde8\ud558\uba74 \ud6a8\uacfc\uac00 \ucde8\uc18c\ub429\ub2c8\ub2e4.\r\n\r\n\ud22c\uba85 \uc0c1\ud0dc\uc5d0\uc11c\uc640 \ud22c\uba85\ud654\uac00 \ub05d\ub09c \ud6c4 3\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ud53c\ud574\uac00 60%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u96b1\u5f62\uff0c\u4e14\u7121\u6cd5\u88ab\u9396\u5b9a\uff0c\u6301\u7e8c20\u79d2\uff0c\u4e26\u6d88\u9664\u6240\u6709\u5a01\u8105\u503c\u3002\u82e5\u4f60\u9032\u884c\u4efb\u4f55\u884c\u52d5\uff0c\u5c07\u89e3\u9664\u6b64\u6548\u679c\u3002\r\n\r\n\u5728\u96b1\u5f62\u671f\u9593\u53ca\u73fe\u5f62\u5f8c3\u79d2\u5167\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e60%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u9690\u5f62\uff0c\u65e0\u6cd5\u6210\u4e3a\u654c\u4eba\u7684\u76ee\u6807\uff0c\u6301\u7eed20\u79d2\u5e76\u79fb\u9664\u6240\u6709\u5a01\u80c1\u503c\u3002\u4efb\u4f55\u52a8\u4f5c\u90fd\u4f1a\u89e3\u9664\u8be5\u6548\u679c\u3002\r\n\r\n\u9690\u5f62\u65f6\u548c\u9690\u5f62\u6548\u679c\u6d88\u5931\u540e\u76843\u79d2\u5185\uff0c\u4f60\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e60%\u3002"
+  }
 }

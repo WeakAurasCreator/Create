@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "115203"
+  "SpellID": "115203",
+  "name_blz": {
+    "en_US": "Fortifying Brew",
+    "es_MX": "Brebaje reconstituyente",
+    "pt_BR": "Cerveja Fortificante",
+    "de_DE": "St\u00e4rkendes Gebr\u00e4u",
+    "en_GB": "Fortifying Brew",
+    "es_ES": "Brebaje reconstituyente",
+    "fr_FR": "Boisson fortifiante",
+    "it_IT": "Birra Fortificante",
+    "ru_RU": "\u0423\u043a\u0440\u0435\u043f\u043b\u044f\u044e\u0449\u0438\u0439 \u043e\u0442\u0432\u0430\u0440",
+    "ko_KR": "\uac15\ud654\uc8fc",
+    "zh_TW": "\u77f3\u5f62\u7d55\u91c0",
+    "zh_CN": "\u58ee\u80c6\u9152"
+  },
+  "description_blz": {
+    "en_US": "Turns your skin to stone for 15 sec.",
+    "es_MX": "Convierte tu piel en piedra durante 15 s.",
+    "pt_BR": "Transforma sua pele em pedra por 15 s.",
+    "de_DE": "L\u00e4sst Eure Haut f\u00fcr 15 Sek. zu Stein werden.",
+    "en_GB": "Turns your skin to stone for 15 sec.",
+    "es_ES": "Convierte tu piel en piedra durante 15 s y, al hacerlo.",
+    "fr_FR": "Change votre peau en pierre pendant 15 s.",
+    "it_IT": "Trasforma la pelle in pietra per 15 s.",
+    "ru_RU": "\u041d\u0430 15 \u0441\u0435\u043a. \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u043a\u043e\u0436\u0443 \u0432 \u043a\u0430\u043c\u0435\u043d\u044c.",
+    "ko_KR": "15\ucd08\ub3d9\uc548 \ud53c\ubd80\uac00 \ub3cc\ub85c \ubcc0\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u7684\u76ae\u819a\u77f3\u5316\uff0c\u6301\u7e8c15\u79d2\u3002",
+    "zh_CN": "\u8ba9\u4f60\u7684\u76ae\u80a4\u5316\u4e3a\u575a\u77f3\uff0c\u6301\u7eed15\u79d2\u3002"
+  }
 }

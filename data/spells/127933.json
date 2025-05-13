@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "127933"
+  "SpellID": "127933",
+  "name_blz": {
+    "en_US": "Fireworks",
+    "es_MX": "Fuegos artificiales",
+    "pt_BR": "Fogos de Artif\u00edcio",
+    "de_DE": "Feuerwerk",
+    "en_GB": "Fireworks",
+    "es_ES": "Fuegos artificiales",
+    "fr_FR": "Feux d\u2019artifice",
+    "it_IT": "Fuochi d'Artificio",
+    "ru_RU": "\u0424\u0435\u0439\u0435\u0440\u0432\u0435\u0440\u043a",
+    "ko_KR": "\ubd88\uaf43\ub180\uc774",
+    "zh_TW": "\u7159\u706b",
+    "zh_CN": "\u70df\u82b1"
+  },
+  "description_blz": {
+    "en_US": "Launch fireworks from your gun, bow or crossbow.",
+    "es_MX": "Lanzas fuegos artificiales con tu arma de fuego, arco o ballesta.",
+    "pt_BR": "Lan\u00e7a fogos de artif\u00edcio com a sua arma de fogo, arco ou besta.",
+    "de_DE": "Schie\u00df Feuerwerk von Eurem Gewehr, Bogen oder Eurer Armbrust ab.",
+    "en_GB": "Launch fireworks from your gun, bow or crossbow.",
+    "es_ES": "Lanzas fuegos artificiales con tu arma de fuego, arco o ballesta.",
+    "fr_FR": "Votre fusil, votre arc, ou votre arbal\u00e8te lancent des feux d\u2019artifice.",
+    "it_IT": "Spara fuochi d'artificio con l'arma da fuoco, l'arco o la balestra.",
+    "ru_RU": "\u0412\u044b\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0438\u0437 \u0441\u0432\u043e\u0435\u0433\u043e \u0440\u0443\u0436\u044c\u044f, \u043b\u0443\u043a\u0430 \u0438\u043b\u0438 \u0430\u0440\u0431\u0430\u043b\u0435\u0442\u0430 \u0444\u0435\u0439\u0435\u0440\u0432\u0435\u0440\u043a.",
+    "ko_KR": "\ucd1d\uc774\ub098 \ud65c, \uc11d\uad81\uc5d0\uc11c \ud3ed\uc8fd\uc744 \ubc1c\uc0ac\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7528\u4f60\u7684\u69cd\u3001\u5f13\u6216\u5f29\u767c\u5c04\u7159\u706b\u3002",
+    "zh_CN": "\u7528\u4f60\u7684\u67aa\u3001\u5f13\u6216\u5f29\u53d1\u5c04\u70df\u82b1\u3002"
+  }
 }

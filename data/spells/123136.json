@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "123136"
+  "SpellID": "123136",
+  "name_blz": {
+    "en_US": "Item - Warlock T14 2P Bonus",
+    "es_MX": "Item - Warlock T14 2P Bonus",
+    "pt_BR": "Item - Warlock T14 2P Bonus",
+    "en_GB": "Item - Warlock T14 2P Bonus",
+    "es_ES": "Item - Warlock T14 2P Bonus",
+    "it_IT": "Item - Warlock T14 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ud751\ub9c8\ubc95\uc0ac T14 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1 - \u8853\u58ebT14 2P\u734e\u52f5",
+    "zh_CN": "Item - Warlock T14 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage done by your Corruption spell by 10%, increases the damage done by your Incinerate spell by 5%, and increases the damage done by your Shadow Bolt, Touch of Chaos, and Demonic Slash by 2%.",
+    "es_MX": "Aumenta el da\u00f1o infligido por tu hechizo Corrupci\u00f3n un 10%, aumenta el da\u00f1o infligido por tu hechizo Incinerar un 5% y aumenta el da\u00f1o infligido por tu Descarga de las Sombras, Toque de Caos y Tajo demon\u00edaco un 2%.",
+    "pt_BR": "Aumenta em 10% o dano causado pelo seu feiti\u00e7o Corrup\u00e7\u00e3o, aumenta em 5% o dano causado pelo feiti\u00e7o Incinerar e aumenta em 2% o dano causado pelos seus feiti\u00e7os Seta Sombria, Toque do Caos e Talho Demon\u00edaco.",
+    "de_DE": "Erh\u00f6ht den von Eurem Zauber 'Verderbnis' verursachten Schaden um 10%, erh\u00f6ht den von Eurem Zauber 'Verbrennen' verursachten Schaden um 5% und erh\u00f6ht den von Eurem Zauber 'Schattenblitz' und Euren F\u00e4higkeiten 'D\u00e4monischer Hieb' und 'Ber\u00fchrung des Chaos' verursachten Schaden um 2%.",
+    "en_GB": "Increases the damage done by your Corruption spell by 10%, increases the damage done by your Incinerate spell by 5%, and increases the damage done by your Shadow Bolt, Touch of Chaos, and Demonic Slash by 2%.",
+    "es_ES": "Aumenta el da\u00f1o infligido por tu hechizo Corrupci\u00f3n un 10%, aumenta el da\u00f1o infligido por tu hechizo Incinerar un 5% y aumenta el da\u00f1o infligido por tu Descarga de las Sombras, Toque de Caos y Tajo demon\u00edaco un 2%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts inflig\u00e9s par votre sort Corruption de 10%, augmente les d\u00e9g\u00e2ts inflig\u00e9s par votre sort Incin\u00e9rer de 5%, et augmente les d\u00e9g\u00e2ts inflig\u00e9s par vos sorts Trait de l\u2019ombre et Lame de chaos ainsi que votre technique Entaille d\u00e9moniaque de 2%.",
+    "it_IT": "Aumenta i danni inflitti da Corruzione del 10%, i danni inflitti da Incenerimento del 5% e i danni inflitti da Dardo d'Ombra, Tocco del Caos e Fendente Demoniaco del 2%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \"\u041f\u043e\u0440\u0447\u0435\u0439\", \u043d\u0430 10%, \"\u0418\u0441\u043f\u0435\u043f\u0435\u043b\u0435\u043d\u0438\u0435\u043c\" \u2013 \u043d\u0430 5%, \"\u0421\u0442\u0440\u0435\u043b\u043e\u0439 \u0422\u044c\u043c\u044b\", \"\u041a\u0430\u0441\u0430\u043d\u0438\u0435\u043c \u0425\u0430\u043e\u0441\u0430\" \u0438 \"\u041a\u043d\u0443\u0442\u043e\u043c \u0434\u0435\u043c\u043e\u043d\u0430\" \u2013 \u043d\u0430 2%.",
+    "ko_KR": "\ubd80\ud328 \uc8fc\ubb38\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c, \uc18c\uac01 \uc8fc\ubb38\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c, \uc5b4\ub460\uc758 \ud654\uc0b4, \ud63c\ub3c8\uc758 \uc190\uae38, \uc545\ub9c8\uc758 \ubca0\uae30\uc758 \uacf5\uaca9\ub825\uc774 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u8150\u8755\u8853\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\uff0c\u71d2\u76e1\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad85%\uff0c\u6697\u5f71\u7bad\u3001\u6df7\u6c8c\u4e4b\u89f8\u8207\u60e1\u9b54\u65ac\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad82%\u3002",
+    "zh_CN": "\u4f60\u7684\u8150\u8680\u672f\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\uff0c\u70e7\u5c3d\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u4e14\u6697\u5f71\u7bad\u3001\u6df7\u4e71\u4e4b\u89e6\u548c\u6076\u9b54\u731b\u51fb\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad82%\u3002"
+  }
 }

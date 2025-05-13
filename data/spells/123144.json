@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "123144"
+  "SpellID": "123144",
+  "name_blz": {
+    "en_US": "Item - Warrior T14 DPS 4P Bonus",
+    "es_MX": "Item - Warrior T14 DPS 4P Bonus",
+    "pt_BR": "Item - Warrior T14 DPS 4P Bonus",
+    "en_GB": "Item - Warrior T14 DPS 4P Bonus",
+    "es_ES": "Item - Warrior T14 DPS 4P Bonus",
+    "it_IT": "Item - Warrior T14 DPS 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc804\uc0ac T14 DPS 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1:\u6230\u58ebT14\u50b7\u5bb3\u578b4P\u734e\u52f5",
+    "zh_CN": "Item - Warrior T14 DPS 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of your Recklessness ability by 90 sec.",
+    "es_MX": "Reduce 90 s el tiempo de reutilizaci\u00f3n de tu facultad Temeridad.",
+    "pt_BR": "Reduz em 90 s a recarga da sua habilidade Temeridade.",
+    "de_DE": "Verringert die Abklingzeit Eurer F\u00e4higkeit 'Tollk\u00fchnheit' um 90 Sek.",
+    "en_GB": "Reduces the cooldown of your Recklessness ability by 90 sec.",
+    "es_ES": "Reduce 90 s el tiempo de reutilizaci\u00f3n de tu facultad Temeridad.",
+    "fr_FR": "R\u00e9duit le temps de recharge de votre technique T\u00e9m\u00e9rit\u00e9 de 90 s.",
+    "it_IT": "Riduce il tempo di recupero di Avventatezza di 90 s.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0411\u0435\u0437\u0440\u0430\u0441\u0441\u0443\u0434\u0441\u0442\u0432\u043e\" \u043d\u0430 90 \u0441\u0435\u043a.",
+    "ko_KR": "\ubb34\ubaa8\ud55c \ud76c\uc0dd\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 90\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u9b6f\u83bd\u6280\u80fd\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed90\u79d2\u3002",
+    "zh_CN": "\u4f60\u7684\u9c81\u83bd\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed90\u79d2\u3002"
+  }
 }
