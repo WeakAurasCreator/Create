@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "115181"
+  "SpellID": "115181",
+  "name_blz": {
+    "en_US": "Breath of Fire",
+    "es_MX": "Aliento de Fuego",
+    "pt_BR": "Bafo de On\u00e7a",
+    "de_DE": "Feuerodem",
+    "en_GB": "Breath of Fire",
+    "es_ES": "Aliento de Fuego",
+    "fr_FR": "Souffle de feu",
+    "it_IT": "Soffio di Fuoco",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u043e\u0435 \u0434\u044b\u0445\u0430\u043d\u0438\u0435",
+    "ko_KR": "\ubd88\uc758 \uc228\uacb0",
+    "zh_TW": "\u706b\u7130\u5410\u606f",
+    "zh_CN": "\u706b\u7130\u4e4b\u606f"
+  },
+  "description_blz": {
+    "en_US": "Breathe fire on targets in front of you, causing 285 Fire damage. Deals reduced damage to secondary targets.\r\n\r\nTargets affected by Keg Smash will also burn, taking 176 Fire damage and dealing 5% reduced damage to you for 12 sec.",
+    "es_MX": "Exhalas fuego contra los objetivos que tienes frente a ti y les infliges 285 p. de da\u00f1o de fuego. Inflige menos da\u00f1o a los objetivos secundarios.\r\n\r\nLos objetivos afectados por Embate con barril arder\u00e1n, recibir\u00e1n 176 p. de da\u00f1o de fuego y te infligir\u00e1n un 5% menos de da\u00f1o durante 12 s.",
+    "pt_BR": "Sopra fogo nos alvos \u00e0 sua frente, causando 284 de dano de Fogo. Causa dano reduzido a alvos secund\u00e1rios.\r\n\r\nAlvos afetados por Pancada de Barril tamb\u00e9m queimar\u00e3o, recebendo 176 de dano de Fogo e causando 5% a menos de dano a voc\u00ea por 12 s.",
+    "de_DE": "\u00dcberzieht Ziele vor Euch mit Feueratem und f\u00fcgt ihnen 280 Feuerschaden zu. Sekund\u00e4rziele erleiden weniger Schaden.\r\n\r\nZiele, die von 'Fasshieb' betroffen sind, brennen au\u00dferdem, wodurch sie 176 Feuerschaden erleiden und Euch 5% weniger Schaden zuf\u00fcgen. H\u00e4lt 12 Sek. lang an.",
+    "en_GB": "Breathe fire on targets in front of you, causing 281 Fire damage. Deals reduced damage to secondary targets.\r\n\r\nTargets affected by Keg Smash will also burn, taking 176 Fire damage and dealing 5% reduced damage to you for 12 sec.",
+    "es_ES": "Escupes fuego a los objetivos frente a ti, lo que inflige 287 p. de da\u00f1o de Fuego. Inflige da\u00f1o reducido a los objetivos secundarios.\r\n\r\nLos objetivos afectados por Embate con barril, adem\u00e1s, arder\u00e1n, recibir\u00e1n 176 p. de da\u00f1o de Fuego y te infligir\u00e1n un 5% menos de da\u00f1o durante 12 s.",
+    "fr_FR": "Vous crachez du feu sur les cibles devant vous, ce qui leur inflige 280\u00a0points de d\u00e9g\u00e2ts de Feu. Les cibles secondaires subissent des d\u00e9g\u00e2ts r\u00e9duits.\r\n\r\nLes cibles affect\u00e9es par Fracasse-tonneau subissent \u00e9galement des br\u00fblures, ce qui leur inflige 176\u00a0points de d\u00e9g\u00e2ts de Feu et r\u00e9duit leurs d\u00e9g\u00e2ts contre vous de 5% pendant 12 s.",
+    "it_IT": "Un soffio di fiamme infligge 286 danni da fuoco sui bersagli frontali. Infligge danni ridotti ai bersagli secondari.\r\n\r\nI bersagli affetti da Lancio del Barile subiscono 176 danni da fuoco aggiuntivi e ti infliggono danni ridotti del 5% per 12 s.",
+    "ru_RU": "\u041e\u0431\u0436\u0438\u0433\u0430\u0435\u0442 \u0446\u0435\u043b\u0438 \u043f\u0435\u0440\u0435\u0434 \u0432\u0430\u043c\u0438, \u043d\u0430\u043d\u043e\u0441\u044f 280 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f. \u0412\u0442\u043e\u0440\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u044b\u0435 \u0446\u0435\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u0415\u0441\u043b\u0438 \u043d\u0430 \u0446\u0435\u043b\u0438 \u0443\u0436\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0423\u0434\u0430\u0440 \u0431\u043e\u0447\u043e\u043d\u043a\u043e\u043c\", \u043e\u043d\u0438 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 176 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0432\u0430\u043c \u043d\u0430 5% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 12 \u0441\u0435\u043a.",
+    "ko_KR": "\uc804\ubc29\uc758 \ub300\uc0c1\ub4e4\uc5d0 \ubd88\uc758 \uc228\uacb0\uc744 \ub0b4\ubfdc\uc5b4 284\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ubd80\uac00 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\ub9e5\uc8fc\ud1b5 \ud718\ub450\ub974\uae30\uc758 \uc601\ud5a5\uc744 \ubc1b\uace0 \uc788\ub294 \ub300\uc0c1\uc740 \ubd88\ud0c0\uc62c\ub77c 12\ucd08\uc5d0 \uac78\uccd0 176\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\uace0 \ub2f9\uc2e0\uc5d0\uac8c \uc8fc\ub294 \ud53c\ud574\uac00 5%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u4f60\u9762\u524d\u7684\u76ee\u6a19\u5410\u51fa\u706b\u7130\uff0c\u9020\u6210284\u9ede\u706b\u7130\u50b7\u5bb3\u3002\u5c0d\u6b21\u8981\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u53d7\u5230\u9152\u7f48\u7834\u5f71\u97ff\u7684\u76ee\u6a19\u6703\u8457\u706b\uff0c\u53d7\u5230176\u9ede\u706b\u7130\u50b7\u5bb3\uff0c\u4e26\u4e14\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e5%\uff0c\u6301\u7e8c12\u79d2\u3002",
+    "zh_CN": "\u5411\u4f60\u9762\u524d\u7684\u76ee\u6807\u55b7\u5410\u706b\u7130\uff0c\u9020\u6210284\u70b9\u706b\u7130\u4f24\u5bb3\u3002\u5bf9\u6b21\u8981\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u53d7\u5230\u9189\u917f\u6295\u5f71\u54cd\u7684\u76ee\u6807\u5c06\u88ab\u70b9\u71c3\uff0c\u572812\u79d2\u5185\u53d7\u5230176\u70b9\u706b\u7130\u4f24\u5bb3\uff0c\u4e14\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e5%\u3002"
+  }
 }

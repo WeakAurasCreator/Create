@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "121536"
+  "SpellID": "121536",
+  "name_blz": {
+    "en_US": "Angelic Feather",
+    "es_MX": "Pluma ang\u00e9lica",
+    "pt_BR": "Pena Angelical",
+    "de_DE": "Engelsfeder",
+    "en_GB": "Angelic Feather",
+    "es_ES": "Pluma ang\u00e9lica",
+    "fr_FR": "Plume ang\u00e9lique",
+    "it_IT": "Piuma Angelica",
+    "ru_RU": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0435\u0440\u044b\u0448\u043a\u043e",
+    "ko_KR": "\ucc9c\uc0ac\uc758 \uae43\ud138",
+    "zh_TW": "\u5929\u4f7f\u4e4b\u7fbd",
+    "zh_CN": "\u5929\u5802\u4e4b\u7fbd"
+  },
+  "description_blz": {
+    "en_US": "Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time.",
+    "es_MX": "Coloca una pluma en la ubicaci\u00f3n objetivo que otorga un 40% m\u00e1s de velocidad de movimiento al primer aliado que camine a trav\u00e9s de ella durante 5 s. Solo pueden colocarse 3 plumas a la vez.",
+    "pt_BR": "P\u00f5e uma pena no local selecionado. O primeiro aliado que pisar nela recebe um aumento de 40% na velocidade de movimento por 5 s. Apenas 3 penas podem ser colocadas por vez.",
+    "de_DE": "Platziert eine Feder am Zielort, die dem ersten Verb\u00fcndeten, der \u00fcber sie hinwegl\u00e4uft, f\u00fcr 5 Sek. eine um 40% erh\u00f6hte Bewegungsgeschwindigkeit gew\u00e4hrt. Es k\u00f6nnen immer nur 3 Federn gleichzeitig platziert sein.",
+    "en_GB": "Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time.",
+    "es_ES": "Colocas una pluma en la ubicaci\u00f3n seleccionada que aumenta la velocidad de movimiento del primer aliado que pasa sobre ella un 40% durante 5 s. Solo se pueden colocar 3 plumas a la vez.",
+    "fr_FR": "Pose une plume \u00e0 l\u2019emplacement cibl\u00e9. Le premier personnage alli\u00e9 qui marche dessus re\u00e7oit un bonus de 40\u00a0% \u00e0 la vitesse de d\u00e9placement pendant 5 s. 3\u00a0plumes peuvent \u00eatre pos\u00e9es \u00e0 la fois.",
+    "it_IT": "Posiziona una piuma sulla posizione bersaglio, aumentando del 40% per 5 s la velocit\u00e0 di movimento del primo bersaglio alleato che vi cammina attraverso. \u00c8 possibile posizionare solo 3 piume alla volta.",
+    "ru_RU": "\u0420\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u043c \u043c\u0435\u0441\u0442\u0435 \u043f\u0435\u0440\u044b\u0448\u043a\u043e. \u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u0440\u043e\u0448\u0435\u0434\u0448\u0435\u0433\u043e \u043f\u043e \u043d\u0435\u043c\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 40% \u043d\u0430 5 \u0441\u0435\u043a. \u0415\u0434\u0438\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043c\u043e\u0436\u043d\u043e \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043d\u0435 \u0431\u043e\u043b\u0435\u0435 3 \u043f\u0435\u0440\u044b\u0448\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1 \uc7a5\uc18c\uc5d0 \uae43\ud138\uc744 \ub193\uc2b5\ub2c8\ub2e4. \uac00\uc7a5 \uba3c\uc800 \uae43\ud138\uc744 \ud1b5\uacfc\ud574 \uc9c0\ub098\ub294 \uc544\uad70\uc740 5\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 40%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.  \ub3d9\uc2dc\uc5d0 3\uac1c\uc758 \uae43\ud138\ub9cc \ub193\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6307\u5b9a\u5730\u9ede\u653e\u7f6e\u4e00\u6839\u7fbd\u6bdb\uff0c\u8d70\u904e\u7684\u7b2c\u4e00\u540d\u76df\u53cb\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad840%\uff0c\u6301\u7e8c5\u79d2\u3002\u540c\u4e00\u6642\u9593\u5167\u53ea\u80fd\u653e\u7f6e3\u6839\u7fbd\u6bdb\u3002",
+    "zh_CN": "\u5c06\u4e00\u6839\u7fbd\u6bdb\u653e\u5728\u76ee\u6807\u4f4d\u7f6e\uff0c\u4f7f\u7b2c\u4e00\u4e2a\u89e6\u78b0\u7fbd\u6bdb\u7684\u76df\u53cb\u7684\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad840%\uff0c\u6301\u7eed5\u79d2\u3002\u540c\u4e00\u65f6\u95f4\u53ea\u80fd\u653e\u7f6e3\u6839\u7fbd\u6bdb\u3002"
+  }
 }

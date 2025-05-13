@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "114923"
+  "SpellID": "114923",
+  "name_blz": {
+    "en_US": "Nether Tempest",
+    "es_MX": "Tempestad abisal",
+    "pt_BR": "Tempestade de \u00c9ter",
+    "de_DE": "Netherorkan",
+    "en_GB": "Nether Tempest",
+    "es_ES": "Tempestad abisal",
+    "fr_FR": "Temp\u00eate du N\u00e9ant",
+    "it_IT": "Tempesta Fatua",
+    "ru_RU": "\u0411\u0443\u0440\u044f \u041f\u0443\u0441\u0442\u043e\u0442\u044b",
+    "ko_KR": "\ud669\ucc9c\uc758 \ud3ed\ud48d\uc6b0",
+    "zh_TW": "\u865b\u7a7a\u66b4\u96e8",
+    "zh_CN": "\u865a\u7a7a\u98ce\u66b4"
+  },
+  "description_blz": {
+    "en_US": "Places a Nether Tempest on the target which deals 1,545 Arcane damage over 12 sec to the target and nearby enemies within 10 yds. Limit 1 target. Deals reduced damage to secondary targets.\r\n\r\nDamage increased by 76% per Arcane Charge.",
+    "es_MX": "Coloca una Tempestad abisal en el objetivo que inflige 1,545 p. de da\u00f1o arcano durante 12 s al objetivo y a los enemigos cercanos en un radio de 10 m. El l\u00edmite es de 1 objetivo. Inflige menos da\u00f1o a los objetivos secundarios.\r\n\r\nEl da\u00f1o aumenta un 76% por carga arcana.",
+    "pt_BR": "Cria uma Tempestade de \u00c9ter que causa 1.545 de dano Arcano ao longo de 12 s ao alvo e aos inimigos em um raio de 10 m. Limite de 1 alvo. Causa dano reduzido aos alvos secund\u00e1rios.\r\n\r\nAumenta em 76% o dano para cada unidade de Carga Arcana.",
+    "de_DE": "Belegt das Ziel mit einem Netherorkan, der im Verlauf von 12 Sek. dem Ziel und Gegnern innerhalb von 10 Metern 1.545 Arkanschaden zuf\u00fcgt. Es kann nur jeweils 1 Ziel betroffen sein. F\u00fcgt Sekund\u00e4rzielen weniger Schaden zu.\r\n\r\nDer Schaden wird pro Arkaner Aufladung um 76% erh\u00f6ht.",
+    "en_GB": "Places a Nether Tempest on the target which deals 1,545 Arcane damage over 12 sec to the target and nearby enemies within 10 yds. Limit 1 target. Deals reduced damage to secondary targets.\r\n\r\nDamage increased by 76% per Arcane Charge.",
+    "es_ES": "Invoca una tempestad abisal sobre el objetivo que inflige 1545 p. de da\u00f1o Arcano durante 12 s al objetivo y a los enemigos cercanos en un radio de 10 m. Limitado a 1 objetivo. Inflige da\u00f1o reducido a los objetivos secundarios.\r\n\r\nDa\u00f1o aumentado un 76% por cada carga Arcana.",
+    "fr_FR": "Vous placez une temp\u00eate du N\u00e9ant sur la cible, ce qui inflige 1545\u00a0points de d\u00e9g\u00e2ts des arcanes en 12 s \u00e0 la cible et aux ennemis \u00e0 moins de 10\u00a0m\u00e8tres. Limit\u00e9 \u00e0 1\u00a0cible. D\u00e9g\u00e2ts r\u00e9duits aux cibles secondaires.\r\n\r\nD\u00e9g\u00e2ts augment\u00e9s de 76\u00a0% par charge arcanique.",
+    "it_IT": "Evoca sul bersaglio una Tempesta Fatua che infligge 1.545 danni da arcano in 12 s al bersaglio e ai nemici entro 10 m. L'effetto pu\u00f2 essere attivo su un solo bersaglio alla volta. Infligge danni ridotti ai bersagli secondari.\r\n\r\nI danni inflitti aumentano del 76% per ogni carica arcana.",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u0446\u0435\u043b\u0438 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0411\u0443\u0440\u044f \u041f\u0443\u0441\u0442\u043e\u0442\u044b\", \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 12 \u0441\u0435\u043a. \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 \u0446\u0435\u043b\u0438 \u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c 1545 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u2013 1 \u0446\u0435\u043b\u044c. \u0412\u0442\u043e\u0440\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u044b\u0435 \u0446\u0435\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u0423\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 76% \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0447\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u0437\u0430\u0440\u044f\u0434.",
+    "ko_KR": "\uc801\uc5d0\uac8c \ud669\ucc9c\uc758 \ud3ed\ud48d\uc6b0\ub97c \ub0b4\ub824 \ub300\uc0c1\uacfc \ub300\uc0c1 10\ubbf8\ud130 \ub0b4\uc758 \uc801\ub4e4\uc5d0\uac8c 12\ucd08\uc5d0 \uac78\uccd0 1,545\uc758 \ube44\uc804 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ubd80\uac00 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\ube44\uc804 \ucda9\uc804\ubb3c \ud558\ub098\ub2f9 \ud53c\ud574\ub7c9\uc774 76%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4e00\u500b\u76ee\u6a19\u8eab\u4e0a\u65bd\u653e\u865b\u7a7a\u66b4\u96e8\uff0c\u572812\u79d2\u5167\u5c0d\u76ee\u6a19\u548c\u9644\u8fd110\u78bc\u5167\u7684\u6575\u4eba\u9020\u62101,545\u9ede\u79d8\u6cd5\u50b7\u5bb3\u3002\u53ea\u80fd\u4f5c\u7528\u65bc1\u500b\u76ee\u6a19\u4e0a\u3002\u5c0d\u6b21\u8981\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u6bcf\u5c64\u79d8\u6cd5\u5145\u80fd\u6703\u4f7f\u6b64\u6cd5\u8853\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad876%\u3002",
+    "zh_CN": "\u5411\u76ee\u6807\u65bd\u653e\u865a\u7a7a\u98ce\u66b4\uff0c\u572812\u79d2\u5185\u5bf9\u76ee\u6807\u4ee5\u53ca10\u7801\u8303\u56f4\u5185\u7684\u654c\u4eba\u9020\u62101,545\u70b9\u5965\u672f\u4f24\u5bb3\u3002\u53ea\u80fd\u5bf91\u4e2a\u76ee\u6807\u65bd\u653e\u3002\u5bf9\u6b21\u8981\u76ee\u6807\u9020\u6210\u8f83\u4f4e\u7684\u4f24\u5bb3\u3002\r\n\r\n\u6bcf\u5c42\u5965\u672f\u5145\u80fd\u6548\u679c\u4f1a\u4f7f\u4f24\u5bb3\u63d0\u9ad876%\u3002"
+  }
 }
