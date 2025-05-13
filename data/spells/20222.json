@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "20222"
+  "SpellID": "20222",
+  "name_blz": {
+    "en_US": "Goblin Engineer",
+    "es_MX": "Ingeniero goblin",
+    "pt_BR": "Engenheiro Goblin",
+    "de_DE": "Gobliningenieur",
+    "en_GB": "Goblin Engineer",
+    "es_ES": "Ingeniero goblin",
+    "fr_FR": "Ing\u00e9nieur gobelin",
+    "it_IT": "Ingegneria dei Goblin",
+    "ru_RU": "\u0413\u043e\u0431\u043b\u0438\u043d-\u0438\u043d\u0436\u0435\u043d\u0435\u0440",
+    "ko_KR": "\uace0\ube14\ub9b0 \uae30\uacc4\uacf5\ud559",
+    "zh_TW": "\u54e5\u5e03\u6797\u5de5\u7a0b\u5e2b",
+    "zh_CN": "\u5730\u7cbe\u5de5\u7a0b\u5e08"
+  },
+  "description_blz": {
+    "en_US": "Allows an engineer to make lethal goblin devices.",
+    "es_MX": "Permite a un ingeniero fabricar dispositivos de los goblins letales.",
+    "pt_BR": "Permite ao engenheiro construir aparelhos gobl\u00ednicos letais.",
+    "de_DE": "Erm\u00f6glicht einem Ingenieur, t\u00f6dliche Goblinger\u00e4te zu konstruieren.",
+    "en_GB": "Allows an engineer to make lethal goblin devices.",
+    "es_ES": "Permite a un ingeniero fabricar dispositivos de los goblins letales.",
+    "fr_FR": "Permet \u00e0 un ing\u00e9nieur de fabriquer des objets gobelins mortels.",
+    "it_IT": "Permette a un ingegnere di creare dispositivi Goblin letali.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0443 \u0438\u0437\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u0441\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u044b\u0435 \u0433\u043e\u0431\u043b\u0438\u043d\u0441\u043a\u0438\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430.",
+    "ko_KR": "\uce58\uba85\uc801\uc778 \uace0\ube14\ub9b0 \ubc1c\uba85\ud488\uc744 \ub9cc\ub4e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u5de5\u7a0b\u5e2b\u53ef\u4ee5\u88fd\u9020\u81f4\u547d\u7684\u54e5\u5e03\u6797\u5de5\u7a0b\u5b78\u7269\u54c1\u3002",
+    "zh_CN": "\u4f7f\u6280\u5e08\u53ef\u4ee5\u5236\u9020\u81f4\u547d\u7684\u5730\u7cbe\u5de5\u7a0b\u5b66\u7269\u54c1\u3002"
+  }
 }

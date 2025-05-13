@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "70808"
+  "SpellID": "70808",
+  "name_blz": {
+    "en_US": "Item - Shaman T10 Restoration 4P Bonus",
+    "es_MX": "Item - Shaman T10 Restoration 4P Bonus",
+    "pt_BR": "Item - Xam\u00e3 T10 Restaura\u00e7\u00e3o 4P B\u00f4nus",
+    "en_GB": "Item - Shaman T10 Restoration 4P Bonus",
+    "es_ES": "Item - Shaman T10 Restoration 4P Bonus",
+    "it_IT": "Item - Shaman T10 Restoration 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac \ubcf5\uc6d0 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Shaman T10 Restoration 4P Bonus",
+    "zh_CN": "Item - Shaman T10 Restoration 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Chain Heal critical strikes cause the target to heal for 25% of the healed amount over 9 sec.",
+    "es_MX": "Tus golpes cr\u00edticos con Sanaci\u00f3n en cadena provocan que el objetivo sane un 25% de la cantidad sanada durante 9 s.",
+    "pt_BR": "Os efeitos cr\u00edticos da sua Cura Encadeada curam o alvo em mais 25% do valor curado, ao longo de 9 s.",
+    "de_DE": "Durch kritische Effekte Eures Zaubers 'Kettenheilung' heilt sich das Ziel im Verlauf von 9 Sek. um weitere 25% des geheilten Wertes.",
+    "en_GB": "Your Chain Heal critical strikes cause the target to heal for 25% of the healed amount over 9 sec.",
+    "es_ES": "Tus golpes cr\u00edticos con Sanaci\u00f3n en cadena provocan que el objetivo sane un 25% de la cantidad sanada durante 9 s.",
+    "fr_FR": "Vos coups critiques r\u00e9ussis avec Salve de gu\u00e9rison permettent \u00e0 la cible de recevoir un montant de points de vie \u00e9gal \u00e0 25% du montant soign\u00e9 en 9 s.",
+    "it_IT": "I critici di Catena di Guarigione curano il bersaglio del 25% dell'ammontare curato in 9 s.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \"\u0426\u0435\u043f\u043d\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u0446\u0435\u043b\u044c \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 25% \u043e\u0442 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 9 \u0441\u0435\u043a.",
+    "ko_KR": "\uc5f0\uc1c4 \uce58\uc720\uac00 \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud558\uba74 9\ucd08\uc5d0 \uac78\uccd0 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc744 \uce58\uc720\ub41c \uc0dd\uba85\ub825\uc758 25%\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6cbb\u7642\u934a\u9020\u6210\u6975\u6548\u6cbb\u7642\u6548\u679c\u6642\uff0c\u5c07\u6703\u4f7f\u76ee\u6a19\u57289\u79d2\u5167\u6062\u5fa9\u76f8\u7576\u65bc\u517625%\u7684\u6cbb\u7642\u91cf\u3002",
+    "zh_CN": "\u4f60\u7684\u6cbb\u7597\u94fe\u6240\u9020\u6210\u7684\u7206\u51fb\u4f7f\u76ee\u6807\u57289\u79d2\u5185\u6062\u590d\u6cbb\u7597\u91cf\u768425%\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "70756"
+  "SpellID": "70756",
+  "name_blz": {
+    "en_US": "Item - Paladin T10 Holy 4P Bonus",
+    "es_MX": "Item - Paladin T10 Holy 4P Bonus",
+    "pt_BR": "Item - B\u00f4nus Paladino T10 Sagrado 4P",
+    "en_GB": "Item - Paladin T10 Holy 4P Bonus",
+    "es_ES": "Item - Paladin T10 Holy 4P Bonus",
+    "it_IT": "Item - Paladin T10 Holy 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc131\uae30\uc0ac \uc2e0\uc131 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Paladin T10 Holy 4P Bonus",
+    "zh_CN": "Item - Paladin T10 Holy 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Holy Shock spell causes the next Holy Light you cast within 10 sec to have 0.3 sec reduced cast time.",
+    "es_MX": "Tu hechizo Choque Sagrado provoca que la siguiente Luz Sagrada que lances en 10 s tenga 0.3 s de reducci\u00f3n en el tiempo de lanzamiento.",
+    "pt_BR": "Seu feiti\u00e7o Choque Sagrado faz com que a pr\u00f3xima Luz Sagrada que voc\u00ea lan\u00e7ar em 10 s tenha tempo de lan\u00e7amento 0,3 s menor.",
+    "de_DE": "Euer Zauber 'Heiliger Schock' verringert die Zauberzeit Eures n\u00e4chsten Wirkens von 'Heiliges Licht' innerhalb von 10 Sek. um 0,3 Sek.",
+    "en_GB": "Your Holy Shock spell causes the next Holy Light you cast within 10 sec to have 0.3 sec reduced cast time.",
+    "es_ES": "Tu hechizo Choque Sagrado provoca que la siguiente Luz Sagrada que lances en 10 s tenga 0,3 s de reducci\u00f3n en el tiempo de lanzamiento.",
+    "fr_FR": "Votre sort Horion sacr\u00e9 permet \u00e0 la prochaine Lumi\u00e8re sacr\u00e9e que vous lancez dans les 10 s de b\u00e9n\u00e9ficier d'un temps d'incantation r\u00e9duit de 0,3 s.",
+    "it_IT": "Folgore Sacra permette di ridurre il tempo di lancio della successiva Luce Sacra lanciata entro 10 s di 0,3 s.",
+    "ru_RU": "\u041d\u0430 10 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\" \u0432\u044b \u043f\u043e\u043f\u0430\u0434\u0430\u0435\u0442\u0435 \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u0411\u043b\u0430\u0433\u043e\u0441\u0442\u044c\", \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0421\u0432\u0435\u0442\u0430 \u043d\u0435\u0431\u0435\u0441\" \u043d\u0430 0,3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\uc131 \ucda9\uaca9 \uc0ac\uc6a9 \uc2dc 10\ucd08 \ub0b4\uc5d0 \uc0ac\uc6a9\ud558\ub294 \ub2e4\uc74c \uc131\uc2a4\ub7ec\uc6b4 \ube5b \uc8fc\ubb38\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 0.3\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u795e\u8056\u9707\u64ca\u53ef\u4f7f\u4f60\u572810\u79d2\u5167\u7684\u4e0b\u4e00\u500b\u8056\u5149\u8853\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed0.3\u79d2\u3002",
+    "zh_CN": "\u4f60\u7684\u795e\u5723\u9707\u51fb\u4f7f\u4f60\u572810\u79d2\u5185\u65bd\u653e\u7684\u4e0b\u4e00\u4e2a\u5723\u5149\u672f\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed0.3\u79d2\u3002"
+  }
 }

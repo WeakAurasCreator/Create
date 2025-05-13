@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "60188"
+  "SpellID": "60188",
+  "name_blz": {
+    "en_US": "Elemental Fury",
+    "es_MX": "Furia elemental",
+    "pt_BR": "F\u00faria Elemental",
+    "de_DE": "Elementarfuror",
+    "en_GB": "Elemental Fury",
+    "es_ES": "Furia elemental",
+    "fr_FR": "Fureur \u00e9l\u00e9mentaire",
+    "it_IT": "Furia Elementale",
+    "ru_RU": "\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u0441\u0442\u0432\u043e \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc815\uae30\uc758 \uaca9\ub178",
+    "zh_TW": "\u5143\u7d20\u4e4b\u6012",
+    "zh_CN": "\u5143\u7d20\u4e4b\u6012"
+  },
+  "description_blz": {
+    "en_US": "Your damaging critical strikes deal 250% damage instead of the usual 200%.",
+    "es_MX": "Los golpes cr\u00edticos de tus habilidades que infligen da\u00f1o  infligen un 250% de da\u00f1o  en lugar del 200% normal.",
+    "pt_BR": "Os acertos cr\u00edticos dos seus feiti\u00e7os de dano causam 250% de dano, em vez de 200%.",
+    "de_DE": "Eure offensiven kritischen Treffer verursachen 250% mehr Schaden anstatt der \u00fcblichen 200%.",
+    "en_GB": "Your damaging critical strikes deal 250% damage instead of the usual 200%.",
+    "es_ES": "Tus golpes cr\u00edticos da\u00f1inos  infligen  un 250% del da\u00f1o en lugar del 200% habitual.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de vos coups critiques infligent 250% de d\u00e9g\u00e2ts au lieu des 200% habituels.",
+    "it_IT": "I colpi critici infliggono o forniscono il 250% di danni aggiuntivi invece del 200%.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0445 \u0443\u0440\u043e\u043d \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 250% \u0443\u0440\u043e\u043d\u0430 \u0432\u043c\u0435\u0441\u0442\u043e \u043e\u0431\u044b\u0447\u043d\u044b\u0445 200%.",
+    "ko_KR": "\uadf9\ub300\ud654 \uacf5\uaca9 \uc2dc \ud53c\ud574\ub7c9 \uc0c1\uc2b9\uc774 200%\uc5d0\uc11c 250%\ub85c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u50b7\u5bb3\u6703\u9020\u6210250%\u7684\u81f4\u547d\u4e00\u64ca\u50b7\u5bb3\uff0c\u800c\u975e\u4e00\u822c\u7684200%\u3002",
+    "zh_CN": "\u4f60\u7684\u4f24\u5bb3\u6280\u80fd\u7206\u51fb\u4f1a\u9020\u6210250%\u7684\u4f24\u5bb3\uff0c\u800c\u975e\u901a\u5e38\u7684200%\u3002"
+  }
 }

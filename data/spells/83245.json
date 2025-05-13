@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "83245"
+  "SpellID": "83245",
+  "name_blz": {
+    "en_US": "Call Pet 5",
+    "es_MX": "Llamar a mascota 5",
+    "pt_BR": "Chamar Ajudante 5",
+    "de_DE": "Begleiter 5 rufen",
+    "en_GB": "Call Pet 5",
+    "es_ES": "Llamar a mascota 5",
+    "fr_FR": "Appel du familier 5",
+    "it_IT": "Richiamo: Famiglio 5",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u043f\u0438\u0442\u043e\u043c\u0446\u0430 5",
+    "ko_KR": "\uc57c\uc218 \ubd80\ub974\uae30 V",
+    "zh_TW": "\u53ec\u559a\u5bf5\u72695",
+    "zh_CN": "\u53ec\u5524\u5ba0\u7269 5"
+  },
+  "description_blz": {
+    "en_US": "Summons your fifth pet to you.",
+    "es_MX": "Invoca a tu quinta mascota.",
+    "pt_BR": "Evoca o quinto ajudante.",
+    "de_DE": "Beschw\u00f6rt Euer f\u00fcnftes Tier zu Euch.",
+    "en_GB": "Summons your fifth pet to you.",
+    "es_ES": "Invoca a tu quinta mascota.",
+    "fr_FR": "Invoque votre cinqui\u00e8me familier aupr\u00e8s de vous.",
+    "it_IT": "Richiama il tuo quinto famiglio.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u0432\u0430\u0442\u044c \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u044f\u0442\u043e\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430.",
+    "ko_KR": "\uae38\ub4e4\uc778 \ub2e4\uc12f \ubc88\uc9f8 \uc57c\uc218\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4f60\u7684\u7b2c\u4e94\u96bb\u5bf5\u7269\u5230\u4f60\u8eab\u908a\u3002",
+    "zh_CN": "\u53ec\u5524\u4f60\u7684\u7b2c\u4e94\u4e2a\u5ba0\u7269\u3002"
+  }
 }

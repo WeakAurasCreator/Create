@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "108208"
+  "SpellID": "108208",
+  "name_blz": {
+    "en_US": "Subterfuge",
+    "es_MX": "Subterfugio",
+    "pt_BR": "Subterf\u00fagio",
+    "de_DE": "Trickbetrug",
+    "en_GB": "Subterfuge",
+    "es_ES": "Subterfugio",
+    "fr_FR": "Subterfuge",
+    "it_IT": "Sotterfugio",
+    "ru_RU": "\u0423\u0432\u0435\u0440\u0442\u043a\u0430",
+    "ko_KR": "\uae30\ub9cc",
+    "zh_TW": "\u6b3a\u6575",
+    "zh_CN": "\u8be1\u8bc8"
+  },
+  "description_blz": {
+    "en_US": "Abilities requiring Stealth can be used for 3 sec after Stealth breaks.\r\n\r\nCombat benefits requiring Stealth persist for an additional 3 sec after Stealth breaks.",
+    "es_MX": "Las habilidades que requieren sigilo se pueden usar durante 3 s despu\u00e9s de salir de sigilo.\r\n\r\nLos beneficios de combate que requieren sigilo persisten durante 3 s m\u00e1s despu\u00e9s de salir de sigilo.",
+    "pt_BR": "Habilidades que requerem Furtividade podem ser usadas por 3 s ap\u00f3s a quebra da Furtividade.\r\n\r\nBenef\u00edcios de combate que requerem Furtividade duram mais 3 s ap\u00f3s a quebra da Furtividade.",
+    "de_DE": "F\u00e4higkeiten, die Verstohlenheit erfordern, k\u00f6nnen f\u00fcr 3 Sek. verwendet werden, nachdem die Verstohlenheit aufgehoben wurde.\r\n\r\nKampfvorteile, die Verstohlenheit erfordern, bleiben f\u00fcr weitere 3 Sek. bestehen, nachdem die Verstohlenheit aufgehoben wurde.",
+    "en_GB": "Abilities requiring Stealth can be used for 3 sec after Stealth breaks.\r\n\r\nCombat benefits requiring Stealth persist for an additional 3 sec after Stealth breaks.",
+    "es_ES": "Las facultades que requieren Sigilo se pueden usar durante 3 s despu\u00e9s de haber salido del modo de sigilo.\r\n\r\nLos beneficios de combate que requieren sigilo permanecen activos 3 s tras salir del sigilo.",
+    "fr_FR": "Vos techniques qui requi\u00e8rent un camouflage restent utilisables pendant 3\u00a0s une fois le camouflage interrompu.\r\n\r\nLes avantages de combat n\u00e9cessitant le camouflage restent actifs pendant 3\u00a0s suppl\u00e9mentaires une fois le camouflage interrompu.",
+    "it_IT": "Per 3 s dopo che Furtivit\u00e0 \u00e8 terminata \u00e8 possibile usare abilit\u00e0 che richiedono Furtivit\u00e0.\r\n\r\nI benefici di combattimento che richiedono Furtivit\u00e0 persistono per 3 s dopo che Furtivit\u00e0 \u00e8 terminata.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u0442\u0440\u0435\u0431\u0443\u044e\u0449\u0438\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u043e\u0441\u0442\u0438, \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 \u043d\u0435\u0433\u043e.\r\n\r\n\u0411\u043e\u0435\u0432\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 \u043d\u0435\u0433\u043e.",
+    "ko_KR": "\uc740\uc2e0 \uc0c1\ud0dc\uac00 \ud574\uc81c\ub41c \ud6c4\uc5d0\ub3c4 3\ucd08 \ub3d9\uc548 \uc740\uc2e0\uc774 \uc694\uad6c\ub418\ub294 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc740\uc2e0 \uc0c1\ud0dc\uac00 \ud574\uc81c\ub41c \ud6c4\uc5d0\ub3c4 \uc740\uc2e0\uc774 \uc694\uad6c\ub418\ub294 \uc804\ud22c \ud6a8\uacfc\uac00 \ucd94\uac00\ub85c 3\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u812b\u96e2\u6f5b\u884c\u72c0\u614b\u5f8c\uff0c\u9700\u8981\u6f5b\u884c\u72c0\u614b\u7684\u6280\u80fd\u57283\u79d2\u5167\u4ecd\u7136\u53ef\u4ee5\u4f7f\u7528\u3002\r\n\r\n\u812b\u96e2\u6f5b\u884c\u72c0\u614b\u5f8c\uff0c\u9700\u8981\u6f5b\u884c\u72c0\u614b\u7684\u6230\u9b25\u589e\u76ca\u6548\u679c\u6703\u984d\u5916\u751f\u65483\u79d2\u3002",
+    "zh_CN": "\u8131\u79bb\u6f5c\u884c\u72b6\u6001\u540e\u76843\u79d2\u5185\uff0c\u539f\u672c\u9700\u8981\u6f5c\u884c\u7684\u6280\u80fd\u4ecd\u53ef\u7ee7\u7eed\u4f7f\u7528\u3002\r\n\r\n\u8131\u79bb\u6f5c\u884c\u72b6\u6001\u540e\u76843\u79d2\u5185\uff0c\u539f\u672c\u9700\u8981\u6f5c\u884c\u7684\u6218\u6597\u589e\u76ca\u4ecd\u53ef\u4fdd\u7559\u3002"
+  }
 }

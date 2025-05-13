@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "105816"
+  "SpellID": "105816",
+  "name_blz": {
+    "en_US": "Item - Shaman T13 Elemental 4P Bonus (Elemental Overload)",
+    "es_MX": "Item - Shaman T13 Elemental 4P Bonus (Elemental Overload)",
+    "pt_BR": "Item - B\u00f4nus 4P T13 de Xam\u00e3 Elemental (Sobrecarga Elemental)",
+    "de_DE": "Item - Shaman T13 Elemental 4P Bonus (Elemental Overload)",
+    "en_GB": "Item - Shaman T13 Elemental 4P Bonus (Elemental Overload)",
+    "es_ES": "Item - Shaman T13 Elemental 4P Bonus (Elemental Overload)",
+    "fr_FR": "Item - Shaman T13 Elemental 4P Bonus (Elemental Overload)",
+    "it_IT": "Oggetto - Sciamano T13 Elementale 4P Bonus (Sovraccarico Elementale)",
+    "ru_RU": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442 - \u0420\u0435\u0439\u0434\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0448\u0430\u043c\u0430\u043d\u0430 T13, \"\u0421\u0442\u0438\u0445\u0438\u0438\", \u0431\u043e\u043d\u0443\u0441 \u0437\u0430 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430 (\"\u0412\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u0441\u0442\u0438\u0445\u0438\u0439\")",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac T13 \uc815\uae30 4P \ubcf4\ub108\uc2a4 (\uc815\uae30 \uacfc\ubd80\ud558)",
+    "zh_TW": "\u7269\u54c1 - \u85a9\u6effT13\u5143\u7d204P\u734e\u52f5(\u5143\u7d20\u8d85\u8f09)",
+    "zh_CN": "Item - Shaman T13 Elemental 4P Bonus (Elemental Overload)"
+  },
+  "description_blz": {
+    "en_US": "Each time Elemental Overload triggers, you gain 0 haste for 4 sec, stacking up to 3 times.",
+    "es_MX": "Cada vez que se activa Sobrecarga elemental, obtienes 0 p. de celeridad durante 4 s. Se acumula hasta 3 veces.",
+    "pt_BR": "Cada vez que Sobrecarga Elemental for ativada, voc\u00ea recebe 0 de acelera\u00e7\u00e3o por 4 s, acumulando at\u00e9 3 vezes.",
+    "de_DE": "Jedes Mal, wenn 'Elementare \u00dcberladung' ausgel\u00f6st wird, wird Euer Tempo 4 Sek. lang um 0 erh\u00f6ht. Bis zu 3-mal stapelbar.",
+    "en_GB": "Each time Elemental Overload triggers, you gain 0 haste for 4 sec, stacking up to 3 times.",
+    "es_ES": "Cada vez que se activa Sobrecarga elemental, obtienes 0 p. de celeridad durante 4 s. Se acumula hasta 3 veces.",
+    "fr_FR": "Chaque fois que Surcharge \u00e9l\u00e9mentaire se d\u00e9clenche, vous b\u00e9n\u00e9ficiez d\u2019un bonus de 0 \u00e0 la h\u00e2te pendant 4 s, cumulable jusqu\u2019\u00e0 3 fois.",
+    "it_IT": "Ogni volta che Sovraccarico Elementale si attiva, l'indice di celerit\u00e0 aumenta di 0 per 4 s. Si accumula fino a 3 volte.",
+    "ru_RU": "\u041f\u0440\u0438 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u0438 \"\u0412\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0441\u0442\u0438\u0445\u0438\u0439\" \u0432\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 0. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 4 \u0441\u0435\u043a. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 3 \u0440\u0430\u0437.",
+    "ko_KR": "\uc815\uae30 \uacfc\ubd80\ud558\uac00 \uc77c\uc5b4\ub0a0 \ub54c\ub9c8\ub2e4 4\ucd08 \ub3d9\uc548 0\ub9cc\ud07c \uac00\uc18d\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 3\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u5143\u7d20\u8d85\u8f09\u89f8\u767c\u6642\uff0c\u4f60\u5c07\u7372\u5f970\u9ede\u52a0\u901f\uff0c\u6301\u7e8c4\u79d2\uff0c\u6700\u591a\u53ef\u5806\u758a3\u6b21\u3002",
+    "zh_CN": "\u6bcf\u5f53\u5143\u7d20\u8fc7\u8f7d\u89e6\u53d1\u65f6\uff0c\u4f60\u83b7\u5f97\u7684\u6025\u901f\u63d0\u9ad80\u70b9\uff0c\u6301\u7eed4\u79d2\uff0c\u6700\u591a\u53e0\u52a03\u6b21\u3002"
+  }
 }

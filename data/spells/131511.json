@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "131511"
+  "SpellID": "131511",
+  "name_blz": {
+    "en_US": "Sting Like a Bee",
+    "es_MX": "Pica como abeja",
+    "pt_BR": "Ferroada de Abelha",
+    "de_DE": "Stechen wie eine Biene",
+    "en_GB": "Sting Like a Bee",
+    "es_ES": "Pica como una abeja",
+    "fr_FR": "Piquez comme l\u2019abeille\u00a0!",
+    "it_IT": "Pungere Come un'Ape",
+    "ru_RU": "\u0416\u0430\u043b\u044c \u043a\u0430\u043a \u043f\u0447\u0435\u043b\u0430",
+    "ko_KR": "\ubc8c\ucc98\ub7fc \uc3dc\ub2e4",
+    "zh_TW": "\u871c\u8702\u53ee\u4eba",
+    "zh_CN": "\u8702\u8292\u6bd5\u9732"
+  },
+  "description_blz": {
+    "en_US": "Enemies disabled by your Cheap Shot or Kidney Shot take 10% increased damage from all sources for 6 sec.",
+    "es_MX": "Los enemigos deshabilitados por tu Golpe bajo o Golpe en los ri\u00f1ones reciben un 10% m\u00e1s de da\u00f1o de todas las fuentes durante 6 s.",
+    "pt_BR": "Inimigos prejudicados por Golpe Baixo ou Golpe no Rim recebem 10 a mais de dano de todas as fontes por 6 s.",
+    "de_DE": "Gegner, die Ihr mit 'Fieser Trick' oder 'Nierenhieb' au\u00dfer Gefecht gesetzt habt, erleiden 6 Sek. lang aus allen Quellen 10% mehr Schaden.",
+    "en_GB": "Enemies disabled by your Cheap Shot or Kidney Shot take 10% increased damage from all sources for 6 sec.",
+    "es_ES": "Los enemigos incapacitados por tu Golpe bajo o Golpe en los ri\u00f1ones reciben un 10% m\u00e1s de da\u00f1o de todas las fuentes durante 6 s.",
+    "fr_FR": "Les adversaires neutralis\u00e9s par vos techniques Coup bas ou Aiguillon perfide subissent 10% de d\u00e9g\u00e2ts suppl\u00e9mentaires de toutes les sources pendant 6 s.",
+    "it_IT": "I nemici inabilitati da un tuo Colpo Basso o Colpo ai Reni subiscono il 10% di danni aggiuntivi da tutte le fonti per 6 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0432\u044b\u0432\u043e\u0434\u0438\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \"\u041f\u043e\u0434\u043b\u044b\u0439 \u0442\u0440\u044e\u043a\" \u0438\u043b\u0438 \"\u0423\u0434\u0430\u0440 \u043f\u043e \u043f\u043e\u0447\u043a\u0430\u043c\", \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0438\u043c \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a., \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%.",
+    "ko_KR": "\ube44\uc5f4\ud55c \uc2b5\uaca9 \ub610\ub294 \uae09\uc18c \uac00\uaca9\uc73c\ub85c \ubb34\ub825\ud654\ub41c \uc801\uc774 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\uac00 6\ucd08 \ub3d9\uc548 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u56e0\u70ba\u4f60\u7684\u5077\u8972\u6216\u814e\u64ca\u800c\u7671\u7613\u7684\u6575\u4eba\uff0c\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u63d0\u9ad810%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u88ab\u4f60\u7684\u5077\u88ad\u6216\u80be\u51fb\u762b\u75ea\u7684\u654c\u4eba\u4ece\u6240\u6709\u6765\u6e90\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad810%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

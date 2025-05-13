@@ -34,5 +34,27 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "105827"
+  "SpellID": "105827",
+  "name_blz": {
+    "en_US": "Item - Priest T13 Healer 2P Bonus (Power Word: Barrier and Divine Hymn)",
+    "es_MX": "Item - Priest T13 Healer 2P Bonus (Power Word: Barrier and Divine Hymn)",
+    "pt_BR": "Item - Sacerdote T13 Curador 2P B\u00f4nus (Palavra de Poder: Barreira e Hino Divino)",
+    "en_GB": "Item - Priest T13 Healer 2P Bonus (Power Word: Barrier and Divine Hymn)",
+    "es_ES": "Item - Priest T13 Healer 2P Bonus (Power Word: Barrier and Divine Hymn)",
+    "it_IT": "Item - Priest T13 Healer 2P Bonus (Power Word: Barrier and Divine Hymn)"
+  },
+  "description_blz": {
+    "en_US": "After using Power Word: Barrier or Divine Hymn, the mana cost of your healing spells is reduced by 25% for 23 sec.",
+    "es_MX": "Despu\u00e9s de usar Palabra de poder: barrera o Himno divino, el costo de man\u00e1 de tus hechizos de sanaci\u00f3n se reduce un 25% durante 23 s.",
+    "pt_BR": "Depois de usar Palavra de Poder: Barreira ou Hino Divino, o custo de mana dos seus feiti\u00e7os de cura \u00e9 reduzido em 25% por 23 s.",
+    "de_DE": "Nach dem Einsatz von 'Machtwort: Barriere' oder 'Gotteshymne' werden die Manakosten Eurer Heilzauber 23 Sek. lang um 25% verringert.",
+    "en_GB": "After using Power Word: Barrier or Divine Hymn, the mana cost of your healing spells is reduced by 25% for 23 sec.",
+    "es_ES": "Tras usar Palabra de poder: barrera o Himno divino, el coste de man\u00e1 de tus hechizos de sanaci\u00f3n se reduce un 25% durante 23 s.",
+    "fr_FR": "Lorsque vous avez utilis\u00e9 Mot de pouvoir\u00a0: Barri\u00e8re ou Hymne divin, le co\u00fbt en mana de vos sorts de soins est r\u00e9duit de 25% pendant 23 s.",
+    "it_IT": "Dopo aver usato Parola del Potere: Barriera o Inno Divino, il costo in mana dei tuoi incantesimi di cura si riduce del 25% per 23 s.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0421\u043b\u043e\u0432\u0430 \u0441\u0438\u043b\u044b: \u0411\u0430\u0440\u044c\u0435\u0440\" \u0438\u043b\u0438 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0433\u0438\u043c\u043d\u0430\" \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u0441\u043d\u0438\u0436\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25% \u043d\u0430 23 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\uc758 \uad8c\ub2a5: \ubc29\ubcbd \ub610\ub294 \ucc9c\uc0c1\uc758 \ucc2c\uac00\ub97c \uc2dc\uc804\ud55c \ud6c4 23\ucd08 \ub3d9\uc548 \uce58\uc720 \uc8fc\ubb38\uc5d0 \uc18c\ube44\ub418\ub294 \ub9c8\ub098\uac00 25%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f7f\u7528\u771f\u8a00\u8853\uff1a\u58c1\u6216\u795e\u8056\u79ae\u980c\u4e4b\u5f8c\uff0c\u4f60\u7684\u6cbb\u7642\u6cd5\u8853\u7684\u6cd5\u529b\u6d88\u8017\u964d\u4f4e25%\uff0c\u6301\u7e8c23\u79d2\u3002",
+    "zh_CN": "\u5728\u4f7f\u7528\u771f\u8a00\u672f\uff1a\u969c\u6216\u795e\u5723\u8d5e\u7f8e\u8bd7\u4e4b\u540e\uff0c\u4f60\u7684\u6cbb\u7597\u6cd5\u672f\u6cd5\u529b\u503c\u6d88\u8017\u964d\u4f4e25%\uff0c\u6301\u7eed23\u79d2\u3002"
+  }
 }

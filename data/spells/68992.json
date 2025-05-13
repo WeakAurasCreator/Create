@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "68992"
+  "SpellID": "68992",
+  "name_blz": {
+    "en_US": "Darkflight",
+    "es_MX": "\u00cdmpetu oscuro",
+    "pt_BR": "Velonero",
+    "de_DE": "Finstere Pfade",
+    "en_GB": "Darkflight",
+    "es_ES": "Huida oscura",
+    "fr_FR": "Sombre course",
+    "it_IT": "Scatto Oscuro",
+    "ru_RU": "\u041b\u0435\u0433\u043a\u043e\u0441\u0442\u044c \u0442\u044c\u043c\u044b",
+    "ko_KR": "\uc554\ud751\uc9c8\uc8fc",
+    "zh_TW": "\u6697\u6708\u75be\u5954",
+    "zh_CN": "\u75be\u6b65\u591c\u884c"
+  },
+  "description_blz": {
+    "en_US": "Activates your true form, increasing current movement speed by an additional 40% for 10 sec.",
+    "es_MX": "Activa tu forma verdadera, lo que aumenta tu velocidad de movimiento actual un 40% durante 10 s.",
+    "pt_BR": "Ativa sua verdadeira forma, aumentando em 40% a sua velocidade de movimento atual por 10 s.",
+    "de_DE": "Aktiviert Eure wahre Form und erh\u00f6ht Eure derzeitige Bewegungsgeschwindigkeit 10 Sek. lang um zus\u00e4tzlich 40%.",
+    "en_GB": "Activates your true form, increasing current movement speed by an additional 40% for 10 sec.",
+    "es_ES": "Activa tu forma verdadera, lo que aumenta tu velocidad de movimiento actual un 40% durante 10 s.",
+    "fr_FR": "Active votre forme v\u00e9ritable, ce qui augmente votre vitesse de d\u00e9placement actuelle de 40% suppl\u00e9mentaires pendant 10 s.",
+    "it_IT": "Attiva la tua vera forma, aumentando la velocit\u00e0 di movimento attuale di un ulteriore 40% per 10 s.",
+    "ru_RU": "\u0412\u043e\u0440\u0433\u0435\u043d \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442 \u0441\u0432\u043e\u0439 \u0438\u0441\u0442\u0438\u043d\u043d\u044b\u0439 \u043e\u0431\u043b\u0438\u043a. \u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 40% \u043d\u0430 10 \u0441\u0435\u043a.",
+    "ko_KR": "\uc9c4\uc815\ud55c \ubaa8\uc2b5\uc73c\ub85c \ubcc0\uc2e0\ud558\uc5ec 10\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 \ucd94\uac00\ub85c 40%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u73fe\u51fa\u539f\u5f62\uff0c\u4f7f\u7576\u524d\u79fb\u52d5\u901f\u5ea6\u984d\u5916\u63d0\u9ad840%\uff0c\u6301\u7e8c10\u79d2\u3002",
+    "zh_CN": "\u8fdb\u5165\u4f60\u7684\u539f\u5f62\uff0c\u4f7f\u5f53\u524d\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad840%\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }

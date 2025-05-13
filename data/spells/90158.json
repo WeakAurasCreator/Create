@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "90158"
+  "SpellID": "90158",
+  "name_blz": {
+    "en_US": "Item - Druid T11 Restoration 4P Bonus",
+    "es_MX": "Item - Druid T11 Restoration 4P Bonus",
+    "pt_BR": "Item - B\u00f4nus 4P Druida Restaura\u00e7\u00e3o T11",
+    "en_GB": "Item - Druid T11 Restoration 4P Bonus",
+    "es_ES": "Item - Druid T11 Restoration 4P Bonus",
+    "it_IT": "Item - Druid T11 Restoration 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc \ud68c\ubcf5 \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1 - \u5fb7\u9b6f\u4f0aT11\u6062\u5fa94P\u52a0\u6210",
+    "zh_CN": "Item - Druid T11 Restoration 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "While your Harmony mastery bonus to periodic healing is active, you gain 0 Intellect.",
+    "es_MX": "Mientras tu bonificaci\u00f3n de maestr\u00eda de Armon\u00eda a la sanaci\u00f3n peri\u00f3dica est\u00e9 activa, obtienes 0 p. de intelecto.",
+    "pt_BR": "Enquanto seu b\u00f4nus de maestria de Harmonia para cura peri\u00f3dica estiver ativo, voc\u00ea recebe 0 de Intelecto.",
+    "de_DE": "Solange Euer Meisterschaftsbonus 'Harmonie' auf die regelm\u00e4\u00dfige Heilung aktiv ist, wird Eure Intelligenz um 0 erh\u00f6ht.",
+    "en_GB": "While your Harmony mastery bonus to periodic healing is active, you gain 0 Intellect.",
+    "es_ES": "Mientras est\u00e9 activa tu bonificaci\u00f3n a la sanaci\u00f3n peri\u00f3dica de maestr\u00eda de Armon\u00eda, ganas 0 p. de intelecto.",
+    "fr_FR": "Augmente votre Intelligence de 0 tant que le bonus aux soins p\u00e9riodiques conf\u00e9r\u00e9 par Harmonie est actif.",
+    "it_IT": "Fornisce 0 Intelletto mentre \u00e8 attivo il bonus alle cure periodiche di Maestria: Armonia.",
+    "ru_RU": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0431\u043e\u043d\u0443\u0441\u0430 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u0438 \u043e\u0442 \"\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u0438\" \u043a \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 0.",
+    "ko_KR": "\uc8fc\uae30\uc801\uc778 \uce58\uc720 \ud6a8\uacfc\uc5d0 \ub300\ud55c \ud654\ud569 \ud2b9\ud654\uac00 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\uc73c\uba74 \uc9c0\ub2a5\uc774 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u7684\u5171\u751f\u7cbe\u901a\u555f\u52d5\u9031\u671f\u6027\u6cbb\u7642\u52a0\u6210\u6548\u679c\u6642\uff0c\u4f60\u5c07\u7372\u5f970\u9ede\u667a\u529b\u3002",
+    "zh_CN": "\u5f53\u76f8\u751f\u7cbe\u901a\u5bf9\u6301\u7eed\u6cbb\u7597\u7684\u52a0\u6210\u6fc0\u6d3b\u65f6\uff0c\u4f60\u83b7\u5f970\u70b9\u667a\u529b\u3002"
+  }
 }

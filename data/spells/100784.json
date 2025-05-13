@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "100784"
+  "SpellID": "100784",
+  "name_blz": {
+    "en_US": "Blackout Kick",
+    "es_MX": "Patada oscura",
+    "pt_BR": "Chute Blecaute",
+    "de_DE": "Blackout-Tritt",
+    "en_GB": "Blackout Kick",
+    "es_ES": "Patada oscura",
+    "fr_FR": "Frappe du voile noir",
+    "it_IT": "Calcio dell'Oscuramento",
+    "ru_RU": "\u041d\u043e\u043a\u0430\u0443\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440",
+    "ko_KR": "\ud6c4\ub824\ucc28\uae30",
+    "zh_TW": "\u6ec5\u5bc2\u817f",
+    "zh_CN": "\u5e7b\u706d\u8e22"
+  },
+  "description_blz": {
+    "en_US": "Kick with a blast of Chi energy, dealing 443 Physical damage.\r\n",
+    "es_MX": "Pateas con una explosi\u00f3n de energ\u00eda chi que inflige 449 p. de da\u00f1o f\u00edsico.\r\n",
+    "pt_BR": "Chuta uma rajada de Chi, causando 445 de dano F\u00edsico.\r\n",
+    "de_DE": "Ein mit Chi verst\u00e4rkter Tritt, der 450 k\u00f6rperlichen Schaden verursacht.\r\n",
+    "en_GB": "Kick with a blast of Chi energy, dealing 453 Physical damage.\r\n",
+    "es_ES": "Golpea con una descarga de energ\u00eda chi que inflige 450 p. de da\u00f1o f\u00edsico.\r\n",
+    "fr_FR": "Vous ass\u00e9nez dans un d\u00e9cha\u00eenement de chi un coup de pied qui inflige 451\u00a0points de d\u00e9g\u00e2ts physiques.\r\n",
+    "it_IT": "Calcia con la forza poderosa dell'energia chi, infliggendo 454 danni fisici.\r\n",
+    "ru_RU": "\u0411\u044c\u0435\u0442 \u043d\u043e\u0433\u043e\u0439, \u0432\u044b\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0446\u0438 \u0438 \u043d\u0430\u043d\u043e\u0441\u044f 448 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.\r\n",
+    "ko_KR": "\uae30 \uc5d0\ub108\uc9c0\uac00 \ub2f4\uae34 \ubc1c\ucc28\uae30\ub97c \ub0a0\ub824 450\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u704c\u6ce8\u771f\u6c23\u80fd\u91cf\u8e22\u5411\u6575\u4eba\uff0c\u9020\u6210444\u9ede\u7269\u7406\u50b7\u5bb3\u3002",
+    "zh_CN": "\u8e22\u51fa\u4e00\u9053\u771f\u6c14\u80fd\u91cf\u51b2\u51fb\u6ce2\uff0c\u9020\u6210447\u70b9\u7269\u7406\u4f24\u5bb3\u3002\r\n"
+  }
 }

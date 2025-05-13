@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "115399"
+  "SpellID": "115399",
+  "name_blz": {
+    "en_US": "Black Ox Brew",
+    "es_MX": "Brebaje del Buey Negro",
+    "pt_BR": "Cerveja do Boi Negro",
+    "de_DE": "Schwarzochsengebr\u00e4u",
+    "en_GB": "Black Ox Brew",
+    "es_ES": "Brebaje del Buey Negro",
+    "fr_FR": "Breuvage du Buffle noir",
+    "it_IT": "Birra dello Yak Nero",
+    "ru_RU": "\u041e\u0442\u0432\u0430\u0440 \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u0411\u044b\u043a\u0430",
+    "ko_KR": "\ud751\uc6b0\uc8fc",
+    "zh_TW": "\u7384\u725b\u7d55\u91c0",
+    "zh_CN": "\u7384\u725b\u9152"
+  },
+  "description_blz": {
+    "en_US": "Chug some Black Ox Brew, which instantly refills your Energy, Purifying Brew charges, and resets the cooldown of Celestial Brew.",
+    "es_MX": "Bebes un poco del Brebaje del Buey Negro, lo que recarga tu energ\u00eda y tus cargas de Brebaje purificador, y reinicia el tiempo de reutilizaci\u00f3n de Brebaje celestial al instante.",
+    "pt_BR": "Engole com uma golada s\u00f3 a Cerveja do Boi Negro, que enche instantaneamente sua Energia, renova as cargas da Cerveja Purificante e conclui a recarga da Cerveja Celestial.",
+    "de_DE": "St\u00fcrzt ein Schwarzochsengebr\u00e4u hinunter, das sofort sowohl Eure Energie als auch die Aufladungen von 'Reinigendes Gebr\u00e4u' auff\u00fcllt und die Abklingzeit von 'Himmlisches Gebr\u00e4u' abschlie\u00dft.",
+    "en_GB": "Chug some Black Ox Brew, which instantly refills your Energy, Purifying Brew charges, and resets the cooldown of Celestial Brew.",
+    "es_ES": "Bebes un poco de brebaje del Buey Negro, lo que rellena al instante tu energ\u00eda y tus cargas de Brebaje purificador y reinicia el tiempo de reutilizaci\u00f3n de Brebaje celestial.",
+    "fr_FR": "Vous buvez du Breuvage du Buffle noir qui vous restitue instantan\u00e9ment votre \u00e9nergie ainsi que vos charges d\u2019Infusion purificatrice, et met fin au temps de recharge de Breuvage c\u00e9leste.",
+    "it_IT": "Un sorso di Birra dello Yak Nero ripristina istantaneamente l'energia e le cariche di Birra Purificatrice, e azzera il tempo di recupero di Birra Celestiale.",
+    "ru_RU": "\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0437\u0430\u043f\u0430\u0441 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0438 \u0437\u0430\u0440\u044f\u0434\u044b \"\u041e\u0447\u0438\u0449\u0430\u044e\u0449\u0435\u0433\u043e \u043e\u0442\u0432\u0430\u0440\u0430\", \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043e\u0442\u0432\u0430\u0440\".",
+    "ko_KR": "\ud751\uc6b0\uc8fc\ub97c \ub9c8\uc154 \uc989\uc2dc \uae30\ub825\uc744 \ubaa8\ub450 \ud68c\ubcf5\ud558\uace0 \uc815\ud654\uc8fc\ub97c \ucda9\uc804\ud569\ub2c8\ub2e4. \ub610\ud55c \ucc9c\uc2e0\uc8fc\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd08\uae30\ud654\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5927\u53e3\u559d\u4e0b\u7384\u725b\u7d55\u91c0\uff0c\u7acb\u5373\u88dc\u5145\u4f60\u7684\u80fd\u91cf\u548c\u6e05\u5fc3\u7d55\u91c0\u7684\u4f7f\u7528\u6b21\u6578\uff0c\u4e26\u91cd\u7f6e\u5929\u5c0a\u7d55\u91c0\u7684\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u996e\u4e0b\u7384\u725b\u9152\uff0c\u7acb\u5373\u56de\u6ee1\u4f60\u7684\u80fd\u91cf\u3001\u6d3b\u8840\u9152\u5c42\u6570\uff0c\u5e76\u4e14\u91cd\u7f6e\u5929\u795e\u9152\u7684\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

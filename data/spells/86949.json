@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "86949"
+  "SpellID": "86949",
+  "name_blz": {
+    "en_US": "Cauterize",
+    "es_MX": "Cauterizar",
+    "pt_BR": "Cauterizar",
+    "de_DE": "Kauterisieren",
+    "en_GB": "Cauterize",
+    "es_ES": "Cauterizar",
+    "fr_FR": "Caut\u00e9risation",
+    "it_IT": "Cauterizzazione",
+    "ru_RU": "\u041f\u0440\u0438\u0436\u0438\u0433\u0430\u043d\u0438\u0435",
+    "ko_KR": "\uc18c\uc791",
+    "zh_TW": "\u71d2\u707c",
+    "zh_CN": "\u7078\u707c"
+  },
+  "description_blz": {
+    "en_US": "Fatal damage instead brings you to 35% health and then burns you for 28% of your maximum health over 6 sec.\r\n\r\nWhile burning, movement slowing effects are suppressed and your movement speed is increased by 150%.\r\n\r\nThis effect cannot occur more than once every 5 min.",
+    "es_MX": "El da\u00f1o fatal te otorga un 35% de salud y luego te quema un 28% de tu salud m\u00e1xima en un lapso de 6 s.\r\n\r\nMientras te quemas, los efectos de disminuci\u00f3n de movimiento quedan suprimidos y tu velocidad de movimiento aumenta un 150%.\r\n\r\nEste efecto no puede ocurrir m\u00e1s de una vez cada 5 min.",
+    "pt_BR": "Ao receber dano fatal, voc\u00ea ficar\u00e1 com 35% dos pontos de vida e queimar\u00e1, perdendo 28% do m\u00e1ximo de pontos de vida ao longo de 6 s.\r\n\r\nEnquanto estiver queimando, os efeitos de redu\u00e7\u00e3o de movimento s\u00e3o suprimidos e sua velocidade de movimento aumenta em 150%.\r\n\r\nEste efeito s\u00f3 ocorre uma vez a cada 5 min.",
+    "de_DE": "Normalerweise t\u00f6dlicher Schaden setzt Eure Gesundheit stattdessen auf 35% und l\u00e4sst Euch danach 6 Sek. lang brennen, wodurch Ihr Schaden in H\u00f6he von 28% Eurer maximalen Gesundheit erleidet.\r\n\r\nW\u00e4hrend Ihr brennt, werden bewegungseinschr\u00e4nkende Effekte unterdr\u00fcckt und Eure Bewegungsgeschwindigkeit wird um 150% erh\u00f6ht.\r\n\r\nDieser Effekt kann nur ein Mal alle 5 Min. auftreten.",
+    "en_GB": "Fatal damage instead brings you to 35% health and then burns you for 28% of your maximum health over 6 sec.\r\n\r\nWhile burning, movement slowing effects are suppressed and your movement speed is increased by 150%.\r\n\r\nThis effect cannot occur more than once every 5 min.",
+    "es_ES": "En lugar de matarte, el da\u00f1o letal te deja con un 35% de salud y luego te quema un 28% de tu salud m\u00e1xima durante 6 s.\r\n\r\nMientras ardes, los efectos de ralentizaci\u00f3n del movimiento se suprimen y tu velocidad de movimiento aumenta un 150%.\r\n\r\nEste efecto no puede darse m\u00e1s de una vez cada 5 min.",
+    "fr_FR": "Les attaques qui devraient vous tuer r\u00e9duisent seulement vos points de vie \u00e0 35%, puis vous br\u00fblez et subissez un montant de d\u00e9g\u00e2ts \u00e9gal \u00e0 28% de votre maximum de points de vie en 6 s.\r\n\r\nTant que vous br\u00fblez, les effets de ralentissement sont annul\u00e9s et votre vitesse de d\u00e9placement est augment\u00e9e de 150%.\r\n\r\nCet effet ne peut se produire plus d\u2019une fois toutes les 5 min.",
+    "it_IT": "Un attacco potenzialmente letale ti porta invece al 35% di salute e poi consuma il 28% della tua salute massima in 6 s.\r\n\r\nDurante Cauterizzazione, si \u00e8 immuni agli effetti di rallentamento e la velocit\u00e0 di movimento aumenta del 150%.\r\n\r\nL'effetto non pu\u00f2 verificarsi pi\u00f9 di una volta ogni 5 min.",
+    "ru_RU": "\u041f\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432\u044b \u043e\u0441\u0442\u0430\u0435\u0442\u0435\u0441\u044c \u0436\u0438\u0432\u044b \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0434\u043e 35% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430, \u043d\u043e \u0437\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 6 \u0441\u0435\u043a. \u0442\u0435\u0440\u044f\u0435\u0442\u0435 28% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u0412 \u044d\u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043d\u0430 \u0432\u0430\u0441 \u043d\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u044b, \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u0435 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435, \u0430 \u0432\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 150%.\r\n\r\n\u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 5 \u043c\u0438\u043d.",
+    "ko_KR": "\uc8fd\uc74c\uc5d0 \ub2ec\ud558\ub294 \ud53c\ud574\ub97c \uc785\uc744 \uc2dc, \uc8fd\uc9c0 \uc54a\uace0 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 35%\ub97c \ud68c\ubcf5\ud55c \ud6c4 6\ucd08\uc5d0 \uac78\uccd0 \ubd88\ud0c0\uc624\ub974\uba70 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 28%\ub97c \uc783\uc2b5\ub2c8\ub2e4.\r\n\r\n\ubd88\ud0c0\uc624\ub974\ub294 \ub3d9\uc548\uc5d0\ub294 \uac10\uc18d \ud6a8\uacfc\uc758 \uc601\ud5a5\uc744 \ubc1b\uc9c0 \uc54a\uace0 \uc774\ub3d9 \uc18d\ub3c4\uac00 150%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc774 \ud6a8\uacfc\ub294 5\ubd84\uc5d0 1\ubc88\uc529\ub9cc \ubc1c\ub3d9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u53d7\u5230\u81f4\u547d\u7684\u50b7\u5bb3\u6642\u4e0d\u6703\u6b7b\u4ea1\uff0c\u53cd\u800c\u6703\u670935%\u7684\u751f\u547d\u529b\uff0c\u7136\u5f8c\u57286\u79d2\u5167\u711a\u71d2\u751f\u547d\u529b\u4e0a\u9650\u768428%\u3002\r\n\r\n\u5728\u711a\u71d2\u671f\u9593\u4f60\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad8150%\uff0c\u4e26\u6291\u5236\u6240\u6709\u964d\u4f4e\u79fb\u52d5\u901f\u5ea6\u7684\u6548\u679c\u3002\r\n\r\n\u9019\u500b\u6548\u679c\u6bcf5\u5206\u9418\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u539f\u672c\u81f4\u547d\u7684\u4f24\u5bb3\u4f1a\u4f7f\u4f60\u7684\u751f\u547d\u503c\u8fbe\u523035%\uff0c\u5e76\u5728\u4e4b\u540e\u76846\u79d2\u5185\u71c3\u70e728%\u7684\u6700\u5927\u751f\u547d\u503c\u3002\r\n\r\n\u71c3\u70e7\u671f\u95f4\uff0c\u6291\u5236\u6240\u6709\u4f7f\u4f60\u7684\u79fb\u52a8\u901f\u5ea6\u51cf\u6162\u7684\u6548\u679c\uff0c\u5e76\u4f7f\u4f60\u7684\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad8150%\u3002\r\n\r\n\u8be5\u6548\u679c\u6bcf5\u5206\u949f\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

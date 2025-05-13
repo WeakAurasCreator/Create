@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "123091"
+  "SpellID": "123091",
+  "name_blz": {
+    "en_US": "Item - Hunter T14 4P Bonus",
+    "es_MX": "Item - Hunter T14 4P Bonus",
+    "pt_BR": "Item - Hunter T14 4P Bonus",
+    "en_GB": "Item - Hunter T14 4P Bonus",
+    "es_ES": "Item - Hunter T14 4P Bonus",
+    "it_IT": "Item - Hunter T14 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\ub0e5\uafbc T14 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1:\u7375\u4ebaT14\u4e4b4P\u734e\u52f5",
+    "zh_CN": "Item - Hunter T14 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the duration of your Bestial Wrath ability by 6 sec, increases the chance for Black Arrow to trigger Lock and Load by 20%, and increases the damage of Aimed Shot  by 10%.",
+    "es_MX": "Aumenta 6 s la duraci\u00f3n de tu habilidad C\u00f3lera de las bestias, aumenta un 20% la posibilidad de que Flecha negra active Bloquear y cargar y aumenta un 10% el da\u00f1o de Disparo de punter\u00eda.",
+    "pt_BR": "Aumenta em 6 s a dura\u00e7\u00e3o da sua habilidade Ira Bestial, aumenta em 20% a chance da Flecha Negra ativar Largar o Dedo e aumenta em 10% o dano causado por Tiro Certo.",
+    "de_DE": "Erh\u00f6ht die Dauer Eurer F\u00e4higkeit 'Zorn des Wildtiers' um 6 Sek., erh\u00f6ht die Chance, durch 'Schwarzer Pfeil' 'Sichern und Laden' auszul\u00f6sen, um 20%, und erh\u00f6ht den Schaden von 'Gezielter Schuss' um 10%.",
+    "en_GB": "Increases the duration of your Bestial Wrath ability by 6 sec, increases the chance for Black Arrow to trigger Lock and Load by 20%, and increases the damage of Aimed Shot  by 10%.",
+    "es_ES": "Aumenta la duraci\u00f3n de tu facultad C\u00f3lera de las bestias 6 s, aumenta la probabilidad de que Flecha negra active Bloquear y cargar un 20% y aumenta el da\u00f1o que inflige Disparo de punter\u00eda un 10%.",
+    "fr_FR": "Augmente la dur\u00e9e de votre technique Courroux bestial de 6\u00a0s, augmente les chances de Fl\u00e8che noire de d\u00e9clencher Pr\u00eat \u00e0 tirer de 20% et augmente les d\u00e9g\u00e2ts inflig\u00e9s par Vis\u00e9e de 10%.",
+    "it_IT": "Aumenta la durata di Ira Bestiale di 6 s, aumenta la probabilit\u00e0 che Freccia Nera attivi Pronto al Tiro del 20% e aumenta i danni inflitti da Tiro Mirato del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0417\u0432\u0435\u0440\u0438\u043d\u043e\u0433\u043e \u0433\u043d\u0435\u0432\u0430\" \u043d\u0430 6 \u0441\u0435\u043a., \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u043d\u0430 20% \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \"\u0427\u0435\u0440\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430\" \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442 \"\u041d\u0430 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043a\u0443!\" \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u043d\u0430 10%.",
+    "ko_KR": "\uc57c\uc218\uc758 \uaca9\ub178\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 6\ucd08 \uc99d\uac00\ud558\uace0, \uac80\uc740 \ud654\uc0b4\uc774 \uc2e4\ud0c4 \uc7a5\uc804\uc744 \ubc1c\ub3d9\uc2dc\ud0ac \ud655\ub960\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \uc870\uc900 \uc0ac\uaca9\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u72c2\u91ce\u6012\u706b\u6280\u80fd\u6301\u7e8c\u6642\u9593\u5ef6\u95776\u79d2\uff0c\u4f7f\u9ed1\u8755\u7bad\u89f8\u767c\u84c4\u52e2\u5f85\u767c\u7684\u6a5f\u7387\u63d0\u9ad820%\uff0c\u4e26\u4f7f\u7784\u6e96\u5c04\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f60\u7684\u72c2\u91ce\u6012\u706b\u6548\u679c\u6301\u7eed\u65f6\u95f4\u5ef6\u957f6\u79d2\uff0c\u9ed1\u7bad\u89e6\u53d1\u8377\u67aa\u5b9e\u5f39\u7684\u51e0\u7387\u63d0\u9ad820%\uff0c\u7784\u51c6\u5c04\u51fb\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

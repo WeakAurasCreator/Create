@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "64931"
+  "SpellID": "64931",
+  "name_blz": {
+    "en_US": "Item - Warlock T8 2P Bonus",
+    "es_MX": "Item - Warlock T8 2P Bonus",
+    "pt_BR": "Item \u2013 Bruxo T8 2P B\u00f4nus",
+    "en_GB": "Item - Warlock T8 2P Bonus",
+    "es_ES": "Item - Warlock T8 2P Bonus",
+    "it_IT": "Item - Warlock T8 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ud751\ub9c8\ubc95\uc0ac \ubcf4\ub108\uc2a4 \ud6a8\uacfc",
+    "zh_TW": "Item - Warlock T8 2P Bonus",
+    "zh_CN": "Item - Warlock T8 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage done by your Unstable Affliction by 20%, Hand of Gul'dan damage by 20%, and your Immolate by 10%.",
+    "es_MX": "Aumenta un 20% el da\u00f1o infligido por Aflicci\u00f3n Inestable, un 20% por Mano de Gul'dan y un 10% por Inmolar.",
+    "pt_BR": "Aumenta em 20% o dano causado por Agonia Inst\u00e1vel, em 20% o de M\u00e3o de Gul'dan e em 10% o de Imola\u00e7\u00e3o.",
+    "de_DE": "Erh\u00f6ht Euren verursachten Schaden durch 'Instabiles Gebrechen' um 20%, durch 'Hand von Gul'dan' um 20% und durch 'Feuerbrand' um 10%.",
+    "en_GB": "Increases the damage done by your Unstable Affliction by 20%, Hand of Gul'dan damage by 20%, and your Immolate by 10%.",
+    "es_ES": "Aumenta el da\u00f1o infligido por Aflicci\u00f3n inestable un 20%, el da\u00f1o de Mano de Gul'dan un 20% y el de Inmolar un 10%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de votre sort Affliction instable de 20%, ceux de Main de Gul\u2019dan de 20% et ceux d\u2019Immolation de 10%.",
+    "it_IT": "Aumenta i danni inflitti da Afflizione Instabile del 20%, Mano di Gul'dan del 20% e Immolazione del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043b\u0434\u043e\u0432\u0441\u0442\u0432\u0430\" \u043d\u0430 20%, \"\u0420\u0443\u043a\u0438 \u0413\u0443\u043b'\u0434\u0430\u043d\u0430\" \u2013 \u043d\u0430 20% \u0438 \"\u0416\u0435\u0440\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0433\u043d\u044f\" \u2013 \u043d\u0430 10%.",
+    "ko_KR": "\ubd88\uc548\uc815\ud55c \uace0\ud1b5\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c, \uad74\ub2e8\uc758 \uc190\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c, \uc81c\ubb3c\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u75db\u82e6\u52d5\u76ea\u7684\u50b7\u5bb3\u63d0\u9ad820%\uff0c\u53e4\u723e\u4e39\u4e4b\u624b\u7684\u50b7\u5bb3\u63d0\u9ad820%\uff0c\u737b\u796d\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u75db\u82e6\u65e0\u5e38\u7684\u4f24\u5bb3\u63d0\u9ad820%\uff0c\u53e4\u5c14\u4e39\u4e4b\u624b\u7684\u4f24\u5bb3\u63d0\u9ad820%\uff0c\u732e\u796d\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

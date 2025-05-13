@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "123102"
+  "SpellID": "123102",
+  "name_blz": {
+    "en_US": "Item - Paladin T14 Holy 2P Bonus",
+    "es_MX": "Item - Paladin T14 Holy 2P Bonus",
+    "pt_BR": "Item - Paladin T14 Holy 2P Bonus",
+    "en_GB": "Item - Paladin T14 Holy 2P Bonus",
+    "es_ES": "Item - Paladin T14 Holy 2P Bonus",
+    "it_IT": "Item - Paladin T14 Holy 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc131\uae30\uc0ac \uc2e0\uc131 T14 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1:\u8056\u9a0e\u58ebT14\u795e\u80562P\u734e\u52f5",
+    "zh_CN": "Item - Paladin T14 Holy 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Reduces the mana cost of your Holy Radiance spell by 10%.",
+    "es_MX": "Reduce el coste de man\u00e1 de tu hechizo Radiancia Sagrada un 10%.",
+    "pt_BR": "Reduz em 10% o custo de Mana do seu feiti\u00e7o Resplendor Sagrado.",
+    "de_DE": "Verringert die Manakosten Eures Zaubers 'Heiliges Strahlen' um 10%.",
+    "en_GB": "Reduces the mana cost of your Holy Radiance spell by 10%.",
+    "es_ES": "Reduce el coste de man\u00e1 de tu hechizo Radiancia Sagrada un 10%.",
+    "fr_FR": "R\u00e9duit le co\u00fbt en mana de votre sort Radiance sacr\u00e9e de 10%.",
+    "it_IT": "Riduce il costo in mana di Splendore Sacro del 10%.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u043c\u0430\u043d\u044b \u043d\u0430 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u0421\u0432\u044f\u0442\u043e\u0435 \u0441\u0438\u044f\u043d\u0438\u0435\" \u043d\u0430 10%.",
+    "ko_KR": "\uc2e0\uc131\ud55c \uad11\ud718\uc5d0 \uc18c\ube44\ub418\ub294 \ub9c8\ub098\uac00 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u795e\u8056\u5149\u8f1d\u6cd5\u8853\u7684\u6cd5\u529b\u6d88\u8017\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u4f60\u7684\u5723\u5149\u666e\u7167\u6d88\u8017\u7684\u6cd5\u529b\u503c\u964d\u4f4e10%\u3002"
+  }
 }

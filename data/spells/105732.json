@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "105732"
+  "SpellID": "105732",
+  "name_blz": {
+    "en_US": "Item - Hunter T13 2P Bonus (Steady Shot and Cobra Shot)",
+    "es_MX": "Item - Hunter T13 2P Bonus (Steady Shot and Cobra Shot)",
+    "pt_BR": "Item - B\u00f4nus 2P de Ca\u00e7ador T13 (Tiro Firme e Disparo da Naja)",
+    "de_DE": "Item - Hunter T13 2P Bonus (Steady Shot and Cobra Shot)",
+    "en_GB": "Item - Hunter T13 2P Bonus (Steady Shot and Cobra Shot)",
+    "es_ES": "Item - Hunter T13 2P Bonus (Steady Shot and Cobra Shot)",
+    "fr_FR": "Item - Hunter T13 2P Bonus (Steady Shot and Cobra Shot)",
+    "it_IT": "Oggetto - Cacciatore T13 2P Bonus (Tiro Stabilizzato e Tiro del Cobra)",
+    "ru_RU": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442 - \u0420\u0435\u0439\u0434\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 T13, \u0431\u043e\u043d\u0443\u0441 \u0437\u0430 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430 (\"\u0412\u0435\u0440\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0438 \"\u0412\u044b\u0441\u0442\u0440\u0435\u043b \u043a\u043e\u0431\u0440\u044b\")",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\ub0e5\uafbc T13 2P \ubcf4\ub108\uc2a4 (\uace0\uc815 \uc0ac\uaca9 \ubc0f \ucf54\ube0c\ub77c \uc0ac\uaca9)",
+    "zh_TW": "\u7269\u54c1 - \u7375\u4ebaT13 2P\u734e\u52f5(\u7a69\u56fa\u5c04\u64ca\u548c\u773c\u93e1\u86c7\u5c04\u64ca)",
+    "zh_CN": "Item - Hunter T13 2P Bonus (Steady Shot and Cobra Shot)"
+  },
+  "description_blz": {
+    "en_US": "Steady Shot and Cobra Shot generate double the amount of focus.",
+    "es_MX": "Disparo firme y Disparo de cobra generan el doble de enfoque.",
+    "pt_BR": "Tiro Firme e Disparo da Naja geram o dobro de foco.",
+    "de_DE": "Eure F\u00e4higkeiten 'Zuverl\u00e4ssiger Schuss' und 'Kobraschuss' erzeugen die doppelte Fokusmenge.",
+    "en_GB": "Steady Shot and Cobra Shot generate double the amount of focus.",
+    "es_ES": "Disparo firme y Disparo de cobra generan el doble de enfoque.",
+    "fr_FR": "Tir assur\u00e9 et Tir du cobra g\u00e9n\u00e8rent un montant doubl\u00e9 de focalisation.",
+    "it_IT": "Tiro Stabilizzato e Tiro del Cobra rigenerano il doppio del focus.",
+    "ru_RU": "\"\u0412\u0435\u0440\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0438 \"\u0412\u044b\u0441\u0442\u0440\u0435\u043b \u043a\u043e\u0431\u0440\u044b\" \u0434\u0430\u044e\u0442 \u0432\u0434\u0432\u043e\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u0438.",
+    "ko_KR": "\uace0\uc815 \uc0ac\uaca9 \ubc0f \ucf54\ube0c\ub77c \uc0ac\uaca9 \uc2dc\uc804 \uc2dc \ub450 \ubc30\uc758 \uc9d1\uc911\uc774 \uc0dd\uc131\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u7a69\u56fa\u5c04\u64ca\u548c\u773c\u93e1\u86c7\u5c04\u64ca\u5c07\u7522\u751f\u5169\u500d\u96c6\u4e2d\u503c\u3002",
+    "zh_CN": "\u4f7f\u7a33\u56fa\u5c04\u51fb\u548c\u773c\u955c\u86c7\u5c04\u51fb\u4ea7\u751f\u7684\u96c6\u4e2d\u503c\u7ffb\u500d\u3002"
+  }
 }

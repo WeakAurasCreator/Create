@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "105797"
+  "SpellID": "105797",
+  "name_blz": {
+    "en_US": "Item - Warrior T13 Arms and Fury 2P Bonus (Inner Rage)",
+    "es_MX": "Item - Warrior T13 Arms and Fury 2P Bonus (Inner Rage)",
+    "pt_BR": "Item - Warrior T13 Arms and Fury 2P Bonus (Inner Rage)",
+    "en_GB": "Item - Warrior T13 Arms and Fury 2P Bonus (Inner Rage)",
+    "es_ES": "Item - Warrior T13 Arms and Fury 2P Bonus (Inner Rage)",
+    "it_IT": "Oggetto - Guerriero T13 Armi e Furia 2P Bonus (Rabbia Interiore)",
+    "ko_KR": "\uc544\uc774\ud15c - \uc804\uc0ac T13 \ubb34\uae30 \ubc0f \ubd84\ub178 2P \ubcf4\ub108\uc2a4 (\ub0b4\uba74\uc758 \ubd84\ub178)",
+    "zh_TW": "Item - Warrior T13 Arms and Fury 2P Bonus (Inner Rage)",
+    "zh_CN": "Item - Warrior T13 Arms and Fury 2P Bonus (Inner Rage)"
+  },
+  "description_blz": {
+    "en_US": "Increases damage of Mortal Strike and Bloodthirst by 10%.",
+    "es_MX": "Aumenta el da\u00f1o de Golpe mortal y Sed de sangre un 10%.",
+    "pt_BR": "Aumenta o dano de Golpe Mortal e Sede de Sangue em 10%.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'T\u00f6dlicher Sto\u00df' und 'Blutdurst' um 10%.",
+    "en_GB": "Increases damage of Mortal Strike and Bloodthirst by 10%.",
+    "es_ES": "Aumenta el da\u00f1o de Golpe mortal y Sed de sangre un 10%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts inflig\u00e9s par Frappe mortelle et Sanguinaire de 10%.",
+    "it_IT": "Aumenta i danni inflitti da Assalto Mortale e Sete di Sangue del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430\" \u0438 \"\u041a\u0440\u043e\u0432\u043e\u0436\u0430\u0434\u043d\u043e\u0441\u0442\u0438\" \u043d\u0430 10%.",
+    "ko_KR": "\ud544\uc0ac\uc758 \uc77c\uaca9\uacfc \ud53c\uc758 \uac08\uc99d\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u81f4\u6b7b\u6253\u64ca\u548c\u55dc\u8840\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u81f4\u6b7b\u6253\u51fb\u548c\u55dc\u8840\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "77515"
+  "SpellID": "77515",
+  "name_blz": {
+    "en_US": "Mastery: Dreadblade",
+    "es_MX": "Maestr\u00eda: Hoja terror\u00edfica",
+    "pt_BR": "Maestria: Terrora\u00e7o",
+    "de_DE": "Meisterschaft: Schreckensklinge",
+    "en_GB": "Mastery: Dreadblade",
+    "es_ES": "Maestr\u00eda: Hoja terror\u00edfica",
+    "fr_FR": "Ma\u00eetrise\u00a0: Lame d'effroi",
+    "it_IT": "Maestria: Lama dell'Oscurit\u00e0",
+    "ru_RU": "\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c: \u043a\u043b\u0438\u043d\u043e\u043a \u0443\u0436\u0430\u0441\u0430",
+    "ko_KR": "\ud2b9\ud654: \uacf5\ud3ec\ub0a0",
+    "zh_TW": "\u7cbe\u901a\uff1a\u6050\u6016\u4e4b\u5203",
+    "zh_CN": "\u7cbe\u901a\uff1a\u6050\u60e7\u4e4b\u5203"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage of your Minions and Shadow damage abilities by 33.5%.",
+    "es_MX": "Aumenta un 33.5% el da\u00f1o de tus esbirros y de las habilidades que inflijan da\u00f1o de las sombras.",
+    "pt_BR": "Aumenta em 33,5% o dano dos seus Lacaios e das suas habilidades de Sombra.",
+    "de_DE": "Erh\u00f6ht den Schaden Eurer Diener und Schattenschadensf\u00e4higkeiten um 33,5%.",
+    "en_GB": "Increases the damage of your Minions and Shadow damage abilities by 33.5%.",
+    "es_ES": "Aumenta un 33,5% el da\u00f1o de tus esbirros y de tus facultades da\u00f1inas de las Sombras.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de vos serviteurs et techniques d\u2019Ombre de 33,5%.",
+    "it_IT": "Aumenta i danni inflitti dai tuoi servitori e dalle tue abilit\u00e0 che infliggono danni da ombra del 33,5%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043f\u0440\u0438\u0441\u043b\u0443\u0436\u043d\u0438\u043a\u043e\u0432 \u0438 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u0448\u043a\u043e\u043b\u044b \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043d\u0430 33,5%.",
+    "ko_KR": "\ud558\uc218\uc778\uc758 \uacf5\uaca9\ub825\uacfc \uc554\ud751 \ub2a5\ub825\uc758 \uacf5\uaca9\ub825\uc774 33.5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u50d5\u5f9e\u548c\u4f60\u6697\u5f71\u50b7\u5bb3\u6280\u80fd\u6240\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad833.5%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u4ec6\u4ece\u548c\u6697\u5f71\u4f24\u5bb3\u6280\u80fd\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad833.5%\u3002"
+  }
 }

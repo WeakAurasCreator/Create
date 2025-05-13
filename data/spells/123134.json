@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "123134"
+  "SpellID": "123134",
+  "name_blz": {
+    "en_US": "Item - Shaman T14 Restoration 2P Bonus",
+    "es_MX": "Item - Shaman T14 Restoration 2P Bonus",
+    "pt_BR": "Item - Shaman T14 Restoration 2P Bonus",
+    "en_GB": "Item - Shaman T14 Restoration 2P Bonus",
+    "es_ES": "Item - Shaman T14 Restoration 2P Bonus",
+    "it_IT": "Item - Shaman T14 Restoration 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac \ud68c\ubcf5 T14 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1:\u85a9\u6effT14\u6062\u5fa92P\u734e\u52f5",
+    "zh_CN": "Item - Shaman T14 Restoration 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Reduces the mana cost of your Healing Wave spell by 10%.",
+    "es_MX": "Reduce un 10% el costo de man\u00e1 de tu hechizo Ola de sanaci\u00f3n.",
+    "pt_BR": "Reduz em 10% o custo de Mana do seu feiti\u00e7o Onda Curativa.",
+    "de_DE": "Verringert die Manakosten Eures Zaubers 'Welle der Heilung' um 10%.",
+    "en_GB": "Reduces the mana cost of your Healing Wave spell by 10%.",
+    "es_ES": "Reduce un 10% el coste de man\u00e1 de tu hechizo Ola de sanaci\u00f3n.",
+    "fr_FR": "R\u00e9duit le co\u00fbt en mana de votre sort Vague de soins de 10%.",
+    "it_IT": "Riduce il costo in mana di Ondata di Cura del 10%.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u043c\u0430\u043d\u044b \u043d\u0430 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u0412\u043e\u043b\u043d\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u043d\u0430 10%.",
+    "ko_KR": "\uce58\uc720\uc758 \ubb3c\uacb0\uc758 \ub9c8\ub098 \uc18c\ubaa8\ub7c9\uc774 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u6cbb\u7642\u6ce2\u7684\u6cd5\u529b\u6d88\u8017\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u4f60\u7684\u6cbb\u7597\u6ce2\u6d88\u8017\u7684\u6cd5\u529b\u503c\u964d\u4f4e10%\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "123079"
+  "SpellID": "123079",
+  "name_blz": {
+    "en_US": "Item - Death Knight T14 Blood 2P Bonus",
+    "es_MX": "Item - Death Knight T14 Blood 2P Bonus",
+    "pt_BR": "Item - Death Knight T14 Blood 2P Bonus",
+    "en_GB": "Item - Death Knight T14 Blood 2P Bonus",
+    "es_ES": "Item - Death Knight T14 Blood 2P Bonus",
+    "it_IT": "Item - Death Knight T14 Blood 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fd\uc74c\uc758 \uae30\uc0ac T14 DPS \ud608\uae30 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1:\u6b7b\u4ea1\u9a0e\u58ebT14\u8840\u9b442P\u734e\u52f5",
+    "zh_CN": "Item - Death Knight T14 Blood 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of your Vampiric Blood ability by 20 sec.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de tu facultad Sangre vamp\u00edrica 20 s.",
+    "pt_BR": "Reduz em 20 s a recarga da sua habilidade Sangue Vamp\u00edrico.",
+    "de_DE": "Verringert die Abklingzeit Eurer F\u00e4higkeit 'Vampirblut' um 20 Sek.",
+    "en_GB": "Reduces the cooldown of your Vampiric Blood ability by 20 sec.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de tu facultad Sangre vamp\u00edrica 20 s.",
+    "fr_FR": "R\u00e9duit le temps de recharge de votre technique Sang vampirique de 20 s.",
+    "it_IT": "Riduce il tempo di recupero di Sangue Vampirico di 20 s.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u041a\u0440\u043e\u0432\u044c \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u043d\u0430 20 \u0441\u0435\u043a.",
+    "ko_KR": "\ud761\ud608\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 20\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u8840\u65cf\u4e4b\u88d4\u6280\u80fd\u51b7\u537b\u6642\u9593\u7e2e\u77ed20\u79d2\u3002",
+    "zh_CN": "\u4f60\u7684\u5438\u8840\u9b3c\u4e4b\u8840\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed20\u79d2\u3002"
+  }
 }

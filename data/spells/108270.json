@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "108270"
+  "SpellID": "108270",
+  "name_blz": {
+    "en_US": "Stone Bulwark Totem",
+    "es_MX": "T\u00f3tem de Baluarte p\u00e9treo",
+    "pt_BR": "Totem de Baluarte P\u00e9treo",
+    "de_DE": "Totem des Steinbollwerks",
+    "en_GB": "Stone Bulwark Totem",
+    "es_ES": "T\u00f3tem de Baluarte p\u00e9treo",
+    "fr_FR": "Totem rempart de pierre",
+    "it_IT": "Totem del Baluardo di Pietra",
+    "ru_RU": "\u0422\u043e\u0442\u0435\u043c \u043a\u0430\u043c\u0435\u043d\u043d\u043e\u0439 \u043f\u0440\u0435\u0433\u0440\u0430\u0434\u044b",
+    "ko_KR": "\ub3cc\uc758 \ubcf4\ub8e8 \ud1a0\ud15c",
+    "zh_TW": "\u77f3\u4e4b\u58c1\u58d8\u5716\u9a30",
+    "zh_CN": "\u77f3\u58c1\u56fe\u817e"
+  },
+  "description_blz": {
+    "en_US": "Summons a totem at your feet that grants you an absorb shield preventing 199,224 damage for 15 sec, and an additional 19,922 every 5 sec for 30 sec.",
+    "es_MX": "Invoca un t\u00f3tem a tus pies que te otorga un escudo de absorci\u00f3n que absorbe 199,224 p. de da\u00f1o durante 15 s, y 19,922 p. m\u00e1s cada 5 s durante 30 s.",
+    "pt_BR": "Evoca ao seus p\u00e9s um totem que concede um escudo de absor\u00e7\u00e3o que impede 199.224 de dano por 15 s, mais um adicional de 19.922 a cada 5 s por 30 s.",
+    "de_DE": "Beschw\u00f6rt zu Euren F\u00fc\u00dfen ein Totem, das Euch einen Absorptionsschild gew\u00e4hrt, der 15 Sek. lang 199.224 Schaden und zus\u00e4tzlich 30 Sek. lang alle 5 Sek. 19.922 Schaden verhindert.",
+    "en_GB": "Summons a totem at your feet that grants you an absorb shield preventing 199,224 damage for 15 sec, and an additional 19,922 every 5 sec for 30 sec.",
+    "es_ES": "Invoca un t\u00f3tem a tus pies que te aplica un escudo de absorci\u00f3n. El escudo evita 199224 p. de da\u00f1o durante 15 s, adem\u00e1s de 19922 p. m\u00e1s cada 5 s durante 30 s.",
+    "fr_FR": "Invoque \u00e0 vos pieds un totem qui vous conf\u00e8re un bouclier absorbant 199224\u00a0points de d\u00e9g\u00e2ts pendant 15 s et 19922\u00a0points de d\u00e9g\u00e2ts suppl\u00e9mentaires toutes les 5\u00a0s pendant 30 s.",
+    "it_IT": "Evoca un totem ai tuoi piedi che ti fornisce uno scudo d'assorbimento, impedendo 199.224 danni per 15 s e 19.922 danni aggiuntivi ogni 5 s per 30 s.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0440\u044f\u0434\u043e\u043c \u0441 \u0432\u0430\u043c\u0438 \u0442\u043e\u0442\u0435\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430 15 \u0441\u0435\u043a. \u0434\u0430\u0435\u0442 \u0432\u0430\u043c \u0449\u0438\u0442, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 199224 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430. \u041f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0449\u0438\u0442\u0430 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 19922 \u0435\u0434. \u0440\u0430\u0437 \u0432 5 \u0441\u0435\u043a. \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 30 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2dc\uc804\uc790\uc758 \uc704\uce58\uc5d0 \ud1a0\ud15c\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4. \ud1a0\ud15c\uc740 \uc2dc\uc804\uc790\uc5d0\uac8c 15\ucd08 \ub3d9\uc548 19,922\uc758 \ud53c\ud574\ub97c \ud761\uc218\ud558\ub294 \ubcf4\ud638\ub9c9\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4. \ucd94\uac00\ub85c 30\ucd08 \ub3d9\uc548 5\ucd08\ub9c8\ub2e4 199,224\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \ud761\uc218\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u8173\u4e0b\u53ec\u559a\u51fa\u4e00\u500b\u5716\u9a30\uff0c\u8ce6\u4e88\u4f60\u4e00\u500b\u53ef\u5438\u6536199,224\u9ede\u50b7\u5bb3\u7684\u8b77\u76fe\uff0c\u6301\u7e8c15\u79d2\uff0c\u540c\u6642\u6bcf5\u79d2\u984d\u5916\u5438\u653619,922\u9ede\u50b7\u5bb3\uff0c\u6301\u7e8c30\u79d2\u3002",
+    "zh_CN": "\u5728\u4f60\u811a\u4e0b\u53ec\u5524\u4e00\u4e2a\u56fe\u817e\uff0c\u4e3a\u4f60\u63d0\u4f9b\u4e00\u4e2a\u53ef\u5438\u6536199,224\u70b9\u4f24\u5bb3\u7684\u62a4\u76fe\uff0c\u6301\u7eed15\u79d2\uff0c\u5e76\u6bcf5\u79d2\u989d\u5916\u5438\u653619,922\u70b9\u4f24\u5bb3\uff0c\u6301\u7eed30\u79d2\u3002"
+  }
 }

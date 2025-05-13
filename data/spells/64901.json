@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "64901"
+  "SpellID": "64901",
+  "name_blz": {
+    "en_US": "Symbol of Hope",
+    "es_MX": "S\u00edmbolo de esperanza",
+    "pt_BR": "S\u00edmbolo de Esperan\u00e7a",
+    "de_DE": "Symbol der Hoffnung",
+    "en_GB": "Symbol of Hope",
+    "es_ES": "S\u00edmbolo de esperanza",
+    "fr_FR": "Symbole d\u2019espoir",
+    "it_IT": "Simbolo di Speranza",
+    "ru_RU": "\u0421\u0438\u043c\u0432\u043e\u043b \u043d\u0430\u0434\u0435\u0436\u0434\u044b",
+    "ko_KR": "\ud76c\ub9dd\uc758 \uc0c1\uc9d5",
+    "zh_TW": "\u5e0c\u671b\u8c61\u5fb5",
+    "zh_CN": "\u5e0c\u671b\u8c61\u5f81"
+  },
+  "description_blz": {
+    "en_US": "Bolster the morale of raid members within 40 yds. They each recover 30 sec of cooldown of a major defensive ability, and regain 10% of their missing mana, over 3.6 sec.",
+    "es_MX": "Eleva la moral de los miembros de la banda en un radio de 40 m. Cada uno recupera 30 s de tiempo de reutilizaci\u00f3n de una habilidad defensiva principal y un 10% de su man\u00e1 faltante durante 3.6 s.",
+    "pt_BR": "Aumenta a moral dos integrantes do raide em um raio de 40 m. Eles recarregam 30 s de uma habilidade maior de defesa e recuperam 10% do mana faltante ao longo de 3,6 s.",
+    "de_DE": "St\u00e4rkt die Moral Eurer Schlachtzugsmitglieder innerhalb von 40 Metern, sodass die verbleibende Abklingzeit einer ihrer wichtigen Defensivf\u00e4higkeiten um 30 Sek. verringert wird und sie im Verlauf von 3,6 Sek. 10% ihres fehlenden Manas wiederherstellen.",
+    "en_GB": "Bolster the morale of raid members within 40 yds. They each recover 30 sec of cooldown of a major defensive ability, and regain 10% of their missing mana, over 3.6 sec.",
+    "es_ES": "Refuerza la moral de los miembros de la banda en un radio de 40 m. Cada miembro recupera 30 s del tiempo de reutilizaci\u00f3n de una facultad defensiva principal y restaura un 10% del man\u00e1 perdido durante 3,6 s.",
+    "fr_FR": "Vous remontez le moral des membres du raid \u00e0 moins de 40\u00a0m\u00e8tres, ce qui leur rend 30\u00a0s de temps de recharge d\u2019une technique d\u00e9fensive majeure et 10% de leurs points de mana manquants en 3,6 s.",
+    "it_IT": "Solleva il morale dei membri del gruppo d'incursione entro 40 m, riducendone i tempi di recupero di un'abilit\u00e0 difensiva primaria di 30 s e rigenerando il 10% del mana in 3,6 s.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0431\u043e\u0435\u0432\u043e\u0439 \u0434\u0443\u0445 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0440\u0435\u0439\u0434\u0430 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044f \u0442\u0435\u043a\u0443\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 30 \u0441\u0435\u043a. \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0438\u043c 10% \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u044e\u0449\u0435\u0439 \u043c\u0430\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3,6 \u0441\u0435\u043a.",
+    "ko_KR": "40\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \uacf5\uaca9\ub300\uc6d0\uc758 \uc0ac\uae30\ub97c \ubd81\ub3cb\uc2b5\ub2c8\ub2e4. \uac01 \uacf5\uaca9\ub300\uc6d0\uc740 \uc8fc\uc694 \ubc29\uc5b4 \ub2a5\ub825\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 30\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0 3.6\ucd08\uc5d0 \uac78\uccd0 \uc783\uc740 \ub9c8\ub098\uc758 10%\ub97c \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6fc0\u52f540\u78bc\u7bc4\u570d\u5167\u5718\u968a\u6210\u54e1\u7684\u58eb\u6c23\uff0c\u4f7f\u4ed6\u5011\u4e3b\u8981\u9632\u79a6\u6280\u80fd\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed30\u79d2\uff0c\u4e26\u4e14\u57283.6\u79d2\u5167\u6062\u5fa910%\u4ed6\u5011\u5931\u53bb\u7684\u6cd5\u529b\u3002",
+    "zh_CN": "\u9f13\u821e\u5468\u56f440\u7801\u5185\u7684\u56e2\u961f\u6210\u5458\uff0c\u4f7f\u4ed6\u4eec\u7684\u4e00\u4e2a\u4e3b\u8981\u9632\u5fa1\u6280\u80fd\u7684\u51b7\u5374\u56de\u590d30\u79d2\uff0c\u540c\u65f6\u57283.6\u79d2\u5185\u6062\u590d\u6240\u635f\u5931\u6cd5\u529b\u503c\u768410%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "62181"
+  "SpellID": "62181",
+  "name_blz": {
+    "en_US": "Spring Tuxedo",
+    "es_MX": "Esmoquin de primavera",
+    "pt_BR": "Smoking de Primavera",
+    "de_DE": "Fr\u00fchlingsfrack",
+    "en_GB": "Spring Tuxedo",
+    "es_ES": "Esmoquin de primavera",
+    "fr_FR": "Smoking du printemps",
+    "it_IT": "Completo Formale Primaverile",
+    "ru_RU": "\u0412\u0435\u0441\u0435\u043d\u043d\u0438\u0439 \u0441\u043c\u043e\u043a\u0438\u043d\u0433",
+    "ko_KR": "\uc0c8\ubd04\ub9de\uc774 \ud131\uc2dc\ub3c4",
+    "zh_TW": "\u6625\u65e5\u79ae\u670d",
+    "zh_CN": "\u6625\u5b63\u793c\u670d"
+  },
+  "description_blz": {
+    "en_US": "Spring Tuxedo",
+    "es_MX": "Esmoquin de primavera",
+    "pt_BR": "Smoking de Primavera",
+    "de_DE": "Fr\u00fchlingsfrack",
+    "en_GB": "Spring Tuxedo",
+    "es_ES": "Esmoquin de primavera",
+    "fr_FR": "Smoking du printemps",
+    "it_IT": "Completo Formale Primaverile.",
+    "ru_RU": "\u0412\u0435\u0441\u0435\u043d\u043d\u0438\u0439 \u0441\u043c\u043e\u043a\u0438\u043d\u0433",
+    "ko_KR": "\uc0c8\ubd04\ub9de\uc774 \ud131\uc2dc\ub3c4",
+    "zh_TW": "\u6625\u65e5\u79ae\u670d",
+    "zh_CN": "\u6625\u5b63\u793c\u670d"
+  }
 }

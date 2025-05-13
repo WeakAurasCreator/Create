@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "106839"
+  "SpellID": "106839",
+  "name_blz": {
+    "en_US": "Skull Bash",
+    "es_MX": "Testarazo",
+    "pt_BR": "Esmagar Cr\u00e2nio",
+    "de_DE": "Sch\u00e4delsto\u00df",
+    "en_GB": "Skull Bash",
+    "es_ES": "Testarazo",
+    "fr_FR": "Coup de cr\u00e2ne",
+    "it_IT": "Craniata",
+    "ru_RU": "\u041b\u043e\u0431\u043e\u0432\u0430\u044f \u0430\u0442\u0430\u043a\u0430",
+    "ko_KR": "\ub450\uac1c\uace8 \uac15\ud0c0",
+    "zh_TW": "\u788e\u9871\u731b\u64ca",
+    "zh_CN": "\u8fce\u5934\u75db\u51fb"
+  },
+  "description_blz": {
+    "en_US": "You charge and bash the target's skull, interrupting spellcasting and preventing any spell in that school from being cast for 3 sec.",
+    "es_MX": "Cargas contra el objetivo y lo aporreas en la cabeza, lo que interrumpe e impide el lanzamiento de hechizos de esa escuela durante 3 s.",
+    "pt_BR": "Voc\u00ea investe e esmaga o cr\u00e2nio do alvo, interrompendo o lan\u00e7amento de feiti\u00e7os e impedindo que qualquer feiti\u00e7o da mesma escola seja lan\u00e7ado por 3 s.",
+    "de_DE": "Ihr st\u00fcrmt auf das Ziel zu und versetzt ihm einen Schlag gegen den Sch\u00e4del. Unterbricht das Wirken von Zaubern und verhindert 3 Sek. lang, dass diese Art Zauber gewirkt werden kann.",
+    "en_GB": "You charge and bash the target's skull, interrupting spellcasting and preventing any spell in that school from being cast for 3 sec.",
+    "es_ES": "Cargas y das un testarazo al cr\u00e1neo del objetivo, lo que interrumpe el lanzamiento de hechizos e impide que se lancen hechizos de esa escuela durante 3 s.",
+    "fr_FR": "Vous chargez la cible et lui fracassez le cr\u00e2ne, ce qui interrompt son incantation et l\u2019emp\u00eache de lancer tout sort de la m\u00eame \u00e9cole pendant 3 s.",
+    "it_IT": "Carica il bersaglio con una testata, interrompendo il lancio d'incantesimi e impedendo il lancio di altri incantesimi della stessa scuola di magia per 3 s.",
+    "ru_RU": "\u0412\u044b \u0431\u0440\u043e\u0441\u0430\u0435\u0442\u0435\u0441\u044c \u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \u0438 \u0441 \u0441\u0438\u043b\u043e\u0439 \u0431\u044c\u0435\u0442\u0435 \u0435\u0433\u043e \u043f\u043e \u0433\u043e\u043b\u043e\u0432\u0435, \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f. \u041f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a \u043d\u0435 \u0441\u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0442\u043e\u0439 \u0436\u0435 \u0448\u043a\u043e\u043b\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \ub3cc\uc9c4\ud55c \ud6c4 \ub450\uac1c\uace8\uc744 \uac15\ud0c0\ud558\uc5ec \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\uace0, 3\ucd08 \ub3d9\uc548 \uac19\uc740 \uacc4\uc5f4\uc758 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uc9c0 \ubabb\ud558\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u671d\u76ee\u6a19\u885d\u92d2\u4e26\u731b\u64ca\u5176\u9871\u9aa8\uff0c\u4e2d\u65b7\u65bd\u6cd5\uff0c\u4e14\u4f7f\u5176\u57283\u79d2\u5167\u4e0d\u80fd\u65bd\u653e\u540c\u7cfb\u6cd5\u8853\u3002",
+    "zh_CN": "\u4f60\u5411\u76ee\u6807\u51b2\u950b\uff0c\u53d1\u52a8\u8fce\u5934\u75db\u51fb\uff0c\u6253\u65ad\u5176\u6b63\u5728\u65bd\u653e\u7684\u6cd5\u672f\u5e76\u4f7f\u5176\u57283\u79d2\u5185\u65e0\u6cd5\u65bd\u653e\u8be5\u7cfb\u6cd5\u672f\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "102794"
+  "SpellID": "102794",
+  "name_blz": {
+    "en_US": "Ursol's Vortex",
+    "es_MX": "V\u00f3rtice de Ursol",
+    "pt_BR": "V\u00f3rtice de Ursol",
+    "de_DE": "Ursols Vortex",
+    "en_GB": "Ursol's Vortex",
+    "es_ES": "V\u00f3rtice de Ursol",
+    "fr_FR": "Vortex d\u2019Ursol",
+    "it_IT": "Vortice di Ursol",
+    "ru_RU": "\u0412\u0438\u0445\u0440\u044c \u0423\u0440\u0441\u043e\u043b\u0430",
+    "ko_KR": "\uc6b0\ub974\uc194\uc758 \ud68c\uc624\ub9ac",
+    "zh_TW": "\u5384\u7d22\u723e\u7684\u6f29\u6e26",
+    "zh_CN": "\u4e4c\u7d22\u5c14\u65cb\u98ce"
+  },
+  "description_blz": {
+    "en_US": "Conjures a vortex of wind at the destination location that pulls all enemies within 8 yards toward it.",
+    "es_MX": "Invoca un v\u00f3rtice de viento en el punto de destino que atrae a todos los enemigos en un radio de 8 m.",
+    "pt_BR": "Conjura um v\u00f3rtice de vento na localiza\u00e7\u00e3o de destino e puxa todos os inimigos num raio de 8 para o seu centro.",
+    "de_DE": "Beschw\u00f6rt einen Windwirbel an der Zielposition, der alle Gegner innerhalb von 8 Metern heranzieht.",
+    "en_GB": "Conjures a vortex of wind at the destination location that pulls all enemies within 8 yards toward it.",
+    "es_ES": "Invoca un v\u00f3rtice de viento en el punto de destino que atrae a todos los enemigos en un radio de 8 m.",
+    "fr_FR": "Invoque un vortex de vent \u00e0 l\u2019emplacement cibl\u00e9 qui attire vers lui tous les ennemis \u00e0 moins de 8 m\u00e8tres.",
+    "it_IT": "Evoca un vortice di vento nella posizione bersaglio, attirando tutti i nemici entro 8 m.",
+    "ru_RU": "\u0412 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442\u0441\u044f \u0432\u0438\u0445\u0440\u044c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0438\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442 \u043a \u0441\u0435\u0431\u0435 \u0432\u0441\u0435\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c.",
+    "ko_KR": "\ubaa9\ud45c \uc704\uce58\ub85c\ubd80\ud130 \ubc18\uacbd 8\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc744 \ub04c\uc5b4\ub4e4\uc774\ub294 \ud68c\uc624\ub9ac\ub97c \uc77c\uc73c\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u76ee\u6a19\u4f4d\u7f6e\u53ec\u559a\u51fa\u4e00\u500b\u72c2\u98a8\u6f29\u6e26\uff0c\u4e26\u5c07\u9644\u8fd18\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\u62c9\u5411\u9019\u500b\u5730\u9ede\u3002",
+    "zh_CN": "\u5728\u76ee\u6807\u5730\u70b9\u5236\u9020\u4e00\u80a1\u65cb\u98ce\uff0c\u5c068\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\u5377\u5165\u65cb\u98ce\u4e4b\u4e2d\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "69044"
+  "SpellID": "69044",
+  "name_blz": {
+    "en_US": "Best Deals Anywhere",
+    "es_MX": "Los mejores precios del mercado",
+    "pt_BR": "As Melhores Ofertas",
+    "de_DE": "Schn\u00e4ppchenj\u00e4ger",
+    "en_GB": "Best Deals Anywhere",
+    "es_ES": "Los mejores precios del mercado",
+    "fr_FR": "Dur en affaires",
+    "it_IT": "Ottimi Affari",
+    "ru_RU": "\u0421\u0430\u043c\u044b\u0435 \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u0446\u0435\u043d\u044b!",
+    "ko_KR": "\uac70\ub798\uc758 \ub2ec\uc778",
+    "zh_TW": "\u6700\u4f73\u6298\u6263",
+    "zh_CN": "\u54ea\u91cc\u90fd\u6709\u597d\u4e70\u5356"
+  },
+  "description_blz": {
+    "en_US": "Always receive the best possible gold discount, regardless of faction.",
+    "es_MX": "Al comerciar con oro, consigue siempre el mejor descuento con cualquier facci\u00f3n.",
+    "pt_BR": "Sempre consegue o melhor desconto, seja qual for sua reputa\u00e7\u00e3o com aquela fac\u00e7\u00e3o.",
+    "de_DE": "Bekommt immer den bestm\u00f6glichen Goldrabatt, egal bei welcher Fraktion.",
+    "en_GB": "Always receive the best possible gold discount, regardless of faction.",
+    "es_ES": "Al comerciar con oro, consigue siempre el mejor descuento con cualquier facci\u00f3n.",
+    "fr_FR": "Vous b\u00e9n\u00e9ficiez toujours de la meilleure r\u00e9duction de prix, quelle que soit votre r\u00e9putation envers la faction.",
+    "it_IT": "Permette di ricevere sempre il miglior sconto in oro possibile, indipendentemente dalla fazione.",
+    "ru_RU": "\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043a\u0438\u0434\u043a\u0438 \u0443 \u0432\u0441\u0435\u0445 \u0444\u0440\u0430\u043a\u0446\u0438\u0439 \u043f\u0440\u0438 \u043f\u043e\u043a\u0443\u043f\u043a\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 \u0437\u0430 \u0437\u043e\u043b\u043e\u0442\u043e.",
+    "ko_KR": "\ud3c9\ud310\uc5d0 \uad00\uacc4\uc5c6\uc774 \ud56d\uc0c1 \ucd5c\ub300 \ud560\uc778\uc744 \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4e0d\u8ad6\u9663\u71df\uff0c\u6c38\u9060\u53ef\u7372\u5f97\u6700\u4f73\u7684\u8cb7\u8ce3\u6298\u6263\u3002",
+    "zh_CN": "\u65e0\u8bba\u548c\u54ea\u4e2a\u9635\u8425\u8fdb\u884c\u4ea4\u6613\u90fd\u80fd\u83b7\u5f97\u6700\u4f18\u60e0\u7684\u6298\u6263\u3002"
+  }
 }

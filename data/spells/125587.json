@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "125587"
+  "SpellID": "125587",
+  "name_blz": {
+    "en_US": "Way of the Steamer",
+    "es_MX": "Arte de la vaporera",
+    "pt_BR": "Caminho da Vaporeira",
+    "de_DE": "Weg des D\u00e4mpfens",
+    "en_GB": "Way of the Steamer",
+    "es_ES": "Arte de la vaporera",
+    "fr_FR": "Voie du cuit-vapeur",
+    "it_IT": "Via della Vaporiera",
+    "ru_RU": "\u041f\u0443\u0442\u044c \u041f\u0430\u0440\u043e\u0432\u0430\u0440\u043a\u0438",
+    "ko_KR": "\ucc1c\uc758 \uae38",
+    "zh_TW": "\u84b8\u716e\u4e4b\u9053",
+    "zh_CN": "\u84b8\u70e7\u4e4b\u9053"
+  },
+  "description_blz": {
+    "en_US": "Allows a cook to create steamed delicacies, up to a maximum skill of 75.",
+    "es_MX": "Le permite a un cocinero crear delicias al vapor hasta un m\u00e1ximo de habilidad de 75 p.",
+    "pt_BR": "Permite ao cozinheiro preparar del\u00edcias cozidas a vapor at\u00e9 o n\u00edvel 75.",
+    "de_DE": "Erm\u00f6glicht einem Koch, ged\u00e4mpfte Delikatessen mit einer maximalen Fertigkeit von 75 zu kochen.",
+    "en_GB": "Allows a cook to create steamed delicacies, up to a maximum skill of 75.",
+    "es_ES": "Permite a un cocinero preparar deliciosos platos al vapor hasta un m\u00e1ximo de habilidad de 75 p.",
+    "fr_FR": "Permet \u00e0 un cuisinier de pr\u00e9parer d\u2019app\u00e9tissants paniers vapeur qui n\u00e9cessitent un niveau de comp\u00e9tence de 75 au maximum.",
+    "it_IT": "Permette a un cuoco di cucinare squisitezze al vapore. Puoi salire di competenza fino a un massimo di 75.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u043e\u0432\u0430\u0440\u0443 \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c \u043f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u043d\u044b\u0435 \u0431\u043b\u044e\u0434\u0430 \u043d\u0430 \u043f\u0430\u0440\u0443 \u043f\u043e \u0440\u0435\u0446\u0435\u043f\u0442\u0430\u043c, \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u0430\u043d\u043d\u044b\u043c \u043d\u0430 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u043d\u0430\u0432\u044b\u043a\u0430 \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 75.",
+    "ko_KR": "\ub9db\uc788\ub294 \ucc1c\uc694\ub9ac\uc758 \uc870\ub9ac\ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4. \uc694\ub9ac\uc758 \ucd5c\ub300 \uc219\ub828\ub3c4\uac00 75\ub85c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8b93\u5eda\u5e2b\u53ef\u4ee5\u88fd\u4f5c\u84b8\u716e\u7684\u4f73\u991a\uff0c\u4f7f\u6280\u80fd\u7b49\u7d1a\u6700\u9ad8\u63d0\u5347\u81f375\u3002",
+    "zh_CN": "\u53a8\u5e08\u80fd\u591f\u51ed\u501f\u65e0\u4e0e\u4f26\u6bd4\u7684\u84b8\u70e7\u6280\u5de7\u70f9\u5236\u51fa\u9999\u6c14\u56db\u6ea2\u7684\u84b8\u83dc\uff0c\u6280\u80fd\u4e0a\u9650\u4e3a75\u70b9\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "67119"
+  "SpellID": "67119",
+  "name_blz": {
+    "en_US": "Item - Death Knight T9 Tank 2P Bonus",
+    "es_MX": "Item - Death Knight T9 Tank 2P Bonus",
+    "pt_BR": "Item - B\u00f4nus 2P de Tanque de Cavaleiro da Morte T9",
+    "en_GB": "Item - Death Knight T9 Tank 2P Bonus",
+    "es_ES": "Item - Death Knight T9 Tank 2P Bonus",
+    "it_IT": "Item - Death Knight T9 Tank 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fd\uc74c\uc758 \uae30\uc0ac \ubc29\uc5b4 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Death Knight T9 Tank 2P Bonus",
+    "zh_CN": "Item - Death Knight T9 Tank 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Decreases the cooldown on your Dark Command ability by 2 sec and increases the damage done by your Pestilence ability by 5%.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de tu facultad Orden oscura 2 s y aumenta un 5% el da\u00f1o infligido por Pestilencia.",
+    "pt_BR": "Reduz em 2 s a recarga de sua habilidade Comando Negro e aumenta em 5% o dano causado por sua habilidade Pestil\u00eancia.",
+    "de_DE": "Verringert die Abklingzeit Eurer F\u00e4higkeit 'Dunkler Befehl' um 2 Sek. und erh\u00f6ht den Schaden von 'Pestilenz' um 5%.",
+    "en_GB": "Decreases the cooldown on your Dark Command ability by 2 sec and increases the damage done by your Pestilence ability by 5%.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de tu facultad Orden oscura 2 s y aumenta el da\u00f1o infligido por tu habilidad Pestilencia un 5%.",
+    "fr_FR": "R\u00e9duit le temps de recharge de votre technique Sombre ordre de 2\u00a0s et augmente les d\u00e9g\u00e2ts de votre technique Pestilence de 5%.",
+    "it_IT": "Riduce il tempo di recupero di Comando Oscuro di 2 s e aumenta i danni inflitti da Pestilenza del 5%.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0422\u0435\u043c\u043d\u0430\u044f \u0432\u043b\u0430\u0441\u0442\u044c\" \u043d\u0430 2 \u0441\u0435\u043a. \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u041c\u043e\u0440\" \u043d\u0430 5%.",
+    "ko_KR": "\uc5b4\ub460\uc758 \uba85\ub839 \uae30\uc220\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \uc804\uc5fc\ubcd1 \ub2a5\ub825\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u9ed1\u6697\u6555\u4ee4\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\uff0c\u761f\u75ab\u540c\u5316\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u9ed1\u6697\u547d\u4ee4\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\uff0c\u4f20\u67d3\u6280\u80fd\u7684\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }

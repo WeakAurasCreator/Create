@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "90499"
+  "SpellID": "90499",
+  "name_blz": {
+    "en_US": "Item - Shaman T11 Restoration 4P Bonus",
+    "es_MX": "Item - Shaman T11 Restoration 4P Bonus",
+    "pt_BR": "Item - Xam\u00e3 T11 Restaura\u00e7\u00e3o 4P B\u00f4nus",
+    "en_GB": "Item - Shaman T11 Restoration 4P Bonus",
+    "es_ES": "Item - Shaman T11 Restoration 4P Bonus",
+    "it_IT": "Item - Shaman T11 Restoration 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac \ubcf5\uc6d0 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Shaman T11 Restoration 4P Bonus",
+    "zh_CN": "Item - Shaman T11 Restoration 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Grants 0 Intellect for 6 sec after you cast Riptide.",
+    "es_MX": "Otorga 0 p. de intelecto durante 6 s despu\u00e9s de lanzar Mareas Vivas.",
+    "pt_BR": "Concede 0 de Intelecto por 6 s ap\u00f3s lan\u00e7ar Contracorrente.",
+    "de_DE": "Erh\u00f6ht nach dem Wirken von 'Springflut' Eure Intelligenz 6 Sek. lang um 0.",
+    "en_GB": "Grants 0 Intellect for 6 sec after you cast Riptide.",
+    "es_ES": "Otorga 0 p. de intelecto durante 6 s tras lanzar Mareas vivas.",
+    "fr_FR": "Conf\u00e8re un bonus de 0 \u00e0 l\u2019Intelligence pendant 6 s apr\u00e8s incantation de Remous.",
+    "it_IT": "Aumenta l'Intelletto di 0 per 6 s dopo il lancio di Marea Benefica.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442 \u043d\u0430 0 \u043d\u0430 6 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0411\u044b\u0441\u0442\u0440\u0438\u043d\u044b\".",
+    "ko_KR": "\uc131\ub09c \ud574\uc77c \uc2dc\uc804 \ud6c4 6\ucd08 \ub3d9\uc548 \uc9c0\ub2a5\uc774 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u65bd\u5c55\u6fc0\u6d41\u5f8c\u8ce6\u4e88\u4f600\u9ede\u667a\u529b\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u5728\u65bd\u653e\u6fc0\u6d41\u540e\u83b7\u5f970\u70b9\u667a\u529b\u3002\u6301\u7eed6\u79d2\u3002"
+  }
 }

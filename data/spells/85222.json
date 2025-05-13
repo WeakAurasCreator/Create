@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "85222"
+  "SpellID": "85222",
+  "name_blz": {
+    "en_US": "Light of Dawn",
+    "es_MX": "Luz del alba",
+    "pt_BR": "Luz da Aurora",
+    "de_DE": "Licht der Morgend\u00e4mmerung",
+    "en_GB": "Light of Dawn",
+    "es_ES": "Luz del alba",
+    "fr_FR": "Lumi\u00e8re de l\u2019aube",
+    "it_IT": "Luce dell'Alba",
+    "ru_RU": "\u0421\u0432\u0435\u0442 \u0437\u0430\u0440\u0438",
+    "ko_KR": "\uc5ec\uba85\uc758 \ube5b",
+    "zh_TW": "\u9ece\u660e\u66d9\u5149",
+    "zh_CN": "\u9ece\u660e\u4e4b\u5149"
+  },
+  "description_blz": {
+    "en_US": "Unleashes a wave of Holy energy, healing up to 5 injured allies within a 15 yd frontal cone for 10,175.",
+    "es_MX": "Desata una ola de energ\u00eda sagrada que sana hasta 5 aliados heridos en un cono frontal de 15 m durante 10,353.",
+    "pt_BR": "Libera uma onda de energia Sagrada, curando at\u00e9 5 aliados feridos dentro de um cone frontal de 15 m por 10.334.",
+    "de_DE": "Entfesselt eine Welle heiliger Energie, die bis zu 5 verletzte Verb\u00fcndete in einem frontalen kegelf\u00f6rmigen Bereich von 15 Metern um 10.157 Gesundheit heilt.",
+    "en_GB": "Unleashes a wave of Holy energy, healing up to 5 injured allies within a 15 yd frontal cone for 10,014.",
+    "es_ES": "Libera una onda de energ\u00eda Sagrada que sana 10198 p. a un m\u00e1ximo de 5 aliados heridos en un radio de 15 m en un cono frontal.",
+    "fr_FR": "Lib\u00e8re une vague d\u2019\u00e9nergie sacr\u00e9e qui rend 10182\u00a0points de vie \u00e0 un maximum de 5\u00a0alli\u00e9s bless\u00e9s situ\u00e9s dans un c\u00f4ne frontal de 15\u00a0m\u00e8tres.",
+    "it_IT": "Scatena un'ondata di energia sacra, curando di 10.202 fino a 5 alleati feriti in un cono frontale di 15 m.",
+    "ru_RU": "\u0412\u044b\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u0432\u043e\u043b\u043d\u0443 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 10079 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0440\u0430\u043d\u0435\u043d\u044b\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0432\u043e \u0444\u0440\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u0435\u043a\u0442\u043e\u0440\u0435 \u0440\u0430\u0434\u0438\u0443\u0441\u043e\u043c 15 \u043c.",
+    "ko_KR": "\uc2e0\uc131\ud55c \ud798\uc744 \ubc29\ucd9c\ud558\uc5ec \uc804\ubc29 15\ubbf8\ud130 \ubd80\ucc44\uaf34 \ubc94\uc704 \ub0b4\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70 \ucd5c\ub300 5\uba85\uc758 \uc0dd\uba85\ub825\uc744 10,323\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u91cb\u653e\u4e00\u6ce2\u795e\u8056\u80fd\u91cf\uff0c\u6700\u591a\u53ef\u6cbb\u7642\u524d\u65b915\u78bc\u9310\u5f62\u7bc4\u570d\u51675\u540d\u53d7\u50b7\u7684\u76df\u53cb\uff0c\u70ba\u5176\u6062\u5fa910,397\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u91ca\u653e\u4e00\u6ce2\u795e\u5723\u80fd\u91cf\uff0c\u4e3a\u524d\u65b9\u9525\u5f62\u533a\u57df15\u7801\u5185\u6700\u591a5\u540d\u53d7\u4f24\u7684\u76df\u53cb\u6062\u590d10,414\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

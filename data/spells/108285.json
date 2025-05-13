@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "108285"
+  "SpellID": "108285",
+  "name_blz": {
+    "en_US": "Totemic Recall",
+    "es_MX": "Regreso tot\u00e9mico",
+    "pt_BR": "Revoca\u00e7\u00e3o Tot\u00eamica",
+    "de_DE": "Totemischer R\u00fcckruf",
+    "en_GB": "Totemic Recall",
+    "es_ES": "Regreso tot\u00e9mico",
+    "fr_FR": "Rappel tot\u00e9mique",
+    "it_IT": "Richiamo dei Totem",
+    "ru_RU": "\u0412\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0442\u043e\u0442\u0435\u043c\u043e\u0432",
+    "ko_KR": "\ud1a0\ud15c\uc758 \uadc0\ud658",
+    "zh_TW": "\u5716\u9a30\u53ec\u56de",
+    "zh_CN": "\u6536\u56de\u56fe\u817e"
+  },
+  "description_blz": {
+    "en_US": "Resets the cooldown of your most recently used totem with a base cooldown shorter than 3 minutes.",
+    "es_MX": "Restablece el tiempo de reutilizaci\u00f3n del \u00faltimo t\u00f3tem que hayas utilizado con un tiempo de reutilizaci\u00f3n base m\u00e1s corto que 3 min.",
+    "pt_BR": "Conclui a recarga do seu totem mais recente usado com recarga b\u00e1sica menor que 3 minutos.",
+    "de_DE": "Schlie\u00dft die Abklingzeit Eures zuletzt eingesetzten Totems mit einer Grundabklingzeit unter 3 Min. sofort ab.",
+    "en_GB": "Resets the cooldown of your most recently used totem with a base cooldown shorter than 3 minutes.",
+    "es_ES": "Reinicia el tiempo de reutilizaci\u00f3n del t\u00f3tem que hayas usado m\u00e1s recientemente y que tenga un tiempo de reutilizaci\u00f3n base menor a 3 min.",
+    "fr_FR": "Met fin au temps de recharge du totem \u00e0 temps de recharge de base inf\u00e9rieur \u00e0 3\u00a0minutes utilis\u00e9 le plus r\u00e9cemment.",
+    "it_IT": "Azzera il tempo di recupero del totem usato pi\u00f9 di recente con un tempo di recupero base pi\u00f9 breve di 3 minuti.",
+    "ru_RU": "\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u043c\u0438 \u0442\u043e\u0442\u0435\u043c \u0441 \u0431\u0430\u0437\u043e\u0432\u044b\u043c \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043c\u0435\u043d\u0435\u0435 3 \u043c\u0438\u043d\u0443\u0442.",
+    "ko_KR": "3\ubd84 \ubbf8\ub9cc\uc758 \uae30\ubcf8 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 \uc9c0\ub2cc \uac00\uc7a5 \ucd5c\uadfc\uc5d0 \uc0ac\uc6a9\ud55c \ud1a0\ud15c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd08\uae30\ud654\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u91cd\u7f6e\u4f60\u6700\u8fd1\u4f7f\u7528\u904e\u4e14\u57fa\u790e\u51b7\u537b\u6642\u9593\u57283\u5206\u9418\u4ee5\u4e0b\u7684\u4e00\u500b\u5716\u9a30\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u91cd\u7f6e\u4f60\u6700\u8fd1\u4f7f\u7528\u7684\u57fa\u7840\u51b7\u5374\u65f6\u95f4\u77ed\u4e8e3\u5206\u949f\u7684\u56fe\u817e\u7684\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

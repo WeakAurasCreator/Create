@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "115767"
+  "SpellID": "115767",
+  "name_blz": {
+    "en_US": "Deep Wounds",
+    "es_MX": "Heridas profundas",
+    "pt_BR": "Feridas Profundas",
+    "de_DE": "Tiefe Wunden",
+    "en_GB": "Deep Wounds",
+    "es_ES": "Heridas profundas",
+    "fr_FR": "Blessures profondes",
+    "it_IT": "Ferite Profonde",
+    "ru_RU": "\u0413\u043b\u0443\u0431\u043e\u043a\u0438\u0435 \u0440\u0430\u043d\u044b",
+    "ko_KR": "\uce58\uba85\uc0c1",
+    "zh_TW": "\u91cd\u50b7",
+    "zh_CN": "\u91cd\u4f24"
+  },
+  "description_blz": {
+    "en_US": "Your Devastate and Revenge also cause the enemy to bleed for 526 Physical damage over 15 sec.",
+    "es_MX": "Tu Devastar y Revancha tambi\u00e9n hacen que el enemigo sangre 526 p. de da\u00f1o f\u00edsico durante 15 s.",
+    "pt_BR": "Suas habilidades Devastar e Revanche tamb\u00e9m fazem o inimigo sangrar, causando 526 de dano F\u00edsico ao longo de 15 s.",
+    "de_DE": "Eure F\u00e4higkeiten 'Verw\u00fcsten' und 'Rache' lassen den Gegner bluten und verursachen zus\u00e4tzlich im Verlauf von 15 Sek. 526 k\u00f6rperlichen Schaden.",
+    "en_GB": "Your Devastate and Revenge also cause the enemy to bleed for 526 Physical damage over 15 sec.",
+    "es_ES": "Tu Devastar y tu Revancha tambi\u00e9n provocan que el enemigo sangre y reciba 526 p. de da\u00f1o f\u00edsico durante 15 s.",
+    "fr_FR": "Vos techniques D\u00e9vaster et Revanche font \u00e9galement saigner la cible et lui infligent 526\u00a0points de d\u00e9g\u00e2ts physiques en 15 s.",
+    "it_IT": "Sfondamento e Rivincita infliggono 526 danni fisici da sanguinamento aggiuntivi in 15 s.",
+    "ru_RU": "\u041d\u0430\u043d\u043e\u0441\u044f \u0443\u0440\u043e\u043d, \"\u0421\u043e\u043a\u0440\u0443\u0448\u0435\u043d\u0438\u0435\" \u0438 \"\u0420\u0435\u0432\u0430\u043d\u0448\" \u0442\u0430\u043a\u0436\u0435 \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0442 \u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u0435, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0435 526 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\uc555\ub3c4\uc640 \ubcf5\uc218\uac00 \ucd94\uac00\ub85c \uc801\uc5d0\uac8c \ucd9c\ud608\uc744 \uc77c\uc73c\ucf1c 15\ucd08\uc5d0 \uac78\uccd0 526\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u632b\u6557\u548c\u5fa9\u4ec7\u4e5f\u6703\u4f7f\u6575\u4eba\u6d41\u8840\uff0c\u572815\u79d2\u5167\u9020\u6210526\u9ede\u7269\u7406\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u6bc1\u706d\u6253\u51fb\u548c\u590d\u4ec7\u4e5f\u4f1a\u5bfc\u81f4\u654c\u4eba\u6d41\u8840\uff0c\u572815\u79d2\u5185\u9020\u6210526\u70b9\u7269\u7406\u4f24\u5bb3\u3002"
+  }
 }

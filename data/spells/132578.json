@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "132578"
+  "SpellID": "132578",
+  "name_blz": {
+    "en_US": "Invoke Niuzao, the Black Ox",
+    "es_MX": "Invocar a Niuzao, el Buey Negro",
+    "pt_BR": "Evocar Niuzao, o Boi Negro",
+    "de_DE": "Niuzao den Schwarzen Ochsen beschw\u00f6ren",
+    "en_GB": "Invoke Niuzao, the Black Ox",
+    "es_ES": "Invocar a Niuzao, el Buey Negro",
+    "fr_FR": "Invocation de Niuzao, le Buffle noir",
+    "it_IT": "Invocazione: Niuzao, lo Yak Nero",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u041d\u044e\u0446\u0437\u0430\u043e, \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u0411\u044b\u043a\u0430",
+    "ko_KR": "\ud751\uc6b0 \ub2c8\uc6b0\uc9dc\uc624\uc758 \uc6d0\ub839",
+    "zh_TW": "\u53ec\u559a\u7384\u725b\u6012\u5146",
+    "zh_CN": "\u7384\u725b\u4e0b\u51e1"
+  },
+  "description_blz": {
+    "en_US": "Summons an effigy of Niuzao, the Black Ox for 25 sec. Niuzao attacks your primary target, and frequently Stomps, damaging all nearby enemies.\r\n\r\nWhile active, 40% of damage delayed by Stagger is instead Staggered by Niuzao.",
+    "es_MX": "Invoca una efigie de Niuzao, el Buey Negro, durante 25 s. Niuzao ataca a tu objetivo principal y da Pisotones con frecuencia que infligen da\u00f1o a todos los enemigos cercanos.\r\n\r\nMientras est\u00e1 activo, un 40% del da\u00f1o postergado con Aplazar, en cambio, es Aplazado por Niuzao.",
+    "pt_BR": "Evoca uma ef\u00edgie de Niuzao, o Boi Negro, por 25 s. Niuzao ataca seu alvo prim\u00e1rio e desfere Pisadas com frequ\u00eancia, causando dano a todos os inimigos pr\u00f3ximos.\r\n\r\nQuando o efeito est\u00e1 ativo, 40% do dano adiado por Cambalear \u00e9 evitado por Niuzao.",
+    "de_DE": "Beschw\u00f6rt f\u00fcr 25 Sek. ein Abbild von Niuzao, dem Schwarzen Ochsen. Niuzao greift Euer Prim\u00e4rziel an und setzt 'Stampf' mehrmals ein, was allen Gegnern in der N\u00e4he Schaden zuf\u00fcgt.\r\n\r\nW\u00e4hrend das Abbild aktiv ist, werden 40% des durch 'Staffeln' verz\u00f6gerten Schadens stattdessen von Niuzao gestaffelt.",
+    "en_GB": "Summons an effigy of Niuzao, the Black Ox for 25 sec. Niuzao attacks your primary target, and frequently Stomps, damaging all nearby enemies.\r\n\r\nWhile active, 40% of damage delayed by Stagger is instead Staggered by Niuzao.",
+    "es_ES": "Invoca una efigie de Niuzao, el Buey Negro, durante 25 s. Niuzao ataca a tu objetivo principal y usa con frecuencia Pisot\u00f3n para infligir da\u00f1o a todos los enemigos cercanos.\r\n\r\nMientras est\u00e1 activo, un 40% del da\u00f1o pospuesto por Aplazar le afecta a Niuzao en lugar de a ti.",
+    "fr_FR": "Invoque une effigie de Niuzao, le Buffle noir, pendant 25 s. Il attaque votre cible principale et utilise fr\u00e9quemment Pi\u00e9tinement, ce qui inflige des d\u00e9g\u00e2ts aux adversaires proches.\r\n\r\nTant qu\u2019il est actif, 40\u00a0% des d\u00e9g\u00e2ts diff\u00e9r\u00e9s par Report que vous devriez subir s\u2019appliquent \u00e0 Niuzao.",
+    "it_IT": "Evoca un'effige di Niuzao, lo Yak Nero, per 25 s. Niuzao attacca il bersaglio primario e lancia spesso Urto a Terra, infliggendo danni a tutti i nemici vicini.\r\n\r\nFinch\u00e9 \u00e8 attivo, il 40% dei danni trascurati da Noncuranza vengono trascurati invece da Niuzao.",
+    "ru_RU": "\u041d\u0430 25 \u0441\u0435\u043a. \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0443\u0445\u0430 \u041d\u044e\u0446\u0437\u0430\u043e, \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u0411\u044b\u043a\u0430. \u041d\u044e\u0446\u0437\u0430\u043e \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u0432\u0430\u0448\u0443 \u0433\u043b\u0430\u0432\u043d\u0443\u044e \u0446\u0435\u043b\u044c \u0438 \u0447\u0430\u0441\u0442\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u0422\u043e\u043f\u043e\u0442\", \u043d\u0430\u043d\u043e\u0441\u044f \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0443\u0440\u043e\u043d.\r\n\r\n\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u041d\u044e\u0446\u0437\u0430\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0432\u043c\u0435\u0441\u0442\u043e \u0432\u0430\u0441 40% \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \"\u041f\u043e\u0448\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u044f\".",
+    "ko_KR": "\ud751\uc6b0 \ub2c8\uc6b0\uc9dc\uc624\uc758 \uc6d0\ub839\uc744 \uc18c\ud658\ud558\uc5ec 25\ucd08 \ub3d9\uc548 \uc8fc \ub300\uc0c1\uc744 \uacf5\uaca9\ud558\uac8c \ud569\ub2c8\ub2e4. \ub2c8\uc6b0\uc9dc\uc624\ub294 \uc2dc\uc804\uc790\uc758 \uc8fc \ub300\uc0c1\uc744 \uacf5\uaca9\ud558\uba70, \uc790\uc8fc \ub545 \uc6b8\ub9ac\uae30\ub97c \uc2dc\uc804\ud574 \uc8fc\uc704\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc2dc\uac04\ucc28\ub85c \ubc1b\uc544\ub118\uae34 \ud53c\ud574\uc758 40%\ub97c \ub2c8\uc6b0\uc9dc\uc624\uac00 \uc2dc\uac04\ucc28\ub85c \ubc1b\uc544\ub118\uae30\ub3c4\ub85d \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u7384\u725b\u6012\u5146\u96d5\u50cf\uff0c\u6301\u7e8c25\u79d2\u3002\u6012\u5146\u6703\u653b\u64ca\u4f60\u7684\u4e3b\u8981\u76ee\u6a19\uff0c\u4e26\u4e14\u7d93\u5e38\u6027\u7684\u8e10\u8e0f\u5730\u9762\uff0c\u5c0d\u9644\u8fd1\u6240\u6709\u6575\u4eba\u9020\u6210\u50b7\u5bb3\u3002\r\n\r\n\u555f\u52d5\u6642\uff0c\u9189\u4ed9\u7de9\u52c1\u6240\u5ef6\u7de9\u768440%\u50b7\u5bb3\u6703\u7531\u6012\u5146\u627f\u53d7\u3002",
+    "zh_CN": "\u53ec\u5524\u7384\u725b\u782e\u7682\u7684\u5e7b\u8eab\uff0c\u6301\u7eed25\u79d2\u3002\u782e\u7682\u4f1a\u653b\u51fb\u4f60\u7684\u4e3b\u8981\u76ee\u6807\u5e76\u4e0d\u65ad\u65bd\u653e\u8df5\u8e0f\uff0c\u5bf9\u9644\u8fd1\u6240\u6709\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u3002\r\n\r\n\u6fc0\u6d3b\u65f6\uff0c\u9189\u62f3\u5316\u89e3\u4f24\u5bb3\u768440%\u4f1a\u7531\u782e\u7682\u4ee3\u4e3a\u5316\u89e3\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "126892"
+  "SpellID": "126892",
+  "name_blz": {
+    "en_US": "Zen Pilgrimage",
+    "es_MX": "Peregrinaje zen",
+    "pt_BR": "Peregrina\u00e7\u00e3o Zen",
+    "de_DE": "Zenpilgerfahrt",
+    "en_GB": "Zen Pilgrimage",
+    "es_ES": "Peregrinaje zen",
+    "fr_FR": "P\u00e8lerinage zen",
+    "it_IT": "Pellegrinaggio Zen",
+    "ru_RU": "\u0414\u0443\u0445\u043e\u0432\u043d\u043e\u0435 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435",
+    "ko_KR": "\uc21c\ub840",
+    "zh_TW": "\u79aa\u5b9a\u6b78\u5b97",
+    "zh_CN": "\u7985\u5b97\u671d\u5723"
+  },
+  "description_blz": {
+    "en_US": "Your spirit travels to your home temple, leaving your body behind. \r\n\r\nUse Zen Pilgrimage again to return back to near your departure point.",
+    "es_MX": "Tu esp\u00edritu abandona tu cuerpo y viaja hacia tu templo original. \r\n\r\nUsa Peregrinaje zen otra vez para regresar a una zona cercana a tu punto de partida.",
+    "pt_BR": "Seu esp\u00edrito viaja para o templo natal, deixando o corpo para tr\u00e1s. \r\n\r\nUse a Peregrina\u00e7\u00e3o Zen novamente para retornar para perto de onde estava.",
+    "de_DE": "Euer Geist reist zu Eurem Heimattempel und l\u00e4sst Euren K\u00f6rper zur\u00fcck.\r\n\r\nBenutzt 'Zenpilgerfahrt' erneut, um in die N\u00e4he Eures Ausgangsortes zur\u00fcckzukehren.",
+    "en_GB": "Your spirit travels to your home temple, leaving your body behind. \r\n\r\nUse Zen Pilgrimage again to return back to near your departure point.",
+    "es_ES": "Tu esp\u00edritu viaja a tu templo y deja atr\u00e1s tu cuerpo.\r\n\r\nVuelve a utilizar Peregrinaje zen para regresar cerca del punto de salida.",
+    "fr_FR": "Votre esprit abandonne votre corps et voyage jusqu\u2019au temple qui est votre foyer.\r\n\r\nUtilisez P\u00e8lerinage zen \u00e0 nouveau pour retourner pr\u00e8s de votre point de d\u00e9part.",
+    "it_IT": "Teletrasporta il tuo spirito al tempio che \u00e8 la tua casa, lasciando sul posto solo il corpo.\r\n\r\nLanciare di nuovo Pellegrinaggio Zen riporta indietro lo spirito.",
+    "ru_RU": "\u0412\u0430\u0448 \u0434\u0443\u0445 \u043f\u043e\u043a\u0438\u0434\u0430\u0435\u0442 \u0442\u0435\u043b\u043e \u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0432\u0430\u0448 \u0440\u043e\u0434\u043d\u043e\u0439 \u0445\u0440\u0430\u043c. \r\n\r\n\u0427\u0442\u043e\u0431\u044b \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043e\u0431\u0440\u0430\u0442\u043d\u043e, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \"\u0414\u0443\u0445\u043e\u0432\u043d\u043e\u0435 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435\" \u0435\u0449\u0435 \u0440\u0430\u0437.",
+    "ko_KR": "\uc601\ud63c\uc774 \uc721\uc2e0\uc744 \ub0a8\uaca8 \ub450\uace0 \uace0\ud5a5\uc758 \uc0ac\uc6d0\uc73c\ub85c \ub5a0\ub0a9\ub2c8\ub2e4.\r\n\r\n\uc21c\ub840\ub97c \ub2e4\uc2dc \uc0ac\uc6a9\ud558\uba74 \uc6d0\ub798 \uc788\ub358 \uacf3 \uadfc\ucc98\ub85c \ub3cc\uc544\uac11\ub2c8\ub2e4.",
+    "zh_TW": "\u628a\u8eab\u9ad4\u7559\u5728\u539f\u5730\uff0c\u8b93\u9748\u9b42\u524d\u5f80\u4f60\u7684\u4e3b\u5bfa\u3002\r\n\r\n\u518d\u6b21\u4f7f\u7528\u79aa\u5b9a\u6b78\u5b97\uff0c\u6703\u56de\u5230\u4f60\u51fa\u767c\u5730\u9ede\u7684\u9644\u8fd1\u3002",
+    "zh_CN": "\u4f60\u7684\u7075\u9b42\u524d\u5f80\u4f60\u7684\u5bfa\u9662\uff0c\u5c06\u8089\u8eab\u7559\u5728\u539f\u5730\u3002\r\n\r\n\u518d\u6b21\u65bd\u653e\u7985\u5b97\u671d\u5723\u53ef\u4ee5\u56de\u5230\u4f60\u4e4b\u524d\u6240\u5728\u5730\u9644\u8fd1\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "108281"
+  "SpellID": "108281",
+  "name_blz": {
+    "en_US": "Ancestral Guidance",
+    "es_MX": "Gu\u00eda ancestral",
+    "pt_BR": "Conselho dos Ancestrais",
+    "de_DE": "F\u00fchrung der Ahnen",
+    "en_GB": "Ancestral Guidance",
+    "es_ES": "Gu\u00eda ancestral",
+    "fr_FR": "Soutien ancestral",
+    "it_IT": "Guida Ancestrale",
+    "ru_RU": "\u041d\u0430\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0434\u043a\u043e\u0432",
+    "ko_KR": "\uace0\ub300\uc758 \uc778\ub3c4",
+    "zh_TW": "\u5148\u7956\u5c0e\u5f15",
+    "zh_CN": "\u5148\u7956\u6307\u5f15"
+  },
+  "description_blz": {
+    "en_US": "For the next 10 sec, 25% of your healing done and 25% of your damage done is converted to healing on up to 3 nearby injured party or raid members, up to 39,468 healing to each target per second.",
+    "es_MX": "Durante los siguientes 10 s, un 25% de la sanaci\u00f3n que realizaste y un 25% del da\u00f1o que infligiste se convierten en sanaci\u00f3n para un m\u00e1ximo de 3 miembros de grupo o banda heridos cercanos. Puede alcanzar un m\u00e1ximo de 39,468 p. de sanaci\u00f3n a cada objetivo por segundo.",
+    "pt_BR": "Pelos pr\u00f3ximos 10 s, 25% da cura que voc\u00ea realiza e 25% do dano que voc\u00ea causa s\u00e3o convertidos em cura para at\u00e9 3 integrantes feridos do grupo ou raide pr\u00f3ximos, at\u00e9 um m\u00e1ximo de 39.468 de cura por segundo a cada alvo.",
+    "de_DE": "F\u00fcr die n\u00e4chsten 10 Sek. werden bis zu 3 verletzte Gruppen- oder Schlachtzugsmitglieder in der N\u00e4he um 25% Eurer hervorgerufenen Heilung und 25% Eures verursachten Schadens geheilt, um bis zu 39.468 Gesundheit pro Sekunde und Ziel.",
+    "en_GB": "For the next 10 sec, 25% of your healing done and 25% of your damage done is converted to healing on up to 3 nearby injured party or raid members, up to 39,468 healing to each target per second.",
+    "es_ES": "Durante los siguientes 10 s, un 25% de la sanaci\u00f3n que realizas y un 25% de tu da\u00f1o sana a un m\u00e1ximo de 3 miembros heridos del grupo o banda, con un m\u00e1ximo de un 39468 de sanaci\u00f3n a cada objetivo por segundo.",
+    "fr_FR": "Pendant 10 s, 25\u00a0% des soins que vous prodiguez et 25\u00a0% des d\u00e9g\u00e2ts que vous infligez sont convertis en soins apport\u00e9s \u00e0 un maximum de 3\u00a0membres du groupe ou du raid bless\u00e9s proches. Rend jusqu\u2019\u00e0 39468\u00a0points de vie par seconde \u00e0 chaque cible.",
+    "it_IT": "Per i successivi 10 s, il 25% delle cure fornite e il 25% dei danni inflitti viene convertito in cure per massimo 3 membri del gruppo o dell'incursione feriti vicini, fino a un massimo di 39.468 cure a ogni bersaglio ogni secondo.",
+    "ru_RU": "\u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 10 \u0441\u0435\u043a. 25% \u0442\u0432\u043e\u0440\u0438\u043c\u043e\u0433\u043e \u0432\u0430\u043c\u0438 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0438 25% \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 3 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0440\u0430\u043d\u0435\u043d\u044b\u043c \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430\u043c \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430, \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044f \u043a\u0430\u0436\u0434\u043e\u0439 \u0446\u0435\u043b\u0438 \u0434\u043e 39468 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0440\u0430\u0437 \u0432 \u0441\u0435\u043a.",
+    "ko_KR": "\ub2e4\uc74c 10\ucd08 \ub3d9\uc548 \uc790\uc2e0\uc774 \ubc1c\uc0dd\uc2dc\ud0a4\ub294 \uce58\uc720\ub7c9\uc758 25%\uc640 \ud53c\ud574\ub7c9\uc758 25%\uac00 \uce58\uc720 \ud6a8\uacfc\ub85c \uc804\ud658\ub418\uc5b4, \uc8fc\uc704\uc758 \ubd80\uc0c1\ub2f9\ud55c \ud30c\ud2f0\uc6d0 \ub610\ub294 \uacf5\uaca9\ub300\uc6d0 \ucd5c\ub300 3\uba85\uc744 1\ucd08\ub9c8\ub2e4 \ucd5c\ub300 39,468\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u63a5\u4e0b\u4f86\u768410\u79d2\u5167\uff0c\u4f60\u9020\u6210\u768425%\u6cbb\u7642\uff0c\u548c\u9020\u6210\u768425%\u50b7\u5bb3\u6703\u8f49\u63db\u70ba\u5c0d\u9644\u8fd1\u6700\u591a3\u540d\u53d7\u50b7\u7684\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u7684\u6cbb\u7642\u91cf\uff0c\u6bcf\u79d2\u4f7f\u6bcf\u500b\u76ee\u6a19\u6700\u591a\u6062\u5fa939,468\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5728\u63a5\u4e0b\u6765\u768410\u79d2\u5185\uff0c25%\u7684\u6cbb\u7597\u548c25%\u7684\u4f24\u5bb3\u5c06\u8f6c\u5316\u6210\u6cbb\u7597\u6548\u679c\uff0c\u4e3a\u9644\u8fd1\u6700\u591a3\u540d\u53d7\u4f24\u7684\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\u6062\u590d\u751f\u547d\u503c\u3002\u6bcf\u79d2\u6700\u591a\u4e3a\u6bcf\u4e2a\u76ee\u6807\u6062\u590d39,468\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

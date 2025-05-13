@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "44302"
+  "SpellID": "44302",
+  "name_blz": {
+    "en_US": "Reduced Spam Nuke Cast Time",
+    "es_MX": "Reduced Spam Nuke Cast Time",
+    "pt_BR": "Redu\u00e7\u00e3o de Spam de Tempo de Lan\u00e7amento da Bomba Nuclear",
+    "en_GB": "Reduced Spam Nuke Cast Time",
+    "es_ES": "Reduced Spam Nuke Cast Time",
+    "it_IT": "Reduced Spam Nuke Cast Time",
+    "ko_KR": "\uacf5\uaca9 \uc2dc\uc804 \uc2dc\uac04 \uac10\uc18c",
+    "zh_TW": "\u7e2e\u77ed\u9a37\u64fe\u8f5f\u64ca\u65bd\u6cd5\u6642\u9593",
+    "zh_CN": "Reduced Spam Nuke Cast Time"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage done by your Arcane Blast, Fireball, Frostbolt, Scorch, Pyroblast, Arcane Missiles, and Frostfire Bolt spells by 5%.",
+    "es_MX": "Aumenta un 5% el da\u00f1o infligido por tus hechizos Explosi\u00f3n Arcana, Bola de Fuego, Descarga de Escarcha, Agostar, Piroexplosi\u00f3n, Misiles Arcanos y Descarga de Pirofr\u00edo.",
+    "pt_BR": "Aumenta em 5% o dano causado pelos deus feiti\u00e7os Impacto Arcano, Bola de Fogo, Seta de Gelo, Calcinar, Ignimpacto, M\u00edsseis Arcanos e Seta de Fogofrio.",
+    "de_DE": "Erh\u00f6ht den Schaden Eurer Zauber 'Arkanschlag', 'Feuerball', 'Frostblitz', 'Versengen', 'Pyroschlag', 'Arkane Geschosse' und 'Frostfeuerblitz' um 5%.",
+    "en_GB": "Increases the damage done by your Arcane Blast, Fireball, Frostbolt, Scorch, Pyroblast, Arcane Missiles, and Frostfire Bolt spells by 5%.",
+    "es_ES": "Aumenta un 5% el da\u00f1o infligido por tus hechizos Explosi\u00f3n Arcana, Bola de Fuego, Descarga de Escarcha, Agostar, Piroexplosi\u00f3n, Misiles Arcanos y Descarga de Pirofr\u00edo.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts inflig\u00e9s par vos sorts D\u00e9flagration des Arcanes, Boule de feu, \u00c9clair de givre, Br\u00fblure, Explosion pyrotechnique, Projectiles des Arcanes et \u00c9clair de givrefeu de 5%.",
+    "it_IT": "Aumenta i danni inflitti da Detonazione Arcana, Palla di Fuoco, Dardo di Gelo, Bruciatura, Pirosfera, Missili Arcani e Palla di Fuocogelo del 5%.",
+    "ru_RU": "\u041d\u0430 5% \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f\u043c\u0438 \"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0430\u044f \u0432\u0441\u043f\u044b\u0448\u043a\u0430\", \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0448\u0430\u0440\", \"\u041b\u0435\u0434\u044f\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430\", \"\u041e\u0436\u043e\u0433\" \u0438 \"\u0421\u0442\u0440\u0435\u043b\u0430 \u043b\u0435\u0434\u044f\u043d\u043e\u0433\u043e \u043e\u0433\u043d\u044f\".",
+    "ko_KR": "\ube44\uc804 \uc791\ub82c, \ud654\uc5fc\uad6c, \uc5bc\uc74c \ud654\uc0b4, \ubd88\ud0dc\uc6b0\uae30, \ubd88\ub369\uc774 \uc791\ub82c, \uc2e0\ube44\ud55c \ud654\uc0b4, \uc5bc\uc74c\ubd88\uaf43 \ud654\uc0b4 \uc8fc\ubb38\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u79d8\u6cd5\u885d\u64ca\u3001\u706b\u7403\u8853\u3001\u5bd2\u51b0\u7bad\u3001\u707c\u71d2\u3001\u708e\u7206\u8853\u3001\u79d8\u6cd5\u98db\u5f48\u548c\u971c\u706b\u7bad\u7684\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u5965\u672f\u51b2\u51fb\u3001\u706b\u7403\u672f\u3001\u5bd2\u51b0\u7bad\u3001\u707c\u70e7\u3001\u708e\u7206\u672f\u3001\u5965\u672f\u98de\u5f39\u548c\u971c\u706b\u4e4b\u7bad\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }

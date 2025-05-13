@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "77575"
+  "SpellID": "77575",
+  "name_blz": {
+    "en_US": "Outbreak",
+    "es_MX": "Brote",
+    "pt_BR": "Eclos\u00e3o",
+    "de_DE": "Ausbruch",
+    "en_GB": "Outbreak",
+    "es_ES": "Brote",
+    "fr_FR": "Pouss\u00e9e de fi\u00e8vre",
+    "it_IT": "Contagio",
+    "ru_RU": "\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u0438",
+    "ko_KR": "\ub3cc\ubc1c \uc5f4\ubcd1",
+    "zh_TW": "\u75ab\u75c5\u7206\u767c",
+    "zh_CN": "\u7206\u53d1"
+  },
+  "description_blz": {
+    "en_US": "Deals 53 Shadow damage to the target and infects all nearby enemies with Virulent Plague.\r\n\r\n Virulent Plague\r\nA disease that deals 824 Shadow damage over 27 sec. It erupts when the infected target dies, dealing 151 Shadow damage to nearby enemies.",
+    "es_MX": "Inflige 53 p. de da\u00f1o de las sombras al objetivo e infecta a todos los enemigos cercanos con Peste virulenta.\r\n\r\n Peste virulenta\r\nUna enfermedad que inflige 824 p. de da\u00f1o de las sombras durante 27 s. Provoca una erupci\u00f3n cuando el objetivo infectado muere e inflige 153 p. de da\u00f1o de las sombras a los enemigos cercanos.",
+    "pt_BR": "Causa 52 de dano de Sombra ao alvo e infecta todos os inimigos pr\u00f3ximos com Peste Virulenta.\r\n\r\n Peste Virulenta\r\nUma doen\u00e7a que causa 824 de dano de Sombra ao longo de 27 s. Ela irrompe quando o alvo infectado morre, causando 155 de dano de Sombra aos inimigos pr\u00f3ximos.",
+    "de_DE": "F\u00fcgt dem Ziel 52 Schattenschaden zu und infiziert alle Gegner in der N\u00e4he mit 'Virulente Seuche'.\r\n\r\n Virulente Seuche\r\nEine Krankheit, die im Verlauf von 27 Sek. 824 Schattenschaden verursacht. Sie bricht aus, wenn das infizierte Ziel stirbt, und f\u00fcgt Gegnern in der N\u00e4he 152 Schattenschaden zu.",
+    "en_GB": "Deals 53 Shadow damage to the target and infects all nearby enemies with Virulent Plague.\r\n\r\n Virulent Plague\r\nA disease that deals 824 Shadow damage over 27 sec. It erupts when the infected target dies, dealing 156 Shadow damage to nearby enemies.",
+    "es_ES": "Inflige 53 p. de da\u00f1o de las Sombras al objetivo e infecta a todos los enemigos cercanos con Peste virulenta.\r\n\r\n Peste virulenta\r\nUna enfermedad que inflige 824 p. de da\u00f1o de las Sombras durante 27 s. Entra en erupci\u00f3n cuando el objetivo infectado muere, lo que inflige 152 p. de da\u00f1o de las Sombras a los enemigos cercanos.",
+    "fr_FR": "Inflige 52\u00a0points de d\u00e9g\u00e2ts d\u2019ombre \u00e0 la cible et inocule Peste virulente aux adversaires proches.\r\n\r\n Peste virulente\r\nMaladie qui inflige 824\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre en 27 s. Provoque une \u00e9ruption quand la cible infect\u00e9e meurt, ce qui fait subir 152\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre aux ennemis proches.",
+    "it_IT": "Infligge 52 danni da ombra al bersaglio e infetta tutti i nemici vicini con Piaga Virulenta.\r\n\r\n Piaga Virulenta\r\nUna malattia che infligge 824 danni da ombra in 27 s. Quando il bersaglio infetto muore, la malattia si manifesta, infliggendo 149 danni da ombra ai nemici vicini.",
+    "ru_RU": "\u041d\u0430\u043d\u043e\u0441\u0438\u0442 \u0446\u0435\u043b\u0438 52 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u0437\u0430\u0440\u0430\u0436\u0430\u0435\u0442 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0441\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439.\r\n\r\n \u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u0430\u044f \u0447\u0443\u043c\u0430\r\n\u041d\u0430\u043d\u043e\u0441\u0438\u0442 824 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0437\u0430 27 \u0441\u0435\u043a. \u041a\u043e\u0433\u0434\u0430 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u043d\u0430\u044f \u0446\u0435\u043b\u044c \u043f\u043e\u0433\u0438\u0431\u0430\u0435\u0442, \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u0431\u043e\u043b\u0435\u0437\u043d\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c 154 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c 54\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc8fc\uc704\uc758 \ubaa8\ub4e0 \uc801\uc744 \uc545\uc131 \uc5ed\ubcd1\uc5d0 \uac10\uc5fc\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n \uc545\uc131 \uc5ed\ubcd1\r\n\ub300\uc0c1\uc5d0\uac8c \uc9c8\ubcd1\uc744 \uc77c\uc73c\ucf1c 27\ucd08\uc5d0 \uac78\uccd0 824\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc9c8\ubcd1\uc5d0 \uac10\uc5fc\ub41c \ub300\uc0c1\uc774 \uc8fd\uc73c\uba74 \ud3ed\ubc1c\uc774 \uc77c\uc5b4\ub098 \uc8fc\uc704 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 153\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u76ee\u6a19\u9020\u621054\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4f7f\u9644\u8fd1\u6240\u6709\u6575\u4eba\u611f\u67d3\u60e1\u6027\u761f\u75ab\u3002\r\n\r\n\u60e1\u6027\u761f\u75ab\r\n\u50b3\u67d3\u75be\u75c5\uff0c\u572827\u79d2\u5167\u9020\u6210824\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\u88ab\u611f\u67d3\u7684\u76ee\u6a19\u6b7b\u4ea1\u6642\u6703\u7206\u767c\uff0c\u4e26\u5c0d\u9644\u8fd1\u6575\u4eba\u9020\u6210153\u9ede\u6697\u5f71\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5bf9\u76ee\u6807\u9020\u621052\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4e14\u4f7f\u9644\u8fd1\u7684\u6240\u6709\u654c\u4eba\u611f\u67d3\u6076\u6027\u75c5\u53d8\u3002\r\n\r\n \u6076\u6027\u75c5\u53d8\r\n\u75be\u75c5\u4f1a\u572827\u79d2\u5185\u9020\u6210824\u70b9\u6697\u5f71\u4f24\u5bb3\u3002\u5f53\u88ab\u611f\u67d3\u7684\u76ee\u6807\u6b7b\u4ea1\u65f6\u75be\u75c5\u4f1a\u7206\u53d1\u51fa\u6765\uff0c\u5bf9\u9644\u8fd1\u7684\u654c\u4eba\u9020\u6210153\u70b9\u6697\u5f71\u4f24\u5bb3\u3002"
+  }
 }
