@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "76808"
+  "SpellID": "76808",
+  "name_blz": {
+    "en_US": "Mastery: Executioner",
+    "es_MX": "Maestr\u00eda: Verdugo",
+    "pt_BR": "Maestria: Carrasco",
+    "de_DE": "Meisterschaft: Scharfrichter",
+    "en_GB": "Mastery: Executioner",
+    "es_ES": "Maestr\u00eda: Verdugo",
+    "fr_FR": "Ma\u00eetrise\u00a0: Bourreau",
+    "it_IT": "Maestria: Carnefice",
+    "ru_RU": "\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c: \u043f\u0430\u043b\u0430\u0447",
+    "ko_KR": "\ud2b9\ud654: \uc9d1\ud589\uc790",
+    "zh_TW": "\u7cbe\u901a\uff1a\u8655\u6c7a\u8005",
+    "zh_CN": "\u7cbe\u901a\uff1a\u523d\u5b50\u624b"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage done by your finishing moves by 45.6%.",
+    "es_MX": "Aumenta un 45.6% el da\u00f1o infligido por tus remates.",
+    "pt_BR": "Aumenta em 45,6% o dano causado pelos seus golpes finais.",
+    "de_DE": "Erh\u00f6ht den verursachten Schaden Eurer Finishing-Moves um 45,6%.",
+    "en_GB": "Increases the damage done by your finishing moves by 45.6%.",
+    "es_ES": "Aumenta un 45,6% el da\u00f1o infligido por tus remates.",
+    "fr_FR": "Augmente de 45,6% les d\u00e9g\u00e2ts inflig\u00e9s par vos coups de gr\u00e2ce.",
+    "it_IT": "Aumenta i danni inflitti dalle mosse risolutive del 45,6%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0432\u0430\u0448\u0438\u0445 \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0438\u0445 \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u043d\u0430 45,6%.",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc77c\uaca9\uc758 \uacf5\uaca9\ub825\uc774 45.6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u7d42\u7d50\u6280\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad845.6%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7ec8\u7ed3\u6280\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad845.6%\u3002"
+  }
 }

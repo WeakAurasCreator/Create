@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "70656"
+  "SpellID": "70656",
+  "name_blz": {
+    "en_US": "Item - Death Knight T10 Melee 4P Bonus",
+    "es_MX": "Item - Death Knight T10 Melee 4P Bonus",
+    "pt_BR": "Item - B\u00f4nus 4P Corpo a Corpo de Cavaleiro da Morte T10",
+    "en_GB": "Item - Death Knight T10 Melee 4P Bonus",
+    "es_ES": "Item - Death Knight T10 Melee 4P Bonus",
+    "it_IT": "Item - Death Knight T10 Melee 4P Bonus",
+    "ko_KR": "\uc8fd\uc74c\uc758 \uae30\uc0ac \uadfc\uc811 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Death Knight T10 Melee 4P Bonus",
+    "zh_CN": "Item - Death Knight T10 Melee 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Whenever all your runes are on cooldown, you gain 3% increased damage done with weapons, spells, and abilities for the next 15 sec.",
+    "es_MX": "Cada vez que todas tus runas est\u00e1n en tiempo de reutilizaci\u00f3n, ganas un aumento del 3% del da\u00f1o infligido con armas, hechizos y facultades durante los siguientes 15 s.",
+    "pt_BR": "Sempre que todas as suas runas estiverem recarregando, voc\u00ea ganhar\u00e1 3% a mais de dano causado com armas, feiti\u00e7os e habilidades pelos pr\u00f3ximos 15 s.",
+    "de_DE": "Immer, wenn alle Eure Runen von Abklingzeit betroffen sind, wird 15 Sek. lang Euer verursachter Schaden mit Waffen, Zaubern und F\u00e4higkeiten um 3% erh\u00f6ht.",
+    "en_GB": "Whenever all your runes are on cooldown, you gain 3% increased damage done with weapons, spells, and abilities for the next 15 sec.",
+    "es_ES": "Cada vez que todas tus runas est\u00e1n en tiempo de reutilizaci\u00f3n, ganas un aumento del 3% del da\u00f1o infligido con armas, hechizos y facultades durante los siguientes 15 s.",
+    "fr_FR": "Chaque fois que toutes vos runes sont en cours de recharge, vous b\u00e9n\u00e9ficiez d'un bonus de 3% aux d\u00e9g\u00e2ts que vous infligez avec les armes, les sorts et les techniques pendant 15 s.",
+    "it_IT": "Quando tutte le rune sono in fase di recupero, ottieni il 3% di danni aggiuntivi con armi, incantesimi e abilit\u00e0 per i successivi 15 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0443 \u0432\u0430\u0441 \u043d\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u0445 \u0440\u0443\u043d, \u043b\u044e\u0431\u043e\u0439 \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u043e\u0440\u0443\u0436\u0438\u0435\u043c, \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f\u043c\u0438 \u0438\u043b\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 3% \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\ub8ec\uc774 \ubaa8\ub450 \uc7ac\uc0ac\uc6a9 \ub300\uae30 \uc911\uc77c \ub54c, \ub2e4\uc74c 15\ucd08 \ub3d9\uc548 \ubb34\uae30\uc640 \uc8fc\ubb38, \uae30\uc220\uc758 \uacf5\uaca9\ub825\uc774 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u7684\u6240\u6709\u7b26\u6587\u7686\u8655\u65bc\u51b7\u537b\u72c0\u614b\u6642\uff0c\u4f60\u5728\u63a5\u4e0b\u4f86\u768415\u79d2\u5167\u6240\u9020\u6210\u7684\u6240\u6709\u6b66\u5668\u3001\u6cd5\u8853\u8207\u6280\u80fd\u50b7\u5bb3\u5c07\u63d0\u9ad83%\u3002",
+    "zh_CN": "\u6bcf\u5f53\u4f60\u6240\u6709\u7684\u7b26\u6587\u90fd\u6b63\u5728\u51b7\u5374\u65f6\uff0c\u4f60\u5728\u63a5\u4e0b\u6765\u768415\u79d2\u5185\u901a\u8fc7\u6b66\u5668\u3001\u6cd5\u672f\u548c\u6280\u80fd\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad83%\u3002"
+  }
 }

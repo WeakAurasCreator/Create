@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "77493"
+  "SpellID": "77493",
+  "name_blz": {
+    "en_US": "Mastery: Razor Claws",
+    "es_MX": "Maestr\u00eda: Garras tajantes",
+    "pt_BR": "Maestria: Garras de Navalha",
+    "de_DE": "Meisterschaft: Rasiermesserscharfe Krallen",
+    "en_GB": "Mastery: Razor Claws",
+    "es_ES": "Maestr\u00eda: Garras tajantes",
+    "fr_FR": "Ma\u00eetrise\u00a0: Griffes rasoir",
+    "it_IT": "Maestria: Artigli Affilati",
+    "ru_RU": "\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c: \u043a\u043e\u0433\u0442\u0438-\u043b\u0435\u0437\u0432\u0438\u044f",
+    "ko_KR": "\ud2b9\ud654: \ub0a0 \uc120 \ubc1c\ud1b1",
+    "zh_TW": "\u7cbe\u901a\uff1a\u92d2\u5229\u4e4b\u722a",
+    "zh_CN": "\u7cbe\u901a\uff1a\u5243\u5200\u4e4b\u722a"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage done by your Cat Form bleed and other periodic abilities and finishing moves by 37.2%.",
+    "es_MX": "Aumenta un 37.2% el da\u00f1o que infligen tus habilidades de sangrado y otras habilidades peri\u00f3dicas y remates cuando est\u00e1s en Forma felina.",
+    "pt_BR": "Aumenta em 37,2% o dano causado pelo seu sangramento na Forma de Felino e por outras habilidades peri\u00f3dicas e golpes finais.",
+    "de_DE": "Erh\u00f6ht den von Euren Blutungseffekten, anderen regelm\u00e4\u00dfigen Schadenseffekten und Finishing-Moves in Katzengestalt verursachten Schaden um 37,2%.",
+    "en_GB": "Increases the damage done by your Cat Form bleed and other periodic abilities and finishing moves by 37.2%.",
+    "es_ES": "Aumenta un 37,2% el da\u00f1o que infligen tus remates, tus facultades de sangrado y otras facultades peri\u00f3dicas en forma felina.",
+    "fr_FR": "Augmente de 37,2\u00a0% les d\u00e9g\u00e2ts de vos saignements en forme de f\u00e9lin et autres techniques p\u00e9riodiques et coups de gr\u00e2ce.",
+    "it_IT": "Aumenta i danni inflitti in Forma Felina dalle abilit\u00e0 che infliggono danni da sanguinamento, dalle mosse risolutive e da altre abilit\u00e0 che infliggono danni periodici del 37,2%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432 \u043e\u0431\u043b\u0438\u043a\u0435 \u043a\u043e\u0448\u043a\u0438 \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u043c\u0438 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438, \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c\u0438 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0438 \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0438\u043c\u0438 \u043f\u0440\u0438\u0435\u043c\u0430\u043c\u0438 \u0441\u0435\u0440\u0438\u0438, \u043d\u0430 37,2%.",
+    "ko_KR": "\ud45c\ubc94 \ubcc0\uc2e0 \uc2dc \ucd9c\ud608 \ub2a5\ub825\uacfc \uae30\ud0c0 \uc8fc\uae30\uc801\uc778 \ud6a8\uacfc, \ub9c8\ubb34\ub9ac \uc77c\uaca9\uc73c\ub85c \uc785\ud788\ub294 \ud53c\ud574\uac00 37.2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7375\u8c79\u5f62\u614b\u6d41\u8840\u653b\u64ca\u6280\u80fd\u3001\u5176\u4ed6\u9031\u671f\u6027\u6280\u80fd\u548c\u7d42\u7d50\u6280\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad837.2%\u3002",
+    "zh_CN": "\u730e\u8c79\u5f62\u6001\u4e0b\u7684\u6d41\u8840\u6280\u80fd\u3001\u5176\u4ed6\u5468\u671f\u6027\u6280\u80fd\u548c\u7ec8\u7ed3\u6280\u6240\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad837.2%\u3002"
+  }
 }

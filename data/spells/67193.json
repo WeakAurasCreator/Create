@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "67193"
+  "SpellID": "67193",
+  "name_blz": {
+    "en_US": "Item - Priest T9 Shadow 2P Bonus (Vampiric Touch)",
+    "es_MX": "Item - Priest T9 Shadow 2P Bonus (Vampiric Touch)",
+    "pt_BR": "Item - Sacerdote T9 Sombras 2P B\u00f4nus (Toque Vamp\u00edrico)",
+    "en_GB": "Item - Priest T9 Shadow 2P Bonus (Vampiric Touch)",
+    "es_ES": "Item - Priest T9 Shadow 2P Bonus (Vampiric Touch)",
+    "it_IT": "Item - Priest T9 Shadow 2P Bonus (Vampiric Touch)",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\uc81c \uc554\ud751 \ubcf4\ub108\uc2a4 (\ud761\ud608\uc758 \uc190\uae38)",
+    "zh_TW": "Item - Priest T9 Shadow 2P Bonus (Vampiric Touch)",
+    "zh_CN": "Item - Priest T9 Shadow 2P Bonus (Vampiric Touch)"
+  },
+  "description_blz": {
+    "en_US": "Increases the duration of your Vampiric Touch spell by 6 sec.",
+    "es_MX": "Aumenta la duraci\u00f3n de tu hechizo Toque vamp\u00edrico 6 s.",
+    "pt_BR": "Aumenta em 6 s a dura\u00e7\u00e3o do seu Toque Vamp\u00edrico.",
+    "de_DE": "Erh\u00f6ht die Dauer Eures Zaubers 'Vampirber\u00fchrung' um 6 Sek.",
+    "en_GB": "Increases the duration of your Vampiric Touch spell by 6 sec.",
+    "es_ES": "Aumenta la duraci\u00f3n de tu hechizo Toque vamp\u00edrico 6 s.",
+    "fr_FR": "Augmente la dur\u00e9e de votre sort Toucher vampirique de 6 s.",
+    "it_IT": "Aumenta la durata di Tocco Vampirico di 6 s.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u044f \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\ud761\ud608\uc758 \uc190\uae38\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 6\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u5438\u8840\u4e4b\u89f8\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95776\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u5438\u8840\u9b3c\u4e4b\u89e6\u6cd5\u672f\u6548\u679c\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f6\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "69041"
+  "SpellID": "69041",
+  "name_blz": {
+    "en_US": "Rocket Barrage",
+    "es_MX": "Tromba de cohetes",
+    "pt_BR": "Barragem de Foguetes",
+    "de_DE": "Raketenbeschuss",
+    "en_GB": "Rocket Barrage",
+    "es_ES": "Tromba de cohetes",
+    "fr_FR": "Barrage de fus\u00e9es",
+    "it_IT": "Raffica di Razzi",
+    "ru_RU": "\u0420\u0430\u043a\u0435\u0442\u043d\u044b\u0439 \u043e\u0431\u0441\u0442\u0440\u0435\u043b",
+    "ko_KR": "\ub85c\ucf13 \uc5f0\ubc1c\ud0c4",
+    "zh_TW": "\u706b\u7bad\u5f48",
+    "zh_CN": "\u706b\u7bad\u5f39\u5e55"
+  },
+  "description_blz": {
+    "en_US": "Launches your belt rockets at an enemy, dealing 2,779 fire damage.",
+    "es_MX": "Lanza a un enemigo los cohetes de tu cintur\u00f3n, que infligen 2,779 p. de da\u00f1o de Fuego.",
+    "pt_BR": "Lan\u00e7a foguetes do cinto de utilidades contra um inimigo, causando 2.779 de dano de Fogo.",
+    "de_DE": "Feuert Eure G\u00fcrtelraketen auf einen Feind ab, die 2.779 Feuerschaden verursachen.",
+    "en_GB": "Launches your belt rockets at an enemy, dealing 2,779 fire damage.",
+    "es_ES": "Lanza a un enemigo los cohetes de tu cintur\u00f3n, que infligen 2779 p. de da\u00f1o de Fuego.",
+    "fr_FR": "Projette vos fus\u00e9es de ceinture sur un ennemi et lui inflige 2779 points de d\u00e9g\u00e2ts de Feu.",
+    "it_IT": "Lancia i tuoi razzi contro il nemico, infliggendo 2.779 danni da fuoco.",
+    "ru_RU": "\u0412\u044b\u0441\u0442\u0440\u0435\u043b \u0438\u0437 \u0437\u0430\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043d\u0430 \u043f\u043e\u044f\u0441\u0435 \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u043c\u0435\u0442\u0430, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 2779 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f.",
+    "ko_KR": "\uc801\uc5d0\uac8c \ud5c8\ub9ac\ub760 \ub85c\ucf13\uc744 \ubc1c\uc0ac\ud558\uc5ec 2,779\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5411\u6575\u4eba\u767c\u5c04\u706b\u7bad\uff0c\u5c0d\u5176\u9020\u62102,779\u9ede\u706b\u7130\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5411\u4e00\u4e2a\u654c\u4eba\u53d1\u5c04\u8170\u5e26\u4e0a\u7684\u706b\u7bad\uff0c\u9020\u62102,779\u70b9\u706b\u7130\u4f24\u5bb3\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "70854"
+  "SpellID": "70854",
+  "name_blz": {
+    "en_US": "Item - Warrior T10 Melee 2P Bonus",
+    "es_MX": "Item - Warrior T10 Melee 2P Bonus",
+    "pt_BR": "Item \u2013 Guerreiro T10 Corpo a Corpo 2P B\u00f4nus",
+    "en_GB": "Item - Warrior T10 Melee 2P Bonus",
+    "es_ES": "Item - Warrior T10 Melee 2P Bonus",
+    "it_IT": "Item - Warrior T10 Melee 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc804\uc0ac \uadfc\uc811 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Warrior T10 Melee 2P Bonus",
+    "zh_CN": "Item - Warrior T10 Melee 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases all physical damage done by 5%.",
+    "es_MX": "Aumenta todo el da\u00f1o f\u00edsico infligido un 5%.",
+    "pt_BR": "Aumenta em 5% todo dano F\u00edsico causado.",
+    "de_DE": "Erh\u00f6ht Euren gesamten verursachten k\u00f6rperlichen Schaden um 5%.",
+    "en_GB": "Increases all physical damage done by 5%.",
+    "es_ES": "Aumenta todo el da\u00f1o f\u00edsico infligido un 5%.",
+    "fr_FR": "Augmente tous les d\u00e9g\u00e2ts physiques inflig\u00e9s de 5%.",
+    "it_IT": "Aumenta i danni fisici inflitti del 5%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0435\u0441\u044c \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u044b\u0439 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 5%.",
+    "ko_KR": "\ubaa8\ub4e0 \ubb3c\ub9ac \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u6240\u6709\u6240\u9020\u6210\u7684\u7269\u7406\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u4f7f\u6240\u6709\u9020\u6210\u7684\u7269\u7406\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "69179"
+  "SpellID": "69179",
+  "name_blz": {
+    "en_US": "Arcane Torrent",
+    "es_MX": "Torrente Arcano",
+    "pt_BR": "Torrente Arcana",
+    "de_DE": "Arkaner Strom",
+    "en_GB": "Arcane Torrent",
+    "es_ES": "Torrente Arcano",
+    "fr_FR": "Torrent arcanique",
+    "it_IT": "Torrente Arcano",
+    "ru_RU": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a",
+    "ko_KR": "\ube44\uc804 \uaca9\ub958",
+    "zh_TW": "\u5967\u6d41\u4e4b\u8853",
+    "zh_CN": "\u5965\u672f\u6d2a\u6d41"
+  },
+  "description_blz": {
+    "en_US": "Remove 1 beneficial effect from all enemies within 8 yards and increase your Rage by 15.\r\n",
+    "es_MX": "Quita 1 efecto beneficioso de todos los enemigos que haya en un radio de 8 m y aumenta tu ira en 15 p.\r\n",
+    "pt_BR": "Remove 1 efeito ben\u00e9fico de todos os inimigos em um raio de 8 m e aumenta em 15 a sua Raiva.\r\n",
+    "de_DE": "Entfernt 1 positiven Effekt von allen Gegnern innerhalb von 8 Metern und erh\u00f6ht Eure Wut um 15.\r\n",
+    "en_GB": "Remove 1 beneficial effect from all enemies within 8 yards and increase your Rage by 15.\r\n",
+    "es_ES": "Elimina 1 efecto beneficioso de todos los enemigos en un radio de 8 m y aumenta tu ira 15 p.\r\n",
+    "fr_FR": "Vous annulez 1\u00a0effet b\u00e9n\u00e9fique sur des ennemis situ\u00e9s \u00e0 moins de 8\u00a0m\u00e8tres et augmentez votre Rage de 15.\r\n",
+    "it_IT": "Dissolve 1 effetto benefico da tutti i nemici entro 8 m e aumenta la tua rabbia di 15.\r\n",
+    "ru_RU": "\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c 1 \u0431\u043b\u0430\u0433\u043e\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442. \u0414\u0430\u0435\u0442 15 \u0435\u0434. \u044f\u0440\u043e\u0441\u0442\u0438.",
+    "ko_KR": "8\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc801\uc758 \uc774\ub85c\uc6b4 \ud6a8\uacfc 1\uac1c\ub97c \uc81c\uac70\ud558\uace0 \ubd84\ub178\ub97c 15\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u79fb\u96648\u78bc\u7bc4\u570d\u5167\u6240\u6709\u6575\u4eba\u8eab\u4e0a\u76841\u500b\u589e\u76ca\u6548\u679c\uff0c\u4e26\u6062\u5fa915\u9ede\u6012\u6c23\u3002",
+    "zh_CN": "\u4ece\u534a\u5f848\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\u8eab\u4e0a\u79fb\u96641\u4e2a\u6709\u76ca\u6548\u679c\uff0c\u5e76\u4f7f\u4f60\u7684\u6012\u6c14\u503c\u63d0\u9ad815\u70b9\u3002"
+  }
 }
