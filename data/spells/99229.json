@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "99229"
+  "SpellID": "99229",
+  "name_blz": {
+    "en_US": "Item - Warlock T12 4P Bonus",
+    "es_MX": "Item - Warlock T12 4P Bonus",
+    "pt_BR": "Item \u2013 B\u00f4nus 4P T12 Bruxo",
+    "en_GB": "Item - Warlock T12 4P Bonus",
+    "es_ES": "Item - Warlock T12 4P Bonus",
+    "it_IT": "Item - Warlock T12 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ud751\ub9c8\ubc95\uc0ac T12 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1 - \u8853\u58ebT12 4P\u734e\u52f5",
+    "zh_CN": "Item - Warlock T12 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Casting your Shadow Bolt, Incinerate, Soul Fire, and Drain Soul spells has a 5% chance to increase all Shadow and Fire damage you deal by 20% for 8 sec.",
+    "es_MX": "Lanzar tus hechizos Descarga de las Sombras, Incinerar, Fuego de alma y Drenar alma tiene un 5% de probabilidad de aumentar un 20% todo el da\u00f1o de las Sombras y de Fuego que infliges durante 8 s.",
+    "pt_BR": "Ao lan\u00e7ar seus feiti\u00e7os Seta Sombria, Incinerar, Fogo d'Alma e Drenar Alma, voc\u00ea tem 5% de chance de aumentar em 20% todo o dano de Sombra e de Fogo causado por voc\u00ea por 8 s.",
+    "de_DE": "Eure Zauber 'Schattenblitz', 'Verbrennen', 'Seelenfeuer' und 'Seelendieb' haben eine Chance von 5%, Euren gesamten verursachten Feuer- und Schattenschaden 8 Sek. lang um 20% zu erh\u00f6hen.",
+    "en_GB": "Casting your Shadow Bolt, Incinerate, Soul Fire, and Drain Soul spells has a 5% chance to increase all Shadow and Fire damage you deal by 20% for 8 sec.",
+    "es_ES": "Lanzar tus hechizos Descarga de las Sombras, Incinerar, Fuego de alma y Drenar alma tiene un 5% de probabilidad de aumentar un 20% todo el da\u00f1o de las Sombras y de Fuego que infliges durante 8 s.",
+    "fr_FR": "Vos sorts Trait de l\u2019ombre, Incin\u00e9rer, Feu de l\u2019\u00e2me et Drain d\u2019\u00e2me ont 5% de chances d\u2019augmenter tous les d\u00e9g\u00e2ts d\u2019Ombre et de Feu que vous infligez de 20% pendant 8 s.",
+    "it_IT": "Il lancio di Dardo d'Ombra, Incenerimento, Fuoco dell'Anima e Risucchio d'Anima ha una probabilit\u00e0 del 5% di aumentare i danni da fuoco e da ombra inflitti del 20% per 8 s.",
+    "ru_RU": "\"\u0421\u0442\u0440\u0435\u043b\u0430 \u0422\u044c\u043c\u044b\", \"\u0418\u0441\u043f\u0435\u043f\u0435\u043b\u0435\u043d\u0438\u0435\", \"\u041e\u0436\u043e\u0433 \u0434\u0443\u0448\u0438\" \u0438 \"\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u0438\u0435 \u0434\u0443\u0448\u0438\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 5% \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \u043e\u0433\u043d\u044f \u0438 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043d\u0430 20% \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\uc5b4\ub460\uc758 \ud654\uc0b4, \uc18c\uac01, \uc601\ud63c\uc758 \ubd88\uaf43, \uc601\ud63c \ud761\uc218 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uba74 5%\uc758 \ud655\ub960\ub85c \uc554\ud751 \ubc0f \ud654\uc5fc \uacf5\uaca9\ub825\uc774 8\ucd08 \ub3d9\uc548 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c04\u51fa\u6697\u5f71\u7bad\u3001\u71d2\u76e1\u3001\u9748\u9b42\u4e4b\u706b\u8207\u5438\u53d6\u9748\u9b42\u67095%\u6a5f\u7387\u5c07\u6240\u6709\u7684\u6697\u5f71\u50b7\u5bb3\u8207\u706b\u7130\u50b7\u5bb3\u63d0\u9ad820%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u6697\u5f71\u7bad\u3001\u70e7\u5c3d\u3001\u7075\u9b42\u4e4b\u706b\u548c\u5438\u53d6\u7075\u9b42\u6cd5\u672f\u67095%\u51e0\u7387\u4f7f\u4f60\u9020\u6210\u7684\u6240\u6709\u6697\u5f71\u548c\u706b\u7130\u4f24\u5bb3\u63d0\u9ad820%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

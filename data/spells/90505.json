@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "90505"
+  "SpellID": "90505",
+  "name_blz": {
+    "en_US": "Item - Shaman T11 Elemental 4P Bonus",
+    "es_MX": "Item - Shaman T11 Elemental 4P Bonus",
+    "pt_BR": "Item - Xam\u00e3 T11 Elemental 4P B\u00f4nus",
+    "en_GB": "Item - Shaman T11 Elemental 4P Bonus",
+    "es_ES": "Item - Shaman T11 Elemental 4P Bonus",
+    "it_IT": "Item - Shaman T11 Elemental 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac \uc815\uae30 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Shaman T11 Elemental 4P Bonus",
+    "zh_CN": "Item - Shaman T11 Elemental 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cast time of your Lightning Bolt spell by 10%.",
+    "es_MX": "Reduce un 10% el tiempo de lanzamiento de tu hechizo Descarga de rel\u00e1mpagos.",
+    "pt_BR": "Reduz em 10% o tempo de lan\u00e7amento do seu feiti\u00e7o Raio.",
+    "de_DE": "Verringert die Zauberzeit Eures Zaubers 'Blitzschlag' um 10%.",
+    "en_GB": "Reduces the cast time of your Lightning Bolt spell by 10%.",
+    "es_ES": "Reduce un 10% el tiempo de lanzamiento de tu hechizo Descarga de rel\u00e1mpagos.",
+    "fr_FR": "R\u00e9duit le temps d'incantation de votre sort \u00c9clair de 10%.",
+    "it_IT": "Riduce il tempo di lancio di Dardo Fulminante del 10%.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u041c\u043e\u043b\u043d\u0438\u0438\" \u043d\u0430 10%.",
+    "ko_KR": "\ubc88\uac1c \ud654\uc0b4\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u9583\u96fb\u7bad\u6cd5\u8853\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed10%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u95ea\u7535\u7bad\u6cd5\u672f\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed10%\u3002"
+  }
 }

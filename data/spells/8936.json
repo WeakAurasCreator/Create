@@ -50,17 +50,17 @@
     "zh_CN": "\u6108\u5408"
   },
   "description_blz": {
-    "en_US": "Heals a friendly target for 14,573 and another 3,169 over 12 sec.",
-    "es_MX": "Sana 15,281 p. de salud a un objetivo aliado y 3,169 p. m\u00e1s durante 12 s.",
-    "pt_BR": "Cura 14.620 pontos de vida de um alvo aliado e mais 3.169 ao longo de 12 s.",
-    "de_DE": "Heilt ein verb\u00fcndetes Ziel um 14.680 Gesundheit sowie im Verlauf von 12 Sek. um weitere 3.169 Gesundheit.",
-    "en_GB": "Heals a friendly target for 15,091 and another 3,169 over 12 sec.",
-    "es_ES": "Sana 14794 p. a un objetivo amistoso y otros 3169 p. durante 12 s.",
-    "fr_FR": "Rend \u00e0 une cible alli\u00e9e 14907\u00a0points de vie, puis 3169 suppl\u00e9mentaires en 12 s.",
-    "it_IT": "Cura un bersaglio alleato di 15.142 e di 3.169 aggiuntivi in 12 s.",
-    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 14809 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u0435\u0449\u0435 3169 \u0435\u0434. \u0437\u0430 12 \u0441\u0435\u043a.",
-    "ko_KR": "\uc544\uad70 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc744 14,578\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0a4\uace0 \ucd94\uac00\ub85c 12\ucd08\uc5d0 \uac78\uccd0 3,169\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
-    "zh_TW": "\u70ba\u4e00\u540d\u53cb\u65b9\u76ee\u6a19\u6cbb\u764214,875\u9ede\u751f\u547d\u529b\uff0c\u4e26\u572812\u79d2\u5167\u984d\u5916\u6cbb\u76423,169\u9ede\u751f\u547d\u529b\u3002",
-    "zh_CN": "\u4e3a\u4e00\u4e2a\u53cb\u65b9\u76ee\u6807\u6062\u590d14,838\u70b9\u751f\u547d\u503c\uff0c\u5e76\u572812\u79d2\u5185\u989d\u5916\u6062\u590d3,169\u70b9\u751f\u547d\u503c\u3002"
+    "en_US": "Heals a friendly target for 14,825 and another 3,169 over 12 sec.",
+    "es_MX": "Sana 15,224 p. de salud a un objetivo aliado y 3,169 p. m\u00e1s durante 12 s.",
+    "pt_BR": "Cura 14.960 pontos de vida de um alvo aliado e mais 3.169 ao longo de 12 s.",
+    "de_DE": "Heilt ein verb\u00fcndetes Ziel um 15.281 Gesundheit sowie im Verlauf von 12 Sek. um weitere 3.169 Gesundheit.",
+    "en_GB": "Heals a friendly target for 14,977 and another 3,169 over 12 sec.",
+    "es_ES": "Sana 14702 p. a un objetivo amistoso y otros 3169 p. durante 12 s.",
+    "fr_FR": "Rend \u00e0 une cible alli\u00e9e 14786\u00a0points de vie, puis 3169 suppl\u00e9mentaires en 12 s.",
+    "it_IT": "Cura un bersaglio alleato di 14.824 e di 3.169 aggiuntivi in 12 s.",
+    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 15241 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u0435\u0449\u0435 3169 \u0435\u0434. \u0437\u0430 12 \u0441\u0435\u043a.",
+    "ko_KR": "\uc544\uad70 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc744 14,640\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0a4\uace0 \ucd94\uac00\ub85c 12\ucd08\uc5d0 \uac78\uccd0 3,169\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u4e00\u540d\u53cb\u65b9\u76ee\u6a19\u6cbb\u764214,596\u9ede\u751f\u547d\u529b\uff0c\u4e26\u572812\u79d2\u5167\u984d\u5916\u6cbb\u76423,169\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u4e3a\u4e00\u4e2a\u53cb\u65b9\u76ee\u6807\u6062\u590d15,193\u70b9\u751f\u547d\u503c\uff0c\u5e76\u572812\u79d2\u5185\u989d\u5916\u6062\u590d3,169\u70b9\u751f\u547d\u503c\u3002"
   }
 }
