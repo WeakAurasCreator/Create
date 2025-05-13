@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "44299"
+  "SpellID": "44299",
+  "name_blz": {
+    "en_US": "Improved Grounding Totem",
+    "es_MX": "T\u00f3tem derribador mejorado",
+    "pt_BR": "Totem de Aterramento Aprimorado",
+    "de_DE": "Verbessertes Totem der Erdung",
+    "en_GB": "Improved Grounding Totem",
+    "es_ES": "T\u00f3tem derribador mejorado",
+    "fr_FR": "Totem de gl\u00e8be am\u00e9lior\u00e9",
+    "it_IT": "Totem dell'Adescamento Migliorato",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u0442\u043e\u0442\u0435\u043c \u0437\u0430\u0437\u0435\u043c\u043b\u0435\u043d\u0438\u044f",
+    "ko_KR": "\ub9c8\ubc95\ud761\uc218 \ud1a0\ud15c \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u6839\u57fa\u5716\u9a30",
+    "zh_CN": "\u5f3a\u5316\u6839\u57fa\u56fe\u817e"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of your Grounding Totem ability by 3.0 sec.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de tu facultad T\u00f3tem derribador 3.0 s.",
+    "pt_BR": "Reduz em 3,0 s a recarga do seu Totem de Aterramento.",
+    "de_DE": "Verringert die Abklingzeit Eures Zaubers 'Totem der Erdung' um 3,0 Sek.",
+    "en_GB": "Reduces the cooldown of your Grounding Totem ability by 3.0 sec.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de tu facultad T\u00f3tem derribador 3,0 s.",
+    "fr_FR": "R\u00e9duit le temps de recharge de votre technique Totem de gl\u00e8be de 3,0 s.",
+    "it_IT": "Riduce il tempo di recupero di Totem dell'Adescamento Magico di 3,0 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u043e\u0442\u0435\u043c\u0430 \u0437\u0430\u0437\u0435\u043c\u043b\u0435\u043d\u0438\u044f \u043d\u0430 3,0 \u0441\u0435\u043a.",
+    "ko_KR": "\ub9c8\ubc95\ud761\uc218 \ud1a0\ud15c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 3.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u6839\u57fa\u5716\u9a30\u51b7\u537b\u6642\u9593\u7e2e\u77ed3.0\u79d2\u3002",
+    "zh_CN": "\u4f60\u7684\u6839\u57fa\u56fe\u817e\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed3.0\u79d2\u3002"
+  }
 }
