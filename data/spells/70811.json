@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "70811"
+  "SpellID": "70811",
+  "name_blz": {
+    "en_US": "Item - Shaman T10 Elemental 2P Bonus",
+    "es_MX": "Item - Shaman T10 Elemental 2P Bonus",
+    "pt_BR": "Item - Xam\u00e3 T10 Elemental 2P B\u00f4nus",
+    "en_GB": "Item - Shaman T10 Elemental 2P Bonus",
+    "es_ES": "Item - Shaman T10 Elemental 2P Bonus",
+    "it_IT": "Item - Shaman T10 Elemental 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac \uc815\uae30 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Shaman T10 Elemental 2P Bonus",
+    "zh_CN": "Item - Shaman T10 Elemental 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Lightning Bolt and Chain Lightning spells reduce the remaining cooldown on your Elemental Mastery talent by 1 sec.",
+    "es_MX": "Tus hechizos Descarga de rel\u00e1mpagos y Cadena de rel\u00e1mpagos reducen el tiempo de reutilizaci\u00f3n restante de tu talento Maestr\u00eda elemental en 1 s.",
+    "pt_BR": "Seus feiti\u00e7os Raio e Cadeia de Raios reduzem em 1 s o tempo de recarga restante do seu talento Mestre dos Elementos.",
+    "de_DE": "Eure Zauber 'Blitzschlag' und 'Kettenblitzschlag' verringern die verbleibende Abklingzeit Eures Talents 'Elementarbeherrschung' um 1 Sek.",
+    "en_GB": "Your Lightning Bolt and Chain Lightning spells reduce the remaining cooldown on your Elemental Mastery talent by 1 sec.",
+    "es_ES": "Tus hechizos Descarga de rel\u00e1mpagos y Cadena de rel\u00e1mpagos reducen el tiempo de reutilizaci\u00f3n restante de tu talento Maestr\u00eda elemental en 1 s.",
+    "fr_FR": "Vos sorts \u00c9clair et Cha\u00eene d'\u00e9clairs r\u00e9duisent le temps de recharge restant de votre talent Ma\u00eetrise \u00e9l\u00e9mentaire de 1 s.",
+    "it_IT": "Dardo Fulminante e Catena di Fulmini riducono il tempo di recupero restante del talento Maestria Elementale di 1 s.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u041c\u043e\u043b\u043d\u0438\u044f\" \u0438 \"\u0426\u0435\u043f\u043d\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u043e\u0441\u0442\u0430\u0432\u0448\u0435\u0435\u0441\u044f \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0442\u0430\u043b\u0430\u043d\u0442\u0430 \"\u041f\u043e\u043a\u043e\u0440\u0435\u043d\u0438\u0435 \u0441\u0442\u0438\u0445\u0438\u0439\" \u043d\u0430 1 \u0441\u0435\u043a.",
+    "ko_KR": "\ubc88\uac1c \ud654\uc0b4 \ubc0f \uc5f0\uc1c4 \ubc88\uac1c \uc8fc\ubb38 \uc0ac\uc6a9 \uc2dc \uc815\uae30\uc758 \uae68\ub2ec\uc74c \ud2b9\uc131\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u9583\u96fb\u7bad\u548c\u9583\u96fb\u93c8\u53ef\u4f7f\u4f60\u7cbe\u901a\u5143\u7d20\u5929\u8ce6\u5269\u9918\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1\u79d2\u3002",
+    "zh_CN": "\u4f60\u7684\u95ea\u7535\u7bad\u548c\u95ea\u7535\u94fe\u6cd5\u672f\u4f7f\u4f60\u5143\u7d20\u638c\u63e1\u5929\u8d4b\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "63106"
+  "SpellID": "63106",
+  "name_blz": {
+    "en_US": "Siphon Life",
+    "es_MX": "Succionar vida",
+    "pt_BR": "Sif\u00e3o de Vida",
+    "de_DE": "Lebensentzug",
+    "en_GB": "Siphon Life",
+    "es_ES": "Succionar vida",
+    "fr_FR": "Siphon de vie",
+    "it_IT": "Aspirazione della Vita",
+    "ru_RU": "\u0412\u044b\u0442\u044f\u0433\u0438\u0432\u0430\u043d\u0438\u0435 \u0436\u0438\u0437\u043d\u0438",
+    "ko_KR": "\uc0dd\uba85\ub825 \ucc29\ucde8",
+    "zh_TW": "\u751f\u547d\u8679\u5438",
+    "zh_CN": "\u751f\u547d\u8679\u5438"
+  },
+  "description_blz": {
+    "en_US": "Siphons the target's life essence, dealing 5,044 Shadow damage over 15 sec and healing you for 30% of the damage done.",
+    "es_MX": "Extrae la esencia vital del objetivo, lo que inflige 5,044 p. de da\u00f1o de las sombras durante 15 s y te sana por un 30% del da\u00f1o infligido.",
+    "pt_BR": "Drena a ess\u00eancia vital do alvo, causando 5.044 de dano de Sombra ao longo de 15 s e concedendo a voc\u00ea uma cura equivalente a 30% do dano causado.",
+    "de_DE": "Entzieht die Lebensessenz des Ziels, f\u00fcgt ihm im Verlauf von 15 Sek. 5.044 Schattenschaden zu und heilt Euch um 30% des verursachten Schadens.",
+    "en_GB": "Siphons the target's life essence, dealing 5,044 Shadow damage over 15 sec and healing you for 30% of the damage done.",
+    "es_ES": "Succiona la esencia vital del objetivo, lo que le inflige 5044 p. de da\u00f1o de las Sombras durante 15 s y te sana un 30% del da\u00f1o infligido.",
+    "fr_FR": "Vous siphonnez l\u2019essence vitale de la cible et lui infligez 5044\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre en 15 s, ce qui vous soigne d\u2019un montant \u00e9gal \u00e0 30% des d\u00e9g\u00e2ts inflig\u00e9s.",
+    "it_IT": "Prosciuga l'essenza vitale del bersaglio, infliggendo 5.044 danni da ombra in 15 s e rigenerando salute pari al 30% dei danni inflitti.",
+    "ru_RU": "\u0412\u044b \u043f\u043e\u0445\u0438\u0449\u0430\u0435\u0442\u0435 \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u0446\u0435\u043b\u0438, \u043d\u0430\u043d\u043e\u0441\u044f 5044 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 15 \u0441\u0435\u043a. \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0441\u0435\u0431\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 30% \u044d\u0442\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub300\uc0c1\uc758 \uc0dd\uba85\uc758 \uc815\uc218\ub97c \ud761\uc218\ud558\uc5ec 15\ucd08\uc5d0 \uac78\uccd0 \ucd1d 5,044\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0, \uc790\uc2e0\uc740 \uc785\ud78c \ud53c\ud574\uc758 30%\uc5d0 \ud574\ub2f9\ud558\ub294 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8679\u5438\u76ee\u6a19\u7684\u751f\u547d\u7cbe\u83ef\uff0c\u572815\u79d2\u5167\u9020\u62105,044\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\u9020\u6210\u50b7\u5bb3\u6642\u6703\u70ba\u4f60\u6cbb\u7642\u50b7\u5bb3\u91cf30%\u7684\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5438\u53d6\u76ee\u6807\u7684\u751f\u547d\u7cbe\u534e\uff0c\u572815\u79d2\u5185\u9020\u62105,044\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4e3a\u4f60\u6062\u590d\u751f\u547d\u503c\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u9020\u6210\u4f24\u5bb3\u768430%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "60162"
+  "SpellID": "60162",
+  "name_blz": {
+    "en_US": "Increase Rupture Damage",
+    "es_MX": "Aumentar da\u00f1o de Ruptura",
+    "pt_BR": "Aumentar Dano de Ruptura",
+    "de_DE": "Increase Rupture Damage",
+    "en_GB": "Increase Rupture Damage",
+    "es_ES": "Aumentar da\u00f1o de Ruptura",
+    "fr_FR": "D\u00e9g\u00e2ts de Rupture augment\u00e9s",
+    "it_IT": "Danni di Perforazione Migliorati",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0435\u043d\u0438\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0440\u0432\u0430\u043d\u043e\u0439 \u0440\u0430\u043d\u044b",
+    "ko_KR": "\ud30c\uc5f4 \uacf5\uaca9\ub825 \uc99d\uac00",
+    "zh_TW": "\u63d0\u9ad8\u5272\u88c2\u50b7\u5bb3",
+    "zh_CN": "Increase Rupture Damage"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage dealt by your Rupture and Eviscerate by 10%.",
+    "es_MX": "Aumenta un 10% el da\u00f1o infligido con tu Ruptura y Eviscerar.",
+    "pt_BR": "Aumenta em 10% o dano causado por Ruptura e Eviscerar.",
+    "de_DE": "Erh\u00f6ht den von Euren F\u00e4higkeiten 'Blutung' und 'Ausweiden' verursachten Schaden um 10%.",
+    "en_GB": "Increases the damage dealt by your Rupture and Eviscerate by 10%.",
+    "es_ES": "Aumenta el da\u00f1o infligido por Ruptura y Eviscerar un 10%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de vos techniques Rupture et Evisc\u00e9ration de 10%.",
+    "it_IT": "Aumenta i danni inflitti da Perforazione e Sventramento del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0420\u0432\u0430\u043d\u043e\u0439 \u0440\u0430\u043d\u044b\" \u0438 \"\u041f\u043e\u0442\u0440\u043e\u0448\u0435\u043d\u0438\u044f\" \u043d\u0430 10%.",
+    "ko_KR": "\ud30c\uc5f4\uacfc \uc808\uac1c\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5272\u88c2\u548c\u5254\u9aa8\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u5272\u88c2\u548c\u523a\u9aa8\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }
