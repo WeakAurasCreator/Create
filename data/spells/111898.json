@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "111898"
+  "SpellID": "111898",
+  "name_blz": {
+    "en_US": "Grimoire: Felguard",
+    "es_MX": "Grimorio: Guardia vil",
+    "pt_BR": "Grim\u00f3rio: Guarda Vil",
+    "de_DE": "Grimoire: Teufelswache",
+    "en_GB": "Grimoire: Felguard",
+    "es_ES": "Grimorio: Guardia vil",
+    "fr_FR": "Grimoire\u00a0: Gangregarde",
+    "it_IT": "Rito del Servizio: Vilguardia",
+    "ru_RU": "\u0413\u0440\u0438\u043c\u0443\u0430\u0440: \u0441\u0442\u0440\u0430\u0436 \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\ud751\ub9c8\ubc95\uc11c: \uc9c0\uc625\uc218\ud638\ubcd1",
+    "zh_TW": "\u9b54\u5178\uff1a\u60e1\u9b54\u5b88\u885b",
+    "zh_CN": "\u9b54\u5178\uff1a\u6076\u9b54\u536b\u58eb"
+  },
+  "description_blz": {
+    "en_US": "Summons a Felguard who attacks the target for 17 sec that deals 125% increased damage.\r\n\r\nThis Felguard will stun and interrupt their target when summoned.",
+    "es_MX": "Invoca un guardia vil que ataca al objetivo durante 17 s e inflige un 125% m\u00e1s de da\u00f1o.\r\n\r\nEste guardia vil aturdir\u00e1 e interrumpir\u00e1 a su objetivo cuando lo invoquen.",
+    "pt_BR": "Evoca um Guarda Vil que ataca o alvo por 17 s e causa 125% a mais de dano.\r\n\r\nO Guarda Vil atordoar\u00e1 e interromper\u00e1 o alvo ao ser evocado.",
+    "de_DE": "Beschw\u00f6rt eine Teufelswache, die das Ziel 17 Sek. lang angreift und 125% mehr Schaden verursacht.\r\n\r\nDie Teufelswache bet\u00e4ubt und unterbricht ihr Ziel, sobald sie beschworen wurde.",
+    "en_GB": "Summons a Felguard who attacks the target for 17 sec that deals 125% increased damage.\r\n\r\nThis Felguard will stun and interrupt their target when summoned.",
+    "es_ES": "Invoca a un guardia vil que ataca al objetivo durante 17 s e inflige un 125% m\u00e1s de da\u00f1o.\r\n\r\nAl ser invocado, el guardia vil aturde e interrumpe a su objetivo.",
+    "fr_FR": "Invoque un gangregarde qui attaque la cible pendant 17 s et inflige 125\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires.\r\n\r\nIl \u00e9tourdit et interrompt sa cible \u00e0 son invocation.",
+    "it_IT": "Evoca una Vilguardia che attacca il bersaglio per 17 s e infligge il 125% di danni aggiuntivi.\r\n\r\nLa Vilguardia stordisce e interrompe il bersaglio quando viene evocata.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u0442\u0440\u0430\u0436\u0430 \u0421\u043a\u0432\u0435\u0440\u043d\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u0446\u0435\u043b\u044c \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 17 \u0441\u0435\u043a. \u041d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0441\u0442\u0440\u0430\u0436\u0435\u043c \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 125%.\r\n\r\n\u041f\u0440\u0438 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0438 \u0441\u0442\u0440\u0430\u0436 \u0421\u043a\u0432\u0435\u0440\u043d\u044b \u043e\u0433\u043b\u0443\u0448\u0430\u0435\u0442 \u0446\u0435\u043b\u044c \u0438 \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439.",
+    "ko_KR": "\uc9c0\uc625\uc218\ud638\ubcd1\uc744 \uc18c\ud658\ud558\uc5ec 17\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc744 \uacf5\uaca9\ud558\uc5ec \ub300\uc0c1\uc774 \uc785\ub294 \ud53c\ud574\uac00 125%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc9c0\uc625\uc218\ud638\ubcd1 \uc18c\ud658 \uc2dc \ub300\uc0c1\uc758 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\uace0 \uae30\uc808\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u500b\u60e1\u9b54\u5b88\u885b\u653b\u64ca\u76ee\u6a19\uff0c\u6301\u7e8c17\u79d2\uff0c\u4e26\u4e14\u984d\u5916\u9020\u6210125%\u50b7\u5bb3\u3002\r\n\r\n\u6b64\u60e1\u9b54\u5b88\u885b\u6703\u5728\u53ec\u559a\u51fa\u4f86\u6642\u4f7f\u76ee\u6a19\u660f\u8ff7\u4e14\u4e2d\u65b7\u5176\u65bd\u6cd5\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u4e2a\u6076\u9b54\u536b\u58eb\u653b\u51fb\u76ee\u6807\uff0c\u6301\u7eed17\u79d2\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8125%\u3002\r\n\r\n\u6076\u9b54\u536b\u58eb\u88ab\u53ec\u5524\u51fa\u6765\u540e\u4f1a\u6253\u65ad\u76ee\u6807\u5e76\u4f7f\u5176\u660f\u8ff7\u3002"
+  }
 }

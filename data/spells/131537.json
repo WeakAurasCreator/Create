@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "131537"
+  "SpellID": "131537",
+  "name_blz": {
+    "en_US": "Item - Druid PvP Set Feral 4P Bonus",
+    "es_MX": "Item - Druid PvP Set Feral 4P Bonus",
+    "pt_BR": "Item - Druid PvP Set Feral 4P Bonus",
+    "en_GB": "Item - Druid PvP Set Feral 4P Bonus",
+    "es_ES": "Item - Druid PvP Set Feral 4P Bonus",
+    "it_IT": "Item - Druid PvP Set Feral 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc PvP \uc138\ud2b8 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1:\u5fb7\u9b6f\u4f0aPvP\u91ce\u60274P\u734e\u52f5",
+    "zh_CN": "Item - Druid PvP Set Feral 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Once every 30 sec, your next Shred is free.",
+    "es_MX": "Una vez cada 30 s, tu siguiente Triturar es gratuito.",
+    "pt_BR": "Uma vez a cada 30 s, seu pr\u00f3ximo Despeda\u00e7ar \u00e9 gratuito.",
+    "de_DE": "Einmal alle 30 Sek. ist der Einsatz von 'Schreddern' kostenlos.",
+    "en_GB": "Once every 30 sec, your next Shred is free.",
+    "es_ES": "Una vez cada 30 s, tu siguiente Triturar es gratuito.",
+    "fr_FR": "Une fois toutes les 30\u00a0s, votre prochain Lambeau ne co\u00fbte pas d\u2019\u00e9nergie.",
+    "it_IT": "Ogni 30 s, la successiva Artigliata \u00e8 priva di costo in energia.",
+    "ru_RU": "\u0420\u0430\u0437 \u0432 30 \u0441\u0435\u043a. \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041f\u043e\u043b\u043e\u0441\u043d\u0443\u0442\u044c\" \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0431\u0435\u0437 \u0437\u0430\u0442\u0440\u0430\u0442 \u044d\u043d\u0435\u0440\u0433\u0438\u0438.",
+    "ko_KR": "30\ucd08\ub9c8\ub2e4 \ud55c \ubc88\uc529 \ub2e4\uc74c \uce7c\ub0a0 \ubc1c\ud1b1\uc744 \uae30\ub825 \uc18c\ubaa8 \uc5c6\uc774 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u969430\u79d2\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u6495\u788e\u4e0d\u6d88\u8017\u80fd\u91cf\u3002",
+    "zh_CN": "\u6bcf\u969430\u79d2\uff0c\u4f60\u7684\u4e0b\u4e00\u6b21\u6495\u788e\u4e0d\u6d88\u8017\u80fd\u91cf\u3002"
+  }
 }

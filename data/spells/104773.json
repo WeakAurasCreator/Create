@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "104773"
+  "SpellID": "104773",
+  "name_blz": {
+    "en_US": "Unending Resolve",
+    "es_MX": "Resoluci\u00f3n inagotable",
+    "pt_BR": "Determina\u00e7\u00e3o Intermin\u00e1vel",
+    "de_DE": "Erbarmungslose Entschlossenheit",
+    "en_GB": "Unending Resolve",
+    "es_ES": "Resoluci\u00f3n inagotable",
+    "fr_FR": "R\u00e9solution interminable",
+    "it_IT": "Determinazione Assoluta",
+    "ru_RU": "\u0422\u0432\u0435\u0440\u0434\u0430\u044f \u0440\u0435\u0448\u0438\u043c\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc601\uc6d0\ud55c \uacb0\uc758",
+    "zh_TW": "\u5fc3\u5fd7\u5805\u5b9a",
+    "zh_CN": "\u4e0d\u706d\u51b3\u5fc3"
+  },
+  "description_blz": {
+    "en_US": "Hardens your skin, reducing all damage you take by 25% and granting immunity to interrupt, silence, and pushback effects for 8 sec.",
+    "es_MX": "Endurece tu piel, lo que reduce un 25% todo el da\u00f1o recibido y te otorga inmunidad a efectos de interrupci\u00f3n, silencio y retroceso durante 8 s.",
+    "pt_BR": "Endurece a pele, reduzindo em 25% o dano recebido e dando imunidade a efeitos de interrup\u00e7\u00e3o, sil\u00eancio e repuls\u00e3o e sil\u00eancio por 8 s.",
+    "de_DE": "Verh\u00e4rtet Eure Haut, wodurch Euer erlittener Schaden um 25% verringert wird und Ihr immun gegen Unterbrechungs-, Stille- und Zauberverz\u00f6gungseffekte seid. H\u00e4lt 8 Sek. lang an.",
+    "en_GB": "Hardens your skin, reducing all damage you take by 25% and granting immunity to interrupt, silence, and pushback effects for 8 sec.",
+    "es_ES": "Endurece tu piel, lo que reduce todo el da\u00f1o recibido un 25% y te otorga inmunidad a los efectos de interrupci\u00f3n, silencio y retroceso durante 8 s.",
+    "fr_FR": "Durcit votre peau, ce qui r\u00e9duit les d\u00e9g\u00e2ts subis de 25% et vous rend insensible aux interruptions ainsi qu\u2019aux effets de silence et de repoussement pendant 8 s.",
+    "it_IT": "La pelle s'indurisce, riducendo tutti i danni subiti del 25% e fornendo immunit\u00e0 agli effetti di interruzione, silenziamento e respinta per 8 s.",
+    "ru_RU": "\u0412\u0430\u0448\u0430 \u043a\u043e\u0436\u0430 \u0442\u0432\u0435\u0440\u0434\u0435\u0435\u0442, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 25%. \u0412\u044b \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435\u0441\u044c \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u044b \u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u043d\u0438\u044f, \u043d\u0435\u043c\u043e\u0442\u0435 \u0438 \u043e\u0442\u0441\u0440\u043e\u0447\u043a\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ud53c\ubd80\ub97c \ub2e8\ub2e8\ud558\uac8c \ub9cc\ub4e4\uc5b4 8\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\ub97c 25%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uace0, \uc8fc\ubb38 \ubc29\ud574 \ubc0f \uce68\ubb35 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u786c\u5316\u4f60\u7684\u76ae\u819a\uff0c\u4f7f\u4f60\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u964d\u4f4e25%\uff0c\u4e26\u4e14\u5c0d\u6240\u6709\u4e2d\u65b7\u3001\u6c89\u9ed8\u548c\u65bd\u6cd5\u5e72\u64fe\u6548\u679c\u514d\u75ab\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u786c\u5316\u4f60\u7684\u76ae\u80a4\uff0c\u4f7f\u4f60\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e25%\uff0c\u5e76\u514d\u75ab\u6253\u65ad\u3001\u6c89\u9ed8\u548c\u65bd\u6cd5\u63a8\u8fdf\u6548\u679c\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

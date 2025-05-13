@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "125050"
+  "SpellID": "125050",
+  "name_blz": {
+    "en_US": "Fetch",
+    "es_MX": "Buscar",
+    "pt_BR": "Pegar",
+    "de_DE": "Hol' die Beute!",
+    "en_GB": "Fetch",
+    "es_ES": "Buscar",
+    "fr_FR": "Va chercher",
+    "it_IT": "Riporto",
+    "ru_RU": "\u0421\u0431\u043e\u0440 \u0434\u043e\u0431\u044b\u0447\u0438",
+    "ko_KR": "\uac00\uc838\uc624\uae30",
+    "zh_TW": "\u53d6\u7269",
+    "zh_CN": "\u62fe\u56de"
+  },
+  "description_blz": {
+    "en_US": "Command your pet to retrieve the loot from a nearby corpse within 40 yards.",
+    "es_MX": "Ordena a tu mascota que recoja el bot\u00edn de un cad\u00e1ver en un radio de 40 m.",
+    "pt_BR": "Comanda seu ajudante para coletar o saque de um cad\u00e1ver em um raio de 40 m.",
+    "de_DE": "Befiehlt Eurem Tier, die Beute von einem Leichnam innerhalb von 40 Metern aufzulesen.",
+    "en_GB": "Command your pet to retrieve the loot from a nearby corpse within 40 yards.",
+    "es_ES": "Ordena a tu mascota que recoja el bot\u00edn de un cad\u00e1ver en un radio de 40 m.",
+    "fr_FR": "Ordonne \u00e0 votre familier d\u2019aller r\u00e9cup\u00e9rer le butin sur un cadavre \u00e0 proximit\u00e9 \u00e0 moins de 40 m\u00e8tres.",
+    "it_IT": "Ordina al tuo famiglio di recuperare il bottino da un cadavere entro 40 m.",
+    "ru_RU": "\u041f\u0440\u0438\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u0438\u0442\u043e\u043c\u0446\u0443 \u0437\u0430\u0431\u0440\u0430\u0442\u044c \u0434\u043e\u0431\u044b\u0447\u0443 \u0441 \u0442\u0435\u043b\u0430 \u0443\u0431\u0438\u0442\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e\u0441\u044f \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c.",
+    "ko_KR": "\uc18c\ud658\uc218\uc5d0\uac8c 40\ubbf8\ud130 \ubc18\uacbd \ub0b4\uc758 \uc2dc\uccb4\uc5d0\uc11c \uc804\ub9ac\ud488\uc744 \uac00\uc838\uc624\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u547d\u4ee4\u4f60\u7684\u5bf5\u7269\u53bb\u64bf\u62fe\u9644\u8fd140\u78bc\u7bc4\u570d\u5167\u5c4d\u9ad4\u7684\u7269\u54c1\u3002",
+    "zh_CN": "\u547d\u4ee4\u4f60\u7684\u5ba0\u7269\u5728\u9644\u8fd140\u7801\u8303\u56f4\u5185\u7684\u4e00\u5177\u5c38\u4f53\u4e0a\u627e\u56de\u7269\u54c1\u3002"
+  }
 }

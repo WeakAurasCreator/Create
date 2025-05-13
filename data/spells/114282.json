@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "114282"
+  "SpellID": "114282",
+  "name_blz": {
+    "en_US": "Treant Form",
+    "es_MX": "Forma de ant\u00e1rbol",
+    "pt_BR": "Forma de Arvoroso",
+    "de_DE": "Treantgestalt",
+    "en_GB": "Treant Form",
+    "es_ES": "Forma de ant\u00e1rbol",
+    "fr_FR": "Forme de tr\u00e9ant",
+    "it_IT": "Forma di Treant",
+    "ru_RU": "\u041e\u0431\u043b\u0438\u043a \u0434\u0440\u0435\u0432\u043d\u044f",
+    "ko_KR": "\ub098\ubb34\uc815\ub839 \ubcc0\uc2e0",
+    "zh_TW": "\u6a39\u4eba\u5f62\u614b",
+    "zh_CN": "\u6811\u4eba\u5f62\u6001"
+  },
+  "description_blz": {
+    "en_US": "Shapeshift into Treant Form.",
+    "es_MX": "Cambio a forma de ant\u00e1rbol.",
+    "pt_BR": "Metamorfoseia em Forma de Arvoroso.",
+    "de_DE": "Verwandelt Euch in die Gestalt eines Treants.",
+    "en_GB": "Shapeshift into Treant Form.",
+    "es_ES": "Cambio a forma de ant\u00e1rbol.",
+    "fr_FR": "Le druide adopte sa forme de tr\u00e9ant.",
+    "it_IT": "Muta in Forma di Treant.",
+    "ru_RU": "\u0414\u0440\u0443\u0438\u0434 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0434\u0440\u0435\u0432\u043d\u044f.",
+    "ko_KR": "\ub098\ubb34\uc815\ub839\uc73c\ub85c \ubcc0\uc2e0\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8b8a\u8eab\u70ba\u6a39\u4eba\u5f62\u614b\u3002",
+    "zh_CN": "\u53d8\u5f62\u8fdb\u5165\u6811\u4eba\u5f62\u6001\u3002"
+  }
 }

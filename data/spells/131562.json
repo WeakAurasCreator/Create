@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "131562"
+  "SpellID": "131562",
+  "name_blz": {
+    "en_US": "Fist of Fury Range Bonus",
+    "es_MX": "Bonus de alcance de Pu\u00f1os de furia",
+    "pt_BR": "B\u00f4nus de Alcance de Punhos da F\u00faria",
+    "de_DE": "Reichweitenbonus f\u00fcr 'Furorf\u00e4uste'",
+    "en_GB": "Fist of Fury Range Bonus",
+    "es_ES": "Bonus de alcance de Pu\u00f1os de furia",
+    "fr_FR": "Bonus \u00e0 la port\u00e9e de Poings de fureur",
+    "it_IT": "Fist of Fury Range Bonus",
+    "ru_RU": "\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u044b\u0435 \u043a\u0443\u043b\u0430\u043a\u0438 - \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435",
+    "ko_KR": "\ubd84\ub178\uc758 \uc8fc\uba39 \uc0ac\uc815\uac70\ub9ac \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u72c2\u62f3\u9023\u6253\u5c04\u7a0b\u52a0\u6210",
+    "zh_CN": "Fist of Fury Range Bonus"
+  },
+  "description_blz": {
+    "en_US": "The range of your Fists of Fury and Keg Smash is increased by 5 yards.",
+    "es_MX": "El alcance de tu Pu\u00f1os de furia y Embate con barril aumenta 5 m.",
+    "pt_BR": "O alcance da sua habilidade Punhos da F\u00faria e Pancada de Barril \u00e9 aumentado em 5 metros.",
+    "de_DE": "Erh\u00f6ht die Reichweite Eurer F\u00e4higkeiten 'Furorf\u00e4uste' und 'Fasshieb' um 5 Meter.",
+    "en_GB": "The range of your Fists of Fury and Keg Smash is increased by 5 yards.",
+    "es_ES": "El alcance de tu Pu\u00f1os de furia y Embate con barril aumenta 5 m.",
+    "fr_FR": "La port\u00e9e de vos Poings de fureur et de votre Fracasse-tonneau est augment\u00e9e de 5 m\u00e8tres.",
+    "it_IT": "Aumenta la portata di Pugni della Furia e Lancio del Barile di 5 m.",
+    "ru_RU": "\u0414\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \"\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u044b\u0435 \u043a\u0443\u043b\u0430\u043a\u0438\" \u0438 \"\u0423\u0434\u0430\u0440 \u0431\u043e\u0447\u043e\u043d\u043a\u043e\u043c\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5 \u043c.",
+    "ko_KR": "\ubd84\ub178\uc758 \uc8fc\uba39\uacfc \ub9e5\uc8fc\ud1b5 \ud718\ub450\ub974\uae30\uc758 \uc0ac\uc815\uac70\ub9ac\uac00 5\ubbf8\ud130\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u72c2\u62f3\u9023\u6253\u548c\u9152\u7f48\u7834\u7684\u653b\u64ca\u8ddd\u96e2\u5ef6\u95775\u78bc\u3002",
+    "zh_CN": "\u6012\u96f7\u7834\u548c\u9189\u917f\u6295\u7684\u653b\u51fb\u8303\u56f4\u5ef6\u957f5\u7801\u3002"
+  }
 }

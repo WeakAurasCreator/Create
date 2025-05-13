@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "123124"
+  "SpellID": "123124",
+  "name_blz": {
+    "en_US": "Item - Shaman T14 Elemental 4P Bonus",
+    "es_MX": "Item - Shaman T14 Elemental 4P Bonus",
+    "pt_BR": "Item - Shaman T14 Elemental 4P Bonus",
+    "en_GB": "Item - Shaman T14 Elemental 4P Bonus",
+    "es_ES": "Item - Shaman T14 Elemental 4P Bonus",
+    "it_IT": "Item - Shaman T14 Elemental 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac \uc815\uae30 T14 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1:\u85a9\u6effT14\u5143\u7d204P\u734e\u52f5",
+    "zh_CN": "Item - Shaman T14 Elemental 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Rolling Thunder ability now grants 2 Lightning Shield charges each time it triggers.",
+    "es_MX": "Ahora tu facultad Trueno ensordecedor te otorga 2 cargas de Escudo de rel\u00e1mpagos cada vez que se activa.",
+    "pt_BR": "Sua habilidade Eco Ribombante agora concede 2 cargas de Escudo de Raios cada vez que for acionada.",
+    "de_DE": "Eure F\u00e4higkeit 'Rollender Donner' gew\u00e4hrt bei jedem Ausl\u00f6sen 2 Aufladungen von 'Blitzschlagschild'.",
+    "en_GB": "Your Rolling Thunder ability now grants 2 Lightning Shield charges each time it triggers.",
+    "es_ES": "Ahora tu facultad Trueno ensordecedor te otorga 2 cargas de Escudo de rel\u00e1mpagos cada vez que se activa.",
+    "fr_FR": "Votre technique Tonnerre grondant vous conf\u00e8re \u00e0 pr\u00e9sent 2 charges de Bouclier de foudre chaque fois qu\u2019elle est d\u00e9clench\u00e9e.",
+    "it_IT": "Rombo del Tuono fornisce 2 carica di Scudo di Fulmini ogni volta che viene attivato.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437 \u043f\u0440\u0438 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0413\u0440\u043e\u043c\u043e\u0432\u044b\u0435 \u0440\u0430\u0441\u043a\u0430\u0442\u044b\" \u0441\u043e\u0437\u0434\u0430\u0435\u0442 2 \u0437\u0430\u0440\u044f\u0434\u0430 \"\u0429\u0438\u0442\u0430 \u043c\u043e\u043b\u043d\u0438\u0439\".",
+    "ko_KR": "\uc5f0\uc1c4 \ucc9c\ub465\uc774 \ubc1c\ub3d9\ud560 \ub54c\ub9c8\ub2e4 \ubc88\uac1c \uad6c\uc2ac\uc774 2\uac1c\uc529 \uc0dd\uc131\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u8f5f\u5929\u96f7\u6280\u80fd\u73fe\u5728\u6bcf\u6b21\u89f8\u767c\u6642\u8ce6\u4e882\u500b\u9583\u96fb\u4e4b\u76fe\u7684\u9583\u96fb\u7403\u3002",
+    "zh_CN": "\u4f60\u7684\u6eda\u96f7\u6280\u80fd\u6bcf\u6b21\u89e6\u53d1\u4f1a\u83b7\u5f972\u5c42\u95ea\u7535\u4e4b\u76fe\u3002"
+  }
 }

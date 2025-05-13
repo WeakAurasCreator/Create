@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "131549"
+  "SpellID": "131549",
+  "name_blz": {
+    "en_US": "Improved Thunderstorm",
+    "es_MX": "Tormenta de truenos mejorada",
+    "pt_BR": "Tempestade Relampejante Aprimorada",
+    "de_DE": "Verbessertes Gewitter",
+    "en_GB": "Improved Thunderstorm",
+    "es_ES": "Tormenta de truenos mejorada",
+    "fr_FR": "Orage am\u00e9lior\u00e9",
+    "it_IT": "Esplosione Tonante Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0435 \u0433\u0440\u043e\u043c \u0438 \u043c\u043e\u043b\u043d\u0438\u044f",
+    "ko_KR": "\ud5a5\uc0c1\ub41c \ucc9c\ub465\ud3ed\ud48d",
+    "zh_TW": "\u5f37\u5316\u96f7\u9706\u98a8\u66b4",
+    "zh_CN": "\u5f3a\u5316\u96f7\u9706\u98ce\u66b4"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of your Thunderstorm spell by 50%.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de tu hechizo Tormenta de truenos un 50%.",
+    "pt_BR": "Reduz em 50% o tempo de recarga do seu feiti\u00e7o Tempestade Relampejante.",
+    "de_DE": "Verringert die Abklingzeit Eures Zaubers 'Gewitter' um 50%.",
+    "en_GB": "Reduces the cooldown of your Thunderstorm spell by 50%.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de tu hechizo Tormenta de truenos un 50%.",
+    "fr_FR": "R\u00e9duit le temps de recharge de votre sort Orage de 50%.",
+    "it_IT": "Riduce il tempo di recupero di Esplosione Tonante del 50%.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u0413\u0440\u043e\u043c \u0438 \u043c\u043e\u043b\u043d\u0438\u044f\" \u0441\u043d\u0438\u0436\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50%.",
+    "ko_KR": "\ucc9c\ub465\ud3ed\ud48d \uc8fc\ubb38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 50%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u96f7\u9706\u98a8\u66b4\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed50%\u3002",
+    "zh_CN": "\u96f7\u9706\u98ce\u66b4\u6280\u80fd\u51b7\u5374\u65f6\u95f4\u7f29\u77ed50%\u3002"
+  }
 }
