@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "70798"
+  "SpellID": "70798",
+  "name_blz": {
+    "en_US": "Item - Priest T10 Healer 4P Bonus",
+    "es_MX": "Item - Priest T10 Healer 4P Bonus",
+    "pt_BR": "Item - Sacerdote T10 Curador 4P B\u00f4nus",
+    "en_GB": "Item - Priest T10 Healer 4P Bonus",
+    "es_ES": "Item - Priest T10 Healer 4P Bonus",
+    "it_IT": "Item - Priest T10 Healer 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\uc81c \uce58\uc720 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Priest T10 Healer 4P Bonus",
+    "zh_CN": "Item - Priest T10 Healer 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the effect of Power Word: Shield by 5% and Circle of Healing by 10%.",
+    "es_MX": "Aumenta el efecto de Palabra de poder: escudo un 5% y C\u00edrculo de sanaci\u00f3n un 10%.",
+    "pt_BR": "Aumenta em 5% o efeito da sua Palavra de Poder: Escudo e em 10% o efeito do seu C\u00edrculo de Cura.",
+    "de_DE": "Erh\u00f6ht den Effekt Eures Zaubers 'Machtwort: Schild' um 5% und den Eures Zaubers 'Kreis der Heilung' um 10%.",
+    "en_GB": "Increases the effect of Power Word: Shield by 5% and Circle of Healing by 10%.",
+    "es_ES": "Aumenta el efecto de Palabra de poder: escudo un 5% y C\u00edrculo de sanaci\u00f3n un 10%.",
+    "fr_FR": "Augmente les effets de Mot de pouvoir\u00a0: Bouclier de 5% et de Cercle de soins de 10%.",
+    "it_IT": "Aumenta l'effetto di Parola del Potere: Scudo del 5% e di Circolo di Guarigione del 10%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \"\u0421\u043b\u043e\u0432\u043e \u0441\u0438\u043b\u044b: \u0429\u0438\u0442\" \u043d\u0430 5% \u0438 \"\u041a\u0440\u0443\u0433 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u043d\u0430 10%.",
+    "ko_KR": "\uc2e0\uc758 \uad8c\ub2a5: \ubcf4\ud638\ub9c9 \uc8fc\ubb38\uc758 \ud6a8\uacfc\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \uce58\uc720\uc758 \ub9c8\ubc95\uc9c4 \uc8fc\ubb38\uc758 \ud6a8\uacfc\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u771f\u8a00\u8853\uff1a\u76fe\u7684\u6548\u679c\u63d0\u9ad85%\uff0c\u6cbb\u7642\u4e4b\u74b0\u7684\u6548\u679c\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u771f\u8a00\u672f\uff1a\u76fe\u7684\u6548\u679c\u63d0\u9ad85%\u3001\u6cbb\u7597\u4e4b\u73af\u7684\u6548\u679c\u63d0\u9ad810%\u3002"
+  }
 }

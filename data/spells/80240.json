@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "80240"
+  "SpellID": "80240",
+  "name_blz": {
+    "en_US": "Havoc",
+    "es_MX": "Estragos",
+    "pt_BR": "Devasta\u00e7\u00e3o",
+    "de_DE": "Verw\u00fcstung",
+    "en_GB": "Havoc",
+    "es_ES": "Estragos",
+    "fr_FR": "Tumulte",
+    "it_IT": "Calamit\u00e0",
+    "ru_RU": "\u0425\u0430\u043e\u0441",
+    "ko_KR": "\ub300\ud63c\ub780",
+    "zh_TW": "\u6d69\u52ab",
+    "zh_CN": "\u6d69\u52ab"
+  },
+  "description_blz": {
+    "en_US": "Marks a target with Havoc for 15 sec, causing your single target spells to also strike the Havoc victim for 60% of the damage dealt.",
+    "es_MX": "Marca al objetivo con Estragos durante 15 s, lo que provoca que tus hechizos de un solo objetivo tambi\u00e9n golpeen a la v\u00edctima de Estragos y le inflijan un 60% del da\u00f1o infligido.",
+    "pt_BR": "Marca um alvo com Devasta\u00e7\u00e3o por 15 s, fazendo seus feiti\u00e7os de alvo \u00fanico tamb\u00e9m causarem 60% do dano causado \u00e0 v\u00edtima da Devasta\u00e7\u00e3o.",
+    "de_DE": "Markiert einen Gegner f\u00fcr 15 Sek. als Ziel von 'Verw\u00fcstung', wodurch Eure Einzelzielzauber auch das Ziel von 'Verw\u00fcstung' treffen und ihm dabei 60% des verursachten Schadens zuf\u00fcgen.",
+    "en_GB": "Marks a target with Havoc for 15 sec, causing your single target spells to also strike the Havoc victim for 60% of the damage dealt.",
+    "es_ES": "Marca a un objetivo con Estragos durante 15 s, lo que provoca que tus hechizos de un solo objetivo tambi\u00e9n lo afecten y le inflijan un 60% del da\u00f1o infligido.",
+    "fr_FR": "Marque une cible avec Tumulte pendant 15 s, ce qui permet \u00e0 vos sorts \u00e0 cible unique de la frapper \u00e9galement en lui faisant subir 60% des d\u00e9g\u00e2ts inflig\u00e9s.",
+    "it_IT": "Marchia un bersaglio con Calamit\u00e0 per 15 s, cos\u00ec che venga colpito dagli altri tuoi incantesimi a bersaglio singolo, che infliggono il 60% dei danni inflitti.",
+    "ru_RU": "\u041e\u0442\u043c\u0435\u0447\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0437\u043d\u0430\u043a\u043e\u043c \u0425\u0430\u043e\u0441\u0430, \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u0432\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f, \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0449\u0438\u0435 \u043b\u044e\u0431\u0443\u044e \u043e\u0434\u0438\u043d\u043e\u0447\u043d\u0443\u044e \u0446\u0435\u043b\u044c, \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 60% \u0443\u0440\u043e\u043d\u0430 \u043e\u0442\u043c\u0435\u0447\u0435\u043d\u043d\u043e\u043c\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443.",
+    "ko_KR": "15\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc5d0\uac8c \ub300\ud63c\ub780\uc758 \uc9d5\ud45c\ub97c \ucc0d\uc5b4, \ub2e8\uc77c \ub300\uc0c1 \uacf5\uaca9 \uc8fc\ubb38\uc774 \ub300\ud63c\ub780\uc758 \uc9d5\ud45c\uac00 \ucc0d\ud78c \ub300\uc0c1\ub3c4 \ud568\uaed8 \uacf5\uaca9\ud574 \uc785\ud78c \ud53c\ud574\uc758 60%\ub9cc\ud07c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u6d69\u52ab\u6a19\u8a18\u4e00\u540d\u76ee\u6a19\uff0c\u4f7f\u4f60\u7684\u55ae\u9ad4\u6cd5\u8853\u4e5f\u6703\u64ca\u4e2d\u8a72\u76ee\u6a19\uff0c\u4e26\u4f7f\u5176\u53d7\u523060%\u7684\u50b7\u5bb3\uff0c\u6301\u7e8c15\u79d2\u3002",
+    "zh_CN": "\u7528\u6d69\u52ab\u6807\u8bb0\u4e00\u4e2a\u76ee\u6807\uff0c\u6301\u7eed15\u79d2\uff0c\u4f7f\u4f60\u7684\u5355\u4f53\u76ee\u6807\u6cd5\u672f\u4e5f\u4f1a\u653b\u51fb\u6d69\u52ab\u7684\u76ee\u6807\uff0c\u9020\u6210\u521d\u59cb\u4f24\u5bb360%\u7684\u4f24\u5bb3\u3002"
+  }
 }

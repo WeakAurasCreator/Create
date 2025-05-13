@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "64382"
+  "SpellID": "64382",
+  "name_blz": {
+    "en_US": "Shattering Throw",
+    "es_MX": "Lanzamiento destrozador",
+    "pt_BR": "Arremesso Estilha\u00e7ante",
+    "de_DE": "Zerschmetternder Wurf",
+    "en_GB": "Shattering Throw",
+    "es_ES": "Lanzamiento destrozador",
+    "fr_FR": "Lancer fracassant",
+    "it_IT": "Lancio Frantumante",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0431\u0440\u043e\u0441\u043e\u043a",
+    "ko_KR": "\ubd84\uc1c4\uc758 \ud22c\ucc99",
+    "zh_TW": "\u788e\u7532\u6295\u64f2",
+    "zh_CN": "\u788e\u88c2\u6295\u63b7"
+  },
+  "description_blz": {
+    "en_US": "Hurl your weapon at the enemy,  removing any magical immunities and causing 3,192 Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields.",
+    "es_MX": "Lanza tu arma al enemigo, lo que elimina toda inmunidad m\u00e1gica, ignora la armadura e inflige 3,152 p. de da\u00f1o f\u00edsico. Inflige hasta un 500% m\u00e1s de da\u00f1o contra los escudos de absorci\u00f3n.",
+    "pt_BR": "Arremessa a arma em um inimigo, removendo qualquer invulnerabilidade m\u00e1gica e causando 3.251 de dano F\u00edsico, ignorando armadura. Causa at\u00e9 500% a mais de dano a escudos de absor\u00e7\u00e3o.",
+    "de_DE": "Schleudert Eure Waffe auf den Gegner, entfernt alle magischen Unverwundbarkeitseffekte und verursacht 3.189 k\u00f6rperlichen Schaden, wobei R\u00fcstung ignoriert wird. F\u00fcgt Absorptionsschilden bis zu 500% mehr Schaden zu.",
+    "en_GB": "Hurl your weapon at the enemy,  removing any magical immunities and causing 3,141 Physical damage, ignoring armor. Deals up to 500% increased damage to absorb shields.",
+    "es_ES": "Lanzas al enemigo tu arma, que elimina cualquier inmunidad m\u00e1gica y le inflige 3192 p. de da\u00f1o f\u00edsico (da\u00f1o que ignota la armadura). Inflige hasta un 500% m\u00e1s de da\u00f1o a los escudos de absorci\u00f3n.",
+    "fr_FR": "Vous lancez votre arme sur le personnage adverse, ce qui dissipe les effets d\u2019immunit\u00e9 magique dont il b\u00e9n\u00e9ficie, ignore l\u2019Armure et lui inflige 3180\u00a0points de d\u00e9g\u00e2ts physiques. Inflige jusqu\u2019\u00e0 500\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires aux boucliers d\u2019absorption.",
+    "it_IT": "Lancia l'arma contro il nemico, dissolvendone ogni immunit\u00e0 magica e infliggendo 3.145 danni fisici che ignorano l'armatura. Infligge fino al 500% di danni aggiuntivi agli scudi che assorbono i danni subiti.",
+    "ru_RU": "\u0412\u044b \u0431\u0440\u043e\u0441\u0430\u0435\u0442\u0435 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043e\u0440\u0443\u0436\u0438\u0435, \u043d\u0430\u043d\u043e\u0441\u044f 3113 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430, \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u044f \u0431\u0440\u043e\u043d\u044e \u0438 \u0441\u043d\u0438\u043c\u0430\u044f \u0441 \u0446\u0435\u043b\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u043e\u0441\u0442\u0438 \u043a \u043c\u0430\u0433\u0438\u0438. \u041d\u0430\u043d\u043e\u0441\u0438\u0442 \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u043c \u0443\u0440\u043e\u043d \u0449\u0438\u0442\u0430\u043c \u0434\u043e 500% \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc801\uc5d0\uac8c \ubb34\uae30\ub97c \ub358\uc838 \uba74\uc5ed \ud6a8\uacfc\ub97c \uc81c\uac70\ud558\uace0 3,202\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud788\uba70, \ubc29\uc5b4\ub3c4\ub97c \ubb34\uc2dc\ud569\ub2c8\ub2e4. \ud53c\ud574 \ud761\uc218 \ubcf4\ud638\ub9c9\uc5d0\ub294 \ucd5c\ub300 500%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u671d\u6575\u4eba\u6295\u64f2\u6b66\u5668\uff0c\u79fb\u9664\u4efb\u4f55\u9b54\u6cd5\u514d\u75ab\u6548\u679c\u4e26\u9020\u62103,193\u9ede\u7269\u7406\u50b7\u5bb3\uff0c\u7121\u8996\u8b77\u7532\u503c\u3002\u5c0d\u5438\u6536\u8b77\u76fe\u9020\u6210\u7684\u50b7\u5bb3\u6700\u591a\u63d0\u9ad8500%\u3002",
+    "zh_CN": "\u5411\u654c\u4eba\u6295\u63b7\u4f60\u7684\u6b66\u5668\uff0c\u79fb\u9664\u9b54\u6cd5\u514d\u75ab\u6548\u679c\u5e76\u9020\u62103,159\u70b9\u65e0\u89c6\u62a4\u7532\u7684\u7269\u7406\u4f24\u5bb3\u3002\u6700\u591a\u5bf9\u5438\u6536\u62a4\u76fe\u9020\u6210\u989d\u5916500%\u7684\u4f24\u5bb3\u3002"
+  }
 }

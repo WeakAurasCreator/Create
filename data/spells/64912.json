@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "64912"
+  "SpellID": "64912",
+  "name_blz": {
+    "en_US": "Item - Priest T8 Healer 4P Bonus",
+    "es_MX": "Item - Priest T8 Healer 4P Bonus",
+    "pt_BR": "Item - Sacerdote T8 Curador 4P B\u00f4nus",
+    "en_GB": "Item - Priest T8 Healer 4P Bonus",
+    "es_ES": "Item - Priest T8 Healer 4P Bonus",
+    "it_IT": "Item - Priest T8 Healer 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\uc81c \uce58\uc720 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Priest T8 Healer 4P Bonus",
+    "zh_CN": "Item - Priest T8 Healer 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Casting Power Word: Shield also grants you 0 spell power for 5 sec.",
+    "es_MX": "Lanzar Palabra de poder: escudo tambi\u00e9n te otorga 0 p. de poder con hechizos durante 5 s.",
+    "pt_BR": "Ao lan\u00e7ar Palavra de Poder: Escudo, voc\u00ea ganha 0 de poder m\u00e1gico por 5 s.",
+    "de_DE": "Das Wirken von 'Machtwort: Schild' gew\u00e4hrt Euch zus\u00e4tzlich 5 Sek. lang 0 Zaubermacht.",
+    "en_GB": "Casting Power Word: Shield also grants you 0 spell power for 5 sec.",
+    "es_ES": "Lanzar Palabra de poder: escudo tambi\u00e9n te otorga 0 p. de poder con hechizos durante 5 s.",
+    "fr_FR": "L'incantation de Mot de pouvoir\u00a0: Bouclier vous conf\u00e8re \u00e9galement un bonus de 0 \u00e0 la puissance des sorts pendant 5 s.",
+    "it_IT": "Lanciare Parola del Potere: Scudo fornisce anche 0 potenza magica per 5 s.",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \"\u0421\u043b\u043e\u0432\u0430 \u0441\u0438\u043b\u044b: \u0429\u0438\u0442\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u0438\u043b\u0443 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043d\u0430 0 \u043d\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\uc758 \uad8c\ub2a5: \ubcf4\ud638\ub9c9 \uc2dc\uc804 \uc2dc 5\ucd08 \ub3d9\uc548 \uc8fc\ubb38\ub825\uc774 0\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u771f\u8a00\u8853\uff1a\u76fe\u53ef\u540c\u6642\u8ce6\u4e88\u4f600\u9ede\u6cd5\u8853\u80fd\u91cf\uff0c\u6301\u7e8c5\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u771f\u8a00\u672f\uff1a\u76fe\u4e4b\u540e\uff0c\u4f60\u7684\u6cd5\u672f\u5f3a\u5ea6\u63d0\u9ad80\u70b9\uff0c\u6301\u7eed5\u79d2\u3002"
+  }
 }

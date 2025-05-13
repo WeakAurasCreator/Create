@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "85617"
+  "SpellID": "85617",
+  "name_blz": {
+    "en_US": "Argus' Journal",
+    "es_MX": "Diario de Argus",
+    "pt_BR": "Di\u00e1rio do Argus",
+    "de_DE": "Argus' Tagebuch",
+    "en_GB": "Argus' Journal",
+    "es_ES": "Diario de Argus",
+    "fr_FR": "Journal d'Argus",
+    "it_IT": "Diario di Argus",
+    "ru_RU": "\u0414\u043d\u0435\u0432\u043d\u0438\u043a \u0410\u0440\u0433\u0443\u0441\u0430",
+    "ko_KR": "\uc544\ub974\uac70\uc2a4\uc758 \uc77c\uc9c0",
+    "zh_TW": "\u963f\u53e4\u65af\u7684\u65e5\u8a18",
+    "zh_CN": "\u963f\u53e4\u65af\u7684\u65e5\u8bb0"
+  },
+  "description_blz": {
+    "en_US": "Grants an additional 2% XP bonus within Eastern Plaguelands.",
+    "es_MX": "Otorga un bonus de un 2% extra de experiencia dentro de las Tierras de la Peste del Este.",
+    "pt_BR": "Aumenta em 2% o ganho de experi\u00eancia nas Terras Pestilentas Orientais.",
+    "de_DE": "Gew\u00e4hrt einen Bonus von zus\u00e4tzlichen 2% EP in den \u00d6stlichen Pestl\u00e4ndern.",
+    "en_GB": "Grants an additional 2% XP bonus within Eastern Plaguelands.",
+    "es_ES": "Otorga un bonus de un 2% extra de experiencia dentro de las Tierras de la Peste del Este.",
+    "fr_FR": "Conf\u00e8re un bonus de 2% \u00e0 l'exp\u00e9rience dans les Maleterres de l'Est.",
+    "it_IT": "Fornisce un bonus di esperienza del 2% nelle Terre Infette Orientali.",
+    "ru_RU": "\u0412 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0445 \u0427\u0443\u043c\u043d\u044b\u0445 \u0437\u0435\u043c\u043b\u044f\u0445 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043d\u0430 2% \u043e\u043f\u044b\u0442\u0430 \u0431\u043e\u043b\u044c\u0448\u0435.",
+    "ko_KR": "\ub3d9\ubd80 \uc5ed\ubcd1\uc9c0\ub300\uc5d0\uc11c 2%\uc758 \ucd94\uac00 \uacbd\ud5d8\uce58\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6771\u761f\u75ab\u4e4b\u5730\u6642\u7372\u5f97\u984d\u59162%\u7684\u7d93\u9a57\u503c\u52a0\u6210\u3002",
+    "zh_CN": "\u4f7f\u4f60\u5728\u4e1c\u761f\u75ab\u4e4b\u5730\u53ef\u4ee5\u83b7\u5f97\u989d\u59162%\u7684\u7ecf\u9a8c\u5956\u52b1\u3002"
+  }
 }

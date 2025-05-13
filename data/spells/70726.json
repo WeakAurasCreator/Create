@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "70726"
+  "SpellID": "70726",
+  "name_blz": {
+    "en_US": "Item - Druid T10 Feral 4P Bonus",
+    "es_MX": "Item - Druid T10 Feral 4P Bonus",
+    "pt_BR": "Item - B\u00f4nus 4P Feral de Druida T10",
+    "en_GB": "Item - Druid T10 Feral 4P Bonus",
+    "es_ES": "Item - Druid T10 Feral 4P Bonus",
+    "it_IT": "Item - Druid T10 Feral 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc \uc57c\uc131 \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T10 Feral 4P Bonus",
+    "zh_CN": "Item - Druid T10 Feral 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Barkskin reduces damage taken by an additional 10%, and the damage done by your Rake ability is increased by 10%.",
+    "es_MX": "Piel de corteza reduce el da\u00f1o recibido un 10% extra, y el da\u00f1o infligido por tu facultad Ara\u00f1azo aumenta un 10%.",
+    "pt_BR": "Pele de \u00c1rvore reduz o dano recebido em mais 10% e aumenta o dano causado pela habilidade Estra\u00e7alhar em 10%.",
+    "de_DE": "'Baumrinde' verringert den erlittenen Schaden um zus\u00e4tzliche 10%, und der durch Eure F\u00e4higkeit 'Krallenhieb' verursachte Schaden wird um 10% erh\u00f6ht.",
+    "en_GB": "Barkskin reduces damage taken by an additional 10%, and the damage done by your Rake ability is increased by 10%.",
+    "es_ES": "Piel de corteza reduce el da\u00f1o recibido un 10% extra y el da\u00f1o que inflige tu facultad Ara\u00f1azo aumenta un 10%.",
+    "fr_FR": "Ecorce r\u00e9duit les d\u00e9g\u00e2ts subis de 10% suppl\u00e9mentaires et les d\u00e9g\u00e2ts inflig\u00e9s par votre technique Griffure sont augment\u00e9s de 10%.",
+    "it_IT": "Pelledura riduce i danni subiti del 10% aggiuntivo e aumenta i danni inflitti da Graffio del 10%.",
+    "ru_RU": "\"\u0414\u0443\u0431\u043e\u0432\u0430\u044f \u043a\u043e\u0436\u0430\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0435\u0449\u0435 \u043d\u0430 10%. \"\u0413\u043b\u0443\u0431\u043e\u043a\u0430\u044f \u0440\u0430\u043d\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub098\ubb34 \uaecd\uc9c8\uc774 \ubc1b\ub294 \ud53c\ud574\ub97c \ucd94\uac00\ub85c 10%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uace0, \uac08\ud034 \ubc1c\ud1b1\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6a39\u76ae\u8853\u7684\u50b7\u5bb3\u6e1b\u514d\u6548\u679c\u63d0\u9ad810%\uff0c\u6383\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u6811\u76ae\u672f\u4f7f\u4f60\u53d7\u5230\u7684\u4f24\u5bb3\u989d\u5916\u964d\u4f4e10%\uff0c\u4f60\u7684\u659c\u63a0\u6280\u80fd\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

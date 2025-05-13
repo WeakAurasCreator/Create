@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "64882"
+  "SpellID": "64882",
+  "name_blz": {
+    "en_US": "Item - Paladin T8 Protection 4P Bonus",
+    "es_MX": "Item - Paladin T8 Protection 4P Bonus",
+    "pt_BR": "Item - Paladino T8 Prote\u00e7\u00e3o 4P B\u00f4nus",
+    "en_GB": "Item - Paladin T8 Protection 4P Bonus",
+    "es_ES": "Item - Paladin T8 Protection 4P Bonus",
+    "it_IT": "Item - Paladin T8 Protection 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc131\uae30\uc0ac \ubcf4\ud638 \ubcf4\ub108\uc2a4",
+    "zh_TW": "\u7269\u54c1 - \u8056\u9a0e\u58eb T8 \u9632\u8b77 4P \u52a0\u6210",
+    "zh_CN": "Item - Paladin T8 Protection 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Shield of the Righteous now increases the damage blocked by your shield by 5% for 6 sec.",
+    "es_MX": "Escudo del honrado ahora aumenta el da\u00f1o bloqueado por tu escudo un 5% durante ese ataque y despu\u00e9s durante 6 s.",
+    "pt_BR": "O Escudo do \u00cdntegro aumenta tamb\u00e9m em 5% a quantidade de dano bloqueado pelo seu escudo por 6 s.",
+    "de_DE": "Eure F\u00e4higkeit 'Schild der Rechtschaffenen' erh\u00f6ht nun den von Eurem Schild geblockten Schaden 6 Sek. lang um 5%.",
+    "en_GB": "Shield of the Righteous now increases the damage blocked by your shield by 5% for 6 sec.",
+    "es_ES": "Escudo del honrado ahora aumenta el da\u00f1o bloqueado por tu escudo un 5% durante ese ataque y despu\u00e9s durante 6 s.",
+    "fr_FR": "Bouclier du vertueux augmente \u00e0 pr\u00e9sent les d\u00e9g\u00e2ts bloqu\u00e9s par votre bouclier de 5% pendant 6 s.",
+    "it_IT": "Scudo del Virtuoso ora aumenta i danni bloccati con lo scudo del 5% per 6 s.",
+    "ru_RU": "\"\u0429\u0438\u0442 \u043f\u0440\u0430\u0432\u0435\u0434\u043d\u0438\u043a\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0443\u0440\u043e\u043d\u0430, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u043c\u043e\u0433\u043e \u0449\u0438\u0442\u043e\u043c, \u043d\u0430 5% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\uc758\uc758 \ubc29\ud328 \uacf5\uaca9 \uc2dc 6\ucd08 \ub3d9\uc548 \ubc29\ud328\ub85c \ub9c9\ub294 \ud53c\ud574\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u516c\u6b63\u4e4b\u76fe\u73fe\u5728\u53ef\u4f7f\u4f60\u7684\u76fe\u724c\u683c\u64cb\u503c\u63d0\u9ad85%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u6b63\u4e49\u76fe\u51fb\u73b0\u5728\u4f1a\u4f7f\u4f60\u7684\u76fe\u724c\u57286\u79d2\u683c\u6321\u7684\u4f24\u5bb3\u503c\u63d0\u9ad85%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "80313"
+  "SpellID": "80313",
+  "name_blz": {
+    "en_US": "Pulverize",
+    "es_MX": "Pulverizar",
+    "pt_BR": "Pulverizar",
+    "de_DE": "Pulverisieren",
+    "en_GB": "Pulverize",
+    "es_ES": "Pulverizar",
+    "fr_FR": "Pulv\u00e9risation",
+    "it_IT": "Polverizzazione",
+    "ru_RU": "\u0420\u0430\u0437\u0434\u0430\u0432\u0438\u0442\u044c",
+    "ko_KR": "\ud30c\uc1c4",
+    "zh_TW": "\u7c89\u788e",
+    "zh_CN": "\u7c89\u788e"
+  },
+  "description_blz": {
+    "en_US": "A devastating blow that consumes 2 stacks of your Thrash on the target to deal 724 Physical damage and reduce the damage they deal to you by 35% for 8 sec.",
+    "es_MX": "Un golpe devastador que consume 2 acumulaciones de tu Vapulear en el objetivo para infligir 724 p. de da\u00f1o f\u00edsico y reducir el da\u00f1o que te inflige un 35% durante 8 s.",
+    "pt_BR": "Um golpe devastador que consome 2 aplica\u00e7\u00f5es de Surra no alvo, causando 727 de dano F\u00edsico e reduzindo em 35% todo o dano que ele causa por 8 s.",
+    "de_DE": "Ein verheerender Hieb, der 2 Eurer Stapel von 'Hauen' auf dem Ziel verbraucht, um 718 k\u00f6rperlichen Schaden zu verursachen und den vom Ziel Euch zugef\u00fcgten Schaden 8 Sek. lang um 35% zu verringern.",
+    "en_GB": "A devastating blow that consumes 2 stacks of your Thrash on the target to deal 720 Physical damage and reduce the damage they deal to you by 35% for 8 sec.",
+    "es_ES": "Un golpe devastador que consume 2 acumulaciones de tu Vapulear sobre el objetivo, inflige 720 p. de da\u00f1o f\u00edsico y reduce un 35% el da\u00f1o que te inflige durante 8 s.",
+    "fr_FR": "Coup d\u00e9vastateur qui consomme 2\u00a0charges de votre technique Rosser sur la cible pour lui infliger 708\u00a0points de d\u00e9g\u00e2ts physiques et r\u00e9duire les d\u00e9g\u00e2ts qu\u2019elle vous inflige de 35% pendant 8 s.",
+    "it_IT": "Un colpo devastante che consuma 2 accumuli di Falciata sul bersaglio, infliggendo 730 danni fisici e riducendo i danni a te inflitti da quel bersaglio del 35% per 8 s.",
+    "ru_RU": "\u041f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 2 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0432\u0430\u0448\u0435\u0439 \"\u0412\u0437\u0431\u0443\u0447\u043a\u0438\" \u043d\u0430 \u0446\u0435\u043b\u0438 \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0435\u0439 723 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430 8 \u0441\u0435\u043a. \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c \u0446\u0435\u043b\u044c\u044e, \u043d\u0430 35%.",
+    "ko_KR": "\ubb35\uc9c1\ud55c \uc77c\uaca9\uc73c\ub85c, \ub09c\ud0c0 2\uc911\ucca9\uc744 \uc18c\ubaa8\ud558\uc5ec \ub300\uc0c1\uc5d0\uac8c 721\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud788\uace0 8\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc73c\ub85c\ubd80\ud130 \uc790\uc2e0\uc774 \ubc1b\ub294 \ud53c\ud574\ub97c 35%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5a01\u529b\u5f37\u5927\u7684\u4e00\u64ca\uff0c\u6d88\u8017\u4f60\u5728\u76ee\u6a19\u8eab\u4e0a\u76842\u5c64\u75db\u64ca\u6548\u679c\uff0c\u9020\u6210724\u9ede\u7269\u7406\u50b7\u5bb3\uff0c\u4e26\u4f7f\u5176\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e35%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u4e00\u6b21\u6bc1\u706d\u6027\u6253\u51fb\uff0c\u6d88\u80172\u5c42\u75db\u51fb\u6548\u679c\uff0c\u5bf9\u76ee\u6807\u9020\u6210720\u70b9\u7269\u7406\u4f24\u5bb3\uff0c\u5e76\u4f7f\u5176\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e35%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }
