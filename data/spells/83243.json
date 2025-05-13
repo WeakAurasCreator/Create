@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "83243"
+  "SpellID": "83243",
+  "name_blz": {
+    "en_US": "Call Pet 3",
+    "es_MX": "Llamar a mascota 3",
+    "pt_BR": "Chamar Ajudante 3",
+    "de_DE": "Begleiter 3 rufen",
+    "en_GB": "Call Pet 3",
+    "es_ES": "Llamar a mascota 3",
+    "fr_FR": "Appel du familier 3",
+    "it_IT": "Richiamo: Famiglio 3",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u043f\u0438\u0442\u043e\u043c\u0446\u0430 3",
+    "ko_KR": "\uc57c\uc218 \ubd80\ub974\uae30 III",
+    "zh_TW": "\u53ec\u559a\u5bf5\u72693",
+    "zh_CN": "\u53ec\u5524\u5ba0\u7269 3"
+  },
+  "description_blz": {
+    "en_US": "Summons your third pet to you.",
+    "es_MX": "Invoca a tu tercera mascota.",
+    "pt_BR": "Evoca o terceiro ajudante.",
+    "de_DE": "Beschw\u00f6rt Euer drittes Tier zu Euch.",
+    "en_GB": "Summons your third pet to you.",
+    "es_ES": "Invoca a tu tercera mascota.",
+    "fr_FR": "Invoque votre troisi\u00e8me familier aupr\u00e8s de vous.",
+    "it_IT": "Richiama il tuo terzo famiglio.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u0432\u0430\u0442\u044c \u0432\u0430\u0448\u0435\u0433\u043e \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430.",
+    "ko_KR": "\uae38\ub4e4\uc778 \uc138 \ubc88\uc9f8 \uc57c\uc218\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4f60\u7684\u7b2c\u4e09\u96bb\u5bf5\u7269\u5230\u4f60\u8eab\u908a\u3002",
+    "zh_CN": "\u53ec\u5524\u4f60\u7684\u7b2c\u4e09\u4e2a\u5ba0\u7269\u3002"
+  }
 }

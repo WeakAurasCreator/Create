@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "88163"
+  "SpellID": "88163",
+  "name_blz": {
+    "en_US": "Attack",
+    "es_MX": "Atacar",
+    "pt_BR": "Atacar",
+    "de_DE": "Angreifen",
+    "en_GB": "Attack",
+    "es_ES": "Atacar",
+    "fr_FR": "Attaque",
+    "it_IT": "Attacco",
+    "ru_RU": "\u0410\u0442\u0430\u043a\u0430",
+    "ko_KR": "\uacf5\uaca9",
+    "zh_TW": "\u653b\u64ca",
+    "zh_CN": "\u653b\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Starts combat by attacking a target with a melee weapon.",
+    "es_MX": "Inicia un combate atacando a un enemigo con un arma cuerpo a cuerpo.",
+    "pt_BR": "Come\u00e7a o combate, atacando o alvo com uma arma corpo a corpo.",
+    "de_DE": "Beginnt den Kampf, indem es das Ziel mit einer Nahkampfwaffe angreift.",
+    "en_GB": "Starts combat by attacking a target with a melee weapon.",
+    "es_ES": "Inicia un combate atacando a un enemigo con un arma cuerpo a cuerpo.",
+    "fr_FR": "Commence le combat en attaquant une cible avec une arme de m\u00eal\u00e9e.",
+    "it_IT": "Inizia un combattimento attaccando il bersaglio con l'arma da mischia.",
+    "ru_RU": "\u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u0431\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0431\u043e\u044f, \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u0440\u0435\u0436\u0438\u043c \u0431\u043e\u044f.",
+    "ko_KR": "\ub300\uc0c1\uc744 \uadfc\uc811 \ubb34\uae30\ub85c \uacf5\uaca9\ud558\uc5ec \uc804\ud22c\ub97c \uc2dc\uc791\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u7528\u8fd1\u6230\u6b66\u5668\u653b\u64ca\u76ee\u6a19\uff0c\u958b\u59cb\u6230\u9b25\u3002",
+    "zh_CN": "\u7528\u8fd1\u6218\u6b66\u5668\u653b\u51fb\u4e00\u4e2a\u76ee\u6807\u4ee5\u5f00\u59cb\u6218\u6597\u3002"
+  }
 }

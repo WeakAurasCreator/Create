@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "95672"
+  "SpellID": "95672",
+  "name_blz": {
+    "en_US": "The Big Wave",
+    "es_MX": "La gran ola",
+    "pt_BR": "A Grande Onda",
+    "de_DE": "Die gro\u00dfe Welle",
+    "en_GB": "The Big Wave",
+    "es_ES": "La gran ola",
+    "fr_FR": "La grande vague",
+    "it_IT": "Grande Onda",
+    "ru_RU": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0432\u043e\u043b\u043d\u0430",
+    "ko_KR": "\uac70\ub300\ud55c \ud30c\ub3c4",
+    "zh_TW": "\u5927\u6ce2\u6d6a",
+    "zh_CN": "\u5de8\u6d6a"
+  },
+  "description_blz": {
+    "en_US": "Increases mastery by 15.",
+    "es_MX": "Aumenta la maestr\u00eda 15 p.",
+    "pt_BR": "Aumenta a maestria em 15.",
+    "de_DE": "Erh\u00f6ht die Meisterschaft um 15.",
+    "en_GB": "Increases mastery by 15.",
+    "es_ES": "Aumenta la maestr\u00eda 15 p.",
+    "fr_FR": "Augmente la Ma\u00eetrise de 15.",
+    "it_IT": "Aumenta l'indice di maestria di 15.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 15.",
+    "ko_KR": "\ud2b9\ud654\uac00 15\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7cbe\u901a\u63d0\u9ad815\u9ede\u3002",
+    "zh_CN": "\u7cbe\u901a\u63d0\u9ad815\u70b9\u3002"
+  }
 }

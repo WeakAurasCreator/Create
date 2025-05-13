@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "73701"
+  "SpellID": "73701",
+  "name_blz": {
+    "en_US": "Sea Legs",
+    "es_MX": "Piernas de mar",
+    "pt_BR": "Cal\u00e7as do Mar",
+    "de_DE": "Seetauglich",
+    "en_GB": "Sea Legs",
+    "es_ES": "Piernas de mar",
+    "fr_FR": "Pied marin",
+    "it_IT": "Piede Marino",
+    "ru_RU": "\u041c\u043e\u0440\u0441\u043a\u043e\u0439 \u0432\u043e\u043b\u043a",
+    "ko_KR": "\ubc14\ub2e4 \uac78\uc74c",
+    "zh_TW": "\u719f\u6089\u6c34\u6027",
+    "zh_CN": "\u6df1\u8c19\u6c34\u6027"
+  },
+  "description_blz": {
+    "en_US": "Grants water breathing and increases sea floor movement speed by 60% while in Vashj'ir.",
+    "es_MX": "Otorga Respiraci\u00f3n acu\u00e1tica y aumenta la velocidad de movimiento en el fondo marino un 60% mientras te encuentres en Vashj'ir.",
+    "pt_BR": "Permite respirar debaixo d'\u00e1gua e aumenta em 60% a velocidade de movimento no fundo do mar enquanto estiver em Vashj'ir.",
+    "de_DE": "Gew\u00e4hrt Wasseratmung und erh\u00f6ht innerhalb von Vashj'ir die Bewegungsgeschwindigkeit um 60%.",
+    "en_GB": "Grants water breathing and increases sea floor movement speed by 60% while in Vashj'ir.",
+    "es_ES": "Otorga Respiraci\u00f3n acu\u00e1tica y aumenta la velocidad de movimiento en el fondo marino un 60% mientras te encuentres en Vashj'ir.",
+    "fr_FR": "Permet de respirer sous l'eau et augmente la vitesse de d\u00e9placement au fond de l'eau de 60% tant que vous \u00eates \u00e0 Vashj'ir.",
+    "it_IT": "Fornisce la possibilit\u00e0 di respirare sott'acqua e aumenta la velocit\u00e0 di movimento sul fondo del mare del 60% a Vashj'ir.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0434\u044b\u0448\u0430\u0442\u044c \u043f\u043e\u0434 \u0432\u043e\u0434\u043e\u0439 \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u043b\u0430\u0432\u0430\u043d\u0438\u044f \u043d\u0430 60%. \u0414\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0412\u0430\u0439\u0448'\u0438\u0440\u0435.",
+    "ko_KR": "\ubc14\uc26c\ub974\uc5d0 \uba38\ubb34\ub294 \ub3d9\uc548 \uc218\uc911 \ud638\ud761\uc774 \uac00\ub2a5\ud558\uba70 \ud574\uc800 \uc774\ub3d9 \uc18d\ub3c4\uac00 60%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u74e6\u8a31\u4f0a\u723e\u6642\uff0c\u53ef\u4ee5\u5728\u6c34\u4e2d\u547c\u5438\uff0c\u4e26\u4e14\u5728\u6d77\u5e95\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad860%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u5728\u74e6\u4e1d\u742a\u5c14\u53ef\u4ee5\u8fdb\u884c\u6c34\u4e0b\u547c\u5438\uff0c\u4e14\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad860%\u3002"
+  }
 }

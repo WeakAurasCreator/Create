@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "69046"
+  "SpellID": "69046",
+  "name_blz": {
+    "en_US": "Pack Hobgoblin",
+    "es_MX": "Hobgoblin de bolsillo",
+    "pt_BR": "Hobgoblin de Carga",
+    "de_DE": "Packhobgoblin",
+    "en_GB": "Pack Hobgoblin",
+    "es_ES": "Hobgoblin de bolsillo",
+    "fr_FR": "Hobgobelin de b\u00e2t",
+    "it_IT": "Richiamo Hobgoblin",
+    "ru_RU": "\u041f\u043e\u0434\u0440\u0443\u0447\u043d\u044b\u0439 \u0445\u043e\u0431\u0433\u043e\u0431\u043b\u0438\u043d",
+    "ko_KR": "\uc9d0\uafbc \ubc25\ud1b5\uace0\ube14\ub9b0",
+    "zh_TW": "\u651c\u5e36\u5927\u54e5\u5e03\u6797",
+    "zh_CN": "\u547c\u53eb\u5927\u80d6"
+  },
+  "description_blz": {
+    "en_US": "Calls in your friend, Gobber, allowing you bank access for 1 min.",
+    "es_MX": "Llama a tu amigo Gargajo, que te permite acceder al banco durante 1 min.",
+    "pt_BR": "Chama o seu amigo, Bol\u00e3o, permitindo que voc\u00ea acesse seu banco por 1 min.",
+    "de_DE": "Ruft Euren Freund Gobber, der Euch 1 Min. lang Zugriff auf Euer Bankfach gew\u00e4hrt.",
+    "en_GB": "Calls in your friend, Gobber, allowing you bank access for 1 min.",
+    "es_ES": "Llama a tu amigo Gargajo, que te permite acceder al banco durante 1 min.",
+    "fr_FR": "Appelle votre ami, Gobeur, ce qui vous donne acc\u00e8s \u00e0 votre banque pendant 1 min.",
+    "it_IT": "Richiama l'amico Gobber che ti consente di accedere alla banca per 1 min.",
+    "ru_RU": "\u0412\u044b\u0437\u043e\u0432 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0440\u0438\u044f\u0442\u0435\u043b\u044f \u0413\u043e\u0431\u0431\u0435\u0440\u0430. \u0414\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0431\u0430\u043d\u043a\u0443 \u043d\u0430 1 \u043c\u0438\u043d.",
+    "ko_KR": "\uce5c\uad6c \uace0\ubc84\ub97c \ubd88\ub7ec 1\ubd84 \ub3d9\uc548 \uc740\ud589\uc744 \uc774\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u547c\u559a\u4f60\u7684\u670b\u53cb\u53e4\u67cf\uff0c\u4f7f\u4f60\u80fd\u5920\u4f7f\u7528\u9280\u884c1\u5206\u9418\u3002",
+    "zh_CN": "\u53ec\u5524\u4f60\u7684\u670b\u53cb\u5927\u80d6\uff0c\u8ba9\u4f60\u80fd\u591f\u57281\u5206\u949f\u5185\u4f7f\u7528\u94f6\u884c\u3002"
+  }
 }
