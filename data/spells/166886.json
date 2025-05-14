@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "166886"
+  "SpellID": "166886",
+  "name_blz": {
+    "en_US": "Item - Rogue T17 Assassination 4P Bonus",
+    "es_MX": "Objetivo - P\u00edcaro T17 Asesinato 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - Ladino T17 Assassinato 4P B\u00f4nus",
+    "en_GB": "Item - Rogue T17 Assassination 4P Bonus",
+    "es_ES": "Item - Rogue T17 Assassination 4P Bonus",
+    "it_IT": "Item - Rogue T17 Assassination 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub3c4\uc801 T17 \uc554\uc0b4 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Rogue T17 Assassination 4P Bonus",
+    "zh_CN": "Item - Rogue T17 Assassination 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Envenom refunds 1 Combo Point.",
+    "es_MX": "Envenenar devuelve 1 punto de combo.",
+    "pt_BR": "Envenenar restaura 1 Ponto de Combo.",
+    "de_DE": "'Vergiften' stellt 1 Combopunkt wieder her.",
+    "en_GB": "Envenom refunds 1 Combo Point.",
+    "es_ES": "Envenenar devuelve 1 p. de combo.",
+    "fr_FR": "Envenimer restitue 1\u00a0point de combo.",
+    "it_IT": "Affondo Venefico ripristina 1 punto combo.",
+    "ru_RU": "\"\u041e\u0442\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u0432 \u0441\u0435\u0440\u0438\u0438 \u043d\u0430 1.",
+    "ko_KR": "\ub3c5\uc0b4\uc744 \uc4f0\uba74 1\uc758 \uc5f0\uacc4 \uc810\uc218\ub97c \ub3cc\ub824\ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6bd2\u5316\u6703\u7522\u751f1\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u6bd2\u4f24\u4f1a\u8fd4\u8fd81\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }

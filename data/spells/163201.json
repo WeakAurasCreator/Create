@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "83446",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "163201"
+  "SpellID": "163201",
+  "name_blz": {
+    "en_US": "Execute",
+    "es_MX": "Ejecutar",
+    "pt_BR": "Executar",
+    "de_DE": "Hinrichten",
+    "en_GB": "Execute",
+    "es_ES": "Ejecutar",
+    "fr_FR": "Ex\u00e9cution",
+    "it_IT": "Esecuzione",
+    "ru_RU": "\u041a\u0430\u0437\u043d\u044c",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc77c\uaca9",
+    "zh_TW": "\u65ac\u6bba",
+    "zh_CN": "\u65a9\u6740"
+  },
+  "description_blz": {
+    "en_US": "Attempts to finish off a foe, causing up to 2,659 Physical damage based on Rage spent. Only usable on enemies that have less than 20% health.",
+    "es_MX": "Intenta rematar a un enemigo e inflige hasta 2,684 p. de da\u00f1o f\u00edsico de acuerdo con los puntos de ira gastados. Solo puede usarse sobre enemigos con menos de un 20% de salud.",
+    "pt_BR": "Tenta eliminar um inimigo, causando 2.636 de dano F\u00edsico com base na Raiva gasta. S\u00f3 pode ser usado em inimigos com menos de 20% dos pontos de vida.",
+    "de_DE": "Versucht, einen Gegner zu erledigen. Verursacht bis zu 2.702 k\u00f6rperlichen Schaden basierend auf der verbrauchten Wut. Kann nur gegen Gegner mit weniger als 20% Gesundheit eingesetzt werden.",
+    "en_GB": "Attempts to finish off a foe, causing up to 2,691 Physical damage based on Rage spent. Only usable on enemies that have less than 20% health.",
+    "es_ES": "Intenta rematar a un enemigo, que recibe hasta 2648 p. de da\u00f1o f\u00edsico en funci\u00f3n de la ira gastada. Solo se puede usar con enemigos que est\u00e9n por debajo del 20% de salud.",
+    "fr_FR": "Vous tentez d\u2019achever votre adversaire, ce qui lui inflige jusqu\u2019\u00e0 2701\u00a0points de d\u00e9g\u00e2ts physiques, en fonction des points de rage consomm\u00e9s. Cette technique peut uniquement \u00eatre utilis\u00e9e contre les adversaires ayant moins de 20% de leur maximum de points de vie.",
+    "it_IT": "Tenta di uccidere un bersaglio, infliggendo fino a 2.686 danni fisici in base alla rabbia consumata. Utilizzabile solo su nemici con meno del 20% della salute massima.",
+    "ru_RU": "\u0412\u044b \u043f\u044b\u0442\u0430\u0435\u0442\u0435\u0441\u044c \u043f\u0440\u0438\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u0435\u0441\u044f \u0435\u043c\u0443 2648 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u043e\u0431\u044a\u0435\u043c\u0430 \u0438\u0437\u0440\u0430\u0441\u0445\u043e\u0434\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u044f\u0440\u043e\u0441\u0442\u0438. \u041c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c, \u0443 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u043c\u0435\u043d\u0435\u0435 20% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc801\uc5d0\uac8c \ub9c8\ubb34\ub9ac \uc77c\uaca9\uc744 \uc2dc\ub3c4\ud558\uc5ec \uc18c\ubaa8\ud55c \ubd84\ub178\uc5d0 \ub530\ub77c \ucd5c\ub300 2,705\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc0dd\uba85\ub825\uc774 20% \ubbf8\ub9cc\uc778 \uc801\uc5d0\uac8c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8a66\u8457\u7d42\u7d50\u4e00\u540d\u6575\u4eba\u7684\u751f\u547d\uff0c\u6839\u64da\u6d88\u8017\u7684\u6012\u6c23\uff0c\u6700\u591a\u9020\u62102,670\u9ede\u7269\u7406\u50b7\u5bb3\u3002\u53ea\u80fd\u5c0d\u751f\u547d\u529b\u4f4e\u65bc20%\u7684\u6575\u4eba\u4f7f\u7528\u3002",
+    "zh_CN": "\u5c1d\u8bd5\u7ec8\u7ed3\u4e00\u540d\u654c\u4eba\uff0c\u57fa\u4e8e\u6d88\u8017\u7684\u6012\u6c14\uff0c\u5bf9\u5176\u9020\u6210\u6700\u591a2,689\u70b9\u7269\u7406\u4f24\u5bb3\u3002\u53ea\u80fd\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e20%\u7684\u654c\u4eba\u4f7f\u7528\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "187430"
+  "SpellID": "187430",
+  "name_blz": {
+    "en_US": "Item - LFR T18 Cloth Healer 4P Bonus",
+    "es_MX": "Item - LFR T18 Cloth Healer 4P Bonus",
+    "pt_BR": "Item - LFR T18 Cloth Healer 4P Bonus",
+    "en_GB": "Item - LFR T18 Cloth Healer 4P Bonus",
+    "es_ES": "Item - LFR T18 Cloth Healer 4P Bonus",
+    "it_IT": "Item - LFR T18 Cloth Healer 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - LFR T18 \ucc9c \uce58\uc720 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - LFR T18 Cloth Healer 4P Bonus",
+    "zh_CN": "Item - LFR T18 Cloth Healer 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Casting a healing spell has a 8% chance to cast a Ribbon of Light on an injured ally, healing up to 3 allies in its path.",
+    "es_MX": "Lanzar un hechizo de sanaci\u00f3n tiene un 8% de probabilidad de lanzar un Lazo de luz a un aliado herido, sanando a hasta 3 aliados en su camino.",
+    "pt_BR": "Lan\u00e7ar um feiti\u00e7o de cura concede 8% de chance de lan\u00e7ar La\u00e7o de Luz em um aliado ferido, curando at\u00e9 3 aliados em seu trajeto.",
+    "de_DE": "Beim Wirken eines Heilzaubers besteht eine Chance von 8%, ein 'Band des Lichts' auf einen verletzten Verb\u00fcndeten zu wirken, das bis zu 3 Verb\u00fcndete auf seinem Weg heilt.",
+    "en_GB": "Casting a healing spell has a 8% chance to cast a Ribbon of Light on an injured ally, healing up to 3 allies in its path.",
+    "es_ES": "Lanzar un hechizo de sanaci\u00f3n tiene un 8% de probabilidad de lanzar Lazo de Luz sobre un aliado herido, lo que sana a un m\u00e1ximo de 3 aliados a su paso.",
+    "fr_FR": "Lancer un sort de soins conf\u00e8re 8% de chances de lancer sur un alli\u00e9 bless\u00e9 un Ruban de lumi\u00e8re, qui soigne jusqu\u2019\u00e0 3\u00a0alli\u00e9s sur sa trajectoire.",
+    "it_IT": "Gli incantesimi di cura hanno una probabilit\u00e0 del 8% di lanciare un Nastro di Luce sul bersaglio ferito, curando fino a 3 bersagli alleati aggiuntivi lungo la traiettoria.",
+    "ru_RU": "\u041f\u0440\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 8% \u043a \u0440\u0430\u043d\u0435\u043d\u043e\u043c\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 \u043d\u0430\u043f\u0440\u0430\u0432\u0438\u0442\u0441\u044f \"\u041b\u0435\u043d\u0442\u0430 \u0421\u0432\u0435\u0442\u0430\", \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0438\u0441\u0446\u0435\u043b\u0438\u0442 \u0434\u043e 3 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 \u0441\u0432\u043e\u0435\u043c \u043f\u0443\u0442\u0438.",
+    "ko_KR": "\uce58\uc720 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc 8% \ud655\ub960\ub85c \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc5d0\uac8c \ube5b\uc758 \ub9e4\ub4ed\uc744 \uc2dc\uc804\ud558\uc5ec, \uc804\ub2ec \uacbd\ub85c\uc0c1\uc758 \uc544\uad70\uc744 \ucd5c\ub300 3\uba85\uae4c\uc9c0 \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u6cbb\u7642\u6cd5\u8853\u6642\u67098%\u7684\u6a5f\u7387\u5c0d\u4e00\u540d\u53d7\u50b7\u76df\u53cb\u65bd\u653e\u5149\u4e4b\u7dde\u5e36\uff0c\u6700\u591a\u6cbb\u7642\u8def\u5f91\u4e0a\u76843\u540d\u76df\u53cb\u3002",
+    "zh_CN": "\u65bd\u653e\u6cbb\u7597\u6cd5\u672f\u4f1a\u67098%\u7684\u51e0\u7387\u5bf9\u4e00\u540d\u53d7\u4f24\u7684\u76df\u53cb\u65bd\u653e\u5723\u5149\u6696\u6d41\uff0c\u5e76\u4e3a\u8def\u5f84\u4e0a\u6700\u591a3\u540d\u76df\u53cb\u6062\u590d\u751f\u547d\u503c\u3002"
+  }
 }

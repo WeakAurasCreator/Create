@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "184367"
+  "SpellID": "184367",
+  "name_blz": {
+    "en_US": "Rampage",
+    "es_MX": "Desenfreno",
+    "pt_BR": "Alvoro\u00e7o",
+    "de_DE": "Toben",
+    "en_GB": "Rampage",
+    "es_ES": "Desenfreno",
+    "fr_FR": "Saccager",
+    "it_IT": "Scatto d'Ira",
+    "ru_RU": "\u0411\u0443\u0439\u0441\u0442\u0432\u043e",
+    "ko_KR": "\uad11\ub780",
+    "zh_TW": "\u66b4\u6012",
+    "zh_CN": "\u66b4\u6012"
+  },
+  "description_blz": {
+    "en_US": "Enrages you and unleashes a series of 4 brutal strikes for a total of 1,445 Physical damage.",
+    "es_MX": "Te enfureces y desatas una serie de 4 golpes brutales que infligen un total de 1,476 p. de da\u00f1o f\u00edsico.",
+    "pt_BR": "Enfurece voc\u00ea e inicia uma s\u00e9rie de 4 golpes brutais, causando um total de 1.471 de dano F\u00edsico.",
+    "de_DE": "Versetzt Euch in einen Wutzustand und entfesselt eine Reihe von 4 brutalen Hieben, die insgesamt 1.464 k\u00f6rperlichen Schaden verursachen.",
+    "en_GB": "Enrages you and unleashes a series of 4 brutal strikes for a total of 1,469 Physical damage.",
+    "es_ES": "Te enfureces y lanzas una serie de 4 golpes brutales que infligen un total de 1454 p. de da\u00f1o f\u00edsico.",
+    "fr_FR": "Vous enrage et d\u00e9clenche une s\u00e9rie de 4\u00a0frappes brutales qui infligent un total de 1458\u00a0points de d\u00e9g\u00e2ts physiques.",
+    "it_IT": "Ti fa infuriare e scatena una serie di 4 attacchi brutali, infliggendo un totale di 1.461 danni fisici.",
+    "ru_RU": "\u0412\u044b \u0432\u043f\u0430\u0434\u0430\u0435\u0442\u0435 \u0432 \u0438\u0441\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0438 \u043e\u0431\u0440\u0443\u0448\u0438\u0432\u0430\u0435\u0442\u0435 \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0441\u0435\u0440\u0438\u044e \u0438\u0437 4 \u0436\u0435\u0441\u0442\u043e\u043a\u0438\u0445 \u0443\u0434\u0430\u0440\u043e\u0432, \u043d\u0430\u043d\u043e\u0441\u044f \u0432 \u043e\u0431\u0449\u0435\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 1460 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uaca9\ub178\ud558\uc5ec 4\ud68c\uc758 \ubb34\uc790\ube44\ud55c \uacf5\uaca9\uc744 \uac00\ud574 \ucd1d 1,440\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u9032\u5165\u72c2\u6012\u72c0\u614b\u4e26\u9023\u7e8c\u65bd\u5c554\u6b21\u883b\u6a6b\u6253\u64ca\uff0c\u7e3d\u5171\u9020\u62101,473\u9ede\u7269\u7406\u50b7\u5bb3\u3002",
+    "zh_CN": "\u6fc0\u6012\u81ea\u8eab\uff0c\u8fde\u7eed\u91ca\u653e4\u6b21\u6b8b\u5fcd\u7684\u653b\u51fb\uff0c\u603b\u8ba1\u9020\u62101,481\u70b9\u7269\u7406\u4f24\u5bb3\u3002"
+  }
 }

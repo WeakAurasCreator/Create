@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "172894"
+  "SpellID": "172894",
+  "name_blz": {
+    "en_US": "Follower: Spirit of Bony Xuk",
+    "es_MX": "Seguidor: Esp\u00edritu de Xuk Huesudo",
+    "pt_BR": "Seguidor: Esp\u00edrito de Ohrra Ossudo",
+    "de_DE": "Anh\u00e4nger: Geist des Knochigen Xais",
+    "en_GB": "Follower: Spirit of Bony Xuk",
+    "es_ES": "Seguidor: esp\u00edritu de Xuk el Osudo",
+    "fr_FR": "Sujet\u00a0: esprit de Xuk le D\u00e9charn\u00e9",
+    "it_IT": "Seguace: Spirito di Xazz l'Ossuto",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0434\u0443\u0445 \u041a\u043e\u0441\u0442\u044f\u043d\u043e\u0433\u043e \u0417\u0430\u043a\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \uc559\uc0c1\ud55c \uc218\ud06c\uc758 \uc601\ud63c",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a \u9ab8\u9aa8\u8607\u514b\u4e4b\u9b42",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u827e\u82cf\u514b\u4e4b\u9b42"
+  },
+  "description_blz": {
+    "en_US": "Betrayed by the Laughing Skull spirits. Well, Xuk them anyway.",
+    "es_MX": "Traicionado por los esp\u00edritus Riecr\u00e1neos. Bueno, Xuk se los llev\u00f3 igual.",
+    "pt_BR": "Ohrra foi tra\u00eddo pelos esp\u00edritos dos Gargaveiras. Aqueles filhos de uma orquisa manca.",
+    "de_DE": "Von den Geistern des Lachenden Sch\u00e4dels verraten. Xaise gelaufen.",
+    "en_GB": "Betrayed by the Laughing Skull spirits. Well, Xuk them anyway.",
+    "es_ES": "La traici\u00f3n de los esp\u00edritus Riecr\u00e1neos te cala hasta los huesos.",
+    "fr_FR": "Xuk a \u00e9t\u00e9 trahi par les esprits du Cr\u00e2ne-Ricanant, mais les a vaincus quand m\u00eame.",
+    "it_IT": "Tradito dagli spiriti dei Teschio Ridente. Be', avranno poco da ridere.",
+    "ru_RU": "\u0414\u0443\u0445\u0438 \u0412\u0435\u0441\u0435\u043b\u043e\u0433\u043e \u0427\u0435\u0440\u0435\u043f\u0430 \u0441\u043e\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043f\u0440\u0435\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e. \u041d\u0443 \u0438 \u0417\u0430\u043a \u0441 \u043d\u0438\u043c\u0438!",
+    "ko_KR": "\uc6c3\ub294 \ud574\uace8 \uc815\ub839\uc5d0\uac8c \ubc30\uc2e0\ub2f9\ud588\uc2b5\ub2c8\ub2e4. \ubb50, \uc5b4\uca0c\ub4e0 \ub098\uc05c \ub188\ub4e4\uc774\ub124\uc694.",
+    "zh_TW": "\u88ab\u7370\u7b11\u9ab7\u9acf\u9748\u9b42\u80cc\u53db\u4e86\u3002\u554a\uff0c\u62ce\u8001\u8607\u4e0d\u7ba1\u4e86\u3002",
+    "zh_CN": "\u88ab\u5632\u9885\u4f17\u9b42\u80cc\u53db\u3002\u597d\u5427\uff0c\u968f\u4ed6\u4eec\u53bb\u5427\u3002"
+  }
 }

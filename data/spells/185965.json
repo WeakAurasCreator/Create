@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "185965"
+  "SpellID": "185965",
+  "name_blz": {
+    "en_US": "Item - Warlock T18 Destruction 2P Bonus",
+    "es_MX": "Item - Warlock T18 Destruction 2P Bonus",
+    "pt_BR": "Item - Warlock T18 Destruction 2P Bonus",
+    "en_GB": "Item - Warlock T18 Destruction 2P Bonus",
+    "es_ES": "Item - Warlock T18 Destruction 2P Bonus",
+    "it_IT": "Item - Warlock T18 Destruction 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ud751\ub9c8\ubc95\uc0ac T18 \ud30c\uad34 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Warlock T18 Destruction 2P Bonus",
+    "zh_CN": "Item - Warlock T18 Destruction 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cast time of your Chaos Bolt by 0.5 sec and increases its damage by 2%.",
+    "es_MX": "Reduce en 0.5 s el tiempo de lanzamiento de tu Descarga de Caos y aumenta en 2% su da\u00f1o.",
+    "pt_BR": "Reduz o tempo de lan\u00e7amento de Seta do Caos em 0,5 s e aumenta o dano em 2%.",
+    "de_DE": "Verringert die Zauberzeit Eures Zaubers 'Chaosblitz' um 0,5 Sek. und erh\u00f6ht seinen Schaden um 2%.",
+    "en_GB": "Reduces the cast time of your Chaos Bolt by 0.5 sec and increases its damage by 2%.",
+    "es_ES": "Reduce el tiempo de lanzamiento de tu Descarga de Caos 0,5 s y aumenta su da\u00f1o un 2%.",
+    "fr_FR": "R\u00e9duit le temps d\u2019incantation de votre Trait du chaos de 0,5\u00a0s et augmente ses d\u00e9g\u00e2ts de 2%.",
+    "it_IT": "Riduce il tempo di lancio di Dardo del Caos di 0,5 s e ne aumenta i danni inflitti del 2%.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0421\u0442\u0440\u0435\u043b\u044b \u0425\u0430\u043e\u0441\u0430\" \u043d\u0430 0,5 \u0441\u0435\u043a. \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0435\u0435 \u0443\u0440\u043e\u043d \u043d\u0430 2%.",
+    "ko_KR": "\ud63c\ub3c8\uc758 \ud654\uc0b4\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 0.5\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0, \uacf5\uaca9\ub825\uc774 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u6df7\u6c8c\u7bad\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed0.5\u79d2\uff0c\u4e26\u4f7f\u5176\u50b7\u5bb3\u63d0\u9ad82%\u3002",
+    "zh_CN": "\u6df7\u4e71\u4e4b\u7bad\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed0.5\u79d2\uff0c\u4f24\u5bb3\u63d0\u9ad82%\u3002"
+  }
 }

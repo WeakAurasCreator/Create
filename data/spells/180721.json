@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "180721"
+  "SpellID": "180721",
+  "name_blz": {
+    "en_US": "Item - Mage WoD PvP Frost 2P Bonus",
+    "es_MX": "Item - Mage WoD PvP Frost 2P Bonus",
+    "pt_BR": "Item - Mago WoD JxJ Gelo 2P B\u00f4nus",
+    "en_GB": "Item - Mage WoD PvP Frost 2P Bonus",
+    "es_ES": "Item - Mage WoD PvP Frost 2P Bonus",
+    "it_IT": "Item - Mage WoD PvP Frost 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub9c8\ubc95\uc0ac WoD PvP \ub0c9\uae302P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Mage WoD PvP Frost 2P Bonus",
+    "zh_CN": "Item - Mage WoD PvP Frost 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When you cast Cone of Cold, a patch of ice is left on the ground below the target area for 6 sec, slowing any enemies in the area by 50%.",
+    "es_MX": "Cuando lanzas Cono de fr\u00edo, se crea un parche de hielo sobre el suelo del \u00e1rea objetivo durante 6 s, lo que ralentiza a los enemigos que entren en el \u00e1rea un 50%.",
+    "pt_BR": "Ao lan\u00e7ar Cone de Frio, um rastro de gelo se forma na \u00e1rea alvejada por 6 s, desacelerando em 50% os inimigos na \u00e1rea.",
+    "de_DE": "Beim Einsatz von 'K\u00e4ltekegel' entsteht 6 Sek. lang am Boden des Zielbereichs eine Eisfl\u00e4che, die Gegner um 50% verlangsamt.",
+    "en_GB": "When you cast Cone of Cold, a patch of ice is left on the ground below the target area for 6 sec, slowing any enemies in the area by 50%.",
+    "es_ES": "Al lanzar Cono de fr\u00edo, el suelo de la zona seleccionada queda helado durante 6 s, lo que ralentiza un 50% a cualquier enemigo que se encuentre all\u00ed.",
+    "fr_FR": "Quand vous utilisez C\u00f4ne de froid, une plaque de glace se cr\u00e9e \u00e0 l\u2019endroit cibl\u00e9 pendant 6 s et ralentit de 50% tous les ennemis dans la zone.",
+    "it_IT": "Cono di Freddo crea un'area ghiacciata sul terreno ai piedi del bersaglio per 6 s, riducendo la velocit\u00e0 dei nemici che vi passano sopra del 50%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041a\u043e\u043d\u0443\u0441 \u0445\u043e\u043b\u043e\u0434\u0430\", \u043d\u0430 \u0437\u0435\u043c\u043b\u0435 \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043b\u0435\u0434\u044f\u043d\u0430\u044f \u043b\u0443\u0436\u0438\u0446\u0430, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0430\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a., \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u043c\u0435\u0434\u043b\u044f\u0435\u0442 \u0432\u0441\u0435\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043d\u0430 50%.",
+    "ko_KR": "\ub0c9\uae30 \ub3cc\ud48d\uc744 \uc0ac\uc6a9\ud558\uba74 \ub300\uc0c1 \uc9c0\uc810\uc758 \uc9c0\uba74\uc774 6\ucd08 \ub3d9\uc548 \uc5bc\uc74c\uc73c\ub85c \ub4a4\ub36e\uc5ec, \ud574\ub2f9 \ubc94\uc704 \ub0b4\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc801\uc758 \uc774\ub3d9 \uc18d\ub3c4\ub97c 50%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u65bd\u653e\u51b0\u9310\u8853\u6642\uff0c\u6703\u5728\u76ee\u6a19\u5730\u9762\u4e0a\u7559\u4e0b\u4e00\u5c64\u51b0\uff0c\u6301\u7e8c6\u79d2\uff0c\u4f4d\u65bc\u8a72\u5340\u57df\u4e2d\u7684\u6575\u4eba\u901f\u5ea6\u964d\u4f4e50%\u3002",
+    "zh_CN": "\u5f53\u4f60\u65bd\u653e\u51b0\u9525\u672f\u65f6\uff0c\u4f1a\u5728\u76ee\u6807\u533a\u57df\u7684\u5730\u9762\u4e0a\u7559\u4e0b\u4e00\u5c42\u51b0\u9762\uff0c\u6301\u7eed6\u79d2\u3002\u51b0\u9762\u4e0a\u4efb\u610f\u654c\u4eba\u7684\u79fb\u52a8\u901f\u5ea6\u4f1a\u964d\u4f4e50%\u3002"
+  }
 }

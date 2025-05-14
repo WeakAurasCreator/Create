@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "187698"
+  "SpellID": "187698",
+  "name_blz": {
+    "en_US": "Tar Trap",
+    "es_MX": "Trampa de alquitr\u00e1n",
+    "pt_BR": "Armadilha de Piche",
+    "de_DE": "Teerfalle",
+    "en_GB": "Tar Trap",
+    "es_ES": "Trampa de brea",
+    "fr_FR": "Pi\u00e8ge de goudron",
+    "it_IT": "Trappola di Pece",
+    "ru_RU": "\u0421\u043c\u043e\u043b\u044f\u043d\u0430\u044f \u043b\u043e\u0432\u0443\u0448\u043a\u0430",
+    "ko_KR": "\ud0c0\ub974 \ub36b",
+    "zh_TW": "\u701d\u9752\u9677\u9631",
+    "zh_CN": "\u7126\u6cb9\u9677\u9631"
+  },
+  "description_blz": {
+    "en_US": "Hurls a tar trap to the target location that creates a 8 yd radius pool of tar around itself for 30 sec when the first enemy approaches. All enemies have 50% reduced movement speed while in the area of effect. Limit 1. Trap will exist for 1 min.",
+    "es_MX": "Lanza una trampa de alquitr\u00e1n a la ubicaci\u00f3n del objetivo. La trampa crea un charco de alquitr\u00e1n en un radio de 8 m durante 30 s cuando el primer enemigo se acerca. Todos los enemigos sufren un 50% de reducci\u00f3n de la velocidad de movimiento mientras se encuentran en el \u00e1rea de efecto. L\u00edmite de 1. La trampa dura 1 min.",
+    "pt_BR": "Lan\u00e7a uma armadilha de piche no local selecionado, criando uma po\u00e7a de piche de 8 m de raio ao redor de si por 30 s quando o primeiro inimigo se aproxima. Todos os inimigos t\u00eam a velocidade de movimento reduzida em 50% na \u00e1rea de efeito. Limite de 1. A armadilha dura 1 min.",
+    "de_DE": "Schleudert eine Teerfalle an den Zielort, die 30 Sek. lang um sich herum eine Teerpf\u00fctze mit einem Radius von 8 Metern bildet, sobald sich ihr der erste Gegner n\u00e4hert. Die Bewegungsgeschwindigkeit aller Gegner wird um 50% verringert, solange sie sich im Effektbereich befinden. Maximal 1 Falle. Eine Falle bleibt 1 Min. lang bestehen.",
+    "en_GB": "Hurls a tar trap to the target location that creates a 8 yd radius pool of tar around itself for 30 sec when the first enemy approaches. All enemies have 50% reduced movement speed while in the area of effect. Limit 1. Trap will exist for 1 min.",
+    "es_ES": "Lanza una trampa de brea sobre la ubicaci\u00f3n objetivo. En cuanto se acerca el primer enemigo, se genera un charco de brea con un radio de 8 m sobre la trampa durante 30 s. Todos los enemigos reducen un 50% su velocidad de movimiento mientras permanecen en el \u00e1rea de efecto. L\u00edmite de 1. La trampa dura 1 min.",
+    "fr_FR": "Lance vers l\u2019emplacement cibl\u00e9 un pi\u00e8ge qui cr\u00e9e une nappe de goudron d\u2019un rayon de 8\u00a0m et d\u2019une dur\u00e9e de 30 s quand le premier personnage adverse s\u2019en approche. La vitesse de d\u00e9placement des personnages adverses est r\u00e9duite de 50\u00a0% tant qu\u2019ils se trouvent dans la zone d\u2019effet. Limite de 1. Le pi\u00e8ge dispara\u00eet au bout de 1 min.",
+    "it_IT": "Lancia una trappola di pece sulla posizione bersaglio che crea una pozza di pece di 8 m per 30 s quando il primo nemico si avvicina, riducendo la velocit\u00e0 di movimento di tutti i nemici nell'area d'effetto del 50%. Massimo 1. La trappola persiste per 1 min.",
+    "ru_RU": "\u0412\u044b \u0431\u0440\u043e\u0441\u0430\u0435\u0442\u0435 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0441\u043c\u043e\u043b\u044f\u043d\u0443\u044e \u043b\u043e\u0432\u0443\u0448\u043a\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u0440\u0438 \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0435\u043d\u0438\u0438 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0432\u043e\u043a\u0440\u0443\u0433 \u0441\u0435\u0431\u044f \u043b\u0443\u0436\u0443 \u0441\u043c\u043e\u043b\u044b \u0440\u0430\u0434\u0438\u0443\u0441\u043e\u043c 8 \u043c \u043d\u0430 30 \u0441\u0435\u043a. \u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0432\u0441\u0435\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0441\u043d\u0438\u0436\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50%. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u043b\u043e\u0432\u0443\u0448\u0435\u043a \u2013 1. \u041b\u043e\u0432\u0443\u0448\u043a\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 1 \u043c\u0438\u043d.",
+    "ko_KR": "\ubaa9\ud45c \uc704\uce58\ub85c \ud0c0\ub974 \ub36b\uc744 \ubc1c\uc0ac\ud569\ub2c8\ub2e4. \uc801\uc774 \ub2e4\uac00\uc624\uba74 \ubc18\uacbd 8\ubbf8\ud130\uc758 \ud0c0\ub974 \uc6c5\ub369\uc774\uac00 30\ucd08 \ub3d9\uc548 \uc0dd\uc131\ub418\uc5b4 \ud574\ub2f9 \uc9c0\uc5ed \uc548\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc801\uc758 \uc774\ub3d9 \uc18d\ub3c4\ub97c 50%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. \ub3d9\uc2dc\uc5d0 1\uba85\uc758 \ub300\uc0c1\uc5d0\uac8c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub36b\uc740 1\ubd84 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5411\u76ee\u6a19\u5730\u9ede\u64f2\u51fa\u4e00\u500b\u701d\u9752\u9677\u9631\uff0c\u7576\u7b2c\u4e00\u500b\u6575\u4eba\u9760\u8fd1\u5f8c\uff0c\u6703\u5f62\u6210\u4e00\u500b\u534a\u5f918\u78bc\u7684\u701d\u9752\u6c60\uff0c\u6301\u7e8c30\u79d2\u3002\u5728\u6548\u679c\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e50%\u3002\u4e0a\u9650\u70ba1\u500b\u3002\u9677\u9631\u6703\u5b58\u57281\u5206\u9418\u3002",
+    "zh_CN": "\u5411\u76ee\u6807\u4f4d\u7f6e\u53d1\u5c04\u4e00\u4e2a\u7126\u6cb9\u9677\u9631\uff0c\u5f53\u7b2c\u4e00\u4e2a\u654c\u4eba\u9760\u8fd1\u65f6\u5728\u5176\u5468\u56f4\u5236\u9020\u4e00\u4e2a\u534a\u5f848\u7801\u7684\u7126\u6cb9\u6c60\uff0c\u6301\u7eed30\u79d2\u3002\u6240\u6709\u654c\u4eba\u5728\u4f5c\u7528\u8303\u56f4\u5185\u65f6\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e50%\uff0c\u6700\u591a1\u4e2a\u3002\u9677\u9631\u53ef\u5b58\u57281\u5206\u949f\u3002"
+  }
 }
