@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "212398"
+  "SpellID": "212398",
+  "name_blz": {
+    "en_US": "Formula: Enchanted Pen",
+    "es_MX": "F\u00f3rmula: L\u00e1piz encantado",
+    "pt_BR": "F\u00f3rmula: Caneta Encantada",
+    "de_DE": "Formel: Verzauberter Stift",
+    "en_GB": "Formula: Enchanted Pen",
+    "es_ES": "F\u00f3rmula: pluma encantada",
+    "fr_FR": "Formule\u00a0: Plume enchant\u00e9e",
+    "it_IT": "Formula: Penna Incantata",
+    "ru_RU": "\u0424\u043e\u0440\u043c\u0443\u043b\u0430: \u0437\u0430\u0447\u0430\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0440\u0443\u0447\u043a\u0430",
+    "ko_KR": "\uc8fc\ubb38\uc2dd: \ub9c8\ub825 \uae43\ub4e0 \ud39c",
+    "zh_TW": "\u516c\u5f0f\uff1a\u9b54\u6cd5\u7b46",
+    "zh_CN": "\u516c\u5f0f\uff1a\u9b54\u5316\u7fbd\u6bdb\u7b14"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to create the Enchanted Pen.\r\n",
+    "es_MX": "Te ense\u00f1a a crear el L\u00e1piz encantado.\r\n",
+    "pt_BR": "Ensina a criar a Caneta Encantada.\r\n",
+    "de_DE": "Lehrt Euch, wie man den verzauberten Stift herstellt.\r\n",
+    "en_GB": "Teaches you how to create the Enchanted Pen.\r\n",
+    "es_ES": "Te ense\u00f1a a crear la pluma encantada.",
+    "fr_FR": "Vous apprend \u00e0 fabriquer la plume enchant\u00e9e.",
+    "it_IT": "Apprendi come creare una Penna Incantata.\r\n",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0437\u0430\u0447\u0430\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0440\u0443\u0447\u043a\u0438.\r\n",
+    "ko_KR": "\ub9c8\ub825 \uae43\ub4e0 \ud39c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u5b78\u7fd2\u5982\u4f55\u88fd\u9020\u4e00\u628a\u9b54\u6cd5\u7b46\u3002\r\n",
+    "zh_CN": "\u6559\u4f1a\u4f60\u5982\u4f55\u5236\u4f5c\u9b54\u5316\u7fbd\u6bdb\u7b14\u3002\r\n"
+  }
 }

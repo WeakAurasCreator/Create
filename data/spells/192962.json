@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "192962"
+  "SpellID": "192962",
+  "name_blz": {
+    "en_US": "Recipe: Class Glyph",
+    "es_MX": "Receta: Glifo de clase",
+    "pt_BR": "Receita: Glifo de Classe",
+    "de_DE": "Rezept: Klassenglyphe",
+    "en_GB": "Recipe: Class Glyph",
+    "es_ES": "Receta: glifo de clase",
+    "fr_FR": "Recette\u00a0: Glyphe de classe",
+    "it_IT": "Tecnica: Glifi di Classe",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u043a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u0441\u0438\u043c\u0432\u043e\u043b",
+    "ko_KR": "\uc81c\uc870\ubc95: \uc9c1\uc5c5 \ubb38\uc591",
+    "zh_TW": "\u914d\u65b9\uff1a\u8077\u696d\u96d5\u7d0b",
+    "zh_CN": "\u914d\u65b9\uff1a\u804c\u4e1a\u96d5\u6587"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to make a glyph specific to your class.",
+    "es_MX": "Te ense\u00f1a a hacer un glifo espec\u00edfico de tu clase.",
+    "pt_BR": "Ensina a fazer um glifo espec\u00edfico da sua classe.",
+    "de_DE": "Lehrt Euch, wie man eine Glyphe f\u00fcr Eure Klasse herstellt.",
+    "en_GB": "Teaches you how to make a glyph specific to your class.",
+    "es_ES": "Te ense\u00f1a a hacer un glifo espec\u00edfico para tu clase.",
+    "fr_FR": "Vous apprend \u00e0 cr\u00e9er un glyphe propre \u00e0 votre classe.",
+    "it_IT": "Apprendi come creare un glifo specifico per la tua classe.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0432\u043e\u0435\u0433\u043e \u043a\u043b\u0430\u0441\u0441\u0430.",
+    "ko_KR": "\uc9c1\uc5c5\ubcc4 \ubb38\uc591 \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u88fd\u9020\u8077\u696d\u5c08\u7528\u7684\u96d5\u7d0b\u3002",
+    "zh_CN": "\u6559\u4f60\u5b66\u4f1a\u5236\u4f5c\u4e00\u4e2a\u804c\u4e1a\u4e13\u5c5e\u96d5\u6587\u3002"
+  }
 }

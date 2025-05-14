@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202918"
+  "SpellID": "202918",
+  "name_blz": {
+    "en_US": "Light of the Sun",
+    "es_MX": "Luz del sol",
+    "pt_BR": "Luz do Sol",
+    "de_DE": "Licht der Sonne",
+    "en_GB": "Light of the Sun",
+    "es_ES": "Luz del sol",
+    "fr_FR": "Lumi\u00e8re du soleil",
+    "it_IT": "Luce del Sole",
+    "ru_RU": "\u0421\u0432\u0435\u0442 \u0441\u043e\u043b\u043d\u0446\u0430",
+    "ko_KR": "\ud0dc\uc591\uc758 \uad11\ud718",
+    "zh_TW": "\u967d\u5149\u666e\u7167",
+    "zh_CN": "\u70c8\u65e5\u4e4b\u5149"
+  },
+  "description_blz": {
+    "en_US": "Reduces the remaining cooldown on Solar Beam by 15 sec when it interrupts the primary target.",
+    "es_MX": "Reduce 15 s el tiempo de reutilizaci\u00f3n restante de Rayo solar cuando interrumpe al objetivo principal.",
+    "pt_BR": "Reduz em 15 s a recarga restante de Raio Solar ao interromper o alvo principal.",
+    "de_DE": "Verringert die verbleibende Abklingzeit von 'Sonnenstrahl' um 15 Sek., wenn die F\u00e4higkeit das Prim\u00e4rziel unterbricht.",
+    "en_GB": "Reduces the remaining cooldown on Solar Beam by 15 sec when it interrupts the primary target.",
+    "es_ES": "Reduce 15 s el tiempo de reutilizaci\u00f3n restante de Rayo solar cuando interrumpe al objetivo principal.",
+    "fr_FR": "R\u00e9duit le temps de recharge restant de Rayon solaire de 15\u00a0s quand il interrompt la cible principale.",
+    "it_IT": "Riduce il tempo di recupero restante di Fascio Solare di 15 s quando interrompe il bersaglio primario.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0421\u0442\u043e\u043b\u043f\u0430 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0442\u0430\" \u043d\u0430 15 \u0441\u0435\u043a., \u0435\u0441\u043b\u0438 \u043e\u043d \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u0443\u044e \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\ud0dc\uc591 \uad11\uc120\uc774 \uc8fc \ub300\uc0c1\uc758 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\uba74 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u592a\u967d\u5149\u675f\u4e2d\u65b7\u4e3b\u8981\u76ee\u6a19\u6642\uff0c\u5269\u9918\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed15\u79d2\u3002",
+    "zh_CN": "\u5f53\u65e5\u5149\u672f\u6253\u65ad\u4e3b\u8981\u76ee\u6807\u7684\u65bd\u6cd5\u65f6\uff0c\u5176\u5269\u4f59\u7684\u51b7\u5374\u65f6\u95f4\u5c31\u4f1a\u7f29\u77ed15\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "200071"
+  "SpellID": "200071",
+  "name_blz": {
+    "en_US": "Undulation",
+    "es_MX": "Ondulaci\u00f3n",
+    "pt_BR": "Ondula\u00e7\u00e3o",
+    "de_DE": "Wogen",
+    "en_GB": "Undulation",
+    "es_ES": "Ondulaci\u00f3n",
+    "fr_FR": "Ondulation",
+    "it_IT": "Ondeggiamento",
+    "ru_RU": "\u041f\u0443\u043b\u044c\u0441\u0430\u0446\u0438\u044f",
+    "ko_KR": "\uae30\ubcf5",
+    "zh_TW": "\u6cbb\u7642\u6ce2\u52d5",
+    "zh_CN": "\u6ce2\u52a8"
+  },
+  "description_blz": {
+    "en_US": "Every third Healing Wave or Healing Surge heals for an additional 50%.",
+    "es_MX": "Cada tercera Ola de sanaci\u00f3n u Oleada de sanaci\u00f3n sana un 50% adicional.",
+    "pt_BR": "Cada terceira Onda Curativa ou Mar\u00e9 Curativa cura mais 50%.",
+    "de_DE": "Die hervorgerufene Heilung jedes dritten Einsatzes von 'Welle der Heilung' oder 'Heilende Woge' wird um 50% erh\u00f6ht.",
+    "en_GB": "Every third Healing Wave or Healing Surge heals for an additional 50%.",
+    "es_ES": "Cada tercera Ola de sanaci\u00f3n u Oleada de sanaci\u00f3n sana un 50% extra.",
+    "fr_FR": "Une Vague de soins ou un Afflux de soins sur trois rend 50% de points de vie suppl\u00e9mentaires.",
+    "it_IT": "Aumenta le cure fornite da ogni terza Ondata di Cura o Eruzione Benefica del 50%.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u0430\u044f \u0442\u0440\u0435\u0442\u044c\u044f \"\u0412\u043e\u043b\u043d\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u0438\u043b\u0438 \"\u0418\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a\" \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 50% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc138 \ubc88\uc9f8 \uce58\uc720\uc758 \ubb3c\uacb0 \ub610\ub294 \uce58\uc720\uc758 \ud30c\ub3c4\ub294 \uce58\uc720\ub7c9\uc774 50%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6bcf\u65bd\u653e\u4e09\u6b21\u6cbb\u7642\u6ce2\u6216\u6d36\u6e67\u6cbb\u7642\u6642\uff0c\u7b2c\u4e09\u6b21\u65bd\u6cd5\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u6bcf\u65bd\u653e\u4e24\u4e2a\u6cbb\u7597\u6ce2\u6216\u6cbb\u7597\u4e4b\u6d8c\uff0c\u4e0b\u4e00\u4e2a\u6cbb\u7597\u6ce2\u6216\u6cbb\u7597\u4e4b\u6d8c\u5c06\u989d\u5916\u6062\u590d50%\u7684\u751f\u547d\u503c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207778"
+  "SpellID": "207778",
+  "name_blz": {
+    "en_US": "Downpour",
+    "es_MX": "Diluvio",
+    "pt_BR": "Borrasca",
+    "de_DE": "Platzregen",
+    "en_GB": "Downpour",
+    "es_ES": "Chaparr\u00f3n",
+    "fr_FR": "Giboul\u00e9e",
+    "it_IT": "Nubifragio",
+    "ru_RU": "\u041b\u0438\u0432\u043d\u0435\u0432\u044b\u0439 \u0434\u043e\u0436\u0434\u044c",
+    "ko_KR": "\ud3ed\uc6b0",
+    "zh_TW": "\u6e67\u6cc9\u6cbb\u7642",
+    "zh_CN": "\u503e\u76c6\u5927\u96e8"
+  },
+  "description_blz": {
+    "en_US": "A burst of water at your Healing Rain's location heals up to 5 injured allies within 12 yards for 12,294 and increases their maximum health by 10% for 6 sec.",
+    "es_MX": "Un brote de agua en la ubicaci\u00f3n de tu Lluvia de sanaci\u00f3n sana 12,402 p. a un m\u00e1ximo de 5 aliados heridos en un radio de 12 m y aumenta su salud m\u00e1xima un 10% durante 6 s.",
+    "pt_BR": "Uma explos\u00e3o de \u00e1gua no local da Chuva Curativa cura at\u00e9 5 aliados feridos em um raio de 12 m por 12.273 e aumenta em 10% seu m\u00e1ximo de pontos de vida por 6 s.",
+    "de_DE": "Ein Wasserschwall an der Position Eures Effekts 'Heilender Regen' heilt bis zu 5 verletzte Verb\u00fcndete innerhalb von 12 Metern um 12.044 Gesundheit und erh\u00f6ht f\u00fcr 6 Sek. ihre maximale Gesundheit um 10%.",
+    "en_GB": "A burst of water at your Healing Rain's location heals up to 5 injured allies within 12 yards for 12,000 and increases their maximum health by 10% for 6 sec.",
+    "es_ES": "Una corriente de agua en la ubicaci\u00f3n de T\u00f3tem emergente sana 12053 p. a un m\u00e1ximo de 5 aliados heridos en un radio de 12 m y aumenta un 10% su salud m\u00e1xima durante 6 s.",
+    "fr_FR": "Une salve d\u2019eau \u00e0 l\u2019emplacement de votre Pluie gu\u00e9risseuse soigne jusqu\u2019\u00e0 5\u00a0personnages alli\u00e9s bless\u00e9s \u00e0 moins de 12\u00a0m pendant 11871 et augmente leur maximum de points de vie de 10\u00a0% pendant 6 s.",
+    "it_IT": "Una scarica d'acqua sulla posizione di Pioggia Curativa cura fino a 5 alleati feriti entro 12 m di 12.414 e ne aumenta la salute massima del 10% per 6 s.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0426\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043b\u0438\u0432\u043d\u044f\" \u043f\u043e\u0442\u043e\u043a \u0432\u043e\u0434\u044b, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0438\u0439 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0440\u0430\u043d\u0435\u043d\u044b\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 12 \u043c 12291 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0446\u0435\u043b\u0435\u0439 \u043d\u0430 10% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uce58\uc720\uc758 \ube44\uc758 \ubaa9\ud45c \uc9c0\uc810\uc5d0 \ubb3c\uc774 \uc19f\uad6c\uccd0 \ubc18\uacbd 12\ubbf8\ud130 \ub0b4\uc758 \ucd5c\ub300 5\uba85\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc744 12,281\ub9cc\ud07c \uce58\uc720\ud558\uace0 6\ucd08 \ub3d9\uc548 \ucd5c\ub300 \uc0dd\uba85\ub825\uc744 10%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6cbb\u7652\u4e4b\u96e8\u7684\u4f4d\u7f6e\u6703\u5674\u51fa\u4e00\u9053\u6e67\u6cc9\uff0c\u6700\u591a\u53ef\u6cbb\u764212\u78bc\u7bc4\u570d\u51675\u4f4d\u53d7\u50b7\u76df\u53cb\uff0c\u70ba\u5176\u6062\u5fa911,983\u9ede\u751f\u547d\u529b\uff0c\u4e26\u4f7f\u4ed6\u5011\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad810%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5728\u6cbb\u7597\u4e4b\u96e8\u7684\u4f4d\u7f6e\u503e\u6ce8\u96e8\u6c34\uff0c\u4e3a12\u7801\u5185\u6700\u591a5\u540d\u53d7\u4f24\u7684\u76df\u53cb\u6062\u590d12,206\u70b9\u751f\u547d\u503c\uff0c\u5e76\u4e14\u4f7f\u5176\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad810%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

@@ -34,5 +34,29 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "211417"
+  "SpellID": "211417",
+  "name_blz": {
+    "en_US": "Item - Monk T19 Brewmaster 4P Bonus",
+    "es_MX": "Item - Monk T19 Brewmaster 4P Bonus",
+    "pt_BR": "Item - Monk T19 Brewmaster 4P Bonus",
+    "en_GB": "Item - Monk T19 Brewmaster 4P Bonus",
+    "it_IT": "Item - Monk T19 Brewmaster 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc218\ub3c4\uc0ac T19 \uc591\uc870 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Monk T19 Brewmaster 4P Bonus",
+    "zh_CN": "\u5957\u88c5\u7279\u6548\u5360\u4f4d"
+  },
+  "description_blz": {
+    "en_US": "Tiger Palm reduces the remaining cooldown on your brews by an additional 1 sec.",
+    "es_MX": "Palma del tigre reduce el tiempo de reutilizaci\u00f3n de tus brebajes 1 s m\u00e1s.",
+    "pt_BR": "Palma do Tigre reduz em mais 1 s a recarga restante das suas cervejas.",
+    "de_DE": "'Tigerklaue' verringert die verbleibende Abklingzeit Eurer Gebr\u00e4ue um zus\u00e4tzlich 1 Sek.",
+    "en_GB": "Tiger Palm reduces the remaining cooldown on your brews by an additional 1 sec.",
+    "es_ES": "Palma del tigre reduce 1 s m\u00e1s el tiempo de reutilizaci\u00f3n restante de tus brebajes.",
+    "fr_FR": "Paume du tigre r\u00e9duit de 1\u00a0s suppl\u00e9mentaire le temps de recharge restant de vos breuvages.",
+    "it_IT": "Palmo della Tigre riduce il tempo di recupero restante delle tue Birre di 1 s aggiuntivo.",
+    "ru_RU": "\"\u041b\u0430\u043f\u0430 \u0442\u0438\u0433\u0440\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0442\u0432\u0430\u0440\u043e\u0432 \u0435\u0449\u0435 \u043d\u0430 1 \u0441\u0435\u043a.",
+    "ko_KR": "\ubc94\uc758 \uc7a5\ud48d\uc774 \uac01\uc885 \ub9e5\uc8fc\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 \ucd94\uac00\ub85c 1\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u864e\u638c\u53ef\u8b93\u7d55\u91c0\u6280\u80fd\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\u984d\u5916\u7e2e\u77ed1\u79d2\u3002",
+    "zh_CN": "\u731b\u864e\u638c\u4f7f\u4f60\u7684\u9152\u7c7b\u6280\u80fd\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u989d\u5916\u7f29\u77ed1\u79d2\u3002"
+  }
 }

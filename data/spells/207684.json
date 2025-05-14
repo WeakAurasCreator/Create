@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207684"
+  "SpellID": "207684",
+  "name_blz": {
+    "en_US": "Sigil of Misery",
+    "es_MX": "Sello de miseria",
+    "pt_BR": "Signo da Afli\u00e7\u00e3o",
+    "de_DE": "Zeichen des Elends",
+    "en_GB": "Sigil of Misery",
+    "es_ES": "Sigilo de desgracia",
+    "fr_FR": "Sigil de supplice",
+    "it_IT": "Sigillo della Miseria",
+    "ru_RU": "\u041f\u0435\u0447\u0430\u0442\u044c \u0441\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u044f",
+    "ko_KR": "\ubd88\ud589\uc758 \uc778\uc7a5",
+    "zh_TW": "\u82e6\u96e3\u7b26\u5370",
+    "zh_CN": "\u60b2\u82e6\u5492\u7b26"
+  },
+  "description_blz": {
+    "en_US": "Place a Sigil of Misery at the target location that activates after 2 sec.\r\n\r\nCauses all enemies affected by the sigil to cower in fear, disorienting them for 15 sec.",
+    "es_MX": "Coloca un Sello de miseria en la ubicaci\u00f3n objetivo, que se activa despu\u00e9s de 2 s.\r\n\r\nHace que todos los enemigos afectados por el sigilo se encojan del miedo y queden desorientados durante 15 s.",
+    "pt_BR": "Posiciona no local selecionado um Signo da Afli\u00e7\u00e3o que se ativa ap\u00f3s 2 s.\r\n\r\nFaz com que todos os inimigos afetados pelo signo fujam de medo, desnorteando-os por 15 s.",
+    "de_DE": "Platziert ein Zeichen des Elends an Eurer Position, das sich nach 2 Sek. aktiviert.\r\n\r\nL\u00e4sst alle Gegner im Wirkungsbereich vor Angst erstarren. Ziele sind 15 Sek. lang desorientiert.",
+    "en_GB": "Place a Sigil of Misery at the target location that activates after 2 sec.\r\n\r\nCauses all enemies affected by the sigil to cower in fear, disorienting them for 15 sec.",
+    "es_ES": "Coloca un sigilo de desgracia en la ubicaci\u00f3n seleccionada que se activa despu\u00e9s de 2 s.\r\n\r\nProvoca que todos los enemigos afectados por el sigilo se encojan de miedo. Los objetivos quedan desorientados durante 15 s.",
+    "fr_FR": "Vous placez \u00e0 l\u2019endroit cibl\u00e9 un sigil de supplice qui s\u2019active au bout de 2 s.\r\n\r\nOblige les ennemis affect\u00e9s \u00e0 se recroqueviller sous l\u2019effet de la peur et les d\u00e9soriente pendant 15 s.",
+    "it_IT": "Piazza sulla posizione bersaglio un Sigillo della Miseria che si attiva dopo 2 s.\r\n\r\nTutti i nemici affetti dal sigillo tremano di paura e restano disorientati per 15 s.",
+    "ru_RU": "\u0420\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u043c \u043c\u0435\u0441\u0442\u0435 \u043f\u0435\u0447\u0430\u0442\u044c \u0441\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 2 \u0441\u0435\u043a.\r\n\r\n\u041f\u043e\u0440\u0430\u0436\u0430\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u043f\u0435\u0447\u0430\u0442\u044c \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0438\u0445 \u0441\u044a\u0435\u0436\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u0441\u0442\u0440\u0430\u0445\u0430, \u0434\u0435\u0437\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u0443\u044f \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1 \uc704\uce58\uc5d0 \ubd88\ud589\uc758 \uc778\uc7a5\uc744 \uc0dd\uc131\ud558\uace0 2\ucd08 \ud6c4 \ud65c\uc131\ud654\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uc778\uc7a5\uc758 \uc601\ud5a5\uc744 \ubc1b\ub294 \ubaa8\ub4e0 \uc801\uc740 \uacf5\ud3ec\uc5d0 \uc9c8\ub824 \uc81c\uc790\ub9ac\uc5d0\uc11c \ub5a8\uac8c \ub418\uba70, 15\ucd08 \ub3d9\uc548 \ubc29\ud5a5 \uac10\uac01\uc744 \uc0c1\uc2e4\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u76ee\u6a19\u5730\u9ede\u653e\u7f6e\u82e6\u96e3\u7b26\u5370\uff0c\u4e26\u57282\u79d2\u4e4b\u5f8c\u751f\u6548\u3002\r\n\r\n\u7b26\u5370\u6703\u4f7f\u6240\u6709\u53d7\u5f71\u97ff\u7684\u6575\u4eba\u60f6\u6050\u754f\u7e2e\uff0c\u9677\u5165\u56f0\u60d1\u72c0\u614b\uff0c\u6301\u7e8c15\u79d2\u3002",
+    "zh_CN": "\u5728\u76ee\u6807\u4f4d\u7f6e\u653e\u7f6e\u4e00\u4e2a\u60b2\u82e6\u5492\u7b26\uff0c\u4e8e2\u79d2\u540e\u6fc0\u6d3b\u3002\r\n\r\n\u6240\u6709\u53d7\u5230\u5492\u7b26\u5f71\u54cd\u7684\u654c\u4eba\u5c06\u5728\u6050\u60e7\u4e2d\u754f\u7f29\uff0c\u8ff7\u60d115\u79d2\u3002"
+  }
 }

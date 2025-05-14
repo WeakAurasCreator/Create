@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "225580"
+  "SpellID": "225580",
+  "name_blz": {
+    "en_US": "Champion: Koltira",
+    "es_MX": "Campe\u00f3n: Koltira",
+    "pt_BR": "Campe\u00e3o: Koltirus",
+    "de_DE": "Champion: Koltira",
+    "en_GB": "Champion: Koltira",
+    "es_ES": "Campe\u00f3n: Koltira",
+    "fr_FR": "Champion\u00a0: Koltira",
+    "it_IT": "Campione: Koltira",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u041a\u043e\u043b\u044c\u0442\u0438\u0440\u0430",
+    "ko_KR": "\uc6a9\uc0ac: \ucf5c\ud2f0\ub77c",
+    "zh_TW": "\u52c7\u58eb\uff1a\u5bc7\u723e\u63d0\u62c9",
+    "zh_CN": "\u52c7\u58eb\uff1a\u5e93\u5c14\u8fea\u62c9"
+  },
+  "description_blz": {
+    "en_US": "Within the ranks of the Ebon Blade there are few death knights who can match the swiftness and agility of Koltira Deathweaver. His prowess with the runeblade is legendary.",
+    "es_MX": "Dentro de los rangos de la Espada de \u00c9bano hay pocos Caballeros de la Muerte que igualan la presteza y agilidad de Koltira Tejemuerte. Su habilidad con la hojarruna es legendaria.",
+    "pt_BR": "H\u00e1 poucos cavaleiros da morte nas fileiras da L\u00e2mina de \u00c9bano capazes de se equiparar \u00e0 velocidade e \u00e0 agilidade de Koltirus Tecemorte. A habilidade de Koltirus no uso da l\u00e2mina r\u00fanica \u00e9 lend\u00e1ria.",
+    "de_DE": "In den Reihen der Schwarzen Klinge gibt es nur wenige Todesritter, die es mit Koltira Todeswebers Schnelligkeit und Beweglichkeit aufnehmen k\u00f6nnen. Seine F\u00e4higkeiten im Umgang mit der Runenklinge sind legend\u00e4r.",
+    "en_GB": "Within the ranks of the Ebon Blade there are few death knights who can match the swiftness and agility of Koltira Deathweaver. His prowess with the runeblade is legendary.",
+    "es_ES": "En las filas de la Espada de \u00c9bano, pocos caballeros de la Muerte hay tan prestos y \u00e1giles como Koltira Tejemuerte. Su destreza con la hojarruna es legendaria.",
+    "fr_FR": "Rares sont les chevaliers de la mort dans les rangs de la Lame d\u2019\u00e9b\u00e8ne capables de rivaliser avec la rapidit\u00e9 et l\u2019agilit\u00e9 de Koltira Tissemort. Sa ma\u00eetrise de la lame runique est l\u00e9gendaire.",
+    "it_IT": "Tra i ranghi dei Cavalieri della Spada d'Ebano ci sono pochi Cavalieri della Morte che possono eguagliare la rapidit\u00e0 e l'agilit\u00e0 di Koltira Plasmamorte. La sua abilit\u00e0 con la lama runica \u00e8 leggendaria.",
+    "ru_RU": "\u0412 \u043e\u0440\u0434\u0435\u043d\u0435 \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043b\u0438\u043d\u043a\u0430 \u043c\u0430\u043b\u043e \u043a\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u0441\u0440\u0430\u0432\u043d\u0438\u0442\u044c\u0441\u044f \u0441 \u041a\u043e\u043b\u044c\u0442\u0438\u0440\u043e\u0439 \u0422\u043a\u0430\u0447\u043e\u043c \u0421\u043c\u0435\u0440\u0442\u0438 \u0432 \u0431\u044b\u0441\u0442\u0440\u043e\u0442\u0435 \u0440\u0435\u0430\u043a\u0446\u0438\u0438 \u0438 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0439. \u041e\u043d \u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u044b\u0439 \u043c\u0430\u0441\u0442\u0435\u0440 \u0440\u0443\u043d\u043d\u043e\u0433\u043e \u043a\u043b\u0438\u043d\u043a\u0430.",
+    "ko_KR": "\uce60\ud751\uc758 \uae30\uc0ac\ub2e8\uc5d0\uc11c\ub3c4 \ucf5c\ud2f0\ub77c \ub370\uc2a4\uc704\ubc84\uc758 \ubbfc\ucca9\uc131\uacfc \ub0a0\ub835\ud568\uc5d0 \uacac\uc904 \uc218 \uc788\ub294 \uc8fd\uc74c\uc758 \uae30\uc0ac\ub294 \ub9ce\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uadf8\uc758 \ub8ec\uac80 \uc19c\uc528\ub294 \uac00\ud788 \uc804\uc124\uc801\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u9eef\u5203\u7684\u540c\u4f34\u4e4b\u4e2d\uff0c\u6c92\u6709\u5e7e\u4f4d\u6b7b\u4ea1\u9a0e\u58eb\u7684\u8fc5\u6377\u548c\u654f\u92b3\u80fd\u8d85\u8d8a\u5bc7\u723e\u63d0\u62c9\u2027\u4ea1\u7e54\u8005\u3002\u4ed6\u5728\u99d5\u99ad\u7b26\u6587\u5203\u7684\u8d85\u51e1\u6280\u8853\u5df2\u7d93\u662f\u50b3\u5947\u5883\u754c\u3002",
+    "zh_CN": "\u5728\u9ed1\u950b\u9a91\u58eb\u56e2\u5185\u90e8\uff0c\u51e0\u4e4e\u6ca1\u6709\u5176\u4ed6\u6b7b\u4ea1\u9a91\u58eb\u7684\u901f\u5ea6\u548c\u654f\u6377\u53ef\u4ee5\u548c\u5e93\u5c14\u8fea\u62c9\u00b7\u7ec7\u4ea1\u8005\u76f8\u63d0\u5e76\u8bba\u3002\u4ed6\u6325\u821e\u7b26\u6587\u5251\u4f5c\u6218\u7684\u6280\u5de7\u65e9\u5df2\u51fa\u795e\u5165\u5316\u3002"
+  }
 }
