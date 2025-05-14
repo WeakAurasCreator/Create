@@ -278,6 +278,7 @@ function createPiAuraEntry(spec,spellIds, targetArray, loadInEncounter){
   setDeBuffType(buffTrigger, "buff");
   addSpecId(buffTrigger, spec.specId);
   addTrigger(aura, buffTrigger);
+  setTriggerIncludesPets(buffTrigger, true);
 
   let piCooldownTrigger = JSON.parse(JSON.stringify(Triggers.cooldown)); // get a copy of the pi cooldown Trigger Template
   addTrigger(aura, piCooldownTrigger);

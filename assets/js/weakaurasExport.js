@@ -171,6 +171,11 @@ function setSpellIds(trigger, spellIds, useExactSpellId = false) {
   return trigger;
 }
 
+function setTriggerIncludesPets(trigger, includePets) {
+  trigger.trigger.use_includePets = includePets;
+  trigger.trigger.includePets = "PlayersAndPets";
+}
+
 function setAnchorPerFrame(aura, anchorFrame) {
   aura.anchorPerUnit = anchorFrame;
   aura.useAnchorPerUnit = true;
