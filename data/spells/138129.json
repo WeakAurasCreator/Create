@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "138129"
+  "SpellID": "138129",
+  "name_blz": {
+    "en_US": "Item - Warlock T15 DPS 2P Bonus",
+    "es_MX": "Item - Warlock T15 DPS 2P Bonus",
+    "pt_BR": "Item - Warlock T15 DPS 2P Bonus",
+    "en_GB": "Item - Warlock T15 DPS 2P Bonus",
+    "es_ES": "Item - Warlock T15 DPS 2P Bonus",
+    "it_IT": "Item - Warlock T15 DPS 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ud751\ub9c8\ubc95\uc0ac T15 DPS 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Warlock T15 DPS 2P Bonus",
+    "zh_CN": "Item - Warlock T15 DPS 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "While Dark Soul is active, Haunt's duration is increased by 4 sec, Chaos Bolt and Shadowburn consume 20% less Embers, and abilities cost 30% less Demonic Fury.",
+    "es_MX": "Mientras Alma oscura est\u00e1 activa, la duraci\u00f3n de Poseer aumenta 4 s, Descarga de Caos y Quemadura de las Sombras consumen un 20% menos de ascuas y las facultades cuestan un 30% menos de furia demon\u00edaca.",
+    "pt_BR": "Enquanto Alma Negra estiver ativa, a dura\u00e7\u00e3o da sua habilidade Assombrar \u00e9 aumentada em 4 s, Seta do Caos e Sombra Ardente consomem 20% a menos de Brasas e as habilidades custam 30% a menos de F\u00faria Demon\u00edaca.",
+    "de_DE": "W\u00e4hrend 'Finstere Seele' aktiv ist, wird die Effektdauer von 'Heimsuchung' um 4 Sek. erh\u00f6ht, 'Chaosblitz' und 'Schattenbrand' verbrauchen 20% weniger instabile Funken und Eure F\u00e4higkeiten kosten 30% weniger D\u00e4monischen Furor.",
+    "en_GB": "While Dark Soul is active, Haunt's duration is increased by 4 sec, Chaos Bolt and Shadowburn consume 20% less Embers, and abilities cost 30% less Demonic Fury.",
+    "es_ES": "Mientras Alma oscura est\u00e1 activa, la duraci\u00f3n de Poseer aumenta 4 s, Descarga de Caos y Quemadura de las Sombras consumen un 20% menos de ascuas y las facultades cuestan un 30% menos de furia demon\u00edaca.",
+    "fr_FR": "Tant qu\u2019\u00c2me sombre est active, la dur\u00e9e de Hanter est augment\u00e9e de 4 s, Trait du chaos et Br\u00fblure de l\u2019ombre consomment 20% de Braises en moins, et les techniques co\u00fbtent 30% de Fureur d\u00e9moniaque en moins.",
+    "it_IT": "Quando Anima Oscura \u00e8 attiva, la durata di Tormento aumenta di 4 s, il consumo di braci di Dardo del Caos e Combustione dell'Ombra si riduce del 20% e il costo in furia demoniaca delle abilit\u00e0 si riduce del 30%.",
+    "ru_RU": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0427\u0435\u0440\u043d\u043e\u0439 \u0434\u0443\u0448\u0438\" \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \"\u0411\u043b\u0443\u0436\u0434\u0430\u044e\u0449\u0435\u0433\u043e \u0434\u0443\u0445\u0430\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 4 \u0441\u0435\u043a., \"\u0421\u0442\u0440\u0435\u043b\u0430 \u0425\u0430\u043e\u0441\u0430\" \u0438 \"\u041e\u0436\u043e\u0433 \u0422\u044c\u043c\u044b\" \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0442 \u043d\u0430 20% \u043c\u0435\u043d\u044c\u0448\u0435 \u0440\u0430\u0441\u043a\u0430\u043b\u0435\u043d\u043d\u044b\u0445 \u0443\u0433\u043b\u0435\u0439, \u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0441\u0442\u043e\u044f\u0442 \u043d\u0430 30% \u043c\u0435\u043d\u044c\u0448\u0435 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u044f\u0440\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\uc545\ub9c8\uc758 \uc601\ud63c\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\uc73c\uba74, \uc720\ub839 \ucd9c\ubab0\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 4\ucd08\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \ud63c\ub3c8\uc758 \ud654\uc0b4\uacfc \uc5b4\ub460\uc758 \uc5f0\uc18c\uc5d0 \uc18c\ube44\ub418\ub294 \ubd88\uc528\uac00 20%\ub9cc\ud07c \uac10\uc18c\ud558\uba70, \uae30\uc220 \uc0ac\uc6a9\uc5d0 \uc18c\ube44\ub418\ub294 \uc545\ub9c8\uc758 \ubd84\ub178\uac00 30%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u9ed1\u95c7\u4e4b\u9b42\u7684\u6301\u7e8c\u671f\u9593\u5167\uff0c\u8755\u9b42\u8853\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95774\u79d2\uff0c\u6df7\u6c8c\u7bad\u548c\u6697\u5f71\u707c\u71d2\u6d88\u8017\u7684\u71c3\u706b\u9918\u71fc\u6e1b\u5c1120%\uff0c\u4e26\u4e14\u6280\u80fd\u6d88\u8017\u7684\u60e1\u9b54\u4e4b\u6012\u6e1b\u5c1130%\u3002",
+    "zh_CN": "\u5f53\u9ed1\u6697\u7075\u9b42\u6fc0\u6d3b\u65f6\uff0c\u9b3c\u5f71\u7f20\u8eab\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f4\u79d2\uff0c\u6df7\u4e71\u4e4b\u7bad\u548c\u6697\u5f71\u707c\u70e7\u6240\u6d88\u8017\u7684\u7070\u70ec\u51cf\u5c1120%\uff0c\u6280\u80fd\u6240\u6d88\u8017\u7684\u6076\u9b54\u4e4b\u6012\u964d\u4f4e30%\u3002"
+  }
 }

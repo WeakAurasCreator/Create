@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "138343"
+  "SpellID": "138343",
+  "name_blz": {
+    "en_US": "Item - Death Knight T15 DPS 2P Bonus",
+    "es_MX": "Item - Death Knight T15 DPS 2P Bonus",
+    "pt_BR": "Item - Death Knight T15 DPS 2P Bonus",
+    "en_GB": "Item - Death Knight T15 DPS 2P Bonus",
+    "es_ES": "Item - Death Knight T15 DPS 2P Bonus",
+    "it_IT": "Item - Death Knight T15 DPS 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fd\uc74c\uc758 \uae30\uc0ac T15 DPS 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Death Knight T15 DPS 2P Bonus",
+    "zh_CN": "Item - Death Knight T15 DPS 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your attacks have a chance to raise the spirit of a fallen Zandalari as your Death Knight minion for 15 sec.  (Approximately 1.15 procs per minute)",
+    "es_MX": "Tus ataques tienen una probabilidad de levantar el esp\u00edritu de un Zandalari ca\u00eddo para que act\u00fae como tu esbirro de caballero de la Muerte durante 15 s. (Aproximadamente 1.15 procs por minuto).",
+    "pt_BR": "Seus ataques t\u00eam chance de ressuscitar o esp\u00edrito de um Zandalari morto na forma de seu lacaio de Cavaleiro da Morte por 15 s. (Aproximadamente 1,15 procs por min)",
+    "de_DE": "Eure Angriffe haben eine Chance, einen gefallenen Zandalari f\u00fcr 15 Sek. als Euren Todesritterdiener auferstehen zu lassen. (Ungef\u00e4hr 1,15 Ausl\u00f6sungen pro Minute)",
+    "en_GB": "Your attacks have a chance to raise the spirit of a fallen Zandalari as your Death Knight minion for 15 sec.  (Approximately 1.15 procs per minute)",
+    "es_ES": "Tus ataques tienen una probabilidad de levantar el esp\u00edritu de un Zandalari ca\u00eddo para que act\u00fae como tu esbirro de caballero de la Muerte durante 15 s (aproximadamente 1,15 procs por minuto).",
+    "fr_FR": "Vos attaques ont une chance de rappeler l\u2019esprit d\u2019un Zandalari tomb\u00e9 au combat qui sera votre serviteur pendant 15 s. (Approximativement 1,15 d\u00e9clenchements par minute)",
+    "it_IT": "Gli attacchi hanno una probabilit\u00e0 di far risorgere uno Zandalari Caduto come tuo servitore di Cavaliere della Morte per 15 s. (circa 1,15 attivazioni ogni minuto)",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0430\u0442\u0430\u043a\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0438\u0442\u044c \u043f\u0430\u0432\u0448\u0435\u0433\u043e \u0437\u0430\u043d\u0434\u0430\u043b\u0430\u0440\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u0442\u0430\u043d\u0435\u0442 \u0432\u0430\u0448\u0438\u043c \u043f\u0440\u0438\u0441\u043b\u0443\u0436\u043d\u0438\u043a\u043e\u043c \u2013 \u0440\u044b\u0446\u0430\u0440\u0435\u043c \u0441\u043c\u0435\u0440\u0442\u0438 \u043d\u0430 15 \u0441\u0435\u043a. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e 1,15 \u0440\u0430\u0437 \u0432 \u043c\u0438\u043d\u0443\u0442\u0443.",
+    "ko_KR": "\uacf5\uaca9 \uc2dc \uc77c\uc815 \ud655\ub960\ub85c, \uc804\uc0ac\ud55c \uc794\ub2ec\ub77c \ubd80\uc871\uc774 \uc8fd\uc74c\uc758 \uae30\uc0ac\ub85c \ub418\uc0b4\uc544\ub098 \uc804\ud22c\ub97c \ub3d5\uc2b5\ub2c8\ub2e4. 15\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4. (\ubd84\ub2f9 \uc57d 1.15\ubc88 \ubc1c\ub3d9)",
+    "zh_TW": "\u4f60\u7684\u653b\u64ca\u6709\u4e00\u5b9a\u6a5f\u7387\u5fa9\u6d3b\u4e00\u500b\u9663\u4ea1\u7684\u8d0a\u9054\u62c9\u807d\u5f9e\u6b7b\u4ea1\u9a0e\u58eb\u7684\u865f\u4ee4\uff0c\u6301\u7e8c15\u79d2\u3002(\u6bcf\u5206\u9418\u5927\u7d04\u53ef\u89f8\u767c1.15\u6b21)",
+    "zh_CN": "\u4f60\u7684\u653b\u51fb\u6709\u4e00\u5b9a\u51e0\u7387\u590d\u6d3b\u4e00\u540d\u5012\u4e0b\u7684\u8d5e\u8fbe\u62c9\u5de8\u9b54\uff0c\u4f7f\u5176\u6210\u4e3a\u4f60\u7684\u6b7b\u4ea1\u9a91\u58eb\u4ec6\u4ece\uff0c\u6301\u7eed15\u79d2\uff08\u6bcf\u5206\u949f\u5927\u7ea6\u89e6\u53d11.15\u6b21\uff09\u3002"
+  }
 }
