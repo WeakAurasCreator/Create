@@ -22,8 +22,8 @@ Promise.all(piAuraFetches)
     }, new Map());
 
     // sort each array in the Map
-    for (const bucket of dpsLookup.values()) {
-      bucket.sort((a, b) => b.dps_with_pi - a.dps_with_pi);
+    for (let bucket of dpsLookup.values()) {
+      bucket.sort((a, b) => b.dps_delta - a.dps_delta);
     }
     renderAllExplanations()
   })
