@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "233377"
+  "SpellID": "233377",
+  "name_blz": {
+    "en_US": "Gaze of Aman'Thul",
+    "es_MX": "Mirada de Aman'Thul",
+    "pt_BR": "Olhar de Aman'Thul",
+    "de_DE": "Blick von Aman'thul",
+    "en_GB": "Gaze of Aman'Thul",
+    "es_ES": "Mirada de Aman'thul",
+    "fr_FR": "Regard d'Aman'Thul",
+    "it_IT": "Sguardo di Aman'thul",
+    "ru_RU": "\u0412\u0437\u043e\u0440 \u0410\u043c\u0430\u043d'\u0442\u0443\u043b\u0430",
+    "ko_KR": "\uc544\ub9cc\ud234\uc758 \uc751\uc2dc",
+    "zh_TW": "\u963f\u66fc\u8607\u723e\u4e4b\u8996",
+    "zh_CN": "\u963f\u66fc\u82cf\u5c14\u7684\u51dd\u89c6"
+  },
+  "description_blz": {
+    "en_US": "Uniting the Pillars of Creation attracts the Gaze of Aman'thul which grants you the opportunity to revive outdoors in the Broken Isles once every 30 minutes.  ",
+    "es_MX": "Unir los Pilares de la Creaci\u00f3n atrae la Mirada de Aman'thul, lo que te otorga la oportunidad de revivir en el exterior de las Islas Quebradas una vez cada 30 minutos.  ",
+    "pt_BR": "Unir os Pilares da Cria\u00e7\u00e3o atrai o Olhar de Aman'Thul, que lhe d\u00e1 a chance de reviver em \u00e1reas abertas das Ilhas Partidas uma vez a cada 30 minutos.  ",
+    "de_DE": "Das Zusammenf\u00fchren der S\u00e4ulen der Sch\u00f6pfung lenkt den Blick von Aman'thul auf Euch. Dadurch k\u00f6nnt Ihr Euch auf den Verheerten Inseln im Freien alle 30 Min. wiederbeleben.",
+    "en_GB": "Uniting the Pillars of Creation attracts the Gaze of Aman'thul which grants you the opportunity to revive outdoors in the Broken Isles once every 30 minutes.  ",
+    "es_ES": "Unir los Pilares de la Creaci\u00f3n atrae la Mirada de Aman'thul, que te otorga la oportunidad de revivir en el exterior en las Islas Abruptas una vez cada 30 minutos.",
+    "fr_FR": "R\u00e9unir les piliers de la Cr\u00e9ation attire le Regard d\u2019Aman\u2019Thul, ce qui vous permet de ressusciter dans les zones en ext\u00e9rieur des \u00eeles Bris\u00e9es une fois toutes les 30 minutes.",
+    "it_IT": "Unire i Pilastri della Creazione attrae lo Sguardo di Aman'thul, che fornisce una possibilit\u00e0 di resuscitare all'esterno sulle Isole Disperse al massimo una volta ogni 30 min.",
+    "ru_RU": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0441\u0442\u043e\u043b\u043f\u043e\u0432 \u0421\u043e\u0437\u0438\u0434\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u043b\u043e \u0432\u0437\u043e\u0440 \u0410\u043c\u0430\u043d'\u0442\u0443\u043b\u0430, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0439 \u0432\u0430\u043c \u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0430\u0442\u044c \u043d\u0430 \u0420\u0430\u0441\u043a\u043e\u043b\u043e\u0442\u044b\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u0430\u0445 \u043f\u043e\u0434 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u043d\u0435\u0431\u043e\u043c \u0440\u0430\u0437 \u0432 30 \u043c\u0438\u043d\u0443\u0442.",
+    "ko_KR": "\ucc3d\uc870\uc758 \uadfc\uc6d0\uc744 \ud1b5\ud569\uc2dc\ucf1c \uc544\ub9cc\ud234\uc758 \uc751\uc2dc \ud6a8\uacfc\ub97c \ubc1b\uc2b5\ub2c8\ub2e4. \ubd80\uc11c\uc9c4 \uc12c\uc758 \uc57c\uc678\uc5d0\uc11c, 30\ubd84\uc5d0 \ud55c \ubc88 \uc529 \ub418\uc0b4\uc544\ub0a0 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7d50\u5408\u5275\u4e16\u4e4b\u67f1\uff0c\u5438\u5f15\u963f\u66fc\u8607\u723e\u4e4b\u8996\uff0c\u4f7f\u4f60\u53ef\u4ee5\u5728\u7834\u788e\u7fa4\u5cf6\u6236\u5916\u5fa9\u6d3b\uff0c\u6bcf30\u5206\u9418\u53ef\u4f7f\u7528\u4e00\u6b21\u3002",
+    "zh_CN": "\u96c6\u9f50\u521b\u4e16\u4e4b\u67f1\u5438\u5f15\u4e86\u963f\u66fc\u82cf\u5c14\u7684\u51dd\u89c6\uff0c\u4f7f\u4f60\u6709\u673a\u4f1a\u5728\u7834\u788e\u7fa4\u5c9b\u7684\u91ce\u5916\u533a\u57df\u539f\u5730\u590d\u6d3b\uff0c\u6bcf30\u5206\u949f\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }
