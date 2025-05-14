@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "138159"
+  "SpellID": "138159",
+  "name_blz": {
+    "en_US": "Item - Paladin T15 Retribution 2P Bonus",
+    "es_MX": "Item - Paladin T15 Retribution 2P Bonus",
+    "pt_BR": "Item - Paladin T15 Retribution 2P Bonus",
+    "en_GB": "Item - Paladin T15 Retribution 2P Bonus",
+    "es_ES": "Item - Paladin T15 Retribution 2P Bonus",
+    "it_IT": "Item - Paladin T15 Retribution 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc131\uae30\uc0ac T15 \uc9d5\ubc8c 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Paladin T15 Retribution 2P Bonus",
+    "zh_CN": "Item - Paladin T15 Retribution 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Exorcism causes your target to take 6% increased Holy damage from your attacks for 6 sec.",
+    "es_MX": "Exorcismo provoca que tu objetivo reciba un 6% de da\u00f1o Sagrado aumentado de tus ataques durante 6 s.",
+    "pt_BR": "Seu Exorcismo faz com que o seu alvo receba 6% a mais de dano Sagrado dos seus ataques por 6 s.",
+    "de_DE": "Euer Zauber 'Exorzismus' erh\u00f6ht den durch Eure Angriffe erlittenen Heiligschaden des Ziels 6 Sek. lang um 6%.",
+    "en_GB": "Your Exorcism causes your target to take 6% increased Holy damage from your attacks for 6 sec.",
+    "es_ES": "Exorcismo provoca que tu objetivo reciba un 6% de da\u00f1o Sagrado aumentado de tus ataques durante 6 s.",
+    "fr_FR": "Votre Exorcisme fait subir \u00e0 votre cible des d\u00e9g\u00e2ts du Sacr\u00e9 augment\u00e9s de 6% quand vous l\u2019attaquez, pendant 6 s.",
+    "it_IT": "Esorcismo aumenta i danni da sacro inflitti dai tuoi attacchi del 6% per 6 s.",
+    "ru_RU": "\u0426\u0435\u043b\u044c \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u042d\u043a\u0437\u043e\u0440\u0446\u0438\u0437\u043c\" \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 6 \u0441\u0435\u043a. \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043e\u0442 \u0432\u0430\u0448\u0438\u0445 \u0430\u0442\u0430\u043a \u0443\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 6% \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\ud1f4\ub9c8\uc220\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \ub300\uc0c1\uc5d0\uac8c \uc785\ud788\ub294 \uc2e0\uc131 \ud53c\ud574\uac00 6\ucd08 \ub3d9\uc548 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u9a45\u90aa\u8853\u6703\u4f7f\u4f60\u7684\u653b\u64ca\u5c0d\u8a72\u76ee\u6a19\u9020\u6210\u7684\u795e\u8056\u50b7\u5bb3\u63d0\u9ad86%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u4f60\u7684\u9a71\u90aa\u672f\u53ef\u4f7f\u4f60\u5bf9\u76ee\u6807\u9020\u6210\u7684\u795e\u5723\u4f24\u5bb3\u63d0\u9ad86%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }
