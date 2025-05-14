@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "205037"
+  "SpellID": "205037",
+  "name_blz": {
+    "en_US": "Flame Patch",
+    "es_MX": "Zona en llamas",
+    "pt_BR": "\u00c1rea em Chamas",
+    "de_DE": "Flammenfeld",
+    "en_GB": "Flame Patch",
+    "es_ES": "Zona en llamas",
+    "fr_FR": "Gerbe de flammes",
+    "it_IT": "Pozza delle Fiamme",
+    "ru_RU": "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u043b\u0435\u0434",
+    "ko_KR": "\ud654\uc5fc \ud30c\ud3b8",
+    "zh_TW": "\u70c8\u7130\u4e4b\u5730",
+    "zh_CN": "\u70c8\u7130\u4e4b\u5730"
+  },
+  "description_blz": {
+    "en_US": "Flamestrike leaves behind a patch of flames that burns enemies within it for 2,320 Fire damage over 8 sec. Deals reduced damage beyond 8 targets.",
+    "es_MX": "Fogonazo deja un parche de llamas a su paso que quema a los enemigos en su interior, lo que inflige 2,320 p. de da\u00f1o de fuego durante 8 s. Inflige menos da\u00f1o cuando golpea a m\u00e1s de 8 objetivos.",
+    "pt_BR": "Golpe Flamejante deixa um foco de inc\u00eandio que queima inimigos que estiverem ali dentro, causando 2.320 de dano de Fogo ao longo de 8 s. O dano \u00e9 reduzido a partir de 8 alvos.",
+    "de_DE": "'Flammensto\u00df' hinterl\u00e4sst ein Flammenfeld, das Gegnern in seinem Effektbereich im Verlauf von 8 Sek. 2.320 Feuerschaden zuf\u00fcgt. F\u00fcgt Zielen \u00fcber 8 Ziele hinaus verringerten Schaden zu.",
+    "en_GB": "Flamestrike leaves behind a patch of flames that burns enemies within it for 2,320 Fire damage over 8 sec. Deals reduced damage beyond 8 targets.",
+    "es_ES": "Fogonazo deja tras de s\u00ed una zona de llamas que quema a los enemigos y les inflige 2320 p. de da\u00f1o de Fuego durante 8 s. Inflige da\u00f1o reducido si afecta a m\u00e1s de 8 objetivos.",
+    "fr_FR": "Choc de flammes embrase le sol, ce qui br\u00fble les ennemis pr\u00e9sents et leur inflige 2320\u00a0points de d\u00e9g\u00e2ts de feu en 8 s. D\u00e9g\u00e2ts r\u00e9duits au-del\u00e0 de 8\u00a0cibles.",
+    "it_IT": "Colonna di Fuoco crea una pozza di fiamme che brucia i nemici nell'area d'effetto, infliggendo 2.320 danni da fuoco in 8 s. Danni ridotti oltre 8 bersagli.",
+    "ru_RU": "\"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u043e\u043b\u0431\" \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0437\u0430 \u0441\u043e\u0431\u043e\u0439 \u043e\u0447\u0430\u0433 \u043f\u043b\u0430\u043c\u0435\u043d\u0438, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u0432 \u043d\u0435\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c 2320 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 8-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d.",
+    "ko_KR": "\ubd88\uae30\ub465\uc774 \ubd88\uae38 \uc790\uad6d\uc744 \ub0a8\uaca8 \uadf8 \uc548\uc5d0 \uc11c \uc788\ub294 \uc801\uc744 \ubd88\ud0dc\uc6cc 8\ucd08\uc5d0 \uac78\uccd0 2,320\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ub300\uc0c1\uc774 8\uba85\uc744 \ucd08\uacfc\ud558\uba74 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u70c8\u7130\u98a8\u66b4\u6703\u7559\u4e0b\u4e00\u5730\u70c8\u7130\uff0c\u57288\u79d2\u5167\u5c0d\u7559\u5728\u88e1\u9762\u7684\u6575\u4eba\u9020\u62102,320\u9ede\u706b\u7130\u50b7\u5bb3\u3002\u8d85\u904e8\u500b\u76ee\u6a19\u6642\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e\u3002",
+    "zh_CN": "\u70c8\u7130\u98ce\u66b4\u7559\u4e0b\u4e00\u7247\u70c8\u7130\u4e4b\u5730\uff0c\u70e7\u707c\u533a\u57df\u5185\u7684\u654c\u4eba\uff0c\u57288\u79d2\u5185\u9020\u62102,320\u70b9\u706b\u7130\u4f24\u5bb3\u3002\u76ee\u6807\u6570\u91cf\u8d85\u8fc78\u4e2a\u540e\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e"
+  }
 }

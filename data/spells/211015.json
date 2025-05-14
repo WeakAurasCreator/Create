@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "211015"
+  "SpellID": "211015",
+  "name_blz": {
+    "en_US": "Hex",
+    "es_MX": "Maleficio",
+    "pt_BR": "Bagata",
+    "de_DE": "Verhexen",
+    "en_GB": "Hex",
+    "es_ES": "Maleficio",
+    "fr_FR": "Mal\u00e9fice",
+    "it_IT": "Maleficio",
+    "ru_RU": "\u0421\u0433\u043b\u0430\u0437",
+    "ko_KR": "\uc0ac\uc220",
+    "zh_TW": "\u5996\u8853",
+    "zh_CN": "\u5996\u672f"
+  },
+  "description_blz": {
+    "en_US": "Transforms the enemy into a cockroach for 1 min. While hexed, the victim is incapacitated, and cannot attack or cast spells. Damage may cancel the effect. Limit 1. Only works on Humanoids and Beasts.",
+    "es_MX": "Transforma al enemigo en una cucaracha durante 1 min. Al estar hechizada, la v\u00edctima queda incapacitada y no puede atacar ni lanzar hechizos. El da\u00f1o puede cancelar el efecto. L\u00edmite de 1. Solo funciona con humanoides y bestias.",
+    "pt_BR": "Transforma um inimigo em barata por 1 min. Enquanto est\u00e1 transformada, a v\u00edtima fica incapacitada e n\u00e3o pode atacar nem lan\u00e7ar feiti\u00e7os. Receber dano pode cancelar o efeito. Limite de 1. S\u00f3 funciona em Humanoides e Feras.",
+    "de_DE": "Verwandelt den Gegner f\u00fcr 1 Min. in eine Kakerlake. W\u00e4hrend das Ziel verhext ist, ist es handlungsunf\u00e4hig und kann weder angreifen noch Zauber wirken. Schaden kann den Effekt beenden. Maximal 1 Ziel. Kann nur auf Humanoide und Wildtiere angewandt werden.",
+    "en_GB": "Transforms the enemy into a cockroach for 1 min. While hexed, the victim is incapacitated, and cannot attack or cast spells. Damage may cancel the effect. Limit 1. Only works on Humanoids and Beasts.",
+    "es_ES": "Transforma al enemigo en una cucaracha durante 1 min. Mientras est\u00e1 embrujada, la v\u00edctima queda incapacitada y no puede atacar ni lanzar hechizos. El da\u00f1o puede cancelar el efecto. Limitado a 1. Solo funciona con humanoides y bestias.",
+    "fr_FR": "Transforme l\u2019ennemi en cafard pendant 1 min. Tant que dure le mal\u00e9fice, la cible est stup\u00e9fi\u00e9e et ne peut ni attaquer, ni lancer de sorts. Si elle subit des d\u00e9g\u00e2ts, l\u2019effet peut \u00eatre annul\u00e9. Limit\u00e9 \u00e0 une cible. Ne fonctionne que sur les humano\u00efdes et les b\u00eates.",
+    "it_IT": "Trasforma il nemico in uno scarafaggio per 1 min. In questo stato, il bersaglio \u00e8 inabilitato e non pu\u00f2 attaccare o lanciare incantesimi. Eventuali danni potrebbero annullare l'effetto. L'effetto pu\u00f2 essere attivo su un solo bersaglio alla volta. Funziona solo su umanoidi e bestie.",
+    "ru_RU": "\u041f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0432 \u0442\u0430\u0440\u0430\u043a\u0430\u043d\u0430 \u043d\u0430 1 \u043c\u0438\u043d. \u0426\u0435\u043b\u044c, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0430\u044f\u0441\u044f \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0441\u0433\u043b\u0430\u0437\u0430, \u043f\u0430\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u0438 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043d\u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c, \u043d\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f. \u041d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u044b\u0439 \u0446\u0435\u043b\u0438 \u0443\u0440\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0441\u043d\u044f\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0446\u0435\u043b\u0435\u0439 \u2013 1. \u0414\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0433\u0443\u043c\u0430\u043d\u043e\u0438\u0434\u043e\u0432 \u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445.",
+    "ko_KR": "1\ubd84 \ub3d9\uc548 \uc801\uc744 \ubc14\ud034\ubc8c\ub808\ub85c \ubcc0\uc2e0\uc2dc\ud0b5\ub2c8\ub2e4. \uc0ac\uc220\uc5d0 \uac78\ub9b0 \ub300\uc0c1\uc740 \uacf5\uaca9\ud558\uac70\ub098 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub300\uc0c1\uc774 \ud53c\ud574\ub97c \uc785\uc73c\uba74 \ud6a8\uacfc\uac00 \ud574\uc81c\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub300\uc0c1\uc740 \ud558\ub098\ub85c \uc81c\ud55c\ub429\ub2c8\ub2e4. \uc57c\uc218\uc640 \uc778\uac04\ud615\uc5d0\uac8c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u6575\u4eba\u8b8a\u5f62\u6210\u4e00\u96bb\u87d1\u8782\uff0c\u6301\u7e8c1\u5206\u9418\u3002\u5728\u5996\u8853\u5f71\u97ff\u4e0b\uff0c\u76ee\u6a19\u6703\u7671\u7613\u4e14\u7121\u6cd5\u653b\u64ca\u6216\u65bd\u6cd5\u3002\u50b7\u5bb3\u6703\u79fb\u9664\u6b64\u6548\u679c\u3002\u6700\u591a\u5f71\u97ff1\u500b\u76ee\u6a19\u3002\u53ea\u5c0d\u4eba\u5f62\u751f\u7269\u548c\u91ce\u7378\u6709\u6548\u3002",
+    "zh_CN": "\u5c06\u654c\u4eba\u53d8\u6210\u4e00\u53ea\u87d1\u8782\uff0c\u6301\u7eed1\u5206\u949f\u3002\u53d7\u5996\u672f\u5f71\u54cd\u671f\u95f4\u76ee\u6807\u5c06\u762b\u75ea\uff0c\u4e0d\u80fd\u653b\u51fb\u6216\u65bd\u6cd5\u3002\u4efb\u4f55\u4f24\u5bb3\u90fd\u6709\u53ef\u80fd\u6253\u65ad\u8be5\u6548\u679c\u3002\u53ea\u80fd\u5f71\u54cd\u4e00\u4e2a\u76ee\u6807\u3002\u53ea\u80fd\u5bf9\u4eba\u578b\u751f\u7269\u548c\u91ce\u517d\u4f7f\u7528\u3002"
+  }
 }

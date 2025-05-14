@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "200851"
+  "SpellID": "200851",
+  "name_blz": {
+    "en_US": "Rage of the Sleeper",
+    "es_MX": "Ira del Durmiente",
+    "pt_BR": "F\u00faria do Adormecido",
+    "de_DE": "Zorn des Schl\u00e4fers",
+    "en_GB": "Rage of the Sleeper",
+    "es_ES": "Ira del durmiente",
+    "fr_FR": "Rage du dormeur",
+    "it_IT": "Rabbia del Dormiente",
+    "ru_RU": "\u042f\u0440\u043e\u0441\u0442\u044c \u0421\u043f\u044f\u0449\u0435\u0433\u043e",
+    "ko_KR": "\uc7a0\uc790\ub294 \uc790\uc758 \ubd84\ub178",
+    "zh_TW": "\u6c89\u7761\u8005\u4e4b\u6012",
+    "zh_CN": "\u6c89\u7761\u8005\u4e4b\u6012"
+  },
+  "description_blz": {
+    "en_US": "Unleashes the rage of Ursoc for 8 sec, preventing 20% of all damage you take, increasing your damage done by 15%, granting you 20% leech, and reflecting 250 Nature damage back at your attackers.",
+    "es_MX": "Desata la ira de Ursoc durante 8 s, lo que evita un 20% de todo el da\u00f1o que recibes, aumenta un 15% el da\u00f1o que infliges, te otorga un 20% de absorci\u00f3n de vida y refleja 250 p. de da\u00f1o de Naturaleza a tus atacantes.",
+    "pt_BR": "Libera a f\u00faria de Ursoc por 8 s, evitando 20% de todo o dano recebido, aumentando em 15% o dano causado, concedendo 20% de sorver e refletindo 250 de dano de Natureza de volta para os seus atacantes.",
+    "de_DE": "Entfesselt 8 Sek. lang die Wut von Ursoc, die 20% Eures erlittenen Schadens verhindert, Euren verursachten Schaden um 15% erh\u00f6ht, Euch 20% Lebensraub gew\u00e4hrt und 250 Naturschaden auf Eure Angreifer zur\u00fcckwirft.",
+    "en_GB": "Unleashes the rage of Ursoc for 8 sec, preventing 20% of all damage you take, increasing your damage done by 15%, granting you 20% leech, and reflecting 250 Nature damage back at your attackers.",
+    "es_ES": "Desata la ira de Ursoc durante 8 s, lo que evita un 20% de todo el da\u00f1o que recibes, aumenta un 15% el que infliges, te otorga un 20% de parasitar y refleja 250 p. de da\u00f1o de Naturaleza a tus atacantes.",
+    "fr_FR": "D\u00e9cha\u00eene la rage d\u2019Ursoc pendant 8 s, ce qui annule 20% des d\u00e9g\u00e2ts subis, augmente les d\u00e9g\u00e2ts que vous infligez de 15%, vous conf\u00e8re 20% de Ponction et renvoie 250\u00a0points de d\u00e9g\u00e2ts de nature aux attaquants.",
+    "it_IT": "Scatena la rabbia di Ursoc per 8 s, bloccando il 20% dei danni subiti, aumentando i danni inflitti del 15%, fornendo il 20% di Ritorno Vitale e riflettendo 250 danni da natura agli attaccanti.",
+    "ru_RU": "\u0412\u044b \u0432\u044b\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442\u0435 \u044f\u0440\u043e\u0441\u0442\u044c \u0423\u0440\u0441\u043e\u043a\u0430, \u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 8 \u0441\u0435\u043a. 20% \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0433\u043e \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d\u0430 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u043e, \u0430 250 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u043e\u0431\u0440\u0430\u0442\u043d\u043e \u0432 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0432\u0448\u0438\u0445 \u0432 \u0432\u0438\u0434\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b. \u0412\u044b \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442\u0435 \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u044c \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u0440\u0430\u0437\u043c\u0435\u0440\u0435 20% \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "8\ucd08 \ub3d9\uc548 \uc6b0\ub974\uc18d\uc758 \ubd84\ub178\ub97c \ubc29\ucd9c\ud574 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\ub97c 20%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uace0, \uc8fc\ub294 \ud53c\ud574\ub97c 15%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uace0, 20%\uc758 \uc0dd\uae30\ud761\uc218\ub97c \ubd80\uc5ec\ud558\uba70 \uacf5\uaca9\uc790\uc5d0\uac8c 250\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \ubc18\uc0ac\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u91cb\u653e\u5384\u7d22\u514b\u4e4b\u6012\uff0c\u57288\u79d2\u5167\u964d\u4f4e\u4f60\u6240\u53d7\u50b7\u5bb3\u768420%\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\uff0c\u7372\u5f9720%\u6c72\u53d6\uff0c\u4e26\u4e14\u5c07\u653b\u64ca\u53cd\u5f48\u56de\u653b\u64ca\u8005\u8eab\u4e0a\uff0c\u5c0d\u5176\u9020\u6210250\u9ede\u81ea\u7136\u50b7\u5bb3\u3002",
+    "zh_CN": "\u91ca\u653e\u4e4c\u7d22\u514b\u7684\u6012\u706b\uff0c\u6301\u7eed8\u79d2\uff0c\u4f7f\u4f60\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e20%\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u83b7\u5f9720%\u7684\u5438\u8840\uff0c\u5e76\u5c06250\u70b9\u81ea\u7136\u4f24\u5bb3\u53cd\u5f39\u7ed9\u653b\u51fb\u8005\u3002"
+  }
 }

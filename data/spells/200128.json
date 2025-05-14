@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "200128"
+  "SpellID": "200128",
+  "name_blz": {
+    "en_US": "Trail of Light",
+    "es_MX": "Rastro de luz",
+    "pt_BR": "Trilha de Luz",
+    "de_DE": "Spur des Lichts",
+    "en_GB": "Trail of Light",
+    "es_ES": "Estela de Luz",
+    "fr_FR": "Tra\u00een\u00e9e de lumi\u00e8re",
+    "it_IT": "Scia di Luce",
+    "ru_RU": "\u0414\u043e\u0440\u043e\u0433\u0430 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \ud754\uc801",
+    "zh_TW": "\u8056\u5149\u986f\u8de1",
+    "zh_CN": "\u5149\u660e\u5c3e\u8ff9"
+  },
+  "description_blz": {
+    "en_US": "25% of healing done by Heal, Flash Heal, and Power Word: Life is replicated to the previous target you healed with those spells.",
+    "es_MX": "Un 25% de la sanaci\u00f3n realizada por Sanar, Sanaci\u00f3n rel\u00e1mpago y Palabra de poder: vida se replica en el objetivo anterior que hayas sanado con esos hechizos.",
+    "pt_BR": "25% da cura concedida com Cura, Cura C\u00e9lere e Palavra de Poder: Vida s\u00e3o replicados no alvo anterior curado com esses feiti\u00e7os.",
+    "de_DE": "25% der durch 'Heilung', 'Blitzheilung' und 'Machtwort: Leben' hervorgerufenen Heilung wird auf das Ziel repliziert, das Ihr vorher mit einem dieser Zauber geheilt habt.",
+    "en_GB": "25% of healing done by Heal, Flash Heal, and Power Word: Life is replicated to the previous target you healed with those spells.",
+    "es_ES": "Un 25% de la sanaci\u00f3n realizada con Sanaci\u00f3n, Sanaci\u00f3n rel\u00e1mpago y Palabra de poder: vida se replica al objetivo anterior de estos hechizos.",
+    "fr_FR": "25\u00a0% des soins prodigu\u00e9s par Soins, Soins rapides et Mot de pouvoir\u00a0: Vie sont dupliqu\u00e9s sur la cible pr\u00e9c\u00e9dente que vous avez soign\u00e9e avec ces sorts.",
+    "it_IT": "Il 25% delle cure fornite da Cura, Cura Rapida e Parola del Potere: Vita vengono replicate sul bersaglio precedente curato con quegli stessi incantesimi.",
+    "ru_RU": "\"\u0418\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\", \"\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u0438 \"\u0421\u043b\u043e\u0432\u043e \u0421\u0438\u043b\u044b: \u0416\u0438\u0437\u043d\u044c\" \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0439 \u0446\u0435\u043b\u0438 \u044d\u0442\u0438\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 25% .",
+    "ko_KR": "\uce58\uc720, \uc21c\uac04 \uce58\uc720, \uc2e0\uc758 \uad8c\ub2a5: \uc0dd\uba85\uc758 \uce58\uc720\ub7c9\uc758 25%\uac00 \ud574\ub2f9 \uc8fc\ubb38\uc73c\ub85c \uce58\uc720\ud55c \uc774\uc804 \ub300\uc0c1\uc5d0\uac8c \ubcf5\uc81c\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6cbb\u7642\u8853\u3001\u5feb\u901f\u6cbb\u7642\u548c\u771f\u8a00\u8853\uff1a\u547d\u9020\u6210\u6cbb\u7642\u6548\u679c\u6642\uff0c\u524d\u4e00\u500b\u9019\u4e9b\u6cd5\u8853\u7684\u76ee\u6a19\u53ef\u6062\u5fa9\u76f8\u7576\u65bc\u6b64\u6b21\u6cbb\u7642\u6548\u679c25%\u7684\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u6cbb\u7597\u672f\u3001\u5feb\u901f\u6cbb\u7597\u548c\u771f\u8a00\u672f\uff1a\u547d\u9020\u6210\u768425%\u6cbb\u7597\u6548\u679c\u4f1a\u590d\u5236\u5230\u4f60\u4f7f\u7528\u8fd9\u4e9b\u6cd5\u672f\u6cbb\u7597\u7684\u4e0a\u4e00\u4e2a\u76ee\u6807\u8eab\u4e0a\u3002"
+  }
 }

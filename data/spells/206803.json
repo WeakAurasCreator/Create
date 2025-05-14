@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "206803"
+  "SpellID": "206803",
+  "name_blz": {
+    "en_US": "Rain from Above",
+    "es_MX": "Lluvia de lo alto",
+    "pt_BR": "Ataque A\u00e9reo",
+    "de_DE": "Teuflischer Niederschlag",
+    "en_GB": "Rain from Above",
+    "es_ES": "Lluvia de los cielos",
+    "fr_FR": "Pluie cinglante",
+    "it_IT": "Pioggia dall'Alto",
+    "ru_RU": "\u0423\u0434\u0430\u0440 \u0441 \u043d\u0435\u0431\u0435\u0441",
+    "ko_KR": "\ud558\ub298\uc5d0\uc11c \ub0b4\ub9ac\ub294 \ube44",
+    "zh_TW": "\u5f9e\u5929\u800c\u964d",
+    "zh_CN": "\u4ece\u5929\u800c\u964d"
+  },
+  "description_blz": {
+    "en_US": "You fly into the air out of harm's way. While floating, you gain access to Fel Lance allowing you to deal damage to enemies below. ",
+    "es_MX": "Te elevas en el aire para mantenerte lejos del peligro. Mientras flotas, tienes acceso a Lanza vil, que te permite infligir da\u00f1o a los enemigos que se encuentran debajo de ti. ",
+    "pt_BR": "Voc\u00ea voa para fora do alcance do perigo. Enquanto flutua, voc\u00ea ganha acesso \u00e0 Lan\u00e7a Vil, que permite causar dano aos inimigos abaixo. ",
+    "de_DE": "Ihr fliegt in die Luft und entgeht so Gefahren. W\u00e4hrend Ihr fliegt, erhaltet Ihr die F\u00e4higkeit 'Teufelslanze', mit der Ihr Gegnern unter Euch Schaden zuf\u00fcgen k\u00f6nnt.",
+    "en_GB": "You fly into the air out of harm's way. While floating, you gain access to Fel Lance allowing you to deal damage to enemies below. ",
+    "es_ES": "Sales volando para escapar del peligro. Mientras flotas, puedes usar Lanza vil, lo que te permite infligir da\u00f1o a los enemigos de abajo. ",
+    "fr_FR": "Vous vous envolez pour vous mettre hors de danger. Tant que vous flottez dans les airs, vous disposez de Lance gangren\u00e9e, qui vous permet d\u2019infliger des d\u00e9g\u00e2ts aux ennemis en contrebas.",
+    "it_IT": "Permette di alzarsi in volo, allontanandosi dal pericolo. Mentre si \u00e8 sospesi, \u00e8 possibile usare Dardo Vile per infliggere danni ai nemici sottostanti.",
+    "ru_RU": "\u0412\u044b \u0432\u0437\u043c\u044b\u0432\u0430\u0435\u0442\u0435 \u0432 \u0432\u043e\u0437\u0434\u0443\u0445, \u0441\u043f\u0430\u0441\u0430\u044f\u0441\u044c \u043e\u0442 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438. \u041f\u0430\u0440\u044f \u0432 \u0432\u043e\u0437\u0434\u0443\u0445\u0435, \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041a\u043e\u043f\u044c\u0435 \u0421\u043a\u0432\u0435\u0440\u043d\u044b\", \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043c\u043e\u0436\u043d\u043e \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0432\u0440\u0430\u0433\u043e\u0432 \u043f\u043e\u0434 \u0432\u0430\u043c\u0438.",
+    "ko_KR": "\uacf5\uc911\uc73c\ub85c \ub0a0\uc544\uc62c\ub77c \uc704\ud5d8\uc5d0\uc11c \ubc97\uc5b4\ub0a9\ub2c8\ub2e4. \ube44\ud589\ud558\ub294 \ub3d9\uc548 \uc9c0\uc625 \ucc3d \ub2a5\ub825\uc73c\ub85c \uc544\ub798\uc758 \uc801\uc744 \uacf5\uaca9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u98db\u5165\u7a7a\u4e2d\uff0c\u8eb2\u907f\u6575\u65b9\u653b\u64ca\u3002\u5728\u6ed1\u7fd4\u671f\u9593\uff0c\u4f60\u53ef\u4ee5\u65bd\u653e\u9b54\u5316\u9577\u77db\u5c0d\u4e0b\u65b9\u6575\u4eba\u9020\u6210\u50b7\u5bb3\u3002 ",
+    "zh_CN": "\u4f60\u98de\u5411\u7a7a\u4e2d\uff0c\u907f\u5f00\u4f24\u5bb3\u3002\u6d6e\u7a7a\u671f\u95f4\u4f60\u53ef\u4ee5\u65bd\u653e\u90aa\u80fd\u4e4b\u67aa\uff0c\u5bf9\u5730\u9762\u4e0a\u7684\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u3002"
+  }
 }

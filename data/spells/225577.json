@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "225577"
+  "SpellID": "225577",
+  "name_blz": {
+    "en_US": "Champion: Nazgrim",
+    "es_MX": "Campe\u00f3n: Nazgrim",
+    "pt_BR": "Campe\u00e3o: Nazgrim",
+    "de_DE": "Champion: Nazgrim",
+    "en_GB": "Champion: Nazgrim",
+    "es_ES": "Campe\u00f3n: Nazgrim",
+    "fr_FR": "Champion\u00a0: Nazgrim",
+    "it_IT": "Campione: Nazgrim",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u041d\u0430\u0437\u0433\u0440\u0438\u043c",
+    "ko_KR": "\uc6a9\uc0ac: \ub098\uc988\uadf8\ub9bc",
+    "zh_TW": "\u52c7\u58eb\uff1a\u7d0d\u8332\u683c\u5be7\u59c6",
+    "zh_CN": "\u52c7\u58eb\uff1a\u7eb3\u5179\u6208\u6797"
+  },
+  "description_blz": {
+    "en_US": "In life, Nazgrim was one of the greatest generals of the Horde. In death, he is a powerful champion of the Ebon Blade. Few, living or dead, can match his might in battle.",
+    "es_MX": "En vida, Nazgrim fue uno de los mayores generales de la Horda. Ya muerto, es un poderoso campe\u00f3n de la Espada de \u00c9bano. Muy pocos, vivos o muertos, pueden igualar sus habilidades de batalla.",
+    "pt_BR": "Quando vivo, Nazgrim foi um dos maiores generais que a Horda j\u00e1 teve. Agora que est\u00e1 morto, ele \u00e9 um campe\u00e3o poderoso da L\u00e2mina de \u00c9bano. S\u00e3o poucos, seja dentre os vivos ou dentre os mortos, que podem se equiparar \u00e0 for\u00e7a do cavaleiro em combate.",
+    "de_DE": "Im Leben war Nazgrim einer der gr\u00f6\u00dften Gener\u00e4le der Horde. Im Tod ist er ein m\u00e4chtiger Champion der Schwarzen Klinge. Nur wenige, ob lebendig oder tot, k\u00f6nnen sich im Kampf mit ihm messen.",
+    "en_GB": "In life, Nazgrim was one of the greatest generals of the Horde. In death, he is a powerful champion of the Ebon Blade. Few, living or dead, can match his might in battle.",
+    "es_ES": "En vida, Nazgrim fue uno de los grandes generales de la Horda. En muerte, es un poderoso campe\u00f3n de la Espada de \u00c9bano. Pocos, vivos o muertos, igualan su poder\u00edo en la batalla.",
+    "fr_FR": "Nazgrim fut de son vivant l\u2019un des plus grands g\u00e9n\u00e9raux de la Horde, et la mort en fit un puissant champion de la Lame d\u2019\u00e9b\u00e8ne. Rares sont ceux qui peuvent rivaliser avec lui sur le champ de bataille.",
+    "it_IT": "In vita, Nazgrim fu uno dei pi\u00f9 grandi generali dell'Orda. Nella morte, \u00e8 un potente campione della Spada d'Ebano. Pochi, vivi o morti, possono eguagliare la sua forza in battaglia.",
+    "ru_RU": "\u041f\u0440\u0438 \u0436\u0438\u0437\u043d\u0438 \u041d\u0430\u0437\u0440\u0433\u0438\u043c \u0431\u044b\u043b \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0432\u0435\u043b\u0438\u0447\u0430\u0439\u0448\u0438\u0445 \u0432\u043e\u0435\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u041e\u0440\u0434\u044b. \u041f\u043e\u0441\u043b\u0435 \u0441\u043c\u0435\u0440\u0442\u0438 \u043e\u043d \u0441\u0442\u0430\u043b \u043c\u043e\u0433\u0443\u0447\u0438\u043c \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u043e\u043c \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043b\u0438\u043d\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u043d\u0435\u0442 \u0440\u0430\u0432\u043d\u044b\u0445 \u043d\u0430 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f \u043d\u0438 \u0441\u0440\u0435\u0434\u0438 \u0436\u0438\u0432\u044b\u0445, \u043d\u0438 \u0441\u0440\u0435\u0434\u0438 \u043c\u0435\u0440\u0442\u0432\u044b\u0445.",
+    "ko_KR": "\ub098\uc988\uadf8\ub9bc\uc740 \uc0dd\uc804\uc5d0 \uac00\uc7a5 \ud6cc\ub96d\ud55c \ud638\ub4dc \uc7a5\uad70 \uc911 \ud558\ub098\uc600\uc73c\uba70 \uc8fd\uc740 \ub4a4 \uce60\ud751\uc758 \uae30\uc0ac\ub2e8\uc758 \uac15\ub825\ud55c \uc6a9\uc0ac\uac00 \ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc0dd\uc0ac\ub97c \ub9c9\ub860\ud558\uace0 \uc804\ud22c\uc5d0\uc11c \uadf8\uc758 \ud798\uc744 \ub2f9\ud574\ub0bc \uc790\ub294 \uac70\uc758 \uc5c6\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6d3b\u8457\u7684\u6642\u5019 \uff0c\u7d0d\u8332\u683c\u5be7\u59c6\u662f\u90e8\u843d\u6700\u5049\u5927\u7684\u5c07\u8ecd\u4e4b\u4e00\u3002\u6b7b\u5f8c\uff0c\u4ed6\u6210\u70ba\u9eef\u5203\u7684\u5f37\u5927\u52c7\u58eb\u3002\u4e0d\u8ad6\u751f\u524d\u6b7b\u5f8c\uff0c\u80fd\u5920\u5728\u6230\u9b25\u4e2d\u548c\u4ed6\u5c0d\u6297\u7684\u4eba\u5c11\u4e4b\u53c8\u5c11\u3002",
+    "zh_CN": "\u7eb3\u5179\u6208\u6797\u751f\u524d\u66fe\u662f\u90e8\u843d\u6700\u4f1f\u5927\u7684\u5c06\u9886\u4e4b\u4e00\u3002\u6b7b\u540e\uff0c\u4ed6\u6210\u4e3a\u4e86\u9ed1\u950b\u9a91\u58eb\u56e2\u7684\u5f3a\u5927\u52c7\u58eb\u3002\u65e0\u8bba\u662f\u6b7b\u662f\u6d3b\uff0c\u5f88\u5c11\u6709\u4eba\u53ef\u4ee5\u548c\u4ed6\u7684\u52c7\u731b\u76f8\u63d0\u5e76\u8bba\u3002"
+  }
 }

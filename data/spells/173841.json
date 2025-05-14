@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "173841"
+  "SpellID": "173841",
+  "name_blz": {
+    "en_US": "Pool of Mists",
+    "es_MX": "Charco de bruma",
+    "pt_BR": "Po\u00e7o das Brumas",
+    "de_DE": "Nebelmeer",
+    "en_GB": "Pool of Mists",
+    "es_ES": "Charco de nieblas",
+    "fr_FR": "Bassin des brumes",
+    "it_IT": "Pozza di Nebbie",
+    "ru_RU": "\u041e\u0431\u043b\u0430\u043a\u0430 \u0442\u0443\u043c\u0430\u043d\u0430",
+    "ko_KR": "\uc548\uac1c\uc758 \uc6c5\ub369\uc774",
+    "zh_TW": "\u8ff7\u9727\u4e4b\u6c60",
+    "zh_CN": "\u65e5\u5347\u96fe\u817e"
+  },
+  "description_blz": {
+    "en_US": "Renewing Mist now has 3 charges and reduces the remaining cooldown of Rising Sun Kick by 1.0 sec.\r\n\r\nRising Sun Kick now reduces the remaining cooldown of Renewing Mist by 1.0 sec.",
+    "es_MX": "Niebla renovadora ahora tiene 3 cargas y reduce el tiempo de reutilizaci\u00f3n restante de Patada de sol naciente en 1.0 s.\r\n\r\nPatada de sol naciente ahora reduce el tiempo de reutilizaci\u00f3n restante de Niebla renovadora en 1.0 s.",
+    "pt_BR": "O feiti\u00e7o Brumas da Renova\u00e7\u00e3o agora tem 3 cargas e reduz em 1,0 s a recarga restante de Chute do Sol Nascente.\r\n\r\nChute do Sol Nascente agora reduz em 1,0 s a recarga restante de Brumas da Renova\u00e7\u00e3o.",
+    "de_DE": "'Erneuernder Nebel' hat 3 Aufladungen und verringert die verbleibende Abklingzeit von 'Tritt der aufgehenden Sonne' um 1,0 Sek.\r\n\r\n'Tritt der aufgehenden Sonne' verringert die verbleibende Abklingzeit von 'Erneuernder Nebel' um 1,0 Sek.",
+    "en_GB": "Renewing Mist now has 3 charges and reduces the remaining cooldown of Rising Sun Kick by 1.0 sec.\r\n\r\nRising Sun Kick now reduces the remaining cooldown of Renewing Mist by 1.0 sec.",
+    "es_ES": "Ahora, Niebla renovadora tiene 3 cargas y reduce 1,0 s el tiempo de reutilizaci\u00f3n restante de Patada del sol naciente.\r\n\r\nAhora, Patada del sol naciente reduce 1,0 s el tiempo de reutilizaci\u00f3n restante de Niebla renovadora.",
+    "fr_FR": "Brume de r\u00e9novation dispose d\u00e9sormais de 3\u00a0charges et r\u00e9duit le temps de recharge restant de Coup de pied du soleil levant de 1,0\u00a0s.\r\n\r\nCoup de pied du soleil levant r\u00e9duit d\u00e9sormais le temps de recharge restant de Brume de r\u00e9novation de 1,0\u00a0s.",
+    "it_IT": "Nebbia Curativa ha 3 cariche e riduce il tempo di recupero restante di Calcio del Sole Nascente di 1,0 s.\r\n\r\nCalcio del Sole Nascente riduce il tempo di recupero restante di Nebbia Curativa di 1,0 s.",
+    "ru_RU": "\"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\" \u0442\u0435\u043f\u0435\u0440\u044c \u0438\u043c\u0435\u0435\u0442 3 \u0437\u0430\u0440\u044f\u0434\u0430 \u0438 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0423\u0434\u0430\u0440\u0430 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u043d\u0430 1,0 \u0441\u0435\u043a.\r\n\r\n\"\u0423\u0434\u0430\u0440 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u0442\u0435\u043f\u0435\u0440\u044c \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0442\u0443\u043c\u0430\u043d\u0430\" \u043d\u0430 1,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc18c\uc0dd\uc758 \uc548\uac1c\uac00 3\ud68c \ucda9\uc804\ub418\uace0 \ud574\uc624\ub984\ucc28\uae30\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ud574\uc624\ub984\ucc28\uae30\uac00 \uc18c\uc0dd\uc758 \uc548\uac1c\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u56de\u751f\u8ff7\u9727\u73fe\u5728\u53ef\u4f7f\u75283\u6b21\uff0c\u4e26\u4f7f\u7fd4\u967d\u8173\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002\r\n\r\n\u7fd4\u967d\u8173\u73fe\u5728\u6703\u4f7f\u56de\u751f\u8ff7\u9727\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002",
+    "zh_CN": "\u590d\u82cf\u4e4b\u96fe\u73b0\u5728\u53ef\u4ee5\u4f7f\u75283\u6b21\uff0c\u5e76\u4f7f\u65ed\u65e5\u4e1c\u5347\u8e22\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.0\u79d2\u3002\r\n\r\n\u65ed\u65e5\u4e1c\u5347\u8e22\u73b0\u5728\u4f7f\u590d\u82cf\u4e4b\u96fe\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.0\u79d2\u3002"
+  }
 }

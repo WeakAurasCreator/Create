@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "214634"
+  "SpellID": "214634",
+  "name_blz": {
+    "en_US": "Ebonbolt",
+    "es_MX": "Descarga de \u00c9bano",
+    "pt_BR": "Seta de \u00c9bano",
+    "de_DE": "Schwarzblitz",
+    "en_GB": "Ebonbolt",
+    "es_ES": "Descarga de \u00e9bano",
+    "fr_FR": "\u00c9clair d\u2019\u00e9b\u00e8ne",
+    "it_IT": "Dardo d'Ebano",
+    "ru_RU": "\u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430",
+    "ko_KR": "\uce60\ud751\ud654\uc0b4",
+    "zh_TW": "\u9eef\u51b0\u7bad",
+    "zh_CN": "\u9ed1\u51b0\u7bad"
+  },
+  "description_blz": {
+    "en_US": "Deals 17,805 Shadowfrost damage and causes Brain Freeze.",
+    "es_MX": "Inflige 17,805 p. de da\u00f1o de Friosombra y causa Congelaci\u00f3n cerebral.",
+    "pt_BR": "Causa 17.805 de dano de Sombra G\u00e9lida e aplica Congelamento Cerebral.",
+    "de_DE": "Verursacht 17.805 Schattenfrostschaden und l\u00f6st 'Hirnfrost' aus.",
+    "en_GB": "Deals 17,805 Shadowfrost damage and causes Brain Freeze.",
+    "es_ES": "Inflige 17805 p. de da\u00f1o de Fr\u00edosombra y provoca Congelaci\u00f3n cerebral.",
+    "fr_FR": "Inflige 17805\u00a0points de d\u00e9g\u00e2ts de Givre-ombre et applique Gel mental.",
+    "it_IT": "Infligge 17.805 danni da ombrogelo e ti fornisce l'effetto Mente Fredda.",
+    "ru_RU": "\u041d\u0430\u043d\u043e\u0441\u0438\u0442 17805 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430 \u0438 \u043d\u0430\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0417\u0430\u043c\u043e\u0440\u043e\u0437\u043a\u0430 \u043c\u043e\u0437\u0433\u043e\u0432\".",
+    "ko_KR": "17,805\uc758 \uc554\ud751\ub0c9\uae30 \ud53c\ud574\ub97c \uc785\ud788\uace0 \ub450\ub1cc \ube59\uacb0\uc744 \ubc1c\ub3d9\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9020\u621017,805\u9ede\u6697\u971c\u50b7\u5bb3\uff0c\u4e26\u9020\u6210\u8166\u90e8\u51cd\u7d50\u3002",
+    "zh_CN": "\u9020\u621017,805\u70b9\u6697\u5f71\u51b0\u971c\u4f24\u5bb3\uff0c\u5e76\u83b7\u5f97\u51b0\u51b7\u667a\u6167\u6548\u679c\u3002"
+  }
 }

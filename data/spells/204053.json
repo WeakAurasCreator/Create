@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "204053"
+  "SpellID": "204053",
+  "name_blz": {
+    "en_US": "Rend and Tear",
+    "es_MX": "Desgarrar y romper",
+    "pt_BR": "Rasgar e Despeda\u00e7ar",
+    "de_DE": "Bei\u00dfen und Rei\u00dfen",
+    "en_GB": "Rend and Tear",
+    "es_ES": "Desgarrar y rasgar",
+    "fr_FR": "Instinct sanguinaire",
+    "it_IT": "Impatto Lacerante",
+    "ru_RU": "\u042f\u0440\u043e\u0441\u0442\u043d\u043e\u0435 \u0440\u0430\u0437\u0440\u044b\u0432\u0430\u043d\u0438\u0435",
+    "ko_KR": "\uc0c1\ucc98 \ucc22\uae30",
+    "zh_TW": "\u788e\u88c2\u6495\u626f",
+    "zh_CN": "\u72c2\u4e71\u6495\u626f"
+  },
+  "description_blz": {
+    "en_US": "Each stack of Thrash reduces the target's damage to you by 2% and increases your damage to them by 2%.",
+    "es_MX": "Cada acumulaci\u00f3n de Vapulear reduce un 2% el da\u00f1o del objetivo en tu contra y aumenta un 2% el da\u00f1o que le infliges.",
+    "pt_BR": "Cada aplica\u00e7\u00e3o de Surra reduz em 2% o dano que o alvo causa a voc\u00ea e aumenta em 2% o dano que voc\u00ea causa a ele.",
+    "de_DE": "Jeder Stapel 'Hauen' verringert Euren durch das Ziel erlittenen Schaden um 2% und erh\u00f6ht Euren verursachten Schaden gegen dieses Ziel um 2%.",
+    "en_GB": "Each stack of Thrash reduces the target's damage to you by 2% and increases your damage to them by 2%.",
+    "es_ES": "Cada acumulaci\u00f3n de Vapulear reduce un 2% el da\u00f1o que recibes del objetivo y aumenta un 2% el da\u00f1o que le infliges.",
+    "fr_FR": "Chaque charge de la technique Rosser r\u00e9duit les d\u00e9g\u00e2ts que la cible vous inflige de 2% et augmente ceux que vous lui faites subir de 2%.",
+    "it_IT": "Ogni accumulo di Falciata riduce i danni a te inflitti dal bersaglio del 2% e aumenta i danni da te inflitti al bersaglio del 2%.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0412\u0437\u0431\u0443\u0447\u043a\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u0446\u0435\u043b\u0438, \u043d\u0430 2%, \u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u043e\u0442 \u0446\u0435\u043b\u0438, \u043d\u0430 2%.",
+    "ko_KR": "\ub09c\ud0c0 \uc911\ucca9\ub2f9 \ub300\uc0c1\uc73c\ub85c\ubd80\ud130 \ubc1b\ub294 \ud53c\ud574\ub294 2%\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \ub300\uc0c1\uc5d0 \ub300\ud55c \uc790\uc2e0\uc758 \uacf5\uaca9\ub825\uc740 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u5806\u758a\u4e00\u5c64\u75db\u64ca\uff0c\u53ef\u4f7f\u76ee\u6a19\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e2%\uff0c\u4e26\u4f7f\u4f60\u5c0d\u5176\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad82%\u3002",
+    "zh_CN": "\u6bcf\u4e00\u5c42\u75db\u51fb\u90fd\u4f1a\u4f7f\u76ee\u6807\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e2%\uff0c\u800c\u4f60\u5bf9\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad82%\u3002"
+  }
 }

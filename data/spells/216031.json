@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "216031"
+  "SpellID": "216031",
+  "name_blz": {
+    "en_US": "Champion: Belath Dawnblade",
+    "es_MX": "Campe\u00f3n: Belath Hojalba",
+    "pt_BR": "Campe\u00e3o: Belath Aurolume",
+    "de_DE": "Champion: Belath D\u00e4mmerklinge",
+    "en_GB": "Champion: Belath Dawnblade",
+    "es_ES": "Campe\u00f3n: Belath Hojalba",
+    "fr_FR": "Champion\u00a0: Belath Aubelame",
+    "it_IT": "Campione: Belath Lamachiara",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u0411\u0435\u043b\u0430\u0442 \u041a\u043b\u0438\u043d\u043e\u043a \u0420\u0430\u0441\u0441\u0432\u0435\u0442\u0430",
+    "ko_KR": "\uc6a9\uc0ac: \ubca8\ub77c\uc2a4 \ub3c8\ube14\ub808\uc774\ub4dc",
+    "zh_TW": "\u52c7\u58eb\uff1a\u8c9d\u62c9\u65af\u2027\u66e6\u5203",
+    "zh_CN": "\u52c7\u58eb\uff1a\u8d1d\u62c9\u65af\u00b7\u9ece\u660e\u4e4b\u5203"
+  },
+  "description_blz": {
+    "en_US": "One of the quieter Illidari, Belath nonetheless is also one of its most capable. He shows an incredible aptitude for scouting, stealth, and creative approaches to tactical situations.",
+    "es_MX": "Belath es uno de los Illidari m\u00e1s tranquilos, pero tambi\u00e9n uno de los m\u00e1s capaces. Demuestra una enorme aptitud en la exploraci\u00f3n, el sigilo y en los enfoques creativos en las situaciones t\u00e1cticas.",
+    "pt_BR": "Embora seja um dos Illidari mais quietos, Belath est\u00e1 entre os mais capazes. Ele demonstra uma incr\u00edvel aptid\u00e3o para escolta, furtividade e abordagem criativa em situa\u00e7\u00f5es t\u00e1ticas.",
+    "de_DE": "Obwohl er einer der stilleren Illidari ist, so ist Belath nichtsdestotrotz einer der f\u00e4higsten. Er zeigt eine ungeheure Bef\u00e4higung f\u00fcr Erkundung, Verstohlenheit und kreative Herangehensweisen an taktische Gegebenheiten.",
+    "en_GB": "One of the quieter Illidari, Belath nonetheless is also one of its most capable. He shows an incredible aptitude for scouting, stealth, and creative approaches to tactical situations.",
+    "es_ES": "Pese a ser uno de los Illidari m\u00e1s tranquilos, Belath es uno de los m\u00e1s capaces. Tiene unas dotes incre\u00edbles para la exploraci\u00f3n, para el sigilo y para enfocar de forma creativa las situaciones t\u00e1cticas.",
+    "fr_FR": "Illidari des plus discrets, Belath est \u00e9galement l\u2019un des plus comp\u00e9tents. En plus d\u2019un sens inn\u00e9 de la furtivit\u00e9, il t\u00e9moigne d\u2019une incroyable aptitude aux missions de reconnaissance et sait faire preuve de cr\u00e9ativit\u00e9 sur le plan tactique.",
+    "it_IT": "Belath \u00e8 uno degli Illidari pi\u00f9 silenziosi, ma anche dei pi\u00f9 capaci. Mostra un'attitudine incredibile per l'esplorazione, gli spostamenti furtivi e gli approcci creativi alle situazioni pi\u00f9 tattiche.",
+    "ru_RU": "\u0411\u0435\u043b\u0430\u0442 \u2013 \u043e\u0434\u0438\u043d \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043e\u0434\u0430\u0440\u0435\u043d\u043d\u044b\u0445 \u0438\u043b\u043b\u0438\u0434\u0430\u0440\u0438, \u0445\u043e\u0442\u044f \u0438 \u043e\u0442\u043b\u0438\u0447\u0430\u0435\u0442\u0441\u044f \u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u043c \u0434\u043b\u044f \u043d\u0438\u0445 \u0441\u043f\u043e\u043a\u043e\u0439\u0441\u0442\u0432\u0438\u0435\u043c. \u041e\u043d \u043f\u0440\u0438\u0440\u043e\u0436\u0434\u0435\u043d\u043d\u044b\u0439 \u0440\u0430\u0437\u0432\u0435\u0434\u0447\u0438\u043a \u0438 \u043c\u0430\u0441\u0442\u0435\u0440 \u043c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u0441\u0435\u0433\u0434\u0430 \u043d\u0430\u0439\u0434\u0435\u0442 \u043d\u0435\u043e\u0440\u0434\u0438\u043d\u0430\u0440\u043d\u043e\u0435 \u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0432 \u043b\u044e\u0431\u043e\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438.",
+    "ko_KR": "\ubca8\ub77c\uc2a4\ub294 \ub9d0\uc218\ub294 \uc801\uc9c0\ub9cc \uac00\uc7a5 \uc720\ub2a5\ud55c \uc77c\ub9ac\ub2e4\ub9ac \uc911 \ud55c \uba85\uc73c\ub85c \uc815\ucc30, \uc740\uc2e0\uc744 \ube44\ub86f\ud574 \uc804\uc220\uc801 \uc0c1\ud669\uc5d0 \ub300\ucc98\ud558\ub294 \uc21c\ubc1c\ub825\uc774 \ud0c1\uc6d4\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8c9d\u62c9\u65af\u662f\u4e00\u4f4d\u9591\u975c\u5be1\u8a00\u7684\u4f0a\u5229\u9054\u745e\uff0c\u4f46\u4e5f\u662f\u80fd\u529b\u6700\u51fa\u773e\u7684\u4e00\u4f4d\u3002\u4ed6\u5728\u5075\u5bdf\u3001\u6f5b\u884c\u548c\u6230\u8853\u903c\u8fd1\u7684\u5275\u610f\u4e0a\uff0c\u5c55\u73fe\u4e86\u6975\u4f73\u7684\u5929\u6027\u3002",
+    "zh_CN": "\u8d1d\u62c9\u65af\u662f\u4e00\u540d\u5c11\u8a00\u5be1\u8bed\u7684\u4f0a\u5229\u8fbe\u96f7\u6210\u5458\uff0c\u4f46\u4ed6\u4e5f\u662f\u6700\u6709\u80fd\u529b\u7684\u6210\u5458\u4e4b\u4e00\u3002\u4ed6\u5728\u4fa6\u5bdf\u3001\u6f5c\u884c\u3001\u6218\u7565\u521b\u65b0\u4e0a\u5177\u5907\u4e0d\u53ef\u601d\u8bae\u7684\u5929\u8d44\u548c\u80fd\u529b\u3002"
+  }
 }

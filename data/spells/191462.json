@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "191462"
+  "SpellID": "191462",
+  "name_blz": {
+    "en_US": "Ironhorn Leysmithing",
+    "es_MX": "Herrer\u00eda de piedra ley de los Ferrocorno",
+    "pt_BR": "Forja Meridional Chifre de Ferro",
+    "de_DE": "Leyschmieden der Eisenh\u00f6rner",
+    "en_GB": "Ironhorn Leysmithing",
+    "es_ES": "Herrer\u00eda de piedras Ley de los Cuerno F\u00e9rreo",
+    "fr_FR": "Forge tellurique corne-de-fer",
+    "it_IT": "Forgiatura di Faglia dei Corno Ferreo",
+    "ru_RU": "\u041a\u043e\u0432\u043a\u0430 \u0438\u0437 \u0441\u0438\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0433\u043e \u0420\u043e\u0433\u0430",
+    "ko_KR": "\ubb34\uc1e0\ubfd4 \uc9c0\ub9e5\uc11d \ub300\uc7a5\uae30\uc220",
+    "zh_TW": "\u9435\u89d2\u8108\u77f3\u935b\u9020",
+    "zh_CN": "\u94c1\u89d2\u9b54\u77f3\u94f8\u9020"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following items:\r\nLeystone Gauntlets",
+    "es_MX": "Te ense\u00f1a a fabricar los siguientes objetos:\r\nGuanteletes de piedra ley",
+    "pt_BR": "Aprenda a criar os seguintes itens:\r\nManoplas de Pedra de Meridiano",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nLeysteinstulpen",
+    "en_GB": "Learn to craft the following items:\r\nLeystone Gauntlets",
+    "es_ES": "Aprende a fabricar los siguientes objetos:\r\nGuanteletes de piedra Ley",
+    "fr_FR": "Apprend \u00e0 fa\u00e7onner l\u2019objet suivant\u00a0:\r\nGantelets en tellurium",
+    "it_IT": "Apprendi come creare i seguenti oggetti:\r\nGuanti Lunghi di Fagliaroccia",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b:\r\n\u0420\u0443\u043a\u0430\u0432\u0438\u0446\u044b \u0438\u0437 \u0441\u0438\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\uc9c0\ub9e5\uc11d \uac74\ud2c0\ub9bf",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4ee5\u4e0b\u7269\u54c1\uff1a\r\n\u8108\u77f3\u8b77\u624b",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u9b54\u77f3\u624b\u7532"
+  }
 }

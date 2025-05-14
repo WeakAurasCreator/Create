@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "210722"
+  "SpellID": "210722",
+  "name_blz": {
+    "en_US": "Ashamane's Frenzy",
+    "es_MX": "Frenes\u00ed de Ashamane",
+    "pt_BR": "Frenesi de Ashamane",
+    "de_DE": "Ashamanes Raserei",
+    "en_GB": "Ashamane's Frenzy",
+    "es_ES": "Frenes\u00ed de Crinceniza",
+    "fr_FR": "Fr\u00e9n\u00e9sie d\u2019Ashamane",
+    "it_IT": "Frenesia di Grigiomanto",
+    "ru_RU": "\u0411\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e \u041f\u0435\u043f\u043b\u043e\u0448\u043a\u0443\u0440\u043e\u0439",
+    "ko_KR": "\uc544\uc0e4\uba54\uc778\uc758 \uad11\uae30",
+    "zh_TW": "\u4e9e\u590f\u66fc\u4e4b\u72c2",
+    "zh_CN": "\u963f\u838e\u66fc\u7684\u72c2\u4e71"
+  },
+  "description_blz": {
+    "en_US": "Unleash Ashamane's Frenzy, clawing your target 15 times over 3 sec for 408 Physical damage and an additional 1,224 Bleed damage over 6 sec.\r\n\r\nAwards 3 combo points.",
+    "es_MX": "Desata el Frenes\u00ed de Ashamane. Desgarras a tu objetivo 15 veces durante 3 s para infligir 408 p. de da\u00f1o f\u00edsico y 1,224 p. de da\u00f1o de sangrado durante 6 s.\r\n\r\nOtorga 3 puntos de combo.",
+    "pt_BR": "Provoca o Frenesi de Ashamane, arranhando o alvo 15 vezes ao longo de 3 s e causando 408 de dano F\u00edsico, mais 1.224 de dano de Sangramento ao longo de 6 s.\r\n\r\n Gera 3 pontos de combo.",
+    "de_DE": "Entfesselt Ashamanes Raserei, wodurch Ihr Euer Ziel im Verlauf von 3 Sek. 15-mal mit Krallen attackiert und ihm so 408 k\u00f6rperlichen Schaden sowie im Verlauf von 6 Sek. zus\u00e4tzlich 1.224 Blutungsschaden zuf\u00fcgt.\r\n\r\nGew\u00e4hrt 3 Combopunkte.",
+    "en_GB": "Unleash Ashamane's Frenzy, clawing your target 15 times over 3 sec for 408 Physical damage and an additional 1,224 Bleed damage over 6 sec.\r\n\r\nAwards 3 combo points.",
+    "es_ES": "Desatas Frenes\u00ed de Crinceniza, lo asesta 15 zarpazos al objetivo durante 3 s que infligen 408 p. de da\u00f1o f\u00edsico m\u00e1s 1224 p. de da\u00f1o de sangrado extras durante 6 s.\r\n\r\nOtorga 3 p. de combo.",
+    "fr_FR": "D\u00e9cha\u00eene Fr\u00e9n\u00e9sie d\u2019Ashamane, qui griffe votre cible \u00e0 15\u00a0reprises en 3 s et lui inflige 408\u00a0points de d\u00e9g\u00e2ts physiques, puis 1224 points de d\u00e9g\u00e2ts de saignement en 6 s.\r\n\r\nVous gagnez 3\u00a0points de combo.",
+    "it_IT": "Scatena la Frenesia di Grigiomanto, artigliando il bersaglio 15 volte in 3 s, infliggendo 408 danni fisici e 1.224 danni da sanguinamento aggiuntivi in 6 s.\r\n\r\nFornisce 3 punti combo.",
+    "ru_RU": "\u041e\u0431\u0440\u0443\u0448\u0438\u0432\u0430\u0435\u0442 \"\u0411\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e \u041f\u0435\u043f\u043b\u043e\u0448\u043a\u0443\u0440\u043e\u0439\" \u043d\u0430 \u0446\u0435\u043b\u044c, \u0443\u0434\u0430\u0440\u044f\u044f \u0435\u0435 \u043a\u043e\u0433\u0442\u044f\u043c\u0438 15 \u0440\u0430\u0437 \u0437\u0430 3 \u0441\u0435\u043a. \u0438 \u043d\u0430\u043d\u043e\u0441\u044f 408 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0438 \u0435\u0449\u0435 1224 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u0437\u0430 6 \u0441\u0435\u043a.\r\n\r\n+3 \u043a \u0441\u0435\u0440\u0438\u0438 \u043f\u0440\u0438\u0435\u043c\u043e\u0432.",
+    "ko_KR": "\uc544\uc0e4\uba54\uc778\uc758 \uad11\uae30\ub97c \ubc29\ucd9c\ud558\uba70 \ub300\uc0c1\uc744 \ud560\ud034\uc5b4, 3\ucd08\uc5d0 \uac78\uccd0 408\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c 15\ucc28\ub840 \uc785\ud788\uace0, \ucd94\uac00\ub85c 6\ucd08\uc5d0 \uac78\uccd0 1,224\uc758 \ucd9c\ud608 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc5f0\uacc4 \uc810\uc218 3\uc810\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u4f60\u7684\u76ee\u6a19\u91cb\u653e\u4e9e\u590f\u66fc\u4e4b\u72c2\uff0c\u57283\u79d2\u5167\u4ee5\u5229\u722a\u63ee\u64ca\u76ee\u6a1915\u6b21\uff0c\u9020\u6210408\u9ede\u7269\u7406\u50b7\u5bb3\uff0c\u4e26\u57286\u79d2\u5167\u984d\u5916\u9020\u62101,224\u9ede\u6d41\u8840\u50b7\u5bb3\u3002\r\n\r\n\u734e\u52f53\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u5411\u76ee\u6807\u503e\u6cc4\u963f\u838e\u66fc\u7684\u72c2\u4e71\uff0c\u57283\u79d2\u5185\u7528\u4f60\u7684\u5229\u722a\u5411\u5176\u53d1\u52a815\u6b21\u626b\u51fb\uff0c\u9020\u6210408\u70b9\u7269\u7406\u4f24\u5bb3\uff0c\u5e76\u57286\u79d2\u5185\u989d\u5916\u9020\u62101,224\u70b9\u6d41\u8840\u4f24\u5bb3\u3002\r\n\r\n\u5956\u52b13\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }

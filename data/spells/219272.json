@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "219272"
+  "SpellID": "219272",
+  "name_blz": {
+    "en_US": "Demon Skin",
+    "es_MX": "Piel de demonio",
+    "pt_BR": "Pele de Dem\u00f4nio",
+    "de_DE": "D\u00e4monenhaut",
+    "en_GB": "Demon Skin",
+    "es_ES": "Piel de demonio",
+    "fr_FR": "Peau de d\u00e9mon",
+    "it_IT": "Pelle Demoniaca",
+    "ru_RU": "\u0428\u043a\u0443\u0440\u0430 \u0434\u0435\u043c\u043e\u043d\u0430",
+    "ko_KR": "\uc545\ub9c8\uc758 \ud53c\ubd80",
+    "zh_TW": "\u60e1\u9b54\u76ae\u819a",
+    "zh_CN": "\u6076\u9b54\u76ae\u80a4"
+  },
+  "description_blz": {
+    "en_US": "Your Soul Leech absorption now passively recharges at a rate of 0.2% of maximum health every 1 sec, and may now absorb up to 10% of maximum health.\r\n\r\nIncreases your armor by 45%.",
+    "es_MX": "Tu absorci\u00f3n de Parasitar alma ahora se recarga pasivamente con un \u00edndice de 0.2% de salud m\u00e1xima cada 1 s y puede absorber hasta un 10% de salud m\u00e1xima.\r\n\r\nAumenta tu armadura un 45%.",
+    "pt_BR": "Sua absor\u00e7\u00e3o de Sorvo de Alma agora se recarrega passivamente na propor\u00e7\u00e3o de 0,2% do m\u00e1ximo de pontos de vida a cada 1 s e pode absorver at\u00e9 10% do m\u00e1ximo de pontos de vida.\r\n\r\nAumenta em 45% sua armadura.",
+    "de_DE": "Eure Absorption durch 'Seele entziehen' l\u00e4dt sich nun passiv mit einer Rate von 0,2% Eurer maximalen Gesundheit pro 1 Sek. auf und kann bis zu 10% Eurer maximalen Gesundheit absorbieren.\r\n\r\nErh\u00f6ht Eure R\u00fcstung um 45%.",
+    "en_GB": "Your Soul Leech absorption now passively recharges at a rate of 0.2% of maximum health every 1 sec, and may now absorb up to 10% of maximum health.\r\n\r\nIncreases your armor by 45%.",
+    "es_ES": "Ahora, la absorci\u00f3n de tu Parasitar almas se recarga pasivamente a un ritmo del 0,2% de la salud m\u00e1xima cada 1 s y puede absorber hasta un 10% de la salud m\u00e1xima.\r\n\r\nAumenta un 45% tu armadura.",
+    "fr_FR": "L\u2019absorption de votre Succion d\u2019\u00e2me se recharge d\u00e9sormais de mani\u00e8re passive \u00e0 raison de 0,2\u00a0% du maximum de vos points de vie toutes les 1\u00a0s, et elle peut maintenant absorber jusqu\u2019\u00e0 10\u00a0% du maximum de vos points de vie.\r\n\r\nAugmente votre armure de 45\u00a0%.",
+    "it_IT": "L'effetto di assorbimento di Salasso delle Anime rigenera passivamente il 0,2% della salute massima ogni 1 s e pu\u00f2 assorbire fino a un massimo del 10% della salute massima.\r\n\r\nAumenta l'armatura del 45%.",
+    "ru_RU": "\u0429\u0438\u0442 \u043e\u0442 \"\u041f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u044f \u0434\u0443\u0448\u0438\" \u0440\u0430\u0437 \u0432 1 \u0441\u0435\u043a. \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 0,2% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442\u044c \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 \u0434\u043e 10% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0431\u0440\u043e\u043d\u044e \u043d\u0430 45%.",
+    "ko_KR": "\uc601\ud63c \uac08\ucde8\uc758 \ud53c\ud574 \ud761\uc218 \ud6a8\uacfc\uac00 \uc774\uc81c 1\ucd08\ub9c8\ub2e4 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 0.2%\ub9cc\ud07c \uc9c0\uc18d\uc801\uc73c\ub85c \uc7ac\ucda9\uc804\ub418\uace0, \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 10%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \ud761\uc218\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\ubc29\uc5b4\ub3c4\uac00 45%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u9748\u9b42\u6c72\u53d6\u7684\u5438\u6536\u8b77\u76fe\u73fe\u5728\u6bcf1\u79d2\u6703\u81ea\u52d5\u6062\u5fa9\u751f\u547d\u529b\u4e0a\u9650\u76840.2%\uff0c\u4e26\u4e14\u6700\u9ad8\u53ef\u4ee5\u5438\u6536\u751f\u547d\u529b\u4e0a\u9650\u768410%\u3002\r\n\r\n\u4f7f\u4f60\u7684\u8b77\u7532\u503c\u63d0\u9ad845%\u3002",
+    "zh_CN": "\u4f60\u7684\u7075\u9b42\u69a8\u53d6\u7684\u5438\u6536\u6548\u679c\u4f1a\u88ab\u52a8\u6062\u590d\uff0c\u6bcf1\u79d2\u6062\u590d\u6700\u5927\u751f\u547d\u503c\u76840.2%\uff0c\u6700\u5927\u5438\u6536\u91cf\u4f1a\u53d8\u4e3a\u751f\u547d\u503c\u4e0a\u9650\u768410%\u3002\r\n\r\n\u4f60\u7684\u62a4\u7532\u503c\u63d0\u9ad845%\u3002"
+  }
 }

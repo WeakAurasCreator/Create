@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "197000"
+  "SpellID": "197000",
+  "name_blz": {
+    "en_US": "Maneuverability",
+    "es_MX": "Maniobrabilidad",
+    "pt_BR": "Manobrabilidade",
+    "de_DE": "Aalglatt",
+    "en_GB": "Maneuverability",
+    "es_ES": "Maniobrabilidad",
+    "fr_FR": "Man\u0153uvrabilit\u00e9",
+    "it_IT": "Manovrabilit\u00e0",
+    "ru_RU": "\u041c\u0430\u043d\u0435\u0432\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uae30\ub3d9\uc131",
+    "zh_TW": "\u6a5f\u52d5\u51fa\u64ca",
+    "zh_CN": "\u52a8\u82e5\u8131\u5154"
+  },
+  "description_blz": {
+    "en_US": "Sprint has 50% reduced cooldown and 50% reduced duration.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Sprint se reduce un50% y su duraci\u00f3n se reduce un 50%.",
+    "pt_BR": "Disparada tem 50% a menos de recarga e dura 50% menos.",
+    "de_DE": "'Sprinten' hat eine um 50% verringerte Abklingzeit und eine um 50% verringerte Dauer.",
+    "en_GB": "Sprint has 50% reduced cooldown and 50% reduced duration.",
+    "es_ES": "Sprint tiene un 50% menos de tiempo de reutilizaci\u00f3n y un 50% menos de duraci\u00f3n.",
+    "fr_FR": "Le temps de recharge de Sprint est r\u00e9duit de 50% et sa dur\u00e9e l\u2019est de 50%.",
+    "it_IT": "Riduce il tempo di recupero di Scatto del 50% e la sua durata del 50%.",
+    "ru_RU": "\"\u0421\u043f\u0440\u0438\u043d\u0442\" \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50% \u0431\u044b\u0441\u0442\u0440\u0435\u0435, \u043d\u043e \u0434\u043b\u0438\u0442\u0441\u044f \u043d\u0430 50% \u043c\u0435\u043d\u044c\u0448\u0435.",
+    "ko_KR": "\uc804\ub825 \uc9c8\uc8fc\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 50%\ub9cc\ud07c, \uc9c0\uc18d\uc2dc\uac04\uc740 50%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u75be\u8dd1\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed50%\uff0c\u4f46\u6301\u7e8c\u6642\u9593\u4e5f\u7e2e\u77ed50%\u3002",
+    "zh_CN": "\u75be\u8dd1\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed50%\uff0c\u6301\u7eed\u65f6\u95f4\u7f29\u77ed50%\u3002"
+  }
 }

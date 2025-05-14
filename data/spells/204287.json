@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "204287"
+  "SpellID": "204287",
+  "name_blz": {
+    "en_US": "Teleport: Hall of the Guardian",
+    "es_MX": "Teletransporte: Sal\u00f3n del Guardi\u00e1n",
+    "pt_BR": "Teleporte: Sal\u00e3o do Guardi\u00e3o",
+    "de_DE": "Teleport: Halle des W\u00e4chters",
+    "en_GB": "Teleport: Hall of the Guardian",
+    "es_ES": "Teletransporte a: Sal\u00f3n del Guardi\u00e1n",
+    "fr_FR": "T\u00e9l\u00e9portation\u00a0: hall du Gardien",
+    "it_IT": "Teletrasporto: Sale dei Guardiani",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u041e\u043f\u043b\u043e\u0442 \u0425\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044f",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9: \uc218\ud638\uc790\uc758 \uc804\ub2f9",
+    "zh_TW": "\u50b3\u9001\uff1a\u5b88\u8b77\u8005\u6bbf\u5802",
+    "zh_CN": "\u4f20\u9001\uff1a\u5b88\u62a4\u8005\u5723\u6bbf"
+  },
+  "description_blz": {
+    "en_US": "Teleports the caster to the Hall of the Guardian.",
+    "es_MX": "Teletransporta al taumaturgo al Sal\u00f3n del Guardi\u00e1n.",
+    "pt_BR": "Teleporta o lan\u00e7ador para o Sal\u00e3o do Guardi\u00e3o.",
+    "de_DE": "Teleportiert den Zaubernden zur Halle des W\u00e4chters.",
+    "en_GB": "Teleports the caster to the Hall of the Guardian.",
+    "es_ES": "Teletransporta al taumaturgo al Sal\u00f3n del Guardi\u00e1n.",
+    "fr_FR": "T\u00e9l\u00e9porte le lanceur de sorts au hall du Gardien.",
+    "it_IT": "Ti teletrasporta alle Sale dei Guardiani.",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0438\u0440\u0443\u0435\u0442 \u0432 \u041e\u043f\u043b\u043e\u0442 \u0425\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044f.",
+    "ko_KR": "\uc218\ud638\uc790\uc758 \uc804\ub2f9\uc73c\ub85c \uc21c\uac04\uc774\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u65bd\u6cd5\u8005\u50b3\u9001\u81f3\u5b88\u8b77\u8005\u6bbf\u5802\u3002",
+    "zh_CN": "\u5c06\u65bd\u6cd5\u8005\u4f20\u9001\u81f3\u5b88\u62a4\u8005\u5723\u6bbf\u3002"
+  }
 }
