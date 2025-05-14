@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "188635"
+  "SpellID": "188635",
+  "name_blz": {
+    "en_US": "Vrykul Shield Training",
+    "es_MX": "Escudo de entrenamiento vrykul",
+    "pt_BR": "Treinamento de Escudo Vraikal",
+    "de_DE": "Schildtraining der Vrykul",
+    "en_GB": "Vrykul Shield Training",
+    "es_ES": "Entrenamiento de escudo vrykul",
+    "fr_FR": "Entra\u00eenement au bouclier vrykul",
+    "it_IT": "Addestramento allo Scudo Vrykul",
+    "ru_RU": "\u0412\u0440\u0430\u0439\u043a\u0443\u043b\u044c\u0441\u043a\u043e\u0435 \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0432\u043b\u0430\u0434\u0435\u043d\u0438\u044f \u0449\u0438\u0442\u043e\u043c",
+    "ko_KR": "\ube0c\ub9ac\ucfe8 \ubc29\ud328 \ud6c8\ub828",
+    "zh_TW": "\u7dad\u9177\u76fe\u724c\u8a13\u7df4",
+    "zh_CN": "\u7ef4\u5e93\u76fe\u724c\u8bad\u7ec3"
+  },
+  "description_blz": {
+    "en_US": "Increases armor by 5%.",
+    "es_MX": "Aumenta la armadura un 5% p.",
+    "pt_BR": "Aumenta em 5% a armadura.",
+    "de_DE": "Erh\u00f6ht die R\u00fcstung um 5%.",
+    "en_GB": "Increases armor by 5%.",
+    "es_ES": "Aumenta la armadura un 5%.",
+    "fr_FR": "Augmente l\u2019armure de 5%.",
+    "it_IT": "Aumenta l'armatura del 5%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0431\u0440\u043e\u043d\u044e \u043d\u0430 5%.",
+    "ko_KR": "\ubc29\uc5b4\ub3c4\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8b77\u7532\u503c\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u62a4\u7532\u503c\u63d0\u9ad85%\u3002"
+  }
 }

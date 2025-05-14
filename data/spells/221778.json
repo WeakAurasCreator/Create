@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "221778"
+  "SpellID": "221778",
+  "name_blz": {
+    "en_US": "Champion: Taoshi",
+    "es_MX": "Campe\u00f3n: Taoshi",
+    "pt_BR": "Campe\u00e3o: Taoshi",
+    "de_DE": "Champion: Taoshi",
+    "en_GB": "Champion: Taoshi",
+    "es_ES": "Campeona: Taoshi",
+    "fr_FR": "Championne\u00a0: Taoshi",
+    "it_IT": "Campione: Taoshi",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u0422\u0430\u043e\u0448\u0438",
+    "ko_KR": "\uc6a9\uc0ac: \ud0c0\uc624\uc2a4",
+    "zh_TW": "\u52c7\u58eb\uff1a\u9676\u6c0f",
+    "zh_CN": "\u52c7\u58eb\uff1a\u9676\u77e2"
+  },
+  "description_blz": {
+    "en_US": "No rogue ever stealthed so well as Taoshi. If she does not want to be seen, she is not. This makes her especially deadly as it is nigh impossible to prevent her from executing a sneak attack from behind.",
+    "es_MX": "Nunca ha habido un p\u00edcaro tan sigiloso como Taoshi. Si no quiere que la vean, no la ver\u00e1n. Esto hace que sea especialmente letal, ya que es casi imposible evitar que realice un ataque sigiloso por la espalda.\"",
+    "pt_BR": "Nenhum ladino foi t\u00e3o furtivo quanto a Taoshi. Se ela n\u00e3o quer ser vista, ela n\u00e3o \u00e9. Isso a torna simplesmente mortal, pois \u00e9 quase imposs\u00edvel prever a sua chegada ao executar um ataque surpresa por tr\u00e1s.",
+    "de_DE": "Kein Schurke beherrschte die Verstohlenheit so gut wie Taoshi. Wenn sie nicht will, dass sie jemand sieht, dann gelingt das auch niemandem. Diese F\u00e4higkeit macht sie besonders t\u00f6dlich, da ihr \u00dcberraschungsangriff von hinten so gut wie unm\u00f6glich zu verhindern ist.",
+    "en_GB": "No rogue ever stealthed so well as Taoshi. If she does not want to be seen, she is not. This makes her especially deadly as it is nigh impossible to prevent her from executing a sneak attack from behind.",
+    "es_ES": "No hay p\u00edcaro que iguale a Taoshi en su capacidad para el sigilo. Si no quiere que la vean, nadie la ve. Eso la hace especialmente letal, ya que es casi imposible evitar que realice un ataque sigiloso por detr\u00e1s.",
+    "fr_FR": "Aucun voleur ne ma\u00eetrise le camouflage aussi parfaitement que Taoshi. Elle peut se rendre invisible et ind\u00e9tectable, aptitude qui la rend particuli\u00e8rement redoutable, car il est alors presque impossible d\u2019\u00e9chapper \u00e0 ses attaques sournoises.",
+    "it_IT": "Nessun Ladro conosce la furtivit\u00e0 come Taoshi. Se non vuole essere vista, nessuno la vedr\u00e0. Ci\u00f2 la rende particolarmente letale, perch\u00e9 \u00e8 quasi impossibile fermare un suo attacco alle spalle.",
+    "ru_RU": "\u0412 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435 \u043c\u0430\u0441\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u0422\u0430\u043e\u0448\u0438 \u043d\u0435\u0442 \u0440\u0430\u0432\u043d\u044b\u0445. \u0415\u0441\u043b\u0438 \u0435\u0439 \u043d\u0443\u0436\u043d\u043e \u043e\u0441\u0442\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0435\u0437\u0430\u043c\u0435\u0447\u0435\u043d\u043d\u043e\u0439, \u0442\u0430\u043a \u0438 \u0431\u0443\u0434\u0435\u0442. \u0418\u043c\u0435\u043d\u043d\u043e \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0432\u0441\u0435 \u0438 \u0431\u043e\u044f\u0442\u0441\u044f \u0435\u0435 \u043a\u0430\u043a \u043e\u0433\u043d\u044f \u2013 \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u043e\u043c\u0443 \u0443\u0434\u0430\u0440\u0443 \u0432 \u0441\u043f\u0438\u043d\u0443, \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043d\u0438\u043a\u0430\u043a \u043d\u0435 \u043e\u0436\u0438\u0434\u0430\u0435\u0448\u044c, \u043c\u0430\u043b\u043e \u0447\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c.",
+    "ko_KR": "\ud0c0\uc624\uc2a4\uc758 \uc740\uc2e0\uc740 \uc138\uacc4 \ucd5c\uace0\uc785\ub2c8\ub2e4. \ud0c0\uc624\uc2a4\uac00 \uc6d0\uce58 \uc54a\uc73c\uba74 \uc544\ubb34\ub3c4 \uadf8\ub140\uc758 \ubaa8\uc2b5\uc744 \ubcfc \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub530\ub77c\uc11c \uc5b8\uc81c \uc5b4\ub514\uc5d0\uc11c \uc740\ubc00\ud558\uac8c \uacf5\uaca9\ud560\uc9c0 \uc804\ud600 \uc608\uce21\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5f9e\u4f86\u6c92\u6709\u4e00\u4f4d\u76dc\u8cca\u80fd\u50cf\u9676\u6c0f\u9019\u6a23\u4f86\u53bb\u7121\u8e64\u3002\u5982\u679c\u5979\u60f3\u6d88\u8072\u533f\u8de1\uff0c\u6c92\u4eba\u627e\u5f97\u5230\u5979\u3002\u5728\u7121\u6cd5\u9810\u9632\u5979\u5f9e\u80cc\u5f8c\u5c55\u958b\u7a81\u8972\u7684\u60c5\u6cc1\u4e0b\uff0c\u8b93\u5979\u8b8a\u5f97\u66f4\u52a0\u81f4\u547d\u3002",
+    "zh_CN": "\u6ca1\u6709\u4efb\u4f55\u6f5c\u884c\u8005\u7684\u6f5c\u884c\u6280\u5de7\u80fd\u50cf\u9676\u77e2\u90a3\u6837\u5b8c\u7f8e\u3002\u5982\u679c\u4e0d\u60f3\u88ab\u4eba\u770b\u5230\uff0c\u5c31\u6ca1\u6709\u4efb\u4f55\u4eba\u80fd\u770b\u5230\u5979\u3002\u6b63\u662f\u8fd9\u6837\u7684\u80fd\u529b\u8ba9\u5979\u7684\u523a\u6740\u66f4\u4e3a\u81f4\u547d\uff0c\u56e0\u4e3a\u654c\u4eba\u51e0\u4e4e\u65e0\u6cd5\u9632\u5fa1\u5979\u4ece\u80cc\u540e\u7684\u5077\u88ad\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "235318"
+  "SpellID": "235318",
+  "name_blz": {
+    "en_US": "Follower: Minerva",
+    "es_MX": "Seguidor: Minerva",
+    "pt_BR": "Seguidora: Minerva",
+    "de_DE": "Anh\u00e4nger: Minerva",
+    "en_GB": "Follower: Minerva",
+    "es_ES": "Seguidora: Minerva",
+    "fr_FR": "Sujet\u00a0: Minerva",
+    "it_IT": "Seguace: Minerva",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041c\u0438\u043d\u0435\u0440\u0432\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ubbf8\ub124\ub974\ubc14",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u7c73\u5948\u5a03",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u7c73\u59ae\u74e6"
+  },
+  "description_blz": {
+    "en_US": "A member of the Knights of the Ebon Blade, Minerva Ravensorrow has no remorse for the living.",
+    "es_MX": "Miembro de los Caballeros de la Espada de \u00c9bano, Minerva Cuervotriste no siente remordimiento por los vivos.",
+    "pt_BR": "Membro dos Cavaleiros da L\u00e2mina de \u00c9bano, Minerva Melancorvo n\u00e3o tem pena dos vivos.",
+    "de_DE": "Minerva Rabenkummer, Mitglied der Ritter der Schwarzen Klinge, hat wenig f\u00fcr die Lebenden \u00fcbrig.",
+    "en_GB": "A member of the Knights of the Ebon Blade, Minerva Ravensorrow has no remorse for the living.",
+    "es_ES": "Miembro de los Caballeros de la Espada de \u00c9bano, Minerva Penacuervo no siente pena por los vivos.",
+    "fr_FR": "Membre des chevaliers de la Lame d\u2019\u00e9b\u00e8ne, Minerva Corvepeine est sans merci envers les vivants.",
+    "it_IT": "Minerva Corvotriste, membro dei Cavalieri della Spada d'Ebano, non prova alcun rimorso verso i vivi.",
+    "ru_RU": "\u0420\u044b\u0446\u0430\u0440\u044c \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043b\u0438\u043d\u043a\u0430 \u041c\u0438\u043d\u0435\u0440\u0432\u0430 \u0412\u043e\u0440\u043e\u043d\u044c\u044f \u0421\u043a\u043e\u0440\u0431\u044c \u043d\u0435 \u0438\u0441\u043f\u044b\u0442\u044b\u0432\u0430\u0435\u0442 \u043a \u0436\u0438\u0432\u044b\u043c \u043d\u0438 \u043c\u0430\u043b\u0435\u0439\u0448\u0435\u0439 \u0436\u0430\u043b\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\uce60\ud751\uc758 \uae30\uc0ac\ub2e8\uc758 \uc77c\uc6d0\uc778 \ubbf8\ub124\ub974\ubc14 \ub808\uc774\ube10\uc18c\ub85c\uc6b0\ub294 \uc0b0 \uc790\ub4e4\uc744 \uac00\uc5fe\uac8c \uc5ec\uae30\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8eab\u70ba\u9eef\u5203\u9a0e\u58eb\u5718\u7684\u4e00\u54e1\uff0c\u7c73\u5948\u5a03\u2027\u9d09\u6101\u5c0d\u65bc\u751f\u8005\u5b8c\u5168\u6c92\u6709\u6190\u61ab\u4e4b\u5fc3\u3002",
+    "zh_CN": "\u9ed1\u950b\u9a91\u58eb\u7684\u4e00\u5458\u3002\u7c73\u59ae\u74e6\u00b7\u60b2\u9e26\u5bf9\u751f\u8005\u6beb\u65e0\u601c\u60af\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202425"
+  "SpellID": "202425",
+  "name_blz": {
+    "en_US": "Warrior of Elune",
+    "es_MX": "Guerrero de Elune",
+    "pt_BR": "Guerreiro de Eluna",
+    "de_DE": "Krieger der Elune",
+    "en_GB": "Warrior of Elune",
+    "es_ES": "Guerrero de Elune",
+    "fr_FR": "Guerrier d\u2019Elune",
+    "it_IT": "Guerriero di Elune",
+    "ru_RU": "\u0412\u043e\u0438\u043d \u042d\u043b\u0443\u043d\u044b",
+    "ko_KR": "\uc5d8\ub8ec\uc758 \uc804\uc0ac",
+    "zh_TW": "\u4f0a\u9732\u6069\u6230\u58eb",
+    "zh_CN": "\u827e\u9732\u6069\u7684\u6218\u58eb"
+  },
+  "description_blz": {
+    "en_US": "Your next 3 Starfires are instant cast and generate 30% increased Astral Power.",
+    "es_MX": "Tus siguientes 3 Fuegos estelares son instant\u00e1neos y generan un 30% de poder astral adicional.",
+    "pt_BR": "Seus pr\u00f3ximos 3 Fogos Estelares ser\u00e3o lan\u00e7ados instantaneamente e gerar\u00e3o mais 30% de Poder Astral.",
+    "de_DE": "Eure n\u00e4chsten 3 Eins\u00e4tze von 'Sternenfeuer' sind Spontanzauber und erzeugen 30% mehr Astrale Macht.",
+    "en_GB": "Your next 3 Starfires are instant cast and generate 30% increased Astral Power.",
+    "es_ES": "Tus 3 siguientes lanzamientos de Fuego estelar son instant\u00e1neos y generan un 30% m\u00e1s de poder astral.",
+    "fr_FR": "Vos 3\u00a0prochains Feux stellaires sont instantan\u00e9s et g\u00e9n\u00e8rent 30% de puissance astrale suppl\u00e9mentaire.",
+    "it_IT": "I successivi 3 lanci di Fuoco Stellare sono istantanei e generano il 30% di potere astrale aggiuntivo.",
+    "ru_RU": "3 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0445 \u043e\u0433\u043d\u044f\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0434\u0430\u044e\u0442 \u043d\u0430 30% \u0431\u043e\u043b\u044c\u0448\u0435 \u0430\u0441\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u043e\u0449\u0438.",
+    "ko_KR": "\ub2e4\uc74c 3\ud68c\uc758 \ubcc4\ube5b\uc12c\uad11\uc774 \uc989\uc2dc \uc2dc\uc804\ub418\uba70 \ucc9c\uacf5\uc758 \ud798\uc774 30%\ub9cc\ud07c \ucd94\uac00\ub85c \uc0dd\uc131\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u4e0b3\u6b21\u661f\u706b\u8853\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u4e26\u4e14\u7522\u751f\u7684\u661f\u80fd\u63d0\u9ad830%\u3002",
+    "zh_CN": "\u4f60\u7684\u4e0b3\u4e2a\u661f\u706b\u672f\u53d8\u4e3a\u77ac\u53d1\uff0c\u4e14\u4ea7\u751f\u7684\u661f\u754c\u80fd\u91cf\u63d0\u9ad830%\u3002"
+  }
 }

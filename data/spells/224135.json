@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "224135"
+  "SpellID": "224135",
+  "name_blz": {
+    "en_US": "Ancient Power",
+    "es_MX": "Poder antiguo",
+    "pt_BR": "Poder Antigo",
+    "de_DE": "Macht der Urahnen",
+    "en_GB": "Ancient Power",
+    "es_ES": "Poder antiguo",
+    "fr_FR": "Puissance des anciens",
+    "it_IT": "Potere Antico",
+    "ru_RU": "\u0414\u0440\u0435\u0432\u043d\u0435\u0435 \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u043e",
+    "ko_KR": "\uace0\ub300\uc758 \ud798",
+    "zh_TW": "\u4e0a\u53e4\u80fd\u91cf",
+    "zh_CN": "\u8fdc\u53e4\u80fd\u91cf"
+  },
+  "description_blz": {
+    "en_US": "Unlocks the Magna Unleashed, Phoenix's Rebirth, and Flow of the First artifact appearances.",
+    "es_MX": "Desbloquea  Magna liberada, Renacer del f\u00e9nix y Flujo del primero  antiguos artefactos.",
+    "pt_BR": "Desbloqueia as apar\u00eancias dos seguintes artefatos:Magna Libertada, Renascimento da F\u00eanix e Fluxo do Primeiro.",
+    "de_DE": "Schaltet die Artefaktvorlagen Entfesselte Magna, Der wiedergeborene Ph\u00f6nix und Fluss des Ersten frei.",
+    "en_GB": "Unlocks the Magna Unleashed, Phoenix's Rebirth, and Flow of the First artifact appearances.",
+    "es_ES": "Desbloquea las apariencias de los artefactos Magna Desatada, Renacimiento del F\u00e9nix y Sangre del Primero.",
+    "fr_FR": "D\u00e9bloque les apparences d\u2019arme prodigieuse Fureur de la magna, Renaissance du ph\u00e9nix et Flux du primat.",
+    "it_IT": "Sblocca i seguenti aspetti dell'Artefatto: Magnus Indomito, Rinascita della Fenice e Flusso del Primo.",
+    "ru_RU": "\u0420\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0432\u0438\u0434 \u0430\u0440\u0442\u0435\u0444\u0430\u043a\u0442\u043e\u0432 \u042f\u0440\u043e\u0441\u0442\u044c \u041c\u0430\u0433\u043d\u044b, \u041f\u0435\u0440\u0435\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0444\u0435\u043d\u0438\u043a\u0441\u0430 \u0438 \u041f\u0435\u0440\u0432\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a.",
+    "ko_KR": "\ud574\ubc29\ub41c \ub9c8\uadf8\ub098, \ubd88\uc0ac\uc870\uc758 \ud658\uc0dd, \uccab \ubc88\uc9f8\uc758 \ud750\ub984 \uc720\ubb3c \ud615\uc0c1\uc744 \uc7a0\uae08 \ud574\uc81c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u958b\u5c0a\u8005\u964d\u4e16\u3001\u9cf3\u51f0\u91cd\u751f\u548c\u539f\u521d\u4e4b\u6d41\u795e\u5175\u6b66\u5668\u5916\u89c0\u3002",
+    "zh_CN": "\u89e3\u9501\u81ea\u7531\u62a4\u6cd5\u8005\uff0c\u51e4\u51f0\u6d85\u69c3\u548c\u539f\u521d\u4e4b\u6d41\u795e\u5668\u5916\u89c2\u3002"
+  }
 }

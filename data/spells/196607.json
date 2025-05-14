@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196607"
+  "SpellID": "196607",
+  "name_blz": {
+    "en_US": "Eye of the Tiger",
+    "es_MX": "Ojo del tigre",
+    "pt_BR": "Olho do Tigre",
+    "de_DE": "Auge des Tigers",
+    "en_GB": "Eye of the Tiger",
+    "es_ES": "Ojo del tigre",
+    "fr_FR": "\u0152il du tigre",
+    "it_IT": "Occhio della Tigre",
+    "ru_RU": "\u0413\u043b\u0430\u0437 \u0442\u0438\u0433\u0440\u0430",
+    "ko_KR": "\ud638\ub791\uc774\uc758 \ub208",
+    "zh_TW": "\u731b\u864e\u4e4b\u773c",
+    "zh_CN": "\u731b\u864e\u4e4b\u773c"
+  },
+  "description_blz": {
+    "en_US": "Tiger Palm also applies Eye of the Tiger, dealing 149 Nature damage to the enemy and 149 healing to the Monk over 8 sec. Limit 1 target.",
+    "es_MX": "Palma de tigre tambi\u00e9n aplica Ojo del tigre e inflige 149 p. de da\u00f1o de naturaleza al enemigo y sana 149 p. de salud al monje durante 8 s. L\u00edmite de 1 objetivo.",
+    "pt_BR": "A Palma do Tigre tamb\u00e9m aplica o Olho do Tigre, causando 149 de dano de Natureza ao inimigo e curando em 149 o Monge por 8 s. Limite de 1 alvo.",
+    "de_DE": "'Tigerklaue' belegt das Ziel mit dem Effekt 'Auge des Tigers', der ihm im Verlauf von 8 Sek. 149 Naturschaden zuf\u00fcgt und den M\u00f6nch w\u00e4hrenddessen um 149 Gesundheit heilt. Maximal 1 Ziel.",
+    "en_GB": "Tiger Palm also applies Eye of the Tiger, dealing 149 Nature damage to the enemy and 149 healing to the Monk over 8 sec. Limit 1 target.",
+    "es_ES": "Palma del tigre tambi\u00e9n aplica Ojo del tigre, lo que inflige 149 p. de da\u00f1o de Naturaleza al enemigo y aplica 149 p. de sanaci\u00f3n al monje durante 8 s. M\u00e1ximo de 1 objetivo.",
+    "fr_FR": "Paume du tigre applique \u00e9galement \u0152il du tigre, qui inflige 149\u00a0points de d\u00e9g\u00e2ts de Nature \u00e0 l\u2019ennemi et rend 149\u00a0points de vie au moine en 8 s. Limit\u00e9 \u00e0 1\u00a0cible.",
+    "it_IT": "Palmo della Tigre applica l'effetto Occhio della Tigre, infliggendo 149 danni da natura al nemico e rigenerando 149 salute a te in 8 s. Massimo 1 bersaglio.",
+    "ru_RU": "\"\u041b\u0430\u043f\u0430 \u0442\u0438\u0433\u0440\u0430\" \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u0413\u043b\u0430\u0437 \u0442\u0438\u0433\u0440\u0430\", \u0437\u0430 8 \u0441\u0435\u043a. \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 149 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0438\u0439 \u0432\u0430\u043c 149 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0446\u0435\u043b\u0435\u0439 \u2013 1.",
+    "ko_KR": "\ubc94\uc758 \uc7a5\ud48d \uc2dc\uc804 \uc2dc \ud638\ub791\uc774\uc758 \ub208 \ud6a8\uacfc\ub3c4 \ubd80\uc5ec\ud558\uc5ec \uc801\uc5d0\uac8c 149\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\ud788\uace0, 8\ucd08\uc5d0 \uac78\uccd0 \uc218\ub3c4\uc0ac\uc758 \uc0dd\uba85\ub825\uc744 \ucd1d 149\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. \ud55c \ubc88\uc5d0 \ud558\ub098\uc758 \ub300\uc0c1\uc5d0\ub9cc \uc601\ud5a5\uc744 \uc90d\ub2c8\ub2e4.",
+    "zh_TW": "\u864e\u638c\u6703\u5728\u76ee\u6a19\u8eab\u4e0a\u52a0\u4e0a\u731b\u864e\u4e4b\u773c\u6548\u679c\uff0c\u5c0d\u6575\u4eba\u9020\u6210149\u9ede\u81ea\u7136\u50b7\u5bb3\uff0c\u4e26\u57288\u79d2\u5167\u70ba\u6b66\u50e7\u6cbb\u7642149\u9ede\u751f\u547d\u529b\u3002\u53ea\u80fd\u4f5c\u7528\u65bc1\u500b\u76ee\u6a19\u4e0a\u3002",
+    "zh_CN": "\u731b\u864e\u638c\u540c\u65f6\u4e3a\u76ee\u6807\u65bd\u52a0\u731b\u864e\u4e4b\u773c\uff0c\u57288\u79d2\u5185\u5bf9\u5176\u9020\u6210149\u70b9\u81ea\u7136\u4f24\u5bb3\uff0c\u5e76\u4e3a\u6b66\u50e7\u6062\u590d149\u70b9\u751f\u547d\u3002\u53ea\u4f1a\u5728\u4e00\u4e2a\u76ee\u6807\u8eab\u4e0a\u751f\u6548\u3002"
+  }
 }

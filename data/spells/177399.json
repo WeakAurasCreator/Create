@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "177399"
+  "SpellID": "177399",
+  "name_blz": {
+    "en_US": "Ikky",
+    "es_MX": "Ikky",
+    "pt_BR": "Ikky",
+    "de_DE": "Ikky",
+    "en_GB": "Ikky",
+    "es_ES": "Ikky",
+    "fr_FR": "Ikky",
+    "it_IT": "Ikky",
+    "ru_RU": "\u0418\u043a\u043a\u0438",
+    "ko_KR": "\uc775\ud0a4",
+    "zh_TW": "\u4f0a\u5947",
+    "zh_CN": "\u4f0a\u5947"
+  },
+  "description_blz": {
+    "en_US": "Summon or dismiss Ikky as a companion.",
+    "es_MX": "Invocar o retirar a Ikky como compa\u00f1ero.",
+    "pt_BR": "Evoca e dispensa o ajudante Ikky.",
+    "de_DE": "Beschw\u00f6rt Ikky als Gef\u00e4hrten oder gibt ihn wieder frei.",
+    "en_GB": "Summon or dismiss Ikky as a companion.",
+    "es_ES": "Invoca o retira a Ikky como compa\u00f1ero.",
+    "fr_FR": "Invoque ou renvoie Ikky, votre compagnon.",
+    "it_IT": "Evoca o congeda Ikky come mascotte.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u0432\u0430\u0442\u044c \u043a \u0441\u0435\u0431\u0435 \u0438\u043b\u0438 \u043e\u0442\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0418\u043a\u043a\u0438",
+    "ko_KR": "\uc775\ud0a4\ub97c \ub3d9\ub8cc\ub85c \uc18c\ud658\ud558\uac70\ub098 \uc18c\ud658 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u6216\u89e3\u6563\u5925\u4f34\u4f0a\u5947\u3002",
+    "zh_CN": "\u53ec\u5524\u6216\u89e3\u6563\u540c\u4f34\u4f0a\u5947\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "212459"
+  "SpellID": "212459",
+  "name_blz": {
+    "en_US": "Call Fel Lord",
+    "es_MX": "Invocar Se\u00f1or vil",
+    "pt_BR": "Chamar Lorde Vil",
+    "de_DE": "Teufelslord rufen",
+    "en_GB": "Call Fel Lord",
+    "es_ES": "Llamar a se\u00f1or vil",
+    "fr_FR": "Appel de gangreseigneur",
+    "it_IT": "Richiamo Vilsignore",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044f \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc9c0\uc625 \uad70\uc8fc \ubd80\ub974\uae30",
+    "zh_TW": "\u53ec\u559a\u60e1\u9b54\u9818\u4e3b",
+    "zh_CN": "\u53ec\u5524\u90aa\u80fd\u9886\u4e3b"
+  },
+  "description_blz": {
+    "en_US": "Summon a fel lord to guard the location for 15 sec. Any enemy that comes within 6 yards will suffer 11,068 Physical damage, and players struck will be stunned for 1 sec.",
+    "es_MX": "Invoca un se\u00f1or vil para que proteja la ubicaci\u00f3n durante 15 s. Todo enemigo que est\u00e9 a menos de 6 m sufrir\u00e1 11,068 p. de da\u00f1o f\u00edsico y los jugadores golpeados quedar\u00e1n aturdidos durante 1 s.",
+    "pt_BR": "Evoca um Lorde Vil para proteger o local por 15 s. Qualquer inimigo em um raio de 6\u00a0m receber\u00e1 11.068 de dano F\u00edsico. Os jogadores atingidos ficar\u00e3o atordoados por 1 s.",
+    "de_DE": "Beschw\u00f6rt einen Teufelslord, um einen Bereich f\u00fcr 15 Sek. zu bewachen. Jeder Gegner, der n\u00e4her als 6 Meter herankommt, erleidet 11.068 k\u00f6rperlichen Schaden und getroffene Spielercharaktere werden f\u00fcr 1 Sek. bet\u00e4ubt.",
+    "en_GB": "Summon a fel lord to guard the location for 15 sec. Any enemy that comes within 6 yards will suffer 11,068 Physical damage, and players struck will be stunned for 1 sec.",
+    "es_ES": "Invoca a un se\u00f1or vil para que proteja la ubicaci\u00f3n durante 15 s. Todo enemigo que se acerque a menos de 6 m recibir\u00e1 11068 p. de da\u00f1o f\u00edsico y los jugadores golpeados quedar\u00e1n aturdidos durante 1 s.",
+    "fr_FR": "Vous invoquez un gangreseigneur qui monte la garde pendant 15 s. Tout ennemi qui s\u2019en approche \u00e0 moins de 6\u00a0m\u00e8tres subit 11068\u00a0points de d\u00e9g\u00e2ts physiques, et les personnages-joueurs touch\u00e9s sont \u00e9tourdis pendant 1 s.",
+    "it_IT": "Evoca un Vilsignore a guardia della posizione per 15 s. Tutti i nemici che si avvicinano a meno di 6 m subiscono 11.068 danni fisici e i personaggi colpiti restano storditi per 1 s.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044f \u0421\u043a\u0432\u0435\u0440\u043d\u044b, \u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0449\u0435\u0433\u043e \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 15 \u0441\u0435\u043a. \u041f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a, \u043f\u043e\u0434\u043e\u0448\u0435\u0434\u0448\u0438\u0439 \u043a \u043d\u0435\u043c\u0443 \u0431\u043b\u0438\u0436\u0435 \u0447\u0435\u043c \u043d\u0430 6 \u043c, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 11068 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430; \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u0438\u0433\u0440\u043e\u043a, \u043e\u043d \u0442\u0430\u043a\u0436\u0435 \u043e\u0433\u043b\u0443\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1 \u0441\u0435\u043a.",
+    "ko_KR": "15\ucd08 \ub3d9\uc548 \uc9c0\uc625 \uad70\uc8fc\ub97c \uc18c\ud658\ud558\uc5ec \ud574\ub2f9 \uc9c0\uc5ed\uc744 \uc9c0\ud0a4\uac8c \ud569\ub2c8\ub2e4. 6\ubbf8\ud130 \ub0b4\ub85c \uc811\uadfc\ud558\ub294 \uc801\uc740 11,068\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\uace0, \uc801\uc911\ub2f9\ud55c \ud50c\ub808\uc774\uc5b4\ub294 1\ucd08 \ub3d9\uc548 \uae30\uc808\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u60e1\u9b54\u9818\u4e3b\u770b\u5b88\u76ee\u6a19\u5340\u57df15\u79d2\uff0c\u9760\u8fd1\u5b836\u78bc\u4ee5\u5167\u7684\u6575\u4eba\u6703\u53d7\u523011,068\u9ede\u7269\u7406\u50b7\u5bb3\uff0c\u540c\u6642\u6703\u4f7f\u73a9\u5bb6\u660f\u8ff71\u79d2\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u4e2a\u90aa\u80fd\u9886\u4e3b\u9632\u5b88\u8fd9\u4e2a\u533a\u57df\uff0c\u6301\u7eed15\u79d2\u3002\u4efb\u4f55\u8fdb\u51656\u7801\u8303\u56f4\u7684\u654c\u4eba\u5c06\u53d7\u523011,068\u70b9\u7269\u7406\u4f24\u5bb3\uff0c\u88ab\u51fb\u4e2d\u7684\u73a9\u5bb6\u660f\u8ff71\u79d2\u3002"
+  }
 }

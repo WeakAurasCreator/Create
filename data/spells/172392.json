@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "172392"
+  "SpellID": "172392",
+  "name_blz": {
+    "en_US": "Follower: Abu'gar",
+    "es_MX": "Seguidor: Abu'gar",
+    "pt_BR": "Seguidor: Abu'gar",
+    "de_DE": "Anh\u00e4nger: Abu'gar",
+    "en_GB": "Follower: Abu'gar",
+    "es_ES": "Seguidor: Abu'gar",
+    "fr_FR": "Sujet\u00a0: Abu\u2019gar",
+    "it_IT": "Seguace: Abu'gar",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0410\u0431\u0443'\u0433\u0430\u0440",
+    "ko_KR": "\ucd94\uc885\uc790: \uc544\ubd80\uac00\ub974",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a \u963f\u5e03\u52a0\u723e",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u963f\u5e03\u52a0\u5c14"
+  },
+  "description_blz": {
+    "en_US": "A Death Knight from Arthas's legions who has escaped Northrend to pursue his love of fishing.",
+    "es_MX": "Un Caballero de la Muerte de las legiones de Arthas que escap\u00f3 de Rasganorte para seguir su pasi\u00f3n por la pesca.",
+    "pt_BR": "Um Cavaleira da Morte das legi\u00f5es de Arthas que escapou de Nort\u00fandria para perseguir sua paix\u00e3o: a pesca.",
+    "de_DE": "Ein Todesritter aus Arthas' Legionen, der Nordend entkommen ist, um seiner Angelleidenschaft zu fr\u00f6nen.",
+    "en_GB": "A Death Knight from Arthas's legions who has escaped Northrend to pursue his love of fishing.",
+    "es_ES": "Un caballero de la Muerte de la legi\u00f3n de Arthas que ha escapado de Rasganorte para poder dedicarse a su pasi\u00f3n: la pesca.",
+    "fr_FR": "Un chevalier de la mort des l\u00e9gions d\u2019Arthas, qui s\u2019est \u00e9chapp\u00e9 du Norfendre afin de satisfaire sa passion pour la p\u00eache.",
+    "it_IT": "Un Cavaliere della Morte delle legioni di Arthas che \u00e8 scappato da Nordania per via del suo amore per la pesca.",
+    "ru_RU": "\u0420\u044b\u0446\u0430\u0440\u044c \u0421\u043c\u0435\u0440\u0442\u0438 \u0438\u0437 \u043b\u0435\u0433\u0438\u043e\u043d\u0430 \u0410\u0440\u0442\u0430\u0441\u0430, \u0441\u0431\u0435\u0436\u0430\u0432\u0448\u0438\u0439 \u0438\u0437 \u041d\u043e\u0440\u0434\u0441\u043a\u043e\u043b\u0430 \u043f\u043e \u0437\u043e\u0432\u0443 \u0441\u0432\u043e\u0435\u0439 \u0441\u0442\u0440\u0430\u0441\u0442\u0438 \u2013 \u0440\u044b\u0431\u0430\u043b\u043a\u0438.",
+    "ko_KR": "\ub09a\uc2dc\uc758 \uafc8\uc744 \uc887\uc544 \ub178\uc2a4\ub80c\ub4dc\ub97c \ud0c8\ucd9c\ud55c, \uc544\uc11c\uc2a4 \uad70\ub2e8 \ucd9c\uc2e0\uc758 \uc8fd\uc74c\uc758 \uae30\uc0ac\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u963f\u85a9\u65af\u8ecd\u5718\u9ebe\u4e0b\u7684\u6b7b\u4ea1\u9a0e\u58eb\uff0c\u70ba\u4e86\u8ffd\u6c42\u795e\u4e4e\u5176\u6280\u7684\u91e3\u9b5a\u5883\u754c\uff0c\u800c\u9003\u96e2\u4e86\u5317\u88c2\u5883\u3002",
+    "zh_CN": "\u4e00\u540d\u963f\u5c14\u8428\u65af\u519b\u56e2\u4e2d\u7684\u6b7b\u4ea1\u9a91\u58eb\uff0c\u51fa\u4e8e\u5bf9\u9493\u9c7c\u7684\u70ed\u7231\u800c\u9003\u79bb\u4e86\u8bfa\u68ee\u5fb7\u3002"
+  }
 }

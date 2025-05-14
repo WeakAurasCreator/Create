@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "233759"
+  "SpellID": "233759",
+  "name_blz": {
+    "en_US": "Grapple Weapon",
+    "es_MX": "Arrebatar arma",
+    "pt_BR": "Tomar Arma",
+    "de_DE": "Greifhakenwerfer",
+    "en_GB": "Grapple Weapon",
+    "es_ES": "Arrebatar arma",
+    "fr_FR": "Grappin",
+    "it_IT": "Arma con Rampino",
+    "ru_RU": "\u0417\u0430\u0445\u0432\u0430\u0442 \u043e\u0440\u0443\u0436\u0438\u044f",
+    "ko_KR": "\uac08\uace0\ub9ac \ubb34\uae30",
+    "zh_TW": "\u722a\u9264",
+    "zh_CN": "\u6293\u94a9\u6b66\u5668"
+  },
+  "description_blz": {
+    "en_US": "You fire off a rope spear, grappling the target's weapons and shield, returning them to you for 5 sec.",
+    "es_MX": "Arrojas una lanza atada a una cuerda, la cual le arrebata las armas y el escudo al objetivo y te los entrega a ti durante 5 s.",
+    "pt_BR": "Voc\u00ea dispara uma lan\u00e7a com corda que prende a arma e o escudo do alvo, puxando-os para si por 5 s.",
+    "de_DE": "Ihr feuert eine Harpune ab, die sich in Waffen und Schild des Ziels verhakt und sie f\u00fcr 5 Sek. zu Euch zieht.",
+    "en_GB": "You fire off a rope spear, grappling the target's weapons and shield, returning them to you for 5 sec.",
+    "es_ES": "Arrojas una lanza atada a una cuerda que le arrebata las armas y el escudo al objetivo y te los entrega a ti durante 5 s.",
+    "fr_FR": "Vous lancez un grappin et subtilisez les armes et le bouclier de la cible pendant 5 s.",
+    "it_IT": "Una lancia dotata di rampino afferra le armi e lo scudo del bersaglio, dandoli a te per 5 s.",
+    "ru_RU": "\u0412\u044b \u0431\u0440\u043e\u0441\u0430\u0435\u0442\u0435 \u0432 \u0446\u0435\u043b\u044c \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435 \u043a \u0432\u0435\u0440\u0435\u0432\u043a\u0435 \u043a\u043e\u043f\u044c\u0435 \u0438 \u0437\u0430\u0431\u0438\u0440\u0430\u0435\u0442\u0435 \u0443 \u043d\u0435\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u0438 \u0449\u0438\u0442 \u043d\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\ubc27\uc904 \ub2ec\ub9b0 \ucc3d\uc744 \ubc1c\uc0ac\ud558\uc5ec \ub300\uc0c1\uc758 \ubb34\uae30\uc640 \ubc29\ud328\uc5d0 \uaf42\uc740 \ud6c4, 5\ucd08 \ub3d9\uc548 \uc790\uc2e0\uc5d0\uac8c \uac00\uc838\uc635\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6295\u64f2\u5e36\u6709\u7e69\u7d22\u7684\u9264\u77db\uff0c\u52fe\u4f4f\u76ee\u6a19\u7684\u76fe\u724c\u548c\u6b66\u5668\uff0c\u5c07\u5176\u596a\u8d705\u79d2\u3002",
+    "zh_CN": "\u4f60\u7529\u51fa\u4e00\u6839\u97ad\u7ef3\u593a\u53d6\u76ee\u6807\u7684\u6b66\u5668\u548c\u76fe\u724c\uff0c\u5e76\u4e3a\u4f60\u6240\u7528\uff0c\u6301\u7eed5\u79d2\u3002"
+  }
 }

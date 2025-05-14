@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "215117"
+  "SpellID": "215117",
+  "name_blz": {
+    "en_US": "Champion: Matron Mother Malevolence",
+    "es_MX": "Campe\u00f3n: Madre Matrona Malevolencia",
+    "pt_BR": "Campe\u00e3: M\u00e3e Matrona Mal\u00e9vola",
+    "de_DE": "Champion: Matronenmutter Malicia",
+    "en_GB": "Champion: Matron Mother Malevolence",
+    "es_ES": "Campeona: Madre matriarca Malevolencia",
+    "fr_FR": "Championne\u00a0: matrone Mal\u00e9ficiae",
+    "it_IT": "Campione: Matrona Suprema Malevola",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u0432\u0435\u0440\u0445\u043e\u0432\u043d\u0430\u044f \u043c\u0430\u0442\u044c \u0417\u043b\u043e\u0431\u0430",
+    "ko_KR": "\uc6a9\uc0ac: \ubaa8\uad70\uc8fc \ub9d0\ub808\ubcfc\ub7f0\uc2a4",
+    "zh_TW": "\u52c7\u58eb\uff1a\u61f7\u60e1\u65cf\u6bcd",
+    "zh_CN": "\u52c7\u58eb\uff1a\u4e3b\u6bcd\u739b\u6c83\u4f26\u4e1d"
+  },
+  "description_blz": {
+    "en_US": "Malevolence has proven herself time and again to be an invaluable ally. It is an absolutely certainty that if it weren't for her, you would not be standing here. Her leadership skills are matched only by her mastery of demonic magic.",
+    "es_MX": "Malevolencia demostr\u00f3 muchas veces que es una aliada muy valiosa. Es absolutamente cierto que si no fuera por ella, no estar\u00edas aqu\u00ed hoy. Sus habilidades de liderazgo solo se ajustan a su maestr\u00eda de la magia demon\u00edaca.",
+    "pt_BR": "Mal\u00e9vola prova, vez ap\u00f3s vez, ser uma aliada de valor inestim\u00e1vel. \u00c9 certeza absoluta que se n\u00e3o fosse por ela, voc\u00ea n\u00e3o estaria aqui. A capacidade de lideran\u00e7a que ela possui pode ser rivalizada apenas pelos conhecimentos, dela pr\u00f3pria, sobre magia demon\u00edaca.",
+    "de_DE": "Malicia hat sich immer wieder als Verb\u00fcndete von unsch\u00e4tzbarem Wert erwiesen. Es gilt als absolut sicher, dass Ihr ohne sie nicht hier stehen w\u00fcrdet. Ihre F\u00e4higkeiten als Anf\u00fchrerin werden nur von ihrer meisterhaften Beherrschung d\u00e4monischer Magie in den Schatten gestellt.",
+    "en_GB": "Malevolence has proven herself time and again to be an invaluable ally. It is an absolutely certainty that if it weren't for her, you would not be standing here. Her leadership skills are matched only by her mastery of demonic magic.",
+    "es_ES": "Malevolencia ha demostrado una y otra vez que es una aliada muy valiosa. De no ser por ella, no estar\u00edas aqu\u00ed. Sus dotes de liderazgo solo son comparables a su dominio de la magia demon\u00edaca.",
+    "fr_FR": "Mal\u00e9ficiae a maintes fois prouv\u00e9 qu\u2019elle \u00e9tait une alli\u00e9e inestimable. Il ne fait absolument aucun doute que vous ne seriez plus l\u00e0 sans elle. Ses qualit\u00e9s de chef n\u2019ont d\u2019\u00e9gal que sa ma\u00eetrise de la magie d\u00e9moniaque.",
+    "it_IT": "Malevola si \u00e8 dimostrata pi\u00f9 volte un'alleata preziosa. Di sicuro, se non fosse stato per lei, non saresti qui. Le sue capacit\u00e0 di comando sono pari solo alla sua padronanza della magia demoniaca.",
+    "ru_RU": "\u0417\u043b\u043e\u0431\u0430 \u043d\u0435 \u0440\u0430\u0437 \u0434\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u043b\u0430, \u0447\u0442\u043e \u043e\u043d\u0430 \u043e\u0447\u0435\u043d\u044c \u0446\u0435\u043d\u043d\u044b\u0439 \u0441\u043e\u044e\u0437\u043d\u0438\u043a. \u0415\u0441\u043b\u0438 \u0431\u044b \u043d\u0435 \u043e\u043d\u0430, \u0432\u044b \u0431\u044b \u0441\u0435\u0439\u0447\u0430\u0441 \u0437\u0434\u0435\u0441\u044c \u043d\u0435 \u0441\u0442\u043e\u044f\u043b\u0438. \u0421 \u0435\u0435 \u043b\u0438\u0434\u0435\u0440\u0441\u043a\u0438\u043c\u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430\u043c\u0438 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0441\u043e\u043f\u0435\u0440\u043d\u0438\u0447\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u0435\u0435 \u0436\u0435 \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u043f\u043e \u0447\u0430\u0441\u0442\u0438 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\ub9d0\ub808\ubcfc\ub7f0\uc2a4\ub294 \uc790\uc2e0\uc774 \uc18c\uc911\ud55c \uc544\uad70\uc784\uc744 \uc218\ucc28\ub840 \uc99d\uba85\ud574\uc654\uc2b5\ub2c8\ub2e4. \uadf8\ub140\uac00 \uc544\ub2c8\uc5c8\ub2e4\uba74 \ub2f9\uc2e0\uc740 \uc9c0\uae08 \uc774\ub807\uac8c \uc0b4\uc544\uc788\uc744 \uc218\uc870\ucc28 \uc5c6\uc744 \uac83\uc785\ub2c8\ub2e4. \ub9d0\ub808\ubcfc\ub7f0\uc2a4\ub294 \ub6f0\uc5b4\ub09c \ud1b5\uc194\ub825\uc744 \uc9c0\ub154\uc73c\uba70 \uc545\ub9c8\uc758 \ub9c8\ubc95\uc5d0 \uad00\ud574\uc11c\ub3c4 \uc0c1\ub2f9\ud55c \uc9c0\uc2dd\uc744 \uac00\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u61f7\u60e1\u5df2\u7d93\u4e00\u6b21\u53c8\u4e00\u6b21\u8b49\u660e\u5979\u662f\u500b\u7121\u6cd5\u53d6\u4ee3\u7684\u76df\u53cb\u3002\u7d55\u5c0d\u53ef\u4ee5\u80af\u5b9a\u7684\u4e00\u9ede\u662f\uff0c\u5982\u679c\u6c92\u6709\u5979\u7684\u8ca2\u737b\uff0c\u4f60\u73fe\u5728\u5c31\u4e0d\u53ef\u80fd\u7ad9\u5728\u9019\u88e1\u3002\u5979\u7684\u9818\u5c0e\u6280\u80fd\u8d85\u51e1\u812b\u4fd7\uff0c\u6216\u8a31\u53ea\u6709\u5979\u5728\u60e1\u9b54\u9b54\u6cd5\u7cbe\u901a\u7a0b\u5ea6\u80fd\u5920\u76f8\u63d0\u4e26\u8ad6\u3002",
+    "zh_CN": "\u739b\u6c83\u4f26\u4e1d\u5c61\u6b21\u7528\u884c\u4e3a\u8bc1\u660e\u81ea\u5df1\u662f\u540d\u65e0\u4ef7\u7684\u76df\u53cb\u3002\u5f88\u663e\u7136\u7684\u4e8b\u5b9e\u5c31\u662f\uff0c\u5982\u679c\u4e0d\u662f\u5979\uff0c\u4f60\u6839\u672c\u5c31\u65e0\u6cd5\u7ad9\u5728\u8fd9\u91cc\u3002\u5979\u7684\u9886\u8896\u6280\u5de7\u548c\u6240\u7cbe\u901a\u7684\u6076\u9b54\u6cd5\u672f\u53ef\u8c13\u76f8\u5f97\u76ca\u5f70\u3002"
+  }
 }

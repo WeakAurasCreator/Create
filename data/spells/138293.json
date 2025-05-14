@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "138293"
+  "SpellID": "138293",
+  "name_blz": {
+    "en_US": "Item - Priest T15 Healer 2P Bonus",
+    "es_MX": "Item - Priest T15 Healer 2P Bonus",
+    "pt_BR": "Item - Priest T15 Healer 2P Bonus",
+    "en_GB": "Item - Priest T15 Healer 2P Bonus",
+    "es_ES": "Item - Priest T15 Healer 2P Bonus",
+    "it_IT": "Item - Priest T15 Healer 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\uc81c T15 \uce58\uc720\uc0ac 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Priest T15 Healer 2P Bonus",
+    "zh_CN": "Item - Priest T15 Healer 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Prayer of Mending heals for 10% more each time it jumps to a new target.",
+    "es_MX": "Tu Rezo de alivio sana un 10% m\u00e1s cada vez que salta a un nuevo objetivo.",
+    "pt_BR": "Sua Prece da Recomposi\u00e7\u00e3o cura 10% a mais toda vez que se propaga para um novo alvo.",
+    "de_DE": "Jedes Mal, wenn der Effekt Eures Zaubers 'Gebet der Besserung' auf ein neues Ziel \u00fcberspringt, wird sein geheilter Wert um 10% erh\u00f6ht.",
+    "en_GB": "Your Prayer of Mending heals for 10% more each time it jumps to a new target.",
+    "es_ES": "Tu Rezo de alivio sana un 10% m\u00e1s cada vez que salta a un nuevo objetivo.",
+    "fr_FR": "Les soins de votre Pri\u00e8re de gu\u00e9rison sont augment\u00e9s de 10% chaque fois qu\u2019elle passe \u00e0 une nouvelle cible.",
+    "it_IT": "Le cure fornite da Preghiera di Guarigione aumentano del 10% ogni volta che salta sul bersaglio successivo.",
+    "ru_RU": "\u0412\u0430\u0448\u0430 \"\u041c\u043e\u043b\u0438\u0442\u0432\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u043a \u043d\u043e\u0432\u043e\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\ud68c\ubcf5\uc758 \uae30\uc6d0\uc774 \uc0c8\ub85c\uc6b4 \ub300\uc0c1\uc5d0\uac8c \uc62e\uaca8\uac08 \ub54c\ub9c8\ub2e4 10%\ub9cc\ud07c \uc99d\uac00\ud55c \uce58\uc720 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7652\u5408\u79b1\u8a00\u6bcf\u6b21\u8df3\u5411\u65b0\u76ee\u6a19\u6642\uff0c\u6cbb\u7642\u91cf\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u6bcf\u5f53\u4f60\u7684\u6108\u5408\u7977\u8a00\u8df3\u5230\u4e00\u4e2a\u65b0\u76ee\u6807\u8eab\u4e0a\u65f6\uff0c\u4f1a\u989d\u5916\u6062\u590d10%\u7684\u751f\u547d\u503c\u3002"
+  }
 }

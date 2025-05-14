@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "199456"
+  "SpellID": "199456",
+  "name_blz": {
+    "en_US": "Spreading the Word",
+    "es_MX": "Difundiendo la palabra",
+    "pt_BR": "Semear a Palavra",
+    "de_DE": "Frohe Kunde",
+    "en_GB": "Spreading the Word",
+    "es_ES": "Difundir la palabra",
+    "fr_FR": "La bonne parole",
+    "it_IT": "Spargere la Voce",
+    "ru_RU": "\u041c\u043e\u043b\u0432\u0430",
+    "ko_KR": "\ubcf5\uc74c \uc804\ud30c",
+    "zh_TW": "\u5ee3\u50b3\u798f\u97f3",
+    "zh_CN": "\u5e7f\u5e03\u5723\u8a00"
+  },
+  "description_blz": {
+    "en_US": "Your allies affected by your Aura gain an effect after you cast Blessing of Protection or Blessing of Freedom.\r\n\r\n Blessing of Protection\r\nPhysical damage reduced by 30% for 6 sec.\r\n\r\n Blessing of Freedom\r\nCleared of all movement impairing effects.",
+    "es_MX": "Tus aliados afectados por tu aura reciben un efecto luego de que lances Bendici\u00f3n de protecci\u00f3n o Bendici\u00f3n de libertad.\r\n\r\nDa\u00f1o f\u00edsico de  Bendici\u00f3n de protecci\u00f3n\r\n reducido un 30% durante 6 s.\r\n\r\n Bendici\u00f3n de libertad\r\nLibre de todos los efectos de reducci\u00f3n de movimiento.",
+    "pt_BR": "Seus aliados afetados pela sua Aura ganham um efeito depois que voc\u00ea lan\u00e7a B\u00ean\u00e7\u00e3o de Prote\u00e7\u00e3o ou B\u00ean\u00e7\u00e3o da Liberdade.\r\n\r\nB\u00ean\u00e7\u00e3o de Prote\u00e7\u00e3o\r\nDano F\u00edsico reduzido em 30% por 6 s.\r\n\r\nB\u00ean\u00e7\u00e3o da Liberdade\r\nLivre de todos os efeitos que dificultam o movimento.",
+    "de_DE": "Wenn Ihr 'Segen des Schutzes' oder 'Segen der Freiheit' wirkt, gewinnen Verb\u00fcndete im Effektbereich Eurer Auren einen Effekt hinzu.\r\n\r\n Segen des Schutzes\r\nK\u00f6rperlicher Schaden f\u00fcr 6 Sek. um 30% verringert.\r\n\r\n Segen der Freiheit\r\nAlle bewegungseinschr\u00e4nkenden Effekte werden entfernt.",
+    "en_GB": "Your allies affected by your Aura gain an effect after you cast Blessing of Protection or Blessing of Freedom.\r\n\r\n Blessing of Protection\r\nPhysical damage reduced by 30% for 6 sec.\r\n\r\n Blessing of Freedom\r\nCleared of all movement impairing effects.",
+    "es_ES": "Tus aliados afectados por tu aura reciben un efecto despu\u00e9s de que lances Bendici\u00f3n de protecci\u00f3n o Bendici\u00f3n de libertad.\r\n\r\n Bendici\u00f3n de protecci\u00f3n\r\nDa\u00f1o f\u00edsico reducido un 30% durante 6 s.\r\n\r\n Bendici\u00f3n de libertad\r\nDisipa todos los efectos de reducci\u00f3n de movimiento.",
+    "fr_FR": "Les alli\u00e9s affect\u00e9s par votre aura re\u00e7oivent l\u2019effet suivant lorsque vous lancez B\u00e9n\u00e9diction de protection ou B\u00e9n\u00e9diction de libert\u00e9\u00a0:\r\n\r\n B\u00e9n\u00e9diction de protection\r\nD\u00e9g\u00e2ts physiques r\u00e9duits de 30% pendant 6 s.\r\n\r\n B\u00e9n\u00e9diction de libert\u00e9\r\nDissipation des effets affectant le d\u00e9placement.",
+    "it_IT": "Gli alleati protetti da una tua Aura ricevono un effetto dopo il lancio di Benedizione della Protezione o Benedizione della Libert\u00e0.\r\n\r\n Benedizione della Protezione\r\nRiduce i danni fisici subiti del 30% per 6 s.\r\n\r\n Benedizione della Libert\u00e0\r\nDissolve tutti gli effetti di limitazione al movimento.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u044f \u0437\u0430\u0449\u0438\u0442\u044b\" \u0438\u043b\u0438 \"\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u043d\u043e\u0439 \u0441\u0432\u043e\u0431\u043e\u0434\u044b\" \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0438, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0435\u0441\u044f \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0432\u0430\u0448\u0435\u0439 \u0430\u0443\u0440\u044b, \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043e\u0434\u0438\u043d \u0438\u0437 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432:\r\n\r\n \u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435 \u0437\u0430\u0449\u0438\u0442\u044b\r\n\u041f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d \u043d\u0430 30% \u043d\u0430 6 \u0441\u0435\u043a.\r\n\r\n \u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u043d\u0430\u044f \u0441\u0432\u043e\u0431\u043e\u0434\u0430\r\n\u0420\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b, \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u0435 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435.",
+    "ko_KR": "\ubcf4\ud638\uc758 \ucd95\ubcf5 \ub610\ub294 \uc790\uc720\uc758 \ucd95\ubcf5\uc744 \uc2dc\uc804\ud558\uba74 \uc624\ub77c \uc801\uc6a9 \ubc94\uc704 \ub0b4\uc5d0 \uc788\ub294 \uc544\uad70\ub4e4\uc5d0\uac8c \ub2e4\uc74c \ud6a8\uacfc\uac00 \uc801\uc6a9\ub429\ub2c8\ub2e4.\r\n\r\n \ubcf4\ud638\uc758 \ucd95\ubcf5\r\n6\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ubb3c\ub9ac \ud53c\ud574\uac00 30%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n \uc790\uc720\uc758 \ucd95\ubcf5\r\n\ubaa8\ub4e0 \uc774\ub3d9 \ubc29\ud574 \ud6a8\uacfc\uac00 \uc81c\uac70\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u65bd\u653e\u4fdd\u8b77\u795d\u798f\u6216\u662f\u81ea\u7531\u795d\u798f\u4e4b\u5f8c\uff0c\u5728\u4f60\u7684\u5149\u74b0\u5f71\u97ff\u7bc4\u570d\u5167\u7684\u76df\u53cb\u6703\u7372\u5f97\u984d\u5916\u6548\u679c\u3002\r\n\r\n \u4fdd\u8b77\u795d\u798f\r\n\u53d7\u5230\u7684\u7269\u7406\u50b7\u5bb3\u964d\u4f4e30%\uff0c\u6301\u7e8c6\u79d2\u3002\r\n\r\n \u81ea\u7531\u795d\u798f\r\n\u6e05\u9664\u6240\u6709\u79fb\u52d5\u9650\u5236\u6548\u679c\u3002",
+    "zh_CN": "\u5728\u4f60\u65bd\u653e\u4fdd\u62a4\u795d\u798f\u6216\u81ea\u7531\u795d\u798f\u540e\uff0c\u53d7\u5230\u4f60\u5149\u73af\u5f71\u54cd\u7684\u76df\u53cb\u4f1a\u83b7\u5f97\u4e0b\u5217\u6548\u679c\u3002\r\n\r\n \u4fdd\u62a4\u795d\u798f\r\n\u53d7\u5230\u7684\u7269\u7406\u4f24\u5bb3\u964d\u4f4e30%\uff0c\u6301\u7eed6\u79d2\u3002\r\n\r\n \u81ea\u7531\u795d\u798f\r\n\u79fb\u9664\u6240\u6709\u79fb\u52a8\u9650\u5236\u6548\u679c\u3002"
+  }
 }

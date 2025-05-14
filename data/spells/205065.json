@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "205065"
+  "SpellID": "205065",
+  "name_blz": {
+    "en_US": "Void Torrent",
+    "es_MX": "Torrente del vac\u00edo",
+    "pt_BR": "Torrente do Caos",
+    "de_DE": "Leerenstrom",
+    "en_GB": "Void Torrent",
+    "es_ES": "Torrente del Vac\u00edo",
+    "fr_FR": "Torrent du Vide",
+    "it_IT": "Torrente del Vuoto",
+    "ru_RU": "\u041f\u043e\u0442\u043e\u043a \u0411\u0435\u0437\u0434\u043d\u044b",
+    "ko_KR": "\uacf5\ud5c8\uc758 \uaca9\ub958",
+    "zh_TW": "\u865b\u7121\u6d2a\u6d41",
+    "zh_CN": "\u865a\u7a7a\u6d2a\u6d41"
+  },
+  "description_blz": {
+    "en_US": "Raise your dagger into the sky, channeling a torrent of void energy into the target for 16,496 Shadow damage over 4 sec. Insanity does not drain during this channel.\r\n\r\nRequires Voidform.",
+    "es_MX": "Alza tu daga hacia el cielo y canaliza un torrente de energ\u00eda del Vac\u00edo que golpea al objetivo y le inflige 16,496 p. de da\u00f1o de las sombras durante 4 s. Durante la canalizaci\u00f3n, no se drena Demencia.\r\n\r\nRequiere Forma del vac\u00edo.",
+    "pt_BR": "Ergue a sua adaga para os c\u00e9us, canalizando uma torrente de energia do caos em dire\u00e7\u00e3o ao alvo e causando 16.496 de dano de Sombra ao longo de 4 s. Insanidade n\u00e3o drena durante essa canaliza\u00e7\u00e3o.\r\n\r\nRequer Forma do Caos.",
+    "de_DE": "Reckt Euren Dolch in den Himmel und kanalisiert einen Strom aus Leerenenergie in Euer Ziel, die ihm im Verlauf von 4 Sek. 16.496 Schattenschaden zuf\u00fcgt. W\u00e4hrend der Kanalisierung dieses Zaubers wird Euch kein Wahnsinn entzogen.\r\n\r\nBen\u00f6tigt Leerengestalt.",
+    "en_GB": "Raise your dagger into the sky, channeling a torrent of void energy into the target for 16,496 Shadow damage over 4 sec. Insanity does not drain during this channel.\r\n\r\nRequires Voidform.",
+    "es_ES": "Alzas tu daga hacia el cielo y canalizas un torrente de energ\u00eda del Vac\u00edo que inflige 16496 p. de da\u00f1o de las Sombras al objetivo durante 4 s. La demencia no disminuye durante esta canalizaci\u00f3n.\r\n\r\nRequiere Forma del Vac\u00edo.",
+    "fr_FR": "Vous brandissez votre dague vers le ciel et canalisez un torrent d\u2019\u00e9nergie du Vide sur la cible, ce qui lui inflige 16496\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre en 4 s. L\u2019insanit\u00e9 n\u2019est pas consomm\u00e9e durant cette canalisation.\r\n\r\nN\u00e9cessite la forme du Vide.",
+    "it_IT": "Il tuo pugnale alzato verso il cielo canalizza un torrente di energia del Vuoto sul bersaglio, infliggendo 16.496 danni da ombra in 4 s, non consumando alcuna pazzia.\r\n\r\nRichiede la Forma del Vuoto.",
+    "ru_RU": "\u0412\u044b \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u0432\u0432\u0435\u0440\u0445 \u0440\u0443\u043a\u0443, \u0434\u0435\u0440\u0436\u0430\u0449\u0443\u044e \u043a\u0438\u043d\u0436\u0430\u043b, \u0438 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u043f\u043e\u0442\u043e\u043a \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0411\u0435\u0437\u0434\u043d\u044b \u043d\u0430 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f \u0435\u0439 16496 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4 \u0441\u0435\u043a. \u041d\u0435 \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u0435\u0442 \u0431\u0435\u0437\u0443\u043c\u0438\u0435 \u043f\u0440\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0438.\r\n\r\n\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0432 \u043e\u0431\u043b\u0438\u043a\u0435 \u0411\u0435\u0437\u0434\u043d\u044b.",
+    "ko_KR": "\ub2e8\uac80\uc744 \uce58\ucf1c\ub4e4\uace0 \ub300\uc0c1\uc5d0\uac8c \uacf5\ud5c8\uc758 \uaca9\ub958\ub97c \uc9d1\uc911\uc2dc\ucf1c, 4\ucd08\uc5d0 \uac78\uccd0 \ucd1d 16,496\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc774 \uc8fc\ubb38\uc5d0 \uc815\uc2e0\uc744 \uc9d1\uc911\ud558\ub294 \ub3d9\uc548\uc5d0\ub294 \uad11\uae30\uac00 \uc18c\uc9c4\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.\r\n\r\n\uacf5\ud5c8\uc758 \ud615\uc0c1\uc744 \ucde8\ud574\uc57c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9ad8\u8209\u4f60\u7684\u5315\u9996\uff0c\u5c0d\u76ee\u6a19\u5f15\u5c0e\u4e00\u9053\u865b\u7121\u80fd\u91cf\u6d2a\u6d41\uff0c\u57284\u79d2\u5167\u9020\u621016,496\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\u5f15\u5c0e\u9019\u500b\u6cd5\u8853\u6642\uff0c\u4e0d\u518d\u6d88\u8017\u760b\u72c2\u3002\r\n\r\n\u9700\u8981\u865b\u7121\u5f62\u614b\u3002",
+    "zh_CN": "\u5c06\u4f60\u7684\u5315\u9996\u4e3e\u5411\u5929\u7a7a\uff0c\u628a\u865a\u7a7a\u80fd\u91cf\u7684\u6d2a\u6d41\u5f15\u5bfc\u8fdb\u76ee\u6807\u4f53\u5185\uff0c\u57284\u79d2\u5185\u9020\u621016,496\u70b9\u6697\u5f71\u4f24\u5bb3\u3002\u5f15\u5bfc\u6b64\u6cd5\u672f\u671f\u95f4\u4e0d\u518d\u6d88\u8017\u72c2\u4e71\u503c\u3002\r\n\r\n\u9700\u8981\u865a\u7a7a\u5f62\u6001\u3002"
+  }
 }

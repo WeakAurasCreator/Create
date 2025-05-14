@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "198434"
+  "SpellID": "198434",
+  "name_blz": {
+    "en_US": "Alpha Wolf",
+    "es_MX": "Lobo alfa",
+    "pt_BR": "Lobo Alfa",
+    "de_DE": "Alphawolf",
+    "en_GB": "Alpha Wolf",
+    "es_ES": "Lobo alfa",
+    "fr_FR": "Loup alpha",
+    "it_IT": "Lupo Alfa",
+    "ru_RU": "\u0410\u043b\u044c\u0444\u0430-\u0432\u043e\u043b\u043a",
+    "ko_KR": "\uc6b0\ub450\uba38\ub9ac \ub291\ub300",
+    "zh_TW": "\u72fc\u7fa4\u9996\u9818",
+    "zh_CN": "\u5934\u72fc"
+  },
+  "description_blz": {
+    "en_US": "While Feral Spirits are active, Chain Lightning and Crash Lightning causes your wolves to attack all nearby enemies for 121 Physical damage every 2 sec for the next 8 sec.",
+    "es_MX": "Mientras los Esp\u00edritus ferales est\u00e1n activos, Cadena de rel\u00e1mpagos y Rel\u00e1mpago estruendoso hacen que tus lobos ataquen a todos los enemigos cercanos y les inflijan 121 p. de da\u00f1o f\u00edsico cada 2 s durante los siguientes 8 s.",
+    "pt_BR": "Enquanto os Esp\u00edritos Ferais estiverem ativos, Cadeia de Raios e Raio Poderoso far\u00e3o seus lobos atacarem todos os inimigos pr\u00f3ximos, causando 121 de dano F\u00edsico a cada 2 s pelos pr\u00f3ximos 8 s.",
+    "de_DE": "Wenn Eure Wildgeister aktiv sind und Ihr 'Kettenblitzschlag' und 'Tobende Blitze' einsetzt, greifen Eure W\u00f6lfe die n\u00e4chsten 8 Sek. lang alle Gegner in der N\u00e4he an und f\u00fcgen ihnen alle 2 Sek. 121 k\u00f6rperlichen Schaden zu.",
+    "en_GB": "While Feral Spirits are active, Chain Lightning and Crash Lightning causes your wolves to attack all nearby enemies for 121 Physical damage every 2 sec for the next 8 sec.",
+    "es_ES": "Si usas Cadena de rel\u00e1mpagos y Estallido de rel\u00e1mpagos mientras tus esp\u00edritus ferales est\u00e1n activos, tus lobos atacar\u00e1n a todos los enemigos cercanos y les infligir\u00e1n 121 p. de da\u00f1o f\u00edsico cada 2 s durante 8 s.",
+    "fr_FR": "Tant que vos esprits farouches sont actifs, Cha\u00eene d\u2019\u00e9clairs et Impact foudroyant permettent \u00e0 vos loups d\u2019attaquer tous les ennemis proches en infligeant 121\u00a0points de d\u00e9g\u00e2ts physiques toutes les 2\u00a0s pendant 8 s.",
+    "it_IT": "Quando i Lupi Spirituali sono attivi, Catena di Fulmini e Schianto di Fulmini li induce ad attaccare tutti i nemici vicini, infliggendo 121 danni fisici ogni 2 s per i successivi 8 s.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0430\u043a\u0442\u0438\u0432\u0435\u043d \"\u0414\u0443\u0445 \u0434\u0438\u043a\u043e\u0433\u043e \u0437\u0432\u0435\u0440\u044f\", \"\u0426\u0435\u043f\u043d\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f\" \u0438 \"\u0421\u043e\u043a\u0440\u0443\u0448\u0430\u044e\u0449\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u0432\u0430\u0448\u0438\u0445 \u0432\u043e\u043b\u043a\u043e\u0432 \u043d\u0430 8 \u0441\u0435\u043a., \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u0438\u0445 \u0430\u0442\u0430\u043a\u0438 \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0442 \u0432\u0441\u0435\u0445 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0438\u043c 121 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0440\u0430\u0437 \u0432 2 \u0441\u0435\u043a.",
+    "ko_KR": "\uc57c\uc218 \uc815\ub839\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc5f0\uc1c4 \ubc88\uac1c\uc640 \ub099\ub8b0\ub97c \uc0ac\uc6a9\ud558\uba74 \ub2e4\uc74c 8\ucd08 \ub3d9\uc548 \ub291\ub300\uac00 \uc8fc\uc704\uc758 \ubaa8\ub4e0 \uc801\uc744 \uacf5\uaca9\ud574 2\ucd08\ub9c8\ub2e4 121\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u91ce\u6027\u4e4b\u9b42\u4f5c\u7528\u671f\u9593\uff0c\u9583\u96fb\u93c8\u548c\u9583\u96fb\u8f5f\u64ca\u6703\u8b93\u4f60\u7684\u5e7d\u9748\u72fc\u5728\u63a5\u4e0b\u4f868\u79d2\u5167\u653b\u64ca\u9644\u8fd1\u6240\u6709\u6575\u4eba\uff0c\u6bcf2\u79d2\u9020\u6210121\u9ede\u7269\u7406\u50b7\u5bb3\u3002",
+    "zh_CN": "\u6fc0\u6d3b\u91ce\u6027\u72fc\u9b42\u65f6\uff0c\u95ea\u7535\u94fe\u548c\u6bc1\u706d\u95ea\u7535\u4f1a\u8ba9\u4f60\u7684\u72fc\u9b42\u5728\u63a5\u4e0b\u6765\u76848\u79d2\u5185\u653b\u51fb\u9644\u8fd1\u7684\u6240\u6709\u654c\u4eba\uff0c\u6bcf2\u79d2\u9020\u6210121\u70b9\u7269\u7406\u4f24\u5bb3\u3002"
+  }
 }

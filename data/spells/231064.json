@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "231064"
+  "SpellID": "231064",
+  "name_blz": {
+    "en_US": "Mangle",
+    "es_MX": "Destrozar",
+    "pt_BR": "Destro\u00e7ar",
+    "de_DE": "Zerfleischen",
+    "en_GB": "Mangle",
+    "es_ES": "Destrozar",
+    "fr_FR": "Mutilation",
+    "it_IT": "Dilaniamento",
+    "ru_RU": "\u0423\u0432\u0435\u0447\u044c\u0435",
+    "ko_KR": "\uc9d3\uc774\uae30\uae30",
+    "zh_TW": "\u5272\u788e",
+    "zh_CN": "\u88c2\u4f24"
+  },
+  "description_blz": {
+    "en_US": "Mangle deals 20% additional damage against bleeding targets.",
+    "es_MX": "Destrozar inflige un 20% m\u00e1s de da\u00f1o contra objetivos que est\u00e9n sangrando.",
+    "pt_BR": "Destro\u00e7ar causa 20% a mais de dano contra alvos que estiverem sangrando.",
+    "de_DE": "'Zerfleischen' f\u00fcgt blutenden Zielen jetzt 20% mehr Schaden zu.",
+    "en_GB": "Mangle deals 20% additional damage against bleeding targets.",
+    "es_ES": "Destrozar inflige un 20% m\u00e1s de da\u00f1o contra los objetivos que sangran.",
+    "fr_FR": "Mutilation inflige 20% de d\u00e9g\u00e2ts suppl\u00e9mentaires contre les cibles qui saignent.",
+    "it_IT": "Dilaniamento infligge il 20% di danni aggiuntivi contro i bersagli sanguinanti.",
+    "ru_RU": "\"\u0423\u0432\u0435\u0447\u044c\u0435\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 20% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0446\u0435\u043b\u044f\u043c, \u0438\u0441\u0442\u0435\u043a\u0430\u044e\u0449\u0438\u043c \u043a\u0440\u043e\u0432\u044c\u044e.",
+    "ko_KR": "\ucd9c\ud608 \uc911\uc778 \ub300\uc0c1\uc5d0 \ub300\ud55c \uc9d3\uc774\uae30\uae30\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5272\u788e\u5c0d\u6d41\u8840\u7684\u76ee\u6a19\u984d\u5916\u9020\u621020%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u88c2\u4f24\u5bf9\u6d41\u8840\u7684\u76ee\u6807\u9020\u6210\u989d\u591620%\u7684\u4f24\u5bb3\u3002"
+  }
 }

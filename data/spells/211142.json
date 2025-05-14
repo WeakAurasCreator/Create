@@ -34,5 +34,29 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "211142"
+  "SpellID": "211142",
+  "name_blz": {
+    "en_US": "Item - Druid T19 Feral 4P Bonus",
+    "es_MX": "Objeto - Druida T19 Feral 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - Druid T19 Feral 4P Bonus",
+    "en_GB": "Item - Druid T19 Feral 4P Bonus",
+    "it_IT": "Item - Druid T19 Feral 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T19 \uc57c\uc131 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T19 Feral 4P Bonus",
+    "zh_CN": "\u5957\u88c5\u7279\u6548\u5360\u4f4d"
+  },
+  "description_blz": {
+    "en_US": "Shred and Swipe deal 8% increased damage for each Bleed effect you have on the target.",
+    "es_MX": "Triturar y Flagelo infligen un 8% de da\u00f1o aumentado por cada efecto de sangrado que tengas sobre el objetivo.",
+    "pt_BR": "Despeda\u00e7ar e Patada causam 8% a mais de dano para cada efeito de Sangramento seu no alvo.",
+    "de_DE": "F\u00fcr jeden Eurer auf das Ziel wirkenden Blutungseffekte verursachen 'Schreddern' und 'Prankenhieb' 8% mehr Schaden.",
+    "en_GB": "Shred and Swipe deal 8% increased damage for each Bleed effect you have on the target.",
+    "es_ES": "Triturar y Flagelo infligen un 8% m\u00e1s de da\u00f1o por cada efecto de sangrado que hayas aplicado al objetivo.",
+    "fr_FR": "Lambeau et Balayage infligent 8% de d\u00e9g\u00e2ts suppl\u00e9mentaires pour chaque cumul de Saignement que vous avez sur la cible.",
+    "it_IT": "Artigliata e Spazzata infliggono il 8% di danni aggiuntivi per ogni effetto di sanguinamento attivo sul bersaglio.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u041f\u043e\u043b\u043e\u0441\u043d\u0443\u0442\u044c\" \u0438 \"\u0420\u0430\u0437\u043c\u0430\u0445\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 8% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f, \u043d\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u043c\u0438 \u043d\u0430 \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uac78\ub9b0 \uc790\uc2e0\uc758 \ucd9c\ud608 \ud6a8\uacfc \ud558\ub098\ub2f9 \uce7c\ub0a0 \ubc1c\ud1b1\uacfc \ud718\ub458\ub7ec\uce58\uae30\uc758 \uacf5\uaca9\ub825\uc774 8%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5728\u76ee\u6a19\u8eab\u4e0a\u6bcf\u65bd\u52a0\u4e00\u7a2e\u6d41\u8840\u6548\u679c\uff0c\u6495\u788e\u548c\u63ee\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u5c31\u63d0\u9ad88%\u3002",
+    "zh_CN": "\u4f60\u5728\u76ee\u6807\u8eab\u4e0a\u6bcf\u6709\u4e00\u4e2a\u6d41\u8840\u6548\u679c\uff0c\u6495\u788e\u548c\u6a2a\u626b\u9020\u6210\u7684\u4f24\u5bb3\u4fbf\u63d0\u9ad88%\u3002"
+  }
 }

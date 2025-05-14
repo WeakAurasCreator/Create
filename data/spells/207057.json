@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207057"
+  "SpellID": "207057",
+  "name_blz": {
+    "en_US": "Shattering Blade",
+    "es_MX": "Hoja de destrucci\u00f3n",
+    "pt_BR": "L\u00e2mina Devastadora",
+    "de_DE": "Zertr\u00fcmmernde Klinge",
+    "en_GB": "Shattering Blade",
+    "es_ES": "Hoja devastadora",
+    "fr_FR": "Lame fracassante",
+    "it_IT": "Assalto Frantumante",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0438\u043d\u043e\u043a",
+    "ko_KR": "\ubd84\uc1c4 \uce7c\ub0a0",
+    "zh_TW": "\u7c89\u788e\u4e4b\u5203",
+    "zh_CN": "\u7834\u788e\u4e4b\u5203"
+  },
+  "description_blz": {
+    "en_US": "When Frost Strike damages an enemy with 5 stacks of Razorice it will consume them to deal an additional 115% damage.",
+    "es_MX": "Cuando Golpe de escarcha da\u00f1a a un enemigo con 5 acumulaciones de Cuchilla de hielo, las consumir\u00e1 para infligir un 115% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Quando o Golpe G\u00e9lido causa dano a um inimigo com 5 aplica\u00e7\u00f5es de Gel\u00e2mina, ele as consome para causar 115% a mais de dano.",
+    "de_DE": "Wenn 'Froststo\u00df' einem Gegner mit 5 Stapeln von 'Schneidendes Eis' Schaden zuf\u00fcgt, werden diese verbraucht, um ihm zus\u00e4tzlich 115% Schaden zuzuf\u00fcgen.",
+    "en_GB": "When Frost Strike damages an enemy with 5 stacks of Razorice it will consume them to deal an additional 115% damage.",
+    "es_ES": "Cuando Golpe de Escarcha inflige da\u00f1o a un enemigo con 5 acumulaciones de Cuchilla de hielo, estas se consumir\u00e1n para infligir un 115% extra de da\u00f1o.",
+    "fr_FR": "Si la cible est affect\u00e9e par 5\u00a0charges de Trancheglace, Frappe de givre les consomme et inflige 115% de d\u00e9g\u00e2ts suppl\u00e9mentaires.",
+    "it_IT": "Quando Assalto del Gelo infligge danni a un nemico con 5 accumuli di Lama di Ghiaccio, li consuma per infliggere il 115% di danni aggiuntivi.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0443\u0434\u0430\u0440\" \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0446\u0435\u043b\u044c \u0441 5 \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c\u0438 \"\u0420\u0435\u0436\u0443\u0449\u0438\u0439 \u043b\u0435\u0434\", \"\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0443\u0434\u0430\u0440\" \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \u0438\u0445 \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 115% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uce7c\ub0a0\uc5bc\uc74c\uc774 5\ubc88 \uc911\ucca9\ub41c \uc0c1\ud0dc\uc5d0\uc11c \ub0c9\uae30\uc758 \uc77c\uaca9\uc73c\ub85c \uc801\uc744 \uacf5\uaca9\ud560 \ub54c, \uc911\ucca9\uc744 \uc18c\ubaa8\ud558\uace0 115%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u51b0\u971c\u6253\u64ca\u5c0d\u5806\u758a5\u5c64\u51b0\u5243\u7684\u6575\u4eba\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u5c07\u6703\u6d88\u8017\u6548\u679c\uff0c\u984d\u5916\u9020\u6210115%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5982\u679c\u76ee\u6807\u8eab\u4e0a\u5df2\u7ecf\u6709\u4e865\u5c42\u950b\u9510\u4e4b\u971c\u6548\u679c\uff0c\u51b0\u971c\u6253\u51fb\u4f1a\u6d88\u8017\u8fd9\u4e9b\u6548\u679c\uff0c\u5e76\u9020\u6210115%\u7684\u989d\u5916\u4f24\u5bb3\u3002"
+  }
 }

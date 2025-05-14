@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "227847"
+  "SpellID": "227847",
+  "name_blz": {
+    "en_US": "Bladestorm",
+    "es_MX": "Filotormenta",
+    "pt_BR": "Tornado de A\u00e7o",
+    "de_DE": "Klingensturm",
+    "en_GB": "Bladestorm",
+    "es_ES": "Filotormenta",
+    "fr_FR": "Temp\u00eate de lames",
+    "it_IT": "Tempesta di Lame",
+    "ru_RU": "\u0412\u0438\u0445\u0440\u044c \u043a\u043b\u0438\u043d\u043a\u043e\u0432",
+    "ko_KR": "\uce7c\ub0a0\ud3ed\ud48d",
+    "zh_TW": "\u528d\u5203\u98a8\u66b4",
+    "zh_CN": "\u5251\u5203\u98ce\u66b4"
+  },
+  "description_blz": {
+    "en_US": "Become an unstoppable storm of destructive force, striking all nearby enemies for 6,884 Physical damage over 5.4 sec. Deals reduced damage beyond 8 targets.\r\n\r\nYou are immune to movement impairing and loss of control effects, but can use defensive abilities and can avoid attacks.\r\n",
+    "es_MX": "Te conviertes en una tormenta imparable de fuerza destructiva que golpea a todos los enemigos cercanos e inflige 6,782 p. de da\u00f1o f\u00edsico durante 5.4 s. Inflige menos da\u00f1o cuando golpea a m\u00e1s de 8 objetivos.\r\n\r\nEres inmune a los efectos de reducci\u00f3n de movimiento y p\u00e9rdida de control, pero puedes usar habilidades defensivas y esquivar los ataques.\r\n",
+    "pt_BR": "Voc\u00ea se transforma em um tornado irrefre\u00e1vel de for\u00e7a destrutiva, causando 6.872 de dano F\u00edsico a todos os inimigos pr\u00f3ximos ao longo de 5,4 s. Dano reduzido acima de 8 alvos.\r\n\r\nVoc\u00ea fica imune a efeitos que dificultem o movimento ou causem perda do controle, mas pode usar habilidades defensivas e desviar de ataques.\r\n",
+    "de_DE": "Werdet zu einem unaufhaltsamen Sturm zerst\u00f6rerischer Kraft und f\u00fcgt allen Gegnern in der N\u00e4he im Verlauf von 5,4 Sek. 6.858 k\u00f6rperlichen Schaden zu. F\u00fcgt Zielen \u00fcber 8 Ziele hinaus verringerten Schaden zu.\r\n\r\nIhr seid dabei gegen bewegungseinschr\u00e4nkende und Kontrollverlusteffekte immun, k\u00f6nnt aber defensive F\u00e4higkeiten einsetzen und Angriffe vermeiden.\r\n",
+    "en_GB": "Become an unstoppable storm of destructive force, striking all nearby enemies for 6,829 Physical damage over 5.4 sec. Deals reduced damage beyond 8 targets.\r\n\r\nYou are immune to movement impairing and loss of control effects, but can use defensive abilities and can avoid attacks.\r\n",
+    "es_ES": "Te conviertes en una tormenta imparable de fuerza destructiva que inflige 6666 p. de da\u00f1o f\u00edsico a todos los enemigos cercanos durante 5,4 s. Inflige da\u00f1o reducido si golpea a m\u00e1s de 8 objetivos.\r\n\r\nEres inmune a los efectos de reducci\u00f3n de movimiento y p\u00e9rdida de control, pero puedes usar facultades defensivas y evitar ataques.\r\n",
+    "fr_FR": "Vous devenez une temp\u00eate irr\u00e9sistible \u00e0 la force destructrice qui frappe les adversaires proches et leur inflige 6818\u00a0points de d\u00e9g\u00e2ts physiques en 5,4 s. Les d\u00e9g\u00e2ts sont r\u00e9duits au-del\u00e0 de 8\u00a0cibles.\r\n\r\nVous \u00eates insensible aux effets de contr\u00f4le, d\u2019immobilisation ou de ralentissement, mais vous pouvez utiliser des techniques d\u00e9fensives et \u00e9viter les attaques.\r\n",
+    "it_IT": "Una tempesta irrefrenabile di forza distruttiva colpisce tutti i nemici vicini, infliggendo 6.740 danni fisici in 5,4 s. Danni ridotti oltre 8 bersagli.\r\n\r\nRende immuni a effetti di limitazione al movimento e di perdita di controllo del personaggio, ma permette di lanciare abilit\u00e0 difensive ed evitare gli attacchi.\r\n",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u043d\u0430\u043d\u043e\u0441\u044f 6631 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 5,4 \u0441\u0435\u043a. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 8-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d.\r\n\r\n\u0412\u044b \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b, \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u0435 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0438 \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043f\u043e\u0442\u0435\u0440\u044e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043d\u0430\u0434 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u043c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u043e\u0436\u0435\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043e\u0431\u043e\u0440\u043e\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u043a\u043b\u043e\u043d\u044f\u0442\u044c\u0441\u044f \u043e\u0442 \u0430\u0442\u0430\u043a.\r\n",
+    "ko_KR": "\uba48\ucd9c \uc218 \uc5c6\ub294 \ud30c\uad34\uc758 \uc18c\uc6a9\ub3cc\uc774\uac00 \ub418\uc5b4 5.4\ucd08 \ub3d9\uc548 \uc8fc\uc704 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 6,794\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ub300\uc0c1\uc774 8\uba85\uc744 \ucd08\uacfc\ud558\uba74 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc774\ub3d9 \ubc29\ud574 \ud6a8\uacfc\ub098 \uad70\uc911 \uc81c\uc5b4 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub418\uba70, \ubc29\uc5b4 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uace0 \uacf5\uaca9\uc744 \ud68c\ud53c\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u4f60\u5316\u8eab\u70ba\u52e2\u4e0d\u53ef\u64cb\u7684\u6bc0\u6ec5\u65cb\u98a8\uff0c\u57285.4\u79d2\u5167\u5c0d\u9644\u8fd1\u6240\u6709\u6575\u4eba\u9020\u62106,771\u9ede\u7269\u7406\u50b7\u5bb3\u3002\u8d85\u904e8\u500b\u76ee\u6a19\u6642\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u4f60\u5c0d\u79fb\u52d5\u9650\u5236\u8207\u55aa\u5931\u63a7\u5236\u6548\u679c\u514d\u75ab\uff0c\u4e26\u4e14\u80fd\u4f7f\u7528\u9632\u79a6\u6280\u80fd\u548c\u9583\u907f\u653b\u64ca\u3002\r\n",
+    "zh_CN": "\u5316\u4f5c\u4e00\u80a1\u5177\u6709\u6bc1\u706d\u6027\u529b\u91cf\u7684\u65cb\u8f6c\u98ce\u66b4\uff0c\u6253\u51fb\u9644\u8fd1\u6240\u6709\u76ee\u6807\uff0c\u57285.4\u79d2\u5185\u9020\u62106,772\u70b9\u7269\u7406\u4f24\u5bb3\u3002\u76ee\u6807\u6570\u91cf\u8d85\u8fc78\u4e2a\u540e\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u4f60\u5c06\u514d\u75ab\u6240\u6709\u7684\u79fb\u52a8\u9650\u5236\u548c\u5931\u63a7\u6548\u679c\uff0c\u53ef\u4ee5\u4f7f\u7528\u9632\u5fa1\u6280\u80fd\u5e76\u8eb2\u907f\u653b\u51fb\u3002\r\n"
+  }
 }

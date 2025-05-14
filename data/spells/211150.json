@@ -34,5 +34,29 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "211150"
+  "SpellID": "211150",
+  "name_blz": {
+    "en_US": "Item - Druid T19 Guardian 4P Bonus",
+    "es_MX": "Objeto - Druida T19 Guardi\u00e1n 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - Druid T19 Guardian 4P Bonus",
+    "en_GB": "Item - Druid T19 Guardian 4P Bonus",
+    "it_IT": "Item - Druid T19 Guardian 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T19 \uc218\ud638 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T19 Guardian 4P Bonus",
+    "zh_CN": "\u5957\u88c5\u7279\u6548\u5360\u4f4d"
+  },
+  "description_blz": {
+    "en_US": "Mangle reduces the cost of your next Ironfur or Frenzied Regeneration by 5 Rage, stacking up to 2 times.",
+    "es_MX": "Destrozar reduce 5 p. de ira el costo de tu siguiente Cueracero o Regeneraci\u00f3n fren\u00e9tica, y se acumula hasta 2 veces.",
+    "pt_BR": "Destro\u00e7ar reduz em 5 o custo de Raiva do seu pr\u00f3ximo lan\u00e7amento de Velof\u00e9rreo ou Regenera\u00e7\u00e3o Fren\u00e9tica, acumulando at\u00e9 2 vezes.",
+    "de_DE": "'Zerfleischen' verringert die Kosten Eures n\u00e4chsten Einsatzes von 'Eisenfell' oder 'Rasende Regeneration' um 5 Wut. Dieser Effekt ist bis zu 2-mal stapelbar.",
+    "en_GB": "Mangle reduces the cost of your next Ironfur or Frenzied Regeneration by 5 Rage, stacking up to 2 times.",
+    "es_ES": "Destrozar reduce el coste de tu siguiente Pelaje f\u00e9rreo o Regeneraci\u00f3n fren\u00e9tica 5 p. de ira. Se acumula hasta 2 veces.",
+    "fr_FR": "Mutilation r\u00e9duit le co\u00fbt de votre prochaine technique Ferpoil ou R\u00e9g\u00e9n\u00e9ration fr\u00e9n\u00e9tique de 5\u00a0points de rage. Cumulable jusqu\u2019\u00e0 2\u00a0fois.",
+    "it_IT": "Dilaniamento riduce il costo del successivo Vello di Ferro o Rigenerazione Furiosa di 5 rabbia. Si accumula fino a 2 volte.",
+    "ru_RU": "\u041f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \"\u0423\u0432\u0435\u0447\u044c\u044f\" \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u044f\u0440\u043e\u0441\u0442\u0438 \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0432\u0430\u0448\u0435\u0439 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043c\u0435\u0445\" \u0438\u043b\u0438 \"\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u043e\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\" \u0431\u0443\u0434\u0443\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u044b \u043d\u0430 5 \u0435\u0434. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 2 \u0440\u0430\u0437.",
+    "ko_KR": "\uc9d3\uc774\uae30\uae30 \uc0ac\uc6a9 \uc2dc \ub2e4\uc74c \ubb34\uc1e0\uac00\uc8fd \ub610\ub294 \uad11\ud3ec\ud55c \uc7ac\uc0dd\ub825\uc758 \ubd84\ub178 \uc18c\ubaa8\uac00 5\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ucd5c\ub300 2\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5272\u788e\u53ef\u4ee5\u8b93\u4f60\u4e0b\u4e00\u6b21\u4f7f\u7528\u92fc\u9435\u6bdb\u76ae\u6216\u72c2\u66b4\u6062\u5fa9\u6642\uff0c\u964d\u4f4e5\u9ede\u6012\u6c23\u6d88\u8017\uff0c\u6700\u9ad8\u53ef\u5806\u758a2\u6b21\u3002",
+    "zh_CN": "\u88c2\u4f24\u4f7f\u4f60\u7684\u4e0b\u4e00\u6b21\u94c1\u9b03\u6216\u72c2\u66b4\u56de\u590d\u6d88\u8017\u7684\u6012\u6c14\u51cf\u5c115\u70b9\uff0c\u53ef\u53e0\u52a0\u6700\u591a2\u6b21\u3002"
+  }
 }

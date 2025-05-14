@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "171202"
+  "SpellID": "171202",
+  "name_blz": {
+    "en_US": "Follower: Aeda Brightdawn",
+    "es_MX": "Seguidor: Aeda Alba Brillante",
+    "pt_BR": "Seguidor: Aeda Brilhalvo",
+    "de_DE": "Anh\u00e4ngerin: Aeda Morgenglanz",
+    "en_GB": "Follower: Aeda Brightdawn",
+    "es_ES": "Seguidora: Aeda Alba Brillante",
+    "fr_FR": "Sujet\u00a0: Aeda Brillaube",
+    "it_IT": "Seguace: Aeda Albaluce",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0410\u0435\u0434\u0430 \u042f\u0441\u043d\u0430\u044f \u0417\u0430\u0440\u044f",
+    "ko_KR": "\ucd94\uc885\uc790: \uc5d0\uc774\ub2e4 \ube0c\ub77c\uc774\ud2b8\ub3c8",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a \u611b\u4f0a\u9054\u2027\u660e\u66e6",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u827e\u8fbe\u00b7\u6668\u5149"
+  },
+  "description_blz": {
+    "en_US": "Aeda Brightdawn maintains that not all warlocks are \"evil\". They call upon demons and shadow magic, sure, but why does that mean they can't use their powers for good... right?",
+    "es_MX": "Aeda Alba Brillante asegura que no todos los brujos son \"malvados\". Invocan demonios y magia de las Sombras, claro, pero eso no significa que no pueden usar sus poderes para el bien... \u00bfcierto?",
+    "pt_BR": "Aeda Brilhalvo acredita que nem todos os bruxos s\u00e3o maus. Sim, eles convocam dem\u00f4nios e poderes sombrios, mas isso n\u00e3o quer dizer que n\u00e3o possam us\u00e1-los para o bem... certo?",
+    "de_DE": "Aeda Morgenglanz bleibt bei ihrer Meinung, dass nicht alle Hexenmeister zwangsl\u00e4ufig \"b\u00f6se\" sein m\u00fcssen. Nat\u00fcrlich beschw\u00f6ren sie D\u00e4monen und Schattenmagie. Aber sie k\u00f6nnten diese Talente doch auch f\u00fcr etwas Gutes einsetzen. Oder?",
+    "en_GB": "Aeda Brightdawn maintains that not all warlocks are \"evil\". They call upon demons and shadow magic, sure, but why does that mean they can't use their powers for good... right?",
+    "es_ES": "Aeda Alba Brillante insiste en que no todos los brujos son malvados. Es cierto que usan demonios y magia de las Sombras, pero \u00bfqui\u00e9n dice que no puedan usar sus poderes para hacer el bien?",
+    "fr_FR": "Aeda Brillaube soutient que les d\u00e9monistes ne sont pas tous \u00ab\u00a0mal\u00e9fiques\u00a0\u00bb. Ils font appel aux d\u00e9mons et \u00e0 la magie de l\u2019ombre, bien s\u00fbr, mais \u00e7a ne les emp\u00eache pas d\u2019utiliser leurs pouvoirs pour faire le bien\u2026 Pas vrai\u00a0?",
+    "it_IT": "Aeda Albaluce sostiene che non tutti gli Stregoni siano malvagi. Essi evocano demoni e usano la magia dell'ombra, certo, ma non significa che non possano usare i loro poteri a fin di bene... giusto?",
+    "ru_RU": "\u0410\u0435\u0434\u0430 \u042f\u0441\u043d\u0430\u044f \u0417\u0430\u0440\u044f \u0441\u0447\u0438\u0442\u0430\u0435\u0442, \u0447\u0442\u043e \u043d\u0435 \u0432\u0441\u0435 \u0447\u0435\u0440\u043d\u043e\u043a\u043d\u0438\u0436\u043d\u0438\u043a\u0438 \"\u0437\u043b\u044b\u0435\". \u0414\u0430, \u043e\u043d\u0438 \u043f\u0440\u0438\u0431\u0435\u0433\u0430\u044e\u0442 \u043a \u043f\u043e\u043c\u043e\u0449\u0438 \u0434\u0435\u043c\u043e\u043d\u043e\u0432 \u0438 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u043d\u043e \u043c\u043e\u0436\u043d\u043e \u0436\u0435 \u0434\u0435\u043b\u0430\u0442\u044c \u044d\u0442\u043e \u0438 \u0432\u043e \u0438\u043c\u044f \u0434\u043e\u0431\u0440\u0430, \u043d\u0435 \u0442\u0430\u043a \u043b\u0438?",
+    "ko_KR": "\uc5d0\uc774\ub2e4 \ube0c\ub77c\uc774\ud2b8\ub3c8\uc740 \ud751\ub9c8\ubc95\uc0ac\ub4e4\uc774\ub77c\uace0 \ud574\uc11c \uc804\ubd80 \"\uc0ac\uc545\ud558\uc9c0\ub294\" \uc54a\ub2e4\uace0 \uc8fc\uc7a5\ud569\ub2c8\ub2e4. \ubb3c\ub860 \uc545\ub9c8\ub97c \ubd88\ub7ec\ub0b4\uace0 \uc554\ud751\uc758 \ub9c8\ubc95\uc744 \ubd80\ub9ac\uc9c0\ub9cc, \uadf8\uac78 \uc88b\uc740 \uc77c\uc5d0 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\ub294 \uac74 \uc544\ub2c8\ub2c8\uae4c\uc694... \uadf8\ub807\uc8e0?",
+    "zh_TW": "\u611b\u4f0a\u9054\u2027\u660e\u66e6\u62b1\u6301\u8457\u300c\u8853\u58eb\u4e26\u975e\u90fd\u662f\u90aa\u60e1\u7684\u300d\u7684\u770b\u6cd5\u3002\u4ed6\u5011\u652f\u914d\u60e1\u9b54\u548c\u6697\u5f71\u9b54\u6cd5\u662f\u4e8b\u5be6\u6c92\u932f\uff0c\u4e0d\u904e\u9019\u4e26\u4e0d\u4ee3\u8868\u4ed6\u5011\u4e0d\u80fd\u5c07\u529b\u91cf\u7528\u5728\u597d\u7684\u5730\u65b9...\u5c0d\u5427\uff1f",
+    "zh_CN": "\u827e\u8fbe\u00b7\u6668\u5149\u575a\u6301\u5e76\u4e0d\u662f\u6240\u6709\u672f\u58eb\u90fd\u662f\u201c\u90aa\u6076\u201c\u7684\u3002\u5f53\u7136\uff0c\u4ed6\u4eec\u4f1a\u53ec\u5524\u6076\u9b54\u5e76\u4e14\u4f7f\u7528\u6697\u5f71\u9b54\u6cd5\uff0c\u4f46\u4e3a\u4ec0\u4e48\u8fd9\u6837\u7684\u529b\u91cf\u5c31\u4e0d\u80fd\u7528\u5728\u6b63\u9053\u4e0a\u5462\u2026\u2026\u662f\u5427\uff1f"
+  }
 }

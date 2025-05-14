@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196922"
+  "SpellID": "196922",
+  "name_blz": {
+    "en_US": "Hit and Run",
+    "es_MX": "Doble tenebroso",
+    "pt_BR": "Bater e Correr",
+    "de_DE": "Drauf und weg",
+    "en_GB": "Hit and Run",
+    "es_ES": "Ataque fugaz",
+    "fr_FR": "Pas vu, pas pris",
+    "it_IT": "Acchiappa e Scappa",
+    "ru_RU": "\u0411\u0435\u0439 \u0438 \u0431\u0435\u0433\u0438",
+    "ko_KR": "\uce58\uace0 \ube60\uc9c0\uae30",
+    "zh_TW": "\u6253\u5e36\u8dd1",
+    "zh_CN": "\u79fb\u5f62\u6362\u4f4d"
+  },
+  "description_blz": {
+    "en_US": "Movement speed increased by 15%.",
+    "es_MX": "La velocidad de movimiento aumenta un 15%.",
+    "pt_BR": "Velocidade de movimento aumentada em 15%.",
+    "de_DE": "Bewegungsgeschwindigkeit um 15% erh\u00f6ht.",
+    "en_GB": "Movement speed increased by 15%.",
+    "es_ES": "Velocidad de movimiento aumentada un 15%.",
+    "fr_FR": "Vitesse de d\u00e9placement augment\u00e9e de 15%.",
+    "it_IT": "Aumenta la velocit\u00e0 di movimento del 15%.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 15%.",
+    "ko_KR": "\uc774\ub3d9 \uc18d\ub3c4\uac00 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad815%\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165403"
+  "SpellID": "165403",
+  "name_blz": {
+    "en_US": "Item - Monk T17 Windwalker2P Bonus",
+    "es_MX": "Objeto - Monje T17 Viajero del viento 2P Bonificaci\u00f3n",
+    "pt_BR": "Item - Monge T17 Andarilho do Vento 2P B\u00f4nus",
+    "en_GB": "Item - Monk T17 Windwalker2P Bonus",
+    "es_ES": "Item - Monk T17 Windwalker2P Bonus",
+    "it_IT": "Item - Monk T17 Windwalker2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc218\ub3c4\uc0ac T17 \ud48d\uc6b4 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Monk T17 Windwalker2P Bonus",
+    "zh_CN": "Item - Monk T17 Windwalker2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Fists of Fury reduces the cooldown of Storm, Earth, and Fire by 9 sec.",
+    "es_MX": "Pu\u00f1os de furia reduce 9 s el tiempo de reutilizaci\u00f3n de Tormenta, Tierra y Fuego.",
+    "pt_BR": "Punhos da F\u00faria reduz em 9 s a recarga de Tempestade, Terra e Fogo.",
+    "de_DE": "'Furorf\u00e4uste' verringert die Abklingzeit von 'Sturm, Erde und Feuer' um 9 Sek.",
+    "en_GB": "Fists of Fury reduces the cooldown of Storm, Earth, and Fire by 9 sec.",
+    "es_ES": "Pu\u00f1os de furia reduce el tiempo de reutilizaci\u00f3n de Tormenta, Tierra y Fuego 9 s.",
+    "fr_FR": "Poings de fureur r\u00e9duit le temps de recharge de Temp\u00eate, Terre et Feu de 9\u00a0s.",
+    "it_IT": "Pugni della Furia riduce il tempo di recupero di Tempesta, Terra e Fuoco di 9 s.",
+    "ru_RU": "\"\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u044b\u0435 \u043a\u0443\u043b\u0430\u043a\u0438\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \"\u0411\u0443\u0440\u044f, \u0437\u0435\u043c\u043b\u044f \u0438 \u043e\u0433\u043e\u043d\u044c\" \u043d\u0430 9 \u0441\u0435\u043a.",
+    "ko_KR": "\ubd84\ub178\uc758 \uc8fc\uba39 \uc0ac\uc6a9 \uc2dc \ud3ed\ud48d\uacfc \ub300\uc9c0\uc640 \ubd88\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 9\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u5c55\u72c2\u62f3\u9023\u6253\u6703\u4f7f\u98a8\u3001\u706b\u3001\u5927\u5730\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed9\u79d2\u3002",
+    "zh_CN": "\u6012\u96f7\u7834\u4f1a\u4f7f\u98ce\u706b\u96f7\u7535\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed9\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "192249"
+  "SpellID": "192249",
+  "name_blz": {
+    "en_US": "Storm Elemental",
+    "es_MX": "Elemental de tormenta",
+    "pt_BR": "Elemental da Tempestade",
+    "de_DE": "Sturmelementar",
+    "en_GB": "Storm Elemental",
+    "es_ES": "Elemental de tormenta",
+    "fr_FR": "\u00c9l\u00e9mentaire de temp\u00eate",
+    "it_IT": "Elementale della Tempesta",
+    "ru_RU": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044c \u0431\u0443\u0440\u0438",
+    "ko_KR": "\ud3ed\ud48d\uc758 \uc815\ub839",
+    "zh_TW": "\u98a8\u66b4\u5143\u7d20",
+    "zh_CN": "\u98ce\u66b4\u5143\u7d20"
+  },
+  "description_blz": {
+    "en_US": "Calls forth a Greater Storm Elemental to hurl gusts of wind at your enemies for 20 sec.\r\n\r\nWhile the Storm Elemental is active, casting Lightning Bolt or Chain Lightning increases your haste by 4%, stacking up to 4 times.",
+    "es_MX": "Invoca un Elemental de tormenta superior para lanzar r\u00e1fagas de viento contra tus enemigos durante 20 s.\r\n\r\nMientras el Elemental de tormenta est\u00e1 activo, lanzar Descarga de rel\u00e1mpagos o Cadena de rel\u00e1mpagos aumenta tu celeridad un 4%. Este efecto se acumula hasta 4 veces.",
+    "pt_BR": "Evoca um Elemental Maior da Tempestade para lan\u00e7ar rajadas de vento nos seus inimigos por 20 s.\r\n\r\nQuando o Elemental da Tempestade est\u00e1 ativo, lan\u00e7ar Raio ou Cadeia de Raios aumenta em 4% sua acelera\u00e7\u00e3o, acumulando at\u00e9 4 vezes.",
+    "de_DE": "Ruft einen gro\u00dfen Sturmelementar herbei, der Eure Gegner 20 Sek. lang mit Windst\u00f6\u00dfen angreift.\r\n\r\nW\u00e4hrend der Sturmelementar aktiv ist, wird durch den Einsatz von 'Blitzschlag' oder 'Kettenblitzschlag' Euer Tempo um 4% erh\u00f6ht. Bis zu 4-mal stapelbar.",
+    "en_GB": "Calls forth a Greater Storm Elemental to hurl gusts of wind at your enemies for 20 sec.\r\n\r\nWhile the Storm Elemental is active, casting Lightning Bolt or Chain Lightning increases your haste by 4%, stacking up to 4 times.",
+    "es_ES": "Invoca un elemental de tormenta superior que lanza r\u00e1fagas de viento a tus enemigos durante 20 s.\r\n\r\nMientras el elemental de tormenta est\u00e9 activo, los lanzamientos de Descarga de rel\u00e1mpagos o Cadena de rel\u00e1mpagos aumentar\u00e1n un 4% tu celeridad. Este efecto se acumula un m\u00e1ximo de 4 veces.",
+    "fr_FR": "Vous appelez un \u00e9l\u00e9mentaire de temp\u00eate sup\u00e9rieur dont les bourrasques frappent les adversaires pendant 20 s.\r\n\r\nTant que l\u2019\u00e9l\u00e9mentaire de temp\u00eate sup\u00e9rieur est actif, le lancement d\u2019\u00c9clair ou de Cha\u00eene d\u2019\u00e9clairs augmente votre H\u00e2te de 4\u00a0%, cumulable jusqu\u2019\u00e0 4\u00a0fois.",
+    "it_IT": "Richiama un Elementale Superiore della Tempesta che lancia raffiche di vento contro i nemici per 20 s.\r\n\r\nMentre l'Elementale della Tempesta \u00e8 attivo, lanciare Dardo Fulminante o Catena di Fulmini aumenta la celerit\u00e0 del 4%. Si accumula fino a 4 volte.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044f \u0431\u0443\u0440\u0438, \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0435\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043f\u043e\u0440\u044b\u0432\u0430\u043c\u0438 \u0432\u0435\u0442\u0440\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 20 \u0441\u0435\u043a.\r\n\r\n\u041f\u043e\u043a\u0430 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044c \u0436\u0438\u0432, \u043a\u0430\u0436\u0434\u043e\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \"\u041c\u043e\u043b\u043d\u0438\u0438\" \u0438\u043b\u0438 \"\u0426\u0435\u043f\u043d\u043e\u0439 \u043c\u043e\u043b\u043d\u0438\u0438\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 4%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 4 \u0440\u0430\u0437.",
+    "ko_KR": "\uc0c1\uae09 \ud3ed\ud48d\uc758 \uc815\ub839\uc744 \ubd88\ub7ec\ub0b4 20\ucd08 \ub3d9\uc548 \uc801\uc5d0\uac8c \ub3cc\ud48d\uc744 \ubc29\ucd9c\ud558\uac8c \ud569\ub2c8\ub2e4.\r\n\r\n\ud3ed\ud48d\uc758 \uc815\ub839\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \ubc88\uac1c \ud654\uc0b4 \ub610\ub294 \uc5f0\uc1c4 \ubc88\uac1c \uc2dc\uc804 \uc2dc \uac00\uc18d\uc774 4%\ub9cc\ud07c, \ucd5c\ub300 4\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u547c\u559a\u5927\u578b\u98a8\u66b4\u5143\u7d20\u671d\u4f60\u7684\u6575\u4eba\u767c\u5c04\u9663\u98a8\uff0c\u6301\u7e8c20\u79d2\u3002\r\n\r\n\u5728\u98a8\u66b4\u5143\u7d20\u4f5c\u7528\u671f\u9593\uff0c\u65bd\u653e\u9583\u96fb\u7bad\u6216\u9583\u96fb\u93c8\u6703\u4f7f\u4f60\u7684\u52a0\u901f\u63d0\u9ad84%\uff0c\u6700\u591a\u53ef\u5806\u758a4\u5c64\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u4e2a\u5f3a\u529b\u98ce\u66b4\u5143\u7d20\uff0c\u7528\u731b\u70c8\u7684\u98d3\u98ce\u653b\u51fb\u8428\u6ee1\u796d\u53f8\u7684\u654c\u4eba\uff0c\u6301\u7eed20\u79d2\u3002\r\n\r\n\u5f53\u98ce\u66b4\u5143\u7d20\u6fc0\u6d3b\u65f6\uff0c\u65bd\u653e\u95ea\u7535\u7bad\u6216\u95ea\u7535\u94fe\u4f1a\u4f7f\u4f60\u7684\u6025\u901f\u63d0\u9ad84%\uff0c\u6700\u591a\u53e0\u52a04\u6b21\u3002"
+  }
 }

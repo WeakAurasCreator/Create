@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "203962"
+  "SpellID": "203962",
+  "name_blz": {
+    "en_US": "Blood Frenzy",
+    "es_MX": "Frenes\u00ed sangriento",
+    "pt_BR": "Frenesi de Sangue",
+    "de_DE": "Blutraserei",
+    "en_GB": "Blood Frenzy",
+    "es_ES": "Frenes\u00ed sangriento",
+    "fr_FR": "Fr\u00e9n\u00e9sie sanglante",
+    "it_IT": "Frenesia del Sangue",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0435 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e",
+    "ko_KR": "\ud53c\uc758 \uad11\ub780",
+    "zh_TW": "\u8840\u4e4b\u72c2\u66b4",
+    "zh_CN": "\u8840\u6027\u72c2\u4e71"
+  },
+  "description_blz": {
+    "en_US": "Thrash also generates 3 Rage each time it deals damage, on up to 5 targets.",
+    "es_MX": "Vapulear tambi\u00e9n genera 3 p. de ira cada vez que inflige da\u00f1o. Funciona en hasta 5 objetivos.",
+    "pt_BR": "Surra tamb\u00e9m gera 3 de Raiva a cada vez que causa dano, m\u00e1ximo de 5 alvos.",
+    "de_DE": "Jedes Mal, wenn 'Hauen' Schaden verursacht, erzeugt die F\u00e4higkeit 3 Wut, f\u00fcr bis zu 5 Ziele.",
+    "en_GB": "Thrash also generates 3 Rage each time it deals damage, on up to 5 targets.",
+    "es_ES": "Cada vez que Vapulear inflige da\u00f1o, tambi\u00e9n genera 3 p. de ira (m\u00e1ximo de 5 objetivos).",
+    "fr_FR": "Rosser g\u00e9n\u00e8re \u00e9galement 3\u00a0points de rage chaque fois que l\u2019attaque inflige des d\u00e9g\u00e2ts, sur un maximum de 5\u00a0cibles.",
+    "it_IT": "Ogni volta che infligge danni, Falciata genera 3 rabbia, fino a un massimo di 5 bersagli.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442\u0435 3 \u0435\u0434. \u044f\u0440\u043e\u0441\u0442\u0438 \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \"\u0412\u0437\u0431\u0443\u0447\u043a\u0430\". \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0446\u0435\u043b\u0435\u0439.",
+    "ko_KR": "\ub09c\ud0c0\ub85c \ud53c\ud574\ub97c \uc785\ud790 \ub54c\ub9c8\ub2e4 3\uc758 \ubd84\ub178\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4. \ucd5c\ub300 5\uba85\uc758 \ub300\uc0c1\uc5d0\uac8c \uc720\ud6a8\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u7576\u75db\u64ca\u9020\u6210\u50b7\u5bb3\uff0c\u4e5f\u6703\u7522\u751f3\u9ede\u6012\u6c23\uff0c\u6700\u591a\u6703\u5f71\u97ff5\u500b\u76ee\u6a19\u3002",
+    "zh_CN": "\u75db\u51fb\u6bcf\u6b21\u9020\u6210\u4f24\u5bb3\u65f6\u8fd8\u4f1a\u4f7f\u4f60\u4ea7\u751f3\u70b9\u6012\u6c14\uff0c\u6700\u591a5\u4e2a\u76ee\u6807\u3002"
+  }
 }

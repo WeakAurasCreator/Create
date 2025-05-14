@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "211322"
+  "SpellID": "211322",
+  "name_blz": {
+    "en_US": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "es_MX": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "pt_BR": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "de_DE": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "en_GB": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "es_ES": "Objeto - Cazador T19 Punter\u00eda 4P Bonificaci\u00f3n",
+    "fr_FR": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "it_IT": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "ru_RU": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442 19-\u0439 \u0441\u0442\u0443\u043f\u0435\u043d\u0438 \u2013 \u043e\u0445\u043e\u0442\u043d\u0438\u043a (\u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0430) \u2013 \u0431\u043e\u043d\u0443\u0441 \u0437\u0430 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\ub0e5\uafbc T19 \uc0ac\uaca9 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Hunter T19 Marksmanship 4P Bonus",
+    "zh_CN": "Item - Hunter T19 Marksmanship 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Trueshot also reduces the cost of all your Focus spenders by 15%.",
+    "es_MX": "Disparo certero tambi\u00e9n reduce el costo de todos tus consumidores de Enfoque un 15%.",
+    "pt_BR": "Tiro Certeiro tamb\u00e9m reduz em 15% o custo de todas as suas habilidades que consomem Concentra\u00e7\u00e3o.",
+    "de_DE": "'Volltreffer' verringert zus\u00e4tzlich die Kosten aller Eurer Fokus verbrauchenden F\u00e4higkeiten um 15%.",
+    "en_GB": "Trueshot also reduces the cost of all your Focus spenders by 15%.",
+    "es_ES": "Disparo certero tambi\u00e9n reduce un 15% el coste de todos tus consumidores de enfoque.",
+    "fr_FR": "Pr\u00e9cision r\u00e9duit \u00e9galement de 15% le co\u00fbt de vos techniques consommant de la focalisation.",
+    "it_IT": "Precisione riduce il costo di tutte le tue abilit\u00e0 che consumano focus del 15%.",
+    "ru_RU": "\"\u041c\u0435\u0442\u043a\u0438\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u043d\u0430 15% \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u0438 \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439, \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0449\u0438\u0445 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044e.",
+    "ko_KR": "\uc815\uc870\uc900\uc774 \ubaa8\ub4e0 \uc9d1\uc911 \uc18c\ubaa8\ub7c9\uc744 15%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u5f37\u64ca\u6703\u4f7f\u4f60\u6240\u6709\u6d88\u8017\u96c6\u4e2d\u503c\u7684\u6280\u80fd\uff0c\u6d88\u8017\u6e1b\u5c1115%\u3002",
+    "zh_CN": "\u767e\u53d1\u767e\u4e2d\u540c\u65f6\u4f7f\u4f60\u6d88\u8017\u96c6\u4e2d\u503c\u7684\u6280\u80fd\u7684\u6d88\u8017\u964d\u4f4e15%\u3002"
+  }
 }

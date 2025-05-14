@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "213480"
+  "SpellID": "213480",
+  "name_blz": {
+    "en_US": "Unending Hatred",
+    "es_MX": "Odio eterno",
+    "pt_BR": "\u00d3dio Infinito",
+    "de_DE": "Unendlicher Hass",
+    "en_GB": "Unending Hatred",
+    "es_ES": "Odio infinito",
+    "fr_FR": "Haine infinie",
+    "it_IT": "Odio Interminabile",
+    "ru_RU": "\u0412\u0435\u0447\u043d\u0430\u044f \u043d\u0435\u043d\u0430\u0432\u0438\u0441\u0442\u044c",
+    "ko_KR": "\ub05d\uc5c6\ub294 \uc99d\uc624",
+    "zh_TW": "\u7121\u76e1\u618e\u6068",
+    "zh_CN": "\u65e0\u5c3d\u6124\u6012"
+  },
+  "description_blz": {
+    "en_US": "Taking damage causes you to gain Fury based on the damage dealt.",
+    "es_MX": "Si recibes da\u00f1o, obtienes furia seg\u00fan el da\u00f1o infligido.",
+    "pt_BR": "Receber dano faz voc\u00ea ganhar F\u00faria com base no dano causado.",
+    "de_DE": "Wenn Ihr Schaden erleidet, erzeugt Ihr abh\u00e4ngig von der H\u00f6he des Schadens J\u00e4hzorn.",
+    "en_GB": "Taking damage causes you to gain Fury based on the damage dealt.",
+    "es_ES": "Al recibir da\u00f1o, obtienes furia en funci\u00f3n del da\u00f1o infligido.",
+    "fr_FR": "Vous gagnez un montant de fureur proportionnel aux d\u00e9g\u00e2ts que vous subissez.",
+    "it_IT": "Subire danni permette di generare furia in base ai danni inflitti.",
+    "ru_RU": "\u041f\u043e\u043b\u0443\u0447\u0430\u044f \u0443\u0440\u043e\u043d, \u0432\u044b \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442\u0435 \u0433\u043d\u0435\u0432. \u0427\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d, \u0442\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u0433\u043d\u0435\u0432\u0430 \u0432\u044b \u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435.",
+    "ko_KR": "\ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \ud53c\ud574\ub7c9\uc5d0 \ub530\ub77c \uaca9\ub178\ub97c \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u627f\u53d7\u50b7\u5bb3\u4f7f\u4f60\u7372\u5f97\u9b54\u6012\uff0c\u8d8a\u5f37\u7684\u653b\u64ca\u53ef\u7372\u5f97\u8d8a\u591a\u9b54\u6012\u3002",
+    "zh_CN": "\u53d7\u5230\u4f24\u5bb3\u65f6\uff0c\u4f60\u4f1a\u6839\u636e\u6240\u53d7\u4f24\u5bb3\u7684\u591a\u5c11\u83b7\u5f97\u6076\u9b54\u4e4b\u6012\u3002"
+  }
 }

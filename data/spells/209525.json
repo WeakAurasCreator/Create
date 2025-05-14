@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "209525"
+  "SpellID": "209525",
+  "name_blz": {
+    "en_US": "Soothing Mist",
+    "es_MX": "Niebla reconfortante",
+    "pt_BR": "Bruma Calmante",
+    "de_DE": "Beruhigender Nebel",
+    "en_GB": "Soothing Mist",
+    "es_ES": "Niebla reconfortante",
+    "fr_FR": "Brume apaisante",
+    "it_IT": "Nebbia del Sollievo",
+    "ru_RU": "\u0423\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
+    "ko_KR": "\uc704\uc548\uc758 \uc548\uac1c",
+    "zh_TW": "\u8212\u548c\u4e4b\u9727",
+    "zh_CN": "\u629a\u6170\u4e4b\u96fe"
+  },
+  "description_blz": {
+    "en_US": "Heals the target for 49,759 over 18.1 sec.\r\n\r\nWhile channeling, Effuse and Enveloping Mist are instant cast, and will heal the soothed target without breaking the Soothing Mist channel.",
+    "es_MX": "Sana 49,759 p. al objetivo durante 18.1 s.  \r\n\r\nMientras se canaliza, Efundir y Niebla envolvente son instant\u00e1neos y sanar\u00e1n al objetivo reconfortado sin romper el canal de Niebla reconfortante.",
+    "pt_BR": "Cura em 49.759 o alvo ao longo de 18,1 s.\r\n\r\nEnquanto canaliza, Efus\u00e3o e Bruma Envolvente s\u00e3o lan\u00e7adas instantaneamente e curar\u00e3o o alvo acalmado sem quebrar a canaliza\u00e7\u00e3o de Bruma Calmante.",
+    "de_DE": "Heilt das Ziel im Verlauf von 18,1 Sek. um 49.759 Gesundheit.\r\n\r\nW\u00e4hrend 'Beruhigender Nebel' kanalisiert wird, sind '\u00dcberschwang' und 'Einh\u00fcllender Nebel' Spontanzauber und heilen das beruhigte Ziel, ohne die Kanalisierung von 'Beruhigender Nebel' zu unterbrechen.",
+    "en_GB": "Heals the target for 49,759 over 18.1 sec.\r\n\r\nWhile channeling, Effuse and Enveloping Mist are instant cast, and will heal the soothed target without breaking the Soothing Mist channel.",
+    "es_ES": "Sana al objetivo 49759 p. durante 18,1 s.\r\n\r\nMientras se canaliza, Efundir y Niebla envolvente son instant\u00e1neos y sanan al objetivo aliviado sin interrumpir la canalizaci\u00f3n de Niebla reconfortante.",
+    "fr_FR": "Rend \u00e0 la cible 49759\u00a0points de vie en 18,1 s.\r\n\r\nTant que dure la canalisation, les sorts Effusion et Brume enveloppante sont instantan\u00e9s et soignent la cible apais\u00e9e sans interrompre la canalisation de Brume apaisante.",
+    "it_IT": "Cura il bersaglio di 49.759 in 18,1 s.\r\n\r\nDurante la canalizzazione, Emanazione e Nebbia Avvolgente sono istantanee e curano il bersaglio di Nebbia del Sollievo senza interrompere la canalizzazione.",
+    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0446\u0435\u043b\u0438 49759 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 18,1 \u0441\u0435\u043a.\r\n\r\n\u041f\u0440\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0438 \"\u0418\u0437\u043b\u0438\u044f\u043d\u0438\u0435\" \u0438 \"\u041e\u043a\u0443\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0443\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u0435\u043c\u043e\u0439 \u0446\u0435\u043b\u0438, \u043d\u0435 \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 \"\u0423\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0449\u0435\u0433\u043e \u0442\u0443\u043c\u0430\u043d\u0430\".",
+    "ko_KR": "18.1\ucd08\uc5d0 \uac78\uccd0 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc744 49,759\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uc2dc\uc804\ud558\ub294 \ub3d9\uc548 \ubc1c\uc0b0\uacfc \ud3ec\uc6a9\uc758 \uc548\uac1c\uac00 \uc989\uc2dc \uc2dc\uc804\ub418\uba70, \ub300\uc0c1\uc5d0\uac8c \uc2dc\uc804 \uc911\uc778 \uc704\uc548\uc758 \uc548\uac1c \uc8fc\ubb38\uc744 \ucde8\uc18c\ud558\uc9c0 \uc54a\uace0\ub3c4 \ub300\uc0c1\uc744 \uce58\uc720\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u572818.1\u79d2\u5167\u70ba\u76ee\u6a19\u6062\u5fa949,759\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u5f15\u5c0e\u6b64\u6280\u80fd\u6642\uff0c\u6d41\u6d29\u8207\u8ff7\u9727\u7e5a\u7e5e\u6703\u8b8a\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u800c\u4e14\u6cbb\u7642\u8212\u548c\u4e4b\u9727\u7684\u76ee\u6a19\u6642\u4e0d\u6703\u4e2d\u65b7\u5f15\u5c0e\u3002",
+    "zh_CN": "\u572818.1\u79d2\u5185\u4e3a\u76ee\u6807\u6062\u590d49,759\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u5f15\u5bfc\u671f\u95f4\uff0c\u771f\u6c14\u8d2f\u901a\u548c\u6c24\u6c32\u4e4b\u96fe\u53d8\u4e3a\u77ac\u53d1\uff0c\u4e3a\u629a\u6170\u7684\u76ee\u6807\u6cbb\u7597\u65f6\u4e0d\u4f1a\u4e2d\u65ad\u629a\u6170\u4e4b\u96fe\u7684\u5f15\u5bfc\u3002"
+  }
 }

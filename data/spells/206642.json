@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "206642"
+  "SpellID": "206642",
+  "name_blz": {
+    "en_US": "Electrocute",
+    "es_MX": "Electrocutar",
+    "pt_BR": "Eletrocutar",
+    "de_DE": "Stromschlag",
+    "en_GB": "Electrocute",
+    "es_ES": "Electrocutar",
+    "fr_FR": "Electrocuter",
+    "it_IT": "Giustizia Elettrica",
+    "ru_RU": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0434\u0430\u0440",
+    "ko_KR": "\uac10\uc804",
+    "zh_TW": "\u96fb\u64ca",
+    "zh_CN": "\u901a\u7535"
+  },
+  "description_blz": {
+    "en_US": "When you successfully Purge a beneficial effect, the enemy suffers 23,242 Nature damage over 3 sec.",
+    "es_MX": "Cuando logras purgar un efecto beneficioso, el enemigo recibe 23,242 p. de da\u00f1o de Naturaleza durante 3 s.",
+    "pt_BR": "Quando voc\u00ea expurga com sucesso um efeito ben\u00e9fico, o inimigo recebe 23.242 de dano de Natureza ao longo de 3 s.",
+    "de_DE": "Wenn Ihr mit 'Reinigen' erfolgreich einen positiven Effekt entfernt, erleidet der betroffene Gegner im Verlauf von 3 Sek. 23.242 Naturschaden.",
+    "en_GB": "When you successfully Purge a beneficial effect, the enemy suffers 23,242 Nature damage over 3 sec.",
+    "es_ES": "Cuando purgas con \u00e9xito un efecto beneficioso, el enemigo recibe 23242 p. de da\u00f1o de Naturaleza durante 3 s.",
+    "fr_FR": "Lorsque vous purgez un effet b\u00e9n\u00e9fique, l\u2019ennemi subit 23242\u00a0points de d\u00e9g\u00e2ts de Nature en 3 s.",
+    "it_IT": "Quando Epurazione riesce a dissolvere un effetto benefico, il bersaglio subisce 23.242 danni da natura in 3 s.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \"\u0420\u0430\u0437\u0432\u0435\u0438\u0432\u0430\u043d\u0438\u044f \u043c\u0430\u0433\u0438\u0438\", \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 23242 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc774\ub85c\uc6b4 \ud6a8\uacfc\ub97c \uc815\ud654\ud558\uba74 \uc801\uc774 3\ucd08\uc5d0 \uac78\uccd0 23,242\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u6210\u529f\u4ee5\u6de8\u9b54\u8853\u9a45\u6563\u6709\u76ca\u6548\u679c\u6642\uff0c\u6575\u4eba\u6703\u57283\u79d2\u5167\u53d7\u523023,242\u9ede\u81ea\u7136\u50b7\u5bb3\u3002",
+    "zh_CN": "\u6210\u529f\u51c0\u5316\u4e00\u4e2a\u6709\u76ca\u6548\u679c\u65f6\uff0c\u654c\u4eba\u5c06\u57283\u79d2\u5185\u53d7\u523023,242\u70b9\u81ea\u7136\u4f24\u5bb3\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "174965"
+  "SpellID": "174965",
+  "name_blz": {
+    "en_US": "Leorajh Perk: Windspeaker",
+    "es_MX": "Beneficio de Leorajh: hablavientos",
+    "pt_BR": "Benef\u00edcio de Leorajh: Voz dos Ventos",
+    "de_DE": "Bonus von Leorajh: Windsprecher",
+    "en_GB": "Leorajh Perk: Windspeaker",
+    "es_ES": "Ventaja de Leorajh: Hablavientos",
+    "fr_FR": "Avantage de Leorajh\u00a0: Parlevent",
+    "it_IT": "Bonus di Leorajh: Oratore del vento",
+    "ru_RU": "\u0411\u043e\u0435\u0432\u043e\u0439 \u0442\u0430\u043b\u0430\u043d\u0442 \u041b\u0435\u043e\u0440\u0430\u0434\u0436\u0430: \u0413\u043e\u0432\u043e\u0440\u044f\u0449\u0438\u0439 \u0441 \u0432\u0435\u0442\u0440\u043e\u043c",
+    "ko_KR": "\ub808\uc624\ub77c\uc988 \ud61c\ud0dd: \ubc14\ub78c\uc608\uc5b8\uc790",
+    "zh_TW": "\u96f7\u6b50\u62c9\u6770\u7279\u6b8a\u80fd\u529b\uff1a\u8a9e\u98a8\u8005",
+    "zh_CN": "\u5229\u5965\u62c9\u7279\u6280\uff1a\u98ce\u8bed\u8005"
+  },
+  "description_blz": {
+    "en_US": "Leorajh will gain Windspeaker, allowing him to grant you access to garrison missions in the field.\r\n",
+    "es_MX": "Leorajh obtendr\u00e1 hablavientos, lo que le permitir\u00e1 darte acceso a las misiones de la fortaleza en el campo.\r\n",
+    "pt_BR": "Leorajh receber\u00e1 Voz dos Ventos, permitindo a ele conceder acesso \u00e0s miss\u00f5es da guarni\u00e7\u00e3o no campo de batalha.\r\n",
+    "de_DE": "Leorajh erh\u00e4lt 'Windsprecher', wodurch er Euch unterwegs Zugriff auf Garnisonsmissionen gew\u00e4hren kann.\r\n",
+    "en_GB": "Leorajh will gain Windspeaker, allowing him to grant you access to garrison missions in the field.\r\n",
+    "es_ES": "Leorajh obtendr\u00e1 Hablavientos, lo que te permitir\u00e1 acceder a las misiones de la ciudadela en el campo.\r\n",
+    "fr_FR": "Leorajh obtiendra Parlevent, ce qui lui permettra de vous donner acc\u00e8s aux missions de fief sur le terrain.\r\n",
+    "it_IT": "Leorajh ottiene l'abilit\u00e0 Oratore del Vento, permettendoti di accedere alle missioni della Guarnigione sul campo di battaglia.",
+    "ru_RU": "\u041b\u0435\u043e\u0440\u0430\u0434\u0436 \u0441\u0442\u0430\u043d\u0435\u0442 \u0433\u043e\u0432\u043e\u0440\u044f\u0449\u0438\u043c \u0441 \u0432\u0435\u0442\u0440\u043e\u043c, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044f \u0432\u0430\u043c \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0437\u0430\u0434\u0430\u043d\u0438\u044f\u043c \u0433\u0430\u0440\u043d\u0438\u0437\u043e\u043d\u0430 \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u043c\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u0438.\r\n",
+    "ko_KR": "\ub808\uc624\ub77c\uc988\uac00 \ubc14\ub78c\uc608\uc5b8\uc790 \ub2a5\ub825\uc744 \uc5bb\uc5b4, \ud50c\ub808\uc774\uc5b4\uac00 \uc57c\uc678\uc5d0\uc11c \uc8fc\ub454\uc9c0 \uc784\ubb34\uc5d0 \uc811\uadfc\ud560 \uc218 \uc788\uac8c \ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u96f7\u6b50\u62c9\u6770\u5c07\u6703\u7372\u5f97\u8a9e\u98a8\u8005\uff0c\u53ef\u5728\u91ce\u5916\u8b93\u4f60\u67e5\u770b\u8981\u585e\u4efb\u52d9\u3002\r\n",
+    "zh_CN": "\u5229\u5965\u62c9\u5c06\u83b7\u5f97\u98ce\u8bed\u8005\u6280\u80fd\uff0c\u8ba9\u4f60\u80fd\u591f\u5728\u91ce\u5916\u83b7\u5f97\u8981\u585e\u4efb\u52a1\u3002"
+  }
 }

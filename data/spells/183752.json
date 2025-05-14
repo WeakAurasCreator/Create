@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "183752"
+  "SpellID": "183752",
+  "name_blz": {
+    "en_US": "Disrupt",
+    "es_MX": "Interrumpir",
+    "pt_BR": "Interromper",
+    "de_DE": "Unterbrechen",
+    "en_GB": "Disrupt",
+    "es_ES": "Interrumpir",
+    "fr_FR": "\u00c9branlement",
+    "it_IT": "Distruzione",
+    "ru_RU": "\u041f\u0440\u0435\u0440\u044b\u0432\u0430\u043d\u0438\u0435",
+    "ko_KR": "\ubd84\uc5f4",
+    "zh_TW": "\u5e72\u64fe",
+    "zh_CN": "\u74e6\u89e3"
+  },
+  "description_blz": {
+    "en_US": "Interrupts the enemy's spellcasting and locks them from that school of magic for 3 sec.",
+    "es_MX": "Interrumpe el lanzamiento de hechizos del enemigo e impide que lance hechizos de esa escuela durante 3 s.",
+    "pt_BR": "Interrompe o lan\u00e7amento do inimigo e os impede de usar a mesma escola de magia por 3 s.",
+    "de_DE": "Unterbricht den gewirkten Zauber eines Gegners und verhindert 3 Sek. lang, dass Zauber dieser Art gewirkt werden k\u00f6nnen.",
+    "en_GB": "Interrupts the enemy's spellcasting and locks them from that school of magic for 3 sec.",
+    "es_ES": "Interrumpe el lanzamiento de hechizos del enemigo y le bloquea esa escuela de magia durante 3 s.",
+    "fr_FR": "Interrompt les incantations de l\u2019ennemi et l\u2019emp\u00eachez de faire appel \u00e0 cette \u00e9cole de magie pendant 3 s.",
+    "it_IT": "Interrompe il lancio d'incantesimi e impedisce il lancio di altri incantesimi della stessa scuola di magia per 3 s.",
+    "ru_RU": "\u041f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u043c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0438 \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0442\u043e\u0439 \u0436\u0435 \u0448\u043a\u043e\u043b\u044b \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc801\uc758 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\uace0 3\ucd08 \ub3d9\uc548 \ud574\ub2f9 \uacc4\uc5f4\uc758 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uc9c0 \ubabb\ud558\uac8c \ucc28\ub2e8\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4e2d\u65b7\u6575\u4eba\u7684\u65bd\u6cd5\uff0c\u4e26\u4f7f\u5176\u7121\u6cd5\u65bd\u653e\u4efb\u4f55\u540c\u7cfb\u6cd5\u8853\uff0c\u6301\u7e8c3\u79d2\u3002",
+    "zh_CN": "\u6253\u65ad\u654c\u4eba\u7684\u65bd\u6cd5\u5e76\u4f7f\u5176\u57283\u79d2\u5185\u65e0\u6cd5\u4f7f\u7528\u8be5\u7cfb\u7684\u9b54\u6cd5\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "174887"
+  "SpellID": "174887",
+  "name_blz": {
+    "en_US": "Illona Perk: Guiding Light",
+    "es_MX": "Beneficio de Illona: luz gu\u00eda",
+    "pt_BR": "Benef\u00edcio de Illona: Luz Guia",
+    "de_DE": "Bonus von Illona: Leitendes Licht",
+    "en_GB": "Illona Perk: Guiding Light",
+    "es_ES": "Ventaja de Illona: Luz inspiradora",
+    "fr_FR": "Avantage d\u2019Illona\u00a0: Guide de lumi\u00e8re",
+    "it_IT": "Bonus di Illona - Luce Guida",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0418\u043b\u043b\u043e\u043d\u044b: \"\u041f\u0443\u0442\u0435\u0432\u043e\u0434\u043d\u044b\u0439 \u0441\u0432\u0435\u0442\"",
+    "ko_KR": "\uc77c\ub85c\ub098 \ud61c\ud0dd: \uc778\ub3c4\uc758 \ube5b",
+    "zh_TW": "\u4f0a\u863f\u5a1c\u7279\u6b8a\u80fd\u529b\uff1a\u5f15\u8def\u8056\u5149",
+    "zh_CN": "\u827e\u841d\u5a1c\u7279\u6280\uff1a\u6307\u5f15\u4e4b\u5149"
+  },
+  "description_blz": {
+    "en_US": "Illona will gain Guiding Light, allowing her to summon a party or raid member to your location in the field.",
+    "es_MX": "Illona recibir\u00e1 luz gu\u00eda, lo que le permitir\u00e1 invocar un miembro del grupo o banda a tu ubicaci\u00f3n en el campo.",
+    "pt_BR": "Illona ganha Luz Guia, podendo evocar um integrante do raide ou grupo na sua localiza\u00e7\u00e3o.",
+    "de_DE": "Illona erh\u00e4lt 'Leitendes Licht', wodurch sie unterwegs ein Gruppen- oder Schlachtzugsmitglied an Eure Position beschw\u00f6ren kann.",
+    "en_GB": "Illona will gain Guiding Light, allowing her to summon a party or raid member to your location in the field.",
+    "es_ES": "Illona obtendr\u00e1 Luz inspiradora, lo que le permite invocar a un miembro del grupo o banda en tu ubicaci\u00f3n en el campo.",
+    "fr_FR": "Illona obtiendra Guide de lumi\u00e8re, ce qui lui permettra d\u2019invoquer un membre du groupe ou raid \u00e0 votre emplacement sur le terrain.",
+    "it_IT": "Illona ottiene l'abilit\u00e0 Luce Guida e pu\u00f2 evocare un membro del gruppo o dell'incursione sul posto.",
+    "ru_RU": "\u0418\u043b\u043b\u043e\u043d\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041f\u0443\u0442\u0435\u0432\u043e\u0434\u043d\u044b\u0439 \u0441\u0432\u0435\u0442\", \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0443\u044e \u0435\u0439 \u043f\u0440\u0438\u0437\u0432\u0430\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u0433\u0440\u0443\u043f\u043f\u044b \u0438\u043b\u0438 \u0440\u0435\u0439\u0434\u0430.",
+    "ko_KR": "\uc77c\ub85c\ub098\uac00 \uc778\ub3c4\uc758 \ube5b \ub2a5\ub825\uc744 \uc5bb\uc5b4, \uc57c\uc678\uc5d0\uc11c \ud30c\ud2f0\uc6d0\uc774\ub098 \uacf5\uaca9\ub300\uc6d0\uc744 \ud50c\ub808\uc774\uc5b4\uc758 \uc704\uce58\ub85c \uc18c\ud658\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f0a\u863f\u5a1c\u5c07\u6703\u7372\u5f97\u5f15\u8def\u8056\u5149\uff0c\u53ef\u5728\u91ce\u5916\u70ba\u4f60\u53ec\u4f86\u4e00\u540d\u968a\u4f0d\u6216\u5718\u968a\u6210\u54e1\u3002",
+    "zh_CN": "\u827e\u841d\u5a1c\u5c06\u83b7\u5f97\u6307\u5f15\u4e4b\u5149\u6280\u80fd\uff0c\u5141\u8bb8\u5979\u5728\u91ce\u5916\u5c06\u4e00\u540d\u5c0f\u961f\u6216\u56e2\u961f\u6210\u5458\u53ec\u5524\u5230\u4f60\u7684\u4f4d\u7f6e\u3002"
+  }
 }

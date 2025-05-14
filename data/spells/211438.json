@@ -34,5 +34,29 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "211438"
+  "SpellID": "211438",
+  "name_blz": {
+    "en_US": "Item - Paladin T19 Holy 4P Bonus",
+    "es_MX": "Item - Paladin T19 Holy 4P Bonus",
+    "pt_BR": "Item - Paladin T19 Holy 4P Bonus",
+    "en_GB": "Item - Paladin T19 Holy 4P Bonus",
+    "it_IT": "Item - Paladin T19 Holy 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc131\uae30\uc0ac T19 \uc2e0\uc131 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Paladin T19 Holy 4P Bonus",
+    "zh_CN": "\u5957\u88c5\u7279\u6548\u5360\u4f4d"
+  },
+  "description_blz": {
+    "en_US": "Infusion of Light has 1 additional charge.",
+    "es_MX": "Infusi\u00f3n de Luz tiene 1 carga adicional.",
+    "pt_BR": "Infus\u00e3o de Luz tem mais 1 charge:charges.",
+    "de_DE": "'Lichtinfusion' verf\u00fcgt \u00fcber 1 zus\u00e4tzliche Aufladung.",
+    "en_GB": "Infusion of Light has 1 additional charge.",
+    "es_ES": "Infusi\u00f3n de Luz tiene 1 carga extra.",
+    "fr_FR": "Impr\u00e9gnation de lumi\u00e8re dispose de 1\u00a0charge suppl\u00e9mentaire.",
+    "it_IT": "Aumenta le cariche di Infusione di Luce di 1.",
+    "ru_RU": "\"\u041f\u0440\u0438\u043b\u0438\u0432 \u0421\u0432\u0435\u0442\u0430\" \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 1 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0440\u044f\u0434.",
+    "ko_KR": "\ube5b \uc8fc\uc785\uc774 \ucd94\uac00\ub85c 1\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u5149\u704c\u6ce8\u53ef\u984d\u5916\u4f7f\u75281\u6b21\u3002",
+    "zh_CN": "\u5723\u5149\u704c\u6ce8\u53ef\u4ee5\u989d\u5916\u4f7f\u75281\u6b21\u3002"
+  }
 }

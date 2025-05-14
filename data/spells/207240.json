@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207240"
+  "SpellID": "207240",
+  "name_blz": {
+    "en_US": "Follower: Muln Earthfury",
+    "es_MX": "Seguidor: Muln Furiatierra",
+    "pt_BR": "Seguidor: Muln Terraf\u00faria",
+    "de_DE": "Anh\u00e4nger: Muln Erdenwut",
+    "en_GB": "Follower: Muln Earthfury",
+    "es_ES": "Seguidor: Muln Furiatierra",
+    "fr_FR": "Sujet\u00a0: Muln Rageterre",
+    "it_IT": "Seguace: Muln Terra Furiosa",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041c\u0443\u043b\u043d \u0413\u043d\u0435\u0432 \u0417\u0435\u043c\u043b\u0438",
+    "ko_KR": "\ucd94\uc885\uc790: \uba40\ub978 \uc5b4\uc2a4\ud4e8\ub9ac",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u7a46\u502b\u2027\u5730\u6012",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u7a46\u6069\u00b7\u5927\u5730\u4e4b\u6012"
+  },
+  "description_blz": {
+    "en_US": "A former leader of the Earthen Ring, Muln Earthfury is one of the greatest shaman of his generation.00His imposing presence on the battlefield and his mastery of the 'old ways' of shamanism make him a valuable ally.",
+    "es_MX": "Un antiguo l\u00edder de los Anillo de la Tierra, Muln Furiatierra es uno de los chamanes m\u00e1s grandes de su generaci\u00f3n.00Su imponente presencia en el campo de batalla y su maestr\u00eda en las \"formas antiguas\" de chamanismo lo convierten en un aliado valioso.",
+    "pt_BR": "No passado um l\u00edder da Harmonia Tel\u00farica, Muln Terraf\u00faria \u00e9 um dos maiores xam\u00e3s de sua gera\u00e7\u00e3o. Sua presen\u00e7a imponente no campo de batalha e seu dom\u00ednio das \"pr\u00e1ticas antigas\" do xamanismo o tornam um valioso aliado.",
+    "de_DE": "Muln Erdenwut ist ein ehemaliger Anf\u00fchrer des Irdenen Rings und geh\u00f6rt zu den bedeutendsten Schamanen seiner Generation.00Seine beeindruckende Ausstrahlung auf dem Schlachtfeld und seine Meisterschaft des \"traditionellen\" Schamanismus machen ihn zu einem wertvollen Verb\u00fcndeten.",
+    "en_GB": "A former leader of the Earthen Ring, Muln Earthfury is one of the greatest shaman of his generation.00His imposing presence on the battlefield and his mastery of the 'old ways' of shamanism make him a valuable ally.",
+    "es_ES": "Antiguo l\u00edder del Anillo de la Tierra, Muln Furiatierra es uno de los chamanes m\u00e1s importantes de su generaci\u00f3n.00Su imponente presencia en el campo de batalla y su dominio del chamanismo m\u00e1s cl\u00e1sico hacen de \u00e9l un valioso aliado.",
+    "fr_FR": "Ancien chef du Cercle terrestre, Muln Rageterre est l\u2019un des plus grands chamans de sa g\u00e9n\u00e9ration.\r\n\r\nSa pr\u00e9sence imposante sur le champ de bataille et sa ma\u00eetrise des arts ancestraux du chamanisme en font un alli\u00e9 de poids.",
+    "it_IT": "Un tempo capo del Circolo della Terra, Muln Terra Furiosa \u00e8 uno dei pi\u00f9 grandi Sciamani della sua generazione.00La sua presenza imponente sul campo di battaglia e la sua maestria nella vecchia scuola sciamanica lo rendono un alleato prezioso.",
+    "ru_RU": "\u0411\u044b\u0432\u0448\u0438\u0439 \u0433\u043b\u0430\u0432\u0430 \u0421\u043b\u0443\u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0417\u0435\u043c\u043b\u0438, \u041c\u0443\u043b\u043d \u0413\u043d\u0435\u0432 \u0417\u0435\u043c\u043b\u0438 \u2013 \u043e\u0434\u0438\u043d \u0438\u0437 \u0432\u0435\u043b\u0438\u0447\u0430\u0439\u0448\u0438\u0445 \u0448\u0430\u043c\u0430\u043d\u043e\u0432 \u0441\u0432\u043e\u0435\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f.00\u0415\u0433\u043e \u0433\u0440\u043e\u0437\u043d\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u0430 \u043d\u0430 \u043f\u043e\u043b\u0435 \u0431\u043e\u044f \u0432\u043d\u0443\u0448\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0441\u0442\u0440\u0430\u0445, \u0430 \u0437\u043d\u0430\u043d\u0438\u0435 \u043c\u043d\u043e\u0433\u0438\u0445 \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u0448\u0430\u043c\u0430\u043d\u0438\u0437\u043c\u0430 \"\u0441\u0442\u0430\u0440\u043e\u0439 \u0448\u043a\u043e\u043b\u044b\" \u0434\u0435\u043b\u0430\u0435\u0442 \u0435\u0433\u043e \u0432\u0435\u0441\u044c\u043c\u0430 \u0446\u0435\u043d\u043d\u044b\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u043c.",
+    "ko_KR": "\ub300\uc9c0 \uace0\ub9ac\ud68c\uc758 \uc774\uc804 \uc9c0\ub3c4\uc790\uc778 \uba40\ub978 \uc5b4\uc2a4\ud4e8\ub9ac\ub294 \ud604\uc874\ud558\ub294 \uac00\uc7a5 \uc704\ub300\ud55c \uc8fc\uc220\uc0ac \uc911 \ud558\ub098\uc785\ub2c8\ub2e4.\r\n\r\n\uadf8\ub294 \uc804\ud1b5\uc801\uc778 \uc8fc\uc220\uc758 \ub300\uac00\uc774\uba70, \uc804\uc7a5\uc5d0\uc11c \ud568\uaed8 \uc2f8\uc6b4\ub2e4\ub294 \uac83\ub9cc\uc73c\ub85c\ub3c4 \uc544\uad70\uc758 \uc0ac\uae30\ub97c \ubd81\ub3cb\ub294, \uc5c6\uc5b4\uc11c\ub294 \uc548 \ub420 \uc6a9\uc0ac\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u7a46\u502b\u2027\u5730\u6012\u66fe\u662f\u9676\u571f\u8b70\u6703\u7684\u9818\u5c0e\u8005\uff0c\u66f4\u6beb\u7121\u7591\u554f\u662f\u7576\u4ee3\u6700\u5f37\u5927\u7684\u85a9\u6eff\u4e4b\u4e00\u300200\u7a46\u502b\u5728\u6230\u5834\u4e0a\u7684\u5a01\u56b4\uff0c\u4ee5\u53ca\u5c0d\u65bc\u85a9\u6eff\u53e4\u8001\u50b3\u7d71\u7684\u6df5\u535a\u77e5\u8b58\uff0c\u90fd\u8b49\u660e\u4ed6\u662f\u503c\u5f97\u4fe1\u8cf4\u7684\u76df\u53cb\u3002",
+    "zh_CN": "\u7a46\u6069\u00b7\u5927\u5730\u4e4b\u6012\u662f\u5927\u5730\u4e4b\u73af\u66fe\u7ecf\u7684\u9886\u8896\uff0c\u4e5f\u662f\u4ed6\u90a3\u4e2a\u65f6\u4ee3\u6700\u4f1f\u5927\u7684\u8428\u6ee1\u796d\u53f8\u4e4b\u4e00\u3002\u4ed6\u5728\u6218\u573a\u4e0a\u7684\u5a01\u6b66\u8eab\u59ff\uff0c\u4ee5\u53ca\u4ed6\u6240\u7cbe\u901a\u7684\u201c\u8001\u6d3e\u201d\u8428\u6ee1\u4e4b\u9053\uff0c\u90fd\u8ba9\u4ed6\u6210\u4e3a\u4e86\u4e00\u540d\u4ef7\u503c\u975e\u51e1\u7684\u76df\u53cb\u3002"
+  }
 }

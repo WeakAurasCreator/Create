@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "204909"
+  "SpellID": "204909",
+  "name_blz": {
+    "en_US": "Soul Rending",
+    "es_MX": "Hendidura de alma",
+    "pt_BR": "Dilacera\u00e7\u00e3o da Alma",
+    "de_DE": "Seelenrei\u00dfer",
+    "en_GB": "Soul Rending",
+    "es_ES": "Desgarre de almas",
+    "fr_FR": "D\u00e9chirement de l\u2019\u00e2me",
+    "it_IT": "Lacerazione d'Anima",
+    "ru_RU": "\u0420\u0430\u0437\u0434\u0438\u0440\u0430\u043d\u0438\u0435 \u0434\u0443\u0448\u0438",
+    "ko_KR": "\uc601\ud63c \ubd84\uc1c4",
+    "zh_TW": "\u88c2\u9b42",
+    "zh_CN": "\u7075\u9b42\u5288\u88c2"
+  },
+  "description_blz": {
+    "en_US": "Leech increased by 6%.\r\n\r\nGain an additional 6% leech while Metamorphosis is active.",
+    "es_MX": "Aumenta el robo de vida un 6%.\r\n\r\nObtiene un 6% de robo de vida adicional cuando Metamorfosis est\u00e1 activo.",
+    "pt_BR": "Sorver aumentado em 6%.\r\n\r\nConcede mais 6% de Sorver quando Metamorfose estiver ativa.",
+    "de_DE": "Erh\u00f6ht den Lebensraub um 6%.\r\n\r\nGew\u00e4hrt zus\u00e4tzlich 6% Lebensraub, solange 'Metamorphose' aktiv ist.",
+    "en_GB": "Leech increased by 6%.\r\n\r\nGain an additional 6% leech while Metamorphosis is active.",
+    "es_ES": "Parasitar aumentado un 6%.\r\n\r\nGanas un 6% m\u00e1s de parasitar mientras Metamorfosis est\u00e1 activa.",
+    "fr_FR": "Ponction augment\u00e9e de 6%.\r\n\r\n6% de Ponction suppl\u00e9mentaires tant que M\u00e9tamorphose est active.",
+    "it_IT": "Aumenta il ritorno vitale del 6%.\r\n\r\nDurante Metamorfosi Demoniaca, il ritorno vitale aumenta del 6% aggiuntivo.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0441\u0430\u043c\u043e\u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 6%.\r\n\r\n\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0441\u0430\u043c\u043e\u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u0435\u0449\u0435 \u043d\u0430 6%, \u043f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u041c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0437\u0430\".",
+    "ko_KR": "\uc0dd\uae30\ud761\uc218\uac00 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ud0c8\ud0dc\uac00 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc0dd\uae30\ud761\uc218\uac00 \ucd94\uac00\ub85c 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6c72\u53d6\u63d0\u9ad86%\u3002\r\n\r\n\u5728\u60e1\u9b54\u5316\u8eab\u4f5c\u7528\u671f\u9593\u984d\u5916\u7372\u5f976%\u6c72\u53d6\u3002",
+    "zh_CN": "\u5438\u8840\u63d0\u9ad86%\u3002\r\n\r\n\u6fc0\u6d3b\u6076\u9b54\u53d8\u5f62\u65f6\uff0c\u4f60\u989d\u5916\u83b7\u5f976%\u7684\u5438\u8840\u3002"
+  }
 }

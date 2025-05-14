@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "203513"
+  "SpellID": "203513",
+  "name_blz": {
+    "en_US": "Demonic Wards",
+    "es_MX": "Protectores demon\u00edacos",
+    "pt_BR": "Prote\u00e7\u00f5es Demon\u00edacas",
+    "de_DE": "D\u00e4monischer Schutz",
+    "en_GB": "Demonic Wards",
+    "es_ES": "Protecciones demon\u00edacas",
+    "fr_FR": "Protections d\u00e9moniaques",
+    "it_IT": "Protezioni Demoniache",
+    "ru_RU": "\u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0431\u0435\u0440\u0435\u0433\u0438",
+    "ko_KR": "\uc545\ub9c8\uc758 \uc218\ud638",
+    "zh_TW": "\u60e1\u9b54\u7d50\u754c",
+    "zh_CN": "\u6076\u9b54\u7ed3\u754c"
+  },
+  "description_blz": {
+    "en_US": "Your tattoos reduce all damage taken by 8%.",
+    "es_MX": "Tus tatuajes reducen todo el da\u00f1o recibido un 8%.",
+    "pt_BR": "Suas tatuagens reduzem todo o dano recebido em 8%.",
+    "de_DE": "Eure T\u00e4towierungen verringern s\u00e4mtlichen erlittenen Schaden um 8%.",
+    "en_GB": "Your tattoos reduce all damage taken by 8%.",
+    "es_ES": "Tus tatuajes reducen un 8% todo el da\u00f1o recibido.",
+    "fr_FR": "Vos tatouages r\u00e9duisent les d\u00e9g\u00e2ts subis de 8%.",
+    "it_IT": "I tatuaggi riducono tutti i danni subiti del 8%.",
+    "ru_RU": "\u0422\u0430\u0442\u0443\u0438\u0440\u043e\u0432\u043a\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 8%.",
+    "ko_KR": "\ubb38\uc2e0\uc774 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\ub97c 8%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u523a\u9752\u53ef\u4f7f\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u964d\u4f4e8%\u3002",
+    "zh_CN": "\u4f60\u7684\u523a\u9752\u4f7f\u4f60\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e8%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "162487"
+  "SpellID": "162487",
+  "name_blz": {
+    "en_US": "Steel Trap",
+    "es_MX": "Trampa de acero",
+    "pt_BR": "Armadilha de A\u00e7o",
+    "de_DE": "Stahlfalle",
+    "en_GB": "Steel Trap",
+    "es_ES": "Trampa de acero",
+    "fr_FR": "Pi\u00e8ge d\u2019acier",
+    "it_IT": "Trappola d'Acciaio",
+    "ru_RU": "\u041a\u0430\u043f\u043a\u0430\u043d",
+    "ko_KR": "\uac15\ucca0 \ub36b",
+    "zh_TW": "\u92fc\u9435\u9677\u9631",
+    "zh_CN": "\u7cbe\u94a2\u9677\u9631"
+  },
+  "description_blz": {
+    "en_US": "Hurls a Steel Trap to the target location that snaps shut on the first enemy that approaches, immobilizing them for 20 sec and causing them to bleed for 187 damage over 20 sec. \r\n\r\nDamage other than Steel Trap may break the immobilization effect. Trap will exist for 1 min. Limit 1.",
+    "es_MX": "Lanza una Trampa de acero a la ubicaci\u00f3n objetivo que atrapa al primer enemigo que se acerca. El enemigo queda inm\u00f3vil durante 20 s y sangra por 187 p. de da\u00f1o durante 20 s. \r\n\r\nSi recibe da\u00f1o que no sea de la Trampa de acero, es posible que el efecto de inmovilizaci\u00f3n se interrumpa. La trampa tiene una duraci\u00f3n de 1 min. L\u00edmite: 1.",
+    "pt_BR": "Lan\u00e7a no local selecionado uma Armadilha de A\u00e7o que se prende ao primeiro inimigo que se aproximar, imobilizando-o por 20 s e provocando um sangramento que causa 187 de dano ao longo de 20 s. \r\n\r\nDano de outras fontes pode cessar a imobiliza\u00e7\u00e3o. A armadilha dura 1 min. Limite de 1.",
+    "de_DE": "Schleudert eine Stahlfalle an den Zielort, die beim ersten sich n\u00e4hernden Gegner zuschnappt, ihn f\u00fcr 20 Sek. bewegungsunf\u00e4hig macht und ihm im Verlauf von 20 Sek. 187 Blutungsschaden zuf\u00fcgt. \r\n\r\nAnderer Schaden als der der Stahlfalle kann den Bewegungsunf\u00e4higkeitseffekt beenden. Die Falle bleibt 1 Min. lang bestehen. Maximal 1 Falle.",
+    "en_GB": "Hurls a Steel Trap to the target location that snaps shut on the first enemy that approaches, immobilizing them for 20 sec and causing them to bleed for 187 damage over 20 sec. \r\n\r\nDamage other than Steel Trap may break the immobilization effect. Trap will exist for 1 min. Limit 1.",
+    "es_ES": "Lanza una trampa de acero a la ubicaci\u00f3n seleccionada que inmoviliza al primer enemigo que se acerca durante 20 s y le inflige 187 p. de da\u00f1o de sangrado durante 20 s. Otro da\u00f1o puede cancelar el efecto de inmovilizaci\u00f3n. La trampa dura 1 min. L\u00edmite: 1.",
+    "fr_FR": "Vous lancez vers l\u2019emplacement cibl\u00e9 un pi\u00e8ge d\u2019acier qui immobilise pendant 20 s le premier ennemi s\u2019en approchant et lui inflige 187\u00a0points de d\u00e9g\u00e2ts de saignement en 20 s.\r\n\r\nLes autres d\u00e9g\u00e2ts peuvent annuler l\u2019effet d\u2019immobilisation. Le pi\u00e8ge dispara\u00eet au bout de 1 min. Limit\u00e9 \u00e0 1.",
+    "it_IT": "Lancia una trappola d'acciaio sull'area bersaglio che immobilizza il primo nemico che si avvicina per 20 s e infligge 187 danni da sanguinamento in 20 s.\r\n\r\nDanni da altre fonti possono interrompere l'effetto d'immobilizzazione. La trappola persiste per 1 min. L'effetto pu\u00f2 essere attivo su un solo bersaglio alla volta.",
+    "ru_RU": "\u0412\u044b \u0431\u0440\u043e\u0441\u0430\u0435\u0442\u0435 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u043a\u0430\u043f\u043a\u0430\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u043e\u0434\u043e\u0448\u0435\u0434\u0448\u0435\u0433\u043e \u043a \u043d\u0435\u043c\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043d\u0430 20 \u0441\u0435\u043a. \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0435\u043c\u0443 187 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 20 \u0441\u0435\u043a. \r\n\r\n\u0423\u0440\u043e\u043d \u043e\u0442 \u0434\u0440\u0443\u0433\u0438\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432, \u043f\u043e\u043c\u0438\u043c\u043e \u043a\u0430\u043f\u043a\u0430\u043d\u0430, \u043c\u043e\u0436\u0435\u0442 \u043e\u0442\u043c\u0435\u043d\u0438\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442 \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u043d\u0438\u044f. \u041a\u0430\u043f\u043a\u0430\u043d \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 1 \u043c\u0438\u043d. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u2013 1.",
+    "ko_KR": "\ubaa9\ud45c \uc704\uce58\ub85c \uac15\ucca0 \ub36b\uc744 \ubc1c\uc0ac\ud569\ub2c8\ub2e4. \ub36b\uc740 \ub2e4\uac00\uc624\ub294 \uccab \ubc88\uc9f8 \uc801\uc744 \ubb3c\uc5b4 20\ucd08 \ub3d9\uc548 \uc774\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\ub85c \ub9cc\ub4e4\uace0 \ucd9c\ud608\uc744 \uc77c\uc73c\ucf1c 20\ucd08\uc5d0 \uac78\uccd0 187\uc758 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\ub300\uc0c1\uc774 \uac15\ucca0 \ub36b \uc774\uc678\uc758 \ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \uc774\ub3d9 \ubd88\uac00 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9c8 \uc218 \uc788\uc2b5\ub2c8\ub2e4. 1\ubd84 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4. \ud55c \ubc88\uc5d0 \ud558\ub098\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u671d\u76ee\u6a19\u5730\u9ede\u4e1f\u51fa\u4e00\u5177\u92fc\u9435\u9677\u9631\uff0c\u5c07\u7b2c\u4e00\u4f4d\u9760\u8fd1\u7684\u6575\u4eba\u5b9a\u5728\u539f\u573020\u79d2\uff0c\u4e26\u572820\u79d2\u5167\u9020\u6210187\u9ede\u6d41\u8840\u50b7\u5bb3\u3002\r\n\r\n\u5176\u4ed6\u7684\u50b7\u5bb3\u6709\u53ef\u80fd\u89e3\u9664\u5b9a\u8eab\u6548\u679c\u3002\u9677\u9631\u53ef\u5b58\u57281\u5206\u9418\u3002\u540c\u4e00\u6642\u9593\u53ea\u80fd\u8a2d\u4e0b\u4e00\u5177\u92fc\u9435\u9677\u9631\u3002",
+    "zh_CN": "\u5411\u76ee\u6807\u4f4d\u7f6e\u53d1\u5c04\u4e00\u4e2a\u7cbe\u94a2\u9677\u9631\uff0c\u4f7f\u7b2c\u4e00\u4e2a\u63a5\u8fd1\u7684\u654c\u4eba\u65e0\u6cd5\u79fb\u52a8\uff0c\u6301\u7eed20\u79d2\uff0c\u5e76\u4f7f\u5176\u6d41\u8840\uff0c\u572820\u79d2\u5185\u9020\u6210187\u70b9\u4f24\u5bb3\u3002\u5176\u4ed6\u7684\u4f24\u5bb3\u53ef\u80fd\u4f1a\u6253\u7834\u5b9a\u8eab\u6548\u679c\u3002\u9677\u9631\u53ef\u6301\u7eed1\u5206\u949f\u3002\u540c\u4e00\u65f6\u95f4\u53ea\u80fd\u65bd\u653e\u4e00\u4e2a\u3002"
+  }
 }

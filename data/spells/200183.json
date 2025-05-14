@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "200183"
+  "SpellID": "200183",
+  "name_blz": {
+    "en_US": "Apotheosis",
+    "es_MX": "Apoteosis",
+    "pt_BR": "Apoteose",
+    "de_DE": "Apotheose",
+    "en_GB": "Apotheosis",
+    "es_ES": "Apoteosis",
+    "fr_FR": "Apoth\u00e9ose",
+    "it_IT": "Apoteosi",
+    "ru_RU": "\u041f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc808\uc815",
+    "zh_TW": "\u795e\u5316",
+    "zh_CN": "\u795e\u5723\u5316\u8eab"
+  },
+  "description_blz": {
+    "en_US": "Reset the cooldown of your Holy Words, and enter a pure Holy form for 20 sec, increasing the cooldown reductions to your Holy Words by 200% and reducing their cost by 100%.",
+    "es_MX": "Restableces el tiempo de reutilizaci\u00f3n de Palabras sagradas y adoptas una forma sagrada y pura durante 20 s, lo que aumenta un 200% la reducci\u00f3n del tiempo de reutilizaci\u00f3n de Palabras sagradas y reduce un 100% su costo.",
+    "pt_BR": "Conclui a recarga das suas Palavras Sagradas e assume uma forma sagrada e pura por 20 s, aumentando em 200% as redu\u00e7\u00f5es de recarga das suas Palavras Sagradas e reduzindo em 100% o custo delas.",
+    "de_DE": "Schlie\u00dft die Abklingzeiten Eurer Segensworte ab und Ihr nehmt f\u00fcr 20 Sek. eine Gestalt aus reiner heiliger Energie an, wodurch die Abklingzeitverringerung Eurer Segensworte um 200% erh\u00f6ht und ihre Kosten um 100% verringert werden.",
+    "en_GB": "Reset the cooldown of your Holy Words, and enter a pure Holy form for 20 sec, increasing the cooldown reductions to your Holy Words by 200% and reducing their cost by 100%.",
+    "es_ES": "Reinicia el tiempo de reutilizaci\u00f3n de tus Palabras sagradas y, durante 20 s, adoptas una forma Sagrada pura que aumenta un 200% las reducciones del tiempo de reutilizaci\u00f3n de tus Palabras sagradas y reduce un 100% sus costes.",
+    "fr_FR": "Vous mettez fin aux temps de recharge de vos Mots sacr\u00e9s et adoptez une forme sacr\u00e9e pure pendant 20 s, ce qui augmente les temps de recharge de vos Mots sacr\u00e9s de 200\u00a0% et r\u00e9duit leurs co\u00fbts de 100\u00a0%.",
+    "it_IT": "Azzera il tempo di recupero delle Parole Sacre e attiva una forma sacra pura per 20 s, aumentando gli effetti di riduzione del tempo di recupero delle tue Parole Sacre del 200% e riducendone il costo del 100%.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u043e\u0431\u043b\u0438\u043a \u0421\u0432\u0435\u0442\u0430 \u043d\u0430 20 \u0441\u0435\u043a. \u0438 \u0441\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442\u0435 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0441\u0435\u0445 \"\u0421\u043b\u043e\u0432 \u0421\u0432\u0435\u0442\u0430\". \u0412 \u044d\u0442\u043e\u043c \u043e\u0431\u043b\u0438\u043a\u0435 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \"\u0421\u043b\u043e\u0432 \u0421\u0432\u0435\u0442\u0430\" \u0441\u043d\u0438\u0436\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100%, \u0430 \u0438\u0445 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0435\u0449\u0435 \u043d\u0430 200%.",
+    "ko_KR": "\ube5b\uc758 \uad8c\ub2a5\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 \ucd08\uae30\ud654\ud558\uace0 20\ucd08 \ub3d9\uc548 \uc2e0\uc131\ud55c \ube5b\uc758 \ud615\uc0c1\uc744 \ucde8\ud569\ub2c8\ub2e4. \ube5b\uc758 \uad8c\ub2a5 \uc8fc\ubb38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04 \uac10\uc18c \ud6a8\uacfc\ub97c 200%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uace0 \uc790\uc6d0 \uc18c\ubaa8\ub7c9\uc740 100%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u8a00\u8853\u7684\u51b7\u537b\u6642\u9593\u91cd\u7f6e\uff0c\u4e26\u4e14\u9032\u5165\u7d14\u6de8\u7684\u795e\u8056\u5f62\u614b\uff0c\u6301\u7e8c20\u79d2\uff0c\u4f7f\u8056\u8a00\u8853\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed\u6548\u679c\u63d0\u9ad8200%\uff0c\u6d88\u8017\u7684\u6cd5\u529b\u964d\u4f4e100%\u3002",
+    "zh_CN": "\u91cd\u7f6e\u5723\u8a00\u672f\u7684\u51b7\u5374\u65f6\u95f4\uff0c\u5e76\u8fdb\u5165\u7eaf\u7cb9\u7684\u795e\u5723\u5f62\u6001\uff0c\u4f7f\u5723\u8a00\u672f\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed\u6548\u679c\u63d0\u9ad8200%\uff0c\u6d88\u8017\u964d\u4f4e100%\uff0c\u6301\u7eed20\u79d2\u3002"
+  }
 }

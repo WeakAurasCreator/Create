@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "204147"
+  "SpellID": "204147",
+  "name_blz": {
+    "en_US": "Windburst",
+    "es_MX": "R\u00e1faga de viento",
+    "pt_BR": "Sobrevento",
+    "de_DE": "Windsto\u00df",
+    "en_GB": "Windburst",
+    "es_ES": "R\u00e1faga de viento",
+    "fr_FR": "Bourrasque de vent",
+    "it_IT": "Getto di Vento",
+    "ru_RU": "\u0428\u043a\u0432\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0442\u0435\u0440",
+    "ko_KR": "\ubc14\ub78c\ud3ed\ubc1c",
+    "zh_TW": "\u98a8\u7206",
+    "zh_CN": "\u98ce\u4e4b\u7206\u88c2"
+  },
+  "description_blz": {
+    "en_US": "Focuses the power of Wind through Thas'dorah, dealing 272 Physical damage to your target, and leaving behind a trail of wind for 5 sec that increases the movement speed of allies by 50%.",
+    "es_MX": "Concentra el poder del viento mediante Thas'dorah para infligir 272 p. de da\u00f1o f\u00edsico a tu objetivo y deja un rastro de viento durante 5 s. Este viento aumenta un 50% la velocidad de los aliados.",
+    "pt_BR": "Concentra o poder do Vento em Thas'dorah, causando 272 de dano F\u00edsico ao alvo e deixando um rastro de vento para tr\u00e1s por 5 s, que aumenta em 50% a velocidade de movimento dos aliados.",
+    "de_DE": "Fokussiert die Macht des Windes durch Thas'dorah. Sie f\u00fcgt Eurem Ziel 272 k\u00f6rperlichen Schaden zu und hinterl\u00e4sst f\u00fcr 5 Sek. eine Windspur, die die Bewegungsgeschwindigkeit von Verb\u00fcndeten um 50% erh\u00f6ht.",
+    "en_GB": "Focuses the power of Wind through Thas'dorah, dealing 272 Physical damage to your target, and leaving behind a trail of wind for 5 sec that increases the movement speed of allies by 50%.",
+    "es_ES": "Concentra el poder del viento mediante Thas'dorah, lo que inflige 272 p. de da\u00f1o f\u00edsico a tu objetivo y deja tras de s\u00ed una estela de viento durante 5 s que aumenta la velocidad de movimiento de los aliados un 50%.",
+    "fr_FR": "Canalise la puissance du vent \u00e0 travers Thas\u2019dorah et inflige 272\u00a0points de d\u00e9g\u00e2ts physiques \u00e0 votre cible en g\u00e9n\u00e9rant pendant 5 s un courant d\u2019air qui augmente de 50% la vitesse de d\u00e9placement des alli\u00e9s.",
+    "it_IT": "Concentra il potere del vento in Thas'dorah, infliggendo 272 danni fisici al bersaglio e lasciando dietro di s\u00e9 una scia di vento per 5 s che aumenta la velocit\u00e0 di movimento degli alleati del 50%.",
+    "ru_RU": "\u0412\u044b \u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u0430\u0447\u0438\u0432\u0430\u0435\u0442\u0435 \u0432 \u0422\u0430\u0441'\u0434\u043e\u0440\u0435 \u0441\u0438\u043b\u0443 \u0432\u0435\u0442\u0440\u0430. \u0412\u044b\u043f\u0443\u0449\u0435\u043d\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430 \u043d\u0430\u043d\u0435\u0441\u0435\u0442 \u0446\u0435\u043b\u0438 272 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0438 \u043e\u0441\u0442\u0430\u0432\u0438\u0442 \u0437\u0430 \u0441\u043e\u0431\u043e\u0439 \u043d\u0430 5 \u0441\u0435\u043a. \u0441\u043b\u0435\u0434 \u0432\u0435\u0442\u0440\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u0432\u044b\u0441\u0438\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0432\u0441\u0435\u0445 \u043e\u043a\u0430\u0437\u0430\u0432\u0448\u0438\u0445\u0441\u044f \u0432 \u043d\u0435\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 50%.",
+    "ko_KR": "\ud0c0\uc2a4\ub3c4\ub77c\uc5d0 \ubc14\ub78c\uc758 \ud798\uc744 \uc9d1\uc911\ud574 \ub300\uc0c1\uc5d0\uac8c 272\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud788\uace0 5\ucd08 \ub3d9\uc548 \ubc14\ub78c\uc758 \ud754\uc801\uc744 \ub0a8\uaca8 \uc544\uad70\uc758 \uc774\ub3d9 \uc18d\ub3c4\ub97c 50%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u900f\u904e\u85a9\u65af\u6735\u62c9\u51dd\u805a\u72c2\u98a8\u4e4b\u529b\uff0c\u5c0d\u76ee\u6a19\u9020\u6210272\u9ede\u7269\u7406\u50b7\u5bb3\u4e26\u7559\u4e0b\u4e00\u9053\u98a8\u4e4b\u5f91\uff0c\u6301\u7e8c5\u79d2\uff0c\u5f91\u4e0a\u4efb\u4f55\u76df\u53cb\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u5c06\u98ce\u7684\u529b\u91cf\u6c47\u805a\u5230\u4f60\u7684\u8428\u65af\u591a\u62c9\u4e4b\u4e2d\uff0c\u5bf9\u76ee\u6807\u9020\u6210272\u70b9\u7269\u7406\u4f24\u5bb3\uff0c\u5e76\u7559\u4e0b\u4e00\u9053\u98ce\u4e4b\u8f68\u8ff9\uff0c\u6301\u7eed5\u79d2\uff0c\u4f7f\u76df\u53cb\u7684\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad850%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "210816"
+  "SpellID": "210816",
+  "name_blz": {
+    "en_US": "Recipe: Mass Mill Felwort",
+    "es_MX": "Receta: Moler hierba vil en masa",
+    "pt_BR": "Receita: Tritura\u00e7\u00e3o em Massa de Maltevil",
+    "de_DE": "Rezept: Massenmahlung - Teufelswurz",
+    "en_GB": "Recipe: Mass Mill Felwort",
+    "es_ES": "Receta: moler matojo vil a granel",
+    "fr_FR": "Recette\u00a0: Broyage de masse de gangr\u00e8ches",
+    "it_IT": "Tecnica: Granpestatura di Vilpianta",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0435 \u0438\u0437\u043c\u0435\u043b\u044c\u0447\u0435\u043d\u0438\u0435 \u0437\u0432\u0435\u0440\u043e\u0431\u043e\u044f \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc81c\uc870\ubc95: \uc9c0\uc625\ub098\ubb3c \ub300\ub7c9 \uc81c\ubd84",
+    "zh_TW": "\u914d\u65b9\uff1a\u5927\u91cf\u7814\u78e8\u9b54\u8349",
+    "zh_CN": "\u914d\u65b9\uff1a\u6279\u91cf\u7814\u78e8\u90aa\u80fd\u7403\u830e"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to mass mill Felwort.",
+    "es_MX": "Te ense\u00f1a a moler hierba vil en masa.",
+    "pt_BR": "Ensina a triturar em massa Maltevil.",
+    "de_DE": "Lehrt Euch, wie man Teufelswurz massenweise mahlt.",
+    "en_GB": "Teaches you how to mass mill Felwort.",
+    "es_ES": "Te ense\u00f1a a moler matojo vil a granel.",
+    "fr_FR": "Vous apprend \u00e0 proc\u00e9der au broyage de masse de gangr\u00e8ches.",
+    "it_IT": "Apprendi come effettuare la Granpestatura della Vilpianta pi\u00f9 efficacemente.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u043c\u0443 \u0438\u0437\u043c\u0435\u043b\u044c\u0447\u0435\u043d\u0438\u044e \u0437\u0432\u0435\u0440\u043e\u0431\u043e\u044f \u0421\u043a\u0432\u0435\u0440\u043d\u044b.",
+    "ko_KR": "\uc9c0\uc625\ub098\ubb3c \ub300\ub7c9 \uc81c\ubd84\ud558\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u5982\u4f55\u5927\u91cf\u7814\u78e8\u9b54\u8349\u3002",
+    "zh_CN": "\u6559\u4f60\u5b66\u4f1a\u6279\u91cf\u7814\u78e8\u90aa\u80fd\u7403\u830e\u3002"
+  }
 }

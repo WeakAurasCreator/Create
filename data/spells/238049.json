@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "238049"
+  "SpellID": "238049",
+  "name_blz": {
+    "en_US": "Scintillating Moonlight",
+    "es_MX": "Luz lunar centelleante",
+    "pt_BR": "Luz da Lua Esplendorosa",
+    "de_DE": "Funkelndes Mondlicht",
+    "en_GB": "Scintillating Moonlight",
+    "es_ES": "Luz de luna centelleante",
+    "fr_FR": "Clair de lune scintillant",
+    "it_IT": "Luce Lunare Scintillante",
+    "ru_RU": "\u041c\u0435\u0440\u0446\u0430\u044e\u0449\u0438\u0439 \u043b\u0443\u043d\u043d\u044b\u0439 \u0441\u0432\u0435\u0442",
+    "ko_KR": "\ubc18\uc9dd\uc774\ub294 \ub2ec\ube5b",
+    "zh_TW": "\u6708\u5149\u706b\u82b1",
+    "zh_CN": "\u8000\u773c\u6708\u5149"
+  },
+  "description_blz": {
+    "en_US": "Moonfire reduces damage dealt to you by -1%.",
+    "es_MX": "Fuego lunar reduce un -1% el da\u00f1o que recibes.",
+    "pt_BR": "Fogo Lunar reduz o dano causado a voc\u00ea em -1%.",
+    "de_DE": "'Mondfeuer' verringert den Euch zugef\u00fcgten Schaden um -1%.",
+    "en_GB": "Moonfire reduces damage dealt to you by -1%.",
+    "es_ES": "Fuego lunar reduce un -1% el da\u00f1o que recibes.",
+    "fr_FR": "\u00c9clat lunaire r\u00e9duit les d\u00e9g\u00e2ts que vous subissez de -1%.",
+    "it_IT": "Fuoco Lunare riduce i danni subiti del -1%.",
+    "ru_RU": "\"\u041b\u0443\u043d\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u043d\u0430 -1%.",
+    "ko_KR": "\ub2ec\ube5b\uc12c\uad11\uc774 \ubc1b\ub294 \ud53c\ud574\ub97c -1%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6708\u706b\u8853\u4f7f\u4f60\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e-1%\u3002",
+    "zh_CN": "\u6708\u706b\u672f\u4f7f\u76ee\u6807\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e-1%\u3002"
+  }
 }

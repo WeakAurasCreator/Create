@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "191348"
+  "SpellID": "191348",
+  "name_blz": {
+    "en_US": "Recipe: Leystone Armguards",
+    "es_MX": "Receta: Guardabrazos de piedra ley",
+    "pt_BR": "Receita: Guarda-bra\u00e7os de Pedra de Meridiano",
+    "de_DE": "Pl\u00e4ne: Leysteinarmsch\u00fctzer",
+    "en_GB": "Recipe: Leystone Armguards",
+    "es_ES": "Receta: guardabrazos de piedra Ley",
+    "fr_FR": "Plans\u00a0: Garde-bras en tellurium",
+    "it_IT": "Progetto: Antibracci di Fagliaroccia",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u0431\u043e\u0435\u0432\u044b\u0435 \u043d\u0430\u0440\u0443\u0447\u0438 \u0438\u0437 \u0441\u0438\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f",
+    "ko_KR": "\ub3c4\uba74: \uc9c0\ub9e5\uc11d \uc190\ubaa9\ubcf4\ud638\ub300",
+    "zh_TW": "\u8a2d\u8a08\u5716\uff1a\u8108\u77f3\u81c2\u7532",
+    "zh_CN": "\u914d\u65b9\uff1a\u9b54\u77f3\u62a4\u81c2"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to make Leystone Armguards (Rank 2).",
+    "es_MX": "Te ense\u00f1a a hacer guardabrazos de piedra Ley (Rango 2).",
+    "pt_BR": "Ensina a fazer Guarda-bra\u00e7os de Pedra de Meridiano (Grau 2).",
+    "de_DE": "Lehrt Euch, wie man Leysteinarmsch\u00fctzer (Rang 2) herstellt.",
+    "en_GB": "Teaches you how to make Leystone Armguards (Rank 2).",
+    "es_ES": "Te ense\u00f1a a hacer guardabrazos de piedra Ley (Rango 2).",
+    "fr_FR": "Vous apprend \u00e0 fa\u00e7onner des Garde-bras en tellurium (rang 2).",
+    "it_IT": "Apprendi come creare degli Antibracci di Fagliaroccia (Grado 2).",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0431\u043e\u0435\u0432\u044b\u0445 \u043d\u0430\u0440\u0443\u0447\u0435\u0439 \u0438\u0437 \u0441\u0438\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f (\u0443\u0440\u043e\u0432\u0435\u043d\u044c 2).",
+    "ko_KR": "\uc9c0\ub9e5\uc11d \uc190\ubaa9\ubcf4\ud638\ub300 \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4. (2 \ub4f1\uae09)",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u88fd\u4f5c\u8108\u77f3\u81c2\u7532(\u7b49\u7d1a2)\u3002",
+    "zh_CN": "\u6559\u4f60\u5b66\u4f1a\u5236\u4f5c\u9b54\u77f3\u62a4\u81c2\uff08\u7b49\u7ea7 2\uff09\u3002"
+  }
 }

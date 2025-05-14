@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202345"
+  "SpellID": "202345",
+  "name_blz": {
+    "en_US": "Starlord",
+    "es_MX": "Se\u00f1or de las estrellas",
+    "pt_BR": "Senhor das Estrelas",
+    "de_DE": "Sternenlord",
+    "en_GB": "Starlord",
+    "es_ES": "Dominio astral",
+    "fr_FR": "Seigneur des \u00e9toiles",
+    "it_IT": "Signore delle Stelle",
+    "ru_RU": "\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043b\u043e\u0440\u0434",
+    "ko_KR": "\ubcc4\uc758 \uad70\uc8fc",
+    "zh_TW": "\u661f\u7235",
+    "zh_CN": "\u661f\u8fb0\u9886\u4e3b"
+  },
+  "description_blz": {
+    "en_US": "Starsurge and Starfall grant you 2% Haste for 15 sec.\r\n\r\nStacks up to 3 times. Gaining a stack does not refresh the duration.",
+    "es_MX": "Oleada de estrellas y Lluvia de estrellas te otorgan un 2% de celeridad durante 15 s.\r\n\r\nSe acumula hasta 3 veces. Obtener una acumulaci\u00f3n no restablece la duraci\u00f3n.",
+    "pt_BR": "Surto Estelar e Chuva Estelar aumentam em 2% a sua Acelera\u00e7\u00e3o por 15 s.\r\n\r\nAcumula at\u00e9 3 vezes. Ganhar uma aplica\u00e7\u00e3o n\u00e3o renova a dura\u00e7\u00e3o.",
+    "de_DE": "'Sternensog' und 'Sternenregen' erh\u00f6hen Euer Tempo f\u00fcr 15 Sek. um 2%.\r\n\r\nBis zu 3-mal stapelbar. Das Hinzugewinnen eines Stapels setzt die Effektdauer nicht zur\u00fcck.",
+    "en_GB": "Starsurge and Starfall grant you 2% Haste for 15 sec.\r\n\r\nStacks up to 3 times. Gaining a stack does not refresh the duration.",
+    "es_ES": "Oleada de estrellas y Lluvia de estrellas te otorgan un 2% de celeridad durante 15 s.\r\n\r\nSe acumula hasta 3 veces. Obtener una acumulaci\u00f3n no reinicia la duraci\u00f3n.",
+    "fr_FR": "\u00c9ruption stellaire et M\u00e9t\u00e9ores augmentent votre H\u00e2te de 2% pendant 15 s.\r\n\r\nEffet cumulable jusqu\u2019\u00e0 3\u00a0fois. Les charges suppl\u00e9mentaires n\u2019en r\u00e9initialisent pas la dur\u00e9e.",
+    "it_IT": "Cometa Arcana e Pioggia di Stelle aumentano la tua celerit\u00e0 del 2% per 15 s.\r\n\r\nSi accumula fino a 3 volte. Ottenere un accumulo non rinnova la durata dell'effetto.",
+    "ru_RU": "\"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u0438 \"\u0417\u0432\u0435\u0437\u0434\u043e\u043f\u0430\u0434\" \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 2% \u043d\u0430 15 \u0441\u0435\u043a.\r\n\r\n\u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 3 \u0440\u0430\u0437. \u041f\u0440\u0438 \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\ubcc4\ube5b\uc1c4\ub3c4\uc640 \ubcc4\ub625\ubcc4 \uc2dc\uc804 \uc2dc \uac00\uc18d\uc774 15\ucd08 \ub3d9\uc548 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ucd5c\ub300 3\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. \uc911\ucca9 \uc2dc \uc9c0\uc18d\uc2dc\uac04\uc740 \uac31\uc2e0\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u661f\u6e67\u8853\u548c\u661f\u6b9e\u8853\u6703\u8ce6\u4e88\u4f602%\u52a0\u901f\uff0c\u6301\u7e8c15\u79d2\u3002\r\n\r\n\u6700\u591a\u53ef\u5806\u758a3\u6b21\u3002\u6b64\u6548\u679c\u5806\u758a\u6642\u4e0d\u6703\u91cd\u7f6e\u6301\u7e8c\u6642\u9593\u3002",
+    "zh_CN": "\u661f\u6d8c\u672f\u548c\u661f\u8fb0\u5760\u843d\u4f7f\u4f60\u83b7\u5f972%\u6025\u901f\uff0c\u6301\u7eed15\u79d2\u3002\r\n\r\n\u53ef\u53e0\u52a03\u6b21\u3002\u53e0\u52a0\u5c42\u6570\u4e0d\u4f1a\u5237\u65b0\u6301\u7eed\u65f6\u95f4\u3002"
+  }
 }

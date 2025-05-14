@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "174550"
+  "SpellID": "174550",
+  "name_blz": {
+    "en_US": "Aeda Ability: Summon Infernal",
+    "es_MX": "Habilidad de Aeda: Invocar infernal",
+    "pt_BR": "Habilidade de Aeda: Evocar Infernal",
+    "de_DE": "F\u00e4higkeit von Aeda: H\u00f6llenbestie beschw\u00f6ren",
+    "en_GB": "Aeda Ability: Summon Infernal",
+    "es_ES": "Facultad de Aeda: Invocar infernal",
+    "fr_FR": "Technique d\u2019Aeda\u00a0: Invocation\u00a0: Infernal",
+    "it_IT": "Abilit\u00e0 di Aeda - Evocazione: Infernale",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0410\u0435\u0434\u044b: \"\u041f\u0440\u0438\u0437\u044b\u0432 \u0438\u043d\u0444\u0435\u0440\u043d\u0430\u043b\u0430\"",
+    "ko_KR": "\uc5d0\uc774\ub2e4 \ub2a5\ub825: \uc9c0\uc625\ubd88\uc815\ub839 \uc18c\ud658",
+    "zh_TW": "\u611b\u4f0a\u9054\u6280\u80fd\uff1a\u53ec\u559a\u7149\u7344\u706b",
+    "zh_CN": "\u827e\u8fbe\u6280\u80fd\uff1a\u53ec\u5524\u5730\u72f1\u706b"
+  },
+  "description_blz": {
+    "en_US": "Aeda Brightdawn will learn the ability Summon Infernal.\r\n\r\n Summon Infernal\r\nSummons a Infernal from the Twisting Nether, impacting for 3,283 Fire damage and stunning all enemy targets in the area for 2 sec.  The Infernal will serve under your command for 30 sec.\r\n",
+    "es_MX": "Aeda Alba Brillante aprender\u00e1 la habilidad de Invocar infernal.\r\n\r\n Invocar infernal\r\nInvoca un infernal del Vac\u00edo Abisal que impacta con 3,354 p. de da\u00f1o de Fuego y aturde a todos los enemigos en el \u00e1rea durante 2 s. El infernal seguir\u00e1 tus \u00f3rdenes durante 30 s.\r\n",
+    "pt_BR": "Aeda Brilhalvo aprende a habilidade Evocar Infernal.\r\n\r\n Evocar Infernal\r\nEvoca um Infernal da Espiral Et\u00e9rea, causando 3.343 de dano de Fogo e atordoando todos os alvos inimigos na \u00e1rea durante 2 s. O Infernal ficar\u00e1 \u00e0s suas ordens durante 30 s.\r\n",
+    "de_DE": "Aeda Morgenglanz erlernt die F\u00e4higkeit 'H\u00f6llenbestie beschw\u00f6ren'.\r\n\r\n H\u00f6llenbestie beschw\u00f6ren\r\nBeschw\u00f6rt eine H\u00f6llenbestie aus dem Wirbelnden Nether, die beim Einschlag 3.337 Feuerschaden verursacht und alle gegnerischen Ziele im Effektbereich f\u00fcr 2 Sek. bet\u00e4ubt. Die H\u00f6llenbestie steht 30 Sek. lang unter Eurem Befehl.\r\n",
+    "en_GB": "Aeda Brightdawn will learn the ability Summon Infernal.\r\n\r\n Summon Infernal\r\nSummons a Infernal from the Twisting Nether, impacting for 3,292 Fire damage and stunning all enemy targets in the area for 2 sec.  The Infernal will serve under your command for 30 sec.\r\n",
+    "es_ES": "Aeda Alba Brillante aprender\u00e1 la facultad Invocar infernal.\r\n\r\n Invocar infernal\r\nInvoca a un infernal de El Vac\u00edo Abisal que inflige 3347 p. de da\u00f1o de Fuego y aturde a todos los objetivos enemigos en el \u00e1rea de efecto durante 2 s. El infernal estar\u00e1 a tus \u00f3rdenes durante 30 s.\r\n",
+    "fr_FR": "Aeda Brillaube apprendra la technique Invocation\u00a0: Infernal.\r\n\r\n Invocation\u00a0: Infernal\r\nInvoque du N\u00e9ant distordu un infernal qui inflige 3295\u00a0points de d\u00e9g\u00e2ts de Feu et \u00e9tourdit toutes les cibles ennemies dans la zone pendant 2 s. Il reste \u00e0 vos ordres pendant 30 s.\r\n",
+    "it_IT": "Aeda Albaluce apprende l'abilit\u00e0 Evocazione: Infernale.\r\n\r\n Evocazione: Infernale\r\nEvoca ai tuoi comandi un Infernale dalla Distorsione Fatua per 30 s. All'impatto infligge 3.283 danni da fuoco e stordisce tutti i bersagli nell'area d'effetto per 2 s.\r\n",
+    "ru_RU": "\u0410\u0435\u0434\u0430 \u042f\u0441\u043d\u0430\u044f \u0417\u0430\u0440\u044f \u043f\u043e\u043b\u0443\u0447\u0438\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041f\u0440\u0438\u0437\u044b\u0432 \u0438\u043d\u0444\u0435\u0440\u043d\u0430\u043b\u0430\".\r\n\r\n \u041f\u0440\u0438\u0437\u044b\u0432 \u0438\u043d\u0444\u0435\u0440\u043d\u0430\u043b\u0430\r\n\u0412\u044b\u0437\u043e\u0432 \u0438\u0437 \u041a\u0440\u0443\u0433\u043e\u0432\u0435\u0440\u0442\u0438 \u041f\u0443\u0441\u0442\u043e\u0442\u044b \u0438\u043d\u0444\u0435\u0440\u043d\u0430\u043b\u0430, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0433\u043e 3325 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0438 \u043e\u0433\u043b\u0443\u0448\u0430\u044e\u0449\u0435\u0433\u043e \u0432\u0441\u0435\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043d\u0430 2 \u0441\u0435\u043a. \u0418\u043d\u0444\u0435\u0440\u043d\u0430\u043b \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0443\u0436\u0438\u0442\u044c \u0432\u0430\u043c \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 30 \u0441\u0435\u043a.\r\n",
+    "ko_KR": "\uc5d0\uc774\ub2e4 \ube0c\ub77c\uc774\ud2b8\ub3c8\uc774 \uc9c0\uc625\ubd88\uc815\ub839 \uc18c\ud658 \ub2a5\ub825\uc744 \ubc30\uc6c1\ub2c8\ub2e4.\r\n\r\n \uc9c0\uc625\ubd88\uc815\ub839 \uc18c\ud658\r\n\ub4a4\ud2c0\ub9b0 \ud669\ucc9c\uc73c\ub85c\ubd80\ud130 \uc9c0\uc625\ubd88\uc815\ub839\uc744 \uc18c\ud658\ud558\uc5ec \uc120\ud0dd\ud55c \uc9c0\uc5ed\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 3,277\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud788\uace0 2\ucd08 \ub3d9\uc548 \uae30\uc808\uc2dc\ud0b5\ub2c8\ub2e4. \uc9c0\uc625\ubd88\uc815\ub839\uc740 30\ucd08 \ub3d9\uc548 \ub2f9\uc2e0\uc758 \uc9c0\ubc30\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u611b\u4f0a\u9054\u2027\u660e\u66e6\u5c07\u6703\u5b78\u6703\u53ec\u559a\u7149\u7344\u706b\u6280\u80fd\u3002\r\n\r\n \u53ec\u559a\u7149\u7344\u706b\r\n\u5f9e\u626d\u66f2\u865b\u7a7a\u4e2d\u53ec\u4f86\u4e00\u500b\u7149\u7344\u706b\uff0c\u5c0d\u5176\u8457\u9678\u5340\u57df\u7684\u6240\u6709\u6575\u4eba\u9020\u62103,311\u9ede\u706b\u7130\u50b7\u5bb3\uff0c\u4e26\u4f7f\u4ed6\u5011\u660f\u8ff72\u79d2\u3002\u7149\u7344\u706b\u6703\u70ba\u4f60\u6548\u529b\uff0c\u6301\u7e8c30\u79d2\u3002",
+    "zh_CN": "\u827e\u8fbe\u00b7\u6668\u5149\u5c06\u5b66\u4f1a\u53ec\u5524\u5730\u72f1\u706b\u6280\u80fd\u3002\r\n\r\n\u53ec\u5524\u5730\u72f1\u706b\r\n\u4ece\u626d\u66f2\u865a\u7a7a\u53ec\u5524\u51fa\u5730\u72f1\u706b\uff0c\u5bf9\u5760\u843d\u533a\u57df\u5185\u7684\u6240\u6709\u654c\u4eba\u9020\u62103,322\u70b9\u706b\u7130\u4f24\u5bb3\uff0c\u5e76\u4f7f\u5176\u660f\u8ff72\u79d2\u3002\u5730\u72f1\u706b\u53d7\u65bd\u6cd5\u8005\u652f\u914d\uff0c\u6301\u7eed30\u79d2\u3002\r\n"
+  }
 }

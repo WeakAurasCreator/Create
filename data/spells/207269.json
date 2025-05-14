@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207269"
+  "SpellID": "207269",
+  "name_blz": {
+    "en_US": "Ebon Fever",
+    "es_MX": "Fiebre de \u00e9bano",
+    "pt_BR": "Febre do \u00c9bano",
+    "de_DE": "Schwarzes Fieber",
+    "en_GB": "Ebon Fever",
+    "es_ES": "Fiebre de \u00e9bano",
+    "fr_FR": "Fi\u00e8vre d\u2019\u00e9b\u00e8ne",
+    "it_IT": "Febbre d'Ebano",
+    "ru_RU": "\u0427\u0435\u0440\u043d\u0430\u044f \u043b\u0438\u0445\u043e\u0440\u0430\u0434\u043a\u0430",
+    "ko_KR": "\uce60\ud751 \uc5f4\ubcd1",
+    "zh_TW": "\u9eef\u9ed1\u71b1\u75ab",
+    "zh_CN": "\u9ed1\u6a80\u70ed"
+  },
+  "description_blz": {
+    "en_US": "Diseases deal 12% more damage over time in half the duration.",
+    "es_MX": "Las enfermedades infligen un 12% m\u00e1s de da\u00f1o con el tiempo en la mitad de la duraci\u00f3n.",
+    "pt_BR": "Doen\u00e7as causam 12% mais dano ao longo do tempo em metade da dura\u00e7\u00e3o.",
+    "de_DE": "Krankheiten verursachen in der H\u00e4lfte der Zeit 12% mehr regelm\u00e4\u00dfigen Schaden.",
+    "en_GB": "Diseases deal 12% more damage over time in half the duration.",
+    "es_ES": "Las enfermedades infligen un 12% m\u00e1s de da\u00f1o en el tiempo en la mitad de tiempo.",
+    "fr_FR": "Les maladies infligent 12\u00a0% de d\u00e9g\u00e2ts sur la dur\u00e9e suppl\u00e9mentaires, en moiti\u00e9 moins de temps.",
+    "it_IT": "Le malattie infliggono il 12% di danni aggiuntivi periodici in met\u00e0 tempo.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u0439 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0434\u0432\u0430 \u0440\u0430\u0437\u0430, \u043d\u043e \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0438\u043c\u0438 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 12%.",
+    "ko_KR": "\uc9c8\ubcd1\uc774 \uc808\ubc18\uc758 \uc2dc\uac04 \ub3d9\uc548 12%\ub9cc\ud07c \uc99d\uac00\ud55c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u75be\u75c5\u7684\u6301\u7e8c\u6027\u50b7\u5bb3\u6548\u679c\u63d0\u9ad812%\uff0c\u4e14\u50c5\u9700\u8981\u4e00\u534a\u7684\u6301\u7e8c\u6642\u9593\u3002",
+    "zh_CN": "\u6076\u6027\u75c5\u53d8\u7684\u6301\u7eed\u65f6\u95f4\u51cf\u534a\uff0c\u4e14\u9020\u6210\u7684\u6301\u7eed\u4f24\u5bb3\u63d0\u9ad812%\u3002"
+  }
 }

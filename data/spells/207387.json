@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207387"
+  "SpellID": "207387",
+  "name_blz": {
+    "en_US": "Painbringer",
+    "es_MX": "Castigador",
+    "pt_BR": "Traztormento",
+    "de_DE": "Peinbringer",
+    "en_GB": "Painbringer",
+    "es_ES": "Castigador",
+    "fr_FR": "Douloureuse",
+    "it_IT": "Fendente del Dolore",
+    "ru_RU": "\u0412\u0435\u0441\u0442\u043d\u0438\u043a \u0431\u043e\u043b\u0438",
+    "ko_KR": "\uace0\ud1b5 \uc778\ub3c4\uc790",
+    "zh_TW": "\u75db\u82e6\u4f7f\u8005",
+    "zh_CN": "\u75db\u82e6\u4f7f\u8005"
+  },
+  "description_blz": {
+    "en_US": "Consuming a Soul Fragment reduces all damage you take by 1% for 6 sec.\r\n\r\nMultiple applications may overlap.",
+    "es_MX": "Consumir un fragmento de alma reduce 1% todo el da\u00f1o que recibes durante 6 s.\r\n\r\nLas aplicaciones m\u00faltiples pueden superponerse.",
+    "pt_BR": "Consumir um Fragmento de Alma reduz em 1% todo o dano recebido por 6 s.\r\n\r\nV\u00e1rias aplica\u00e7\u00f5es podem se sobrepor.",
+    "de_DE": "Das Aufzehren eines Seelenfragments verringert s\u00e4mtlichen Schaden, den Ihr erleidet, 6 Sek. lang um 1%.\r\n\r\nMehrfache Anwendungen dieses Effekts k\u00f6nnen sich \u00fcberschneiden.",
+    "en_GB": "Consuming a Soul Fragment reduces all damage you take by 1% for 6 sec.\r\n\r\nMultiple applications may overlap.",
+    "es_ES": "Consumir un trozo de alma reduce todo el da\u00f1o que recibes un 1% durante 6 s.\r\n\r\nSe pueden solapar varias aplicaciones.",
+    "fr_FR": "Consommer un fragment d\u2019\u00e2me r\u00e9duit les d\u00e9g\u00e2ts que vous subissez de 1% pendant 6 s.\r\n\r\nCet effet peut \u00eatre appliqu\u00e9 plusieurs fois simultan\u00e9ment.",
+    "it_IT": "Consumare un Frammento dell'Anima riduce tutti i danni subiti del 1% per 6 s.\r\n\r\nApplicazioni multiple potrebbero sovrapporsi.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u043c\u0438 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442 \u0434\u0443\u0448\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u043d\u0430 1% \u043d\u0430 6 \u0441\u0435\u043a.\r\n\r\n\u041f\u0440\u0438 \u043c\u043d\u043e\u0433\u043e\u043a\u0440\u0430\u0442\u043d\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u043d\u0430\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0434\u0440\u0443\u0433 \u043d\u0430 \u0434\u0440\u0443\u0433\u0430.",
+    "ko_KR": "\uc601\ud63c \ud30c\ud3b8\uc744 \ud761\uc218\ud558\uba74 6\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\uac00 1%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\uc5ec\ub7ec \ubc88 \uc0ac\uc6a9 \uc2dc \ud6a8\uacfc\uac00 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u541e\u566c\u4e00\u679a\u9748\u9b42\u788e\u7247\u53ef\u4f7f\u4f60\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u964d\u4f4e1%\uff0c\u6301\u7e8c6\u79d2\u3002\r\n\r\n\u591a\u6b21\u4f7f\u7528\u6642\uff0c\u6548\u679c\u53ef\u91cd\u758a\u3002",
+    "zh_CN": "\u6d88\u8017\u4e00\u4e2a\u7075\u9b42\u6b8b\u7247\u4f1a\u4f7f\u4f60\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e1%\uff0c\u6301\u7eed6\u79d2\u3002\r\n\r\n\u591a\u4e2a\u6548\u679c\u53ef\u4ee5\u53e0\u52a0\u3002"
+  }
 }

@@ -34,5 +34,27 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "171456"
+  "SpellID": "171456",
+  "name_blz": {
+    "en_US": "Item - Death Knight WoD PvP Blood 4P Bonus",
+    "es_MX": "Item - Death Knight WoD PvP Blood 4P Bonus",
+    "pt_BR": "Item - Cavaleiro da Morte WoD JxJ Sangue 4P B\u00f4nus",
+    "en_GB": "Item - Death Knight WoD PvP Blood 4P Bonus",
+    "es_ES": "Item - Death Knight WoD PvP Blood 4P Bonus",
+    "it_IT": "Item - Death Knight WoD PvP Blood 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Anti-Magic Shell also applies to the nearest ally.",
+    "es_MX": "Caparaz\u00f3n antimagia tambi\u00e9n aplica al aliado m\u00e1s cercano.",
+    "pt_BR": "A Carapa\u00e7a Antimagia ser\u00e1 aplicada ao aliado mais pr\u00f3ximo.",
+    "de_DE": "'Antimagische H\u00fclle' wirkt sich zus\u00e4tzlich auf den Verb\u00fcndeten aus, der Euch am n\u00e4chsten ist.",
+    "en_GB": "Anti-Magic Shell also applies to the nearest ally.",
+    "es_ES": "Caparaz\u00f3n antimagia tambi\u00e9n se aplica al aliado m\u00e1s cercano.",
+    "fr_FR": "Carapace anti-magie s\u2019applique aussi sur l\u2019alli\u00e9 les plus proche.",
+    "it_IT": "Lo Scudo Antimagia protegge anche l'alleato pi\u00f9 vicino.",
+    "ru_RU": "\"\u0410\u043d\u0442\u0438\u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0430\u043d\u0446\u0438\u0440\u044c\" \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043a \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u043c\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443.",
+    "ko_KR": "\ub300\ub9c8\ubc95 \ubcf4\ud638\ub9c9 \uc2dc\uc804 \uc2dc \uac00\uc7a5 \uac00\uae4c\uc6b4 \uc544\uad70\uc5d0\uac8c\ub3c4 \ud6a8\uacfc\uac00 \uc801\uc6a9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u540c\u6642\u6703\u5728\u6700\u8fd1\u7684\u76df\u53cb\u8eab\u4e0a\u7522\u751f\u53cd\u9b54\u6cd5\u8b77\u7f69\u3002",
+    "zh_CN": "\u6700\u8fd1\u7684\u4e00\u4e2a\u76df\u53cb\u4e5f\u4f1a\u53d7\u5230\u53cd\u9b54\u6cd5\u62a4\u7f69\u5f71\u54cd\u3002"
+  }
 }

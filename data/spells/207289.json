@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207289"
+  "SpellID": "207289",
+  "name_blz": {
+    "en_US": "Unholy Assault",
+    "es_MX": "Asalto profano",
+    "pt_BR": "Ataque Profano",
+    "de_DE": "Unheiliger Angriff",
+    "en_GB": "Unholy Assault",
+    "es_ES": "Asalto profano",
+    "fr_FR": "Assaut impie",
+    "it_IT": "Assalto Empio",
+    "ru_RU": "\u041d\u0435\u0447\u0435\u0441\u0442\u0438\u0432\u044b\u0439 \u043d\u0430\u0442\u0438\u0441\u043a",
+    "ko_KR": "\ubd80\uc815\uc758 \uc2b5\uaca9",
+    "zh_TW": "\u7a62\u90aa\u4e4b\u64ca",
+    "zh_CN": "\u90aa\u6076\u7a81\u88ad"
+  },
+  "description_blz": {
+    "en_US": "Strike your target dealing 677 Shadow damage, infecting the target with 4 Festering Wounds and sending you into an Unholy Frenzy increasing all damage done by 20% for 20 sec.",
+    "es_MX": "Golpea a tu objetivo, le inflige 677 p. de da\u00f1o de las sombras, infecta al objetivo con 4 Heridas degenerativas y te provoca un Frenes\u00ed profano que aumenta el da\u00f1o infligido un 20% durante 20 s.",
+    "pt_BR": "Golpeia o alvo, causando 677 de dano de Sombra e infectando-o com 4 Feridas Purulentas. Voc\u00ea entra em Frenesi Profano, aumentando em 20% todo o dano causado por 20 s.",
+    "de_DE": "Schl\u00e4gt das Ziel, verursacht 677 Schattenschaden und infiziert es mit 4 schw\u00e4renden Wunden. L\u00e4sst Euch in 'Unheilige Raserei' verfallen, die Euren gesamten verursachten Schaden f\u00fcr 20 Sek. um 20% erh\u00f6ht.",
+    "en_GB": "Strike your target dealing 677 Shadow damage, infecting the target with 4 Festering Wounds and sending you into an Unholy Frenzy increasing all damage done by 20% for 20 sec.",
+    "es_ES": "Golpeas a tu objetivo y le infliges 677 p. da\u00f1o de las Sombras, lo que lo infecta con 4 heridas degenerativas y te provoca un Frenes\u00ed profano que aumenta un 20% todo el da\u00f1o infligido durante 20 s.",
+    "fr_FR": "Vous frappez votre cible, ce qui lui inflige 677\u00a0points de d\u00e9g\u00e2ts d\u2019ombre, lui applique 4\u00a0Blessures purulentes et vous plonge dans une Fr\u00e9n\u00e9sie impie qui augmente tous les d\u00e9g\u00e2ts inflig\u00e9s de 20\u00a0% pendant 20 s.",
+    "it_IT": "Colpisce il bersaglio, infliggendo 677 danni da ombra e infettandolo con 4 accumuli di Ferita Putrescente. Inoltre, scatena Frenesia Empia, che aumenta tutti i danni inflitti del 20% per 20 s.",
+    "ru_RU": "\u041d\u0430\u043d\u043e\u0441\u0438\u0442 \u0446\u0435\u043b\u0438 677 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0435\u0435 4 \"\u0413\u043d\u043e\u0439\u043d\u044b\u043c\u0438 \u044f\u0437\u0432\u0430\u043c\u0438\". \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u0432\u044b \u0432\u043f\u0430\u0434\u0430\u0435\u0442\u0435 \u0432 \u043d\u0435\u0447\u0435\u0441\u0442\u0438\u0432\u043e\u0435 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20% \u043d\u0430 20 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc744 \uac15\ud0c0\ud558\uc5ec 677\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uace0\ub984 \uc0c1\ucc98 4\uac1c\ub97c \uac10\uc5fc\uc2dc\ud0b5\ub2c8\ub2e4. \ub610\ud55c \ubd80\uc815\uc758 \uad11\uae30\uc5d0 \ube60\uc838 20\ucd08 \ub3d9\uc548 \ubaa8\ub4e0 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u653b\u64ca\u76ee\u6a19\uff0c\u9020\u6210677\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u5c0d\u76ee\u6a19\u65bd\u52a04\u5c64\u81bf\u7621\u50b7\u53e3\uff0c\u4e26\u4f7f\u81ea\u5df1\u9677\u5165\u7a62\u90aa\u72c2\u71b1\uff0c\u9020\u6210\u7684\u6240\u6709\u50b7\u5bb3\u63d0\u9ad820%\uff0c\u6301\u7e8c20\u79d2\u3002",
+    "zh_CN": "\u6253\u51fb\u76ee\u6807\uff0c\u9020\u6210677\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4f7f\u76ee\u6807\u611f\u67d34\u5c42\u6e83\u70c2\u4e4b\u4f24\uff0c\u540c\u65f6\u4f60\u8fdb\u5165\u90aa\u6076\u72c2\u70ed\u72b6\u6001\uff0c\u9020\u6210\u7684\u6240\u6709\u4f24\u5bb3\u63d0\u9ad820%\uff0c\u6301\u7eed20\u79d2\u3002"
+  }
 }

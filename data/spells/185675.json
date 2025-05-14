@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "185675"
+  "SpellID": "185675",
+  "name_blz": {
+    "en_US": "Item - Paladin T18 Protection 2P Bonus",
+    "es_MX": "Item - Paladin T18 Protection 2P Bonus",
+    "pt_BR": "Item - B\u00f4nus 2P Paladino Prote\u00e7\u00e3o T18",
+    "en_GB": "Item - Paladin T18 Protection 2P Bonus",
+    "es_ES": "Item - Paladin T18 Protection 2P Bonus",
+    "it_IT": "Item - Paladin T18 Protection 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc131\uae30\uc0ac T18 \ubcf4\ud638 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Paladin T18 Protection 2P Bonus",
+    "zh_CN": "Item - Paladin T18 Protection 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When you cast Avenger's Shield, you gain an absorb effect equal to 5.0% of your maximum health for 10 sec.",
+    "es_MX": "Cuando lanzas Escudo de vengador, recibes un efecto de absorci\u00f3n igual al 5.0% de tu salud m\u00e1xima durante 10 s.",
+    "pt_BR": "Ao lan\u00e7ar Escudo do Vingador, voc\u00ea recebe um efeito que absorve 5,0% dos seus pontos de vida m\u00e1ximos por 10 s",
+    "de_DE": "Nach dem Einsatz von 'Schild des R\u00e4chers' erhaltet Ihr einen Schild in H\u00f6he von 5,0% Eurer maximalen Gesundheit, der 10 Sek. lang anh\u00e4lt.",
+    "en_GB": "When you cast Avenger's Shield, you gain an absorb effect equal to 5.0% of your maximum health for 10 sec.",
+    "es_ES": "Cuando lanzas Escudo de vengador obtienes un efecto de absorci\u00f3n igual al 5,0% de tu salud m\u00e1xima durante 10 s.",
+    "fr_FR": "Quand vous lancez Bouclier du vengeur, vous b\u00e9n\u00e9ficiez d\u2019un effet d\u2019absorption \u00e9gal \u00e0 5,0% de votre maximum de points de vie pendant 10 s.",
+    "it_IT": "Scudo del Vendicatore fornisce un effetto di assorbimento di danni subiti pari al 5,0% della propria salute massima per 10 s.",
+    "ru_RU": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \"\u0429\u0438\u0442\u0430 \u043c\u0441\u0442\u0438\u0442\u0435\u043b\u044f\" \u043d\u0430 \u0432\u0430\u0441 \u043d\u0430\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0449\u0438\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442 \u0443\u0440\u043e\u043d \u0432 \u0440\u0430\u0437\u043c\u0435\u0440\u0435 5,0% \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u0441\u0435\u043a.",
+    "ko_KR": "\uc751\uc9d5\uc758 \ubc29\ud328\ub97c \uc0ac\uc6a9\ud558\uba74 10\ucd08 \ub3d9\uc548 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 5.0%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574 \ud761\uc218 \ud6a8\uacfc\uac00 \ubd80\uc5ec\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u65bd\u653e\u5fa9\u4ec7\u4e4b\u76fe\u6642\uff0c\u4f60\u5c07\u7372\u5f97\u76f8\u7576\u65bc\u751f\u547d\u529b\u4e0a\u96505.0%\u7684\u50b7\u5bb3\u5438\u6536\u6548\u679c\uff0c\u6301\u7e8c10\u79d2\u3002",
+    "zh_CN": "\u5f53\u4f60\u65bd\u653e\u590d\u4ec7\u8005\u4e4b\u76fe\u65f6\uff0c\u4f60\u4f1a\u83b7\u5f97\u5438\u6536\u6548\u679c\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u6700\u5927\u751f\u547d\u503c\u76845.0%\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }

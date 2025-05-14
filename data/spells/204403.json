@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "204403"
+  "SpellID": "204403",
+  "name_blz": {
+    "en_US": "Traveling Storms",
+    "es_MX": "Tormentas viajeras",
+    "pt_BR": "Tempestades Errantes",
+    "de_DE": "Ziehende St\u00fcrme",
+    "en_GB": "Traveling Storms",
+    "es_ES": "Tormentas ambulantes",
+    "fr_FR": "Temp\u00eates errantes",
+    "it_IT": "Tempeste Mobili",
+    "ru_RU": "\u0411\u043b\u0443\u0436\u0434\u0430\u044e\u0449\u0438\u0435 \u0431\u0443\u0440\u0438",
+    "ko_KR": "\ud750\ub974\ub294 \ud3ed\ud48d",
+    "zh_TW": "\u98a8\u66b4\u6e38\u79fb",
+    "zh_CN": "\u65c5\u884c\u98ce\u66b4"
+  },
+  "description_blz": {
+    "en_US": "Thunderstorm now can be cast on allies within 40 yards, reduces enemies movement speed by 60%, and knocks enemies 25% further.",
+    "es_MX": "Tormenta de truenos ahora se puede lanzar a los aliados dentro de un radio de 40 m. Reduce un 60% la velocidad de movimiento de los enemigos y los repele un 25% m\u00e1s lejos.",
+    "pt_BR": "Tempestade Relampejante agora pode ser lan\u00e7ada em aliados em um raio de 40 m, reduz a velocidade de movimento dos inimigos em 60% e lan\u00e7a inimigos 25% mais longe.",
+    "de_DE": "'Gewitter' kann nun auf Verb\u00fcndete innerhalb von 40 Metern angewendet werden, verringert die Bewegungsgeschwindigkeit von Gegnern um 60% und st\u00f6\u00dft Gegner 25% weiter weg.",
+    "en_GB": "Thunderstorm now can be cast on allies within 40 yards, reduces enemies movement speed by 60%, and knocks enemies 25% further.",
+    "es_ES": "Ahora, Tormenta de truenos se puede lanzar sobre aliados en un radio de 40 m. Adem\u00e1s, reduce un 60% la velocidad de movimiento de los enemigos y los repele un 25% m\u00e1s.",
+    "fr_FR": "Orage peut d\u00e9sormais \u00eatre lanc\u00e9 sur des personnages alli\u00e9s \u00e0 moins de 40\u00a0m, ce qui r\u00e9duit la vitesse de d\u00e9placement des adversaires de 60\u00a0% et les repousse 25\u00a0% plus loin.",
+    "it_IT": "Esplosione Tonante ora pu\u00f2 essere lanciata sugli alleati entro 40 m, riduce la velocit\u00e0 di movimento dei nemici del 60% e respinge i nemici il 25% pi\u00f9 lontano.",
+    "ru_RU": "\"\u0413\u0440\u043e\u043c \u0438 \u043c\u043e\u043b\u043d\u0438\u044e\" \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u043a \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c. \"\u0413\u0440\u043e\u043c \u0438 \u043c\u043e\u043b\u043d\u0438\u044f\" \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 60% \u0438 \u043e\u0442\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442 \u0438\u0445 \u043d\u0430 25% \u0434\u0430\u043b\u044c\u0448\u0435.",
+    "ko_KR": "40\ubbf8\ud130 \ub0b4\uc758 \uc544\uad70\uc5d0\uac8c \ucc9c\ub465\ud3ed\ud48d\uc744 \uc2dc\uc804\ud574 \uc801\uc758 \uc774\ub3d9 \uc18d\ub3c4\ub97c 60%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uace0 25%\ub9cc\ud07c \ub354 \uba40\ub9ac \ubc00\uccd0\ub0c5\ub2c8\ub2e4.",
+    "zh_TW": "\u96f7\u9706\u98a8\u66b4\u53ef\u5c0d40\u78bc\u7bc4\u570d\u5167\u7684\u76df\u53cb\u65bd\u653e\uff0c\u4f7f\u6575\u4eba\u7684\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e60%\uff0c\u4e14\u64ca\u9000\u6575\u4eba\u7684\u8ddd\u96e2\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u96f7\u9706\u98ce\u66b4\u73b0\u5728\u53ef\u4ee5\u5bf940\u7801\u4ee5\u5185\u7684\u76df\u53cb\u91ca\u653e\uff0c\u4f7f\u654c\u4eba\u7684\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e60%\uff0c\u51fb\u9000\u8ddd\u79bb\u63d0\u9ad825%\u3002"
+  }
 }

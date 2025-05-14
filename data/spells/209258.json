@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "209258"
+  "SpellID": "209258",
+  "name_blz": {
+    "en_US": "Last Resort",
+    "es_MX": "\u00daltimo recurso",
+    "pt_BR": "\u00daltimo Recurso",
+    "de_DE": "Verzweiflungstat",
+    "en_GB": "Last Resort",
+    "es_ES": "\u00daltimo recurso",
+    "fr_FR": "Dernier recours",
+    "it_IT": "Ultima Spiaggia",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043f\u0440\u0438\u0431\u0435\u0436\u0438\u0449\u0435",
+    "ko_KR": "\ucd5c\ud6c4\uc758 \uc218\ub2e8",
+    "zh_TW": "\u6700\u5f8c\u624b\u6bb5",
+    "zh_CN": "\u6700\u540e\u4e00\u640f"
+  },
+  "description_blz": {
+    "en_US": "Sustaining fatal damage instead transforms you to Metamorphosis form.\r\n\r\nThis may occur once every 8 min.",
+    "es_MX": "Si recibes da\u00f1o fatal, en lugar de morir, adoptas tu forma de Metamorfosis.\r\n\r\nEsto puede ocurrir una vez cada 8 min.",
+    "pt_BR": "Ao receber dano fatal, voc\u00ea assume forma de Metamorfose.\r\n\r\nEste efeito s\u00f3 pode ocorrer a cada 8 min.",
+    "de_DE": "Wenn Ihr t\u00f6dlichen Schaden erleidet, werdet Ihr in Eure Metamorphosegestalt verwandelt.\r\n\r\nDieser Effekt kann nur einmal alle 8 Min. eintreten.",
+    "en_GB": "Sustaining fatal damage instead transforms you to Metamorphosis form.\r\n\r\nThis may occur once every 8 min.",
+    "es_ES": "Recibir da\u00f1o letal hace que entres en forma de Metamorfosis en lugar de morir.\r\n\r\nEsto solo puede ocurrir una vez cada 8 min.",
+    "fr_FR": "Les attaques qui devraient vous tuer activent votre M\u00e9tamorphose.\r\n\r\nCet effet ne peut se produire plus d\u2019une fois toutes les 8 min.",
+    "it_IT": "Subire danni fatali, invece di ucciderti, attiva Metamorfosi Demoniaca.\r\n\r\nL'effetto pu\u00f2 avere luogo solo una volta ogni 8 min.",
+    "ru_RU": "\u041f\u0440\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0438 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \"\u041c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0437\u0430\".\r\n\r\n\u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 8 \u043c\u0438\u043d.",
+    "ko_KR": "\uc8fd\uc74c\uc5d0 \uc774\ub974\ub294 \ud53c\ud574\ub97c \uc785\uc73c\uba74 \ud0c8\ud0dc \ud615\uc0c1\uc73c\ub85c \ubcc0\uc2e0\ud569\ub2c8\ub2e4.\r\n\r\n\uc774 \ud6a8\uacfc\ub294 8\ubd84\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u627f\u53d7\u81f4\u547d\u653b\u64ca\u6642\u6703\u6539\u70ba\u8b93\u4f60\u9032\u5165\u60e1\u9b54\u5316\u8eab\u5f62\u614b\u3002\r\n\r\n\u6bcf8\u5206\u9418\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u53d7\u5230\u81f4\u547d\u4f24\u5bb3\u65f6\u4f60\u4f1a\u53d8\u6210\u6076\u9b54\u5f62\u6001\u3002\r\n\r\n\u6b64\u6548\u679c\u6bcf8\u5206\u949f\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

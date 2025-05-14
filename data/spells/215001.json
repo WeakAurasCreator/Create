@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "215001"
+  "SpellID": "215001",
+  "name_blz": {
+    "en_US": "Champion: Akama",
+    "es_MX": "Campe\u00f3n: Akama",
+    "pt_BR": "Campe\u00e3o: Akama",
+    "de_DE": "Champion: Akama",
+    "en_GB": "Champion: Akama",
+    "es_ES": "Campe\u00f3n: Akama",
+    "fr_FR": "Champion\u00a0: Akama",
+    "it_IT": "Campione: Akama",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u0410\u043a\u0430\u043c\u0430",
+    "ko_KR": "\uc6a9\uc0ac: \uc544\uce74\ub9c8",
+    "zh_TW": "\u52c7\u58eb\uff1a\u963f\u5361\u746a",
+    "zh_CN": "\u52c7\u58eb\uff1a\u963f\u5361\u739b"
+  },
+  "description_blz": {
+    "en_US": "As the master architect of Illidan's plan to destroy the Burning Legion, and head of the Ashtongue tribe, Akama has proven to be a resourceful leader as well as a brilliant strategist and skilled fighter.",
+    "es_MX": "Como maestro arquitecto del plan de Illidan para destruir a la Legi\u00f3n Ardiente, y a la cabeza de la tribu Lengua de Ceniza, Akama demostr\u00f3 ser un diestro l\u00edder, como tambi\u00e9n un estratega brillante y un h\u00e1bil peleador.",
+    "pt_BR": "Como arquiteto mestre dos planos de Illidan para destruir a Legi\u00e3o Ardente, e chefe da tribo Grisl\u00edngua, Akama provou ser um l\u00edder perspicaz, bem como um brilhante estrategista e um h\u00e1bil lutador.",
+    "de_DE": "Als Meisterarchitekt von Illidans Plan zur Zerst\u00f6rung der Brennenden Legion und Oberhaupt der Aschenzungen hat sich Akama sowohl als f\u00e4higer Anf\u00fchrer als auch als brillanter Stratege und ge\u00fcbter K\u00e4mpfer erwiesen.",
+    "en_GB": "As the master architect of Illidan's plan to destroy the Burning Legion, and head of the Ashtongue tribe, Akama has proven to be a resourceful leader as well as a brilliant strategist and skilled fighter.",
+    "es_ES": "Akama fue el l\u00edder de la tribu Lengua de Ceniza y el maestro arquitecto del plan de Illidan para destruir a la Legi\u00f3n Ardiente. Ha demostrado ser un l\u00edder con recursos, un gran estratega y un guerrero habilidoso.",
+    "fr_FR": "Principal architecte du plan d\u2019Illidan visant \u00e0 d\u00e9truire la L\u00e9gion ardente et chef de la tribu Cendrelangue, Akama s\u2019est r\u00e9v\u00e9l\u00e9 un meneur d\u2019hommes avis\u00e9, un brillant strat\u00e8ge et un combattant inspir\u00e9.",
+    "it_IT": "Come ideatore del piano di Illidan di distruggere la Legione Infuocata, e come guida della Trib\u00f9 Linguamorta, Akama si \u00e8 dimostrato un capo pieno di risorse, uno stratega brillante e un abile combattente.",
+    "ru_RU": "\u0410\u043a\u0430\u043c\u0430, \u0433\u043b\u0430\u0432\u0430 \u043a\u043b\u0430\u043d\u0430 \u041f\u0435\u043f\u043b\u043e\u0443\u0441\u0442\u043e\u0432 \u0438 \u0438\u0434\u0435\u0439\u043d\u044b\u0439 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0438\u0442\u0435\u043b\u044c \u043f\u043b\u0430\u043d\u0430 \u0418\u043b\u043b\u0438\u0434\u0430\u043d\u0430 \u043f\u043e \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u041f\u044b\u043b\u0430\u044e\u0449\u0435\u0433\u043e \u041b\u0435\u0433\u0438\u043e\u043d\u0430, \u043f\u043e\u043a\u0430\u0437\u0430\u043b \u0441\u0435\u0431\u044f \u043d\u0430\u0445\u043e\u0434\u0447\u0438\u0432\u044b\u043c \u043b\u0438\u0434\u0435\u0440\u043e\u043c, \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u043c \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u043e\u043c \u0438 \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0432\u043e\u0438\u043d\u043e\u043c.",
+    "ko_KR": "\uc544\uce74\ub9c8\ub294 \ubd88\ud0c0\ub294 \uad70\ub2e8\uc744 \uaca9\ud1f4\ud55c \uc77c\ub9ac\ub2e8\uc758 \uacc4\ud68d\uc744 \uc8fc\ub3c4\ud55c \uc7a5\ubcf8\uc778\uc774\uc790 \uc7bf\ube5b\ud613\ubc14\ub2e5 \ubd80\uc871\uc758 \uc218\uc7a5\uc785\ub2c8\ub2e4. \ub610\ud55c \ub2a5\ub825 \uc788\ub294 \uc9c0\ub3c4\uc790\uc778 \ub3d9\uc2dc\uc5d0 \ud0c0\uace0\ub09c \uc804\ub7b5\uac00\uc774\uc790 \uc219\ub828\ub41c \ud22c\uc0ac\ub77c\ub294 \uc0ac\uc2e4\uc744 \uc99d\uba85\ud588\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f5c\u70ba\u4f0a\u5229\u4e39\u6467\u6bc0\u71c3\u71d2\u8ecd\u5718\u8a08\u756b\u7684\u80cc\u5f8c\u63a8\u624b\u8207\u7070\u820c\u6c0f\u65cf\u7684\u982d\u76ee\uff0c\u963f\u5361\u746a\u518d\u518d\u8b49\u660e\u4e86\u81ea\u5df1\u662f\u4e00\u540d\u591a\u624d\u591a\u85dd\u7684\u9818\u8896 - \u8eab\u517c\u8db3\u667a\u591a\u8b00\u7684\u8ecd\u5e2b\u8207\u6280\u85dd\u7d14\u719f\u7684\u6230\u58eb\u3002",
+    "zh_CN": "\u4f5c\u4e3a\u4f0a\u5229\u4e39\u6467\u6bc1\u71c3\u70e7\u519b\u56e2\u8ba1\u5212\u7684\u4e3b\u7b56\u5212\u5e08\u53ca\u7070\u820c\u6c0f\u65cf\u7684\u9996\u9886\uff0c\u963f\u5361\u739b\u5df2\u7ecf\u8bc1\u660e\u4e86\u81ea\u5df1\u662f\u4e2a\u8db3\u667a\u591a\u8c0b\u7684\u9886\u8896\u3001\u6781\u5177\u6307\u6325\u7684\u6218\u7565\u5bb6\uff0c\u540c\u65f6\u4e5f\u662f\u6280\u80fd\u5a34\u719f\u7684\u6597\u58eb\u3002"
+  }
 }

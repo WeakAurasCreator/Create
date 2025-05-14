@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "209202"
+  "SpellID": "209202",
+  "name_blz": {
+    "en_US": "Eye of Tyr",
+    "es_MX": "Ojo de Tyr",
+    "pt_BR": "Olho de Tyr",
+    "de_DE": "Auge von Tyr",
+    "en_GB": "Eye of Tyr",
+    "es_ES": "Ojo de Tyr",
+    "fr_FR": "\u0152il de Tyr",
+    "it_IT": "Occhio di Tyr",
+    "ru_RU": "\u041e\u043a\u043e \u0422\u0438\u0440\u0430",
+    "ko_KR": "\ud2f0\ub974\uc758 \ub208",
+    "zh_TW": "\u63d0\u723e\u4e4b\u773c",
+    "zh_CN": "\u63d0\u5c14\u4e4b\u773c"
+  },
+  "description_blz": {
+    "en_US": "Releases a blinding flash from Truthguard, causing 301 Holy damage to all nearby enemies within 8 yds and reducing all damage they deal to you by 25% for 9 sec.",
+    "es_MX": "Arroja un destello cegador de Veraguardia que inflige 301 p. de da\u00f1o sagrado a todos los enemigos en un radio de 8 m y reduce un 25% todo el da\u00f1o que te infligen durante 9 s.",
+    "pt_BR": "Libera um clar\u00e3o cegante da Guarda Fiel, causando 301 de dano Sagrado a todos os inimigos em um raio de 8 m e reduzindo em 25% o dano que eles causam a voc\u00ea por 9 s.",
+    "de_DE": "Entfesselt einen blendenden Lichtblitz aus dem Wahrheitsh\u00fcter, der allen Gegnern innerhalb von 8 Metern 301 Heiligschaden zuf\u00fcgt und den Schaden, den sie Euch zuf\u00fcgen, 9 Sek. lang um 25% verringert.",
+    "en_GB": "Releases a blinding flash from Truthguard, causing 301 Holy damage to all nearby enemies within 8 yds and reducing all damage they deal to you by 25% for 9 sec.",
+    "es_ES": "Suelta un destello cegador de la Veraguardia que inflige 301 p. de da\u00f1o Sagrado a todos los enemigos cercanos en un radio de 8 m y reduce un 25% todo el da\u00f1o que te infligen durante 9 s.",
+    "fr_FR": "Garde-V\u00e9rit\u00e9 \u00e9met un \u00e9clair aveuglant qui inflige 301\u00a0points de d\u00e9g\u00e2ts du Sacr\u00e9 aux ennemis \u00e0 moins de 8 m\u00e8tres et r\u00e9duit les d\u00e9g\u00e2ts qu\u2019ils vous infligent de 25% pendant 9 s.",
+    "it_IT": "Lo Scudo della Verit\u00e0 rilascia un lampo accecante, infliggendo 301 danni da sacro a tutti i nemici entro 8 m e riducendone i danni a te inflitti del 25% per 9 s.",
+    "ru_RU": "\u0421\u0442\u0440\u0430\u0436 \u0418\u0441\u0442\u0438\u043d\u044b \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u043e\u0441\u043b\u0435\u043f\u043b\u044f\u044e\u0449\u0443\u044e \u0432\u0441\u043f\u044b\u0448\u043a\u0443, \u043d\u0430\u043d\u043e\u0441\u044f 301 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c \u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u043d\u0430 25% \u0432\u0435\u0441\u044c \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u043d\u0438 \u043d\u0430\u043d\u0435\u0441\u0443\u0442 \u0432\u0430\u043c \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 9 \u0441\u0435\u043a.",
+    "ko_KR": "\uc9c4\uc2e4\uc758 \uc218\ud638\uc790\uc5d0\uc11c \ub208\ubd80\uc2e0 \ube5b\uc744 \ubc29\ucd9c\ud558\uc5ec 8\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 301\uc758 \uc2e0\uc131 \ud53c\ud574\ub97c \uc785\ud788\uace0, 9\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \uc790\uc2e0\uc5d0\uac8c \uc785\ud788\ub294 \ud53c\ud574\ub97c 25%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u771f\u7406\u4e4b\u76fe\u767c\u51fa\u4e00\u9053\u8000\u773c\u7684\u9583\u5149\uff0c\u5c0d\u9644\u8fd18\u78bc\u5167\u7684\u6240\u6709\u6575\u4eba\u9020\u6210301\u9ede\u795e\u8056\u50b7\u5bb3\uff0c\u4e26\u4e14\u4f7f\u4ed6\u5011\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e25%\uff0c\u6301\u7e8c9\u79d2\u3002",
+    "zh_CN": "\u771f\u7406\u5b88\u62a4\u8005\u91ca\u653e\u51fa\u7729\u76ee\u4e4b\u5149\uff0c\u5bf9\u5468\u56f48\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\u9020\u6210301\u70b9\u795e\u5723\u4f24\u5bb3\uff0c\u5e76\u4f7f\u5176\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e25%\uff0c\u6301\u7eed9\u79d2\u3002"
+  }
 }

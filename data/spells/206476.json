@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "206476"
+  "SpellID": "206476",
+  "name_blz": {
+    "en_US": "Exergy",
+    "es_MX": "Exerg\u00eda",
+    "pt_BR": "Exergia",
+    "de_DE": "Exergie",
+    "en_GB": "Exergy",
+    "es_ES": "Exerg\u00eda",
+    "fr_FR": "Exergie",
+    "it_IT": "Exergia",
+    "ru_RU": "\u042d\u043a\u0441\u0435\u0440\u0433\u0438\u044f",
+    "ko_KR": "\uac08\ubb34\ub9ac\ud55c \uae30\uc6b4",
+    "zh_TW": "\u80fd\u91cf\u5168\u958b",
+    "zh_CN": "\u80fd\u91cf\u653e\u5c04"
+  },
+  "description_blz": {
+    "en_US": "The Hunt and Vengeful Retreat increase your damage by 5% for 20 sec.",
+    "es_MX": "La cacer\u00eda y Retirada vengativa aumentan un 5% tu da\u00f1o durante 20 s.",
+    "pt_BR": "A Ca\u00e7ada e Retirada Vingativa aumentam em 5% seu dano por 20 s.",
+    "de_DE": "Eure F\u00e4higkeiten 'Die Jagd' und 'Rachs\u00fcchtiger R\u00fcckzug' erh\u00f6hen Euren Schaden 20 Sek. lang um 5%.",
+    "en_GB": "The Hunt and Vengeful Retreat increase your damage by 5% for 20 sec.",
+    "es_ES": "La caza y Retirada vengativa aumentan un 5% el da\u00f1o durante 20 s.",
+    "fr_FR": "La traque et Retraite vengeresse augmentent d\u00e9sormais vos d\u00e9g\u00e2ts de 5\u00a0% pendant 20 s.",
+    "it_IT": "A Caccia e Ritiro Vendicativo aumentano i danni inflitti del 5% per 20 s.",
+    "ru_RU": "\"\u041e\u0445\u043e\u0442\u0430\" \u0438 \"\u041a\u043e\u0432\u0430\u0440\u043d\u043e\u0435 \u043e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u043d\u0430 5% \u043d\u0430 20 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0ac\ub0e5, \ubcf5\uc218\uc758 \ud1f4\uac01\uc774 20\ucd08 \ub3d9\uc548 \uacf5\uaca9\ub825\uc744 5%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7375\u6bba\u8ffd\u64ca\u548c\u883b\u6068\u64a4\u96e2\u4f7f\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad85%\uff0c\u6301\u7e8c20\u79d2\u3002",
+    "zh_CN": "\u6076\u9b54\u8ffd\u51fb\u548c\u590d\u4ec7\u56de\u907f\u4f7f\u4f60\u7684\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u6301\u7eed20\u79d2\u3002"
+  }
 }

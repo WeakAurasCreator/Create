@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "193134"
+  "SpellID": "193134",
+  "name_blz": {
+    "en_US": "Castigation",
+    "es_MX": "Castigo",
+    "pt_BR": "Castigo",
+    "de_DE": "Z\u00fcchtigung",
+    "en_GB": "Castigation",
+    "es_ES": "Escarmiento",
+    "fr_FR": "Fustigation",
+    "it_IT": "Rimprovero",
+    "ru_RU": "\u041e\u0447\u0438\u0449\u0430\u044e\u0449\u0430\u044f \u043a\u0430\u0440\u0430",
+    "ko_KR": "\ucc45\ub9dd",
+    "zh_TW": "\u53b2\u61f2",
+    "zh_CN": "\u60e9\u7f5a"
+  },
+  "description_blz": {
+    "en_US": "Penance fires one additional bolt of holy light over its duration.",
+    "es_MX": "Penitencia lanza un rayo adicional de Luz Sagrada mientras dure.",
+    "pt_BR": "Penit\u00eancia dispara um raio de luz sagrada adicional por toda a dura\u00e7\u00e3o.",
+    "de_DE": "'S\u00fchne' feuert w\u00e4hrend der Kanalisierungsdauer einen zus\u00e4tzlichen heiligen Blitz ab.",
+    "en_GB": "Penance fires one additional bolt of holy light over its duration.",
+    "es_ES": "Penitencia dispara una descarga adicional de Luz Sagrada mientras dura.",
+    "fr_FR": "P\u00e9nitence tire un trait de lumi\u00e8re sacr\u00e9e suppl\u00e9mentaire pendant sa dur\u00e9e.",
+    "it_IT": "Contrizione lancia un dardo aggiuntivo di Luce sacra nel corso della sua durata.",
+    "ru_RU": "\"\u0418\u0441\u043f\u043e\u0432\u0435\u0434\u044c\" \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u043e\u0441\u044b\u043b\u0430\u0435\u0442 \u0432 \u0446\u0435\u043b\u044c \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0440\u044f\u0434 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0441\u0432\u0435\u0442\u0430.",
+    "ko_KR": "\ud68c\uac1c\uac00 \uc9c0\uc18d\uc2dc\uac04\uc5d0 \uac78\uccd0 \uc2e0\uc131\ud55c \ube5b\uc758 \ud654\uc0b4\uc744 \ud558\ub098 \ub354 \ubc1c\uc0ac\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u61fa\u609f\u5728\u6301\u7e8c\u6642\u9593\u5167\u984d\u5916\u767c\u51fa\u4e00\u9053\u8056\u5149\u3002",
+    "zh_CN": "\u82e6\u4fee\u53ef\u5728\u6301\u7eed\u65f6\u95f4\u5185\u591a\u53d1\u5c04\u4e00\u652f\u5723\u5149\u7bad\u3002"
+  }
 }

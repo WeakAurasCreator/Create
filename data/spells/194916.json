@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "194916"
+  "SpellID": "194916",
+  "name_blz": {
+    "en_US": "All Will Serve",
+    "es_MX": "Todos servir\u00e1n",
+    "pt_BR": "Todos Ser\u00e3o Servos",
+    "de_DE": "Alle werden dienen",
+    "en_GB": "All Will Serve",
+    "es_ES": "Todos servir\u00e1n",
+    "fr_FR": "Tous serviront",
+    "it_IT": "Tutti Serviranno",
+    "ru_RU": "\u0412\u0441\u0435\u043e\u0431\u0449\u0435\u0435 \u0441\u043b\u0443\u0436\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ubaa8\ub450 \uc12c\uae30\ub9ac\ub77c",
+    "zh_TW": "\u4ea1\u8005\u7686\u5974",
+    "zh_CN": "\u4e07\u7269\u81e3\u670d"
+  },
+  "description_blz": {
+    "en_US": "Your Raise Dead spell summons an additional skeletal minion.",
+    "es_MX": "Tu hechizo Resucitar muerto invoca un esbirro esquel\u00e9tico adicional.",
+    "pt_BR": "Seu feiti\u00e7o Reviver Morto evoca um lacaio esquel\u00e9tico extra.",
+    "de_DE": "Eure 'Totenerweckung' beschw\u00f6rt einen zus\u00e4tzlichen Skelettdiener.",
+    "en_GB": "Your Raise Dead spell summons an additional skeletal minion.",
+    "es_ES": "Tu hechizo Levantar muerto invoca un esbirro esquel\u00e9tico extra.",
+    "fr_FR": "R\u00e9animation morbide invoque un serviteur squelette suppl\u00e9mentaire.",
+    "it_IT": "Rianima Cadavere evoca un servitore scheletro aggiuntivo.",
+    "ru_RU": "\"\u0412\u043e\u0441\u043a\u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u043c\u0435\u0440\u0442\u0432\u044b\u0445\" \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043a\u0435\u043b\u0435\u0442\u0430-\u043f\u0440\u0438\u0441\u043b\u0443\u0436\u043d\u0438\u043a\u0430.",
+    "ko_KR": "\uc2dc\uccb4 \ub418\uc0b4\ub9ac\uae30 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc \ud574\uace8 \ud558\uc218\uc778\uc744 \ud558\ub098 \ucd94\uac00\ub85c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6b7b\u8005\u5fa9\u751f\u6cd5\u8853\u984d\u5916\u53ec\u559a\u4e00\u4f4d\u9ab7\u9acf\u50d5\u5f9e\u3002",
+    "zh_CN": "\u4f60\u7684\u4ea1\u8005\u590d\u751f\u6cd5\u672f\u4f1a\u53ec\u5524\u4e00\u53ea\u989d\u5916\u7684\u9ab7\u9ac5\u722a\u7259\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196938"
+  "SpellID": "196938",
+  "name_blz": {
+    "en_US": "Quick Draw",
+    "es_MX": "Desenfunde r\u00e1pido",
+    "pt_BR": "Saque R\u00e1pido",
+    "de_DE": "Pistolenheld",
+    "en_GB": "Quick Draw",
+    "es_ES": "Mano r\u00e1pida",
+    "fr_FR": "Tireur rapide",
+    "it_IT": "Estrazione Rapida",
+    "ru_RU": "\u0421\u0442\u0440\u0435\u043b\u044c\u0431\u0430 \u043e\u0442 \u0431\u0435\u0434\u0440\u0430",
+    "ko_KR": "\ube60\ub978 \uc0ac\uaca9",
+    "zh_TW": "\u5feb\u901f\u62d4\u69cd",
+    "zh_CN": "\u5feb\u901f\u62d4\u67aa"
+  },
+  "description_blz": {
+    "en_US": "Half-cost uses of Pistol Shot granted by Sinister Strike now generate 1 additional combo point, and deal 20% additional damage.",
+    "es_MX": "Los usos de Disparo de pistola otorgados por Golpe siniestro que gastan la mitad de su costo ahora generan 1 punto de combo m\u00e1s e infligen un 20% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Usos do Tiro de Pistola com metade do custo concedidos pelo Golpe Sinistro agora geram mais 1 ponto de combo e causam 20% a mais de dano.",
+    "de_DE": "Eins\u00e4tze von 'Pistolenschuss' zu halben Kosten, die durch 'Finsterer Sto\u00df' ausgel\u00f6st wurden, gew\u00e4hren nun 1 zus\u00e4tzlichen Combopunkt und verursachen 20% mehr Schaden.",
+    "en_GB": "Half-cost uses of Pistol Shot granted by Sinister Strike now generate 1 additional combo point, and deal 20% additional damage.",
+    "es_ES": "Ahora los usos de Disparo de pistola a mitad de coste otorgados por Golpe siniestro generan 1 p. de combo extras e infligen un 20% de da\u00f1o extra.",
+    "fr_FR": "Les utilisations de Coup de pistolet dont le co\u00fbt est r\u00e9duit de moiti\u00e9 par Attaque pernicieuse g\u00e9n\u00e8rent 1 point de combo suppl\u00e9mentaire et infligent 20% de d\u00e9g\u00e2ts suppl\u00e9mentaires.",
+    "it_IT": "I Colpi di Pistola che costano la met\u00e0 attivati da Assalto Funesto forniscono 1 punto combo aggiuntivo e infliggono il 20% di danni aggiuntivi.",
+    "ru_RU": "\"\u0412\u044b\u0441\u0442\u0440\u0435\u043b\u044b \u0438\u0437 \u043f\u0438\u0441\u0442\u043e\u043b\u0438\" \u0441 \u043c\u0435\u043d\u044c\u0448\u0435\u0439 \u0432 \u0434\u0432\u0430 \u0440\u0430\u0437\u0430 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c\u044e (\u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \"\u041a\u043e\u0432\u0430\u0440\u043d\u043e\u043c\u0443 \u0443\u0434\u0430\u0440\u0443\") \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u0434\u043b\u0438\u043d\u0443 \u0441\u0435\u0440\u0438\u0438 \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u043d\u0430 1 \u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 20% \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc0ac\uc545\ud55c \uc77c\uaca9\uc774 \ubc1c\ub3d9\uc2dc\ud0a8 \ud6a8\uacfc\ub85c \uae30\ub825 \uc18c\ubaa8\uac00 \uc808\ubc18\uc774 \ub41c \uad8c\ucd1d \uc0ac\uaca9\uc744 \uc0ac\uc6a9\ud560 \ub54c, \ucd94\uac00 \uc5f0\uacc4 \uc810\uc218 1\uc810\uc744 \uc5bb\uace0 20%\ub9cc\ud07c\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u90aa\u60e1\u653b\u64ca\u8ce6\u4e88\u80fd\u91cf\u6d88\u8017\u6e1b\u534a\u7684\u624b\u69cd\u5c04\u64ca\u53ef\u984d\u5916\u7522\u751f1\u500b\u9023\u64ca\u9ede\u6578\uff0c\u4e26\u4e14\u984d\u5916\u9020\u621020%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u56e0\u5f71\u88ad\u800c\u4f7f\u6d88\u8017\u51cf\u534a\u7684\u624b\u67aa\u5c04\u51fb\u73b0\u5728\u4f1a\u989d\u5916\u4ea7\u751f1\u4e2a\u8fde\u51fb\u70b9\u6570\uff0c\u4e14\u9020\u621020%\u7684\u989d\u5916\u4f24\u5bb3\u3002"
+  }
 }

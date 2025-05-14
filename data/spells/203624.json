@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "203624"
+  "SpellID": "203624",
+  "name_blz": {
+    "en_US": "Early Spring",
+    "es_MX": "Primavera anticipada",
+    "pt_BR": "In\u00edcio de Primavera",
+    "de_DE": "Rasche Fr\u00fchlingsreife",
+    "en_GB": "Early Spring",
+    "es_ES": "Florecimiento temprano",
+    "fr_FR": "Printemps pr\u00e9coce",
+    "it_IT": "Primavera",
+    "ru_RU": "\u0420\u0430\u043d\u043d\u044f\u044f \u0432\u0435\u0441\u043d\u0430",
+    "ko_KR": "\uc0c8\ubd04",
+    "zh_TW": "\u65e9\u6625",
+    "zh_CN": "\u4e07\u7269\u590d\u82cf"
+  },
+  "description_blz": {
+    "en_US": "Wild Growth is now instant cast, and when you heal 6 allies with Wild Growth you gain Full Bloom. This effect has a 30 sec cooldown.\r\n\r\nFull Bloom\r\nYour next Wild Growth applies Lifebloom to all targets at 100% effectiveness. Lasts for 30 sec.",
+    "es_MX": "Crecimiento salvaje ahora se lanza al instante, y cuando sanas a 6 aliados con Crecimiento salvaje recibes Plena floraci\u00f3n. Este efecto tiene un tiempo de reutilizaci\u00f3n de 30 segundos.\r\n\r\nPlena floraci\u00f3n\r\nTu siguiente Crecimiento salvaje aplica Flor de vida a todos los objetivos con un 100% de efectividad. Dura 30 s.",
+    "pt_BR": "Crescimento Silvestre agora \u00e9 instant\u00e2neo, e ao curar 6 aliados com Crescimento Silvestre, voc\u00ea ganha Flora\u00e7\u00e3o Integral. Este efeito tem uma recarga de 30 s.\r\n\r\nFlora\u00e7\u00e3o Integral\r\nSeu pr\u00f3ximo Crescimento Silvestre aplica Brotar da Vida com 100% de efic\u00e1cia. Dura 30 s.",
+    "de_DE": "Macht 'Wildwuchs' zu einem Spontanzauber, und wenn Ihr 6 Verb\u00fcndete mit 'Wildwuchs' heilt, erhaltet Ihr den Effekt 'In voller Bl\u00fcte'. Dieser Effekt hat eine Abklingzeit von 30 Sek.\r\n\r\nIn voller Bl\u00fcte\r\nEuer n\u00e4chster Einsatz von 'Wildwuchs' belegt alle Ziele mit einer 100% effektiven Version von 'Bl\u00fchendes Leben'. H\u00e4lt 30 Sek. lang an.",
+    "en_GB": "Wild Growth is now instant cast, and when you heal 6 allies with Wild Growth you gain Full Bloom. This effect has a 30 sec cooldown.\r\n\r\nFull Bloom\r\nYour next Wild Growth applies Lifebloom to all targets at 100% effectiveness. Lasts for 30 sec.",
+    "es_ES": "Ahora Crecimiento salvaje se lanza instant\u00e1neamente y cuando sanas a 6 aliados con Crecimiento salvaje obtienes Florecimiento pleno. Este efecto tiene un tiempo de reutilizaci\u00f3n de 30 s.\r\n\r\nFlorecimiento pleno\r\nTu siguiente Crecimiento salvaje aplica Flor de vida a todos los objetivos con un 100% de efectividad. Dura 30 s.",
+    "fr_FR": "L\u2019incantation de Croissance sauvage est d\u00e9sormais instantan\u00e9e et, lorsque vous soignez 6\u00a0alli\u00e9s avec cette technique, vous b\u00e9n\u00e9ficiez de Pleine floraison. Cet effet est soumis \u00e0 un temps de recharge de 30\u00a0s.\r\n\r\nPleine floraison\r\nVotre prochaine Croissance sauvage applique Fleur de vie aux cibles, \u00e0 100% de son efficacit\u00e9. Dure 30\u00a0s.",
+    "it_IT": "Crescita Rigogliosa \u00e8 istantanea e, quando si curano 6 alleati con Crescita Rigogliosa, si ottiene l'effetto Fioritura Massima. Questo effetto ha un tempo di recupero di 30 s.\r\n\r\nFioritura Massima\r\nLa successiva Crescita Rigogliosa applica Bocciolo di Vita con un'efficacia del 100% a tutti i bersagli. Dura 30 s.",
+    "ru_RU": "\"\u0411\u0443\u0439\u043d\u044b\u0439 \u0440\u043e\u0441\u0442\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e. \u0418\u0441\u0446\u0435\u043b\u0438\u0432 \"\u0411\u0443\u0439\u043d\u044b\u043c \u0440\u043e\u0441\u0442\u043e\u043c\" 6 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432, \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \"\u0420\u0430\u0441\u0446\u0432\u0435\u0442 \u0441\u0438\u043b\". \u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u2013 30 \u0441\u0435\u043a.\r\n\r\n\u0420\u0430\u0441\u0446\u0432\u0435\u0442 \u0441\u0438\u043b\r\n\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0411\u0443\u0439\u043d\u044b\u0439 \u0440\u043e\u0441\u0442\" \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442 \u043a \u0446\u0435\u043b\u044f\u043c \"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 100%. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 30 \u0441\u0435\u043a.",
+    "ko_KR": "\uae09\uc18d \uc131\uc7a5\uc774 \uc989\uc2dc \uc2dc\uc804\ub429\ub2c8\ub2e4. \uae09\uc18d \uc131\uc7a5\uc73c\ub85c 6\uba85\uc758 \uc544\uad70\uc744 \uce58\uc720\ud558\uba74 \ub9cc\uac1c \ud6a8\uacfc\ub97c \uc5bb\uc2b5\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 30\ucd08\ub9c8\ub2e4 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ub429\ub2c8\ub2e4.\r\n\r\n\ub9cc\uac1c\r\n\ub2e4\uc74c \uae09\uc18d \uc131\uc7a5\uc774 \ubaa8\ub4e0 \ub300\uc0c1\uc5d0\uac8c \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85 \ud6a8\uacfc\ub97c 100% \ud6a8\uc728\ub85c \ubd80\uc5ec\ud569\ub2c8\ub2e4. 30\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u91ce\u6027\u75ca\u7652\u73fe\u5728\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u4e14\u6bcf\u6b21\u4ee5\u91ce\u6027\u75ca\u7652\u6cbb\u76426\u540d\u76df\u53cb\uff0c\u53ef\u4f7f\u4f60\u7372\u5f97\u7e41\u8302\u76db\u958b\u3002\u6b64\u6548\u679c\u670930\u79d2\u7684\u51b7\u537b\u6642\u9593\u3002\r\n\r\n\u7e41\u8302\u76db\u958b\r\n\u4f60\u7684\u4e0b\u4e00\u500b\u91ce\u6027\u75ca\u7652\u6703\u5c0d\u6240\u6709\u76ee\u6a19\u65bd\u52a0100%\u6548\u679c\u7684\u751f\u547d\u4e4b\u82b1\u3002\u6301\u7e8c30\u79d2\u3002",
+    "zh_CN": "\u91ce\u6027\u6210\u957f\u73b0\u5728\u53d8\u4e3a\u77ac\u53d1\uff0c\u4e14\u4f7f\u7528\u91ce\u6027\u6210\u957f\u6cbb\u75976\u540d\u76df\u53cb\u540e\u53ef\u83b7\u5f97\u5f02\u5f69\u7eb7\u5448\u3002\u8be5\u6548\u679c\u670930\u79d2\u7684\u51b7\u5374\u65f6\u95f4\u3002 \r\n\r\n\u5f02\u5f69\u7eb7\u5448\r\n\u4f60\u7684\u4e0b\u4e00\u4e2a\u91ce\u6027\u6210\u957f\u4f1a\u5bf9\u6240\u6709\u76ee\u6807\u65bd\u52a0\u751f\u547d\u7efd\u653e\uff0c\u6548\u679c\u4e3a100%\uff0c\u6301\u7eed30\u79d2\u3002"
+  }
 }

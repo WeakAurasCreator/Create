@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "231895"
+  "SpellID": "231895",
+  "name_blz": {
+    "en_US": "Crusade",
+    "es_MX": "Cruzada",
+    "pt_BR": "Cruzada",
+    "de_DE": "Kreuzzug",
+    "en_GB": "Crusade",
+    "es_ES": "Cruzada",
+    "fr_FR": "Croisade",
+    "it_IT": "Crociata",
+    "ru_RU": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u0430\u044f \u0432\u043e\u0439\u043d\u0430",
+    "ko_KR": "\uc131\uc804",
+    "zh_TW": "\u5341\u5b57\u8ecd",
+    "zh_CN": "\u5f81\u4f10"
+  },
+  "description_blz": {
+    "en_US": "Call upon the Light and begin a crusade, increasing your haste by 3% for 27 sec.\r\n\r\nEach Holy Power spent during Crusade increases haste and damage by an additional 3%.\r\n\r\nMaximum 10 stacks.\r\n",
+    "es_MX": "Invocas la Luz y comienzas una cruzada, lo que aumenta tu celeridad un 3% durante 27 s.\r\n\r\nCada p. de poder sagrado gastado durante Cruzada aumenta la celeridad y el da\u00f1o un 3% m\u00e1s.\r\n\r\nM\u00e1ximo de 10 acumulaciones.\r\n",
+    "pt_BR": "Convoca a Luz e come\u00e7a uma cruzada, o que aumenta sua acelera\u00e7\u00e3o em 3% por 27 s.\r\n\r\nCada ponto de Poder Sagrado gasto ao longo da Cruzada aumenta em mais 3% a acelera\u00e7\u00e3o e o dano.\r\n\r\nM\u00e1ximo de 10 aplica\u00e7\u00f5es.\r\n",
+    "de_DE": "Ruft das Licht an und beginnt einen Kreuzzug, der Euer Tempo f\u00fcr 27 Sek. um 3% erh\u00f6ht.\r\n\r\nJede w\u00e4hrend der Effektdauer von 'Kreuzzug' verbrauchte Heilige Kraft erh\u00f6ht Euer Tempo und Euren verursachten Schaden um zus\u00e4tzlich 3%.\r\n\r\nMaximal 10 Stapel.\r\n",
+    "en_GB": "Call upon the Light and begin a crusade, increasing your haste by 3% for 27 sec.\r\n\r\nEach Holy Power spent during Crusade increases haste and damage by an additional 3%.\r\n\r\nMaximum 10 stacks.\r\n",
+    "es_ES": "Invocas la Luz y comienzas una cruzada, lo que aumenta un 3% tu celeridad durante 27 s.\r\n\r\nCada punto de poder sagrado gastado durante Cruzada aumenta un 3% m\u00e1s la celeridad y el da\u00f1o.\r\n\r\nTiene un m\u00e1ximo de 10 acumulaciones.\r\n",
+    "fr_FR": "Vous faites appel au pouvoir de la Lumi\u00e8re et lancez une croisade qui augmente votre H\u00e2te de 3\u00a0% pendant 27 s.\r\n\r\nChaque charge de puissance sacr\u00e9e d\u00e9pens\u00e9e pendant que Croisade est active augmente la H\u00e2te et les d\u00e9g\u00e2ts de 3\u00a0% suppl\u00e9mentaires.\r\n\r\nCumulable jusqu\u2019\u00e0 10\u00a0fois.\r\n",
+    "it_IT": "La Luce scatena una crociata, aumentando la celerit\u00e0 del 3% per 27 s.\r\n\r\nOgni carica di Potere sacro consumata durante Crociata aumenta la celerit\u00e0 e i danni inflitti del 3% aggiuntivo.\r\n\r\nMassimo 10 accumuli.\r\n",
+    "ru_RU": "\u0412\u044b \u0432\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u043a \u0441\u0438\u043b\u0435 \u0421\u0432\u0435\u0442\u0430 \u0438 \u043e\u0431\u044a\u044f\u0432\u043b\u044f\u0435\u0442\u0435 \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0443\u044e \u0432\u043e\u0439\u043d\u0443, \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u0441\u0432\u043e\u044e \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 3% \u043d\u0430 27 \u0441\u0435\u043a.\r\n\r\n\u041a\u0430\u0436\u0434\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430, \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u0430\u044f \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0439 \u0432\u043e\u0439\u043d\u044b\", \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u0435\u0449\u0435 \u043d\u0430 3%.\r\n\r\n\u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437.\r\n",
+    "ko_KR": "\ube5b\uc744 \ubd88\ub7ec\ub0b4 \uc131\uc804\uc744 \uc2dc\uc791\ud569\ub2c8\ub2e4. 27\ucd08 \ub3d9\uc548 \uac00\uc18d\uc774 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc131\uc804\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc18c\ubaa8\ud55c \uc2e0\uc131\ud55c \ud798 \ud558\ub098\ub2f9 \uac00\uc18d \ubc0f \uacf5\uaca9\ub825\uc774 \ucd94\uac00\ub85c 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ucd5c\ub300 10\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u547c\u559a\u8056\u5149\u4e26\u958b\u59cb\u9032\u884c\u8056\u6230\uff0c\u4f7f\u4f60\u7684\u52a0\u901f\u63d0\u9ad83%\uff0c\u6301\u7e8c27\u79d2\u3002\r\n\r\n\u5728\u5341\u5b57\u8ecd\u4f5c\u7528\u671f\u9593\u6d88\u8017\u7684\u6bcf\u9053\u8056\u80fd\uff0c\u90fd\u6703\u4f7f\u52a0\u901f\u548c\u50b7\u5bb3\u984d\u5916\u63d0\u9ad83%\u3002\r\n\r\n\u6700\u591a\u53ef\u5806\u758a10\u5c64\u3002\r\n",
+    "zh_CN": "\u53ec\u5524\u5723\u5149\u7684\u529b\u91cf\uff0c\u5f00\u59cb\u5f81\u4f10\uff0c\u4f7f\u4f60\u7684\u6025\u901f\u63d0\u9ad83%\uff0c\u6301\u7eed27\u79d2\u3002\r\n\r\n\u5f81\u4f10\u6301\u7eed\u671f\u95f4\u6bcf\u6d88\u8017\u4e00\u5c42\u795e\u5723\u80fd\u91cf\u5c31\u4f1a\u4f7f\u6025\u901f\u548c\u9020\u6210\u7684\u4f24\u5bb3\u989d\u5916\u63d0\u9ad83%\u3002\r\n\r\n\u6700\u591a\u53ef\u53e0\u52a010\u5c42\u3002\r\n"
+  }
 }

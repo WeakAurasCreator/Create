@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "160947"
+  "SpellID": "160947",
+  "name_blz": {
+    "en_US": "Follower: Qiana Moonshadow",
+    "es_MX": "Seguidor: Qiana Umbraluna",
+    "pt_BR": "Seguidora: Qiana Umbraluna",
+    "de_DE": "Anh\u00e4ngerin: Qiana Mondschatten",
+    "en_GB": "Follower: Qiana Moonshadow",
+    "es_ES": "Seguidora: Qiana Umbraluna",
+    "fr_FR": "Sujet\u00a0: Qiana Lunombre",
+    "it_IT": "Seguace: Qiana Lunascura",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041a\u0438\u0430\u043d\u0430 \u0422\u0435\u043d\u044c \u041b\u0443\u043d\u044b",
+    "ko_KR": "\ucd94\uc885\uc790: \ud034\uc544\ub098 \ubb38\uc100\ub3c4\uc6b0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u742a\u5b89\u5a1c\u2027\u6708\u5f71",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u5947\u5a05\u5a1c\u00b7\u6708\u5f71"
+  },
+  "description_blz": {
+    "en_US": "A fierce protector of nature, Qiana is a druid who has mastered her feral side.",
+    "es_MX": "Una leal protectora de la naturaleza, Qiana es una druida que ha dominado su lado salvaje.",
+    "pt_BR": "Protetora ferrenha da natureza, Qiana \u00e9 uma druida que dominou seu lado animal.",
+    "de_DE": "Die Druidin Qiana ist eine leidenschaftliche Besch\u00fctzerin der Natur, die ihre wilde Seite unter Kontrolle hat.",
+    "en_GB": "A fierce protector of nature, Qiana is a druid who has mastered her feral side.",
+    "es_ES": "Qiana, una feroz protectora de la naturaleza, es una druida que ha dominado su lado feral.",
+    "fr_FR": "F\u00e9roce protectrice de la nature, Qiana est une druidesse qui est parvenue \u00e0 ma\u00eetriser son c\u00f4t\u00e9 farouche.",
+    "it_IT": "Feroce protettrice della natura, Qiana \u00e8 una Druida che sa gestire il proprio istinto ferino.",
+    "ru_RU": "\u041a\u0438\u0430\u043d\u0430 \u2013 \u044f\u0440\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u0446\u0430 \u043f\u0440\u0438\u0440\u043e\u0434\u044b. \u041e\u043d\u0430 \u0438\u0437 \u0442\u0435\u0445 \u0434\u0440\u0443\u0438\u0434\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043c\u043e\u0433\u043b\u0438 \u043e\u0431\u0443\u0437\u0434\u0430\u0442\u044c \u0441\u0432\u043e\u044e \u0437\u0432\u0435\u0440\u0438\u043d\u0443\u044e \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c.",
+    "ko_KR": "\ub4dc\ub8e8\uc774\ub4dc \ud034\uc544\ub098\ub294 \uc790\uc5f0\uc758 \uc0ac\ub098\uc6b4 \uc218\ud638\uc790\uc774\uc790 \uc57c\uc131\uc758 \ub300\uac00\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u6fc0\u9032\u7684\u81ea\u7136\u4fdd\u8b77\u8005\uff0c\u742a\u5b89\u5a1c\u662f\u7cbe\u901a\u91ce\u6027\u6230\u9b25\u7684\u5fb7\u9b6f\u4f0a\u3002",
+    "zh_CN": "\u4f5c\u4e3a\u4e00\u540d\u81ea\u7136\u7684\u5b88\u62a4\u8005\uff0c\u5fb7\u9c81\u4f0a\u5947\u5a05\u5a1c\u5728\u91ce\u6027\u65b9\u9762\u7684\u5929\u8d4b\u65e0\u4eba\u80fd\u53ca\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207239"
+  "SpellID": "207239",
+  "name_blz": {
+    "en_US": "Follower: Avalanchion",
+    "es_MX": "Seguidor: Avalanchion",
+    "pt_BR": "Seguidor: Avalanchion",
+    "de_DE": "Anh\u00e4nger: Lavinius",
+    "en_GB": "Follower: Avalanchion",
+    "es_ES": "Seguidor: Avalanchion",
+    "fr_FR": "Sujet\u00a0: Avalanchion",
+    "it_IT": "Seguace: Valanghion",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u041b\u0430\u0432\u0438\u043d\u0438\u043e\u043d",
+    "ko_KR": "\ucd94\uc885\uc790: \uc544\ubc1c\ub780\uce58\uc628",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u963f\u74e6\u862d\u5947\u5967",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u963f\u74e6\u5170\u5947\u5965"
+  },
+  "description_blz": {
+    "en_US": "Among the great Stone Lords of Deepholm, Avalanchion is known for being virtually indestructible.00Avalanchion easily ignores mortal sensations such as fear and pain and will fulfill his master's commands with unyielding focus.",
+    "es_MX": "Entre los grandes Se\u00f1ores de piedra de Infralar, Avalanchion es conocido por ser pr\u00e1cticamente indestructible.00Avalanchion ignora f\u00e1cilmente las sensaciones mortales como el miedo y el dolor, y cumplir\u00e1 las \u00f3rdenes de su amo con una concentraci\u00f3n inquebrantable.",
+    "pt_BR": "Dentre os Senhores da Pedra do Geodomo, Avalanchion \u00e9 conhecido por ser praticamente indestrut\u00edvel. Avalanchion ignora facilmente sensa\u00e7\u00f5es mortais como dor e medo, cumprindo as ordens de seu mestre com foco inabal\u00e1vel.",
+    "de_DE": "Als einer der gro\u00dfen Steinlords von Tiefenheim ist Lavinius bekanntlich praktisch unverw\u00fcstlich.00Lavinius ignoriert Empfindungen der Sterblichen wie Furcht und Schmerz und erf\u00fcllt den Willen seines Meisters mit eiserner Konzentration.",
+    "en_GB": "Among the great Stone Lords of Deepholm, Avalanchion is known for being virtually indestructible.00Avalanchion easily ignores mortal sensations such as fear and pain and will fulfill his master's commands with unyielding focus.",
+    "es_ES": "Entre los grandes se\u00f1ores de piedra de Infralar, Avalanchion es conocido por ser pr\u00e1cticamente indestructible.00Avalanchion ignora tranquilamente sensaciones mortales como el miedo y el dolor, y cumplir\u00e1 las \u00f3rdenes de su amo con una determinaci\u00f3n inflexible.",
+    "fr_FR": "Parmi les grands seigneurs de pierre du Tr\u00e9fonds, Avalanchion est c\u00e9l\u00e8bre pour son indestructibilit\u00e9.\r\n\r\nAffranchi des sensations mortelles comme la peur et la souffrance, il accomplit la volont\u00e9 de son ma\u00eetre avec une ardeur sans faille.",
+    "it_IT": "Tra i grandi Signori di Pietra di Rocciafonda, Valanghion \u00e8 conosciuto per essere praticamente indistruttibile.00Valanghion ignora le normali emozioni mortali, come la paura o il dolore, ed esegue gli ordini del suo padrone con incrollabile determinazione.",
+    "ru_RU": "\u0421\u0440\u0435\u0434\u0438 \u043a\u0430\u043c\u0435\u043d\u043d\u044b\u0445 \u0432\u043b\u0430\u0434\u044b\u043a \u041f\u043e\u0434\u0437\u0435\u043c\u044c\u044f \u041b\u0430\u0432\u0438\u043d\u0438\u043e\u043d \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0441\u0432\u043e\u0435\u0439 \u043d\u0435\u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c\u044e.00\u041b\u0430\u0432\u0438\u043d\u0438\u043e\u043d \u043d\u0435 \u0438\u0441\u043f\u044b\u0442\u044b\u0432\u0430\u0435\u0442 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0441\u043c\u0435\u0440\u0442\u043d\u044b\u043c \u0431\u043e\u043b\u0438 \u0438 \u0441\u0442\u0440\u0430\u0445\u0430 \u0438 \u0441\u0434\u0435\u043b\u0430\u0435\u0442 \u0432\u0441\u0435, \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u043f\u0440\u0438\u043a\u0430\u0437 \u0441\u0432\u043e\u0435\u0433\u043e \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044f.",
+    "ko_KR": "\uc2ec\uc6d0\uc758 \uc601\uc9c0\uc758 \uc704\ub300\ud55c \ubc14\uc704 \uad70\uc8fc \uc911 \ud558\ub098\uc778 \uc544\ubc1c\ub780\uce58\uc628\uc740 \ud328\ubc30\ub97c \ubaa8\ub974\ub294 \uc790\ub85c \uc720\uba85\ud569\ub2c8\ub2e4.\r\n\r\n\uadf8\ub294 \uacf5\ud3ec\ub098 \uace0\ud1b5\uacfc \uac19\uc774 \ud544\uba78\uc790\uac00 \ub290\ub07c\ub294 \uac10\uc815 \ub530\uc704\uc5d0 \ud718\ub458\ub9ac\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ub610\ud55c, \uc544\ubc1c\ub780\uce58\uc628\uc740 \uc8fc\uc778\uc758 \uba85\ub839\uc744 \uc808\ub300\uc801\uc73c\ub85c \ub530\ub974\ub294 \ucda9\uc131\uc2a4\ub7ec\uc6b4 \uc790\uc774\uae30\ub3c4 \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5730\u6df1\u4e4b\u6e90\u7684\u77f3\u9818\u4e3b\u4e2d\uff0c\u963f\u74e6\u862d\u5947\u5967\u4ee5\u5176\u5e7e\u4e4e\u4e0d\u53ef\u6bc0\u58de\u4e4b\u8eab\u805e\u540d\u300200\u963f\u74e6\u862d\u5947\u5967\u5b8c\u5168\u4e0d\u53d7\u6050\u61fc\u8207\u75db\u82e6\u7b49\u51e1\u4eba\u7684\u60c5\u7dd2\u4fb5\u64fe\uff0c\u80fd\u4ee5\u7121\u8207\u502b\u6bd4\u7684\u5c08\u6ce8\u529b\u5b8c\u6210\u4e3b\u4eba\u8a17\u4ed8\u7684\u4e00\u5207\u4f7f\u547d\u3002",
+    "zh_CN": "\u6bcf\u4e2a\u4eba\u90fd\u77e5\u9053\uff0c\u5728\u6df1\u5ca9\u4e4b\u6d32\u5f3a\u5927\u7684\u77f3\u9886\u4e3b\u4e2d\uff0c\u963f\u74e6\u5170\u5947\u5965\u662f\u6700\u4e0d\u53ef\u64bc\u52a8\u7684\u3002\u963f\u74e6\u5170\u5947\u5965\u5b8c\u5168\u4e0d\u4f1a\u53d7\u5230\u8bf8\u5982\u6050\u60e7\u4e0e\u75db\u82e6\u4e4b\u7c7b\u7684\u51e1\u4eba\u611f\u60c5\u5f71\u54cd\uff0c\u4ed6\u4f1a\u4ee5\u4e0d\u53ef\u52a8\u6447\u7684\u4e13\u6ce8\u5b8c\u6210\u4e3b\u4eba\u7684\u547d\u4ee4\u3002"
+  }
 }

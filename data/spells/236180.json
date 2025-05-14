@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "236180"
+  "SpellID": "236180",
+  "name_blz": {
+    "en_US": "Den Mother",
+    "es_MX": "Madre del cubil",
+    "pt_BR": "Matriarca do Covil",
+    "de_DE": "H\u00f6hlenmutter",
+    "en_GB": "Den Mother",
+    "es_ES": "Madre del cubil",
+    "fr_FR": "M\u00e8re de la tani\u00e8re",
+    "it_IT": "Madre dell'Antro",
+    "ru_RU": "\u041c\u0430\u0442\u044c-\u043c\u0435\u0434\u0432\u0435\u0434\u0438\u0446\u0430",
+    "ko_KR": "\ubb34\ub9ac \uc5b4\ubbf8",
+    "zh_TW": "\u7378\u6bcd\u4fdd\u8b77",
+    "zh_CN": "\u517d\u7a74\u4e4b\u6bcd"
+  },
+  "description_blz": {
+    "en_US": "You bolster nearby allies within 15 yards, increasing their maximum health by 15%.\r\n\r\nThe duration of all stun effects on you is reduced by 15%.",
+    "es_MX": "Refuerzas a los aliados cercanos en un radio de 15 m y aumentas su salud m\u00e1xima un 15%.\r\n\r\nLa duraci\u00f3n de todos los efectos de aturdimiento sobre ti se reduce un 15%.",
+    "pt_BR": "Voc\u00ea encoraja os aliados em um raio de 15 m, aumentando em 15% o m\u00e1ximo de pontos de vida deles.\r\n\r\nA dura\u00e7\u00e3o de todos os efeitos de atordoamento em voc\u00ea \u00e9 reduzida em 15%.",
+    "de_DE": "St\u00e4rkt Verb\u00fcndete innerhalb von 15 Metern und erh\u00f6ht ihre maximale Gesundheit um 15%.\r\n\r\nDie Dauer aller auf Euch wirkenden Bet\u00e4ubungseffekte wird um 15% verringert.",
+    "en_GB": "You bolster nearby allies within 15 yards, increasing their maximum health by 15%.\r\n\r\nThe duration of all stun effects on you is reduced by 15%.",
+    "es_ES": "Refuerzas a los aliados cercanos en un radio de 15\u00a0m, lo que aumenta un 15% su salud m\u00e1xima.\r\n\r\nLa duraci\u00f3n de todos los efectos de aturdimiento que te afectan se reduce un 15%.",
+    "fr_FR": "Vous renforcez les alli\u00e9s \u00e0 moins de 15\u00a0m\u00e8tres et augmentez leur maximum de points de vie de 15%.\r\n\r\nLa dur\u00e9e des effets d\u2019\u00e9tourdissement que vous subissez est r\u00e9duite de 15%.",
+    "it_IT": "Potenzia gli alleati entro 15 m, aumentandone la salute massima del 15%.\r\n\r\nRiduce la durata degli effetti di stordimento subiti del 15%.",
+    "ru_RU": "\u0412\u044b \u043e\u0431\u043e\u0434\u0440\u044f\u0435\u0442\u0435 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 15 \u043c, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0438\u0445 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0430 15%.\r\n\r\n\u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u044b\u0445 \u043a \u0432\u0430\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u0438\u044f \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15%.",
+    "ko_KR": "15\ubbf8\ud130 \ub0b4\uc758 \uc544\uad70\uc744 \uac15\ud654\ud558\uc5ec \ub300\uc0c1\uc758 \ucd5c\ub300 \uc0dd\uba85\ub825\uc744 15%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uc790\uc2e0\uc5d0\uac8c \uc2dc\uc804\ub418\ub294 \ubaa8\ub4e0 \uae30\uc808 \ud6a8\uacfc\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 15%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6fc0\u52f5\u8eab\u65c115\u78bc\u7bc4\u570d\u5167\u7684\u76df\u53cb\uff0c\u4f7f\u4ed6\u5011\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad815%\u3002\r\n\r\n\u4f60\u8eab\u4e0a\u7684\u6240\u6709\u660f\u8ff7\u6548\u679c\u6301\u7e8c\u6642\u9593\u7e2e\u77ed15%\u3002",
+    "zh_CN": "\u5f3a\u531615\u7801\u5185\u7684\u76df\u53cb\uff0c\u4f7f\u5176\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad815%\u3002\r\n\r\n\u6240\u6709\u660f\u8ff7\u6548\u679c\u7684\u6301\u7eed\u65f6\u95f4\u7f29\u77ed15%\u3002"
+  }
 }

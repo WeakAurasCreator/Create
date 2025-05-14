@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "200652"
+  "SpellID": "200652",
+  "name_blz": {
+    "en_US": "Tyr's Deliverance",
+    "es_MX": "Liberaci\u00f3n de Tyr",
+    "pt_BR": "Liberta\u00e7\u00e3o de Tyr",
+    "de_DE": "Tyrs Errettung",
+    "en_GB": "Tyr's Deliverance",
+    "es_ES": "Liberaci\u00f3n de Tyr",
+    "fr_FR": "D\u00e9livrance de Tyr",
+    "it_IT": "Salvezza di Tyr",
+    "ru_RU": "\u0418\u0437\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0422\u0438\u0440\u0430",
+    "ko_KR": "\ud2f0\ub974\uc758 \ud574\ubc29",
+    "zh_TW": "\u63d0\u723e\u6551\u8d16",
+    "zh_CN": "\u63d0\u5c14\u7684\u62ef\u6551"
+  },
+  "description_blz": {
+    "en_US": "Releases the Light within yourself, healing 5 injured allies instantly and an injured ally every 0.9 sec for 20 sec within 40 yds for 1,942.\r\n\r\nAllies healed also receive 12% increased healing from your Holy Light, Flash of Light, and Holy Shock spells for 12 sec.",
+    "es_MX": "Libera la Luz contenida en tu interior y sana a 5 aliados heridos al instante y a un aliado herido cada 0.9 s durante 20 s en un radio de 40 m por 1,942 p.\r\n\r\nLos aliados sanados tambi\u00e9n reciben un 12% m\u00e1s de sanaci\u00f3n de tu Luz sagrada, Destello de luz o Choque sagrado durante 12 s.",
+    "pt_BR": "Liberta a Luz de dentro de si, curando 5 aliados feridos instantaneamente e um aliado ferido a cada 0,9 s por 20 s em um raio de 40 m por 1.942.\r\n\r\nAliados curados tamb\u00e9m recebem 12% a mais de cura dos seus feiti\u00e7os de Luz Sagrada, Clar\u00e3o de Luz e Choque Sagrado por 12 s.",
+    "de_DE": "Entfesselt Euer inneres Licht, heilt 5 verletzte Verb\u00fcndete sofort und heilt 20 Sek. lang alle 0,9 Sek. einen verletzten Verb\u00fcndeten innerhalb von 40 Metern um 1.942 Gesundheit.\r\n\r\nGeheilte Verb\u00fcndete erhalten au\u00dferdem 12 Sek. lang 12% mehr Heilung durch Eure Zauber 'Heiliges Licht', 'Lichtblitz' und 'Heiliger Schock'.",
+    "en_GB": "Releases the Light within yourself, healing 5 injured allies instantly and an injured ally every 0.9 sec for 20 sec within 40 yds for 1,942.\r\n\r\nAllies healed also receive 12% increased healing from your Holy Light, Flash of Light, and Holy Shock spells for 12 sec.",
+    "es_ES": "Liberas la luz de tu interior, lo que sana 1942 p. a 5 aliados heridos al instante y a un aliado herido cada 0,9 s durante 20 s en un radio de 40 m.\r\n\r\nLos aliados sanados tambi\u00e9n reciben un 12% m\u00e1s de sanaci\u00f3n de tus lanzamientos de Luz Sagrada, Destello de Luz y Choque Sagrado durante 12 s.",
+    "fr_FR": "Lib\u00e8re votre Lumi\u00e8re int\u00e9rieure, ce qui soigne 5\u00a0alli\u00e9s bless\u00e9s instantan\u00e9ment et rend toutes les 0,9\u00a0s pendant 20 s \u00e0 un alli\u00e9 bless\u00e9 \u00e0 moins de 40\u00a0m\u00e8tres 1942\u00a0points de vie.\r\n\r\nAugmente \u00e9galement de 12% les soins de Lumi\u00e8re sacr\u00e9e, \u00c9clair lumineux et Horion sacr\u00e9 aux alli\u00e9s affect\u00e9s pendant 12 s.",
+    "it_IT": "Scatena la Luce dentro di s\u00e9, curando istantaneamente 5 alleati feriti e un alleato ferito entro 40 m di 1.942 ogni 0,9 s per 20 s.\r\n\r\nGli alleati feriti ricevono anche il 12% di cure aggiuntive dai tuoi lanci di Luce Sacra, Lampo di Luce e Folgore Sacra per 12 s.",
+    "ru_RU": "\u0412\u044b \u0432\u044b\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442\u0435 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0421\u0432\u0435\u0442, \u0438\u0441\u0446\u0435\u043b\u044f\u044f 5 \u0440\u0430\u043d\u0435\u043d\u044b\u0445 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0440\u0430\u043d\u0435\u043d\u043e\u043c\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c 1942 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0440\u0430\u0437 \u0432 0,9 \u0441\u0435\u043a. \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 20 \u0441\u0435\u043a.\r\n\r\n\u0418\u0441\u0446\u0435\u043b\u0435\u043d\u043d\u044b\u0435 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0438 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043d\u0430 12% \u0431\u043e\u043b\u044c\u0448\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \"\u0421\u0432\u0435\u0442\u0430 \u043d\u0435\u0431\u0435\u0441\", \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\" \u0438 \"\u0412\u0441\u043f\u044b\u0448\u043a\u0438 \u0421\u0432\u0435\u0442\u0430\" \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 12 \u0441\u0435\u043a.",
+    "ko_KR": "\ub0b4\uba74\uc5d0 \uae43\ub4e0 \ube5b\uc758 \ud798\uc744 \ubc29\ucd9c\ud558\uc5ec \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70 5\uba85\uc744 \uc989\uc2dc \uce58\uc720\ud558\uace0 20\ucd08 \ub3d9\uc548 40\ubbf8\ud130 \ub0b4\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70 \ud55c \uba85\uc744 0.9\ucd08\ub9c8\ub2e4 1,942\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\n\uce58\uc720\ubc1b\uc740 \uc544\uad70\uc740 12\ucd08 \ub3d9\uc548 \uc790\uc2e0\uc758 \uc131\uc2a4\ub7ec\uc6b4 \ube5b, \ube5b\uc758 \uc12c\uad11, \uc2e0\uc131 \ucda9\uaca9\uc73c\ub85c \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\uac00 12%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u91cb\u653e\u4f60\u5fc3\u4e2d\u7684\u8056\u5149\uff0c\u7acb\u5373\u6cbb\u76425\u540d\u53d7\u50b7\u76df\u53cb\uff0c\u4ee5\u53ca\u6bcf0.9\u79d2\u70ba40\u78bc\u7bc4\u570d\u5167\u7684\u4e00\u540d\u53d7\u50b7\u76df\u53cb\u6062\u5fa91,942\u9ede\u751f\u547d\u529b\uff0c\u6301\u7e8c20\u79d2\u3002\r\n\r\n\u572812\u79d2\u671f\u9593\u5167\uff0c\u4f60\u7684\u8056\u5149\u8853\u3001\u8056\u5149\u9583\u73fe\u548c\u795e\u8056\u9707\u64ca\u5c0d\u8a72\u76df\u53cb\u7684\u6cbb\u7642\u6548\u679c\u5c07\u63d0\u9ad812%\u3002",
+    "zh_CN": "\u91ca\u653e\u4f60\u4f53\u5185\u7684\u5723\u5149\uff0c\u7acb\u5373\u4e3a5\u540d\u53d7\u4f24\u7684\u76df\u53cb\u6062\u590d1,942\u70b9\u751f\u547d\u503c\uff0c\u5e76\u4e14\u6bcf0.9\u79d2\u4e3a40\u7801\u8303\u56f4\u5185\u4e00\u540d\u53d7\u4f24\u7684\u76df\u53cb\u6062\u590d\u7b49\u91cf\u7684\u751f\u547d\u503c\uff0c\u6301\u7eed20\u79d2\u3002\r\n\r\n\u53d7\u5230\u6cbb\u7597\u7684\u76df\u53cb\u4ece\u4f60\u7684\u5723\u5149\u672f\u3001\u5723\u5149\u95ea\u73b0\u548c\u795e\u5723\u9707\u51fb\u6cd5\u672f\u4e2d\u53d7\u5230\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad812%\uff0c\u6301\u7eed12\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "194912"
+  "SpellID": "194912",
+  "name_blz": {
+    "en_US": "Gathering Storm",
+    "es_MX": "Acumulaci\u00f3n de tormentas",
+    "pt_BR": "Tempestade Iminente",
+    "de_DE": "Aufziehender Sturm",
+    "en_GB": "Gathering Storm",
+    "es_ES": "Tormenta inminente",
+    "fr_FR": "Temp\u00eate grandissante",
+    "it_IT": "Tempesta Incombente",
+    "ru_RU": "\u041f\u0440\u0435\u0434\u0432\u0435\u0441\u0442\u0438\u0435 \u0431\u0443\u0440\u0438",
+    "ko_KR": "\ud718\ubab0\uc544\uce58\ub294 \ud3ed\ud48d",
+    "zh_TW": "\u84c4\u5bd2\u51b0\u66b4",
+    "zh_CN": "\u98ce\u66b4\u6c47\u805a"
+  },
+  "description_blz": {
+    "en_US": "Each Rune spent during Remorseless Winter increases its damage by 10%, and extends its duration by 0.5 sec.",
+    "es_MX": "Cada runa que gastas mientras dura Invierno sin remordimientos aumenta un 10% su da\u00f1o y extiende su duraci\u00f3n en 0.5 s.",
+    "pt_BR": "Cada Runa gasta durante Inverno Impiedoso aumenta em 10% o dano da habilidade e prolonga a dura\u00e7\u00e3o dela em 0,5 s.",
+    "de_DE": "Jede w\u00e4hrend der Effektdauer von 'Unbarmherziger Winter' verbrauchte Rune erh\u00f6ht den Schaden der F\u00e4higkeit um 10% und verl\u00e4ngert die Dauer um 0,5 Sek.",
+    "en_GB": "Each Rune spent during Remorseless Winter increases its damage by 10%, and extends its duration by 0.5 sec.",
+    "es_ES": "Cada runa gastada durante Invierno sin remordimientos aumenta su da\u00f1o un 10% y prolonga su duraci\u00f3n 0,5 s.",
+    "fr_FR": "Chaque rune d\u00e9pens\u00e9e pendant Hiver impitoyable augmente ses d\u00e9g\u00e2ts de 10% et sa dur\u00e9e de 0,5 s.",
+    "it_IT": "Ogni runa consumata durante Inverno Spietato ne aumenta i danni del 10% e ne estende la durata di 0,5 s.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u0430\u044f \u0440\u0443\u043d\u0430, \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u0430\u044f \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0411\u0435\u0441\u043f\u043e\u0449\u0430\u0434\u043d\u043e\u0441\u0442\u0438 \u0437\u0438\u043c\u044b\", \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u043d\u0435\u0435 \u043d\u0430 10% \u0438 \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0435\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043d\u0430 0,5 \u0441\u0435\u043a.",
+    "ko_KR": "\ub0c9\ud639\ud55c \uaca8\uc6b8\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \uc18c\ube44\ud55c \ub8ec \ud558\ub098\ub2f9 \ub0c9\ud639\ud55c \uaca8\uc6b8\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c, \uc9c0\uc18d\uc2dc\uac04\uc774 0.5\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u51b7\u9177\u51dc\u51ac\u6301\u7e8c\u6642\u9593\u6bcf\u8017\u8cbb\u4e00\u500b\u7b26\u6587\uff0c\u5c31\u6703\u8b93\u5b83\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\uff0c\u4e26\u4f7f\u6301\u7e8c\u6642\u9593\u5ef6\u95770.5\u79d2\u3002",
+    "zh_CN": "\u51b7\u9177\u4e25\u51ac\u671f\u95f4\u6bcf\u6d88\u8017\u4e00\u4e2a\u7b26\u6587\uff0c\u5c31\u4f1a\u4f7f\u51b7\u9177\u4e25\u51ac\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\uff0c\u5e76\u4f7f\u5176\u6301\u7eed\u65f6\u95f4\u5ef6\u957f0.5\u79d2\u3002"
+  }
 }

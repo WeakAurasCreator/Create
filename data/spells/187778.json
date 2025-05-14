@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "187778"
+  "SpellID": "187778",
+  "name_blz": {
+    "en_US": "Item - LFR T18 Mail Caster 4P Bonus",
+    "es_MX": "Item - LFR T18 Mail Caster 4P Bonus",
+    "pt_BR": "Item - LFR T18 Mail Caster 4P Bonus",
+    "en_GB": "Item - LFR T18 Mail Caster 4P Bonus",
+    "es_ES": "Item - LFR T18 Mail Caster 4P Bonus",
+    "it_IT": "Item - LFR T18 Mail Caster 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - LFR T18 \uc0ac\uc2ac \uc8fc\ubb38 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - LFR T18 Mail Caster 4P Bonus",
+    "zh_CN": "Item - LFR T18 Mail Caster 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your damaging spells have an 10% chance to fire a chaotic flame towards your target, dealing 5563.8 Chaos damage to all enemies it passes through.",
+    "es_MX": "Tus hechizos da\u00f1inos tienen un 10% de probabilidad de encender una llama ca\u00f3tica y lanzarla hacia tu objetivo, lo que inflige 5591.6 p. de da\u00f1o de Caos a todos los enemigos que atraviese.",
+    "pt_BR": "Os feiti\u00e7os de dano t\u00eam 10% de chance de disparar uma chama ca\u00f3tica contra o alvo, causando 5598,3 de dano de Caos a todos os inimigos atingidos.",
+    "de_DE": "Eure Schadenszauber haben eine Chance von 10%, eine chaotische Flamme in Richtung Eures Ziels abzufeuern, die allen Gegnern, die mit ihr in Kontakt kommen, 5600,4 Chaosschaden zuf\u00fcgt.",
+    "en_GB": "Your damaging spells have an 10% chance to fire a chaotic flame towards your target, dealing 5628.9 Chaos damage to all enemies it passes through.",
+    "es_ES": "Tus hechizos da\u00f1inos tienen un 10% de probabilidad de lanzar una llama ca\u00f3tica hacia tu objetivo que inflige 5609,6 p. de da\u00f1o de Caos a todos los enemigos a los que atraviesa.",
+    "fr_FR": "Vos sorts de d\u00e9g\u00e2ts ont 10% de chance de lancer une flamme chaotique sur votre cible, infligeant 5596,2 points de d\u00e9g\u00e2ts du Chaos \u00e0 tous les ennemis qu\u2019elle traverse.",
+    "it_IT": "Gli incantesimi d'attacco hanno una probabilit\u00e0 del 10% di scagliare una fiamma caotica contro il bersaglio, infliggendo 5563,2 danni da caos a tutti i nemici colpiti lungo la traiettoria.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0443\u0440\u043e\u043d\u0430 \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 10% \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0438\u0432\u0430\u044e\u0442 \u0432 \u0446\u0435\u043b\u044c \u0441\u0433\u0443\u0441\u0442\u043e\u043a \u043f\u043b\u0430\u043c\u0435\u043d\u0438 \u0445\u0430\u043e\u0441\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u043d\u0435\u0441\u0435\u0442 5576,8 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u0425\u0430\u043e\u0441\u0430 \u0432\u0441\u0435\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u043d\u0430 \u0441\u0432\u043e\u0435\u043c \u043f\u0443\u0442\u0438.",
+    "ko_KR": "\uacf5\uaca9 \uc8fc\ubb38 \uc0ac\uc6a9\uc2dc 10% \ud655\ub960\ub85c \ud63c\ub3c8\uc758 \ubd88\uae38\uc744 \ub300\uc0c1\uc5d0\uac8c \ubc1c\uc0ac\ud558\uc5ec, \ubd88\uaf43\uc758 \uc774\ub3d9 \uacbd\ub85c\uc0c1\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 5628.7\uc758 \ud63c\ub3c8 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u50b7\u5bb3\u6cd5\u8853\u670910%\u7684\u6a5f\u7387\u671d\u76ee\u6a19\u767c\u5c04\u6df7\u6c8c\u4e4b\u7130\uff0c\u5c0d\u7a7f\u904e\u7684\u6240\u6709\u6575\u4eba\u9020\u62105602.4\u9ede\u6df7\u6c8c\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u4f24\u5bb3\u6027\u6cd5\u672f\u4f1a\u670910%\u7684\u51e0\u7387\u5411\u76ee\u6807\u5c04\u51fa\u6df7\u4e71\u70c8\u7130\uff0c\u5bf9\u5176\u89e6\u78b0\u5230\u7684\u6240\u6709\u654c\u4eba\u9020\u62105565.4\u70b9\u6df7\u4e71\u4f24\u5bb3\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202137"
+  "SpellID": "202137",
+  "name_blz": {
+    "en_US": "Sigil of Silence",
+    "es_MX": "Sello de silencio",
+    "pt_BR": "Signo do Sil\u00eancio",
+    "de_DE": "Zeichen der Stille",
+    "en_GB": "Sigil of Silence",
+    "es_ES": "Sigilo de silencio",
+    "fr_FR": "Sigil de silence",
+    "it_IT": "Sigillo del Silenzio",
+    "ru_RU": "\u041f\u0435\u0447\u0430\u0442\u044c \u043d\u0435\u043c\u043e\u0442\u044b",
+    "ko_KR": "\uce68\ubb35\uc758 \uc778\uc7a5",
+    "zh_TW": "\u6c89\u9ed8\u7b26\u5370",
+    "zh_CN": "\u6c89\u9ed8\u5492\u7b26"
+  },
+  "description_blz": {
+    "en_US": "Place a Sigil of Silence at the target location that activates after 2 sec.\r\n\r\nSilences all enemies affected by the sigil for 2 sec.",
+    "es_MX": "Coloca un Sello de silencio en la ubicaci\u00f3n objetivo, que se activa despu\u00e9s de 2 s.\r\n\r\nSilencia a todos los enemigos afectados durante 2 s.",
+    "pt_BR": "Posiciona no local selecionado um Signo do Sil\u00eancio que se ativa ap\u00f3s 2 s.\r\n\r\nSilencia todos os inimigos afetados pelo signo por 2 s.",
+    "de_DE": "Platziert ein Zeichen der Stille am Zielort, das sich nach 2 Sek. aktiviert.\r\n\r\nBringt alle Gegner im Effektbereich des Zeichens f\u00fcr 2 Sek. zum Schweigen.",
+    "en_GB": "Place a Sigil of Silence at the target location that activates after 2 sec.\r\n\r\nSilences all enemies affected by the sigil for 2 sec.",
+    "es_ES": "Coloca un sigilo de silencio en la ubicaci\u00f3n objetivo que se activa despu\u00e9s de 2 s.\r\n\r\nSilencia a todos los enemigos afectados por el sigilo durante 2 s.",
+    "fr_FR": "Place \u00e0 l\u2019emplacement cibl\u00e9 un sigil de silence qui s\u2019active au bout de 2 s.\r\n\r\nLes ennemis affect\u00e9s sont r\u00e9duits au silence pendant 2 s.",
+    "it_IT": "Piazza sulla posizione bersaglio un Sigillo del Silenzio che si attiva dopo 2 s.\r\n\r\nTutti i nemici affetti dal sigillo vengono silenziati per 2 s.",
+    "ru_RU": "\u0412\u044b \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442\u0435 \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435 \u043f\u0435\u0447\u0430\u0442\u044c \u043d\u0435\u043c\u043e\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 2 \u0441\u0435\u043a.\r\n\r\n\u0412\u0441\u0435 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0447\u0430\u0442\u044c\u044e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438 \u043d\u0435\u043c\u0435\u044e\u0442 \u043d\u0430 2 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1 \uc704\uce58\uc5d0 \uce68\ubb35\uc758 \uc778\uc7a5\uc744 \uc0dd\uc131\ud558\uace0 2\ucd08 \ud6c4 \ud65c\uc131\ud654\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uc778\uc7a5\uc758 \uc601\ud5a5\uc744 \ubc1b\ub294 \ubaa8\ub4e0 \uc801\uc744 2\ucd08 \ub3d9\uc548 \uce68\ubb35\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u76ee\u6a19\u5730\u9ede\u653e\u7f6e\u6c89\u9ed8\u7b26\u5370\uff0c\u4e26\u57282\u79d2\u4e4b\u5f8c\u751f\u6548\u3002\r\n\r\n\u53d7\u5230\u7b26\u5370\u5f71\u97ff\u7684\u6240\u6709\u6575\u4eba\u6703\u6c89\u9ed82\u79d2\u3002",
+    "zh_CN": "\u5728\u76ee\u6807\u4f4d\u7f6e\u653e\u7f6e\u4e00\u4e2a\u6c89\u9ed8\u5492\u7b26\uff0c\u4e8e2\u79d2\u540e\u6fc0\u6d3b\u3002\r\n\r\n\u6240\u6709\u53d7\u5230\u5492\u7b26\u5f71\u54cd\u7684\u654c\u4eba\u5c06\u88ab\u6c89\u9ed82\u79d2\u3002"
+  }
 }

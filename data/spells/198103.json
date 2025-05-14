@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "198103"
+  "SpellID": "198103",
+  "name_blz": {
+    "en_US": "Earth Elemental",
+    "es_MX": "Elemental de Tierra",
+    "pt_BR": "Elemental da Terra",
+    "de_DE": "Erdelementar",
+    "en_GB": "Earth Elemental",
+    "es_ES": "Elemental de Tierra",
+    "fr_FR": "\u00c9l\u00e9mentaire de terre",
+    "it_IT": "Elementale della Terra",
+    "ru_RU": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044c \u0437\u0435\u043c\u043b\u0438",
+    "ko_KR": "\ub300\uc9c0\uc758 \uc815\ub839",
+    "zh_TW": "\u571f\u5143\u7d20",
+    "zh_CN": "\u571f\u5143\u7d20"
+  },
+  "description_blz": {
+    "en_US": "Calls forth a Greater Earth Elemental to protect you and your allies for 1 min.\r\n\r\nWhile this elemental is active, your maximum health is increased by 15%.",
+    "es_MX": "Invoca un elemental de tierra superior para protegerte a ti y a tus aliados durante 1 min.\r\n\r\nMientras este elemental est\u00e1 activo, tu salud m\u00e1xima aumenta un 15%.",
+    "pt_BR": "Evoca um Elemental Maior da Terra para proteger voc\u00ea e seus aliados por 1 min.\r\n\r\nEnquanto este elemental estiver ativo, seu m\u00e1ximo de pontos de vida \u00e9 aumentado em 15%.",
+    "de_DE": "Ruft einen gro\u00dfen Erdelementar herbei, der Euch und Eure Verb\u00fcndeten 1 Min. lang besch\u00fctzt.\r\n\r\nW\u00e4hrend dieser Elementar aktiv ist, ist Eure maximale Gesundheit um 15% erh\u00f6ht.",
+    "en_GB": "Calls forth a Greater Earth Elemental to protect you and your allies for 1 min.\r\n\r\nWhile this elemental is active, your maximum health is increased by 15%.",
+    "es_ES": "Invoca a un elemental de tierra superior para protegeros a ti y a tus aliados durante 1 min.\r\n\r\nMientras el elemental esta activo, tu salud m\u00e1xima aumenta un 15%.",
+    "fr_FR": "Appelle un \u00e9l\u00e9mentaire de terre sup\u00e9rieur qui vous prot\u00e8ge, vos alli\u00e9s et vous, pendant 1 min.\r\n\r\nTant que cet \u00e9l\u00e9mentaire est actif, votre maximum de points de vie est augment\u00e9 de 15%.",
+    "it_IT": "Richiama un Elementale Superiore della Terra che protegge te e i tuoi alleati per 1 min.\r\n\r\nMentre questo elementale \u00e8 attivo, la tua salute massima aumenta del 15%.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044f \u0437\u0435\u043c\u043b\u0438, \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0449\u0435\u0433\u043e \u0432\u0430\u0441 \u0438 \u0432\u0430\u0448\u0438\u0445 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 1 \u043c\u0438\u043d.\r\n\r\n\u041f\u043e\u043a\u0430 \u044d\u0442\u043e\u0442 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044c \u0430\u043a\u0442\u0438\u0432\u0435\u043d, \u0432\u0430\u0448 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15%.",
+    "ko_KR": "1\ubd84 \ub3d9\uc548 \uc0c1\uae09 \ub300\uc9c0\uc758 \uc815\ub839\uc744 \uc18c\ud658\ud558\uc5ec \uc2dc\uc804\uc790\uc640 \uc544\uad70\uc744 \ubcf4\ud638\ud569\ub2c8\ub2e4.\r\n\r\n\uc815\ub839\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \ucd5c\ub300 \uc0dd\uba85\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u547c\u559a\u5927\u578b\u571f\u5143\u7d20\u524d\u4f86\u4fdd\u8b77\u4f60\u53ca\u76df\u53cb\uff0c\u6301\u7e8c1\u5206\u9418\u3002\r\n\r\n\u6b64\u5143\u7d20\u751f\u7269\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u4e2a\u5de8\u578b\u571f\u5143\u7d20\uff0c\u4fdd\u62a4\u4f60\u548c\u4f60\u7684\u76df\u53cb\uff0c\u6301\u7eed1\u5206\u949f\u3002\r\n\r\n\u5f53\u8be5\u5143\u7d20\u6fc0\u6d3b\u65f6\uff0c\u4f60\u7684\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad815%\u3002"
+  }
 }

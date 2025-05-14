@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "221711"
+  "SpellID": "221711",
+  "name_blz": {
+    "en_US": "Essence Drain",
+    "es_MX": "Drenaje de esencia",
+    "pt_BR": "Dreno de Ess\u00eancia",
+    "de_DE": "Essenz entziehen",
+    "en_GB": "Essence Drain",
+    "es_ES": "Drenaje de esencia",
+    "fr_FR": "Drain d\u2019essence",
+    "it_IT": "Risucchio d'Essenza",
+    "ru_RU": "\u0418\u0441\u0441\u0443\u0448\u0435\u043d\u0438\u0435 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uc815\uc218 \ud761\uc218",
+    "zh_TW": "\u5438\u6536\u539f\u8cea",
+    "zh_CN": "\u7cbe\u534e\u6c72\u53d6"
+  },
+  "description_blz": {
+    "en_US": "Whenever you heal yourself with Drain Life, the enemy target deals 9% reduced damage to you for 10 sec. Stacks up to 4 times.",
+    "es_MX": "Cada vez que te sanas con Drenar vida, el da\u00f1o del objetivo enemigo hacia ti se ve reducido un 9% durante 10 s. Se acumula hasta 4 veces.",
+    "pt_BR": "Sempre que voc\u00ea se curar com Drenar Vida, o alvo inimigo causa 9% a menos de dano a voc\u00ea por 10 s. Acumula at\u00e9 4 vezes.",
+    "de_DE": "Immer wenn Ihr Euch mit 'Blutsauger' heilt, f\u00fcgt Euch das gegnerische Ziel 9% weniger Schaden zu. H\u00e4lt 10 Sek. lang an und ist bis zu 4-mal stapelbar.",
+    "en_GB": "Whenever you heal yourself with Drain Life, the enemy target deals 9% reduced damage to you for 10 sec. Stacks up to 4 times.",
+    "es_ES": "Cuando te sanas con Drenar vida, el objetivo enemigo te inflige un 9% menos de da\u00f1o durante 10 s. Se acumula hasta 4 veces.",
+    "fr_FR": "Quand vous vous soignez avec Drain de vie, les d\u00e9g\u00e2ts que l\u2019ennemi cibl\u00e9 vous inflige sont r\u00e9duits de 9% pendant 10 s. Cumulable jusqu\u2019\u00e0 4 fois.",
+    "it_IT": "Quando Risucchio di Vita ti cura, riduce i danni inflitti dal bersaglio nemico a te del 9% per 10 s. Si accumula fino a 4 volte.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448\u0435 \"\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0437\u043d\u0438\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435, \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u043c \u0446\u0435\u043b\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 9% \u043d\u0430 10 \u0441\u0435\u043a. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 4 \u0440\u0430\u0437.",
+    "ko_KR": "\uc0dd\uba85\ub825 \ud761\uc218\ub85c \uc790\uc2e0\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud558\uba74 10\ucd08 \ub3d9\uc548 \uc801 \ub300\uc0c1\uc73c\ub85c\ubd80\ud130 \ubc1b\ub294 \ud53c\ud574\uac00 9%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ucd5c\ub300 4\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u7576\u4f60\u7528\u5438\u53d6\u751f\u547d\u6cbb\u7642\u81ea\u8eab\u6642\uff0c\u6575\u65b9\u76ee\u6a19\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e9%\uff0c\u6301\u7e8c10\u79d2\u3002\u6700\u591a\u5806\u758a4\u6b21\u3002",
+    "zh_CN": "\u5f53\u4f60\u901a\u8fc7\u5438\u53d6\u751f\u547d\u6cbb\u7597\u81ea\u5df1\u65f6\uff0c\u76ee\u6807\u654c\u4eba\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e9%\uff0c\u6301\u7eed10\u79d2\u3002\u6700\u591a\u53e0\u52a04\u6b21\u3002"
+  }
 }

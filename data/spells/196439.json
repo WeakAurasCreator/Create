@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196439"
+  "SpellID": "196439",
+  "name_blz": {
+    "en_US": "Purification",
+    "es_MX": "Purificaci\u00f3n",
+    "pt_BR": "Purifica\u00e7\u00e3o",
+    "de_DE": "L\u00e4uterung",
+    "en_GB": "Purification",
+    "es_ES": "Purificaci\u00f3n",
+    "fr_FR": "Purification",
+    "it_IT": "Doppia Depurazione",
+    "ru_RU": "\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc815\ud654",
+    "zh_TW": "\u6ecc\u6de8",
+    "zh_CN": "\u7eaf\u51c0\u5fa1\u7f6a"
+  },
+  "description_blz": {
+    "en_US": "Purify now has a maximum of 2 charges.\r\n\r\nRemoving harmful effects with Purify grants your target an absorption shield equal to 5% of their maximum health. Lasts 8 sec.",
+    "es_MX": "Ahora, Purificar tiene un m\u00e1ximo de 2 cargas.\r\n\r\nEliminar los efectos da\u00f1inos con Purificar le otorga a tu objetivo un escudo de absorci\u00f3n igual al 5% de su salud m\u00e1xima. Dura 8 s.",
+    "pt_BR": "Purificar agora tem um m\u00e1ximo de 2 cargas.\r\n\r\nRemover efeitos nocivos com Purificar concede ao seu alvo um escudo de absor\u00e7\u00e3o equivalente a 5% do m\u00e1ximo de pontos de vida. Dura 8 s.",
+    "de_DE": "'L\u00e4utern' hat jetzt maximal 2 Aufladungen.\r\n\r\nWenn Ihr mit 'L\u00e4utern' sch\u00e4dliche Effekte von einem Ziel bannt, erh\u00e4lt Euer Ziel einen Absorptionsschild in H\u00f6he von 5% seiner maximalen Gesundheit. H\u00e4lt 8 Sek. lang an.",
+    "en_GB": "Purify now has a maximum of 2 charges.\r\n\r\nRemoving harmful effects with Purify grants your target an absorption shield equal to 5% of their maximum health. Lasts 8 sec.",
+    "es_ES": "Ahora, Purificar tiene un m\u00e1ximo de 2 cargas.\r\n\r\nAl eliminar efectos da\u00f1inos con Purificar, tu objetivo recibe un escudo de absorci\u00f3n igual a un 5% de su salud m\u00e1xima. Dura 8 s.",
+    "fr_FR": "Purification poss\u00e8de maintenant un maximum de 2\u00a0charges.\r\n\r\nSupprimer des effets nuisibles avec Purification conf\u00e8re \u00e0 votre cible un bouclier d\u2019absorption \u00e9gal \u00e0 5\u00a0% de ses points de vie maximaux. Dure 8 s.",
+    "it_IT": "Depurazione ha un massimo di 2 cariche.\r\n\r\nDissolvere gli effetti dannosi con Depurazione fornisce al bersaglio uno scudo che assorbe danni subiti pari al 5% della salute massima. Dura 8 s.",
+    "ru_RU": "\"\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435\" \u0442\u0435\u043f\u0435\u0440\u044c \u0438\u043c\u0435\u0435\u0442 2 \u0437\u0430\u0440\u044f\u0434\u0430.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \"\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435\" \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0446\u0435\u043b\u0438 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b, \u0446\u0435\u043b\u044c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0449\u0438\u0442 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 5% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 8 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\ud654\uac00 \ucd5c\ub300 2\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.\r\n\r\n\uc815\ud654\ub85c \ud574\ub85c\uc6b4 \ud6a8\uacfc\ub97c \uc81c\uac70\ud558\uba74 \ub300\uc0c1\uc5d0\uac8c \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 5%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \ud761\uc218\ud558\ub294 \ubcf4\ud638\ub9c9\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4. 8\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u9a45\u6de8\u8853\u73fe\u5728\u53ef\u7528\u4e0a\u9650\u70ba2\u6b21\u3002\r\n\r\n\u9a45\u6de8\u8853\u79fb\u9664\u6709\u5bb3\u6548\u679c\u6642\uff0c\u53ef\u70ba\u76ee\u6a19\u8ce6\u4e88\u4e00\u9053\u5438\u6536\u91cf\u76f8\u7576\u65bc\u5176\u751f\u547d\u529b\u4e0a\u96505%\u7684\u5438\u6536\u8b77\u76fe\u3002\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u7eaf\u51c0\u672f\u73b0\u5728\u6700\u591a\u53ef\u4ee5\u4f7f\u75282\u6b21\u3002\r\n\r\n\u4f7f\u7528\u7eaf\u51c0\u672f\u79fb\u9664\u6709\u5bb3\u6548\u679c\u4f1a\u4f7f\u4f60\u7684\u76ee\u6807\u83b7\u5f97\u4e00\u4e2a\u5438\u6536\u62a4\u76fe\uff0c\u5438\u6536\u76f8\u5f53\u4e8e\u5176\u6700\u5927\u751f\u547d\u503c5%\u7684\u4f24\u5bb3\u3002\u6301\u7eed8\u79d2\u3002"
+  }
 }

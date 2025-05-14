@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "156287"
+  "SpellID": "156287",
+  "name_blz": {
+    "en_US": "Ravager",
+    "es_MX": "Devastador",
+    "pt_BR": "Assolador",
+    "de_DE": "Verheerer",
+    "en_GB": "Ravager",
+    "es_ES": "Devastador",
+    "fr_FR": "Ravageur",
+    "it_IT": "Impeto Devastatore",
+    "ru_RU": "\u041e\u043f\u0443\u0441\u0442\u043e\u0448\u0438\u0442\u0435\u043b\u044c",
+    "ko_KR": "\uc1e0\ub0a0\ubc1c\ud1b1",
+    "zh_TW": "\u52ab\u6bc0\u65cb\u5203",
+    "zh_CN": "\u7834\u574f\u8005"
+  },
+  "description_blz": {}
 }

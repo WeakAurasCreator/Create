@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "192063"
+  "SpellID": "192063",
+  "name_blz": {
+    "en_US": "Gust of Wind",
+    "es_MX": "Racha de viento",
+    "pt_BR": "Vendaval",
+    "de_DE": "R\u00fcckenwind",
+    "en_GB": "Gust of Wind",
+    "es_ES": "Racha de viento",
+    "fr_FR": "Bourrasque",
+    "it_IT": "Folata di Vento",
+    "ru_RU": "\u041f\u043e\u0440\u044b\u0432 \u0432\u0435\u0442\u0440\u0430",
+    "ko_KR": "\ub3cc\ud48d",
+    "zh_TW": "\u9663\u98a8",
+    "zh_CN": "\u9635\u98ce"
+  },
+  "description_blz": {
+    "en_US": "A gust of wind hurls you forward.",
+    "es_MX": "Una racha de viento que te impulsa hacia adelante.",
+    "pt_BR": "Um vendaval joga voc\u00ea para a frente.",
+    "de_DE": "Ein Windsto\u00df schleudert Euch vorw\u00e4rts.",
+    "en_GB": "A gust of wind hurls you forward.",
+    "es_ES": "Una racha de viento te empuja hacia delante.",
+    "fr_FR": "Une violente bourrasque vous projette vers l\u2019avant.",
+    "it_IT": "Una folata di vento ti spinge in avanti.",
+    "ru_RU": "\u041f\u043e\u0440\u044b\u0432 \u0432\u0435\u0442\u0440\u0430 \u043d\u0435\u0441\u0435\u0442 \u0432\u0430\u0441 \u0432\u043f\u0435\u0440\u0435\u0434.",
+    "ko_KR": "\ub3cc\ud48d\uc774 \uc8fc\uc220\uc0ac\ub97c \uc55e\uc73c\ub85c \ub5a0\ubc09\ub2c8\ub2e4.",
+    "zh_TW": "\u4e00\u9663\u5f37\u98a8\u5c07\u4f60\u5411\u524d\u63a8\u9001\u3002",
+    "zh_CN": "\u4e00\u80a1\u5f3a\u98ce\u5439\u52a8\u4f60\u5411\u524d\u3002"
+  }
 }

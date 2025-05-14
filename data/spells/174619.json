@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "174619"
+  "SpellID": "174619",
+  "name_blz": {
+    "en_US": "Follower: Choluna",
+    "es_MX": "Seguidor: Choluna",
+    "pt_BR": "Seguidor: Choluna",
+    "de_DE": "Anh\u00e4ngerin: Choluna",
+    "en_GB": "Follower: Choluna",
+    "es_ES": "Seguidora: Choluna",
+    "fr_FR": "Sujet\u00a0: Choluna",
+    "it_IT": "Seguace: Choluna",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0427\u043e\u043b\u0443\u043d\u0430",
+    "ko_KR": "\ucd94\uc885\uc790: \ucd08\ub8e8\ub098",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u514b\u9b6f\u5a1c",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u695a\u4f26\u5a1c"
+  },
+  "description_blz": {
+    "en_US": "Choluna's experience and wisdom will be invaluable to face the challenges ahead.",
+    "es_MX": "La experiencia y sabidur\u00eda de Choluna ser\u00e1n invaluables para afrontar los desaf\u00edos venideros.",
+    "pt_BR": "A experi\u00eancia e sabedoria de Choluna ser\u00e3o inestim\u00e1veis para enfrentar os desafios por vir.",
+    "de_DE": "Cholunas Erfahrung und Weisheit wird Euch bei zuk\u00fcnftigen Herausforderungen unsch\u00e4tzbare Dienste leisten.",
+    "en_GB": "Choluna's experience and wisdom will be invaluable to face the challenges ahead.",
+    "es_ES": "La experiencia y sabidur\u00eda de Choluna ser\u00e1n inestimables para enfrentarse a los desaf\u00edos del futuro.",
+    "fr_FR": "L\u2019exp\u00e9rience et la sagesse de Choluna vous seront tr\u00e8s utiles pour affronter les d\u00e9fis qui vous attendent.",
+    "it_IT": "L'esperienza e la saggezza di Choluna saranno indispensabili per affrontare le sfide future.",
+    "ru_RU": "\u041e\u043f\u044b\u0442 \u0438 \u043c\u0443\u0434\u0440\u043e\u0441\u0442\u044c \u0427\u043e\u043b\u0443\u043d\u044b \u0441\u0442\u0430\u043d\u0443\u0442 \u0431\u0435\u0441\u0446\u0435\u043d\u043d\u044b\u043c \u043f\u043e\u0434\u0441\u043f\u043e\u0440\u044c\u0435\u043c \u0432 \u0431\u0443\u0434\u0443\u0449\u0438\u0445 \u0431\u0438\u0442\u0432\u0430\u0445.",
+    "ko_KR": "\ucd08\ub8e8\ub098\uc758 \uacbd\ud5d8\uacfc \uc9c0\ud61c\ub294 \uc55e\uc73c\ub85c \ub2e5\uce60 \ubaa8\ud5d8\uc744 \ud5e4\uccd0\ub098\uac00\ub294 \ub370 \uadc0\uc911\ud55c \ub3c4\uc6c0\uc774 \ub420 \uac83\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u514b\u9b6f\u5a1c\u7684\u7d93\u9a57\u548c\u667a\u6167\u5c07\u662f\u9762\u5c0d\u672a\u4f86\u6311\u6230\u6642\uff0c\u4e0d\u53ef\u6216\u7f3a\u7684\u91cd\u8981\u52a9\u529b\u3002",
+    "zh_CN": "\u695a\u4f26\u5a1c\u4e30\u5bcc\u7684\u7ecf\u9a8c\u548c\u667a\u6167\u5728\u5e94\u5bf9\u672a\u6765\u7684\u6311\u6218\u65f6\u4f1a\u663e\u5f97\u65e0\u5f80\u4e0d\u5229\u3002"
+  }
 }

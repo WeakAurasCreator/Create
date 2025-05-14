@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202626"
+  "SpellID": "202626",
+  "name_blz": {
+    "en_US": "Leader of the Pack",
+    "es_MX": "L\u00edder de la manada",
+    "pt_BR": "L\u00edder do Bando",
+    "de_DE": "Rudelf\u00fchrer",
+    "en_GB": "Leader of the Pack",
+    "es_ES": "L\u00edder de la manada",
+    "fr_FR": "Chef de la meute",
+    "it_IT": "Capobranco",
+    "ru_RU": "\u0412\u043e\u0436\u0430\u043a \u0441\u0442\u0430\u0438",
+    "ko_KR": "\ubb34\ub9ac\uc758 \uc6b0\ub450\uba38\ub9ac",
+    "zh_TW": "\u7378\u7fa4\u9818\u8896",
+    "zh_CN": "\u517d\u7fa4\u9886\u8896"
+  },
+  "description_blz": {
+    "en_US": "While in Cat Form, you increase the movement speed of raid members within 20 yards by 10%.\r\n\r\nLeader of the Pack also causes allies to heal themselves for 3% of their maximum health when they critically hit with a direct attack. The healing effect cannot occur more than once every 8 sec.",
+    "es_MX": "Cuando est\u00e1s en Forma felina, aumentas un 10% la velocidad de movimiento de los miembros de banda en un radio de 20 m.\r\n\r\nL\u00edder de la manada tambi\u00e9n hace que tus aliados se sanen por un 3% de su salud m\u00e1xima cuando asestan un golpe cr\u00edtico con un ataque directo. El efecto de sanaci\u00f3n no puede ocurrir m\u00e1s de una vez cada 8 s.",
+    "pt_BR": "Na Forma de Felino, voc\u00ea aumenta em 10% a velocidade de movimento dos integrantes do raide em um raio de 20 m.\r\n\r\nL\u00edder do Bando tamb\u00e9m faz os aliados recuperarem 3% do m\u00e1ximo de pontos de vida deles ao serem atingidos criticamente por um ataque direto. O efeito de cura n\u00e3o pode ocorrer mais de uma vez a cada 8 s.",
+    "de_DE": "Wenn Ihr Euch in Katzengestalt befindet, wird die Bewegungsgeschwindigkeit aller Schlachtzugsmitglieder innerhalb von 20 Metern um 10% erh\u00f6ht.\r\n\r\nZus\u00e4tzlich heilen sich von 'Rudelf\u00fchrer' betroffene Verb\u00fcndete selbst um 3% ihrer maximalen Gesundheit, wenn sie mit einem direkten Angriff kritisch treffen. Dieser Heileffekt kann nur einmal alle 8 Sek. auftreten.",
+    "en_GB": "While in Cat Form, you increase the movement speed of raid members within 20 yards by 10%.\r\n\r\nLeader of the Pack also causes allies to heal themselves for 3% of their maximum health when they critically hit with a direct attack. The healing effect cannot occur more than once every 8 sec.",
+    "es_ES": "Mientras est\u00e1s en forma felina, aumentas un 10% la velocidad de movimiento de todos los miembros de la banda en un radio de 20 m.\r\n\r\nL\u00edder de la manada tambi\u00e9n provoca que los aliados se sanen un 3% de su salud m\u00e1xima cuando asestan un golpe cr\u00edtico con un ataque directo. El efecto de sanaci\u00f3n no puede darse m\u00e1s de una vez cada 8 s.",
+    "fr_FR": "Sous forme de f\u00e9lin, vous augmentez de 10% la vitesse de d\u00e9placement des membres du raid \u00e0 moins de 20\u00a0m\u00e8tres.\r\n\r\nChef de la meute permet aussi aux alli\u00e9s de r\u00e9cup\u00e9rer 3% de leur maximum de points de vie lorsqu\u2019elles portent un coup critique avec une attaque directe. L\u2019effet de soins ne peut se produire plus d\u2019une fois toutes les 8\u00a0s.",
+    "it_IT": "In Forma Felina, aumenta la velocit\u00e0 di movimento di tutti i membri del gruppo d'incursione entro 20 m del 10%.\r\n\r\nInoltre, Capobranco fa s\u00ec che gli alleati rigenerino il 3% della propria salute massima quando infliggono un colpo critico diretto. L'effetto di cura non pu\u00f2 verificarsi pi\u00f9 di una volta ogni 8 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0435\u0441\u044c \u0432 \u043e\u0431\u043b\u0438\u043a\u0435 \u043a\u043e\u0448\u043a\u0438, \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0432\u0441\u0435\u0445 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0440\u0435\u0439\u0434\u0430 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 20 \u043c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%.\r\n\r\n\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0412\u043e\u0436\u0430\u043a \u0441\u0442\u0430\u0438\" \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c 3% \u043e\u0442 \u0438\u0445 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0434\u0430\u0440 \u043f\u0440\u044f\u043c\u043e\u0439 \u0430\u0442\u0430\u043a\u043e\u0439. \u042d\u0444\u0444\u0435\u043a\u0442 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435, \u0447\u0435\u043c \u0440\u0430\u0437 \u0432 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ud45c\ubc94 \ubcc0\uc2e0 \uc0c1\ud0dc\uc77c \ub54c, 20\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uacf5\uaca9\ub300\uc6d0\uc758 \ub2a5\ub825\uc758 \uc774\ub3d9 \uc18d\ub3c4\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ucd94\uac00\ub85c \uc544\uad70\uc774 \uc9c1\uc811 \uacf5\uaca9\uc744 \uce58\uba85\ud0c0\ub85c \uc801\uc911\uc2dc\ud0a4\uba74 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 3%\ub9cc\ud07c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4. \uce58\uc720 \ud6a8\uacfc\ub294 8\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5728\u7375\u8c79\u5f62\u614b\u4e0b\uff0c\u53ef\u4f7f20\u78bc\u7bc4\u570d\u5167\u6240\u6709\u5718\u968a\u6210\u54e1\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad810%\u3002\r\n\r\n\u7378\u7fa4\u9818\u8896\u4e5f\u6703\u4f7f\u76df\u53cb\u6bcf\u6b21\u4ee5\u76f4\u63a5\u653b\u64ca\u9020\u6210\u81f4\u547d\u4e00\u64ca\u6642\u6062\u5fa9\u751f\u547d\u529b\u4e0a\u9650\u76843%\u3002\u6b64\u6cbb\u7642\u6548\u679c\u6bcf8\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5728\u730e\u8c79\u5f62\u6001\u4e0b\uff0c\u4f7f20\u7801\u8303\u56f4\u5185\u6240\u6709\u56e2\u961f\u6210\u5458\u7684\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad810%\u3002\r\n\r\n\u5f53\u76df\u53cb\u7684\u76f4\u63a5\u653b\u51fb\u4ea7\u751f\u7206\u51fb\u65f6\uff0c\u517d\u7fa4\u9886\u8896\u8fd8\u4f1a\u4f7f\u5176\u6062\u590d\u5176\u6700\u5927\u751f\u547d\u503c\u76843%\u3002\u8be5\u6cbb\u7597\u6548\u679c\u6bcf8\u79d2\u6700\u591a\u51fa\u73b0\u4e00\u6b21\u3002"
+  }
 }

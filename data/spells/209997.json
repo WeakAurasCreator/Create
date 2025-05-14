@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "209997"
+  "SpellID": "209997",
+  "name_blz": {
+    "en_US": "Play Dead",
+    "es_MX": "Hacerse el muerto",
+    "pt_BR": "Fazer-se de Morto",
+    "de_DE": "Tot spielen",
+    "en_GB": "Play Dead",
+    "es_ES": "Hacerse el muerto",
+    "fr_FR": "Faire le mort",
+    "it_IT": "Morte Fasulla",
+    "ru_RU": "\u041b\u043e\u0436\u043d\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c",
+    "ko_KR": "\uc8fd\uc740 \uccb4\ud558\uae30",
+    "zh_TW": "\u88dd\u6b7b",
+    "zh_CN": "\u88c5\u6b7b"
+  },
+  "description_blz": {
+    "en_US": "Playing Dead, tricking enemies into ignoring them. Lasts up to 6 min.",
+    "es_MX": "Fingen estar muertos para que los enemigos los ignoren. Dura un m\u00e1ximo de 6 min.",
+    "pt_BR": "Fingindo-se de morto para enganar os inimigos, fazendo com que eles ignorem voc\u00ea. Dura at\u00e9 6 min.",
+    "de_DE": "Euer Begleiter stellt sich tot, sodass Gegner ihn ignorieren. H\u00e4lt bis zu 6 Min. lang an.",
+    "en_GB": "Playing Dead, tricking enemies into ignoring them. Lasts up to 6 min.",
+    "es_ES": "Se hace el muerto, lo que hace que los enemigos lo ignoren. Dura hasta 6 min.",
+    "fr_FR": "Fait le mort pour que les ennemis l\u2019ignorent. Dure 6 min au maximum.",
+    "it_IT": "Finge di morire, inducendo i nemici a ignorarlo. Dura fino a 6 min.",
+    "ru_RU": "\u041f\u0440\u0438\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u0438\u0442\u043e\u043c\u0446\u0443 \u043f\u0440\u0438\u043a\u0438\u043d\u0443\u0442\u044c\u0441\u044f \u043c\u0435\u0440\u0442\u0432\u044b\u043c, \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0437\u0430\u0431\u044b\u0442\u044c \u043e \u043d\u0435\u043c. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 \u0434\u043e 6 \u043c\u0438\u043d.",
+    "ko_KR": "\uc801\uc744 \uc18d\uc5ec \uc8fd\uc740 \uac83\ucc98\ub7fc \ubcf4\uc774\uac8c \ub9cc\ub4ed\ub2c8\ub2e4. \ucd5c\ub300 6\ubd84 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u88dd\u6b7b\uff0c\u6b3a\u9a19\u6575\u4eba\u4e26\u4f7f\u6575\u4eba\u5ffd\u7565\u5176\u5b58\u5728\u3002\u6700\u4e45\u53ef\u6301\u7e8c6\u5206\u9418\u3002",
+    "zh_CN": "\u88c5\u6b7b\uff0c\u8ba9\u654c\u4eba\u5ffd\u89c6\u81ea\u5df1\u3002\u6301\u7eed6\u5206\u949f\u3002"
+  }
 }

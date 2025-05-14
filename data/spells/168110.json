@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "168110"
+  "SpellID": "168110",
+  "name_blz": {
+    "en_US": "Tier 3 Talents Unlocked",
+    "es_MX": "Talentos del nivel 3 desbloqueados",
+    "pt_BR": "Talentos do Tipo 3 desbloqueados",
+    "de_DE": "3. Talentgruppe freigeschaltet",
+    "en_GB": "Tier 3 Talents Unlocked",
+    "es_ES": "Talentos de nivel 3 desbloqueados",
+    "fr_FR": "Techniques de palier 3 d\u00e9verrouill\u00e9es",
+    "it_IT": "Talenti Livello 3 Sbloccati",
+    "ru_RU": "\u0422\u0430\u043b\u0430\u043d\u0442\u044b 3-\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f",
+    "ko_KR": "3\ub2e8\uacc4 \ud2b9\uc131 \uc7a0\uae08 \ud574\uc81c",
+    "zh_TW": "\u7b2c\u4e09\u968e\u5929\u8ce6\u89e3\u9396",
+    "zh_CN": "\u89e3\u9501\u7b2c\u4e09\u7ea7\u5929\u8d4b"
+  },
+  "description_blz": {
+    "en_US": "Unlocks access to spending your third tier talent point.",
+    "es_MX": "Desbloquea el acceso para gastar tu punto de talento del tercer nivel.",
+    "pt_BR": "Desbloqueia o acesso aos seus pontos de talento de terceiro tipo.",
+    "de_DE": "Erm\u00f6glicht, den Talentpunkt f\u00fcr die dritte Talentgruppe zu vergeben.",
+    "en_GB": "Unlocks access to spending your third tier talent point.",
+    "es_ES": "Desbloquea el acceso para poder gastar tu punto de talento de nivel 3.",
+    "fr_FR": "Vous permet d\u2019utiliser votre point de talent de palier 3.",
+    "it_IT": "Sblocca la possibilit\u00e0 di assegnare dei punti talento di livello 3.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u0442\u0430\u043b\u0430\u043d\u0442 \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f.",
+    "ko_KR": "3\ub2e8\uacc4 \ud2b9\uc131\uc774 \uc7a0\uae08 \ud574\uc81c\ub418\uc5b4 \uc0ac\uc6a9 \uac00\ub2a5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u7b2c\u4e09\u968e\u5929\u8ce6\u3002",
+    "zh_CN": "\u89e3\u9501\u4ee5\u4f7f\u7528\u4f60\u7684\u7b2c\u4e09\u7ea7\u5929\u8d4b\u70b9\u6570\u3002"
+  }
 }

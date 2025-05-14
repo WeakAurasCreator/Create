@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "138376"
+  "SpellID": "138376",
+  "name_blz": {
+    "en_US": "Item - Mage T15 4P Bonus",
+    "es_MX": "Item - Mage T15 4P Bonus",
+    "pt_BR": "Item - Mage T15 4P Bonus",
+    "en_GB": "Item - Mage T15 4P Bonus",
+    "es_ES": "Item - Mage T15 4P Bonus",
+    "it_IT": "Item - Mage T15 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub9c8\ubc95\uc0ac T15 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Mage T15 4P Bonus",
+    "zh_CN": "Item - Mage T15 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the effects of Arcane Charges by 5%, increases the critical strike chance of Pyroblast by 5%, and increases the chance for your Frostbolt to trigger Fingers of Frost by an additional 6%.",
+    "es_MX": "Aumenta un 5% los efectos de Cargas Arcanas, aumenta un 5% la probabilidad de golpe cr\u00edtico de Piroexplosi\u00f3n y aumenta un 6% extra la probabilidad de que tu Descarga de Escarcha active Dedos de Escarcha.",
+    "pt_BR": "Aumenta em 5% o efeito de Cargas Arcanas, aumenta em 5% a chance de acerto cr\u00edtico de Ignimpacto e aumenta em mais 6% a chance da sua Seta de Gelo ativar o efeito Dedos Glaciais.",
+    "de_DE": "Erh\u00f6ht die Effekte von Arkanen Aufladungen um 5%, erh\u00f6ht die kritische Trefferchance von 'Pyroschlag' um 5% und erh\u00f6ht die Chance, dass 'Frostblitz' 'Eisige Finger' ausl\u00f6st, um zus\u00e4tzlich 6%.",
+    "en_GB": "Increases the effects of Arcane Charges by 5%, increases the critical strike chance of Pyroblast by 5%, and increases the chance for your Frostbolt to trigger Fingers of Frost by an additional 6%.",
+    "es_ES": "Aumenta un 5% los efectos de Cargas Arcanas, aumenta un 5% la probabilidad de golpe cr\u00edtico de Piroexplosi\u00f3n y aumenta un 6% extra la probabilidad de que tu Descarga de Escarcha active Dedos de Escarcha.",
+    "fr_FR": "Augmente les effets des Charges arcaniques de 5%, les chances de critique d\u2019Explosion pyrotechnique de 5% et les chances de votre \u00c9clair de givre de d\u00e9clencher Doigts de givre de 6%.",
+    "it_IT": "Aumenta gli effetti delle cariche arcane del 5%, aumenta la probabilit\u00e0 di critico di Pirosfera del 5% e la probabilit\u00e0 che Dardo di Gelo attivi Dita di Gelo del 6%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0447\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0445 \u0437\u0430\u0440\u044f\u0434\u043e\u0432 \u043d\u0430 5%, \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0439 \u0433\u043b\u044b\u0431\u044b\" \u043d\u0430 5% \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \"\u041b\u0435\u0434\u044f\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430\" \u0432\u044b\u0437\u043e\u0432\u0435\u0442 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u0435 \"\u041b\u0435\u0434\u044f\u043d\u044b\u0445 \u043f\u0430\u043b\u044c\u0446\u0435\u0432\", \u0435\u0449\u0435 \u043d\u0430 6%.",
+    "ko_KR": "\ube44\uc804 \ucda9\uc804\ubb3c\uc758 \ud6a8\uacfc\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \ubd88\ub369\uc774 \uc791\ub82c\uc758 \uadf9\ub300\ud654\uc728\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \uc5bc\uc74c \ud654\uc0b4\uc774 \uc11c\ub9ac\uc758 \uc190\uac00\ub77d\uc744 \ubc1c\ub3d9\uc2dc\ud0ac \ud655\ub960\uc774 \ucd94\uac00\ub85c 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u79d8\u6cd5\u5145\u80fd\u7684\u6548\u679c\u63d0\u9ad85%\uff0c\u708e\u7206\u8853\u7684\u81f4\u547d\u4e00\u64ca\u6a5f\u7387\u63d0\u9ad85%\uff0c\u4e26\u4e14\u5bd2\u51b0\u7bad\u89f8\u767c\u51b0\u971c\u4e4b\u6307\u7684\u6a5f\u7387\u984d\u5916\u63d0\u9ad86%\u3002",
+    "zh_CN": "\u4f7f\u5965\u672f\u5145\u80fd\u7684\u6548\u679c\u63d0\u9ad85%\uff0c\u708e\u7206\u672f\u7684\u7206\u51fb\u51e0\u7387\u63d0\u9ad85%\uff0c\u5e76\u4f7f\u4f60\u7684\u5bd2\u51b0\u7bad\u89e6\u53d1\u5bd2\u51b0\u6307\u7684\u51e0\u7387\u989d\u5916\u63d0\u9ad86%\u3002"
+  }
 }

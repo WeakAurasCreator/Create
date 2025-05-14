@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "180717"
+  "SpellID": "180717",
+  "name_blz": {
+    "en_US": "Item - Druid WoD PvP Balance 4P Bonus",
+    "es_MX": "Item - Druid WoD PvP Balance 4P Bonus",
+    "pt_BR": "Item - Druida WoD JxJ Equil\u00edbrio 4P B\u00f4nus",
+    "en_GB": "Item - Druid WoD PvP Balance 4P Bonus",
+    "es_ES": "Item - Druid WoD PvP Balance 4P Bonus",
+    "it_IT": "Item - Druid WoD PvP Balance 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc WoD PvP \uc870\ud654 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid WoD PvP Balance 4P Bonus",
+    "zh_CN": "Item - Druid WoD PvP Balance 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When Starsurge hits a player, the cast time of Lunar Strike is reduced by 30%, and the damage of Solar Wrath is increased by 30% for 6 sec.",
+    "es_MX": "Cuando Oleada de estrellas golpea a un jugador, el tiempo de lanzamiento de Golpe lunar se reduce un 30% y el da\u00f1o de C\u00f3lera solar aumenta un 30% durante 6 s.",
+    "pt_BR": "Quando Surto Estelar atinge um jogador, o tempo de lan\u00e7amento do Golpe Lunar \u00e9 reduzido em 30% e o dano da Ira Solar \u00e9 aumentado em 30% por 6 s.",
+    "de_DE": "Wenn 'Sternensog' einen Spielercharakter trifft, wird die Zauberzeit von 'Lunarschlag' um 30% verringert und der Schaden von 'Solarzorn' um 30% erh\u00f6ht. H\u00e4lt 6 Sek. lang an.",
+    "en_GB": "When Starsurge hits a player, the cast time of Lunar Strike is reduced by 30%, and the damage of Solar Wrath is increased by 30% for 6 sec.",
+    "es_ES": "Cuando Oleada de estrellas golpea a un jugador, el tiempo de lanzamiento de Golpe lunar se reduce un 30% y el da\u00f1o de C\u00f3lera solar aumenta un 30% durante 6 s.",
+    "fr_FR": "Quand \u00c9ruption stellaire frappe un personnage-joueur, le temps d\u2019incantation de Frappe lunaire est r\u00e9duit de 30% et les d\u00e9g\u00e2ts de Courroux solaire augment\u00e9s de 30% pendant 6 s.",
+    "it_IT": "Quando Cometa Arcana colpisce un personaggio, il tempo di lancio di Ira Lunare si riduce del 30% e i danni inflitti da Ira Solare aumentano del 30% per 6 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0438\u0433\u0440\u043e\u043a\u0430, \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u041b\u0443\u043d\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 30%, \u0430 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \"\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u043c \u0433\u043d\u0435\u0432\u043e\u043c\", \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 30% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\ubcc4\ube5b\uc1c4\ub3c4\uac00 \ud50c\ub808\uc774\uc5b4\uc5d0\uac8c \uc801\uc911\ud558\uba74, 6\ucd08 \ub3d9\uc548 \ub2ec\uc758 \uc77c\uaca9\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 30%\ub9cc\ud07c \uac10\uc18c\ud558\uace0, \ud0dc\uc591\uc758 \uaca9\ub178\uc758 \uacf5\uaca9\ub825\uc774 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u661f\u6e67\u8853\u5728\u64ca\u4e2d\u73a9\u5bb6\u6642\uff0c\u6708\u5149\u4e4b\u64ca\u7684\u65bd\u653e\u6642\u9593\u7e2e\u77ed30%\uff0c\u592a\u967d\u4e4b\u6012\u6240\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad830%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5f53\u661f\u6d8c\u672f\u547d\u4e2d\u4e00\u540d\u73a9\u5bb6\u65f6\uff0c\u660e\u6708\u6253\u51fb\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed30%\uff0c\u9633\u708e\u4e4b\u6012\u7684\u4f24\u5bb3\u63d0\u9ad830%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

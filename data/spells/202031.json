@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202031"
+  "SpellID": "202031",
+  "name_blz": {
+    "en_US": "Sabertooth",
+    "es_MX": "Dientes de sable",
+    "pt_BR": "Dente-de-sabre",
+    "de_DE": "S\u00e4belzahn",
+    "en_GB": "Sabertooth",
+    "es_ES": "Diente de sable",
+    "fr_FR": "Dent de sabre",
+    "it_IT": "Denti a Sciabola",
+    "ru_RU": "\u0421\u0430\u0431\u043b\u0435\u0437\u0443\u0431",
+    "ko_KR": "\uce7c\ub0a0\uc774\ube68",
+    "zh_TW": "\u528d\u9f52",
+    "zh_CN": "\u5251\u9f7f\u5229\u5203"
+  },
+  "description_blz": {
+    "en_US": "Ferocious Bite deals 15% increased damage.\r\n\r\nFor each Combo Point spent, Ferocious Bite's primary target takes 3% increased damage from your Cat Form bleed and other periodic abilities for 4 sec.",
+    "es_MX": "Mordedura feroz inflige un 15% m\u00e1s de da\u00f1o.\r\n\r\nPor cada punto de combo gastado, el objetivo principal de Mordedura feroz recibe un 3% m\u00e1s de da\u00f1o del sangrado de tu forma felina y otras habilidades peri\u00f3dicas durante 4 s.",
+    "pt_BR": "Mordida Feroz causa 15% a mais de dano.\r\n\r\nPara cada Ponto de Combo gasto, o alvo principal de Mordida Feroz recebe 3% a mais de dano de sangramento da sua Forma de Felino e de outras habilidades peri\u00f3dicas por 4 s.",
+    "de_DE": "'Wilder Biss' verursacht 15% mehr Schaden.\r\n\r\nDas Prim\u00e4rziel von 'Wilder Biss' erleidet 4 Sek. lang pro verbrauchtem Combopunkt 3% mehr Schaden durch Eure Blutungs- und sonstigen regelm\u00e4\u00dfigen F\u00e4higkeiten in Katzengestalt.",
+    "en_GB": "Ferocious Bite deals 15% increased damage.\r\n\r\nFor each Combo Point spent, Ferocious Bite's primary target takes 3% increased damage from your Cat Form bleed and other periodic abilities for 4 sec.",
+    "es_ES": "Mordedura feroz inflige un 15% m\u00e1s de da\u00f1o.\r\n\r\nPor cada punto de combo gastado, el objetivo principal de Mordedura feroz recibe un 3% m\u00e1s de da\u00f1o de tu sangrado en forma felina y otras facultades de da\u00f1o peri\u00f3dico durante 4 s.",
+    "fr_FR": "Morsure f\u00e9roce inflige 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires.\r\n\r\nPour chaque point de combo d\u00e9pens\u00e9, la cible principale de Morsure f\u00e9roce subit 3\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires de saignement de votre forme de f\u00e9lin et des autres techniques \u00e0 d\u00e9g\u00e2ts p\u00e9riodiques pendant 4 s.",
+    "it_IT": "Aumenta i danni inflitti da Morso Feroce del 15%.\r\n\r\nPer ogni punto combo consumato, il bersaglio primario di Morso Feroce subisce il 3% di danni aggiuntivi dai tuoi effetti dannosi periodici in Forma Felina per 4 s.",
+    "ru_RU": "\"\u0421\u0432\u0438\u0440\u0435\u043f\u044b\u0439 \u0443\u043a\u0443\u0441\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u0417\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0438\u0437\u0440\u0430\u0441\u0445\u043e\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0440\u0438\u0435\u043c \u0441\u0435\u0440\u0438\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0446\u0435\u043b\u044c \"\u0421\u0432\u0438\u0440\u0435\u043f\u043e\u0433\u043e \u0443\u043a\u0443\u0441\u0430\" \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043d\u0430 3% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0432\u0430\u0448\u0438\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f, \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u043d\u044b\u0445 \u0432 \u043e\u0431\u043b\u0438\u043a\u0435 \u043a\u043e\u0448\u043a\u0438, \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 4 \u0441\u0435\u043a.",
+    "ko_KR": "\ud749\ud3ec\ud55c \uc774\ube68\uc774 15%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc18c\ubaa8\ud55c \uc5f0\uacc4 \uc810\uc218 1\uc810\ub2f9 4\ucd08 \ub3d9\uc548 \ud749\ud3ec\ud55c \uc774\ube68\uc758 \uc8fc \ub300\uc0c1\uc774 \ud45c\ubc94 \ubcc0\uc2e0\uc77c \ub54c \ubd80\uc5ec\ud558\ub294 \ucd9c\ud608 \ud6a8\uacfc \ubc0f \ub2e4\ub978 \uc8fc\uae30\uc801\uc778 \ub2a5\ub825\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574\uac00 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5147\u731b\u6495\u54ac\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002\r\n\r\n\u6bcf\u6d88\u8017\u4e00\u500b\u9023\u64ca\u9ede\u6578\uff0c\u4f60\u7375\u8c79\u5f62\u614b\u7684\u6d41\u8840\u6548\u679c\u548c\u5176\u4ed6\u9031\u671f\u6027\u6280\u80fd\u5c0d\u5147\u731b\u6495\u54ac\u7684\u4e3b\u8981\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u90fd\u6703\u63d0\u9ad83%\uff0c\u6301\u7e8c4\u79d2\u3002",
+    "zh_CN": "\u51f6\u731b\u6495\u54ac\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002\r\n\r\n\u6bcf\u6d88\u8017\u4e00\u4e2a\u8fde\u51fb\u70b9\u6570\uff0c\u51f6\u731b\u6495\u54ac\u7684\u4e3b\u8981\u76ee\u6807\u53d7\u5230\u4f60\u7684\u730e\u8c79\u5f62\u6001\u7684\u6d41\u8840\u548c\u5176\u4ed6\u5468\u671f\u6027\u6548\u679c\u7684\u4f24\u5bb3\u63d0\u9ad83%\uff0c\u6301\u7eed4\u79d2\u3002"
+  }
 }

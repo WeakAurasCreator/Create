@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "185805"
+  "SpellID": "185805",
+  "name_blz": {
+    "en_US": "Item - Druid T18 Feral 2P Bonus",
+    "es_MX": "Item - Druid T18 Feral 2P Bonus",
+    "pt_BR": "Item - Druid T18 Feral 2P Bonus",
+    "en_GB": "Item - Druid T18 Feral 2P Bonus",
+    "es_ES": "Item - Druid T18 Feral 2P Bonus",
+    "it_IT": "Item - Druid T18 Feral 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T18 \uc57c\uc131 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T18 Feral 2P Bonus",
+    "zh_CN": "Item - Druid T18 Feral 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Increases the chance for Omen of Clarity to trigger, and increases your maximum Energy while in Cat Form by 20.",
+    "es_MX": "Aumenta la probabilidad de activaci\u00f3n de Augurio de claridad y aumenta 20 p. tu energ\u00eda m\u00e1xima mientras est\u00e1s en Forma felina.",
+    "pt_BR": "Aumenta a chance de receber Press\u00e1gio de Clareza e em 20 a sua Energia m\u00e1xima na Forma de Felino.",
+    "de_DE": "Erh\u00f6ht die Chance, dass 'Omen der Klarsicht' ausgel\u00f6st wird, und erh\u00f6ht Eure maximale Energie in Katzengestalt um 20.",
+    "en_GB": "Increases the chance for Omen of Clarity to trigger, and increases your maximum Energy while in Cat Form by 20.",
+    "es_ES": "Aumenta la probabilidad de que Augurio de claridad se active y aumenta tu energ\u00eda m\u00e1xima mientras est\u00e9s en forma felina 20 p.",
+    "fr_FR": "Augmente les chances de d\u00e9clencher votre Augure de clart\u00e9 et augmente votre maximum d\u2019\u00e9nergie en forme de f\u00e9lin de 20.",
+    "it_IT": "Aumenta le probabilit\u00e0 di attivare Presagio di Lucidit\u00e0 e aumenta l'energia massima in Forma Felina di 20.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u044f \"\u0417\u043d\u0430\u043c\u0435\u043d\u0438\u044f \u044f\u0441\u043d\u043e\u0441\u0442\u0438\" \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0437\u0430\u043f\u0430\u0441 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0432 \u043e\u0431\u043b\u0438\u043a\u0435 \u043a\u043e\u0448\u043a\u0438 \u043d\u0430 20.",
+    "ko_KR": "\uccad\uba85\uc758 \uc804\uc870\uac00 \ubc1c\ub3d9\ud560 \ud655\ub960\uc774 \uc99d\uac00\ud558\uace0, \ud45c\ubc94 \ubcc0\uc2e0 \uc0c1\ud0dc\uc5d0\uc11c\uc758 \ucd5c\ub300 \uae30\ub825\uc774 20\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u63d0\u9ad8\u6e05\u6670\u9810\u5146\u7684\u89f8\u767c\u6a5f\u7387\uff0c\u4e26\u4f7f\u7375\u8c79\u5f62\u614b\u4e0b\u7684\u80fd\u91cf\u4e0a\u9650\u63d0\u9ad820\u9ede\u3002",
+    "zh_CN": "\u63d0\u9ad8\u6e05\u6670\u9884\u5146\u7684\u89e6\u53d1\u51e0\u7387\uff0c\u5e76\u4f7f\u4f60\u5728\u730e\u8c79\u5f62\u6001\u4e0b\u7684\u80fd\u91cf\u503c\u4e0a\u9650\u63d0\u9ad820\u70b9\u3002"
+  }
 }

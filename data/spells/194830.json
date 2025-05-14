@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "194830"
+  "SpellID": "194830",
+  "name_blz": {
+    "en_US": "Recipe: Warhide Jerkin",
+    "es_MX": "Receta: Jub\u00f3n de pellejo de guerra",
+    "pt_BR": "Receita: Gib\u00e3o de Couro B\u00e9lico",
+    "de_DE": "Muster: Kriegsbalgwams",
+    "en_GB": "Recipe: Warhide Jerkin",
+    "es_ES": "Receta: chaleco de pellejo de guerra",
+    "fr_FR": "Patron\u00a0: Pourpoint peau-de-guerre",
+    "it_IT": "Modello: Giaco di Pellefiera",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u0436\u0430\u043a\u0435\u0442 \u0438\u0437 \u0432\u044b\u0434\u0443\u0431\u043b\u0435\u043d\u043d\u043e\u0439 \u0432\u043e\u0439\u043d\u043e\u0439 \u043a\u043e\u0436\u0438",
+    "ko_KR": "\ub3c4\uc548: \uc804\uc7c1\uac00\uc8fd \uc6c3\uc637",
+    "zh_TW": "\u8a2d\u8a08\u5716\uff1a\u6230\u76ae\u4e0a\u8863",
+    "zh_CN": "\u914d\u65b9\uff1a\u6218\u7532\u536b\u8863"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following item:\r\nWarhide Jerkin",
+    "es_MX": "Te ense\u00f1a a fabricar el siguiente objeto:\r\nJub\u00f3n de pellejo de guerra",
+    "pt_BR": "Aprenda a criar o seguinte item:\r\nGib\u00e3o de Couro B\u00e9lico",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nKriegsbalgwams",
+    "en_GB": "Learn to craft the following item:\r\nWarhide Jerkin",
+    "es_ES": "Aprende a fabricar el siguiente objeto:\r\nChaleco de pellejo de guerra",
+    "fr_FR": "Apprend \u00e0 confectionner l\u2019objet suivant\u00a0:\r\nPourpoint peau-de-guerre",
+    "it_IT": "Apprendi come creare il seguente oggetto:\r\nGiaco di Pellefiera",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442:\r\n\u0416\u0430\u043a\u0435\u0442 \u0438\u0437 \u0432\u044b\u0434\u0443\u0431\u043b\u0435\u043d\u043d\u043e\u0439 \u0432\u043e\u0439\u043d\u043e\u0439 \u043a\u043e\u0436\u0438",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\uc804\uc7c1\uac00\uc8fd \uc6c3\uc637",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4ee5\u4e0b\u7269\u54c1\uff1a\r\n\u6230\u76ae\u4e0a\u8863",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u6218\u7532\u536b\u8863"
+  }
 }

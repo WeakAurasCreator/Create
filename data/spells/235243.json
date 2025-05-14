@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "235243"
+  "SpellID": "235243",
+  "name_blz": {
+    "en_US": "Follower: Aelthalyste",
+    "es_MX": "Seguidor: Aelthalyste",
+    "pt_BR": "Seguidora: Aelthalyste",
+    "de_DE": "Anh\u00e4nger: Aelthalyste",
+    "en_GB": "Follower: Aelthalyste",
+    "es_ES": "Seguidora: Aelthalyste",
+    "fr_FR": "Sujet\u00a0: Aelthalyste",
+    "it_IT": "Seguace: Aelthalyste",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u042d\u043b\u044c\u0442\u0430\u043b\u0438\u0441\u0442\u0435",
+    "ko_KR": "\ucd94\uc885\uc790: \uc560\uc0b4\ub9ac\uc2a4\ud14c",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a\u827e\u85a9\u840a\u65af\u7279",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u827e\u8428\u83b1\u65af\u7279"
+  },
+  "description_blz": {
+    "en_US": "Grants Aelthalyste as your Champion.",
+    "es_MX": "Otorga a Aelthalyste como tu campeona.",
+    "pt_BR": "Concede Aelthalyste como Campe\u00e3.",
+    "de_DE": "Macht Aelthalyste zu Eurem Champion.",
+    "en_GB": "Grants Aelthalyste as your Champion.",
+    "es_ES": "Otorga a Aelthalyste como tu campeona.",
+    "fr_FR": "Fait d\u2019Aelthalyste votre championne.",
+    "it_IT": "Rende disponibile come campione Aelthalyste.",
+    "ru_RU": "\u042d\u043b\u044c\u0442\u0430\u043b\u0438\u0441\u0442\u0435 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0432\u0430\u0448\u0438\u043c \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u043e\u043c.",
+    "ko_KR": "\uc560\uc0b4\ub9ac\uc2a4\ud14c\ub97c \uc6a9\uc0ac\ub85c \uc601\uc785\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7372\u5f97\u827e\u85a9\u840a\u65af\u7279\u6210\u70ba\u4f60\u7684\u52c7\u58eb\u3002",
+    "zh_CN": "\u4f7f\u827e\u8428\u83b1\u65af\u7279\u6210\u4e3a\u4f60\u7684\u52c7\u58eb\u3002"
+  }
 }

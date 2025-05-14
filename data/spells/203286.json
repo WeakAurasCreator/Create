@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "203286"
+  "SpellID": "203286",
+  "name_blz": {
+    "en_US": "Greater Pyroblast",
+    "es_MX": "Piroexplosi\u00f3n superior",
+    "pt_BR": "Ignimpacto Maior",
+    "de_DE": "Gro\u00dfer Pyroschlag",
+    "en_GB": "Greater Pyroblast",
+    "es_ES": "Piroexplosi\u00f3n superior",
+    "fr_FR": "Explosion pyrotechnique sup\u00e9rieure",
+    "it_IT": "Pirosfera Superiore",
+    "ru_RU": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u043e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0433\u043b\u044b\u0431\u0430",
+    "ko_KR": "\uc0c1\uae09 \ubd88\ub369\uc774 \uc791\ub82c",
+    "zh_TW": "\u5927\u708e\u7206\u8853",
+    "zh_CN": "\u5f3a\u6548\u708e\u7206\u672f"
+  },
+  "description_blz": {
+    "en_US": "Hurls an immense fiery boulder that deals up to 30% of the target's total health in Fire damage.",
+    "es_MX": "Lanza una inmensa roca \u00edgnea que inflige hasta un 30% de la salud total del objetivo en forma de da\u00f1o de fuego.",
+    "pt_BR": "Lan\u00e7a uma bola flamejante imensa que causa dano de Fogo equivalente a at\u00e9 30% do total dos pontos de vida do alvo.",
+    "de_DE": "Schleudert einen immensen feurigen Felsen, der Feuerschaden in H\u00f6he von bis zu 30% der gesamten Gesundheit des Ziels verursacht.",
+    "en_GB": "Hurls an immense fiery boulder that deals up to 30% of the target's total health in Fire damage.",
+    "es_ES": "Lanza una inmensa roca \u00edgnea que inflige hasta un 30% de la salud total del objetivo como da\u00f1o de Fuego.",
+    "fr_FR": "Lance un \u00e9norme rocher embras\u00e9 qui inflige jusqu\u2019\u00e0 30% du total de points de vie de la cible sous forme de d\u00e9g\u00e2ts de Feu.",
+    "it_IT": "Scaglia un enorme macigno infuocato, infliggendo danni da fuoco pari a massimo il 30% della salute massima del bersaglio.",
+    "ru_RU": "\u0417\u0430\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043e\u0433\u0440\u043e\u043c\u043d\u0443\u044e \u043e\u0433\u043d\u0435\u043d\u043d\u0443\u044e \u0433\u043b\u044b\u0431\u0443, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0443\u044e \u0443\u0440\u043e\u043d \u043e\u0442 \u043e\u0433\u043d\u044f \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 \u0434\u043e 30% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\uc5c4\uccad\ub09c \ud06c\uae30\uc758 \ubd88\ub369\uc774\ub97c \ub0a0\ub824 \ub300\uc0c1 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 \ucd5c\ub300 30%\ub9cc\ud07c\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u767c\u5c04\u4e00\u679a\u5de8\u5927\u7684\u71be\u708e\u706b\u7403\uff0c\u6700\u591a\u5c0d\u76ee\u6a19\u9020\u6210\u7b49\u540c\u5176\u7e3d\u751f\u547d\u529b30%\u7684\u706b\u7130\u50b7\u5bb3\u3002",
+    "zh_CN": "\u53d1\u5c04\u4e00\u679a\u5de8\u5927\u7684\u706b\u7130\u6295\u77f3\uff0c\u5bf9\u76ee\u6807\u9020\u6210\u6700\u591a\u76f8\u5f53\u4e8e\u5176\u603b\u751f\u547d\u503c30%\u7684\u706b\u7130\u4f24\u5bb3\u3002"
+  }
 }

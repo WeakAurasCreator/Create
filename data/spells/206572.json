@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "206572"
+  "SpellID": "206572",
+  "name_blz": {
+    "en_US": "Dragon Charge",
+    "es_MX": "Carga de drag\u00f3n",
+    "pt_BR": "Investida do Drag\u00e3o",
+    "de_DE": "Ansturm des Drachen",
+    "en_GB": "Dragon Charge",
+    "es_ES": "Carga de drag\u00f3n",
+    "fr_FR": "Charge de dragon",
+    "it_IT": "Carica del Drago",
+    "ru_RU": "\u0420\u044b\u0432\u043e\u043a \u0434\u0440\u0430\u043a\u043e\u043d\u0430",
+    "ko_KR": "\uc6a9\uc758 \ub3cc\uc9c4",
+    "zh_TW": "\u5de8\u9f8d\u885d\u92d2",
+    "zh_CN": "\u5de8\u9f99\u51b2\u950b"
+  },
+  "description_blz": {
+    "en_US": "Run at high speed at a distance in front of you. All enemies in your path will take 378 Physical damage and be knocked back.",
+    "es_MX": "Corre a alta velocidad a una distancia frente a ti. Inflige 364 p. de da\u00f1o f\u00edsico y derriba a todos los enemigos en tu camino.",
+    "pt_BR": "Corre em alta velocidade para um ponto distante \u00e0 frente. Todos os inimigos no seu caminho recebem 369 de dano F\u00edsico e s\u00e3o repelidos.",
+    "de_DE": "L\u00e4sst Euch eine gewisse Entfernung schnell vorw\u00e4rts st\u00fcrmen. Dabei erleiden alle Gegner auf Eurem Weg 374 k\u00f6rperlichen Schaden und werden zur\u00fcckgesto\u00dfen.",
+    "en_GB": "Run at high speed at a distance in front of you. All enemies in your path will take 370 Physical damage and be knocked back.",
+    "es_ES": "Corres a gran velocidad hacia delante. Todos los enemigos a tu paso reciben 371 p. de da\u00f1o f\u00edsico y son repelidos.",
+    "fr_FR": "Vous foncez droit devant vous. Les ennemis sur votre trajectoire subissent 365\u00a0points de d\u00e9g\u00e2ts physiques et sont repouss\u00e9s.",
+    "it_IT": "Una corsa veloce in direzione frontale, che infligge 364 danni fisici e respinge indietro tutti i nemici lungo la traiettoria.",
+    "ru_RU": "\u0421\u043e\u0432\u0435\u0440\u0448\u0430\u0435\u0442 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0440\u044b\u0432\u043e\u043a \u0432\u043f\u0435\u0440\u0435\u0434, \u043d\u0430\u043d\u043e\u0441\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u043d\u0430 \u0441\u0432\u043e\u0435\u043c \u043f\u0443\u0442\u0438 365 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0438 \u043e\u0442\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044f \u0438\u0445.",
+    "ko_KR": "\uc804\ubc29\uc758 \uba3c \uac70\ub9ac\ub97c \ube60\ub978 \uc18d\ub3c4\ub85c \ub2ec\ub824\uac11\ub2c8\ub2e4. \uc774\ub3d9 \uacbd\ub85c\uc0c1\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 379\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud788\uace0 \ub4a4\ub85c \ubc00\uccd0\ub0c5\ub2c8\ub2e4.",
+    "zh_TW": "\u671d\u9762\u524d\u9ad8\u901f\u72c2\u5954\u4e00\u6bb5\u8ddd\u96e2\u3002\u8def\u7dda\u4e0a\u7684\u6575\u4eba\u6703\u53d7\u5230374\u9ede\u7269\u7406\u50b7\u5bb3\u4e26\u88ab\u64ca\u9000\u3002",
+    "zh_CN": "\u9ad8\u901f\u5411\u524d\u5954\u8dd1\u4e00\u5927\u6bb5\u8ddd\u79bb\uff0c\u4f7f\u8def\u5f84\u4e0a\u7684\u6240\u6709\u654c\u4eba\u53d7\u5230369\u70b9\u7269\u7406\u4f24\u5bb3\u5e76\u88ab\u51fb\u9000\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "231663"
+  "SpellID": "231663",
+  "name_blz": {
+    "en_US": "Greater Judgment",
+    "es_MX": "Sentencia mayor",
+    "pt_BR": "Julgamento Maior",
+    "de_DE": "Gro\u00dfes Richturteil",
+    "en_GB": "Greater Judgment",
+    "es_ES": "Sentencia superior",
+    "fr_FR": "Jugement sup\u00e9rieur",
+    "it_IT": "Giudizio Superiore",
+    "ru_RU": "\u0412\u0435\u043b\u0438\u043a\u043e\u0435 \u043f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435",
+    "ko_KR": "\uc0c1\uae09 \uc2ec\ud310",
+    "zh_TW": "\u5f37\u6548\u5be9\u5224",
+    "zh_CN": "\u5f3a\u6548\u5ba1\u5224"
+  },
+  "description_blz": {
+    "en_US": "Judgment causes the target to take 20% increased damage from your next Holy Power ability.\r\n\r\nMultiple applications may overlap.",
+    "es_MX": "Sentencia hace que el objetivo reciba un 20% m\u00e1s de da\u00f1o de tu siguiente habilidad que cueste poder sagrado.\r\n\r\nSe pueden aplicar varias instancias.",
+    "pt_BR": "Julgamento faz com que o alvo receba 20% a mais de dano da sua pr\u00f3xima habilidade de Poder Sagrado.\r\n\r\nV\u00e1rias aplica\u00e7\u00f5es podem acumular.",
+    "de_DE": "'Richturteil' l\u00e4sst das Ziel durch Euren n\u00e4chsten Einsatz einer F\u00e4higkeit, die Heilige Kraft verbraucht, 20% mehr Schaden erleiden.\r\n\r\nMehrere Anwendungen k\u00f6nnen sich \u00fcberlappen.",
+    "en_GB": "Judgment causes the target to take 20% increased damage from your next Holy Power ability.\r\n\r\nMultiple applications may overlap.",
+    "es_ES": "Sentencia hace que el objetivo reciba un 20% m\u00e1s de da\u00f1o de tu siguiente facultad de poder sagrado.\r\n\r\nSe pueden solapar varias aplicaciones.",
+    "fr_FR": "Jugement augmente de 20\u00a0% les d\u00e9g\u00e2ts inflig\u00e9s \u00e0 la cible par votre prochaine technique consommant de la puissance sacr\u00e9e.\r\n\r\nPlusieurs instances de cet effet peuvent se chevaucher.",
+    "it_IT": "Giudizio aumenta i danni inflitti al bersaglio dalla successiva abilit\u00e0 che consuma cariche di potere sacro del 20%.\r\n\r\nApplicazioni multiple potrebbero sovrapporsi.",
+    "ru_RU": "\"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0446\u0435\u043b\u044c\u044e \u043e\u0442 \u0432\u0430\u0448\u0435\u0439 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0449\u0435\u0439 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0421\u0432\u0435\u0442\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u043d\u0430 20%.\r\n\r\n\u042d\u0444\u0444\u0435\u043a\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u043d\u0430\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0434\u0440\u0443\u0433 \u043d\u0430 \u0434\u0440\u0443\u0433\u0430.",
+    "ko_KR": "\uc2ec\ud310 \uc0ac\uc6a9 \uc2dc \uc790\uc2e0\uc758 \uc2e0\uc131\ud55c \ud798 \ub2a5\ub825\uc73c\ub85c \ub300\uc0c1\uc774 \ubc1b\ub294 \ud53c\ud574\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc5ec\ub7ec \ubc88 \uc0ac\uc6a9 \uc2dc \ud6a8\uacfc\uac00 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5be9\u5224\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u8056\u80fd\u6280\u80fd\u5c0d\u8a72\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad820%\u3002\r\n\r\n\u6548\u679c\u53ef\u91cd\u758a\u3002",
+    "zh_CN": "\u5ba1\u5224\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u6d88\u8017\u795e\u5723\u80fd\u91cf\u7684\u6280\u80fd\u5bf9\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad820%\u3002\r\n\r\n\u591a\u6b21\u65bd\u52a0\u53ef\u4ee5\u91cd\u53e0\u751f\u6548\u3002"
+  }
 }

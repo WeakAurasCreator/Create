@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "198912"
+  "SpellID": "198912",
+  "name_blz": {
+    "en_US": "Shield Bash",
+    "es_MX": "Azote de escudo",
+    "pt_BR": "Trombada com Escudo",
+    "de_DE": "Schildhieb",
+    "en_GB": "Shield Bash",
+    "es_ES": "Azote de escudo",
+    "fr_FR": "Coup de bouclier",
+    "it_IT": "Sfondamento di Scudo",
+    "ru_RU": "\u0423\u0434\u0430\u0440 \u0449\u0438\u0442\u043e\u043c",
+    "ko_KR": "\ubc29\ud328 \uac00\uaca9",
+    "zh_TW": "\u76fe\u64ca",
+    "zh_CN": "\u76fe\u51fb"
+  },
+  "description_blz": {
+    "en_US": "When Shield Slam is used on targets that are casting, it reduces their damage done by 15% for 8 sec and the cooldown is instantly reset.",
+    "es_MX": "Cuando usas Embate con escudo contra un objetivo que est\u00e1 lanzando una habilidad, reduce un 15% el da\u00f1o que inflige durante 8 s y el tiempo de reutilizaci\u00f3n se restablece de forma instant\u00e1nea.",
+    "pt_BR": "Quando a Escudada \u00e9 usada em alvos que estiverem lan\u00e7ando feiti\u00e7os, ela reduz em 15% o dano causado por 8 s, e a recarga \u00e9 conclu\u00edda instantaneamente.",
+    "de_DE": "Wenn 'Schildschlag' auf Zauber wirkende Ziele angewendet wird, verringert er ihren verursachten Schaden 8 Sek. lang um 15% und die Abklingzeit wird sofort abgeschlossen.",
+    "en_GB": "When Shield Slam is used on targets that are casting, it reduces their damage done by 15% for 8 sec and the cooldown is instantly reset.",
+    "es_ES": "Cuando utilizas Embate con escudo contra un objetivo que est\u00e1 lanzando un hechizo, reduces un 15% el da\u00f1o que inflige durante 8 s y su tiempo de reutilizaci\u00f3n se restablece al instante.",
+    "fr_FR": "Lorsqu\u2019il est utilis\u00e9 sur des cibles en cours d\u2019incantation, Heurt de bouclier r\u00e9duit leurs d\u00e9g\u00e2ts de 15% pendant 8 s et son temps de recharge est instantan\u00e9ment annul\u00e9.",
+    "it_IT": "Quando Colpo di Scudo viene usato su bersagli che stanno lanciando un incantesimo, ne riduce i danni inflitti del 15% per 8 s e il suo tempo di recupero si azzera istantaneamente.",
+    "ru_RU": "\u0415\u0441\u043b\u0438 \u0446\u0435\u043b\u044c \"\u041c\u043e\u0449\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u0449\u0438\u0442\u043e\u043c\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0435\u044e \u0443\u0440\u043e\u043d \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15% \u043d\u0430 8 \u0441\u0435\u043a, \u0430 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041c\u043e\u0449\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u0449\u0438\u0442\u043e\u043c\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0441\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\uc2dc\uc804 \uc911\uc778 \ub300\uc0c1\uc5d0\uac8c \ubc29\ud328 \ubc00\uccd0\ub0b4\uae30 \uc0ac\uc6a9 \uc2dc 8\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc758 \uacf5\uaca9\ub825\uc744 15%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. \ub610\ud55c \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \uc989\uc2dc \ucd08\uae30\ud654\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u6b63\u5728\u65bd\u6cd5\u7684\u76ee\u6a19\u4f7f\u7528\u76fe\u724c\u731b\u64ca\u5f8c\uff0c\u6703\u4f7f\u8a72\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e15%\uff0c\u6301\u7e8c8\u79d2\uff0c\u4e26\u7acb\u523b\u91cd\u7f6e\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u5bf9\u6b63\u5728\u65bd\u6cd5\u7684\u76ee\u6807\u65bd\u653e\u76fe\u724c\u731b\u51fb\u65f6\uff0c\u4f7f\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u57288\u79d2\u5185\u964d\u4f4e15%\uff0c\u5e76\u7acb\u5373\u91cd\u7f6e\u8be5\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

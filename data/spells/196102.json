@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196102"
+  "SpellID": "196102",
+  "name_blz": {
+    "en_US": "Writhe in Agony",
+    "es_MX": "Retu\u00e9rcete en agon\u00eda",
+    "pt_BR": "Contor\u00e7a-se em Agonia",
+    "de_DE": "H\u00f6llenqual",
+    "en_GB": "Writhe in Agony",
+    "es_ES": "Retorcerse de agon\u00eda",
+    "fr_FR": "Affres de l\u2019agonie",
+    "it_IT": "Contorcimenti d'Agonia",
+    "ru_RU": "\u0411\u043e\u043b\u0435\u0437\u043d\u0435\u043d\u043d\u044b\u0435 \u043c\u0443\u0447\u0435\u043d\u0438\u044f",
+    "ko_KR": "\uace0\ud1b5\uc758 \ubab8\ubd80\ub9bc",
+    "zh_TW": "\u75db\u82e6\u6298\u9a30",
+    "zh_CN": "\u7ffb\u817e\u75db\u695a"
+  },
+  "description_blz": {
+    "en_US": "Agony's damage starts at 4 stacks and may now ramp up to 18 stacks.",
+    "es_MX": "El da\u00f1o de Agon\u00eda empieza a las 4 acumulaciones y ahora puede reunir hasta 18 acumulaciones.",
+    "pt_BR": "O dano de Agonia come\u00e7a com 4 aplica\u00e7\u00f5es e pode acumular at\u00e9 18 aplica\u00e7\u00f5es.",
+    "de_DE": "Der Schaden von 'Agonie' beginnt bei 4 Stapeln und kann auf bis zu 18 Stapel ansteigen.",
+    "en_GB": "Agony's damage starts at 4 stacks and may now ramp up to 18 stacks.",
+    "es_ES": "El da\u00f1o de Agon\u00eda empieza con 4 acumulaciones y ahora puede alcanzar hasta 18 acumulaciones.",
+    "fr_FR": "Les d\u00e9g\u00e2ts d\u2019Agonie commencent \u00e0 4\u00a0charges et peuvent d\u00e9sormais \u00eatre cumul\u00e9s jusqu\u2019\u00e0 18\u00a0fois.",
+    "it_IT": "I danni inflitti da Agonia iniziano con 4 accumuli e possono arrivare a un massimo di 18 accumuli.",
+    "ru_RU": "\"\u0410\u0433\u043e\u043d\u0438\u044f\" \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u044c \u0443\u0440\u043e\u043d \u0441 4 \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c\u0438 \u0438 \u043c\u043e\u0436\u0435\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0434\u043e 18 \u0440\u0430\u0437.",
+    "ko_KR": "\uace0\ud1b5\uc774 4\uc911\ucca9\ubd80\ud130 \ud53c\ud574\ub97c \uc785\ud788\uba70, \ucd5c\ub300 18\uc911\ucca9\uae4c\uc9c0 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u75db\u82e6\u7684\u50b7\u5bb3\u4e00\u958b\u59cb\u5373\u67094\u5c64\u5806\u758a\uff0c\u73fe\u5728\u6700\u591a\u53ef\u4ee5\u5806\u758a\u81f318\u5c64\u3002",
+    "zh_CN": "\u75db\u695a\u53e0\u52a0\u81f34\u5c42\u65f6\u5f00\u59cb\u9020\u6210\u4f24\u5bb3\uff0c\u81f3\u591a\u53ef\u53e0\u52a018\u5c42\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "185813"
+  "SpellID": "185813",
+  "name_blz": {
+    "en_US": "Item - Druid T18 Guardian 2P Bonus",
+    "es_MX": "Item - Druid T18 Guardian 2P Bonus",
+    "pt_BR": "Item - Druid T18 Guardian 2P Bonus",
+    "en_GB": "Item - Druid T18 Guardian 2P Bonus",
+    "es_ES": "Item - Druid T18 Guardian 2P Bonus",
+    "it_IT": "Item - Druid T18 Guardian 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc T18 \uc218\ud638 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid T18 Guardian 2P Bonus",
+    "zh_CN": "Item - Druid T18 Guardian 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Ironfur also increases heals done to you by 20% while active.",
+    "es_MX": "Cueracero tambi\u00e9n aumenta un 20% las sanaciones que recibas mientras est\u00e9 activo.",
+    "pt_BR": "Velof\u00e9rreo tamb\u00e9m aumenta em 20% a cura causada por voc\u00ea enquanto est\u00e1 ativo.",
+    "de_DE": "'Eisenfell' erh\u00f6ht zus\u00e4tzlich Eure erhaltene Heilung um 20%, solange der Effekt aktiv ist.",
+    "en_GB": "Ironfur also increases heals done to you by 20% while active.",
+    "es_ES": "Pelaje f\u00e9rreo tambi\u00e9n aumenta un 20% la sanaci\u00f3n que recibes mientras est\u00e1 activo.",
+    "fr_FR": "Tant qu\u2019elle est active, Ferpoil augmente \u00e9galement les soins re\u00e7us de 20%.",
+    "it_IT": "Quando \u00e8 attivo, Vello di Ferro aumenta le cure ricevute del 20%.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043c\u0435\u0445\", \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0435 \u0432\u0430\u043c\u0438 \u043b\u0435\u0447\u0435\u043d\u0438\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20%.",
+    "ko_KR": "\ubb34\uc1e0\uac00\uc8fd\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u92fc\u9435\u6bdb\u76ae\u7684\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u53d7\u5230\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u94c1\u9b03\u8fd8\u4f1a\u4f7f\u4f60\u53d7\u5230\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad820%\u3002"
+  }
 }

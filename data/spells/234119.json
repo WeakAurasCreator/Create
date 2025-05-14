@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "234119"
+  "SpellID": "234119",
+  "name_blz": {
+    "en_US": "Burden of Power",
+    "es_MX": "Peso del poder",
+    "pt_BR": "Fardo do Poder",
+    "de_DE": "B\u00fcrde der Macht",
+    "en_GB": "Burden of Power",
+    "es_ES": "Carga de poder",
+    "fr_FR": "Fardeau du pouvoir",
+    "it_IT": "Fardello del Potere",
+    "ru_RU": "\u0411\u0440\u0435\u043c\u044f \u0441\u0438\u043b\u044b",
+    "ko_KR": "\ud798\uc758 \ubb34\uac8c",
+    "zh_TW": "\u529b\u91cf\u7684\u91cd\u64d4",
+    "zh_CN": "\u529b\u91cf\u7684\u91cd\u62c5"
+  },
+  "description_blz": {
+    "en_US": "Killing a Legion dungeon boss increases your damage and healing by 10% for 2 min.",
+    "es_MX": "Matar a un jefe de calabozo de Legion aumenta tu da\u00f1o y sanaci\u00f3n un 10% durante 2 min.",
+    "pt_BR": "Matar um chefe de masmorra de Legion aumenta em 10% o seu dano e a sua cura por 2 min.",
+    "de_DE": "Das Bezwingen eines Dungeonbosses von Legion erh\u00f6ht Euren Schaden und Eure Heilung 2 Min. lang um 10%.",
+    "en_GB": "Killing a Legion dungeon boss increases your damage and healing by 10% for 2 min.",
+    "es_ES": "Matar al jefe de una mazmorra de Legion aumenta tu da\u00f1o y tu sanaci\u00f3n un 10% durante 2 min.",
+    "fr_FR": "Tuer un boss de donjon de Legion augmente vos d\u00e9g\u00e2ts et vos soins de 10% pendant 2 min.",
+    "it_IT": "Uccidere il boss di una spedizione di Legion aumenta i danni inflitti e le cure fornite del 10% per 2 min.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u043e\u0431\u0435\u0434\u044b \u043d\u0430\u0434 \u0431\u043e\u0441\u0441\u043e\u043c \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f Legion \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 10% \u043d\u0430 2 \u043c\u0438\u043d.",
+    "ko_KR": "\uad70\ub2e8 \ub358\uc804 \uc6b0\ub450\uba38\ub9ac\ub97c \ucc98\uce58\ud558\uba74 2\ubd84 \ub3d9\uc548 \uacf5\uaca9\ub825\uacfc \uce58\uc720\ub7c9\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bba\u6b7b\u8ecd\u5718\u5730\u57ce\u9996\u9818\u6703\u4f7f\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u548c\u6cbb\u7642\u6548\u679c\u63d0\u9ad810%\uff0c\u6301\u7e8c2\u5206\u9418\u3002",
+    "zh_CN": "\u51fb\u8d25\u4e00\u540d\u519b\u56e2\u5730\u4e0b\u57ce\u9996\u9886\u4f1a\u4f7f\u4f60\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u6548\u679c\u63d0\u9ad810%\uff0c\u6301\u7eed2\u5206\u949f\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202095"
+  "SpellID": "202095",
+  "name_blz": {
+    "en_US": "Indomitable",
+    "es_MX": "Indomable",
+    "pt_BR": "Indom\u00e1vel",
+    "de_DE": "Unbez\u00e4hmbar",
+    "en_GB": "Indomitable",
+    "es_ES": "Indomable",
+    "fr_FR": "Indomptable",
+    "it_IT": "Indomabile",
+    "ru_RU": "\u041d\u0435\u0443\u043a\u0440\u043e\u0442\u0438\u043c\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ubc31\uc808\ubd88\uad74",
+    "zh_TW": "\u4e0d\u6493",
+    "zh_CN": "\u767e\u6298\u4e0d\u6320"
+  },
+  "description_blz": {
+    "en_US": "Your maximum health is increased by 6% and every 20 Rage you spend heals you for 1% of your maximum health.",
+    "es_MX": "Tu salud m\u00e1xima aumenta un 6%, y cada 20 p. de ira que gastas sanas un 1% de tu salud m\u00e1xima.",
+    "pt_BR": "Seu m\u00e1ximo de pontos de vida \u00e9 aumentado em 6%. A cada 20 de Raiva que gasta, voc\u00ea recupera 1% do m\u00e1ximo de pontos de vida.",
+    "de_DE": "Eure maximale Gesundheit wird um 6% erh\u00f6ht und pro 20 verbrauchter Wut werdet Ihr um 1% Eurer maximalen Gesundheit geheilt.",
+    "en_GB": "Your maximum health is increased by 6% and every 20 Rage you spend heals you for 1% of your maximum health.",
+    "es_ES": "Tu salud m\u00e1xima aumenta un 6%, y por cada 20 p. de ira que gastas, te sanas un 1% de tu salud m\u00e1xima.",
+    "fr_FR": "Votre maximum de points de vie augmente de 6\u00a0% et vous r\u00e9cup\u00e9rez 1\u00a0% de votre maximum de points de vie chaque fois que vous d\u00e9pensez 20\u00a0points de rage.",
+    "it_IT": "Aumenta la salute massima del 6%. Ogni 20 rabbia consumata, rigenera il 1% della salute massima.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0430 6%. \u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 1% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0435 20 \u0435\u0434. \u0437\u0430\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u043e\u0439 \u044f\u0440\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\ucd5c\ub300 \uc0dd\uba85\ub825\uc774 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c 20\uc758 \ubd84\ub178\ub97c \uc18c\ubaa8\ud560 \ub54c\ub9c8\ub2e4 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 1%\ub9cc\ud07c \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad86%\uff0c\u4e14\u6bcf\u6d88\u801720\u9ede\u6012\u6c23\u6703\u6cbb\u7642\u4f601%\u7684\u751f\u547d\u529b\u4e0a\u9650\u3002",
+    "zh_CN": "\u4f60\u7684\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad86%\uff0c\u5e76\u4e14\u4f60\u6bcf\u4f7f\u752820\u70b9\u6012\u6c14\u503c\u90fd\u80fd\u4e3a\u4f60\u6062\u590d1%\u7684\u6700\u5927\u751f\u547d\u503c\u3002"
+  }
 }

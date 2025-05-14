@@ -34,5 +34,29 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "211673"
+  "SpellID": "211673",
+  "name_blz": {
+    "en_US": "Item - Rogue T19 Assassination 4P Bonus",
+    "es_MX": "Item - Rogue T19 Assassination 4P Bonus",
+    "pt_BR": "Item - Rogue T19 Assassination 4P Bonus",
+    "en_GB": "Item - Rogue T19 Assassination 4P Bonus",
+    "it_IT": "Item - Rogue T19 Assassination 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub3c4\uc801 T19 \uc554\uc0b4 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Rogue T19 Assassination 4P Bonus",
+    "zh_CN": "\u5957\u88c5\u7279\u6548\u5360\u4f4d"
+  },
+  "description_blz": {
+    "en_US": "Envenom deals 7% additional damage per Bleed you have on the target.",
+    "es_MX": "Envenenar inflige un 7% de da\u00f1o adicional por cada sangrado en tu objetivo.",
+    "pt_BR": "Envenenar causa 7% de dano adicional para cada efeito de Sangramento que voc\u00ea aplicar no alvo.",
+    "de_DE": "F\u00fcr jeden Eurer auf das Ziel wirkenden Blutungseffekte verursacht 'Vergiften' 7% mehr Schaden.",
+    "en_GB": "Envenom deals 7% additional damage per Bleed you have on the target.",
+    "es_ES": "Envenenar inflige un 7% m\u00e1s de da\u00f1o por cada sangrado que provoques en el objetivo.",
+    "fr_FR": "Envenimer inflige 7% de d\u00e9g\u00e2ts suppl\u00e9mentaires pour chaque cumul de Saignement que vous avez sur la cible.",
+    "it_IT": "Affondo Venefico infligge il 7% di danni aggiuntivi per ogni tuo effetto di sanguinamento sul bersaglio.",
+    "ru_RU": "\"\u041e\u0442\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 7% \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0432\u0430\u0448 \u044d\u0444\u0444\u0435\u043a\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f, \u043d\u0430\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uac74 \uc790\uc2e0\uc758 \ucd9c\ud608 \ud6a8\uacfc \ud558\ub098\ub2f9 \ub3c5\uc0b4\uc758 \uacf5\uaca9\ub825\uc774 7%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5728\u76ee\u6a19\u8eab\u4e0a\u6bcf\u758a\u52a0\u4e00\u5c64\u6d41\u8840\u6548\u679c\uff0c\u6bd2\u5316\u9020\u6210\u7684\u50b7\u5bb3\u4fbf\u984d\u5916\u63d0\u9ad87%\u3002",
+    "zh_CN": "\u4f60\u5728\u76ee\u6807\u8eab\u4e0a\u6bcf\u6709\u4e00\u4e2a\u6d41\u8840\u6548\u679c\uff0c\u6bd2\u4f24\u9020\u6210\u7684\u4f24\u5bb3\u4fbf\u63d0\u9ad87%\u3002"
+  }
 }

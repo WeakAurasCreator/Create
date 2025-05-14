@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "224869"
+  "SpellID": "224869",
+  "name_blz": {
+    "en_US": "Teleport: Dalaran - Broken Isles",
+    "es_MX": "Teletransporte: Dalaran - Islas Quebradas",
+    "pt_BR": "Teleporte: Dalaran \u2013 Ilhas Partidas",
+    "de_DE": "Teleport: Dalaran - Verheerte Inseln",
+    "en_GB": "Teleport: Dalaran - Broken Isles",
+    "es_ES": "Teletransporte a: Dalaran - Islas Abruptas",
+    "fr_FR": "T\u00e9l\u00e9portation\u00a0: Dalaran - Les \u00eeles Bris\u00e9es",
+    "it_IT": "Teletrasporto: Dalaran - Isole Disperse",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u0414\u0430\u043b\u0430\u0440\u0430\u043d (\u0420\u0430\u0441\u043a\u043e\u043b\u043e\u0442\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430)",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9: \ubd80\uc11c\uc9c4 \uc12c\uc758 \ub2ec\ub77c\ub780",
+    "zh_TW": "\u50b3\u9001\uff1a\u9054\u62c9\u7136 - \u7834\u788e\u7fa4\u5cf6",
+    "zh_CN": "\u4f20\u9001\uff1a\u8fbe\u62c9\u7136 - \u7834\u788e\u7fa4\u5c9b"
+  },
+  "description_blz": {
+    "en_US": "Teleports you to Dalaran in the Broken Isles.",
+    "es_MX": "Te teletransporta a Dalaran en las Islas Quebradas.",
+    "pt_BR": "Teleporta voc\u00ea para Dalaran, nas Ilhas Partidas.",
+    "de_DE": "Teleportiert Euch nach Dalaran auf den Verheerten Inseln.",
+    "en_GB": "Teleports you to Dalaran in the Broken Isles.",
+    "es_ES": "Te teletransporta a Dalaran, en las Islas Abruptas.",
+    "fr_FR": "Vous t\u00e9l\u00e9porte \u00e0 Dalaran aux \u00eeles Bris\u00e9es.",
+    "it_IT": "Ti teletrasporta a Dalaran sulle Isole Disperse.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u0441 \u0432 \u0414\u0430\u043b\u0430\u0440\u0430\u043d \u043d\u0430 \u0420\u0430\u0441\u043a\u043e\u043b\u043e\u0442\u044b\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u0430\u0445.",
+    "ko_KR": "\ubd80\uc11c\uc9c4 \uc12c\uc5d0 \uc788\ub294 \ub2ec\ub77c\ub780\uc73c\ub85c \uc21c\uac04\uc774\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u50b3\u9001\u81f3\u7834\u788e\u7fa4\u5cf6\u7684\u9054\u62c9\u7136\u3002",
+    "zh_CN": "\u5c06\u4f60\u4f20\u9001\u81f3\u7834\u788e\u7fa4\u5c9b\u7684\u8fbe\u62c9\u7136\u3002"
+  }
 }

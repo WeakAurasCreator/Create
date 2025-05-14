@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "191717"
+  "SpellID": "191717",
+  "name_blz": {
+    "en_US": "Fury of the Storms",
+    "es_MX": "Furia de las tormentas",
+    "pt_BR": "F\u00faria das Tempestades",
+    "de_DE": "Zorn der St\u00fcrme",
+    "en_GB": "Fury of the Storms",
+    "es_ES": "Furia de las tormentas",
+    "fr_FR": "Fureur des temp\u00eates",
+    "it_IT": "Furia delle Tempeste",
+    "ru_RU": "\u0413\u043d\u0435\u0432 \u0431\u0443\u0440\u044c",
+    "ko_KR": "\ud3ed\ud48d\uc758 \uc870\ub825",
+    "zh_TW": "\u9583\u96fb\u72c2\u6012",
+    "zh_CN": "\u98ce\u66b4\u4e4b\u6012"
+  },
+  "description_blz": {
+    "en_US": "Casting Stormkeeper summons a powerful Lightning Elemental to fight by your side for 10 sec.",
+    "es_MX": "Lanzar Guardatormentas invoca a un poderoso elemental de rel\u00e1mpagos que lucha a tu lado durante 10 s.",
+    "pt_BR": "Lan\u00e7ar Guardi\u00e3o da Tempestade evoca um poderoso Elemental do Raio para lutar ao seu lado por 10 s.",
+    "de_DE": "Der Einsatz von 'Sturmh\u00fcter' beschw\u00f6rt einen m\u00e4chtigen Blitzelementar, der 10 Sek. lang an Eurer Seite k\u00e4mpft.",
+    "en_GB": "Casting Stormkeeper summons a powerful Lightning Elemental to fight by your side for 10 sec.",
+    "es_ES": "Al lanzar Guardia de la Tormenta, invocas a un poderoso elemental de rel\u00e1mpagos para que luche junto a ti durante 10 s.",
+    "fr_FR": "Le lancement de Gardien des temp\u00eates invoque un puissant \u00e9l\u00e9mentaire de foudre qui se bat \u00e0 vos c\u00f4t\u00e9s pendant 10 s.",
+    "it_IT": "Lanciare Custode della Tempesta evoca un Elementale del Fulmine che combatte al tuo fianco per 10 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u0425\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044f \u0431\u0443\u0440\u044c\", \u0432\u044b \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u043c\u043e\u0449\u043d\u043e\u0433\u043e \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044f \u043c\u043e\u043b\u043d\u0438\u0439 \u043d\u0430 10 \u0441\u0435\u043a.",
+    "ko_KR": "\ud3ed\ud48d\uc218\ud638\uc790 \uc2dc\uc804 \uc2dc \uac15\ub825\ud55c \ubc88\uac1c \uc815\ub839\uc774 \uc18c\ud658\ub418\uc5b4 10\ucd08 \ub3d9\uc548 \uc804\ud22c\ub97c \ub3d5\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u98a8\u66b4\u5b88\u8b77\u8005\u6703\u53ec\u559a\u5f37\u5927\u7684\u9583\u96fb\u5143\u7d20\u5354\u52a9\u4f60\u6230\u9b25\uff0c\u6301\u7e8c10\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u98ce\u66b4\u5b88\u62a4\u8005\u4f1a\u53ec\u5524\u4e00\u4e2a\u5f3a\u5927\u7684\u95ea\u7535\u5143\u7d20\u4e3a\u4f60\u6218\u6597\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }

@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "165448"
+  "SpellID": "165448",
+  "name_blz": {
+    "en_US": "Item - Warlock T17 Affliction 2P Bonus",
+    "es_MX": "Item - Warlock T17 Affliction 2P Bonus",
+    "pt_BR": "Item - Bruxo T17 Supl\u00edcio 2P B\u00f4nus",
+    "en_GB": "Item - Warlock T17 Affliction 2P Bonus",
+    "es_ES": "Item - Warlock T17 Affliction 2P Bonus",
+    "it_IT": "Item - Warlock T17 Affliction 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ud751\ub9c8\ubc95\uc0ac T17 \uace0\ud1b5 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Warlock T17 Affliction 2P Bonus",
+    "zh_CN": "Item - Warlock T17 Affliction 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "While channeling Drain Life or Drain Soul on a target afflicted by your Corruption, Unstable Affliction, and Agony, Agony will generate 1 additional Soul Shard.",
+    "es_MX": "Mientras canalizas Drenar vida o Drenar alma en un objetivo afectado por tu Corrupci\u00f3n, Aflicci\u00f3n inestable y Agon\u00eda, Agon\u00eda genera 1 fragmento de alma adicional.",
+    "pt_BR": "Ao canalizar Drenar Vida ou Drenar Alma em um alvo afetado por Corrup\u00e7\u00e3o, Agonia Inst\u00e1vel e Agonia, Agonia gera 1 Estilha\u00e7o de Alma adicional.",
+    "de_DE": "W\u00e4hrend der Kanalisierung von 'Blutsauger' oder 'Seelendieb' auf ein Ziel, das von Euren Effekten 'Verderbnis', 'Instabiles Gebrechen' und 'Agonie' betroffen ist, erzeugt 'Agonie' 1 zus\u00e4tzlichen Seelensplitter.",
+    "en_GB": "While channeling Drain Life or Drain Soul on a target afflicted by your Corruption, Unstable Affliction, and Agony, Agony will generate 1 additional Soul Shard.",
+    "es_ES": "Mientras canalizas Drenar vida o Drenar alma en un objetivo afectado por tu Corrupci\u00f3n, Aflicci\u00f3n inestable y Agon\u00eda, Agon\u00eda generar\u00e1 1 fragmento de alma extra.",
+    "fr_FR": "Quand vous canalisez Drain de vie ou Drain d\u2019\u00e2me sur une cible affect\u00e9e par votre Corruption, Affliction instable et Agonie, agonie g\u00e9n\u00e8re 1 \u00e9clat d\u2019\u00e2me suppl\u00e9mentaire.",
+    "it_IT": "Durante la canalizzazione di Risucchio di Vita o Risucchio d'Anima su un bersaglio affetto da Corruzione, Afflizione Instabile e Agonia, Agonia fornisce 1 frammento d'anima aggiuntivo.",
+    "ru_RU": "\u041f\u0440\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0438 \"\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u0438\u044f \u0436\u0438\u0437\u043d\u0438\" \u0438\u043b\u0438 \"\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u0438\u044f \u0434\u0443\u0448\u0438\" \u043d\u0430 \u0446\u0435\u043b\u0438, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u0439\u0441\u044f \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0432\u0430\u0448\u0438\u0445 \"\u041f\u043e\u0440\u0447\u0438\", \"\u041d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043b\u0434\u043e\u0432\u0441\u0442\u0432\u0430\" \u0438\u043b\u0438 \"\u0410\u0433\u043e\u043d\u0438\u0438\", \"\u0410\u0433\u043e\u043d\u0438\u044f\" \u0441\u043e\u0437\u0434\u0430\u0435\u0442 1 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043e\u0441\u043a\u043e\u043b\u043e\u043a \u0434\u0443\u0448\u0438.",
+    "ko_KR": "\uace0\ud1b5, \ubd80\ud328, \ubd88\uc548\uc815\ud55c \uace0\ud1b5\uc5d0 \uac78\ub9b0 \ub300\uc0c1\uc5d0 \uc0dd\uba85\ub825 \ud761\uc218 \ub610\ub294 \uc601\ud63c \ud761\uc218\ub97c \uc2dc\uc804\ud558\uba74 \uace0\ud1b5\uc774 \uc601\ud63c\uc758 \uc870\uac01\uc744 \ucd94\uac00\ub85c 1\uac1c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u5c0d\u53d7\u5230\u4f60\u6240\u65bd\u653e\u7684\u8150\u8755\u8853\u3001\u75db\u82e6\u52d5\u76ea\u548c\u75db\u82e6\u5f71\u97ff\u7684\u76ee\u6a19\u5f15\u5c0e\u5438\u53d6\u751f\u547d\u6216\u5438\u53d6\u9748\u9b42\u6642\uff0c\u75db\u82e6\u5c07\u984d\u5916\u7522\u751f1\u584a\u9748\u9b42\u88c2\u7247\u3002",
+    "zh_CN": "\u5bf9\u4e00\u4e2a\u53d7\u5230\u4f60\u7684\u8150\u8680\u672f\u3001\u75db\u82e6\u65e0\u5e38\u548c\u75db\u695a\u6cd5\u672f\u5f71\u54cd\u7684\u76ee\u6807\u5f15\u5bfc\u5438\u53d6\u751f\u547d\u6216\u5438\u53d6\u7075\u9b42\u65f6\uff0c\u75db\u695a\u4f1a\u989d\u5916\u4ea7\u751f1\u5757\u7075\u9b42\u788e\u7247\u3002"
+  }
 }

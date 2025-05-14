@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202200"
+  "SpellID": "202200",
+  "name_blz": {
+    "en_US": "Guided Meditation",
+    "es_MX": "Meditaci\u00f3n guiada",
+    "pt_BR": "Medita\u00e7\u00e3o Guiada",
+    "de_DE": "Gef\u00fchrte Meditation",
+    "en_GB": "Guided Meditation",
+    "es_ES": "Meditaci\u00f3n guiada",
+    "fr_FR": "M\u00e9ditation guid\u00e9e",
+    "it_IT": "Meditazione Guidata",
+    "ru_RU": "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u0430\u044f \u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f",
+    "ko_KR": "\uc778\ub3c4\ub41c \uba85\uc0c1",
+    "zh_TW": "\u5f15\u5c0e\u51a5\u601d",
+    "zh_CN": "\u504f\u8f6c\u51a5\u60f3"
+  },
+  "description_blz": {
+    "en_US": "The cooldown of Zen Meditation is reduced by 50%. While Zen Meditation is active, all harmful spells cast against your allies within 40 yards are redirected to you.\r\n\r\nZen Meditation is no longer cancelled when being struck by a melee attack.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Meditaci\u00f3n zen se reduce 50%. Mientras Meditaci\u00f3n zen est\u00e9 activa, todos los hechizos da\u00f1inos lanzados contra tus aliados en un radio de 40 m son redirigidos hacia ti.\r\n\r\nMeditaci\u00f3n zen ya no se cancela cuando un ataque cuerpo a cuerpo te golpea.",
+    "pt_BR": "A recarga de Medita\u00e7\u00e3o Zen \u00e9 reduzida em 50%. Enquanto a Medita\u00e7\u00e3o Zen est\u00e1 ativa, todos os feiti\u00e7os nocivos lan\u00e7ados contra seus aliados em um raio de 40 metros s\u00e3o redirecionados para voc\u00ea.\r\n\r\nMedita\u00e7\u00e3o Zen n\u00e3o \u00e9 mais cancelada ao ser atingido por um ataque corpo a corpo.",
+    "de_DE": "Die Abklingzeit von 'Zenmeditation' ist um 50% verringert. W\u00e4hrend die F\u00e4higkeit aktiv ist, werden alle auf Eure Verb\u00fcndeten gewirkten Offensivzauber innerhalb von 40 Metern auf Euch umgeleitet.\r\n\r\n'Zenmeditation' wird nicht mehr unterbrochen, wenn Ihr von einem Nahkampfangriff getroffen werdet.",
+    "en_GB": "The cooldown of Zen Meditation is reduced by 50%. While Zen Meditation is active, all harmful spells cast against your allies within 40 yards are redirected to you.\r\n\r\nZen Meditation is no longer cancelled when being struck by a melee attack.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Meditaci\u00f3n zen se reduce un 50%. Mientras Meditaci\u00f3n zen est\u00e1 activa, todos los hechizos da\u00f1inos lanzados contra tus aliados en un radio de 40 m se redirigen hacia ti.\r\n\r\nMeditaci\u00f3n zen ya no se cancela cuando recibes un ataque cuerpo a cuerpo.",
+    "fr_FR": "Le temps de recharge de M\u00e9ditation zen est r\u00e9duit de 50%. Tant que M\u00e9ditation zen est active, les sorts n\u00e9fastes lanc\u00e9s contre vos alli\u00e9s se trouvant \u00e0 moins de 40\u00a0m\u00e8tres sont redirig\u00e9s vers vous.\r\n\r\nL\u2019effet de M\u00e9ditation zen n\u2019est plus annul\u00e9 si vous subissez une attaque de m\u00eal\u00e9e.",
+    "it_IT": "Riduce il tempo di recupero di Meditazione Zen del 50%. Quando Meditazione Zen \u00e8 attiva, tutti gli incantesimi d'attacco subiti dagli alleati entro 40 m vengono reindirizzati su di te.\r\n\r\nMeditazione Zen non si dissolve se si viene colpiti da un attacco in mischia.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0414\u0437\u0435\u043d-\u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u0438\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50%. \u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0414\u0437\u0435\u043d-\u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f\", \u0432\u0441\u0435 \u0432\u0440\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u044b\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f, \u043d\u0430\u0446\u0435\u043b\u0435\u043d\u043d\u044b\u0435 \u043d\u0430 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c, \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0432 \u0432\u0430\u0441.\r\n\r\n\u042d\u0444\u0444\u0435\u043a\u0442 \"\u0414\u0437\u0435\u043d-\u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u0438\" \u043d\u0435 \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043f\u043e \u0432\u0430\u043c \u0430\u0442\u0430\u043a\u0438 \u0432 \u0431\u043b\u0438\u0436\u043d\u0435\u043c \u0431\u043e\u044e.",
+    "ko_KR": "\uba85\uc0c1\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 50%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \uba85\uc0c1\uc774 \ud65c\uc131\ud654\ub418\uba74 40\ubbf8\ud130 \ub0b4\uc758 \uc544\uad70\uc774 \ubc1b\ub294 \ubaa8\ub4e0 \ud574\ub85c\uc6b4 \uc8fc\ubb38\uc744 \uc790\uc2e0\uc5d0\uac8c \uc774\uc804\ud569\ub2c8\ub2e4. \r\n\r\n\uadfc\uc811 \uacf5\uaca9\uc744 \ubc1b\uc544\ub3c4 \uba85\uc0c1\uc774 \ucde8\uc18c\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u51a5\u601d\u79aa\u529f\u7684\u51b7\u537b\u6642\u9593\u964d\u4f4e50%\u3002\u5728\u555f\u7528\u51a5\u601d\u79aa\u529f\u6642\uff0c\u5c0d\u4f60\u548c40\u78bc\u5167\u76df\u53cb\u65bd\u653e\u7684\u4e00\u5207\u6709\u5bb3\u6cd5\u8853\u6703\u8f49\u79fb\u5230\u4f60\u8eab\u4e0a\u3002\r\n\r\n\u53d7\u5230\u8fd1\u6230\u653b\u64ca\u6642\uff0c\u51a5\u601d\u79aa\u529f\u4e0d\u518d\u53d6\u6d88\u3002",
+    "zh_CN": "\u7985\u609f\u51a5\u60f3\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed50%\u3002\u7985\u609f\u51a5\u60f3\u6fc0\u6d3b\u65f6\uff0c\u6240\u6709\u5bf940\u7801\u5185\u7684\u76df\u53cb\u65bd\u653e\u7684\u6709\u5bb3\u6cd5\u672f\u5c06\u4f1a\u8f6c\u5411\u5bf9\u4f60\u65bd\u653e\u3002\r\n\r\n\u7985\u609f\u51a5\u60f3\u4e0d\u518d\u56e0\u88ab\u8fd1\u6218\u653b\u51fb\u51fb\u4e2d\u800c\u53d6\u6d88\u3002"
+  }
 }
