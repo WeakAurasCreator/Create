@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "138365"
+  "SpellID": "138365",
+  "name_blz": {
+    "en_US": "Item - Hunter T15 2P Bonus",
+    "es_MX": "Item - Hunter T15 2P Bonus",
+    "pt_BR": "Item - Hunter T15 2P Bonus",
+    "en_GB": "Item - Hunter T15 2P Bonus",
+    "es_ES": "Item - Hunter T15 2P Bonus",
+    "it_IT": "Item - Hunter T15 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\ub0e5\uafbc T15 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Hunter T15 2P Bonus",
+    "zh_CN": "Item - Hunter T15 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Your Steady Shot and Cobra Shot have a chance to summon a Thunderhawk to fight for you for the next 10 sec.  (Approximately 1.10 procs per minute)",
+    "es_MX": "Tu Disparo firme y Disparo de cobra tienen una probabilidad de invocar un Halc\u00f3n Trueno para que luche a tu lado durante los pr\u00f3ximos 10 s. (Aproximadamente 1.10 procs por minuto).",
+    "pt_BR": "Seus Tiro Firme e Disparo da Naja t\u00eam chance de evocar um Falcotrom para lutar ao seu lado por 10 s. (Aproximadamente 1,10 procs por min)",
+    "de_DE": "Eure F\u00e4higkeiten 'Zuverl\u00e4ssiger Schuss' und 'Kobraschuss' haben eine Chance, einen Donnerfalken herbeizurufen, der 10 Sek. lang f\u00fcr Euch k\u00e4mpft. (Ungef\u00e4hr 1,10 Ausl\u00f6sungen pro Minute)",
+    "en_GB": "Your Steady Shot and Cobra Shot have a chance to summon a Thunderhawk to fight for you for the next 10 sec.  (Approximately 1.10 procs per minute)",
+    "es_ES": "Tu Disparo firme y Disparo de cobra tienen una probabilidad de invocar un Halc\u00f3n Trueno para que luche a tu lado durante los pr\u00f3ximos 10 s (aproximadamente 1,10 procs por minuto).",
+    "fr_FR": "Vos techniques Tir assur\u00e9 et Tir du cobra ont une chance d\u2019invoquer un faucon-tonnerre qui se bat \u00e0 vos c\u00f4t\u00e9s pendant 10 s. (Approximativement 1,10 d\u00e9clenchements par minute)",
+    "it_IT": "Tiro Stabilizzato e Tiro del Cobra hanno una probabilit\u00e0 di evocare un Serpente del Tuono che combatte al tuo fianco per 10 s. (circa 1,10 attivazioni ogni minuto)",
+    "ru_RU": "\"\u0412\u0435\u0440\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u0438 \"\u0412\u044b\u0441\u0442\u0440\u0435\u043b \u043a\u043e\u0431\u0440\u044b\" \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0438\u0437\u0432\u0430\u0442\u044c \u0433\u0440\u043e\u0437\u043e\u0432\u043e\u0433\u043e \u0437\u043c\u0435\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u0443\u0434\u0435\u0442 \u0441\u0440\u0430\u0436\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u0441\u0435\u043a. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e 1,10 \u0440\u0430\u0437 \u0432 \u043c\u0438\u043d\u0443\u0442\u0443.",
+    "ko_KR": "\uace0\uc815 \uc0ac\uaca9\uacfc \ucf54\ube0c\ub77c \uc0ac\uaca9 \uc0ac\uc6a9 \uc2dc \uc77c\uc815 \ud655\ub960\ub85c \ucc9c\ub465\ub9e4\uac00 \uc18c\ud658\ub418\uc5b4 10\ucd08 \ub3d9\uc548 \uc0ac\ub0e5\uafbc\uacfc \ud568\uaed8 \uc2f8\uc6c1\ub2c8\ub2e4. (\ubd84\ub2f9 \uc57d 1.10\ubc88 \ubc1c\ub3d9)",
+    "zh_TW": "\u4f60\u7684\u7a69\u56fa\u5c04\u64ca\u548c\u773c\u93e1\u86c7\u5c04\u64ca\u6709\u4e00\u5b9a\u6a5f\u7387\u53ec\u559a\u4e00\u96bb\u96f7\u9df9\u70ba\u4f60\u6230\u9b25\uff0c\u6301\u7e8c10\u79d2\u3002(\u6bcf\u5206\u9418\u5927\u7d04\u53ef\u89f8\u767c1.10\u6b21)",
+    "zh_CN": "\u4f60\u7684\u7a33\u56fa\u5c04\u51fb\u548c\u773c\u955c\u86c7\u5c04\u51fb\u6709\u4e00\u5b9a\u51e0\u7387\u53ec\u5524\u51fa\u4e00\u53ea\u96f7\u9e70\u4e3a\u4f60\u4f5c\u6218\uff0c\u6301\u7eed10\u79d2\uff08\u6bcf\u5206\u949f\u5927\u7ea6\u89e6\u53d11.10\u6b21\uff09\u3002"
+  }
 }
