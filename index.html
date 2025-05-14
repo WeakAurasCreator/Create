@@ -182,31 +182,62 @@
 					<a href="#pi-sim-explanation" style="display: block; float: right;">See How It’s Calculated</a>
 					<h2 id="WAOptions"> WeakAura Options</h2>
 					<div class="controls mb-3">
-						<div class="btn-group me-3" role="group" id="mode-selector" aria-label="Mode">
-							<input type="radio" class="btn-check" name="mode" id="modeSingle" autocomplete="off"
-								value="single" checked>
-							<label class="btn btn-outline-secondary" for="modeSingle">Unified</label>
-							<input type="radio" class="btn-check" name="mode" id="modeDual" autocomplete="off"
-								value="dual">
-							<label class="btn btn-outline-secondary" for="modeDual">Separated</label>
-						</div>
-						<div id="selectWrapper">
-							<div id="singleSelectWrapper" class="selector-row">
-								<label for="targetSelectOverall" class="mb-0">Targets:</label>
-								<select id="targetSelectOverall" data-style="btn-dark" class="selectpicker"
-									title="Select Target Count"></select>
+						<!-- Row 1: Mode + Targets -->
+						<div class="d-flex flex-wrap align-items-center gap-3 w-100">
+							<div class="btn-group" role="group" id="mode-selector" aria-label="Mode">
+								<input type="radio" class="btn-check" name="mode" id="modeSingle" autocomplete="off"
+									value="single" checked>
+								<label class="btn btn-outline-secondary" for="modeSingle">Unified</label>
+								<input type="radio" class="btn-check" name="mode" id="modeDual" autocomplete="off"
+									value="dual">
+								<label class="btn btn-outline-secondary" for="modeDual">Separated</label>
 							</div>
 
-							<div id="dualSelectWrapper" class="d-none selector-row">
-								<label for="targetSelectBoss" class="mb-0">Boss:</label>
-								<select id="targetSelectBoss" data-style="btn-dark" class="selectpicker"
-									title="Boss Target (s)"></select>
-								<label for="targetSelectTrash" class="mb-0">Trash:</label>
-								<select id="targetSelectTrash" data-style="btn-dark" class="selectpicker"
-									title="Trash Target (s)"></select>
+							<div id="selectWrapper" class="d-flex flex-wrap gap-2">
+								<div id="singleSelectWrapper" class="selector-row d-flex align-items-center gap-1">
+									<label for="targetSelectOverall" class="mb-0">Targets:</label>
+									<select id="targetSelectOverall" data-style="btn-dark" class="selectpicker"
+										title="Select Target Count"></select>
+								</div>
+								<div id="dualSelectWrapper" class="selector-row d-none d-flex align-items-center gap-1">
+									<label for="targetSelectBoss" class="mb-0">Boss:</label>
+									<select id="targetSelectBoss" data-style="btn-dark" class="selectpicker"
+										title="Boss Target (s)"></select>
+									<label for="targetSelectTrash" class="mb-0">Trash:</label>
+									<select id="targetSelectTrash" data-style="btn-dark" class="selectpicker"
+										title="Trash Target (s)"></select>
+								</div>
 							</div>
 						</div>
+
+						<!-- Row 2: Advanced Toggle -->
+						<div class="w-100 mt-3">
+							<div class="form-check">
+								<input class="form-check-input" type="checkbox" id="advancedToggle">
+								<label class="form-check-label" for="advancedToggle">Show More Options</label>
+							</div>
+						</div>
+
+						<!-- Row 3: Advanced Settings Grid -->
+						<div id="advancedSettings" class="advanced-settings d-none mt-3">
+							<div class="adv-control form-check form-switch">
+								<input class="form-check-input" type="checkbox" id="anchorGroupToggle" checked>
+								<label class="form-check-label" for="anchorGroupToggle">Anchor to Group</label>
+							</div>
+							<div class="adv-control">
+								<label for="iconSizeSelect" class="form-label">Icon Size:</label>
+								<select id="iconSizeSelect"  data-style="btn-dark" class="selectpicker">
+									<option value="8">Very Small (8px)</option>
+									<option value="16">Small (16px)</option>
+									<option value="32" selected>Medium (32px)</option>
+									<option value="64">Large (64px)</option>
+									<option value="80">Very Large (80px)</option>
+								</select>
+							</div>
+							<!-- add future .adv-control blocks here -->
+						</div>
 					</div>
+
 					<button type="button" class="btn btn-outline" onclick="generatePiAura()">Generate WeakAura</button>
 
 

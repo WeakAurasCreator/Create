@@ -60,32 +60,39 @@ body, html {
 
   }
 
-  .controls {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1rem;
-  }
-
   #WAOptions{
     margin-top: 2rem;
   }
   
-  .controls .btn-group {
-    flex: 0 0 auto;   /* toggle only takes as much as it needs */
-  }
-  .controls .select-wrapper {
-    flex: 1 1 auto;   /* selects take up remaining space */
-    display: flex;
-    justify-content: flex-end;
-    gap: 0.5rem;      /* space between selects */
-  }
-
-  #selectWrapper {
-  display: flex;            /* keep selects side by side in one row */
-  align-items: center;      /* vertically center them, too */
-  gap: 1rem;                /* consistent spacing between selects/labels */
+/* Advanced-settings as responsive grid */
+.advanced-settings {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
 }
+
+/* Ensure each control is full-width within its grid cell */
+.advanced-settings .adv-control {
+  display: flex;
+  flex-direction: column;
+}
+
+/* For the switch, align label and switch on one line */
+.advanced-settings .adv-control.form-switch {
+  flex-direction: row;
+  align-items: center;
+  gap: .5rem;
+}
+
+.form-check > label {
+  margin: 0rem !important;
+}
+
+/* Full-width slider */
+#iconSizeInput {
+  width: 100%;
+}
+
 
 /* both selector rows share the same base styling */
 .selector-row {

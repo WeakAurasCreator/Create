@@ -264,13 +264,13 @@ function setupPiData(data ) {
   });
 }
 
-function createPiAuraEntry(spec,spellIds, targetArray, loadInEncounter){
+function createPiAuraEntry(spec,spellIds, targetArray, loadInEncounter, iconSize){
   let aura = JSON.parse(JSON.stringify(piAura)); // get a copy of the Pi Template
   setAuraId(aura, `${spec.class} - ${spec.spec} [${spec.targets}]`); // set the ID to spec
   setAuraUid(aura, `WACreator_PI_${spec.class}_${spec.spec}_${spec.targets}`); // set the UID to class + spec + targets
   setLoadInBossfight(aura, loadInEncounter);
-  setAuraWidth(aura, 20);
-  setAuraHeight(aura, 20);
+  setAuraWidth(aura, iconSize);
+  setAuraHeight(aura, iconSize);
 
   let buffTrigger = JSON.parse(JSON.stringify(Triggers.buff)); // get a copy of the buff Trigger Template
   setSpellIds(buffTrigger, spellIds, true);
@@ -305,7 +305,8 @@ function createPiAuraEntry(spec,spellIds, targetArray, loadInEncounter){
   return aura;
 }
 
-function generatePiAurasForTargetArray(targetArray,group, loadInEncounter){
+function generatePiAurasForTargetArray(targetArray,group, loadInEncounter, iconSize){
+  
   for (key in targetArray) {
     spec = targetArray[key];
     let spellIds = {};
@@ -318,7 +319,7 @@ function generatePiAurasForTargetArray(targetArray,group, loadInEncounter){
       }
     }
     if (Object.keys(spellIds).length === 0) continue;
-    let aura = createPiAuraEntry(spec, spellIds, targetArray, loadInEncounter); // create a copy of the Pi Template
+    let aura = createPiAuraEntry(spec, spellIds, targetArray, loadInEncounter, iconSize); // create a copy of the Pi Template
     // add aura to group
     addAuraToGroup(group, aura);
   }
@@ -326,22 +327,27 @@ function generatePiAurasForTargetArray(targetArray,group, loadInEncounter){
 
 
 function generatePiAura() {
-  let group = createGroupToExport("PiGroup");
-  setAnchorPerFrame(group.d, "UNITFRAME");
   const mode = document.querySelector('input[name="mode"]:checked').value;
-  
+  const anchorGroup = document.getElementById('anchorGroupToggle').checked;
+  const iconSize = document.getElementById('iconSizeSelect').value;
+
+  let group = createGroupToExport("PiGroup");
+  if (anchorGroup){
+    setAnchorPerFrame(group.d, "UNITFRAME");
+  }
+
   if(mode === "single"){
     const targetSelect = document.getElementById("targetSelectOverall");
     const targetArray = dpsLookup.get(Number(targetSelect.value));
-    generatePiAurasForTargetArray(targetArray, group , undefined)
+    generatePiAurasForTargetArray(targetArray, group , undefined, iconSize)
   }
   else if (mode === "dual"){
     const targetSelectBoss = document.getElementById("targetSelectBoss");
     const targetArrayBoss = dpsLookup.get(Number(targetSelectBoss.value));
-    generatePiAurasForTargetArray(targetArrayBoss, group, true)
+    generatePiAurasForTargetArray(targetArrayBoss, group, true, iconSize)
     const targetSelectTrash = document.getElementById("targetSelectTrash");
     const targetArrayTrash = dpsLookup.get(Number(targetSelectTrash.value));
-    generatePiAurasForTargetArray(targetArrayTrash, group, false)
+    generatePiAurasForTargetArray(targetArrayTrash, group, false, iconSize)
   }
   else{
     console.error("Invalid mode selected. Please choose either 'single' or 'dual'.");
@@ -358,3 +364,12 @@ function generatePiAura() {
   document.getElementById("piOutput").value = `!WA:1!${encodedString}`;
   document.getElementById("piCopyButton").disabled = false;
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  // toggle advanced options
+  const advToggle = document.getElementById('advancedToggle');
+  const advSettings = document.getElementById('advancedSettings');
+  advToggle.addEventListener('change', () => {
+    advSettings.classList.toggle('d-none', !advToggle.checked);
+  });
+});
