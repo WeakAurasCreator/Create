@@ -34,5 +34,30 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "171408"
+  "SpellID": "171408",
+  "name_blz": {
+    "en_US": "Item - Druid WoD PvP Guardian 2P Bonus",
+    "es_MX": "Item - Druid WoD PvP Guardian 2P Bonus",
+    "pt_BR": "Item - Druida WoD JxJ Guardi\u00e3o 2P B\u00f4nus",
+    "en_GB": "Item - Druid WoD PvP Guardian 2P Bonus",
+    "es_ES": "Item - Druid WoD PvP Guardian 2P Bonus",
+    "it_IT": "Item - Druid WoD PvP Guardian 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \ub4dc\ub8e8\uc774\ub4dc WoD PvP \uc218\ud638 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Druid WoD PvP Guardian 2P Bonus",
+    "zh_CN": "Item - Druid WoD PvP Guardian 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "If you hit a player with Mangle while they are casting or channeling a spell, their damage and healing will be reduced by 35% for 3 sec.",
+    "es_MX": "Si golpeas a un jugador con Destrozar mientras est\u00e1 lanzando o canalizando un hechizo, su da\u00f1o y sanaci\u00f3n ser\u00e1n reducidos un 35% durante 3 s.",
+    "pt_BR": "Se voc\u00ea acertar um jogador com Destro\u00e7ar enquanto ele estiver lan\u00e7ando ou canalizando um feiti\u00e7o, o dano e a cura dele ser\u00e3o reduzidos em 35%, durante 3 s.",
+    "de_DE": "Wenn Ihr einen Spielercharakter mit 'Zerfleischen' trefft, w\u00e4hrend er einen Zauber wirkt oder kanalisiert, werden sein verursachter Schaden und seine hervorgerufene Heilung 3 Sek. lang um 35% verringert.",
+    "en_GB": "If you hit a player with Mangle while they are casting or channeling a spell, their damage and healing will be reduced by 35% for 3 sec.",
+    "es_ES": "Si golpeas a un jugador con Destrozar mientras est\u00e1 lanzando o canalizando un hechizo, su da\u00f1o y su sanaci\u00f3n se reducir\u00e1n un 35% durante 3 s.",
+    "fr_FR": "Si vous touchez un personnage-joueur avec Mutilation pendant qu\u2019il lance ou canalise un sort, ses d\u00e9g\u00e2ts et ses soins sont r\u00e9duits de 35% pendant 3 s.",
+    "it_IT": "Colpire con Dilaniamento un personaggio che sta lanciando o canalizzando un incantesimo ne riduce i danni inflitti o le cure fornite del 35% per 3 s.",
+    "ru_RU": "\u0415\u0441\u043b\u0438 \u0432\u0430\u0448\u0435 \"\u0423\u0432\u0435\u0447\u044c\u0435\" \u043f\u043e\u0440\u0430\u0437\u0438\u0442 \u0438\u0433\u0440\u043e\u043a\u0430, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u0438\u043b\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0438\u043c \u0443\u0440\u043e\u043d \u0438 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u043c\u043e\u0433\u043e \u0438\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0431\u0443\u0434\u0443\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u044b \u043d\u0430 35% \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uac70\ub098 \uc815\uc2e0 \uc9d1\uc911\ud558\ub294 \uc801\uc744 \uc9d3\uc774\uae30\uae30 \uae30\uc220\ub85c \uc801\uc911\uc2dc\ud0a4\uba74, 3\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc758 \uacf5\uaca9\ub825\uacfc \uce58\uc720\ub7c9\uc774 35%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u82e5\u5728\u73a9\u5bb6\u65bd\u653e\u6216\u5f15\u5c0e\u6cd5\u8853\u6642\uff0c\u4ee5\u5272\u788e\u64ca\u4e2d\u8a72\u73a9\u5bb6\uff0c\u6703\u4f7f\u5176\u50b7\u5bb3\u548c\u6cbb\u7642\u6548\u679c\u964d\u4f4e35%\uff0c\u6301\u7e8c3\u79d2\u3002",
+    "zh_CN": "\u5982\u679c\u4f60\u7684\u88c2\u4f24\u51fb\u4e2d\u4e00\u540d\u6b63\u5728\u65bd\u653e\u6216\u5f15\u5bfc\u6cd5\u672f\u7684\u73a9\u5bb6\u65f6\uff0c\u4ed6\u4eec\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u91cf\u5c06\u4f1a\u964d\u4f4e35%\uff0c\u6301\u7eed3\u79d2\u3002"
+  }
 }

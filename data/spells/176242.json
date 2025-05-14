@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "176242"
+  "SpellID": "176242",
+  "name_blz": {
+    "en_US": "Teleport: Warspear",
+    "es_MX": "Teletransporte: Lanza de guerra",
+    "pt_BR": "Teleporte: Lan\u00e7a de Guerra",
+    "de_DE": "Teleport: Kriegsspeer",
+    "en_GB": "Teleport: Warspear",
+    "es_ES": "Teletransporte a: Lanza de Guerra",
+    "fr_FR": "T\u00e9l\u00e9portation\u00a0: Fer-de-Lance",
+    "it_IT": "Teletrasporto: Lancia da Guerra",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u041a\u043e\u043f\u044c\u0435 \u0412\u043e\u0439\u043d\u044b",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9: \uc804\uc7c1\uc758 \ucc3d",
+    "zh_TW": "\u50b3\u9001\uff1a\u6230\u722d\u4e4b\u77db",
+    "zh_CN": "\u4f20\u9001\uff1a\u6218\u4e89\u4e4b\u77db"
+  },
+  "description_blz": {
+    "en_US": "Teleports you to Warspear.",
+    "es_MX": "Te teletransporta a Lanza de guerra.",
+    "pt_BR": "Teleporta voc\u00ea para Lan\u00e7a de Guerra.",
+    "de_DE": "Teleportiert Euch nach Kriegsspeer.",
+    "en_GB": "Teleports you to Warspear.",
+    "es_ES": "Te teletransporta a Lanza de Guerra.",
+    "fr_FR": "Vous t\u00e9l\u00e9porte \u00e0 Fer-de-Lance.",
+    "it_IT": "Ti teletrasporta a Lancia da Guerra.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u0441 \u0432 \u041a\u043e\u043f\u044c\u0435 \u0412\u043e\u0439\u043d\u044b.",
+    "ko_KR": "\uc804\uc7c1\uc758 \ucc3d\uc73c\ub85c \uc21c\uac04\uc774\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u50b3\u9001\u81f3\u6230\u722d\u4e4b\u77db\u3002",
+    "zh_CN": "\u5c06\u4f60\u4f20\u9001\u81f3\u6218\u4e89\u4e4b\u77db\u3002"
+  }
 }
