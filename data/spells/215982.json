@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "215982"
+  "SpellID": "215982",
+  "name_blz": {
+    "en_US": "Spirit of the Redeemer",
+    "es_MX": "Esp\u00edritu del redentor",
+    "pt_BR": "Esp\u00edrito do Redentor",
+    "de_DE": "Geist des Erl\u00f6sers",
+    "en_GB": "Spirit of the Redeemer",
+    "es_ES": "Esp\u00edritu del redentor",
+    "fr_FR": "Esprit du r\u00e9dempteur",
+    "it_IT": "Spirito del Redentore",
+    "ru_RU": "\u0414\u0443\u0445 \u0432\u043e\u0437\u0434\u0430\u044f\u0442\u0435\u043b\u044f",
+    "ko_KR": "\uad6c\uc6d0\uc790\uc758 \uc601\ud63c",
+    "zh_TW": "\u6551\u8d16\u8005\u9748\u9b42",
+    "zh_CN": "\u6551\u8d4e\u8005\u4e4b\u9b42"
+  },
+  "description_blz": {
+    "en_US": "Your Spirit of Redemption is now an active ability with a 2 minute cooldown, but the duration is reduced by 9 sec and you will no longer enter Spirit of Redemption upon dying.",
+    "es_MX": "Tu Esp\u00edritu redentor ahora es una facultad activa con un tiempo de reutilizaci\u00f3n de 2 minutos, pero la duraci\u00f3n se reduce 9 s y ya no podr\u00e1s entrar en Esp\u00edritu redentor al morir.",
+    "pt_BR": "Seu Esp\u00edrito da Reden\u00e7\u00e3o agora \u00e9 uma habilidade ativa com 2 min de recarga, mas a dura\u00e7\u00e3o \u00e9 reduzida em 9 s e voc\u00ea n\u00e3o entra mais em Esp\u00edrito da Reden\u00e7\u00e3o ao morrer.",
+    "de_DE": "Euer 'Geist der Erl\u00f6sung' ist jetzt eine aktive F\u00e4higkeit mit einer Abklingzeit von 2 Min. Die Dauer wird aber um 9 Sek. verringert, und Ihr k\u00f6nnt im Todesfall nicht mehr 'Geist der Erl\u00f6sung' aufrufen.",
+    "en_GB": "Your Spirit of Redemption is now an active ability with a 2 minute cooldown, but the duration is reduced by 9 sec and you will no longer enter Spirit of Redemption upon dying.",
+    "es_ES": "Ahora tu Esp\u00edritu redentor es una facultad activa con un tiempo de reutilizaci\u00f3n de 2 min, pero la duraci\u00f3n se reduce 9 s y ya no pasar\u00e1s a Esp\u00edritu redentor al morir.",
+    "fr_FR": "Esprit de r\u00e9demption est d\u00e9sormais un sort actif soumis \u00e0 un temps de recharge de 2\u00a0minutes, mais sa dur\u00e9e est r\u00e9duite de 9\u00a0s et vous ne deviendrez plus l\u2019Esprit de r\u00e9demption lorsque vous mourrez.",
+    "it_IT": "Spirito di Redenzione \u00e8 un'abilit\u00e0 attiva con un tempo di recupero di 2 min, ma la durata si riduce di 9 s e non \u00e8 pi\u00f9 possibile attivarla automaticamente quando si muore.",
+    "ru_RU": "\"\u0414\u0443\u0445 \u0432\u043e\u0437\u0434\u0430\u044f\u043d\u0438\u044f\" \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u043c\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \u0441\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f 2 \u043c\u0438\u043d., \u043d\u043e \u0432\u0440\u0435\u043c\u044f \u0435\u0433\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 9 \u0441\u0435\u043a., \u0438 \u0432\u044b \u043d\u0435 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442\u0435 \u0432 \u043e\u0431\u043b\u0438\u043a \u0434\u0443\u0445\u0430 \u0432\u043e\u0437\u0434\u0430\u044f\u043d\u0438\u044f \u043f\u043e\u0441\u043b\u0435 \u0433\u0438\u0431\u0435\u043b\u0438.",
+    "ko_KR": "\uad6c\uc6d0\uc758 \uc601\ud63c\uc774 \uc774\uc81c \uc0ac\uc6a9 \ub2a5\ub825\uc774 \ub418\uace0 2\ubd84\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \uc801\uc6a9\ub429\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uc9c0\uc18d\uc2dc\uac04\uc774 9\ucd08\ub85c \uac10\uc18c\ud558\uace0, \uc0ac\ub9dd \uc2dc \uad6c\uc6d0\uc758 \uc601\ud63c\uc774 \ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6551\u8d16\u4e4b\u9748\u8b8a\u6210\u4e3b\u52d5\u6280\u80fd\uff0c\u67092\u5206\u9418\u7684\u51b7\u537b\u6642\u9593\u3002\u6280\u80fd\u7684\u6301\u7e8c\u6642\u9593\u7e2e\u77ed9\u79d2\uff0c\u4e14\u6b7b\u4ea1\u6642\u4e0d\u6703\u9032\u5165\u6551\u8d16\u4e4b\u9748\u5f62\u614b\u3002",
+    "zh_CN": "\u6551\u8d4e\u4e4b\u9b42\u73b0\u5728\u662f\u4e00\u4e2a\u4e3b\u52a8\u6280\u80fd\uff0c\u51b7\u5374\u65f6\u95f4\u4e3a2\u5206\u949f\uff0c\u6301\u7eed\u65f6\u95f4\u7f29\u77ed\u4e3a9\u79d2\uff0c\u4e14\u4f60\u5728\u6b7b\u540e\u4e0d\u518d\u8fdb\u5165\u6551\u8d4e\u4e4b\u9b42\u72b6\u6001\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "210689"
+  "SpellID": "210689",
+  "name_blz": {
+    "en_US": "Lightning Rod",
+    "es_MX": "Vara de rel\u00e1mpagos",
+    "pt_BR": "Para-raios",
+    "de_DE": "Blitzableiter",
+    "en_GB": "Lightning Rod",
+    "es_ES": "Pararrayos",
+    "fr_FR": "Paratonnerre",
+    "it_IT": "Parafulmine",
+    "ru_RU": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439 \u0440\u0430\u0437\u0440\u044f\u0434\u043d\u0438\u043a",
+    "ko_KR": "\ud53c\ub8b0\uce68",
+    "zh_TW": "\u805a\u96f7\u91dd",
+    "zh_CN": "\u5f15\u96f7\u9488"
+  },
+  "description_blz": {
+    "en_US": "Lightning Bolt, Elemental Blast, Primordial Wave and Chain Lightning make your target a Lightning Rod for 8 sec.\r\n \r\nLightning Rods take 10% of all damage you deal with Lightning Bolt and Chain Lightning.",
+    "es_MX": "Descarga de rel\u00e1mpagos, Explosi\u00f3n elemental, Ola primordial y Cadena de rel\u00e1mpagos hacen que tu objetivo se convierta en un pararrayos durante 8 s.\r\n \r\nLos pararrayos reciben un 10% de todo el da\u00f1o que infliges con Descarga de rel\u00e1mpagos y Cadena de rel\u00e1mpagos.",
+    "pt_BR": "Raio, Impacto Elemental, Onda Primordial e Cadeia de Raios tornam seu alvo um Para-raios por 8 s.\r\n \r\nPara-raios absorvem 10% de todo o dano que voc\u00ea causa com Raio e Cadeia de Raios.",
+    "de_DE": "'Blitzschlag', 'Elementarschlag', 'Urzeitliche Welle' und 'Kettenblitzschlag' lassen Euer Ziel f\u00fcr 8 Sek. zu einem Blitzableiter werden.\r\n\r\nBlitzableiter erleiden 10% jeglichen Schadens, den Ihr mit 'Blitzschlag' und 'Kettenblitzschlag' verursacht.",
+    "en_GB": "Lightning Bolt, Elemental Blast, Primordial Wave and Chain Lightning make your target a Lightning Rod for 8 sec.\r\n \r\nLightning Rods take 10% of all damage you deal with Lightning Bolt and Chain Lightning.",
+    "es_ES": "Descarga de rel\u00e1mpagos, Explosi\u00f3n elemental, Oleada primigenia y Cadena de rel\u00e1mpagos convierten a tu objetivo en pararrayos durante 8 s.\r\n \r\nLos pararrayos reciben un 10% de todo el da\u00f1o que infliges con Descarga de rel\u00e1mpagos y Cadena de rel\u00e1mpagos.",
+    "fr_FR": "\u00c9clair, Explosion \u00e9l\u00e9mentaire, Vague primordiale et Cha\u00eene d\u2019\u00e9clairs transforment la cible en paratonnerre pendant 8 s.\r\n \r\nLes paratonnerres subissent 10\u00a0% de tous les d\u00e9g\u00e2ts que vous infligez avec \u00c9clair et Cha\u00eene d\u2019\u00e9clairs.",
+    "it_IT": "Dardo Fulminante, Detonazione Elementale, Ondata Primordiale e Catena di Fulmini rendono il bersaglio un Parafulmine per 8 s.\r\n\r\nUn Parafulmine subisce il 10% di tutti i danni da te inflitti con Dardo Fulminante e Catena di Fulmini.",
+    "ru_RU": "\"\u041c\u043e\u043b\u043d\u0438\u044f\", \"\u0423\u0434\u0430\u0440 \u0434\u0443\u0445\u043e\u0432 \u0441\u0442\u0438\u0445\u0438\u0439\", \"\u041f\u0435\u0440\u0432\u043e\u0437\u0434\u0430\u043d\u043d\u0430\u044f \u0432\u043e\u043b\u043d\u0430\" \u0438 \"\u0426\u0435\u043f\u043d\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f\" \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0430\u0448\u0443 \u0446\u0435\u043b\u044c \u0432 \u0433\u0440\u043e\u0437\u043e\u0432\u043e\u0439 \u0440\u0430\u0437\u0440\u044f\u0434\u043d\u0438\u043a \u043d\u0430 8 \u0441\u0435\u043a.\r\n \r\n\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448\u0430 \"\u041c\u043e\u043b\u043d\u0438\u044f\" \u0438\u043b\u0438 \"\u0426\u0435\u043f\u043d\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \u043e\u043d\u0430 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 10% \u044d\u0442\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432\u0441\u0435\u043c \u0446\u0435\u043b\u044f\u043c \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u043c \"\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439 \u0440\u0430\u0437\u0440\u044f\u0434\u043d\u0438\u043a\".",
+    "ko_KR": "\ubc88\uac1c \ud654\uc0b4, \uc815\uae30 \uc791\ub82c, \ud0dc\uace0\uc758 \ud30c\ub3c4 \ubc0f \uc5f0\uc1c4 \ubc88\uac1c \uc2dc\uc804 \uc2dc \ub300\uc0c1\uc774 8\ucd08 \ub3d9\uc548 \ud53c\ub8b0\uce68\uc774 \ub429\ub2c8\ub2e4.\r\n \r\n\uc790\uc2e0\uc774 \ubc88\uac1c \ud654\uc0b4 \ubc0f \uc5f0\uc1c4 \ubc88\uac1c\ub85c \uc801\uc5d0\uac8c \uc785\ud788\ub294 \ubaa8\ub4e0 \ud53c\ud574\uc758 10%\ub97c \ud53c\ub8b0\uce68\uc774 \ud568\uaed8 \uc785\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9583\u96fb\u7bad\u3001\u5143\u7d20\u885d\u64ca\u3001\u539f\u521d\u9707\u6ce2\u548c\u9583\u96fb\u93c8\u90fd\u6703\u4f7f\u4f60\u7684\u76ee\u6a19\u6210\u70ba\u805a\u96f7\u91dd\uff0c\u6301\u7e8c8\u79d2\u3002\r\n\r\n\u7576\u4f60\u4ee5\u9583\u96fb\u7bad\u548c\u9583\u96fb\u93c8\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u805a\u96f7\u91dd\u6703\u540c\u6642\u53d7\u5230\u6240\u9020\u6210\u50b7\u5bb310%\u7684\u50b7\u5bb3\u3002",
+    "zh_CN": "\u95ea\u7535\u7bad\u3001\u5143\u7d20\u51b2\u51fb\u3001\u59cb\u6e90\u4e4b\u6f6e\u548c\u95ea\u7535\u94fe\u4f7f\u76ee\u6807\u53d8\u6210\u5f15\u96f7\u9488\uff0c\u6301\u7eed8\u79d2\u3002\r\n \r\n\u4f60\u7684\u95ea\u7535\u7bad\u548c\u95ea\u7535\u94fe\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u5f15\u96f7\u9488\u4f1a\u627f\u53d7\u603b\u4f24\u5bb3\u91cf\u768410%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "203965"
+  "SpellID": "203965",
+  "name_blz": {
+    "en_US": "Survival of the Fittest",
+    "es_MX": "Supervivencia del m\u00e1s fuerte",
+    "pt_BR": "A Lei da Selva",
+    "de_DE": "\u00dcberleben des St\u00e4rkeren",
+    "en_GB": "Survival of the Fittest",
+    "es_ES": "Supervivencia del m\u00e1s fuerte",
+    "fr_FR": "Survie du plus fort",
+    "it_IT": "Legge del Pi\u00f9 Forte",
+    "ru_RU": "\u0412\u044b\u0436\u0438\u0432\u0430\u0435\u0442 \u0441\u0438\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0439",
+    "ko_KR": "\uc801\uc790\uc0dd\uc874",
+    "zh_TW": "\u9069\u8005\u751f\u5b58",
+    "zh_CN": "\u4f18\u80dc\u52a3\u6c70"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldowns of Barkskin and Survival Instincts by 12%.",
+    "es_MX": "Reduce un 12% los tiempos de reutilizaci\u00f3n de Piel de corteza e Instintos de supervivencia.",
+    "pt_BR": "Reduz em 12% as recargas de Pele de \u00c1rvore e Instintos de Sobreviv\u00eancia.",
+    "de_DE": "Verringert die Abklingzeit von 'Baumrinde' und '\u00dcberlebensinstinkte' um 12%.",
+    "en_GB": "Reduces the cooldowns of Barkskin and Survival Instincts by 12%.",
+    "es_ES": "Reduce un 12% el tiempo de reutilizaci\u00f3n de Piel de corteza e Instintos de supervivencia.",
+    "fr_FR": "R\u00e9duit les temps de recharge d\u2019\u00c9corce et d\u2019Instincts de survie de 12%.",
+    "it_IT": "Riduce il tempo di recupero di Pelledura e Istinto di Sopravvivenza del 12%.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \"\u0414\u0443\u0431\u043e\u0432\u0430\u044f \u043a\u043e\u0436\u0430\" \u0438 \"\u0418\u043d\u0441\u0442\u0438\u043d\u043a\u0442\u044b \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u044f\" \u043d\u0430 12%.",
+    "ko_KR": "\ub098\ubb34 \uaecd\uc9c8\uacfc \uc0dd\uc874 \ubcf8\ub2a5\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 12%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6a39\u76ae\u8853\u548c\u6c42\u751f\u672c\u80fd\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed12%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u6811\u76ae\u672f\u548c\u751f\u5b58\u672c\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed12%\u3002"
+  }
 }

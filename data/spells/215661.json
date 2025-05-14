@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "215661"
+  "SpellID": "215661",
+  "name_blz": {
+    "en_US": "Justicar's Vengeance",
+    "es_MX": "Venganza de Justicar",
+    "pt_BR": "Vingan\u00e7a do Justicar",
+    "de_DE": "Rache des Rechtsprechers",
+    "en_GB": "Justicar's Vengeance",
+    "es_ES": "Venganza de justicar",
+    "fr_FR": "Vengeance du justicier",
+    "it_IT": "Vendetta del Giustiziere",
+    "ru_RU": "\u041e\u0442\u043c\u0449\u0435\u043d\u0438\u0435 \u0432\u0435\u0440\u0448\u0438\u0442\u0435\u043b\u044f \u043f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u044f",
+    "ko_KR": "\uc2ec\ud310\uad00\uc758 \ubcf5\uc218",
+    "zh_TW": "\u5be9\u5224\u8005\u7684\u5fa9\u4ec7",
+    "zh_CN": "\u5ba1\u5224\u5b98\u590d\u4ec7"
+  },
+  "description_blz": {
+    "en_US": "Focuses Holy energy to deliver a powerful weapon strike that deals 724 Holy damage, and restores 3% of your maximum health.\r\n\r\nDamage is increased by 25% when used against a stunned target.",
+    "es_MX": "Concentras energ\u00eda sagrada para lanzar un golpe de arma poderoso que inflige 724 p. de da\u00f1o sagrado y restaura un 3% de tu salud m\u00e1xima.\r\n\r\nEl da\u00f1o aumenta un 25% cuando se usa contra un objetivo aturdido.",
+    "pt_BR": "Concentra energia sagrada para desferir um poderoso golpe com a arma que causa 724 de dano Sagrado e restaura 3% do seu m\u00e1ximo de pontos de vida.\r\n\r\nO dano \u00e9 aumentado em 25% se for usado contra um alvo atordoado.",
+    "de_DE": "Fokussiert heilige Energie, um einen m\u00e4chtigen Waffenangriff auszuf\u00fchren, der 724 Heiligschaden verursacht und 3% Eurer maximalen Gesundheit wiederherstellt.\r\n\r\nVerursacht 25% mehr Schaden beim Einsatz gegen ein bet\u00e4ubtes Ziel.",
+    "en_GB": "Focuses Holy energy to deliver a powerful weapon strike that deals 724 Holy damage, and restores 3% of your maximum health.\r\n\r\nDamage is increased by 25% when used against a stunned target.",
+    "es_ES": "Concentra energ\u00eda Sagrada para asestar un potente golpe con arma que inflige 724 p. de da\u00f1o Sagrado y restaura un 3% de tu salud m\u00e1xima.\r\n\r\nEl da\u00f1o aumenta un 25% cuando se usa contra un objetivo aturdido.",
+    "fr_FR": "Concentre de l\u2019\u00e9nergie sacr\u00e9e pour ass\u00e9ner une frappe puissante qui inflige 724\u00a0points de d\u00e9g\u00e2ts du sacr\u00e9 et vous rend 3% de votre maximum de points de vie.\r\n\r\nLes d\u00e9g\u00e2ts sont augment\u00e9s de 25% contre une cible \u00e9tourdie.",
+    "it_IT": "Concentra l'energia sacra in un potente attacco con l'arma, che infligge 724 danni da sacro e rigenera il 3% della salute massima.\r\n\r\nI danni inflitti aumentano del 25% se si attacca un bersaglio stordito.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0432 \u043e\u0440\u0443\u0436\u0438\u0435 \u0438 \u0441\u043e\u0432\u0435\u0440\u0448\u0430\u0435\u0442\u0435 \u0443\u0434\u0430\u0440, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 724 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0432\u0430\u043c 3% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u041d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 25% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u043d\u044b\u043c \u0446\u0435\u043b\u044f\u043c.",
+    "ko_KR": "\uc2e0\uc131\ud55c \ud798\uc744 \uc9d1\uc911\ud574 \ubb34\uae30\ub85c \uac15\ub825\ud55c \uacf5\uaca9\uc744 \ub0a0\ub824 724\uc758 \uc2e0\uc131 \ud53c\ud574\ub97c \uc785\ud788\uace0 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 3%\ub9cc\ud07c \ud68c\ubcf5\ud569\ub2c8\ub2e4.\r\n\r\n\uae30\uc808\ud55c \ub300\uc0c1\uc5d0\uac8c \uc0ac\uc6a9\ud560 \uacbd\uc6b0 \uacf5\uaca9\ub825\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u51dd\u805a\u795e\u8056\u80fd\u91cf\u4ee5\u6b66\u5668\u767c\u51fa\u5f37\u529b\u7684\u4e00\u64ca\uff0c\u9020\u6210724\u9ede\u795e\u8056\u50b7\u5bb3\uff0c\u4e26\u4e14\u70ba\u81ea\u5df1\u6cbb\u7642\u751f\u547d\u529b\u4e0a\u9650\u76843%\u3002\r\n\r\n\u5c0d\u660f\u8ff7\u7684\u76ee\u6a19\u65bd\u653e\u6642\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u5c06\u795e\u5723\u80fd\u91cf\u6c47\u805a\u5230\u6b66\u5668\u4e0a\uff0c\u53d1\u52a8\u4e00\u6b21\u5f3a\u5927\u7684\u653b\u51fb\uff0c\u9020\u6210724\u70b9\u795e\u5723\u4f24\u5bb3\uff0c\u5e76\u4e3a\u4f60\u6062\u590d3%\u7684\u6700\u5927\u751f\u547d\u503c\u3002\r\n\r\n\u5bf9\u660f\u8ff7\u7684\u76ee\u6807\u4f7f\u7528\u65f6\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad825%\u3002"
+  }
 }

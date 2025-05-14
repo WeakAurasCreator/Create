@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207739"
+  "SpellID": "207739",
+  "name_blz": {
+    "en_US": "Burning Alive",
+    "es_MX": "Ardiendo en vida",
+    "pt_BR": "Queimando Vivo",
+    "de_DE": "Lebendig verbrannt",
+    "en_GB": "Burning Alive",
+    "es_ES": "Arder vivo",
+    "fr_FR": "Br\u00fbl\u00e9 vif",
+    "it_IT": "Bruciato Vivo",
+    "ru_RU": "\u0421\u043e\u0436\u0436\u0435\u043d\u0438\u0435 \u0437\u0430\u0436\u0438\u0432\u043e",
+    "ko_KR": "\ud654\ud615",
+    "zh_TW": "\u70c8\u7130\u6d3b\u711a",
+    "zh_CN": "\u706b\u5211"
+  },
+  "description_blz": {
+    "en_US": "Every 1 sec, Fiery Brand spreads to one nearby enemy.",
+    "es_MX": "Cada 1 s, Marca ardiente se propaga a un enemigo cercano.",
+    "pt_BR": "A cada 1 s, Marca Ardente se propaga para um inimigo pr\u00f3ximo.",
+    "de_DE": "'Flammendes Brandmal' springt alle 1 Sek. auf einen Gegner in der N\u00e4he \u00fcber.",
+    "en_GB": "Every 1 sec, Fiery Brand spreads to one nearby enemy.",
+    "es_ES": "Cada 1 s, tu Marca \u00edgnea se propaga a un enemigo cercano.",
+    "fr_FR": "Toutes les 1\u00a0s, Marque enflamm\u00e9e se propage \u00e0 un ennemi proche.",
+    "it_IT": "Ogni 1 s, Marchiatura Ardente si diffonde su un nemico vicino.",
+    "ru_RU": "\u0420\u0430\u0437 \u0432 1 \u0441\u0435\u043a. \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0435 \u043a\u043b\u0435\u0439\u043c\u043e\" \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u043d\u0430 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430.",
+    "ko_KR": "1\ucd08\ub9c8\ub2e4 \ubd88\ud0c0\ub294 \ub099\uc778\uc774 \uc8fc\uc704\uc758 \ub300\uc0c1 \ud558\ub098\uc5d0\uac8c \ubc88\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u71be\u708e\u70d9\u5370\u6bcf1\u79d2\u6703\u64f4\u6563\u5230\u9644\u8fd1\u4e00\u540d\u6575\u4eba\u8eab\u4e0a\u3002",
+    "zh_CN": "\u6bcf1\u79d2\u70c8\u706b\u70d9\u5370\u90fd\u4f1a\u6269\u6563\u5230\u9644\u8fd1\u4e00\u4e2a\u654c\u4eba\u7684\u8eab\u4e0a\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "223826"
+  "SpellID": "223826",
+  "name_blz": {
+    "en_US": "Branch of the Arcan'dor",
+    "es_MX": "Rama de Arcan'dor",
+    "pt_BR": "Ramo de Arcan'dor",
+    "de_DE": "Ast des Arcan'dor",
+    "en_GB": "Branch of the Arcan'dor",
+    "es_ES": "Rama del Arcan'dor",
+    "fr_FR": "Branche de l\u2019arcan\u2019dor",
+    "it_IT": "Ramo dell'Arcan'dor",
+    "ru_RU": "\u0412\u0435\u0442\u0432\u044c \u0430\u0440\u043a\u0430\u043d'\u0434\u043e\u0440\u0430",
+    "ko_KR": "\uc544\ub974\uce78\ub3c4\ub974\uc758 \uac00\uc9c0",
+    "zh_TW": "\u5967\u80af\u591a\u723e\u7684\u6a39\u679d",
+    "zh_CN": "\u963f\u574e\u591a\u5c14\u7684\u6811\u679d"
+  },
+  "description_blz": {
+    "en_US": "Soothe up to 3 withered in the targeted area, sending them to Shal'Aran.",
+    "es_MX": "Calma hasta a 3 marchitos en el \u00e1rea objetivo, provoca que luchen por ti mientras est\u00e9s en Suramar.\r\n\r\nPuedes tener hasta 10 marchitos calmados a la vez.",
+    "pt_BR": "Conforte at\u00e9 3 fenecidos na \u00e1rea selecionada, enviando-os a Shal'Aran.",
+    "de_DE": "Bes\u00e4nftigt bis zu 3 Verdorrte im Zielbereich, und schickt sie nach Shal'Aran.",
+    "en_GB": "Soothe up to 3 withered in the targeted area, sending them to Shal'Aran.",
+    "es_ES": "Calma hasta a 3 Marchitos en el \u00e1rea seleccionada y hace que luchen para ti mientras est\u00e1s en Suramar.\r\n\r\nPuedes tener a un m\u00e1ximo de 10 Marchitos calmados a la vez.",
+    "fr_FR": "Apaise jusqu\u2019\u00e0 3\u00a0fl\u00e9tris dans la zone cibl\u00e9e, les envoyant \u00e0 Shal'Aran.",
+    "it_IT": "Placa fino a 3 Avvizziti nell'area bersaglio, spedendoli a Shal'aran.",
+    "ru_RU": "\u0412\u044b \u0443\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u0435\u0442\u0435 \u0434\u043e 3 \u0438\u0441\u0441\u043e\u0445\u0448\u0438\u0445 \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u0438\u0445 \u0432 \u0428\u0430\u043b'\u0410\u0440\u0430\u043d.",
+    "ko_KR": "\ub300\uc0c1 \uc601\uc5ed\uc758 \uba54\ub9c8\ub978 \uc790\ub97c \ucd5c\ub300 3\uba85\uae4c\uc9c0 \uc9c4\uc815\uc2dc\ucf1c \uc0ec\uc544\ub780\uc73c\ub85c \ubcf4\ub0c5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6307\u5b9a\u5340\u57df\u5b89\u64ab\u6700\u591a3\u96bb\u51cb\u840e\u8005\uff0c\u4e26\u5c07\u5176\u6d3e\u5f80\u8607\u62c9\u746a\u723e\u3002",
+    "zh_CN": "\u5b89\u629a\u76ee\u6807\u533a\u57df\u5185\u6700\u591a3\u4e2a\u67af\u6cd5\u5355\u4f4d\uff0c\u5e76\u5c06\u4ed6\u4eec\u9001\u5f80\u6c99\u5c14\u827e\u5170\u3002"
+  }
 }

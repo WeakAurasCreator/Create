@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196437"
+  "SpellID": "196437",
+  "name_blz": {
+    "en_US": "Guardians of the Light",
+    "es_MX": "Guardianes de la Luz",
+    "pt_BR": "Guardi\u00f5es da Luz",
+    "de_DE": "W\u00e4chter des Lichts",
+    "en_GB": "Guardians of the Light",
+    "es_ES": "Guardianes de la Luz",
+    "fr_FR": "Gardiens de la Lumi\u00e8re",
+    "it_IT": "Guardiani della Luce",
+    "ru_RU": "\u0421\u0442\u0440\u0430\u0436\u0438 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uc218\ud638\uc790",
+    "zh_TW": "\u8056\u5149\u5b88\u8b77\u9748",
+    "zh_CN": "\u5723\u5149\u5b88\u62a4\u8005"
+  },
+  "description_blz": {
+    "en_US": "Guardian Spirit also grants you 100% of its effects when used on an ally.",
+    "es_MX": "Esp\u00edritu guardi\u00e1n tambi\u00e9n te otorga un 100% de sus efectos cuando lo usas sobre un aliado.",
+    "pt_BR": "Esp\u00edrito Guardi\u00e3o tamb\u00e9m concede a voc\u00ea 100% do efeito quando usado em um aliado.",
+    "de_DE": "'Schutzgeist' gew\u00e4hrt Euch auch bei Anwendung auf Verb\u00fcndete 100% seines Effekts.",
+    "en_GB": "Guardian Spirit also grants you 100% of its effects when used on an ally.",
+    "es_ES": "Esp\u00edritu guardi\u00e1n tambi\u00e9n te otorga el 100% de sus efectos cuando lo usas en un aliado.",
+    "fr_FR": "Esprit gardien vous conf\u00e8re \u00e9galement 100% de ses effets lorsque vous l\u2019utilisez sur un personnage alli\u00e9.",
+    "it_IT": "Quando lanciato su un alleato, Spirito Custode fornisce il 100% dei propri effetti anche a chi lo lancia.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u041e\u0431\u0435\u0440\u0435\u0433\u0430\u044e\u0449\u0438\u0439 \u0434\u0443\u0445\" \u043a \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443, \u0432\u044b \u0442\u043e\u0436\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 100% \u0435\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430.",
+    "ko_KR": "\uc544\uad70\uc5d0\uac8c \uc218\ud638 \uc601\ud63c \uc0ac\uc6a9 \uc2dc \uc790\uc2e0\uc5d0\uac8c\ub3c4 100%\ub9cc\ud07c \ud6a8\uacfc\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u4e00\u540d\u76df\u53cb\u65bd\u653e\u5b88\u8b77\u8056\u9748\u6642\uff0c\u81ea\u5df1\u4e5f\u6703\u7372\u5f97100%\u6548\u679c\u3002",
+    "zh_CN": "\u5bf9\u76df\u53cb\u4f7f\u7528\u5b88\u62a4\u4e4b\u9b42\u65f6\uff0c\u4e5f\u4f1a\u4f7f\u4f60\u83b7\u5f97\u5176100%\u7684\u6548\u679c\u3002"
+  }
 }

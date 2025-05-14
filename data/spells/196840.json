@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196840"
+  "SpellID": "196840",
+  "name_blz": {
+    "en_US": "Frost Shock",
+    "es_MX": "Choque de Escarcha",
+    "pt_BR": "Choque G\u00e9lido",
+    "de_DE": "Frostschock",
+    "en_GB": "Frost Shock",
+    "es_ES": "Choque de Escarcha",
+    "fr_FR": "Horion de givre",
+    "it_IT": "Folgore del Gelo",
+    "ru_RU": "\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0448\u043e\u043a",
+    "ko_KR": "\ub0c9\uae30 \ucda9\uaca9",
+    "zh_TW": "\u51b0\u971c\u9707\u64ca",
+    "zh_CN": "\u51b0\u971c\u9707\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Chills the target with frost, causing 4,098 Frost damage and reducing the target's movement speed by 50% for 6 sec.",
+    "es_MX": "Enfr\u00eda al objetivo con escarcha, inflige 4,027 p. de da\u00f1o de escarcha y reduce la velocidad de movimiento del objetivo un 50% durante 6 s.",
+    "pt_BR": "Gela o alvo com poder g\u00e9lido, causando 4.021 de dano de Gelo e reduzindo em 50% a velocidade de movimento dele por 6 s.",
+    "de_DE": "Unterk\u00fchlt das Ziel sofort mit Frost, verursacht 3.974 Frostschaden und verringert die Bewegungsgeschwindigkeit des Ziels f\u00fcr 6 Sek. um 50%.",
+    "en_GB": "Chills the target with frost, causing 4,040 Frost damage and reducing the target's movement speed by 50% for 6 sec.",
+    "es_ES": "Enfr\u00eda con escarcha, al objetivo, que recibe 3988 p. de da\u00f1o de Escarcha y pierde un 50% de velocidad de movimiento durante 6 s.",
+    "fr_FR": "Glace la cible, ce qui lui inflige 4074\u00a0points de d\u00e9g\u00e2ts de givre et r\u00e9duit sa vitesse de d\u00e9placement de 50\u00a0% pendant 6 s.",
+    "it_IT": "Congela il bersaglio con il freddo, infliggendo 3.951 danni da gelo e riducendone la velocit\u00e0 di movimento del 50% per 6 s.",
+    "ru_RU": "\u0417\u0430\u043c\u043e\u0440\u0430\u0436\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f 4013 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430 \u0438 \u0441\u043d\u0438\u0436\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 50% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc11c\ub9ac\uc758 \ud798\uc73c\ub85c \uc801\uc744 \uacf5\uaca9\ud558\uc5ec 4,023\uc758 \ub0c9\uae30 \ud53c\ud574\ub97c \uc785\ud788\uace0 6\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc758 \uc774\ub3d9 \uc18d\ub3c4\ub97c 50%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u51b0\u971c\u5c0d\u76ee\u6a19\u9020\u6210\u51b0\u51b7\u6548\u679c\uff0c\u9020\u62103,955\u9ede\u51b0\u971c\u50b7\u5bb3\u4e26\u4f7f\u5176\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e50%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u7528\u5bd2\u51b7\u7684\u51b0\u971c\u51b2\u51fb\u76ee\u6807\uff0c\u9020\u62103,967\u70b9\u51b0\u971c\u4f24\u5bb3\u5e76\u4f7f\u5176\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e50%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "202770"
+  "SpellID": "202770",
+  "name_blz": {
+    "en_US": "Fury of Elune",
+    "es_MX": "Furia de Elune",
+    "pt_BR": "F\u00faria de Eluna",
+    "de_DE": "Zorn der Elune",
+    "en_GB": "Fury of Elune",
+    "es_ES": "Furia de Elune",
+    "fr_FR": "Fureur d\u2019\u00c9lune",
+    "it_IT": "Furia di Elune",
+    "ru_RU": "\u042f\u0440\u043e\u0441\u0442\u044c \u042d\u043b\u0443\u043d\u044b",
+    "ko_KR": "\uc5d8\ub8ec\uc758 \ubd84\ub178",
+    "zh_TW": "\u4f0a\u9732\u6069\u4e4b\u6012",
+    "zh_CN": "\u827e\u9732\u6069\u4e4b\u6012"
+  },
+  "description_blz": {
+    "en_US": "Calls down a beam of pure celestial energy that follows the enemy, dealing up to 17,141 Astral damage over 8 sec within its area. Damage reduced on secondary targets.\r\n\r\nGenerates 40 Astral Power over its duration.",
+    "es_MX": "Invoca un haz de energ\u00eda celestial pura que sigue al enemigo e inflige hasta un m\u00e1ximo de 17,199 p. de da\u00f1o astral durante 8 s a todos los objetivos dentro del \u00e1rea. Inflige da\u00f1o reducido a los objetivos secundarios.\r\n\r\nGenera 40 p. de poder astral mientras dura.",
+    "pt_BR": "Convoca um feixe de pura energia celestial que persegue o inimigo, causando at\u00e9 17.017 de dano Astral ao longo de 8 s na \u00e1rea afetada. Causa menos dano aos alvos secund\u00e1rios.\r\n\r\nGera 40 de Poder Astral ao longo da dura\u00e7\u00e3o.",
+    "de_DE": "Ruft einen Strahl reiner himmlischer Energie herab, der dem Gegner folgt und ihm innerhalb des Effektbereichs im Verlauf von 8 Sek. bis zu 17.400 Astralschaden zuf\u00fcgt. Sekund\u00e4rziele erleiden weniger Schaden.\r\n\r\nErzeugt w\u00e4hrend der Dauer 40 Astrale Macht.",
+    "en_GB": "Calls down a beam of pure celestial energy that follows the enemy, dealing up to 17,312 Astral damage over 8 sec within its area. Damage reduced on secondary targets.\r\n\r\nGenerates 40 Astral Power over its duration.",
+    "es_ES": "Invoca un haz de pura energ\u00eda celestial que persigue al enemigo y le inflige hasta 16888 p. de da\u00f1o Astral durante 8 s dentro de su \u00e1rea. Da\u00f1o reducido contra objetivos secundarios.\r\n\r\nGenera 40 p. de poder astral mientras dura.",
+    "fr_FR": "Invoque un rayon d\u2019\u00e9nergie c\u00e9leste pure qui suit l\u2019unit\u00e9 ennemie, infligeant jusqu\u2019\u00e0 16822\u00a0points de d\u00e9g\u00e2ts des astres en 8 s aux cibles dans sa zone d\u2019effet. Inflige des d\u00e9g\u00e2ts r\u00e9duits aux cibles secondaires.\r\n\r\nG\u00e9n\u00e8re 40\u00a0points de puissance astrale sur sa dur\u00e9e.",
+    "it_IT": "Richiama un raggio di pura energia celestiale che segue il nemico, infliggendo fino a 17.066 danni astrali in 8 s nell'area d'effetto. Danni ridotti ai bersagli secondari.\r\n\r\nGenera 40 potere astrale per tutta la durata.",
+    "ru_RU": "\u041b\u0443\u0447 \u0447\u0438\u0441\u0442\u043e\u0439 \u043d\u0435\u0431\u0435\u0441\u043d\u043e\u0439 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f 17025 \u0435\u0434. \u0430\u0441\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 8 \u0441\u0435\u043a. \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0446\u0435\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u0414\u0430\u0435\u0442 40 \u0435\u0434. \u0430\u0441\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u043e\u0449\u0438 \u0437\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.",
+    "ko_KR": "\uc801\uc744 \ucd94\uc801\ud558\ub294 \uc21c\uc218\ud55c \ucc9c\uacf5 \uc5d0\ub108\uc9c0\ub97c \ubd88\ub7ec \ub0b4\ub824, \ub300\uc0c1 \uc9c0\uc5ed \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 8\ucd08\uc5d0 \uac78\uccd0 \ucd5c\ub300 17,178\uc758 \ucc9c\uacf5 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ubd80\uac00 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc9c0\uc18d\uc2dc\uac04\uc5d0 \uac78\uccd0 40\uc758 \ucc9c\uacf5\uc758 \ud798\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u9053\u7d14\u7cb9\u7684\u661f\u754c\u80fd\u91cf\uff0c\u6b64\u80fd\u91cf\u6703\u8ffd\u8e64\u6575\u4eba\uff0c\u4e26\u57288\u79d2\u5167\u5c0d\u7bc4\u570d\u5167\u6700\u591a\u9020\u621017,204\u9ede\u661f\u754c\u50b7\u5bb3\u3002\u5c0d\u6b21\u8981\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e\u3002\r\n\r\n\u5728\u4f5c\u7528\u671f\u9593\u5167\uff0c\u7522\u751f40\u9ede\u661f\u80fd\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u9053\u7eaf\u7cb9\u7684\u5929\u754c\u80fd\u91cf\u8ffd\u51fb\u654c\u4eba\uff0c\u57288\u79d2\u5185\u5bf9\u533a\u57df\u5185\u7684\u654c\u4eba\u9020\u6210\u6700\u591a17,409\u70b9\u661f\u754c\u4f24\u5bb3\u3002\u5bf9\u6b21\u8981\u76ee\u6807\u9020\u6210\u8f83\u4f4e\u7684\u4f24\u5bb3\u3002\r\n\r\n\u6301\u7eed\u671f\u95f4\u4ea7\u751f40\u70b9\u661f\u754c\u80fd\u91cf\u3002"
+  }
 }

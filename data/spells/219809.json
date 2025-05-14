@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "219809"
+  "SpellID": "219809",
+  "name_blz": {
+    "en_US": "Tombstone",
+    "es_MX": "L\u00e1pida",
+    "pt_BR": "L\u00e1pide",
+    "de_DE": "Grabstein",
+    "en_GB": "Tombstone",
+    "es_ES": "L\u00e1pida",
+    "fr_FR": "Tombe",
+    "it_IT": "Lapide",
+    "ru_RU": "\u041d\u0430\u0434\u0433\u0440\u043e\u0431\u043d\u044b\u0439 \u043a\u0430\u043c\u0435\u043d\u044c",
+    "ko_KR": "\ubb18\ube44",
+    "zh_TW": "\u5893\u7891",
+    "zh_CN": "\u5893\u77f3"
+  },
+  "description_blz": {
+    "en_US": "Consume up to 5 Bone Shield charges. For each charge consumed, you gain 6 Runic Power and absorb damage equal to 6% of your maximum health for 8 sec.",
+    "es_MX": "Consume hasta 5 cargas de Escudo \u00f3seo. Por cada carga consumida, ganas 6 p. de poder r\u00fanico y absorbes da\u00f1o igual al 6% de tu salud m\u00e1xima durante 8 s.",
+    "pt_BR": "Consome at\u00e9 5 cargas de Escudo \u00d3sseo. Para cada carga consumida, voc\u00ea ganha 6 de Poder R\u00fanico e absorve dano equivalente a 6% do seu m\u00e1ximo de pontos de vida por 8 s.",
+    "de_DE": "Verbraucht bis zu 5 Aufladungen von 'Knochenschild'. F\u00fcr jede verbrauchte Aufladung erhaltet Ihr 6 Runenmacht und absorbiert f\u00fcr 8 Sek. Schaden in H\u00f6he von 6% Eurer maximalen Gesundheit.",
+    "en_GB": "Consume up to 5 Bone Shield charges. For each charge consumed, you gain 6 Runic Power and absorb damage equal to 6% of your maximum health for 8 sec.",
+    "es_ES": "Consume hasta 5 cargas de Escudo \u00f3seo. Por cada carga consumida obtienes 6 p. de poder r\u00fanico y absorbes un da\u00f1o equivalente a un 6% de tu salud m\u00e1xima durante 8 s.",
+    "fr_FR": "Consomme jusqu\u2019\u00e0 5 charges de Bouclier d\u2019os. Pour chacune d\u2019elles, vous gagnez 6 points de puissance runique et absorbez un montant de d\u00e9g\u00e2ts \u00e9gal \u00e0 6% de votre maximum de points de vie pendant 8 s.",
+    "it_IT": "Consuma fino a 5 cariche di Scudo d'Ossa. Per ogni carica consumata, rigenera 6 potenza runica e assorbe danni subiti pari al 6% della tua salute massima per 8 s",
+    "ru_RU": "\u041f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \u0434\u043e 5 \u0437\u0430\u0440\u044f\u0434\u043e\u0432 \"\u041a\u043e\u0441\u0442\u044f\u043d\u043e\u0433\u043e \u0449\u0438\u0442\u0430\". \u0417\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u043d\u044b\u0439 \u0437\u0430\u0440\u044f\u0434 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 6 \u0435\u0434. \u0441\u0438\u043b\u044b \u0440\u0443\u043d \u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435, \u0440\u0430\u0432\u043d\u043e\u043c 6% \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ubf08\uc758 \ubcf4\ud638\ub9c9 \uc911\ucca9\uc744 \ucd5c\ub300 5\uac1c\uae4c\uc9c0 \uc18c\ubaa8\ud569\ub2c8\ub2e4. \uc18c\ubaa8\ud55c \uc911\ucca9 \ud558\ub098\ub2f9 6\uc758 \ub8ec \ub9c8\ub825\uc744 \uc5bb\uace0 8\ucd08 \ub3d9\uc548 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 6%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \ud761\uc218\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6d88\u8017\u6700\u591a5\u5c64\u9ab8\u9aa8\u4e4b\u76fe\u3002\u6bcf\u6d88\u8017\u4e00\u5c64\u4f60\u5c31\u6703\u7372\u5f976\u9ede\u7b26\u80fd\u4e14\u53ef\u5438\u6536\u7b49\u540c\u65bc\u751f\u547d\u529b\u4e0a\u96506%\u7684\u50b7\u5bb3\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u6d88\u8017\u6700\u591a5\u5c42\u767d\u9aa8\u4e4b\u76fe\u7684\u5c42\u6570\u3002\u6bcf\u6d88\u8017\u4e00\u5c42\uff0c\u5c31\u4f1a\u83b7\u5f976\u70b9\u7b26\u6587\u80fd\u91cf\uff0c\u5e76\u5728\u4e4b\u540e\u76848\u79d2\u5185\u5438\u6536\u76f8\u5f53\u4e8e\u6700\u5927\u751f\u547d\u503c6%\u7684\u4f24\u5bb3\u3002"
+  }
 }

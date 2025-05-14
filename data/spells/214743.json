@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "214743"
+  "SpellID": "214743",
+  "name_blz": {
+    "en_US": "Soul Carver",
+    "es_MX": "Tallador de alma",
+    "pt_BR": "Entalhador de Alma",
+    "de_DE": "Seelenschnitzer",
+    "en_GB": "Soul Carver",
+    "es_ES": "Trinchador de almas",
+    "fr_FR": "D\u00e9chirement d\u2019\u00e2me",
+    "it_IT": "Intagliatore d'Anime",
+    "ru_RU": "\u0420\u0430\u0437\u0440\u0443\u0431\u0430\u0442\u0435\u043b\u044c \u0434\u0443\u0448",
+    "ko_KR": "\uc601\ud63c \uc800\ubbf8\uae30",
+    "zh_TW": "\u9748\u9b42\u5c60\u592b",
+    "zh_CN": "\u7075\u9b42\u5207\u524a"
+  },
+  "description_blz": {
+    "en_US": "Carve into the soul of your target, dealing 1,097 Fire damage and an additional 713 Fire damage over 3 sec.  Immediately shatters 3 Lesser Soul Fragments from the target and 1 additional Lesser Soul Fragment every 1 sec.",
+    "es_MX": "Corta el alma de tu objetivo y le inflige 1,097 p. de da\u00f1o de fuego y 698 p. m\u00e1s de da\u00f1o de fuego durante 3 s. Adem\u00e1s, destroza 3 fragmentos de alma menores del objetivo al instante y 1 fragmento de alma menor m\u00e1s cada 1 s.",
+    "pt_BR": "Trincha a alma do seu alvo, causando 1.097 de dano de Fogo e mais 728 de dano de Fogo ao longo de 3 s. Arranca 3 Fragmentos de Alma Inferior do alvo, e mais 1 Fragmento de Alma Inferior a cada 1 s.",
+    "de_DE": "Schneidet in die Seele Eures Ziels, f\u00fcgt ihm 1.097 Feuerschaden sowie im Verlauf von 3 Sek. zus\u00e4tzlich 713 Feuerschaden zu. Sprengt sofort 3 geringe Seelenfragmente vom Ziel ab und alle 1 Sek. 1 weiteres geringes Seelenfragment.",
+    "en_GB": "Carve into the soul of your target, dealing 1,097 Fire damage and an additional 711 Fire damage over 3 sec.  Immediately shatters 3 Lesser Soul Fragments from the target and 1 additional Lesser Soul Fragment every 1 sec.",
+    "es_ES": "Cercena el alma de tu objetivo, lo que inflige 1097 p. de da\u00f1o de Fuego y 717 p. de da\u00f1o de Fuego extras durante 3 s. Rompe inmediatamente 3 trozos de alma inferiores del objetivo 1 trozos de alma inferiores extra cada 1 s.",
+    "fr_FR": "Vous tailladez l\u2019\u00e2me de votre cible, ce qui lui inflige 1097\u00a0points de d\u00e9g\u00e2ts de feu, puis 725\u00a0suppl\u00e9mentaires en 3 s. Brise imm\u00e9diatement 3\u00a0fragments d\u2019\u00e2me inf\u00e9rieurs de votre cible, puis 1 de plus toutes les 1\u00a0s.",
+    "it_IT": "Cesella l'anima del bersaglio, infliggendo 1.097 danni da fuoco istantaneamente e 713 danni da fuoco aggiuntivi in 3 s. Inoltre, rilascia istantaneamente 3 Frammenti Inferiori dell'Anima e 1 Frammento Inferiore dell'Anima aggiuntivo ogni 1 s.",
+    "ru_RU": "\u0412\u044b \u0440\u0430\u0441\u0441\u0435\u043a\u0430\u0435\u0442\u0435 \u0434\u0443\u0448\u0443 \u0446\u0435\u043b\u0438, \u043d\u0430\u043d\u043e\u0441\u044f 1097 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e 713 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a., \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0442\u043a\u0430\u043b\u044b\u0432\u0430\u044f \u043e\u0442 \u043d\u0435\u0435 3 \u043c\u0430\u043b\u044b\u0445 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u0430 \u0434\u0443\u0448\u0438 \u0441\u0440\u0430\u0437\u0443 \u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e 1 \u043c\u0430\u043b\u044b\u0439 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442 \u0434\u0443\u0448\u0438 \u0440\u0430\u0437 \u0432 1 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc758 \uc601\ud63c\uc744 \uc800\uba70\ub0b4 1,097\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud788\uace0 \ucd94\uac00\ub85c 3\ucd08\uc5d0 \uac78\uccd0 705\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ub300\uc0c1\uc73c\ub85c\ubd80\ud130 \uc989\uc2dc 3\uac1c\uc758 \ud558\uae09 \uc601\ud63c \ud30c\ud3b8\uc744 \ub5bc\uc5b4\ub0b4\uace0, \ucd94\uac00\ub85c 1\ucd08\ub9c8\ub2e4 1\uac1c\uc758 \ud558\uae09 \uc601\ud63c \ud30c\ud3b8\uc744 \ub5bc\uc5b4\ub0c5\ub2c8\ub2e4.",
+    "zh_TW": "\u65ac\u5207\u76ee\u6a19\u7684\u9748\u9b42\uff0c\u9020\u62101,097\u9ede\u706b\u7130\u50b7\u5bb3\uff0c\u4e26\u5728\u63a5\u4e0b\u4f86\u76843\u79d2\u5167\u984d\u5916\u9020\u6210704\u9ede\u706b\u7130\u50b7\u5bb3\u3002\u7acb\u523b\u5f9e\u76ee\u6a19\u8eab\u4e0a\u524a\u51fa3\u679a\u6b21\u7d1a\u9748\u9b42\u788e\u7247\uff0c\u4e14\u6bcf1\u79d2\u984d\u5916\u7372\u5f971\u679a\u9748\u9b42\u788e\u7247\u3002",
+    "zh_CN": "\u5207\u5272\u76ee\u6807\u7684\u7075\u9b42\uff0c\u9020\u62101,097\u70b9\u706b\u7130\u4f24\u5bb3\uff0c\u5e76\u57283\u79d2\u5185\u989d\u5916\u9020\u6210709\u70b9\u706b\u7130\u4f24\u5bb3\u3002\u7acb\u5373\u5207\u4e0b3\u4e2a\u5c0f\u578b\u7075\u9b42\u6b8b\u7247\uff0c\u5728\u6b64\u540e\u6bcf1\u79d2\u989d\u5916\u4ea7\u751f1\u4e2a\u5c0f\u578b\u7075\u9b42\u6b8b\u7247\u3002"
+  }
 }

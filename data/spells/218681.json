@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "218681"
+  "SpellID": "218681",
+  "name_blz": {
+    "en_US": "Champion: Allari the Souleater",
+    "es_MX": "Campe\u00f3n: Allari la Comealmas",
+    "pt_BR": "Campe\u00e3: Allari, a Devoralmas",
+    "de_DE": "Champion: Allari die Seelenfresserin",
+    "en_GB": "Champion: Allari the Souleater",
+    "es_ES": "Campeona: Allari la Devoraalmas",
+    "fr_FR": "Championne\u00a0: Allari la D\u00e9voreuse d\u2019\u00e2mes",
+    "it_IT": "Campione: Allari la Mangiatrice d'Anime",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u0410\u043b\u043b\u0430\u0440\u0438 \u041f\u043e\u0436\u0438\u0440\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0414\u0443\u0448",
+    "ko_KR": "\uc6a9\uc0ac: \uc601\ud63c\ucc29\ucde8\uc790 \uc54c\ub77c\ub9ac",
+    "zh_TW": "\u52c7\u58eb\uff1a\u300e\u566c\u9b42\u8005\u300f\u827e\u840a\u8389",
+    "zh_CN": "\u52c7\u58eb\uff1a\u98df\u9b42\u8005\u963f\u83b1\u5229"
+  },
+  "description_blz": {
+    "en_US": "Allari the Souleater is the wielder of the artifact known as the Scythe of Souls. In addition to her own magical mastery over capturing demon souls, the Scythe grants her incredible powers. Few others are as effective in bringing the Burning Legion to its knees.",
+    "es_MX": "Allari la Comealmas es la portadora del artefacto conocido como la Guada\u00f1a de Almas. Adem\u00e1s de su propia maestr\u00eda m\u00e1gica para capturar almas de demonios, la Guada\u00f1a le otorga poderes incre\u00edbles. Existen pocos tan efectivos como ella para acabar con la Legi\u00f3n Ardiente.",
+    "pt_BR": "Allari, a Devoralmas, manuseia o artefato conhecido como Foice das Almas. Al\u00e9m de sua inata habilidade de capturar alas demon\u00edacas, a Foice lhe concede poderes incr\u00edveis. Poucos t\u00eam tamanha experi\u00eancia em colocar a Legi\u00e3o de joelhos.",
+    "de_DE": "Allari die Seelenfresserin ist die Tr\u00e4gerin des Artefakts, das als die Seelensense bekannt ist. Zus\u00e4tzlich zu ihrer eigenen meisterhaften Beherrschung des Einfangens von D\u00e4monenseelen gew\u00e4hrt ihr die Sense noch weitere unglaubliche Kr\u00e4fte. Nur wenige andere sind so effektiv darin, die Brennende Legion in die Knie zu zwingen.",
+    "en_GB": "Allari the Souleater is the wielder of the artifact known as the Scythe of Souls. In addition to her own magical mastery over capturing demon souls, the Scythe grants her incredible powers. Few others are as effective in bringing the Burning Legion to its knees.",
+    "es_ES": "Allari la Devoraalmas es la portadora del artefacto conocido como la Guada\u00f1a de Almas. Adem\u00e1s de su propia maestr\u00eda m\u00e1gica en la captura de almas demon\u00edacas, la Guada\u00f1a le otorga poderes incre\u00edbles. Pocos artefactos son tan eficaces para doblegar a la Legi\u00f3n Ardiente.",
+    "fr_FR": "Allari la D\u00e9voreuse d\u2019\u00e2mes manie la Faux des \u00e2mes. Si sa ma\u00eetrise des arts occultes lui permet de capturer l\u2019\u00e2me des d\u00e9mons, cette arme prodigieuse lui conf\u00e8re des pouvoirs plus incroyables encore. Rares sont les individus capables de mettre \u00e0 genoux la L\u00e9gion ardente avec autant d\u2019efficacit\u00e9.",
+    "it_IT": "Allari la Mangiatrice d'Anime \u00e8 colei che possiede l'artefatto conosciuto come la Falce delle Anime. La Falce le concede i propri incredibili poteri, che si sommano alla sua maestria nel catturare le anime demoniache. Pochi altri sono cos\u00ec efficaci nel mettere in ginocchio la Legione Infuocata.",
+    "ru_RU": "\u0410\u043b\u043b\u0430\u0440\u0438 \u041f\u043e\u0436\u0438\u0440\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0414\u0443\u0448 \u0432\u043b\u0430\u0434\u0435\u0435\u0442 \u043c\u043e\u0433\u0443\u0447\u0438\u043c \u0430\u0440\u0442\u0435\u0444\u0430\u043a\u0442\u043e\u043c \u2013 \u041a\u043e\u0441\u043e\u0439 \u0414\u0443\u0448. \u0410\u043b\u043b\u0430\u0440\u0438 \u0438 \u0441\u0430\u043c\u0430 \u043f\u043e \u0441\u0435\u0431\u0435 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0432 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u0435 \u043e\u0432\u043b\u0430\u0434\u0435\u043b\u0430 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e\u043c \u043f\u043b\u0435\u043d\u0435\u043d\u0438\u044f \u0434\u0443\u0448 \u0434\u0435\u043c\u043e\u043d\u043e\u0432; \u041a\u043e\u0441\u0430 \u0436\u0435 \u043d\u0430\u0434\u0435\u043b\u044f\u0435\u0442 \u0435\u0435 \u043f\u043e\u0438\u0441\u0442\u0438\u043d\u0435 \u043d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u044b\u043c\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438. \u041f\u043e \u0447\u0430\u0441\u0442\u0438 \u0441\u043b\u043e\u043c\u043b\u0435\u043d\u0438\u044f \u0438 \u043f\u043e\u0434\u0447\u0438\u043d\u0435\u043d\u0438\u044f \u0434\u0435\u043c\u043e\u043d\u043e\u0432 \u041f\u044b\u043b\u0430\u044e\u0449\u0435\u0433\u043e \u041b\u0435\u0433\u0438\u043e\u043d\u0430 \u0435\u0439 \u043d\u0435\u0442 \u0440\u0430\u0432\u043d\u044b\u0445.",
+    "ko_KR": "\uc601\ud63c\ucc29\ucde8\uc790 \uc54c\ub77c\ub9ac\ub294 \uc601\ud63c\uc758 \ub0ab\uc774\ub77c\uace0 \uc54c\ub824\uc9c4 \uc720\ubb3c\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4. \uc774 \uc720\ubb3c\uc740 \uc545\ub9c8\uc758 \uc601\ud63c\uc744 \uc0ac\ub85c\uc7a1\ub294 \uadf8\ub140\uc758 \ud0c1\uc6d4\ud55c \uae30\uc220\uacfc \ub354\ubd88\uc5b4 \uadf8\ub140\uc5d0\uac8c \uc5c4\uccad\ub09c \ud798\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4. \ubd88\ud0c0\ub294 \uad70\ub2e8\uc744 \uad74\ubcf5\uc2dc\ud0a4\ub294 \ub370 \uc774\ubcf4\ub2e4 \ub354 \ud6a8\uacfc\uc801\uc778 \ubb34\uae30\ub294 \uac70\uc758 \uc5c6\uc744 \uac81\ub2c8\ub2e4.",
+    "zh_TW": "\u300e\u566c\u9b42\u8005\u300f\u827e\u840a\u8389\u662f\u4e00\u628a\u795e\u5668\u7684\u6301\u6709\u8005\uff0c\u540d\u53eb\u596a\u9b42\u942e\u3002\u5979\u9664\u4e86\u64c5\u9577\u65bc\u6355\u6349\u60e1\u9b54\u9748\u9b42\u4e4b\u5916\uff0c\u942e\u5200\u4e5f\u70ba\u5979\u63d0\u4f9b\u4e86\u96e3\u4ee5\u7f6e\u4fe1\u7684\u529b\u91cf\u3002\u6c92\u5e7e\u500b\u4eba\u53ef\u4ee5\u63a1\u7528\u6548\u7387\u5341\u8db3\u65b9\u5f0f\u8b93\u71c3\u71d2\u8ecd\u5718\u5c48\u819d\u3002",
+    "zh_CN": "\u98df\u9b42\u8005\u963f\u83b1\u5229\u662f\u795e\u5668\u593a\u9b42\u4e4b\u9570\u7684\u6301\u6709\u8005\uff0c\u5979\u672c\u8eab\u5c31\u64c5\u957f\u6355\u83b7\u6076\u9b54\u7684\u7075\u9b42\uff0c\u593a\u9b42\u4e4b\u9570\u8fd8\u4f7f\u5979\u83b7\u5f97\u4e0d\u53ef\u601d\u8bae\u7684\u80fd\u529b\u3002\u5f88\u5c11\u6709\u5176\u4ed6\u4eba\u80fd\u50cf\u98df\u9b42\u8005\u963f\u83b1\u5229\u8fd9\u6837\u8fc5\u901f\u5730\u8ba9\u71c3\u70e7\u519b\u56e2\u5c48\u819d\u6c42\u9976\u3002"
+  }
 }

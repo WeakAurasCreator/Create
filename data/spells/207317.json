@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207317"
+  "SpellID": "207317",
+  "name_blz": {
+    "en_US": "Epidemic",
+    "es_MX": "Epidemia",
+    "pt_BR": "Epidemia",
+    "de_DE": "Epidemie",
+    "en_GB": "Epidemic",
+    "es_ES": "Epidemia",
+    "fr_FR": "Epid\u00e9mie",
+    "it_IT": "Epidemia",
+    "ru_RU": "\u042d\u043f\u0438\u0434\u0435\u043c\u0438\u044f",
+    "ko_KR": "\uc804\uc5fc\ubcd1",
+    "zh_TW": "\u75ab\u60c5\u8513\u5ef6",
+    "zh_CN": "\u6269\u6563"
+  },
+  "description_blz": {
+    "en_US": "Causes each of your Virulent Plagues to flare up, dealing 124 Shadow damage to the infected enemy, and an additional 50 Shadow damage to all other enemies near them.",
+    "es_MX": "Provoca que cada una de tus Pestes virulentas se encienda e inflija 124 p . de da\u00f1o de las sombras al enemigo infectado y 49 p. m\u00e1s de da\u00f1o de las sombras a los dem\u00e1s enemigos cercanos.",
+    "pt_BR": "Faz com que cada uma das suas Pestes Virulentas estoure, causando 124 de dano de Sombra ao inimigo infectado, mais 50 de dano de Sombra a todos os inimigos pr\u00f3ximos dele.",
+    "de_DE": "L\u00e4sst jede Eurer virulenten Seuchen aufflammen, wodurch sie dem infizierten Gegner 125 Schattenschaden zuf\u00fcgen sowie zus\u00e4tzlich allen Gegnern in seiner N\u00e4he 50 Schattenschaden.",
+    "en_GB": "Causes each of your Virulent Plagues to flare up, dealing 125 Shadow damage to the infected enemy, and an additional 50 Shadow damage to all other enemies near them.",
+    "es_ES": "Provoca que cada una de tus Pestes virulentas se inflame e inflija 124 p. de da\u00f1o de las Sombras al enemigo infectado y 49 p. de da\u00f1o de las Sombras m\u00e1s a los dem\u00e1s enemigos cercanos a \u00e9l.",
+    "fr_FR": "Fait s\u2019embraser toutes vos Pestes virulentes, ce qui inflige 126\u00a0points de d\u00e9g\u00e2ts d\u2019ombre aux adversaires infect\u00e9s, et 50\u00a0points suppl\u00e9mentaires aux autres adversaires proches des victimes.",
+    "it_IT": "Fa esplodere le tue Piaghe Virulente, infliggendo 124 danni da ombra al nemico infettato e 49 danni da ombra aggiuntivi a tutti i nemici vicini.",
+    "ru_RU": "\u041f\u043e\u0434\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0441\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \"\u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u043e\u0439 \u0447\u0443\u043c\u044b\" \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u0445, \u043d\u0430\u043d\u043e\u0441\u044f 125 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e 50 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0432\u0441\u0435\u043c \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0440\u044f\u0434\u043e\u043c \u0441 \u043d\u0438\u043c\u0438.",
+    "ko_KR": "\uc545\uc131 \uc5ed\ubcd1\uc5d0 \uac10\uc5fc\ub41c \ubaa8\ub4e0 \ub300\uc0c1\uc5d0\uac8c 123\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc8fc\uc704 \uc801\ub4e4\uc5d0\uac8c\ub3c4 \ucd94\uac00\ub85c 49\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u8b93\u4f60\u7684\u6bcf\u500b\u60e1\u6027\u761f\u75ab\u731b\u7136\u7206\u767c\uff0c\u5c0d\u53d7\u611f\u67d3\u7684\u6575\u4eba\u9020\u6210125\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e14\u5c0d\u6240\u6709\u9760\u8fd1\u7684\u6575\u4eba\u984d\u5916\u9020\u621049\u9ede\u6697\u5f71\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5f15\u7206\u6bcf\u4e00\u4e2a\u6076\u6027\u75c5\u53d8\u6548\u679c\uff0c\u5bf9\u6240\u6709\u53d7\u611f\u67d3\u7684\u654c\u4eba\u9020\u6210125\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u5bf9\u5176\u9644\u8fd1\u7684\u6240\u6709\u654c\u4eba\u9020\u621049\u70b9\u6697\u5f71\u4f24\u5bb3\u3002"
+  }
 }

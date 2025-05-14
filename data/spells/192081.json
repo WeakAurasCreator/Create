@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "192081"
+  "SpellID": "192081",
+  "name_blz": {
+    "en_US": "Ironfur",
+    "es_MX": "Cueracero",
+    "pt_BR": "Velof\u00e9rreo",
+    "de_DE": "Eisenfell",
+    "en_GB": "Ironfur",
+    "es_ES": "Pelaje f\u00e9rreo",
+    "fr_FR": "Ferpoil",
+    "it_IT": "Vello di Ferro",
+    "ru_RU": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043c\u0435\u0445",
+    "ko_KR": "\ubb34\uc1e0\uac00\uc8fd",
+    "zh_TW": "\u92fc\u9435\u6bdb\u76ae",
+    "zh_CN": "\u94c1\u9b03"
+  },
+  "description_blz": {
+    "en_US": "Increases armor by 1,592 for 7 sec.",
+    "es_MX": "La armadura aumenta 1,592 p. durante 7 s.",
+    "pt_BR": "Aumenta em 1.592 a armadura por 7 s.",
+    "de_DE": "Erh\u00f6ht die R\u00fcstung 7 Sek. lang um 1.592.",
+    "en_GB": "Increases armor by 1,592 for 7 sec.",
+    "es_ES": "Aumenta la armadura 1592 p. durante 7 s.",
+    "fr_FR": "Augmente l\u2019Armure de 1592 pendant 7 s.",
+    "it_IT": "Aumenta l'armatura di 1.592 per 7 s.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0431\u0440\u043e\u043d\u044e \u043d\u0430 1592 \u043d\u0430 7 \u0441\u0435\u043a.",
+    "ko_KR": "7\ucd08 \ub3d9\uc548 \ubc29\uc5b4\ub3c4\uac00 1,592\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8b77\u7532\u503c\u63d0\u9ad81,592\u9ede\uff0c\u6301\u7e8c7\u79d2\u3002",
+    "zh_CN": "\u62a4\u7532\u63d0\u9ad81,592\u70b9\uff0c\u6301\u7eed7\u79d2\u3002"
+  }
 }

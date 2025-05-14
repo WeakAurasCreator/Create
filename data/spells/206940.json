@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "206940"
+  "SpellID": "206940",
+  "name_blz": {
+    "en_US": "Mark of Blood",
+    "es_MX": "Marca de sangre",
+    "pt_BR": "Marca de Sangue",
+    "de_DE": "Mal des Blutes",
+    "en_GB": "Mark of Blood",
+    "es_ES": "Marca de sangre",
+    "fr_FR": "Marque de sang",
+    "it_IT": "Marchio del Sangue",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u0430\u0432\u0430\u044f \u043c\u0435\u0442\u043a\u0430",
+    "ko_KR": "\ud53c\uc758 \uc9d5\ud45c",
+    "zh_TW": "\u8840\u9b44\u5370\u8a18",
+    "zh_CN": "\u9c9c\u8840\u5370\u8bb0"
+  },
+  "description_blz": {
+    "en_US": "Places a Mark of Blood on an enemy for 15 sec. The enemy's damaging auto attacks will also heal their victim for 3% of the victim's maximum health.",
+    "es_MX": "Coloca una Marca de sangre sobre un enemigo durante 15 s. Los ataques autom\u00e1ticos del enemigo que infligen da\u00f1o tambi\u00e9n sanan a la v\u00edctima por un 3% de su salud m\u00e1xima.",
+    "pt_BR": "Coloca no inimigo uma Marca de Sangue por 15 s. Ataques autom\u00e1ticos do inimigo que causem dano tamb\u00e9m concedem \u00e0 v\u00edtima uma cura equivalente a 3% do m\u00e1ximo de pontos de vida dela.",
+    "de_DE": "Belegt einen Gegner f\u00fcr 15 Sek. mit 'Mal des Blutes'. Die Schaden verursachenden automatischen Angriffe des Gegners heilen dessen Ziel um 3% der maximalen Gesundheit dieses Ziels.",
+    "en_GB": "Places a Mark of Blood on an enemy for 15 sec. The enemy's damaging auto attacks will also heal their victim for 3% of the victim's maximum health.",
+    "es_ES": "Coloca una Marca de sangre sobre un enemigo durante 15 s. Los ataques autom\u00e1ticos da\u00f1inos del enemigo tambi\u00e9n sanar\u00e1n a su v\u00edctima un 3% de la salud m\u00e1xima de dicha v\u00edctima.",
+    "fr_FR": "Place une marque de sang sur un ennemi pendant 15 s. Ses attaques automatiques infligeant des d\u00e9g\u00e2ts rendent d\u00e9sormais 3% de son maximum de points de vie \u00e0 leur victime.",
+    "it_IT": "Piazza un Marchio del Sangue sul nemico per 15 s. Gli attacchi automatici del bersaglio che infliggono danni curano la vittima del 3% della sua salute massima.",
+    "ru_RU": "\u0421\u0442\u0430\u0432\u0438\u0442 \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \"\u041a\u0440\u043e\u0432\u0430\u0432\u0443\u044e \u043c\u0435\u0442\u043a\u0443\" \u043d\u0430 15 \u0441\u0435\u043a. \u041d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0443\u0440\u043e\u043d \u0430\u0432\u0442\u043e\u0430\u0442\u0430\u043a\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u0435\u0433\u043e \u0446\u0435\u043b\u0438 3% \u0435\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "15\ucd08 \ub3d9\uc548 \uc801\uc5d0\uac8c \ud53c\uc758 \uc9d5\ud45c\ub97c \uac81\ub2c8\ub2e4. \uc801\uc774 \uc790\ub3d9 \uacf5\uaca9\uc73c\ub85c \ub300\uc0c1\uc744 \uacf5\uaca9\ud574 \ud53c\ud574\ub97c \uc785\ud788\uba74 \uacf5\uaca9\ubc1b\uc740 \ub300\uc0c1\uc740 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 3%\ub97c \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6575\u4eba\u8eab\u4e0a\u65bd\u52a0\u8840\u9b44\u5370\u8a18\uff0c\u6301\u7e8c15\u79d2\u3002\u6575\u4eba\u4ee5\u81ea\u52d5\u653b\u64ca\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u6703\u70ba\u53d7\u5bb3\u8005\u6062\u5fa9\u751f\u547d\u529b\uff0c\u6cbb\u7642\u91cf\u7b49\u540c\u53d7\u5bb3\u8005\u751f\u547d\u529b\u4e0a\u9650\u76843%\u3002",
+    "zh_CN": "\u4e3a\u4e00\u4e2a\u654c\u4eba\u65bd\u52a0\u9c9c\u8840\u5370\u8bb0\uff0c\u6301\u7eed15\u79d2\u3002\u8fd9\u540d\u654c\u4eba\u7684\u4f24\u5bb3\u6027\u81ea\u52a8\u653b\u51fb\u4f1a\u4e3a\u53d7\u5bb3\u8005\u6062\u590d\u5176\u6700\u5927\u751f\u547d\u503c\u76843%\u3002"
+  }
 }

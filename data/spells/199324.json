@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "199324"
+  "SpellID": "199324",
+  "name_blz": {
+    "en_US": "Divine Vision",
+    "es_MX": "Visi\u00f3n divina",
+    "pt_BR": "Vis\u00e3o Divina",
+    "de_DE": "G\u00f6ttliche Sicht",
+    "en_GB": "Divine Vision",
+    "es_ES": "Visi\u00f3n divina",
+    "fr_FR": "Vision divine",
+    "it_IT": "Visione Divina",
+    "ru_RU": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0437\u0440\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \uc2dc\uc57c",
+    "zh_TW": "\u795e\u8056\u8996\u91ce",
+    "zh_CN": "\u795e\u5723\u89c6\u91ce"
+  },
+  "description_blz": {
+    "en_US": "Increases the range of your Aura by 30 yards and reduces the cooldown of Aura Mastery by 60 sec.",
+    "es_MX": "Aumenta el alcance de tu aura 30 m y reduce el tiempo de reutilizaci\u00f3n de Maestr\u00eda de aura 60 s.",
+    "pt_BR": "Aumenta em 30 m o alcance da sua Aura e reduz a recarga da Profici\u00eancia em Auras em 60 s.",
+    "de_DE": "Erh\u00f6ht die Reichweite Eurer Aura um 30 Meter und verringert die Abklingzeit von 'Aurenmeisterschaft' um 60 Sek.",
+    "en_GB": "Increases the range of your Aura by 30 yards and reduces the cooldown of Aura Mastery by 60 sec.",
+    "es_ES": "Aumenta 30 m el alcance de tu aura y reduce 60 s el tiempo de reutilizaci\u00f3n de Maestr\u00eda de aura.",
+    "fr_FR": "Augmente la port\u00e9e de votre aura de 30\u00a0m\u00e8tres et r\u00e9duit le temps de recharge de Ma\u00eetrise des auras de 60 s.",
+    "it_IT": "Aumenta la portata della tua Aura di 30 m e riduce il tempo di recupero di Maestria dell'Aura di 60 s.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0440\u0430\u0434\u0438\u0443\u0441 \u0430\u0443\u0440\u044b \u043d\u0430 30 \u043c \u0438 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0412\u043b\u0430\u0434\u0435\u043d\u0438\u044f \u0430\u0443\u0440\u0430\u043c\u0438\" \u043d\u0430 60 \u0441\u0435\u043a.",
+    "ko_KR": "\uc624\ub77c\uc758 \ubc94\uc704 \ubc18\uacbd\uc774 30\ubbf8\ud130\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \uc624\ub77c \uc219\ub828\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 60\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u5149\u74b0\u7bc4\u570d\u63d0\u9ad830\u78bc\uff0c\u4e26\u4e14\u4f7f\u7cbe\u901a\u5149\u74b0\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed60\u79d2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u5149\u73af\u8303\u56f4\u6269\u592730\u7801\uff0c\u4f60\u7684\u5149\u73af\u638c\u63e1\u7684\u51b7\u5374\u65f6\u95f4\u51cf\u5c1160\u79d2\u3002"
+  }
 }

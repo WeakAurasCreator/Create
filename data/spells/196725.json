@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196725"
+  "SpellID": "196725",
+  "name_blz": {
+    "en_US": "Refreshing Jade Wind",
+    "es_MX": "Viento de jade refrescante",
+    "pt_BR": "Vento Refrescante de Jade",
+    "de_DE": "Erquickender Jadewind",
+    "en_GB": "Refreshing Jade Wind",
+    "es_ES": "Viento de jade refrescante",
+    "fr_FR": "Vent de jade rafra\u00eechissant",
+    "it_IT": "Tornado di Giada Rinfrescante",
+    "ru_RU": "\u041e\u0441\u0432\u0435\u0436\u0430\u044e\u0449\u0438\u0439 \u043d\u0435\u0444\u0440\u0438\u0442\u043e\u0432\u044b\u0439 \u0432\u0435\u0442\u0435\u0440",
+    "ko_KR": "\uc0c1\ucf8c\ud55c \ube44\ucde8 \ubc14\ub78c",
+    "zh_TW": "\u7fe0\u7389\u6e05\u98a8",
+    "zh_CN": "\u78a7\u6108\u75be\u98ce"
+  },
+  "description_blz": {
+    "en_US": "Summon a whirling tornado around you, causing 17,047 healing over 6 sec to up to 5 allies within 10 yards.",
+    "es_MX": "Invoca un tornado a tu alrededor que sana 16,644 p. de salud durante 6 s a un m\u00e1ximo de 5 aliados en un radio de 10 m.",
+    "pt_BR": "Evoca um tornado rodopiante ao seu redor, realizando 16.430 de cura ao longo de 6 s em at\u00e9 5 aliados em um raio de 10 m.",
+    "de_DE": "Umgibt Euch mit einem wirbelnden Tornado, der bis zu 5 Verb\u00fcndete innerhalb von 10 Metern im Verlauf von 6 Sek. um 17.063 Gesundheit heilt.",
+    "en_GB": "Summon a whirling tornado around you, causing 16,845 healing over 6 sec to up to 5 allies within 10 yards.",
+    "es_ES": "Invoca un tornado que se arremolina en torno a ti y sana 16641 p. de salud durante 6 s a un m\u00e1ximo de 5 aliados en un radio de 10 m.",
+    "fr_FR": "Vous invoquez autour de vous une tornade tourbillonnante qui rend 17115\u00a0points de vie en 6 s \u00e0 un maximum de 5\u00a0alli\u00e9s \u00e0 moins de 10\u00a0m\u00e8tres.",
+    "it_IT": "Evoca un tornado turbinante, fornendo 17.124 cure in 6 s a un massimo di 5 alleati entro 10 m.",
+    "ru_RU": "\u041e\u043a\u0440\u0443\u0436\u0430\u0435\u0442 \u0432\u0430\u0441 \u0441\u043c\u0435\u0440\u0447\u0435\u043c, \u0437\u0430 6 \u0441\u0435\u043a. \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0438\u043c \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c 17184 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc2dc\uc804\uc790 \uc8fc\uc704\uc5d0 \ub3cc\uac1c\ubc14\ub78c\uc744 \uc18c\ud658\ud574, 6\ucd08\uc5d0 \uac78\uccd0 10\ubbf8\ud130 \ub0b4 \ucd5c\ub300 5\uba85\uc758 \uc544\uad70\uc758 \uc0dd\uba85\ub825\uc744 16,536\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u8eab\u908a\u53ec\u559a\u4e00\u500b\u65cb\u8f49\u7684\u9f8d\u6372\u98a8\uff0c\u57286\u79d2\u5167\u70ba10\u78bc\u7bc4\u570d\u5167\u6700\u591a5\u540d\u76df\u53cb\u6cbb\u764216,541\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5728\u4f60\u8eab\u8fb9\u53ec\u5524\u51fa\u4e00\u80a1\u65cb\u8f6c\u75be\u98ce\uff0c\u57286\u79d2\u5185\u4e3a10\u7801\u8303\u56f4\u5185\u7684\u6700\u591a5\u540d\u76df\u53cb\u6062\u590d16,681\u70b9\u751f\u547d\u503c\u3002"
+  }
 }
