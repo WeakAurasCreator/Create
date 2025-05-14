@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "212640"
+  "SpellID": "212640",
+  "name_blz": {
+    "en_US": "Mending Bandage",
+    "es_MX": "Venda de alivio",
+    "pt_BR": "Bandagem de Recomposi\u00e7\u00e3o",
+    "de_DE": "Heilender Verband",
+    "en_GB": "Mending Bandage",
+    "es_ES": "Venda de alivio",
+    "fr_FR": "Bandage de soins",
+    "it_IT": "Bendaggio Curativo",
+    "ru_RU": "\u0426\u0435\u043b\u0435\u0431\u043d\u0430\u044f \u043f\u043e\u0432\u044f\u0437\u043a\u0430",
+    "ko_KR": "\uce58\uc720 \ubd95\ub300",
+    "zh_TW": "\u7652\u5408\u7e43\u5e36",
+    "zh_CN": "\u6cbb\u7597\u7ef7\u5e26"
+  },
+  "description_blz": {
+    "en_US": "Instantly clears all bleeds, poisons, and diseases from the target, and heals for 18% damage over 6 sec.\r\n\r\nBeing attacked will stop you from using Mending Bandage.",
+    "es_MX": "Elimina instant\u00e1neamente todos los sangramientos, venenos y enfermedades del objetivo y lo sana un 18% de da\u00f1o durante 6 s. \r\n\r\nRecibir un ataque detendr\u00e1 el uso de Venda de alivio.",
+    "pt_BR": "Elimina instantaneamente sangramentos, venenos e doen\u00e7as do alvo e cura 18% dos pontos de vida ao longo de 6 s. \r\n\r\nSer atacado interromper\u00e1 o uso da Bandagem de Recomposi\u00e7\u00e3o.",
+    "de_DE": "Entfernt sofort alle auf das Ziel wirkenden Blutungen, Gifte und Krankheiten und heilt es im Verlauf von 6 Sek. um 18% Gesundheit.\r\n\r\nWenn Ihr angegriffen werdet, wird der Einsatz von 'Heilender Verband' abgebrochen.",
+    "en_GB": "Instantly clears all bleeds, poisons, and diseases from the target, and heals for 18% damage over 6 sec.\r\n\r\nBeing attacked will stop you from using Mending Bandage.",
+    "es_ES": "Elimina al instante todos los sangrados, venenos y enfermedades del objetivo, y sana un 18% del da\u00f1o durante 6 s.\r\n\r\nSi te atacan, dejar\u00e1s de usar Venda de alivio.",
+    "fr_FR": "Dissipe instantan\u00e9ment les saignements, poisons et maladies qui affectent la cible et lui rend 18% de ses points de vie en 6 s.\r\n\r\nToute attaque subie interrompt l\u2019utilisation de Bandage de soins.",
+    "it_IT": "Dissolve istantaneamente tutti gli effetti di sanguinamento, veleno e malattia sul bersaglio, rigenerando il 18% della sua salute massima in 6 s.\r\n\r\nEssere attaccati impedisce di lanciare Bendaggio Curativo.",
+    "ru_RU": "\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0446\u0435\u043b\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f, \u044f\u0434\u043e\u0432 \u0438 \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u0439, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u0435\u0439 18% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a. \r\n\r\n\u0415\u0441\u043b\u0438 \u0432\u0430\u0441 \u0430\u0442\u0430\u043a\u0443\u044e\u0442, \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \"\u0426\u0435\u043b\u0435\u0431\u043d\u043e\u0439 \u043f\u043e\u0432\u044f\u0437\u043a\u0438\" \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\uc989\uc2dc \ub300\uc0c1\uc5d0\uac8c\uc11c \ubaa8\ub4e0 \ucd9c\ud608, \ub3c5, \uc9c8\ubcd1 \ud6a8\uacfc\ub97c \uc81c\uac70\ud558\uace0, 6\ucd08\uc5d0 \uac78\uccd0 18%\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uacf5\uaca9\uc744 \ubc1b\uc73c\uba74 \uce58\uc720 \ubd95\ub300 \uc0ac\uc6a9\uc774 \uc911\ub2e8\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7acb\u5373\u9a45\u6563\u76ee\u6a19\u8eab\u4e0a\u6240\u6709\u6d41\u8840\u3001\u4e2d\u6bd2\u8207\u75be\u75c5\u6548\u679c\uff0c\u4e26\u57286\u79d2\u5167\u6cbb\u764218%\u751f\u547d\u529b\u3002\r\n\r\n\u53d7\u5230\u653b\u64ca\u6703\u4e2d\u65b7\u7652\u5408\u7e43\u5e36\u7684\u4f7f\u7528\u3002",
+    "zh_CN": "\u7acb\u5373\u6e05\u9664\u76ee\u6807\u8eab\u4e0a\u6240\u6709\u7684\u6d41\u8840\uff0c\u4e2d\u6bd2\u4e0e\u75be\u75c5\u6548\u679c\uff0c\u5e76\u57286\u79d2\u5185\u4e3a\u5176\u6cbb\u6108\u53d7\u5230\u4f24\u5bb3\u768418%\u3002\r\n\r\n\u53d7\u5230\u653b\u51fb\u65f6\u505c\u6b62\u4f7f\u7528\u6cbb\u7597\u7ef7\u5e26\u3002"
+  }
 }

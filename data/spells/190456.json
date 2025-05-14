@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "190456"
+  "SpellID": "190456",
+  "name_blz": {
+    "en_US": "Ignore Pain",
+    "es_MX": "Ignorar dolor",
+    "pt_BR": "Ignorar Dor",
+    "de_DE": "Z\u00e4hne zusammenbei\u00dfen",
+    "en_GB": "Ignore Pain",
+    "es_ES": "Ignorar dolor",
+    "fr_FR": "Dur au mal",
+    "it_IT": "Insensibilit\u00e0",
+    "ru_RU": "\u0421\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u044c \u043a \u0431\u043e\u043b\u0438",
+    "ko_KR": "\uace0\ud1b5 \uac10\ub0b4",
+    "zh_TW": "\u7121\u8996\u82e6\u75db",
+    "zh_CN": "\u65e0\u89c6\u82e6\u75db"
+  },
+  "description_blz": {
+    "en_US": "Fight through the pain, ignoring 50% of damage taken until 3,020 damage has been prevented.\r\n\r\nRepeated uses of Ignore Pain accumulate, up to 59,202 total damage prevented.",
+    "es_MX": "Luchas a pesar del dolor e ignoras un 50% del da\u00f1o recibido hasta evitar 3,020 p. de da\u00f1o.\r\n\r\nLos usos repetidos de Ignorar dolor se acumulan y permiten evitar un m\u00e1ximo de 59,202 p. de da\u00f1o.",
+    "pt_BR": "Luta contra a dor, ignorando 50% do dano recebido, at\u00e9 um total de 3.020 de dano evitado.\r\n\r\nUsos consecutivos de Ignorar Dor acumulam, at\u00e9 um total de 59.202 de dano evitado.",
+    "de_DE": "K\u00e4mpft Euch durch den Schmerz und ignoriert 50% des erlittenen Schadens, bis 3.020 Schaden verhindert wurden.\r\n\r\nWiederholte Anwendungen von 'Z\u00e4hne zusammenbei\u00dfen' addieren sich. Bis zu insgesamt 59.202 Schaden werden verhindert.",
+    "en_GB": "Fight through the pain, ignoring 50% of damage taken until 3,020 damage has been prevented.\r\n\r\nRepeated uses of Ignore Pain accumulate, up to 59,202 total damage prevented.",
+    "es_ES": "Luchas contra el dolor, lo que te permite ignorar un 50% del da\u00f1o recibido, hasta un m\u00e1ximo de 3020 p.\r\n\r\nLos usos repetidos de Ignorar dolor se acumulan hasta llegar a un total de 59202 p. de da\u00f1o prevenido.",
+    "fr_FR": "Vous surmontez la douleur et ignorez 50\u00a0% des d\u00e9g\u00e2ts subis jusqu\u2019\u00e0 un maximum de 3020\u00a0points de d\u00e9g\u00e2ts.\r\n\r\nLes utilisations r\u00e9p\u00e9t\u00e9es de Dur au mal se cumulent, jusqu\u2019\u00e0 un total de 59202\u00a0points de d\u00e9g\u00e2ts ignor\u00e9s.",
+    "it_IT": "Permette di combattere nonostante il dolore, ignorando il 50% dei danni subiti finch\u00e9 non impedisce 3.020 danni subiti.\r\n\r\nUsi ripetuti di Insensibilit\u00e0 si accumulano, fino a un massimo di 59.202 danni totali impediti.",
+    "ru_RU": "\u0412\u044b \u0441\u0440\u0430\u0436\u0430\u0435\u0442\u0435\u0441\u044c, \u043f\u0440\u0435\u0432\u043e\u0437\u043c\u043e\u0433\u0430\u044f \u0431\u043e\u043b\u044c, \u0438 \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u0442\u0435 50% \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430, \u043f\u043e\u043a\u0430 \u043d\u0435 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435 \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c 3020 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u041f\u043e\u0432\u0442\u043e\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0421\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u0438 \u043a \u0431\u043e\u043b\u0438\" \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442\u044c \u0432 \u043e\u0431\u0449\u0435\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043e 59202 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uace0\ud1b5\uc744 \uac10\ub0b4\ud558\uace0 \uc2f8\uc6cc \ubc1b\ub294 \ud53c\ud574\uc758 50%\ub97c \ubb34\uc2dc\ud569\ub2c8\ub2e4. 3,020\uc758 \ud53c\ud574\ub97c \ubc29\uc9c0\ud560 \ub54c\uae4c\uc9c0 \uc9c0\uc18d\ub429\ub2c8\ub2e4.\r\n\r\n\uace0\ud1b5 \uac10\ub0b4\ub97c \ubc18\ubcf5\ud574\uc11c \uc0ac\uc6a9 \uc2dc \ud6a8\uacfc\uac00 \ucd95\uc801\ub418\uc5b4 \ucd5c\ub300 59,202\uc758 \ucd1d \ud53c\ud574\ub7c9\uc744 \ubc29\uc9c0\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5fcd\u53d7\u75db\u82e6\u7e7c\u7e8c\u4f5c\u6230\uff0c\u7121\u8996\u53d7\u5230\u768450%\u50b7\u5bb3\uff0c\u6700\u591a\u53ef\u6e1b\u514d3,020\u9ede\u50b7\u5bb3\u3002\r\n\r\n\u91cd\u8907\u4f7f\u7528\u7121\u8996\u82e6\u75db\u53ef\u7d2f\u7a4d\u5176\u6548\u679c\uff0c\u6700\u591a\u7e3d\u5171\u53ef\u6e1b\u514d59,202\u9ede\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5728\u75db\u82e6\u4e2d\u7ee7\u7eed\u6218\u6597\uff0c\u65e0\u89c6\u63a5\u4e0b\u6765\u53d7\u5230\u4f24\u5bb3\u4e2d\u768450%\uff0c\u76f4\u5230\u9632\u6b623,020\u70b9\u4f24\u5bb3\u3002\r\n\r\n\u591a\u6b21\u4f7f\u7528\u65e0\u89c6\u82e6\u75db\u53ef\u4ee5\u7d2f\u79ef\uff0c\u6700\u591a\u53ef\u4ee5\u9632\u6b6259,202\u70b9\u4f24\u5bb3\u3002"
+  }
 }

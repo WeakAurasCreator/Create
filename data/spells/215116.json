@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "215116"
+  "SpellID": "215116",
+  "name_blz": {
+    "en_US": "Champion: Shade of Akama",
+    "es_MX": "Campe\u00f3n: Sombra de Akama",
+    "pt_BR": "Campe\u00e3o: Vulto de Akama",
+    "de_DE": "Champion: Akamas Schemen",
+    "en_GB": "Champion: Shade of Akama",
+    "es_ES": "Campe\u00f3n: Sombra de Akama",
+    "fr_FR": "Champion\u00a0: ombre d\u2019Akama",
+    "it_IT": "Campione: Ombra di Akama",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a: \u0422\u0435\u043d\u044c \u0410\u043a\u0430\u043c\u044b",
+    "ko_KR": "\uc6a9\uc0ac: \uc544\uce74\ub9c8\uc758 \ub9dd\ub839",
+    "zh_TW": "\u52c7\u58eb\uff1a\u6697\u5f71\u963f\u5361\u746a",
+    "zh_CN": "\u52c7\u58eb\uff1a\u963f\u5361\u739b\u4e4b\u5f71"
+  },
+  "description_blz": {
+    "en_US": "As the master architect of Illidan's plan to destroy the Burning Legion, and head of the Ashtongue tribe, Akama proved himself to be a resourceful leader as well as a brilliant strategist and skilled fighter. His Shade is all of that and more.",
+    "es_MX": "Como maestro arquitecto del plan de Illidan para destruir a la Legi\u00f3n Ardiente, y a la cabeza de la tribu Lengua de Ceniza, Akama demostr\u00f3 ser un diestro l\u00edder, como tambi\u00e9n un estratega brillante y un h\u00e1bil peleador. Su Sombra es todo eso y mucho m\u00e1s.",
+    "pt_BR": "Como arquiteto mestre dos planos de Illidan para destruir a Legi\u00e3o Ardente, e chefe da tribo Grisl\u00edngua, Akama provou ser um l\u00edder perspicaz, bem como um brilhante estrategista e um h\u00e1bil lutador. O seu Vulto \u00e9 isso tudo, e mais.",
+    "de_DE": "Als Meisterarchitekt von Illidans Plan zur Zerst\u00f6rung der Brennenden Legion und Oberhaupt der Aschenzungen hat sich Akama sowohl als f\u00e4higer Anf\u00fchrer als auch als brillanter Stratege und ge\u00fcbter K\u00e4mpfer erwiesen. Sein Schemen ist all dies und mehr.",
+    "en_GB": "As the master architect of Illidan's plan to destroy the Burning Legion, and head of the Ashtongue tribe, Akama proved himself to be a resourceful leader as well as a brilliant strategist and skilled fighter. His Shade is all of that and more.",
+    "es_ES": "Akama fue el l\u00edder de la tribu Lengua de Ceniza y el maestro arquitecto del plan de Illidan para destruir a la Legi\u00f3n Ardiente. Fue un l\u00edder con recursos, un gran estratega y un guerrero habilidoso. Su Sombra es eso y mucho m\u00e1s.",
+    "fr_FR": "Principal architecte du plan d\u2019Illidan visant \u00e0 d\u00e9truire la L\u00e9gion ardente et chef de la tribu Cendrelangue, Akama s\u2019est r\u00e9v\u00e9l\u00e9 un meneur d\u2019hommes avis\u00e9, un brillant strat\u00e8ge et un combattant inspir\u00e9. Son ombre est tout cela\u2026 et plus encore.",
+    "it_IT": "Come ideatore del piano di Illidan di distruggere la Legione Infuocata, e come guida della Trib\u00f9 Linguamorta, Akama si \u00e8 dimostrato un capo pieno di risorse, uno stratega brillante e un abile combattente. La sua Ombra \u00e8 tutto ci\u00f2 e molto di pi\u00f9.",
+    "ru_RU": "\u0410\u043a\u0430\u043c\u0430, \u0433\u043b\u0430\u0432\u0430 \u043a\u043b\u0430\u043d\u0430 \u041f\u0435\u043f\u043b\u043e\u0443\u0441\u0442\u043e\u0432 \u0438 \u0438\u0434\u0435\u0439\u043d\u044b\u0439 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0438\u0442\u0435\u043b\u044c \u043f\u043b\u0430\u043d\u0430 \u0418\u043b\u043b\u0438\u0434\u0430\u043d\u0430 \u043f\u043e \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044e \u041f\u044b\u043b\u0430\u044e\u0449\u0435\u0433\u043e \u041b\u0435\u0433\u0438\u043e\u043d\u0430, \u043f\u043e\u043a\u0430\u0437\u0430\u043b \u0441\u0435\u0431\u044f \u043d\u0430\u0445\u043e\u0434\u0447\u0438\u0432\u044b\u043c \u043b\u0438\u0434\u0435\u0440\u043e\u043c, \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u043c \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u043e\u043c \u0438 \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0432\u043e\u0438\u043d\u043e\u043c. \u0410 \u0435\u0433\u043e \u0442\u0435\u043d\u044c \u0434\u0430\u0436\u0435 \u043f\u0440\u0435\u0432\u0437\u043e\u0448\u043b\u0430 \u0435\u0433\u043e \u0441\u0430\u043c\u043e\u0433\u043e.",
+    "ko_KR": "\uc544\uce74\ub9c8\ub294 \ubd88\ud0c0\ub294 \uad70\ub2e8\uc744 \uaca9\ud1f4\ud55c \uc77c\ub9ac\ub2e8\uc758 \uacc4\ud68d\uc744 \uc8fc\ub3c4\ud55c \uc7a5\ubcf8\uc778\uc774\uc790 \uc7bf\ube5b\ud613\ubc14\ub2e5 \ubd80\uc871\uc758 \uc218\uc7a5\uc785\ub2c8\ub2e4. \ub610\ud55c \ub2a5\ub825 \uc788\ub294 \uc9c0\ub3c4\uc790\uc778 \ub3d9\uc2dc\uc5d0 \ud0c0\uace0\ub09c \uc804\ub7b5\uac00\uc774\uc790 \uc219\ub828\ub41c \ud22c\uc0ac\ub77c\ub294 \uc0ac\uc2e4\uc744 \uc99d\uba85\ud588\uc2b5\ub2c8\ub2e4. \uc544\uce74\ub9c8\uc758 \ub9dd\ub839\uc740 \uadf8\ub7ec\ud55c \uc790\uc2e0\uc758 \ub2a5\ub825\uc744 \ub6f0\uc5b4\ub118\uc740 \ub354 \ub300\ub2e8\ud55c \uc874\uc7ac\uc785\ub2c8\ub2e4.",
+    "zh_TW": "\u4f5c\u70ba\u4f0a\u5229\u4e39\u6467\u6bc0\u71c3\u71d2\u8ecd\u5718\u8a08\u756b\u7684\u80cc\u5f8c\u63a8\u624b\u8207\u7070\u820c\u6c0f\u65cf\u7684\u982d\u76ee\uff0c\u963f\u5361\u746a\u4e00\u518d\u8b49\u660e\u81ea\u5df1\u662f\u4e00\u540d\u591a\u624d\u591a\u85dd\u7684\u9818\u8896 - \u8eab\u517c\u8db3\u667a\u591a\u8b00\u7684\u8ecd\u5e2b\u8207\u6280\u85dd\u7d14\u719f\u7684\u6230\u58eb\u3002\u800c\u4ed6\u7684\u9ed1\u6697\u9762\u66f4\u4e0d\u53ea\u5982\u6b64\u3002",
+    "zh_CN": "\u963f\u5361\u739b\u662f\u4f0a\u5229\u4e39\u6467\u6bc1\u71c3\u70e7\u519b\u56e2\u8ba1\u5212\u7684\u4e3b\u7b56\u5212\u5e08\uff0c\u4ee5\u53ca\u7070\u820c\u6c0f\u65cf\u7684\u9996\u9886\uff0c\u4ed6\u65e9\u5df2\u8bc1\u660e\u4e86\u81ea\u5df1\u662f\u4e2a\u8db3\u667a\u591a\u8c0b\u7684\u9886\u8896\u3001\u6781\u5177\u667a\u6167\u7684\u6218\u7565\u5bb6\uff0c\u540c\u65f6\u4e5f\u662f\u6280\u80fd\u5a34\u719f\u7684\u6597\u58eb\u3002\u4ed6\u7684\u5f71\u5b50\u540c\u6837\u5982\u6b64\uff0c\u5e76\u4e14\u66f4\u4e3a\u5f3a\u5927\u3002"
+  }
 }

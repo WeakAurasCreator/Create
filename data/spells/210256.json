@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "210256"
+  "SpellID": "210256",
+  "name_blz": {
+    "en_US": "Blessing of Sanctuary",
+    "es_MX": "Bendici\u00f3n del santuario",
+    "pt_BR": "B\u00ean\u00e7\u00e3o do Santu\u00e1rio",
+    "de_DE": "Segen des Refugiums",
+    "en_GB": "Blessing of Sanctuary",
+    "es_ES": "Bendici\u00f3n de santuario",
+    "fr_FR": "B\u00e9n\u00e9diction de sanctuaire",
+    "it_IT": "Benedizione del Santuario",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435 \u0441\u0432\u044f\u0442\u0438\u043b\u0438\u0449\u0430",
+    "ko_KR": "\uc131\uc5ed\uc758 \ucd95\ubcf5",
+    "zh_TW": "\u5e87\u8b77\u795d\u798f",
+    "zh_CN": "\u5e87\u62a4\u795d\u798f"
+  },
+  "description_blz": {
+    "en_US": "Instantly removes all stun, silence, fear and horror effects from the friendly target and reduces the duration of future such effects by 60% for 5 sec.",
+    "es_MX": "Elimina instant\u00e1neamente todos los efectos de aturdimiento, silencio, miedo y horror del objetivo aliado y reduce en un 60% la duraci\u00f3n de futuras aplicaciones de esos efectos durante 5 s.",
+    "pt_BR": "Remove instantaneamente todos os efeitos de atordoamento, sil\u00eancio, medo e horror do alvo aliado e reduz em 60% a dura\u00e7\u00e3o de efeitos futuros desses tipos por 5 s.",
+    "de_DE": "Entfernt sofort alle Bet\u00e4ubungs-, Stille-, Furcht- und Entsetzenseffekte von einem verb\u00fcndeten Ziel und verringert 5 Sek. lang die Dauer von zuk\u00fcnftigen Effekten dieser Art um 60%.",
+    "en_GB": "Instantly removes all stun, silence, fear and horror effects from the friendly target and reduces the duration of future such effects by 60% for 5 sec.",
+    "es_ES": "Elimina al instante todos los efectos de aturdir, silencio, miedo y horror del objetivo amistoso, y reduce un 60% la duraci\u00f3n de dichos efectos en el futuro durante 5 s.",
+    "fr_FR": "Supprime instantan\u00e9ment les effets d\u2019\u00e9tourdissement, de silence, de peur et d\u2019horreur affectant la cible alli\u00e9e, et r\u00e9duit la dur\u00e9e de ces futurs effets de 60% pendant 5 s.",
+    "it_IT": "Dissolve istantaneamente qualsiasi effetto di stordimento, silenziamento, paura e orrore dal bersaglio alleato e riduce la durata di eventuali futuri effetti simili del 60% per 5 s.",
+    "ru_RU": "\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u0438\u044f, \u043d\u0435\u043c\u043e\u0442\u044b, \u0441\u0442\u0440\u0430\u0445\u0430 \u0438 \u0443\u0436\u0430\u0441\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0442\u0430\u043a\u0438\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432, \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u043d\u044b\u0445 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 5 \u0441\u0435\u043a., \u043d\u0430 60%.",
+    "ko_KR": "\uc544\uad70 \ub300\uc0c1\uc5d0\uac8c \uac78\ub9b0 \ubaa8\ub4e0 \uae30\uc808, \uce68\ubb35, \uacf5\ud3ec, \ub450\ub824\uc6c0 \ud6a8\uacfc\ub97c \uc81c\uac70\ud558\uace0, 5\ucd08 \ub3d9\uc548 \uc774\ub7f0 \ud6a8\uacfc\uc758 \uc9c0\uc18d\uc2dc\uac04\uc744 60%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7acb\u5373\u79fb\u9664\u53cb\u65b9\u76ee\u6a19\u7684\u6240\u6709\u660f\u8ff7\u3001\u6c89\u9ed8\u3001\u6050\u61fc\u548c\u6050\u614c\u6548\u679c\uff0c\u4e26\u4f7f\u4e0b\u6b21\u53d7\u5230\u540c\u985e\u6548\u679c\u7684\u6301\u7e8c\u6642\u9593\u7e2e\u77ed60%\uff0c\u6301\u7e8c5\u79d2\u3002",
+    "zh_CN": "\u7acb\u5373\u4ece\u53cb\u65b9\u76ee\u6807\u8eab\u4e0a\u79fb\u9664\u6240\u6709\u660f\u8ff7\uff0c\u6c89\u9ed8\uff0c\u6050\u60e7\u548c\u60ca\u9a87\u6548\u679c\uff0c\u5e76\u5728\u6b64\u540e\u76845\u79d2\u5185\u4f7f\u6b64\u7c7b\u6548\u679c\u7684\u6301\u7eed\u65f6\u95f4\u7f29\u77ed60%\u3002"
+  }
 }

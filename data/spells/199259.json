@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "199259"
+  "SpellID": "199259",
+  "name_blz": {
+    "en_US": "Driven to Madness",
+    "es_MX": "Llevado a la locura",
+    "pt_BR": "Impelido \u00e0 Loucura",
+    "de_DE": "In den Wahnsinn getrieben",
+    "en_GB": "Driven to Madness",
+    "es_ES": "Llevado a la locura",
+    "fr_FR": "Rendu fou",
+    "it_IT": "Condotto alla Pazzia",
+    "ru_RU": "\u0414\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0434\u043e \u0431\u0435\u0437\u0443\u043c\u0438\u044f",
+    "ko_KR": "\uad11\uae30\uc5d0 \ub0b4\ubab0\ub9ac\ub2e4",
+    "zh_TW": "\u903c\u5165\u760b\u72c2",
+    "zh_CN": "\u5815\u5165\u75af\u72c2"
+  },
+  "description_blz": {
+    "en_US": "While Voidform or Dark Ascension is not active, being attacked will reduce the cooldown of Void Eruption and Dark Ascension by 3 sec.",
+    "es_MX": "Mientras Forma del vac\u00edo o Ascensi\u00f3n oscura est\u00e1n activas, recibir ataques reducir\u00e1 el tiempo de reutilizaci\u00f3n de Erupci\u00f3n del vac\u00edo y Ascensi\u00f3n oscura 3 s.",
+    "pt_BR": "Quando a Forma do Caos ou a Ascens\u00e3o Sombria n\u00e3o est\u00e1 ativa, ser atacado reduz a recarga da Erup\u00e7\u00e3o do Caos e Ascens\u00e3o Sombria em 3 s.",
+    "de_DE": "Sind die Leerengestalt oder 'Dunkler Aufstieg' nicht aktiv, verringert sich die Abklingzeit von 'Leereneruption' und 'Dunkler Aufstieg' um 3 Sek., wenn Ihr angegriffen werdet.",
+    "en_GB": "While Voidform or Dark Ascension is not active, being attacked will reduce the cooldown of Void Eruption and Dark Ascension by 3 sec.",
+    "es_ES": "Mientras Forma del Vac\u00edo o Ascensi\u00f3n oscura no est\u00e9n activas, recibir ataques reducir\u00e1 3 s el tiempo de reutilizaci\u00f3n de Erupci\u00f3n del Vac\u00edo y Ascensi\u00f3n oscura.",
+    "fr_FR": "Quand votre forme du Vide ou Sombre ascension ne sont pas actives, les temps de recharge d\u2019\u00c9ruption du Vide et de Sombre ascension sont r\u00e9duits de 3\u00a0s lorsqu\u2019on vous attaque.",
+    "it_IT": "Mentre Forma del Vuoto o Ascensione Oscura non sono attive, subire attacchi riduce il tempo di recupero di Eruzione del Vuoto e Ascensione Oscura di 3 s.",
+    "ru_RU": "\u0415\u0441\u043b\u0438 \u0432\u0430\u0441 \u0430\u0442\u0430\u043a\u0443\u044e\u0442, \u043f\u043e\u043a\u0430 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0435\u043d \"\u041e\u0431\u043b\u0438\u043a \u0411\u0435\u0437\u0434\u043d\u044b\" \u0438\u043b\u0438 \"\u0422\u0435\u043c\u043d\u043e\u0435 \u0432\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u0435\", \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0418\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u044f \u0411\u0435\u0437\u0434\u043d\u044b\" \u0438 \"\u0422\u0435\u043c\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uacf5\ud5c8\uc758 \ud615\uc0c1\uc774\ub098 \uc5b4\ub460\uc758 \uc2b9\ucc9c\uc774 \ud65c\uc131\ud654\ub418\uc9c0 \uc54a\uc740 \uc0c1\ud0dc\uc5d0\uc11c \uacf5\uaca9\uc744 \ubc1b\uc73c\uba74 \uacf5\ud5c8 \ubc29\ucd9c\uacfc \uc5b4\ub460\uc758 \uc2b9\ucc9c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 3\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u975e\u865b\u7121\u5f62\u614b\u6216\u9ed1\u6697\u7570\u8b8a\u72c0\u614b\u4e0b\uff0c\u53d7\u5230\u653b\u64ca\u6703\u4f7f\u865b\u7121\u7206\u767c\u548c\u9ed1\u6697\u7570\u8b8a\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed3\u79d2\u3002",
+    "zh_CN": "\u865a\u7a7a\u5f62\u6001\u548c\u9ed1\u6697\u5347\u534e\u672a\u6fc0\u6d3b\u65f6\uff0c\u53d7\u5230\u653b\u51fb\u4f1a\u4f7f\u865a\u7a7a\u7206\u53d1\u548c\u9ed1\u6697\u5347\u534e\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed3\u79d2\u3002"
+  }
 }

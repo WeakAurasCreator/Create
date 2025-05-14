@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "221622"
+  "SpellID": "221622",
+  "name_blz": {
+    "en_US": "Thick as Thieves",
+    "es_MX": "Excelentes amigos",
+    "pt_BR": "Unha e Carne",
+    "de_DE": "Echte Schurkenfreunde",
+    "en_GB": "Thick as Thieves",
+    "es_ES": "U\u00f1a y carne",
+    "fr_FR": "Comme larrons en foire",
+    "it_IT": "Denso come i Ladri",
+    "ru_RU": "\u041d\u0435 \u0440\u0430\u0437\u043b\u0435\u0439 \u0432\u043e\u0434\u0430",
+    "ko_KR": "\ub3c4\ub451\uc758 \ubc30\uc9f1",
+    "zh_TW": "\u5f62\u5f71\u4e0d\u96e2",
+    "zh_CN": "\u5077\u5929\u6362\u65e5"
+  },
+  "description_blz": {
+    "en_US": "Tricks of the Trade now increases the friendly target's damage by 15% for 6 sec.",
+    "es_MX": "Ahora, Trucos y trampas aumenta el da\u00f1o infligido por tu objetivo aliado un 15% durante 6 s.",
+    "pt_BR": "Truques do Of\u00edcio agora aumentam em 15% o dano causado pelo alvo aliado por 6 s.",
+    "de_DE": "'Schurkenhandel' erh\u00f6ht den Schaden des verb\u00fcndeten Ziels f\u00fcr 6 Sek. um 15%.",
+    "en_GB": "Tricks of the Trade now increases the friendly target's damage by 15% for 6 sec.",
+    "es_ES": "Ahora Secretos del oficio aumenta el da\u00f1o del objetivo amistoso un 15% durante 6 s.",
+    "fr_FR": "Ficelles du m\u00e9tier augmente les d\u00e9g\u00e2ts de la cible alli\u00e9e de 15% pendant 6 s.",
+    "it_IT": "Trucchi del Mestiere aumenta i danni inflitti dal bersaglio alleato del 15% per 6 s.",
+    "ru_RU": "\"\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435 \u0445\u0438\u0442\u0440\u043e\u0441\u0442\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u043c \u0443\u0440\u043e\u043d \u043d\u0430 15% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc18d\uc784\uc218 \uac70\ub798 \uc0ac\uc6a9 \uc2dc 6\ucd08 \ub3d9\uc548 \uc544\uad70 \ub300\uc0c1\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5077\u5929\u63db\u65e5\u73fe\u5728\u6703\u8b93\u53cb\u65b9\u76ee\u6a19\u7684\u50b7\u5bb3\u63d0\u9ad815%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5ac1\u7978\u8bc0\u7a8d\u73b0\u5728\u4f1a\u4f7f\u53cb\u65b9\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

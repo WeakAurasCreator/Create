@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "191331"
+  "SpellID": "191331",
+  "name_blz": {
+    "en_US": "Recipe: Leystone Hoofplates",
+    "es_MX": "Receta: placas de piedra ley para pezu\u00f1as",
+    "pt_BR": "Receita: Ferraduras de Pedra de Meridiano",
+    "de_DE": "Pl\u00e4ne: Leysteinhufplatten",
+    "en_GB": "Recipe: Leystone Hoofplates",
+    "es_ES": "Receta: placas de piedra Ley para pezu\u00f1as",
+    "fr_FR": "Plan\u00a0: Plaques de sabot en tellurium",
+    "it_IT": "Progetto: Parazoccoli di Fagliaroccia",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u041d\u0430\u043a\u043e\u043f\u044b\u0442\u043d\u0438\u043a\u0438 \u0438\u0437 \u0441\u0438\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f",
+    "ko_KR": "\ub3c4\uba74: \uc9c0\ub9e5\uc11d \ubc1c\uad7d\ubcf4\ud638\ub300",
+    "zh_TW": "\u8a2d\u8a08\u5716\uff1a\u8108\u77f3\u8e44\u7532",
+    "zh_CN": "\u914d\u65b9\uff1a\u9b54\u77f3\u8e44\u94c1"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to make Leystone Hoofplates.",
+    "es_MX": "Te ense\u00f1a a hacer placas de piedra ley para pezu\u00f1as.",
+    "pt_BR": "Ensina a fazer Ferraduras de Pedra de Meridiano.",
+    "de_DE": "Lehrt Euch, wie man Leysteinhufplatten herstellt.",
+    "en_GB": "Teaches you how to make Leystone Hoofplates.",
+    "es_ES": "Te ense\u00f1a a hacer placas de piedra Ley para pezu\u00f1as.",
+    "fr_FR": "Vous apprend \u00e0 fa\u00e7onner des Plaques de sabot en tellurium.",
+    "it_IT": "Apprendi come creare dei Parazoccoli di Fagliaroccia.",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u043d\u0430\u043a\u043e\u043f\u044b\u0442\u043d\u0438\u043a\u043e\u0432 \u0438\u0437 \u0441\u0438\u043b\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f.",
+    "ko_KR": "\uc9c0\ub9e5\uc11d \ubc1c\uad7d\ubcf4\ud638\ub300 \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u88fd\u4f5c\u8108\u77f3\u8e44\u7532\u3002",
+    "zh_CN": "\u6559\u4f60\u5b66\u4f1a\u5236\u4f5c\u9b54\u77f3\u8e44\u94c1\u3002"
+  }
 }

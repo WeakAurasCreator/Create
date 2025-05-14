@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "201605"
+  "SpellID": "201605",
+  "name_blz": {
+    "en_US": "Schematic: Reaves Module: Fireworks Display Mode",
+    "es_MX": "Esquema: M\u00f3dulo de Atraquito: Modo visualizaci\u00f3n de fuegos artificiales",
+    "pt_BR": "Diagrama: M\u00f3dulo de Dem\u00f3litus: Modo Exibi\u00e7\u00e3o de Fogos de Artif\u00edcio",
+    "de_DE": "Bauplan: Reaves-Modul: Feuerwerkmodus",
+    "en_GB": "Schematic: Reaves Module: Fireworks Display Mode",
+    "es_ES": "Esquema: m\u00f3dulo de Atraquito: modo de fuegos artificiales",
+    "fr_FR": "Sch\u00e9ma\u00a0: Module de Reeves, mode Feux d\u2019artifice",
+    "it_IT": "Schema: Modulo di Razzy - Fuochi d'Artificio",
+    "ru_RU": "\u0421\u0445\u0435\u043c\u0430: \u043c\u043e\u0434\u0443\u043b\u044c \u0441\u043a\u0432\u0435\u0440\u043d\u043e\u0431\u043e\u0442\u0438\u043a\u0430: \u0440\u0435\u0436\u0438\u043c \u0444\u0435\u0439\u0435\u0440\u0432\u0435\u0440\u043a\u043e\u0432",
+    "ko_KR": "\uc124\uacc4\ub3c4: \ub9ac\ube0c\uc2a4 \ubaa8\ub4c8: \ud3ed\uc8fd \ud130\ub728\ub9ac\uae30 \ubaa8\ub4dc",
+    "zh_TW": "\u7d50\u69cb\u5716\uff1a\u52ab\u798f\u65af\u7159\u706b\u5c55\u793a\u6a21\u7d44",
+    "zh_CN": "\u7ed3\u6784\u56fe\uff1a\u91cc\u5f17\u65af\u6a21\u5757\uff1a\u70df\u706b\u8868\u6f14\u6a21\u5f0f"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following item:\r\nReaves Module: Fireworks Display Mode",
+    "es_MX": "Aprende a fabricar el siguiente objeto:\r\nM\u00f3dulo de Atraquito: modo visualizaci\u00f3n de fuegos artificiales",
+    "pt_BR": "Aprenda a criar o seguinte item:\r\nM\u00f3dulo de Dem\u00f3litus: Modo de Exibi\u00e7\u00e3o de Fogos de Artif\u00edcio",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nReaves-Modul: Feuerwerkmodus",
+    "en_GB": "Learn to craft the following item:\r\nReaves Module: Fireworks Display Mode",
+    "es_ES": "Aprende a fabricar el siguiente objeto:\r\nM\u00f3dulo de Atraquito: modo de fuegos artificiales",
+    "fr_FR": "Apprend \u00e0 fabriquer l\u2019objet suivant\u00a0:\r\nModule de Reeves\u00a0: mode Feux d\u2019artifice",
+    "it_IT": "Apprendi come creare il seguente oggetto:\r\nModulo di Razzy - Fuochi d'Artificio",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442:\r\n\u041c\u043e\u0434\u0443\u043b\u044c \u0441\u043a\u0432\u0435\u0440\u043d\u043e\u0431\u043e\u0442\u0438\u043a\u0430: \u0440\u0435\u0436\u0438\u043c \u0444\u0435\u0439\u0435\u0440\u0432\u0435\u0440\u043a\u043e\u0432",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\ub9ac\ube0c\uc2a4 \ubaa8\ub4c8: \ud3ed\uc8fd \ud130\ub728\ub9ac\uae30 \ubaa8\ub4dc",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4ee5\u4e0b\u7269\u54c1\uff1a\r\n\u52ab\u798f\u65af\u7159\u706b\u5c55\u793a\u6a21\u7d44",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u91cc\u5f17\u65af\u6a21\u5757\uff1a\u70df\u706b\u8868\u6f14\u6a21\u5f0f"
+  }
 }

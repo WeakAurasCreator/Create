@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "196926"
+  "SpellID": "196926",
+  "name_blz": {
+    "en_US": "Crusader's Might",
+    "es_MX": "Poder del cruzado",
+    "pt_BR": "Poder do Cruzado",
+    "de_DE": "Macht des Kreuzfahrers",
+    "en_GB": "Crusader's Might",
+    "es_ES": "Poder\u00edo del cruzado",
+    "fr_FR": "Puissance du crois\u00e9",
+    "it_IT": "Vigore del Crociato",
+    "ru_RU": "\u041c\u043e\u0449\u044c \u0440\u044b\u0446\u0430\u0440\u044f",
+    "ko_KR": "\uc131\uc804\uc0ac\uc758 \uad8c\ub2a5",
+    "zh_TW": "\u5341\u5b57\u8ecd\u4e4b\u529b",
+    "zh_CN": "\u5341\u5b57\u519b\u4e4b\u529b"
+  },
+  "description_blz": {
+    "en_US": "Crusader Strike reduces the cooldown of Holy Shock and Judgment by 2.0 sec.",
+    "es_MX": "Golpe de cruzado reduce 2.0 s el tiempo de reutilizaci\u00f3n de Choque Sagrado y Sentencia.",
+    "pt_BR": "Golpe do Cruzado reduz em 2,0 s a recarga de Choque Sagrado e Julgamento.",
+    "de_DE": "'Kreuzfahrersto\u00df' verringert die Abklingzeit von 'Heiliger Schock' und 'Richturteil' um 2,0 Sek.",
+    "en_GB": "Crusader Strike reduces the cooldown of Holy Shock and Judgment by 2.0 sec.",
+    "es_ES": "Golpe de cruzado reduce 2,0 s el tiempo de reutilizaci\u00f3n de Choque Sagrado y Sentencia.",
+    "fr_FR": "Frappe du crois\u00e9 diminue le temps de recharge de Horion sacr\u00e9 et Jugement de 2,0\u00a0s.",
+    "it_IT": "Assalto del Crociato riduce il tempo di recupero di Folgore Sacra e Giudizio di 2,0 s.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u0432\u043e\u0438\u043d\u0430 \u0421\u0432\u0435\u0442\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\" \u0438 \"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u044f\" \u043d\u0430 2,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc131\uc804\uc0ac\uc758 \uc77c\uaca9 \uc0ac\uc6a9 \uc2dc \uc2e0\uc131 \ucda9\uaca9 \ubc0f \uc2ec\ud310\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5341\u5b57\u8ecd\u8056\u64ca\u6703\u4f7f\u795e\u8056\u9707\u64ca\u548c\u5be9\u5224\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2.0\u79d2\u3002",
+    "zh_CN": "\u5341\u5b57\u519b\u6253\u51fb\u4f7f\u4f60\u7684\u795e\u5723\u9707\u51fb\u548c\u5ba1\u5224\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2.0\u79d2\u3002"
+  }
 }

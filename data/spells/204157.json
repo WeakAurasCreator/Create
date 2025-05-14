@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "204157"
+  "SpellID": "204157",
+  "name_blz": {
+    "en_US": "Throw Glaive",
+    "es_MX": "Lanzar guja",
+    "pt_BR": "Arremessar Glaive",
+    "de_DE": "Gleve werfen",
+    "en_GB": "Throw Glaive",
+    "es_ES": "Lanzar guja",
+    "fr_FR": "Lancer de glaive",
+    "it_IT": "Lancio Lama",
+    "ru_RU": "\u0411\u0440\u043e\u0441\u043e\u043a \u0431\u043e\u0435\u0432\u043e\u0433\u043e \u043a\u043b\u0438\u043d\u043a\u0430",
+    "ko_KR": "\uae00\ub808\uc774\ube0c \ud22c\ucc99",
+    "zh_TW": "\u6295\u64f2\u6230\u5203",
+    "zh_CN": "\u6295\u63b7\u5229\u5203"
+  },
+  "description_blz": {
+    "en_US": "Throw a demonic glaive at the target, dealing 112 Physical damage. The glaive can ricochet to an additional enemy within 10 yards. Generates high threat.",
+    "es_MX": "Lanza una guja demon\u00edaca al objetivo que inflige 112 p. de da\u00f1o f\u00edsico. La guja puede rebotar y golpear a un enemigo m\u00e1s en un radio de 10 m. Genera una gran amenaza.",
+    "pt_BR": "Arremessa uma glaive demon\u00edaca no alvo, causando 112 de dano F\u00edsico. A glaive pode ricochetear em at\u00e9 mais um inimigo em um raio de 10 m. Gera uma grande quantidade de amea\u00e7a.",
+    "de_DE": "Schleudert eine d\u00e4monische Gleve nach dem Ziel, die 111 k\u00f6rperlichen Schaden verursacht. Die Gleve kann auf einen weiteren Gegner innerhalb von 10 Metern \u00fcberspringen. Erzeugt ein hohes Ma\u00df an Bedrohung.",
+    "en_GB": "Throw a demonic glaive at the target, dealing 112 Physical damage. The glaive can ricochet to an additional enemy within 10 yards. Generates high threat.",
+    "es_ES": "Lanza una guja demon\u00edaca al objetivo que inflige 114 p. de da\u00f1o f\u00edsico. La guja puede rebotar en un enemigo extra en un radio de 10 m. Genera una gran cantidad de amenaza.",
+    "fr_FR": "Vous lancez sur la cible un glaive d\u00e9moniaque qui lui inflige 113\u00a0points de d\u00e9g\u00e2ts physiques. Il peut rebondir sur 1\u00a0ennemi suppl\u00e9mentaire \u00e0 moins de 10\u00a0m\u00e8tres. G\u00e9n\u00e8re un niveau de menace \u00e9lev\u00e9.",
+    "it_IT": "Lancia una lama demoniaca contro il bersaglio, infliggendo 111 danni fisici. La lama pu\u00f2 rimbalzare su un nemico aggiuntivo entro 10 m. Genera una grande quantit\u00e0 di minaccia.",
+    "ru_RU": "\u0411\u0440\u043e\u0441\u0430\u0435\u0442 \u0432 \u0446\u0435\u043b\u044c \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0433\u043b\u0435\u0444\u0443, \u043d\u0430\u043d\u043e\u0441\u044f 113 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u0413\u043b\u0435\u0444\u0430 \u043c\u043e\u0436\u0435\u0442 \u043e\u0442\u0440\u0438\u043a\u043e\u0448\u0435\u0442\u0438\u0442\u044c \u0438 \u043d\u0430\u043d\u0435\u0441\u0442\u0438 \u0443\u0440\u043e\u043d \u0435\u0449\u0435 \u043e\u0434\u043d\u043e\u043c\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c. \u0417\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0443\u0433\u0440\u043e\u0437\u044b.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uc545\ub9c8\uc758 \uae00\ub808\uc774\ube0c\ub97c \ud22c\ucc99\ud558\uc5ec 113\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc774\ud6c4 \uae00\ub808\uc774\ube0c\ub294 10\ubbf8\ud130 \ub0b4\uc758 \uc801\uc5d0\uac8c \ucd94\uac00\ub85c 1\ud68c\uae4c\uc9c0 \ud295\uae41\ub2c8\ub2e4. \uc704\ud611 \uc218\uc900\uc774 \ud06c\uac8c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u76ee\u6a19\u6295\u51fa\u60e1\u9b54\u6230\u5203\uff0c\u9020\u6210114\u9ede\u7269\u7406\u50b7\u5bb3\u3002\u6230\u5203\u6700\u591a\u53ef\u5f48\u8df3\u81f310\u78bc\u7bc4\u570d\u5167\u7684\u984d\u5916\u4e00\u540d\u6575\u4eba\uff0c\u4e26\u7522\u751f\u5927\u91cf\u5a01\u8105\u503c\u3002",
+    "zh_CN": "\u5411\u76ee\u6807\u6295\u63b7\u4e00\u628a\u6076\u9b54\u6218\u5203\uff0c\u9020\u6210110\u70b9\u7269\u7406\u4f24\u5bb3\u3002\u6218\u5203\u53ef\u4ee5\u572810\u7801\u8303\u56f4\u5185\u989d\u5916\u76841\u540d\u654c\u4eba\u4e4b\u95f4\u5f39\u5c04\u3002\u4ea7\u751f\u5f88\u9ad8\u7684\u5a01\u80c1\u503c\u3002"
+  }
 }

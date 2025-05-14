@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "209577"
+  "SpellID": "209577",
+  "name_blz": {
+    "en_US": "Warbreaker",
+    "es_MX": "Belicista",
+    "pt_BR": "Senhora da Guerra",
+    "de_DE": "Kriegsbrecher",
+    "en_GB": "Warbreaker",
+    "es_ES": "Bel\u00edgera",
+    "fr_FR": "Brise-guerre",
+    "it_IT": "Spezzaguerra",
+    "ru_RU": "\u041c\u0438\u0440\u043e\u0442\u0432\u043e\u0440\u0435\u0446",
+    "ko_KR": "\uc804\uc7c1\ud30c\uad34\uc790",
+    "zh_TW": "\u7834\u6230\u5236\u9738",
+    "zh_CN": "\u706d\u6218\u8005"
+  },
+  "description_blz": {
+    "en_US": "Stomp the ground, causing a ring of corrupted spikes to erupt upwards, dealing 119 Shadow damage and applying the Colossus Smash effect to all nearby enemies.",
+    "es_MX": "Da un pisot\u00f3n, lo que provoca que emerja un anillo de pinchos corrompidos. El anillo inflige 119 p. de da\u00f1o de las Sombras y aplica el efecto Machaque colosal a todos los enemigos cercanos.",
+    "pt_BR": "Pisa no ch\u00e3o, fazendo com que um c\u00edrculo de espetos corrompidos saiam do ch\u00e3o, causando 119 de dano de Sombra e aplicando o efeito Golpe Colossal a todos os inimigos pr\u00f3ximos.",
+    "de_DE": "Stampft auf den Boden und l\u00e4sst einen Ring verderbter Stacheln aus dem Boden hervorbrechen, die 119 Schattenschaden verursachen und alle Gegner in der N\u00e4he mit dem Effekt von 'Kolossales Schmettern' belegen.",
+    "en_GB": "Stomp the ground, causing a ring of corrupted spikes to erupt upwards, dealing 119 Shadow damage and applying the Colossus Smash effect to all nearby enemies.",
+    "es_ES": "Golpea el suelo y provoca que surja un c\u00edrculo de p\u00faas corruptas que infligen 119 p. de da\u00f1o de las Sombras y aplican el efecto de Machaque colosal a todos los enemigos cercanos.",
+    "fr_FR": "Vous frappez le sol et faites surgir un cercle de pointes corrompues qui infligent 119\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre et appliquent l\u2019effet Frappe du colosse aux ennemis proches.",
+    "it_IT": "Colpisce il terreno, provocando un anello di spuntoni che emergono dal terreno, infliggendo 119 danni da ombra e applicando l'effetto di Colpo del Colosso a tutti i nemici vicini.",
+    "ru_RU": "\u0421\u043e\u0442\u0440\u044f\u0441\u0430\u0435\u0442 \u0437\u0435\u043c\u043b\u044e, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u0432\u044b\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043e\u0441\u043a\u0432\u0435\u0440\u043d\u0435\u043d\u043d\u044b\u0435 \u0448\u0438\u043f\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c 119 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442 \u043a \u043d\u0438\u043c \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0423\u0434\u0430\u0440\u0430 \u043a\u043e\u043b\u043e\u0441\u0441\u0430\".",
+    "ko_KR": "\ub545\uc744 \uc6b8\ub824 \ud0c0\ub77d\ud55c \uc410\uae30\uc758 \uace0\ub9ac\ub97c \ubd84\ucd9c\uc2dc\ud0b5\ub2c8\ub2e4. \uc8fc\uc704 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 119\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uac70\uc778\uc758 \uac15\ud0c0 \ud6a8\uacfc\ub97c \uc801\uc6a9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8e10\u8e0f\u5730\u9762\uff0c\u4f7f\u5730\u9762\u5192\u51fa\u4e00\u5708\u8150\u5316\u5c16\u523a\uff0c\u9020\u6210119\u9ede\u6697\u5f71\u50b7\u5bb3\u4e26\u5c0d\u9644\u8fd1\u6240\u6709\u6575\u4eba\u65bd\u52a0\u5343\u921e\u6f70\u64ca\u6548\u679c\u3002",
+    "zh_CN": "\u8df5\u8e0f\u5730\u9762\uff0c\u4f7f\u5f97\u4e00\u5708\u8150\u5316\u4e4b\u523a\u62d4\u5730\u800c\u8d77\uff0c\u9020\u6210119\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u5bf9\u9644\u8fd1\u6240\u6709\u654c\u4eba\u65bd\u653e\u5de8\u4eba\u6253\u51fb\u7684\u6548\u679c\u3002"
+  }
 }

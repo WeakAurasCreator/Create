@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "207142"
+  "SpellID": "207142",
+  "name_blz": {
+    "en_US": "Avalanche",
+    "es_MX": "Avalancha",
+    "pt_BR": "Avalanche",
+    "de_DE": "Lawine",
+    "en_GB": "Avalanche",
+    "es_ES": "Avalancha",
+    "fr_FR": "Avalanche",
+    "it_IT": "Slavina",
+    "ru_RU": "\u041b\u0430\u0432\u0438\u043d\u0430",
+    "ko_KR": "\ub208\uc0ac\ud0dc",
+    "zh_TW": "\u5d29\u64ca",
+    "zh_CN": "\u96ea\u5d29"
+  },
+  "description_blz": {
+    "en_US": "Casting Howling Blast with Rime active causes jagged icicles to fall on enemies nearby your target, applying Razorice and dealing 120 Frost damage.",
+    "es_MX": "Lanzar Explosi\u00f3n aullante mientras Helada blanca est\u00e1 activa hace que caigan car\u00e1mbanos dentados sobre los enemigos cercanos a tu objetivo, lo que aplica Cuchilla de hielo e inflige 118 p. de da\u00f1o de escarcha.",
+    "pt_BR": "Lan\u00e7ar Impacto Uivante com a Geada ativa faz sincelos de gelo serrilhados ca\u00edrem perto do seu alvo, aplicando Gel\u00e2mina e causando 118 de dano de Gelo.",
+    "de_DE": "W\u00e4hrend Euer 'Raureif' aktiv ist, fallen bei jedem Einsatz von 'Heulende B\u00f6e' zus\u00e4tzlich gezackte Eiszapfen auf Gegner in der N\u00e4he Eures Ziels herab, die sie mit 'Schneidendes Eis' belegen und ihnen 119 Frostschaden zuf\u00fcgen.",
+    "en_GB": "Casting Howling Blast with Rime active causes jagged icicles to fall on enemies nearby your target, applying Razorice and dealing 119 Frost damage.",
+    "es_ES": "Lanzar Explosi\u00f3n aullante con Helada blanca activa hace que caigan car\u00e1mbanos dentados sobre los enemigos cercanos a tu objetivo, lo que aplica Cuchilla de hielo e inflige 120 p. de da\u00f1o de Escarcha.",
+    "fr_FR": "Lancer Rafale hurlante tant que Frimas est actif fait s\u2019abattre des gla\u00e7ons tranchants sur les adversaires proches de votre cible, leur applique Trancheglace et leur inflige 120\u00a0points de d\u00e9g\u00e2ts de givre.",
+    "it_IT": "Lanciare Folata Gelida quando Brina \u00e8 attiva fa s\u00ec che stalattiti di ghiaccio cadano sui nemici vicini al bersaglio, affliggendoli con Lama di Ghiaccio e infliggendo 119 danni da gelo.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0430\u043a\u0442\u0438\u0432\u0435\u043d \"\u0418\u043d\u0435\u0439\", \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \"\u0412\u043e\u044e\u0449\u0435\u0433\u043e \u0432\u0435\u0442\u0440\u0430\" \u043d\u0430 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441 \u0446\u0435\u043b\u044c\u044e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043f\u0430\u0434\u0430\u044e\u0442 \u043e\u0441\u0442\u0440\u044b\u0435 \u0441\u043e\u0441\u0443\u043b\u044c\u043a\u0438, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 118 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430 \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0420\u0435\u0436\u0443\u0449\u0438\u0439 \u043b\u0435\u0434\".",
+    "ko_KR": "\ub2e8\ub2e8\ud55c \uc5bc\uc74c\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc6b8\ubd80\uc9d6\ub294 \ud55c\ud30c\ub97c \uc2dc\uc804\ud558\uba74 \uc790\uc2e0\uc758 \ub300\uc0c1 \uc8fc\uc704\uc758 \uc801\ub4e4\uc5d0\uac8c \ubfb0\uc871\ud55c \uace0\ub4dc\ub984\uc774 \ub5a8\uc5b4\uc838 \uce7c\ub0a0\uc5bc\uc74c\uc744 \ubd80\uc5ec\ud558\uace0 121\uc758 \ub0c9\uae30 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u53d7\u51dd\u971c\u5f37\u5316\u7684\u51dc\u98a8\u885d\u64ca\uff0c\u53ef\u4f7f\u92f8\u9f52\u51b0\u67f1\u5f9e\u7a7a\u4e2d\u843d\u5411\u76ee\u6a19\u9644\u8fd1\u7684\u6575\u4eba\uff0c\u65bd\u52a0\u51b0\u5243\u4e26\u9020\u6210118\u9ede\u51b0\u971c\u50b7\u5bb3\u3002",
+    "zh_CN": "\u767d\u971c\u6fc0\u6d3b\u65f6\u65bd\u653e\u51db\u98ce\u51b2\u51fb\u4f1a\u4f7f\u9510\u5229\u7684\u51b0\u5757\u7838\u5411\u76ee\u6807\u9644\u8fd1\u7684\u654c\u4eba\uff0c\u65bd\u52a0\u950b\u9510\u4e4b\u971c\u6548\u679c\uff0c\u9020\u6210119\u70b9\u51b0\u971c\u4f24\u5bb3\u3002"
+  }
 }

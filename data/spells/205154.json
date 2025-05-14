@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "205154"
+  "SpellID": "205154",
+  "name_blz": {
+    "en_US": "Mecha-Bond Imprint Matrix",
+    "es_MX": "Matriz grabada de v\u00ednculo mecanizado",
+    "pt_BR": "Matriz de Imprinting de Meca-v\u00ednculo",
+    "de_DE": "Mechanische Pr\u00e4gungsmatrix",
+    "en_GB": "Mecha-Bond Imprint Matrix",
+    "es_ES": "Matriz para marcar mecav\u00ednculo",
+    "fr_FR": "Matrice d\u2019impression de m\u00e9ca-lien",
+    "it_IT": "Meccamatrice di Stampa",
+    "ru_RU": "\u041c\u0430\u0442\u0440\u0438\u0446\u0430 \u0438\u043c\u043f\u0440\u0438\u043d\u0442\u0438\u043d\u0433\u0430 \u043c\u0435\u0445\u0430-\u043f\u0440\u0438\u0432\u044f\u0437\u043a\u0438",
+    "ko_KR": "\uae30\uacc4 \uc720\ub300 \uac01\uc778 \ud68c\ub85c\ub9dd",
+    "zh_TW": "\u6a5f\u68b0\u611b\u5bf5\u5370\u75d5\u77e9\u9663",
+    "zh_CN": "\u673a\u68b0\u8054\u7ed3\u70d9\u5370\u77e9\u9635"
+  },
+  "description_blz": {
+    "en_US": "Allows you to tame pets in the Mechanical family.",
+    "es_MX": "Te permite domesticar mascotas en el grupo de mec\u00e1nicos.",
+    "pt_BR": "Permite domar mascotes da fam\u00edlia Mec\u00e2nica.",
+    "de_DE": "Gestattet es Euch, Haustiere aus der Mechanoidenfamilie zu z\u00e4hmen.",
+    "en_GB": "Allows you to tame pets in the Mechanical family.",
+    "es_ES": "Te permite domesticar mascotas de la familia M\u00e1quina.",
+    "fr_FR": "Vous permet d\u2019apprivoiser des familiers de type m\u00e9canique.",
+    "it_IT": "Permette di addomesticare i famigli meccanici.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0430\u043c \u043f\u0440\u0438\u0440\u0443\u0447\u0430\u0442\u044c \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u0432 \u0438\u0437 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c\u043e\u0432.",
+    "ko_KR": "\uae30\uacc4 \uc18c\ud658\uc218\ub97c \uae38\ub4e4\uc77c \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u53ef\u4ee5\u99b4\u670d\u6a5f\u68b0\u505a\u70ba\u5bf5\u7269\u3002",
+    "zh_CN": "\u8ba9\u4f60\u53ef\u4ee5\u9a6f\u670d\u673a\u68b0\u7c7b\u5ba0\u7269\u3002"
+  }
 }

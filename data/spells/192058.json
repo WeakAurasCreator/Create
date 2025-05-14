@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "192058"
+  "SpellID": "192058",
+  "name_blz": {
+    "en_US": "Capacitor Totem",
+    "es_MX": "T\u00f3tem capacitador",
+    "pt_BR": "Totem Capacitor",
+    "de_DE": "Totem der Energiespeicherung",
+    "en_GB": "Capacitor Totem",
+    "es_ES": "T\u00f3tem capacitador",
+    "fr_FR": "Totem condensateur",
+    "it_IT": "Totem della Condensazione Elettrica",
+    "ru_RU": "\u0422\u043e\u0442\u0435\u043c \u043a\u043e\u043d\u0434\u0435\u043d\u0441\u0430\u0446\u0438\u0438",
+    "ko_KR": "\ucd95\uc804 \ud1a0\ud15c",
+    "zh_TW": "\u96fb\u5bb9\u5716\u9a30",
+    "zh_CN": "\u7535\u80fd\u56fe\u817e"
+  },
+  "description_blz": {
+    "en_US": "Summons a totem at the target location that gathers electrical energy from the surrounding air and explodes after 2 sec, stunning all enemies within 8 yards for 3 sec.",
+    "es_MX": "Invoca un t\u00f3tem en la ubicaci\u00f3n seleccionada que absorbe energ\u00eda el\u00e9ctrica del aire que lo rodea, explota despu\u00e9s de 2 s y aturde a todos los enemigos en un radio de 8 m durante 3 s.",
+    "pt_BR": "Evoca no local selecionado um totem que re\u00fane energia el\u00e9trica do ar e explode depois de 2 s, atordoando todos os inimigos em um raio de 8 m por 3 s.",
+    "de_DE": "Beschw\u00f6rt ein Totem am Zielort, das elektrische Energie aus der umgebenden Luft sammelt und nach 2 Sek. explodiert, was alle Gegner innerhalb von 8 Metern f\u00fcr 3 Sek. bet\u00e4ubt.",
+    "en_GB": "Summons a totem at the target location that gathers electrical energy from the surrounding air and explodes after 2 sec, stunning all enemies within 8 yards for 3 sec.",
+    "es_ES": "Invoca un t\u00f3tem en la ubicaci\u00f3n seleccionada que absorbe energ\u00eda el\u00e9ctrica del aire que lo rodea y explota tras 2 s, lo que aturde a todos los enemigos en un radio de 8 m durante 3 s.",
+    "fr_FR": "Invoque \u00e0 l\u2019emplacement cibl\u00e9 un totem qui emmagasine l\u2019\u00e9nergie \u00e9lectrique de l\u2019air ambiant. Il explose au bout de 2\u00a0s et \u00e9tourdit les ennemis \u00e0 moins de 8\u00a0m\u00e8tres pendant 3 s.",
+    "it_IT": "Evoca sulla posizione bersaglio un totem che raccoglie energia elettrica dall'aria circostante e dopo 2 s esplode, stordendo tutti i nemici entro 8 m per 3 s.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0435 \u0442\u043e\u0442\u0435\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0438\u0437 \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \u0438 \u0447\u0435\u0440\u0435\u0437 2 \u0441\u0435\u043a. \u0432\u0437\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f, \u043e\u0433\u043b\u0443\u0448\u0430\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1 \uc704\uce58\uc5d0 \ud1a0\ud15c\uc744 \uc18c\ud658\ud558\uc5ec \uc8fc\uc704 \uacf5\uae30\uc5d0\uc11c \uc804\uae30 \uc5d0\ub108\uc9c0\ub97c \ud761\uc218\ud569\ub2c8\ub2e4. \ud1a0\ud15c\uc740 2\ucd08 \ud6c4\uc5d0 \ud3ed\ubc1c\ud558\uc5ec 8\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\ub4e4\uc744 3\ucd08 \ub3d9\uc548 \uae30\uc808\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u76ee\u6a19\u4f4d\u7f6e\u53ec\u559a\u4e00\u6839\u5716\u9a30\uff0c\u5f9e\u9644\u8fd1\u7684\u7a7a\u6c23\u4e2d\u532f\u805a\u96fb\u80fd\uff0c\u4e26\u4e14\u57282\u79d2\u5f8c\u7206\u70b8\uff0c\u4f7f8\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\u660f\u8ff73\u79d2\u3002",
+    "zh_CN": "\u5728\u76ee\u6807\u4f4d\u7f6e\u53ec\u5524\u4e00\u4e2a\u56fe\u817e\uff0c\u4ece\u5468\u56f4\u7684\u7a7a\u6c14\u4e2d\u805a\u96c6\u7535\u80fd\uff0c\u57282\u79d2\u4e4b\u540e\u7206\u70b8\uff0c\u4f7f\u5468\u56f48\u7801\u5185\u7684\u654c\u4eba\u660f\u8ff73\u79d2\u3002"
+  }
 }
