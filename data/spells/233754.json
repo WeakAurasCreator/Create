@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "233754"
+  "SpellID": "233754",
+  "name_blz": {
+    "en_US": "Celestial Guardian",
+    "es_MX": "Guardia celestial",
+    "pt_BR": "Guardi\u00e3o Celestial",
+    "de_DE": "Himmlischer W\u00e4chter",
+    "en_GB": "Celestial Guardian",
+    "es_ES": "Guardi\u00e1n celestial",
+    "fr_FR": "Gardien c\u00e9leste",
+    "it_IT": "Guardiano Celestiale",
+    "ru_RU": "\u041d\u0435\u0431\u0435\u0441\u043d\u044b\u0439 \u0441\u0442\u0440\u0430\u0436",
+    "ko_KR": "\ucc9c\uacf5\uc758 \uc218\ud638\uc790",
+    "zh_TW": "\u661f\u754c\u5b88\u8b77\u8005",
+    "zh_CN": "\u8d85\u51e1\u5b88\u62a4"
+  },
+  "description_blz": {
+    "en_US": "Bear Form reduces magic damage taken from spells by 10% and you may now cast Moonfire while in Bear Form.",
+    "es_MX": "Forma de oso reduce el da\u00f1o m\u00e1gico recibido de hechizos un 10% y ahora puedes lanzar Fuego lunar mientras est\u00e1s en Forma de oso.",
+    "pt_BR": "Forma de Urso reduz em 10% o dano m\u00e1gico recebido de feiti\u00e7os, e voc\u00ea pode lan\u00e7ar Fogo Lunar na Forma de Urso.",
+    "de_DE": "Die B\u00e4rengestalt verringert den durch Zauber erlittenen Magieschaden um 10% und Ihr k\u00f6nnt 'Mondfeuer' aus der B\u00e4rengestalt heraus einsetzen.",
+    "en_GB": "Bear Form reduces magic damage taken from spells by 10% and you may now cast Moonfire while in Bear Form.",
+    "es_ES": "Forma de oso reduce un 10% el da\u00f1o m\u00e1gico recibido de los hechizos y ahora puedes lanzar Fuego lunar mientras est\u00e1s en forma de oso.",
+    "fr_FR": "La forme d\u2019ours r\u00e9duit de 10% les d\u00e9g\u00e2ts magiques subis des sorts et permet d\u00e9sormais de lancer \u00c9clat lunaire.",
+    "it_IT": "La Forma d'Orso riduce i danni magici subiti dagli incantesimi del 10% e permette di lanciare Fuoco Lunare.",
+    "ru_RU": "\u0412 \u043e\u0431\u043b\u0438\u043a\u0435 \u043c\u0435\u0434\u0432\u0435\u0434\u044f \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043d\u0430 10% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \"\u041b\u0443\u043d\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\".",
+    "ko_KR": "\uacf0 \ubcc0\uc2e0\uc774 \uc8fc\ubb38\uc73c\ub85c \ubc1b\ub294 \ub9c8\ubc95 \ud53c\ud574\ub97c 10%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. \ub610\ud55c, \uacf0 \ubcc0\uc2e0 \uc0c1\ud0dc\uc5d0\uc11c \ub2ec\ube5b\uc12c\uad11\uc744 \uc2dc\uc804\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u718a\u5f62\u614b\u80fd\u4f7f\u6cd5\u8853\u9020\u6210\u7684\u9b54\u6cd5\u50b7\u5bb3\u964d\u4f4e10%\uff0c\u800c\u4e14\u73fe\u5728\u4f60\u80fd\u5920\u5728\u718a\u5f62\u614b\u65bd\u653e\u6708\u706b\u8853\u3002",
+    "zh_CN": "\u4f60\u5728\u718a\u5f62\u6001\u4e0b\u53d7\u5230\u7684\u6cd5\u672f\u4f24\u5bb3\u964d\u4f4e10%\uff0c\u5e76\u4e14\u4f60\u73b0\u5728\u53ef\u4ee5\u65bd\u653e\u6708\u706b\u672f\u4e86\u3002"
+  }
 }
