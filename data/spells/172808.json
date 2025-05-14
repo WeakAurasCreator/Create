@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "172808"
+  "SpellID": "172808",
+  "name_blz": {
+    "en_US": "Follower: Glirin",
+    "es_MX": "Seguidor: Glirin",
+    "pt_BR": "Seguidor: Glirin",
+    "de_DE": "Anh\u00e4nger: Glirin",
+    "en_GB": "Follower: Glirin",
+    "es_ES": "Seguidor: Glirin",
+    "fr_FR": "Sujet\u00a0: Glirin",
+    "it_IT": "Seguace: Glirin",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: \u0413\u043b\u0438\u0440\u0438\u043d",
+    "ko_KR": "\ucd94\uc885\uc790: \uae00\ub9ac\ub9b0",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a \u845b\u91cc\u6797",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u683c\u6797"
+  },
+  "description_blz": {
+    "en_US": "There's little you can't solve with a little ingenuity. It also helps to carry an axe, a crossbow, and an attitude.",
+    "es_MX": "Hay poco que no puedas solucionar con algo de ingenuidad. Tambi\u00e9n ayuda a cargar un hacha, una ballesta, y una actitud.",
+    "pt_BR": "Quase tudo se resolve com um punhado de engenhosidade. Dispor de um martelo, uma besta e bastante atitude tamb\u00e9m ajuda.",
+    "de_DE": "Es gibt fast kein Problem, das man nicht mit etwas Erfindungsreichtum l\u00f6sen k\u00f6nnte. \u00c4xte, Armbr\u00fcste und ein gesundes Selbstbewusstsein sind ebenfalls hilfreich.",
+    "en_GB": "There's little you can't solve with a little ingenuity. It also helps to carry an axe, a crossbow, and an attitude.",
+    "es_ES": "Pr\u00e1cticamente todo se puede resolver con un poco de ingenio. Tambi\u00e9n viene bien tener un hacha, una ballesta y car\u00e1cter.",
+    "fr_FR": "On peut presque tout r\u00e9soudre avec un peu d\u2019astuce. Avoir une hache, une arbal\u00e8te et sale caract\u00e8re peut aider, aussi.",
+    "it_IT": "Con un po' d'ingegno si pu\u00f2 risolvere quasi tutto. Anche avere un'ascia, una balestra e un certo atteggiamento aiuta.",
+    "ru_RU": "\u041d\u0435\u043c\u043d\u043e\u0433\u043e \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u2013 \u0438 \u043c\u043e\u0436\u043d\u043e \u0440\u0435\u0448\u0438\u0442\u044c \u043b\u044e\u0431\u0443\u044e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443. \u0415\u0449\u0435 \u0432 \u044d\u0442\u043e\u043c \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u0442\u043e\u043f\u043e\u0440, \u0430\u0440\u0431\u0430\u043b\u0435\u0442 \u0438 \u043a\u0440\u0443\u0442\u043e\u0439 \u043d\u0440\u0430\u0432.",
+    "ko_KR": "\uc57d\uac04\uc758 \ub3c5\ucc3d\uc131\ub9cc \uc788\ub2e4\uba74 \ud574\uacb0\ud558\uc9c0 \ubabb \ud560 \uc77c\uc740 \uac70\uc758 \uc5c6\uc2b5\ub2c8\ub2e4. \ubb3c\ub860 \ub3c4\ub07c\ub098 \uc11d\uad81, \ud654\ub048\ud55c \uc131\uaca9 \uc5ed\uc2dc \ub3c4\uc6c0\uc774 \ub9ce\uc774 \ub418\uc8e0.",
+    "zh_TW": "\u53ea\u8981\u767c\u63ee\u4e00\u9ede\u5275\u610f\uff0c\u5e7e\u4e4e\u6c92\u6709\u89e3\u6c7a\u4e0d\u4e86\u7684\u4e8b\u3002\u800c\u4e14\u9084\u6709\u52a9\u65bc\u651c\u5e36\u65a7\u982d\u3001\u5f29\u7bad\u548c\u7aef\u6b63\u614b\u5ea6\u3002",
+    "zh_CN": "\u5e26\u4e0a\u8fd9\u4e2a\u5c0f\u53d1\u660e\u5c31\u80fd\u89e3\u51b3\u4f60\u51e0\u4e4e\u6240\u6709\u7684\u95ee\u9898\u3002\u5b83\u8fd8\u80fd\u5e2e\u5fd9\u6297\u65a7\u5934\u3001\u5341\u5b57\u5f29\uff0c\u800c\u4e14\u6837\u5b50\u62c9\u98ce\u3002"
+  }
 }

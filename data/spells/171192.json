@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "171192"
+  "SpellID": "171192",
+  "name_blz": {
+    "en_US": "Follower: Soulbinder Tuulani",
+    "es_MX": "Seguidor: vinculadora de almas Tuulani",
+    "pt_BR": "Seguidor: Atalmas Tuulani",
+    "de_DE": "Anh\u00e4ngerin: Seelenbinderin Tuulani",
+    "en_GB": "Follower: Soulbinder Tuulani",
+    "es_ES": "Seguidora: Vinculadora de almas Tuulani",
+    "fr_FR": "Sujet\u00a0: lieuse d\u2019\u00e2me Tuulani",
+    "it_IT": "Seguace: Vincolatrice d'Anime Tuulani",
+    "ru_RU": "\u0421\u043e\u0440\u0430\u0442\u043d\u0438\u043a: c\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u0430 \u0434\u0443\u0448 \u0422\u0443\u0443\u043b\u0430\u043d\u0438",
+    "ko_KR": "\ucd94\uc885\uc790: \uc601\ud63c\uc220\uc0ac \ud234\ub77c\ub2c8",
+    "zh_TW": "\u8ffd\u96a8\u8005\uff1a \u7e1b\u9b42\u8005\u5716\u83c8\u59ae",
+    "zh_CN": "\u8ffd\u968f\u8005\uff1a\u7f1a\u9b42\u8005\u56fe\u62c9\u59ae"
+  },
+  "description_blz": {
+    "en_US": "Soulbinder Tuulani lost her family at a young age. Exarch Maladaar took the bright and eager draenei under his wing and raised her as his own.",
+    "es_MX": "La vinculadora de almas Tuulani perdi\u00f3 a su familia cuando era muy joven. El exarca Maladaar tom\u00f3 a la entusiasta y brillante draenei bajo su protecci\u00f3n y la crio como una hija.",
+    "pt_BR": "A Atalmas Tuulani perdeu a fam\u00edlia quando era nova. O Exarca Maladaar adotou a \u00e1vida draenaia, criando-a como se fosse sua filha.",
+    "de_DE": "Die Seelenbinderin Tuulani hat ihre Familie schon in jungen Jahren verloren. Exarch Maladaar hat daraufhin die intelligente und ehrgeizige Draenei unter seine Fittiche genommen und sie wie seine eigene Tochter gro\u00dfgezogen.",
+    "en_GB": "Soulbinder Tuulani lost her family at a young age. Exarch Maladaar took the bright and eager draenei under his wing and raised her as his own.",
+    "es_ES": "La vinculadora de almas Tuulani perdi\u00f3 a toda su familia cuando era joven. El exarca Maladaar acogi\u00f3 a la brillante draenei y la crio como propia.",
+    "fr_FR": "La lieuse d\u2019\u00e2me Tuulani a perdu sa famille tr\u00e8s jeune. L\u2019exarque Maladaar a pris sous son aile cette brillante et enthousiaste draene\u00ef et l\u2019a \u00e9lev\u00e9e comme sa fille.",
+    "it_IT": "La Vincolatrice d'Anime Tuulani ha perso la propria famiglia in giovane et\u00e0. L'Esarca Maladaar ha preso la giovane e brillante Draenei sotto la sua ala protettrice e l'ha cresciuta come una figlia.",
+    "ru_RU": "\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u0430 \u0434\u0443\u0448 \u0422\u0443\u0443\u043b\u0430\u043d\u0438 \u0432 \u044e\u043d\u043e\u043c \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0430 \u0441\u0435\u043c\u044c\u044e. \u042d\u043a\u0437\u0430\u0440\u0445 \u041c\u0430\u043b\u0430\u0434\u0430\u0430\u0440 \u043f\u0440\u0438\u044e\u0442\u0438\u043b \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u0443\u044e \u0438 \u044d\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u0443\u044e \u0434\u0440\u0435\u043d\u0435\u0439\u043a\u0443 \u0438 \u0432\u044b\u0440\u0430\u0441\u0442\u0438\u043b \u0435\u0435 \u043a\u0430\u043a \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u0443\u044e \u0434\u043e\u0447\u044c.",
+    "ko_KR": "\uc601\ud63c\uc220\uc0ac \ud234\ub77c\ub2c8\ub294 \uc5b4\ub9b0 \uc2dc\uc808\uc5d0 \uac00\uc871\uc744 \uc783\uc5c8\uc2b5\ub2c8\ub2e4. \ucd1d\ub3c5 \ub9d0\ub77c\ub2e4\ub974\ub294 \uc774 \ucd1d\uba85\ud558\uace0 \uc5f4\uc815\uc801\uc778 \ub4dc\ub808\ub098\uc774\ub97c \ub9e1\uc544 \uc790\uc2dd\ucc98\ub7fc \ud0a4\uc6e0\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7e1b\u9b42\u8005\u5716\u83c8\u59ae\u5f88\u5c0f\u7684\u6642\u5019\u5c31\u5931\u53bb\u5bb6\u4eba\u3002\u746a\u62c9\u9054\u723e\u4e3b\u6559\u6536\u990a\u4e86\u9019\u540d\u5091\u51fa\u53c8\u7a4d\u6975\u7684\u5fb7\u840a\u5c3c\uff0c\u5c07\u5979\u8996\u5982\u5df1\u51fa\u990a\u80b2\u9577\u5927\u3002",
+    "zh_CN": "\u7f1a\u9b42\u8005\u56fe\u62c9\u59ae\u5f88\u5c0f\u7684\u65f6\u5019\u5c31\u5931\u53bb\u4e86\u5bb6\u4eba\u3002\u5927\u4e3b\u6559\u739b\u62c9\u8fbe\u5c14\u6536\u517b\u4e86\u8fd9\u540d\u806a\u660e\u6d3b\u6cfc\u7684\u5c0f\u5fb7\u83b1\u5c3c\u5e76\u5f53\u505a\u81ea\u5df1\u7684\u5b69\u5b50\u5c06\u5979\u629a\u517b\u957f\u5927\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "186623"
+  "SpellID": "186623",
+  "name_blz": {
+    "en_US": "Imbued Silkweave Robe",
+    "es_MX": "Toga de filoseda imbuida",
+    "pt_BR": "Veste de Tramasseda Imbu\u00edda",
+    "de_DE": "Machtgetr\u00e4nkte seidengewebte Robe",
+    "en_GB": "Imbued Silkweave Robe",
+    "es_ES": "Toga de filoseda imbuida",
+    "fr_FR": "Robe en soie tiss\u00e9e impr\u00e9gn\u00e9e",
+    "it_IT": "Tonaca di Fildiseta Infusa",
+    "ru_RU": "\u041e\u0434\u0435\u044f\u043d\u0438\u0435 \u0438\u0437 \u043f\u0440\u043e\u0447\u043d\u043e\u0433\u043e \u0448\u0435\u043b\u043a\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u043e\u0442\u043d\u0430",
+    "ko_KR": "\ub9c8\ub825 \uae43\ub4e0 \ube44\ub2e8\ub9e4\ub4ed \ub85c\ube0c",
+    "zh_TW": "\u704c\u9b54\u7d72\u7e54\u9577\u888d",
+    "zh_CN": "\u704c\u9b54\u4e1d\u7eb9\u957f\u888d"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following item:\r\nImbued Silkweave Robe",
+    "es_MX": "Te ense\u00f1a a fabricar el siguiente objeto:\r\nToga de filoseda imbuida",
+    "pt_BR": "Aprenda a criar o seguinte item:\r\nVeste de Tramasseda Imbu\u00edda",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nMachtgetr\u00e4nkte seidengewebte Robe",
+    "en_GB": "Learn to craft the following item:\r\nImbued Silkweave Robe",
+    "es_ES": "Aprende a fabricar el siguiente objeto:\r\nToga de filoseda imbuida",
+    "fr_FR": "Apprend \u00e0 confectionner l\u2019objet suivant\u00a0:\r\nRobe en soie tiss\u00e9e impr\u00e9gn\u00e9e",
+    "it_IT": "Apprendi come creare il seguente oggetto:\r\nTonaca di Fildiseta Infusa",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442:\r\n\u041e\u0434\u0435\u044f\u043d\u0438\u0435 \u0438\u0437 \u043f\u0440\u043e\u0447\u043d\u043e\u0433\u043e \u0448\u0435\u043b\u043a\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u043e\u0442\u043d\u0430",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\ub9c8\ub825 \uae43\ub4e0 \ube44\ub2e8\ub9e4\ub4ed \ub85c\ube0c",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4ee5\u4e0b\u7269\u54c1\uff1a\r\n\u704c\u9b54\u7d72\u7e54\u9577\u888d",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u704c\u9b54\u4e1d\u7eb9\u957f\u888d"
+  }
 }
