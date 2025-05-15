@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "248402"
+  "SpellID": "248402",
+  "name_blz": {
+    "en_US": "Recipe: Tears of the Naaru",
+    "es_MX": "Receta: L\u00e1grimas de los Naaru",
+    "pt_BR": "Receita: L\u00e1grimas dos Naaru",
+    "de_DE": "Rezept: Tr\u00e4nen der Naaru",
+    "en_GB": "Recipe: Tears of the Naaru",
+    "es_ES": "Receta: l\u00e1grimas de los naaru",
+    "fr_FR": "Recette\u00a0: Larmes des Naaru",
+    "it_IT": "Ricetta: Lacrime dei Naaru",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u0441\u043b\u0435\u0437\u044b \u043d\u0430\u0430\u0440\u0443",
+    "ko_KR": "\uc870\uc81c\ubc95: \ub098\ub8e8\uc758 \ub208\ubb3c",
+    "zh_TW": "\u914d\u65b9\uff1a\u90a3\u9b6f\u4e4b\u6dda",
+    "zh_CN": "\u914d\u65b9\uff1a\u7eb3\u9c81\u4e4b\u6cea"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to create Tears of the Naaru (Rank 1).",
+    "es_MX": "Te ense\u00f1a a crear l\u00e1grimas de los Naaru (rango 1).",
+    "pt_BR": "Ensina a criar L\u00e1grimas dos Naaru (Ranque 1).",
+    "de_DE": "Lehrt Euch, wie man Tr\u00e4nen der Naaru (Rang 1) herstellt.",
+    "en_GB": "Teaches you how to create Tears of the Naaru (Rank 1).",
+    "es_ES": "Te ense\u00f1a a crear l\u00e1grimas de los naaru (Rango 1).",
+    "fr_FR": "Vous apprend \u00e0 concocter des larmes des Naaru (rang\u00a01).",
+    "it_IT": "Apprendi come creare delle Lacrime dei Naaru (Grado 1).",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u0441\u043b\u0435\u0437 \u043d\u0430\u0430\u0440\u0443 (\u0443\u0440\u043e\u0432\u0435\u043d\u044c 1).",
+    "ko_KR": "\ub098\ub8e8\uc758 \ub208\ubb3c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4. (1 \ub4f1\uae09)",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u914d\u88fd\u90a3\u9b6f\u4e4b\u6dda(\u7b49\u7d1a1)\u3002",
+    "zh_CN": "\u6559\u4f1a\u4f60\u5982\u4f55\u5236\u9020\u7eb3\u9c81\u4e4b\u6cea\uff08\u7b49\u7ea71\uff09\u3002"
+  }
 }

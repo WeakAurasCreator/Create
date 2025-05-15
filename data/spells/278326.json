@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "278326"
+  "SpellID": "278326",
+  "name_blz": {
+    "en_US": "Consume Magic",
+    "es_MX": "Consumir magia",
+    "pt_BR": "Consumir Magia",
+    "de_DE": "Magie aufzehren",
+    "en_GB": "Consume Magic",
+    "es_ES": "Consumo de magia",
+    "fr_FR": "Manavore",
+    "it_IT": "Consumo Magia",
+    "ru_RU": "\u041f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u0435 \u043c\u0430\u0433\u0438\u0438",
+    "ko_KR": "\ub9c8\ubc95 \uc0bc\ud0a4\uae30",
+    "zh_TW": "\u541e\u566c\u9b54\u6cd5",
+    "zh_CN": "\u541e\u566c\u9b54\u6cd5"
+  },
+  "description_blz": {
+    "en_US": "Consume 1 beneficial Magic effect removing it from the target.",
+    "es_MX": "Consume 1 efecto m\u00e1gico beneficioso, lo que lo elimina del objetivo.",
+    "pt_BR": "Consome 1 efeito m\u00e1gico ben\u00e9fico do alvo.",
+    "de_DE": "Verschlingt 1 hilfreichen magischen Effekt vom Ziel, was diesen entfernt.",
+    "en_GB": "Consume 1 beneficial Magic effect removing it from the target.",
+    "es_ES": "Consume 1 efecto m\u00e1gico beneficioso, lo que lo elimina del objetivo.",
+    "fr_FR": "Vous consommez et annulez 1\u00a0effet magique b\u00e9n\u00e9fique affectant la cible.",
+    "it_IT": "Consuma 1 effetto benefico magico, dissolvendolo dal bersaglio.",
+    "ru_RU": "\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0446\u0435\u043b\u0438 1 \u0431\u043b\u0430\u0433\u043e\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\ub300\uc0c1\uc758 \uc774\ub85c\uc6b4 \ub9c8\ubc95 \ud6a8\uacfc 1\uac1c\ub97c \ud761\uc218\ud558\uc5ec \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u541e\u566c\u76ee\u6a19\u8eab\u4e0a\u76841\u500b\u589e\u76ca\u9b54\u6cd5\u6548\u679c\uff0c\u5c07\u5176\u79fb\u9664\u3002",
+    "zh_CN": "\u4ece\u76ee\u6807\u8eab\u4e0a\u79fb\u96641\u4e2a\u589e\u76ca\u9b54\u6cd5\u3002"
+  }
 }

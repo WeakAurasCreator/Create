@@ -34,5 +34,24 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "242275"
+  "SpellID": "242275",
+  "name_blz": {
+    "en_US": "Item - Rogue T20 Assassination 2P Bonus",
+    "en_GB": "Item - Rogue T20 Assassination 2P Bonus",
+    "es_ES": "Item - Rogue T20 Assassination 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Garrote deals 60% increased damage.",
+    "es_MX": "Garrote inflige un 60% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Garrote causa 60% a mais de dano.",
+    "de_DE": "'Erdrosseln' verursacht 60% mehr Schaden.",
+    "en_GB": "Garrote deals 60% increased damage.",
+    "es_ES": "Garrote inflige un 60% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Garrot sont augment\u00e9s de 60%.",
+    "it_IT": "Aumenta i danni inflitti da Garrota del 60%.",
+    "ru_RU": "\"\u0413\u0430\u0440\u0440\u043e\u0442\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 60% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ubaa9\uc870\ub974\uae30\uc758 \uacf5\uaca9\ub825\uc774 60%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7d5e\u5589\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad860%\u3002",
+    "zh_CN": "\u9501\u5589\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad860%\u3002"
+  }
 }

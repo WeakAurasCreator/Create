@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "279443"
+  "SpellID": "279443",
+  "name_blz": {
+    "en_US": "Warfront: The Battle for Stromgarde",
+    "es_MX": "Frente de batalla: La Batalla por Stromgarde",
+    "pt_BR": "Front de Guerra: A Batalha por Stromgarde",
+    "de_DE": "Kriegsfront: Die Schlacht um Stromgarde",
+    "en_GB": "Warfront: The Battle for Stromgarde",
+    "es_ES": "Frente de guerra: La batalla por Stromgarde",
+    "fr_FR": "Front de guerre\u00a0: la bataille de Stromgarde",
+    "it_IT": "Fronte di Guerra: Battaglia per Stromgarde",
+    "ru_RU": "\u0424\u0440\u043e\u043d\u0442: \u0431\u0438\u0442\u0432\u0430 \u0437\u0430 \u0421\u0442\u0440\u043e\u043c\u0433\u0430\u0440\u0434",
+    "ko_KR": "\uaca9\uc804\uc9c0: \uaca9\uc804\uc758 \uc2a4\ud2b8\ub86c\uac00\ub4dc",
+    "zh_TW": "\u6230\u722d\u524d\u7dda\uff1a\u6fc0\u6d41\u5821\u4e4b\u5f79",
+    "zh_CN": "\u6218\u4e89\u524d\u7ebf\uff1a\u6fc0\u6d41\u5821\u4e4b\u6218"
+  },
+  "description_blz": {
+    "en_US": "Unlock the warfront, \"The Battle for Stromgarde.\"",
+    "es_MX": "Desbloquea el frente de batalla \"La Batalla por Stromgarde\".",
+    "pt_BR": "Desbloqueia o front de guerra \"A Batalha por Stromgarde\".",
+    "de_DE": "Schaltet die Kriegsfront \"Die Schlacht um Stromgarde\" frei.",
+    "en_GB": "Unlock the warfront, \"The Battle for Stromgarde.\"",
+    "es_ES": "Desbloquea el frente de guerra \"La batalla por Stromgarde\".",
+    "fr_FR": "Vous d\u00e9bloquez le front de guerre \u00ab\u00a0La bataille de Stromgarde\u00a0\u00bb.",
+    "it_IT": "Sblocca il Fronte di Guerra: Battaglia per Stromgarde.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043d\u043e\u0432\u043e\u043c\u0443 \u0444\u0440\u043e\u043d\u0442\u0443 \"\u0411\u0438\u0442\u0432\u0430 \u0437\u0430 \u0421\u0442\u0440\u043e\u043c\u0433\u0430\u0440\u0434\".",
+    "ko_KR": "\"\uaca9\uc804\uc758 \uc2a4\ud2b8\ub86c\uac00\ub4dc\" \uaca9\uc804\uc9c0\ub97c \uc7a0\uae08 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u6230\u722d\u524d\u7dda\uff0c\u300c\u6fc0\u6d41\u5821\u4e4b\u5f79\u300d\u3002",
+    "zh_CN": "\u89e3\u9501\u6218\u4e89\u524d\u7ebf\uff1a\u201c\u6fc0\u6d41\u5821\u4e4b\u6218\u201d\u3002"
+  }
 }

@@ -34,5 +34,28 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "242272"
+  "SpellID": "242272",
+  "name_blz": {
+    "en_US": "Item - Priest T20 Shadow 2P Bonus",
+    "es_MX": "Objeto - Sacerdote T20 Sombras 2P Bonificaci\u00f3n",
+    "pt_BR": "Item - Priest T20 Shadow 2P Bonus",
+    "en_GB": "Item - Priest T20 Shadow 2P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc0ac\uc81c T20 \uc554\ud751 2P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Priest T20 Shadow 2P Bonus",
+    "zh_CN": "Item - Priest T20 Shadow 2P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Mind Flay damage increases the damage of your next Mind Blast by 3% and its Insanity generation by 1.  Stacks up to 10 times.",
+    "es_MX": "El da\u00f1o que inflige Tortura mental aumenta el da\u00f1o de tu siguiente Explosi\u00f3n mental un 3% y la generaci\u00f3n de Demencia un 1. Se acumula hasta 10 veces.",
+    "pt_BR": "O dano de A\u00e7oite Mental aumenta em 3% o dano do seu pr\u00f3ximo Impacto Mental e em 1 a Insanidade gerada por ele. Acumula at\u00e9 10 vezes.",
+    "de_DE": "'Gedankenschinden' erh\u00f6ht den Schaden Eures n\u00e4chsten Einsatzes von 'Gedankenschlag' um 3% und den dabei erzeugten Wahnsinn um 1. Bis zu 10-mal stapelbar.",
+    "en_GB": "Mind Flay damage increases the damage of your next Mind Blast by 3% and its Insanity generation by 1.  Stacks up to 10 times.",
+    "es_ES": "El da\u00f1o de Tortura mental aumenta un 3% el da\u00f1o de tu siguiente Explosi\u00f3n mental y un 1% la generaci\u00f3n de demencia. Se acumula hasta 10 veces.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Fouet mental augmentent les d\u00e9g\u00e2ts de votre prochaine Attaque mentale de 3% et sa g\u00e9n\u00e9ration d\u2019Insanit\u00e9 de 1. Se cumule jusqu\u2019\u00e0 10 fois.",
+    "it_IT": "I danni inflitti da Flagello Mentale aumentano i danni inflitti dalla successiva Detonazione Mentale del 3% e la pazzia generata di 1. Si accumula fino a 10 volte.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0443\u0440\u043e\u043d\u0430 \"\u041f\u044b\u0442\u043a\u043e\u0439 \u0440\u0430\u0437\u0443\u043c\u0430\" \u0432\u0430\u0448 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0412\u0437\u0440\u044b\u0432 \u0440\u0430\u0437\u0443\u043c\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 3% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u0434\u0430\u0435\u0442 \u043d\u0430 1 \u0435\u0434. \u0431\u043e\u043b\u044c\u0448\u0435 \u0431\u0435\u0437\u0443\u043c\u0438\u044f. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437.",
+    "ko_KR": "\uc815\uc2e0\uc758 \ucc44\ucc0d\uc73c\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \ub2e4\uc74c \uc815\uc2e0 \ubd84\uc5f4\uc758 \uacf5\uaca9\ub825\uc774 3%\ub9cc\ud07c, \uad11\uae30 \uc0dd\uc131\ub7c9\uc774 1\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 10\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7cbe\u795e\u97ad\u7b1e\u9020\u6210\u50b7\u5bb3\u6642\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u5fc3\u9748\u9707\u7206\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad83%\uff0c\u4e26\u4e14\u7522\u751f\u7684\u760b\u72c2\u63d0\u9ad81\u9ede\u3002\u6700\u591a\u53ef\u5806\u758a10\u6b21\u3002",
+    "zh_CN": "\u7cbe\u795e\u97ad\u7b1e\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u5fc3\u7075\u9707\u7206\u7684\u4f24\u5bb3\u63d0\u9ad83%\uff0c\u751f\u6210\u7684\u72c2\u4e71\u503c\u63d0\u9ad81\u70b9\u3002\u6700\u591a\u53ef\u53e0\u52a010\u6b21\u3002"
+  }
 }

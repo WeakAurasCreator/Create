@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "280752"
+  "SpellID": "280752",
+  "name_blz": {
+    "en_US": "Hallucinations",
+    "es_MX": "Alucinaciones",
+    "pt_BR": "Alucina\u00e7\u00f5es",
+    "de_DE": "Halluzinationen",
+    "en_GB": "Hallucinations",
+    "es_ES": "Alucinaciones",
+    "fr_FR": "Hallucinations",
+    "it_IT": "Allucinazioni",
+    "ru_RU": "\u0413\u0430\u043b\u043b\u044e\u0446\u0438\u043d\u0430\u0446\u0438\u0438",
+    "ko_KR": "\ud658\uc601",
+    "zh_TW": "\u5e7b\u89ba",
+    "zh_CN": "\u5e7b\u50cf"
+  },
+  "description_blz": {
+    "en_US": "Your successful Dispel Magic, Mass Dispel, Purify Disease, and Power Word: Shield casts generate 4 Insanity during combat.",
+    "es_MX": "Tus lanzamientos exitosos de Disipar magia, Disipaci\u00f3n en masa, Purificar enfermedad y Palabra de poder: escudo generan 4 p. de demencia durante el combate.",
+    "pt_BR": "Seus lan\u00e7amentos bem-sucedidos de Dissipar Magia, Dissipa\u00e7\u00e3o em Massa, Purificar Doen\u00e7a e Palavra de Poder: Escudo geram 4 de Insanidade durante o combate.",
+    "de_DE": "Eure erfolgreichen Eins\u00e4tze von 'Magiebannung', 'Massenbannung', 'Krankheit l\u00e4utern' und 'Machtwort: Schild' erzeugen im Kampf 4 Wahnsinn.",
+    "en_GB": "Your successful Dispel Magic, Mass Dispel, Purify Disease, and Power Word: Shield casts generate 4 Insanity during combat.",
+    "es_ES": "Los lanzamientos con \u00e9xito de Disipar magia, Disipaci\u00f3n en masa, Purificar enfermedad y Palabra de poder: escudo generan 4 p. de demencia durante el combate.",
+    "fr_FR": "Vos techniques Dissipation de la magie, Dissipation de masse, Purifier la maladie et Mot de pouvoir\u00a0: Bouclier r\u00e9ussies g\u00e9n\u00e8rent 4\u00a0points d\u2019insanit\u00e9 pendant le combat.",
+    "it_IT": "I lanci a segno di Dissoluzione Magica, Dissoluzione di Massa, Purificazione Malattia e Parola del Potere: Scudo generano 4 pazzia in combattimento.",
+    "ru_RU": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \"\u0420\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439\", \"\u041c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u043d\u0438\u044f\", \"\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u044f \u043e\u0442 \u0431\u043e\u043b\u0435\u0437\u043d\u0438\" \u0438 \"\u0421\u043b\u043e\u0432\u0430 \u0441\u0438\u043b\u044b: \u0429\u0438\u0442\" \u0434\u0430\u0435\u0442 4 \u0435\u0434. \u0431\u0435\u0437\u0443\u043c\u0438\u044f \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0431\u043e\u044f.",
+    "ko_KR": "\uc804\ud22c \uc911 \ub9c8\ubc95 \ubb34\ud6a8\ud654, \ub300\uaddc\ubaa8 \ubb34\ud6a8\ud654, \uc9c8\ubcd1 \uc815\ud654, \uc2e0\uc758 \uad8c\ub2a5: \ubcf4\ud638\ub9c9 \uc2dc\uc804\uc5d0 \uc131\uacf5\ud558\uba74 4\uc758 \uad11\uae30\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6210\u529f\u65bd\u653e\u9a45\u6563\u9b54\u6cd5\u3001\u7fa4\u9ad4\u9a45\u9b54\u3001\u9a45\u6de8\u75be\u75c5\u3001\u548c\u771f\u8a00\u8853\uff1a\u76fe\uff0c\u53ef\u5728\u6230\u9b25\u4e2d\u7522\u751f4\u9ede\u760b\u72c2\u3002",
+    "zh_CN": "\u6218\u6597\u4e2d\uff0c\u4f60\u6210\u529f\u65bd\u653e\u9a71\u6563\u9b54\u6cd5\u3001\u7fa4\u4f53\u9a71\u6563\u3001\u51c0\u5316\u75be\u75c5\u548c\u771f\u8a00\u672f\uff1a\u76fe\u540e\uff0c\u53ef\u4ee5\u4ea7\u751f4\u70b9\u72c2\u4e71\u503c\u3002"
+  }
 }

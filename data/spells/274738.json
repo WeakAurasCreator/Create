@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "274738"
+  "SpellID": "274738",
+  "name_blz": {
+    "en_US": "Ancestral Call",
+    "es_MX": "Llamada ancestral",
+    "pt_BR": "Chamado Ancestral",
+    "de_DE": "Ruf der Ahnen",
+    "en_GB": "Ancestral Call",
+    "es_ES": "Llamada ancestral",
+    "fr_FR": "Appel ancestral",
+    "it_IT": "Richiamo Ancestrale",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u043f\u0440\u0435\u0434\u043a\u043e\u0432",
+    "ko_KR": "\uace0\ub300\uc758 \ubd80\ub984",
+    "zh_TW": "\u7956\u9748\u4e4b\u559a",
+    "zh_CN": "\u5148\u7956\u53ec\u5524"
+  },
+  "description_blz": {
+    "en_US": "Invoke the spirits of your ancestors, granting you 777 of one of your two highest secondary stat for 15 sec.",
+    "es_MX": "Invoca los esp\u00edritus de tus ancestros, lo que te otorga 777 p. de una de tus dos estad\u00edsticas secundarias m\u00e1s altas durante 15 s.",
+    "pt_BR": "Invoca os esp\u00edritos de seus ancestrais, concedendo a voc\u00ea 777 de um dos seus dois maiores atributos secund\u00e1rios por 15 s.",
+    "de_DE": "Ruft die Geister Eurer Vorfahren, die einen Eurer beiden h\u00f6chsten Sekund\u00e4rwerte 15 Sek. lang um 777 erh\u00f6hen.",
+    "en_GB": "Invoke the spirits of your ancestors, granting you 777 of one of your two highest secondary stat for 15 sec.",
+    "es_ES": "Convoca a los esp\u00edritus de tus ancestros y te otorga 777 p. de una de tus dos estad\u00edsticas secundarias m\u00e1s altas durante 15 s.",
+    "fr_FR": "Vous invoquez les esprits de vos anc\u00eatres, ce qui vous conf\u00e8re un bonus de 777 \u00e0 une de vos deux caract\u00e9ristiques secondaires les plus \u00e9lev\u00e9es pendant 15 s.",
+    "it_IT": "Invoca gli spiriti degli antenati, aumentando una delle statistiche secondarie pi\u00f9 alte di 777 per 15 s.",
+    "ru_RU": "\u041f\u0440\u043e\u0431\u0443\u0436\u0434\u0430\u0435\u0442 \u0434\u0443\u0445\u043e\u0432 \u043f\u0440\u0435\u0434\u043a\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u043e\u0434\u043d\u0443 \u0438\u0437 \u0434\u0432\u0443\u0445 \u0432\u0430\u0448\u0438\u0445 \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0438\u0445 \u0432\u0442\u043e\u0440\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u044b\u0445 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a \u043d\u0430 777 \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\uc870\uc0c1\uc758 \ud798\uc744 \ubd88\ub7ec 15\ucd08 \ub3d9\uc548 \uac00\uc7a5 \ub192\uc740 \ubcf4\uc870 \ub2a5\ub825\uce58 \ub450 \uac00\uc9c0\uac00 777\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u7956\u5148\u7684\u9748\u9b42\uff0c\u4f7f\u4f60\u5169\u500b\u6700\u9ad8\u7684\u6b21\u8981\u5c6c\u6027\u4e4b\u4e00\u63d0\u9ad8777\u9ede\uff0c\u6301\u7e8c15\u79d2\u3002",
+    "zh_CN": "\u5524\u9192\u5148\u7956\u7684\u7075\u9b42\uff0c\u4f7f\u4f60\u6700\u9ad8\u7684\u4e24\u79cd\u6b21\u8981\u5c5e\u6027\u4e4b\u4e00\u63d0\u9ad8777\uff0c\u6301\u7eed15\u79d2\u3002"
+  }
 }

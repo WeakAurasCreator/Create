@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "270562"
+  "SpellID": "270562",
+  "name_blz": {
+    "en_US": "Summon Darkforge Ram",
+    "es_MX": "Invocar carnero umbriforja",
+    "pt_BR": "Evocar Carneiro da Forja Sombria",
+    "de_DE": "Widder der Dunkelschmiede beschw\u00f6ren",
+    "en_GB": "Summon Darkforge Ram",
+    "es_ES": "Invocar carnero Forjaoscura",
+    "fr_FR": "Invocation d\u2019un b\u00e9lier sombreforge",
+    "it_IT": "Evocazione: Montone di Forgiascura",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u0431\u0430\u0440\u0430\u043d\u0430 \u0422\u0435\u043c\u043d\u043e\u0439 \u043a\u0443\u0437\u043d\u0438",
+    "ko_KR": "\uac80\uc740\uc6a9\uad11\ub85c \uc0b0\uc591 \uc18c\ud658",
+    "zh_TW": "\u53ec\u559a\u6697\u9444\u516c\u7f8a",
+    "zh_CN": "\u53ec\u5524\u6697\u7089\u5c71\u7f8a"
+  },
+  "description_blz": {
+    "en_US": "Summons a Darkforge Ram, which serves as a mount.",
+    "es_MX": "Invoca un carnero umbriforja que sirve como montura.",
+    "pt_BR": "Evoca um Carneiro da Forja Sombria de montaria.",
+    "de_DE": "Beschw\u00f6rt einen Widder der Dunkelschmiede, der als Reittier dient.",
+    "en_GB": "Summons a Darkforge Ram, which serves as a mount.",
+    "es_ES": "Invoca a un carnero Forjaoscura que sirve como montura.",
+    "fr_FR": "Invoque un b\u00e9lier sombreforge qui sert de monture.",
+    "it_IT": "Evoca un Montone di Forgiascura da usare come cavalcatura.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u0445\u043e\u0432\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u2013 \u0431\u0430\u0440\u0430\u043d\u0430 \u0422\u0435\u043c\u043d\u043e\u0439 \u043a\u0443\u0437\u043d\u0438.",
+    "ko_KR": "\uac80\uc740\uc6a9\uad11\ub85c \uc0b0\uc591\uc744 \uc18c\ud658\ud558\uc5ec \ud0c8\uac83\uc73c\ub85c \uc774\uc6a9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u982d\u6697\u9444\u516c\u7f8a\uff0c\u505a\u70ba\u4f60\u7684\u5ea7\u9a0e\u3002",
+    "zh_CN": "\u53ec\u5524\u6216\u89e3\u6563\u4f60\u7684\u6697\u7089\u5c71\u7f8a\u3002"
+  }
 }
