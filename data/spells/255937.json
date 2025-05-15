@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "255937"
+  "SpellID": "255937",
+  "name_blz": {
+    "en_US": "Wake of Ashes",
+    "es_MX": "Despertar de las cenizas",
+    "pt_BR": "Rastro de Cinzas",
+    "de_DE": "Aschewelle",
+    "en_GB": "Wake of Ashes",
+    "es_ES": "Estela de cenizas",
+    "fr_FR": "Tra\u00een\u00e9e de cendres",
+    "it_IT": "Scia di Ceneri",
+    "ru_RU": "\u0418\u0441\u043f\u0435\u043f\u0435\u043b\u044f\u044e\u0449\u0438\u0439 \u0441\u043b\u0435\u0434",
+    "ko_KR": "\ud30c\uba78\uc758 \uc7ac",
+    "zh_TW": "\u7070\u71fc\u7526\u9192",
+    "zh_CN": "\u7070\u70ec\u89c9\u9192"
+  },
+  "description_blz": {
+    "en_US": "Lash out at your enemies, dealing 1,531 Radiant damage to all enemies within 14 yds in front of you, and applying Truth's Wake, burning the targets for an additional 841 damage over 9 sec.\r\n\r\nDemon and Undead enemies are also stunned for 5 sec.\r\n\r\nGenerates 3 Holy Power.",
+    "es_MX": "Arremetes contra tus enemigos e infliges 1,557 p. de da\u00f1o radiante a todos los enemigos en un radio de 14 m frente a ti, y aplica Despertar de la verdad, quema a los objetivos por 841 p. de da\u00f1o m\u00e1s durante 9 s.\r\n\r\nLos enemigos demonios y no-muertos tambi\u00e9n quedan aturdidos durante 5 s.\r\n\r\nGenera 3 p. de poder sagrado.",
+    "pt_BR": "A\u00e7oita os seus inimigos, causando 1.528 de dano Radiante a todos os inimigos em um raio de 14 m \u00e0 sua frente e aplicando Rastro da Verdade, que queima os alvos e causa 841 a mais de dano ao longo de 9 s.\r\n\r\nInimigos Dem\u00f4nios e Mortos-vivos tamb\u00e9m s\u00e3o atordoados por 5 s.\r\n\r\nGera 3 de Poder Sagrado.",
+    "de_DE": "Wirbelt in weitem Bogen herum, f\u00fcgt allen Gegnern innerhalb von 14 Metern vor Euch 1.570 Strahlenschaden zu, belegt sie mit 'Nachstrom der Wahrheit', was sie brennen l\u00e4sst und ihnen zus\u00e4tzlich 841 Schaden im Verlauf von 9 Sek. zuf\u00fcgt.\r\n\r\nD\u00e4monen und Untote werden au\u00dferdem f\u00fcr 5 Sek. bet\u00e4ubt.\r\n\r\nErzeugt 3 Heilige Kraft.",
+    "en_GB": "Lash out at your enemies, dealing 1,548 Radiant damage to all enemies within 14 yds in front of you, and applying Truth's Wake, burning the targets for an additional 841 damage over 9 sec.\r\n\r\nDemon and Undead enemies are also stunned for 5 sec.\r\n\r\nGenerates 3 Holy Power.",
+    "es_ES": "Arremetes contra tus enemigos e infliges 1552 p. de da\u00f1o Radiante a todos los que se encuentren en un radio de 14 m frente a ti. Adem\u00e1s, aplicas una Estela de la verdad que quema a los objetivos y les inflige 841 p. de da\u00f1o durante 9 s.\r\n\r\nLos enemigos demonios y no-muertos quedan aturdidos durante 5 s.\r\n\r\nGenera 3 p. de poder sagrado.",
+    "fr_FR": "Vous lancez une attaque violente qui inflige 1548\u00a0points de d\u00e9g\u00e2ts de rayonnement aux adversaires \u00e0 moins de 14\u00a0m devant vous et leur applique Sillage de la v\u00e9rit\u00e9, ce qui br\u00fble les cibles et leur inflige 841\u00a0points de d\u00e9g\u00e2ts suppl\u00e9mentaires en 9 s.\r\n\r\nLes d\u00e9mons et les morts-vivants affect\u00e9s sont \u00e9galement \u00e9tourdis pendant 5 s.\r\n\r\nG\u00e9n\u00e8re 3\u00a0charges de puissance sacr\u00e9e.",
+    "it_IT": "Sferza i nemici, infliggendo 1.533 danni da radiosit\u00e0 a tutti i nemici frontali entro 14 m e applicando Risveglio della Verit\u00e0, che brucia i nemici e infligge 841 danni in 9 s.\r\n\r\nI nemici demoni e non morti restano anche storditi per 5 s.\r\n\r\nFornisce 3 cariche di potere sacro.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 14 \u043c \u043f\u0435\u0440\u0435\u0434 \u0441\u043e\u0431\u043e\u0439 1570 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u044f\u043d\u0438\u044f \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u0421\u043b\u0435\u0434 \u0438\u0441\u0442\u0438\u043d\u044b\", \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 \u0435\u0449\u0435 841 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 9 \u0441\u0435\u043a.\r\n\r\n\u041e\u0433\u043b\u0443\u0448\u0430\u0435\u0442 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u043c\u043e\u043d\u043e\u0432 \u0438 \u043d\u0435\u0436\u0438\u0442\u044c \u043d\u0430 5 \u0441\u0435\u043a.\r\n\r\n\u0414\u0430\u0435\u0442 3 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430.",
+    "ko_KR": "\uc801\uc744 \uac00\uaca9\ud558\uc5ec \uc804\ubc29 14\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 1,575\uc758 \uad11\ud718 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc9c4\uc2e4\uc758 \uc0c1\ud754\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4. \ub610\ud55c \ub300\uc0c1\uc744 \ubd88\ud0dc\uc6cc 9\ucd08\uc5d0 \uac78\uccd0 841\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc545\ub9c8 \ubc0f \uc5b8\ub370\ub4dc \uc801\uc740 \ucd94\uac00\ub85c 5\ucd08 \ub3d9\uc548 \uae30\uc808\ud569\ub2c8\ub2e4.\r\n\r\n\uc2e0\uc131\ud55c \ud798 3\uac1c\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u91cd\u64ca\u4f60\u7684\u6575\u4eba\uff0c\u5c0d\u4f60\u9762\u524d14\u78bc\u5167\u7684\u6240\u6709\u6575\u4eba\u9020\u62101,560\u9ede\u8056\u8f1d\u50b7\u5bb3\uff0c\u4e26\u65bd\u52a0\u771f\u7406\u9192\u609f\uff0c\u71c3\u71d2\u76ee\u6a19\uff0c\u57289\u79d2\u5167\u984d\u5916\u9020\u6210841\u9ede\u50b7\u5bb3\u3002\r\n\r\n\u540c\u6642\u4f7f\u60e1\u9b54\u8207\u4e0d\u6b7b\u751f\u7269\u7684\u6575\u4eba\u660f\u8ff75\u79d2\u3002\r\n\r\n\u7522\u751f3\u9053\u8056\u80fd\u3002",
+    "zh_CN": "\u731b\u51fb\u4f60\u7684\u654c\u4eba\uff0c\u5bf9\u4f60\u524d\u65b914\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u654c\u4eba\u9020\u62101,539\u70b9\u5149\u8f89\u4f24\u5bb3\uff0c\u5e76\u4e14\u65bd\u52a0\u771f\u7406\u89c9\u9192\u71c3\u70e7\u76ee\u6807\uff0c\u57289\u79d2\u5185\u9020\u6210\u989d\u5916841\u70b9\u4f24\u5bb3\u3002\r\n\r\n\u6076\u9b54\u548c\u4ea1\u7075\u654c\u4eba\u8fd8\u5c06\u660f\u8ff75\u79d2\u3002\r\n\r\n\u4ea7\u751f3\u5c42\u795e\u5723\u80fd\u91cf\u3002"
+  }
 }

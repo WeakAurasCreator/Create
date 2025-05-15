@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "260708"
+  "SpellID": "260708",
+  "name_blz": {
+    "en_US": "Sweeping Strikes",
+    "es_MX": "Golpes de barrido",
+    "pt_BR": "Golpes a Esmo",
+    "de_DE": "Weitreichende St\u00f6\u00dfe",
+    "en_GB": "Sweeping Strikes",
+    "es_ES": "Golpes de barrido",
+    "fr_FR": "Attaques circulaires",
+    "it_IT": "Assalti Fendenti",
+    "ru_RU": "\u0420\u0430\u0437\u043c\u0430\u0448\u0438\u0441\u0442\u044b\u0435 \u0443\u0434\u0430\u0440\u044b",
+    "ko_KR": "\ud729\uc4f8\uae30 \uc77c\uaca9",
+    "zh_TW": "\u6a6b\u6383\u653b\u64ca",
+    "zh_CN": "\u6a2a\u626b\u653b\u51fb"
+  },
+  "description_blz": {
+    "en_US": "For 15 sec your single-target damaging abilities hit 1 additional target within 8 yds for 75% damage.",
+    "es_MX": "Durante 15 s, tus habilidades que infligen da\u00f1o a un solo objetivo golpean a 1 objetivo m\u00e1s dentro de un radio de 8 m e infligen un 75% de da\u00f1o.",
+    "pt_BR": "Por 15 s, suas habilidades de alvo \u00fanico atingir\u00e3o 1 alvo a mais em um raio de 8 m, causando 75% do dano.",
+    "de_DE": "Eure Einzelzielschadensf\u00e4higkeiten treffen 15 Sek. lang 1 zus\u00e4tzliches Ziel innerhalb von 8 Metern und f\u00fcgen ihnen 75% Schaden zu.",
+    "en_GB": "For 15 sec your single-target damaging abilities hit 1 additional target within 8 yds for 75% damage.",
+    "es_ES": "Durante 15 s tus facultades da\u00f1inas contra un \u00fanico objetivo golpean a 1 objetivo extra en un radio de 8 m e infligen un 75% de da\u00f1o.",
+    "fr_FR": "Pendant 15 s, vos attaques \u00e0 cible unique touchent 1\u00a0cible suppl\u00e9mentaire \u00e0 moins de 8\u00a0m\u00e8tres et lui infligent 75% de d\u00e9g\u00e2ts.",
+    "it_IT": "Per 15 s, le abilit\u00e0 d'attacco a bersaglio singolo colpiscono 1 bersaglio aggiuntivo entro 8 m, infliggendo il 75% dei danni.",
+    "ru_RU": "\u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 15 \u0441\u0435\u043a. \u0432\u0430\u0448\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0443\u0440\u043e\u043d \u043e\u0434\u043d\u043e\u0439 \u0446\u0435\u043b\u0438, \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0442 \u0435\u0449\u0435 1 \u0446\u0435\u043b\u044c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c, \u043d\u0430\u043d\u043e\u0441\u044f 75% \u0431\u0430\u0437\u043e\u0432\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "15\ucd08 \ub3d9\uc548 \ub2e8\uc77c \ub300\uc0c1 \uacf5\uaca9 \ub2a5\ub825 \uc0ac\uc6a9 \uc2dc 8\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ucd94\uac00 \ub300\uc0c1 1\uba85\uc5d0\uac8c 75%\ub9cc\ud07c\uc758 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u572815\u79d2\u5167\uff0c\u4f60\u7684\u55ae\u4e00\u76ee\u6a19\u50b7\u5bb3\u6280\u80fd\u6703\u57288\u78bc\u7bc4\u570d\u5167\u984d\u5916\u64ca\u4e2d1\u540d\u76ee\u6a19\uff0c\u9020\u621075%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u5355\u76ee\u6807\u4f24\u5bb3\u6027\u6280\u80fd\u53ef\u653b\u51fb8\u7801\u5185\u76841\u4e2a\u989d\u5916\u76ee\u6807\uff0c\u5bf9\u5176\u9020\u621075%\u7684\u4f24\u5bb3\uff0c\u6301\u7eed15\u79d2\u3002"
+  }
 }

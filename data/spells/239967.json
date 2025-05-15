@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "239967"
+  "SpellID": "239967",
+  "name_blz": {
+    "en_US": "Seal Your Fate",
+    "es_MX": "Sella tu destino",
+    "pt_BR": "Sele o Seu Destino",
+    "de_DE": "Schicksal besiegeln",
+    "en_GB": "Seal Your Fate",
+    "es_ES": "Sellar tu destino",
+    "fr_FR": "Sceller son destin",
+    "it_IT": "Sigillatura del Destino",
+    "ru_RU": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0438 \u0441\u0432\u043e\u044e \u0441\u0443\u0434\u044c\u0431\u0443",
+    "ko_KR": "\ubd09\uc778\ub41c \uc6b4\uba85",
+    "zh_TW": "\u6c7a\u5b9a\u4f60\u7684\u547d\u904b",
+    "zh_CN": "\u5c01\u5370\u4f60\u7684\u547d\u8fd0"
+  },
+  "description_blz": {
+    "en_US": "Each day the Nether Disruptor is active, you can return to the Broken Shore to complete a quest that grants you a free Seal of Broken Fate.\r\n\r\nReturn to Commander Chambers to earn this bonus.",
+    "es_MX": "Cada d\u00eda que el Disruptor abisal est\u00e1 activo, puedes regresar a la Costa Quebrada para completar una misi\u00f3n que te otorgar\u00e1 un Sello del Destino t\u00e1bido gratuito.\r\n\r\nRegresa con el Comandante Chambers para conseguir esta bonificaci\u00f3n.",
+    "pt_BR": "A cada dia em que o Disruptor Et\u00e9reo estiver ativo, voc\u00ea poder\u00e1 voltar \u00e0 Costa Partida para cumprir uma miss\u00e3o que concede um Selo do Destino Interrompido gr\u00e1tis.\r\n\r\nFale novamente com o Comandante C\u00e2mara para ganhar esse b\u00f4nus.",
+    "de_DE": "Jeden Tag, an dem der Netherdisruptor aktiv ist, k\u00f6nnt Ihr zur Verheerten K\u00fcste zur\u00fcckkehren, um eine Quest abzuschlie\u00dfen, die Euch ein kostenloses Siegel des verheerten Schicksals gew\u00e4hrt.\r\n\r\nKehrt zu Kommandant Kammerer zur\u00fcck, um diesen Bonus zu erhalten.",
+    "en_GB": "Each day the Nether Disruptor is active, you can return to the Broken Shore to complete a quest that grants you a free Seal of Broken Fate.\r\n\r\nReturn to Commander Chambers to earn this bonus.",
+    "es_ES": "Cada d\u00eda que el disruptor abisal est\u00e1 activo, puedes volver a la Costa Abrupta para completar una misi\u00f3n que te otorgar\u00e1 un sello de destino alterado gratuito.\r\n\r\nVuelve con el comandante Chambers para ganar esta bonificaci\u00f3n.",
+    "fr_FR": "Tant que le disrupteur de N\u00e9ant est actif, vous pouvez retourner chaque jour sur le rivage Bris\u00e9 pour accomplir une qu\u00eate rapportant un sceau du destin bris\u00e9.\r\n\r\nRetournez voir le commandant Chambers pour obtenir ce bonus.",
+    "it_IT": "Ogni giorno in cui il Disgregatore Fatuo \u00e8 attivo, \u00e8 possibile tornare alla Riva Dispersa per completare una missione che ti fornisce un Sigillo del Destino Spezzato gratuito.\r\n\r\nTorna dal Comandante Chambers per ottenere questo bonus.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c, \u043f\u043e\u043a\u0430 \u0430\u043a\u0442\u0438\u0432\u0435\u043d \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c \u041f\u0443\u0441\u0442\u043e\u0442\u044b, \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0420\u0430\u0441\u043a\u043e\u043b\u043e\u0442\u044b\u0439 \u0431\u0435\u0440\u0435\u0433 \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0437\u0430\u0434\u0430\u043d\u0438\u0435, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0435 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043d\u0430\u0433\u0440\u0430\u0434\u044b \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0443\u044e \u043f\u0435\u0447\u0430\u0442\u044c \u0441\u043b\u043e\u043c\u0430\u043d\u043d\u043e\u0439 \u0441\u0443\u0434\u044c\u0431\u044b.\r\n\r\n\u0412\u0435\u0440\u043d\u0438\u0442\u0435\u0441\u044c \u043a \u043a\u043e\u043c\u0430\u043d\u0434\u0438\u0440\u0443 \u0427\u0435\u0439\u043c\u0431\u0435\u0440\u0441\u0443, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u044d\u0442\u043e\u0442 \u0431\u043e\u043d\u0443\u0441.",
+    "ko_KR": "\ud669\ucc9c \ubd84\uc5f4\uae30\uac00 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub0a0\uc5d0\ub294 \ubd80\uc11c\uc9c4 \ud574\ubcc0\uc73c\ub85c \ub3cc\uc544\uac00 \ud018\uc2a4\ud2b8\ub97c \uc644\ub8cc\ud558\uba74 \uc790\uc6d0 \uc18c\ubaa8 \uc5c6\uc774 \uc6b4\uba85\uc758 \uc778\uc7a5\uc744 \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc0ac\ub839\uad00 \ucc54\ubc84\uc2a4\uc5d0\uac8c \ub3cc\uc544\uac00\uba74 \ud574\ub2f9 \ud6a8\uacfc\ub97c \ubc1b\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u53ea\u8981\u865b\u7a7a\u5e72\u64fe\u88dd\u7f6e\u7dad\u6301\u904b\u4f5c\uff0c\u6bcf\u4e00\u5929\u90fd\u53ef\u4ee5\u5728\u7834\u788e\u6d77\u5cb8\u5b8c\u6210\u4e00\u500b\u4efb\u52d9\uff0c\u7372\u5f97\u4e00\u679a\u7834\u788e\u547d\u904b\u5fbd\u5370\u3002\r\n\r\n\u56de\u53bb\u627e\u6307\u63ee\u5b98\u9322\u67cf\u4ee5\u7372\u5f97\u9019\u9805\u734e\u52f5\u3002\r\n",
+    "zh_CN": "\u865a\u7a7a\u5e72\u6270\u5668\u6fc0\u6d3b\u65f6\uff0c\u4f60\u6bcf\u5929\u90fd\u53ef\u4ee5\u56de\u5230\u7834\u788e\u6d77\u6ee9\u5b8c\u6210\u4e00\u4e2a\u4efb\u52a1\uff0c\u83b7\u5f97\u4e00\u679a\u514d\u8d39\u7684\u7834\u788e\u547d\u8fd0\u5370\u8bb0\u3002\r\n\r\n\u5411\u6307\u6325\u5b98\u94b1\u4f2f\u65af\u62a5\u544a\u4ee5\u83b7\u5f97\u8fd9\u4e2a\u5956\u52b1\u3002"
+  }
 }

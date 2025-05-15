@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "259930"
+  "SpellID": "259930",
+  "name_blz": {
+    "en_US": "Forge of Light",
+    "es_MX": "Forja de Luz",
+    "pt_BR": "Forja da Luz",
+    "de_DE": "Schmiede des Lichts",
+    "en_GB": "Forge of Light",
+    "es_ES": "Forja de Luz",
+    "fr_FR": "Forge de Lumi\u00e8re",
+    "it_IT": "Forgia di Luce",
+    "ru_RU": "\u0413\u043e\u0440\u043d \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uac00\uc5f4\ub85c",
+    "zh_TW": "\u8056\u5149\u7194\u7210",
+    "zh_CN": "\u5723\u5149\u7194\u7089"
+  },
+  "description_blz": {
+    "en_US": "Summon a Forge of Light, enabling Blacksmithing. \r\n\r\nBlacksmithing skill increased by 5.",
+    "es_MX": "Invoca una forja de Luz que permite practicar la herrer\u00eda. \r\n\r\nAumenta la habilidad de herrer\u00eda en 5 p.",
+    "pt_BR": "Evoca uma Forja da Luz, permitindo o uso da profiss\u00e3o de Ferraria.\r\n\r\nAumenta em 5 o seu n\u00edvel de Ferraria.",
+    "de_DE": "Beschw\u00f6rt eine Schmiede des Lichts, die das Schmieden erlaubt.\r\n\r\nErh\u00f6ht die Schmiedefertigkeit um 5.",
+    "en_GB": "Summon a Forge of Light, enabling Blacksmithing. \r\n\r\nBlacksmithing skill increased by 5.",
+    "es_ES": "Invoca una forja de Luz que permite la herrer\u00eda.\r\n\r\nHabilidad en herrer\u00eda aumentada 5 p.",
+    "fr_FR": "Invoque une forge de Lumi\u00e8re, ce qui permet de forger.\r\n\r\nComp\u00e9tence en forge augment\u00e9e de 5.",
+    "it_IT": "Evoca una Forgia della Luce, permettendo di forgiare.\r\n\r\nAumenta la competenza in Forgiatura di 5.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u0433\u043e\u0440\u043d\u0430 \u0421\u0432\u0435\u0442\u0430, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f \u043a\u0443\u0437\u043d\u0435\u0447\u043d\u044b\u043c \u0434\u0435\u043b\u043e\u043c. \r\n\r\n\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u043d\u0430\u0432\u044b\u043a \u043a\u0443\u0437\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u0434\u0435\u043b\u0430 \u043d\u0430 5.",
+    "ko_KR": "\ube5b\uc758 \uac00\uc5f4\ub85c\ub97c \uc18c\ud658\ud558\uc5ec \ub300\uc7a5\uae30\uc220\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \ud569\ub2c8\ub2e4.\r\n\r\n\ub300\uc7a5\uae30\uc220 \uc219\ub828\ub3c4\uac00 5\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u5ea7\u53ef\u8b93\u4f60\u7528\u4f86\u935b\u9020\u7684\u8056\u5149\u7194\u7210\u3002\r\n\r\n\u935b\u9020\u6280\u80fd\u63d0\u9ad85\u9ede\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u5ea7\u5723\u5149\u7194\u7089\uff0c\u8ba9\u4f60\u53ef\u4ee5\u4f7f\u7528\u953b\u9020\u6280\u80fd\u3002\r\n\r\n\u953b\u9020\u6280\u80fd\u63d0\u9ad85\u70b9\u3002"
+  }
 }
