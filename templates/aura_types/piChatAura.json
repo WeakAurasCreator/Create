@@ -1,0 +1,49 @@
+{
+  "actions": {
+    "start": {
+      "custom": "local channel = IsInGroup(LE_PARTY_CATEGORY_INSTANCE) and \"INSTANCE_CHAT\" or IsInRaid() and \"RAID\" or \"PARTY\"\n\nif aura_env.dpsList and #aura_env.dpsList ~= 0 then \n\nif aura_env.config.targetCount == 1 then\n    SendChatMessage(\"Best Pi Target for Singletarget: \",channel)\nelse\n    SendChatMessage(\"Best Pi Target for \"..aura_env.config.targetCount..\" targets: \",channel)\nend\n\n\nfor _,dpsgain in pairs (aura_env.dpsList) do\n    SendChatMessage(dpsgain.name..\" : \".. dpsgain.gain, channel)\nend\n\nif not aura_env.config.disableTargetCountReminder then\n    SendChatMessage(\"Other target Counts are available (1,3,5,8,15). Adjust them via custom options\")\nend\n\nif not aura_env.config.disableLastUpdated then\n    SendChatMessage(\"Brought to you by WACreator. Last updated: \"..aura_env.updated,channel)\n    \nend\nelse\n SendChatMessage(\"No dps currently in group\",channel)\n end\n\n"
+    },
+    "init": {
+      "custom": "\n\naura_env.sortFunct = function(a,b)\n    return a.gain>b.gain\nend\n\naura_env.sortPiValues = function(t)\n    return table.sort(t,aura_env.sortFunct)\nend\n\n\n"
+    }
+  },
+  "triggers": [
+    {
+      "trigger": {
+        "type": "custom",
+        "custom_trigger": "function(event, text, _, _, channelName, _, _, _, channelIndex, channelBaseName)\n    if text then\n        local beginning,ending = string.find(text, \"!pi\" ,1)\n        if  beginning and  beginning == 1 then\n            local dpsList = {}\n            for unit in WA_IterateGroupMembers() do\n                local specID = WeakAuras.SpecForUnit(unit)\n                local name =  UnitName(unit)\n                local guid = UnitGUID(unit)\n                if aura_env.piList[aura_env.config.targetCount][specID] then \n table.insert(dpsList, {\n                        name = name,\n                        spec = specID,\n                        gain = aura_env.piList[aura_env.config.targetCount][specID].gain\n                })\n            end\n    end \n        aura_env.sortPiValues(dpsList)\n            aura_env.dpsList = dpsList\n            return true\n        end\n        \n        \n    end\n    \nend\n\n\n",
+        "events": "CHAT_MSG_PARTY, CHAT_MSG_PARTY_LEADER, CHAT_MSG_RAID, CHAT_MSG_RAID_LEADER, CHAT_MSG_INSTANCE_CHAT, CHAT_MSG_INSTANCE_CHAT_LEADER"
+      }
+    }
+  ],
+  "authorOptions": {
+    "1": {
+      "type": "toggle",
+      "key": "disableTargetCountReminder",
+      "width": 1,
+      "default": false,
+      "name": "disable change target count reminder",
+      "useDesc": true,
+      "desc": "Disables the target count change reminder"
+    },
+    "2":{
+      "desc": "Sets the target count for which pi values should be send in chat.",
+      "type": "select",
+      "key": "targetCount",
+      "values": ["1", "3", "5", "8", "15"],
+      "useDesc": true,
+      "name": "target Count",
+      "default": 1,
+      "width": 1
+    },
+    "3":{
+      "type": "toggle",
+      "key": "disableLastUpdated",
+      "desc": "Disables the last updated msg in chat",
+      "useDesc": true,
+      "name": "disable Last Updated Info",
+      "default": false,
+      "width": 1
+    }
+  }
+}

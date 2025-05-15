@@ -4,5 +4,6 @@
     "buff.json",
     "unit_characteristics.json",
     "health.json",
-    "cooldown.json"
+    "cooldown.json",
+    "event.json"
 ]

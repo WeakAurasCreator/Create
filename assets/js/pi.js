@@ -1,15 +1,17 @@
 // Fetch and render DPS delta per spec for selected target count
 let piAura,
   piValues,
-  dpsLookup = {}, explanationLookup = {};
+  dpsLookup = {}, explanationLookup = {}, piChatAura= {};
 const piAuraFetches = [
   fetch("templates/aura_types/piAura.json").then((r) => r.json()),
+  fetch("templates/aura_types/piChatAura.json").then((r) => r.json()),
   fetch("data/pi_values.json").then((r) => r.json()),
   fetch("data/piExplanations.json").then((r) => r.json()),
 ];
 Promise.all(piAuraFetches)
-  .then(([pi_aura, pi_values, pi_explanations]) => {
+  .then(([pi_aura,pi_chat_aura, pi_values, pi_explanations]) => {
     piAura = pi_aura;
+    piChatAura = pi_chat_aura;
     piValues = pi_values;
     explanationLookup = new Map(Object.entries(pi_explanations));
     setupPiData(piValues);
@@ -305,6 +307,8 @@ function createPiAuraEntry(spec,spellIds, targetArray, loadInEncounter, iconSize
   return aura;
 }
 
+
+
 function generatePiAurasForTargetArray(targetArray,group, loadInEncounter, iconSize){
   
   for (key in targetArray) {
@@ -325,6 +329,40 @@ function generatePiAurasForTargetArray(targetArray,group, loadInEncounter, iconS
   }
 }
 
+function createPiChatAura() {
+  let aura = JSON.parse(JSON.stringify(EmptyRegionTemplate)); // get a copy of the empty region Template
+  setAuraId(aura, `PI Anouncer`); 
+  setAuraUid(aura, `WACreator_PI_Anouncer`); 
+  setActionsOnShowCustom(aura, piChatAura.actions.start.custom);
+  let piList = '{';
+  for (const [targetCount, entries] of dpsLookup) {
+      piList += `[${targetCount}] = {`;
+      for (const entry of entries) {
+          piList += `[${entry.specId}] = { gain = ${entry.dps_delta > 0 ? Math.round(entry.dps_delta) : 0} },`;
+      }
+      piList += '},';
+  }
+  piList += '}';
+
+  const updated = new Date().toLocaleString(undefined, {
+  year:   'numeric',
+  month:  'numeric',
+  day:    'numeric',
+  hour:   '2-digit',
+  minute: '2-digit'
+  });
+  let init = `aura_env.piList=${piList} \naura_env.updated = \"${updated}" \n ${piChatAura.actions.init.custom}`
+  
+  setActionsOnInitCustom(aura,init)
+
+  let eventTrigger = JSON.parse(JSON.stringify(Triggers.event)); // get a copy of the event Trigger Template
+  setCustomTrigger(eventTrigger, piChatAura.triggers[0].trigger.custom_trigger, piChatAura.triggers[0].trigger.events, 10);
+  addTrigger(aura, eventTrigger);
+
+  setAuthorOptions(aura,piChatAura.authorOptions)
+  
+  return aura;
+}
 
 function generatePiAura() {
   const mode = document.querySelector('input[name="mode"]:checked').value;
@@ -335,6 +373,9 @@ function generatePiAura() {
   if (anchorGroup){
     setAnchorPerFrame(group.d, "UNITFRAME");
   }
+
+  let piChatAura = createPiChatAura();
+  addAuraToGroup(group, piChatAura);
 
   if(mode === "single"){
     const targetSelect = document.getElementById("targetSelectOverall");
@@ -353,7 +394,7 @@ function generatePiAura() {
     console.error("Invalid mode selected. Please choose either 'single' or 'dual'.");
     return;
   }
-
+  console.log(group)
   // Serialize
   let serializedAura = serialize(group);
   // Deflate

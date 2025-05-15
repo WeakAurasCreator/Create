@@ -1,5 +1,5 @@
 // containers for your templates
-let ExportData, DynamicGroupTemplate, IconTemplate, PiAura, MetaData;
+let ExportData, DynamicGroupTemplate, IconTemplate, EmptyRegionTemplate, MetaData;
 const Triggers = {}; // ← will hold all the trigger‑JSONs
 const Data = {};
 
@@ -8,6 +8,7 @@ const coreFetches = [
   fetch("templates/ExportData.json").then((r) => r.json()),
   fetch("templates/aura_types/DynamicGroup.json").then((r) => r.json()),
   fetch("templates/aura_types/Icon.json").then((r) => r.json()),
+  fetch("templates/aura_types/emptyRegion.json").then((r) => r.json()),
   fetch("data/metadata.json").then((r) => r.json()),
 ];
 
@@ -21,11 +22,12 @@ const dataIndexFetch = fetch("templates/data/dataIndex.json").then((r) =>
 );
 Promise.all([Promise.all(coreFetches), triggersIndexFetch, dataIndexFetch])
   .then(
-    ([[exportData, DynamicGroup, Icon, metadata], triggerFiles, dataFiles]) => {
+    ([[exportData, DynamicGroup, Icon, emptyRegion, metadata], triggerFiles, dataFiles]) => {
       // assign core templates
       ExportData = exportData;
       DynamicGroupTemplate = DynamicGroup;
       IconTemplate = Icon;
+      EmptyRegionTemplate = emptyRegion;
       MetaData = metadata;
 
       // build two lists of fetch-and-assign promises
@@ -126,6 +128,30 @@ function setTriggerUnit(trigger, unit) {
   return trigger;
 }
 
+function setAuthorOptions(aura, authorOptions) {
+  if (authorOptions) {
+    aura.authorOptions = authorOptions;
+  } else {
+    console.error(`Author options for aura "${aura}" can't be nil`);
+  }
+  return aura;
+}
+
+function setCustomTrigger(trigger, custom, events, duration){
+  if(trigger.trigger.type !== "custom") {
+    console.error(`Custom trigger could not be set for trigger "${trigger}" type "${trigger.trigger.type}" not supported`);
+  }
+  trigger.trigger.custom = custom;
+  if(duration){
+    trigger.trigger.custom_hide = "timed";
+    trigger.trigger.duration = String(duration);
+  }
+  if(events){
+    trigger.trigger.events = events;
+  }
+  return trigger;
+}
+
 function setAuraId(aura, idString) {
   if (idString) {
     aura.id = idString;
@@ -145,11 +171,11 @@ function setAuraUid(aura, idString) {
 }
 
 function setAuraWidth(aura, width) {
-  aura.width = width
+  aura.width = Number(width)
 }
 
 function setAuraHeight(aura, height) {
-  aura.height = height
+  aura.height = Number(height)
 }
 
 function setSpellIds(trigger, spellIds, useExactSpellId = false) {
@@ -223,6 +249,18 @@ function setTriggerMode(aura, mode, customTriggerLogic) {
     aura.triggers.customTriggerLogic = customTriggerLogic;
   }
   aura.triggers.activeTriggerMode = -10;
+  return aura;
+}
+
+function setActionsOnShowCustom(aura, custom){
+  aura.actions.start.do_custom= true;
+  aura.actions.start.custom= custom;
+  return aura;
+}
+
+function setActionsOnInitCustom(aura, custom){
+  aura.actions.init.do_custom= true;
+  aura.actions.init.custom= custom;
   return aura;
 }
 

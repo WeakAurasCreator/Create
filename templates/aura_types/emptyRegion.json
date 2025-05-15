@@ -1,0 +1,60 @@
+{
+  "authorOptions": {},
+  "yOffset": 0,
+  "regionType": "empty",
+  "xOffset": 0,
+  "actions": {
+    "start": {},
+    "init": {},
+    "finish": {}
+  },
+  "triggers": {},
+  "anchorFrameType": "SCREEN",
+  "internalVersion": 84,
+  "alpha": 1,
+  "animation": {
+    "start": {
+      "type": "none",
+      "easeStrength": 3,
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "main": {
+      "type": "none",
+      "easeStrength": 3,
+      "duration_type": "seconds",
+      "easeType": "none"
+    },
+    "finish": {
+      "type": "none",
+      "easeStrength": 3,
+      "duration_type": "seconds",
+      "easeType": "none"
+    }
+  },
+  "id": "EMPTY REGION TEMPLATE",
+  "config": {},
+  "frameStrata": 1,
+  "width": 200,
+  "anchorPoint": "CENTER",
+  "uid": "EMPTY REGION TEMPLATE",
+  "selfPoint": "CENTER",
+  "subRegions": {},
+  "height": 200,
+  "conditions": {},
+  "information": {},
+  "load": {
+    "size": {
+      "multi": {}
+    },
+    "spec": {
+      "multi": {}
+    },
+    "class": {
+      "multi": {}
+    },
+    "talent": {
+      "multi": {}
+    }
+  }
+}

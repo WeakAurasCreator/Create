@@ -1,0 +1,24 @@
+{
+  "trigger": {
+    "type": "custom",
+    "subeventSuffix": "_CAST_START",
+    "event": "Health",
+    "unit": "player",
+    "spellIds": {},
+    "names": {},
+    "subeventPrefix": "SPELL",
+    "useName": true,
+    "auranames": {},
+    "debuffType": "HARMFUL",
+    "useMatch_count": true,
+    "match_countOperator": ">",
+    "match_count": "0",
+    "ignoreSelf": true,
+    "custom": "",
+    "duration" : "0",
+    "events": "",
+    "custom_hide": "timed",
+    "custom_type": "event"
+  },
+  "untrigger": {}
+}
