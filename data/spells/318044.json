@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "318044"
+  "SpellID": "318044",
+  "name_blz": {
+    "en_US": "Lightning Bolt",
+    "es_MX": "Descarga de rel\u00e1mpagos",
+    "pt_BR": "Raio",
+    "de_DE": "Blitzschlag",
+    "en_GB": "Lightning Bolt",
+    "es_ES": "Descarga de rel\u00e1mpagos",
+    "fr_FR": "\u00c9clair",
+    "it_IT": "Dardo Fulminante",
+    "ru_RU": "\u041c\u043e\u043b\u043d\u0438\u044f",
+    "ko_KR": "\ubc88\uac1c \ud654\uc0b4",
+    "zh_TW": "\u9583\u96fb\u7bad",
+    "zh_CN": "\u95ea\u7535\u7bad"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cast time of Lightning Bolt by 0.5 sec.",
+    "es_MX": "Reduce 0.5 s el tiempo de lanzamiento de Descarga de rel\u00e1mpagos.",
+    "pt_BR": "Reduz o tempo de lan\u00e7amento de Raio em 0,5 s.",
+    "de_DE": "Verringert die Zauberzeit von 'Blitzschlag' um 0,5 Sek.",
+    "en_GB": "Reduces the cast time of Lightning Bolt by 0.5 sec.",
+    "es_ES": "Reduce el tiempo de lanzamiento de Descarga de rel\u00e1mpagos 0,5 s.",
+    "fr_FR": "R\u00e9duit le temps d\u2019incantation d\u2019\u00c9clair de 0,5\u00a0s.",
+    "it_IT": "Riduce il tempo di lancio di Dardo Fulminante di 0,5 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u043e\u0438\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \"\u041c\u043e\u043b\u043d\u0438\u044f\" \u043d\u0430 0,5 \u0441\u0435\u043a.",
+    "ko_KR": "\ubc88\uac1c \ud654\uc0b4\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 0.5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9583\u96fb\u7bad\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed0.5\u79d2\u3002",
+    "zh_CN": "\u95ea\u7535\u7bad\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed0.5\u79d2\u3002"
+  }
 }

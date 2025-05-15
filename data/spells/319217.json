@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "319217"
+  "SpellID": "319217",
+  "name_blz": {
+    "en_US": "Podtender",
+    "es_MX": "C\u00e1psula rejuvenecedora",
+    "pt_BR": "Cuidador de Casulos",
+    "de_DE": "Kapselpfleger",
+    "en_GB": "Podtender",
+    "es_ES": "Cuidador de vainas",
+    "fr_FR": "Cocon curatif",
+    "it_IT": "Cura dei Baccelli",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u044b\u0439 \u0441\u0442\u0440\u0443\u0447\u043e\u043a",
+    "ko_KR": "\ubcf4\uc874\uc758 \uae4d\uc9c0",
+    "zh_TW": "\u8b77\u547d\u83a2",
+    "zh_CN": "\u7075\u8327\u5b88\u62a4\u8005"
+  },
+  "description_blz": {
+    "en_US": "When you take damage that would kill you, instead rejuvenate within a wildseed, regaining 30% of HP over 10 sec. If the wildseed takes more than 55,340 damage during this time, you die.\r\n\r\nThis effect may only occur once every 10 min.",
+    "es_MX": "Cuando recibes un golpe letal, en lugar de morir, te regeneras dentro de una semilla silvestre y recuperas un 30% de tu salud durante 10 s. Si la semilla silvestre recibe m\u00e1s de 55,340 p. de da\u00f1o durante este tiempo, mueres.\r\n\r\nEste efecto solo puede ocurrir una vez cada 10 min.",
+    "pt_BR": "Ao receber dano fatal, em vez de morrer voc\u00ea rejuvenesce em uma semente selvagem, recuperando 30% dos pontos de vida ao longo de 10 s. Se a semente selvagem receber mais de 55.340 de dano durante esse tempo, voc\u00ea morre.\r\n\r\nEste efeito s\u00f3 pode ocorrer uma vez a cada 10 min.",
+    "de_DE": "Wenn Ihr Schaden erleidet, der sonst t\u00f6dlich w\u00e4re, werdet Ihr stattdessen in einem Wildsamen verj\u00fcngt und erhaltet dabei im Verlauf von 10 Sek. 30% Eurer Gesundheit zur\u00fcck. Wenn der Wildsamen w\u00e4hrend dieser Zeit mehr als 55.340 Schaden erleidet, sterbt Ihr.\r\n\r\nDieser Effekt kann nur einmal alle 10 Min. auftreten.",
+    "en_GB": "When you take damage that would kill you, instead rejuvenate within a wildseed, regaining 30% of HP over 10 sec. If the wildseed takes more than 55,340 damage during this time, you die.\r\n\r\nThis effect may only occur once every 10 min.",
+    "es_ES": "Al recibir da\u00f1o que normalmente te matar\u00eda, en su lugar, rejuveneces dentro de una semilla silvestre y recuperas un 30% de salud durante 10 s. Si la semilla silvestre recibe m\u00e1s de 55340\u00a0p. de da\u00f1o durante este periodo, mueres.\r\n\r\nEste efecto solo puede suceder una vez cada 10 min.",
+    "fr_FR": "Les d\u00e9g\u00e2ts qui devraient vous tuer vous enferment dans une graine sauvage o\u00f9 vous r\u00e9cup\u00e9rez 30% de vos points de vie en 10 s. Vous mourez si la graine subit plus de 55340\u00a0points de d\u00e9g\u00e2ts pendant cette dur\u00e9e.\r\n\r\nCet effet ne peut se produire qu\u2019une fois toutes les 10 min.",
+    "it_IT": "Subire danni altrimenti letali mette l'incantatore in un Semebrado che rigenera il 30% della salute massima in 10 s. Se il Semebrado subisce pi\u00f9 di 55.340 danni durante la durata, l'incantatore muore.\r\n\r\nL'effetto pu\u00f2 verificarsi solo una volta ogni 10 min.",
+    "ru_RU": "\u041f\u043e\u043b\u0443\u0447\u0438\u0432 \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u043d\u0430\u0447\u0435 \u043e\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u0431\u044b \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u043c, \u0432\u044b \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0435 \u0441\u0438\u043b\u044b \u0432 \u0434\u0438\u043a\u043e\u043c \u0441\u0435\u043c\u0435\u043d\u0438, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f 30% \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 10 \u0441\u0435\u043a. \u0415\u0441\u043b\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0434\u0438\u043a\u043e\u0435 \u0441\u0435\u043c\u044f \u043f\u043e\u043b\u0443\u0447\u0438\u0442 \u0431\u043e\u043b\u0435\u0435 55340 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430, \u0432\u044b \u0443\u043c\u0440\u0435\u0442\u0435.\r\n\r\n\u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 10 \u043c\u0438\u043d.",
+    "ko_KR": "\uc8fd\uc74c\uc5d0 \uc774\ub974\uac8c \ud558\ub294 \ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \uc57c\uc0dd\uc528\uc557\uc5d0 \ub4e4\uc5b4\uac00 10\ucd08\uc5d0 \uac78\uccd0 \uc0dd\uba85\ub825\uc744 30%\ub9cc\ud07c \ud68c\ubcf5\ud569\ub2c8\ub2e4. \uc774 \uc2dc\uac04 \ub3d9\uc548 \uc57c\uc0dd\uc528\uc557\uc774 55,340 \uc774\uc0c1\uc758 \ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \uc0ac\ub9dd\ud569\ub2c8\ub2e4.\r\n\r\n\uc774 \ud6a8\uacfc\ub294 10\ubd84\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u53d7\u5230\u8db3\u4ee5\u81f4\u6b7b\u7684\u50b7\u5bb3\u6642\uff0c\u4f60\u6703\u5728\u91ce\u6027\u7a2e\u5b50\u88e1\u6062\u5fa9\u6d3b\u529b\uff0c\u572810\u79d2\u5167\u91cd\u737230%\u7684\u751f\u547d\u529b\u3002\u82e5\u91ce\u6027\u7a2e\u5b50\u5728\u9019\u6bb5\u671f\u9593\u5167\u53d7\u5230\u8d85\u904e55,340\u9ede\u50b7\u5bb3\uff0c\u5247\u4f60\u6703\u6b7b\u4ea1\u3002\r\n\r\n\u6b64\u6548\u679c\u6bcf10\u5206\u9418\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5f53\u4f60\u53d7\u5230\u81f4\u547d\u4f24\u5bb3\u65f6\uff0c\u4f60\u5c06\u53d8\u4e3a\u7075\u79cd\u5e76\u5f97\u5230\u6cbb\u7597\uff0c\u572810\u79d2\u5185\u6062\u590d30%\u7684\u751f\u547d\u503c\u3002\u5982\u679c\u5728\u6b64\u671f\u95f4\u7075\u79cd\u53d7\u5230\u4e8655,340\u70b9\u4f24\u5bb3\uff0c\u4f60\u5c06\u88ab\u6d88\u706d\u3002\r\n\r\n\u6b64\u6548\u679c\u6bcf10\u5206\u949f\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

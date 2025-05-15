@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339114"
+  "SpellID": "339114",
+  "name_blz": {
+    "en_US": "Golden Path",
+    "es_MX": "Camino dorado",
+    "pt_BR": "Caminho Dourado",
+    "de_DE": "Goldener Pfad",
+    "en_GB": "Golden Path",
+    "es_ES": "Camino dorado",
+    "fr_FR": "Voie dor\u00e9e",
+    "it_IT": "Percorso Dorato",
+    "ru_RU": "\u0417\u043e\u043b\u043e\u0442\u043e\u0439 \u043f\u0443\u0442\u044c",
+    "ko_KR": "\ud669\uae08\ube5b \uae38",
+    "zh_TW": "\u91d1\u8f1d\u4e4b\u9053",
+    "zh_CN": "\u8f89\u91d1\u4e4b\u9053"
+  },
+  "description_blz": {
+    "en_US": "Consecration heals you for 13 every 0.9 sec while standing within it.",
+    "es_MX": "Consagraci\u00f3n te sana 13 p. cada 0.9 s mientras est\u00e9s en la zona consagrada.",
+    "pt_BR": "Consagra\u00e7\u00e3o restaura 13 pontos de vida seus a cada 0,9 s enquanto permanecer dentro dela.",
+    "de_DE": "'Weihe' heilt Euch alle 0,9 Sek. um 13 Gesundheit, solange Ihr Euch im Effektbereich aufhaltet.",
+    "en_GB": "Consecration heals you for 13 every 0.9 sec while standing within it.",
+    "es_ES": "Consagraci\u00f3n te sana 13 p. cada 0,9 s mientras permaneces en su interior.",
+    "fr_FR": "Cons\u00e9cration vous rend 13\u00a0points de vie toutes les 0,9\u00a0s tant que vous restez dans sa zone d\u2019effet.",
+    "it_IT": "Consacrazione rigenera 13 salute ogni 0,9 s finch\u00e9 resti nell'area d'effetto.",
+    "ru_RU": "\"\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435\" \u0440\u0430\u0437 \u0432 0,9 \u0441\u0435\u043a. \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c 13 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u043f\u043e\u043a\u0430 \u0432\u044b \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0435\u0441\u044c \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0435\u0433\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.",
+    "ko_KR": "\uc2e0\uc131\ud654 \uc9c0\uc5ed \uc548\uc5d0 \uc11c \uc788\ub294 \ub3d9\uc548 0.9\ucd08\ub9c8\ub2e4 13\ub9cc\ud07c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u7ad9\u5728\u5949\u737b\u7bc4\u570d\u5167\uff0c\u6bcf0.9\u79d2\u6703\u6062\u5fa913 \u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u7ad9\u5728\u5949\u732e\u4e2d\u65f6\uff0c\u6bcf0.9\u79d2\u4e3a\u4f60\u6062\u590d13\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

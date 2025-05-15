@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "317911"
+  "SpellID": "317911",
+  "name_blz": {
+    "en_US": "Divine Steed",
+    "es_MX": "Corcel divino",
+    "pt_BR": "Corcel Divino",
+    "de_DE": "G\u00f6ttliches Ross",
+    "en_GB": "Divine Steed",
+    "es_ES": "Corcel divino",
+    "fr_FR": "Palefroi divin",
+    "it_IT": "Destriero Divino",
+    "ru_RU": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0441\u043a\u0430\u043a\u0443\u043d",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \uad70\ub9c8",
+    "zh_TW": "\u795e\u6027\u6230\u99ac",
+    "zh_CN": "\u795e\u5723\u9a6c\u9a79"
+  },
+  "description_blz": {
+    "en_US": "Cooldown reduced by 15 sec.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n se reduce 15 s.",
+    "pt_BR": "Recarga reduzida em 15 s.",
+    "de_DE": "Verringert die Abklingzeit um 15 Sek.",
+    "en_GB": "Cooldown reduced by 15 sec.",
+    "es_ES": "Tiempo de reutilizaci\u00f3n reducido 15 s.",
+    "fr_FR": "Temps de recharge r\u00e9duit de 15\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di 15 s.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u51b7\u537b\u6642\u9593\u7e2e\u77ed15\u79d2\u3002",
+    "zh_CN": "\u51b7\u5374\u65f6\u95f4\u7f29\u77ed15\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "337286"
+  "SpellID": "337286",
+  "name_blz": {
+    "en_US": "Strike with Clarity",
+    "es_MX": "Golpe con claridad",
+    "pt_BR": "Golpear com Clareza",
+    "de_DE": "Schlag voller Klarheit",
+    "en_GB": "Strike with Clarity",
+    "es_ES": "Golpear con claridad",
+    "fr_FR": "Frappe de clart\u00e9",
+    "it_IT": "Assalto Lucido",
+    "ru_RU": "\u0423\u0434\u0430\u0440 \u043f\u0440\u043e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u043d\u044b\u0445",
+    "ko_KR": "\uccad\uba85\uc758 \uc77c\uaca9",
+    "zh_TW": "\u660e\u609f\u4e4b\u64ca",
+    "zh_CN": "\u6d1e\u5bdf\u4e00\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Weapons of Order's duration is increased by 5.0 sec, and it increases your Mastery by an additional 23.1%.",
+    "es_MX": "La duraci\u00f3n de Armas de orden aumenta 5.0 s y aumenta tu maestr\u00eda un 23.1% m\u00e1s.",
+    "pt_BR": "Armas de Ordem tem mais 5,0 s de dura\u00e7\u00e3o e aumenta em mais 23,1% sua Maestria.",
+    "de_DE": "Erh\u00f6ht die Dauer von 'Waffen der Ordnung' um 5,0 Sek. und die F\u00e4higkeit erh\u00f6ht Eure Meisterschaft um zus\u00e4tzlich 23,1%.",
+    "en_GB": "Weapons of Order's duration is increased by 5.0 sec, and it increases your Mastery by an additional 23.1%.",
+    "es_ES": "La duraci\u00f3n de Armas de orden aumenta 5,0 s y aumenta tu maestr\u00eda un 23,1% m\u00e1s.",
+    "fr_FR": "La dur\u00e9e d\u2019Armes de l\u2019Ordre est augment\u00e9e de 5,0\u00a0s et le bonus \u00e0 la Ma\u00eetrise de 23,1% suppl\u00e9mentaires.",
+    "it_IT": "Aumenta la durata di Armi dell'Ordine di 5,0 s e aumenta la maestria del 23,1% aggiuntivo.",
+    "ru_RU": "\"\u041e\u0440\u0443\u0436\u0438\u0435 \u043e\u0440\u0434\u0435\u043d\u0430\" \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 5,0 \u0441\u0435\u043a. \u0434\u043e\u043b\u044c\u0448\u0435 \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u0435\u0449\u0435 \u043d\u0430 23,1%.",
+    "ko_KR": "\uc9c8\uc11c\uc758 \ubb34\uae30\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 5.0\ucd08\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ud2b9\ud654 \uc99d\uac00\ub7c9\uc744 \ucd94\uac00\ub85c 23.1%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u79e9\u5e8f\u6b66\u88dd\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95775.0\u79d2\uff0c\u4e26\u4e14\u4f7f\u4f60\u7684\u7cbe\u901a\u984d\u5916\u63d0\u9ad823.1%\u3002",
+    "zh_CN": "\u7cbe\u5e8f\u5175\u6208\u7684\u6301\u7eed\u65f6\u95f4\u5c06\u5ef6\u957f5.0\u79d2\uff0c\u5e76\u4f7f\u4f60\u7684\u7cbe\u901a\u989d\u5916\u63d0\u9ad823.1%\u3002"
+  }
 }

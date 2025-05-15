@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "334779"
+  "SpellID": "334779",
+  "name_blz": {
+    "en_US": "Collateral Damage",
+    "es_MX": "Da\u00f1o colateral",
+    "pt_BR": "Dano Colateral",
+    "de_DE": "Kollateralschaden",
+    "en_GB": "Collateral Damage",
+    "es_ES": "Da\u00f1o colateral",
+    "fr_FR": "D\u00e9g\u00e2ts collat\u00e9raux",
+    "it_IT": "Danni Collaterali",
+    "ru_RU": "\u0421\u043e\u043f\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u0443\u0449\u0435\u0440\u0431",
+    "ko_KR": "\ubd80\uc218\uc801\uc778 \ud53c\ud574",
+    "zh_TW": "\u9644\u52a0\u50b7\u5bb3",
+    "zh_CN": "\u95f4\u63a5\u4f24\u5bb3"
+  },
+  "description_blz": {
+    "en_US": "When Sweeping Strikes ends, your next Cleave or Whirlwind deals 25% increased damage for each ability used during Sweeping Strikes that damaged a second target.",
+    "es_MX": "Cuando Golpes de barrido finaliza, tu siguiente Rajar o Torbellino inflige un 25% m\u00e1s de da\u00f1o por cada habilidad utilizada durante Golpes de barrido que haya da\u00f1ado a un segundo objetivo.",
+    "pt_BR": "Quando Golpes a Esmo termina, sua pr\u00f3xima Cutilada ou Redemoinho causa 25% a mais de dano para cada habilidade usada durante Golpes a Esmo que tenha causado dano a um segundo alvo.",
+    "de_DE": "Wenn 'Weitreichende St\u00f6\u00dfe' endet, verursacht Euer n\u00e4chster Einsatz von 'Spalten' oder 'Wirbelwind' f\u00fcr jede w\u00e4hrend 'Weitreichende St\u00f6\u00dfe' eingesetzte F\u00e4higkeit, die einem zweiten Ziel Schaden zugef\u00fcgt hat, 25% mehr Schaden.",
+    "en_GB": "When Sweeping Strikes ends, your next Cleave or Whirlwind deals 25% increased damage for each ability used during Sweeping Strikes that damaged a second target.",
+    "es_ES": "Cuando termina Golpes de barrido, tu siguiente Rajar o Torbellino inflige un 25% m\u00e1s de da\u00f1o por cada facultad usada durante Golpes de barrido que infligiera da\u00f1o a un segundo objetivo.",
+    "fr_FR": "Quand Attaques circulaires prend fin, votre prochain Encha\u00eenement ou Tourbillon inflige 25\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires par technique utilis\u00e9e pendant Attaques circulaires et ayant inflig\u00e9 des d\u00e9g\u00e2ts \u00e0 une deuxi\u00e8me cible.",
+    "it_IT": "Quando Assalti Fendenti termina, il successivo lancio di Fendente o Turbine infligge il 25% di danni aggiuntivi per ogni abilit\u00e0 usata durante Assalti Fendenti che abbia inflitto danni a un secondo bersaglio.",
+    "ru_RU": "\u041f\u0435\u0440\u0432\u044b\u0439 \"\u0420\u0430\u0441\u0441\u0435\u043a\u0430\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440\" \u0438\u043b\u0438 \"\u0412\u0438\u0445\u0440\u044c\", \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0420\u0430\u0437\u043c\u0430\u0448\u0438\u0441\u0442\u044b\u0445 \u0443\u0434\u0430\u0440\u043e\u0432\", \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 25% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0420\u0430\u0437\u043c\u0430\u0448\u0438\u0441\u0442\u044b\u0445 \u0443\u0434\u0430\u0440\u043e\u0432\" \u0438 \u043f\u043e\u0440\u0430\u0437\u0438\u0432\u0448\u0443\u044e \u0431\u043e\u043b\u044c\u0448\u0435 \u043e\u0434\u043d\u043e\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\ud729\uc4f8\uae30 \uc77c\uaca9 \uc885\ub8cc \uc2dc \ud729\uc4f8\uae30 \uc77c\uaca9\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud574 \ucd94\uac00 \ub300\uc0c1\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud78c \ud69f\uc218\ub2f9 \ub2e4\uc74c \ud68c\uc804\ubca0\uae30 \ub610\ub294 \uc18c\uc6a9\ub3cc\uc774\uc758 \uacf5\uaca9\ub825\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6a6b\u6383\u653b\u64ca\u7d50\u675f\u5f8c\uff0c\u6bcf\u500b\u5728\u6a6b\u6383\u653b\u64ca\u671f\u9593\u4f7f\u7528\u4e26\u5c0d\u53e6\u4e00\u500b\u76ee\u6a19\u9020\u6210\u50b7\u5bb3\u7684\u6280\u80fd\uff0c\u90fd\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u9806\u5288\u65ac\u6216\u65cb\u98a8\u65ac\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u5728\u6a2a\u626b\u653b\u51fb\u671f\u95f4\u4f60\u6bcf\u6b21\u4f7f\u7528\u4e00\u9879\u6280\u80fd\u5bf9\u6b21\u8981\u76ee\u6807\u9020\u6210\u4e86\u4f24\u5bb3\uff0c\u5f53\u6a2a\u626b\u653b\u51fb\u7ed3\u675f\u65f6\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u987a\u5288\u65a9\u6216\u65cb\u98ce\u65a9\u9020\u6210\u7684\u4f24\u5bb3\u5c31\u4f1a\u63d0\u9ad825%\u3002"
+  }
 }

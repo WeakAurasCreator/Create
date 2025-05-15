@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "322120"
+  "SpellID": "322120",
+  "name_blz": {
+    "en_US": "Shuffle",
+    "es_MX": "Elusi\u00f3n",
+    "pt_BR": "Postura Evasiva",
+    "de_DE": "Beinarbeit",
+    "en_GB": "Shuffle",
+    "es_ES": "Postergar",
+    "fr_FR": "Virevolte",
+    "it_IT": "Passo Barcollante",
+    "ru_RU": "\u0421\u043a\u0440\u044b\u0442\u044b\u0435 \u0440\u0435\u0437\u0435\u0440\u0432\u044b",
+    "ko_KR": "\uac74\ub4e4\uac74\ub4e4",
+    "zh_TW": "\u9189\u4ed9\u6b65",
+    "zh_CN": "\u9152\u9192\u5165\u5b9a"
+  },
+  "description_blz": {
+    "en_US": "Niuzao's teachings allow you to shuffle during combat, increasing the effectiveness of your Stagger by 100%.\r\n\r\nShuffle is granted by attacking enemies with your Keg Smash, Blackout Kick, and Spinning Crane Kick.",
+    "es_MX": "Las ense\u00f1anzas de Niuzao te permiten hacer uso de la elusi\u00f3n durante el combate, lo que aumenta la eficacia de tu Aplazar un 100%.\r\n\r\nObtienes elusi\u00f3n cuando atacas enemigos con Embate con barril, Patada oscura y Patada giratoria de la grulla.",
+    "pt_BR": "Os ensinamentos de Niuzao permitem que voc\u00ea assuma uma postura evasiva em combate, aumentando a efic\u00e1cia de Cambalear em 100%.\r\n\r\nVoc\u00ea ganha Postura Evasiva ao atacar inimigos com Pancada de Barril, Chute Blecaute e Chute Girat\u00f3rio da Gar\u00e7a.",
+    "de_DE": "Niuzaos Lehren erm\u00f6glichen Euch, Eure Beine im Kampf geschickter einzusetzen, was die Wirksamkeit Eurer Staffelung um 100% erh\u00f6ht.\r\n\r\nWenn Ihr Gegner mit 'Fasshieb', 'Blackout-Tritt' und 'Wirbelnder Kranichtritt' angreift, erhaltet Ihr 'Beinarbeit'.",
+    "en_GB": "Niuzao's teachings allow you to shuffle during combat, increasing the effectiveness of your Stagger by 100%.\r\n\r\nShuffle is granted by attacking enemies with your Keg Smash, Blackout Kick, and Spinning Crane Kick.",
+    "es_ES": "Las ense\u00f1anzas de Niuzao te permiten postergar da\u00f1o durante el combate, lo que aumenta la eficacia de tu Aplazar un 100%.\r\n\r\nObtienes Postergar cuando atacas a enemigos con Embate con barril, Patada oscura y Patada giratoria de la grulla.",
+    "fr_FR": "Les enseignements de Niuzao vous permettent de virevolter au combat, ce qui augmente l\u2019efficacit\u00e9 de votre Report de 100%.\r\n\r\nAttaquer des ennemis avec Fracasse-tonneau, Frappe du voile noir ou Coup tournoyant de la grue vous conf\u00e8re Virevolte.",
+    "it_IT": "Gli insegnamenti di Niuzao permettono di aumentare l'efficacia di Noncuranza del 100%.\r\n\r\nPasso Barcollante si ottiene attaccando i nemici con Lancio del Barile, Calcio dell'Oscuramento e Calcio Rotante della Gru.",
+    "ru_RU": "\u0423\u0447\u0435\u043d\u0438\u0435 \u041d\u044e\u0446\u0437\u0430\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u043e\u044e \u0441\u043a\u0440\u044b\u0442\u044b\u0435 \u0440\u0435\u0437\u0435\u0440\u0432\u044b, \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \"\u041f\u043e\u0448\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u044f\" \u043d\u0430 100%.\r\n\r\n\u0414\u0430\u0435\u0442 \"\u0421\u043a\u0440\u044b\u0442\u044b\u0435 \u0440\u0435\u0437\u0435\u0440\u0432\u044b\" \u0437\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \"\u0423\u0434\u0430\u0440\u0430 \u0431\u043e\u0447\u043e\u043d\u043a\u043e\u043c\", \"\u041d\u043e\u043a\u0430\u0443\u0442\u0438\u0440\u0443\u044e\u0449\u0435\u0433\u043e \u0443\u0434\u0430\u0440\u0430\" \u0438 \"\u0422\u0430\u043d\u0446\u0443\u044e\u0449\u0435\u0433\u043e \u0436\u0443\u0440\u0430\u0432\u043b\u044f\".",
+    "ko_KR": "\ub2c8\uc6b0\uc9dc\uc624\uc758 \uac00\ub974\uce68\uc744 \uccb4\ud604\ud558\uc5ec \uc804\ud22c \uc911\uc5d0 \uac74\ub4e4\uac70\ub824 \uc2dc\uac04\ucc28 \ud6a8\uacfc\ub97c 100%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ub9e5\uc8fc\ud1b5 \ud718\ub450\ub974\uae30, \ud6c4\ub824\ucc28\uae30, \ud68c\uc804 \ud559\ub2e4\ub9ac\ucc28\uae30\ub85c \uc801\uc744 \uacf5\uaca9\ud558\uba74 \uac74\ub4e4\uac74\ub4e4\uc774 \ubd80\uc5ec\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6012\u5146\u7684\u6559\u5c0e\u4f7f\u4f60\u80fd\u5920\u5728\u6230\u9b25\u4e2d\u4f7f\u51fa\u9189\u4ed9\u6b65\uff0c\u4f7f\u4f60\u9189\u4ed9\u7de9\u52c1\u7684\u6548\u679c\u63d0\u9ad8100%\u3002\r\n\r\n\u4ee5\u9152\u7f48\u7834\u3001\u6ec5\u5bc2\u817f\u6216\u9db4\u65cb\u8e22\u653b\u64ca\u6575\u4eba\u53ef\u7372\u5f97\u9189\u4ed9\u6b65\u6548\u679c\u3002",
+    "zh_CN": "\u782e\u7682\u7684\u5f15\u5bfc\u8ba9\u4f60\u53ef\u4ee5\u5728\u6218\u6597\u4e2d\u89e6\u53d1\u9152\u9192\u5165\u5b9a\uff0c\u9189\u62f3\u7684\u6548\u679c\u63d0\u9ad8100%\u3002\r\n\r\n\u7528\u9189\u917f\u6295\u3001\u5e7b\u706d\u8e22\u548c\u795e\u9e64\u5f15\u9879\u8e22\u653b\u51fb\u654c\u4eba\u53ef\u4ee5\u83b7\u5f97\u9152\u9192\u5165\u5b9a\u6548\u679c\u3002"
+  }
 }
