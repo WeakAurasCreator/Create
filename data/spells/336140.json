@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "336140"
+  "SpellID": "336140",
+  "name_blz": {
+    "en_US": "Watch the Shoes!",
+    "es_MX": "\u00a1Cuidado con los zapatos!",
+    "pt_BR": "Cuidado com os Sapatos!",
+    "de_DE": "Behaltet die Schuhe im Auge!",
+    "en_GB": "Watch the Shoes!",
+    "es_ES": "\u00a1Ojo con los zapatos!",
+    "fr_FR": "Ne marchez pas n\u2019importe o\u00f9\u00a0!",
+    "it_IT": "Attenzione alle Scarpe!",
+    "ru_RU": "\u0421\u043c\u043e\u0442\u0440\u0438 \u043f\u043e\u0434 \u043d\u043e\u0433\u0438!",
+    "ko_KR": "\uc2e0\ubc1c \uc870\uc2ec!",
+    "zh_TW": "\u6ce8\u610f\u8173\u4e0b\uff01",
+    "zh_CN": "\u770b\u597d\u811a\u4e0b\uff01"
+  },
+  "description_blz": {
+    "en_US": "Door of Shadows frees you from roots and snares.",
+    "es_MX": "Puerta de sombras te libera de efectos de enraizamiento y frenado.",
+    "pt_BR": "Porta das Sombras liberta voc\u00ea de enraizamentos e lerdeza.",
+    "de_DE": "'Schattentor' befreit Euch von Bewegungsunf\u00e4higkeits- und Verlangsamungseffekten.",
+    "en_GB": "Door of Shadows frees you from roots and snares.",
+    "es_ES": "Puerta de las Sombras te libera de los efectos de enraizamiento y frenado.",
+    "fr_FR": "Porte des ombres vous lib\u00e8re des ralentissements et immobilisations.",
+    "it_IT": "Porta delle Ombre libera dagli effetti di immobilizzazione e rallentamento.",
+    "ru_RU": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0412\u0440\u0430\u0442\u0430 \u0442\u0435\u043d\u0435\u0439\" \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0432\u0430\u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0437\u0430\u043c\u0435\u0434\u043b\u0435\u043d\u0438\u044f \u0438 \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u043d\u0438\u044f.",
+    "ko_KR": "\uc5b4\ub460\uc758 \ubb38 \uc2dc\uc804 \uc2dc \uc774\ub3d9 \ubd88\uac00 \ubc0f \uac10\uc18d \ud6a8\uacfc\uc5d0\uc11c \ubc97\uc5b4\ub0a9\ub2c8\ub2e4.",
+    "zh_TW": "\u6697\u5f71\u4e4b\u9580\u53ef\u79fb\u9664\u4f60\u8eab\u4e0a\u7684\u5b9a\u8eab\u548c\u7de9\u901f\u6548\u679c\u3002",
+    "zh_CN": "\u6697\u5f71\u4e4b\u95e8\u4f1a\u89e3\u9664\u4f60\u53d7\u5230\u7684\u5b9a\u8eab\u548c\u8bf1\u6355\u6548\u679c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "322118"
+  "SpellID": "322118",
+  "name_blz": {
+    "en_US": "Invoke Yu'lon, the Jade Serpent",
+    "es_MX": "Invocar a Yu'lon, la Dragona de jade",
+    "pt_BR": "Invocar Yu'lon, a Serpente de Jade",
+    "de_DE": "Yu'lon die Jadeschlange beschw\u00f6ren",
+    "en_GB": "Invoke Yu'lon, the Jade Serpent",
+    "es_ES": "Invocar a Yu'lon, el Drag\u00f3n de Jade",
+    "fr_FR": "Invocation de Yu\u2019lon, le Serpent de jade",
+    "it_IT": "Invocazione: Yu'lon, la Serpe di Giada",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432 \u042e\u0439-\u043b\u0443\u043d, \u041d\u0435\u0444\u0440\u0438\u0442\u043e\u0432\u043e\u0439 \u0417\u043c\u0435\u0438",
+    "ko_KR": "\uc625\ub8e1 \uc704\ub860\uc758 \uc6d0\ub839",
+    "zh_TW": "\u53ec\u559a\u7389\u86df\u7389\u9f8d",
+    "zh_CN": "\u9752\u9f99\u4e0b\u51e1"
+  },
+  "description_blz": {
+    "en_US": "Summons an effigy of Yu'lon, the Jade Serpent for 25 sec. Yu'lon will heal injured allies with Soothing Breath, healing the target and up to 2 allies for 5,809 over 4.1 sec. \r\n\r\nEnveloping Mist costs 50% less mana while Yu'lon is active.",
+    "es_MX": "Invoca una efigie de Yu'lon, la Dragona de jade, durante 25 s. Yu'lon sanar\u00e1 a los aliados heridos con Aliento reconfortante, lo que sana 5,809 p. al objetivo y a un m\u00e1ximo de 2 aliados durante 4.1 s. \r\n\r\nNiebla envolvente cuesta un 50% menos de man\u00e1 mientras Yu'lon est\u00e1 activa.",
+    "pt_BR": "Evoca uma ef\u00edgie de Yu'lon, a Serpente de Jade, por 25 s. Yu'lon usa Sopro Reconfortante para curar aliados feridos, restaurando 5.809 de vida do alvo e de at\u00e9 2 aliados ao longo de 4,1 s.\r\n\r\nBruma Envolvente custa 50% menos de mana quando Yu'lon est\u00e1 ativa.",
+    "de_DE": "Beschw\u00f6rt ein Abbild von Yu'lon, der Jadeschlange, das 25 Sek. lang bestehen bleibt. Yu'lon setzt 'Beruhigender Atem' bei verletzten Verb\u00fcndeten ein und heilt das Ziel sowie bis zu 2 Verb\u00fcndete im Verlauf von 4,1 Sek. um 5.809 Gesundheit.\r\n\r\n'Einh\u00fcllender Nebel' kostet 50% weniger Mana, w\u00e4hrend Yu'lon aktiv ist.",
+    "en_GB": "Summons an effigy of Yu'lon, the Jade Serpent for 25 sec. Yu'lon will heal injured allies with Soothing Breath, healing the target and up to 2 allies for 5,809 over 4.1 sec. \r\n\r\nEnveloping Mist costs 50% less mana while Yu'lon is active.",
+    "es_ES": "Invoca una efigie de Yu'lon, el Drag\u00f3n de Jade, durante 25 s. Yu'lon lanza a los aliados heridos Aliento reconfortante, que sana 5809 p. al objetivo y a un m\u00e1ximo de 2 aliados durante 4,1 s.\r\n\r\nNiebla envolvente cuenta un 50% menos de man\u00e1 mientras Yu'lon est\u00e1 activo.",
+    "fr_FR": "Vous invoquez une effigie de Yu\u2019lon, le Serpent de jade, qui dure 25 s. Elle soigne les personnages alli\u00e9s bless\u00e9s avec Souffle apaisant, ce qui rend 5809\u00a0points de vie en 4,1 s \u00e0 la cible et \u00e0 un maximum de 2\u00a0alli\u00e9s.\r\n\r\nBrume enveloppante co\u00fbte 50% de mana en moins tant que Yu\u2019lon est actif.",
+    "it_IT": "Evoca un'effige di Yu'lon, la Serpe di Giada, per 25 s. Yu'lon cura gli alleati feriti con Respiro Calmante, curando il bersaglio e fino a un massimo di 2 alleati di 5.809 in 4,1 s.\r\n\r\nMentre Yu'lon \u00e8 attiva, il costo di Nebbia Avvolgente \u00e8 ridotto del 50%.",
+    "ru_RU": "\u041d\u0430 25 \u0441\u0435\u043a. \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043e\u0431\u0440\u0430\u0437 \u042e\u0439-\u043b\u0443\u043d, \u041d\u0435\u0444\u0440\u0438\u0442\u043e\u0432\u043e\u0439 \u0417\u043c\u0435\u0438. \u042e\u0439-\u043b\u0443\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u0423\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0449\u0435\u0435 \u0434\u044b\u0445\u0430\u043d\u0438\u0435\", \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0446\u0435\u043b\u0438 \u0438 \u0435\u0449\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 2 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c 5809 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 4,1 \u0441\u0435\u043a.\r\n\r\n\u041f\u043e\u043a\u0430 \u042e\u0439-\u043b\u0443\u043d \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0432\u0430\u043c, \"\u041e\u043a\u0443\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\" \u0441\u0442\u043e\u0438\u0442 \u043d\u0430 50% \u043c\u0435\u043d\u044c\u0448\u0435 \u043c\u0430\u043d\u044b.",
+    "ko_KR": "25\ucd08 \ub3d9\uc548 \uba38\ubb34\ub974\ub294 \uc625\ub8e1 \uc704\ub860\uc758 \uc6d0\ub839\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4. \uc704\ub860\uc740 \uc704\uc548\uc758 \uc228\uacb0\ub85c \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4. 4.1\ucd08\uc5d0 \uac78\uccd0 \ub300\uc0c1\uacfc \uc544\uad70 \ucd5c\ub300 2\uba85\uc758 \uc0dd\uba85\ub825\uc744 5,809\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. \r\n\r\n\uc625\ub8e1 \uc704\ub860\uc758 \uc6d0\ub839\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \ud3ec\uc6a9\uc758 \uc548\uac1c\uc758 \uc790\uc6d0 \uc18c\ubaa8\ub7c9\uc774 50%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u7389\u86df\u7389\u9f8d\u96d5\u50cf\uff0c\u6301\u7e8c25\u79d2\u3002\u7389\u9f8d\u6703\u7528\u8212\u548c\u5410\u606f\u6cbb\u7642\u53d7\u50b7\u7684\u76df\u53cb\uff0c\u70ba\u76ee\u6a19\u548c\u5176\u9644\u8fd1\u6700\u591a2\u540d\u76df\u53cb\u57284.1\u79d2\u5167\u6062\u5fa95,809\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u7389\u9f8d\u4f5c\u7528\u671f\u9593\u5167\uff0c\u8ff7\u9727\u7e5a\u7e5e\u7684\u6cd5\u529b\u6d88\u8017\u964d\u4f4e50%\u3002",
+    "zh_CN": "\u53ec\u5524\u9752\u9f99\u7389\u73d1\u7684\u5e7b\u8eab\uff0c\u6301\u7eed25\u79d2\u3002\u7389\u73d1\u4f1a\u7528\u629a\u6170\u4e4b\u606f\u6765\u6cbb\u7597\u53d7\u4f24\u7684\u76df\u53cb\uff0c\u57284.1\u79d2\u5185\u4e3a\u76ee\u6807\u4ee5\u53ca\u6700\u591a2\u540d\u76df\u53cb\u6062\u590d5,809\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u7389\u73d1\u5e7b\u8eab\u6fc0\u6d3b\u671f\u95f4\uff0c\u6c24\u6c32\u4e4b\u96fe\u6d88\u8017\u7684\u6cd5\u529b\u503c\u964d\u4f4e50%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338322"
+  "SpellID": "338322",
+  "name_blz": {
+    "en_US": "Focused Lightning",
+    "es_MX": "Rel\u00e1mpago enfocado",
+    "pt_BR": "Raio Concentrado",
+    "de_DE": "Geb\u00fcndelter Blitz",
+    "en_GB": "Focused Lightning",
+    "es_ES": "Rel\u00e1mpago enfocado",
+    "fr_FR": "\u00c9clair focalis\u00e9",
+    "it_IT": "Fulmine Concentrato",
+    "ru_RU": "\u041d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f \u043c\u043e\u043b\u043d\u0438\u044f",
+    "ko_KR": "\uc9d1\uc911\ub41c \ubc88\uac1c",
+    "zh_TW": "\u805a\u80fd\u9583\u96fb",
+    "zh_CN": "\u4e13\u6ce8\u95ea\u7535"
+  },
+  "description_blz": {
+    "en_US": "Maelstrom Weapon increases the damage or healing of your next spell by an additional 1.0% per stack.",
+    "es_MX": "Arma vor\u00e1gine aumenta el da\u00f1o o la sanaci\u00f3n de tu siguiente hechizo un 1.0% m\u00e1s por acumulaci\u00f3n.",
+    "pt_BR": "Arma da Voragem aumenta o dano ou a cura do seu pr\u00f3ximo feiti\u00e7o em mais 1,0% por aplica\u00e7\u00e3o.",
+    "de_DE": "'Waffe des Mahlstroms' erh\u00f6ht den Schaden oder die Heilung Eures n\u00e4chsten Zaubers um zus\u00e4tzlich 1,0% pro Stapel.",
+    "en_GB": "Maelstrom Weapon increases the damage or healing of your next spell by an additional 1.0% per stack.",
+    "es_ES": "Arma vor\u00e1gine aumenta el da\u00f1o o la sanaci\u00f3n de tu siguiente hechizo un 1,0% extra por acumulaci\u00f3n.",
+    "fr_FR": "Arme du Maelstr\u00f6m augmente les d\u00e9g\u00e2ts ou les soins de votre prochain sort de 1,0% suppl\u00e9mentaires par charge.",
+    "it_IT": "Arma del Maelstrom aumenta i danni inflitti o le cure fornite dal successivo incantesimo del 1,0% aggiuntivo per accumulo.",
+    "ru_RU": "\"\u041e\u0440\u0443\u0436\u0438\u0435 \u0412\u043e\u0434\u043e\u0432\u043e\u0440\u043e\u0442\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u0438\u043b\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0435\u0449\u0435 \u043d\u0430 1,0% \u0437\u0430 \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\uc18c\uc6a9\ub3cc\uc774\uce58\ub294 \ubb34\uae30 \uc911\ucca9\ub2f9 \ub2e4\uc74c \uc8fc\ubb38\uc758 \uacf5\uaca9\ub825 \ub610\ub294 \uce58\uc720\ub7c9\uc774 \ucd94\uac00\ub85c 1.0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u5c64\u6c23\u6f29\u6b66\u5668\u53ef\u4f7f\u4f60\u4e0b\u4e00\u500b\u6cd5\u8853\u9020\u6210\u7684\u50b7\u5bb3\u6216\u6cbb\u7642\u6548\u679c\u984d\u5916\u63d0\u9ad81.0%\u3002",
+    "zh_CN": "\u6bcf\u5c42\u6f29\u6da1\u6b66\u5668\u53ef\u4f7f\u4f60\u4e0b\u4e00\u4e2a\u6cd5\u672f\u9020\u6210\u7684\u4f24\u5bb3\u6216\u6cbb\u7597\u6548\u679c\u989d\u5916\u63d0\u9ad81.0%\u3002"
+  }
 }

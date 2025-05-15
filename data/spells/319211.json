@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "319211"
+  "SpellID": "319211",
+  "name_blz": {
+    "en_US": "Soothing Voice",
+    "es_MX": "Voz tranquilizadora",
+    "pt_BR": "Voz Reconfortante",
+    "de_DE": "Bes\u00e4nftigende Stimme",
+    "en_GB": "Soothing Voice",
+    "es_ES": "Voz reconfortante",
+    "fr_FR": "Voix apaisante",
+    "it_IT": "Voce Rassicurante",
+    "ru_RU": "\u0423\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0433\u043e\u043b\u043e\u0441",
+    "ko_KR": "\uc704\uc548\uc758 \ubaa9\uc18c\ub9ac",
+    "zh_TW": "\u8212\u7de9\u4e4b\u8072",
+    "zh_CN": "\u5ef6\u7f13\u4e4b\u58f0"
+  },
+  "description_blz": {
+    "en_US": "When your roots, stuns, and incapacitating class effects expire or are dispelled, your target's movement speed is reduced by 90%, decaying rapidly over 2 sec.",
+    "es_MX": "Cuando tus enraizamientos, aturdimientos y efectos incapacitantes de clase expiran o se disipan, la velocidad de movimiento de tu objetivo se reduce un 90%, y se reduce r\u00e1pidamente durante 2 s.",
+    "pt_BR": "Quando os efeitos de enraizamento, atordoamento e incapacita\u00e7\u00e3o da sua classe expiram ou s\u00e3o dissipados, a velocidade de movimento do alvo \u00e9 reduzida em 90%. O efeito decai rapidamente ao longo de 2 s.",
+    "de_DE": "Wenn die Bet\u00e4ubungs-, Bewegungsunf\u00e4higkeits- und Handlungsunf\u00e4higkeitseffekte Eurer Klasse ablaufen oder gebannt werden, wird die Bewegungsgeschwindigkeit Eures Ziels um 90% verringert. Dieser Effekt nimmt im Verlauf von 2 Sek. rapide ab.",
+    "en_GB": "When your roots, stuns, and incapacitating class effects expire or are dispelled, your target's movement speed is reduced by 90%, decaying rapidly over 2 sec.",
+    "es_ES": "Cuando tus efectos de enraizamiento, aturdimiento e incapacitaci\u00f3n de clase se agotan o se eliminan, la velocidad de movimiento de tu objetivo se reduce un 90%, que decae r\u00e1pidamente durante 2 s.",
+    "fr_FR": "Quand vos effets de classe d\u2019immobilisation, d\u2019\u00e9tourdissement et de stup\u00e9faction prennent fin ou sont dissip\u00e9s, la vitesse de d\u00e9placement de votre cible est r\u00e9duite de 90%. Cet effet diminue rapidement en 2 s.",
+    "it_IT": "Al termine o al dissolvimento di un effetto di classe di immobilizzazione, stordimento o inabilitazione, la velocit\u00e0 di movimento del bersaglio si riduce del 90%. L'effetto decade rapidamente in 2 s.",
+    "ru_RU": "\u041f\u043e \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0438\u043b\u0438 \u0440\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u043d\u0438\u0438 \u043d\u0430 \u0446\u0435\u043b\u0438 \u0432\u0430\u0448\u0438\u0445 \u043a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u043d\u0438\u044f, \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u0438\u044f \u0438 \u043f\u0430\u0440\u0430\u043b\u0438\u0447\u0430 \u0435\u0435 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0441\u043d\u0438\u0436\u0430\u0435\u0442\u0441\u044f \u043d\u0430 90%. \u042d\u0444\u0444\u0435\u043a\u0442 \u0431\u044b\u0441\u0442\u0440\u043e \u0441\u043b\u0430\u0431\u0435\u0435\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 2 \u0441\u0435\u043a.",
+    "ko_KR": "\uc790\uc2e0\uc758 \uc774\ub3d9 \ubd88\uac00, \uae30\uc808, \ud589\ub3d9 \ubd88\uac00\ub958\uc758 \ud6a8\uacfc\uac00 \ub9cc\ub8cc\ub418\uac70\ub098 \ud574\uc81c\ub418\uba74 \ub300\uc0c1\uc758 \uc774\ub3d9 \uc18d\ub3c4\uac00 90%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \uac10\uc18d \ud6a8\uacfc\ub294 2\ucd08\uc5d0 \uac78\uccd0 \ube60\ub974\uac8c \uc0ac\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u7684\u5b9a\u8eab\u3001\u660f\u8ff7\u548c\u7671\u7613\u985e\u6548\u679c\u7d50\u675f\u6216\u88ab\u9a45\u6563\u6642\uff0c\u4f7f\u4f60\u76ee\u6a19\u7684\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e90%\uff0c\u6548\u679c\u5c07\u65bc2\u79d2\u5167\u5feb\u901f\u8870\u6e1b\u3002",
+    "zh_CN": "\u5f53\u4f60\u7684\u5b9a\u8eab\u3001\u660f\u8ff7\u548c\u762b\u75ea\u7684\u804c\u4e1a\u6280\u80fd\u6548\u679c\u7ed3\u675f\u6216\u88ab\u9a71\u6563\u65f6\uff0c\u4f60\u7684\u76ee\u6807\u7684\u79fb\u52a8\u901f\u5ea6\u4f1a\u964d\u4f4e90%\uff0c\u8be5\u6548\u679c\u4f1a\u57282\u79d2\u5185\u8fc5\u901f\u8870\u51cf\u3002"
+  }
 }

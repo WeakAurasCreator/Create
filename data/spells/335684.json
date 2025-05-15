@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "335684"
+  "SpellID": "335684",
+  "name_blz": {
+    "en_US": "Fallen Order",
+    "es_MX": "Orden ca\u00edda",
+    "pt_BR": "Ordem Deca\u00edda",
+    "de_DE": "Gefallener Orden",
+    "en_GB": "Fallen Order",
+    "es_ES": "Orden ca\u00edda",
+    "fr_FR": "Ordre des d\u00e9funts",
+    "it_IT": "Ordine Caduto",
+    "ru_RU": "\u041f\u0430\u0432\u0448\u0438\u0439 \u043e\u0440\u0434\u0435\u043d",
+    "ko_KR": "\ub9dd\uc790\uc758 \uc5f0\ub9f9",
+    "zh_TW": "\u9580\u6d3e\u5148\u4eba",
+    "zh_CN": "\u9668\u843d\u50e7\u4f17"
+  },
+  "description_blz": {
+    "en_US": "Opens a mystic portal for 24 sec. Every 3 sec, it summons a spirit of your order's fallen Ox, Crane, or Tiger adepts for 6 sec.\r\n\r\nFallen Ox adepts assist for an additional 2 sec, and will also attack your enemies with Breath of Fire.",
+    "es_MX": "Abre un portal m\u00edstico durante 24 s. Cada 3 s, invoca un esp\u00edritu de los adeptos ca\u00eddos del buey, la grulla o el tigre de tu orden durante 6 s.\r\n\r\nLos adeptos ca\u00eddos del buey ayudan durante 2 s m\u00e1s, y tambi\u00e9n atacar\u00e1n a tus enemigos con Aliento de fuego.",
+    "pt_BR": "Abre um portal m\u00edstico por 24 s. A cada 3 s, ele evoca o esp\u00edrito de um dos seus adeptos ca\u00eddos do Boi, da Gar\u00e7a ou do Tigre por 6 s.\r\n\r\nOs adeptos ca\u00eddos do Boi ajudam por mais 2 s, al\u00e9m de atacarem os inimigos com Bafo de On\u00e7a.",
+    "de_DE": "\u00d6ffnet f\u00fcr 24 Sek. ein mystisches Portal. Dieses beschw\u00f6rt alle 3 Sek. einen Geist der gefallenen Ochsen-, Kranich- oder Tigeradepten Eures Ordens, der 6 Sek. lang bestehen bleibt.\r\n\r\nGefallene Ochsenadepten unterst\u00fctzen Euch f\u00fcr zus\u00e4tzliche 2 Sek. und greifen Eure Gegner mit 'Feuerodem' an.",
+    "en_GB": "Opens a mystic portal for 24 sec. Every 3 sec, it summons a spirit of your order's fallen Ox, Crane, or Tiger adepts for 6 sec.\r\n\r\nFallen Ox adepts assist for an additional 2 sec, and will also attack your enemies with Breath of Fire.",
+    "es_ES": "Abre un portal m\u00edstico durante 24 s. Cada 3 s, invoca un esp\u00edritu de los adeptos ca\u00eddos del buey, la grulla o el tigre de tu orden durante 6 s.\r\n\r\nLos adeptos ca\u00eddos del buey te ayudar\u00e1n durante 2 s extras y tambi\u00e9n atacar\u00e1n a tus enemigos con Aliento de Fuego.",
+    "fr_FR": "Ouvre un portail mystique pendant 24 s. Toutes les 3\u00a0s, ce portail invoque l\u2019esprit d\u2019un adepte d\u00e9funt du Buffle, de la Grue ou du Tigre appartenant \u00e0 votre ordre pendant 6\u00a0s.\r\n\r\nLes adeptes d\u00e9funts du Buffle vous apportent leur aide pendant 2\u00a0s suppl\u00e9mentaires et attaquent vos ennemis avec Souffle de feu.",
+    "it_IT": "Apre un portale mistico per 24 s. Ogni 3 s, evoca uno spirito di un adepto dell' ordine dello Yak, della Gru o della Tigre per 6 s.\r\n\r\nGli adepti dello Yak forniscono il loro aiuto per 2 s e attaccano con Soffio di Fuoco.",
+    "ru_RU": "\u041d\u0430 24 \u0441\u0435\u043a. \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0442\u0430\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b, \u0440\u0430\u0437 \u0432 3 \u0441\u0435\u043a. \u043d\u0430 6 \u0441\u0435\u043a. \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0434\u0443\u0448\u0438 \u043f\u0430\u0432\u0448\u0438\u0445 \u0430\u0434\u0435\u043f\u0442\u043e\u0432 \u0431\u044b\u043a\u0430, \u0436\u0443\u0440\u0430\u0432\u043b\u044f \u0438\u043b\u0438 \u0442\u0438\u0433\u0440\u0430 \u0438\u0437 \u0432\u0430\u0448\u0435\u0433\u043e \u043e\u0440\u0434\u0435\u043d\u0430.\r\n\r\n\u041f\u0430\u0432\u0448\u0438\u0435 \u043c\u043e\u043d\u0430\u0445\u0438, \u0432\u043b\u0430\u0434\u0435\u044e\u0449\u0438\u0435 \u0441\u0442\u0438\u043b\u0435\u043c \u0431\u044b\u043a\u0430, \u0442\u0430\u043a\u0436\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \"\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u044b\u043c \u0434\u044b\u0445\u0430\u043d\u0438\u0435\u043c\" \u0438 \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u0432\u0430\u043c \u0435\u0449\u0435 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 2 \u0441\u0435\u043a.",
+    "ko_KR": "24\ucd08 \ub3d9\uc548 \uc2e0\ube44\ub85c\uc6b4 \ucc28\uc6d0\ubb38\uc744 \uc5fd\ub2c8\ub2e4. 6\ucd08 \ub3d9\uc548 3\ucd08\ub9c8\ub2e4 \uc5f0\ub9f9\uc758 \uc791\uace0\ud55c \ud751\uc6b0, \uc8fc\ud559, \ubc31\ud638 \uc219\ub828\ubcd1\uc758 \uc601\ud63c\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4.\r\n\r\n\uc791\uace0\ud55c \ud751\uc6b0 \uc219\ub828\ubcd1\uc740 \ucd94\uac00\ub85c 2\ucd08 \ub3d9\uc548 \uc804\ud22c\ub97c \ub3c4\uc6b0\uba70, \ubd88\uc758 \uc228\uacb0\ub85c \uc801\uc744 \uacf5\uaca9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u958b\u555f\u4e00\u9053\u795e\u79d8\u7684\u50b3\u9001\u9580\uff0c\u6301\u7e8c24\u79d2\u3002\u6bcf3\u79d2\u53ec\u559a\u4e00\u500b\u5728\u4f60\u7684\u9580\u6d3e\u4e2d\u5df2\u6545\u7684\u7384\u725b\u3001\u7d05\u9db4\u6216\u767d\u864e\u9ad8\u624b\u7684\u9748\u9b42\uff0c\u6301\u7e8c6\u79d2\u3002\r\n\r\n\u9019\u4e9b\u7384\u725b\u9ad8\u624b\u7684\u63f4\u52a9\u6642\u9593\u6703\u984d\u5916\u5ef6\u95772\u79d2\uff0c\u4e26\u4e14\u4ee5\u706b\u7130\u5410\u606f\u653b\u64ca\u4f60\u7684\u6575\u4eba\u3002",
+    "zh_CN": "\u5f00\u542f\u4e00\u9053\u795e\u79d8\u7684\u4f20\u9001\u95e8\uff0c\u6301\u7eed24\u79d2\u3002\u4f20\u9001\u95e8\u6bcf3\u79d2\u4f1a\u53ec\u5524\u4e00\u540d\u9668\u843d\u7684\u7384\u725b\u3001\u6731\u9e64\u6216\u767d\u864e\u9ad8\u624b\u7684\u7075\u9b42\uff0c\u6301\u7eed6\u79d2\u3002\r\n\r\n\u9668\u843d\u7684\u7384\u725b\u9ad8\u624b\u4f1a\u989d\u5916\u534f\u52a9\u6218\u65972\u79d2\uff0c\u540c\u65f6\u8fd8\u4f1a\u7528\u706b\u7130\u4e4b\u606f\u653b\u51fb\u4f60\u7684\u654c\u4eba\u3002"
+  }
 }

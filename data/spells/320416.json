@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "320416"
+  "SpellID": "320416",
+  "name_blz": {
+    "en_US": "Blazing Path",
+    "es_MX": "Camino ardiente",
+    "pt_BR": "Rastro Ardente",
+    "de_DE": "Lodernder Pfad",
+    "en_GB": "Blazing Path",
+    "es_ES": "Camino llameante",
+    "fr_FR": "Chemin embras\u00e9",
+    "it_IT": "Percorso Fiammeggiante",
+    "ru_RU": "\u041f\u044b\u043b\u0430\u044e\u0449\u0430\u044f \u0442\u0440\u043e\u043f\u0430",
+    "ko_KR": "\ubd88\ud0c0\uc624\ub974\ub294 \uc871\uc801",
+    "zh_TW": "\u71be\u71b1\u8def\u5f91",
+    "zh_CN": "\u70c8\u7130\u4e4b\u5f84"
+  },
+  "description_blz": {
+    "en_US": "Fel Rush gains an additional charge.",
+    "es_MX": "Acometida vil obtiene una carga adicional.",
+    "pt_BR": "Impulso Vil ganha mais uma carga.",
+    "de_DE": "'Teufelsrausch' erh\u00e4lt eine zus\u00e4tzliche Aufladung.",
+    "en_GB": "Fel Rush gains an additional charge.",
+    "es_ES": "Carga vil obtiene una carga extra.",
+    "fr_FR": "Ru\u00e9e fulgurante b\u00e9n\u00e9ficie d\u2019une charge suppl\u00e9mentaire.",
+    "it_IT": "Fornisce 1 carica aggiuntiva a Vilscatto.",
+    "ru_RU": "\"\u0420\u044b\u0432\u043e\u043a \u0421\u043a\u0432\u0435\u0440\u043d\u044b\" \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0435\u0449\u0435 1 \u0437\u0430\u0440\u044f\u0434.",
+    "ko_KR": "\uc9c0\uc625 \ub3cc\uc9c4\uc774 \ucd94\uac00\ub85c 1\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u9b54\u5316\u885d\u523a\u984d\u5916\u7372\u5f97\u4e00\u6b21\u4f7f\u7528\u6b21\u6578\u3002",
+    "zh_CN": "\u90aa\u80fd\u51b2\u649e\u53ef\u4ee5\u591a\u4f7f\u7528\u4e00\u6b21\u3002"
+  }
 }

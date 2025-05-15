@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "325066"
+  "SpellID": "325066",
+  "name_blz": {
+    "en_US": "Wild Hunt Tactics",
+    "es_MX": "T\u00e1cticas de los Cazadores salvajes",
+    "pt_BR": "T\u00e1ticas da Ca\u00e7ada Selvagem",
+    "de_DE": "Taktiken der Wilden Jagd",
+    "en_GB": "Wild Hunt Tactics",
+    "es_ES": "T\u00e1cticas de la Cacer\u00eda Salvaje",
+    "fr_FR": "Tactiques de l\u2019Hallali",
+    "it_IT": "Tattiche della Caccia Selvaggia",
+    "ru_RU": "\u0422\u0430\u043a\u0442\u0438\u043a\u0430 \u0414\u0438\u043a\u043e\u0439 \u041e\u0445\u043e\u0442\u044b",
+    "ko_KR": "\uc57c\uc0dd \uc0ac\ub0e5\ub2e8\uc758 \uc804\ub7b5",
+    "zh_TW": "\u66e0\u91ce\u7375\u8005\u6230\u8853",
+    "zh_CN": "\u8352\u730e\u56e2\u6218\u672f"
+  },
+  "description_blz": {
+    "en_US": "Your damage to targets above 75% health and healing to targets below 35% health is increased by 10%.\r\n\r\nWhen your spells and abilities are enhanced this way, you gain 15% increased movement speed for 5 sec.",
+    "es_MX": "Tu da\u00f1o a los objetivos con m\u00e1s del 75% de salud y tu sanaci\u00f3n a los objetivos por debajo del 35% de salud aumentan un 10%.\r\n\r\nCuando tus hechizos y habilidades se potencian de esta forma, obtienes un 15% de velocidad de movimiento durante 5 s.",
+    "pt_BR": "Aumenta em 10% o dano que voc\u00ea causa a alvos com mais de 75% de vida e a cura que voc\u00ea realiza em alvos com menos de 35% de vida.\r\n\r\nQuando seus feiti\u00e7os e suas habilidades s\u00e3o aprimoradas desta forma, voc\u00ea ganha 15% de velocidade de movimento por 5 s.",
+    "de_DE": "Erh\u00f6ht Euren Schaden gegen Ziele mit mehr als 75% Gesundheit und Eure Heilung bei Zielen mit weniger als 35% Gesundheit um 10%.\r\n\r\nWenn Eure Zauber und F\u00e4higkeiten auf diese Weise verst\u00e4rkt werden, wird Eure Bewegungsgeschwindigkeit f\u00fcr 5 Sek. um 15% erh\u00f6ht.",
+    "en_GB": "Your damage to targets above 75% health and healing to targets below 35% health is increased by 10%.\r\n\r\nWhen your spells and abilities are enhanced this way, you gain 15% increased movement speed for 5 sec.",
+    "es_ES": "Tu da\u00f1o contra objetivos por encima del 75% de salud y tu sanaci\u00f3n a objetivos por debajo del 35% de salud aumentan un 10%.\r\n\r\nCuando tus hechizos o facultades se han mejorado de esta manera, obtienes un 15% m\u00e1s de velocidad de movimiento durante 5 s.",
+    "fr_FR": "Les d\u00e9g\u00e2ts inflig\u00e9s aux cibles ayant plus de 75% de leurs points de vie et les soins prodigu\u00e9s aux alli\u00e9s disposant de moins de 35% de leurs points de vie sont augment\u00e9s de 10%.\r\n\r\nL\u2019utilisation de sorts et techniques b\u00e9n\u00e9ficiant de cet effet augmente votre vitesse de d\u00e9placement de 15% pendant 5 s.",
+    "it_IT": "Aumenta i danni inflitti ai bersagli con pi\u00f9 del 75% della salute massima e le cure fornite ai bersagli con meno del 35% della salute massima del 10%.\r\n\r\nQuando gli incantesimi e le abilit\u00e0 sono potenziati in questo modo, la velocit\u00e0 di movimento aumenta del 15% per 5 s.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043f\u043e \u0446\u0435\u043b\u044f\u043c \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432\u044b\u0448\u0435 75% \u0438 \u043e\u0431\u044a\u0435\u043c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0446\u0435\u043b\u0435\u0439 \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0438\u0436\u0435 35% \u043d\u0430 10%.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5 \u0441\u0435\u043a. \u043d\u0430 15%.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 75% \uc774\uc0c1\uc778 \ub300\uc0c1\uc5d0 \ub300\ud55c \uacf5\uaca9\ub825\uacfc \uc0dd\uba85\ub825\uc774 35% \ubbf8\ub9cc\uc778 \ub300\uc0c1\uc5d0 \ub300\ud55c \uce58\uc720\ub7c9\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc774\ub807\uac8c \uc8fc\ubb38 \ubc0f \ub2a5\ub825\uc774 \uac15\ud654\ub418\uba74 5\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5c0d\u751f\u547d\u529b\u9ad8\u65bc75%\u7684\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\uff0c\u4ee5\u53ca\u5c0d\u751f\u547d\u529b\u4f4e\u65bc35%\u7684\u76ee\u6a19\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\uff0c\u5747\u63d0\u9ad810%\u3002\r\n\r\n\u7576\u4f60\u7684\u6cd5\u8853\u548c\u6280\u80fd\u56e0\u6b64\u7372\u5f97\u5f37\u5316\u6642\uff0c\u4f60\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad815%\uff0c\u6301\u7e8c5\u79d2\u3002",
+    "zh_CN": "\u4f60\u5bf9\u751f\u547d\u503c\u9ad8\u4e8e75%\u7684\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u548c\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e35%\u7684\u76ee\u6807\u9020\u6210\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad810%\u3002\r\n\r\n\u5f53\u4f60\u7684\u6cd5\u672f\u548c\u6280\u80fd\u4ee5\u6b64\u65b9\u5f0f\u83b7\u5f97\u589e\u5f3a\u65f6\uff0c\u4f60\u7684\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad815%\uff0c\u6301\u7eed5\u79d2\u3002"
+  }
 }
