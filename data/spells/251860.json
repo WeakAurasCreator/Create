@@ -34,5 +34,24 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "251860"
+  "SpellID": "251860",
+  "name_blz": {
+    "en_US": "Item - Mage T21 Frost 4P Bonus",
+    "en_GB": "Item - Mage T21 Frost 4P Bonus",
+    "es_ES": "Item - Mage T21 Frost 4P Bonus - Brain Freeze Buffs Frostbolt"
+  },
+  "description_blz": {
+    "en_US": "When you consume Brain Freeze, the damage of your next Ice Lance is increased by 20%.",
+    "es_MX": "Cuando consumes Congelaci\u00f3n cerebral, el da\u00f1o de tu siguiente Lanza de hielo aumenta un 20%.",
+    "pt_BR": "Ao consumir Congelamento Cerebral, o dano da sua pr\u00f3xima Lan\u00e7a de Gelo \u00e9 aumentado em 20%.",
+    "de_DE": "Das Verbrauchen von 'Hirnfrost' erh\u00f6ht den Schaden Eures n\u00e4chsten Einsatzes von 'Eislanze' um 20%.",
+    "en_GB": "When you consume Brain Freeze, the damage of your next Ice Lance is increased by 20%.",
+    "es_ES": "Cuando consumes Congelaci\u00f3n cerebral, el da\u00f1o de tu siguiente Lanza de hielo aumenta un 20%.",
+    "fr_FR": "Lorsque vous consommez Gel mental, les d\u00e9g\u00e2ts de votre prochain Javelot de glace sont augment\u00e9s de 20%.",
+    "it_IT": "Il consumo di Mente Fredda aumenta i danni inflitti dalla successiva Lancia di Ghiaccio del 20%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0417\u0430\u043c\u043e\u0440\u043e\u0437\u043a\u0430 \u043c\u043e\u0437\u0433\u043e\u0432\", \u0443\u0440\u043e\u043d \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u041b\u0435\u0434\u044f\u043d\u043e\u0433\u043e \u043a\u043e\u043f\u044c\u044f\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20%.",
+    "ko_KR": "\ub450\ub1cc \ube59\uacb0\uc744 \uc18c\ubaa8\ud558\uba74 \ub2e4\uc74c \uc5bc\uc74c\ucc3d\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u7576\u4f60\u6d88\u8017\u8166\u90e8\u51cd\u7d50\uff0c\u4f60\u4e0b\u4e00\u500b\u51b0\u971c\u9577\u77db\u7684\u50b7\u5bb3\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u5f53\u4f60\u6d88\u8017\u51b0\u51b7\u667a\u6167\u65f6\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u51b0\u67aa\u672f\u7684\u4f24\u5bb3\u4f1a\u63d0\u9ad820%\u3002"
+  }
 }

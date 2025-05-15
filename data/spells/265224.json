@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "265224"
+  "SpellID": "265224",
+  "name_blz": {
+    "en_US": "Forged in Flames",
+    "es_MX": "Forjada en llamas",
+    "pt_BR": "Forjado nas Chamas",
+    "de_DE": "Flammengest\u00e4hlt",
+    "en_GB": "Forged in Flames",
+    "es_ES": "Forjado en llamas",
+    "fr_FR": "Forg\u00e9 dans les flammes",
+    "it_IT": "Forgiato nelle Fiamme",
+    "ru_RU": "\u0417\u0430\u043a\u0430\u043b\u043a\u0430 \u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043c",
+    "ko_KR": "\ubd88\uaf43\ubcbc\ub9bc",
+    "zh_TW": "\u706b\u9444\u800c\u751f",
+    "zh_CN": "\u9971\u7ecf\u6218\u706b"
+  },
+  "description_blz": {
+    "en_US": "Reduces damage taken from Physical attacks by 1%.",
+    "es_MX": "Reduce un 1% el da\u00f1o recibido de los ataques f\u00edsicos.",
+    "pt_BR": "Reduz em 1% o dano recebido de ataques F\u00edsicos.",
+    "de_DE": "Verringert den durch k\u00f6rperliche Angriffe erlittenen Schaden um 1%.",
+    "en_GB": "Reduces damage taken from Physical attacks by 1%.",
+    "es_ES": "Reduce el da\u00f1o recibido de ataques f\u00edsicos un 1%.",
+    "fr_FR": "R\u00e9duit de 1% les d\u00e9g\u00e2ts subis de toutes les attaques physiques.",
+    "it_IT": "Riduce i danni subiti dagli attacchi fisici del 1%.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 1%.",
+    "ko_KR": "\ubb3c\ub9ac \uacf5\uaca9\uc73c\ub85c\ubd80\ud130 \ubc1b\ub294 \ud53c\ud574\uac00 1%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53d7\u5230\u7684\u7269\u7406\u653b\u64ca\u50b7\u5bb3\u964d\u4f4e1%\u3002",
+    "zh_CN": "\u4ece\u7269\u7406\u653b\u51fb\u4e2d\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e1%\u3002"
+  }
 }

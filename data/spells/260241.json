@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "260241"
+  "SpellID": "260241",
+  "name_blz": {
+    "en_US": "Hydra's Bite",
+    "es_MX": "Mordedura de hidra",
+    "pt_BR": "Mordida da Hidra",
+    "de_DE": "Hydrabiss",
+    "en_GB": "Hydra's Bite",
+    "es_ES": "Mordedura de hidra",
+    "fr_FR": "Morsure d\u2019hydre",
+    "it_IT": "Morso dell'Idra",
+    "ru_RU": "\u0423\u043a\u0443\u0441 \u0433\u0438\u0434\u0440\u044b",
+    "ko_KR": "\ud788\ub4dc\ub77c\uc758 \uc774\ube68",
+    "zh_TW": "\u591a\u982d\u86c7\u6495\u54ac",
+    "zh_CN": "\u591a\u5934\u86c7\u4e4b\u54ac"
+  },
+  "description_blz": {
+    "en_US": "When Aimed Shot strikes an enemy affected with your Serpent Sting, it spreads Serpent Sting to 2 enemies nearby.\r\n\r\nSerpent Sting's damage over time is increased by 20%.",
+    "es_MX": "Cuando Disparo de punter\u00eda golpea a un enemigo afectado por tu Picadura de serpiente, propaga Picadura de serpiente a 2 enemigos cercanos.\r\n\r\nEl da\u00f1o con el tiempo de Picadura de serpiente aumenta un 20%.",
+    "pt_BR": "Quando Tiro Certo atinge um inimigo sob efeito da sua Picada de Serpente, ele espalha a Picada de Serpente para 2 inimigos pr\u00f3ximos.\r\n\r\nDano ao longo do tempo de Picada de Serpente aumentado em 20%.",
+    "de_DE": "Wenn 'Gezielter Schuss' einen Gegner trifft, der mit Eurem 'Schlangengift' belegt ist, breitet 'Schlangengift' sich auf 2 Gegner in der N\u00e4he aus.\r\n\r\nDer regelm\u00e4\u00dfige Schaden von 'Schlangengift' ist um 20% erh\u00f6ht.",
+    "en_GB": "When Aimed Shot strikes an enemy affected with your Serpent Sting, it spreads Serpent Sting to 2 enemies nearby.\r\n\r\nSerpent Sting's damage over time is increased by 20%.",
+    "es_ES": "Cuando Disparo de punter\u00eda golpea a un enemigo afectado por tu Picadura de serpiente, esta se propaga a 2 enemigos cercanos.\r\n\r\nEl da\u00f1o en el tiempo de Picadura de serpiente aumenta un 20%.",
+    "fr_FR": "Lorsque Vis\u00e9e touche un personnage adverse affect\u00e9 par votre Morsure de serpent, elle propage Morsure de serpent \u00e0 2\u00a0adversaires proches.\r\n\r\nLes d\u00e9g\u00e2ts sur la dur\u00e9e de Morsure de serpent sont augment\u00e9s de 20\u00a0%.",
+    "it_IT": "Quando Tiro Mirato colpisce un nemico affetto da un tuo Morso del Serpente, lo diffonde su 2 nemici vicini.\r\nAumenta i danni periodici inflitti da Morso del Serpente del 20%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \"\u0423\u043a\u0443\u0441\u0430 \u0437\u043c\u0435\u0438\", \u044d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 2 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432.\r\n\r\n\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0423\u043a\u0443\u0441\u0430 \u0437\u043c\u0435\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20%.",
+    "ko_KR": "\ub3c5\uc0ac \uc410\uae30\uc5d0 \uac78\ub9b0 \uc801\uc5d0\uac8c \uc870\uc900 \uc0ac\uaca9\uc744 \uc801\uc911\uc2dc\ud0a4\uba74 \uc8fc\uc704 \uc801 2\uba85\uc5d0\uac8c \uc804\uc774\ub429\ub2c8\ub2e4.\r\n\r\n\ub3c5\uc0ac \uc410\uae30\uc758 \uc9c0\uc18d \ud53c\ud574 \ud6a8\uacfc\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u7784\u6e96\u5c04\u64ca\u64ca\u4e2d\u53d7\u4f60\u7684\u6bd2\u86c7\u91d8\u523a\u5f71\u97ff\u7684\u6575\u4eba\u6642\uff0c\u6703\u4f7f\u6bd2\u86c7\u91d8\u523a\u64f4\u6563\u81f3\u9644\u8fd12\u500b\u6575\u4eba\u3002\r\n\r\n\u6bd2\u86c7\u91d8\u523a\u7684\u6301\u7e8c\u6027\u50b7\u5bb3\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u5f53\u7784\u51c6\u5c04\u51fb\u51fb\u4e2d\u53d7\u5230\u4f60\u7684\u6bd2\u86c7\u9489\u523a\u5f71\u54cd\u7684\u654c\u4eba\u65f6\uff0c\u5b83\u4f1a\u5c06\u6bd2\u86c7\u9489\u523a\u4f20\u64ad\u7ed9\u9644\u8fd1\u76842\u4e2a\u654c\u4eba\u3002\r\n\r\n\u6bd2\u86c7\u9489\u523a\u7684\u6301\u7eed\u4f24\u5bb3\u63d0\u9ad820%\u3002"
+  }
 }
