@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "336852"
+  "SpellID": "336852",
+  "name_blz": {
+    "en_US": "Master Flame",
+    "es_MX": "Llama maestra",
+    "pt_BR": "Chama Mestre",
+    "de_DE": "Meisterflamme",
+    "en_GB": "Master Flame",
+    "es_ES": "Llama maestra",
+    "fr_FR": "Flamme primaire",
+    "it_IT": "Maestro della Fiamma",
+    "ru_RU": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u043e\u0433\u043e\u043d\u044c",
+    "ko_KR": "\uc804\ub2a5\ud55c \ubd88\uaf43",
+    "zh_TW": "\u7cbe\u901a\u70c8\u7130",
+    "zh_CN": "\u70c8\u7130\u638c\u63a7"
+  },
+  "description_blz": {
+    "en_US": "Flamestrike's damage is increased by 8.0%, and its radius is increased by 10%.",
+    "es_MX": "El da\u00f1o de Fogonazo aumenta un 8.0%, y su radio aumenta un 10%.",
+    "pt_BR": "Aumenta em 8,0% o dano e em 10% o raio do Golpe Flamejante.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Flammensto\u00df' um 8,0% und den Radius der F\u00e4higkeit um 10%.",
+    "en_GB": "Flamestrike's damage is increased by 8.0%, and its radius is increased by 10%.",
+    "es_ES": "El da\u00f1o de Fogonazo aumenta un 8,0% y su radio, un 10%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Choc de flammes sont augment\u00e9s de 8,0% et son rayon d\u2019effet de 10%.",
+    "it_IT": "Aumenta i danni inflitti da Colonna di Fuoco del 8,0% e il suo raggio del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u0442\u043e\u043b\u0431\u0430\" \u043d\u0430 8,0%, \u0430 \u0440\u0430\u0434\u0438\u0443\u0441 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 \u043d\u0430 10%.",
+    "ko_KR": "\ubd88\uae30\ub465\uc758 \uacf5\uaca9\ub825\uc774 8.0%\ub9cc\ud07c, \ubc18\uacbd\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u70c8\u7130\u98a8\u66b4\u7684\u50b7\u5bb3\u63d0\u9ad88.0%\uff0c\u6548\u679c\u534a\u5f91\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u70c8\u7130\u98ce\u66b4\u7684\u4f24\u5bb3\u63d0\u9ad88.0%\uff0c\u8303\u56f4\u63d0\u9ad810%\u3002"
+  }
 }

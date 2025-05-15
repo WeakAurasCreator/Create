@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "323921"
+  "SpellID": "323921",
+  "name_blz": {
+    "en_US": "Emeni's Magnificent Skin",
+    "es_MX": "Piel magn\u00edfica de Emeni",
+    "pt_BR": "Pele Magn\u00edfica de Emeni",
+    "de_DE": "Emenis hervorragende Haut",
+    "en_GB": "Emeni's Magnificent Skin",
+    "es_ES": "Piel magn\u00edfica de Emeni",
+    "fr_FR": "Peau sublime d\u2019\u00c9m\u00e9ni",
+    "it_IT": "Pelle Magnifica di Emeni",
+    "ru_RU": "\u0412\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u0430\u044f \u043a\u043e\u0436\u0430 \u042d\u043c\u0435\u043d\u0438",
+    "ko_KR": "\uc5d0\uba54\ub2c8\uc758 \uaca9\uc870 \ub192\uc740 \ud53c\ubd80",
+    "zh_TW": "\u827e\u66fc\u59ae\u7684\u9802\u7d1a\u76ae\u819a",
+    "zh_CN": "\u827e\u7c73\u59ae\u7684\u4f18\u7f8e\u4e4b\u76ae"
+  },
+  "description_blz": {
+    "en_US": "Fleshcraft increases your maximum health by 5% for 30 sec.",
+    "es_MX": "Forjacarne aumenta tu salud m\u00e1xima un 5% durante 30 s.",
+    "pt_BR": "Moldacarne aumenta em 5% o seu m\u00e1ximo de pontos de vida por 30 s.",
+    "de_DE": "'Fleischformung' erh\u00f6ht Eure maximale Gesundheit 30 Sek. lang um 5%.",
+    "en_GB": "Fleshcraft increases your maximum health by 5% for 30 sec.",
+    "es_ES": "Modelar carne aumenta un 5% tu salud m\u00e1xima durante 30 s.",
+    "fr_FR": "Chair recompos\u00e9e augmente votre maximum de points de vie de 5% pendant 30 s.",
+    "it_IT": "Forgiatura della Carne aumenta la salute massima del 5% per 30 s.",
+    "ru_RU": "\"\u0421\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u043f\u043b\u043e\u0442\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0430 5% \u043d\u0430 30 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0b4\ub369\uc774\ucc3d\uc870 \uc0ac\uc6a9 \uc2dc 30\ucd08 \ub3d9\uc548 \ucd5c\ub300 \uc0dd\uba85\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8840\u8089\u5de5\u85dd\u53ef\u4f7f\u4f60\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad85%\uff0c\u6301\u7e8c30\u79d2\u3002",
+    "zh_CN": "\u8840\u8089\u94f8\u9020\u4f7f\u4f60\u7684\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad85%\uff0c\u6301\u7eed30\u79d2\u3002"
+  }
 }

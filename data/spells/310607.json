@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "310607"
+  "SpellID": "310607",
+  "name_blz": {
+    "en_US": "Endurance",
+    "es_MX": "Robustez",
+    "pt_BR": "Resist\u00eancia",
+    "de_DE": "Durchhalteverm\u00f6gen",
+    "en_GB": "Endurance",
+    "es_ES": "Robustez",
+    "fr_FR": "Endurance",
+    "it_IT": "Vigore",
+    "ru_RU": "\u0417\u0430\u043a\u0430\u043b\u043a\u0430",
+    "ko_KR": "\uc778\ub0b4\ub825",
+    "zh_TW": "\u8010\u529b",
+    "zh_CN": "\u575a\u5fcd\u4e4b\u529b"
+  },
+  "description_blz": {
+    "en_US": "Every 2 sec, store 15 healing, up to a maximum of 19,734. When you dodge or parry an attack, heal for all stored healing.\r\n\r\nUnique:  Corruption Resistance increased by 10.",
+    "es_MX": "Cada 2 s, almacena 15 p. de sanaci\u00f3n, hasta un m\u00e1ximo de 19,734 p. Cuando esquivas o paras un ataque, sanas la cantidad acumulada.\r\n\r\n\u00danico: Aumenta 10 p. la Resistencia a la corrupci\u00f3n.",
+    "pt_BR": "A cada 2 s, armazena 15 de cura, podendo chegar a at\u00e9 19.734 de cura armazenada. Ao esquivar ou aparar um ataque, voc\u00ea usar\u00e1 toda a cura armazenada para se curar.\r\n\r\n\u00danico: Resist\u00eancia a Corrup\u00e7\u00e3o aumentada em 10.",
+    "de_DE": "Speichert alle 2 Sek. 15 Heilung bis zu einem Maximum von 19.734. Wenn Ihr einem Angriff ausweicht oder ihn pariert, werdet Ihr um den Gesamtwert der gespeicherten Heilung geheilt.\r\n\r\nEinzigartig: Verderbniswiderstand um 10 erh\u00f6ht.",
+    "en_GB": "Every 2 sec, store 15 healing, up to a maximum of 19,734. When you dodge or parry an attack, heal for all stored healing.\r\n\r\nUnique:  Corruption Resistance increased by 10.",
+    "es_ES": "Cada 2 s, acumulas 15 p. de sanaci\u00f3n hasta un m\u00e1ximo de 19734 p. Cuando esquivas o paras un ataque, te sanas la cantidad acumulada.\r\n\r\n\u00danico: Resistencia a la corrupci\u00f3n aumentada 10 p.",
+    "fr_FR": "Toutes les 2\u00a0s, vous accumulez 15\u00a0points de vie, jusqu\u2019\u00e0 un maximum de 19734. Lorsque vous esquivez ou parez une attaque, tous les points de vie ainsi accumul\u00e9s vous sont restitu\u00e9s.\r\n\r\nUnique\u00a0: R\u00e9sistance \u00e0 la corruption augment\u00e9e de 10.",
+    "it_IT": "Ogni 2 s, accumula 15 cure, fino a un massimo di 19.734. Quando si schiva o si para un attacco, fornisce tutte le cure accumulate.\r\n\r\nUnico: Resistenza alla Corruzione aumentata di 10.",
+    "ru_RU": "\u0420\u0430\u0437 \u0432 2 \u0441\u0435\u043a. \u0432\u044b \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442\u0435 15 \u0435\u0434. \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 19734 \u0435\u0434. \u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0443\u043a\u043b\u043e\u043d\u044f\u0435\u0442\u0435\u0441\u044c \u043e\u0442 \u0430\u0442\u0430\u043a\u0438 \u0438\u043b\u0438 \u043f\u0430\u0440\u0438\u0440\u0443\u0435\u0442\u0435 \u0435\u0435, \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435, \u0440\u0430\u0432\u043d\u043e\u043c \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u043d\u043e\u043c\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044e.\r\n\r\n\u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442: \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u043e\u0440\u0447\u0435 \u043d\u0430 10.",
+    "ko_KR": "2\ucd08\ub9c8\ub2e4 \uce58\uc720\ub7c9\uc744 15\ub9cc\ud07c, \ucd5c\ub300 19,734\uc758 \uce58\uc720\ub7c9\uc744 \uc800\uc7a5\ud569\ub2c8\ub2e4. \uacf5\uaca9\uc744 \ud68c\ud53c\ud558\uac70\ub098 \ubb34\uae30 \ub9c9\uae30\uc5d0 \uc131\uacf5\ud558\uba74 \uc800\uc7a5\ub41c \uce58\uc720\ub7c9\ub9cc\ud07c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.\r\n\r\n\uace0\uc720: \ud0c0\ub77d \uc800\ud56d\uc774 10\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf2\u79d2\uff0c\u5132\u5b5815\u9ede\u751f\u547d\u529b\uff0c\u6700\u591a\u5132\u5b5819,734\u9ede\u3002\u6bcf\u7576\u4f60\u9583\u8eb2\u6216\u662f\u62db\u67b6\u4e00\u6b21\u653b\u64ca\uff0c\u5c31\u4ee5\u5132\u5b58\u7684\u6240\u6709\u751f\u547d\u529b\u4f86\u6cbb\u7642\u4f60\u3002\r\n\r\n\u5c08\u5c6c\u7279\u6027\uff1a\u8150\u5316\u6297\u6027\u63d0\u9ad810\u9ede\u3002",
+    "zh_CN": "\u6bcf2\u79d2\uff0c\u50a8\u5b5815\u70b9\u6cbb\u7597\u91cf\uff0c\u6700\u591a\u53ef\u50a8\u5b5819,734\u70b9\u3002\u5f53\u4f60\u8eb2\u95ea\u6216\u62db\u67b6\u653b\u51fb\u65f6\uff0c\u83b7\u5f97\u50a8\u5b58\u7684\u6240\u6709\u6cbb\u7597\u91cf\u3002\r\n\r\n\u552f\u4e00\uff1a\u8150\u8680\u6297\u6027\u63d0\u9ad810\u70b9\u3002"
+  }
 }

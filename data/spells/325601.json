@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "325601"
+  "SpellID": "325601",
+  "name_blz": {
+    "en_US": "Hold the Line",
+    "es_MX": "\u00a1Firmes!",
+    "pt_BR": "Defender a Linha",
+    "de_DE": "Stellung halten",
+    "en_GB": "Hold the Line",
+    "es_ES": "Defender el frente",
+    "fr_FR": "Tenir le front",
+    "it_IT": "Difesa Critica",
+    "ru_RU": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430 \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u0430",
+    "ko_KR": "\uc804\uc120 \uc0ac\uc218",
+    "zh_TW": "\u5805\u5b88\u9663\u7dda",
+    "zh_CN": "\u575a\u5b88\u9635\u5730"
+  },
+  "description_blz": {
+    "en_US": "After standing still for 5 sec, you take 12% less Physical damage until you move.",
+    "es_MX": "Despu\u00e9s de permanecer inm\u00f3vil durante 5 s, recibes un 12% menos de da\u00f1o f\u00edsico hasta que te mueves.",
+    "pt_BR": "Ap\u00f3s ficar 5 s parado, voc\u00ea recebe 12% a menos de dano F\u00edsico at\u00e9 se mover.",
+    "de_DE": "Nachdem Ihr 5 Sek. lang stillgestanden habt, erleidet Ihr 12% weniger k\u00f6rperlichen Schaden, bis Ihr Euch bewegt.",
+    "en_GB": "After standing still for 5 sec, you take 12% less Physical damage until you move.",
+    "es_ES": "Despu\u00e9s de permanecer inm\u00f3vil durante 5 s, recibes un 12% menos de da\u00f1o f\u00edsico hasta que te mueves.",
+    "fr_FR": "Si vous restez immobile pendant 5 s, les d\u00e9g\u00e2ts physiques subis sont r\u00e9duits de 12% jusqu\u2019\u00e0 ce que vous vous d\u00e9placiez.",
+    "it_IT": "Dopo essere rimasti fermi per 5 s, si subiscono danni fisici ridotti del 12% finch\u00e9 non si ricomincia a muoversi.",
+    "ru_RU": "\u0421\u0442\u043e\u044f \u043d\u0435\u043f\u043e\u0434\u0432\u0438\u0436\u043d\u043e \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 5 \u0441\u0435\u043a., \u0432\u044b \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u043d\u0430 12% \u043c\u0435\u043d\u044c\u0448\u0435 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f, \u043f\u043e\u043a\u0430 \u0432\u044b \u043d\u0435 \u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0435\u0441\u044c.",
+    "ko_KR": "5\ucd08 \ub3d9\uc548 \uac00\ub9cc\ud788 \uc11c \uc788\uc73c\uba74, \uc6c0\uc9c1\uc774\uae30 \uc804\uae4c\uc9c0 \ubc1b\ub294 \ubb3c\ub9ac \ud53c\ud574\uac00 12%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7ad9\u7acb\u4e0d\u52d55\u79d2\u5f8c\uff0c\u53d7\u5230\u7684\u7269\u7406\u50b7\u5bb3\u964d\u4f4e12%\uff0c\u76f4\u5230\u79fb\u52d5\u70ba\u6b62\u3002",
+    "zh_CN": "\u7ad9\u7acb\u4e0d\u52a85\u79d2\u4e4b\u540e\uff0c\u4f60\u53d7\u5230\u7684\u7269\u7406\u4f24\u5bb3\u4f1a\u51cf\u5c1112%\uff0c\u76f4\u5230\u4f60\u5f00\u59cb\u79fb\u52a8\u3002"
+  }
 }

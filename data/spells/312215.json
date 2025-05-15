@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "312215"
+  "SpellID": "312215",
+  "name_blz": {
+    "en_US": "Nose For Trouble",
+    "es_MX": "Olfato para el peligro",
+    "pt_BR": "Farejar Encrenca",
+    "de_DE": "Ein Riecher f\u00fcr \u00c4rger",
+    "en_GB": "Nose For Trouble",
+    "es_ES": "Olfato para los problemas",
+    "fr_FR": "Le nez pour les ennuis",
+    "it_IT": "Fiuto per i Guai",
+    "ru_RU": "\u041d\u044e\u0445 \u043d\u0430 \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uc57d\uc0ad\ube60\ub978 \ucd09",
+    "zh_TW": "\u5c08\u55c5\u9ebb\u7169",
+    "zh_CN": "\u8b66\u89c9\u4e4b\u55c5"
+  },
+  "description_blz": {
+    "en_US": "When you first take damage from an enemy, reduce that damage by 5% of your maximum health.",
+    "es_MX": "Cuando recibes da\u00f1o por primera vez de un enemigo, reduces ese da\u00f1o por un 5% de tu salud m\u00e1xima.",
+    "pt_BR": "Quando voc\u00ea recebe dano de um inimigo pela primeira vez, esse dano \u00e9 reduzido em 5% do seu m\u00e1ximo de pontos de vida.",
+    "de_DE": "Wenn Ihr zum ersten Mal Schaden durch einen Gegner erleidet, wird dieser Schaden um 5% Eurer maximalen Gesundheit verringert.",
+    "en_GB": "When you first take damage from an enemy, reduce that damage by 5% of your maximum health.",
+    "es_ES": "La primera vez que recibes da\u00f1o de un enemigo, reduce ese da\u00f1o un 5% de tu salud m\u00e1xima.",
+    "fr_FR": "Lorsqu\u2019un ennemi vous inflige des d\u00e9g\u00e2ts pour la premi\u00e8re fois, ces derniers sont r\u00e9duits d\u2019un montant \u00e9gal \u00e0 5% de votre maximum de points de vie.",
+    "it_IT": "Riduce i primi danni subiti in uno scontro del 5% della salute massima.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u043c \u0443\u0440\u043e\u043d, \u044d\u0442\u043e\u0442 \u0443\u0440\u043e\u043d \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5% \u0432\u0430\u0448\u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ucc98\uc74c\uc73c\ub85c \uc801\uc5d0\uac8c \ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \ud574\ub2f9 \ud53c\ud574\ub7c9\uc744 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 5%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u9996\u6b21\u53d7\u5230\u67d0\u500b\u6575\u4eba\u7684\u50b7\u5bb3\u6642\uff0c\u6703\u4f7f\u50b7\u5bb3\u964d\u4f4e\u76f8\u7576\u65bc\u4f60\u751f\u547d\u529b\u4e0a\u9650\u76845%\u3002",
+    "zh_CN": "\u9996\u6b21\u53d7\u5230\u654c\u4eba\u4f24\u5bb3\u65f6\uff0c\u4f24\u5bb3\u964d\u4f4e\uff0c\u964d\u4f4e\u7684\u6570\u503c\u7b49\u4e8e\u4f60\u7684\u6700\u5927\u751f\u547d\u503c\u76845%\u3002"
+  }
 }

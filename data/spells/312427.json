@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "312427"
+  "SpellID": "312427",
+  "name_blz": {
+    "en_US": "Venthyr Rituals",
+    "es_MX": "Rituales venthyrianos",
+    "pt_BR": "Rituais Venthyr",
+    "de_DE": "Venthyrrituale",
+    "en_GB": "Venthyr Rituals",
+    "es_ES": "Rituales venthyr",
+    "fr_FR": "Rituels venthyrs",
+    "it_IT": "Rituali dei Venthyr",
+    "ru_RU": "\u0420\u0438\u0442\u0443\u0430\u043b\u044b \u0432\u0435\u043d\u0442\u0438\u0440\u043e\u0432",
+    "ko_KR": "\ubca4\ud2f0\ub974 \uc758\uc2dd",
+    "zh_TW": "\u6c4e\u5e0c\u723e\u5100\u5f0f",
+    "zh_CN": "\u6e29\u897f\u5c14\u4eea\u5f0f"
+  },
+  "description_blz": {
+    "en_US": "You are now able to participate in venthyr rituals at the Halls of Atonement.",
+    "es_MX": "Ahora puedes participar en los rituales de los venthyr en los Salones de Expiaci\u00f3n.",
+    "pt_BR": "Voc\u00ea agora pode participar de rituais venthyr nos Sal\u00f5es da Expia\u00e7\u00e3o.",
+    "de_DE": "Ihr k\u00f6nnt jetzt an den Venthyrritualen in den Hallen der S\u00fchne teilnehmen.",
+    "en_GB": "You are now able to participate in venthyr rituals at the Halls of Atonement.",
+    "es_ES": "Ahora puedes participar en rituales venthyr en las Salas de la Expiaci\u00f3n.",
+    "fr_FR": "Vous pouvez d\u00e9sormais participer aux rituels venthyrs dans les salles de l\u2019Expiation.",
+    "it_IT": "Permette di partecipare ai rituali dei Venthyr nelle Sale della Redenzione.",
+    "ru_RU": "\u0422\u0435\u043f\u0435\u0440\u044c \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u0440\u0438\u0442\u0443\u0430\u043b\u0430\u0445 \u0432\u0435\u043d\u0442\u0438\u0440\u043e\u0432 \u0432 \u0427\u0435\u0440\u0442\u043e\u0433\u0430\u0445 \u041f\u043e\u043a\u0430\u044f\u043d\u0438\u044f.",
+    "ko_KR": "\uc18d\uc8c4\uc758 \uc804\ub2f9\uc5d0\uc11c \ubca4\ud2f0\ub974 \uc758\uc2dd\uc5d0 \ucc38\uc5ec\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u73fe\u5728\u53ef\u4ee5\u5728\u8d16\u7f6a\u4e4b\u6bbf\u53c3\u52a0\u6c4e\u5e0c\u723e\u5100\u5f0f\u4e86\u3002",
+    "zh_CN": "\u4f60\u73b0\u5728\u53ef\u4ee5\u53c2\u52a0\u8d4e\u7f6a\u5927\u5385\u7684\u6e29\u897f\u5c14\u4eea\u5f0f\u4e86\u3002"
+  }
 }

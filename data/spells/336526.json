@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "336526"
+  "SpellID": "336526",
+  "name_blz": {
+    "en_US": "Calculated Strikes",
+    "es_MX": "Golpes calculados",
+    "pt_BR": "Golpes Calculados",
+    "de_DE": "Kalkulierte Schl\u00e4ge",
+    "en_GB": "Calculated Strikes",
+    "es_ES": "Golpes calculados",
+    "fr_FR": "Frappes cibl\u00e9es",
+    "it_IT": "Assalti Calcolati",
+    "ru_RU": "\u0412\u044b\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b",
+    "ko_KR": "\uce58\ubc00\ud55c \ud0c0\uaca9",
+    "zh_TW": "\u884c\u96f2\u6d41\u6c34",
+    "zh_CN": "\u8fd0\u7b79\u8fde\u73af"
+  },
+  "description_blz": {
+    "en_US": "Spinning Crane Kick's bonus from striking a unique target with Tiger Palm, Blackout Kick, or Rising Sun Kick is increased by an additional 10.0%.",
+    "es_MX": "La bonificaci\u00f3n de Patada giratoria de la grulla por golpear a un solo objetivo con Palma del tigre, Patada oscura o Patada del sol naciente aumenta un 10.0% m\u00e1s.",
+    "pt_BR": "O b\u00f4nus do Chute Girat\u00f3rio da Gar\u00e7a por acertar alvos distintos com Palma do Tigre, Chute Blecaute ou Chute do Sol Nascente \u00e9 aumentado em mais 10,0%.",
+    "de_DE": "Der Bonus f\u00fcr 'Wirbelnder Kranichtritt', wenn Ihr unterschiedliche Ziele mit 'Tigerklaue', 'Blackout-Tritt' oder 'Tritt der aufgehenden Sonne' trefft, wird um zus\u00e4tzlich 10,0% erh\u00f6ht.",
+    "en_GB": "Spinning Crane Kick's bonus from striking a unique target with Tiger Palm, Blackout Kick, or Rising Sun Kick is increased by an additional 10.0%.",
+    "es_ES": "La bonificaci\u00f3n de Patada giratoria de la grulla por golpear a un \u00fanico objetivo con Palma del tigre, Patada oscura o Patada del sol naciente aumenta un 10,0% m\u00e1s.",
+    "fr_FR": "Le bonus aux d\u00e9g\u00e2ts de Coup tournoyant de la grue obtenu en frappant une cible unique avec Paume du tigre, Frappe du voile noir ou Coup de pied du soleil levant est augment\u00e9 de 10,0% suppl\u00e9mentaires.",
+    "it_IT": "Aumenta il bonus fornito a Calcio Rotante della Gru quando si colpisce un bersaglio distinto con Palmo della Tigre, Calcio dell'Oscuramento o Calcio del Sole Nascente del 10,0% aggiuntivo.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442\u0435 \u043d\u043e\u0432\u0443\u044e \u0446\u0435\u043b\u044c \"\u041b\u0430\u043f\u043e\u0439 \u0442\u0438\u0433\u0440\u0430\", \"\u041d\u043e\u043a\u0430\u0443\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u043c \u0443\u0434\u0430\u0440\u043e\u043c\" \u0438\u043b\u0438 \"\u0423\u0434\u0430\u0440\u043e\u043c \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\", \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0422\u0430\u043d\u0446\u0443\u044e\u0449\u0435\u0433\u043e \u0436\u0443\u0440\u0430\u0432\u043b\u044f\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0435\u0449\u0435 \u043d\u0430 10,0%.",
+    "ko_KR": "\ubc94\uc758 \uc7a5\ud48d, \ud6c4\ub824\ucc28\uae30, \ud574\uc624\ub984\ucc28\uae30\ub85c \uc801 \uac1c\uccb4\ub97c \uacf5\uaca9\ud558\uba74 \ubd80\uc5ec\ub418\ub294 \ud68c\uc804 \ud559\ub2e4\ub9ac\ucc28\uae30\uc758 \uac15\ud654 \ud6a8\uacfc\uac00 \ucd94\uac00\ub85c 10.0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u864e\u638c\u3001\u6ec5\u5bc2\u817f\u6216\u7fd4\u967d\u8173\u64ca\u4e2d\u55ae\u4e00\u76ee\u6a19\u5f8c\uff0c\u70ba\u9db4\u65cb\u8e22\u5e36\u4f86\u7684\u589e\u76ca\u6548\u679c\u984d\u5916\u63d0\u9ad810.0%\u3002",
+    "zh_CN": "\u4f7f\u7528\u731b\u864e\u638c\u3001\u5e7b\u706d\u8e22\u6216\u65ed\u65e5\u4e1c\u5347\u8e22\u51fb\u4e2d\u65b0\u76ee\u6807\u65f6\uff0c\u4e3a\u795e\u9e64\u5f15\u9879\u8e22\u5e26\u6765\u7684\u589e\u76ca\u6548\u679c\u989d\u5916\u63d0\u9ad810.0%\u3002"
+  }
 }

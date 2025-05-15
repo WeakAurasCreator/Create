@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "331725"
+  "SpellID": "331725",
+  "name_blz": {
+    "en_US": "Resilient Plumage",
+    "es_MX": "Plumaje resiliente",
+    "pt_BR": "Plumagem Resiliente",
+    "de_DE": "Widerstandsf\u00e4higes Gefieder",
+    "en_GB": "Resilient Plumage",
+    "es_ES": "Plumaje resistente",
+    "fr_FR": "Plumage r\u00e9sistant",
+    "it_IT": "Piumaggio Resiliente",
+    "ru_RU": "\u041f\u0440\u043e\u0447\u043d\u044b\u0435 \u043f\u0435\u0440\u044c\u044f",
+    "ko_KR": "\ud0c4\ub825\uc758 \uae43\ud138",
+    "zh_TW": "\u5f37\u97cc\u7fbd\u6bdb",
+    "zh_CN": "\u5f3a\u97e7\u4e4b\u7fbd"
+  },
+  "description_blz": {
+    "en_US": "Fall damage decreased by 20%, and after taking fall damage, damage you take is reduced by 20% for 15 sec.",
+    "es_MX": "El da\u00f1o de ca\u00edda se reduce un 20% y, despu\u00e9s de recibir da\u00f1o de ca\u00edda, el da\u00f1o que recibes se reduce un 20% durante 15 s.",
+    "pt_BR": "Dano de queda reduzido em 20%. Ap\u00f3s receber dano de queda, o dano que voc\u00ea recebe \u00e9 reduzido em 20% por 15 s.",
+    "de_DE": "Der Fallschaden wird um 20% verringert und nach dem Erleiden von Fallschaden erleidet Ihr 15 Sek. lang 20% weniger Schaden.",
+    "en_GB": "Fall damage decreased by 20%, and after taking fall damage, damage you take is reduced by 20% for 15 sec.",
+    "es_ES": "El da\u00f1o de ca\u00edda se reduce un 20% y, tras recibir da\u00f1o de ca\u00edda, el da\u00f1o que recibes se reduce un 20% durante 15 s.",
+    "fr_FR": "D\u00e9g\u00e2ts de chute r\u00e9duits de 20% et d\u00e9g\u00e2ts subis apr\u00e8s la chute r\u00e9duits de 20% pendant 15 s.",
+    "it_IT": "Riduce i danni da caduta del 20%. Inoltre, riduce i danni subiti del 20% per 15 s dopo che si \u00e8 caduti.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u043f\u0430\u0434\u0435\u043d\u0438\u044f \u043d\u0430 20%. \u041f\u043e\u0441\u043b\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043f\u0430\u0434\u0435\u043d\u0438\u044f \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 20% \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\ub099\ud558 \ud53c\ud574\uac00 20%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ub610\ud55c \ub099\ud558 \ud53c\ud574\ub97c \ubc1b\uc740 \ud6c4 15\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ud53c\ud574\uac00 20%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6389\u843d\u50b7\u5bb3\u964d\u4f4e20%\uff0c\u6389\u843d\u5f8c\uff0c\u4f60\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e20%\uff0c\u6301\u7e8c15\u79d2\u3002",
+    "zh_CN": "\u5760\u843d\u4f24\u5bb3\u964d\u4f4e20%\uff0c\u5728\u627f\u53d7\u5760\u843d\u4f24\u5bb3\u540e\uff0c\u4f60\u627f\u53d7\u7684\u4f24\u5bb3\u964d\u4f4e20%\uff0c\u6301\u7eed15\u79d2\u3002"
+  }
 }

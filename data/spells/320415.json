@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "320415"
+  "SpellID": "320415",
+  "name_blz": {
+    "en_US": "Looks Can Kill",
+    "es_MX": "Miradas que matan",
+    "pt_BR": "Visual de Matar",
+    "de_DE": "Blicke k\u00f6nnen t\u00f6ten",
+    "en_GB": "Looks Can Kill",
+    "es_ES": "Miradas que matan",
+    "fr_FR": "Regard meurtrier",
+    "it_IT": "Raggi Assassini",
+    "ru_RU": "\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u0437\u0433\u043b\u044f\u0434",
+    "ko_KR": "\uce58\uba85\uc801\uc778 \uc2dc\uc120",
+    "zh_TW": "\u773c\u795e\u6bba\u4eba",
+    "zh_CN": "\u81f4\u547d\u773c\u795e"
+  },
+  "description_blz": {
+    "en_US": "Eye Beam deals guaranteed critical strikes.",
+    "es_MX": "Haz ocular siempre asesta golpes cr\u00edticos.",
+    "pt_BR": "Raio Ocular causa acertos cr\u00edticos garantidos.",
+    "de_DE": "'Augenstrahl' verursacht garantiert kritische Treffer.",
+    "en_GB": "Eye Beam deals guaranteed critical strikes.",
+    "es_ES": "Haz ocular asesta golpes cr\u00edticos garantizados.",
+    "fr_FR": "Rayon accablant inflige syst\u00e9matiquement des coups critiques.",
+    "it_IT": "Raggio Oculare infligge sempre danni critici.",
+    "ru_RU": "\"\u041f\u0440\u043e\u043d\u0437\u0430\u044e\u0449\u0438\u0439 \u0432\u0437\u0433\u043b\u044f\u0434\" \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0434\u0430\u0440.",
+    "ko_KR": "\uc548\uad11\uc774 \ud56d\uc0c1 \uce58\uba85\ud0c0\ub85c \uc801\uc911\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9b54\u773c\u5149\u675f\u5fc5\u5b9a\u9020\u6210\u81f4\u547d\u4e00\u64ca\u3002",
+    "zh_CN": "\u773c\u68f1\u5fc5\u5b9a\u7206\u51fb\u3002"
+  }
 }
