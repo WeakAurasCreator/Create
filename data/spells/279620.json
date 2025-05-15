@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "279620"
+  "SpellID": "279620",
+  "name_blz": {
+    "en_US": "Twin Moons",
+    "es_MX": "Lunas gemelas",
+    "pt_BR": "Luas G\u00eameas",
+    "de_DE": "Zwillingsmonde",
+    "en_GB": "Twin Moons",
+    "es_ES": "Lunas gemelas",
+    "fr_FR": "Lunes jumelles",
+    "it_IT": "Lune Gemelle",
+    "ru_RU": "\u041b\u0443\u043d\u044b-\u0431\u043b\u0438\u0437\u043d\u0435\u0446\u044b",
+    "ko_KR": "\uc30d\ub465\uc774 \ub2ec",
+    "zh_TW": "\u96d9\u6708\u5149\u83ef",
+    "zh_CN": "\u53cc\u6708"
+  },
+  "description_blz": {
+    "en_US": "Moonfire deals 10% increased damage and also hits another nearby enemy within 15 yds of the target.",
+    "es_MX": "Fuego lunar inflige un 10% m\u00e1s de da\u00f1o y tambi\u00e9n golpea a otro enemigo cercano en un radio de 15 m del objetivo.",
+    "pt_BR": "Fogo Lunar causa 10% a mais de dano e passa a atingir outro inimigo pr\u00f3ximo que esteja a at\u00e9 15 m do alvo.",
+    "de_DE": "'Mondfeuer' verursacht 10% mehr Schaden und trifft einen weiteren Gegner in der N\u00e4he innerhalb von 15 Metern um das Ziel.",
+    "en_GB": "Moonfire deals 10% increased damage and also hits another nearby enemy within 15 yds of the target.",
+    "es_ES": "Fuego lunar inflige un 10% m\u00e1s de da\u00f1o y tambi\u00e9n golpea a otro enemigo cercano en un radio de 15 m del objetivo.",
+    "fr_FR": "\u00c9clat lunaire inflige 10% de d\u00e9g\u00e2ts suppl\u00e9mentaires et frappe un autre ennemi \u00e0 moins de 15\u00a0m\u00e8tres de la cible.",
+    "it_IT": "Fuoco Lunare infligge il 10% di danni aggiuntivi e colpisce un altro nemico entro 15 m dal bersaglio.",
+    "ru_RU": "\"\u041b\u0443\u043d\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0435\u0449\u0435 \u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 15 \u043c \u043e\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\ub2ec\ube5b\uc12c\uad11\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \ub300\uc0c1\uc73c\ub85c\ubd80\ud130 15\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \uc801\uc5d0\uac8c \ucd94\uac00\ub85c \uc801\uc911\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6708\u706b\u8853\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\uff0c\u4e26\u4e14\u6703\u540c\u6642\u64ca\u4e2d\u76ee\u6a19\u9644\u8fd115\u78bc\u7bc4\u570d\u5167\u7684\u53e6\u4e00\u540d\u6575\u4eba\u3002",
+    "zh_CN": "\u6708\u706b\u672f\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\uff0c\u540c\u65f6\u8fd8\u4f1a\u51fb\u4e2d\u76ee\u6807\u5468\u56f415\u7801\u5185\u7684\u53e6\u4e00\u4e2a\u654c\u4eba\u3002"
+  }
 }
