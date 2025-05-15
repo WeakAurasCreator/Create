@@ -358,7 +358,6 @@ function createPiChatAura() {
   let eventTrigger = JSON.parse(JSON.stringify(Triggers.event)); // get a copy of the event Trigger Template
   setCustomTrigger(eventTrigger, piChatAura.triggers[0].trigger.custom_trigger, piChatAura.triggers[0].trigger.events, 10);
   addTrigger(aura, eventTrigger);
-
   setAuthorOptions(aura,piChatAura.authorOptions)
   
   return aura;
@@ -394,7 +393,6 @@ function generatePiAura() {
     console.error("Invalid mode selected. Please choose either 'single' or 'dual'.");
     return;
   }
-  console.log(group)
   // Serialize
   let serializedAura = serialize(group);
   // Deflate

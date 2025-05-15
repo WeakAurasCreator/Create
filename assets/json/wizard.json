@@ -1,92 +1,94 @@
 {
-    "steps": [
+    "generalSteps": [
       {
-        "label": "Type of Aura",
-        "description": "What type of aura would you like to create?",
-        "section": "General",
-        "fields": [
-          {
-            "name": "type",
-            "label": "Aura Type",
-            "type": "dropdown",
-            "helpText": "What type of aura would you like to create?",
-            "options": [
-              { "label": "Icon", "value": "Icon", "description": "A simple image."},
-              { "label": "Dynamic Group",  "value": "DynamicGroup", "description": "A group to put other auras inside." },
-              { "label": "Bar",  "value": "bar", "description": "A simple bar." }
-            ]
-          }
+        "label": "Shared Media",
+        "description": "Are you using any Shared Media Addons?",
+        "name": "sharedmedia",
+        "type": "multiselect",
+        "helpText": "Pick one or more if applicable.",
+        "options": [
+          { "label": "Weakauras Internal", "value": "default", "checked": true},
+          { "label": "Shared Media Causese",  "value": "shared-media-causese",   "description": "Causese's shared Media Addon" }
         ]
       },
       {
-        "label": "Preferences",
-        "section": "Personal",
-        "description": "Select the colors and hobbies you like.",
-        "fields": [
-          {
-            "name": "colors",
-            "label": "Choose Colors",
-            "type": "dropdown",
-            "helpText": "Pick one or more colors you’re drawn to.",
-            "options": [
-              { "label": "Red (Warnfarbe)",  "value": "red",   "description": "A bold, attention-grabbing color." },
-              { "label": "Blue (Infofarbe)", "value": "blue",  "description": "Calm and trustworthy." },
-              { "label": "Green (OK-Farbe)", "value": "green", "description": "Associated with ‘go’ and success." }
-            ]
-          },
-          {
-            "name": "hobbies",
-            "label": "Select Hobbies",
-            "type": "select",
-            "options": [
-              { "label": "Cooking",  "value": "cook",  "description": "Trying new recipes." },
-              { "label": "Reading",  "value": "books", "description": "Diving into stories." }
-            ]
-          }
-        ]
+        "label": "Font",
+        "description": "Select the font you'd like to use",
+        "name": "font",
+        "type": "dropdown",
+        "options_url_key": "font"
+      }
+    ],
+    "auraSteps": [
+      {
+        "label": "Aura Type",
+        "name": "aura_type",
+        "type": "dropdown",
+        "helpText": "Explanation for the types can be found in the wiki.",
+        "options": [
+          { "label": "Icon", "value": "icon" },
+          { "label": "Bar",  "value": "bar" },
+          { "label": "Text",  "value": "text" },
+          { "label": "Model",  "value": "model" }
+        ],
+        "description": "What type of aura do you want to create?"
       },
       {
-        "label": "Account Settings",
-        "section": "Personal",
-        "fields": [
-          {
-            "name": "language",
-            "label": "Preferred Language",
-            "type": "input",
-            "helpText": "Enter your full name or a nickname.",
-            "description": "The name you want to be known by."
-          }
+        "name": "tracking",
+        "label": "Information to Track",
+        "type": "dropdown",
+        "description": "Who do you want to track information for?",
+        "options": [
+          { "label": "Yourself", "value": "yourself" },
+          { "label": "People in your group",  "value": "group" },
+          { "label": "Enemies",  "value": "enemy" }
         ]
       },
+       {
+        "name": "unit",
+        "label": "Unit to Track",
+        "type": "dropdown",
+        "description": "Who do you want to track information for?",
+        "options": [
+          { "label": "Enemies on your screen",  "value": "nameplate" },
+          { "label": "Bosses",  "value": "boss" },
+          { "label": "Your Target",  "value": "target" },
+          { "label": "Arena enemies",  "value": "arena" }
+        ],
+        "visibleIf": "current.tracking==='enemy'"
+      },
       {
-        "label": "Character Settings",
-        "section": "Personal",
-        "fields": [
-          {
-            "name": "language",
-            "label": "Preferred Class",
-            "type": "multiselect",
-            "helpText": "Choose preferred class",
-            "options": [
-              { "label": "Druid", "value": "druid" },
-              { "label": "Mage",  "value": "mage" },
-              { "label": "Hunter",  "value": "hunter" }
-            ]
-          }
+        "name": "trigger",
+        "label": "Information to Track",
+        "type": "dropdown",
+        "description": "What do you want to track?",
+        "helpText": "Harmful and Helpful are both from the enemy's perspective. This means a helpful effect on the enemy is an effect that helps the enemy, e.g. Increasing the damage it deals to you.",
+        "options": [
+          { "label": "The enemy is casting a spell", "value": "cast" },
+          { "label": "Helpful effect on the enemy",  "value": "buff" },
+          { "label": "Harmful effect on the enemy",  "value": "debuff" }
+        ],
+        "visibleIf": "current.tracking==='enemy'"
+      },
+      
+      
+      {
+        "name": "class",
+        "label": "Preferred Class",
+        "type": "multiselect",
+        "helpText": "Choose preferred class",
+        "options": [
+          { "label": "Druid", "value": "druid" },
+          { "label": "Mage",  "value": "mage" },
+          { "label": "Hunter",  "value": "hunter" }
         ]
       },
       {
         "label": "Feedback",
-        "section": "Preferences",
         "description": "Any final thoughts? We’d love to hear them.",
-        "fields": [
-          {
-            "name": "comments",
-            "label": "Comments",
-            "type": "textarea",
-            "helpText": "Feel free to be as detailed as you like."
-          }
-        ]
+        "name": "comments",
+        "type": "textarea",
+        "helpText": "Feel free to be as detailed as you like."
       }
     ]
   }
