@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "337704"
+  "SpellID": "337704",
+  "name_blz": {
+    "en_US": "Chilled Resilience",
+    "es_MX": "Temple helado",
+    "pt_BR": "Resili\u00eancia Gelada",
+    "de_DE": "Eisige Abh\u00e4rtung",
+    "en_GB": "Chilled Resilience",
+    "es_ES": "Temple helado",
+    "fr_FR": "R\u00e9silience glac\u00e9e",
+    "it_IT": "Resilienza Gelida",
+    "ru_RU": "\u0425\u043b\u0430\u0434\u043d\u043e\u043a\u0440\u043e\u0432\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ud55c\uae30\uc758 \ud0c4\ub825",
+    "zh_TW": "\u5bd2\u51bd\u97cc\u6027",
+    "zh_CN": "\u51db\u51ac\u575a\u97e7"
+  },
+  "description_blz": {
+    "en_US": "Icebound Fortitude's cooldown is reduced by 20.0 sec.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Entereza ligada al hielo se reduce 20.0 s.",
+    "pt_BR": "Reduz a recarga da Fortitude Cong\u00e9lida em 20,0 s.",
+    "de_DE": "Verringert die Abklingzeit von 'Eisige Gegenwehr' um 20,0 Sek.",
+    "en_GB": "Icebound Fortitude's cooldown is reduced by 20.0 sec.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Entereza ligada al hielo se reduce 20,0 s.",
+    "fr_FR": "Le temps de recharge de Robustesse glaciale est r\u00e9duit de 20,0\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Fermezza Glaciale di 20,0 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041d\u0435\u0437\u044b\u0431\u043b\u0435\u043c\u043e\u0441\u0442\u0438 \u043b\u044c\u0434\u0430\" \u043d\u0430 20,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc5bc\uc74c\uac19\uc740 \uc778\ub0b4\ub825\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 20.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u51b0\u932e\u5805\u97cc\u7684\u51b7\u537b\u6642\u9593\u964d\u4f4e20.0\u79d2\u3002",
+    "zh_CN": "\u51b0\u5c01\u4e4b\u97e7\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed20.0\u79d2\u3002"
+  }
 }

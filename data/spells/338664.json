@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338664"
+  "SpellID": "338664",
+  "name_blz": {
+    "en_US": "Proliferation",
+    "es_MX": "Proliferaci\u00f3n",
+    "pt_BR": "Prolifera\u00e7\u00e3o",
+    "de_DE": "Ausbreitung",
+    "en_GB": "Proliferation",
+    "es_ES": "Proliferaci\u00f3n",
+    "fr_FR": "Prolif\u00e9ration",
+    "it_IT": "Proliferazione",
+    "ru_RU": "\u0420\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uae09\uaca9\ud55c \ud655\uc0b0",
+    "zh_TW": "\u67b7\u9396\u64f4\u6563",
+    "zh_CN": "\u6269\u6563"
+  },
+  "description_blz": {
+    "en_US": "Shackle the Unworthy duration is increased by 3 sec and its damage is increased by 20.0%.",
+    "es_MX": "La duraci\u00f3n de Cadenas para los indignos aumenta 3 s y su da\u00f1o se incrementa un 20.0%.",
+    "pt_BR": "A dura\u00e7\u00e3o de Agrilhoar os Indignos \u00e9 aumentada em 3 s e o dano \u00e9 aumentado em 20,0%.",
+    "de_DE": "Erh\u00f6ht die Dauer von 'Fesseln der Unw\u00fcrdigen' um 3 Sek. und den Schaden um 20,0%.",
+    "en_GB": "Shackle the Unworthy duration is increased by 3 sec and its damage is increased by 20.0%.",
+    "es_ES": "La duraci\u00f3n de Encadenar a los indignos aumenta 3 s y su da\u00f1o aumenta un 20,0%.",
+    "fr_FR": "La dur\u00e9e d\u2019Entrave d\u2019indignit\u00e9 est augment\u00e9e de 3\u00a0s et ses d\u00e9g\u00e2ts sont augment\u00e9s de 20,0%.",
+    "it_IT": "Aumenta la durata di Incatenamento Immeritevoli di 3 s e i danni che infligge del 20,0%.",
+    "ru_RU": "\u041f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0423\u0437 \u043d\u0435\u0434\u043e\u0441\u0442\u043e\u0439\u043d\u044b\u0445\" \u043d\u0430 3 \u0441\u0435\u043a. \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0438\u043c\u0438 \u0443\u0440\u043e\u043d \u043d\u0430 20,0%.",
+    "ko_KR": "\ubd80\ub355\ud55c \uc790\uc758 \uad74\ub808\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 3\ucd08\ub9cc\ud07c, \uacf5\uaca9\ub825\uc774 20.0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u52a3\u8005\u67b7\u9396\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95773\u79d2\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad820.0%\u3002",
+    "zh_CN": "\u5931\u683c\u8005\u4e4b\u688f\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f3\u79d2\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad820.0%\u3002"
+  }
 }
