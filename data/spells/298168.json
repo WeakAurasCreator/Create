@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "298168"
+  "SpellID": "298168",
+  "name_blz": {
+    "en_US": "Aegis of the Deep",
+    "es_MX": "\u00c9gida de las profundidades",
+    "pt_BR": "\u00c9gide das Profundezas",
+    "de_DE": "Aegis der Tiefe",
+    "en_GB": "Aegis of the Deep",
+    "es_ES": "\u00c9gida de las profundidades",
+    "fr_FR": "\u00c9gide des profondeurs",
+    "it_IT": "Egida del Profondo",
+    "ru_RU": "\u042d\u0433\u0438\u0434\u0430 \u0433\u043b\u0443\u0431\u0438\u043d",
+    "ko_KR": "\uc2ec\uc5f0\uc758 \uc544\uc774\uae30\uc2a4",
+    "zh_TW": "\u6df1\u6df5\u795e\u79a6",
+    "zh_CN": "\u6df1\u6e0a\u4e4b\u62a4"
+  },
+  "description_blz": {
+    "en_US": "The elements protect you, reducing the damage you take from each attack by 30 for 15 sec.",
+    "es_MX": "Los elementos te protegen, lo que reduce 30 p. el da\u00f1o que recibes de cada ataque durante 15 s.",
+    "pt_BR": "Os elementos protegem voc\u00ea, reduzindo em 30 o dano que voc\u00ea recebe de cada ataque por 15 s.",
+    "de_DE": "Die Elemente sch\u00fctzen Euch und verringern 15 Sek. lang Euren durch jeden Angriff erlittenen Schaden um 30.",
+    "en_GB": "The elements protect you, reducing the damage you take from each attack by 30 for 15 sec.",
+    "es_ES": "Los elementos te protegen, lo que reduce 30 p. el da\u00f1o que recibes de cada ataque durante 15 s.",
+    "fr_FR": "Les \u00e9l\u00e9ments vous prot\u00e8gent, ce qui r\u00e9duit les d\u00e9g\u00e2ts subis de chaque attaque de 30 pendant 15 s.",
+    "it_IT": "Gli elementi ti proteggono, riducendo i danni subiti da ogni attacco di 30 per 15 s.",
+    "ru_RU": "\u0421\u0442\u0438\u0445\u0438\u0438 \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0442 \u0432\u0430\u0441, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u043e\u0442 \u043a\u0430\u0436\u0434\u043e\u0439 \u0430\u0442\u0430\u043a\u0438, \u043d\u0430 30 \u0435\u0434. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 15 \u0441\u0435\u043a.",
+    "ko_KR": "\uc6d0\uc18c\uc758 \ubcf4\ud638\ub97c \ubc1b\uc544 15\ucd08 \ub3d9\uc548 \ub9e4 \uacf5\uaca9\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574\uac00 30\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. .",
+    "zh_TW": "\u5143\u7d20\u6703\u4fdd\u8b77\u4f60\uff0c\u4f7f\u4f60\u5728\u6bcf\u6b21\u653b\u64ca\u4e0b\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e30\u9ede\uff0c\u6301\u7e8c15\u79d2\u3002",
+    "zh_CN": "\u53d7\u5230\u5143\u7d20\u7684\u5b88\u62a4\uff0c\u6bcf\u6b21\u53d7\u5230\u653b\u51fb\u65f6\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e30\u70b9\u6240\u53d7\u4f24\u5bb3\uff0c\u6301\u7eed15\u79d2\u3002"
+  }
 }

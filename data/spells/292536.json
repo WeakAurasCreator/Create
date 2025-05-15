@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "292536"
+  "SpellID": "292536",
+  "name_blz": {
+    "en_US": "Heritage of Gnomeregan",
+    "es_MX": "Legado de Gnomeregan",
+    "pt_BR": "Tradi\u00e7\u00e3o de Gnomeregan",
+    "de_DE": "Tradition von Gnomeregan",
+    "en_GB": "Heritage of Gnomeregan",
+    "es_ES": "Legado de Gnomeregan",
+    "fr_FR": "Armure ancestrale de Gnomeregan",
+    "it_IT": "Retaggio di Gnomeregan",
+    "ru_RU": "\u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u0413\u043d\u043e\u043c\u0440\u0435\u0433\u0430\u043d\u0430",
+    "ko_KR": "\ub188\ub9ac\uac74\uc758 \uc720\uc0b0",
+    "zh_TW": "\u8afe\u59c6\u745e\u6839\u7684\u50b3\u627f",
+    "zh_CN": "\u8bfa\u83ab\u745e\u6839\u7684\u4f20\u627f"
+  },
+  "description_blz": {
+    "en_US": "Unlock the appearances of the Heritage of Gnomeregan on completion of the Heritage storyline.",
+    "es_MX": "Desbloquea las apariencias del Legado de Gnomeregan tras completar la trama del legado.",
+    "pt_BR": "Desbloqueia as apar\u00eancias da Tradi\u00e7\u00e3o de Gnomeregan ao concluir a hist\u00f3ria da Tradi\u00e7\u00e3o.",
+    "de_DE": "Schaltet die Vorlagen der Tradition von Gnomeregan nach Abschluss der Traditionsr\u00fcstungsquestreihe frei.",
+    "en_GB": "Unlock the appearances of the Heritage of Gnomeregan on completion of the Heritage storyline.",
+    "es_ES": "Desbloquea las apariencias din\u00e1sticas de Gnomeregan al completar la trama de Legado.",
+    "fr_FR": "Vous d\u00e9bloquez les apparences de l\u2019armure ancestrale de Gnomeregan lorsque vous terminez la suite de qu\u00eates correspondante.",
+    "it_IT": "Sblocca gli aspetti dell'equipaggiamento Retaggio di Gnomeregan al completamento della relativa storia.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0438\u043b\u043b\u044e\u0437\u0438\u044e \u0432\u043d\u0435\u0448\u043d\u0435\u0433\u043e \u0432\u0438\u0434\u0430 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0430 \u0434\u043e\u0441\u043f\u0435\u0445\u043e\u0432 \"\u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u0413\u043d\u043e\u043c\u0440\u0435\u0433\u0430\u043d\u0430\" \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0439 \u0446\u0435\u043f\u043e\u0447\u043a\u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u0439.",
+    "ko_KR": "\uc720\uc0b0 \uc774\uc57c\uae30 \uc804\uac1c \uc644\ub8cc \uc2dc \ub188\ub9ac\uac74\uc758 \uc720\uc0b0 \ud615\uc0c1\uc744 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5b8c\u6210\u50b3\u627f\u6545\u4e8b\u7dda\u6642\uff0c\u89e3\u9396\u8afe\u59c6\u745e\u6839\u7684\u50b3\u627f\u5916\u89c0\u3002",
+    "zh_CN": "\u5b8c\u6210\u4f20\u627f\u6545\u4e8b\u7ebf\uff0c\u89e3\u9501\u8bfa\u83ab\u745e\u6839\u4f20\u627f\u5916\u89c2\u3002"
+  }
 }

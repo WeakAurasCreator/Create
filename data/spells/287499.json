@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "287499"
+  "SpellID": "287499",
+  "name_blz": {
+    "en_US": "Recipe: Iwen's Enchanting Rod",
+    "es_MX": "Receta: Vara de encantamiento de Iwen",
+    "pt_BR": "Receita: Bast\u00e3o de Encantamento de Iwen",
+    "de_DE": "Formel: Iwens Verzauberungsrute",
+    "en_GB": "Recipe: Iwen's Enchanting Rod",
+    "es_ES": "Receta: vara encantadora de Iwen",
+    "fr_FR": "Formule\u00a0: Baguette d\u2019enchantement d\u2019Iwen",
+    "it_IT": "Formula: Verga Runica di Iwen",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u0447\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u0436\u0435\u0437\u043b \u0418\u0432\u0435\u043d",
+    "ko_KR": "\ub3c4\uc548: \uc774\uc6ec\uc758 \ub9c8\ubc95\ub9c9\ub300",
+    "zh_TW": "\u914d\u65b9\uff1a\u827e\u739f\u7684\u9644\u9b54\u68d2",
+    "zh_CN": "\u914d\u65b9\uff1a\u4f0a\u6587\u7684\u9644\u9b54\u68d2"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following items:\r\nIwen's Enchanting Rod.",
+    "es_MX": "Te ense\u00f1a a fabricar los siguientes objetos:\r\nVara de encantamiento de Iwen.",
+    "pt_BR": "Ensina a criar os seguintes itens:\r\nBast\u00e3o de Encantamento de Iwen.",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nIwens Verzauberungsrute",
+    "en_GB": "Learn to craft the following items:\r\nIwen's Enchanting Rod.",
+    "es_ES": "Aprende a fabricar los siguientes objetos:\r\nVara encantadora de Iwen",
+    "fr_FR": "Apprend \u00e0 cr\u00e9er l\u2019objet suivant\u00a0:\r\nBaguette d\u2019enchantement d\u2019Iwen",
+    "it_IT": "Apprendi come creare il seguente oggetto:\r\nVerga Runica di Iwen.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b:\r\n\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u0436\u0435\u0437\u043b \u0418\u0432\u0435\u043d.",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\uc774\uc6ec\uc758 \ub9c8\ubc95\ub9c9\ub300",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u827e\u739f\u7684\u9644\u9b54\u68d2\u3002",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u4f0a\u6587\u7684\u9644\u9b54\u68d2\u3002"
+  }
 }

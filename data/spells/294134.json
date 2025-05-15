@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "294134"
+  "SpellID": "294134",
+  "name_blz": {
+    "en_US": "Heritage of the Zandalari",
+    "es_MX": "Legado de los zandalari",
+    "pt_BR": "Tradi\u00e7\u00e3o dos Zandalari",
+    "de_DE": "Tradition der Zandalari",
+    "en_GB": "Heritage of the Zandalari",
+    "es_ES": "Legado de los Zandalari",
+    "fr_FR": "Armure ancestrale des Zandalari\r\n",
+    "it_IT": "Retaggio dei Troll Zandalari",
+    "ru_RU": "\u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u0437\u0430\u043d\u0434\u0430\u043b\u0430\u0440\u043e\u0432",
+    "ko_KR": "\uc794\ub2ec\ub77c\uc758 \uc720\uc0b0",
+    "zh_TW": "\u8d0a\u9054\u62c9\u7684\u50b3\u627f",
+    "zh_CN": "\u8d5e\u8fbe\u62c9\u7684\u4f20\u627f"
+  },
+  "description_blz": {
+    "en_US": "Grants the appearances of the Heritage of the Zandalari armor set.",
+    "es_MX": "Otorga las apariencias del conjunto de armadura Legado de los zandalari.",
+    "pt_BR": "Concede as apar\u00eancias do conjunto de armadura Tradi\u00e7\u00e3o dos Zandalari.",
+    "de_DE": "Gew\u00e4hrt die Vorlagen des R\u00fcstungssets 'Tradition der Zandalari'.",
+    "en_GB": "Grants the appearances of the Heritage of the Zandalari armor set.",
+    "es_ES": "Otorga las apariencias del conjunto de armadura din\u00e1stica de los Zandalari.",
+    "fr_FR": "Octroie les apparences de l\u2019ensemble d\u2019armure ancestrale des Zandalari.",
+    "it_IT": "Ottieni gli aspetti dell'equipaggiamento Retaggio dei Troll Zandalari.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0438\u043b\u043b\u044e\u0437\u0438\u044e \u0432\u043d\u0435\u0448\u043d\u0435\u0433\u043e \u0432\u0438\u0434\u0430 \u0434\u043b\u044f \u0432\u0441\u0435\u0433\u043e \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0430 \u0434\u043e\u0441\u043f\u0435\u0445\u043e\u0432 \"\u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u0437\u0430\u043d\u0434\u0430\u043b\u0430\u0440\u043e\u0432\".",
+    "ko_KR": "\uc794\ub2ec\ub77c\uc758 \uc720\uc0b0 \ubc29\uc5b4\uad6c \uc138\ud2b8 \ud615\uc0c1\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8ce6\u4e88\u8d0a\u9054\u62c9\u7684\u50b3\u627f\u8b77\u7532\u5957\u88dd\u5916\u89c0\u3002",
+    "zh_CN": "\u83b7\u5f97\u8d5e\u8fbe\u62c9\u7684\u4f20\u627f\u62a4\u7532\u5957\u88c5\u5916\u89c2\u3002"
+  }
 }
