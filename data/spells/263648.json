@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "263648"
+  "SpellID": "263648",
+  "name_blz": {
+    "en_US": "Soul Barrier",
+    "es_MX": "Barrera de alma",
+    "pt_BR": "Barreira de Almas",
+    "de_DE": "Seelenbarriere",
+    "en_GB": "Soul Barrier",
+    "es_ES": "Barrera de alma",
+    "fr_FR": "Barri\u00e8re d\u2019\u00e2me",
+    "it_IT": "Barriera d'Anima",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u0440\u0430\u0447\u043d\u044b\u0439 \u0431\u0430\u0440\u044c\u0435\u0440",
+    "ko_KR": "\uc601\ud63c \ubc29\ubcbd",
+    "zh_TW": "\u9748\u9b42\u5c4f\u969c",
+    "zh_CN": "\u7075\u9b42\u58c1\u969c"
+  },
+  "description_blz": {
+    "en_US": "Shield yourself for 15 sec, absorbing 7,965 damage.\r\n\r\nConsumes all available Soul Fragments to add 2,124 to the shield per fragment.",
+    "es_MX": "Te proteges con un escudo durante 15 s y absorbes 7,965 p. de da\u00f1o.\r\n\r\nConsume todos los fragmentos de alma disponibles para agregar 2,124 p. al escudo por cada fragmento consumido.",
+    "pt_BR": "Protege-se por 15 s, absorvendo 7.965 de dano.\r\n\r\nConsome todos os Fragmentos de Alma dispon\u00edveis para aumentar em 2.124 pontos o escudo.",
+    "de_DE": "H\u00fcllt Euch f\u00fcr 15 Sek. in einen Schild, der 7.965 Schaden absorbiert.\r\n\r\nZehrt alle verf\u00fcgbaren Seelenfragmente auf und f\u00fcgt dem Schild f\u00fcr jedes Fragment 2.124 Absorption hinzu.",
+    "en_GB": "Shield yourself for 15 sec, absorbing 7,965 damage.\r\n\r\nConsumes all available Soul Fragments to add 2,124 to the shield per fragment.",
+    "es_ES": "Te proteges durante 15 s y absorbes 7965 p. de da\u00f1o.\r\n\r\nConsume todos los trozos de alma disponibles para a\u00f1adir 2124 p. al escudo por cada trozo.",
+    "fr_FR": "Vous vous prot\u00e9gez pendant 15 s, absorbant 7965\u00a0points de d\u00e9g\u00e2ts.\r\n\r\nConsomme tous les fragments d\u2019\u00e2me disponibles, ce qui renforce le bouclier de 2124\u00a0points par fragment.",
+    "it_IT": "Una barriera ti protegge per 15 s, assorbendo 7.965 danni subiti.\r\n\r\nConsumare tutti i Frammenti dell'Anima disponibili per aggiunge 2.124 danni assorbiti allo scudo per frammento.",
+    "ru_RU": "\u0412\u044b \u0443\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0435 \u0441\u0435\u0431\u044f \u0449\u0438\u0442\u043e\u043c, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u043c 7965 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u043c \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 15 \u0441\u0435\u043a.\r\n\r\n\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442\u044c \u0432\u0441\u0435 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u0435 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u044b \u0434\u0443\u0448\u0438, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0449\u0438\u0442\u0430 \u043d\u0430 2124 \u0435\u0434. \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442.",
+    "ko_KR": "15\ucd08 \ub3d9\uc548 \uc8fc\uc704\uc5d0 \ubcf4\ud638\ub9c9\uc744 \ub458\ub7ec 7,965\uc758 \ud53c\ud574\ub97c \ud761\uc218\ud569\ub2c8\ub2e4.\r\n\r\n\ubaa8\ub4e0 \uc601\ud63c \ud30c\ud3b8\uc744 \ud761\uc218\ud569\ub2c8\ub2e4. \ud30c\ud3b8 \ud558\ub098\ub2f9 \ubcf4\ud638\ub9c9\uc758 \ud53c\ud574 \ud761\uc218\ub7c9\uc774 2,124\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7528\u8b77\u76fe\u4fdd\u8b77\u81ea\u5df1\uff0c\u5438\u65367,965\u9ede\u50b7\u5bb3\uff0c\u6301\u7e8c15\u79d2\u3002\r\n\r\n\u541e\u566c\u6240\u6709\u53ef\u7528\u7684\u9748\u9b42\u788e\u7247\uff0c\u6bcf\u679a\u788e\u7247\u53ef\u70ba\u8b77\u76fe\u589e\u52a02,124\u9ede\u5438\u6536\u91cf\u3002",
+    "zh_CN": "\u4e3a\u4f60\u81ea\u5df1\u65bd\u52a0\u62a4\u76fe\uff0c\u6301\u7eed15\u79d2\uff0c\u5438\u65367,965\u70b9\u4f24\u5bb3\u3002\r\n\r\n\u6d88\u8017\u6240\u6709\u53ef\u7528\u7684\u7075\u9b42\u6b8b\u7247\uff0c\u6bcf\u4e00\u5757\u6b8b\u7247\u53ef\u4ee5\u4f7f\u62a4\u76fe\u589e\u52a02,124\u70b9\u5438\u6536\u91cf\u3002"
+  }
 }

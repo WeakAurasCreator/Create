@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "265222"
+  "SpellID": "265222",
+  "name_blz": {
+    "en_US": "Mass Production",
+    "es_MX": "Fabricaci\u00f3n en masa",
+    "pt_BR": "Produ\u00e7\u00e3o em massa",
+    "de_DE": "Massenproduktion",
+    "en_GB": "Mass Production",
+    "es_ES": "Fabricaci\u00f3n en masa",
+    "fr_FR": "Production de masse",
+    "it_IT": "Produzione di Massa",
+    "ru_RU": "\u041c\u0430\u0441\u0441\u043e\u0432\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
+    "ko_KR": "\ub300\ub7c9 \uc0dd\uc0b0",
+    "zh_TW": "\u5927\u91cf\u751f\u7522",
+    "zh_CN": "\u5927\u89c4\u6a21\u751f\u4ea7"
+  },
+  "description_blz": {
+    "en_US": "Increases Blacksmithing skill by 5 and Blacksmithing speed by 10%.",
+    "es_MX": "Aumenta 5 p. la habilidad de herrer\u00eda y un 10% la velocidad de herrer\u00eda.",
+    "pt_BR": "Aumenta em 5 o seu n\u00edvel em Ferraria e em 10% a velocidade de cria\u00e7\u00e3o dessa per\u00edcia.",
+    "de_DE": "Erh\u00f6ht die Schmiedefertigkeit um 5 und die Schmiedegeschwindigkeit um 10%.",
+    "en_GB": "Increases Blacksmithing skill by 5 and Blacksmithing speed by 10%.",
+    "es_ES": "Aumenta 5 p. la habilidad en herrer\u00eda y un 10% la velocidad en herrer\u00eda.",
+    "fr_FR": "Augmente la comp\u00e9tence en forge de 5 et la vitesse de forge de 10%.",
+    "it_IT": "Aumenta la competenza in Forgiatura di 5 e la velocit\u00e0 di Forgiatura del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u0432\u044b\u043a \u043a\u0443\u0437\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u0434\u0435\u043b\u0430 \u043d\u0430 5, \u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u044b \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u044d\u0442\u043e\u0433\u043e \u043d\u0430\u0432\u044b\u043a\u0430 \u2013 \u043d\u0430 10%.",
+    "ko_KR": "\ub300\uc7a5\uae30\uc220 \uc219\ub828\ub3c4\uac00 5\ub9cc\ud07c, \ub300\uc7a5\uae30\uc220 \uc81c\uc791 \uc18d\ub3c4\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u935b\u9020\u6280\u80fd\u63d0\u9ad85\u9ede\uff0c\u4e14\u935b\u9020\u901f\u5ea6\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u953b\u9020\u6280\u80fd\u63d0\u9ad85\u70b9\uff0c\u5236\u9020\u953b\u9020\u7269\u54c1\u7684\u901f\u5ea6\u63d0\u9ad810%\u3002"
+  }
 }

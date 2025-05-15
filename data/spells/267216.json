@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "267216"
+  "SpellID": "267216",
+  "name_blz": {
+    "en_US": "Inner Demons",
+    "es_MX": "Demonios internos",
+    "pt_BR": "Dem\u00f4nios Interiores",
+    "de_DE": "Innere D\u00e4monen",
+    "en_GB": "Inner Demons",
+    "es_ES": "Demonio interior",
+    "fr_FR": "D\u00e9mons int\u00e9rieurs",
+    "it_IT": "Demoni Interiori",
+    "ru_RU": "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0435 \u0434\u0435\u043c\u043e\u043d\u044b",
+    "ko_KR": "\ub0b4\uba74\uc758 \uc545\ub9c8",
+    "zh_TW": "\u5fc3\u5167\u60e1\u9b54",
+    "zh_CN": "\u5185\u5fc3\u4e4b\u9b54"
+  },
+  "description_blz": {
+    "en_US": "You passively summon a Wild Imp to fight for you every 12 sec.",
+    "es_MX": "Invocas de forma pasiva a un diablillo salvaje para que luche por ti cada 12 s.",
+    "pt_BR": "Voc\u00ea evoca passivamente um Diabrete Selvagem para lutar ao seu lado a cada 12 s.",
+    "de_DE": "Ihr beschw\u00f6rt alle 12 Sek. passiv einen Wildwichtel, der f\u00fcr Euch k\u00e4mpft.",
+    "en_GB": "You passively summon a Wild Imp to fight for you every 12 sec.",
+    "es_ES": "Invocas de manera pasiva a un diablillo salvaje para que luche por ti cada 12 s.",
+    "fr_FR": "Vous invoquez passivement toutes les 12\u00a0s un diablotin sauvage qui se bat \u00e0 vos c\u00f4t\u00e9s.",
+    "it_IT": "Evoca passivamente un Imp Selvaggio che combatte al tuo fianco ogni 12 s.",
+    "ru_RU": "\u0412\u044b \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u0434\u0438\u043a\u043e\u0433\u043e \u0431\u0435\u0441\u0430 \u0440\u0430\u0437 \u0432 12 \u0441\u0435\u043a.",
+    "ko_KR": "\uc9c0\uc18d\uc801\uc73c\ub85c 12\ucd08\ub9c8\ub2e4 \ub0a0\ub6f0\ub294 \uc784\ud504\ub97c \uc18c\ud658\ud558\uc5ec \uc804\ud22c\ub97c \ub3d5\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6bcf12\u79d2\u88ab\u52d5\u53ec\u559a1\u96bb\u72c2\u91ce\u5c0f\u9b3c\u70ba\u4f60\u800c\u6230\u3002",
+    "zh_CN": "\u4f60\u6bcf12\u79d2\u81ea\u52a8\u53ec\u5524\u4e00\u4e2a\u91ce\u751f\u5c0f\u9b3c\u4e3a\u4f60\u800c\u6218\u3002"
+  }
 }

@@ -34,5 +34,28 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "242256"
+  "SpellID": "242256",
+  "name_blz": {
+    "en_US": "Item - Monk T20 Brewmaster 4P Bonus",
+    "es_MX": "Objeto - Monje T20 Maestro cervecero 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - Monk T20 Brewmaster 4P Bonus",
+    "en_GB": "Item - Monk T20 Brewmaster 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc218\ub3c4\uc0ac T20 \uc591\uc870 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Monk T20 Brewmaster 4P Bonus",
+    "zh_CN": "Item - Monk T20 Brewmaster 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "When a Gift of the Ox Healing Sphere is consumed, your current Stagger amount is lowered by 5%.",
+    "es_MX": "Cuando consumes una esfera de sanaci\u00f3n de Ofrenda del buey, el monto de da\u00f1o de Aplazar se reduce un 5%.",
+    "pt_BR": "Quando uma Esfera Curativa da D\u00e1diva do Boi \u00e9 consumida, sua quantidade atual de Cambalear \u00e9 reduzida em 5%.",
+    "de_DE": "Wenn eine durch 'Gabe des Ochsen' erzeugte heilende Sph\u00e4re verbraucht wird, wird Eure aktuelle Schadensstaffelung um 5% verringert.",
+    "en_GB": "When a Gift of the Ox Healing Sphere is consumed, your current Stagger amount is lowered by 5%.",
+    "es_ES": "Cuando se consume una esfera de sanaci\u00f3n de Ofrenda del buey, tu cantidad actual de Aplazar se reduce un 5%.",
+    "fr_FR": "Quand une sph\u00e8re de soins du Don du buffle est consomm\u00e9e, votre montant de d\u00e9g\u00e2ts diff\u00e9r\u00e9s par Report est r\u00e9duit de 5%.",
+    "it_IT": "Quando viene consumata una Sfera Curativa del Dono dello Yak, i danni trascurati da Noncuranza si riducono del 5%.",
+    "ru_RU": "\u041f\u0440\u0438 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u0438 \u0446\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0444\u0435\u0440\u044b \"\u0414\u0430\u0440\u0430 \u0431\u044b\u043a\u0430\" \u0442\u0435\u043a\u0443\u0449\u0438\u0439 \u043e\u0431\u044a\u0435\u043c \u043e\u0442\u043b\u043e\u0436\u0435\u043d\u043d\u043e\u0433\u043e \"\u041f\u043e\u0448\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u0435\u043c\" \u0443\u0440\u043e\u043d\u0430 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5%.",
+    "ko_KR": "\uc18c\uc758 \uc120\ubb3c \uce58\uc720\uc758 \uad6c\uc2ac\uc744 \ud761\uc218\ud558\uba74, \ud604\uc7ac \uc2dc\uac04\ucc28\uc5d0 \ub204\uc801\ub41c \ud53c\ud574\ub7c9\uc774 5%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u7576\u4f60\u6d88\u8017\u4e00\u679a\u7384\u725b\u4e4b\u8cdc\u7684\u6cbb\u7642\u7389\uff0c\u4f60\u9189\u4ed9\u7de9\u52c1\u76ee\u524d\u5ef6\u7de9\u7684\u50b7\u5bb3\u91cf\u6703\u964d\u4f4e5%\u3002",
+    "zh_CN": "\u6bcf\u6d88\u8017\u4e00\u9897\u7384\u725b\u4e4b\u8d50\u7597\u4f24\u73e0\uff0c\u5c31\u5316\u89e3\u4f60\u8eab\u4e0a5%\u7684\u9189\u62f3\u4f24\u5bb3\u3002"
+  }
 }
