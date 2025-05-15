@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "301941"
+  "SpellID": "301941",
+  "name_blz": {
+    "en_US": "Manapoof Link: Stratholme",
+    "es_MX": "V\u00ednculo de Manapuf: Stratholme",
+    "pt_BR": "V\u00ednculo de Manapuff: Stratholme",
+    "de_DE": "Manapaffs Verbindung: Stratholme",
+    "en_GB": "Manapoof Link: Stratholme",
+    "es_ES": "V\u00ednculo de la nubecilla de man\u00e1: Stratholme",
+    "fr_FR": "Lien de Manapouf\u00a0: Stratholme",
+    "it_IT": "Collegamento di Scoppiamana: Stratholme",
+    "ru_RU": "\u041b\u0438\u043d\u0438\u044f \u041c\u0430\u043d\u0430\u043f\u0448\u0438\u043a\u0430: \u0421\u0442\u0440\u0430\u0442\u0445\u043e\u043b\u044c\u043c",
+    "ko_KR": "\ub9c8\ub098\ucc30\ub791 \uc5f0\uacb0: \uc2a4\ud2b8\ub77c\uc194\ub984",
+    "zh_TW": "\u9b54\u5657\u9023\u7dda\uff1a\u65af\u5766\u7d22\u59c6",
+    "zh_CN": "\u739b\u7eb3\u6ce2\u592b\u94fe\u63a5\uff1a\u65af\u5766\u7d22\u59c6"
+  },
+  "description_blz": {
+    "en_US": "Manapoof can now teleport you to Stratholme.",
+    "es_MX": "Manapuf ahora puede teletransportarte a Stratholme.",
+    "pt_BR": "Manapuff agora pode teleportar voc\u00ea para Stratholme.",
+    "de_DE": "Manapaff kann Euch jetzt nach Stratholme teleportieren.",
+    "en_GB": "Manapoof can now teleport you to Stratholme.",
+    "es_ES": "Ahora, la nubecilla de man\u00e1 puede teletransportarte a Stratholme.",
+    "fr_FR": "Manapouf peut d\u00e9sormais vous t\u00e9l\u00e9porter jusqu\u2019\u00e0 Stratholme.",
+    "it_IT": "Scoppiamana pu\u00f2 teletrasportarti a Stratholme.",
+    "ru_RU": "\u041c\u0430\u043d\u0430\u043f\u0448\u0438\u043a \u043c\u043e\u0436\u0435\u0442 \u0442\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432\u0430\u0441 \u0432 \u0421\u0442\u0440\u0430\u0442\u0445\u043e\u043b\u044c\u043c.",
+    "ko_KR": "\ub9c8\ub098\ucc30\ub791\uc774\uac00 \ub2f9\uc2e0\uc744 \uc2a4\ud2b8\ub77c\uc194\ub984\uc73c\ub85c \ubcf4\ub0b4\uc904 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9b54\u5657\u73fe\u5728\u53ef\u4ee5\u5c07\u4f60\u50b3\u9001\u81f3\u65af\u5766\u7d22\u59c6\u3002",
+    "zh_CN": "\u739b\u7eb3\u6ce2\u592b\u73b0\u5728\u53ef\u4ee5\u5c06\u4f60\u4f20\u9001\u81f3\u65af\u5766\u7d22\u59c6\u3002"
+  }
 }

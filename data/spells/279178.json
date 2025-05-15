@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "279178"
+  "SpellID": "279178",
+  "name_blz": {
+    "en_US": "Kings' Rest",
+    "es_MX": "Reposo de los Reyes",
+    "pt_BR": "Repouso do Rei",
+    "de_DE": "Die K\u00f6nigsruh",
+    "en_GB": "Kings' Rest",
+    "es_ES": "Reposo de los Reyes",
+    "fr_FR": "Repos des rois",
+    "it_IT": "Requie dei Re",
+    "ru_RU": "\u0413\u0440\u043e\u0431\u043d\u0438\u0446\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0439",
+    "ko_KR": "\uc655\ub4e4\uc758 \uc548\uc2dd\ucc98",
+    "zh_TW": "\u8af8\u738b\u4e4b\u7720",
+    "zh_CN": "\u8bf8\u738b\u4e4b\u7720"
+  },
+  "description_blz": {
+    "en_US": "Unlock the Kings' Rest dungeon.",
+    "es_MX": "Desbloquea el calabozo Reposo de los Reyes.",
+    "pt_BR": "Desbloqueia a masmorra do Repouso do Rei.",
+    "de_DE": "Schaltet den Dungeon \"Die K\u00f6nigsruh\" frei.",
+    "en_GB": "Unlock the Kings' Rest dungeon.",
+    "es_ES": "Desbloquea la mazmorra del Reposo de los Reyes.",
+    "fr_FR": "Vous d\u00e9bloquez le donjon du Repos des rois.",
+    "it_IT": "Sblocca la spedizione Requie dei Re.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435 \"\u0413\u0440\u043e\u0431\u043d\u0438\u0446\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0439\".",
+    "ko_KR": "\uc655\ub4e4\uc758 \uc548\uc2dd\ucc98 \ub358\uc804\uc744 \uc7a0\uae08 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u8af8\u738b\u4e4b\u7720\u5730\u57ce\u3002",
+    "zh_CN": "\u89e3\u9501\u8bf8\u738b\u4e4b\u7720\u5730\u4e0b\u57ce\u3002"
+  }
 }

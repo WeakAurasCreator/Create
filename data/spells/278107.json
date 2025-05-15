@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "278107"
+  "SpellID": "278107",
+  "name_blz": {
+    "en_US": "Val'kyr",
+    "es_MX": "Val'kyr",
+    "pt_BR": "Val'kyr",
+    "de_DE": "Val'kyr",
+    "en_GB": "Val'kyr",
+    "es_ES": "Val'kyr",
+    "fr_FR": "Val\u2019kyr",
+    "it_IT": "Val'kyr",
+    "ru_RU": "\u0412\u0430\u043b\u044c'\u043a\u0438\u0440\u0430",
+    "ko_KR": "\ubc1c\ud0a4\ub974",
+    "zh_TW": "\u83ef\u723e\u742a",
+    "zh_CN": "\u74e6\u683c\u91cc"
+  },
+  "description_blz": {
+    "en_US": "Your Summon Gargoyle spell summons a Val'kyr instead of a Gargoyle.",
+    "es_MX": "Tu hechizo Invocar g\u00e1rgola invoca una val'kyr en lugar de una g\u00e1rgola.",
+    "pt_BR": "Seu feiti\u00e7o Evocar G\u00e1rgula evoca uma Val'kyr, em vez de uma G\u00e1rgula.",
+    "de_DE": "Euer Zauber 'Gargoyle beschw\u00f6ren' ruft eine Val'kyr statt eines Gargoyles herbei.",
+    "en_GB": "Your Summon Gargoyle spell summons a Val'kyr instead of a Gargoyle.",
+    "es_ES": "Tu hechizo Invocar g\u00e1rgola invoca una Val'kyr en vez de una g\u00e1rgola.",
+    "fr_FR": "Invocation d\u2019une gargouille fait appara\u00eetre une Val\u2019kyr au lieu d\u2019une gargouille.",
+    "it_IT": "Evocazione: Gargoyle evoca una Val'kyr invece di un Gargoyle.",
+    "ru_RU": "\"\u041f\u0440\u0438\u0437\u044b\u0432 \u0433\u043e\u0440\u0433\u0443\u043b\u044c\u0438\" \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432\u0430\u043b\u044c'\u043a\u0438\u0440\u0443 \u0432\u043c\u0435\u0441\u0442\u043e \u0433\u043e\u0440\u0433\u0443\u043b\u044c\u0438.",
+    "ko_KR": "\uac00\uace0\uc77c \ubd80\ub974\uae30 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc \uac00\uace0\uc77c \ub300\uc2e0 \ubc1c\ud0a4\ub974\ub97c \uc18c\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u53ec\u559a\u77f3\u50cf\u9b3c\u6cd5\u8853\u6703\u53ec\u559a\u4e00\u4f4d\u83ef\u723e\u742a\u800c\u4e0d\u662f\u77f3\u50cf\u9b3c\u3002",
+    "zh_CN": "\u4f60\u7684\u53ec\u5524\u77f3\u50cf\u9b3c\u5c06\u53ec\u5524\u4e00\u4e2a\u74e6\u683c\u91cc\uff0c\u800c\u4e0d\u662f\u4e00\u4e2a\u77f3\u50cf\u9b3c\u3002"
+  }
 }

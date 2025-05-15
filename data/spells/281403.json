@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "281403"
+  "SpellID": "281403",
+  "name_blz": {
+    "en_US": "Teleport: Boralus",
+    "es_MX": "Teletransporte: Boralus",
+    "pt_BR": "Teleporte: Boralus",
+    "de_DE": "Teleport: Boralus",
+    "en_GB": "Teleport: Boralus",
+    "es_ES": "Teletransporte a: Boralus",
+    "fr_FR": "T\u00e9l\u00e9portation\u00a0: Boralus",
+    "it_IT": "Teletrasporto: Boralus",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u0411\u043e\u0440\u0430\u043b\u0443\u0441",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9: \ubcf4\ub784\ub7ec\uc2a4",
+    "zh_TW": "\u50b3\u9001\uff1a\u6ce2\u62c9\u52d2\u65af",
+    "zh_CN": "\u4f20\u9001\uff1a\u4f2f\u62c9\u52d2\u65af"
+  },
+  "description_blz": {
+    "en_US": "Teleports you to Boralus.",
+    "es_MX": "Te teletransporta a Boralus.",
+    "pt_BR": "Teleporta voc\u00ea para Boralus.",
+    "de_DE": "Teleportiert Euch nach Boralus.",
+    "en_GB": "Teleports you to Boralus.",
+    "es_ES": "Te teletransporta a Boralus.",
+    "fr_FR": "Vous t\u00e9l\u00e9porte \u00e0 Boralus.",
+    "it_IT": "Ti teletrasporta a Boralus.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u0441 \u0432 \u0411\u043e\u0440\u0430\u043b\u0443\u0441.",
+    "ko_KR": "\ubcf4\ub784\ub7ec\uc2a4\ub85c \uc21c\uac04\uc774\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u50b3\u9001\u5230\u6ce2\u62c9\u52d2\u65af\u3002",
+    "zh_CN": "\u5c06\u4f60\u4f20\u9001\u5230\u4f2f\u62c9\u52d2\u65af\u3002"
+  }
 }
