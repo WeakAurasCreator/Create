@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "298081"
+  "SpellID": "298081",
+  "name_blz": {
+    "en_US": "Azeroth's Undying Gift",
+    "es_MX": "D\u00e1diva imperecedera de Azeroth",
+    "pt_BR": "Presente Imorredouro de Azeroth",
+    "de_DE": "Azeroths unsterbliches Geschenk",
+    "en_GB": "Azeroth's Undying Gift",
+    "es_ES": "D\u00e1diva inmortal de Azeroth",
+    "fr_FR": "Don \u00e9ternel d\u2019Azeroth",
+    "it_IT": "Dono Imperituro di Azeroth",
+    "ru_RU": "\u0414\u0430\u0440 \u0436\u0438\u0437\u043d\u0438 \u0410\u0437\u0435\u0440\u043e\u0442",
+    "ko_KR": "\uc544\uc81c\ub85c\uc2a4\uc758 \uc601\uc6d0\ud55c \uc120\ubb3c",
+    "zh_TW": "\u827e\u6fa4\u62c9\u65af\u7684\u4e0d\u673d\u8d08\u79ae",
+    "zh_CN": "\u827e\u6cfd\u62c9\u65af\u7684\u4e0d\u673d\u8d50\u798f"
+  },
+  "description_blz": {
+    "en_US": "Reduce all damage you take by 40% for 2 sec, then 20% for the next 2 sec.",
+    "es_MX": "Reduce todo el da\u00f1o que recibes un 40% durante 2 s, y luego un 20% durante los 2 s siguientes.",
+    "pt_BR": "Reduz em 40% todo o dano recebido por 2, depois em 20% pelos pr\u00f3ximos 2 s.",
+    "de_DE": "Verringert 2 Sek. lang s\u00e4mtlichen von Euch erlittenen Schaden um 40% sowie danach 2 Sek. lang um 20%.",
+    "en_GB": "Reduce all damage you take by 40% for 2 sec, then 20% for the next 2 sec.",
+    "es_ES": "Reduce todo el da\u00f1o que recibes un 40% durante 2 s y, a continuaci\u00f3n, lo reduce un 20% durante los siguientes 2 s.",
+    "fr_FR": "Tous les d\u00e9g\u00e2ts que vous subissez sont r\u00e9duits de 40% pendant 2\u00a0s, puis de 20% pendant les 2\u00a0s suivantes.",
+    "it_IT": "Riduce tutti i danni subiti del 40% per 2 s, quindi del 20% per i successivi 2 s.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u043d\u0430 40% \u043d\u0430 2 \u0441\u0435\u043a., \u0430 \u0437\u0430\u0442\u0435\u043c \u043d\u0430 20% \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 2 \u0441\u0435\u043a.",
+    "ko_KR": "2\ucd08 \ub3d9\uc548 \ubc1b\ub294 \ubaa8\ub4e0 \ud53c\ud574\uac00 40%\ub9cc\ud07c \uac10\uc18c\ud558\uace0, \uadf8\ub2e4\uc74c 2\ucd08 \ub3d9\uc548 20%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u53d7\u5230\u7684\u6240\u6709\u50b7\u5bb3\u964d\u4f4e40%\uff0c\u6301\u7e8c2\u79d2\uff0c\u7136\u5f8c\u6539\u70ba\u964d\u4f4e20%\uff0c\u6301\u7e8c2\u79d2\u3002",
+    "zh_CN": "\u4f60\u53d7\u5230\u7684\u6240\u6709\u4f24\u5bb3\u964d\u4f4e40%\uff0c\u6301\u7eed2\u79d2\uff0c\u7136\u540e\u63a5\u4e0b\u67652\u79d2\u51cf\u4f24\u6548\u679c\u53d8\u4e3a20%\u3002"
+  }
 }

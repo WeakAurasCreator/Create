@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "321468"
+  "SpellID": "321468",
+  "name_blz": {
+    "en_US": "Binding Shackles",
+    "es_MX": "Grilletes vinculantes",
+    "pt_BR": "Grilh\u00f5es Aprisionadores",
+    "de_DE": "Bindende Fesseln",
+    "en_GB": "Binding Shackles",
+    "es_ES": "Grilletes vinculantes",
+    "fr_FR": "Entraves de lien",
+    "it_IT": "Catene Vincolanti",
+    "ru_RU": "\u0421\u0432\u044f\u0437\u0443\u044e\u0449\u0438\u0435 \u043a\u0430\u043d\u0434\u0430\u043b\u044b",
+    "ko_KR": "\uc5b5\uc81c\uc758 \uc871\uc1c4",
+    "zh_TW": "\u675f\u7e1b\u9410\u92ac",
+    "zh_CN": "\u675f\u7f1a\u9563\u94d0"
+  },
+  "description_blz": {
+    "en_US": "Targets stunned by Binding Shot, knocked back by High Explosive Trap, knocked up by Implosive Trap, incapacitated by Scatter Shot, or stunned by Intimidation deal 10% less damage to you for 8 sec after the effect ends.",
+    "es_MX": "Los objetivos aturdidos por Disparo vinculante, repelidos por Trampa altamente explosiva, lanzados por los aires por Trampa implosiva, incapacitados por Disparo de dispersi\u00f3n o aturdidos por Intimidaci\u00f3n te infligen un 10% menos de da\u00f1o durante 8 s despu\u00e9s de que termina el efecto.",
+    "pt_BR": "Alvos atordoados por Disparo Aprisionador, repelidos pela Armadilha Altamente Explosiva, lan\u00e7ados para cima pela Armadilha Implosiva, incapacitados pelo Tiro de Dispers\u00e3o ou atordoados por Intimida\u00e7\u00e3o causam 10% menos dano a voc\u00ea por 8 s ap\u00f3s o fim do efeito.",
+    "de_DE": "Ziele, die von 'Bindender Schuss' bet\u00e4ubt, von 'Hochexplosivfalle' zur\u00fcckgesto\u00dfen, von 'Implosionsfalle' nach oben geschleudert, von 'Streuschuss' handlungsunf\u00e4hig gemacht oder von 'Einsch\u00fcchterung' bet\u00e4ubt wurden, f\u00fcgen Euch nach Ablauf des Effekts 8 Sek. lang 10% weniger Schaden zu.",
+    "en_GB": "Targets stunned by Binding Shot, knocked back by High Explosive Trap, knocked up by Implosive Trap, incapacitated by Scatter Shot, or stunned by Intimidation deal 10% less damage to you for 8 sec after the effect ends.",
+    "es_ES": "Los objetivos aturdidos por Disparo vinculante, repelidos por Trampa sumamente explosiva y por Trampa implosiva, incapacitados por Disparo de dispersi\u00f3n o aturdidos por Intimidaci\u00f3n te infligen un 10% menos de da\u00f1o durante 8 s despu\u00e9s de que termine el efecto.",
+    "fr_FR": "Les cibles \u00e9tourdies par Tir de lien, repouss\u00e9es par Pi\u00e8ge hautement explosif, propuls\u00e9es dans les airs par Pi\u00e8ge implosif, stup\u00e9fi\u00e9es par Fl\u00e8che de dispersion ou \u00e9tourdies par Intimidation vous infligent 10\u00a0% de d\u00e9g\u00e2ts en moins pendant 8 s apr\u00e8s la fin de l\u2019effet.",
+    "it_IT": "Riduce i danni a te inflitti dai bersagli storditi da Tiro Vincolante, respinti indietro da Trappola ad Alto Potenziale, scagliati in aria da Trappola Implosiva, inabilitati da Tiro Disorientante o storditi da Intimidazione del 10% per 8 s dopo la fine dell'effetto.",
+    "ru_RU": "\u0426\u0435\u043b\u0438, \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u043d\u044b\u0435 \"\u0421\u0432\u044f\u0437\u0443\u044e\u0449\u0438\u043c \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u043e\u043c\", \u043e\u0442\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0435 \"\u0424\u0443\u0433\u0430\u0441\u043d\u043e\u0439 \u043b\u043e\u0432\u0443\u0448\u043a\u043e\u0439\", \u043f\u043e\u0434\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0435 \"\u041a\u043e\u043b\u043b\u0430\u043f\u0441\u0438\u0440\u0443\u044e\u0449\u0435\u0439 \u043b\u043e\u0432\u0443\u0448\u043a\u043e\u0439\", \u043f\u0430\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \"\u041e\u0448\u0435\u043b\u043e\u043c\u043b\u044f\u044e\u0449\u0438\u043c \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u043e\u043c\" \u0438\u043b\u0438 \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u043d\u044b\u0435 \"\u0423\u0441\u0442\u0440\u0430\u0448\u0435\u043d\u0438\u0435\u043c\", \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0432\u0430\u043c \u043d\u0430 10% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f.",
+    "ko_KR": "\uad6c\uc18d\uc758 \uc0ac\uaca9\uc73c\ub85c \uae30\uc808\ud558\uac70\ub098, \uace0\ud3ed\ud0c4 \ub36b\uc73c\ub85c \ubc00\uccd0\uc9c0\uac70\ub098, \ub0b4\ud30c \ub36b\uc73c\ub85c \uacf5\uc911\uc73c\ub85c \ub0a0\ub824 \ubcf4\ub0b4\uc9c0\uac70\ub098, \ubd84\uc0b0 \uc0ac\uaca9\uc73c\ub85c \ud589\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\uac00 \ub418\uac70\ub098, \uc704\ud611\uc73c\ub85c \uae30\uc808 \uc0c1\ud0dc\uac00 \ub41c \ub300\uc0c1\uc758 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9c0\uba74 8\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc5d0\uac8c \ubc1b\ub294 \ud53c\ud574\uac00 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u76ee\u6a19\u88ab\u7981\u932e\u5c04\u64ca\u64ca\u660f\u3001\u88ab\u9ad8\u7206\u9677\u9631\u64ca\u9000\u3001\u88ab\u7206\u7834\u9677\u9631\u64ca\u98db\u3001\u88ab\u9a45\u6563\u5c04\u64ca\u7671\u7613\u6216\u88ab\u5a01\u5687\u64ca\u660f\u5f8c\uff0c\u5728\u6548\u679c\u7d50\u675f\u5f8c\uff0c\u5176\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e10%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u88ab\u675f\u7f1a\u5c04\u51fb\u660f\u8ff7\uff0c\u88ab\u9ad8\u7206\u9677\u9631\u51fb\u9000\uff0c\u88ab\u9a71\u6563\u5c04\u51fb\u762b\u75ea\uff0c\u88ab\u5185\u7206\u9677\u9631\u51fb\u98de\uff0c\u6216\u88ab\u80c1\u8feb\u660f\u8ff7\u7684\u76ee\u6807\u5728\u6548\u679c\u7ed3\u675f\u540e\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e10%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

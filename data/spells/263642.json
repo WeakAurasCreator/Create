@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "263642"
+  "SpellID": "263642",
+  "name_blz": {
+    "en_US": "Fracture",
+    "es_MX": "Fractura",
+    "pt_BR": "Fratura",
+    "de_DE": "Fraktur",
+    "en_GB": "Fracture",
+    "es_ES": "Fractura",
+    "fr_FR": "Fracture",
+    "it_IT": "Frattura",
+    "ru_RU": "\u0420\u0430\u0437\u043b\u043e\u043c",
+    "ko_KR": "\uade0\uc5f4",
+    "zh_TW": "\u5207\u88c2",
+    "zh_CN": "\u7834\u88c2"
+  },
+  "description_blz": {
+    "en_US": "Rapidly slash your target for 329 Physical damage, and shatter 2 Lesser Soul Fragments from them.\r\n\r\nGenerates 25 Fury.",
+    "es_MX": "Corta r\u00e1pidamente a tu objetivo, le inflige 330 de da\u00f1o f\u00edsico y genera 2 fragmentos de alma menores.\r\n\r\nGenera 25 Furia.",
+    "pt_BR": "Talha o seu alvo rapidamente, causando 336 de dano F\u00edsico e arrancando 2 Fragmentos de Alma Inferior dele.\r\n\r\nGera 25 de F\u00faria.",
+    "de_DE": "F\u00fcgt Eurem Ziel durch schnell aufeinanderfolgende Schlitzer 333 k\u00f6rperlichen Schaden zu und spaltet 2 geringe Seelenfragmente von ihm ab.\r\n\r\nErzeugt 25 J\u00e4hzorn.",
+    "en_GB": "Rapidly slash your target for 332 Physical damage, and shatter 2 Lesser Soul Fragments from them.\r\n\r\nGenerates 25 Fury.",
+    "es_ES": "Acuchilla r\u00e1pidamente a tu objetivo, lo que le inflige 334 p. de da\u00f1o f\u00edsico y le arranca 2 trozos de alma inferiores.\r\n\r\nGenera 25 p. de furia.",
+    "fr_FR": "Vous entaillez la cible rapidement, ce qui lui inflige 330\u00a0points de d\u00e9g\u00e2ts physiques et lui arrache 2\u00a0fragments d\u2019\u00e2me inf\u00e9rieurs.\r\n\r\nG\u00e9n\u00e8re 25\u00a0points de fureur.",
+    "it_IT": "Colpisce rapidamente il bersaglio, infliggendo 337 danni fisici e rilasciando 2 Frammenti Inferiori dell'Anima.\r\n\r\nGenera 25 furia.",
+    "ru_RU": "\u0412\u044b \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0430\u0441\u0441\u0435\u043a\u0430\u0435\u0442\u0435 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f \u0435\u0439 337 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0438 \u043e\u0442\u043a\u0430\u043b\u044b\u0432\u0430\u044f \u043e\u0442 \u043d\u0435\u0435 2 \u043c\u0430\u043b\u044b\u0445 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u0430 \u0434\u0443\u0448\u0438.\r\n\r\n\u0414\u0430\u0435\u0442 25 \u0435\u0434. \u0433\u043d\u0435\u0432\u0430.",
+    "ko_KR": "\ub300\uc0c1\uc744 \ube60\ub974\uac8c \ubca0\uc5b4 328\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud788\uace0, \ud558\uae09 \uc601\ud63c \ud30c\ud3b8 2\uac1c\ub97c \ub5bc\uc5b4\ub0c5\ub2c8\ub2e4.\r\n\r\n25\uc758 \uaca9\ub178\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5feb\u901f\u65ac\u64ca\u4f60\u7684\u76ee\u6a19\uff0c\u9020\u6210335\u9ede\u7269\u7406\u50b7\u5bb3\uff0c\u4e26\u5f9e\u76ee\u6a19\u8eab\u4e0a\u5207\u88c2\u51fa2\u679a\u6b21\u7d1a\u9748\u9b42\u788e\u7247\u3002\r\n\r\n\u7522\u751f25\u9ede\u9b54\u6012\u3002",
+    "zh_CN": "\u8fc5\u901f\u5730\u6325\u780d\u76ee\u6807\uff0c\u9020\u6210339\u70b9\u7269\u7406\u4f24\u5bb3\uff0c\u5e76\u4ece\u76ee\u6807\u8eab\u4e0a\u5265\u79bb\u51fa2\u5757\u5c0f\u578b\u7075\u9b42\u6b8b\u7247\u3002\r\n\r\n\u4ea7\u751f25\u70b9\u6076\u9b54\u4e4b\u6012\u3002"
+  }
 }

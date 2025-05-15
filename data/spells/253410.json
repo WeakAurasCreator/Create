@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "253410"
+  "SpellID": "253410",
+  "name_blz": {
+    "en_US": "Lightforged Beacon: Antoran Wastes",
+    "es_MX": "Faro templeluz: P\u00e1ramos antorianos",
+    "pt_BR": "Sinalizador Forjado a Luz: Ermos Antoranos",
+    "de_DE": "Lichtgeschmiedetes Signal: Antorische \u00d6dnis",
+    "en_GB": "Lightforged Beacon: Antoran Wastes",
+    "es_ES": "Baliza forjada por la Luz: Bald\u00edo Antoran",
+    "fr_FR": "Balise sancteforge\u00a0: \u00e9tendues Antor\u00e9ennes",
+    "it_IT": "Dislocatore Forgialuce: Distese degli Antoran",
+    "ru_RU": "\u041c\u0430\u044f\u043a \u043e\u0437\u0430\u0440\u0435\u043d\u043d\u044b\u0445: \u043f\u0443\u0441\u0442\u043e\u0448\u0438 \u0410\u043d\u0442\u043e\u0440\u0443\u0441\u0430",
+    "ko_KR": "\ube5b\ubcbc\ub9bc \uc2e0\ud638\uae30: \uc548\ud1a0\ub780 \ud669\ubb34\uc9c0",
+    "zh_TW": "\u5149\u9444\u4fe1\u6a19\uff1a\u5b89\u6258\u6d1b\u65af\u8352\u539f",
+    "zh_CN": "\u5149\u94f8\u9053\u6807\uff1a\u5b89\u6258\u5170\u5e9f\u571f"
+  },
+  "description_blz": {
+    "en_US": "Adds Antoran Wastes to your Navigation Console.",
+    "es_MX": "Agrega P\u00e1ramos antorianos a tu Consola de navegaci\u00f3n.",
+    "pt_BR": "Adiciona Ermos Antoranos ao seu Console de Navega\u00e7\u00e3o.",
+    "de_DE": "F\u00fcgt die Antorische \u00d6dnis Eurer Navigationskonsole hinzu.",
+    "en_GB": "Adds Antoran Wastes to your Navigation Console.",
+    "es_ES": "A\u00f1ade Bald\u00edo Antoran a tu consola de navegaci\u00f3n.",
+    "fr_FR": "Ajoute les \u00e9tendues Antor\u00e9ennes \u00e0 votre console de navigation.",
+    "it_IT": "Aggiunge Distese degli Antoran alla tua Console di Navigazione.",
+    "ru_RU": "\u0414\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u0443\u0441\u0442\u043e\u0448\u0438 \u0410\u043d\u0442\u043e\u0440\u0443\u0441\u0430 \u043d\u0430 \u043d\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u043e\u043d\u043d\u0443\u044e \u043f\u0430\u043d\u0435\u043b\u044c.",
+    "ko_KR": "\uc870\ud0c0 \uc7a5\uce58\uc5d0 \uc548\ud1a0\ub780 \ud669\ubb34\uc9c0\ub97c \ucd94\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u7684\u5c0e\u822a\u63a7\u5236\u81fa\u4e0a\u65b0\u589e\u5b89\u6258\u6d1b\u65af\u8352\u539f\u3002",
+    "zh_CN": "\u5c06\u5b89\u6258\u5170\u5e9f\u571f\u52a0\u5165\u4f60\u7684\u5bfc\u822a\u63a7\u5236\u53f0\u3002"
+  }
 }

@@ -34,5 +34,24 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "251769"
+  "SpellID": "251769",
+  "name_blz": {
+    "en_US": "Item - Demon Hunter T21 Havoc 4P Bonus",
+    "en_GB": "Item - Demon Hunter T21 Havoc 4P Bonus",
+    "es_ES": "Item - Demon Hunter T21 Havoc 4P Bonus - Haste After Eye Beam"
+  },
+  "description_blz": {
+    "en_US": "When Eye Beam finishes fully channeling, your Haste is increased by 25% for 8 sec.",
+    "es_MX": "Cuando Haz ocular finaliza su canalizaci\u00f3n, tu celeridad aumenta un 25% durante 8 s.",
+    "pt_BR": "Ao finalizar a canaliza\u00e7\u00e3o completa do Raio Ocular, sua Acelera\u00e7\u00e3o \u00e9 aumentada em 25% por 8 s.",
+    "de_DE": "Wenn die vollst\u00e4ndige Kanalisierung von 'Augenstrahl' endet, wird Euer Tempo 8 Sek. lang um 25% erh\u00f6ht.",
+    "en_GB": "When Eye Beam finishes fully channeling, your Haste is increased by 25% for 8 sec.",
+    "es_ES": "Cuando Haz ocular termina de canalizarse por completo, tu celeridad aumenta un 25% durante 8 s.",
+    "fr_FR": "Lorsque la canalisation de Rayon accablant arrive \u00e0 son terme, votre h\u00e2te est augment\u00e9e de 25% pendant 8 s.",
+    "it_IT": "Al termine di una canalizzazione completa di Raggio Oculare, la celerit\u00e0 aumenta del 25% per 8 s.",
+    "ru_RU": "\u041f\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f \"\u041f\u0440\u043e\u043d\u0437\u0430\u044e\u0449\u0435\u0433\u043e \u0432\u0437\u0433\u043b\u044f\u0434\u0430\" \u0432\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25% \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\uc548\uad11 \uc9d1\uc911\uc744 \ub05d\uae4c\uc9c0 \ub9c8\uce58\uba74 \uac00\uc18d\uc774 8\ucd08 \ub3d9\uc548 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9b54\u773c\u5149\u675f\u7d50\u675f\u5f15\u5c0e\u6642\uff0c\u4f60\u7684\u52a0\u901f\u63d0\u9ad825%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u5b8c\u6574\u65bd\u653e\u773c\u68f1\u4e4b\u540e\uff0c\u4f60\u7684\u6025\u901f\u4f1a\u63d0\u9ad825%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

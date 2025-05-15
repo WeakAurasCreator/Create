@@ -34,5 +34,24 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "251764"
+  "SpellID": "251764",
+  "name_blz": {
+    "en_US": "Item - Shaman T21 Restoration 2P Bonus",
+    "en_GB": "Item - Shaman T21 Restoration 2P Bonus",
+    "es_ES": "Item - Shaman T21 Restoration 2P Bonus - Immediate Heal In Riptide Area"
+  },
+  "description_blz": {
+    "en_US": "When you cast Healing Rain, up to 6 allies within its area are immediately healed for 3,175.",
+    "es_MX": "Cuando lanzas Lluvia de sanaci\u00f3n, sana inmediatamente a un m\u00e1ximo de 6 aliados que se encuentren dentro de su \u00e1rea por 3,047 p.",
+    "pt_BR": "Ao lan\u00e7ar Chuva Curativa, at\u00e9 6 aliados na \u00e1rea de efeito ser\u00e3o curados imediatamente em 3.107.",
+    "de_DE": "Beim Einsatz von 'Heilender Regen' werden bis zu 6 Verb\u00fcndete innerhalb des Effektbereichs sofort um 3.060 Gesundheit geheilt.",
+    "en_GB": "When you cast Healing Rain, up to 6 allies within its area are immediately healed for 3,133.",
+    "es_ES": "Cuando lanzas Lluvia de sanaci\u00f3n, hasta un m\u00e1ximo de 6 aliados dentro de su \u00e1rea se sanan 3157 p. inmediatamente.",
+    "fr_FR": "Lorsque vous lancez Pluie gu\u00e9risseuse, jusqu\u2019\u00e0 6\u00a0alli\u00e9s situ\u00e9s dans sa zone d\u2019effet r\u00e9cup\u00e8rent imm\u00e9diatement 3154\u00a0points de vie.",
+    "it_IT": "Il lancio di Pioggia Curativa cura istantaneamente di 3.100 fino a 6 alleati nell'area d'effetto.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u0426\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043b\u0438\u0432\u0435\u043d\u044c\", \u0434\u043e 6 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0435\u0433\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441\u0440\u0430\u0437\u0443 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 3037 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uce58\uc720\uc758 \ube44\ub97c \uc2dc\uc804\ud558\uba74 \ub300\uc0c1 \ubc94\uc704 \ub0b4\uc758 \uc544\uad70 \ucd5c\ub300 6\uba85\uc758 \uc0dd\uba85\ub825\uc774 \uc989\uc2dc 3,074\ub9cc\ud07c \ud68c\ubcf5\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u6cbb\u7652\u4e4b\u96e8\u6642\uff0c\u53ef\u7acb\u5373\u70ba\u7bc4\u570d\u5167\u6700\u591a6\u540d\u76df\u53cb\u6062\u5fa93,114\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5f53\u4f60\u65bd\u653e\u6cbb\u7597\u4e4b\u96e8\u65f6\uff0c\u5176\u8986\u76d6\u8303\u56f4\u5185\u7684\u6700\u591a6\u540d\u76df\u53cb\u5c06\u7acb\u5373\u6062\u590d3,054\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "290863"
+  "SpellID": "290863",
+  "name_blz": {
+    "en_US": "Schematic: The Ub3r-Spanner",
+    "es_MX": "Esquema: la Ub3r-Llave",
+    "pt_BR": "Diagrama: A Ub3r-chave",
+    "de_DE": "Bauplan: \u00dcb3r-Schrauber",
+    "en_GB": "Schematic: The Ub3r-Spanner",
+    "es_ES": "Esquema: sup3rllave",
+    "fr_FR": "Sch\u00e9ma\u00a0: Sup3r cl\u00e9",
+    "it_IT": "Schema: Chiave ad Arco Ultr4",
+    "ru_RU": "\u0421\u0445\u0435\u043c\u0430: \u0433\u0430\u0435\u0447\u043d\u044b\u0439 \u0443\u04313\u0440-\u043a\u043b\u044e\u0447",
+    "ko_KR": "\uc124\uacc4\ub3c4: \uace05\uae09 \uc2a4\ud328\ub108",
+    "zh_TW": "\u7d50\u69cb\u5716\uff1a\u8d85U\u8cea\u6273\u624b",
+    "zh_CN": "\u7ed3\u6784\u56fe\uff1aUb3r\u6273\u624b"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following items:\r\nThe Ub3r-Spanner, Ub3r-Module: Ub3r-Improved Target Dummy, Ub3r-Module: Ub3r S3ntry Mk. X8.0, Ub3r-Module: Short-Fused Bomb Bots",
+    "es_MX": "Te ense\u00f1a a fabricar los siguientes objetos:\r\nLa Ub3r-Llave, Ub3r-M\u00f3dulo: Mu\u00f1eco de pr\u00e1ctica Ub3r-mejorado, Ub3r-M\u00f3dulo: Ub3r C3ntinela MK X8.0, Ub3r-M\u00f3dulo: Bombabots de mecha corta",
+    "pt_BR": "Aprenda a criar os seguintes itens:\r\nA Ub3r-chave, Ub3r-m\u00f3dulo: Boneco-alvo Ub3r-aprimorado, Ub3r-m\u00f3dulo: Ub3r-Sentin3l4 MK X8.0, Ub3r-m\u00f3dulo: Bomb\u00f4matos de Pavio Curto",
+    "de_DE": "Erlernt, die folgenden Gegenst\u00e4nde herzustellen:\r\n\u00dcb3r-Schrauber\r\n\u00dcb3r-Modul: \u00dcb3r-aufgemotzte Zielattrappe\r\n\u00dcb3r-Modul: \u00dcb3rw\u00e4cht3r Mk. X8.0\r\n\u00dcb3r-Modul: Bombenbots mit kurzer Lunte",
+    "en_GB": "Learn to craft the following items:\r\nThe Ub3r-Spanner, Ub3r-Module: Ub3r-Improved Target Dummy, Ub3r-Module: Ub3r S3ntry Mk. X8.0, Ub3r-Module: Short-Fused Bomb Bots",
+    "es_ES": "Aprende a fabricar los siguientes objetos:\r\nSup3rllave, Sup3rm\u00f3dulo: mu\u00f1eco diana sup3rmejorado, Sup3rm\u00f3dulo: sup3rc3n7inela Mk. X8.0, Sup3rm\u00f3dulo: invocar bombabots de mecha corta.",
+    "fr_FR": "Apprend \u00e0 fabriquer les objets suivants\u00a0:\r\nLa sup3r cl\u00e9, Sup3r module\u00a0: leurre sup3r puissant, Sup3r module\u00a0: c4b0t mod. X8.0 et Sup3r module\u00a0: robo-bombes \u00e0 m\u00e8che courte",
+    "it_IT": "Apprendi come creare i seguenti oggetti:\r\nChiave ad Arco Ultr4, Modulo Ultr4 - Manichino d'Allenamento Ultr4-Potenziato, Modulo Ultr4 - Ultr4-S3nt1n3114 vX8.0, Modulo Ultr4 - Robobombe a Miccia Corta",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b:\r\n\u0413\u0430\u0435\u0447\u043d\u044b\u0439 \u0443\u04313\u0440-\u043a\u043b\u044e\u0447, \u0423\u04313\u0440-\u043c\u043e\u0434\u0443\u043b\u044c: \u0443\u04313\u0440-\u0443\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043e\u0447\u043d\u044b\u0439 \u043c\u0430\u043d\u0435\u043a\u0435\u043d, \u0423\u04313\u0440-\u043c\u043e\u0434\u0443\u043b\u044c: \u0443\u04313\u0440-\u0447\u0430\u0441\u043e\u0432\u043e\u0439 8.0, \u0423\u04313\u0440-\u043c\u043e\u0434\u0443\u043b\u044c: \u0432\u0437\u0440\u044b\u0432-\u0431\u043e\u0442\u044b \u0441 \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u043c \u0437\u0430\u043f\u0430\u043b\u043e\u043c.",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\uace05\uae09 \uc2a4\ud328\ub108, \uace05\uae09 \ubaa8\ub4c8: \uace05\uae09 \uac1c\ub7c9\ud615 \ud45c\uc801 \ud5c8\uc218\uc544\ube44, \uace05\uae09 \ubaa8\ub4c8: \uace0\uae09 \uac10^1\uacac \ub9c8\ud06c X8.0, \uace05\uae09 \ubaa8\ub4c8: \uc2ec\uc9c0 \uc9e7\uc740 \ud3ed\ud0c4 \ub85c\ubd07",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u8d85U\u8cea\u6273\u624b\u3001\u8d85U\u8cea\u6a21\u7d44\uff1a\u8d85U\u8cea\u6539\u826f\u5f0f\u76ee\u6a19\u5047\u4eba\u3001\u8d85U\u8cea\u6a21\u7d44\uff1a\u8d85U\u8ceaG\u68b0\u5c60\u6bba\u8005MK X8.0\u3001\u8d85U\u8cea\u6a21\u7d44\uff1a\u77ed\u5f15\u4fe1\u7206\u7206\u6a5f\u5668\u4eba",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\nUb3r\u6273\u624b\u3001Ub3r\u6a21\u5757\uff1aUb3r\u5f3a\u5316\u76ee\u6807\u5047\u4eba\u3001Ub3r\u6a21\u5757\uff1aUb3r\u54e8\u536bMk.X8.0\u578b\u3001Ub3r\u6a21\u5757\uff1a\u706b\u7206\u7684\u70b8\u5f39\u673a\u5668\u4eba"
+  }
 }

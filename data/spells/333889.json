@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "333889"
+  "SpellID": "333889",
+  "name_blz": {
+    "en_US": "Fel Domination",
+    "es_MX": "Dominaci\u00f3n vil",
+    "pt_BR": "Domin\u00e2ncia Vil",
+    "de_DE": "Teufelsbeherrschung",
+    "en_GB": "Fel Domination",
+    "es_ES": "Dominaci\u00f3n vil",
+    "fr_FR": "Domination gangren\u00e9e",
+    "it_IT": "Vildominio",
+    "ru_RU": "\u0412\u043b\u0430\u0441\u0442\u044c \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc9c0\uc625 \uc9c0\ubc30",
+    "zh_TW": "\u60e1\u9b54\u652f\u914d",
+    "zh_CN": "\u90aa\u80fd\u7edf\u5fa1"
+  },
+  "description_blz": {
+    "en_US": "Your next Imp, Voidwalker, Incubus, Succubus, Felhunter, or Felguard Summon spell is free and has its casting time reduced by 90%.\r\n",
+    "es_MX": "Tu siguiente hechizo de Invocaci\u00f3n de Diablillo, Abisario, \u00cdncubo, S\u00facubo, Man\u00e1fago o Guardia vil es gratis y su tiempo de lanzamiento se reduce un 90%.\r\n",
+    "pt_BR": "Seu pr\u00f3ximo feiti\u00e7o para evocar Diabrete, Emiss\u00e1rio do Caos, \u00cdncubo, S\u00facubo, Ca\u00e7ador Vil ou Guarda Vil n\u00e3o ter\u00e1 custo e ter\u00e1 o tempo de lan\u00e7amento reduzido em 90%.\r\n",
+    "de_DE": "Eure n\u00e4chste Beschw\u00f6rung von Wichtel, Leerwandler, Inkubus, Sukkubus, Teufelsj\u00e4ger oder Teufelswache ist kostenlos und die Zauberzeit ist um 90% verringert.\r\n",
+    "en_GB": "Your next Imp, Voidwalker, Incubus, Succubus, Felhunter, or Felguard Summon spell is free and has its casting time reduced by 90%.\r\n",
+    "es_ES": "Tu siguiente hechizo de invocaci\u00f3n de diablillo, abisario, \u00edncubo, s\u00facubo, man\u00e1fago o guardia vil no tiene coste, y su tiempo de lanzamiento se reduce un 90%.\r\n",
+    "fr_FR": "Votre prochain diablotin, marcheur du Vide, incube, succube, chasseur corrompu ou gangregarde ne co\u00fbte rien et son temps d\u2019incantation est r\u00e9duit de 90\u00a0%.\r\n",
+    "it_IT": "La successiva evocazione di Imp, Ombra del Vuoto, Incubus, Succube, Vilsegugio o Vilguardia \u00e8 priva di costo e il suo tempo di lancio \u00e8 ridotto del 90%.\r\n",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \u043f\u0440\u0438\u0437\u044b\u0432\u0430 \u0431\u0435\u0441\u0430, \u0434\u0435\u043c\u043e\u043d\u0430 \u0411\u0435\u0437\u0434\u043d\u044b, \u0441\u0443\u043a\u043a\u0443\u0431\u0430, \u0438\u043d\u043a\u0443\u0431\u0430, \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u0421\u043a\u0432\u0435\u0440\u043d\u044b \u0438\u043b\u0438 \u0441\u0442\u0440\u0430\u0436\u0430 \u0421\u043a\u0432\u0435\u0440\u043d\u044b \u043d\u0430 90%. \u041f\u0440\u0438\u0437\u044b\u0432 \u0434\u0435\u043c\u043e\u043d\u0430 \u043d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0437\u0430\u0442\u0440\u0430\u0442 \u0440\u0435\u0441\u0443\u0440\u0441\u0430.\r\n",
+    "ko_KR": "\ub2e4\uc74c \uc784\ud504, \uacf5\ud5c8\ubc29\ub791\uc790, \uc778\ud050\ubc84\uc2a4, \uc11c\ud050\ubc84\uc2a4, \uc9c0\uc625\uc0ac\ub0e5\uac1c \ub610\ub294 \uc9c0\uc625\uc218\ud638\ubcd1 \uc18c\ud658\uc774 \uc790\uc6d0\uc744 \uc18c\ubaa8\ud558\uc9c0 \uc54a\uc73c\uba70 \uc8fc\ubb38\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 90%\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u4f60\u4e0b\u4e00\u500b\u5c0f\u9b3c\u3001\u865b\u7121\u884c\u8005\u3001\u5922\u9b54\u3001\u5a9a\u9b54\u3001\u60e1\u9b54\u7375\u72ac\u6216\u60e1\u9b54\u5b88\u885b\u7684\u53ec\u559a\u6cd5\u8853\u4e0d\u6703\u6d88\u8017\u6cd5\u529b\uff0c\u4e26\u4e14\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed90%\u3002\r\n",
+    "zh_CN": "\u4f60\u4e0b\u4e00\u6b21\u53ec\u5524\u5c0f\u9b3c\u3001\u865a\u7a7a\u884c\u8005\u3001\u591c\u9b54\u3001\u9b45\u9b54\u3001\u5730\u72f1\u730e\u72ac\u6216\u6076\u9b54\u536b\u58eb\u4e0d\u6d88\u8017\u80fd\u91cf\uff0c\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed90%\u3002\r\n"
+  }
 }

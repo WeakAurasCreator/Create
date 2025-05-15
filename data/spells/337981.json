@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "337981"
+  "SpellID": "337981",
+  "name_blz": {
+    "en_US": "Vital Accretion",
+    "es_MX": "Crecimiento vital",
+    "pt_BR": "Acresc\u00eancia Vital",
+    "de_DE": "Vitalzuwachs",
+    "en_GB": "Vital Accretion",
+    "es_ES": "Acrecentamiento vital",
+    "fr_FR": "Accr\u00e9tion vitale",
+    "it_IT": "Accrescimento Vitale",
+    "ru_RU": "\u041f\u0440\u0438\u0440\u043e\u0441\u0442 \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u044b\u0445 \u0441\u0438\u043b",
+    "ko_KR": "\ud65c\uae30 \ucda9\uc801",
+    "zh_TW": "\u751f\u547d\u51dd\u805a",
+    "zh_CN": "\u6d3b\u529b\u51b2\u79ef"
+  },
+  "description_blz": {
+    "en_US": "Your Earth Elemental increases your maximum health by 20%.",
+    "es_MX": "Tu elemental de tierra aumenta tu salud m\u00e1xima un 20%.",
+    "pt_BR": "Aumenta em 20% o m\u00e1ximo de pontos de vida do seu Elemental da Terra.",
+    "de_DE": "Euer Erdelementar erh\u00f6ht Eure maximale Gesundheit um 20%.",
+    "en_GB": "Your Earth Elemental increases your maximum health by 20%.",
+    "es_ES": "Tu elemental de Tierra aumenta un 20% tu salud m\u00e1xima.",
+    "fr_FR": "Votre \u00e9l\u00e9mentaire de terre augmente votre maximum de points de vie de 20%.",
+    "it_IT": "L'Elementale della Terra aumenta la salute massima del 20%.",
+    "ru_RU": "\u0412\u0430\u0448 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044c \u0437\u0435\u043c\u043b\u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0448 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0430 20%.",
+    "ko_KR": "\ub300\uc9c0\uc758 \uc815\ub839\uc774 \ucd5c\ub300 \uc0dd\uba85\ub825\uc744 20%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u571f\u5143\u7d20\u53ef\u4f7f\u4f60\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u4f60\u7684\u571f\u5143\u7d20\u4f7f\u4f60\u7684\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad820%\u3002"
+  }
 }

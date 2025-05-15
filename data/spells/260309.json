@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "260309"
+  "SpellID": "260309",
+  "name_blz": {
+    "en_US": "Master Marksman",
+    "es_MX": "Maestro Tirador",
+    "pt_BR": "Mestre Atirador Perito",
+    "de_DE": "Meister der Treffsicherheit",
+    "en_GB": "Master Marksman",
+    "es_ES": "Maestro tirador",
+    "fr_FR": "Ma\u00eetre tireur",
+    "it_IT": "Precisione da Cecchino",
+    "ru_RU": "\u041c\u0430\u0441\u0442\u0435\u0440 \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u044b",
+    "ko_KR": "\uc0ac\uaca9\uc758 \uba85\uc218",
+    "zh_TW": "\u795e\u5c04\u624b",
+    "zh_CN": "\u72d9\u51fb\u9ad8\u624b"
+  },
+  "description_blz": {
+    "en_US": "Your ranged ability critical strikes cause the target to bleed for an additional 15% of the damage dealt over 6 sec.",
+    "es_MX": "Tus golpes cr\u00edticos de habilidades a distancia hacen que el objetivo sangre y sufra un 15% m\u00e1s del da\u00f1o infligido durante 6 s.",
+    "pt_BR": "Os acertos cr\u00edticos da sua habilidade de longo alcance fazem com que o alvo sangre, recebendo mais 15% do dano causado ao alvo ao longo de 6 s.",
+    "de_DE": "Kritische Treffer Eurer Distanzkampff\u00e4higkeit lassen das Ziel bluten und f\u00fcgen ihm zus\u00e4tzlich im Verlauf von 6 Sek. 15% des verursachten Schadens zu.",
+    "en_GB": "Your ranged ability critical strikes cause the target to bleed for an additional 15% of the damage dealt over 6 sec.",
+    "es_ES": "Los golpes cr\u00edticos de tus facultades a distancia hacen que el objetivo sangre y reciba un 15% m\u00e1s del da\u00f1o infligido durante 6 s.",
+    "fr_FR": "Les coups critiques de vos techniques \u00e0 distance font saigner la cible, qui subit des d\u00e9g\u00e2ts suppl\u00e9mentaires correspondant \u00e0 15\u00a0% des d\u00e9g\u00e2ts inflig\u00e9s en 6 s.",
+    "it_IT": "I colpi critici inferti con abilit\u00e0 a distanza fanno sanguinare il bersaglio, infliggendo il 15% di danni aggiuntivi in 6 s.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0434\u0430\u0440\u044b \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u0434\u0430\u043b\u044c\u043d\u0435\u0433\u043e \u0431\u043e\u044f \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0442 \u0443 \u0446\u0435\u043b\u0438 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u0435, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0435 15% \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc6d0\uac70\ub9ac \ub2a5\ub825\uc774 \uce58\uba85\ud0c0\ub85c \uc801\uc911\ud558\uba74 \ub300\uc0c1\uc5d0\uac8c \ucd9c\ud608\uc744 \uc77c\uc73c\ucf1c 6\ucd08\uc5d0 \uac78\uccd0 \uc785\ud78c \ud53c\ud574\uc758 15%\ub9cc\ud07c \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u9060\u7a0b\u6280\u80fd\u9020\u6210\u81f4\u547d\u4e00\u64ca\u6642\uff0c\u53ef\u4f7f\u76ee\u6a19\u6d41\u8840\uff0c\u57286\u79d2\u5167\u9020\u6210\u984d\u5916\u50b7\u5bb3\u91cf15%\u7684\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u8fdc\u7a0b\u6280\u80fd\u7206\u51fb\u65f6\uff0c\u4f1a\u4f7f\u76ee\u6807\u6d41\u8840\uff0c\u57286\u79d2\u5185\u9020\u6210\u989d\u591615%\u4f24\u5bb3\u3002"
+  }
 }

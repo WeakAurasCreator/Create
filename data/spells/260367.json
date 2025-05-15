@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "260367"
+  "SpellID": "260367",
+  "name_blz": {
+    "en_US": "Streamline",
+    "es_MX": "Aerodinamizaci\u00f3n",
+    "pt_BR": "Otimiza\u00e7\u00e3o",
+    "de_DE": "Optimierung",
+    "en_GB": "Streamline",
+    "es_ES": "Aerodinamizar",
+    "fr_FR": "Efficacit\u00e9 accrue",
+    "it_IT": "Flusso Continuo",
+    "ru_RU": "\u041e\u0431\u0442\u0435\u043a\u0430\u0435\u043c\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ub2a5\ub960\uc801\uc778 \uc18d\uc0ac",
+    "zh_TW": "\u5c04\u64ca\u7121\u963b",
+    "zh_CN": "\u884c\u4e91\u6d41\u6c34"
+  },
+  "description_blz": {
+    "en_US": "Rapid Fire's damage is increased by 15%. Casting Rapid Fire grants Streamline.\r\n\r\n Streamline\r\nYour next Aimed Shot has its Focus cost and cast time reduced by 20%. Stacks up to 2 times.",
+    "es_MX": "El da\u00f1o de Fuego r\u00e1pido aumenta un 15%. Lanzar Fuego r\u00e1pido otorga Aerodinamizaci\u00f3n.\r\n\r\n Aerodinamizaci\u00f3n\r\nEl costo de enfoque y el tiempo de lanzamiento de tu pr\u00f3ximo Disparo de punter\u00eda se reduce un 20%. Se acumula hasta 2 veces.",
+    "pt_BR": "Dano de Tiro R\u00e1pido aumentado em 15%. Lan\u00e7ar Tiro R\u00e1pido concede Otimiza\u00e7\u00e3o.\r\n\r\n Otimiza\u00e7\u00e3o\r\nSeu pr\u00f3ximo Tiro Certo tem o custo de Concentra\u00e7\u00e3o e o tempo de lan\u00e7amento reduzidos em 20%. Acumula at\u00e9 2 vezes.",
+    "de_DE": "Der Schaden von 'Schnellfeuer' ist um 15% erh\u00f6ht. Das Wirken von 'Schnellfeuer' gew\u00e4hrt 'Optimierung'.\r\n\r\nOptimierung\r\nDie Fokuskosten und Zauberzeit Eures n\u00e4chsten Einsatzes von 'Gezielter Schuss' sind um 20% verringert. Bis zu 2-mal stapelbar.",
+    "en_GB": "Rapid Fire's damage is increased by 15%. Casting Rapid Fire grants Streamline.\r\n\r\n Streamline\r\nYour next Aimed Shot has its Focus cost and cast time reduced by 20%. Stacks up to 2 times.",
+    "es_ES": "El da\u00f1o de Fuego r\u00e1pido aumenta un 15%. Al lanzar Fuego r\u00e1pido, se obtiene Aerodinamizar.\r\n\r\n Aerodinamizar\r\nEl coste de enfoque y el tiempo de lanzamiento de tu siguiente Disparo de punter\u00eda se reducen un 20%. Se acumula hasta 2 veces.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Tir rapide sont augment\u00e9s de 15\u00a0% et son lancement conf\u00e8re Efficacit\u00e9 accrue.\r\n\r\n Efficacit\u00e9 accrue\r\nLe co\u00fbt en focalisation et temps d\u2019incantation de votre prochaine Vis\u00e9e sont r\u00e9duits de 20\u00a0%. Cumulable jusqu\u2019\u00e0 2\u00a0fois.",
+    "it_IT": "Aumenta i danni inflitti da Rapidit\u00e0 di Tiro del 15%. Lanciare Rapidit\u00e0 di Tiro fornisce Flusso Continuo.\r\n\r\n Flusso Continuo\r\nRiduce il costo in focus e il tempo di lancio del successivo Tiro Mirato del 20%. Si accumula fino a 2 volte.",
+    "ru_RU": "\"\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u0434\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041e\u0431\u0442\u0435\u043a\u0430\u0435\u043c\u043e\u0441\u0442\u044c\".\r\n\r\n \u041e\u0431\u0442\u0435\u043a\u0430\u0435\u043c\u043e\u0441\u0442\u044c\r\n\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0438 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f \u043d\u0430 20%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 2 \u0440\u0430\u0437.",
+    "ko_KR": "\uc18d\uc0ac\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc18d\uc0ac \uc2dc\uc804 \uc2dc \ub2a5\ub960\uc801\uc778 \uc18d\uc0ac\uac00 \ubd80\uc5ec\ub429\ub2c8\ub2e4.\r\n\r\n \ub2a5\ub960\uc801\uc778 \uc18d\uc0ac\r\n\ub2e4\uc74c \uc870\uc900 \uc0ac\uaca9\uc758 \uc9d1\uc911 \uc18c\ubaa8\ub7c9\uacfc \uc2dc\uc804 \uc2dc\uac04\uc774 20%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ucd5c\ub300 2\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6025\u901f\u5c04\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002\u65bd\u653e\u6025\u901f\u5c04\u64ca\u6703\u8ce6\u4e88\u5c04\u64ca\u7121\u963b\u3002\r\n\r\n\u5c04\u64ca\u7121\u963b\r\n\u4f60\u4e0b\u4e00\u500b\u7784\u6e96\u5c04\u64ca\u6d88\u8017\u7684\u96c6\u4e2d\u503c\u548c\u65bd\u6cd5\u6642\u9593\u964d\u4f4e20%\u3002\u6700\u591a\u53ef\u5806\u758a2\u5c64\u3002",
+    "zh_CN": "\u6025\u901f\u5c04\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002\u65bd\u653e\u6025\u901f\u5c04\u51fb\u83b7\u5f97\u884c\u4e91\u6d41\u6c34\u6548\u679c\u3002\r\n\r\n \u884c\u4e91\u6d41\u6c34\r\n\u4f60\u7684\u4e0b\u4e00\u6b21\u7784\u51c6\u5c04\u51fb\u7684\u96c6\u4e2d\u503c\u6d88\u8017\u548c\u65bd\u6cd5\u65f6\u95f4\u964d\u4f4e20%\u3002\u6700\u591a\u53e0\u52a02\u6b21\u3002"
+  }
 }

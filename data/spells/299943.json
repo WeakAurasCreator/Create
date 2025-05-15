@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "299943"
+  "SpellID": "299943",
+  "name_blz": {
+    "en_US": "Life-Binder's Invocation",
+    "es_MX": "Invocaci\u00f3n de la Protectora",
+    "pt_BR": "Invoca\u00e7\u00e3o da M\u00e3e da Vida",
+    "de_DE": "Invokation der Lebensbinderin",
+    "en_GB": "Life-Binder's Invocation",
+    "es_ES": "Invocaci\u00f3n de la Patrona de la Vida",
+    "fr_FR": "Invocation de la Lieuse-de-Vie",
+    "it_IT": "Invocazione della Protettrice della Vita",
+    "ru_RU": "\u0427\u0430\u0440\u044b \u0425\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u044b \u0436\u0438\u0437\u043d\u0438",
+    "ko_KR": "\uc0dd\uba85\uc758 \uc5b4\uba38\ub2c8\uc758 \uae30\uc6d0",
+    "zh_TW": "\u751f\u547d\u5b88\u7e1b\u8005\u7684\u7948\u9858",
+    "zh_CN": "\u751f\u547d\u7f1a\u8a93\u8005\u4e4b\u7948"
+  },
+  "description_blz": {
+    "en_US": "Implant 40 Seeds of Eonar divided over all allies within 30 yds.\r\n\r\n Seed of Eonar\r\nIf the target takes damage, the Seed bursts, healing them for 33.",
+    "es_MX": "Implanta 40 semillas de Eonar divididas entre todos los aliados en un radio de 30 m.\r\n\r\n Semilla de Eonar\r\nSi el objetivo recibe da\u00f1o, la semilla explota y lo sana 33 p.",
+    "pt_BR": "Propaga 40 Sementes de Eonar divididas entre todos os aliados em um raio de 30 m.\r\n\r\n Semente de Eonar\r\nSe o alvo receber dano, a Semente estourar\u00e1 para curar 33 pontos de vida dele.",
+    "de_DE": "Pflanzt 40 Samen von Eonar ein, die auf alle Verb\u00fcndeten innerhalb von 30 Metern verteilt werden.\r\n\r\n Samen von Eonar\r\nWenn das Ziel Schaden erleidet, bricht die Saat auf und heilt es um 33.",
+    "en_GB": "Implant 40 Seeds of Eonar divided over all allies within 30 yds.\r\n\r\n Seed of Eonar\r\nIf the target takes damage, the Seed bursts, healing them for 33.",
+    "es_ES": "Implanta 40 semillas de Eonar repartidas entre todos los aliados en un radio de 30 m.\r\n\r\n Semilla de Eonar\r\nSi el objetivo recibe da\u00f1o, la semilla explota, lo que le sana 33 p.",
+    "fr_FR": "Vous implantez 40\u00a0graines d\u2019Eonar r\u00e9parties entre tous les alli\u00e9s \u00e0 moins de 30\u00a0m\u00e8tres.\r\n\r\n Graine d\u2019Eonar\r\nSi la cible subit des d\u00e9g\u00e2ts, la graine \u00e9clate et lui rend 33 points de vie.",
+    "it_IT": "Pianta 40 Semi di Eonar suddivisi tra tutti gli alleati entro 30 m.\r\n\r\n Seme di Eonar\r\nSe il bersaglio subisce danni, il seme sboccia, curandolo di 33.",
+    "ru_RU": "\u0421\u0435\u0435\u0442 40 \u0441\u0435\u043c\u044f\u043d \u042d\u043e\u043d\u0430\u0440, \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u044b\u0445 \u043c\u0435\u0436\u0434\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c\u0438 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 30 \u043c.\r\n\r\n \u0421\u0435\u043c\u044f \u042d\u043e\u043d\u0430\u0440\r\n\u0415\u0441\u043b\u0438 \u0446\u0435\u043b\u044c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u0441\u0435\u043c\u044f \u0441\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u0440\u0430\u0441\u0442\u0430\u0435\u0442, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0435\u0439 33 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "30\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc544\uad70\uc5d0\uac8c \uc774\uc624\ub098\uc758 \uc528\uc557 40\uac1c\ub97c \ub098\ub204\uc5b4 \uc2ec\uc2b5\ub2c8\ub2e4.\r\n\r\n \uc774\uc624\ub098\uc758 \uc528\uc557\r\n\ub300\uc0c1\uc774 \ud53c\ud574\ub97c \uc785\uc73c\uba74 \uc528\uc557\uc774 \ud130\uc838 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc744 33\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u572830\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u76df\u53cb\u8eab\u4e0a\uff0c\u5e73\u5747\u7a2e\u4e0b40\u9846\u4f0a\u6b50\u5a1c\u7684\u7a2e\u5b50\u3002\r\n\r\n \u4f0a\u6b50\u5a1c\u7684\u7a2e\u5b50\r\n\u82e5\u76ee\u6a19\u53d7\u5230\u50b7\u5bb3\uff0c\u7a2e\u5b50\u6703\u7206\u767c\uff0c\u6cbb\u7642\u76ee\u6a1933\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u541130\u7801\u5185\u7684\u6240\u6709\u76df\u53cb\u4f53\u5185\u690d\u516540\u9897\u827e\u6b27\u5a1c\u5c14\u4e4b\u79cd\u3002\r\n\r\n\u827e\u6b27\u5a1c\u5c14\u4e4b\u79cd\r\n\u5982\u679c\u76ee\u6807\u53d7\u5230\u4e86\u4f24\u5bb3\uff0c\u79cd\u5b50\u4f1a\u7206\u53d1\uff0c\u56de\u590d33\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "324312"
+  "SpellID": "324312",
+  "name_blz": {
+    "en_US": "Clash",
+    "es_MX": "Colisi\u00f3n",
+    "pt_BR": "Colis\u00e3o",
+    "de_DE": "Aufprall",
+    "en_GB": "Clash",
+    "es_ES": "Colisi\u00f3n",
+    "fr_FR": "Fracas",
+    "it_IT": "Scontro",
+    "ru_RU": "\u0421\u0442\u043e\u043b\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ucda9\ub3cc",
+    "zh_TW": "\u5929\u5f15\u8e8d\u64ca",
+    "zh_CN": "\u5bf9\u51b2"
+  },
+  "description_blz": {
+    "en_US": "You and the target charge each other, meeting halfway then rooting all targets within 6 yards for 4 sec.",
+    "es_MX": "El objetivo y t\u00fa cargan uno contra el otro y chocan a medio camino, lo que enra\u00edza a todos los objetivos en un radio de 6 m durante 4 s.",
+    "pt_BR": "Voc\u00ea e o alvo investem um contra o outro, colidindo no meio do caminho e enraizando todos os alvos em um raio de 6 m por 4 s.",
+    "de_DE": "Ihr und das Ziel st\u00fcrmt aufeinander zu, prallt auf halber Strecke aufeinander und macht alle Ziele innerhalb von 6 Metern 4 Sek. lang bewegungsunf\u00e4hig.",
+    "en_GB": "You and the target charge each other, meeting halfway then rooting all targets within 6 yards for 4 sec.",
+    "es_ES": "El objetivo y t\u00fa carg\u00e1is el uno contra el otro y choc\u00e1is a medio camino, lo que enra\u00edza a todos los objetivos en un radio de 6 m durante 4 s.",
+    "fr_FR": "Votre cible et vous-m\u00eame vous pr\u00e9cipitez l\u2019un vers l\u2019autre, vous heurtant \u00e0 mi-chemin en immobilisant toutes les cibles \u00e0 moins de 6\u00a0m\u00e8tres pendant 4 s.",
+    "it_IT": "Una corsa che fa scontrare te e il bersaglio a met\u00e0 strada, immobilizzando tutti i bersagli entro 6 m per 4 s.",
+    "ru_RU": "\u0412\u044b \u0441 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u043c \u0431\u0440\u043e\u0441\u0430\u0435\u0442\u0435\u0441\u044c \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0443, \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044f\u0441\u044c \u043d\u0430 \u043f\u043e\u043b\u043f\u0443\u0442\u0438 \u0438 \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u044f \u0432\u0441\u0435 \u0446\u0435\u043b\u0438 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 6 \u043c \u043d\u0430 4 \u0441\u0435\u043a.",
+    "ko_KR": "\ud50c\ub808\uc774\uc5b4\uc640 \ub300\uc0c1\uc774 \uc911\uac04 \uc9c0\uc810\uc5d0\uc11c \ucda9\ub3cc\ud558\uc5ec 6\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \ub300\uc0c1\uc744 4\ucd08 \ub3d9\uc548 \uc774\ub3d9 \ubd88\uac00 \uc0c1\ud0dc\ub85c \ub9cc\ub4ed\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u548c\u76ee\u6a19\u885d\u5411\u5f7c\u6b64\uff0c\u5728\u534a\u9014\u78b0\u4e0a\uff0c\u4f7f6\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u76ee\u6a19\u5b9a\u8eab\uff0c\u6301\u7e8c4\u79d2\u3002",
+    "zh_CN": "\u4f60\u548c\u76ee\u6807\u5bf9\u7740\u5f7c\u6b64\u51b2\u950b\u5e76\u5728\u9014\u4e2d\u76f8\u9047\uff0c\u7136\u540e\u5b9a\u8eab6\u7801\u8303\u56f4\u5185\u7684\u6240\u6709\u76ee\u6807\uff0c\u6301\u7eed4\u79d2\u3002"
+  }
 }

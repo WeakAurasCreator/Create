@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "329786"
+  "SpellID": "329786",
+  "name_blz": {
+    "en_US": "Road of Trials",
+    "es_MX": "Camino de tribulaciones",
+    "pt_BR": "Estrada das Prova\u00e7\u00f5es",
+    "de_DE": "Stra\u00dfe der Pr\u00fcfungen",
+    "en_GB": "Road of Trials",
+    "es_ES": "Camino de pruebas",
+    "fr_FR": "Calvaire",
+    "it_IT": "Strada delle Sfide",
+    "ru_RU": "\u0414\u043e\u0440\u043e\u0433\u0430 \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0439",
+    "ko_KR": "\uc2dc\ub828\uc758 \uae38",
+    "zh_TW": "\u8a66\u7149\u4e4b\u8def",
+    "zh_CN": "\u8bd5\u70bc\u4e4b\u8def"
+  },
+  "description_blz": {
+    "en_US": "Defeating an enemy grants you 10% movement speed for 20 sec. This effect is increased if defeating a powerful enemy.",
+    "es_MX": "Al derrotar a un enemigo, aumenta un 10% tu velocidad de movimiento durante 20 s. Este efecto aumenta al derrotar a un enemigo poderoso.",
+    "pt_BR": "Depois de derrotar um inimigo, voc\u00ea ganha 10% de velocidade de movimento por 20 s. Este efeito aumenta se um inimigo poderoso for derrotado.",
+    "de_DE": "Nachdem Ihr einen Gegner besiegt habt, erhaltet Ihr 20 Sek. lang 10% Bewegungsgeschwindigkeit. Dieser Effekt verst\u00e4rkt sich, wenn Ihr einen m\u00e4chtigen Gegner besiegt.",
+    "en_GB": "Defeating an enemy grants you 10% movement speed for 20 sec. This effect is increased if defeating a powerful enemy.",
+    "es_ES": "Derrotar a un enemigo te otorga un 10% de velocidad de movimiento durante 20 s. Este efecto aumenta si derrotas a un enemigo poderoso.",
+    "fr_FR": "Vaincre un ennemi augmente votre vitesse de d\u00e9placement de 10% pendant 20\u00a0s. Cet effet est augment\u00e9 en cas de victoire contre un ennemi puissant.",
+    "it_IT": "Sconfiggere un nemico aumenta la velocit\u00e0 di movimento del 10% per 20 s. Il bonus aumenta se si sconfigge un nemico potente.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u043e\u0431\u0435\u0434\u044b \u043d\u0430\u0434 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u043c \u0432\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10% \u043d\u0430 20 \u0441\u0435\u043a. \u042d\u0444\u0444\u0435\u043a\u0442 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432\u044b \u043e\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0435 \u043f\u043e\u0431\u0435\u0434\u0443 \u043d\u0430\u0434 \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u043c.",
+    "ko_KR": "\uc801\uc744 \ucc98\uce58\ud558\uba74 20\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uac15\ub825\ud55c \uc801\uc744 \ucc98\uce58\ud558\uba74 \ud6a8\uacfc\uac00 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u64ca\u6557\u6575\u4eba\u6703\u4f7f\u4f60\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad810%\uff0c\u6301\u7e8c20\u79d2\u3002\u5982\u679c\u662f\u64ca\u6557\u5f37\u6575\uff0c\u6b64\u6548\u679c\u63d0\u9ad8\u3002",
+    "zh_CN": "\u5728\u51fb\u8d25\u4e00\u540d\u654c\u4eba\u540e\uff0c\u4f60\u83b7\u5f9710%\u79fb\u52a8\u901f\u5ea6\uff0c\u6301\u7eed20\u79d2\u3002\u5982\u679c\u51fb\u8d25\u4e00\u540d\u5f3a\u5927\u7684\u654c\u4eba\uff0c\u8be5\u6548\u679c\u4f1a\u589e\u5f3a\u3002"
+  }
 }

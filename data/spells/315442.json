@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "315442"
+  "SpellID": "315442",
+  "name_blz": {
+    "en_US": "Death's Due",
+    "es_MX": "Hora de la muerte",
+    "pt_BR": "Tributo da Morte",
+    "de_DE": "Recht des Todes",
+    "en_GB": "Death's Due",
+    "es_ES": "Cuota de la muerte",
+    "fr_FR": "D\u00fb de la mort",
+    "it_IT": "Dovere della Morte",
+    "ru_RU": "\u0414\u0430\u043d\u044c \u0441\u043c\u0435\u0440\u0442\u0438",
+    "ko_KR": "\uc8fd\uc74c\uc758 \ub300\uac00",
+    "zh_TW": "\u6b7b\u4ea1\u4ee3\u50f9",
+    "zh_CN": "\u6d88\u4ea1\u4e4b\u503a"
+  },
+  "description_blz": {
+    "en_US": "Learn Death's Due, replacing Death and Decay.\r\n",
+    "es_MX": "Aprendes Hora de la muerte, que reemplaza a Muerte y descomposici\u00f3n\r\n",
+    "pt_BR": "Aprende Tributo da Morte no lugar de Morte e Decomposi\u00e7\u00e3o.\r\n",
+    "de_DE": "Erlernt die F\u00e4higkeit 'Recht des Todes', die 'Tod und Verfall' ersetzt.\r\n",
+    "en_GB": "Learn Death's Due, replacing Death and Decay.\r\n",
+    "es_ES": "Aprendes Cuota de la muerte, que sustituye a Muerte y descomposici\u00f3n.\r\n",
+    "fr_FR": "Vous apprenez D\u00fb de la mort, qui vient remplacer Mort et d\u00e9composition.\r\n",
+    "it_IT": "Dovere della Morte sostituisce Morte e Distruzione.\r\n",
+    "ru_RU": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \"\u0414\u0430\u043d\u044c \u0441\u043c\u0435\u0440\u0442\u0438\", \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0449\u0443\u044e \"\u0421\u043c\u0435\u0440\u0442\u044c \u0438 \u0440\u0430\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u0435\".\r\n",
+    "ko_KR": "\uc8fd\uc74c\uacfc \ubd80\ud328\ub97c \ub300\uccb4\ud558\ub294 \uc8fd\uc74c\uc758 \ub300\uac00\ub97c \ubc30\uc6c1\ub2c8\ub2e4.",
+    "zh_TW": "\u5b78\u6703\u6b7b\u4ea1\u4ee3\u50f9\uff0c\u53d6\u4ee3\u6b7b\u4ea1\u51cb\u96f6\u3002\r\n",
+    "zh_CN": "\u5b66\u4f1a\u6d88\u4ea1\u4e4b\u503a\uff0c\u66ff\u4ee3\u67af\u840e\u51cb\u96f6\u3002\r\n"
+  }
 }

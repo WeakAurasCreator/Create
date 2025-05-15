@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "295246"
+  "SpellID": "295246",
+  "name_blz": {
+    "en_US": "Focused Energy",
+    "es_MX": "Energ\u00eda enfocada",
+    "pt_BR": "Energia Concentrada",
+    "de_DE": "Fokussierte Energie",
+    "en_GB": "Focused Energy",
+    "es_ES": "Energ\u00eda enfocada",
+    "fr_FR": "\u00c9nergie focalis\u00e9e",
+    "it_IT": "Energia Concentrata",
+    "ru_RU": "\u0421\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u043e\u0447\u0435\u043d\u043d\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0438\u044f",
+    "ko_KR": "\ub9c8\ub825 \uc9d1\uc911",
+    "zh_TW": "\u80fd\u91cf\u532f\u805a",
+    "zh_CN": "\u4e13\u6ce8\u80fd\u91cf"
+  },
+  "description_blz": {
+    "en_US": "Your damaging spells and abilities grant you 1 Haste for 4 sec, stacking up to 10 times. This Haste is lost if you stop using spells or abilities against the initial target.",
+    "es_MX": "Tus hechizos y habilidades que infligen da\u00f1o te otorgan 1 p. de celeridad durante 4 s. Este efecto se acumula hasta 10 veces. La celeridad se pierde si dejas de usar hechizos o habilidades contra el objetivo inicial.",
+    "pt_BR": "Suas habilidades e seus feiti\u00e7os de dano concedem 1 de Acelera\u00e7\u00e3o por 4 s. Acumula at\u00e9 10 vezes. Essa Acelera\u00e7\u00e3o \u00e9 perdida se voc\u00ea parar de usar habilidades ou feiti\u00e7os contra o alvo inicial.",
+    "de_DE": "Eure Schaden verursachenden Zauber und F\u00e4higkeiten gew\u00e4hren Euch 4 Sek. lang 1 Tempo. Dieser Effekt ist bis zu 10-mal stapelbar. Dieses Tempo geht verloren, sobald Ihr aufh\u00f6rt, Zauber oder F\u00e4higkeiten gegen das urspr\u00fcngliche Ziel einzusetzen.",
+    "en_GB": "Your damaging spells and abilities grant you 1 Haste for 4 sec, stacking up to 10 times. This Haste is lost if you stop using spells or abilities against the initial target.",
+    "es_ES": "Tus hechizos y facultades da\u00f1inos te otorgan 1 p. de celeridad durante 4 s, lo que se acumula hasta 10 veces. Esta celeridad se pierde si dejas de usar hechizos y facultades contra el objetivo inicial.",
+    "fr_FR": "Vos sorts et techniques de d\u00e9g\u00e2ts augmentent votre H\u00e2te de 1 pendant 4 s. Cet effet est cumulable jusqu\u2019\u00e0 10\u00a0fois. Cette H\u00e2te est perdue si vous arr\u00eatez d\u2019utiliser des sorts et techniques contre la cible initiale.",
+    "it_IT": "Gli incantesimi e le abilit\u00e0 d'attacco aumentano l'indice di celerit\u00e0 di 1 per 4 s. Si accumula fino a 10 volte. La celerit\u00e0 accumulata si dissolve se si cambia bersaglio.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0443\u0440\u043e\u043d \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 1 \u043d\u0430 4 \u0441\u0435\u043a. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437. \u0411\u043e\u043d\u0443\u0441 \u0442\u0435\u0440\u044f\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432\u044b \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0435\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0438\u043b\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u043e\u0442\u0438\u0432 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\uacf5\uaca9 \uc8fc\ubb38 \ubc0f \ub2a5\ub825 \uc0ac\uc6a9 \uc2dc 4\ucd08 \ub3d9\uc548 \uac00\uc18d\uc774 1\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ucd5c\ub300 10\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. \ucd5c\ucd08 \ub300\uc0c1\uc5d0\uac8c \uc8fc\ubb38 \ub610\ub294 \ub2a5\ub825 \uc0ac\uc6a9\uc744 \uc911\ub2e8\ud558\uba74 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u50b7\u5bb3\u6cd5\u8853\u548c\u6280\u80fd\u6703\u4f7f\u4f60\u7684\u52a0\u901f\u63d0\u9ad81\u9ede\uff0c\u6301\u7e8c4\u79d2\uff0c\u6700\u591a\u5806\u758a10\u6b21\u3002\u505c\u6b62\u5c0d\u521d\u59cb\u76ee\u6a19\u65bd\u653e\u6cd5\u8853\u6216\u6280\u80fd\u6642\u6703\u5931\u53bb\u6b64\u52a0\u901f\u6548\u679c\u3002",
+    "zh_CN": "\u4f60\u7684\u4f24\u5bb3\u6027\u6cd5\u672f\u548c\u6280\u80fd\u4f7f\u4f60\u7684\u6025\u901f\u63d0\u9ad81\uff0c\u6301\u7eed4\u79d2\uff0c\u6700\u591a\u53e0\u52a010\u6b21\u3002\u5982\u679c\u4f60\u4e0d\u518d\u5bf9\u521d\u59cb\u76ee\u6807\u4f7f\u7528\u6cd5\u672f\u548c\u6280\u80fd\uff0c\u63d0\u9ad8\u7684\u6025\u901f\u5c06\u6d88\u5931\u3002"
+  }
 }

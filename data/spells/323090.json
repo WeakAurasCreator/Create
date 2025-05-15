@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "323090"
+  "SpellID": "323090",
+  "name_blz": {
+    "en_US": "Plaguey's Preemptive Strike",
+    "es_MX": "Ataque preventivo de Plagoso",
+    "pt_BR": "Ataque Preventivo do Pestento",
+    "de_DE": "Seuchis Pr\u00e4ventivschlag",
+    "en_GB": "Plaguey's Preemptive Strike",
+    "es_ES": "Ataque preventivo de Apest\u00edn",
+    "fr_FR": "Frappe pr\u00e9ventive de Pesti",
+    "it_IT": "Attacco Preventivo di Piaghetto",
+    "ru_RU": "\u041f\u0440\u0435\u0432\u0435\u043d\u0442\u0438\u0432\u043d\u044b\u0439 \u0443\u0434\u0430\u0440 \u0427\u0443\u043c\u043d\u0438\u043a\u0430",
+    "ko_KR": "\uc5ed\ubcd1\uc774\uc758 \uc120\uc81c \uacf5\uaca9",
+    "zh_TW": "\u5c0f\u761f\u6ce5\u7684\u5148\u5236\u6253\u64ca",
+    "zh_CN": "\u70e6\u70e6\u7684\u5148\u53d1\u5236\u4eba"
+  },
+  "description_blz": {
+    "en_US": "Your first attack or spell cast on an enemy increases your damage done to them by 12% for 15 sec. Limit 1.",
+    "es_MX": "El primer ataque o hechizo que lanzas contra un enemigo aumenta el da\u00f1o que le infliges un 12% durante 15 s. L\u00edmite de 1.",
+    "pt_BR": "Seu primeiro ataque ou feiti\u00e7o contra um inimigo aumenta em 12% o dano causado por voc\u00ea a ele por 15 s. Limite de 1.",
+    "de_DE": "Euer erster Angriff oder Zauber gegen einen Gegner erh\u00f6ht Euren Schaden gegen diesen Gegner 15 Sek. lang um 12%. Maximal 1 Ziel.",
+    "en_GB": "Your first attack or spell cast on an enemy increases your damage done to them by 12% for 15 sec. Limit 1.",
+    "es_ES": "Tu primer ataque o hechizo lanzado a un enemigo aumenta un 12% el da\u00f1o que le infliges durante 15 s. L\u00edmite de 1.",
+    "fr_FR": "Votre premier sort ou attaque visant un ennemi augmente les d\u00e9g\u00e2ts que vous lui infligez de 12% pendant 15 s. Limit\u00e9 \u00e0 1\u00a0cible.",
+    "it_IT": "Il tuo primo attacco o incantesimo lanciato su un nemico aumenta i danni da te inflitti a quel bersaglio del 12% per 15 s. L'effetto pu\u00f2 essere attivo su un solo bersaglio alla volta.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0430\u0442\u0430\u043a\u043e\u0439 \u0438\u043b\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435\u043c, \u0432\u0430\u0448 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u044d\u0442\u043e\u043c\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 12% \u043d\u0430 15 \u0441\u0435\u043a. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u2013 1 \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\uc801\uc5d0\uac8c \ucc98\uc74c\uc73c\ub85c \uacf5\uaca9\uc744 \uac00\ud558\uac70\ub098 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uba74 15\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc5d0 \ub300\ud55c \uacf5\uaca9\ub825\uc774 12%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub300\uc0c1\uc740 \ud558\ub098\ub85c \uc81c\ud55c\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5c0d\u4e00\u500b\u6575\u4eba\u7684\u7b2c\u4e00\u6b21\u653b\u64ca\u6216\u65bd\u6cd5\uff0c\u6703\u4f7f\u4f60\u5c0d\u5176\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad812%\uff0c\u6301\u7e8c15\u79d2\u3002\u53ea\u80fd\u4f5c\u7528\u65bc1\u500b\u76ee\u6a19\u4e0a\u3002",
+    "zh_CN": "\u4f60\u5bf9\u654c\u4eba\u9996\u6b21\u653b\u51fb\u6216\u65bd\u653e\u6cd5\u672f\u4f1a\u4f7f\u4f60\u5bf9\u5176\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad812%\uff0c\u6301\u7eed15\u79d2\u3002\u53ea\u80fd\u5bf9\u4e00\u4e2a\u76ee\u6807\u751f\u6548\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "300507"
+  "SpellID": "300507",
+  "name_blz": {
+    "en_US": "Brainstorm New Inventions",
+    "es_MX": "Idear nuevos inventos",
+    "pt_BR": "Desenvolvendo novas inven\u00e7\u00f5es",
+    "de_DE": "Neue Erfindungen besprechen",
+    "en_GB": "Brainstorm New Inventions",
+    "es_ES": "Idear nuevos inventos",
+    "fr_FR": "R\u00e9fl\u00e9chir \u00e0 de nouvelles inventions",
+    "it_IT": "Nuove Invenzioni",
+    "ru_RU": "\u041e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u043d\u043e\u0432\u044b\u0445 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0439",
+    "ko_KR": "\uc0c8\ub85c\uc6b4 \ubc1c\uba85\ud488 \ub09c\uc0c1 \ud1a0\ub860",
+    "zh_TW": "\u767c\u60f3\u5168\u65b0\u7684\u767c\u660e",
+    "zh_CN": "\u65b0\u53d1\u660e\u5934\u8111\u98ce\u66b4"
+  },
+  "description_blz": {
+    "en_US": "Brainstorm new inventions with Pascal, allowing you to see all possible blueprints in Pascal-K1N6's database.",
+    "es_MX": "Idea nuevos inventos con Pascal para ver todos los planos posibles de la base de datos de Pascal-R3Y.",
+    "pt_BR": "Desenvolve inven\u00e7\u00f5es novas com Pascal, permitindo que voc\u00ea veja todos os diagramas poss\u00edveis no banco de dados do Pascal-R31.",
+    "de_DE": "Ihr redet mit Pascal \u00fcber neue Erfindungen, was es Euch erlaubt, alle m\u00f6glichen Pl\u00e4ne in der Datenbank von Pascal-K1N6 einzusehen.",
+    "en_GB": "Brainstorm new inventions with Pascal, allowing you to see all possible blueprints in Pascal-K1N6's database.",
+    "es_ES": "Idea nuevos inventos con Pascal. Esto te permite ver todos los planos posibles en la base de datos de Pascal-R3Y.",
+    "fr_FR": "Vous concevez de nouvelles inventions avec Pascal, ce qui vous permet de consulter tous les plans disponibles dans la base de donn\u00e9es de Pascal-R01.",
+    "it_IT": "Mette a punto nuove invenzioni con Pascal, permettendoti di vedere tutti i possibili progetti del database di Pascal-R3.",
+    "ru_RU": "\u041e\u0431\u0441\u0443\u0434\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u044f \u0441 \u041f\u0430\u0441\u043a\u0430\u043b\u0435\u043c, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0438\u0434\u0435\u0442\u044c \u0432\u0441\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0447\u0435\u0440\u0442\u0435\u0436\u0438 \u0432 \u0431\u0430\u0437\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u041f\u0430\u0441\u043a\u0430\u043b\u044f-\u041a0\u04200\u041b6\u044f.",
+    "ko_KR": "\uc0c8\ub85c\uc6b4 \ubc1c\uba85\ud488\uc744 \uc8fc\uc81c\ub85c \ud30c\uc2a4\uce7c\uacfc \ub09c\uc0c1 \ud1a0\ub860\uc744 \ubc8c\uc785\ub2c8\ub2e4. \ud30c\uc2a4\uce7c-\u3137H\uc6245\uc758 \ub370\uc774\ud130\ubca0\uc774\uc2a4\uc5d0 \uc5c5\ub85c\ub4dc \uac00\ub2a5\ud55c \ubaa8\ub4e0 \ub3c4\uba74\uc744 \ubbf8\ub9ac\ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u548c\u5e15\u65af\u5361\u767c\u60f3\u65b0\u767c\u660e\uff0c\u8b93\u4f60\u770b\u5230\u5e15\u65af\u5361-K1N6\u8cc7\u6599\u5eab\u88e1\u7684\u6240\u6709\u85cd\u5716\u3002",
+    "zh_CN": "\u4e0e\u5e15\u65af\u5361\u4e00\u8d77\u8fdb\u884c\u65b0\u53d1\u660e\u5934\u8111\u98ce\u66b4\uff0c\u4f7f\u4f60\u80fd\u591f\u5728\u5e15\u65af\u5361K1N6\u578b\u7684\u6570\u636e\u5e93\u5185\u770b\u5230\u6240\u6709\u53ef\u80fd\u5b58\u5728\u7684\u56fe\u7eb8\u3002"
+  }
 }

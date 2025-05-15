@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "274586"
+  "SpellID": "274586",
+  "name_blz": {
+    "en_US": "Invigorating Mists",
+    "es_MX": "Nieblas vigorizantes",
+    "pt_BR": "Brumas Revigorantes",
+    "de_DE": "St\u00e4rkende Nebel",
+    "en_GB": "Invigorating Mists",
+    "es_ES": "Nieblas vigorizadoras",
+    "fr_FR": "Brumes revigorantes",
+    "it_IT": "Nebbie Rinvigorenti",
+    "ru_RU": "\u041e\u0431\u043e\u0434\u0440\u044f\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
+    "ko_KR": "\ud65c\uae30\uc758 \uc548\uac1c",
+    "zh_TW": "\u632f\u596e\u4e4b\u9727",
+    "zh_CN": "\u632f\u594b\u4e4b\u96fe"
+  },
+  "description_blz": {
+    "en_US": "Vivify heals all allies with your Renewing Mist active for 6,839, reduced beyond 5 allies.\r\n",
+    "es_MX": "Vivificar sana 6,806 p. a todos los aliados con tu Niebla renovadora activa. El efecto se reduce si aplica a m\u00e1s de 5 aliados.\r\n",
+    "pt_BR": "Vivificar cura todos os aliados com seu feiti\u00e7o Brumas da Renova\u00e7\u00e3o ativo por 6.944, reduzido acima de 5 aliados.\r\n",
+    "de_DE": "'Beleben' heilt alle Verb\u00fcndeten, auf denen Euer 'Erneuernder Nebel' aktiv ist, um 7.036 Gesundheit. Heilung bei Zielen \u00fcber 5 Ziele hinaus verringert.\r\n",
+    "en_GB": "Vivify heals all allies with your Renewing Mist active for 6,772, reduced beyond 5 allies.\r\n",
+    "es_ES": "Vivificar sana 6879 p. a todos los aliados con tu Niebla renovadora activa. Sanaci\u00f3n reducida a partir de 5 aliados.\r\n",
+    "fr_FR": "Lorsque votre Brume de r\u00e9novation est active, Vivifier rend 6890\u00a0points de vie aux personnages alli\u00e9s. Soins r\u00e9duits au-del\u00e0 de 5\u00a0personnages alli\u00e9s.\r\n",
+    "it_IT": "Vivificazione cura tutti gli alleati con un tuo effetto di Nebbia Curativa attivo di 7.034. Effetto ridotto oltre 5 alleati.\r\n",
+    "ru_RU": "\"\u041e\u0436\u0438\u0432\u0438\u0442\u044c\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0442\u0443\u043c\u0430\u043d\u0430\", 6998 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 5-\u0439 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n",
+    "ko_KR": "\uc0dd\uae30 \ucda9\uc804\uc774 \uc790\uc2e0\uc758 \uc18c\uc0dd\uc758 \uc548\uac1c\uac00 \ud65c\uc131\ud654\ub41c \ubaa8\ub4e0 \uc544\uad70\uc758 \uc0dd\uba85\ub825\uc744 6,749\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. 5\uba85\uc744 \ucd08\uacfc\ud558\ub294 \uc544\uad70\uc5d0\uac8c\ub294 \uce58\uc720\ub7c9\uc774 \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u751f\u6c23\u52c3\u52c3\u6703\u70ba\u6240\u6709\u53d7\u5230\u56de\u751f\u8ff7\u9727\u5f71\u97ff\u7684\u76df\u53cb\u6cbb\u76426,940\u9ede\u751f\u547d\u529b\u3002\u8d85\u904e5\u540d\u76df\u53cb\u6642\uff0c\u6548\u679c\u964d\u4f4e\u3002\r\n",
+    "zh_CN": "\u6d3b\u8840\u672f\u4e3a\u6240\u6709\u5e26\u6709\u4f60\u7684\u590d\u82cf\u4e4b\u96fe\u6548\u679c\u7684\u76df\u53cb\u6062\u590d6,773\u70b9\u751f\u547d\u503c\uff0c\u76df\u53cb\u8d85\u8fc75\u4e2a\u65f6\u6cbb\u7597\u6548\u679c\u964d\u4f4e\u3002\r\n"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "312411"
+  "SpellID": "312411",
+  "name_blz": {
+    "en_US": "Bag of Tricks",
+    "es_MX": "Bolsa de trucos",
+    "pt_BR": "Bolsa de Truques",
+    "de_DE": "Trickkiste",
+    "en_GB": "Bag of Tricks",
+    "es_ES": "Bolsa de trucos",
+    "fr_FR": "Sac \u00e0 malice",
+    "it_IT": "Borsa di Trucchi",
+    "ru_RU": "\u041d\u0430\u0431\u043e\u0440 \u0445\u0438\u0442\u0440\u043e\u0441\u0442\u0435\u0439",
+    "ko_KR": "\ube44\uc7a5\uc758 \ubb18\uc218",
+    "zh_TW": "\u767e\u5bf6\u888b",
+    "zh_CN": "\u888b\u91cc\u4e7e\u5764"
+  },
+  "description_blz": {
+    "en_US": "Pull your chosen trick from the bag and use it on target enemy or ally. Enemies take 13,945 damage and are snared by 80% for 4 sec, while allies are healed for 20,918 and move 20% faster for 4 sec.",
+    "es_MX": "Saca el truco elegido de la bolsa para usarlo sobre el enemigo o aliado objetivo. Inflige 13,945 p. de da\u00f1o a los enemigos y los frena un 80% durante 4 s, pero a los aliados los sana 20,918 p. y aumenta su velocidad de movimiento un 20% durante 4 s.",
+    "pt_BR": "Tira um truque da bolsa e o usa no inimigo ou aliado selecionado. Os inimigos recebem 13.945 de dano e ficam 80% mais lentos por 4 s, e os aliados recuperam 20.918 pontos de vida e se movem 20% mais r\u00e1pido por 4 s.",
+    "de_DE": "Holt den von Euch gew\u00e4hlten Trick aus der Trickkiste und setzt ihn beim anvisierten Gegner oder Verb\u00fcndeten ein. Gegner erleiden 13.945 Schaden und werden 4 Sek. lang um 80% verlangsamt, Verb\u00fcndete werden um 20.918 Gesundheit geheilt und bewegen sich 4 Sek. lang 20% schneller.",
+    "en_GB": "Pull your chosen trick from the bag and use it on target enemy or ally. Enemies take 13,945 damage and are snared by 80% for 4 sec, while allies are healed for 20,918 and move 20% faster for 4 sec.",
+    "es_ES": "Sacas un truco de la bolsa y lo usas con un enemigo o aliado seleccionado. Los enemigos reciben 13945 p. de da\u00f1o y se frenan un 80% durante 4 s, mientras que los aliados se sanan 20918 p. y se mueven un 20% m\u00e1s r\u00e1pido durante 4 s.",
+    "fr_FR": "Vous tirez du sac le tour de votre choix pour l\u2019utiliser sur un personnage adverse ou alli\u00e9. Les personnages adverses subissent 13945\u00a0points de d\u00e9g\u00e2ts et sont ralentis de 80\u00a0% pendant 4 s. Les personnages alli\u00e9s sont soign\u00e9s de 20918\u00a0points de vie et se d\u00e9placent 20\u00a0% plus vite pendant 4 s.",
+    "it_IT": "Estrae il trucco prescelto dalla borsa e lo usa sul bersaglio nemico o alleato. I nemici subiscono 13.945 danni e la loro velocit\u00e0 di movimento si riduce del 80% per 4 s. Gli alleati vengono curati di 20.918 e la loro velocit\u00e0 di movimento aumenta del 20% per 4 s.",
+    "ru_RU": "\u0414\u043e\u0441\u0442\u0430\u0435\u0442 \u0438\u0437 \u043d\u0430\u0431\u043e\u0440\u0430 \u0445\u0438\u0442\u0440\u043e\u0441\u0442\u0435\u0439 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u0443\u044e \u0445\u0438\u0442\u0440\u043e\u0441\u0442\u044c \u0438 \u0431\u0440\u043e\u0441\u0430\u0435\u0442 \u0432 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430 \u0438\u043b\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430. \u041f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 13945 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u0438 \u0437\u0430\u043c\u0435\u0434\u043b\u044f\u044e\u0442\u0441\u044f \u043d\u0430 80% \u043d\u0430 4 \u0441\u0435\u043a., \u0430 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 20918 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0430 \u0438\u0445 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20% \u043d\u0430 4 \u0441\u0435\u043a.",
+    "ko_KR": "\uac00\ubc29\uc5d0\uc11c \uc120\ud0dd\ud55c \ubb18\uc218\ub97c \uaebc\ub0b4 \ub300\uc0c1 \uc801 \ub610\ub294 \uc544\uad70\uc5d0\uac8c \uc0ac\uc6a9\ud569\ub2c8\ub2e4. \uc801\uc5d0\uac8c\ub294 13,945\uc758 \ud53c\ud574\ub97c \uc785\ud788\uace0 4\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\ub97c 80%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uba70, \uc544\uad70\uc740 \uc0dd\uba85\ub825\uc74420,918\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0a4\uace0 4\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\ub97c 20%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5f9e\u767e\u5bf6\u888b\u88e1\u62ff\u51fa\u4f60\u9078\u64c7\u7684\u7279\u6b8a\u8a08\u7b56\uff0c\u7528\u5728\u4e00\u540d\u6575\u65b9\u76ee\u6a19\u6216\u662f\u76df\u53cb\u8eab\u4e0a\u3002\u6575\u4eba\u6703\u53d7\u523013,945\u9ede\u50b7\u5bb3\uff0c\u4e26\u7de9\u901f80%\uff0c\u6301\u7e8c4\u79d2\u3002\u76df\u53cb\u5247\u6062\u5fa920,918\u9ede\u751f\u547d\u529b\uff0c\u4e14\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad820%\uff0c\u6301\u7e8c4\u79d2\u3002",
+    "zh_CN": "\u5c06\u9009\u4e2d\u7684\u9053\u5177\u4ece\u5305\u4e2d\u62ff\u51fa\u5e76\u5bf9\u76ee\u6807\u654c\u4eba\u6216\u76df\u53cb\u4f7f\u7528\u3002\u654c\u4eba\u4f1a\u53d7\u523013,945\u70b9\u4f24\u5bb3\u5e76\u51cf\u901f80%\uff0c\u6301\u7eed4\u79d2\u3002\u800c\u76df\u53cb\u4f1a\u6062\u590d20,918\u70b9\u751f\u547d\u503c\uff0c\u5e76\u4e14\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad820%\uff0c\u6301\u7eed4\u79d2\u3002"
+  }
 }

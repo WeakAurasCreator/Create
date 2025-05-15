@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "241857"
+  "SpellID": "241857",
+  "name_blz": {
+    "en_US": "Archdruid's Lunarwing Form",
+    "es_MX": "Forma alalunar del Archidruida",
+    "pt_BR": "Forma de Asaluna do Arquidruida",
+    "de_DE": "Mondschwingengestalt des Erzdruiden",
+    "en_GB": "Archdruid's Lunarwing Form",
+    "es_ES": "Forma de alalunar de los Archidruidas",
+    "fr_FR": "Forme de s\u00e9l\u00e9naile d'archidruide",
+    "it_IT": "Forma di Gufo Alalunare dell'Arcidruido",
+    "ru_RU": "\u041e\u0431\u043b\u0438\u043a \u043b\u0443\u043d\u043e\u043a\u0440\u044b\u043b\u043e\u0439 \u0441\u043e\u0432\u044b \u0432\u0435\u0440\u0445\u043e\u0432\u043d\u043e\u0433\u043e \u0434\u0440\u0443\u0438\u0434\u0430",
+    "ko_KR": "\ub300\ub4dc\ub8e8\uc774\ub4dc\uc758 \ub2ec\ube5b\ub0a0\uac1c \ud615\uc0c1",
+    "zh_TW": "\u5927\u5fb7\u9b6f\u4f0a\u6708\u7ffc\u5f62\u614b",
+    "zh_CN": "\u5927\u5fb7\u9c81\u4f0a\u7684\u6708\u7ffc\u5f62\u6001"
+  },
+  "description_blz": {
+    "en_US": "Shapeshift into Lunarwing Form, increasing movement speed by 420% and allowing you to fly.  ",
+    "es_MX": "Adopta la forma alalunar para aumentar la velocidad de movimiento un 420% y darte la posibilidad de volar.  ",
+    "pt_BR": "Assume a forma de Asaluna, aumentando em 420% a velocidade de movimento e permitindo que voc\u00ea voe.  ",
+    "de_DE": "Verwandelt Euch in eine Mondschwingengestalt, erh\u00f6ht die Bewegungsgeschwindigkeit um 420% und erm\u00f6glicht es Euch, zu fliegen.",
+    "en_GB": "Shapeshift into Lunarwing Form, increasing movement speed by 420% and allowing you to fly.  ",
+    "es_ES": "Cambias a forma de alalunar, lo que aumenta un 420% la velocidad de movimiento y te permite volar.",
+    "fr_FR": "Vous adoptez votre forme de s\u00e9l\u00e9naile, ce qui augmente votre vitesse de d\u00e9placement de 420% et vous permet de voler.",
+    "it_IT": "Muta in Forma di Gufo Alalunare, aumentando la velocit\u00e0 di movimento del 420% e permettendoti di volare.",
+    "ru_RU": "\u0412\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u043e\u0431\u043b\u0438\u043a \u043b\u0443\u043d\u043e\u043a\u0440\u044b\u043b\u043e\u0439 \u0441\u043e\u0432\u044b. \u0412\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 420%, \u0438 \u0432\u044b \u043e\u0431\u0440\u0435\u0442\u0430\u0435\u0442\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u043b\u0435\u0442\u0430\u0442\u044c.",
+    "ko_KR": "\ub2ec\ube5b\ub0a0\uac1c \ud615\uc0c1\uc73c\ub85c \ubcc0\uc2e0\ud569\ub2c8\ub2e4. \uc774\ub3d9 \uc18d\ub3c4\uac00 420%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \ud558\ub298\uc744 \ub0a0 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8b8a\u8eab\u70ba\u6708\u7ffc\u5f62\u614b\uff0c\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad8420%\u4e26\u4e14\u53ef\u4ee5\u98db\u884c\u3002 ",
+    "zh_CN": "\u53d8\u5f62\u6210\u4e3a\u6708\u7ffc\u5f62\u6001\uff0c\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad8420%\uff0c\u5e76\u4f7f\u4f60\u53ef\u4ee5\u98de\u884c\u3002"
+  }
 }

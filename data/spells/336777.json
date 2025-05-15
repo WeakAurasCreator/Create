@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "336777"
+  "SpellID": "336777",
+  "name_blz": {
+    "en_US": "Grounding Surge",
+    "es_MX": "Ra\u00edces inmovilizadoras",
+    "pt_BR": "Surto Aterrador",
+    "de_DE": "Erdende Woge",
+    "en_GB": "Grounding Surge",
+    "es_ES": "Oleada derribadora",
+    "fr_FR": "Afflux isolant",
+    "it_IT": "Impeto Fondamentale",
+    "ru_RU": "\u0417\u0430\u0437\u0435\u043c\u043b\u044f\u044e\u0449\u0438\u0439 \u0432\u0441\u043f\u043b\u0435\u0441\u043a",
+    "ko_KR": "\uc811\uc9c0\uc758 \uc1c4\ub3c4",
+    "zh_TW": "\u5927\u5730\u7a81\u6ce2",
+    "zh_CN": "\u65ad\u6cd5\u4e4b\u6d8c"
+  },
+  "description_blz": {
+    "en_US": "Successfully interrupting an enemy with Counterspell reduces its cooldown by 1.0 sec.",
+    "es_MX": "Interrumpir a un enemigo con Contrahechizo reduce su tiempo de reutilizaci\u00f3n 1.0 s.",
+    "pt_BR": "Interromper um inimigo com Contrafeiti\u00e7o reduz a recarga deste feiti\u00e7o em 1,0 s.",
+    "de_DE": "Wenn 'Gegenzauber' einen Gegner erfolgreich unterbricht, wird die Abklingzeit um 1,0 Sek. verringert.",
+    "en_GB": "Successfully interrupting an enemy with Counterspell reduces its cooldown by 1.0 sec.",
+    "es_ES": "Interrumpir con \u00e9xito a un enemigo con Contrahechizo reduce 1,0 s su tiempo de reutilizaci\u00f3n.",
+    "fr_FR": "Interrompre un ennemi avec Contresort r\u00e9duit son temps de recharge de 1,0\u00a0s.",
+    "it_IT": "Interrompere il lancio d'incantesimi di un nemico con Controincantesimo ne riduce il tempo di recupero di 1,0 s.",
+    "ru_RU": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e\u0435 \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u043d\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \"\u0410\u043d\u0442\u0438\u043c\u0430\u0433\u0438\u0438\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 1,0 \u0441\u0435\u043a.",
+    "ko_KR": "\ub9c8\ubc95 \ucc28\ub2e8\uc73c\ub85c \uc801\uc758 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\ub294 \ub370 \uc131\uacf5\ud558\uba74 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7528\u6cd5\u8853\u53cd\u5236\u6210\u529f\u4e2d\u65b7\u6575\u4eba\u7684\u65bd\u6cd5\u6642\uff0c\u5176\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002",
+    "zh_CN": "\u6210\u529f\u4f7f\u7528\u6cd5\u672f\u53cd\u5236\u6253\u65ad\u654c\u4eba\u540e\uff0c\u6cd5\u672f\u53cd\u5236\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.0\u79d2\u3002"
+  }
 }

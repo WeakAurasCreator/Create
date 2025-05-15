@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "320386"
+  "SpellID": "320386",
+  "name_blz": {
+    "en_US": "Bouncing Glaives",
+    "es_MX": "Gujas rebotadoras",
+    "pt_BR": "Glaives Ricocheteantes",
+    "de_DE": "Springende Gleven",
+    "en_GB": "Bouncing Glaives",
+    "es_ES": "Gujas rebotadoras",
+    "fr_FR": "Glaives rebondissants",
+    "it_IT": "Lame Rimbalzanti",
+    "ru_RU": "\u0420\u0438\u043a\u043e\u0448\u0435\u0442\u044f\u0449\u0438\u0439 \u043a\u043b\u0438\u043d\u043e\u043a",
+    "ko_KR": "\ud280\uc5b4\uc624\ub974\ub294 \uae00\ub808\uc774\ube0c",
+    "zh_TW": "\u5f48\u8df3\u6230\u5203",
+    "zh_CN": "\u5f39\u8df3\u5229\u5203"
+  },
+  "description_blz": {
+    "en_US": "Throw Glaive ricochets to 1 additional target.",
+    "es_MX": "Lanzar guja rebota en 1 objetivo m\u00e1s.",
+    "pt_BR": "Arremessar Glaive ricocheteia para 1 alvo adicional.",
+    "de_DE": "'Gleve werfen' springt auf 1 zus\u00e4tzliches Ziel \u00fcber.",
+    "en_GB": "Throw Glaive ricochets to 1 additional target.",
+    "es_ES": "Lanzar guja rebota en 1 objetivo m\u00e1s.",
+    "fr_FR": "Lancer de glaive rebondit sur 1\u00a0cible suppl\u00e9mentaire.",
+    "it_IT": "Aumenta i bersagli su cui Lancio Lama rimbalza di 1.",
+    "ru_RU": "\"\u0411\u0440\u043e\u0441\u043e\u043a \u0431\u043e\u0435\u0432\u043e\u0433\u043e \u043a\u043b\u0438\u043d\u043a\u0430\" \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0435\u0449\u0435 1 \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\uae00\ub808\uc774\ube0c \ud22c\ucc99\uc774 1\uba85\uc758 \ucd94\uac00 \ub300\uc0c1\uc5d0\uac8c \ud295\uae41\ub2c8\ub2e4.",
+    "zh_TW": "\u6295\u64f2\u6230\u5203\u53ef\u984d\u5916\u5f48\u8df3\u81f31\u500b\u76ee\u6a19\u3002",
+    "zh_CN": "\u6295\u63b7\u5229\u5203\u4f1a\u989d\u5916\u5f39\u5c041\u4e2a\u76ee\u6807\u3002"
+  }
 }

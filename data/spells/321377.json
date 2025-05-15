@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "321377"
+  "SpellID": "321377",
+  "name_blz": {
+    "en_US": "Prayer Circle",
+    "es_MX": "C\u00edrculo de oraci\u00f3n",
+    "pt_BR": "C\u00edrculo de Prece",
+    "de_DE": "Gebetskreis",
+    "en_GB": "Prayer Circle",
+    "es_ES": "C\u00edrculo de rezo",
+    "fr_FR": "Cercle de pri\u00e8re",
+    "it_IT": "Circolo di Preghiera",
+    "ru_RU": "\u041c\u043e\u043b\u0438\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043a\u0440\u0443\u0433",
+    "ko_KR": "\uae30\ub3c4\uc758 \ub9c8\ubc95\uc9c4",
+    "zh_TW": "\u7948\u79b1\u6cd5\u9663",
+    "zh_CN": "\u7977\u8a00\u4e4b\u73af"
+  },
+  "description_blz": {
+    "en_US": "Holy Word: Sanctify reduces the cast time and cost of your Prayer of Healing by 20% for 8 sec.",
+    "es_MX": "Palabra sagrada: santificar reduce un 20% el costo y el tiempo de lanzamiento de tu Rezo de sanaci\u00f3n durante 8 s.",
+    "pt_BR": "Palavra Sagrada: Santificar reduz em 20% o tempo e o custo de lan\u00e7amento da sua Prece de Cura por 8 s.",
+    "de_DE": "Euer 'Segenswort: Heiligung' verringert die Zauberzeit und Kosten Eures Zaubers 'Gebet der Heilung' 8 Sek. lang um 20%.",
+    "en_GB": "Holy Word: Sanctify reduces the cast time and cost of your Prayer of Healing by 20% for 8 sec.",
+    "es_ES": "Palabra sagrada: santificar reduce un 20% el tiempo de lanzamiento y el coste de tu Rezo de sanaci\u00f3n durante 8 s.",
+    "fr_FR": "Mot sacr\u00e9\u00a0: Sanctification r\u00e9duit le temps d\u2019incantation et le co\u00fbt de Pri\u00e8re de soins de 20\u00a0% pendant 8 s.",
+    "it_IT": "Parola Sacra: Santificazione riduce il tempo di lancio e il costo di Preghiera di Cura del 20% per 8 s.",
+    "ru_RU": "\"\u0421\u043b\u043e\u0432\u043e \u0421\u0432\u0435\u0442\u0430: \u041e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0438 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \"\u041c\u043e\u043b\u0438\u0442\u0432\u044b \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u043d\u0430 20% \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ube5b\uc758 \uad8c\ub2a5: \uc2e0\uc131\ud654 \uc0ac\uc6a9 \uc2dc 8\ucd08 \ub3d9\uc548 \uce58\uc720\uc758 \uae30\uc6d0 \uc8fc\ubb38\uc758 \uc2dc\uc804 \uc2dc\uac04\uacfc \uc790\uc6d0 \uc18c\ubaa8\ub7c9\uc774 20%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u8a00\u8853\uff1a\u5e87\u53ef\u4f7f\u4f60\u6cbb\u7642\u79b1\u8a00\u7684\u65bd\u6cd5\u6642\u9593\u548c\u6d88\u8017\u964d\u4f4e20%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u5723\u8a00\u672f\uff1a\u7075\u4f1a\u4f7f\u6cbb\u7597\u7977\u8a00\u7684\u65bd\u6cd5\u65f6\u95f4\u548c\u6cd5\u529b\u6d88\u8017\u964d\u4f4e20%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

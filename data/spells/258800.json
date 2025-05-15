@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "258800"
+  "SpellID": "258800",
+  "name_blz": {
+    "en_US": "Design: Jewelhammer's Focus",
+    "es_MX": "Boceto: Focalizaci\u00f3n de Mazagema",
+    "pt_BR": "Desenho: Foco do Quebra-joias",
+    "de_DE": "Vorlage: Fokus des Juwelenhammers",
+    "en_GB": "Design: Jewelhammer's Focus",
+    "es_ES": "Dise\u00f1o: Enfoque de Martijoya",
+    "fr_FR": "Dessin\u00a0: Focalisateur du Martel-Gemme",
+    "it_IT": "Modello: Focus di Martelgemma",
+    "ru_RU": "\u042d\u0441\u043a\u0438\u0437: \u043b\u0438\u043d\u0437\u0430 \u043e\u0433\u0440\u0430\u043d\u0449\u0438\u043a\u0430 \u0441\u0430\u043c\u043e\u0446\u0432\u0435\u0442\u043e\u0432",
+    "ko_KR": "\ub514\uc790\uc778: \ubcf4\uc11d\uc81c\uc791\uc790\uc758 \uc9d1\uc911 \uc218\uc815",
+    "zh_TW": "\u8a2d\u8a08\u5716\uff1a\u73e0\u5bf6\u9318\u7684\u900f\u93e1",
+    "zh_CN": "\u56fe\u9274\uff1a\u73e0\u9524\u7684\u7126\u955c"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following items:\r\nJewelhammer's Focus",
+    "es_MX": "Te ense\u00f1a a fabricar los siguientes objetos:\r\nFocalizaci\u00f3n de Mazagema",
+    "pt_BR": "Ensina a criar os seguintes itens:\r\nFoco do Quebra-joias",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nFokus des Juwelenhammers",
+    "en_GB": "Learn to craft the following items:\r\nJewelhammer's Focus",
+    "es_ES": "Aprende a fabricar los siguientes objetos:\r\nEnfoque de Martijoya",
+    "fr_FR": "Apprend \u00e0 cr\u00e9er l\u2019objet suivant\u00a0:\r\nFocalisateur du Martel-Gemme",
+    "it_IT": "Apprendi come creare il seguente oggetto:\r\nFocus di Martelgemma",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b:\r\n\u041b\u0438\u043d\u0437\u0430 \u043e\u0433\u0440\u0430\u043d\u0449\u0438\u043a\u0430 \u0441\u0430\u043c\u043e\u0446\u0432\u0435\u0442\u043e\u0432.",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \uc138\uacf5\ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\ubcf4\uc11d\uc81c\uc791\uc790\uc758 \uc9d1\uc911 \uc218\uc815",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4ee5\u4e0b\u7269\u54c1\uff1a\r\n\u73e0\u5bf6\u9318\u7684\u900f\u93e1",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u73e0\u9524\u7684\u7126\u955c"
+  }
 }

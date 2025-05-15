@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "248518"
+  "SpellID": "248518",
+  "name_blz": {
+    "en_US": "Interlope",
+    "es_MX": "Entrometerse",
+    "pt_BR": "Intrus\u00e3o",
+    "de_DE": "Ableiten",
+    "en_GB": "Interlope",
+    "es_ES": "Interponer",
+    "fr_FR": "Intrusion",
+    "it_IT": "Intrusione",
+    "ru_RU": "\u0412\u043c\u0435\u0448\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e",
+    "ko_KR": "\ucc38\uc804",
+    "zh_TW": "\u4ee3\u53d7",
+    "zh_CN": "\u5e72\u6d89"
+  },
+  "description_blz": {
+    "en_US": "Misdirection now causes the next 3 hostile spells cast on your target within 10 sec to be redirected to your pet, but its cooldown is increased by 15 sec.\r\n\r\nYour pet must be within 20 yards of the target for spells to be redirected.\r\n",
+    "es_MX": "Ahora, Redirecci\u00f3n hace que los pr\u00f3ximos 3 hechizos hostiles que se lanzan sobre tu objetivo en los pr\u00f3ximos 10 s se redirijan a tu mascota, pero su tiempo de reutilizaci\u00f3n aumenta 15 s.\r\n\r\nTu mascota debe estar en un radio de 20 m del objetivo para poder redirigir los hechizos.\r\n",
+    "pt_BR": "Redirecionar agora faz os pr\u00f3ximos 3 feiti\u00e7os hostis contra seu alvo dentro de por 10 s serem redirecionados para o seu ajudante, mas sua recarga \u00e9 aumentada em 15 s.\r\n\r\nO ajudante precisa estar a at\u00e9 20 m do alvo para que os feiti\u00e7os sejam redirecionados.\r\n",
+    "de_DE": "'Irref\u00fchrung' bewirkt jetzt, dass die n\u00e4chsten 3 feindlichen Zauber, die innerhalb von 10 Sek. auf Euer Ziel gewirkt werden, stattdessen auf Euren Begleiter umgeleitet werden. Allerdings ist die Abklingzeit der F\u00e4higkeit um 15 Sek. erh\u00f6ht.\r\n\r\nEuer Begleiter muss sich innerhalb von 20 Metern um das Ziel befinden, damit Zauber umgeleitet werden.\r\n",
+    "en_GB": "Misdirection now causes the next 3 hostile spells cast on your target within 10 sec to be redirected to your pet, but its cooldown is increased by 15 sec.\r\n\r\nYour pet must be within 20 yards of the target for spells to be redirected.\r\n",
+    "es_ES": "Ahora, Redirecci\u00f3n provoca que los siguientes 3 hechizos hostiles lanzados sobre tu objetivo en un plazo de 10 s se redirijan a tu mascota, pero aumenta 15 s su tiempo de reutilizaci\u00f3n.\r\n\r\nPara que se redirijan los hechizos, tu mascota debe estar en un radio de 20 m del objetivo.\r\n",
+    "fr_FR": "D\u00e9tournement entra\u00eene la redirection des 3\u00a0prochains sorts hostiles lanc\u00e9s sur votre cible vers votre familier pendant 10 s, mais son temps de recharge est augment\u00e9 de 15\u00a0s.\r\n\r\nVotre familier doit se trouver \u00e0 moins de 20\u00a0m\u00e8tres de la cible pour que les sorts soient redirig\u00e9s.\r\n",
+    "it_IT": "Depistaggio fa s\u00ec che i successivi 3 incantesimi ostili lanciati sul bersaglio entro 10 s siano reindirizzati sul tuo famiglio, ma il suo tempo di recupero aumenta di 15 s.\r\n\r\nIl tuo famiglio deve trovarsi entro 20 m dal bersaglio di Depistaggio.\r\n",
+    "ru_RU": "\u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u0441\u0435\u043a. 3 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043e\u0442\u043b\u0435\u0442\u0430\u044e\u0442 \u043e\u0442 \u0446\u0435\u043b\u0438 \"\u041f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f\" \u0432 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u0438\u0442\u043e\u043c\u0446\u0430, \u043d\u043e \u043e\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15 \u0441\u0435\u043a. \u0434\u043e\u043b\u044c\u0448\u0435.\r\n\r\n\u0414\u043b\u044f \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0432\u0430\u0448 \u043f\u0438\u0442\u043e\u043c\u0435\u0446 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u043d\u0435 \u0434\u0430\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u0432 20 \u043c \u043e\u0442 \u0446\u0435\u043b\u0438.\r\n",
+    "ko_KR": "\ub208\uc18d\uc784\uc774 \uc774\uc81c \ub2e4\uc74c 10\ucd08 \uc548\uc5d0 \ub300\uc0c1\uc5d0\uac8c \uc2dc\uc804\ud558\ub294 3\ud68c\uc758 \uacf5\uaca9 \uc8fc\ubb38\uc744 \uc790\uc2e0\uc758 \uc57c\uc218\uc5d0\uac8c \uc774\uc804\uc2dc\ud0a4\uc9c0\ub9cc, \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc8fc\ubb38\uc774 \uc774\uc804\ub418\ub824\uba74 \uc57c\uc218\uac00 \ub300\uc0c1\uc758 20\ubbf8\ud130 \ub0b4\uc5d0 \uc788\uc5b4\uc57c \ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u8aa4\u5c0e\u73fe\u5728\u6703\u5c07\u63a5\u4e0b\u4f8610\u79d2\u5167\u5c0d\u4f60\u7684\u76ee\u6a19\u65bd\u653e\u76843\u500b\u6575\u5c0d\u6cd5\u8853\u8f49\u79fb\u5230\u4f60\u7684\u5bf5\u7269\u8eab\u4e0a\uff0c\u4f46\u5176\u51b7\u537b\u6642\u9593\u5ef6\u957715\u79d2\u3002\r\n\r\n\u4f60\u7684\u5bf5\u7269\u5fc5\u9808\u5728\u76ee\u6a19\u768420\u78bc\u5167\uff0c\u624d\u80fd\u9806\u5229\u8f49\u79fb\u6cd5\u8853\u3002\r\n",
+    "zh_CN": "\u8bef\u5bfc\u73b0\u5728\u4f1a\u5c0610\u79d2\u5185\u5bf9\u4f60\u7684\u76ee\u6807\u65bd\u653e\u7684\u4e0b3\u4e2a\u6709\u5bb3\u6cd5\u672f\u8f6c\u79fb\u5230\u4f60\u7684\u5ba0\u7269\u8eab\u4e0a\uff0c\u4f46\u51b7\u5374\u65f6\u95f4\u63d0\u9ad815\u79d2\u3002\r\n\r\n\u4f60\u7684\u5ba0\u7269\u5fc5\u987b\u4f4d\u4e8e\u6cd5\u672f\u76ee\u6807\u5468\u56f420\u7801\u8303\u56f4\u5185\u624d\u80fd\u8f6c\u79fb\u3002\r\n"
+  }
 }

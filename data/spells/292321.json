@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "292321"
+  "SpellID": "292321",
+  "name_blz": {
+    "en_US": "Blood Contract: Bloodguard",
+    "es_MX": "Contrato de sangre: Guardia de sangre",
+    "pt_BR": "Contrato de Sangue: Guarda de Sangue",
+    "de_DE": "Blutvertrag: Blutwache",
+    "en_GB": "Blood Contract: Bloodguard",
+    "es_ES": "Contrato de sangre: Guardia de sangre",
+    "fr_FR": "Contrat sur le sang\u00a0: garde de sang",
+    "it_IT": "Contratto di Sangue: Guardia del Sangue",
+    "ru_RU": "\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043d\u0430 \u043a\u0440\u043e\u0432\u0438: \u043a\u0440\u043e\u0432\u0430\u0432\u044b\u0439 \u0441\u0442\u0440\u0430\u0436",
+    "ko_KR": "\ud608\uacc4\uc57d: \ud608\ud22c\uc0ac",
+    "zh_TW": "\u9bae\u8840\u5408\u7d04\uff1a\u8840\u885b",
+    "zh_CN": "\u9c9c\u8840\u5951\u7ea6\uff1a\u8840\u536b"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following items:\r\nBlood Contract: Bloodguard, which will allow you to summon a creature while outdoors in Kul Tiras or Zandalar.",
+    "es_MX": "Te ense\u00f1a a fabricar los siguientes objetos:\r\nContrato de sangre: Guardia de sangre, que te permitir\u00e1n invocar a una criatura mientras est\u00e1s en el exterior en Kul Tiras o en Zandalar.",
+    "pt_BR": "Ensinar a criar os seguintes itens:\r\nContrato de Sangue: Guarda de Sangue, que permite evocar uma criatura em ambientes externos em Kul Tiraz ou Zandalar.",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nBlutvertrag: Blutwache (Erlaubt Euch, im Freien von Kul Tiras oder Zandalar eine Kreatur zu beschw\u00f6ren.)",
+    "en_GB": "Learn to craft the following items:\r\nBlood Contract: Bloodguard, which will allow you to summon a creature while outdoors in Kul Tiras or Zandalar.",
+    "es_ES": "Aprende a fabricar los siguientes objetos:\r\nContrato de sangre: Guardia de sangre, que te permitir\u00e1 invocar a una criatura en las zonas exteriores de Kul Tiras y Zandalar.",
+    "fr_FR": "Apprend \u00e0 cr\u00e9er l\u2019objet suivant\u00a0:\r\nContrat sur le sang\u00a0: garde de sang, qui vous permet d\u2019invoquer une cr\u00e9ature en ext\u00e9rieur, en Kul Tiras ou en Zandalar.",
+    "it_IT": "Apprendi come creare il seguente oggetto:\r\nContratto di Sangue: Guardia del Sangue, che permette di evocare una creatura quando ci si trova all'esterno a Kul Tiras o Zandalar.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b:\r\n\u0414\u043e\u0433\u043e\u0432\u043e\u0440 \u043d\u0430 \u043a\u0440\u043e\u0432\u0438: \u043a\u0440\u043e\u0432\u0430\u0432\u044b\u0439 \u0441\u0442\u0440\u0430\u0436 (\u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0442\u044c \u0441\u0443\u0449\u0435\u0441\u0442\u0432 \u0432\u043d\u0435 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439 \u0432 \u041a\u0443\u043b-\u0422\u0438\u0440\u0430\u0441\u0435 \u0438 \u0417\u0430\u043d\u0434\u0430\u043b\u0430\u0440\u0435).",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\ud608\uacc4\uc57d: \ud608\ud22c\uc0ac, \uc774 \uc544\uc774\ud15c\uc740 \ucfe8 \ud2f0\ub77c\uc2a4 \ub610\ub294 \uc794\ub2ec\ub77c \uc57c\uc678\uc5d0\uc11c \uc0dd\uba85\uccb4\ub97c \uc18c\ud658\ud560 \uc218 \uc788\uac8c \ud574 \uc90d\ub2c8\ub2e4.",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u9bae\u8840\u5408\u7d04\uff1a\u8840\u885b\uff0c\u6b64\u7269\u54c1\u53ef\u8b93\u4f60\u5728\u5eab\u723e\u63d0\u62c9\u65af\u6216\u8d0a\u9054\u62c9\u6236\u5916\u53ec\u559a\u751f\u7269\u3002",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u9c9c\u8840\u5951\u7ea6\uff1a\u8840\u536b\uff0c\u4f7f\u4f60\u5728\u5e93\u5c14\u63d0\u62c9\u65af\u6216\u8d5e\u8fbe\u62c9\u6237\u5916\u65f6\u53ef\u4ee5\u53ec\u5524\u4e00\u79cd\u751f\u7269\u3002"
+  }
 }

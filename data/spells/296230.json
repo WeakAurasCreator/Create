@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "296230"
+  "SpellID": "296230",
+  "name_blz": {
+    "en_US": "Vitality Conduit",
+    "es_MX": "Conducto de vitalidad",
+    "pt_BR": "Condutor de Vitalidade",
+    "de_DE": "Vitalit\u00e4tsverbindung",
+    "en_GB": "Vitality Conduit",
+    "es_ES": "Conducto de vitalidad",
+    "fr_FR": "Conduit de vitalit\u00e9",
+    "it_IT": "Condotto della Vitalit\u00e0",
+    "ru_RU": "\u041f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u043e\u0439 \u0441\u0438\u043b\u044b",
+    "ko_KR": "\ud65c\ub825\uc758 \uc804\ub3c4\uccb4",
+    "zh_TW": "\u6d3b\u529b\u5c0e\u7ba1",
+    "zh_CN": "\u6d3b\u529b\u5bfc\u7ba1"
+  },
+  "description_blz": {
+    "en_US": "Direct the Vitality Conduit toward an ally. Every 0.5 sec for 6 sec, they transfer 74 health from the highest-health ally within 30 yds.",
+    "es_MX": "Dirige el Conducto de vitalidad hacia un aliado. Cada 0.5 s durante 6 s, transfiere 74 p. de salud del aliado con m\u00e1s salud en un radio de 30 m.",
+    "pt_BR": "Envia o Condutor de Vitalidade na dire\u00e7\u00e3o de um aliado. A cada 0,5 s por 6 s, ele transfere 74 pontos de vida do aliado com mais pontos de vida em um raio de 30 m.",
+    "de_DE": "Richtet die Vitalit\u00e4tsverbindung auf einen Verb\u00fcndeten. Dadurch transferiert dieser 6 Sek. lang alle 0,5 Sek. 74 Gesundheit vom Verb\u00fcndeten mit der h\u00f6chsten Gesundheit innerhalb von 30 Metern.",
+    "en_GB": "Direct the Vitality Conduit toward an ally. Every 0.5 sec for 6 sec, they transfer 74 health from the highest-health ally within 30 yds.",
+    "es_ES": "Dirige el conducto de vitalidad hacia un aliado. Cada 0,5 s durante 6 s, se transfieren 74 p. de salud del aliado con m\u00e1s salud en un radio de 30 m.",
+    "fr_FR": "Vous orientez le conduit de vitalit\u00e9 vers un alli\u00e9. Toutes les 0,5\u00a0s pendant 6 s, ce dernier r\u00e9cup\u00e8re 74 points de vie de l\u2019alli\u00e9 ayant le plus de points de vie \u00e0 moins de 30\u00a0m\u00e8tres.",
+    "it_IT": "Dirige il Condotto della Vitalit\u00e0 verso un alleato. Ogni 0,5 s per 6 s, rigenera 74 salute, trasferendola dall'alleato con salute maggiore entro 30 m.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u043d\u0430 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430 \"\u041f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u043e\u0439 \u0441\u0438\u043b\u044b\". \u0420\u0430\u0437 \u0432 0,5 \u0441\u0435\u043a. \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a. \u044d\u0442\u043e\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 74 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043e\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 30 \u043c \u0441 \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0438\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ud65c\ub825\uc758 \uc804\ub3c4\uccb4\ub97c \uc544\uad70\uc5d0\uac8c \uc9d1\uc911\ud569\ub2c8\ub2e4. 6\ucd08 \ub3d9\uc548 0.5\ucd08\ub9c8\ub2e4 30\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \uc0dd\uba85\ub825\uc774 \uac00\uc7a5 \ub192\uc740 \ub2e4\ub978 \uc544\uad70\uc73c\ub85c\ubd80\ud130 \uc0dd\uba85\ub825\uc774 74\ub9cc\ud07c \uc774\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u628a\u6d3b\u529b\u5c0e\u7ba1\u8f49\u5411\u4e00\u540d\u76df\u53cb\u3002\u6bcf0.5\u79d2\uff0c\u6301\u7e8c6\u79d2\uff0c\u4ed6\u5011\u6703\u5f9e30\u78bc\u7bc4\u570d\u5167\u64c1\u6709\u6700\u9ad8\u751f\u547d\u529b\u7684\u76df\u53cb\u8f49\u79fb74\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5c06\u6d3b\u529b\u5bfc\u7ba1\u5f15\u5411\u4e00\u540d\u76df\u53cb\u3002\u6bcf0.5\u79d2\u4ece30\u7801\u8303\u56f4\u5185\u751f\u547d\u503c\u6700\u9ad8\u7684\u76df\u53cb\u8eab\u4e0a\u8f6c\u79fb74\u70b9\u751f\u547d\u503c\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

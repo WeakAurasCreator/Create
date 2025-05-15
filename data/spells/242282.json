@@ -34,5 +34,28 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "242282"
+  "SpellID": "242282",
+  "name_blz": {
+    "en_US": "Item - Shaman T20 Elemental 4P Bonus",
+    "es_MX": "Objeto - Cham\u00e1n T20 Elemental 4P Bonificaci\u00f3n",
+    "pt_BR": "Item - Shaman T20 Elemental 4P Bonus",
+    "en_GB": "Item - Shaman T20 Elemental 4P Bonus",
+    "ko_KR": "\uc544\uc774\ud15c - \uc8fc\uc220\uc0ac T20 \uc815\uae30 4P \ubcf4\ub108\uc2a4",
+    "zh_TW": "Item - Shaman T20 Elemental 4P Bonus",
+    "zh_CN": "Item - Shaman T20 Elemental 4P Bonus"
+  },
+  "description_blz": {
+    "en_US": "Reduce the cooldown of Fire Elemental by 1.0 sec when Flame Shock periodic damage deals a critical strike. This effect may occur once every 1.0 sec.",
+    "es_MX": "Reduce 1.0 s el tiempo de reutilizaci\u00f3n de Elemental de fuego cuando el da\u00f1o peri\u00f3dico de Choque de llamas asesta un golpe cr\u00edtico. Este efecto puede ocurrir una vez cada 1.0 s.",
+    "pt_BR": "Reduz em 1,0 a recarga do Elemental do Fogo quando o dano peri\u00f3dico do Choque Flamejante \u00e9 cr\u00edtico. Este efeito s\u00f3 ocorre uma vez a cada 1,0 s.",
+    "de_DE": "Wenn der regelm\u00e4\u00dfige Schaden von 'Flammenschock' einen kritischen Treffer erzielt, verringert sich die Abklingzeit von 'Feuerelementar' um 1,0 Sek. Dieser Effekt kann nur einmal alle 1,0 Sek. auftreten.",
+    "en_GB": "Reduce the cooldown of Fire Elemental by 1.0 sec when Flame Shock periodic damage deals a critical strike. This effect may occur once every 1.0 sec.",
+    "es_ES": "Reduce el tiempo de reutilizaci\u00f3n de Elemental de Fuego 1,0 s cuando el da\u00f1o peri\u00f3dico de Choque de llamas asesta un golpe cr\u00edtico. Este efecto puede producirse una vez cada 1,0 s.",
+    "fr_FR": "R\u00e9duit le temps de recharge d\u2019\u00c9l\u00e9mentaire de feu de 1,0\u00a0s lorsque les d\u00e9g\u00e2ts p\u00e9riodiques de Horion de flammes infligent un coup critique. Cet effet peut se produire toutes les 1,0 s.",
+    "it_IT": "Riduce il tempo di recupero di Elementale del Fuoco di 1,0 s quando i danni periodici di Folgore del Fuoco infliggono un colpo critico. L'effetto pu\u00f2 attivarsi solo una volta ogni 1,0 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044f \u043e\u0433\u043d\u044f\" \u043d\u0430 1,0 \u0441\u0435\u043a., \u043a\u043e\u0433\u0434\u0430 \u0442\u0430\u043a\u0442 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0448\u043e\u043a\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0434\u0430\u0440. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 1,0 \u0441\u0435\u043a.",
+    "ko_KR": "\ud654\uc5fc \ucda9\uaca9\uc758 \uc8fc\uae30\uc801\uc778 \ud53c\ud574\uac00 \uadf9\ub300\ud654\ub85c \uc801\uc911\ud558\uba74 \ubd88\uc758 \uc815\ub839\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1.0\ucd08 \uac10\uc18c\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 \ucd5c\ub300 1.0\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u70c8\u7130\u9707\u64ca\u7684\u9031\u671f\u6027\u50b7\u5bb3\u9020\u6210\u81f4\u547d\u4e00\u64ca\u6642\uff0c\u706b\u5143\u7d20\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002\u6b64\u6548\u679c\u6bcf1.0\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5f53\u70c8\u7130\u9707\u51fb\u7684\u5468\u671f\u6027\u4f24\u5bb3\u7206\u51fb\u65f6\uff0c\u706b\u5143\u7d20\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.0\u79d2\u3002\u6b64\u6548\u679c\u6bcf1.0\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

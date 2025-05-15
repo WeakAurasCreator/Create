@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "305483"
+  "SpellID": "305483",
+  "name_blz": {
+    "en_US": "Lightning Lasso",
+    "es_MX": "Lazo relampagueante",
+    "pt_BR": "La\u00e7o de Raio",
+    "de_DE": "Blitzschlaglasso",
+    "en_GB": "Lightning Lasso",
+    "es_ES": "Lazo de rel\u00e1mpagos",
+    "fr_FR": "Lasso de foudre",
+    "it_IT": "Lazo Fulminante",
+    "ru_RU": "\u041c\u043e\u043b\u043d\u0438\u044f-\u043b\u0430\u0441\u0441\u043e",
+    "ko_KR": "\ubc88\uac1c \uc62c\uac00\ubbf8",
+    "zh_TW": "\u9583\u96fb\u5957\u7d22",
+    "zh_CN": "\u95ea\u7535\u78c1\u7d22"
+  },
+  "description_blz": {
+    "en_US": "Grips the target in lightning, stunning and dealing 38,738 Nature damage over 5 sec while the target is lassoed. Can move while channeling.",
+    "es_MX": "Sujeta al objetivo con un rel\u00e1mpago, lo aturde y le inflige 38,738 p. de da\u00f1o de naturaleza durante 5 s mientras el objetivo est\u00e9 enlazado. Puedes moverte durante la canalizaci\u00f3n.",
+    "pt_BR": "Prende o alvo com raios, atordoando-o e causando 38.738 de dano de Natureza ao longo de 5 s enquanto ele permanecer preso. \u00c9 poss\u00edvel se mover durante a canaliza\u00e7\u00e3o.",
+    "de_DE": "Wirft ein Blitzschlaglasso auf das Ziel und bet\u00e4ubt es. W\u00e4hrend das Ziel gefesselt ist, f\u00fcgt Ihr ihm im Verlauf von 5 Sek. 38.738 Naturschaden zu. Kann aus der Bewegung heraus kanalisiert werden.",
+    "en_GB": "Grips the target in lightning, stunning and dealing 38,738 Nature damage over 5 sec while the target is lassoed. Can move while channeling.",
+    "es_ES": "Atrapa al objetivo con rel\u00e1mpagos, lo que lo aturde y le inflige 38738 p. de da\u00f1o de Naturaleza durante 5 s mientras el objetivo est\u00e1 atrapado. Es posible moverse mientras se canaliza.",
+    "fr_FR": "Enserre la cible de foudre, l\u2019\u00e9tourdissant et lui infligeant 38738 points de d\u00e9g\u00e2ts de Nature en 5 s tant que le lasso la retient. Le lanceur peut se d\u00e9placer pendant l\u2019incantation.",
+    "it_IT": "Afferra il bersaglio con il fulmine, stordendolo e infliggendo 38.738 danni da natura in 5 s finch\u00e9 il bersaglio \u00e8 prigioniero. \u00c8 possibile muoversi durante la canalizzazione.",
+    "ru_RU": "\u0426\u0435\u043b\u044c \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0442 \u043c\u043e\u043b\u043d\u0438\u0438, \u043e\u0433\u043b\u0443\u0448\u0430\u044f \u0435\u0435 \u0438 \u043d\u0430\u043d\u043e\u0441\u044f 38738 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 5 \u0441\u0435\u043a., \u043f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043b\u0430\u0441\u0441\u043e. \u041c\u043e\u0436\u043d\u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u043d\u0430 \u0445\u043e\u0434\u0443.",
+    "ko_KR": "\ub300\uc0c1\uc744 \ubc88\uac1c\ub85c \ubd99\uc7a1\uc544 \uae30\uc808\uc2dc\ud0a4\uace0 \ub300\uc0c1\uc774 \ubd99\uc7a1\ud600 \uc788\ub294 \ub3d9\uc548 5\ucd08\uc5d0 \uac78\uccd0 38,738\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc815\uc2e0 \uc9d1\uc911\ud558\ub294 \ub3d9\uc548 \uc774\ub3d9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u9583\u96fb\u64ca\u6688\u76ee\u6a19\uff0c\u4e26\u57285\u79d2\u5167\u5c0d\u53d7\u5f71\u97ff\u7684\u76ee\u6a19\u9020\u621038,738\u9ede\u81ea\u7136\u50b7\u5bb3\u3002\u5f15\u5c0e\u6642\u53ef\u4ee5\u79fb\u52d5\u3002",
+    "zh_CN": "\u7528\u95ea\u7535\u7d27\u63e1\u76ee\u6807\uff0c\u4f7f\u5176\u88ab\u78c1\u7d22\u5957\u4f4f\u5e76\u660f\u8ff7\uff0c\u57285\u79d2\u5185\u9020\u621038,738\u70b9\u81ea\u7136\u4f24\u5bb3\u3002\u53ef\u4ee5\u5728\u5f15\u5bfc\u65f6\u79fb\u52a8\u3002"
+  }
 }

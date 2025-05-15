@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "316405"
+  "SpellID": "316405",
+  "name_blz": {
+    "en_US": "Improved Execute",
+    "es_MX": "Ejecutar mejorado",
+    "pt_BR": "Executar Aprimorado",
+    "de_DE": "Verbessertes Hinrichten",
+    "en_GB": "Improved Execute",
+    "es_ES": "Ejecutar mejorado",
+    "fr_FR": "Ex\u00e9cution am\u00e9lior\u00e9e",
+    "it_IT": "Esecuzione Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u0430\u044f \u043a\u0430\u0437\u043d\u044c",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc77c\uaca9 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u65ac\u6bba",
+    "zh_CN": "\u5f3a\u5316\u65a9\u6740"
+  },
+  "description_blz": {
+    "en_US": "Execute no longer has a cooldown and if your foe survives, 10% of the Rage spent is refunded.",
+    "es_MX": "Ejecutar ya no tiene tiempo de reutilizaci\u00f3n y si tu enemigo sobrevive, recuperas un 10% de la ira utilizada.",
+    "pt_BR": "Executar n\u00e3o tem mais recarga e, se seu inimigo sobreviver, 10% da Raiva gasta \u00e9 restitu\u00edda.",
+    "de_DE": "'Hinrichten' hat keine Abklingzeit mehr und wenn Euer Gegner \u00fcberlebt, werden 10% der verbrauchten Wut zur\u00fcckerstattet.",
+    "en_GB": "Execute no longer has a cooldown and if your foe survives, 10% of the Rage spent is refunded.",
+    "es_ES": "Ejecutar ya no tiene tiempo de reutilizaci\u00f3n y, si tu enemigo sobrevive, recuperas un 10% de la ira gastada.",
+    "fr_FR": "Ex\u00e9cution n\u2019a plus de temps de recharge. Si votre adversaire survit, 10% de la rage d\u00e9pens\u00e9e vous est restitu\u00e9e.",
+    "it_IT": "Esecuzione non ha pi\u00f9 un tempo di recupero. Se il nemico sopravvive, ripristina il 10% della rabbia consumata.",
+    "ru_RU": "\"\u041a\u0430\u0437\u043d\u044c\" \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f. \u0415\u0441\u043b\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a \u0432\u044b\u0436\u0438\u0432\u0430\u0435\u0442, \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 10% \u0437\u0430\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u043e\u0439 \u044f\u0440\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\uc801\uc774 \uc0b4\uc544\ub0a8\uc73c\uba74 \ub9c8\ubb34\ub9ac \uc77c\uaca9\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ubc1c\uc0dd\ud558\uc9c0 \uc54a\uace0 \uc18c\ubaa8\ud55c \ubd84\ub178\uc758 10%\ub97c \ub3cc\ub824\ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u65ac\u6bba\u4e0d\u518d\u6709\u51b7\u537b\u6642\u9593\uff0c\u82e5\u8a72\u6575\u4eba\u5b58\u6d3b\uff0c\u6062\u5fa910%\u6d88\u8017\u7684\u6012\u6c23\u3002",
+    "zh_CN": "\u65a9\u6740\u4e0d\u518d\u6709\u51b7\u5374\u65f6\u95f4\u3002\u5982\u679c\u4f60\u7684\u654c\u4eba\u5b58\u6d3b\u4e0b\u6765\uff0c\u5c06\u8fd4\u8fd810%\u7684\u6012\u6c14\u6d88\u8017\u3002"
+  }
 }

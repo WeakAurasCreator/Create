@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "248381"
+  "SpellID": "248381",
+  "name_blz": {
+    "en_US": "Recipe: Lightblood Elixir",
+    "es_MX": "Receta: Elixir sangreluz",
+    "pt_BR": "Receita: Elixir de Sangue Leve",
+    "de_DE": "Rezept: Lichtblutelixier",
+    "en_GB": "Recipe: Lightblood Elixir",
+    "es_ES": "Receta: elixir de sangreluz",
+    "fr_FR": "Recette\u00a0: \u00c9lixir lumine-sang",
+    "it_IT": "Ricetta: Elisir di Sangue della Luce",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u044d\u043b\u0438\u043a\u0441\u0438\u0440 \u043a\u0440\u043e\u0432\u0438 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\uc870\uc81c\ubc95: \ube5b\uc758 \ud53c \ube44\uc57d",
+    "zh_TW": "\u914d\u65b9\uff1a\u8056\u5149\u4e4b\u8840\u85e5\u5291",
+    "zh_CN": "\u914d\u65b9\uff1a\u5149\u8840\u836f\u5242"
+  },
+  "description_blz": {
+    "en_US": "Teaches you how to create a Lightblood Elixir (Rank 1).",
+    "es_MX": "Te ense\u00f1a a crear un Elixir sangreluz (rango 1).",
+    "pt_BR": "Ensina a criar um Elixir de Sangue Leve (Ranque 1).",
+    "de_DE": "Lehrt Euch, wie man ein Lichtblutelixier (Rang 1) herstellt.",
+    "en_GB": "Teaches you how to create a Lightblood Elixir (Rank 1).",
+    "es_ES": "Te ense\u00f1a a crear un elixir de sangreluz (Rango 1).",
+    "fr_FR": "Vous apprend \u00e0 concocter un \u00e9lixir lumine-sang (rang\u00a01).",
+    "it_IT": "Apprendi come creare un Elisir di Sangue della Luce (Grado 1).",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044e \u044d\u043b\u0438\u043a\u0441\u0438\u0440\u0430 \u043a\u0440\u043e\u0432\u0438 \u0421\u0432\u0435\u0442\u0430 (\u0443\u0440\u043e\u0432\u0435\u043d\u044c 1).",
+    "ko_KR": "\ube5b\uc758 \ud53c \ube44\uc57d \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4. (1 \ub4f1\uae09)",
+    "zh_TW": "\u6559\u4f60\u5b78\u6703\u5982\u4f55\u914d\u88fd\u8056\u5149\u4e4b\u8840\u85e5\u5291(\u7b49\u7d1a1)\u3002",
+    "zh_CN": "\u6559\u4f1a\u4f60\u5982\u4f55\u5236\u9020\u5149\u8840\u836f\u5242\uff08\u7b49\u7ea71\uff09\u3002"
+  }
 }

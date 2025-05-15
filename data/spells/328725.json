@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "328725"
+  "SpellID": "328725",
+  "name_blz": {
+    "en_US": "Mortal Dance",
+    "es_MX": "Danza mortal",
+    "pt_BR": "Dan\u00e7a Mortal",
+    "de_DE": "T\u00f6dlicher Tanz",
+    "en_GB": "Mortal Dance",
+    "es_ES": "Danza mortal",
+    "fr_FR": "Danse mortelle",
+    "it_IT": "Danza Mortale",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0442\u0430\u043d\u0435\u0446",
+    "ko_KR": "\ud544\uba78\uc758 \ucda4",
+    "zh_TW": "\u81f4\u6b7b\u4e4b\u821e",
+    "zh_CN": "\u81f4\u6b7b\u821e\u6b65"
+  },
+  "description_blz": {
+    "en_US": "Blade Dance now reduces targets' healing received by 50% for 6 sec.",
+    "es_MX": "Danza de hojas ahora reduce la sanaci\u00f3n recibida por el objetivos un 50% durante 6 s.",
+    "pt_BR": "Dan\u00e7a de L\u00e2minas agora reduz em 50% a cura que o alvo recebe por 6 s.",
+    "de_DE": "'Klingentanz' verringert 6 Sek. lang die erhaltene Heilung der Ziele um 50%.",
+    "en_GB": "Blade Dance now reduces targets' healing received by 50% for 6 sec.",
+    "es_ES": "Ahora Danza de hojas reduce un 50% la sanaci\u00f3n recibida por los objetivos durante 6 s.",
+    "fr_FR": "Danse des lames r\u00e9duit d\u00e9sormais les soins re\u00e7us par les cibles de 50% pendant 6 s.",
+    "it_IT": "Lame Danzanti riduce le cure ricevute dai bersagli del 50% per 6 s.",
+    "ru_RU": "\"\u0422\u0430\u043d\u0435\u0446 \u043a\u043b\u0438\u043d\u043a\u043e\u0432\" \u0442\u0435\u043f\u0435\u0440\u044c \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0435 \u0446\u0435\u043b\u044c\u044e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 50% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uce7c\ucda4\uc774 6\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\ub97c 50%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u73fe\u5728\u528d\u5203\u4e4b\u821e\u6703\u4f7f\u76ee\u6a19\u53d7\u5230\u7684\u6cbb\u7642\u6548\u679c\u964d\u4f4e50%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5203\u821e\u73b0\u5728\u4f1a\u4f7f\u76ee\u6807\u53d7\u5230\u7684\u6cbb\u7597\u6548\u679c\u964d\u4f4e50%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

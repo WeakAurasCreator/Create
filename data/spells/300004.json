@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "300004"
+  "SpellID": "300004",
+  "name_blz": {
+    "en_US": "Anima of Life",
+    "es_MX": "\u00c1nima de vida",
+    "pt_BR": "Anima da Vida",
+    "de_DE": "Anima des Lebens",
+    "en_GB": "Anima of Life",
+    "es_ES": "\u00c1nima de la Vida",
+    "fr_FR": "Anima de vie",
+    "it_IT": "Anima della Vita",
+    "ru_RU": "\u0421\u0443\u0449\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438",
+    "ko_KR": "\uc0dd\uba85\uc758 \ub839",
+    "zh_TW": "\u751f\u547d\u8840\u9748",
+    "zh_CN": "\u751f\u547d\u5fc3\u80fd"
+  },
+  "description_blz": {
+    "en_US": "Azerite energy courses through your veins, increasing maximum health by 41 every 5 sec, stacking up to 10 times.\r\n\r\nGain a stack of Anima of Life when you kill an enemy that yields experience or honor.\r\n\r\nThis effect is lost if you fall below 35% health.",
+    "es_MX": "Un torrente de energ\u00eda de azerita te corre por las venas, aumenta 41 p. tu salud m\u00e1xima cada 5 s y se acumula hasta 10 veces.\r\n\r\nObtienes una acumulaci\u00f3n de \u00c1nima de vida cuando matas a un enemigo que otorga experiencia u honor.\r\n\r\nEste efecto se pierde si tu salud cae por debajo del 35%.",
+    "pt_BR": "Energia de Azerita corre pelas suas veias, aumentando em 41 o seu m\u00e1ximo de pontos de vida a cada 5 s. Acumula at\u00e9 10 vezes.\r\n\r\nRecebe uma aplica\u00e7\u00e3o de Anima da Vida ao matar um inimigo que conceda experi\u00eancia ou honra.\r\n\r\nEste efeito \u00e9 perdido se voc\u00ea ficar com menos de 35% dos pontos de vida.",
+    "de_DE": "Azeritenergie str\u00f6mt durch Eure Adern und erh\u00f6ht Eure maximale Gesundheit alle 5 Sek. um 41. Bis zu 10-mal stapelbar.\r\n\r\nGew\u00e4hrt Euch einen Stapel von 'Anima des Lebens', wenn Ihr einen Gegner besiegt, der Erfahrung oder Ehre gew\u00e4hrt.\r\n\r\nDieser Effekt endet, wenn Eure Gesundheit unter 35% f\u00e4llt.",
+    "en_GB": "Azerite energy courses through your veins, increasing maximum health by 41 every 5 sec, stacking up to 10 times.\r\n\r\nGain a stack of Anima of Life when you kill an enemy that yields experience or honor.\r\n\r\nThis effect is lost if you fall below 35% health.",
+    "es_ES": "La energ\u00eda de la azerita corre por tus venas, lo que aumenta tu salud m\u00e1xima 41 p. cada 5 s y se acumula hasta 10 veces.\r\n\r\nObtienes una acumulaci\u00f3n de \u00c1nima de la Vida cuando matas a un enemigo que otorga experiencia u honor.\r\n\r\nEste efecto se pierde si tu salud cae por debajo del 35%.",
+    "fr_FR": "De l\u2019\u00e9nergie d\u2019az\u00e9rite coule dans vos veines, ce qui augmente votre maximum de points de vie de 41 toutes les 5\u00a0s. Cumulable jusqu\u2019\u00e0 10\u00a0fois.\r\n\r\nVous gagnez une charge d\u2019Anima de vie quand vous tuez un ennemi qui rapporte de l\u2019exp\u00e9rience ou de l\u2019honneur.\r\n\r\nL\u2019effet est dissip\u00e9 si vous tombez sous les 35% de points de vie.",
+    "it_IT": "L'energia d'Azerite scorre nelle tue vene, aumentando la salute massima di 41 ogni 5 s. Si accumula fino a 10 volte.\r\n\r\n\u00c8 possibile ottenere un accumulo di Anima della Vita quando si uccide un nemico che fornisce onore o esperienza.\r\n\r\nL'effetto viene annullato se si scende al di sotto del 35% di salute.",
+    "ru_RU": "\u0412\u0430\u0441 \u043d\u0430\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u044d\u043d\u0435\u0440\u0433\u0438\u044f \u0430\u0437\u0435\u0440\u0438\u0442\u0430, \u0440\u0430\u0437 \u0432 5 \u0441\u0435\u043a. \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0430\u044f \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0430 41 \u0435\u0434. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437.\r\n\r\n\u041f\u0440\u0438 \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u0435 \u0446\u0435\u043b\u0438, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u0440\u0438\u043d\u043e\u0441\u0438\u0442 \u043e\u043f\u044b\u0442 \u0438\u043b\u0438 \u0447\u0435\u0441\u0442\u044c, \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \"\u0421\u0443\u0449\u043d\u043e\u0441\u0442\u044c \u0436\u0438\u0437\u043d\u0438\".\r\n\r\n\u0420\u0430\u0441\u0441\u0435\u0438\u0432\u0430\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0430\u0434\u0430\u0435\u0442 \u043d\u0438\u0436\u0435 35%.",
+    "ko_KR": "\uc544\uc81c\ub77c\uc774\ud2b8 \ub9c8\ub825\uc774 \ud54f\uc904\uc744 \ud0c0\uace0 \ud758\ub7ec 5\ucd08\ub9c8\ub2e4 \ucd5c\ub300 \uc0dd\uba85\ub825\uc774 41\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ucd5c\ub300 10\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.\r\n\r\n\uc801\uc744 \ucc98\uce58\ud558\uace0 \uacbd\ud5d8\uce58\ub098 \uba85\uc608 \uc810\uc218\ub97c \uc5bb\uc73c\uba74 \uc0dd\uba85\uc758 \ub839 \uc911\ucca9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc0dd\uba85\ub825\uc774 35% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u827e\u6fa4\u840a\u6676\u5ca9\u80fd\u91cf\u5728\u4f60\u7684\u8840\u7ba1\u88e1\u6d41\u52d5\uff0c\u6bcf5\u79d2\u4f7f\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad8 41\u9ede\uff0c\u6700\u591a\u53ef\u5806\u758a10\u6b21\u3002\r\n\r\n\u7576\u4f60\u6bba\u6b7b\u53ef\u7372\u5f97\u7d93\u9a57\u503c\u6216\u69ae\u8b7d\u503c\u7684\u6575\u4eba\u6642\uff0c\u7372\u5f97\u4e00\u5c64\u751f\u547d\u8840\u9748\u3002\r\n\r\n\u6b64\u6548\u679c\u6703\u5728\u4f60\u7684\u751f\u547d\u529b\u964d\u81f335%\u4ee5\u4e0b\u6642\u6d88\u5931\u3002",
+    "zh_CN": "\u827e\u6cfd\u91cc\u7279\u80fd\u91cf\u6d41\u6dcc\u5728\u4f60\u7684\u8840\u6db2\u4e4b\u4e2d\uff0c\u4f7f\u4f60\u7684\u6700\u5927\u751f\u547d\u503c\u6bcf5\u79d2\u63d0\u9ad841\u70b9\uff0c\u6700\u591a\u53ef\u53e0\u52a010\u6b21\u3002\r\n\r\n\u5f53\u4f60\u6d88\u706d\u4e00\u4e2a\u53ef\u4e3a\u4f60\u63d0\u4f9b\u7ecf\u9a8c\u503c\u6216\u8363\u8a89\u503c\u7684\u654c\u4eba\u540e\uff0c\u83b7\u5f97\u4e00\u5c42\u751f\u547d\u5fc3\u80fd\u3002\r\n\r\n\u5f53\u4f60\u7684\u751f\u547d\u503c\u964d\u4f4e\u523035%\u65f6\u4f1a\u5931\u53bb\u8be5\u6548\u679c\u3002"
+  }
 }

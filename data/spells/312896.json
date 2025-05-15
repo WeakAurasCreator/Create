@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "312896"
+  "SpellID": "312896",
+  "name_blz": {
+    "en_US": "Mastercraft",
+    "es_MX": "Maestro de oficios",
+    "pt_BR": "Mestre Art\u00edfice",
+    "de_DE": "Meisterbastler",
+    "en_GB": "Mastercraft",
+    "es_ES": "Maestr\u00eda total",
+    "fr_FR": "Savoir-faire",
+    "it_IT": "Assetto Artigiano",
+    "ru_RU": "\u041c\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 \u0432\u0441\u0435 \u0440\u0443\u043a\u0438",
+    "ko_KR": "\uae30\uc220\uc758 \ub2ec\uc778",
+    "zh_TW": "\u5927\u5e2b\u5de5\u85dd",
+    "zh_CN": "\u5320\u5de5\u5927\u5e08"
+  },
+  "description_blz": {
+    "en_US": "You function as a personal Blacksmithing Anvil, Cooking Fire, and Mining Forge. In addition, your limbs include every profession tool.",
+    "es_MX": "Funcionas como un yunque de herrero, una lumbre de cocina y una forja de miner\u00eda. Adem\u00e1s, tus extremidades incluyen todas las herramientas de profesiones.",
+    "pt_BR": "Voc\u00ea atua como Bigorna de Ferraria, Fogueira para Cozinhar e Forja de Minera\u00e7\u00e3o pessoal. Al\u00e9m disso, seus membros cont\u00eam ferramentas de todas as profiss\u00f5es.",
+    "de_DE": "Ihr fungiert als pers\u00f6nlicher Amboss f\u00fcr die Schmiedekunst, als Kochstelle und als Schmiede f\u00fcr den Bergbau. Zus\u00e4tzlich dazu umfassen Eure Gliedma\u00dfen alle Werkzeuge f\u00fcr Berufe.",
+    "en_GB": "You function as a personal Blacksmithing Anvil, Cooking Fire, and Mining Forge. In addition, your limbs include every profession tool.",
+    "es_ES": "Funcionas como yunque de herrer\u00eda, lumbre de cocina y forja de miner\u00eda particulares. Adem\u00e1s, tus extremidades incluyen herramientas de todas la profesiones.",
+    "fr_FR": "Vous poss\u00e9dez les fonctionnalit\u00e9s d\u2019une enclume de forgeron, d\u2019un feu de cuisine et d\u2019une forge. De plus, vos membres incluent tous les outils de m\u00e9tiers.",
+    "it_IT": "\u00c8 possibile fungere da Incudine, Fuoco da Campo e Forgia. Inoltre, si possiedono gi\u00e0 tutti gli attrezzi d'artigianato esistenti.",
+    "ru_RU": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043d\u0430\u043a\u043e\u0432\u0430\u043b\u044c\u043d\u0438, \u043a\u043e\u0441\u0442\u0440\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u0438\u0449\u0438 \u0438 \u0433\u043e\u0440\u043d\u0430. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u0432\u0430\u0448\u0438 \u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0441\u0442\u0438 \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0442 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u0439.",
+    "ko_KR": "\uac1c\uc778\uc6a9 \ub300\uc7a5\uae30\uc220 \ubaa8\ub8e8, \uc694\ub9ac\uc6a9 \ubaa8\ub2e5\ubd88, \ucc44\uad11 \uac00\uc5f4\ub85c\ub85c \uae30\ub2a5\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ucd94\uac00\ub85c \uc804\ubb38 \uae30\uc220\uc5d0 \ud544\uc694\ud55c \ubaa8\ub4e0 \ub3c4\uad6c\uac00 \ud314\ub2e4\ub9ac\uc5d0 \ud0d1\uc7ac\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u8ec0\u9ad4\u5177\u5099\u4e86\u500b\u4eba\u935b\u9020\u9435\u7827\u3001\u70f9\u98ea\u7528\u706b\u4ee5\u53ca\u63a1\u7926\u7194\u7210\u7684\u529f\u80fd\u3002\u6b64\u5916\uff0c\u4f60\u7684\u56db\u80a2\u9084\u9644\u6709\u6bcf\u4e00\u7a2e\u5c08\u696d\u6280\u80fd\u7684\u5de5\u5177\u3002",
+    "zh_CN": "\u4f60\u53ef\u4ee5\u4f7f\u81ea\u5df1\u6210\u4e3a\u4e2a\u4eba\u7528\u953b\u9020\u94c1\u7827\u3001\u70f9\u996a\u7528\u706b\u548c\u91c7\u77ff\u7194\u7089\u3002\u9664\u6b64\u4e4b\u5916\uff0c\u4f60\u7684\u80a2\u4f53\u5185\u5305\u542b\u7740\u5404\u79cd\u4e13\u4e1a\u5de5\u5177\u3002"
+  }
 }

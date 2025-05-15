@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "321387"
+  "SpellID": "321387",
+  "name_blz": {
+    "en_US": "Enlightened",
+    "es_MX": "Ilustrado",
+    "pt_BR": "Ilumina\u00e7\u00e3o",
+    "de_DE": "Erleuchtet",
+    "en_GB": "Enlightened",
+    "es_ES": "Ilustrado",
+    "fr_FR": "Illumin\u00e9",
+    "it_IT": "Illuminato",
+    "ru_RU": "\u041f\u0440\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uae68\ub2ec\uc74c",
+    "zh_TW": "\u5fc3\u667a\u958b\u901a",
+    "zh_CN": "\u542f\u53d1"
+  },
+  "description_blz": {
+    "en_US": "Arcane damage dealt is increased based on your current mana, up to 6% at full mana.\r\n\r\nMana Regen is increased based on your current mana, up to 20% when out of mana.",
+    "es_MX": "El da\u00f1o arcano infligido aumenta seg\u00fan tu man\u00e1 actual, hasta un m\u00e1ximo de 6% cuando tienes el m\u00e1ximo de man\u00e1.\r\n\r\nLa regeneraci\u00f3n de man\u00e1 aumenta seg\u00fan tu man\u00e1 actual, hasta un 20% cuando no tienes man\u00e1.",
+    "pt_BR": "Dano Arcano causado aumentado com base nos seus pontos de mana atuais, at\u00e9 um m\u00e1ximo de 6% quando tiver o m\u00e1ximo de mana.\r\n\r\nRegenera\u00e7\u00e3o de mana aumentada com base nos seus pontos de mana atuais, at\u00e9 um m\u00e1ximo de 20% quando estiver sem mana.",
+    "de_DE": "Euer verursachter Arkanschaden erh\u00f6ht sich abh\u00e4ngig von Eurem aktuellen Mana um bis zu 6% bei vollem Mana.\r\n\r\nDie Manaregeneration erh\u00f6ht sich abh\u00e4ngig von Eurem aktuellen Mana um bis zu 20%, wenn Euer Mana ersch\u00f6pft ist.",
+    "en_GB": "Arcane damage dealt is increased based on your current mana, up to 6% at full mana.\r\n\r\nMana Regen is increased based on your current mana, up to 20% when out of mana.",
+    "es_ES": "El da\u00f1o Arcano infligido aumenta en funci\u00f3n de tu man\u00e1 actual, hasta un m\u00e1ximo del 6% con el m\u00e1ximo de man\u00e1.\r\n\r\nRegeneraci\u00f3n de man\u00e1 aumenta en funci\u00f3n de tu man\u00e1 actual, hasta un m\u00e1ximo del 20% cuando te quedas sin man\u00e1.",
+    "fr_FR": "Les d\u00e9g\u00e2ts des arcanes inflig\u00e9s sont augment\u00e9s proportionnellement \u00e0 votre mana actuel, jusqu\u2019\u00e0 un maximum de 6\u00a0% quand votre mana est au maximum.\r\n\r\nLa r\u00e9g\u00e9n\u00e9ration de mana est augment\u00e9e proportionnellement \u00e0 votre mana actuel, jusqu\u2019\u00e0 un maximum de 20\u00a0% quand vous n\u2019avez plus de mana.",
+    "it_IT": "Aumenta i danni da arcano inflitti in base al mana attuale, fino a un massimo del 6% di danni aggiuntivi quando si ha il mana massimo.\r\n\r\nLa rigenerazione del mana aumenta in base al mana attuale, fino a un massimo del 20% di rigenerazione aggiuntiva quando il mana \u00e8 finito.",
+    "ru_RU": "\u041d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0442\u0435\u043a\u0443\u0449\u0435\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u043c\u0430\u043d\u044b. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u0438\u0431\u0430\u0432\u043a\u0430 \u2013 6% \u043f\u0440\u0438 \u043f\u043e\u043b\u043d\u043e\u043c \u0437\u0430\u043f\u0430\u0441\u0435 \u043c\u0430\u043d\u044b.\r\n\r\n\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043c\u0430\u043d\u044b \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0443\u0440\u043e\u0432\u043d\u044f \u043c\u0430\u043d\u044b. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u0438\u0431\u0430\u0432\u043a\u0430 \u2013 20% \u043f\u0440\u0438 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0438\u0437\u0440\u0430\u0441\u0445\u043e\u0434\u043e\u0432\u0430\u043d\u043d\u043e\u043c \u0437\u0430\u043f\u0430\u0441\u0435 \u043c\u0430\u043d\u044b.",
+    "ko_KR": "\ud604\uc7ac \ub9c8\ub098\uc5d0 \ub530\ub77c \ube44\uc804 \uacf5\uaca9\ub825\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4. \ub9c8\ub098\uac00 \uac00\ub4dd \ucc28 \uc788\uc73c\uba74 \ucd5c\ub300 6%\uae4c\uc9c0 \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ud604\uc7ac \ub9c8\ub098\uc5d0 \ub530\ub77c \ub9c8\ub098 \ud68c\ubcf5 \uc18d\ub3c4\uac00 \uc99d\uac00\ud569\ub2c8\ub2e4. \ub9c8\ub098\uac00 \uc18c\uc9c4\ub418\uba74 \ucd5c\ub300 20%\uae4c\uc9c0 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6839\u64da\u4f60\u7576\u524d\u7684\u6cd5\u529b\u63d0\u9ad8\u9020\u6210\u7684\u79d8\u6cd5\u50b7\u5bb3\uff0c\u5728\u6cd5\u529b\u5168\u6eff\u6642\u6700\u591a\u63d0\u9ad86%\u3002\r\n\r\n\u6839\u64da\u4f60\u7576\u524d\u7684\u6cd5\u529b\u63d0\u9ad8\u6cd5\u529b\u6062\u5fa9\u901f\u5ea6\uff0c\u5728\u6cd5\u529b\u8017\u76e1\u6642\u6700\u591a\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u5965\u672f\u4f24\u5bb3\u57fa\u4e8e\u5f53\u524d\u6cd5\u529b\u503c\u63d0\u9ad8\uff0c\u6cd5\u529b\u5168\u6ee1\u65f6\u6700\u591a\u63d0\u9ad86%\u3002\r\n\r\n\u6cd5\u529b\u503c\u56de\u590d\u901f\u5ea6\u57fa\u4e8e\u5f53\u524d\u6cd5\u529b\u503c\u63d0\u9ad8\uff0c\u6cd5\u529b\u503c\u8017\u5c3d\u65f6\u6700\u591a\u63d0\u9ad820%\u3002"
+  }
 }

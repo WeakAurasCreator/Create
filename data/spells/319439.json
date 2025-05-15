@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "319439"
+  "SpellID": "319439",
+  "name_blz": {
+    "en_US": "Bloodtalons",
+    "es_MX": "Garrasangre",
+    "pt_BR": "Garrassangre",
+    "de_DE": "Blutkrallen",
+    "en_GB": "Bloodtalons",
+    "es_ES": "Garras sangrientas",
+    "fr_FR": "Griffes de sang",
+    "it_IT": "Grinfiarossa",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u0430\u0432\u044b\u0435 \u043a\u043e\u0433\u0442\u0438",
+    "ko_KR": "\ud53c\ud22c\uc131\uc774 \uc190\uae38",
+    "zh_TW": "\u8840\u722a",
+    "zh_CN": "\u8840\u8165\u722a\u51fb"
+  },
+  "description_blz": {
+    "en_US": "When you use 3 different combo point-generating abilities within 4 sec, the damage of your next 3 Rips or Ferocious Bites is increased by 25% for their full duration.",
+    "es_MX": "Cuando usas 3 habilidades que generan puntos de combo distintas en menos de 4 s, el da\u00f1o de tus pr\u00f3ximos 3 lanzamientos de Destripar o Mordedura feroz aumenta un 25% mientras dura el hechizo.",
+    "pt_BR": "Quando voc\u00ea usa 3 habilidades geradoras de pontos de combo em um intervalo de 4 s, o dano das suas pr\u00f3ximas 3 habilidades Rasgar ou Mordida Feroz \u00e9 aumentado em 25% por toda a dura\u00e7\u00e3o.",
+    "de_DE": "Wenn Ihr 3 verschiedene F\u00e4higkeiten, die Combopunkte erzeugen, innerhalb von 4 Sek. einsetzt, wird der Schaden der n\u00e4chsten 3 Eins\u00e4tze von 'Zerfetzen' oder 'Wilder Biss' \u00fcber ihre gesamte Dauer um 25% erh\u00f6ht.",
+    "en_GB": "When you use 3 different combo point-generating abilities within 4 sec, the damage of your next 3 Rips or Ferocious Bites is increased by 25% for their full duration.",
+    "es_ES": "Cuando usas 3 facultades diferentes que generan puntos de combo en un intervalo de 4 s, el da\u00f1o de tus siguientes 3 lanzamientos de Destripar o Mordedura feroz aumenta un 25% hasta que terminen.",
+    "fr_FR": "Lorsque vous utilisez 3\u00a0techniques diff\u00e9rentes g\u00e9n\u00e9rant des points de combo en moins de 4\u00a0s, les d\u00e9g\u00e2ts de vos 3\u00a0prochains sorts D\u00e9chirure ou Morsure f\u00e9roce sont augment\u00e9s de 25% pendant toute leur dur\u00e9e.",
+    "it_IT": "Lanciare 3 diverse abilit\u00e0 che forniscono punti combo entro 4 s una dall'altra permette di aumentare i danni inflitti dai successivi 3 lanci di Squarcio o Morso Feroce del 25% per tutta la durata dell'effetto.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 3 \u0440\u0430\u0437\u043d\u044b\u0435 \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u044e\u0449\u0438\u0435 \u0441\u0435\u0440\u0438\u044e \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4 \u0441\u0435\u043a., \u0443\u0440\u043e\u043d \u043e\u0442 3 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0439 \"\u0420\u0430\u0437\u043e\u0440\u0432\u0430\u0442\u044c\" \u0438\u043b\u0438 \"\u0421\u0432\u0438\u0440\u0435\u043f\u043e\u0433\u043e \u0443\u043a\u0443\u0441\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25% \u043d\u0430 \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f \u0438\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.",
+    "ko_KR": "4\ucd08 \uc548\uc5d0 \uc5f0\uacc4 \uc810\uc218\ub97c \uc0dd\uc131\ud558\ub294 \uac01\uac01 \ub2e4\ub978 \uae30\uc220 3\uac1c\ub97c \uc0ac\uc6a9\ud558\uba74 \ub2e4\uc74c 3\ud68c\uc758 \ub3c4\ub824\ub0b4\uae30 \ub610\ub294 \ud749\ud3ec\ud55c \uc774\ube68\uc758 \uacf5\uaca9\ub825\uc774 \uc804\uccb4 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u7576\u4f60\u57284\u79d2\u5167\u4f7f\u75283\u7a2e\u53ef\u7522\u751f\u9023\u64ca\u9ede\u6578\u7684\u4e0d\u540c\u6280\u80fd\uff0c\u4f60\u63a5\u4e0b\u4f86\u65bd\u653e\u76843\u500b\u6495\u626f\u6216\u5147\u731b\u6495\u54ac\u5728\u5176\u6301\u7e8c\u6642\u9593\u5167\u7684\u50b7\u5bb3\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u5f53\u4f60\u57284\u79d2\u5185\u4f7f\u75283\u4e2a\u4e0d\u540c\u7684\u751f\u6210\u8fde\u51fb\u70b9\u7684\u6280\u80fd\u65f6\uff0c\u4f60\u63a5\u4e0b\u6765\u76843\u4e2a\u5272\u88c2\u6216\u51f6\u731b\u6495\u54ac\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad825%\u3002"
+  }
 }

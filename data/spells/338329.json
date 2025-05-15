@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338329"
+  "SpellID": "338329",
+  "name_blz": {
+    "en_US": "Embrace of Earth",
+    "es_MX": "Abrazo de la tierra",
+    "pt_BR": "Abra\u00e7o da Terra",
+    "de_DE": "Umarmung der Erde",
+    "en_GB": "Embrace of Earth",
+    "es_ES": "Abrazo de la tierra",
+    "fr_FR": "\u00c9treinte de la terre",
+    "it_IT": "Abbraccio della Terra",
+    "ru_RU": "\u041e\u0431\u044a\u044f\u0442\u0438\u044f \u0417\u0435\u043c\u043b\u0438",
+    "ko_KR": "\ub300\uc9c0\uc758 \ud3ec\uc6a9",
+    "zh_TW": "\u5927\u5730\u4e4b\u64c1",
+    "zh_CN": "\u5927\u5730\u4e4b\u62e5"
+  },
+  "description_blz": {
+    "en_US": "Earth Shield increases your healing done to the target by an additional 5.0%.",
+    "es_MX": "Escudo de tierra aumenta la sanaci\u00f3n del objetivo un 5.0% m\u00e1s.",
+    "pt_BR": "Escudo da Terra aumenta em mais 5,0% a cura que voc\u00ea realiza no alvo.",
+    "de_DE": "'Erdschild' erh\u00f6ht Eure beim Ziel hervorgerufene Heilung um zus\u00e4tzlich 5,0%.",
+    "en_GB": "Earth Shield increases your healing done to the target by an additional 5.0%.",
+    "es_ES": "Escudo de tierra aumenta la sanaci\u00f3n que realizas al objetivo un 5,0% extra.",
+    "fr_FR": "Bouclier de terre augmente les soins que vous prodiguez \u00e0 la cible de 5,0% suppl\u00e9mentaires.",
+    "it_IT": "Scudo di Terra aumenta le cure fornite al bersaglio del 5,0% aggiuntivo.",
+    "ru_RU": "\"\u0429\u0438\u0442 \u0437\u0435\u043c\u043b\u0438\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u043e\u0435 \u0432\u0430\u043c\u0438 \u043a \u0446\u0435\u043b\u0438 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u0435\u0449\u0435 \u043d\u0430 5,0%.",
+    "ko_KR": "\ub300\uc9c0\uc758 \ubcf4\ud638\ub9c9\uc774 \ub300\uc0c1\uc5d0 \ub300\ud55c \uc790\uc2e0\uc758 \uce58\uc720\ub7c9\uc744 \ucd94\uac00\ub85c 5.0%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5927\u5730\u4e4b\u76fe\u53ef\u4f7f\u4f60\u5c0d\u76ee\u6a19\u9020\u6210\u7684\u6cbb\u7642\u984d\u5916\u63d0\u9ad85.0%\u3002",
+    "zh_CN": "\u4f60\u5bf9\u5927\u5730\u4e4b\u76fe\u7684\u76ee\u6807\u9020\u6210\u7684\u6cbb\u7597\u6548\u679c\u989d\u5916\u63d0\u9ad85.0%\u3002"
+  }
 }

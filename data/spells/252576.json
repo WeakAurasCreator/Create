@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "252576"
+  "SpellID": "252576",
+  "name_blz": {
+    "en_US": "Antoran Wastes World Quests",
+    "es_MX": "Misiones de mundo de los P\u00e1ramos Antorianos",
+    "pt_BR": "Miss\u00f5es Mundiais nos Ermos Antoranos",
+    "de_DE": "Weltquests der Antorischen \u00d6dnis",
+    "en_GB": "Antoran Wastes World Quests",
+    "es_ES": "Misiones del mundo de Bald\u00edo Antoran",
+    "fr_FR": "Exp\u00e9ditions des \u00e9tendues Antor\u00e9ennes",
+    "it_IT": "Missioni Mondiali delle Distese degli Antoran",
+    "ru_RU": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0432 \u043f\u0443\u0441\u0442\u043e\u0448\u0430\u0445 \u0410\u043d\u0442\u043e\u0440\u0443\u0441\u0430",
+    "ko_KR": "\uc548\ud1a0\ub780 \ud669\ubb34\uc9c0 \uc804\uc5ed \ud018\uc2a4\ud2b8",
+    "zh_TW": "\u5b89\u6258\u6d1b\u65af\u8352\u539f\u4e16\u754c\u4efb\u52d9",
+    "zh_CN": "\u5b89\u6258\u5170\u5e9f\u571f\u4e16\u754c\u4efb\u52a1"
+  },
+  "description_blz": {
+    "en_US": "Unlocks access to World Quests in the Antoran Wastes.",
+    "es_MX": "Desbloquea el acceso a las misiones de mundo en los P\u00e1ramos Antorianos.",
+    "pt_BR": "Desbloqueia o acesso \u00e0s Miss\u00f5es Mundiais nos Ermos Antoranos.",
+    "de_DE": "Schaltet Zugang zu Weltquests in der Antorischen \u00d6dnis frei.",
+    "en_GB": "Unlocks access to World Quests in the Antoran Wastes.",
+    "es_ES": "Desbloquea el acceso a misiones del mundo en Bald\u00edo Antoran.",
+    "fr_FR": "D\u00e9bloque l\u2019acc\u00e8s aux exp\u00e9ditions des \u00e9tendues Antor\u00e9ennes.",
+    "it_IT": "Sblocca l'accesso alle missioni mondiali nelle Distese degli Antoran.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u043c \u0437\u0430\u0434\u0430\u043d\u0438\u044f\u043c \u0432 \u043f\u0443\u0441\u0442\u043e\u0448\u0430\u0445 \u0410\u043d\u0442\u043e\u0440\u0443\u0441\u0430.",
+    "ko_KR": "\uc548\ud1a0\ub780 \ud669\ubb34\uc9c0\uc758 \uc804\uc5ed \ud018\uc2a4\ud2b8\ub97c \uc218\ud589\ud560 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u5b89\u6258\u6d1b\u65af\u8352\u539f\u7684\u4e16\u754c\u4efb\u52d9\u3002",
+    "zh_CN": "\u89e3\u9501\u5b89\u6258\u5170\u5e9f\u571f\u7684\u4e16\u754c\u4efb\u52a1\u3002"
+  }
 }

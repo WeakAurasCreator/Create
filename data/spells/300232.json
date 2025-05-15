@@ -34,5 +34,25 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "300232"
+  "SpellID": "300232",
+  "name_blz": {
+    "en_US": "Upload: TK38[DNT]",
+    "es_MX": "Carga: TK38[DNT]",
+    "en_GB": "Upload: TK38[DNT]",
+    "es_ES": "Cargar: TQ38",
+    "it_IT": "Caricamento: TK38"
+  },
+  "description_blz": {
+    "en_US": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "es_MX": "Carga el plano TK38 a Pascal-R3Y y te permite crearlo por medio del arte de la chatarrer\u00eda.",
+    "pt_BR": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "de_DE": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "en_GB": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "es_ES": "Carga el plano del TQ38 en Pascal-R3Y, lo que te permite fabricarlo mediante el trabajo de manitas de desguace.",
+    "fr_FR": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "ru_RU": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "ko_KR": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "zh_TW": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "zh_CN": "Uploads the TK38[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering."
+  }
 }

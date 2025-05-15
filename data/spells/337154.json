@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "337154"
+  "SpellID": "337154",
+  "name_blz": {
+    "en_US": "Unnerving Focus",
+    "es_MX": "Concentraci\u00f3n perturbadora",
+    "pt_BR": "Concentra\u00e7\u00e3o Inquietante",
+    "de_DE": "Nervenzerrei\u00dfender Fokus",
+    "en_GB": "Unnerving Focus",
+    "es_ES": "Enfoque desconcertante",
+    "fr_FR": "Concentration d\u00e9routante",
+    "it_IT": "Focus Snervante",
+    "ru_RU": "\u041f\u0443\u0433\u0430\u044e\u0449\u0430\u044f \u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u043e\u0447\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ubd88\uad74\uc758 \uc9d1\uc911\ub825",
+    "zh_TW": "\u9707\u61fe\u5c08\u6ce8",
+    "zh_CN": "\u7834\u654c\u4e13\u6ce8"
+  },
+  "description_blz": {
+    "en_US": "Last Stand increases your Rage generation by 30%.",
+    "es_MX": "\u00daltima carga aumenta tu generaci\u00f3n de ira un 30%.",
+    "pt_BR": "\u00daltimo Recurso aumenta sua gera\u00e7\u00e3o de Raiva em 30%.",
+    "de_DE": "'Letztes Gefecht' erh\u00f6ht Eure Wuterzeugung um 30%.",
+    "en_GB": "Last Stand increases your Rage generation by 30%.",
+    "es_ES": "\u00daltima carga aumenta un 30% tu generaci\u00f3n de ira.",
+    "fr_FR": "Dernier rempart augmente de 30% votre g\u00e9n\u00e9ration de rage.",
+    "it_IT": "Ultima Difesa aumenta la generazione di rabbia del 30%.",
+    "ru_RU": "\"\u041d\u0438 \u0448\u0430\u0433\u0443 \u043d\u0430\u0437\u0430\u0434\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u0438\u044f \u044f\u0440\u043e\u0441\u0442\u0438 \u043d\u0430 30%.",
+    "ko_KR": "\ucd5c\ud6c4\uc758 \uc800\ud56d\uc774 \ubd84\ub178 \uc0dd\uc131\ub7c9\uc744 30%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7834\u91dc\u6c89\u821f\u53ef\u4f7f\u4f60\u7522\u751f\u7684\u6012\u6c23\u63d0\u9ad830%\u3002",
+    "zh_CN": "\u7834\u91dc\u6c89\u821f\u4f7f\u4f60\u7684\u6012\u6c14\u503c\u4ea7\u751f\u901f\u7387\u63d0\u9ad830%\u3002"
+  }
 }

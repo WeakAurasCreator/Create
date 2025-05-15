@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "336992"
+  "SpellID": "336992",
+  "name_blz": {
+    "en_US": "Discipline of the Grove",
+    "es_MX": "Disciplina de la arboleda",
+    "pt_BR": "Disciplina do Bosque",
+    "de_DE": "Disziplin des Hains",
+    "en_GB": "Discipline of the Grove",
+    "es_ES": "Disciplina de la arboleda",
+    "fr_FR": "Discipline du bosquet",
+    "it_IT": "Disciplina del Bosco",
+    "ru_RU": "\u0414\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430 \u0440\u043e\u0449\u0438",
+    "ko_KR": "\uc232\uc758 \uaddc\uc728",
+    "zh_TW": "\u6797\u5730\u6212\u5f8b",
+    "zh_CN": "\u6797\u5730\u5f8b\u6cd5"
+  },
+  "description_blz": {
+    "en_US": "Shifting Power reduces your Mage ability cooldowns by an additional 4.0 sec over 3.6 sec.",
+    "es_MX": "Poder cambiante reduce 4.0 s m\u00e1s los tiempos de reutilizaci\u00f3n de tus habilidades de Mago durante 3.6 s.",
+    "pt_BR": "Poder Cambiante reduz a recarga das suas habilidades de Mago em mais 4,0 s ao longo de 3,6 s.",
+    "de_DE": "'Machtverschiebung' verringert die Abklingzeiten Eurer Magierf\u00e4higkeiten im Verlauf von 3,6 Sek. um zus\u00e4tzlich 4,0 Sek.",
+    "en_GB": "Shifting Power reduces your Mage ability cooldowns by an additional 4.0 sec over 3.6 sec.",
+    "es_ES": "Poder cambiante reduce los tiempos de reutilizaci\u00f3n de tus facultades de mago 4,0 s m\u00e1s durante 3,6 s.",
+    "fr_FR": "Puissance fluctuante r\u00e9duit les temps de recharge de vos techniques de mage de 4,0\u00a0s suppl\u00e9mentaires pendant 3,6 s.",
+    "it_IT": "Potere Mutevole riduce i tempi di recupero delle abilit\u00e0 da Maghi di 4,0 s aggiuntivi in 3,6 s.",
+    "ru_RU": "\"\u041f\u0435\u0440\u0435\u0445\u043e\u0434\u044f\u0449\u0430\u044f \u0441\u0438\u043b\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u043c\u0430\u0433\u0430 \u0435\u0449\u0435 \u043d\u0430 4,0 \u0441\u0435\u043a. \u0437\u0430 3,6 \u0441\u0435\u043a",
+    "ko_KR": "\ud798\uc758 \uc804\ud658\uc774 3.6\ucd08\uc5d0 \uac78\uccd0 \ub9c8\ubc95\uc0ac \ub2a5\ub825\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 \ucd94\uac00\ub85c 4.0\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6cd5\u80fd\u79fb\u8f49\u4f7f\u4f60\u7684\u6cd5\u5e2b\u6280\u80fd\u51b7\u537b\u6642\u9593\u57283.6\u79d2\u5167\uff0c\u984d\u5916\u7e2e\u77ed4.0\u79d2\u3002",
+    "zh_CN": "\u53d8\u6613\u5e7b\u80fd\u53ef\u4ee5\u4f7f\u4f60\u7684\u6cd5\u5e08\u6280\u80fd\u51b7\u5374\u65f6\u95f4\u989d\u5916\u51cf\u5c114.0\u79d2\uff0c\u6301\u7eed3.6\u79d2\u3002"
+  }
 }

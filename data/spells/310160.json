@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "310160"
+  "SpellID": "310160",
+  "name_blz": {
+    "en_US": "Abyssal Focus",
+    "es_MX": "Enfoque abisal",
+    "pt_BR": "Foco Abissal",
+    "de_DE": "Abyssischer Fokus",
+    "en_GB": "Abyssal Focus",
+    "es_ES": "Enfoque abisal",
+    "fr_FR": "Focalisation abyssale",
+    "it_IT": "Focus Abissale",
+    "ru_RU": "\u0413\u043b\u0443\u0431\u0438\u043d\u043d\u044b\u0435 \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u044b",
+    "ko_KR": "\uc2ec\uc5f0 \uc9d1\uc911",
+    "zh_TW": "\u6df1\u6df5\u6cd5\u5668",
+    "zh_CN": "\u6df1\u6e0a\u6cd5\u5668"
+  },
+  "description_blz": {
+    "en_US": "Unlocks the Abyssal Focus, required to craft the best equipment from resources gathered in Nazjatar.",
+    "es_MX": "Desbloquea el Enfoque abisal, que es necesario para fabricar el mejor equipo a partir de los recursos que se obtienen en Nazjatar.",
+    "pt_BR": "Desbloqueia o Foco Abissal, necess\u00e1rio para criar o melhor equipamento dos recursos recolhidos em Nazjatar.",
+    "de_DE": "Schaltet den abyssischen Fokus frei, der zur Herstellung der besten Ausr\u00fcstung mit Ressourcen aus Nazjatar erforderlich ist.",
+    "en_GB": "Unlocks the Abyssal Focus, required to craft the best equipment from resources gathered in Nazjatar.",
+    "es_ES": "Desbloquea el enfoque abisal, que se requiere para crear el mejor equipo a partir de los recursos obtenidos en Nazjatar.",
+    "fr_FR": "D\u00e9bloque la Focalisation abyssale, n\u00e9cessaire pour confectionner les meilleurs \u00e9quipements \u00e0 partir des ressources r\u00e9cup\u00e9r\u00e9es \u00e0 Nazjatar.",
+    "it_IT": "Sblocca il Focus Abissale, necessario per creare il miglior equipaggiamento con le risorse raccolte a Nazjatar.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0433\u043b\u0443\u0431\u0438\u043d\u043d\u044b\u043c \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0430\u043c. \u041e\u043d\u0438 \u0442\u0440\u0435\u0431\u0443\u044e\u0442\u0441\u044f \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043b\u0443\u0447\u0448\u0435\u0439 \u044d\u043a\u0438\u043f\u0438\u0440\u043e\u0432\u043a\u0438 \u0438\u0437 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432, \u0441\u043e\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u0432 \u041d\u0430\u0437\u0436\u0430\u0442\u0430\u0440\u0435.",
+    "ko_KR": "\uc2ec\uc5f0 \uc9d1\uc911\uc744 \ud65c\uc131\ud654\ud558\uc5ec \ub098\uc988\uc790\ud0c0\uc5d0\uc11c \ud68d\ub4dd\ud55c \uc790\uc6d0\uc73c\ub85c \ucd5c\uace0\uc758 \uc7a5\ube44\ub97c \ub9cc\ub4e4 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u6df1\u6df5\u6cd5\u5668\uff0c\u9700\u8981\u6709\u6b64\u7269\u54c1\u624d\u80fd\u7528\u7d0d\u6c99\u5854\u723e\u6750\u6599\u6253\u9020\u51fa\u6700\u597d\u7684\u88dd\u5099\u3002",
+    "zh_CN": "\u89e3\u9501\u6df1\u6e0a\u6cd5\u5668\u3002\u5982\u679c\u60f3\u4f7f\u7528\u5728\u7eb3\u6c99\u5854\u5c14\u6536\u96c6\u7684\u8d44\u6e90\u6765\u5236\u4f5c\u6700\u5f3a\u7684\u7269\u54c1\uff0c\u5c31\u9700\u8981\u6df1\u6e0a\u6cd5\u5668\u3002"
+  }
 }

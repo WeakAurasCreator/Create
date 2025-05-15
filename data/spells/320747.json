@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "320747"
+  "SpellID": "320747",
+  "name_blz": {
+    "en_US": "Surge of Earth",
+    "es_MX": "Oleada de tierra",
+    "pt_BR": "Surto Tel\u00farico",
+    "de_DE": "Woge der Erde",
+    "en_GB": "Surge of Earth",
+    "es_ES": "Aluvi\u00f3n de tierra",
+    "fr_FR": "Afflux terrestre",
+    "it_IT": "Impeto della Terra",
+    "ru_RU": "\u0412\u0437\u0434\u044b\u043c\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u0437\u0435\u043c\u043b\u044f",
+    "ko_KR": "\uc1c4\ub3c4\ud558\ub294 \ub300\uc9c0",
+    "zh_TW": "\u5927\u5730\u6e67\u52d5",
+    "zh_CN": "\u5927\u5730\u6fc0\u6d8c"
+  },
+  "description_blz": {
+    "en_US": "Consume up to 3 charges of Earth Shield to heal up to 3 allies near your Earth Shield target for 4,678 per charge consumed.",
+    "es_MX": "Consume hasta 3 cargas de Escudo de tierra para sanar hasta 3 aliados cercanos a tu Escudo de tierra 4,596 p. por carga consumida.",
+    "pt_BR": "Consome at\u00e9 3 cargas de Escudo da Terra para restaurar 4.589 pontos de vida por carga consumida de at\u00e9 3 aliados pr\u00f3ximos ao seu Escudo da Terra.",
+    "de_DE": "Verbraucht bis zu 3 Aufladungen von 'Erdschild', um bis zu 3 Verb\u00fcndete in der N\u00e4he des Ziels Eures Zaubers 'Erdschild' pro verbrauchter Aufladung um 4.661 Gesundheit zu heilen.",
+    "en_GB": "Consume up to 3 charges of Earth Shield to heal up to 3 allies near your Earth Shield target for 4,652 per charge consumed.",
+    "es_ES": "Consume un m\u00e1ximo de 3 cargas de Escudo de tierra para sanar 4523 p. de salud por carga consumida a un m\u00e1ximo de 3 aliados cerca del objetivo de tu Escudo de tierra.",
+    "fr_FR": "Vous consommez jusqu\u2019\u00e0 3\u00a0charges de Bouclier terrestre pour soigner un maximum de 3\u00a0alli\u00e9s proches de la cible \u00e0 hauteur de 4644\u00a0points par charge.",
+    "it_IT": "Consuma fino a 3 cariche di Scudo di Terra per curare fino a 3 alleati vicino al bersaglio del tuo Scudo di Terra di 4.692 per ogni carica consumata.",
+    "ru_RU": "\u041f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \u0434\u043e 3 \u0437\u0430\u0440\u044f\u0434\u043e\u0432 \"\u0429\u0438\u0442\u0430 \u0437\u0435\u043c\u043b\u0438\", \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 3 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441 \u0446\u0435\u043b\u044c\u044e \u0432\u0430\u0448\u0435\u0433\u043e \"\u0429\u0438\u0442\u0430 \u0437\u0435\u043c\u043b\u0438\" \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c 4594 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u043d\u044b\u0439 \u0437\u0430\u0440\u044f\u0434.",
+    "ko_KR": "\ub300\uc9c0\uc758 \ubcf4\ud638\ub9c9 \ucda9\uc804\uc744 \ucd5c\ub300 3\ud68c \uc18c\ubaa8\ud558\uc5ec \ub300\uc9c0\uc758 \ubcf4\ud638\ub9c9 \ub300\uc0c1 \uc8fc\uc704\uc5d0 \uc788\ub294 \uc544\uad70 \ucd5c\ub300 3\uba85\uc758 \uc0dd\uba85\ub825\uc744 \uc18c\ubaa8\ud55c \ucda9\uc804 \ud558\ub098\ub2f9 4,562\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6700\u591a\u6d88\u8017\u63893\u5c64\u7684\u5927\u5730\u4e4b\u76fe\uff0c\u6cbb\u7642\u6700\u591a3\u540d\u4f60\u5927\u5730\u4e4b\u76fe\u76ee\u6a19\u9644\u8fd1\u7684\u76df\u53cb\uff0c\u6bcf\u6d88\u8017\u4e00\u5c64\uff0c\u6062\u5fa94,652\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u6d88\u8017\u6700\u591a3\u5c42\u5927\u5730\u4e4b\u76fe\uff0c\u6bcf\u6d88\u8017\u4e00\u5c42\u90fd\u53ef\u4ee5\u4e3a\u4f60\u5927\u5730\u4e4b\u76fe\u76ee\u6807\u9644\u8fd1\u6700\u591a3\u4f4d\u76df\u53cb\u6062\u590d4,616\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

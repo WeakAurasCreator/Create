@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "319032"
+  "SpellID": "319032",
+  "name_blz": {
+    "en_US": "Improved Shiv",
+    "es_MX": "Puyazo mejorado",
+    "pt_BR": "Estocada Aprimorada",
+    "de_DE": "Verbesserte t\u00fcckische Klinge",
+    "en_GB": "Improved Shiv",
+    "es_ES": "Puyazo mejorado",
+    "fr_FR": "Kriss am\u00e9lior\u00e9",
+    "it_IT": "Stilettata Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u043e\u0442\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0443\u043a\u043e\u043b",
+    "ko_KR": "\ub3c5\uce7c \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u6bd2\u8972",
+    "zh_CN": "\u5f3a\u5316\u6bd2\u5203"
+  },
+  "description_blz": {
+    "en_US": "Shiv now also increases your Nature damage done against the target by 30% for 8 sec.",
+    "es_MX": "Puyazo ahora tambi\u00e9n aumenta un 30% tu da\u00f1o de naturaleza infligido contra el objetivo durante 8 s.",
+    "pt_BR": "Estocada tamb\u00e9m aumenta seu dano de dano de Natureza contra o alvo em 30% por 8 s.",
+    "de_DE": "'T\u00fcckische Klinge' erh\u00f6ht zus\u00e4tzlich Euren verursachten Naturschaden gegen das Ziel 8 Sek. lang um 30%.",
+    "en_GB": "Shiv now also increases your Nature damage done against the target by 30% for 8 sec.",
+    "es_ES": "Ahora Puyazo aumenta tambi\u00e9n el da\u00f1o de Naturaleza que infliges al objetivo un 30% durante 8 s.",
+    "fr_FR": "Kriss augmente \u00e9galement les d\u00e9g\u00e2ts de Nature que vous infligez \u00e0 la cible de 30% pendant 8 s.",
+    "it_IT": "Stilettata aumenta i danni da natura inflitti al bersaglio del 30% per 8 s.",
+    "ru_RU": "\"\u041e\u0442\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0443\u043a\u043e\u043b\" \u0442\u0435\u043f\u0435\u0440\u044c \u0442\u0430\u043a\u0436\u0435 \u043d\u0430 8 \u0441\u0435\u043a. \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u0446\u0435\u043b\u0438, \u043d\u0430 30%.",
+    "ko_KR": "\ub3c5\uce7c\uc774 \ucd94\uac00\ub85c 8\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc5d0 \ub300\ud55c \uc790\uc5f0 \uacf5\uaca9\ub825\uc744 30%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6bd2\u8972\u73fe\u5728\u6703\u4f7f\u4f60\u5c0d\u8a72\u76ee\u6a19\u9020\u6210\u7684\u81ea\u7136\u50b7\u5bb3\u63d0\u9ad830%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u73b0\u5728\u6bd2\u5203\u8fd8\u4f1a\u4f7f\u4f60\u5bf9\u76ee\u6807\u9020\u6210\u7684\u81ea\u7136\u4f24\u5bb3\u63d0\u9ad830%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

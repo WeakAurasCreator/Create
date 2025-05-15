@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "337056"
+  "SpellID": "337056",
+  "name_blz": {
+    "en_US": "Condemn",
+    "es_MX": "Condenar",
+    "pt_BR": "Condenar",
+    "de_DE": "Verurteilen",
+    "en_GB": "Condemn",
+    "es_ES": "Condenar",
+    "fr_FR": "Bl\u00e2me",
+    "it_IT": "Condanna",
+    "ru_RU": "\u041f\u043e\u0440\u0438\u0446\u0430\u043d\u0438\u0435",
+    "ko_KR": "\uaddc\ud0c4",
+    "zh_TW": "\u5b9a\u7f6a",
+    "zh_CN": "\u5224\u7f6a"
+  },
+  "description_blz": {
+    "en_US": "Learn Condemn, replacing Execute. Condemn deals Shadow damage, can be used on enemies who are above 80% health or below 20% health, and weakens the target preventing some of the damage they would deal to you.",
+    "es_MX": "Aprende Condenar, que reemplaza Ejecutar. Condenar inflige da\u00f1o de las sombras y se puede usar contra enemigos que tienen m\u00e1s del 80% de salud o menos del 20%, adem\u00e1s de debilitar al objetivo para que te inflija menos da\u00f1o.",
+    "pt_BR": "Aprende Condenar, substituindo o Executar. Condenar causa dano de Sombra, s\u00f3 pode ser usado em inimigos com mais de 80% ou menos de 20% dos pontos de vida e enfraquece o alvo, impedindo-o de causar parte do dano que causaria a voc\u00ea.",
+    "de_DE": "Erlernt die F\u00e4higkeit 'Verurteilen', die 'Hinrichten' ersetzt. 'Verurteilen' verursacht Schattenschaden und kann gegen Gegner mit \u00fcber 80% oder unter 20% Gesundheit eingesetzt werden. Das Ziel wird geschw\u00e4cht, was einen Teil des Schadens verhindert, den dieses Ziel Euch zuf\u00fcgen w\u00fcrde.",
+    "en_GB": "Learn Condemn, replacing Execute. Condemn deals Shadow damage, can be used on enemies who are above 80% health or below 20% health, and weakens the target preventing some of the damage they would deal to you.",
+    "es_ES": "Aprendes Condenar, que sustituye a Ejecutar. Condenar inflige da\u00f1o de las Sombras, se puede usar con enemigos cuya salud est\u00e9 por encima del 80% o por debajo del 20%, y debilita al objetivo, lo que evita parte del da\u00f1o que te infligir\u00eda.",
+    "fr_FR": "Vous apprenez Bl\u00e2me, qui remplace Ex\u00e9cution. Bl\u00e2me inflige des d\u00e9g\u00e2ts d\u2019Ombre et peut \u00eatre utilis\u00e9 sur les ennemis ayant plus de 80% ou moins de 20% de leurs points de vie. Cette technique affaiblit \u00e9galement la cible, r\u00e9duisant ainsi les d\u00e9g\u00e2ts qu\u2019elle est susceptible de vous infliger.",
+    "it_IT": "Condanna sostituisce Esecuzione. Condanna infligge danni da ombra, pu\u00f2 essere lanciata su nemici al di sopra del 80% o al di sotto del 20% della salute massima e indebolisce il bersaglio riducendone in parte i danni a te inflitti.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041f\u043e\u0440\u0438\u0446\u0430\u043d\u0438\u0435\", \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0449\u0443\u044e \u0441\u043e\u0431\u043e\u0439 \"\u041a\u0430\u0437\u043d\u044c\". \"\u041f\u043e\u0440\u0438\u0446\u0430\u043d\u0438\u0435\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432\u044b\u0448\u0435 80% \u0438\u043b\u0438 \u043d\u0438\u0436\u0435 20% \u0438 \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u0446\u0435\u043b\u044c, \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u043e\u0433\u043e \u0432\u0430\u043c \u0435\u044e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc77c\uaca9\uc744 \ub300\uccb4\ud558\ub294 \uaddc\ud0c4\uc744 \ubc30\uc6c1\ub2c8\ub2e4. \uaddc\ud0c4\uc740 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uba70, \uc0dd\uba85\ub825\uc774 80% \uc774\uc0c1\uc774\uac70\ub098 20% \ubbf8\ub9cc\uc778 \uc801\uc5d0\uac8c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub610\ud55c \ub300\uc0c1\uc744 \uc57d\ud654\uc2dc\ucf1c \uc790\uc2e0\uc5d0\uac8c \uc785\ud788\ub294 \ud53c\ud574\ub97c \uc77c\ubd80 \ubc29\uc9c0\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5b78\u7fd2\u5b9a\u7f6a\uff0c\u53d6\u4ee3\u65ac\u6bba\u3002\u5b9a\u7f6a\u9020\u6210\u6697\u5f71\u50b7\u5bb3\uff0c\u53ef\u5c0d\u751f\u547d\u529b\u9ad8\u65bc80%\u6216\u4f4e\u65bc20%\u7684\u6575\u4eba\u4f7f\u7528\uff0c\u4e26\u4e14\u5f31\u5316\u76ee\u6a19\uff0c\u5c07\u4ed6\u5011\u5c0d\u4f60\u9020\u6210\u7684\u90e8\u5206\u50b7\u5bb3\u7121\u6548\u5316\u3002",
+    "zh_CN": "\u5b66\u4e60\u5224\u7f6a\uff0c\u66ff\u6362\u65a9\u6740\u3002\u5224\u7f6a\u4f1a\u9020\u6210\u6697\u5f71\u4f24\u5bb3\uff0c\u53ef\u5bf9\u751f\u547d\u503c\u9ad8\u4e8e80%\u6216\u4f4e\u4e8e20%\u7684\u654c\u4eba\u4f7f\u7528\u3002\u5224\u7f6a\u8fd8\u80fd\u524a\u5f31\u76ee\u6807\uff0c\u62b5\u6321\u5176\u5bf9\u4f60\u9020\u6210\u7684\u67d0\u4e9b\u4f24\u5bb3\u3002"
+  }
 }

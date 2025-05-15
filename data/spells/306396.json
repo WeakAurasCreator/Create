@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "306396"
+  "SpellID": "306396",
+  "name_blz": {
+    "en_US": "Light's Speed",
+    "es_MX": "Velocidad de la Luz",
+    "pt_BR": "Velocidade da Luz",
+    "de_DE": "Geschwindigkeit des Lichts",
+    "en_GB": "Light's Speed",
+    "es_ES": "Velocidad de la luz",
+    "fr_FR": "Vitesse de la Lumi\u00e8re",
+    "it_IT": "Velocit\u00e0 della Luce",
+    "ru_RU": "\u0421\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uc18d\ub3c4",
+    "zh_TW": "\u8056\u5149\u4e4b\u901f",
+    "zh_CN": "\u5149\u8000\u795e\u901f"
+  },
+  "description_blz": {
+    "en_US": "The Lightspawn blesses you, granting you a 60% speed boost for 10 min.",
+    "es_MX": "El Engendro de luz te bendice, lo que aumenta tu velocidad un 60% durante 10 min.",
+    "pt_BR": "A Cria da Luz aben\u00e7oou voc\u00ea, concedendo 60% de velocidade de movimento por 10 min.",
+    "de_DE": "Die Lichtbrut segnet Euch und gew\u00e4hrt Euch f\u00fcr 10 Min. einen Geschwindigkeitsschub von 60%.",
+    "en_GB": "The Lightspawn blesses you, granting you a 60% speed boost for 10 min.",
+    "es_ES": "El engendro de luz te bendice, lo que aumenta un 60% tu velocidad durante 10 min.",
+    "fr_FR": "Vous recevez la b\u00e9n\u00e9diction du rejeton de Lumi\u00e8re, ce qui augmente votre vitesse de 60% pendant 10 min.",
+    "it_IT": "La benedizione della Prole della Luce aumenta la velocit\u00e0 di movimento del 60% per 10 min.",
+    "ru_RU": "\u041f\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0421\u0432\u0435\u0442\u0430 \u0431\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u043b\u044f\u0435\u0442 \u0432\u0430\u0441, \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u0432\u0430\u0448\u0443 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 60% \u043d\u0430 10 \u043c\u0438\u043d.",
+    "ko_KR": "\ube5b\uc758 \uc815\ub839\uc758 \ucd95\ubcf5\uc744 \ubc1b\uc544 10\ubd84 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 60%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u5149\u4e4b\u5b50\u795d\u798f\u4f60\uff0c\u4f7f\u4f60\u7684\u901f\u5ea6\u63d0\u9ad860%\uff0c\u6301\u7e8c10\u5206\u9418\u3002",
+    "zh_CN": "\u5149\u8000\u4e4b\u5b50\u8d50\u4e88\u4e86\u4f60\u795d\u798f\uff0c\u4f7f\u4f60\u83b7\u5f9760%\u901f\u5ea6\u52a0\u6210\uff0c\u6301\u7eed10\u5206\u949f\u3002"
+  }
 }

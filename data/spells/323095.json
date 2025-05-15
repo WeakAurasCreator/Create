@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "323095"
+  "SpellID": "323095",
+  "name_blz": {
+    "en_US": "Ultimate Form",
+    "es_MX": "Forma definitiva",
+    "pt_BR": "Forma Definitiva",
+    "de_DE": "Ultimative Gestalt",
+    "en_GB": "Ultimate Form",
+    "es_ES": "Forma definitiva",
+    "fr_FR": "Forme ultime",
+    "it_IT": "Forma Definitiva",
+    "ru_RU": "\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439 \u043e\u0431\u043b\u0438\u043a",
+    "ko_KR": "\uad81\uadf9\uc758 \ud615\uc0c1",
+    "zh_TW": "\u7d42\u6975\u5f62\u614b",
+    "zh_CN": "\u7ec8\u6781\u5f62\u6001"
+  },
+  "description_blz": {
+    "en_US": "While channeling Fleshcraft, you are immune to crowd control and you regenerate 2% health every 1 sec. \r\n\r\nIf you finish the full channel, you gain 3 sec of crowd control immunity, during which you regenerate 2% health every 1 sec.",
+    "es_MX": "Mientras canalizas Forjacarne, eres inmune al control de masas y regeneras un 2% de salud cada 1 s. \r\n\r\nSi terminas de canalizarlo completamente, obtienes 3 s de inmunidad a control de masas, durante los que regeneras un 2% de salud cada 1 s.",
+    "pt_BR": "Enquanto canaliza Moldacarne, voc\u00ea fica imune a efeitos de controle coletivo e regenera 2% de vida a cada 1 s. \r\n\r\nCanalizar at\u00e9 o fim concede mais 3 s de imunidade a efeitos de controle coletivo, e voc\u00ea regenera mais 2% de vida a cada 1 s durante este efeito.",
+    "de_DE": "W\u00e4hrend der Kanalisierung von 'Fleischformung' seid Ihr immun gegen Kontrollverlusteffekte und regeneriert alle 1 Sek. 2% Gesundheit.\r\n\r\nWenn die Kanalisierung vollst\u00e4ndig abgeschlossen wird, seid Ihr f\u00fcr weitere 3 Sek. immun gegen Kontrollverlusteffekte und regeneriert w\u00e4hrenddessen alle 1 Sek. 2% Gesundheit.",
+    "en_GB": "While channeling Fleshcraft, you are immune to crowd control and you regenerate 2% health every 1 sec. \r\n\r\nIf you finish the full channel, you gain 3 sec of crowd control immunity, during which you regenerate 2% health every 1 sec.",
+    "es_ES": "Mientras canalizas Modelar carne, eres inmune al control de masas y regeneras un 2% de salud cada 1 s.\r\n\r\nSi terminas la canalizaci\u00f3n por completo, obtienes 3 s de inmunidad al control de masas, durante la cual regeneras un 2% de salud cada 1 s.",
+    "fr_FR": "Lorsque vous canalisez Chair recompos\u00e9e, vous \u00eates insensible aux effets de contr\u00f4le et r\u00e9cup\u00e9rez 2% de vos points de vie toutes les 1\u00a0s.\r\n\r\nPoursuivre la canalisation jusqu\u2019au bout vous rend insensible aux effets de contr\u00f4le pendant 3 s de plus durant lesquelles vous r\u00e9cup\u00e9rez 2% de vos points de vie toutes les 1\u00a0s.",
+    "it_IT": "Durante la canalizzazione di Forgiatura della Carne si \u00e8 immuni agli effetti di controllo delle creature e il 2% della salute massima viene rigenerato ogni 1 s. \r\n\r\nPortare a termine la canalizzazione fornisce immunit\u00e0 agli effetti di controllo delle creature per 3 s, durante i quali viene rigenerato il 2% della salute massima ogni 1 s.",
+    "ru_RU": "\u041d\u0430 \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f \"\u0421\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u043f\u043b\u043e\u0442\u0438\" \u0434\u0430\u0435\u0442 \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u043e\u0441\u0442\u044c \u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0438 \u0440\u0430\u0437 \u0432 1 \u0441\u0435\u043a. \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c 2% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u0415\u0441\u043b\u0438 \u0432\u044b \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435, \u044d\u0444\u0444\u0435\u043a\u0442 \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u043e\u0441\u0442\u0438 \u0434\u043b\u0438\u0442\u0441\u044f \u0435\u0449\u0435 3 \u0441\u0435\u043a. \u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u044d\u0442\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u044b \u0440\u0430\u0437 \u0432 1 \u0441\u0435\u043a. \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 2% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc0b4\ub369\uc774\ucc3d\uc870\uc5d0 \uc9d1\uc911\ud558\ub294 \ub3d9\uc548 \uad70\uc911 \uc81c\uc5b4 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub418\uace0 1\ucd08\ub9c8\ub2e4 2%\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4. \r\n\r\n\uc815\uc2e0 \uc9d1\uc911\uc744 \ub05d\uae4c\uc9c0 \ub9c8\uce58\uba74 3\ucd08 \ub3d9\uc548 \uad70\uc911 \uc81c\uc5b4 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub429\ub2c8\ub2e4. \ub610\ud55c \uadf8 \uc2dc\uac04 \ub3d9\uc548 1\ucd08\ub9c8\ub2e4 2%\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5f15\u5c0e\u8840\u8089\u5de5\u85dd\u6642\uff0c\u4f60\u5c0d\u63a7\u5834\u6548\u679c\u514d\u75ab\uff0c\u4e26\u4e14\u6bcf1\u79d2\u6062\u5fa92%\u751f\u547d\u529b\u3002\r\n\r\n\u5982\u679c\u9806\u5229\u5b8c\u6210\u6574\u500b\u5f15\u5c0e\u904e\u7a0b\uff0c\u53ef\u7372\u5f973\u79d2\u63a7\u5834\u514d\u75ab\uff0c\u540c\u6642\u6bcf1\u79d2\u6062\u5fa92%\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u5f15\u5bfc\u8840\u8089\u94f8\u9020\u671f\u95f4\u514d\u75ab\u7fa4\u4f53\u63a7\u5236\u6280\u80fd\uff0c\u540c\u65f6\u6bcf1\u79d2\u6062\u590d2%\u7684\u751f\u547d\u503c\u3002\r\n\r\n\u5b8c\u6210\u5168\u90e8\u5f15\u5bfc\u540e\uff0c\u4f60\u83b7\u5f973\u79d2\u7684\u514d\u75ab\u63a7\u5236\u6548\u679c\uff0c\u5728\u6b64\u671f\u95f4\u6bcf1\u79d2\u6062\u590d2%\u7684\u751f\u547d\u503c\u3002"
+  }
 }

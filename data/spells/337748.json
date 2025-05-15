@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "337748"
+  "SpellID": "337748",
+  "name_blz": {
+    "en_US": "Light's Inspiration",
+    "es_MX": "Inspiraci\u00f3n de la Luz",
+    "pt_BR": "Inspira\u00e7\u00e3o da Luz",
+    "de_DE": "Inspiration des Lichts",
+    "en_GB": "Light's Inspiration",
+    "es_ES": "Inspiraci\u00f3n de la Luz",
+    "fr_FR": "Inspiration de la Lumi\u00e8re",
+    "it_IT": "Ispirazione della Luce",
+    "ru_RU": "\u0412\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uac10\ud654",
+    "zh_TW": "\u8056\u5149\u9f13\u821e",
+    "zh_CN": "\u5723\u5149\u9f13\u821e"
+  },
+  "description_blz": {
+    "en_US": "Desperate Prayer heals you for an additional 10.0% of your maximum health over 5 sec.",
+    "es_MX": "Rezo desesperado te sana un 10.0% m\u00e1s de tu salud m\u00e1xima durante 5 s.",
+    "pt_BR": "Prece Desesperada concede a voc\u00ea uma cura equivalente a 10,0% do seu m\u00e1ximo de pontos de vida ao longo de 5 s.",
+    "de_DE": "'Verzweifeltes Gebet' heilt Euch im Verlauf von 5 Sek. um zus\u00e4tzlich 10,0% Eurer maximalen Gesundheit.",
+    "en_GB": "Desperate Prayer heals you for an additional 10.0% of your maximum health over 5 sec.",
+    "es_ES": "Rezo desesperado te sana un 10,0% extra de tu salud m\u00e1xima durante 5 s.",
+    "fr_FR": "Pri\u00e8re du d\u00e9sespoir vous rend 10,0% de votre maximum de points de vie en plus en 5 s.",
+    "it_IT": "Preghiera Disperata fornisce cure aggiuntive pari al 10,0% della tua salute massima in 5 s.",
+    "ru_RU": "\"\u041c\u043e\u043b\u0438\u0442\u0432\u0430 \u043e\u0442\u0447\u0430\u044f\u043d\u0438\u044f\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0435\u0449\u0435 10,0% \u0432\u0430\u0448\u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\uad6c\uc6d0\uc758 \uae30\ub3c4 \uc2dc\uc804 \uc2dc 5\ucd08\uc5d0 \uac78\uccd0 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 10.0%\ub9cc\ud07c \ucd94\uac00\ub85c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7d55\u671b\u79b1\u8a00\u53ef\u57285\u79d2\u5167\uff0c\u4f7f\u4f60\u984d\u5916\u6062\u5fa9\u751f\u547d\u529b\u4e0a\u9650\u768410.0%\u3002",
+    "zh_CN": "\u7edd\u671b\u7977\u8a00\u4f1a\u57285\u79d2\u5185\u989d\u5916\u4e3a\u4f60\u6062\u590d\u4f60\u6700\u5927\u751f\u547d\u503c\u768410.0%\u3002"
+  }
 }

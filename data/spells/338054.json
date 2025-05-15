@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "338054"
+  "SpellID": "338054",
+  "name_blz": {
+    "en_US": "Crippling Hex",
+    "es_MX": "Maldici\u00f3n incapacitante",
+    "pt_BR": "Bagata Incapacitante",
+    "de_DE": "Verkr\u00fcppelnde Verhexung",
+    "en_GB": "Crippling Hex",
+    "es_ES": "Maleficio entorpecedor",
+    "fr_FR": "Mal\u00e9fice affaiblissant",
+    "it_IT": "Maleficio Paralizzante",
+    "ru_RU": "\u0423\u0432\u0435\u0447\u0430\u0449\u0438\u0439 \u0441\u0433\u043b\u0430\u0437",
+    "ko_KR": "\ub9c8\ube44\uc758 \uc0ac\uc220",
+    "zh_TW": "\u81f4\u6b98\u5996\u8853",
+    "zh_CN": "\u81f4\u6b8b\u5996\u672f"
+  },
+  "description_blz": {
+    "en_US": "Enemies affected by your Hex deal 8% reduced damage for 8 sec after Hex is removed.",
+    "es_MX": "Los enemigos afectados por tu Maleficio infligen un 8% menos de da\u00f1o durante 8 s despu\u00e9s de la eliminaci\u00f3n de Maleficio.",
+    "pt_BR": "Inimigos afetados pela sua Bagata causam 8% a menos de dano por 8 s quando a Bagata \u00e9 removida.",
+    "de_DE": "Von Eurer 'Verhexung' betroffene Gegner verursachen nach der Entfernung von 'Verhexung' 8 Sek. lang 8% weniger Schaden.",
+    "en_GB": "Enemies affected by your Hex deal 8% reduced damage for 8 sec after Hex is removed.",
+    "es_ES": "Los enemigos afectados por tu Maleficio infligen un 8% menos de da\u00f1o durante 8 s despu\u00e9s de eliminar Maleficio.",
+    "fr_FR": "Quand votre Mal\u00e9fice est annul\u00e9, l\u2019ennemi qu\u2019il affectait inflige 8% de d\u00e9g\u00e2ts en moins pendant 8 s.",
+    "it_IT": "I danni inflitti dai nemici precedentemente affetti da un tuo Maleficio sono ridotti del 8% per 8 s dopo che il Maleficio \u00e8 stato dissolto.",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u0435 \"\u0421\u0433\u043b\u0430\u0437\u043e\u043c\" \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 8% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0441\u043d\u044f\u0442\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430.",
+    "ko_KR": "\uc0ac\uc220\uc758 \uc601\ud5a5\uc744 \ubc1b\ub294 \uc801\uc740 \uc0ac\uc220\uc774 \uc0ac\ub77c\uc9c4 \ud6c4, 8\ucd08 \ub3d9\uc548 \uacf5\uaca9\ub825\uc774 8%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53d7\u5230\u5996\u8853\u5f71\u97ff\u7684\u6575\u4eba\uff0c\u5728\u5996\u8853\u6548\u679c\u7d50\u675f\u5f8c\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e8%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u53d7\u5230\u4f60\u5996\u672f\u5f71\u54cd\u7684\u654c\u4eba\u5728\u5996\u672f\u6548\u679c\u7ed3\u675f\u540e\u76848\u79d2\u5185\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e8%\u3002"
+  }
 }

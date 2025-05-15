@@ -34,5 +34,25 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "300237"
+  "SpellID": "300237",
+  "name_blz": {
+    "en_US": "Upload: TK43[DNT]",
+    "es_MX": "Carga: TK43[DNT]",
+    "en_GB": "Upload: TK43[DNT]",
+    "es_ES": "Cargar: TQ43",
+    "it_IT": "Caricamento: TK43"
+  },
+  "description_blz": {
+    "en_US": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "es_MX": "Carga el plano TK43 a Pascal-R3Y y te permite crearlo por medio del arte de la chatarrer\u00eda.",
+    "pt_BR": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "de_DE": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "en_GB": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "es_ES": "Carga el plano del TQ43 en Pascal-R3Y, lo que te permite fabricarlo mediante el trabajo de manitas de desguace.",
+    "fr_FR": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "ru_RU": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "ko_KR": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "zh_TW": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering.",
+    "zh_CN": "Uploads the TK43[DNT] blueprint to Pascal-K1N6, allowing you to craft it through Junkyard Tinkering."
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "290124"
+  "SpellID": "290124",
+  "name_blz": {
+    "en_US": "Recipe: Khaz'gorian Smithing Hammer",
+    "es_MX": "Receta: Martillo de herrer\u00eda khaz'goriano",
+    "pt_BR": "Receita: Martelo de Ferreiro Khaz'goriano",
+    "de_DE": "Pl\u00e4ne: Khaz'gorischer Schmiedehammer",
+    "en_GB": "Recipe: Khaz'gorian Smithing Hammer",
+    "es_ES": "Receta: martillo de herrer\u00eda de Khaz'goria",
+    "fr_FR": "Plan\u00a0: Marteau de forge khaz\u2019gorien",
+    "it_IT": "Progetto: Martello da Forgiatore Khaz'goriano",
+    "ru_RU": "\u0420\u0435\u0446\u0435\u043f\u0442: \u043a\u0443\u0437\u043d\u0435\u0447\u043d\u044b\u0439 \u043c\u043e\u043b\u043e\u0442 \u041a\u0430\u0437'\u0433\u043e\u0440\u043e\u0442\u0430",
+    "ko_KR": "\ub3c4\uc548: \uce74\uc988\uace0\ub9ac\uc548 \ub300\uc7a5\uc7a5\uc774 \ub9dd\uce58",
+    "zh_TW": "\u8a2d\u8a08\u5716\uff1a\u5361\u8332\u683c\u91cc\u5b89\u9435\u5320\u4e4b\u9318",
+    "zh_CN": "\u914d\u65b9\uff1a\u5361\u5179\u683c\u91cc\u5b89\u953b\u5de5\u9524"
+  },
+  "description_blz": {
+    "en_US": "Learn to craft the following items:\r\nKhaz'gorian Smithing Hammer.",
+    "es_MX": "Te ense\u00f1a a fabricar los siguientes objetos:\r\nMartillo de herrer\u00eda khaz'goriano.",
+    "pt_BR": "Ensina a criar os seguintes itens:\r\nMartelo de Ferreiro Khaz'goriano.",
+    "de_DE": "Erlernt, den folgenden Gegenstand herzustellen:\r\nKhaz'gorischer Schmiedehammer",
+    "en_GB": "Learn to craft the following items:\r\nKhaz'gorian Smithing Hammer.",
+    "es_ES": "Aprende a fabricar los siguientes objetos:\r\nMartillo de herrer\u00eda de Khaz'goria",
+    "fr_FR": "Apprend \u00e0 fa\u00e7onner l\u2019objet suivant\u00a0: \r\nMarteau de forge khaz\u2019gorien",
+    "it_IT": "Apprendi come creare il seguente oggetto:\r\nMartello da Forgiatore Khaz'goriano.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b:\r\n\u041a\u0443\u0437\u043d\u0435\u0447\u043d\u044b\u0439 \u043c\u043e\u043b\u043e\u0442 \u041a\u0430\u0437'\u0433\u043e\u0440\u043e\u0442\u0430.",
+    "ko_KR": "\ub2e4\uc74c \uc544\uc774\ud15c \ub9cc\ub4dc\ub294 \ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4:\r\n\uce74\uc988\uace0\ub9ac\uc548 \ub300\uc7a5\uc7a5\uc774 \ub9dd\uce58",
+    "zh_TW": "\u5b78\u7fd2\u88fd\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u5361\u8332\u683c\u91cc\u5b89\u9435\u5320\u4e4b\u9318\u3002",
+    "zh_CN": "\u5b66\u4e60\u5236\u4f5c\u4e0b\u5217\u7269\u54c1\uff1a\r\n\u5361\u5179\u683c\u91cc\u5b89\u953b\u5de5\u9524\u3002"
+  }
 }

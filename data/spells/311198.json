@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "311198"
+  "SpellID": "311198",
+  "name_blz": {
+    "en_US": "Lethal Strikes",
+    "es_MX": "Golpes mort\u00edferos",
+    "pt_BR": "Golpes Letais",
+    "de_DE": "T\u00f6dliche Hiebe",
+    "en_GB": "Lethal Strikes",
+    "es_ES": "Golpes mort\u00edferos",
+    "fr_FR": "Frappes l\u00e9tales",
+    "it_IT": "Assalti Letali",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b",
+    "ko_KR": "\uce58\uba85\uc801\uc778 \uc77c\uaca9",
+    "zh_TW": "\u81f4\u547d\u6253\u64ca",
+    "zh_CN": "\u81f4\u4f24\u6253\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Your spells and abilities have a chance to strike your target for 96 Fire damage, and heal you for 50% of the damage dealt.\r\n\r\nIf your target is below 20% health, the chance for extra damage is increased by 400%.\r\n\r\nUnique:  Corruption Resistance increased by 10.",
+    "es_MX": "Tus hechizos y habilidades tienen la probabilidad de infligir 96 p. de da\u00f1o de fuego cuando golpean a tu objetivo y de sanarte por un 50% del da\u00f1o infligido.\r\n\r\nSi tu objetivo tiene menos del 20% de salud, la probabilidad de infligir da\u00f1o adicional aumenta un 400%.\r\n\r\n\u00danico:  Aumenta 10 p. la Resistencia a la corrupci\u00f3n.",
+    "pt_BR": "Seus feiti\u00e7os e suas habilidades t\u00eam chance de causar mais 96 de dano de Fogo e de curar voc\u00ea em 50% do dano causado.\r\n\r\nSe o alvo ficar com menos de 20% dos pontos de vida, a chance de causar dano extra aumenta em 400%.\r\n\r\n\u00danico: Resist\u00eancia a Corrup\u00e7\u00e3o aumentada em 10.",
+    "de_DE": "Eure Zauber und F\u00e4higkeiten haben die Chance, Eurem Ziel bei einem Treffer 96 Feuerschaden zuzuf\u00fcgen und Euch um 50% des verursachten Schadens zu heilen.\r\n\r\nWenn Euer Ziel weniger als 20% Gesundheit hat, ist die Chance auf zus\u00e4tzlichen Schaden um 400% erh\u00f6ht.\r\n\r\nEinzigartig: Verderbniswiderstand um 10 erh\u00f6ht.",
+    "en_GB": "Your spells and abilities have a chance to strike your target for 96 Fire damage, and heal you for 50% of the damage dealt.\r\n\r\nIf your target is below 20% health, the chance for extra damage is increased by 400%.\r\n\r\nUnique:  Corruption Resistance increased by 10.",
+    "es_ES": "Tus hechizos y facultades tienen una probabilidad de alcanzar a tu objetivo e infligirle 96 p. de da\u00f1o de Fuego, adem\u00e1s de sanarte una cantidad equivalente a un 50% del da\u00f1o infligido.\r\n\r\nSi tu objetivo est\u00e1 por debajo del 20% de salud, la probabilidad de infligir da\u00f1o extra aumenta un 400%.\r\n\r\n\u00danico: Resistencia a la corrupci\u00f3n aumentada 10 p.",
+    "fr_FR": "Vos sorts et techniques ont une chance d\u2019infliger 96\u00a0points de d\u00e9g\u00e2ts de Feu \u00e0 votre cible, et vous rendent un montant de points de vie \u00e9gal \u00e0 50% des d\u00e9g\u00e2ts inflig\u00e9s.\r\n\r\nSi votre cible a moins de 20% de ses points de vie, les chances de d\u00e9g\u00e2ts suppl\u00e9mentaires augmentent de 400%.\r\n\r\nUnique\u00a0: R\u00e9sistance \u00e0 la corruption augment\u00e9e de 10.",
+    "it_IT": "Gli incantesimi e le abilit\u00e0 hanno una probabilit\u00e0 di infliggere 96 danni da fuoco al bersaglio e rigenerare salute pari al 50% dei danni inflitti.\r\n\r\nSe il bersaglio ha meno del 20% della salute massima, la probabilit\u00e0 di infliggere danni aggiuntivi \u00e8 aumentata del 400%.\r\n\r\nUnico: Resistenza alla Corruzione aumentata di 10.",
+    "ru_RU": "\u0417\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043c\u043e\u0433\u0443\u0442 \u043d\u0430\u043d\u0435\u0441\u0442\u0438 \u0446\u0435\u043b\u0438 96 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u0432\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 50% \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u0415\u0441\u043b\u0438 \u0443 \u0446\u0435\u043b\u0438 \u043c\u0435\u043d\u0435\u0435 20% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u043d\u0435\u0441\u0442\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0443\u0440\u043e\u043d \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 400%.\r\n\r\n\u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442: \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u043e\u0440\u0447\u0435 \u043d\u0430 10.",
+    "ko_KR": "\uc8fc\ubb38\uacfc \ub2a5\ub825 \uc0ac\uc6a9 \uc2dc \uc77c\uc815 \ud655\ub960\ub85c \ub300\uc0c1\uc744 \uac15\ud0c0\ud558\uc5ec 96\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ub610\ud55c, \ud53c\ud574\uc758 50%\uc5d0 \ud574\ub2f9\ud558\ub294 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.\r\n\r\n\ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc774 20% \ubbf8\ub9cc\uc774\uba74 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud790 \ud655\ub960\uc774 400%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uace0\uc720: \ud0c0\ub77d \uc800\ud56d\uc774 10\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6cd5\u8853\u548c\u6280\u80fd\u6709\u4e00\u5b9a\u6a5f\u7387\u653b\u64ca\u4f60\u7684\u76ee\u6a19\uff0c\u9020\u621096\u9ede\u706b\u7130\u50b7\u5bb3\uff0c\u4e26\u70ba\u4f60\u6062\u5fa9\u8a72\u50b7\u5bb350%\u7684\u751f\u547d\u529b\u3002\r\n\r\n\u5982\u679c\u76ee\u6a19\u7684\u751f\u547d\u529b\u4f4e\u65bc20%\uff0c\u9020\u6210\u984d\u5916\u50b7\u5bb3\u7684\u6a5f\u7387\u63d0\u9ad8400%\u3002\r\n\r\n\u5c08\u5c6c\u7279\u6027\uff1a\u8150\u5316\u6297\u6027\u63d0\u9ad810\u9ede\u3002",
+    "zh_CN": "\u4f60\u7684\u6cd5\u672f\u548c\u6280\u80fd\u6709\u4e00\u5b9a\u51e0\u7387\u5bf9\u76ee\u6807\u9020\u621096\u70b9\u706b\u7130\u4f24\u5bb3\uff0c\u5e76\u5c06\u9020\u6210\u4f24\u5bb3\u768450%\u8f6c\u5316\u4e3a\u751f\u547d\u503c\u3002\r\n\r\n\u5982\u679c\u76ee\u6807\u7684\u751f\u547d\u503c\u4f4e\u4e8e20%\uff0c\u9020\u6210\u989d\u5916\u4f24\u5bb3\u7684\u51e0\u7387\u63d0\u9ad8400%\u3002\r\n\r\n\u552f\u4e00\uff1a\u8150\u8680\u6297\u6027\u63d0\u9ad810\u70b9\u3002"
+  }
 }

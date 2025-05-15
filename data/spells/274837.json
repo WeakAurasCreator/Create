@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "274837"
+  "SpellID": "274837",
+  "name_blz": {
+    "en_US": "Feral Frenzy",
+    "es_MX": "Frenes\u00ed salvaje",
+    "pt_BR": "Frenesi Feral",
+    "de_DE": "Wilde Raserei",
+    "en_GB": "Feral Frenzy",
+    "es_ES": "Frenes\u00ed feral",
+    "fr_FR": "Fr\u00e9n\u00e9sie farouche",
+    "it_IT": "Frenesia Ferina",
+    "ru_RU": "\u0414\u0438\u043a\u043e\u0435 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e",
+    "ko_KR": "\uc57c\uc131\uc758 \uad11\uae30",
+    "zh_TW": "\u91ce\u6027\u72c2\u4e82",
+    "zh_CN": "\u91ce\u6027\u72c2\u4e71"
+  },
+  "description_blz": {
+    "en_US": "Unleash a furious frenzy, clawing your target 5 times for 362 Physical damage and an additional 2,420 Bleed damage over 6 sec.\r\n\r\nAwards 5 combo points.",
+    "es_MX": "Entras en un frenes\u00ed furioso y ara\u00f1as a tu objetivo con las garras 5 veces para infligirle 364 p. de da\u00f1o f\u00edsico y 2,420 p. m\u00e1s de da\u00f1o por sangrado durante 6 s.\r\n\r\nOtorga 5 puntos de combo.",
+    "pt_BR": "Entra em um frenesi de f\u00faria, arranhando o alvo 5 vezes e causando 367 de dano F\u00edsico, mais 2.420 de dano de Sangramento ao longo de 6 s.\r\n\r\nGera 5 pontos de combo.",
+    "de_DE": "Entfesselt eine wilde Raserei, wodurch Ihr Euer Ziel 5-mal mit Krallen attackiert und ihm so 370 k\u00f6rperlichen Schaden sowie im Verlauf von 6 Sek. zus\u00e4tzlich 2.420 Blutungsschaden zuf\u00fcgt.\r\n\r\nGew\u00e4hrt 5 Combopunkte.",
+    "en_GB": "Unleash a furious frenzy, clawing your target 5 times for 359 Physical damage and an additional 2,420 Bleed damage over 6 sec.\r\n\r\nAwards 5 combo points.",
+    "es_ES": "Desatas un frenes\u00ed furioso y asestas 5 zarpazos al objetivo, lo que inflige 361 p. de da\u00f1o f\u00edsico m\u00e1s 2420 p. de da\u00f1o de sangrado extras durante 6 s.\r\n\r\nOtorga 5 p. de combo.",
+    "fr_FR": "Une fr\u00e9n\u00e9sie furieuse vous envahit et vous griffez votre cible \u00e0 5\u00a0reprises pour lui infliger 369\u00a0points de d\u00e9g\u00e2ts physiques, puis 2420\u00a0points de d\u00e9g\u00e2ts de saignement suppl\u00e9mentaires en 6 s.\r\n\r\nConf\u00e8re 5\u00a0points de combo.",
+    "it_IT": "Scatena una frenesia furiosa, artigliando il bersaglio 5 volte, infliggendo 361 danni fisici istantaneamente e 2.420 danni da sanguinamento in 6 s.\r\n\r\nFornisce 5 punti combo.",
+    "ru_RU": "\u0411\u0435\u0448\u0435\u043d\u043e \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u0446\u0435\u043b\u044c, \u0443\u0434\u0430\u0440\u044f\u044f \u0435\u0435 \u043a\u043e\u0433\u0442\u044f\u043c\u0438 5 \u0440\u0430\u0437, \u043d\u0430\u043d\u043e\u0441\u044f 365 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0438 \u0435\u0449\u0435 2420 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u0437\u0430 6 \u0441\u0435\u043a.\r\n\r\n+5 \u043a \u0441\u0435\u0440\u0438\u0438 \u043f\u0440\u0438\u0435\u043c\u043e\u0432.",
+    "ko_KR": "\ubd84\ub178\uc758 \uad11\uae30\ub97c \ub4dc\ub7ec\ub0b4\uba70 \ub300\uc0c1\uc744 5\ubc88 \ud560\ud034\uc5b4 366\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud788\uace0 \ucd94\uac00\ub85c 6\ucd08\uc5d0 \uac78\uccd0 2,420\uc758 \ucd9c\ud608 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc5f0\uacc4 \uc810\uc218 5\uc810\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u4f60\u7684\u76ee\u6a19\u91cb\u653e\u66b4\u6012\u72c2\u4e82\uff0c\u4ee5\u5229\u722a\u63ee\u64ca\u76ee\u6a195\u6b21\uff0c\u9020\u6210359\u9ede\u7269\u7406\u50b7\u5bb3\uff0c\u4e26\u57286\u79d2\u5167\u984d\u5916\u9020\u62102,420\u9ede\u6d41\u8840\u50b7\u5bb3\u3002\r\n\r\n\u734e\u52f55\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u503e\u6cc4\u51fa\u72c2\u66b4\u7684\u6012\u706b\uff0c\u7528\u4f60\u7684\u5229\u722a\u5411\u76ee\u6807\u53d1\u52a85\u6b21\u626b\u51fb\uff0c\u9020\u6210360\u70b9\u7269\u7406\u4f24\u5bb3\uff0c\u5e76\u57286\u79d2\u5185\u989d\u5916\u9020\u62102,420\u70b9\u6d41\u8840\u4f24\u5bb3\u3002\r\n\r\n\u5956\u52b15\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }

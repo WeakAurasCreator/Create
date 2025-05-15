@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "317464"
+  "SpellID": "317464",
+  "name_blz": {
+    "en_US": "Death Gate",
+    "es_MX": "Port\u00f3n de la muerte",
+    "pt_BR": "Port\u00e3o da Morte",
+    "de_DE": "Schwarzes Tor",
+    "en_GB": "Death Gate",
+    "es_ES": "Port\u00f3n de la muerte",
+    "fr_FR": "Porte de la mort",
+    "it_IT": "Portale della Morte",
+    "ru_RU": "\u0412\u0440\u0430\u0442\u0430 \u0441\u043c\u0435\u0440\u0442\u0438",
+    "ko_KR": "\uc8fd\uc74c\uc758 \uad00\ubb38",
+    "zh_TW": "\u6b7b\u4ea1\u4e4b\u9580",
+    "zh_CN": "\u9ed1\u950b\u4e4b\u95e8"
+  },
+  "description_blz": {
+    "en_US": "Opens a gate which you can use to return to Ebon Hold.\r\n\r\nUsing a Death Gate while in Ebon Hold will return you back to near your departure point.",
+    "es_MX": "Abre un portal que puedes usar para regresar al Basti\u00f3n de \u00c9bano.\r\n\r\nUsar un port\u00f3n de la muerte mientras est\u00e1s en El Basti\u00f3n de \u00c9bano te regresa cerca del punto de salida.",
+    "pt_BR": "Abre um portal para a Fortaleza de \u00c9bano.\r\n\r\nUsar Port\u00e3o da Morte enquanto est\u00e1 na Fortaleza de \u00c9bano leva voc\u00ea de volta ao ponto de partida.",
+    "de_DE": "\u00d6ffnet ein Tor, durch das Ihr zur Schwarzen Festung zur\u00fcckkehren k\u00f6nnt.\r\n\r\nDas Wirken von 'Schwarzes Tor' in der Schwarzen Festung l\u00e4sst Euch in die N\u00e4he Eures Ausgangsortes zur\u00fcckkehren.",
+    "en_GB": "Opens a gate which you can use to return to Ebon Hold.\r\n\r\nUsing a Death Gate while in Ebon Hold will return you back to near your departure point.",
+    "es_ES": "Abre un portal que puedes usar para regresar a El Basti\u00f3n de \u00c9bano.\r\n\r\nUsar un port\u00f3n de la muerte mientras est\u00e1s en El Basti\u00f3n de \u00c9bano te devolver\u00e1 cerca del punto de salida.",
+    "fr_FR": "Ouvre une porte que vous pouvez utiliser pour retourner au fort d\u2019\u00c9b\u00e8ne.\r\n\r\nUtiliser une porte de la mort au fort d\u2019\u00c9b\u00e8ne vous renvoie pr\u00e8s de votre point de d\u00e9part.",
+    "it_IT": "Apre un portale utilizzabile solo da te per tornare nella Roccaforte d'Ebano.\r\n\r\nUsare un Portale della Morte mentre ci si trova nella Roccaforte d'Ebano riporta nei pressi del punto di partenza.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0440\u0430\u0442\u0430, \u0447\u0435\u0440\u0435\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u0432 \u0427\u0435\u0440\u043d\u044b\u0439 \u043e\u043f\u043b\u043e\u0442.\r\n\r\n\u0415\u0441\u043b\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432\u0440\u0430\u0442\u0430 \u0432 \u0427\u0435\u0440\u043d\u043e\u043c \u043e\u043f\u043b\u043e\u0442\u0435, \u0432\u044b \u0432\u0435\u0440\u043d\u0435\u0442\u0435\u0441\u044c \u0432 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0443\u044e \u0442\u043e\u0447\u043a\u0443.",
+    "ko_KR": "\uc8fd\uc74c\uc758 \uae30\uc0ac\uac00 \uce60\ud751\uc758 \uc694\uc0c8\ub85c \ub3cc\uc544\uac00\ub294 \ub370 \ud544\uc694\ud55c \uc8fd\uc74c\uc758 \uad00\ubb38\uc744 \uc5fd\ub2c8\ub2e4.\r\n\r\n\uce60\ud751\uc758 \uc694\uc0c8\uc5d0\uc11c \uc8fd\uc74c\uc758 \uad00\ubb38\uc744 \uc0ac\uc6a9\ud558\uba74 \ucc98\uc74c \ub5a0\ub0ac\ub358 \uc9c0\uc810 \uadfc\ucc98\ub85c \ub418\ub3cc\uc544\uac11\ub2c8\ub2e4.",
+    "zh_TW": "\u958b\u555f\u53ea\u6709\u4f60\u80fd\u4f7f\u7528\u7684\u50b3\u9001\u9580\uff0c\u56de\u5230\u9eef\u9ed1\u5821\u3002\r\n\r\n\u5728\u9eef\u9ed1\u5821\u4f7f\u7528\u6b7b\u4ea1\u4e4b\u9580\u6703\u5c07\u4f60\u50b3\u9001\u56de\u51fa\u767c\u5730\u9ede\u9644\u8fd1\u3002",
+    "zh_CN": "\u5f00\u542f\u4e00\u9053\u4f20\u9001\u95e8\uff0c\u4f60\u53ef\u4ee5\u901a\u8fc7\u5b83\u8fd4\u56de\u9ed1\u950b\u8981\u585e\u3002\r\n\r\n\u5728\u9ed1\u950b\u8981\u585e\u5185\u4f7f\u7528\u8be5\u6cd5\u672f\u53ef\u4ee5\u5c06\u4f60\u9001\u56de\u539f\u5148\u79bb\u5f00\u7684\u5730\u65b9\u3002"
+  }
 }

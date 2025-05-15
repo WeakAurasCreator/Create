@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "319973"
+  "SpellID": "319973",
+  "name_blz": {
+    "en_US": "Built for War",
+    "es_MX": "Creado para la guerra",
+    "pt_BR": "Feito para Guerra",
+    "de_DE": "F\u00fcr den Krieg gebaut",
+    "en_GB": "Built for War",
+    "es_ES": "Construido para la guerra",
+    "fr_FR": "Con\u00e7u pour la guerre",
+    "it_IT": "Costruito per la Guerra",
+    "ru_RU": "\u0414\u0438\u0442\u044f \u0432\u043e\u0439\u043d\u044b",
+    "ko_KR": "\ud0c0\uace0\ub09c \uc804\uc7c1 \ubcd1\uae30",
+    "zh_TW": "\u6574\u88dd\u5099\u6230",
+    "zh_CN": "\u4e3a\u6218\u800c\u751f"
+  },
+  "description_blz": {
+    "en_US": "While you are above 80% health you gain 1% Intellect every 2 sec, stacking up to 5 times. If you fall below 50% health, this effect is lost.",
+    "es_MX": "Cuando tienes m\u00e1s del 80% de salud, obtienes 1% de la estad\u00edstica Intelecto cada 2 s. Este efecto se acumula hasta 5 veces. Cuando tu salud se reduce a menos del 50%, este efecto se pierde.",
+    "pt_BR": "Quando est\u00e1 acima de 80% dos pontos de vida, voc\u00ea ganha 1% de Intelecto a cada 2 s, acumulando at\u00e9 5 vezes. Se voc\u00ea ficar com menos de 50% dos pontos de vida, este efeito ser\u00e1 perdido.",
+    "de_DE": "Solange Ihr bei mehr als 80% Gesundheit seid, erhaltet Ihr alle 2 Sek. 1% Intelligenz. Dieser Effekt ist bis zu 5-mal stapelbar. Wenn Eure Gesundheit unter 50% f\u00e4llt, endet dieser Effekt.",
+    "en_GB": "While you are above 80% health you gain 1% Intellect every 2 sec, stacking up to 5 times. If you fall below 50% health, this effect is lost.",
+    "es_ES": "Mientras tienes m\u00e1s de un 80% de salud, obtienes un 1% de Intelecto cada 2\u00a0s, que se acumula hasta 5 veces. Si tu salud cae por debajo del 50%, este efecto se pierde.",
+    "fr_FR": "Quand vous avez plus de 80% de points de vie, votre Intelligence augmente de 1% toutes les 2\u00a0s. Cumulable jusqu\u2019\u00e0 5\u00a0fois. L\u2019effet est dissip\u00e9 si vous tombez sous les 50% de points de vie.",
+    "it_IT": "Quando si ha almeno il 80% di salute restante, [Intelletto] aumenta del 1% ogni 2 s. Si accumula fino a 5 volte. Se si scende al di sotto del 50% della salute massima, l'effetto si dissolve.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0432\u0430\u0448 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u0435\u0442 80%, \u0432\u0430\u0448\u0430 \u043e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 (\u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442) \u0440\u0430\u0437 \u0432 2 \u0441\u0435\u043a. \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1%. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437. \u042d\u0444\u0444\u0435\u043a\u0442 \u0440\u0430\u0441\u0441\u0435\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432\u0430\u0448 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043e\u043f\u0443\u0441\u0442\u0438\u0442\u0441\u044f \u043d\u0438\u0436\u0435 50%.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 80% \uc774\uc0c1\uc77c \ub54c 2\ucd08\ub9c8\ub2e4 \uc9c0\ub2a5\uc774 1%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. \uc0dd\uba85\ub825\uc774 50% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74 \uc774 \ud6a8\uacfc\uac00 \uc0ac\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u529b\u9ad8\u65bc80%\u6642\uff0c\u4f60\u7684\u667a\u529b\u6bcf2\u79d2\u63d0\u9ad81%\uff0c\u6700\u591a\u53ef\u5806\u758a5\u6b21\u3002\u5982\u679c\u751f\u547d\u529b\u4f4e\u65bc50%\uff0c\u5c31\u6703\u5931\u53bb\u6b64\u6548\u679c\u3002",
+    "zh_CN": "\u5f53\u4f60\u7684\u751f\u547d\u503c\u9ad8\u4e8e80%\u65f6\uff0c\u6bcf2\u79d2\u83b7\u5f971%\u667a\u529b\uff0c\u81f3\u591a\u53e0\u52a05\u6b21\u3002\u5f53\u4f60\u7684\u751f\u547d\u503c\u964d\u4f4e\u81f350%\u4ee5\u4e0b\u65f6\uff0c\u5931\u53bb\u8be5\u6548\u679c\u3002"
+  }
 }

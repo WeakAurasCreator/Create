@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "285907"
+  "SpellID": "285907",
+  "name_blz": {
+    "en_US": "Blessing of the Night Warrior",
+    "es_MX": "Bendici\u00f3n de la guerrera nocturna",
+    "pt_BR": "B\u00ean\u00e7\u00e3o da Guerreira da Noite",
+    "de_DE": "Segen der Nachtkriegerin",
+    "en_GB": "Blessing of the Night Warrior",
+    "es_ES": "Bendici\u00f3n de la Guerrera Nocturna",
+    "fr_FR": "B\u00e9n\u00e9diction de la guerri\u00e8re de la Nuit",
+    "it_IT": "Benedizione della Guerriera della Notte",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435 \u041d\u043e\u0447\u043d\u043e\u0439 \u0412\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u044b",
+    "ko_KR": "\ubc24 \uc804\uc0ac\uc758 \ucd95\ubcf5",
+    "zh_TW": "\u9ed1\u591c\u6230\u58eb\u7684\u795d\u798f",
+    "zh_CN": "\u6708\u591c\u6218\u795e\u7684\u795d\u798f"
+  },
+  "description_blz": {
+    "en_US": "Blizzard Account Bound\r\n\r\nUnlocks the Night Warrior customization for Night Elves.",
+    "es_MX": "Vinculado con la cuenta de Blizzard\r\n\r\nDesbloquea la personalizaci\u00f3n de guerrero nocturno para elfos de la noche.",
+    "pt_BR": "Vinculada \u00e0 conta Blizzard\r\n\r\nDesbloqueia a personaliza\u00e7\u00e3o da Guerreira da Noite para os elfos noturnos.",
+    "de_DE": "Blizzard-Accountgebunden\r\n\r\nSchaltet die Anpassung Nachtkrieger f\u00fcr Nachtelfen frei.",
+    "en_GB": "Blizzard Account Bound\r\n\r\nUnlocks the Night Warrior customization for Night Elves.",
+    "es_ES": "Ligado a la cuenta de Blizzard\r\n\r\nDesbloquea la personalizaci\u00f3n de la Guerrera Nocturna para los elfos de la noche.",
+    "fr_FR": "Li\u00e9 au compte Blizzard\r\n\r\nD\u00e9bloque la personnalisation inspir\u00e9e de la guerri\u00e8re de la Nuit pour les Elfes de la nuit.",
+    "it_IT": "Vincolato all'account Blizzard\r\n\r\nSblocca la personalizzazione Guardiana della Notte per gli Elfi della Notte.",
+    "ru_RU": "\u041f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043e \u043a \u0443\u0447\u0435\u0442\u043d\u043e\u0439 \u0437\u0430\u043f\u0438\u0441\u0438 Blizzard.\r\n\r\n\u0414\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u043c \u0432\u043d\u0435\u0448\u043d\u0435\u0433\u043e \u0432\u0438\u0434\u0430 \u041d\u043e\u0447\u043d\u043e\u0439 \u0412\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u044b \u0434\u043b\u044f \u043d\u043e\u0447\u043d\u044b\u0445 \u044d\u043b\u044c\u0444\u043e\u0432.",
+    "ko_KR": "\ube14\ub9ac\uc790\ub4dc \uacc4\uc815 \uadc0\uc18d\r\n\r\n\ub098\uc774\ud2b8 \uc5d8\ud504\uc758 \ubc24 \uc804\uc0ac \uc124\uc815\uc774 \uc7a0\uae08 \ud574\uc81c\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u66b4\u96ea\u5e33\u6236\u7d81\u5b9a\r\n\r\n\u89e3\u9396\u591c\u7cbe\u9748\u7684\u9ed1\u591c\u6230\u58eb\u81ea\u8a02\u5916\u89c0\u3002",
+    "zh_CN": "\u66b4\u96ea\u6e38\u620f\u901a\u884c\u8bc1\u7ed1\u5b9a\r\n\r\n\u89e3\u9501\u6697\u591c\u7cbe\u7075\uff1a\u6708\u591c\u6218\u795e\u7684\u81ea\u5b9a\u4e49\u9009\u9879\u3002"
+  }
 }

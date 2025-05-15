@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "240979"
+  "SpellID": "240979",
+  "name_blz": {
+    "en_US": "Reputable",
+    "es_MX": "Honorable",
+    "pt_BR": "Respeit\u00e1vel",
+    "de_DE": "Angesehen",
+    "en_GB": "Reputable",
+    "es_ES": "Reputado",
+    "fr_FR": "Honorabilit\u00e9",
+    "it_IT": "Rispettabile",
+    "ru_RU": "\u0414\u043e\u0441\u0442\u043e\u0439\u043d\u044b\u0439 \u0443\u0432\u0430\u0436\u0435\u043d\u0438\u044f",
+    "ko_KR": "\ud3c9\ud310 \ubcf4\uac15",
+    "zh_TW": "\u8072\u540d\u9060\u64ad",
+    "zh_CN": "\u58f0\u671b\u9ad8\u7edd"
+  },
+  "description_blz": {
+    "en_US": "Increase reputation gains with the Armies of Legionfall from quests by 30%.\r\n\r\nReturn to Commander Chambers to earn this bonus.",
+    "es_MX": "La reputaci\u00f3n obtenida con los Ej\u00e9rcitos de Legi\u00f3n ca\u00edda a partir de las misiones aumenta un 30%.\r\n\r\nRegresa con el Comandante Chambers para conseguir esta bonificaci\u00f3n.",
+    "pt_BR": "Aumenta em 30% o ganho de reputa\u00e7\u00e3o com os Ex\u00e9rcitos da Queda da Legi\u00e3o em miss\u00f5es.\r\n\r\nFale novamente com o Comandante C\u00e2mara para ganhar esse b\u00f4nus.",
+    "de_DE": "Erh\u00f6ht den Rufgewinn durch Quests bei den Legionsrichtern um 30%.\r\n\r\nKehrt zu Kommandant Kammerer zur\u00fcck, um diesen Bonus zu erhalten.",
+    "en_GB": "Increase reputation gains with the Armies of Legionfall from quests by 30%.\r\n\r\nReturn to Commander Chambers to earn this bonus.",
+    "es_ES": "Aumenta un 30% la reputaci\u00f3n obtenida mediante las misiones del Ocaso de la Legi\u00f3n.\r\n\r\nVuelve con el comandante Chambers para ganar este bonus.",
+    "fr_FR": "Augmente de 30% les gains de r\u00e9putation aupr\u00e8s des arm\u00e9es du D\u00e9clin de la L\u00e9gion octroy\u00e9s par les qu\u00eates.\r\n\r\nRetournez voir le commandant Chambers pour obtenir ce bonus.",
+    "it_IT": "Aumenta la reputazione guadagnata dalle missioni con l'Armata Spezzalegione del 30%.\r\n\r\nTorna dal Comandante Chambers per ottenere questo bonus.",
+    "ru_RU": "\u041e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043a \u0432\u0430\u043c \u0430\u0440\u043c\u0438\u0438 \u041f\u043e\u0433\u0438\u0431\u0435\u043b\u0438 \u041b\u0435\u0433\u0438\u043e\u043d\u0430 \u0443\u043b\u0443\u0447\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 30% \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u043f\u0440\u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u0439.\r\n\r\n\u0412\u0435\u0440\u043d\u0438\u0442\u0435\u0441\u044c \u043a \u043a\u043e\u043c\u0430\u043d\u0434\u0438\u0440\u0443 \u0427\u0435\u0439\u043c\u0431\u0435\u0440\u0441\u0443, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u044d\u0442\u043e\u0442 \u0431\u043e\u043d\u0443\u0441.",
+    "ko_KR": "\ud018\uc2a4\ud2b8\ub97c \ud1b5\ud55c \uad70\ub2e8\ucc99\uacb0\uad70\uacfc\uc758 \ud3c9\ud310 \ud68d\ub4dd\ub7c9\uc774 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc0ac\ub839\uad00 \ucc54\ubc84\uc2a4\uc5d0\uac8c \ub3cc\uc544\uac00\uba74 \ud574\ub2f9 \ud6a8\uacfc\ub97c \ubc1b\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5b8c\u6210\u4efb\u52d9\u7372\u5f97\u7684\u8ecd\u5718\u4e4b\u6b9e\u90e8\u968a\u8072\u671b\u63d0\u9ad830%\u3002\r\n\r\n\u56de\u53bb\u627e\u6307\u63ee\u5b98\u9322\u67cf\u4ee5\u7372\u5f97\u9019\u9805\u734e\u52f5\u3002",
+    "zh_CN": "\u901a\u8fc7\u4efb\u52a1\u83b7\u5f97\u7684\u6297\u9b54\u8054\u519b\u9635\u8425\u58f0\u671b\u63d0\u9ad830%\u3002\r\n\r\n\u5411\u6307\u6325\u5b98\u94b1\u4f2f\u65af\u62a5\u544a\u4ee5\u83b7\u5f97\u8fd9\u4e2a\u5956\u52b1\u3002"
+  }
 }

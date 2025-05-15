@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "311724"
+  "SpellID": "311724",
+  "name_blz": {
+    "en_US": "Battlefield Commendation",
+    "es_MX": "Menci\u00f3n de batalla",
+    "pt_BR": "Comenda de Campo de Batalha",
+    "de_DE": "Schlachtfeldbelobigung",
+    "en_GB": "Battlefield Commendation",
+    "es_ES": "Menci\u00f3n de honor del campo de batalla",
+    "fr_FR": "M\u00e9rite du champ de bataille",
+    "it_IT": "Encomio del Campo di Battaglia",
+    "ru_RU": "\u0417\u043d\u0430\u043a \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u044f \u0432\u043e\u0435\u043d\u043d\u044b\u0445 \u0437\u0430\u0441\u043b\u0443\u0433",
+    "ko_KR": "\uc804\uc7a5 \ucd94\ucc9c\uc11c",
+    "zh_TW": "\u6230\u5834\u8868\u63da",
+    "zh_CN": "\u6218\u573a\u5956\u7ae0"
+  },
+  "description_blz": {
+    "en_US": "Grants the title \"Veteran of the Fourth War\".",
+    "es_MX": "Otorga el t\u00edtulo \"Veterano de la Cuarta Guerra\".",
+    "pt_BR": "Concede o t\u00edtulo \"Veterano da Quarta Guerra\".",
+    "de_DE": "Verleiht den Titel \"Veteran des Vierten Krieges\".",
+    "en_GB": "Grants the title \"Veteran of the Fourth War\".",
+    "es_ES": "Otorga el t\u00edtulo \"Veterano de la Cuarta Guerra\".",
+    "fr_FR": "Conf\u00e8re le titre \u00ab\u00a0V\u00e9t\u00e9ran de la Quatri\u00e8me guerre\u00a0\u00bb.",
+    "it_IT": "Fornisce il titolo \"Veterano della Quarta Guerra\".",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u043f\u0440\u0430\u0432\u043e \u043d\u043e\u0441\u0438\u0442\u044c \u0442\u0438\u0442\u0443\u043b \"\u0412\u0435\u0442\u0435\u0440\u0430\u043d \u0427\u0435\u0442\u0432\u0435\u0440\u0442\u043e\u0439 \u0432\u043e\u0439\u043d\u044b\".",
+    "ko_KR": "\"4\ucc28 \ub300\uc804\uc7c1\uc758 \uc5ed\uc804\uc6a9\uc0ac\" \uce6d\ud638\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7372\u5f97\u300c\u7b2c\u56db\u6b21\u5927\u6230\u7cbe\u5175\u300d\u982d\u929c\u3002",
+    "zh_CN": "\u4f7f\u4f60\u83b7\u5f97\u5934\u8854\u201c\u7b2c\u56db\u6b21\u5927\u6218\u8001\u5175\u201d\u3002"
+  }
 }

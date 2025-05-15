@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "323074"
+  "SpellID": "323074",
+  "name_blz": {
+    "en_US": "Volatile Solvent",
+    "es_MX": "Solvente vol\u00e1til",
+    "pt_BR": "Solvente Vol\u00e1til",
+    "de_DE": "Fl\u00fcchtiges L\u00f6sungsmittel",
+    "en_GB": "Volatile Solvent",
+    "es_ES": "Disolvente vol\u00e1til",
+    "fr_FR": "Solvant volatil",
+    "it_IT": "Solvente Instabile",
+    "ru_RU": "\u041d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0441\u0442\u0432\u043e\u0440\u0438\u0442\u0435\u043b\u044c",
+    "ko_KR": "\ubd88\uc548\uc815\ud55c \uc6a9\ud574\uc81c",
+    "zh_TW": "\u6613\u63ee\u767c\u6eb6\u5291",
+    "zh_CN": "\u4e0d\u7a33\u5b9a\u7684\u6eb6\u6db2"
+  },
+  "description_blz": {
+    "en_US": "Fleshcraft's passive effect consumes a corpse's essence completely, granting a benefit based on the creature's type. \r\n\r\nCasting Fleshcraft also consumes a small portion of your own essence, granting you the Humanoid benefit.",
+    "es_MX": "El efecto pasivo de Forjacarne consume la esencia de un cad\u00e1ver por completo y otorga un beneficio seg\u00fan el tipo de criatura. \r\n\r\nLanzar Forjacarne tambi\u00e9n consume una peque\u00f1a porci\u00f3n de tu esencia y te otorga el beneficio de Humanoide.",
+    "pt_BR": "O efeito passivo de Moldacarne consome a ess\u00eancia do cad\u00e1ver por completo, concedendo um b\u00f4nus com base no tipo da criatura. \r\n\r\nLan\u00e7ar Moldacarne tamb\u00e9m consome uma pequena por\u00e7\u00e3o da sua pr\u00f3pria ess\u00eancia, concedendo a voc\u00ea o benef\u00edcio Humanoide.",
+    "de_DE": "Der passive Effekt von 'Fleischformung' verschlingt die Essenz einer Leiche vollst\u00e4ndig und gew\u00e4hrt einen n\u00fctzlichen Effekt, der von der Art der Kreatur abh\u00e4ngt.\r\n\r\nDas Wirken von 'Fleischformung' verbraucht eine kleine Portion Eurer eigenen Essenz und Ihr profitiert von 'Humanoid'.",
+    "en_GB": "Fleshcraft's passive effect consumes a corpse's essence completely, granting a benefit based on the creature's type. \r\n\r\nCasting Fleshcraft also consumes a small portion of your own essence, granting you the Humanoid benefit.",
+    "es_ES": "El efecto pasivo de Modelar carne consume por completo la esencia de un cad\u00e1ver, lo que te otorga un beneficio en funci\u00f3n del tipo de la criatura. \r\n\r\nAl lanzar Modelar carne, tambi\u00e9n se consume una peque\u00f1a parte de tu propia esencia, lo que te otorga el beneficio de humanoide.",
+    "fr_FR": "L\u2019effet passif de Chair recompos\u00e9e consomme l\u2019essence d\u2019un cadavre et conf\u00e8re un avantage d\u00e9pendant du type de la cr\u00e9ature.\r\n\r\nLancer Chair recompos\u00e9e consomme \u00e9galement une petite partie de votre propre essence et vous conf\u00e8re l\u2019avantage Humano\u00efde.",
+    "it_IT": "L'effetto passivo di Forgiatura della Carne consuma completamente l'essenza di un cadavere, fornendo un beneficio in base al tipo di creatura.\r\n\r\nLanciare Forgiatura della Carne consuma inoltre una piccola porzione della tua essenza, fornendo il beneficio Umanoide.",
+    "ru_RU": "\u041f\u0430\u0441\u0441\u0438\u0432\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0421\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440\u0430 \u043f\u043b\u043e\u0442\u0438\" \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c \u0442\u0440\u0443\u043f\u0430 \u0438 \u0434\u0430\u0435\u0442 \u0432\u0430\u043c \u0431\u043b\u0430\u0433\u043e\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0442\u0438\u043f\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0430. \r\n\r\n\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u0421\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u043f\u043b\u043e\u0442\u0438\" \u043f\u0440\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u0435\u0442 \u0447\u0430\u0441\u0442\u044c \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0434\u0430\u0432\u0430\u044f \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0442\u0438\u043f\u0430 \"\u0413\u0443\u043c\u0430\u043d\u043e\u0438\u0434\".",
+    "ko_KR": "\uc0b4\ub369\uc774\ucc3d\uc870\uc758 \uc9c0\uc18d\ud6a8\uacfc\uac00 \uc2dc\uccb4\uc758 \uc815\uc218\ub97c \uc644\uc804\ud788 \uc9d1\uc5b4\uc0bc\ucf1c, \uc0dd\uba85\uccb4\uc758 \uc720\ud615\uc5d0 \ub530\ub77c \uc774\ub85c\uc6b4 \ud6a8\uacfc\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.\r\n\r\n\uc0b4\ub369\uc774\ucc3d\uc870\ub97c \uc2dc\uc804\ud558\uba74 \uc790\uc2e0\uc758 \uc815\uc218\ub3c4 \uc18c\ub7c9 \ud761\uc218\ud558\uc5ec \uc778\uac04\ud615 \ud6a8\uacfc\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8840\u8089\u5de5\u85dd\u7684\u88ab\u52d5\u6548\u679c\u6703\u5b8c\u5168\u6d88\u8017\u5c4d\u9ad4\u7684\u7cbe\u83ef\uff0c\u4f9d\u8a72\u5c4d\u9ad4\u751f\u7269\u985e\u578b\u8ce6\u4e88\u76f8\u61c9\u7684\u589e\u76ca\u6548\u679c\u3002\r\n\r\n\u65bd\u653e\u8840\u8089\u5de5\u85dd\u4e5f\u6703\u6d88\u8017\u4f60\u4e00\u5c0f\u90e8\u5206\u7684\u7cbe\u83ef\uff0c\u8ce6\u4e88\u4f60\u4eba\u5f62\u751f\u7269\u7684\u589e\u76ca\u6548\u679c\u3002",
+    "zh_CN": "\u8840\u8089\u94f8\u9020\u7684\u88ab\u52a8\u6548\u679c\u4f1a\u5b8c\u5168\u6d88\u8017\u4e00\u5177\u5c38\u4f53\u7684\u7cbe\u534e\uff0c\u6839\u636e\u5176\u751f\u7269\u7c7b\u578b\u4f1a\u83b7\u5f97\u4e0d\u540c\u7684\u589e\u76ca\u3002\r\n\r\n\u65bd\u653e\u8840\u8089\u94f8\u9020\u4e5f\u4f1a\u6d88\u8017\u4f60\u7cbe\u534e\u7684\u4e00\u5c0f\u90e8\u5206\uff0c\u4f7f\u4f60\u83b7\u5f97\u4eba\u5f62\u751f\u7269\u7684\u589e\u76ca\u3002"
+  }
 }

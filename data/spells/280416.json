@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "280416"
+  "SpellID": "280416",
+  "name_blz": {
+    "en_US": "Heritage of the Mag'har",
+    "es_MX": "Legado de los Mag'har",
+    "pt_BR": "Tradi\u00e7\u00e3o dos Mag'har",
+    "de_DE": "Tradition der Mag'har",
+    "en_GB": "Heritage of the Mag'har",
+    "es_ES": "Legado de los Mag'har",
+    "fr_FR": "Armure ancestrale des Mag\u2019har\r\n",
+    "it_IT": "Retaggio dei Mag'har",
+    "ru_RU": "\u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u043c\u0430\u0433'\u0445\u0430\u0440\u043e\u0432",
+    "ko_KR": "\ub9c8\uadf8\ud558\ub974 \uc624\ud06c\uc758 \uc720\uc0b0",
+    "zh_TW": "\u746a\u683c\u54c8\u7684\u50b3\u627f",
+    "zh_CN": "\u739b\u683c\u6c49\u7684\u4f20\u627f"
+  },
+  "description_blz": {
+    "en_US": "Collect the appearances of the Heritage of the Warsong, Blackrock, and Frostwolf clans.",
+    "es_MX": "Re\u00fane las apariencias del Legado de los clanes Grito de Guerra, Roca Negra y Lobo G\u00e9lido.",
+    "pt_BR": "Coleta as apar\u00eancias de Tradi\u00e7\u00e3o dos cl\u00e3s Brado Guerreiro, Rocha Negra e Lobo do Gelo.",
+    "de_DE": "Sammelt die Vorlagen der Traditionen des Kriegshymnen-, Schwarzfels- und Frostwolfklans.",
+    "en_GB": "Collect the appearances of the Heritage of the Warsong, Blackrock, and Frostwolf clans.",
+    "es_ES": "Re\u00fane las apariencias din\u00e1sticas de los clanes Grito de Guerra, Roca Negra y Lobo G\u00e9lido.",
+    "fr_FR": "Vous collectionnez les apparences des armures ancestrales des clans Chanteguerre, Rochenoire et Loup-de-Givre.",
+    "it_IT": "Ottieni gli aspetti dell'equipaggiamento Retaggio dei Cantaguerra, dei Roccianera e dei Lupi Bianchi.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0438\u043b\u043b\u044e\u0437\u0438\u044e \u0432\u043d\u0435\u0448\u043d\u0435\u0433\u043e \u0432\u0438\u0434\u0430 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0430 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0434\u043e\u0441\u043f\u0435\u0445\u043e\u0432 \u043a\u043b\u0430\u043d\u043e\u0432 \u041f\u0435\u0441\u043d\u0438 \u0412\u043e\u0439\u043d\u044b, \u0427\u0435\u0440\u043d\u043e\u0439 \u0433\u043e\u0440\u044b \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0433\u043e \u0412\u043e\u043b\u043a\u0430.",
+    "ko_KR": "\uc804\uc7c1\ub178\ub798 \ubd80\uc871, \uac80\uc740\ubc14\uc704 \ubd80\uc871, \uc11c\ub9ac\ub291\ub300 \ubd80\uc871\uc758 \uc720\uc0b0 \ud615\uc0c1\uc744 \ud68d\ub4dd\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6536\u96c6\u6230\u6b4c\u7684\u907a\u7522\u3001\u9ed1\u77f3\u7684\u907a\u7522\u548c\u971c\u72fc\u6c0f\u65cf\u7684\u907a\u7522\u7b49\u5916\u89c0\u3002",
+    "zh_CN": "\u6536\u96c6\u6218\u6b4c\u3001\u9ed1\u77f3\u548c\u971c\u72fc\u6c0f\u65cf\u7684\u4f20\u627f\u5916\u89c2\u3002"
+  }
 }

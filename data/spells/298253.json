@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "298253"
+  "SpellID": "298253",
+  "name_blz": {
+    "en_US": "Upgrade!",
+    "es_MX": "\u00a1Mejora!",
+    "pt_BR": "Aprimorar!",
+    "de_DE": "Aufwertung!",
+    "en_GB": "Upgrade!",
+    "es_ES": "\u00a1Mejora!",
+    "fr_FR": "Am\u00e9liorez\u00a0!",
+    "it_IT": "Potenziamento!",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435!",
+    "ko_KR": "\uac15\ud654!",
+    "zh_TW": "\u5347\u7d1a\uff01",
+    "zh_CN": "\u5347\u7ea7"
+  },
+  "description_blz": {
+    "en_US": "Upgrades the Ub3r-Spanner to be able to invent new creations at an improved speed.",
+    "es_MX": "Mejora la Ub3r-Llave para inventar nuevas creaciones a mayor velocidad.",
+    "pt_BR": "Aprimora a Ub3r-chave para torn\u00e1-la capaz de novas cria\u00e7\u00f5es ainda mais r\u00e1pido.",
+    "de_DE": "Wertet den \u00dcb3r-Schrauber auf, damit er schneller neue Sch\u00f6pfungen erfinden kann.",
+    "en_GB": "Upgrades the Ub3r-Spanner to be able to invent new creations at an improved speed.",
+    "es_ES": "Mejora la sup3rllave para poder inventar nuevas creaciones con mayor velocidad.",
+    "fr_FR": "Am\u00e9liore la sup3r cl\u00e9 afin d\u2019\u00eatre \u00e0 m\u00eame d\u2019inventer de nouvelles cr\u00e9ations encore plus rapidement.",
+    "it_IT": "Potenzia la Chiave ad Arco Ultr4 per ideare nuove invenzioni a una velocit\u00e0 pi\u00f9 elevata.",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u0433\u0430\u0435\u0447\u043d\u044b\u0439 \u0443\u04313\u0440-\u043a\u043b\u044e\u0447, \u0443\u0441\u043a\u043e\u0440\u044f\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043d\u043e\u0432\u044b\u0445 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u0439.",
+    "ko_KR": "\uace05\uae09 \uc2a4\ud328\ub108\ub97c \uac15\ud654\ud558\uc5ec \uc880 \ub354 \ube60\ub974\uac8c \uc0c8\ub85c\uc6b4 \ucc3d\uc870\ubb3c\uc744 \ubc1c\uba85\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5347\u7d1a\u8d85U\u8cea\u6273\u624b\uff0c\u624d\u80fd\u7528\u66f4\u5feb\u7684\u901f\u5ea6\u5275\u9020\u65b0\u767c\u660e\u3002",
+    "zh_CN": "\u5347\u7ea7Ub3r\u6273\u624b\uff0c\u4f7f\u5176\u80fd\u591f\u4ee5\u66f4\u5feb\u7684\u901f\u5ea6\u521b\u9020\u65b0\u7684\u53d1\u660e\u3002"
+  }
 }

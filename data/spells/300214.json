@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "300214"
+  "SpellID": "300214",
+  "name_blz": {
+    "en_US": "Flying Unlocked: Kua'fon",
+    "es_MX": "Vuelo desbloqueado: Kua'fon",
+    "pt_BR": "Voo Desbloqueado: Kua'fon",
+    "de_DE": "Fliegen freigeschaltet: Kua'fon",
+    "en_GB": "Flying Unlocked: Kua'fon",
+    "es_ES": "Vuelo desbloqueado: Kua'fon",
+    "fr_FR": "Vol d\u00e9bloqu\u00e9\u00a0: Kua\u2019fon",
+    "it_IT": "Volo Sbloccato: Kua'fon",
+    "ru_RU": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043b\u0435\u0442\u0430\u0442\u044c: \u041a\u0443\u0430'\u0444\u043e\u043d",
+    "ko_KR": "\ube44\ud589 \uc7a0\uae08 \ud574\uc81c: \ucfe0\uc544\ud3f0",
+    "zh_TW": "\u98db\u884c\u89e3\u9396\uff1a\u5938\u98a8",
+    "zh_CN": "\u98de\u884c\u5df2\u89e3\u9501\uff1a\u5e93\u4e9a\u51af"
+  },
+  "description_blz": {
+    "en_US": "Unlocks the ability for Kua'fon to fly in all zones that allow flying mounts.",
+    "es_MX": "Desbloquea la habilidad para que Kua'fon vuele en todas las zonas donde se permitan monturas voladoras.",
+    "pt_BR": "Desbloqueia em Kua'fon a habilidade de voar em todas as \u00e1reas que permitem montarias voadoras.",
+    "de_DE": "Schaltet Kua'fons F\u00e4higkeit frei, in allen Zonen zu fliegen, in denen Flugreittiere erlaubt sind.",
+    "en_GB": "Unlocks the ability for Kua'fon to fly in all zones that allow flying mounts.",
+    "es_ES": "Desbloquea la facultad de Kua'fon para volar en todas las zonas donde est\u00e9n permitidas las monturas voladoras.",
+    "fr_FR": "D\u00e9bloque pour Kua\u2019fon la possibilit\u00e9 de voler dans les zones qui le permettent.",
+    "it_IT": "Sblocca la possibilit\u00e0 per Kua'fon di volare in tutte le zone che permettono l'utilizzo di cavalcature volanti.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u041a\u0443\u0430'\u0444\u043e\u043d\u0443 \u043b\u0435\u0442\u0430\u0442\u044c \u0432\u043e \u0432\u0441\u0435\u0445 \u0437\u043e\u043d\u0430\u0445, \u0433\u0434\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u044b \u043f\u043e\u043b\u0435\u0442\u044b.",
+    "ko_KR": "\ucfe0\uc544\ud3f0\uc758 \ube44\ud589 \ub2a5\ub825\uc744 \uc7a0\uae08 \ud574\uc81c\ud569\ub2c8\ub2e4. \ube44\ud589 \ud0c8\uac83\uc774 \ud5c8\uc6a9\ub418\ub294 \ubaa8\ub4e0 \uc9c0\uc5ed\uc5d0\uc11c \ub0a0 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8b93\u5938\u98a8\u53ef\u4ee5\u5728\u5141\u8a31\u98db\u884c\u5750\u9a0e\u7684\u6240\u6709\u5730\u5340\u98db\u884c\u3002",
+    "zh_CN": "\u4f7f\u5e93\u4e9a\u51af\u80fd\u591f\u5728\u53ef\u4ee5\u4f7f\u7528\u98de\u884c\u5750\u9a91\u7684\u5730\u65b9\u98de\u7fd4\u3002"
+  }
 }

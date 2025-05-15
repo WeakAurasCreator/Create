@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "312923"
+  "SpellID": "312923",
+  "name_blz": {
+    "en_US": "Combat Analysis",
+    "es_MX": "An\u00e1lisis de combate",
+    "pt_BR": "An\u00e1lise de Combate",
+    "de_DE": "Kampfanalyse",
+    "en_GB": "Combat Analysis",
+    "es_ES": "An\u00e1lisis de combate",
+    "fr_FR": "Analyse de combat",
+    "it_IT": "Analisi di Combattimento",
+    "ru_RU": "\u0411\u043e\u0435\u0432\u043e\u0439 \u0430\u043d\u0430\u043b\u0438\u0437",
+    "ko_KR": "\uc804\ud22c \ubd84\uc11d",
+    "zh_TW": "\u6230\u9b25\u5206\u6790",
+    "zh_CN": "\u6218\u6597\u5206\u6790"
+  },
+  "description_blz": {
+    "en_US": "You gather and analyze combat data every 5 sec, increasing your primary stat by 18, stacking up to 10 times. The data decays while out of combat.",
+    "es_MX": "Recopilas y analizas datos de combate cada 5 s, lo que aumenta 18 p. tu estad\u00edstica principal. Este efecto se acumula hasta 10 veces. Los datos se pierden mientras est\u00e1s fuera de combate.",
+    "pt_BR": "Voc\u00ea coleta e analisa dados de combate a cada 5 s, aumentando em 18 o seu atributo prim\u00e1rio. Acumula at\u00e9 10 vezes. Os dados s\u00e3o perdidos gradativamente ao ficar fora de combate.",
+    "de_DE": "Ihr sammelt und analysiert alle 5 Sek. Kampfdaten, wodurch sich Euer Prim\u00e4rwert um 18 erh\u00f6ht. Bis zu 10-mal stapelbar. Au\u00dferhalb des Kampfes verfallen die Daten langsam.",
+    "en_GB": "You gather and analyze combat data every 5 sec, increasing your primary stat by 18, stacking up to 10 times. The data decays while out of combat.",
+    "es_ES": "Re\u00fanes y analizas informaci\u00f3n de combate cada 5 s, lo que aumenta tu estad\u00edstica principal 18 p. Se acumula hasta 10 veces. La informaci\u00f3n se pierde mientras no est\u00e1s en combate.",
+    "fr_FR": "Vous collectez et analysez des donn\u00e9es de combat toutes les 5\u00a0s, ce qui augmente votre caract\u00e9ristique principale de 18. Cumulable jusqu\u2019\u00e0 10\u00a0fois. Les donn\u00e9es sont effac\u00e9es en dehors des combats.",
+    "it_IT": "Permette di raccogliere e analizzare i dati di combattimento ogni 5 s, aumentando l'attributo primario di 18. Si accumula fino a 10 volte. I dati si deteriorano quando non si \u00e8 in combattimento.",
+    "ru_RU": "\u0420\u0430\u0437 \u0432 5 \u0441\u0435\u043a. \u0432\u044b \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u0435\u0442\u0435 \u0431\u043e\u0435\u0432\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u0441\u0432\u043e\u044e \u043e\u0441\u043d\u043e\u0432\u043d\u0443\u044e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0443 \u043d\u0430 18. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437. \u0412\u043d\u0435 \u0431\u043e\u044f \u044d\u0442\u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0430\u044e\u0442.",
+    "ko_KR": "5\ucd08\ub9c8\ub2e4 \uc804\ud22c \ub370\uc774\ud130\ub97c \uc218\uc9d1 \ubc0f \ubd84\uc11d\ud558\uc5ec \uc8fc \ub2a5\ub825\uce58\ub97c 18\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 \ucd5c\ub300 10\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. \uc804\ud22c \uc911\uc774 \uc544\ub2d0 \ub550 \ub370\uc774\ud130\uac00 \uc810\ucc28 \uc0ac\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf5\u79d2\u6536\u96c6\u4e26\u5206\u6790\u6230\u9b25\u6578\u64da\uff0c\u4f7f\u4f60\u7684\u4e3b\u8981\u5c6c\u6027\u63d0\u9ad818\u9ede\uff0c\u6700\u591a\u53ef\u5806\u758a10\u6b21\u3002\u6b64\u6578\u64da\u6703\u5728\u812b\u96e2\u6230\u9b25\u5f8c\u6d88\u9000\u3002",
+    "zh_CN": "\u4f60\u6bcf5\u79d2\u6536\u96c6\u5e76\u5206\u6790\u4e00\u6b21\u6218\u6597\u6570\u636e\uff0c\u4f7f\u4e3b\u5c5e\u6027\u63d0\u9ad818\uff0c\u6700\u591a\u53ef\u53e0\u52a010\u6b21\u3002\u6570\u636e\u4f1a\u5728\u79bb\u5f00\u6218\u6597\u540e\u6d88\u5931\u3002"
+  }
 }

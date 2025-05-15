@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "267211"
+  "SpellID": "267211",
+  "name_blz": {
+    "en_US": "Bilescourge Bombers",
+    "es_MX": "Plagahieles bombarderos",
+    "pt_BR": "Bombardeiros de Bile de Flagelo",
+    "de_DE": "Eiterplagenbomber",
+    "en_GB": "Bilescourge Bombers",
+    "es_ES": "Bombarderos de azote de bilis",
+    "fr_FR": "Lance-fl\u00e9aux bilieux",
+    "it_IT": "Bombe di Straziabile",
+    "ru_RU": "\u0412\u0437\u0440\u044b\u0432\u043d\u044b\u0435 \u0436\u0435\u043b\u0447\u0435\u0433\u043d\u0443\u0441\u044b",
+    "ko_KR": "\ub2f4\uc999\uc2a4\uceec\uc9c0 \ud3ed\uaca9",
+    "zh_TW": "\u81bd\u6db2\u60e1\u87f2\u8f5f\u64ca",
+    "zh_CN": "\u707e\u6028\u8f70\u70b8"
+  },
+  "description_blz": {
+    "en_US": "Tear open a portal to the nether above the target location, from which several Bilescourge will pour out of and crash into the ground over 6 sec, dealing 1,515 Shadow damage to all enemies within 8 yards.",
+    "es_MX": "Abre un portal al vac\u00edo encima de la ubicaci\u00f3n objetivo del que emergen varios plagahieles y chocan contra el suelo durante 6 s para infligir 1,516 p. de da\u00f1o de las sombras a todos los enemigos en un radio de 8 m.",
+    "pt_BR": "Abre um portal et\u00e9reo acima do alvo, de onde diversas Biles de Flagelo cair\u00e3o por 6 s, causando 1.550 de dano de Sombra a todos os inimigos em um raio de 8 m do ponto de impacto.",
+    "de_DE": "Rei\u00dft \u00fcber dem Zielort ein Portal in den Nether auf, aus dem im Verlauf von 6 Sek. mehrere Eiterplagen hervorquellen, in den Boden einschlagen und allen Gegnern innerhalb von 8 Metern 1.500 Schattenschaden zuf\u00fcgen.",
+    "en_GB": "Tear open a portal to the nether above the target location, from which several Bilescourge will pour out of and crash into the ground over 6 sec, dealing 1,532 Shadow damage to all enemies within 8 yards.",
+    "es_ES": "Abre sobre la ubicaci\u00f3n seleccionada un portal al abismo del que salen varios azotes de bilis que se estrellan contra el suelo durante 6 s e infligen 1525 p. de da\u00f1o de las Sombras a todos los enemigos en un radio de 8 m.",
+    "fr_FR": "Vous ouvrez au-dessus de l\u2019emplacement cibl\u00e9 un portail vers le N\u00e9ant d\u2019o\u00f9 jaillissent plusieurs fl\u00e9aux bilieux qui tombent \u00e0 terre en 6 s et infligent 1540\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre aux ennemis \u00e0 moins de 8\u00a0m\u00e8tres.",
+    "it_IT": "Apre sopra la posizione bersaglio un portale verso il fatuo, da cui escono diversi Straziabile che si schiantano al suolo in 6 s, infliggendo 1.528 danni da ombra a tutti i nemici entro 8 m.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043d\u0430\u0434 \u0446\u0435\u043b\u044c\u044e \u043f\u043e\u0440\u0442\u0430\u043b \u0432 \u041a\u0440\u0443\u0433\u043e\u0432\u0435\u0440\u0442\u044c \u041f\u0443\u0441\u0442\u043e\u0442\u044b, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a. \u043f\u043e\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0436\u0435\u043b\u0447\u0435\u0433\u043d\u0443\u0441\u043e\u0432, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0445 1536 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c.",
+    "ko_KR": "\ub300\uc0c1 \uc704\uce58 \uc704\uc5d0 \ud669\ucc9c\uc73c\ub85c \ud1b5\ud558\ub294 \ucc28\uc6d0\ubb38\uc744 \uac15\uc81c\ub85c \uc5fd\ub2c8\ub2e4. \uc774 \ucc28\uc6d0\ubb38\uc5d0\uc11c \ub2e4\uc218\uc758 \ub2f4\uc999\uc2a4\uceec\uc9c0\uac00 \uc3df\uc544\uc838 \ub098\uc640 \ub545\uacfc \ucda9\ub3cc\ud558\uc5ec 6\ucd08\uc5d0 \uac78\uccd0 8\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c 1,514\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u76ee\u6a19\u5730\u9ede\u4e0a\u65b9\u958b\u555f\u4e00\u9053\u901a\u5f80\u865b\u7a7a\u7684\u50b3\u9001\u9580\uff0c\u57286\u79d2\u5167\u53ec\u559a\u6578\u96bb\u81bd\u6db2\u60e1\u87f2\u649e\u64ca\u5730\u9762\uff0c\u5c0d8\u78bc\u7bc4\u570d\u5167\u7684\u6240\u6709\u6575\u4eba\u9020\u62101,519\u9ede\u6697\u5f71\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5728\u76ee\u6807\u4f4d\u7f6e\u4e0a\u7a7a\u6495\u5f00\u4e00\u9053\u901a\u5f80\u865a\u7a7a\u7684\u4f20\u9001\u95e8\uff0c\u8ba9\u6570\u53ea\u707e\u6028\u8747\u4ece\u4e2d\u6d8c\u51fa\u5e76\u649e\u5411\u5730\u9762\uff0c\u6301\u7eed6\u79d2\uff0c\u5bf98\u7801\u5185\u7684\u6240\u6709\u654c\u4eba\u9020\u62101,513\u70b9\u6697\u5f71\u4f24\u5bb3\u3002"
+  }
 }

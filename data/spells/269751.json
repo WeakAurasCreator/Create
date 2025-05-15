@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "269751"
+  "SpellID": "269751",
+  "name_blz": {
+    "en_US": "Flanking Strike",
+    "es_MX": "Golpe lateral",
+    "pt_BR": "Ataque Flanqueante",
+    "de_DE": "Flankenangriff",
+    "en_GB": "Flanking Strike",
+    "es_ES": "Golpe de flanco",
+    "fr_FR": "Frappe lat\u00e9rale",
+    "it_IT": "Assalto Fiancheggiato",
+    "ru_RU": "\u041e\u0431\u0445\u043e\u0434\u043d\u043e\u0439 \u0443\u0434\u0430\u0440",
+    "ko_KR": "\uce21\ubc29 \uac15\ud0c0",
+    "zh_TW": "\u5074\u7ffc\u653b\u64ca",
+    "zh_CN": "\u4fa7\u7ffc\u6253\u51fb"
+  },
+  "description_blz": {
+    "en_US": "You and your pet leap to the target and strike it as one, dealing a total of 1,930 Physical damage.\r\n\r\nTip of the Spear grants an additional 15% damage bonus to Flanking Strike and Flanking Strike generates 2 stacks of Tip of the Spear.",
+    "es_MX": "T\u00fa y tu mascota saltan hacia el objetivo y lo golpean como uno, lo que inflige un total de 1,977 p. de da\u00f1o f\u00edsico.\r\n\r\nPunta de la lanza otorga un 15% m\u00e1s de da\u00f1o a Golpe lateral, y Golpe lateral genera 2 acumulaciones de Punta de la lanza.",
+    "pt_BR": "Voc\u00ea e seu ajudante saltam no alvo e atacam como se fossem um s\u00f3, causando um total de 1.940 de dano F\u00edsico.\r\n\r\nPonta da Lan\u00e7a concede 15% a mais de dano ao Ataque Flanqueante, que gera 2 aplica\u00e7\u00f5es de Ponta da Lan\u00e7a.",
+    "de_DE": "Ihr und Euer Begleiter springt zum Ziel und greift es gemeinsam an, was ihm insgesamt 1.915 k\u00f6rperlichen Schaden zuf\u00fcgt.\r\n\r\n'Speerspitze' gew\u00e4hrt 'Flankenangriff' einen zus\u00e4tzlichen Schadensbonus von 15% und 'Flankenangriff' erzeugt 2 Stapel von 'Speerspitze'.",
+    "en_GB": "You and your pet leap to the target and strike it as one, dealing a total of 1,931 Physical damage.\r\n\r\nTip of the Spear grants an additional 15% damage bonus to Flanking Strike and Flanking Strike generates 2 stacks of Tip of the Spear.",
+    "es_ES": "Tu mascota y t\u00fa os abalanz\u00e1is hacia el objetivo y golpe\u00e1is a la vez para infligir un total de 1926 p. de da\u00f1o f\u00edsico.\r\n\r\nPunta de la lanza otorga un 15% de da\u00f1o adicional a Golpe de flanco, que genera 2 acumulaciones de Punta de la lanza.",
+    "fr_FR": "Vous et votre familier sautez vers la cible et la frappez ensemble, ce qui inflige un total de 1947\u00a0points de d\u00e9g\u00e2ts physiques.\r\n\r\nPointe de la lance conf\u00e8re un bonus de 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires \u00e0 Frappe lat\u00e9rale et celle-ci g\u00e9n\u00e8re 2\u00a0charges de Pointe de la lance.",
+    "it_IT": "Permette a te e al tuo famiglio di attaccare all'unisono, infliggendo un totale di 1.935 danni fisici.\r\n\r\nPunta della Lancia aumenta i danni inflitti da Assalto Fiancheggiato del 15% aggiuntivo e Assalto Fiancheggiato fornisce 2 accumuli di Punta della Lancia.",
+    "ru_RU": "\u0412\u044b \u0441 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u043f\u0440\u044b\u0433\u0430\u0435\u0442\u0435 \u043a \u0446\u0435\u043b\u0438 \u0438 \u0430\u0442\u0430\u043a\u0443\u0435\u0442\u0435 \u0432\u043c\u0435\u0441\u0442\u0435, \u043d\u0430\u043d\u043e\u0441\u044f \u0432 \u043e\u0431\u0449\u0435\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 1981 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\"\u041d\u0430\u043a\u043e\u043d\u0435\u0447\u043d\u0438\u043a \u043a\u043e\u043f\u044c\u044f\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041e\u0431\u0445\u043e\u0434\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430\" \u0435\u0449\u0435 \u043d\u0430 15%. \"\u041e\u0431\u0445\u043e\u0434\u043d\u043e\u0439 \u0443\u0434\u0430\u0440\" \u0434\u0430\u0435\u0442 2 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041d\u0430\u043a\u043e\u043d\u0435\u0447\u043d\u0438\u043a\u0430 \u043a\u043e\u043f\u044c\u044f\".",
+    "ko_KR": "\uc790\uc2e0\uacfc \uc57c\uc218\uac00 \ub300\uc0c1\uc5d0\uac8c \ub3c4\uc57d\ud558\uc5ec \ud568\uaed8 \ub300\uc0c1\uc744 \uac15\ud0c0\ud558\uace0 \ucd1d 1,986\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\ucc3d\ub05d\uc774 \uce21\ubc29 \uac15\ud0c0\uc758 \uacf5\uaca9\ub825\uc744 15%\ub9cc\ud07c \ucd94\uac00\ub85c \uc99d\uac00\uc2dc\ud0a4\uba70, \ub610\ud55c \uce21\ubc29 \uac15\ud0c0 \uc0ac\uc6a9 \uc2dc \ucc3d\ub05d 2\uc911\ucca9\uc774 \uc0dd\uc131\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u548c\u4f60\u7684\u5bf5\u7269\u8df3\u5411\u76ee\u6a19\uff0c\u806f\u624b\u767c\u52d5\u653b\u64ca\uff0c\u4e00\u5171\u9020\u62101,972\u9ede\u7269\u7406\u50b7\u5bb3\u3002\r\n\r\n\u9577\u77db\u4e4b\u5c16\u5c0d\u5074\u7ffc\u653b\u64ca\u8ce6\u4e88\u984d\u591615%\u50b7\u5bb3\u52a0\u6210\uff0c\u4e14\u5074\u7ffc\u653b\u64ca\u6703\u7522\u751f2\u5c64\u9577\u77db\u4e4b\u5c16\u3002",
+    "zh_CN": "\u4f60\u548c\u4f60\u7684\u5ba0\u7269\u4e00\u8d77\u8dc3\u5411\u76ee\u6807\u5e76\u540c\u65f6\u653b\u51fb\uff0c\u9020\u6210\u603b\u8ba11,965\u70b9\u7269\u7406\u4f24\u5bb3\u3002\r\n\r\n\u5229\u77db\u4e4b\u5203\u5bf9\u4fa7\u7ffc\u6253\u51fb\u989d\u5916\u63d0\u4f9b15%\u7684\u4f24\u5bb3\u52a0\u6210\uff0c\u5e76\u4e14\u4fa7\u7ffc\u6253\u51fb\u751f\u62102\u5c42\u5229\u77db\u4e4b\u5203\u3002"
+  }
 }

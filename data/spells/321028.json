@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "321028"
+  "SpellID": "321028",
+  "name_blz": {
+    "en_US": "Deflecting Spikes",
+    "es_MX": "Pinchos desviadores",
+    "pt_BR": "Aguilh\u00f5es Defletores",
+    "de_DE": "Abwehrende Stacheln",
+    "en_GB": "Deflecting Spikes",
+    "es_ES": "P\u00faas deflectoras",
+    "fr_FR": "Pointes de d\u00e9viation",
+    "it_IT": "Aculei Devianti",
+    "ru_RU": "\u041e\u0442\u0440\u0430\u0436\u0430\u044e\u0449\u0438\u0435 \u0448\u0438\u043f\u044b",
+    "ko_KR": "\ubc18\uc0ac\uc758 \uc410\uae30",
+    "zh_TW": "\u504f\u659c\u5c16\u523a",
+    "zh_CN": "\u6298\u5c04\u5c16\u523a"
+  },
+  "description_blz": {
+    "en_US": "Demon Spikes also increases your Parry chance by 10% for 8 sec.",
+    "es_MX": "Pinchos demon\u00edacos tambi\u00e9n aumenta tu probabilidad de parar un 10% durante 8 s.",
+    "pt_BR": "Espinhos Demon\u00edacos tamb\u00e9m aumentam em 10% sua chance de Aparo por 8 s.",
+    "de_DE": "'D\u00e4monenstachel' erh\u00f6ht zus\u00e4tzlich Eure Parierchance 8 Sek. lang um 10%.",
+    "en_GB": "Demon Spikes also increases your Parry chance by 10% for 8 sec.",
+    "es_ES": "P\u00faas de demonio tambi\u00e9n aumenta tu probabilidad de parar un 10% durante 8 s.",
+    "fr_FR": "Pointes d\u00e9moniaques augmente \u00e9galement vos chances de parer de 10% pendant 8 s.",
+    "it_IT": "Gli Aculei Demoniaci aumentano la probabilit\u00e0 di parata del 10% per 8 s.",
+    "ru_RU": "\"\u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0448\u0438\u043f\u044b\" \u043d\u0430 8 \u0441\u0435\u043a. \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043f\u0430\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 10%.",
+    "ko_KR": "\uc545\ub9c8 \uc410\uae30\uac00 \ucd94\uac00\ub85c 8\ucd08 \ub3d9\uc548 \ubb34\uae30 \ub9c9\uae30 \ud655\ub960\uc744 10%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u60e1\u9b54\u5c16\u523a\u540c\u6642\u6703\u4f7f\u4f60\u7684\u62db\u67b6\u6a5f\u7387\u63d0\u9ad810%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u6076\u9b54\u5c16\u523a\u8fd8\u4f1a\u4f7f\u4f60\u7684\u62db\u67b6\u51e0\u7387\u63d0\u9ad810%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }
