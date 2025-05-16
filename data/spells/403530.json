@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "403530"
+  "SpellID": "403530",
+  "name_blz": {
+    "en_US": "Punishment",
+    "es_MX": "Castigo",
+    "pt_BR": "Puni\u00e7\u00e3o",
+    "de_DE": "Strafe",
+    "en_GB": "Punishment",
+    "es_ES": "Castigo",
+    "fr_FR": "Punition",
+    "it_IT": "Punizione",
+    "ru_RU": "\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+    "ko_KR": "\ucc98\ubc8c",
+    "zh_TW": "\u61f2\u7f6a",
+    "zh_CN": "\u60e9\u7f5a"
+  },
+  "description_blz": {
+    "en_US": "Successfully interrupting an enemy with Rebuke casts an extra Crusader Strike.",
+    "es_MX": "Interrumpir con \u00e9xito a un enemigo con Reprimenda lanza un Golpe de cruzado adicional.",
+    "pt_BR": "Interromper um inimigo com Repreens\u00e3o lan\u00e7a um Golpe do Cruzado adicional.",
+    "de_DE": "Beim erfolgreichen Unterbrechen eines Gegners durch 'Zurechtweisung' wird ein zus\u00e4tzlicher 'Kreuzfahrersto\u00df' eingesetzt.",
+    "en_GB": "Successfully interrupting an enemy with Rebuke casts an extra Crusader Strike.",
+    "es_ES": "Al interrumpir con \u00e9xito a un enemigo con Reprimenda lanzas un Golpe de cruzado m\u00e1s.",
+    "fr_FR": "Interrompre l\u2019adversaire avec R\u00e9primandes lance une Frappe du crois\u00e9 suppl\u00e9mentaire.",
+    "it_IT": "Interrompere un nemico con Predica lancia un Assalto del Crociato aggiuntivo.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0423\u043a\u043e\u0440\" \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \"\u0423\u0434\u0430\u0440 \u0432\u043e\u0438\u043d\u0430 \u0421\u0432\u0435\u0442\u0430\".",
+    "ko_KR": "\ube44\ub09c\uc73c\ub85c \uc801\uc758 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\ub294 \ub370 \uc131\uacf5\ud558\uba74 \uc131\uc804\uc0ac\uc758 \uc77c\uaca9\uc744 \ucd94\uac00\ub85c \uc2dc\uc804\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6210\u529f\u7528\u8cac\u96e3\u4e2d\u65b7\u6575\u4eba\u65bd\u6cd5\u5f8c\uff0c\u6703\u65bd\u653e\u4e00\u500b\u984d\u5916\u7684\u5341\u5b57\u8ecd\u8056\u64ca\u3002",
+    "zh_CN": "\u4f7f\u7528\u8d23\u96be\u6210\u529f\u6253\u65ad\u654c\u4eba\u4f1a\u989d\u5916\u65bd\u653e\u4e00\u6b21\u5341\u5b57\u519b\u6253\u51fb\u3002"
+  }
 }

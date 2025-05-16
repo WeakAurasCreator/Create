@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "377376"
+  "SpellID": "377376",
+  "name_blz": {
+    "en_US": "Enduring Chill",
+    "es_MX": "Escalofr\u00edo duradero",
+    "pt_BR": "Gelidez Duradoura",
+    "de_DE": "Andauerndes Unterk\u00fchlen",
+    "en_GB": "Enduring Chill",
+    "es_ES": "Escalofr\u00edo duradero",
+    "fr_FR": "Froidure persistante",
+    "it_IT": "Gelo Persistente",
+    "ru_RU": "\u041d\u0435\u043e\u0441\u043b\u0430\u0431\u0435\u0432\u0430\u044e\u0449\u0438\u0439 \u0445\u043e\u043b\u043e\u0434",
+    "ko_KR": "\uc778\ub0b4\ud558\ub294 \ud55c\uae30",
+    "zh_TW": "\u5805\u6bc5\u4e4b\u5bd2",
+    "zh_CN": "\u7ef5\u5ef6\u5bd2\u610f"
+  },
+  "description_blz": {
+    "en_US": "Chill Streak's bounce range is increased by 2 yds and each time Chill Streak bounces it has a 25% chance to increase the maximum number of bounces by 1.",
+    "es_MX": "El radio de rebote de Seguidilla escalofriante aumenta 2 m, y cada vez que Seguidilla escalofriante rebota, tiene un 25% de probabilidad de aumentar en 1 la cantidad m\u00e1xima de rebotes.",
+    "pt_BR": "Aumenta em 2 m o alcance das propaga\u00e7\u00f5es de Assalto G\u00e9lido. Sempre que Assalto G\u00e9lido se propaga, tem 25% de chance de aumentar em 1 o n\u00famero m\u00e1ximo de propaga\u00e7\u00f5es.",
+    "de_DE": "Erh\u00f6ht die Sprungreichweite von 'Kettenunterk\u00fchlung' um 2 Meter, und jedes Mal, wenn 'Kettenunterk\u00fchlung' \u00fcberspringt, besteht eine Chance von 25%, dass die maximale Anzahl der Spr\u00fcnge um 1 erh\u00f6ht wird.",
+    "en_GB": "Chill Streak's bounce range is increased by 2 yds and each time Chill Streak bounces it has a 25% chance to increase the maximum number of bounces by 1.",
+    "es_ES": "Aumenta en 2 m el alcance del rebote de Racha helada, y cada vez que rebota, tiene un 25% de probabilidades de aumentar en 1 el m\u00e1ximo de rebotes.",
+    "fr_FR": "La port\u00e9e du rebord de S\u00e9quence gla\u00e7ante est augment\u00e9e de 2\u00a0m\u00e8tres. De plus, chaque rebond a 25% de chances d\u2019augmenter de 1 le nombre maximum de rebonds.",
+    "it_IT": "Aumenta la portata dei salti di Serie Gelida di 2 m. Ogni volta che Serie Gelida salta su un bersaglio, ha una probabilit\u00e0 del 25% di aumentare il numero massimo dei salti di 1.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0443\u044e \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u044e \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u043c\u0435\u0436\u0434\u0443 \u0446\u0435\u043b\u044f\u043c\u0438 \"\u041f\u043e\u0442\u043e\u043a\u0430 \u0445\u043e\u043b\u043e\u0434\u0430\" \u043d\u0430 2 \u043c. \u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \"\u041f\u043e\u0442\u043e\u043a \u0445\u043e\u043b\u043e\u0434\u0430\" \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u0441 \u0446\u0435\u043b\u0438 \u043d\u0430 \u0446\u0435\u043b\u044c, \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0446\u0435\u043b\u0435\u0439 \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 25% \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1.",
+    "ko_KR": "\ubab0\uc544\uce58\ub294 \ud55c\uae30\uc758 \ud295\uae30\ub294 \uc0ac\uc815\uac70\ub9ac\uac00 2\ubbf8\ud130\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c \ubab0\uc544\uce58\ub294 \ud55c\uae30\uac00 \ud295\uaca8 \ub4e4\uc5b4\uac08 \ub54c\ub9c8\ub2e4 25%\uc758 \ud655\ub960\ub85c \ucd5c\ub300 \ud295\uae30\ub294 \ud69f\uc218\uac00 1\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5bd2\u51b0\u51cd\u80fd\u7684\u5f48\u8df3\u8ddd\u96e2\u63d0\u9ad82\u78bc\uff0c\u6bcf\u6b21\u5bd2\u51b0\u51cd\u80fd\u5f48\u8df3\u670925%\u6a5f\u7387\u4f7f\u6700\u9ad8\u5f48\u8df3\u6b21\u6578\u63d0\u9ad81\u6b21\u3002",
+    "zh_CN": "\u5bd2\u51b0\u8054\u7ed3\u7684\u5f39\u8df3\u8303\u56f4\u63d0\u9ad82\u7801\uff0c\u4e14\u5bd2\u51b0\u8054\u7ed3\u7684\u6bcf\u6b21\u5f39\u8df3\u90fd\u670925%\u7684\u51e0\u7387\u63d0\u9ad81\u6b21\u6700\u5927\u5f39\u8df3\u6b21\u6570\u3002"
+  }
 }

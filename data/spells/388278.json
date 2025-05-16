@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388278"
+  "SpellID": "388278",
+  "name_blz": {
+    "en_US": "Intrepid Explorer",
+    "es_MX": "Expedicionario intr\u00e9pido",
+    "pt_BR": "Explorador Intr\u00e9pido",
+    "de_DE": "Unerschrockener Forscher",
+    "en_GB": "Intrepid Explorer",
+    "es_ES": "Explorador Intr\u00e9pido",
+    "fr_FR": "Exploration intr\u00e9pide",
+    "it_IT": "Esploratore Intrepido",
+    "ru_RU": "\u041e\u0442\u0432\u0430\u0436\u043d\u044b\u0439 \u043f\u0435\u0440\u0432\u043e\u043f\u0440\u043e\u0445\u043e\u0434\u0435\u0446",
+    "ko_KR": "\uc6a9\uac10\ud55c \ud0d0\ud5d8\uac00",
+    "zh_TW": "\u5805\u52c7\u63a2\u96aa\u8005",
+    "zh_CN": "\u52c7\u731b\u63a2\u9669\u8005"
+  },
+  "description_blz": {
+    "en_US": "Unlock the title Intrepid Explorer for your Warband.",
+    "es_MX": "Desbloquea el t\u00edtulo Expedicionario intr\u00e9pido para tu tropa.",
+    "pt_BR": "Desbloqueia o t\u00edtulo Explorador Intr\u00e9pido para seu Bando de Guerra.",
+    "de_DE": "Schaltet den Titel 'Unerschrockener Forscher/Unerschrockene Forscherin' f\u00fcr Eure Kriegsmeute frei.",
+    "en_GB": "Unlock the title Intrepid Explorer for your Warband.",
+    "es_ES": "Desbloquea el t\u00edtulo Explorador Intr\u00e9pido para tu banda guerrera.",
+    "fr_FR": "D\u00e9bloque les titres d\u2019Exploration intr\u00e9pide pour votre bataillon.",
+    "it_IT": "Sblocca il titolo Esploratore Intrepido per la tua Brigata.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0437\u0432\u0430\u043d\u0438\u0435 \"\u041e\u0442\u0432\u0430\u0436\u043d\u044b\u0439 \u043f\u0435\u0440\u0432\u043e\u043f\u0440\u043e\u0445\u043e\u0434\u0435\u0446\" \u0434\u043b\u044f \u0432\u0441\u0435\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430.",
+    "ko_KR": "\uc804\ud22c\ubd80\ub300 \uce6d\ud638 \"\uc6a9\uac10\ud55c \ud0d0\ud5d8\uac00\"\ub97c \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u4f60\u7684\u6230\u968a\u89e3\u9396\u300c\u5805\u52c7\u63a2\u96aa\u8005\u300d\u982d\u929c\u3002",
+    "zh_CN": "\u4e3a\u4f60\u7684\u6218\u56e2\u89e3\u9501\u5934\u8854\uff1a\u52c7\u731b\u63a2\u9669\u8005\u3002"
+  }
 }

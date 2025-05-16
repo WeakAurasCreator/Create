@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "381921"
+  "SpellID": "381921",
+  "name_blz": {
+    "en_US": "Ouroboros",
+    "es_MX": "Ur\u00f3boros",
+    "pt_BR": "Ouroboros",
+    "de_DE": "Ouroboros",
+    "en_GB": "Ouroboros",
+    "es_ES": "Ur\u00f3boros",
+    "fr_FR": "Ouroboros",
+    "it_IT": "Uroboro",
+    "ru_RU": "\u0423\u0440\u043e\u0431\u043e\u0440\u043e\u0441",
+    "ko_KR": "\uc6b0\ub85c\ubcf4\ub85c\uc2a4",
+    "zh_TW": "\u929c\u5c3e\u86c7",
+    "zh_CN": "\u8854\u5c3e\u8f6e\u56de"
+  },
+  "description_blz": {
+    "en_US": "Casting Echo grants one stack of Ouroboros, increasing the healing of your next Emerald Blossom by 30%, stacking up to 5 times.",
+    "es_MX": "Lanzar Eco otorga una acumulaci\u00f3n de Ur\u00f3boros, que aumenta un 30% la sanaci\u00f3n de tu siguiente Flor esmeralda. Puede acumularse un m\u00e1ximo de 5 veces.",
+    "pt_BR": "Lan\u00e7ar Eco concede uma aplica\u00e7\u00e3o de Ouroboros, aumentando em 30% a cura da sua pr\u00f3xima Flor de Esmeralda. Acumula at\u00e9 5 vezes.",
+    "de_DE": "Wenn Ihr 'Echo' wirkt, wird ein Stapel 'Ouroboros' gew\u00e4hrt, der die Heilung Eures n\u00e4chsten Einsatzes von 'Smaragdbl\u00fcte' um 30% erh\u00f6ht. Dieser Effekt ist bis zu 5-mal stapelbar.",
+    "en_GB": "Casting Echo grants one stack of Ouroboros, increasing the healing of your next Emerald Blossom by 30%, stacking up to 5 times.",
+    "es_ES": "Lanzar Eco otorga una acumulaci\u00f3n de Ur\u00f3boros, lo que aumenta un 30% la sanaci\u00f3n de tu siguiente Flor esmeralda. Se acumula hasta 5 veces.",
+    "fr_FR": "Lancer \u00c9cho conf\u00e8re une charge d\u2019Ouroboros, ce qui augmente les soins de votre prochain Arbre d\u2019\u00e9meraude de 30%. Cumulable jusqu\u2019\u00e0 5\u00a0fois.",
+    "it_IT": "Lanciare Eco fornisce 1 accumulo di Uroboro, che aumenta le cure fornite dal successivo Bocciolo di Smeraldo del 30%. Si accumula fino a 5 volte.",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0435\u043d\u044f\u044f \"\u041e\u0442\u0433\u043e\u043b\u043e\u0441\u043e\u043a\", \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0423\u0440\u043e\u0431\u043e\u0440\u043e\u0441\", \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043f\u0440\u044f\u043c\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0418\u0437\u0443\u043c\u0440\u0443\u0434\u043d\u043e\u0433\u043e \u0446\u0432\u0435\u0442\u043a\u0430\" \u043d\u0430 30%. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437.",
+    "ko_KR": "\uba54\uc544\ub9ac \uc2dc\uc804 \uc2dc \uc6b0\ub85c\ubcf4\ub85c\uc2a4 \uc911\ucca9\uc744 \uc5bb\uc5b4 \ub2e4\uc74c \uc5d0\uba54\ub784\ub4dc \uaf43\uc758 \uce58\uc720\ub7c9\uc774 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u56de\u97f3\u6642\uff0c\u8ce6\u4e88\u4e00\u5c64\u929c\u5c3e\u86c7\u6548\u679c\uff0c\u4f7f\u4f60\u4e0b\u4e00\u500b\u7fe1\u7fe0\u4e4b\u82b1\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad830%\uff0c\u6700\u591a\u53ef\u5806\u758a5\u5c64\u3002",
+    "zh_CN": "\u65bd\u653e\u56de\u54cd\u4f1a\u83b7\u5f97\u4e00\u5c42\u8854\u5c3e\u8f6e\u56de\uff0c\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u7fe1\u7fe0\u4e4b\u82b1\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad830%\uff0c\u6700\u591a\u53ef\u53e0\u52a05\u6b21\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "433011"
+  "SpellID": "433011",
+  "name_blz": {
+    "en_US": "Blessing of the Forge",
+    "es_MX": "Bendici\u00f3n de la forja",
+    "pt_BR": "B\u00ean\u00e7\u00e3o da Forja",
+    "de_DE": "Segen der Schmiede",
+    "en_GB": "Blessing of the Forge",
+    "es_ES": "Bendici\u00f3n de la forja",
+    "fr_FR": "B\u00e9n\u00e9diction de la forge",
+    "it_IT": "Benedizione della Forgia",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435 \u0433\u043e\u0440\u043d\u0430",
+    "ko_KR": "\uac00\uc5f4\ub85c\uc758 \ucd95\ubcf5",
+    "zh_TW": "\u7194\u7210\u795d\u798f",
+    "zh_CN": "\u953b\u7089\u7684\u795d\u798f"
+  },
+  "description_blz": {
+    "en_US": "Avenging Wrath summons an additional Sacred Weapon, and during Avenging Wrath your Sacred Weapon casts spells on your target and echoes the effects of your Holy Power abilities.",
+    "es_MX": "C\u00f3lera vengativa invoca un Arma sagrada m\u00e1s y, durante C\u00f3lera vengativa, tu Arma sagrada lanza hechizos contra tu objetivo y replica los efectos de tus habilidades de poder sagrado.",
+    "pt_BR": "Ira Vingativa evoca uma Arma Sagrada adicional, e, durante a Ira Vingativa, sua Arma Sagrada lan\u00e7a feiti\u00e7os em seu alvo e ecoa os efeitos das suas habilidades de Poder Sagrado.",
+    "de_DE": "Euer Zauber 'Zornige Vergeltung' beschw\u00f6rt eine zus\u00e4tzliche heilige Waffe, und w\u00e4hrend 'Zornige Vergeltung' aktiv ist, setzt Eure heilige Waffe Zauber gegen Euer Ziel ein, die die Effekte Eurer Heilige Kraft verbrauchenden F\u00e4higkeiten spiegeln.",
+    "en_GB": "Avenging Wrath summons an additional Sacred Weapon, and during Avenging Wrath your Sacred Weapon casts spells on your target and echoes the effects of your Holy Power abilities.",
+    "es_ES": "C\u00f3lera vengativa invoca un arma sacra m\u00e1s y, durante C\u00f3lera vengativa, tu arma sacra lanza hechizos sobre tu objetivo y genera un eco de los efectos de tus facultades de poder sagrado.",
+    "fr_FR": "Courroux vengeur invoque une arme sacr\u00e9e suppl\u00e9mentaire. Pendant la dur\u00e9e de Courroux vengeur, celle-ci lance des sorts sur votre cible et fait \u00e9cho aux effets des techniques de puissance sacr\u00e9e.",
+    "it_IT": "Ira Vendicatrice evoca un'Arma Sacra aggiuntiva e durante Ira Vendicatrice l'Arma Sacra lancia incantesimi sui bersagli e fa riecheggiare gli effetti delle tue abilit\u00e0 che consumano cariche di potere sacro.",
+    "ru_RU": "\u0413\u043d\u0435\u0432 \u043a\u0430\u0440\u0430\u0442\u0435\u043b\u044f\" \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \"\u0421\u0432\u044f\u0442\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435\". \u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0413\u043d\u0435\u0432\u0430 \u043a\u0430\u0440\u0430\u0442\u0435\u043b\u044f\" \"\u0421\u0432\u044f\u0442\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043a \u0432\u0430\u0448\u0435\u0439 \u0446\u0435\u043b\u0438 \u0438 \u043a\u043e\u043f\u0438\u0440\u0443\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0432\u0430\u0448\u0438\u0445 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439, \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0449\u0438\u0445 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0421\u0432\u0435\u0442\u0430.",
+    "ko_KR": "\uc751\uc9d5\uc758 \uaca9\ub178 \uc0ac\uc6a9 \uc2dc \uc2e0\uc131\ud55c \ubb34\uae30\ub97c \ucd94\uac00\ub85c \uc18c\ud658\ud569\ub2c8\ub2e4. \ub610\ud55c \uc751\uc9d5\uc758 \uaca9\ub178\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \uc2e0\uc131\ud55c \ubb34\uae30\uac00 \ub300\uc0c1\uc5d0\uac8c \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\uace0 \uc2e0\uc131\ud55c \ud798 \ub2a5\ub825\uc758 \ud6a8\uacfc\ub97c \ubcf5\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5fa9\u4ec7\u4e4b\u6012\u6703\u984d\u5916\u53ec\u559a\u4e00\u628a\u795e\u8056\u6b66\u5668\u3002\u5728\u5fa9\u4ec7\u4e4b\u6012\u671f\u9593\uff0c\u4f60\u7684\u795e\u8056\u6b66\u5668\u6703\u5c0d\u76ee\u6a19\u65bd\u653e\u6cd5\u8853\uff0c\u4e26\u4f7f\u4f60\u7684\u8056\u80fd\u6280\u80fd\u6548\u679c\u7522\u751f\u8ff4\u97ff\u3002",
+    "zh_CN": "\u590d\u4ec7\u4e4b\u6012\u989d\u5916\u53ec\u5524\u4e00\u628a\u5723\u6d01\u6b66\u5668\uff0c\u5728\u590d\u4ec7\u4e4b\u6012\u671f\u95f4\uff0c\u4f60\u7684\u5723\u6d01\u6b66\u5668\u4f1a\u5bf9\u76ee\u6807\u65bd\u653e\u6cd5\u672f\uff0c\u5e76\u6a21\u4eff\u4f60\u65bd\u653e\u795e\u5723\u80fd\u91cf\u6280\u80fd\u3002"
+  }
 }

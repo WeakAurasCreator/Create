@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386997"
+  "SpellID": "386997",
+  "name_blz": {
+    "en_US": "Soul Rot",
+    "es_MX": "Podredumbre de alma",
+    "pt_BR": "Apodrecimento d'Alma",
+    "de_DE": "Seelenf\u00e4ule",
+    "en_GB": "Soul Rot",
+    "es_ES": "Putrefacci\u00f3n de alma",
+    "fr_FR": "Pourriture d\u2019\u00e2me",
+    "it_IT": "Putrefazione d'Anima",
+    "ru_RU": "\u0413\u043d\u0438\u0435\u043d\u0438\u0435 \u0434\u0443\u0448\u0438",
+    "ko_KR": "\uc601\ud63c \ubd80\uc2dd",
+    "zh_TW": "\u9748\u9b42\u8150\u721b",
+    "zh_CN": "\u7075\u9b42\u8150\u5316"
+  },
+  "description_blz": {
+    "en_US": "Wither away all life force of your current target and up to 4 additional targets nearby, causing your primary target to suffer 37,744 Shadow damage and secondary targets to suffer 18,872 Shadow damage over 8 sec.\r\n\r\nDamage dealt by Soul Rot heals you for 50% of damage done.",
+    "es_MX": "Marchita toda la fuerza vital de tu objetivo actual y de hasta 4 objetivos cercanos m\u00e1s, lo que inflige 37,744 p. de da\u00f1o de las sombras a tu objetivo principal y 18,872 p. de da\u00f1o de las sombras a los objetivos secundarios durante 8 s.\r\n\r\nEl da\u00f1o infligido con Podredumbre de alma te sana por un 50% de ese da\u00f1o.",
+    "pt_BR": "Definha toda a for\u00e7a vital do seu alvo atual e de at\u00e9 4 alvos pr\u00f3ximos adicionais, fazendo o alvo prim\u00e1rio receber 37.744 de dano de Sombra e os alvos secund\u00e1rios receberem 18.872 de dano de Sombra ao longo de 8 s.\r\n\r\nDano causado por Apodrecimento d'Alma concede a voc\u00ea uma cura equivalente a 50% do dano causado.",
+    "de_DE": "L\u00e4sst die Lebenskraft Eures aktuellen Ziels und von bis zu 4 zus\u00e4tzlichen Zielen in der N\u00e4he verdorren, sodass Euer Prim\u00e4rziel 37.744 Schattenschaden und Eure Sekund\u00e4rziele 18.872 Schattenschaden im Verlauf von 8 Sek. erleiden.\r\n\r\nVon 'Seelenf\u00e4ule' verursachter Schaden heilt Euch um 50% der Schadensmenge.",
+    "en_GB": "Wither away all life force of your current target and up to 4 additional targets nearby, causing your primary target to suffer 37,744 Shadow damage and secondary targets to suffer 18,872 Shadow damage over 8 sec.\r\n\r\nDamage dealt by Soul Rot heals you for 50% of damage done.",
+    "es_ES": "Marchita la fuerza vital de tu objetivo actual y de hasta 4 objetivos adicionales cercanos, lo que provoca que el objetivo principal reciba 37744 p. de da\u00f1o de las Sombras y los objetivos secundarios, 18872 p. de da\u00f1o de las Sombras durante 8 s.\r\n\r\nEl da\u00f1o infligido por Putrefacci\u00f3n de alma te sana un 50% del da\u00f1o recibido.",
+    "fr_FR": "Fait p\u00e9rir toute la force vitale de votre cible actuelle et jusqu\u2019\u00e0 4\u00a0cibles suppl\u00e9mentaires proches, infligeant 37744\u00a0points de d\u00e9g\u00e2ts d\u2019ombre \u00e0 votre cible principale et 18872\u00a0points de d\u00e9g\u00e2ts d\u2019ombre aux cibles secondaires en 8 s.\r\n\r\nLes d\u00e9g\u00e2ts inflig\u00e9s par Pourriture d\u2019\u00e2me vous soignent \u00e0 hauteur de 50\u00a0% des d\u00e9g\u00e2ts inflig\u00e9s.",
+    "it_IT": "Fa avvizzire tutta la forza vitale del bersaglio attuale e di massimo 4 bersagli aggiuntivi vicini, infliggendo 37.744 danni da ombra al bersaglio primario e 18.872 danni da ombra ai bersagli secondari in 8 s.\r\n\r\nI danni inflitti da Putrefazione d'Anima curano del 50% dei danni inflitti.",
+    "ru_RU": "\u0412\u044b\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442 \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u0446\u0435\u043b\u0438 \u0438 \u0435\u0449\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 4 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438, \u043d\u0430\u043d\u043e\u0441\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0446\u0435\u043b\u0438 37744 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u0430 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u2013 18872 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0437\u0430 8 \u0441\u0435\u043a.\r\n\r\n\"\u0413\u043d\u0438\u0435\u043d\u0438\u0435 \u0434\u0443\u0448\u0438\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 50% \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud604\uc7ac \ub300\uc0c1\uacfc \uc8fc\uc704\uc5d0 \uc788\ub294 \ucd5c\ub300 4\uba85\uc758 \ucd94\uac00 \ub300\uc0c1\uc758 \uc0dd\uba85\uc744 \ub9d0\ub77c\ubd99\uac8c \ub9cc\ub4e4\uc5b4 8\ucd08\uc5d0 \uac78\uccd0 \uc8fc \ub300\uc0c1\uc5d0\uac8c\ub294 37,744\uc758 \uc554\ud751 \ud53c\ud574\ub97c, \ubd80\uac00 \ub300\uc0c1\uc5d0\uac8c\ub294 18,872\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc601\ud63c \ubd80\uc2dd\uc73c\ub85c \uc785\ud78c \ud53c\ud574\uc758 50%\ub9cc\ud07c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u7576\u524d\u76ee\u6a19\u548c\u9644\u8fd1\u6700\u591a\u984d\u59164\u500b\u76ee\u6a19\u7684\u751f\u547d\u529b\u5b8c\u5168\u67af\u7aed\uff0c\u57288\u79d2\u5167\uff0c\u4f7f\u4f60\u4e3b\u8981\u76ee\u6a19\u53d7\u523037,744\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u6b21\u8981\u76ee\u6a19\u53d7\u523018,872\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\r\n\r\n\u9748\u9b42\u8150\u721b\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u6703\u70ba\u4f60\u6cbb\u7642\u76f8\u7576\u65bc\u8a72\u6b21\u50b7\u5bb350%\u7684\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u4f7f\u4f60\u5f53\u524d\u76ee\u6807\u7684\u6240\u6709\u751f\u547d\u4e4b\u529b\u67af\u840e\uff0c\u6700\u591a\u53ef\u4ee5\u989d\u5916\u5f71\u54cd\u9644\u8fd1\u76844\u4e2a\u76ee\u6807\uff0c\u57288\u79d2\u5185\u4f7f\u4f60\u7684\u4e3b\u8981\u76ee\u6807\u53d7\u523037,744\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u6b21\u8981\u76ee\u6807\u53d7\u523018,872\u70b9\u6697\u5f71\u4f24\u5bb3\u3002\r\n\r\n\u7075\u9b42\u8150\u5316\u9020\u6210\u7684\u4f24\u5bb3\u4f1a\u4e3a\u4f60\u6062\u590d\u7b49\u540c\u4e8e\u4f24\u5bb350%\u7684\u751f\u547d\u503c\u3002"
+  }
 }

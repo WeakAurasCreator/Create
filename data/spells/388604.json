@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388604"
+  "SpellID": "388604",
+  "name_blz": {
+    "en_US": "Echoing Reverberation",
+    "es_MX": "Reverberaci\u00f3n resonante",
+    "pt_BR": "Reverbera\u00e7\u00e3o Ecoante",
+    "de_DE": "Nachhallendes Echo",
+    "en_GB": "Echoing Reverberation",
+    "es_ES": "Reverberaci\u00f3n resonante",
+    "fr_FR": "\u00c9cho r\u00e9verb\u00e9rant",
+    "it_IT": "Riverbero Echeggiante",
+    "ru_RU": "\u041f\u043e\u0432\u0442\u043e\u0440\u044f\u044e\u0449\u0438\u0439\u0441\u044f \u043e\u0442\u0437\u0432\u0443\u043a",
+    "ko_KR": "\uba54\uc544\ub9ac\uce58\ub294 \uc6b8\ub9bc",
+    "zh_TW": "\u5171\u9cf4\u8ff4\u97ff",
+    "zh_CN": "\u7a7a\u5e7d\u56de\u54cd"
+  },
+  "description_blz": {
+    "en_US": "Zen Pulse triggers a second time at 80% effectiveness if cast on targets with Enveloping Mist.",
+    "es_MX": "Pulso zen se activa una segunda vez con un 80% de efectividad si se lanza sobre objetivos afectados por Niebla envolvente.",
+    "pt_BR": "Pulso Zen ativa-se uma segunda vez com 80% de efic\u00e1cia se lan\u00e7ado em alvos com Bruma Envolvente.",
+    "de_DE": "'Zenimpuls' wird ein zweites Mal mit einer Effektivit\u00e4t von 80% ausgel\u00f6st, wenn die F\u00e4higkeit auf Ziele gewirkt wird, die von 'Einh\u00fcllender Nebel' betroffen sind.",
+    "en_GB": "Zen Pulse triggers a second time at 80% effectiveness if cast on targets with Enveloping Mist.",
+    "es_ES": "Pulso zen se activa una segunda vez con un 80% de efectividad si se lanza sobre objetivos con Niebla envolvente.",
+    "fr_FR": "Impulsion zen se d\u00e9clenche une deuxi\u00e8me fois \u00e0 80% de son efficacit\u00e9 lorsqu\u2019elle est lanc\u00e9e sur des cibles b\u00e9n\u00e9ficiant de Brume enveloppante.",
+    "it_IT": "Impulso Zen si attiva una seconda volta al 80% dell'efficacia se lanciato su bersagli con Nebbia Avvolgente.",
+    "ru_RU": "\"\u0414\u0437\u0435\u043d-\u0438\u043c\u043f\u0443\u043b\u044c\u0441\" \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 80%, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u0435\u0433\u043e \u043a \u0446\u0435\u043b\u044f\u043c \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u043c \"\u041e\u043a\u0443\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\".",
+    "ko_KR": "\ub300\uc0c1\uc774 \ud3ec\uc6a9\uc758 \uc548\uac1c\uc758 \ud6a8\uacfc\ub97c \ubc1b\uace0 \uc788\uc744 \uacbd\uc6b0, \uc120\uc758 \ud30c\ub3d9\uc774 80%\uc758 \uc704\ub825\uc73c\ub85c \ub2e4\uc2dc \ud55c\ubc88 \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5982\u679c\u76ee\u6a19\u8eab\u4e0a\u6709\u8ff7\u9727\u7e5a\u7e5e\u7684\u6548\u679c\uff0c\u5c0d\u5176\u65bd\u653e\u79aa\u5fc3\u8108\u52d5\u6642\uff0c\u8a72\u6280\u80fd\u5c07\u6703\u89f8\u767c\u5169\u6b21\uff0c\u6548\u679c\u8b8a\u70ba80%\u3002",
+    "zh_CN": "\u5bf9\u5e26\u6709\u6c24\u6c32\u4e4b\u96fe\u7684\u76ee\u6807\u65bd\u653e\u7684\u7985\u610f\u6ce2\u4f1a\u4ee580%\u7684\u6548\u80fd\u518d\u751f\u6548\u4e00\u6b21\u3002"
+  }
 }

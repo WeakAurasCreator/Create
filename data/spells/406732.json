@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "406732"
+  "SpellID": "406732",
+  "name_blz": {
+    "en_US": "Spatial Paradox",
+    "es_MX": "Paradoja espacial",
+    "pt_BR": "Paradoxo Espacial",
+    "de_DE": "R\u00e4umliches Paradoxon",
+    "en_GB": "Spatial Paradox",
+    "es_ES": "Paradoja espacial",
+    "fr_FR": "Paradoxe spatial",
+    "it_IT": "Paradosso Spaziale",
+    "ru_RU": "\u041f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u0430\u0440\u0430\u0434\u043e\u043a\u0441",
+    "ko_KR": "\uacf5\uac04\uc758 \uc5ed\uc124",
+    "zh_TW": "\u7a7a\u9593\u6096\u8ad6",
+    "zh_CN": "\u7a7a\u95f4\u6096\u8bba"
+  },
+  "description_blz": {
+    "en_US": "Evoke a paradox for you and a friendly healer, allowing casting while moving and increasing the range of most spells by 100% for 10 sec.\r\n\r\nAffects the nearest healer within 60 yds, if you do not have a healer targeted.",
+    "es_MX": "Evoca una paradoja para ti y para un sanador aliado, permite que lances hechizos en movimiento y aumenta el rango de casi todos los hechizos un 100% durante 10 s.\r\n\r\nAfecta al sanador m\u00e1s cercano en un rango de 60 m si no tienes a un sanador marcado como objetivo.",
+    "pt_BR": "Provoca um paradoxo para voc\u00ea e um curador aliado, permitindo o lan\u00e7amento de feiti\u00e7os em movimento e aumentando em 100% o alcance da maioria dos feiti\u00e7os por 10 s.\r\n\r\nAfeta o curador mais pr\u00f3ximo em um raio de 60 m, se voc\u00ea n\u00e3o alvejar um curador.",
+    "de_DE": "Ruft ein Paradoxon f\u00fcr Euch und einen verb\u00fcndeten Heiler hervor, wodurch ihr Zauber aus der Bewegung wirken k\u00f6nnt und die Reichweite der meisten Zauber um 100% erh\u00f6ht wird. H\u00e4lt 10 Sek. lang an.\r\n\r\nWirkt sich auf den n\u00e4chsten Heiler innerhalb von 60 Metern aus, wenn Ihr keinen Heiler als Ziel gew\u00e4hlt habt.",
+    "en_GB": "Evoke a paradox for you and a friendly healer, allowing casting while moving and increasing the range of most spells by 100% for 10 sec.\r\n\r\nAffects the nearest healer within 60 yds, if you do not have a healer targeted.",
+    "es_ES": "Evoca una paradoja para ti y un sanador amistoso que os permite lanzar hechizos en movimiento y aumenta un 100% el alcance de la mayor\u00eda de los hechizos durante 10 s.\r\n\r\nAfecta al sanador m\u00e1s cercano en un radio de 60 m si no has elegido como objetivo a un sanador.",
+    "fr_FR": "Invoque sur vous et un soigneur alli\u00e9 un paradoxe qui permet de lancer des sorts en se d\u00e9pla\u00e7ant et augmente la port\u00e9e de la plupart des sorts de 100\u00a0% pendant 10 s.\r\n\r\nAffecte le soigneur le plus proche \u00e0 moins de 60\u00a0m\u00e8tres si vous n\u2019en avez pas en cible.",
+    "it_IT": "Evoca un paradosso per te e un guaritore alleato, permettendo di lanciare incantesimi in movimento e aumentando la portata della maggior parte degli incantesimi del 100% per 10 s.\r\n\r\nHa effetto sul guaritore pi\u00f9 vicino entro 60 m se non hai selezionato un guaritore.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043f\u0430\u0440\u0430\u0434\u043e\u043a\u0441, \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u043d\u0430 \u0432\u0430\u0441 \u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0446\u0435\u043b\u0438\u0442\u0435\u043b\u044f, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043d\u0430 \u0445\u043e\u0434\u0443 \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u0440\u0430\u0434\u0438\u0443\u0441 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043d\u0430 100% \u043d\u0430 10 \u0441\u0435\u043a.\r\n\r\n\u0415\u0441\u043b\u0438 \u0446\u0435\u043b\u044c \u043d\u0435 \u0432\u044b\u0431\u0440\u0430\u043d\u0430, \u044d\u0444\u0444\u0435\u043a\u0442 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d \u043a \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u043c\u0443 \u0446\u0435\u043b\u0438\u0442\u0435\u043b\u044e \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 60 \u043c.",
+    "ko_KR": "\uc790\uc2e0\uacfc \uc544\uad70 \uce58\uc720 \ub2f4\ub2f9\uc5d0\uac8c \uc5ed\uc124\uc744 \uc77c\uc73c\ucf1c \uc774\ub3d9\ud558\uba74\uc11c \uc8fc\ubb38\uc744 \uc2dc\uc804\ud560 \uc218 \uc788\ub3c4\ub85d \ub9cc\ub4e4\uace0 10\ucd08 \ub3d9\uc548 \uac70\uc758 \ubaa8\ub4e0 \uc8fc\ubb38\uc758 \uc0ac\uc815\uac70\ub9ac\ub97c 100%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ub300\uc0c1 \uce58\uc720 \ub2f4\ub2f9\uc744 \uc9c0\uc815\ud558\uc9c0 \uc54a\uc744 \uacbd\uc6b0 60\ubbf8\ud130 \ub0b4\uc758 \uac00\uc7a5 \uac00\uae4c\uc6b4 \uce58\uc720 \ub2f4\ub2f9\uc5d0\uac8c \uc601\ud5a5\uc744 \uc90d\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u4f60\u548c\u4e00\u540d\u53cb\u65b9\u6cbb\u7642\u8005\u88fd\u9020\u6096\u8ad6\uff0c\u5141\u8a31\u908a\u79fb\u52d5\u908a\u65bd\u6cd5\uff0c\u4e26\u4f7f\u5927\u90e8\u5206\u6cd5\u8853\u7684\u8ddd\u96e2\u63d0\u9ad8100%\uff0c\u6301\u7e8c10\u79d2\u3002\r\n\r\n\u5982\u679c\u672a\u6307\u5b9a\u4efb\u4f55\u6cbb\u7642\u8005\uff0c\u5247\u5f71\u97ff60\u78bc\u5167\u8ddd\u96e2\u6700\u8fd1\u7684\u6cbb\u7642\u8005\u3002",
+    "zh_CN": "\u4e3a\u4f60\u548c\u6700\u8fd1\u7684\u53cb\u65b9\u6cbb\u7597\u8005\u5524\u8d77\u6096\u8bba\uff0c\u4f7f\u4f60\u4eec\u80fd\u591f\u5728\u79fb\u52a8\u65f6\u65bd\u6cd5\uff0c\u5e76\u4f7f\u5927\u90e8\u5206\u6cd5\u672f\u7684\u5c04\u7a0b\u63d0\u9ad8100%\uff0c\u6301\u7eed10\u79d2\u3002\r\n\r\n\u5982\u679c\u4f60\u7684\u76ee\u6807\u4e0d\u662f\u6cbb\u7597\u8005\uff0c\u5219\u4f1a\u5f71\u54cd60\u7801\u5185\u6700\u8fd1\u7684\u6cbb\u7597\u8005\u3002"
+  }
 }

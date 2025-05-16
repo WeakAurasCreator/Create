@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339455"
+  "SpellID": "339455",
+  "name_blz": {
+    "en_US": "Corrupting Leer",
+    "es_MX": "Mirada corruptora",
+    "pt_BR": "Mirada Corruptora",
+    "de_DE": "Verderbendes Starren",
+    "en_GB": "Corrupting Leer",
+    "es_ES": "Mirada de corrupci\u00f3n",
+    "fr_FR": "\u0152illade corruptrice",
+    "it_IT": "Sguardo Corruttore",
+    "ru_RU": "\u041e\u0441\u043a\u0432\u0435\u0440\u043d\u044f\u044e\u0449\u0430\u044f \u0443\u0445\u043c\u044b\u043b\u043a\u0430",
+    "ko_KR": "\ud0c0\ub77d\uc758 \ub208\uae38",
+    "zh_TW": "\u8150\u5316\u7768\u8996",
+    "zh_CN": "\u8150\u5316\u77a5\u89c6"
+  },
+  "description_blz": {
+    "en_US": "Agony and Unstable Affliction damage have a 3.0% chance to reduce the cooldown of Summon Darkglare by 5 sec.",
+    "es_MX": "Agon\u00eda y Aflicci\u00f3n inestable tienen un 3.0% de probabilidad de reducir 5 s el tiempo de reutilizaci\u00f3n de Invocar Mirada oscura.",
+    "pt_BR": "O dano dos feiti\u00e7os Agonia e Agonia Inst\u00e1vel tem 3,0% de chance de reduzir a recarga de Evocar Clar\u00e3o Sombrio em 5 s.",
+    "de_DE": "Schaden durch 'Agonie' und 'Instabiles Gebrechen' hat eine Chance von 3,0%, die Abklingzeit von 'Dunkelblick beschw\u00f6ren' um 5 Sek. zu verringern.",
+    "en_GB": "Agony and Unstable Affliction damage have a 3.0% chance to reduce the cooldown of Summon Darkglare by 5 sec.",
+    "es_ES": "El da\u00f1o de Agon\u00eda y Aflicci\u00f3n inestable tiene un 3,0% de probabilidad de reducir 5 s el tiempo de reutilizaci\u00f3n de Invocar miradaoscura.",
+    "fr_FR": "Les d\u00e9g\u00e2ts d\u2019Agonie et d\u2019Affliction instable ont 3,0% de chances de r\u00e9duire le temps de recharge d\u2019Invocation de Regard-noir de 5\u00a0s.",
+    "it_IT": "I danni inflitti da Agonia e Afflizione Instabile hanno una probabilit\u00e0 del 3,0% di ridurre il tempo di recupero di Evocazione: Lumenero di 5 s.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u0410\u0433\u043e\u043d\u0438\u0438\" \u0438 \"\u041d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043b\u0434\u043e\u0432\u0441\u0442\u0432\u0430\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 3,0% \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0440\u0438\u0437\u044b\u0432\u0430 \u0441\u043e\u0437\u0435\u0440\u0446\u0430\u0442\u0435\u043b\u044f \u0442\u044c\u043c\u044b\" \u043d\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\uace0\ud1b5 \ubc0f \ubd88\uc548\uc815\ud55c \uace0\ud1b5\uc73c\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 3.0%\uc758 \ud655\ub960\ub85c \uc554\ud751\uc2dc\uc120 \uc18c\ud658\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u75db\u82e6\u548c\u75db\u82e6\u52d5\u76ea\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u67093.0%\u6a5f\u7387\u4f7f\u53ec\u559a\u6697\u51dd\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed5\u79d2\u3002",
+    "zh_CN": "\u75db\u695a\u548c\u75db\u82e6\u65e0\u5e38\u7684\u4f24\u5bb3\u67093.0%\u51e0\u7387\u4f7f\u53ec\u5524\u9ed1\u773c\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed5\u79d2\u3002"
+  }
 }

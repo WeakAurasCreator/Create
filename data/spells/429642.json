@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "429642"
+  "SpellID": "429642",
+  "name_blz": {
+    "en_US": "Mountain of Muscle and Scars",
+    "es_MX": "Monta\u00f1a de m\u00fasculos y cicatrices",
+    "pt_BR": "Montanha de M\u00fasculos e Chagas",
+    "de_DE": "Narbiger Muskelberg",
+    "en_GB": "Mountain of Muscle and Scars",
+    "es_ES": "Monta\u00f1a de m\u00fasculos y cicatrices",
+    "fr_FR": "Montagne de muscles et de cicatrices",
+    "it_IT": "Montagna di Muscoli e Cicatrici",
+    "ru_RU": "\u0413\u043e\u0440\u0430 \u043c\u044b\u0448\u0446 \u0438 \u0448\u0440\u0430\u043c\u043e\u0432",
+    "ko_KR": "\uadfc\uc721\uacfc \uc0c1\ud754\uc758 \uc0b0",
+    "zh_TW": "\u5343\u9318\u767e\u934a\u4e4b\u8ec0",
+    "zh_CN": "\u767e\u6218\u4e4b\u521b"
+  },
+  "description_blz": {
+    "en_US": "You deal 5% more damage and take 5.0% less damage.\r\n\r\nSize increased by 5%.",
+    "es_MX": "Infliges un 5% m\u00e1s de da\u00f1o y recibes un 5.0% menos de da\u00f1o.\r\n\r\nEl tama\u00f1o aumenta un 5%.",
+    "pt_BR": "Voc\u00ea causa 5% a mais de dano e recebe 5,0% a menos de dano.\r\n\r\nTamanho aumentado em 5%.",
+    "de_DE": "Ihr verursacht 5% mehr Schaden und erleidet 5,0% weniger Schaden.\r\n\r\nErh\u00f6ht die Gr\u00f6\u00dfe um 5%.",
+    "en_GB": "You deal 5% more damage and take 5.0% less damage.\r\n\r\nSize increased by 5%.",
+    "es_ES": "Infliges un 5% m\u00e1s de da\u00f1o y recibes un 5,0% menos de da\u00f1o.\r\n\r\nEl tama\u00f1o aumenta un 5%.",
+    "fr_FR": "Vous infligez 5\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires et subissez 5,0\u00a0% de d\u00e9g\u00e2ts en moins.\r\n\r\nTaille augment\u00e9e de 5\u00a0%.",
+    "it_IT": "Aumenta i danni inflitti del 5% e riduce i danni subiti del 5,0%.\r\n\r\nAumenta le dimensioni del 5%.",
+    "ru_RU": "\u0412\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u043d\u0430 5% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043d\u0430 5,0% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u0412\u0430\u0448 \u0440\u0430\u0437\u043c\u0435\u0440 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5%.",
+    "ko_KR": "\uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \ubc1b\ub294 \ud53c\ud574\ub294 5.0%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\ud06c\uae30\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad85%\uff0c\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e5.0%\u3002\r\n\r\n\u9ad4\u578b\u589e\u59275%\u3002",
+    "zh_CN": "\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e5.0%\u3002\r\n\r\n\u4f53\u578b\u589e\u59275%\u3002"
+  }
 }

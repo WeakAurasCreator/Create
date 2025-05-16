@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "377514"
+  "SpellID": "377514",
+  "name_blz": {
+    "en_US": "Reaping",
+    "es_MX": "Cosecha",
+    "pt_BR": "Ceifa",
+    "de_DE": "Ernten",
+    "en_GB": "Reaping",
+    "es_ES": "Siega",
+    "fr_FR": "R\u00e9colte fun\u00e8bre",
+    "it_IT": "Mietitura",
+    "ru_RU": "\u0416\u0430\u0442\u0432\u0430",
+    "ko_KR": "\uc218\ud655",
+    "zh_TW": "\u596a\u9b42",
+    "zh_CN": "\u5272\u9b42\u7d22\u547d"
+  },
+  "description_blz": {
+    "en_US": "Your Soul Reaper, Scourge Strike, Festering Strike, and Death Coil deal 30% additional damage to enemies below 35% health.",
+    "es_MX": "Tu Segador de almas, Golpe de la plaga, Golpe purulento y Espiral de la muerte infligen un 30% m\u00e1s de da\u00f1o a los enemigos con menos del 35% de salud.",
+    "pt_BR": "Seus Ceifador de Almas, Golpe do Flagelo, Ataque Supurante e Espiral da Morte causam 30% a mais de dano a inimigos com menos de 35% dos pontos de vida.",
+    "de_DE": "'Seelenernter', 'Gei\u00dfelsto\u00df', 'Schw\u00e4render Sto\u00df' und 'Todesmantel' f\u00fcgen Gegnern mit weniger als 35% Gesundheit 30% mehr Schaden zu.",
+    "en_GB": "Your Soul Reaper, Scourge Strike, Festering Strike, and Death Coil deal 30% additional damage to enemies below 35% health.",
+    "es_ES": "Infliges un 30% m\u00e1s de da\u00f1o a los enemigos con menos de un 35% de salud con Segador de almas, Golpe de la Plaga, Golpe purulento y Espiral de la muerte.",
+    "fr_FR": "Faucheur d\u2019\u00e2me, Frappe du Fl\u00e9au, Frappe purulente et Voile mortel infligent 30\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires aux adversaires disposant de moins de 35\u00a0% de leurs points de vie.",
+    "it_IT": "Mietitura dell'Anima, Assalto del Flagello, Assalto Putrescente e Spira Mortale infliggono il 30% di danni aggiuntivi ai nemici con meno del 35% della salute massima.",
+    "ru_RU": "\"\u0416\u043d\u0435\u0446 \u0434\u0443\u0448\", \"\u0423\u0434\u0430\u0440 \u041f\u043b\u0435\u0442\u0438\", \"\u0423\u0434\u0430\u0440 \u0440\u0430\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u044f\" \u0438 \"\u041b\u0438\u043a \u0441\u043c\u0435\u0440\u0442\u0438\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 30% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c, \u0443 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u043c\u0435\u043d\u0435\u0435 35% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc601\ud63c \uc218\ud655\uc790, \uc2a4\uceec\uc9c0\uc758 \uc77c\uaca9, \uace0\ub984 \uc77c\uaca9, \uc8fd\uc74c\uc758 \uace0\ub9ac\uac00 \uc0dd\uba85\ub825\uc774 35% \ubbf8\ub9cc\uc778 \uc801\uc5d0\uac8c 30%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u9748\u9b42\u6536\u5272\u8005\u3001\u5929\u8b74\u6253\u64ca\u3001\u81bf\u7621\u6f70\u64ca\u548c\u6b7b\u4ea1\u7e8f\u7e5e\u5c0d\u751f\u547d\u529b\u4f4e\u65bc35%\u7684\u6575\u4eba\u984d\u5916\u9020\u621030%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u7075\u9b42\u6536\u5272\u3001\u5929\u707e\u6253\u51fb\u3001\u8113\u75ae\u6253\u51fb\u548c\u51cb\u96f6\u7f20\u7ed5\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e35%\u7684\u654c\u4eba\u989d\u5916\u9020\u621030%\u4f24\u5bb3\u3002"
+  }
 }

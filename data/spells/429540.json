@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "429540"
+  "SpellID": "429540",
+  "name_blz": {
+    "en_US": "Arcane Affinity",
+    "es_MX": "Afinidad arcana",
+    "pt_BR": "Afinidade Arcana",
+    "de_DE": "Arkanaffinit\u00e4t",
+    "en_GB": "Arcane Affinity",
+    "es_ES": "Afinidad Arcana",
+    "fr_FR": "Affinit\u00e9 avec les arcanes",
+    "it_IT": "Affinit\u00e0 Arcana",
+    "ru_RU": "\u0421\u0432\u044f\u0437\u044c \u0441 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0435\u0439",
+    "ko_KR": "\ube44\uc804 \uce5c\ud654",
+    "zh_TW": "\u79d8\u6cd5\u89aa\u548c",
+    "zh_CN": "\u5965\u672f\u4eb2\u548c"
+  },
+  "description_blz": {
+    "en_US": "All Arcane damage from your spells and abilities is increased by 3%.",
+    "es_MX": "Todo el da\u00f1o arcano de tus hechizos y habilidades aumenta un 3%.",
+    "pt_BR": "Todo dano Arcano de seus feiti\u00e7os e habilidades \u00e9 aumentado em 3%.",
+    "de_DE": "Aller Arkanschaden aus euren Zaubern und F\u00e4higkeiten ist um 3% erh\u00f6ht.",
+    "en_GB": "All Arcane damage from your spells and abilities is increased by 3%.",
+    "es_ES": "Todo el da\u00f1o Arcano de tus hechizos y facultades aumenta un 3%.",
+    "fr_FR": "Tous les d\u00e9g\u00e2ts des arcanes de vos sorts et techniques sont augment\u00e9s de 3\u00a0%.",
+    "it_IT": "Aumenta tutti i danni da arcano inflitti da incantesimi e abilit\u00e0 del 3%.",
+    "ru_RU": "\u0412\u0441\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 3% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\uc8fc\ubb38 \ubc0f \ub2a5\ub825\uc758 \ubaa8\ub4e0 \ube44\uc804 \uacf5\uaca9\ub825\uc774 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6cd5\u8853\u8207\u6280\u80fd\u7684\u6240\u6709\u79d8\u6cd5\u50b7\u5bb3\u63d0\u9ad83%\u3002",
+    "zh_CN": "\u4f60\u7684\u6cd5\u672f\u548c\u6280\u80fd\u9020\u6210\u7684\u6240\u6709\u5965\u672f\u4f24\u5bb3\u63d0\u9ad83%\u3002"
+  }
 }

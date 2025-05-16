@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "370388"
+  "SpellID": "370388",
+  "name_blz": {
+    "en_US": "Swoop Up",
+    "es_MX": "Avent\u00f3n",
+    "pt_BR": "Impulso Ascendente",
+    "de_DE": "Packender Sturzflug",
+    "en_GB": "Swoop Up",
+    "es_ES": "Ascenso repentino",
+    "fr_FR": "Cueillir en vol",
+    "it_IT": "Risalita",
+    "ru_RU": "\u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0432\u0437\u043b\u0435\u0442",
+    "ko_KR": "\uae09\uc18d \uc0c1\uc2b9",
+    "zh_TW": "\u98db\u64b2\u6293\u8d77",
+    "zh_CN": "\u7fd4\u9f99\u5fa1\u5929"
+  },
+  "description_blz": {
+    "en_US": "Grab an enemy and fly with them to the target location.",
+    "es_MX": "Sujetas a un enemigo y vuelan juntos hasta la ubicaci\u00f3n objetivo.",
+    "pt_BR": "Agarra um inimigo e voa com ele at\u00e9 o local selecionado.",
+    "de_DE": "Schnappt Euch einen Gegner und fliegt mit ihm zum Zielort.",
+    "en_GB": "Grab an enemy and fly with them to the target location.",
+    "es_ES": "Agarra a un enemigo y vuela con \u00e9l hasta la ubicaci\u00f3n seleccionada.",
+    "fr_FR": "Vous saisissez un adversaire afin de l\u2019amener par la voie des airs jusqu\u2019\u00e0 l\u2019emplacement cibl\u00e9.",
+    "it_IT": "Permette di afferrare un alleato e volare insieme a lui verso la posizione bersaglio.",
+    "ru_RU": "\u0412\u044b \u0445\u0432\u0430\u0442\u0430\u0435\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0438 \u043b\u0435\u0442\u0438\u0442\u0435 \u0441 \u043d\u0438\u043c \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u0443\u044e \u043e\u0431\u043b\u0430\u0441\u0442\u044c.",
+    "ko_KR": "\uc801\uc744 \ubd99\uc7a1\uc544 \ub300\uc0c1 \uc704\uce58\uae4c\uc9c0 \ud568\uaed8 \ube44\ud589\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6293\u8457\u4e00\u500b\u6575\u4eba\u98db\u5230\u76ee\u6a19\u4f4d\u7f6e\u3002",
+    "zh_CN": "\u6293\u4f4f\u4e00\u4e2a\u654c\u4eba\uff0c\u4e0e\u5176\u4e00\u540c\u98de\u5230\u76ee\u6807\u5730\u70b9\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "414708"
+  "SpellID": "414708",
+  "name_blz": {
+    "en_US": "Blessed Focus",
+    "es_MX": "Enfoque bendito",
+    "pt_BR": "Foco Aben\u00e7oado",
+    "de_DE": "Gesegneter Fokus",
+    "en_GB": "Blessed Focus",
+    "es_ES": "Foco bendito",
+    "fr_FR": "Focalisation b\u00e9nie",
+    "it_IT": "Focus Benedetto",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f",
+    "ko_KR": "\ucd95\ubcf5\ubc1b\uc740 \uc9d1\uc911\ub825",
+    "zh_TW": "\u795d\u798f\u5c08\u6ce8",
+    "zh_CN": "\u6069\u5178\u96c6\u8eab"
+  },
+  "description_blz": {
+    "en_US": "Glimmer of Light's healing and damage is increased by 40%, but it can only affect 1 target at a time.",
+    "es_MX": "La sanaci\u00f3n y el da\u00f1o de Resplandor de Luz aumenta un 40%, pero solo puede afectar a 1 objetivos a la vez.",
+    "pt_BR": "Cura e dano de Fulgor de Luz aumentados em 40%, mas s\u00f3 afeta 1 alvo por vez.",
+    "de_DE": "Erh\u00f6ht den Schaden und die Heilung von 'Lichtschimmer' um 40%, aber der Effekt kann nur bei 1 Ziel gleichzeitig aktiv sein.",
+    "en_GB": "Glimmer of Light's healing and damage is increased by 40%, but it can only affect 1 target at a time.",
+    "es_ES": "El da\u00f1o y la sanaci\u00f3n de Brillo de Luz aumentan un 40%, pero solo puede afectar a 1 objetivo a la vez.",
+    "fr_FR": "Les soins et les d\u00e9g\u00e2ts de Lueur de lumi\u00e8re sont augment\u00e9s de 40\u00a0%, mais la lueur ne peut affecter que 1\u00a0cible \u00e0 la fois.",
+    "it_IT": "Aumenta i danni inflitti e le cure fornite da Barlume di Luce del 40%, ma pu\u00f2 influenzare solo 1 bersaglio alla volta.",
+    "ru_RU": "\"\u041f\u0440\u043e\u0431\u043b\u0435\u0441\u043a \u0421\u0432\u0435\u0442\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 40% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043d\u0430 40% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0442\u043e\u043b\u044c\u043a\u043e \u043a 1 \u0446\u0435\u043b\u0438 \u0435\u0434\u0438\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e.",
+    "ko_KR": "\ube5b\uc758 \uc790\ub77d\uc758 \uce58\uc720\ub7c9\uacfc \uacf5\uaca9\ub825\uc774 40%\ub9cc\ud07c \uc99d\uac00\ud558\uc9c0\ub9cc \ud55c \ubc88\uc5d0 1\uba85\uc758 \ub300\uc0c1\uc5d0\uac8c\ub9cc \uc601\ud5a5\uc744 \uc90d\ub2c8\ub2e4.",
+    "zh_TW": "\u795e\u8056\u5fae\u5149\u7684\u6cbb\u7642\u6548\u679c\u548c\u50b7\u5bb3\u63d0\u9ad840%\uff0c\u4e0d\u904e\u540c\u4e00\u6642\u9593\u53ea\u80fd\u5f71\u97ff1\u500b\u76ee\u6a19\u3002",
+    "zh_CN": "\u5723\u5149\u95ea\u70c1\u7684\u6cbb\u7597\u91cf\u548c\u4f24\u5bb3\u63d0\u9ad840%\uff0c\u4f46\u540c\u4e00\u65f6\u95f4\u53ea\u80fd\u5f71\u54cd1\u4e2a\u76ee\u6807\u3002"
+  }
 }

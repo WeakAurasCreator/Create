@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "416715"
+  "SpellID": "416715",
+  "name_blz": {
+    "en_US": "Convection",
+    "es_MX": "Convecci\u00f3n",
+    "pt_BR": "Convec\u00e7\u00e3o",
+    "de_DE": "Konvektion",
+    "en_GB": "Convection",
+    "es_ES": "Convecci\u00f3n",
+    "fr_FR": "Convection",
+    "it_IT": "Convezione",
+    "ru_RU": "\u041a\u043e\u043d\u0432\u0435\u043a\u0446\u0438\u044f",
+    "ko_KR": "\ub300\ub958",
+    "zh_TW": "\u71b1\u58d3\u7206\u767c",
+    "zh_CN": "\u70ed\u80fd\u5bf9\u6d41"
+  },
+  "description_blz": {
+    "en_US": "When a Living Bomb expires, if it did not spread to another target, it reapplies itself at 100% effectiveness.\r\n\r\nA Living Bomb can only benefit from this effect once.",
+    "es_MX": "Cuando una Bomba viva expira, si no se ha propagado a otro objetivo, vuelve a aplicarse con un 100% de efectividad.\r\n\r\nUna Bomba viva solo puede activar este efecto una vez.",
+    "pt_BR": "Quando uma Bomba Viva expira, se n\u00e3o tiver passado para outro alvo, ela se reaplica com 100% de efic\u00e1cia.\r\n\r\nUma Bomba Viva s\u00f3 pode se beneficiar do efeito uma vez.",
+    "de_DE": "L\u00e4uft eine lebende Bombe ab und hat sie sich nicht auf ein weiteres Ziel ausgebreitet, wendet sie sich mit einer Effizienz von 100% neu an.\r\n\r\nEine lebende Bombe kann von diesem Effekt nur einmal profitieren.",
+    "en_GB": "When a Living Bomb expires, if it did not spread to another target, it reapplies itself at 100% effectiveness.\r\n\r\nA Living Bomb can only benefit from this effect once.",
+    "es_ES": "Cuando se agota una bomba viva, si no se ha propagado a otro objetivo, vuelve a aplicarse con un 100% de efectividad.\r\n\r\nUna bomba viva solo puede beneficiarse de este efecto una vez.",
+    "fr_FR": "Lorsque l\u2019effet de Bombe vivante expire, si elle n\u2019a pas \u00e9t\u00e9 transmise \u00e0 une autre cible, elle est \u00e0 nouveau appliqu\u00e9e \u00e0 100\u00a0% d\u2019efficacit\u00e9.\r\n\r\nUne bombe vivante ne peut b\u00e9n\u00e9ficier qu\u2019une seule fois de cet effet.",
+    "it_IT": "Quando una Bomba Vivente termina, se non si \u00e8 diffusa su nessun altro bersaglio si riapplica allo stesso al 100% dell'efficacia.\r\n\r\nUna Bomba Vivente pu\u00f2 usare questo beneficio solo una volta.",
+    "ru_RU": "\u0415\u0441\u043b\u0438 \"\u0416\u0438\u0432\u0430\u044f \u0431\u043e\u043c\u0431\u0430\" \u043d\u0435 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u043a \u043d\u043e\u0432\u043e\u0439 \u0446\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f, \u043e\u043d\u0430 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043a \u0442\u043e\u0439 \u0436\u0435 \u0446\u0435\u043b\u0438 \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 100%.\r\n\r\n\u042d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u0434\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0439 \"\u0416\u0438\u0432\u043e\u0439 \u0431\u043e\u043c\u0431\u044b\".",
+    "ko_KR": "\uc0b4\uc544\uc788\ub294 \ud3ed\ud0c4\uc774 \ub9cc\ub8cc\ub410\uc744 \ub54c \ub2e4\ub978 \ub300\uc0c1\uc5d0\uac8c \uc804\uc774\ub418\uc9c0 \uc54a\uc73c\uba74 100%\uc758 \ud6a8\uc728\ub85c \ub2e4\uc2dc \ubd80\uc5ec\ub429\ub2c8\ub2e4.\r\n\r\n\ud558\ub098\uc758 \uc0b4\uc544\uc788\ub294 \ud3ed\ud0c4\uc740 \uc774 \ud6a8\uacfc\ub97c \ud55c \ubc88\ub9cc \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6d3b\u9ad4\u7206\u5f48\u6548\u679c\u7d50\u675f\u5f8c\uff0c\u5982\u679c\u5b83\u672a\u64f4\u6563\u5230\u53e6\u4e00\u500b\u76ee\u6a19\uff0c\u5c31\u6703\u81ea\u52d5\u518d\u6b21\u65bd\u52a0\u6548\u679c\u70ba100%\u7684\u6d3b\u9ad4\u7206\u5f48\u3002\r\n\r\n\u6bcf\u500b\u6d3b\u9ad4\u7206\u5f48\u53ea\u80fd\u53d7\u76ca\u65bc\u6b64\u6548\u679c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5f53\u6d3b\u52a8\u70b8\u5f39\u6548\u679c\u7ed3\u675f\u65f6\uff0c\u5982\u679c\u672a\u80fd\u4f20\u64ad\u7ed9\u53e6\u4e00\u4e2a\u76ee\u6807\uff0c\u5219\u4f1a\u91cd\u65b0\u65bd\u52a0\u5e76\u4ea7\u751f100%\u7684\u6548\u679c\u3002\r\n\r\n\u4e00\u4e2a\u6d3b\u52a8\u70b8\u5f39\u53ea\u80fd\u89e6\u53d1\u8be5\u6548\u679c\u4e00\u6b21\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378996"
+  "SpellID": "378996",
+  "name_blz": {
+    "en_US": "Recuperator",
+    "es_MX": "Recuperador",
+    "pt_BR": "Recuperador",
+    "de_DE": "Rekuperator",
+    "en_GB": "Recuperator",
+    "es_ES": "Recuperador",
+    "fr_FR": "R\u00e9cup\u00e9rateur",
+    "it_IT": "Recuperatore",
+    "ru_RU": "\u0420\u0435\u0433\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440",
+    "ko_KR": "\uc124\uc695",
+    "zh_TW": "\u7642\u6cbb\u50b7\u52e2",
+    "zh_CN": "\u4f11\u517b\u7597\u4f24"
+  },
+  "description_blz": {
+    "en_US": "Slice and Dice heals you for up to 1% of your maximum health per 3 sec.",
+    "es_MX": "Hacer picadillo te sana hasta un 1% de tu salud m\u00e1xima cada 3 s.",
+    "pt_BR": "Retalhar concede a voc\u00ea uma cura equivalente a 1% do seu m\u00e1ximo de pontos de vida ao longo de 3 s.",
+    "de_DE": "'Zerh\u00e4ckseln' heilt Euch alle 3 Sek. um bis zu 1% Eurer maximalen Gesundheit.",
+    "en_GB": "Slice and Dice heals you for up to 1% of your maximum health per 3 sec.",
+    "es_ES": "Hacer picadillo te sana hasta un 1% de tu salud m\u00e1xima cada 3 s.",
+    "fr_FR": "D\u00e9biter vous rend jusqu\u2019\u00e0 1\u00a0% de votre maximum de points de vie toutes les 3\u00a0s.",
+    "it_IT": "Lanciare Fendenti Furiosi ti cura di massimo il 1% della salute massima per 3 s.",
+    "ru_RU": "\"\u041c\u044f\u0441\u043e\u0440\u0443\u0431\u043a\u0430\" \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a. \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u043c \u0434\u043e 1% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ub09c\ub3c4\uc9c8 \uc0ac\uc6a9 \uc2dc 3\ucd08\ub9c8\ub2e4 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 \ucd5c\ub300 1%\ub9cc\ud07c \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5207\u5272\u6bcf3\u79d2\u6703\u4f7f\u4f60\u6700\u591a\u6062\u5fa9\u751f\u547d\u529b\u4e0a\u9650\u76841%\u3002",
+    "zh_CN": "\u5207\u5272\u6fc0\u6d3b\u65f6\uff0c\u6bcf3\u79d2\u4e3a\u4f60\u6062\u590d\u6700\u591a1%\u7684\u6700\u5927\u751f\u547d\u503c\u3002"
+  }
 }

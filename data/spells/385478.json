@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "385478"
+  "SpellID": "385478",
+  "name_blz": {
+    "en_US": "Shrouded Suffocation",
+    "es_MX": "Sofocaci\u00f3n camuflada",
+    "pt_BR": "Sufoca\u00e7\u00e3o Oculta",
+    "de_DE": "Verborgenes Ersticken",
+    "en_GB": "Shrouded Suffocation",
+    "es_ES": "Asfixia invisible",
+    "fr_FR": "Asphyxie sournoise",
+    "it_IT": "Soffocamento Silenzioso",
+    "ru_RU": "\u0412\u043d\u0435\u0437\u0430\u043f\u043d\u043e\u0435 \u0443\u0434\u0443\u0448\u044c\u0435",
+    "ko_KR": "\uc7a5\ub9c9 \uc18d\uc758 \uc9c8\uc2dd",
+    "zh_TW": "\u5c4f\u853d\u7a92\u606f",
+    "zh_CN": "\u6697\u5f71\u7a92\u606f"
+  },
+  "description_blz": {
+    "en_US": "Garrote damage increased by 20%. Garrote generates 2 additional combo points when used from Stealth.",
+    "es_MX": "El da\u00f1o de Garrote aumenta un 20%. Garrote genera 2 p. de combo m\u00e1s cuando se usa en sigilo.",
+    "pt_BR": "Dano de Garrote aumentado em 20%. Garrote gera 2 pontos de combo a mais quando \u00e9 usado em Furtividade.",
+    "de_DE": "Der Schaden von 'Erdrosseln' wird um 20% erh\u00f6ht. 'Erdrosseln' gew\u00e4hrt 2 zus\u00e4tzliche Combopunkte, wenn es aus der Verstohlenheit heraus eingesetzt wird.",
+    "en_GB": "Garrote damage increased by 20%. Garrote generates 2 additional combo points when used from Stealth.",
+    "es_ES": "Da\u00f1o de Garrote aumentado un 20%. Garrote genera 2 p. de combo m\u00e1s si se usa estando en sigilo.",
+    "fr_FR": "D\u00e9g\u00e2ts inflig\u00e9s par Garrot augment\u00e9s de 20\u00a0%. Garrot g\u00e9n\u00e8re 2\u00a0points de combo suppl\u00e9mentaires quand le Camouflage est actif.",
+    "it_IT": "Aumenta i danni di Garrota del 20%. Garrota genera 2 punti combo aggiuntivi se usata in modalit\u00e0 furtiva.",
+    "ru_RU": "\"\u0413\u0430\u0440\u0440\u043e\u0442\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 20% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430. \u041f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0441\u0435\u0440\u0438\u044e \u043f\u0440\u0438\u0435\u043c\u043e\u0432 \u0435\u0449\u0435 \u043d\u0430 2, \u0435\u0441\u043b\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0435\u0435 \u0432 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\ubaa9\uc870\ub974\uae30\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc740\uc2e0 \uc0c1\ud0dc\uc5d0\uc11c \ubaa9\uc870\ub974\uae30 \uc0ac\uc6a9 \uc2dc \uc5f0\uacc4 \uc810\uc218 2\uc810\uc744 \ucd94\uac00\ub85c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7d5e\u5589\u7684\u50b7\u5bb3\u63d0\u9ad820%\u3002\u5728\u6f5b\u884c\u72c0\u614b\u4e0b\u4f7f\u7528\uff0c\u7d5e\u5589\u6703\u984d\u5916\u7522\u751f2\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u9501\u5589\u7684\u4f24\u5bb3\u63d0\u9ad820%\u3002\u5728\u6f5c\u884c\u72b6\u6001\u4e0b\u4f7f\u7528\u7684\u9501\u5589\u989d\u5916\u4ea7\u751f2\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }

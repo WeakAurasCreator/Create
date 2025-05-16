@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "381802"
+  "SpellID": "381802",
+  "name_blz": {
+    "en_US": "Indiscriminate Carnage",
+    "es_MX": "Matanza indiscriminada",
+    "pt_BR": "Chacina Indiscriminada",
+    "de_DE": "Willk\u00fcrliches Gemetzel",
+    "en_GB": "Indiscriminate Carnage",
+    "es_ES": "Carnicer\u00eda indiscriminada",
+    "fr_FR": "Carnage aveugle",
+    "it_IT": "Carneficina Indiscriminata",
+    "ru_RU": "\u0422\u043e\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u0431\u043e\u0439\u043d\u044f",
+    "ko_KR": "\ubb34\ucc28\ubcc4 \uc0b4\uc721",
+    "zh_TW": "\u7121\u5dee\u5225\u5c60\u6bba",
+    "zh_CN": "\u8fde\u73af\u5c60\u622e"
+  },
+  "description_blz": {
+    "en_US": "Garrote and Rupture apply to 2 additional nearby enemies when used from Stealth and for 6 sec after breaking Stealth.",
+    "es_MX": "Garrote y Ruptura se aplican a 2 enemigos cercanos m\u00e1s cuando se usan en Sigilo y durante 6 s despu\u00e9s de salir de Sigilo.",
+    "pt_BR": "Garrote e Ruptura atingem 2 inimigos pr\u00f3ximos a mais quando s\u00e3o usados em Furtividade e por 6 s ap\u00f3s sair dela.",
+    "de_DE": "Erdrosseln' und 'Blutung' werden auf 2 zus\u00e4tzliche Gegner in der N\u00e4he angewandt, wenn Ihr sie aus der Verstohlenheit heraus sowie innerhalb von 6 Sek. danach einsetzt.",
+    "en_GB": "Garrote and Rupture apply to 2 additional nearby enemies when used from Stealth and for 6 sec after breaking Stealth.",
+    "es_ES": "Garrote y Ruptura se aplican a 2 enemigos adicionales cercanos si se usan estando en sigilo y durante 6 s despu\u00e9s de haber dejado de estarlo.",
+    "fr_FR": "Garrot et Rupture s\u2019appliquent \u00e0 2\u00a0ennemis proches suppl\u00e9mentaires quand le Camouflage est actif, et pendant 6 s apr\u00e8s la fin de celui-ci.",
+    "it_IT": "Garrota e Perforazione si applicano a 2 nemici vicini aggiuntivi se vengono usate in modalit\u00e0 furtiva e per 6 s dopo che \u00e8 terminata.",
+    "ru_RU": "\u0412 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043d\u0435\u0437\u0430\u043c\u0435\u0442\u043d\u043e\u0441\u0442\u0438 \u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 \u043d\u0435\u0435 \"\u0413\u0430\u0440\u0440\u043e\u0442\u0430\" \u0438 \"\u0420\u0432\u0430\u043d\u0430\u044f \u0440\u0430\u043d\u0430\" \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0442 \u0435\u0449\u0435 2 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432.",
+    "ko_KR": "\uc740\uc2e0 \uc0c1\ud0dc\uc774\uac70\ub098 \uc740\uc2e0\uc774 \ud574\uc81c\ub41c \ud6c4 6\ucd08 \uc548\uc5d0 \ubaa9\uc870\ub974\uae30 \ubc0f \ud30c\uc5f4 \uc0ac\uc6a9 \uc2dc \uc8fc\uc704 \uc801 2\uba85\uc5d0\uac8c \ucd94\uac00\ub85c \ubd80\uc5ec\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6f5b\u884c\u671f\u9593\u53ca\u89e3\u9664\u6f5b\u884c\u5f8c\u76846\u79d2\u5167\uff0c\u7d5e\u5589\u548c\u5272\u88c2\u6703\u984d\u5916\u65bd\u52a0\u65bc\u9644\u8fd1\u76842\u500b\u6575\u4eba\u8eab\u4e0a\u3002",
+    "zh_CN": "\u5728\u6f5c\u884c\u72b6\u6001\u53ca\u8131\u79bb\u6f5c\u884c\u72b6\u6001\u540e\u76846\u79d2\u5185\uff0c\u5982\u679c\u4f7f\u7528\u9501\u5589\u548c\u5272\u88c2\uff0c\u5219\u5bf9\u5e94\u6280\u80fd\u4f1a\u5bf9\u5468\u56f4\u989d\u59162\u4e2a\u654c\u4eba\u751f\u6548\u3002"
+  }
 }

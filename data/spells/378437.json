@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378437"
+  "SpellID": "378437",
+  "name_blz": {
+    "en_US": "Unburdened Flight",
+    "es_MX": "Vuelo ininterrumpido",
+    "pt_BR": "Voo Desalijado",
+    "de_DE": "Unbeschwerter Flug",
+    "en_GB": "Unburdened Flight",
+    "es_ES": "Vuelo sin cargas",
+    "fr_FR": "Vol sans entrave",
+    "it_IT": "Volo Alleggerito",
+    "ru_RU": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u043f\u043e\u043b\u0435\u0442",
+    "ko_KR": "\uad74\ub808\ub97c \ubc97\uc5b4\ub09c \ub0a0\uac1c",
+    "zh_TW": "\u7121\u8ca0\u98db\u884c",
+    "zh_CN": "\u8f7b\u9a70\u98de\u7fd4"
+  },
+  "description_blz": {
+    "en_US": "Hover makes you immune to movement speed reduction effects.",
+    "es_MX": "Sobrevolar te hace inmune a los efectos de reducci\u00f3n de velocidad de movimiento.",
+    "pt_BR": "Pairar deixa voc\u00ea imune a efeitos de redu\u00e7\u00e3o da velocidade de movimento.",
+    "de_DE": "'Schweben' macht Euch immun gegen Effekte, die die Bewegungsgeschwindigkeit verringern.",
+    "en_GB": "Hover makes you immune to movement speed reduction effects.",
+    "es_ES": "Flotar te hace inmune a los efectos de reducci\u00f3n de velocidad de movimiento.",
+    "fr_FR": "Survoler vous rend insensible aux effets de r\u00e9duction de la vitesse de d\u00e9placement.",
+    "it_IT": "Il Volo Sospeso rende immuni agli effetti di limitazione al movimento.",
+    "ru_RU": "\"\u0411\u0440\u0435\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0435\u0442\" \u0434\u0430\u0435\u0442 \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u043e\u0441\u0442\u044c \u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c, \u0441\u043d\u0438\u0436\u0430\u044e\u0449\u0438\u043c \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\ubd80\uc591\uc774 \uc2dc\uc804\uc790\ub97c \uc774\ub3d9 \uc18d\ub3c4 \uac10\uc18c \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc73c\ub85c \ub9cc\ub4ed\ub2c8\ub2e4.",
+    "zh_TW": "\u76e4\u65cb\u4f7f\u4f60\u5c0d\u964d\u4f4e\u79fb\u52d5\u901f\u5ea6\u7684\u6548\u679c\u514d\u75ab\u3002",
+    "zh_CN": "\u60ac\u7a7a\u4f7f\u4f60\u514d\u75ab\u964d\u4f4e\u79fb\u52a8\u901f\u5ea6\u7684\u6548\u679c\u3002"
+  }
 }

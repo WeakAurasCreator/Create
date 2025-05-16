@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387044"
+  "SpellID": "387044",
+  "name_blz": {
+    "en_US": "Fervent Flickering",
+    "es_MX": "Chisporroteo ferviente",
+    "pt_BR": "Tremeluzir Fervente",
+    "de_DE": "Flammendes Flackern",
+    "en_GB": "Fervent Flickering",
+    "es_ES": "Titileo ferviente",
+    "fr_FR": "Ferveur ardente",
+    "it_IT": "Lampeggio Fervente",
+    "ru_RU": "\u042f\u0440\u043e\u0441\u0442\u043d\u043e\u0435 \u043c\u0435\u0440\u0446\u0430\u043d\u0438\u0435",
+    "ko_KR": "\uc5f4\uc131\uc801\uc778 \uae5c\ube61\uc784",
+    "zh_TW": "\u71be\u71b1\u9583\u720d",
+    "zh_CN": "\u70c1\u7130\u95ea\u95ea"
+  },
+  "description_blz": {
+    "en_US": "Fire Blast's cooldown is reduced by 2 sec. ",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de Explosi\u00f3n de fuego 2 s. ",
+    "pt_BR": "Reduz em 2 s a recarga de Impacto de Fogo. ",
+    "de_DE": "Verringert die Abklingzeit von 'Feuerschlag' um 2 Sek. ",
+    "en_GB": "Fire Blast's cooldown is reduced by 2 sec. ",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Explosi\u00f3n de Fuego se reduce 2 s. ",
+    "fr_FR": "Le temps de recharge de Trait de feu est r\u00e9duit de 2\u00a0s. ",
+    "it_IT": "Riduce il tempo di recupero di Detonazione di Fuoco di 2 s. ",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0437\u0440\u044b\u0432\u0430\" \u043d\u0430 2 \u0441\u0435\u043a. ",
+    "ko_KR": "\ud654\uc5fc \uc791\ub82c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u706b\u7130\u885d\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\u3002 ",
+    "zh_CN": "\u706b\u7130\u51b2\u51fb\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\u3002 "
+  }
 }

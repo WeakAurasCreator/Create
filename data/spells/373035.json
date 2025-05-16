@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "373035"
+  "SpellID": "373035",
+  "name_blz": {
+    "en_US": "Protector of the Frail",
+    "es_MX": "Protecci\u00f3n de los d\u00e9biles",
+    "pt_BR": "Protetor dos Fr\u00e1geis",
+    "de_DE": "Besch\u00fctzer der Schwachen",
+    "en_GB": "Protector of the Frail",
+    "es_ES": "Protector de los d\u00e9biles",
+    "fr_FR": "Protection des faibles",
+    "it_IT": "Protettore dei Fragili",
+    "ru_RU": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0443\u044f\u0437\u0432\u0438\u043c\u044b\u0445",
+    "ko_KR": "\uc57d\uc790\uc758 \ubcf4\ud638\uc790",
+    "zh_TW": "\u5f31\u8005\u4fdd\u885b\u8005",
+    "zh_CN": "\u62a4\u4f51\u5f31\u8005"
+  },
+  "description_blz": {
+    "en_US": "Pain Suppression gains an additional charge.\r\n\r\nPower Word: Shield reduces the cooldown of Pain Suppression by 3 sec.",
+    "es_MX": "Supresi\u00f3n de dolor obtiene una carga adicional.\r\n\r\nPalabra de poder: escudo reduce el tiempo de reutilizaci\u00f3n de Supresi\u00f3n de dolor 3 s.",
+    "pt_BR": "Supress\u00e3o de Dor ganha uma carga adicional.\r\n\r\nPalavra de Poder: Escudo reduz em 3 s a recarga de Supress\u00e3o de Dor.",
+    "de_DE": "'Schmerzunterdr\u00fcckung' erh\u00e4lt eine zus\u00e4tzliche Aufladung.\r\n\r\n'Machtwort: Schild' verringert die Abklingzeit von 'Schmerzunterdr\u00fcckung' um 3 Sek.",
+    "en_GB": "Pain Suppression gains an additional charge.\r\n\r\nPower Word: Shield reduces the cooldown of Pain Suppression by 3 sec.",
+    "es_ES": "Supresi\u00f3n de dolor obtiene una carga extra.\r\n\r\nPalabra de poder: escudo reduce 3 s el tiempo de reutilizaci\u00f3n de Supresi\u00f3n de dolor.",
+    "fr_FR": "Suppression de la douleur b\u00e9n\u00e9ficie d\u2019une charge suppl\u00e9mentaire.\r\n\r\nMot de pouvoir\u00a0: Bouclier r\u00e9duit le temps de recharge de Suppression de la douleur de 3\u00a0s.",
+    "it_IT": "Aumenta le cariche di Soppressione del Dolore di 1.\r\n\r\nParola del Potere: Scudo riduce il tempo di recupero di Soppressione del Dolore di 3 s.",
+    "ru_RU": "\"\u041f\u043e\u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0431\u043e\u043b\u0438\" \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0435\u0449\u0435 \u043e\u0434\u0438\u043d \u0437\u0430\u0440\u044f\u0434.\r\n\r\n\"\u0421\u043b\u043e\u0432\u043e \u0441\u0438\u043b\u044b: \u0429\u0438\u0442\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u043e\u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u043e\u043b\u0438\" \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uace0\ud1b5 \uc5b5\uc81c\uac00 \ucd94\uac00\ub85c 1\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.\r\n\r\n\uc2e0\uc758 \uad8c\ub2a5: \ubcf4\ud638\ub9c9\uc774 \uace0\ud1b5 \uc5b5\uc81c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 3\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u75db\u82e6\u93ae\u58d3\u984d\u5916\u7372\u5f97\u4e00\u6b21\u4f7f\u7528\u6b21\u6578\u3002\r\n\r\n\u771f\u8a00\u8853\uff1a\u76fe\u53ef\u4f7f\u75db\u82e6\u93ae\u58d3\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed3\u79d2\u3002",
+    "zh_CN": "\u75db\u82e6\u538b\u5236\u53ef\u4ee5\u591a\u4f7f\u7528\u4e00\u6b21\u3002\r\n\r\n\u771f\u8a00\u672f\uff1a\u76fe\u4f1a\u4f7f\u75db\u82e6\u538b\u5236\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed3\u79d2\u3002"
+  }
 }

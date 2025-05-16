@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387065"
+  "SpellID": "387065",
+  "name_blz": {
+    "en_US": "Wrath of Consumption",
+    "es_MX": "C\u00f3lera de consumo",
+    "pt_BR": "Ira da Consumi\u00e7\u00e3o",
+    "de_DE": "Zorn der Aufzehrung",
+    "en_GB": "Wrath of Consumption",
+    "es_ES": "C\u00f3lera de consumo",
+    "fr_FR": "Courroux de consomption",
+    "it_IT": "Ira della Consunzione",
+    "ru_RU": "\u042f\u0440\u043e\u0441\u0442\u044c \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u044f",
+    "ko_KR": "\uc7a0\uc2dd\ud558\ub294 \ubd84\ub178",
+    "zh_TW": "\u541e\u566c\u6012\u706b",
+    "zh_CN": "\u541e\u566c\u4e4b\u6012"
+  },
+  "description_blz": {
+    "en_US": "Corruption and Agony each grant an application of Wrath of Consumption when a target dies, increasing all periodic damage dealt by 3% for 30 sec, stacking up to 5 times.",
+    "es_MX": "Corrupci\u00f3n y Agon\u00eda otorgan una aplicaci\u00f3n de C\u00f3lera de consumo cuando el objetivo muere, lo que aumenta todo el da\u00f1o peri\u00f3dico infligido un 3% durante 30 s. Se acumula hasta 5 veces.",
+    "pt_BR": "Corrup\u00e7\u00e3o e Agonia concedem uma aplica\u00e7\u00e3o de Ira da Consumi\u00e7\u00e3o quando um alvo morre, aumentando em 3% todo o dano peri\u00f3dico causado por 30 s. Acumula at\u00e9 5 vezes.",
+    "de_DE": "Wenn ein Ziel stirbt, w\u00e4hrend 'Verderbnis' oder 'Agonie' auf ihm aktiv ist, gew\u00e4hren die beiden Zauber jeweils eine Anwendung von 'Zorn der Aufzehrung', was s\u00e4mtlichen verursachten regelm\u00e4\u00dfigen Schaden 30 Sek. lang um 3% erh\u00f6ht. Bis zu 5-mal stapelbar.",
+    "en_GB": "Corruption and Agony each grant an application of Wrath of Consumption when a target dies, increasing all periodic damage dealt by 3% for 30 sec, stacking up to 5 times.",
+    "es_ES": "Agon\u00eda y Corrupci\u00f3n otorgan respectivamente una aplicaci\u00f3n de C\u00f3lera de consumo cuando muere un objetivo, lo que aumenta un 3% todo el da\u00f1o peri\u00f3dico infligido durante 30 s. Se acumula hasta 5 veces.",
+    "fr_FR": "Les cibles qui meurent sous l\u2019effet d\u2019Agonie ou de Corruption vous conf\u00e8rent une application de Courroux de consomption, ce qui augmente les d\u00e9g\u00e2ts p\u00e9riodiques de 3% pendant 30 s. Cumulable jusqu\u2019\u00e0 5\u00a0fois.",
+    "it_IT": "Corruzione e Agonia forniscono 1 accumulo ciascuna di Ira della Consunzione quando un bersaglio muore, aumentando tutti i danni periodici inflitti del 3% per 30 s. Si accumula fino a 5 volte.",
+    "ru_RU": "\u0426\u0435\u043b\u0438, \u043f\u043e\u0433\u0438\u0431\u0430\u044e\u0449\u0438\u0435 \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u0432\u0430\u0448\u0435\u0439 \"\u0410\u0433\u043e\u043d\u0438\u0438\" \u0438\u043b\u0438 \"\u041f\u043e\u0440\u0447\u0438\", \u0434\u0430\u044e\u0442 \u0432\u0430\u043c \"\u042f\u0440\u043e\u0441\u0442\u044c \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u044f\", \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0443\u044e \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 3% \u043d\u0430 30 \u0441\u0435\u043a. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437.",
+    "ko_KR": "\ub300\uc0c1\uc774 \uc8fd\uc744 \ub54c \uac01 \ubd80\ud328 \ubc0f \uace0\ud1b5\uc774 \uc7a0\uc2dd\ud558\ub294 \ubd84\ub178 \uc911\ucca9\uc744 \ubd80\uc5ec\ud558\uc5ec 30\ucd08 \ub3d9\uc548 \ubaa8\ub4e0 \uc8fc\uae30\uc801\uc778 \ud53c\ud574\ub97c 3%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u76ee\u6a19\u6b7b\u4ea1\u6642\uff0c\u8150\u8755\u8853\u548c\u75db\u82e6\u5206\u5225\u8ce6\u4e88\u4e00\u5c64\u541e\u566c\u6012\u706b\uff0c\u4f7f\u9020\u6210\u7684\u6240\u6709\u9031\u671f\u6027\u50b7\u5bb3\u63d0\u9ad83%\uff0c\u6301\u7e8c30\u79d2\uff0c\u6700\u591a\u53ef\u5806\u758a5\u5c64\u3002",
+    "zh_CN": "\u82e5\u76ee\u6807\u6b7b\u4ea1\u65f6\u53d7\u5230\u4e86\u75db\u695a\u6216\u8150\u8680\u672f\u7684\u5f71\u54cd\uff0c\u4f60\u5c06\u83b7\u5f97\u4e00\u5c42\u541e\u566c\u4e4b\u6012\u6548\u679c\uff0c\u4f7f\u9020\u6210\u7684\u6240\u6709\u5468\u671f\u6027\u4f24\u5bb3\u63d0\u9ad83%\uff0c\u6301\u7eed30\u79d2\uff0c\u6700\u591a\u53ef\u53e0\u52a05\u6b21\u3002"
+  }
 }

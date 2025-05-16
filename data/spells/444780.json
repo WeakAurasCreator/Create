@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444780"
+  "SpellID": "444780",
+  "name_blz": {
+    "en_US": "Unrelenting Onslaught",
+    "es_MX": "Embate implacable",
+    "pt_BR": "Ofensiva Implac\u00e1vel",
+    "de_DE": "Unerbittlicher Ansturm",
+    "en_GB": "Unrelenting Onslaught",
+    "es_ES": "Embate implacable",
+    "fr_FR": "Assaut incessant",
+    "it_IT": "Massacro Inarrestabile",
+    "ru_RU": "\u0411\u0435\u0437\u0436\u0430\u043b\u043e\u0441\u0442\u043d\u044b\u0439 \u043d\u0430\u0442\u0438\u0441\u043a",
+    "ko_KR": "\ubd89\uc740\ub3cc\uaca9\ub300\uc758 \ubb34\uc790\ube44\ud568",
+    "zh_TW": "\u7121\u60c5\u731b\u8972",
+    "zh_CN": "\u65e0\u60c5\u5f3a\u88ad"
+  },
+  "description_blz": {
+    "en_US": "When you Execute a target that you've Marked for Execution, you both reduce the cooldown of Bladestorm by 5 sec and apply 2 stacks of Overwhelmed to the target per stack of Marked for Execution consumed.\r\n\r\nYou can use Pummel and Storm Bolt while Bladestorming.",
+    "es_MX": "Al Ejecutar a un objetivo que hayas Marcado para ejecuci\u00f3n, el tiempo de reutilizaci\u00f3n de Filotormenta se reduce 5 s y se aplican 2 acumulaciones de Abrumado al objetivo por cada acumulaci\u00f3n consumida de Marcado para ejecuci\u00f3n.\r\n\r\nPuedes usar Zurrar y Descarga tormentosa a la vez que Filotormenta.",
+    "pt_BR": "Quando voc\u00ea Executa um alvo que foi Marcado para Execu\u00e7\u00e3o, voc\u00eas dois reduzem a recarga de Tornado de A\u00e7o em 5 s e aplicam 2 cargas de Sobrepujado no alvo por carga de Marcado para Execu\u00e7\u00e3o consumida.\r\n\r\nVoc\u00ea pode usar Murro e Seta Tempestuosa durante o Tornado de A\u00e7o.",
+    "de_DE": "Wenn Ihr ein Ziel mit 'Hinrichten' angreift, das Ihr 'Zum Tode verurteilt' habt, wird die Abklingzeit von 'Klingensturm' um 5 Sek. verringert und Ihr belegt das Ziel f\u00fcr jeden verbrauchten Stapel von 'Zum Tode verurteilt' mit 2 Stapeln von '\u00dcberw\u00e4ltigt'.\r\n\r\nIhr k\u00f6nnt 'Zuschlagen' und 'Sturmblitz' einsetzen, w\u00e4hrend 'Klingensturm' aktiv ist.",
+    "en_GB": "When you Execute a target that you've Marked for Execution, you both reduce the cooldown of Bladestorm by 5 sec and apply 2 stacks of Overwhelmed to the target per stack of Marked for Execution consumed.\r\n\r\nYou can use Pummel and Storm Bolt while Bladestorming.",
+    "es_ES": "Cuando usas Ejecutar en un objetivo que has marcado para la ejecuci\u00f3n, reduces 5\u00a0s el tiempo de reutilizaci\u00f3n de Filotormenta y aplicas 2 acumulaciones de Abrumado al objetivo por cada acumulaci\u00f3n consumida de Marcado para la ejecuci\u00f3n.\r\n\r\nPuedes usar Zurrar y Descarga tormentosa mientras Filotormenta est\u00e1 activa.",
+    "fr_FR": "L\u2019ex\u00e9cution d\u2019une cible portant Marque d\u2019ex\u00e9cution r\u00e9duit le temps de recharge de Temp\u00eate de lames de 5\u00a0s et applique 2\u00a0charges d\u2019Accablement \u00e0 la cible par charge de Marque d\u2019ex\u00e9cution utilis\u00e9e.\r\n\r\nVous pouvez utiliser Vol\u00e9e de coups et \u00c9clair de temp\u00eate pendant Temp\u00eate de lames.",
+    "it_IT": "Quando si colpisce con Esecuzione un bersaglio Marchiato per l'Esecuzione, si riduce il tempo di recupero di Tempesta di Lame di 5 s e si applicano 2 accumuli di Sopraffatto sul bersaglio per ogni accumulo di Marchiato per l'Esecuzione consumato.\r\n\r\nDurante Tempesta di Lame \u00e8 possibile lanciare Pugno Diversivo e Dardo della Tempesta.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u041a\u0430\u0437\u043d\u044c\" \u043a \u0446\u0435\u043b\u0438 \u0441 \u0432\u0430\u0448\u0435\u0439 \"\u041c\u0435\u0442\u043a\u043e\u0439 \u043f\u0440\u0438\u0433\u043e\u0432\u043e\u0440\u0435\u043d\u043d\u043e\u0433\u043e\", \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0412\u0438\u0445\u0440\u044f \u043a\u043b\u0438\u043d\u043a\u043e\u0432\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5 \u0441\u0435\u043a. \u0438 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 2 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u0421\u043e\u043a\u0440\u0443\u0448\u0435\u043d\u0438\u0435\" \u0437\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u043d\u0443\u044e \"\u041c\u0435\u0442\u043a\u0443 \u043f\u0440\u0438\u0433\u043e\u0432\u043e\u0440\u0435\u043d\u043d\u043e\u0433\u043e\".\r\n\r\n\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \"\u0417\u0443\u0431\u043e\u0442\u044b\u0447\u0438\u043d\u0443\" \u0438 \"\u0423\u0434\u0430\u0440 \u0433\u0440\u043e\u043c\u043e\u0432\u0435\u0440\u0436\u0446\u0430\" \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0412\u0438\u0445\u0440\u044f \u043a\u043b\u0438\u043d\u043a\u043e\u0432\".",
+    "ko_KR": "\ucc98\ud615\uc758 \uc9d5\ud45c\uc5d0 \uac78\ub9b0 \uc801\uc5d0\uac8c \ub9c8\ubb34\ub9ac \uc77c\uaca9\uc744 \uc0ac\uc6a9\ud558\uba74 \uce7c\ub0a0\ud3ed\ud48d\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \uc18c\ubaa8\ud55c \ucc98\ud615\uc758 \uc9d5\ud45c \uc911\ucca9 \ud558\ub098\ub2f9 \ub300\uc0c1\uc5d0\uac8c \uc555\ub3c4\ub2f9\ud568 \uc911\ucca9 2\uac1c\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.\r\n\r\n\uce7c\ub0a0\ud3ed\ud48d\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \ub4e4\uc774\uce58\uae30\uc640 \ud3ed\ud48d\ub9dd\uce58\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u5c0d\u6709\u4f60\u7684\u65ac\u6bba\u6a19\u8a18\u7684\u76ee\u6a19\u65bd\u653e\u65ac\u6bba\u6642\uff0c\u6bcf\u6d88\u8017\u4e00\u5c64\u65ac\u6bba\u6a19\u8a18\u6703\u4f7f\u528d\u5203\u98a8\u66b4\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed5\u79d2\uff0c\u540c\u6642\u5c0d\u8a72\u76ee\u6a19\u65bd\u52a02\u5c64\u5f37\u52e2\u58d3\u5236\u3002\r\n\r\n\u4f60\u53ef\u4ee5\u5728\u528d\u5203\u98a8\u66b4\u4f5c\u7528\u671f\u9593\u4f7f\u7528\u62f3\u64ca\u548c\u66b4\u98a8\u6012\u64f2\u3002",
+    "zh_CN": "\u5f53\u4f60\u5bf9\u5e26\u6709\u5904\u5211\u4e4b\u5370\u7684\u76ee\u6807\u65bd\u653e\u65a9\u6740\u65f6\uff0c\u4f60\u7684\u5251\u5203\u98ce\u66b4\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed5\u79d2\uff0c\u5e76\u4e14\u6bcf\u6d88\u8017\u4e00\u5c42\u5904\u5211\u4e4b\u5370\u90fd\u4f1a\u5bf9\u76ee\u6807\u65bd\u52a02\u5c42\u4e0d\u582a\u4e00\u51fb\u3002\r\n\r\n\u4f60\u53ef\u4ee5\u5728\u5251\u5203\u98ce\u66b4\u671f\u95f4\u4f7f\u7528\u62f3\u51fb\u548c\u98ce\u66b4\u4e4b\u9524\u3002"
+  }
 }

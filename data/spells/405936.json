@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405936"
+  "SpellID": "405936",
+  "name_blz": {
+    "en_US": "Socrethar's Guile",
+    "es_MX": "Sagacidad de Socrethar",
+    "pt_BR": "Ast\u00facia de Socrethar",
+    "de_DE": "Socrethars List",
+    "en_GB": "Socrethar's Guile",
+    "es_ES": "Astucia de Socrethar",
+    "fr_FR": "Ruse de Socrethar",
+    "it_IT": "Inganno di Socrethar",
+    "ru_RU": "\u041a\u043e\u0432\u0430\u0440\u0441\u0442\u0432\u043e \u0421\u043e\u043a\u0440\u0435\u0442\u0430\u0440\u0430",
+    "ko_KR": "\uc18c\ud06c\ub808\ud0c0\ub974\uc758 \uae30\ub9cc",
+    "zh_TW": "\u7d22\u594e\u85a9\u723e\u4e4b\u8a50",
+    "zh_CN": "\u7d22\u514b\u96f7\u8428\u7684\u8be1\u8ba1"
+  },
+  "description_blz": {
+    "en_US": "Agony damage increased by 8%.",
+    "es_MX": "Aumenta el da\u00f1o de Agon\u00eda un 8%.",
+    "pt_BR": "Dano de Agonia aumentado em 8%.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Agonie' um 8%.",
+    "en_GB": "Agony damage increased by 8%.",
+    "es_ES": "Da\u00f1o de Agon\u00eda aumentado un 8%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts d\u2019Agonie sont augment\u00e9s de 8%.",
+    "it_IT": "Aumenta i danni inflitti da Agonia del 8%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u0410\u0433\u043e\u043d\u0438\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d \u043d\u0430 8%.",
+    "ko_KR": "\uace0\ud1b5\uc758 \uacf5\uaca9\ub825\uc774 8%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u75db\u82e6\u7684\u50b7\u5bb3\u63d0\u9ad88%\u3002",
+    "zh_CN": "\u75db\u695a\u7684\u4f24\u5bb3\u63d0\u9ad88%\u3002"
+  }
 }

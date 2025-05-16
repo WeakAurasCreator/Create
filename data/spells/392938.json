@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392938"
+  "SpellID": "392938",
+  "name_blz": {
+    "en_US": "Veneration",
+    "es_MX": "Veneraci\u00f3n",
+    "pt_BR": "Venera\u00e7\u00e3o",
+    "de_DE": "Verehrung",
+    "en_GB": "Veneration",
+    "es_ES": "Veneraci\u00f3n",
+    "fr_FR": "Adulation",
+    "it_IT": "Venerazione",
+    "ru_RU": "\u041f\u043e\u0447\u0438\u0442\u0430\u043d\u0438\u0435",
+    "ko_KR": "\ucd94\uc559",
+    "zh_TW": "\u5d07\u62dc",
+    "zh_CN": "\u5d07\u5723"
+  },
+  "description_blz": {
+    "en_US": "Hammer of Wrath heals up to 5 injured allies for 280% of the damage done, split evenly among them.\r\n\r\nFlash of Light, Holy Light, and Judgment critical strikes reset the cooldown of Hammer of Wrath and make it usable on any target, regardless of their health.",
+    "es_MX": "Martillo de c\u00f3lera sana hasta 5 aliados heridos un 280% del da\u00f1o recibido que se divide en partes iguales entre ellos.\r\n\r\nLos golpes cr\u00edticos de Destello de luz, Luz sagrada y Sentencia restablecen el tiempo de reutilizaci\u00f3n de Martillo de c\u00f3lera y permiten que se use sobre cualquier objetivo sin importar su salud.",
+    "pt_BR": "Martelo da Ira concede a at\u00e9 5 aliados feridos uma cura equivalente a 280% do dano causado, dividido igualmente entre eles.\r\n\r\nAcertos cr\u00edticos com Clar\u00e3o de Luz, Luz Sagrada e Julgamento concluem a recarga do Martelo da Ira e permitem o uso dele em alvos com qualquer quantidade de pontos de vida.",
+    "de_DE": "'Hammer des Zorns' heilt bis zu 5 verletzte Verb\u00fcndete um 280% des verursachten Schadens. Die Heilung wird gleichm\u00e4\u00dfig auf alle Ziele aufgeteilt.\r\n\r\nKritische Treffer mit 'Lichtblitz', 'Heiliges Licht' und 'Richturteil' schlie\u00dfen die Abklingzeit von 'Hammer des Zorns' ab und lassen die F\u00e4higkeit gegen jedes beliebige Ziel einsetzbar werden, unabh\u00e4ngig von seiner Gesundheit.",
+    "en_GB": "Hammer of Wrath heals up to 5 injured allies for 280% of the damage done, split evenly among them.\r\n\r\nFlash of Light, Holy Light, and Judgment critical strikes reset the cooldown of Hammer of Wrath and make it usable on any target, regardless of their health.",
+    "es_ES": "Martillo de c\u00f3lera sana a un m\u00e1ximo de 5 aliados heridos un 280% del da\u00f1o infligido, dividido a partes iguales.\r\n\r\nLos golpes cr\u00edticos de Destello de Luz, Luz Sagrada y Sentencia restablecen el tiempo de reutilizaci\u00f3n de Martillo de c\u00f3lera, que se puede usar contra cualquier objetivo independientemente de su salud.",
+    "fr_FR": "Marteau de courroux rend \u00e0 un maximum de 5\u00a0alli\u00e9s bless\u00e9s un montant de points de vie \u00e9gal \u00e0 280\u00a0% des d\u00e9g\u00e2ts inflig\u00e9s, r\u00e9partis \u00e9quitablement entre eux.\r\n\r\nLes coups critiques d\u2019\u00c9clair lumineux, Lumi\u00e8re sacr\u00e9e et Jugement mettent fin au temps de recharge de Marteau de courroux et le rendent utilisable sur n\u2019importe quelle cible, quels que soient ses points de vie.",
+    "it_IT": "Martello dell'Ira cura fino a 5 alleati feriti del 280% dei danni inflitti, e le cure vengono egualmente suddivise tra loro.\r\n\r\nI colpi critici di Lampo di Luce, Luce Sacra e Giudizio azzerano il tempo di recupero di Martello dell'Ira e lo rendono utilizzabile su qualsiasi bersaglio, a prescindere dalla salute.",
+    "ru_RU": "\"\u041c\u043e\u043b\u043e\u0442 \u0433\u043d\u0435\u0432\u0430\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0440\u0430\u043d\u0435\u043d\u044b\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 280% \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u0418\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u0440\u0430\u0432\u043d\u043e\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0446\u0435\u043b\u044f\u043c\u0438.\r\n\r\n\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \"\u0412\u0441\u043f\u044b\u0448\u043a\u0438 \u0421\u0432\u0435\u0442\u0430\", \"\u0421\u0432\u0435\u0442\u0430 \u043d\u0435\u0431\u0435\u0441\" \u0438 \"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u044f\" \u0441\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041c\u043e\u043b\u043e\u0442\u0430 \u0433\u043d\u0435\u0432\u0430\" \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0435\u0433\u043e \u043a \u0446\u0435\u043b\u0438 \u0441 \u043b\u044e\u0431\u044b\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ucc9c\ubc8c\uc758 \ub9dd\uce58\uac00 \ucd5c\ub300 5\uba85\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc5d0\uac8c \uc785\ud78c \ud53c\ud574\uc758 280%\ub9cc\ud07c \ub098\ub204\uc5b4 \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\n\ube5b\uc758 \uc12c\uad11, \uc131\uc2a4\ub7ec\uc6b4 \ube5b, \uc2ec\ud310\uc774 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud558\uba74 \ucc9c\ubc8c\uc758 \ub9dd\uce58\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd08\uae30\ud654\ub418\uace0 \ub300\uc0c1\uc758 \ub0a8\uc740 \uc0dd\uba85\ub825\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u61a4\u6012\u4e4b\u9318\u4f7f\u6700\u591a5\u4f4d\u53d7\u50b7\u7684\u76df\u53cb\u6062\u5fa9\u76f8\u7576\u65bc\u8a72\u6b21\u50b7\u5bb3280%\u7684\u751f\u547d\u529b\uff0c\u5e73\u5747\u5206\u6524\u7d66\u76ee\u6a19\u3002\r\n\r\n\u8056\u5149\u9583\u73fe\u3001\u8056\u5149\u8853\u548c\u5be9\u5224\u9020\u6210\u81f4\u547d\u4e00\u64ca\u6703\u91cd\u7f6e\u61a4\u6012\u4e4b\u9318\u7684\u51b7\u537b\u6642\u9593\uff0c\u4e26\u4f7f\u5176\u53ef\u5c0d\u4efb\u4f55\u76ee\u6a19\u4f7f\u7528\uff0c\u4e0d\u53d7\u76ee\u6a19\u7684\u751f\u547d\u529b\u5f71\u97ff\u3002",
+    "zh_CN": "\u6124\u6012\u4e4b\u9524\u53ef\u4ee5\u6cbb\u7597\u6700\u591a5\u4e2a\u53d7\u4f24\u7684\u76df\u53cb\uff0c\u6062\u590d\u76f8\u5f53\u4e8e\u9020\u6210\u4f24\u5bb3\u7684280%\u7684\u751f\u547d\u503c\uff0c\u7531\u6240\u6709\u76ee\u6807\u5747\u644a\u3002\r\n\r\n\u5723\u5149\u95ea\u73b0\u3001\u5723\u5149\u672f\u548c\u5ba1\u5224\u7206\u51fb\u65f6\u4f1a\u91cd\u7f6e\u6124\u6012\u4e4b\u9524\u7684\u51b7\u5374\u65f6\u95f4\uff0c\u5e76\u4f7f\u5176\u53ef\u4ee5\u5bf9\u4efb\u610f\u76ee\u6807\u4f7f\u7528\uff0c\u65e0\u89c6\u5176\u751f\u547d\u503c\u3002"
+  }
 }

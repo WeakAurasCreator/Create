@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378014"
+  "SpellID": "378014",
+  "name_blz": {
+    "en_US": "Poison Injection",
+    "es_MX": "Inyecci\u00f3n de veneno",
+    "pt_BR": "Inje\u00e7\u00e3o de Veneno",
+    "de_DE": "Giftinjektion",
+    "en_GB": "Poison Injection",
+    "es_ES": "Inyecci\u00f3n de veneno",
+    "fr_FR": "Injection de poison",
+    "it_IT": "Iniezione di Veleno",
+    "ru_RU": "\u0418\u043d\u044a\u0435\u043a\u0446\u0438\u044f \u044f\u0434\u0430",
+    "ko_KR": "\ub3c5 \uc8fc\uc785",
+    "zh_TW": "\u5287\u6bd2\u6ce8\u5c04",
+    "zh_CN": "\u6bd2\u7d20\u6ce8\u5c04"
+  },
+  "description_blz": {
+    "en_US": "Serpent Sting's damage applies Latent Poison to the target, stacking up to 10 times. Mongoose Bite consumes all stacks of Latent Poison, dealing 109 Nature damage to the target per stack consumed.",
+    "es_MX": "El da\u00f1o de Picadura de serpiente aplica Veneno latente al objetivo. Este efecto se acumula hasta 10 veces. Mordedura de mangosta consume todas las acumulaciones de Veneno latente e inflige 109 p. de da\u00f1o de naturaleza al objetivo por cada acumulaci\u00f3n consumida.",
+    "pt_BR": "O dano da Picada de Serpente aplica Veneno Latente ao alvo, acumulando at\u00e9 10 vezes. Mordida de Mangusto consome todas as aplica\u00e7\u00f5es de Veneno Latente para causar 109 de dano de Natureza ao alvo por aplica\u00e7\u00e3o consumida.",
+    "de_DE": "Der Schaden von 'Schlangengift' ruft beim Ziel 'Latentes Gift' hervor. Dieser Effekt ist bis zu 10-mal stapelbar. Euer 'Mungobiss' zehrt alle Stapel von 'Latentes Gift' auf und f\u00fcgt dem Ziel pro Stapel 109 Naturschaden zu.",
+    "en_GB": "Serpent Sting's damage applies Latent Poison to the target, stacking up to 10 times. Mongoose Bite consumes all stacks of Latent Poison, dealing 109 Nature damage to the target per stack consumed.",
+    "es_ES": "El da\u00f1o de Picadura de serpiente aplica al objetivo Veneno latente, que se acumula hasta 10 veces. Mordisco de mangosta consume todas las acumulaciones de Veneno latente e inflige 109 p. de da\u00f1o de Naturaleza al objetivo por cada acumulaci\u00f3n consumida.",
+    "fr_FR": "Lorsque Morsure de serpent inflige des d\u00e9g\u00e2ts \u00e0 une cible, elle lui applique \u00e9galement Poison latent. Cet effet est cumulable jusqu\u2019\u00e0 10\u00a0fois. Morsure de mangouste consomme toutes les charges de Poison latent et inflige 109\u00a0points de d\u00e9g\u00e2ts de nature \u00e0 la cible par charge consomm\u00e9e.",
+    "it_IT": "I danni inflitti da Morso del Serpente affliggono il bersaglio con Veleno Latente. Si accumula fino a 10 volte. Morso della Mangusta consuma tutti gli accumuli di Veleno Latente, infliggendo 109 danni da natura per accumulo consumato.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u0423\u043a\u0443\u0441\u0430 \u0437\u043c\u0435\u0438\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u0446\u0435\u043b\u0438 \"\u041c\u0435\u0434\u043b\u0435\u043d\u043d\u044b\u0439 \u044f\u0434\". \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437. \"\u0423\u043a\u0443\u0441 \u043c\u0430\u043d\u0433\u0443\u0441\u0442\u0430\" \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \u0432\u0441\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \"\u041c\u0435\u0434\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u044f\u0434\u0430\" \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0446\u0435\u043b\u0438 109 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\ub3c5\uc0ac \uc410\uae30\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \ub300\uc0c1\uc5d0\uac8c \uc7a0\uc7ac\ub41c \ub3c5\uc744 \uc8fc\uc785\ud569\ub2c8\ub2e4. \ucd5c\ub300 10\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4. \uc0b4\ucfa1\uc774\uc758 \uc774\ube68 \uc0ac\uc6a9 \uc2dc \uc7a0\uc7ac\ub41c \ub3c5 \uc911\ucca9\uc744 \ubaa8\ub450 \uc18c\ubaa8\ud558\uc5ec \ub300\uc0c1\uc5d0\uac8c \uc18c\ubaa8\ud55c \uc911\ucca9\ub2f9 109\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u6bd2\u86c7\u91d8\u523a\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u6703\u5c0d\u76ee\u6a19\u65bd\u52a0\u96b1\u6027\u731b\u6bd2\uff0c\u6700\u591a\u5806\u758a10\u5c64\u3002\u8c93\u9f2c\u6495\u54ac\u6d88\u8017\u96b1\u6027\u731b\u6bd2\u7684\u6240\u6709\u5c64\u6578\uff0c\u6bcf\u5c64\u53ef\u5c0d\u76ee\u6a19\u9020\u6210109\u9ede\u81ea\u7136\u50b7\u5bb3\u3002",
+    "zh_CN": "\u6bd2\u86c7\u9489\u523a\u7684\u4f24\u5bb3\u4f1a\u5bf9\u76ee\u6807\u65bd\u52a0\u6f5c\u85cf\u6bd2\u7d20\uff0c\u6700\u591a\u53ef\u53e0\u52a010\u5c42\u3002\u732b\u9f2c\u6495\u54ac\u4f1a\u6d88\u8017\u6f5c\u85cf\u6bd2\u7d20\u7684\u6240\u6709\u5c42\u6570\uff0c\u6bcf\u5c42\u5bf9\u76ee\u6807\u9020\u6210109\u70b9\u81ea\u7136\u4f24\u5bb3\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382245"
+  "SpellID": "382245",
+  "name_blz": {
+    "en_US": "Cold Blood",
+    "es_MX": "Sangre fr\u00eda",
+    "pt_BR": "Sangue Frio",
+    "de_DE": "Kaltbl\u00fctigkeit",
+    "en_GB": "Cold Blood",
+    "es_ES": "Sangre fr\u00eda",
+    "fr_FR": "Sang froid",
+    "it_IT": "Sangue Freddo",
+    "ru_RU": "\u0425\u043b\u0430\u0434\u043d\u043e\u043a\u0440\u043e\u0432\u0438\u0435",
+    "ko_KR": "\ub0c9\ud608",
+    "zh_TW": "\u51b7\u8840",
+    "zh_CN": "\u51b7\u8840"
+  },
+  "description_blz": {
+    "en_US": "Increases the critical strike chance of your next damaging ability by 100%.",
+    "es_MX": "Aumenta un 100% la probabilidad de golpe cr\u00edtico de tu pr\u00f3xima habilidad que inflige da\u00f1o.",
+    "pt_BR": "Aumenta em 100% a chance de acerto cr\u00edtico da sua habilidade bem-sucedida.",
+    "de_DE": "Erh\u00f6ht die kritische Trefferchance Eurer n\u00e4chsten Schadensf\u00e4higkeit um 100%.",
+    "en_GB": "Increases the critical strike chance of your next damaging ability by 100%.",
+    "es_ES": "Aumenta un 100% la probabilidad de golpe cr\u00edtico de tu siguiente facultad da\u00f1ina.",
+    "fr_FR": "Augmente de 100% vos chances de r\u00e9aliser un coup critique avec votre prochaine technique de d\u00e9g\u00e2ts.",
+    "it_IT": "Aumenta la probabilit\u00e0 di critico della prossima abilit\u00e0 d'attacco del 100%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0439 \u0443\u0440\u043e\u043d \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 100%.",
+    "ko_KR": "\ub2e4\uc74c \uacf5\uaca9 \ub2a5\ub825\uc758 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uc728\uc774 100%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u4e0b\u4e00\u500b\u50b7\u5bb3\u6027\u6280\u80fd\u7684\u81f4\u547d\u4e00\u64ca\u6a5f\u7387\u63d0\u9ad8100%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u4e0b\u4e00\u4e2a\u4f24\u5bb3\u6027\u6280\u80fd\u7684\u7206\u51fb\u51e0\u7387\u63d0\u9ad8100%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387399"
+  "SpellID": "387399",
+  "name_blz": {
+    "en_US": "Fel Sunder",
+    "es_MX": "Hendidura vil",
+    "pt_BR": "Cis\u00e3o Vil",
+    "de_DE": "Teuflisches Zerrei\u00dfen",
+    "en_GB": "Fel Sunder",
+    "es_ES": "Hendida vil",
+    "fr_FR": "Fracas gangren\u00e9",
+    "it_IT": "Vilseparazione",
+    "ru_RU": "\u0420\u0430\u0441\u043a\u043e\u043b \u0421\u043a\u0432\u0435\u0440\u043d\u044b",
+    "ko_KR": "\uc9c0\uc625 \uac00\ub974\uae30",
+    "zh_TW": "\u9b54\u5316\u7834\u7532",
+    "zh_CN": "\u9b54\u5203\u788e\u5272"
+  },
+  "description_blz": {
+    "en_US": "Each time Felstorm deals damage, it increases the damage the target takes from you and your pets by 1% for 8 sec, up to 5%.",
+    "es_MX": "Cada vez que Tormenta vil inflige da\u00f1o, aumenta el da\u00f1o infligido por ti y tus mascotas al objetivo un 1% durante 8 s, hasta un 5%.",
+    "pt_BR": "Cada vez que causa dano, Tempestavil aumenta em 1% o dano que o alvo recebe de voc\u00ea e dos seus ajudantes por 8 s, at\u00e9 um m\u00e1ximo de5%.",
+    "de_DE": "Jedes Mal, wenn 'Teufelssturm' Schaden verursacht, wird der Schaden, den das Ziel durch Euch und Eure Diener erleidet, f\u00fcr 8 Sek. um 1% erh\u00f6ht, bis maximal 5%.",
+    "en_GB": "Each time Felstorm deals damage, it increases the damage the target takes from you and your pets by 1% for 8 sec, up to 5%.",
+    "es_ES": "Cada vez que Tormenta vil inflige da\u00f1o, aumenta un 1% el da\u00f1o que recibe el objetivo de ti y de tus mascotas durante 8 s, hasta un m\u00e1ximo de un 5%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts inflig\u00e9s par Gangrorage augmentent ceux que vos familiers et vous infligez \u00e0 la cible de 1% pendant 8 s, jusqu\u2019\u00e0 un maximum de 5%.",
+    "it_IT": "Ogni volta che Viltempesta infligge danni, aumenta i danni da te e dai tuoi servitori inflitti al bersaglio del 1% per 8 s, fino a un massimo del 5%.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \"\u0411\u0443\u0440\u044f \u0421\u043a\u0432\u0435\u0440\u043d\u044b\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \u043e\u043d\u0430 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0446\u0435\u043b\u044c\u044e \u043e\u0442 \u0432\u0430\u0441 \u0438 \u0432\u0430\u0448\u0438\u0445 \u043f\u0440\u0438\u0441\u043b\u0443\u0436\u043d\u0438\u043a\u043e\u0432, \u043d\u0430 1% \u043d\u0430 8 \u0441\u0435\u043a. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u043e\u043d\u0443\u0441 \u043a \u0443\u0440\u043e\u043d\u0443 \u2013 5%.",
+    "ko_KR": "\uc9c0\uc625\ud3ed\ud48d\uc774 \ud53c\ud574\ub97c \uc785\ud790 \ub54c\ub9c8\ub2e4 8\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \uc790\uc2e0\uacfc \uc790\uc2e0\uc758 \uc18c\ud658\uc218\uc5d0\uac8c \ubc1b\ub294 \ud53c\ud574\ub97c 1%\ub9cc\ud07c, \ucd5c\ub300 5%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u60e1\u9b54\u98a8\u66b4\u9020\u6210\u50b7\u5bb3\u5f8c\uff0c\u90fd\u6703\u4f7f\u4f60\u548c\u5bf5\u7269\u5c0d\u8a72\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad81%\uff0c\u6301\u7e8c8\u79d2\uff0c\u6700\u9ad8\u53ef\u90545%\u3002",
+    "zh_CN": "\u6bcf\u6b21\u9b54\u5203\u98ce\u66b4\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u90fd\u4f1a\u4f7f\u4f60\u548c\u4f60\u7684\u5ba0\u7269\u5bf9\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad81%\uff0c\u6301\u7eed8\u79d2\uff0c\u6700\u591a5%\u3002"
+  }
 }

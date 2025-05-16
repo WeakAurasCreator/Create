@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341997"
+  "SpellID": "341997",
+  "name_blz": {
+    "en_US": "Renewed Faith",
+    "es_MX": "Fe renovada",
+    "pt_BR": "F\u00e9 Renovada",
+    "de_DE": "Erneuerter Glaube",
+    "en_GB": "Renewed Faith",
+    "es_ES": "Fe renovada",
+    "fr_FR": "Foi renouvel\u00e9e",
+    "it_IT": "Fede Rinnovata",
+    "ru_RU": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0430",
+    "ko_KR": "\uc0c8\ub85c\uc6cc\uc9c4 \uc2e0\ub150",
+    "zh_TW": "\u6062\u5fa9\u4fe1\u5ff5",
+    "zh_CN": "\u6062\u590d\u4fe1\u4ef0"
+  },
+  "description_blz": {
+    "en_US": "Your healing on allies with your Renew is increased by 10%.",
+    "es_MX": "Aumenta un 10% la sanaci\u00f3n que realizas a objetivos con tu Renovar.",
+    "pt_BR": "Suas curas em aliados com seu Renovar aumentam em 10%.",
+    "de_DE": "Erh\u00f6ht Eure Heilung bei von Eurer 'Erneuerung' betroffenen Zielen um 10%.",
+    "en_GB": "Your healing on allies with your Renew is increased by 10%.",
+    "es_ES": "Aumenta un 10% la sanaci\u00f3n sobre los aliados con tu Renovar.",
+    "fr_FR": "Les soins que vous prodiguez aux alli\u00e9s affect\u00e9s par votre R\u00e9novation sont augment\u00e9s de 10%.",
+    "it_IT": "Aumenta le cure fornite ai bersagli con un tuo effetto di Rinnovamento del 10%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0448\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u043e\u0435 \u043a \u0446\u0435\u043b\u044f\u043c \u0441 \u0432\u0430\u0448\u0438\u043c \"\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u043c\", \u043d\u0430 10%.",
+    "ko_KR": "\uc790\uc2e0\uc758 \uc18c\uc0dd\uc774 \ubd80\uc5ec\ub41c \uc544\uad70\uc5d0 \ub300\ud55c \uce58\uc720\ub7c9\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5c0d\u8eab\u4e0a\u6709\u6062\u5fa9\u6548\u679c\u7684\u76df\u53cb\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f60\u5bf9\u5e26\u6709\u4f60\u7684\u6062\u590d\u6548\u679c\u7684\u76df\u53cb\u9020\u6210\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad810%\u3002"
+  }
 }

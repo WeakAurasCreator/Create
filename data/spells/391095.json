@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "391095"
+  "SpellID": "391095",
+  "name_blz": {
+    "en_US": "Dark Evangelism",
+    "es_MX": "Evangelizaci\u00f3n oscura",
+    "pt_BR": "Evangelismo Negro",
+    "de_DE": "Dunkle Predigt",
+    "en_GB": "Dark Evangelism",
+    "es_ES": "Proselitismo oscuro",
+    "fr_FR": "\u00c9vang\u00e9lisme t\u00e9n\u00e9breux",
+    "it_IT": "Evangelismo Oscuro",
+    "ru_RU": "\u041f\u0440\u043e\u043f\u043e\u0432\u0435\u0434\u044c \u0422\u044c\u043c\u044b",
+    "ko_KR": "\uc554\ud751 \uc0ac\ub3c4",
+    "zh_TW": "\u9ed1\u6697\u4f48\u9053",
+    "zh_CN": "\u9ed1\u6697\u798f\u97f3"
+  },
+  "description_blz": {
+    "en_US": "Your Mind Flay, Mind Spike, and Void Torrent damage increase the damage of your periodic Shadow effects by 1%, stacking up to 5 times.",
+    "es_MX": "El da\u00f1o de tu Tortura mental, P\u00faa mental y Torrente del vac\u00edo aumenta un 1% el da\u00f1o de tus efectos de la sombra peri\u00f3dicos. Puede acumularse 5 veces.",
+    "pt_BR": "Dano que voc\u00ea causa com A\u00e7oite Mental, Aguilh\u00e3o Mental e Torrente do Caos aumenta em 1% o dano dos seus efeitos de Sombra peri\u00f3dicos, acumulando at\u00e9 5 vezes.",
+    "de_DE": "Der Schaden Eurer F\u00e4higkeiten 'Gedankenschinden', 'Gedankenstachel' und 'Leerenstrom' erh\u00f6ht den Schaden Eurer regelm\u00e4\u00dfigen Schatteneffekte um 1%. Dieser Effekt ist bis zu 5-mal stapelbar.",
+    "en_GB": "Your Mind Flay, Mind Spike, and Void Torrent damage increase the damage of your periodic Shadow effects by 1%, stacking up to 5 times.",
+    "es_ES": "El da\u00f1o de tu Tortura mental, P\u00faa mental y Torrente del Vac\u00edo aumenta el da\u00f1o peri\u00f3dico de tus hechizos de las Sombras un 1%. Se acumula hasta 5 veces.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de votre Fouet mental, Pointe mentale et Torrent du Vide augmentent ceux de vos effets d\u2019ombre p\u00e9riodiques de 1%. Cumulable jusqu\u2019\u00e0 5\u00a0fois.",
+    "it_IT": "I danni inflitti da Flagello Mentale, Aculeo Mentale e Torrente del Vuoto aumentano i danni inflitti dai tuoi effetti periodici d'ombra del 1%. Si accumula fino a 5 volte.",
+    "ru_RU": "\"\u041f\u044b\u0442\u043a\u0430 \u0440\u0430\u0437\u0443\u043c\u0430\", \"\u041f\u0440\u043e\u043d\u0437\u0430\u043d\u0438\u0435 \u0440\u0430\u0437\u0443\u043c\u0430\" \u0438 \"\u041f\u043e\u0442\u043e\u043a \u0411\u0435\u0437\u0434\u043d\u044b\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u0443\u0440\u043e\u043d \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043d\u0430 1%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437.",
+    "ko_KR": "\uc815\uc2e0\uc758 \ucc44\ucc0d, \uc815\uc2e0\uc758 \uc410\uae30, \uacf5\ud5c8\uc758 \uaca9\ub958\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \uc8fc\uae30\uc801\uc778 \uc554\ud751 \ud53c\ud574 \ud6a8\uacfc\uc758 \uacf5\uaca9\ub825\uc774 1%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7cbe\u795e\u97ad\u7b1e\u3001\u5fc3\u9748\u947d\u523a\u548c\u865b\u7121\u6d2a\u6d41\u7684\u50b7\u5bb3\u53ef\u4f7f\u4f60\u7684\u9031\u671f\u6027\u6697\u5f71\u6548\u679c\u63d0\u9ad81%\uff0c\u6700\u591a\u53ef\u5806\u758a5\u6b21\u3002",
+    "zh_CN": "\u4f60\u7684\u7cbe\u795e\u97ad\u7b1e\u3001\u5fc3\u7075\u5c16\u523a\u548c\u865a\u7a7a\u6d2a\u6d41\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u4f1a\u4f7f\u4f60\u7684\u5468\u671f\u6027\u6697\u5f71\u6548\u679c\u7684\u4f24\u5bb3\u63d0\u9ad81%\uff0c\u6700\u591a\u53e0\u52a05\u6b21\u3002"
+  }
 }

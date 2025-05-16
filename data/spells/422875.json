@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422875"
+  "SpellID": "422875",
+  "name_blz": {
+    "en_US": "Hunter Beast Mastery 10.2 Class Set 4pc",
+    "en_GB": "Hunter Beast Mastery 10.2 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Your most recently summoned Dire Beast now obeys your Kill Command and can benefit from Beast Cleave.",
+    "es_MX": "La \u00faltima bestia temible que invocaste ahora obedece tu Matar y puede aprovechar los beneficios de Tajo de la bestia.",
+    "pt_BR": "A Fera Atroz evocada mais recentemente agora obedece ao seu Comando para Matar e pode ser beneficiada pela sua Cutilada da Fera.",
+    "de_DE": "Euer zuletzt beschworenes Alphatier gehorcht nun Eurem 'T\u00f6tungsbefehl' und kann von 'Raubtierhiebe' profitieren.",
+    "en_GB": "Your most recently summoned Dire Beast now obeys your Kill Command and can benefit from Beast Cleave.",
+    "es_ES": "Ahora, la \u00faltima bestia temible que has invocado obedece tu orden de Matar y se puede beneficiar de Tajo de la bestia.",
+    "fr_FR": "Votre b\u00eate f\u00e9roce la plus r\u00e9cente ob\u00e9it d\u00e9sormais \u00e0 votre Ordre de tuer et peut b\u00e9n\u00e9ficier des effets d\u2019Encha\u00eenement bestial.",
+    "it_IT": "Permette di lanciare Ordine di Morte sulla tua Bestia Feroce evocata pi\u00f9 di recente, la quale pu\u00f2 beneficiare di Fendente Bestiale.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0436\u0430\u0441\u043d\u044b\u0439 \u0437\u0432\u0435\u0440\u044c \u0442\u0435\u043f\u0435\u0440\u044c \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442 \u043d\u0430 \u0432\u0430\u0448\u0443 \"\u041a\u043e\u043c\u0430\u043d\u0434\u0443 \"\u0412\u0437\u044f\u0442\u044c!\" \u0438 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0423\u0434\u0430\u0440 \u0437\u0432\u0435\u0440\u044f\".",
+    "ko_KR": "\uac00\uc7a5 \ucd5c\uadfc\uc5d0 \uc18c\ud658\ud55c \uad11\ud3ec\ud55c \uc57c\uc218\uac00 \uc0b4\uc0c1 \uba85\ub839\uc5d0 \ubcf5\uc885\ud558\uace0 \uc57c\uc218\uc758 \ud68c\uc804\ubca0\uae30\uc758 \uc774\ub85c\uc6b4 \ud6a8\uacfc\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6700\u65b0\u53ec\u559a\u7684\u51f6\u66b4\u91ce\u7378\u73fe\u5728\u6703\u807d\u5f9e\u4f60\u7684\u64ca\u6bba\u547d\u4ee4\uff0c\u4e26\u53ef\u53d7\u76ca\u65bc\u7378\u5288\u65ac\u3002",
+    "zh_CN": "\u4f60\u6700\u8fd1\u53ec\u5524\u7684\u51f6\u66b4\u91ce\u517d\u73b0\u5728\u4f1a\u670d\u4ece\u4f60\u7684\u6740\u622e\u547d\u4ee4\uff0c\u5e76\u53ef\u4ee5\u83b7\u5f97\u91ce\u517d\u987a\u5288\u589e\u76ca\u3002"
+  }
 }

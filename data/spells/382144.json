@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382144"
+  "SpellID": "382144",
+  "name_blz": {
+    "en_US": "Slick Ice",
+    "es_MX": "Hielo resbaladizo",
+    "pt_BR": "Gelo Liso",
+    "de_DE": "Rutschiges Eis",
+    "en_GB": "Slick Ice",
+    "es_ES": "Hielo resbaladizo",
+    "fr_FR": "Glace glissante",
+    "it_IT": "Ghiaccio Scivoloso",
+    "ru_RU": "\u0421\u043a\u043e\u043b\u044c\u0437\u043a\u0438\u0439 \u043b\u0435\u0434",
+    "ko_KR": "\ubbf8\ub044\ub7ec\uc6b4 \uc5bc\uc74c",
+    "zh_TW": "\u6ed1\u51b0",
+    "zh_CN": "\u987a\u6ed1\u5bd2\u51b0"
+  },
+  "description_blz": {
+    "en_US": "While Icy Veins is active, each Frostbolt you cast reduces the cast time of Frostbolt by 4% and increases its damage by 4%, stacking up to 5 times.",
+    "es_MX": "Cuando Venas heladas est\u00e1 activo, cada Descarga de escarcha que lanzas reduce un 4% el tiempo de lanzamiento de Descarga de escarcha y aumenta un 4% su da\u00f1o. Este efecto se acumula hasta 5 veces.",
+    "pt_BR": "Enquanto Veias G\u00e9lidas estiver ativo, cada Seta de Gelo reduz em 4% o tempo de lan\u00e7amento e aumenta em 4% o dano da pr\u00f3xima Seta de Gelo. Acumula at\u00e9 5 vezes.",
+    "de_DE": "W\u00e4hrend 'Eisige Adern' aktiv ist, verringert jeder von Euch eingesetzte 'Frostblitz' die Zauberzeit von 'Frostblitz' um 4% und erh\u00f6ht den Schaden der F\u00e4higkeit um 4%. Bis zu 5-mal stapelbar.",
+    "en_GB": "While Icy Veins is active, each Frostbolt you cast reduces the cast time of Frostbolt by 4% and increases its damage by 4%, stacking up to 5 times.",
+    "es_ES": "Mientras Venas heladas est\u00e1 activo, cada Descarga de Escarcha que lanzas reduce un 4% el tiempo de lanzamiento de Descarga de Escarcha y aumenta un 4% su da\u00f1o. Se acumula hasta 5 veces.",
+    "fr_FR": "Chacun de vos \u00c9clairs de givre r\u00e9duit le temps d\u2019incantation de ce sort de 4\u00a0% et augmente ses d\u00e9g\u00e2ts de 4\u00a0% quand Veines glaciales est actif. Cumulable jusqu\u2019\u00e0 5\u00a0fois.",
+    "it_IT": "Quando Vene Gelide \u00e8 attivo, ogni Dardo di Gelo riduce il tempo di lancio di Dardo di Gelo del 4% e aumenta i danni che infligge del 4%. Si accumula fino a 5 volte.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0421\u0442\u044b\u043b\u0430\u044f \u043a\u0440\u043e\u0432\u044c\", \u043a\u0430\u0436\u0434\u0430\u044f \"\u041b\u0435\u0434\u044f\u043d\u0430\u044f \u0441\u0442\u0440\u0435\u043b\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0441\u0442\u0440\u0435\u043b\u044b\" \u043d\u0430 4% \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u043d\u0435\u0435 \u043d\u0430 4%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437.",
+    "ko_KR": "\uc5bc\uc74c \ud54f\uc904\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc5bc\uc74c \ud654\uc0b4\uc744 \uc2dc\uc804\ud560 \ub54c\ub9c8\ub2e4 \uc5bc\uc74c \ud654\uc0b4\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 4%\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \uacf5\uaca9\ub825\uc774 4%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u51b0\u5bd2\u8108\u52d5\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u6bcf\u6b21\u65bd\u653e\u5bd2\u51b0\u7bad\u53ef\u4f7f\u5bd2\u51b0\u7bad\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed4%\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad84%\uff0c\u6700\u591a\u53ef\u5806\u758a5\u6b21\u3002",
+    "zh_CN": "\u5f53\u51b0\u51b7\u8840\u8109\u6fc0\u6d3b\u65f6\uff0c\u4f60\u65bd\u653e\u7684\u6bcf\u4e2a\u5bd2\u51b0\u7bad\u90fd\u4f1a\u4f7f\u5bd2\u51b0\u7bad\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed4%\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad84%\uff0c\u6700\u591a\u53ef\u53e0\u52a05\u6b21\u3002"
+  }
 }

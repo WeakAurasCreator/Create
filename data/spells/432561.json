@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "432561"
+  "SpellID": "432561",
+  "name_blz": {
+    "en_US": "Flint and Tinder",
+    "es_MX": "S\u00edlex y yesca",
+    "pt_BR": "Pederneira e Lenha",
+    "de_DE": "Feuerstein und Zunder",
+    "en_GB": "Flint and Tinder",
+    "es_ES": "S\u00edlex y yesca",
+    "fr_FR": "Silex et amadou",
+    "it_IT": "Pietra Focaia ed Esca",
+    "ru_RU": "\u041a\u0440\u0435\u043c\u0435\u043d\u044c \u0438 \u0442\u0440\u0443\u0442",
+    "ko_KR": "\ubd80\uc2ef\ub3cc\uacfc \ubd88\uc3d8\uc2dc\uac1c",
+    "zh_TW": "\u71e7\u77f3\u548c\u706b\u7d68",
+    "zh_CN": "\u71e7\u77f3\u548c\u706b\u7ed2"
+  },
+  "description_blz": {
+    "en_US": "After exiting combat, Brann builds a campfire that increases the Versatility of those nearby by 1 and allows cooking.",
+    "es_MX": "Despu\u00e9s de salir del combate, Brann crea una hoguera que aumenta 1 p. la versatilidad de quienes est\u00e9n cerca, y permite cocinar.",
+    "pt_BR": "Depois de sair de combate, Brann acende uma fogueira que aumenta em 1 a Versatilidade de quem estiver pr\u00f3ximo e permite que os jogadores cozinhem.",
+    "de_DE": "Nach Ende des Kampfes entz\u00fcndet Brann ein Lagerfeuer, das die Vielseitigkeit von jedem in der N\u00e4he um 1 erh\u00f6ht und das Kochen erm\u00f6glicht.",
+    "en_GB": "After exiting combat, Brann builds a campfire that increases the Versatility of those nearby by 1 and allows cooking.",
+    "es_ES": "Tras salir del combate, Brann enciende una fogata que aumenta en 1 p. la versatilidad de los que se encuentran en sus proximidades y permite cocinar.",
+    "fr_FR": "Apr\u00e8s la fin d\u2019un combat, Brann allume un feu de camp qui augmente de 1 la Polyvalence des personnages qui se trouvent \u00e0 proximit\u00e9 et permet de cuisiner.",
+    "it_IT": "Al termine del combattimento, Brann accende un fuoco che aumenta l'indice di versatilit\u00e0 dei compagni vicini di 1 e permette di cucinare.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 \u0431\u043e\u044f \u0411\u0440\u0430\u043d\u043d \u0440\u0430\u0437\u0432\u043e\u0434\u0438\u0442 \u043a\u043e\u0441\u0442\u0435\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c \u043f\u0438\u0449\u0443 \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u0439 \u043d\u0430 1.",
+    "ko_KR": "\uc804\ud22c\uc5d0\uc11c \ubc97\uc5b4\ub09c \ud6c4, \ube0c\ub780\uc774 \ubaa8\ub2e5\ubd88\uc744 \ud53c\uc6cc \uc8fc\uc704 \uce90\ub9ad\ud130\uc758 \uc720\uc5f0\uc131\uc744 1\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uace0 \uc694\ub9ac\ub97c \uac00\ub2a5\ud558\uac8c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u812b\u96e2\u6230\u9b25\u5f8c\uff0c\u5e03\u840a\u6069\u6703\u5347\u8d77\u71df\u706b\uff0c\u4f7f\u9644\u8fd1\u5192\u96aa\u8005\u7684\u81e8\u6a5f\u61c9\u8b8a\u63d0\u9ad81\u9ede\uff0c\u4e26\u53ef\u4ee5\u5728\u71df\u706b\u65c1\u70f9\u98ea\u3002",
+    "zh_CN": "\u79bb\u5f00\u6218\u6597\u540e\uff0c\u5e03\u83b1\u6069\u70b9\u8d77\u4e00\u5806\u8425\u706b\uff0c\u4f7f\u9644\u8fd1\u6240\u6709\u5192\u9669\u8005\u7684\u5168\u80fd\u63d0\u9ad81\uff0c\u5e76\u53ef\u4ee5\u5728\u8425\u706b\u65c1\u70f9\u996a\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393668"
+  "SpellID": "393668",
+  "name_blz": {
+    "en_US": "Monk Windwalker Class Set 4pc",
+    "es_MX": "Monk Windwalker Class Set 4pc",
+    "pt_BR": "Monge, Andarilho do Vento, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "M\u00f6nchsklassenset, Windl\u00e4ufer, 4 Teile",
+    "en_GB": "Monk Windwalker Class Set 4pc",
+    "es_ES": "Conjunto de clase de monje Viajero del viento (4 piezas)",
+    "fr_FR": "Ensemble de classe de moine Marche-vent (4\u00a0pi\u00e8ces)",
+    "it_IT": "Monaco dell'Impeto, Set di Classe, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043c\u043e\u043d\u0430\u0445\u0430 \u2013 \u0442\u0430\u043d\u0446\u0443\u044e\u0449\u0438\u0439 \u0441 \u0432\u0435\u0442\u0440\u043e\u043c, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ud48d\uc6b4 \uc218\ub3c4\uc0ac \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u6b66\u50e7\u5fa1\u98a8\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u6b66\u50e7\u8e0f\u98ce\u804c\u4e1a\u5957\u88c5\u56db\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Fists of Fury now instead enhances your next 3 Rising Sun Kicks or Spinning Crane Kicks and enhanced kicks increase the damage of your next Fists of Fury by 7%, stacking up to 3 times.",
+    "es_MX": "Ahora Pu\u00f1os de furia en cambio mejora tus siguientes 3 Patadas del sol naciente o Patadas giratorias de la grulla, y las patadas mejoradas aumentan un 7% el da\u00f1o de tu siguiente Pu\u00f1os de furia. Este efecto se acumula hasta 3 veces.",
+    "pt_BR": "Punhos da F\u00faria agora aprimora seus pr\u00f3ximos 3 Chute do Sol Nascente ou Chute Girat\u00f3rio da Gar\u00e7a e aumentam em 7% o dano do pr\u00f3ximo Punhos da F\u00faria. Acumula at\u00e9 3 vezes.",
+    "de_DE": "'Furorf\u00e4uste' verst\u00e4rkt nun stattdessen Eure n\u00e4chsten 3 Eins\u00e4tze von 'Tritt der aufgehenden Sonne' oder 'Wirbelnder Kranichtritt' und verst\u00e4rkte Tritte erh\u00f6hen den Schaden Eures n\u00e4chsten Einsatzes von 'Furorf\u00e4uste' um 7%, bis zu 3-mal stapelbar.",
+    "en_GB": "Fists of Fury now instead enhances your next 3 Rising Sun Kicks or Spinning Crane Kicks and enhanced kicks increase the damage of your next Fists of Fury by 7%, stacking up to 3 times.",
+    "es_ES": "Ahora, Pu\u00f1os de furia mejora tus siguientes 3 lanzamientos de Patada del sol naciente o Patada giratoria de la grulla. Estos ataques mejorados aumentan un 7% el da\u00f1o de tu siguiente Pu\u00f1os de furia. Se acumula hasta 3 veces.",
+    "fr_FR": "Poings de fureur am\u00e9liore d\u00e9sormais vos 3\u00a0prochaines techniques Coup de pied du soleil levant ou Coup tournoyant de la grue. Les coups de pied am\u00e9lior\u00e9s augmentent les d\u00e9g\u00e2ts du prochain Poings de fureur de 7%. Cumulable jusqu\u2019\u00e0 3\u00a0fois.",
+    "it_IT": "Pugni della Furia potenzia i successivi 3 lanci di Calcio del Sole Nascente o Calcio Rotante della Gru. I Calci potenziati aumentano i danni inflitti dai successivi Pugni della Furia del 7%. Si accumula fino a 3 volte.",
+    "ru_RU": "\"\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u044b\u0435 \u043a\u0443\u043b\u0430\u043a\u0438\" \u0442\u0435\u043f\u0435\u0440\u044c \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 3 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \"\u0423\u0434\u0430\u0440\u0430 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u0438\u043b\u0438 \"\u0422\u0430\u043d\u0446\u0443\u044e\u0449\u0438\u0445 \u0436\u0443\u0440\u0430\u0432\u043b\u044f\". \u0423\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0435 \u0443\u043c\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \"\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u044b\u0445 \u043a\u0443\u043b\u0430\u043a\u043e\u0432\" \u043d\u0430 7%. \u042d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 3 \u0440\u0430\u0437.",
+    "ko_KR": "\ubd84\ub178\uc758 \uc8fc\uba39\uc774 \uc774\uc81c \ub2e4\uc74c 3\ud68c\uc758 \ud574\uc624\ub984\ucc28\uae30\ub098 \ud68c\uc804 \ud559\ub2e4\ub9ac\ucc28\uae30\ub97c \uac15\ud654\ud569\ub2c8\ub2e4. \ub610\ud55c \uac15\ud654\ub41c \ubc1c\ucc28\uae30 \uc0ac\uc6a9 \uc2dc \ub2e4\uc74c \ubd84\ub178\uc758 \uc8fc\uba39\uc758 \uacf5\uaca9\ub825\uc774 7%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 3\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u72c2\u62f3\u9023\u6253\u73fe\u5728\u6703\u5f37\u5316\u4f60\u4e0b3\u500b\u7fd4\u967d\u8173\u6216\u9db4\u65cb\u8e22\uff0c\u7372\u5f97\u5f37\u5316\u7684\u8e22\u64ca\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u72c2\u62f3\u9023\u6253\u7684\u50b7\u5bb3\u63d0\u9ad87%\uff0c\u6700\u591a\u53ef\u5806\u758a3\u6b21\u3002",
+    "zh_CN": "\u6012\u96f7\u7834\u73b0\u5728\u4f1a\u5f3a\u5316\u4f60\u7684\u4e0b3\u6b21\u65ed\u65e5\u4e1c\u5347\u8e22\u6216\u795e\u9e64\u5f15\u9879\u8e22\uff0c\u5e76\u4e14\u53d7\u5230\u5f3a\u5316\u7684\u65ed\u65e5\u4e1c\u5347\u8e22\u548c\u795e\u9e64\u5f15\u9879\u8e22\u4f1a\u4f7f\u4f60\u4e0b\u4e00\u4e2a\u6012\u96f7\u7834\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad87%\uff0c\u8be5\u6548\u679c\u6700\u591a\u53ef\u53e0\u52a03\u6b21\u3002"
+  }
 }

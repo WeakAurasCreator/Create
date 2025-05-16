@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393950"
+  "SpellID": "393950",
+  "name_blz": {
+    "en_US": "Bloodcraze",
+    "es_MX": "Locura de sangre",
+    "pt_BR": "Loucura de Sangue",
+    "de_DE": "Blutwahnsinn",
+    "en_GB": "Bloodcraze",
+    "es_ES": "Af\u00e1n de sangre",
+    "fr_FR": "Ivresse du sang",
+    "it_IT": "Furia Sanguinaria",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0435 \u0431\u0435\u0437\u0443\u043c\u0438\u0435",
+    "ko_KR": "\ud53c\uc758 \uad11\uae30",
+    "zh_TW": "\u6e34\u6c42\u9bae\u8840",
+    "zh_CN": "\u8840\u8165\u75af\u72c2"
+  },
+  "description_blz": {
+    "en_US": "Raging Blow increases the critical strike chance of your next Bloodthirst by 15% until it critically strikes, stacking up to 5 times.",
+    "es_MX": "Arremetida enfurecida aumenta un 15% la probabilidad de golpe cr\u00edtico de tu siguiente Sed de sangre, hasta que se produzca un golpe cr\u00edtico. El efecto se acumula hasta 5 veces.",
+    "pt_BR": "Golpe Furioso aumenta em 15% a chance de acerto cr\u00edtico do seu pr\u00f3ximo Sede de Sangue at\u00e9 atingir criticamente, acumulando at\u00e9 5 vezes.",
+    "de_DE": "'W\u00fctender Schlag' erh\u00f6ht die kritische Trefferchance Eures n\u00e4chsten Einsatzes von 'Blutdurst' um 15%, bis ein kritischer Treffer erfolgt. Bis zu 5-mal stapelbar.",
+    "en_GB": "Raging Blow increases the critical strike chance of your next Bloodthirst by 15% until it critically strikes, stacking up to 5 times.",
+    "es_ES": "Arremetida enfurecida aumenta un 15% la probabilidad de golpe cr\u00edtico de tu siguiente Sed de sangre hasta que asesta un golpe cr\u00edtico. Se acumula hasta 5 veces.",
+    "fr_FR": "Coup d\u00e9cha\u00een\u00e9 augmente les chances de coup critique de la prochaine utilisation de Sanguinaire de 15\u00a0% jusqu\u2019au prochain coup critique. Cumulable jusqu\u2019\u00e0 5\u00a0fois.",
+    "it_IT": "Colpo Furente aumenta la probabilit\u00e0 di critico della successiva Sete di Sangue del 15% finch\u00e9 questa non infligge un colpo critico. Si accumula fino a 5 volte.",
+    "ru_RU": "\"\u042f\u0440\u043e\u0441\u0442\u043d\u044b\u0439 \u0432\u044b\u043f\u0430\u0434\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430 \"\u041a\u0440\u043e\u0432\u043e\u0436\u0430\u0434\u043d\u043e\u0441\u0442\u0438\" \u043d\u0430 15% \u0434\u043e \u0442\u0435\u0445 \u043f\u043e\u0440, \u043f\u043e\u043a\u0430 \"\u041a\u0440\u043e\u0432\u043e\u0436\u0430\u0434\u043d\u043e\u0441\u0442\u044c\" \u043d\u0435 \u043d\u0430\u043d\u0435\u0441\u0435\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0434\u0430\u0440. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437.",
+    "ko_KR": "\ubd84\ub178\uc758 \uac15\ud0c0\uac00 \ub2e4\uc74c \ud53c\uc758 \uac08\uc99d\uc758 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654\uc728\uc744 15%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud560 \ub54c\uae4c\uc9c0 \uc9c0\uc18d\ub418\uba70, \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u72c2\u6012\u4e4b\u64ca\u4f7f\u4f60\u4e0b\u4e00\u500b\u55dc\u8840\u7684\u81f4\u547d\u4e00\u64ca\u6a5f\u7387\u63d0\u9ad815%\uff0c\u76f4\u5230\u5176\u9020\u6210\u81f4\u547d\u4e00\u64ca\u70ba\u6b62\uff0c\u6700\u591a\u53ef\u5806\u758a5\u5c64\u3002",
+    "zh_CN": "\u6012\u51fb\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u55dc\u8840\u7206\u51fb\u51e0\u7387\u63d0\u9ad815%\uff0c\u76f4\u5230\u5176\u9020\u6210\u7206\u51fb\u3002\u8be5\u6548\u679c\u6700\u591a\u53e0\u52a05\u6b21\u3002"
+  }
 }

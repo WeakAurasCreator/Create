@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "344565"
+  "SpellID": "344565",
+  "name_blz": {
+    "en_US": "The Classic Cut",
+    "es_MX": "El corte cl\u00e1sico",
+    "pt_BR": "Corte Cl\u00e1ssico",
+    "de_DE": "Klassischer Haarschnitt",
+    "en_GB": "The Classic Cut",
+    "es_ES": "Corte de pelo cl\u00e1sico",
+    "fr_FR": "Coupe classique",
+    "it_IT": "Acconciatura Classica",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0443\u043a\u043b\u0430\u0434\u043a\u0430",
+    "ko_KR": "\uc804\ud1b5\uc801\uc778 \uba38\ub9ac",
+    "zh_TW": "\u7d93\u5178\u9aee\u578b",
+    "zh_CN": "\u7ecf\u5178\u53d1\u578b"
+  },
+  "description_blz": {
+    "en_US": "Teaches your dredger how to grow his hair into the realms traditional butler cut. ",
+    "es_MX": "Le ense\u00f1a a tu dragador a que su cabello crezca con el peinado tradicional del reino. ",
+    "pt_BR": "Ensina o seu Dragador a fazer o penteado tradicional de mordomo dos reinos. ",
+    "de_DE": "Lehrt Euren Gr\u00e4ber, wie er sein Haar im traditionellen Butlerhaarschnitt dieses Reiches wachsen l\u00e4sst. ",
+    "en_GB": "Teaches your dredger how to grow his hair into the realms traditional butler cut. ",
+    "es_ES": "Ense\u00f1a a tu dragador el corte tradicional de los mayordomos de los reinos.",
+    "fr_FR": "Apprend \u00e0 votre purotin \u00e0 faire pousser sa chevelure pour obtenir une coupe de majordome traditionnelle.",
+    "it_IT": "Insegna al tuo Dragatore come farsi un'acconciatura classica. ",
+    "ru_RU": "\u0423\u0447\u0438\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0435\u043c\u043b\u0435\u0440\u043e\u044f \u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u0443\u044e \u043f\u0440\u0438\u0447\u0435\u0441\u043a\u0443 \u0434\u0432\u043e\u0440\u0435\u0446\u043a\u043e\u0433\u043e.",
+    "ko_KR": "\ud5c8\ub4dc\ub808\uafbc\uc5d0\uac8c \uc601\uc5ed\uc758 \uc804\ud1b5\uc801\uc778 \uc9d1\uc0ac\uc758 \ubaa8\uc2b5\uc73c\ub85c \uba38\ub9ac\ub97c \uae30\ub974\ub294 \ubc29\ubc95\uc744 \uac00\ub974\uce69\ub2c8\ub2e4. ",
+    "zh_TW": "\u6559\u4f60\u7684\u6ce5\u6398\u8005\u5b78\u6703\u5982\u4f55\u9577\u51fa\u745e\u6587\u5d14\u65af\u50b3\u7d71\u7ba1\u5bb6\u9aee\u578b\u3002",
+    "zh_CN": "\u6559\u4f60\u7684\u6ce5\u4ec6\u5982\u4f55\u62e5\u6709\u672c\u56fd\u5ea6\u7684\u4f20\u7edf\u7ba1\u5bb6\u53d1\u578b\u3002"
+  }
 }

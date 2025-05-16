@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "354124"
+  "SpellID": "354124",
+  "name_blz": {
+    "en_US": "Hemotoxin",
+    "es_MX": "Hemotoxina",
+    "pt_BR": "Hemotoxina",
+    "de_DE": "H\u00e4motoxin",
+    "en_GB": "Hemotoxin",
+    "es_ES": "Hemotoxina",
+    "fr_FR": "H\u00e9motoxine",
+    "it_IT": "Emotossina",
+    "ru_RU": "\u0413\u0435\u043c\u043e\u0442\u043e\u043a\u0441\u0438\u043d",
+    "ko_KR": "\ud608\ub3c5",
+    "zh_TW": "\u8840\u6bd2",
+    "zh_CN": "\u8840\u6bd2\u7d20"
+  },
+  "description_blz": {
+    "en_US": "Shiv also reduces the target's healing received by 30% for 8 sec.",
+    "es_MX": "Puyazo tambi\u00e9n reduce la sanaci\u00f3n recibida por el objetivo un 30% durante 8 s.",
+    "pt_BR": "Estocada tamb\u00e9m reduz em 30% a cura que o alvo recebe por 8 s.",
+    "de_DE": "'T\u00fcckische Klinge' verringert zus\u00e4tzlich die erhaltene Heilung des Ziels f\u00fcr 8 Sek. um 30%.",
+    "en_GB": "Shiv also reduces the target's healing received by 30% for 8 sec.",
+    "es_ES": "Puyazo tambi\u00e9n reduce un 30% la sanaci\u00f3n recibida por el objetivo durante 8 s.",
+    "fr_FR": "Kriss r\u00e9duit \u00e9galement les soins re\u00e7us par la cible de 30% pendant 8 s.",
+    "it_IT": "Stilettata riduce le cure ricevute dal bersaglio del 30% per 8 s.",
+    "ru_RU": "\"\u041e\u0442\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0443\u043a\u043e\u043b\" \u0442\u0430\u043a\u0436\u0435 \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0435 \u0446\u0435\u043b\u044c\u044e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 30% \u043d\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ub3c5\uce7c\uc774 8\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\ub97c 30%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6bd2\u8972\u540c\u6642\u6703\u4f7f\u76ee\u6a19\u53d7\u5230\u7684\u6cbb\u7642\u6548\u679c\u964d\u4f4e30%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u6bd2\u5203\u4f7f\u76ee\u6807\u53d7\u5230\u7684\u6cbb\u7597\u6548\u679c\u964d\u4f4e30%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

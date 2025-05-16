@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388807"
+  "SpellID": "388807",
+  "name_blz": {
+    "en_US": "Storm Wall",
+    "es_MX": "Muro de tormenta",
+    "pt_BR": "Muralha Tempestuosa",
+    "de_DE": "Sturmwall",
+    "en_GB": "Storm Wall",
+    "es_ES": "Muro de tormenta",
+    "fr_FR": "Mur de temp\u00eate",
+    "it_IT": "Muro di Tempesta",
+    "ru_RU": "\u041e\u0442\u0431\u043e\u0439\u043d\u0430\u044f \u0441\u0442\u0435\u043d\u043a\u0430",
+    "ko_KR": "\ud3ed\ud48d\uc758 \ubcbd",
+    "zh_TW": "\u98a8\u66b4\u4e4b\u7246",
+    "zh_CN": "\u98ce\u66b4\u4e4b\u58c1"
+  },
+  "description_blz": {
+    "en_US": "Whenever you Parry, you heal for 5.0% of your maximum health. This effect cannot occur more than once every 1 sec.",
+    "es_MX": "Cada vez que paras un ataque, sanas un 5.0% de tu salud m\u00e1xima. Este efecto no puede ocurrir m\u00e1s de una vez cada 1 s.",
+    "pt_BR": "Sempre que Apara, voc\u00ea cura 5,0% do seu m\u00e1ximo de pontos de vida. Este efeito s\u00f3 ocorre uma vez a cada 1 s.",
+    "de_DE": "Wenn Ihr pariert, werdet Ihr um 5,0% Eurer maximalen Gesundheit geheilt. Dieser Effekt kann nur einmal alle 1 Sek. auftreten.",
+    "en_GB": "Whenever you Parry, you heal for 5.0% of your maximum health. This effect cannot occur more than once every 1 sec.",
+    "es_ES": "Cada vez que paras un ataque, te sanas un 5,0% de tu salud m\u00e1xima. Este efecto solo puede suceder una vez cada 1 s.",
+    "fr_FR": "Vous r\u00e9cup\u00e9rez 5,0\u00a0% de votre maximum de points de vie chaque fois que vous parez. Cet effet ne peut se produire plus d\u2019une fois toutes 1\u00a0s.",
+    "it_IT": "Quando si para un attacco, si rigenera il 5,0% della salute massima. Pu\u00f2 verificarsi solo una volta ogni 1 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0430\u0440\u0438\u0440\u0443\u0435\u0442\u0435 \u0430\u0442\u0430\u043a\u0443, \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 5,0% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 1 \u0441\u0435\u043a.",
+    "ko_KR": "\ubb34\uae30 \ub9c9\uae30\uc5d0 \uc131\uacf5\ud560 \ub54c\ub9c8\ub2e4 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 5.0%\ub97c \ud68c\ubcf5\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 1\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u7576\u4f60\u62db\u67b6\u6642\uff0c\u6cbb\u7642\u4f60\u751f\u547d\u529b\u4e0a\u9650\u76845.0%\u3002\u6b64\u6548\u679c\u6bcf1\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5f53\u4f60\u62db\u67b6\u65f6\uff0c\u4f60\u4f1a\u6062\u590d\u6700\u5927\u751f\u547d\u503c\u76845.0%\u3002\u6b64\u6548\u679c\u6bcf1\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

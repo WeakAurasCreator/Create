@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389579"
+  "SpellID": "389579",
+  "name_blz": {
+    "en_US": "Save Them All",
+    "es_MX": "S\u00e1lvalos a todos",
+    "pt_BR": "Salve a Todos",
+    "de_DE": "Rettet sie alle",
+    "en_GB": "Save Them All",
+    "es_ES": "S\u00e1lvalos a todos",
+    "fr_FR": "Sauvez-les tous\u00a0!",
+    "it_IT": "Salviamoli Tutti",
+    "ru_RU": "\u0421\u043f\u0430\u0441\u0442\u0438 \u0438\u0445 \u0432\u0441\u0435\u0445",
+    "ko_KR": "\uc804\uc6d0 \uc0dd\uc874",
+    "zh_TW": "\u6fdf\u4e16\u6551\u4eba",
+    "zh_CN": "\u666e\u5ea6\u4f17\u751f"
+  },
+  "description_blz": {
+    "en_US": "When your healing spells heal an ally whose health is below 35% maximum health, you gain an additional 10% healing for the next 4 sec.",
+    "es_MX": "Cuando tus hechizos de sanaci\u00f3n sanan a un aliado con menos de un 35% de su salud m\u00e1xima, obtienes un 10% m\u00e1s de sanaci\u00f3n durante los siguientes 4 s.",
+    "pt_BR": "Quando seus feiti\u00e7os curam um aliado com menos de 35% do m\u00e1ximo de pontos de vida, voc\u00ea ganha um adicional de 10% de cura por 4 s.",
+    "de_DE": "Wenn Eure Heilzauber einen Verb\u00fcndeten heilen, dessen Gesundheit unter 35% seiner maximalen Gesundheit liegt, erhaltet Ihr f\u00fcr die n\u00e4chsten 4 Sek. zus\u00e4tzlich 10% Heilung.",
+    "en_GB": "When your healing spells heal an ally whose health is below 35% maximum health, you gain an additional 10% healing for the next 4 sec.",
+    "es_ES": "Cuando tus hechizos de sanaci\u00f3n sanan a un aliado cuya salud es inferior a un 35% de su salud m\u00e1xima, obtienes un 10% de sanaci\u00f3n extra durante los siguientes 4 s.",
+    "fr_FR": "Lorsque vos sorts de soins affectent un personnage alli\u00e9 ayant moins de 35% de son maximum de points de vie, vos prochains soins sont augment\u00e9s de 10% pendant 4 s.",
+    "it_IT": "Quando gli incantesimi di cura curano un alleato con meno del 35% della salute massima, le cure fornite nei successivi 4 s aumentano del 10%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448\u0438 \u0438\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0438\u0436\u0435 35%, \u0432\u0430\u0448\u0430 \u0441\u0438\u043b\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10% \u043d\u0430 4 \u0441\u0435\u043a.",
+    "ko_KR": "\uce58\uc720 \uc8fc\ubb38\uc73c\ub85c \uc0dd\uba85\ub825\uc774 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 35% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c4 \uc544\uad70\uc744 \uce58\uc720\ud558\uba74 \ub2e4\uc74c 4\ucd08 \ub3d9\uc548 \uce58\uc720\ub7c9\uc774 \ucd94\uac00\ub85c 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u6cbb\u7642\u6cd5\u8853\u6cbb\u7642\u751f\u547d\u529b\u4f4e\u65bc35%\u751f\u547d\u529b\u4e0a\u9650\u7684\u76df\u53cb\u6642\uff0c\u5728\u63a5\u4e0b\u4f864\u79d2\u5167\uff0c\u4f60\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u984d\u5916\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u5f53\u4f60\u7684\u6cbb\u7597\u6027\u6cd5\u672f\u6cbb\u7597\u751f\u547d\u503c\u4f4e\u4e8e35%\u7684\u76df\u53cb\u65f6\uff0c\u4f60\u4f1a\u5728\u63a5\u4e0b\u6765\u76844\u79d2\u5185\u83b7\u5f97\u989d\u591610%\u7684\u6cbb\u7597\u6548\u679c\u3002"
+  }
 }

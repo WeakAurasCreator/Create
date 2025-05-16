@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "407430"
+  "SpellID": "407430",
+  "name_blz": {
+    "en_US": "Voidtouched",
+    "es_MX": "Tocado por el Vac\u00edo",
+    "pt_BR": "Maculado pelo Caos",
+    "de_DE": "Leerenber\u00fchrt",
+    "en_GB": "Voidtouched",
+    "es_ES": "Tocado por el Vac\u00edo",
+    "fr_FR": "Touch\u00e9 par le Vide",
+    "it_IT": "Toccato dal Vuoto",
+    "ru_RU": "\u0422\u0440\u043e\u043d\u0443\u0442\u044b\u0439 \u0411\u0435\u0437\u0434\u043d\u043e\u0439",
+    "ko_KR": "\uacf5\ud5c8\uc5d0 \ubb3c\ub4e6",
+    "zh_TW": "\u865b\u7121\u4e4b\u89f8",
+    "zh_CN": "\u7075\u5a92"
+  },
+  "description_blz": {
+    "en_US": "Increases your Devouring Plague damage by 6% and increases your maximum Insanity by 50.",
+    "es_MX": "Aumenta un 6% el da\u00f1o de tu Peste devoradora y aumenta 50 p. tu demencia m\u00e1xima.",
+    "pt_BR": "Aumenta em 6% o dano da sua Peste Devoradora e aumenta em 50 seu m\u00e1ximo de Insanidade.",
+    "de_DE": "Erh\u00f6ht Euren durch 'Verschlingende Seuche' verursachten Schaden um 6% und Euren maximalen Wahnsinn um 50.",
+    "en_GB": "Increases your Devouring Plague damage by 6% and increases your maximum Insanity by 50.",
+    "es_ES": "Aumenta un 6% el da\u00f1o de Peste devoradora y 50 p. tu demencia m\u00e1xima.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de votre Peste d\u00e9vorante de 6% et votre insanit\u00e9 maximale de 50.",
+    "it_IT": "Aumenta i danni inflitti da Piaga Divoratrice del 6% e la pazzia massima di 50.",
+    "ru_RU": "\"\u0412\u0441\u0435\u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0449\u0430\u044f \u0447\u0443\u043c\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 6% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0431\u0435\u0437\u0443\u043c\u0438\u044f \u043d\u0430 50.",
+    "ko_KR": "\ud30c\uba78\uc758 \uc5ed\ubcd1\uc758 \uacf5\uaca9\ub825\uc774 6%\ub9cc\ud07c, \ucd5c\ub300 \uad11\uae30\uac00 50\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u566c\u9748\u761f\u75ab\u50b7\u5bb3\u63d0\u9ad86%\uff0c\u760b\u72c2\u4e0a\u9650\u63d0\u9ad850\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u566c\u7075\u75ab\u75c5\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad86%\uff0c\u5e76\u4f7f\u4f60\u7684\u6700\u5927\u72c2\u4e71\u503c\u63d0\u9ad850\u70b9\u3002"
+  }
 }

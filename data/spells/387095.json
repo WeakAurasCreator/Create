@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387095"
+  "SpellID": "387095",
+  "name_blz": {
+    "en_US": "Pyrogenics",
+    "es_MX": "Pirog\u00e9nica",
+    "pt_BR": "Pirog\u00eanese",
+    "de_DE": "Pyrogenik",
+    "en_GB": "Pyrogenics",
+    "es_ES": "Pirog\u00e9nica",
+    "fr_FR": "Pyrog\u00e9nie",
+    "it_IT": "Pirogenia",
+    "ru_RU": "\u041f\u0438\u0440\u043e\u0433\u0435\u043d\u0435\u0437",
+    "ko_KR": "\ubc1c\uc5f4",
+    "zh_TW": "\u7126\u5316",
+    "zh_CN": "\u9ad8\u6e29"
+  },
+  "description_blz": {
+    "en_US": "Enemies affected by your Rain of Fire take 3% increased damage from your Fire spells.",
+    "es_MX": "Los enemigos afectados por tu Lluvia de Fuego reciben un 3% de da\u00f1o aumentado de tus hechizos de fuego.",
+    "pt_BR": "Inimigos afetados por sua Chuva de Fogo recebem 3% a mais de dano dos seus feiti\u00e7os de Fogo.",
+    "de_DE": "Durch Euren Zauber 'Feuerregen' betroffene Gegner erleiden um 3% erh\u00f6hten Schaden durch Eure Feuerzauber.",
+    "en_GB": "Enemies affected by your Rain of Fire take 3% increased damage from your Fire spells.",
+    "es_ES": "Los enemigos afectados por tu Lluvia de Fuego reciben un 3% m\u00e1s de da\u00f1o de tus hechizos de Fuego.",
+    "fr_FR": "Les adversaires qu\u2019affecte votre Pluie de feu subissent 3% de d\u00e9g\u00e2ts suppl\u00e9mentaires de vos sorts de feu.",
+    "it_IT": "Aumenta i danni da fuoco da te inflitti ai nemici affetti da una tua Pioggia di Fuoco del 3%.",
+    "ru_RU": "\u041f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0432\u0430\u0448 \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u043b\u0438\u0432\u0435\u043d\u044c\", \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043d\u0430 3% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0432\u0430\u0448\u0438\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0445 \u0443\u0440\u043e\u043d \u043e\u0442 \u043e\u0433\u043d\u044f.",
+    "ko_KR": "\uc790\uc2e0\uc758 \ubd88\uc758 \ube44\uc5d0 \uacf5\uaca9\ubc1b\uc740 \uc801\uc740 \uc790\uc2e0\uc758 \ud654\uc5fc \uc8fc\ubb38\uc73c\ub85c \uc785\ub294 \ud53c\ud574\uac00 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6575\u4eba\u53d7\u5230\u706b\u7130\u4e4b\u96e8\u5f71\u97ff\u5f8c\uff0c\u5f9e\u4f60\u7684\u706b\u7130\u6cd5\u8853\u53d7\u5230\u7684\u50b7\u5bb3\u63d0\u9ad83%\u3002",
+    "zh_CN": "\u53d7\u5230\u4f60\u7684\u706b\u7130\u4e4b\u96e8\u5f71\u54cd\u7684\u654c\u4eba\u4ece\u4f60\u7684\u706b\u7130\u6cd5\u672f\u4e2d\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad83%\u3002"
+  }
 }

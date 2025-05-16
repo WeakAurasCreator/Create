@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "437068"
+  "SpellID": "437068",
+  "name_blz": {
+    "en_US": "Strength of the Mountain",
+    "es_MX": "Fuerza de la monta\u00f1a",
+    "pt_BR": "For\u00e7a da Montanha",
+    "de_DE": "St\u00e4rke des Berges",
+    "en_GB": "Strength of the Mountain",
+    "es_ES": "Fuerza de la monta\u00f1a",
+    "fr_FR": "Force de la montagne",
+    "it_IT": "Forza della Montagna",
+    "ru_RU": "\u0421\u0438\u043b\u0430 \u0433\u043e\u0440\u044b",
+    "ko_KR": "\ud0dc\uc0b0\uc758 \ud798",
+    "zh_TW": "\u5c71\u8108\u4e4b\u529b",
+    "zh_CN": "\u7fa4\u5c71\u4e4b\u529b"
+  },
+  "description_blz": {
+    "en_US": "Shield Slam damage increased by 15%.\r\n\r\nBloodthirst and Rampage damage increased by 25%.",
+    "es_MX": "El da\u00f1o de Embate con escudo aumenta un 15%.\r\n\r\nEl da\u00f1o de Sed de sangre y Desenfreno aumenta un 25%.",
+    "pt_BR": "Dano de Escudada aumentado em 15%.\r\n\r\nDano de Sede de Sangue e Alvoro\u00e7o aumentados em 25%.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Schildschlag' um 15%.\r\n\r\nErh\u00f6ht den Schaden von 'Blutdurst' und 'Toben' um 25%.",
+    "en_GB": "Shield Slam damage increased by 15%.\r\n\r\nBloodthirst and Rampage damage increased by 25%.",
+    "es_ES": "El da\u00f1o de Embate con escudo aumenta un 15%.\r\n\r\nEl da\u00f1o de Sed de sangre y Desenfreno aumenta un 25%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Heurt de bouclier sont augment\u00e9s de 15\u00a0%.\r\n\r\nLes d\u00e9g\u00e2ts de Sanguinaire et Saccage sont augment\u00e9s de 25\u00a0%.",
+    "it_IT": "Aumenta i danni inflitti da Colpo di Scudo del 15%.\r\n\r\nAumenta i danni inflitti da Sete di Sangue e Scatto d'Ira del 25%.",
+    "ru_RU": "\u041c\u043e\u0449\u043d\u044b\u0439 \u0443\u0434\u0430\u0440 \u0449\u0438\u0442\u043e\u043c\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u0423\u0440\u043e\u043d \u043e\u0442 \"\u041a\u0440\u043e\u0432\u043e\u0436\u0430\u0434\u043d\u043e\u0441\u0442\u0438\" \u0438 \"\u0411\u0443\u0439\u0441\u0442\u0432\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25%.",
+    "ko_KR": "\ubc29\ud328 \ubc00\uccd0\ub0b4\uae30\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ud53c\uc758 \uac08\uc99d \ubc0f \uad11\ub780\uc758 \uacf5\uaca9\ub825\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u76fe\u724c\u731b\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002\r\n\r\n\u55dc\u8840\u548c\u66b4\u6012\u7684\u50b7\u5bb3\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u76fe\u724c\u731b\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002\r\n\r\n\u55dc\u8840\u548c\u66b4\u6012\u7684\u4f24\u5bb3\u63d0\u9ad825%\u3002"
+  }
 }

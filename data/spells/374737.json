@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374737"
+  "SpellID": "374737",
+  "name_blz": {
+    "en_US": "Reinforced Bones",
+    "es_MX": "Huesos reforzados",
+    "pt_BR": "Ossos Refor\u00e7ados",
+    "de_DE": "Verst\u00e4rkte Knochen",
+    "en_GB": "Reinforced Bones",
+    "es_ES": "Huesos reforzados",
+    "fr_FR": "Os renforc\u00e9s",
+    "it_IT": "Ossa Rinforzate",
+    "ru_RU": "\u0423\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uac15\ud654\ub41c \ubf08",
+    "zh_TW": "\u5f37\u56fa\u9ab8\u9aa8",
+    "zh_CN": "\u52a0\u56fa\u767d\u9aa8"
+  },
+  "description_blz": {
+    "en_US": "Increases Armor gained from Bone Shield by 10% and it can stack 2 additional times.",
+    "es_MX": "Aumenta la armadura que otorga Escudo \u00f3seo un 10% y se puede acumular 2 veces m\u00e1s.",
+    "pt_BR": "Aumenta em 10% a Armadura ganha de Escudo \u00d3sseo e pode acumular 2 vezes a mais.",
+    "de_DE": "Erh\u00f6ht die durch 'Knochenschild' erhaltene R\u00fcstung um 10% und erm\u00f6glicht bis zu 2 zus\u00e4tzliche Stapel.",
+    "en_GB": "Increases Armor gained from Bone Shield by 10% and it can stack 2 additional times.",
+    "es_ES": "Aumenta un 10% la armadura recibida por Escudo \u00f3seo y se puede acumular 2 veces m\u00e1s.",
+    "fr_FR": "Augmente l\u2019Armure obtenue gr\u00e2ce \u00e0 Bouclier d\u2019os de 10\u00a0% et celui-ci peut se cumuler 2\u00a0fois suppl\u00e9mentaires.",
+    "it_IT": "Aumenta l'armatura fornita da Scudo d'Ossa del 10% e ne aumenta gli accumuli di 2.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u0431\u0430\u0432\u043a\u0443 \u043a \u0431\u0440\u043e\u043d\u0435 \u043e\u0442 \"\u041a\u043e\u0441\u0442\u044f\u043d\u043e\u0433\u043e \u0449\u0438\u0442\u0430\" \u043d\u0430 10%, \u0438 \"\u041a\u043e\u0441\u0442\u044f\u043d\u043e\u0439 \u0449\u0438\u0442\" \u043c\u043e\u0436\u0435\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0435\u0449\u0435 2 \u0440\u0430\u0437\u0430.",
+    "ko_KR": "\ubf08\uc758 \ubcf4\ud638\ub9c9\uc774 \ubc29\uc5b4\ub3c4\ub97c \ucd94\uac00\ub85c 10%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uba70 \ucd94\uac00\ub85c 2\ud68c \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u9ab8\u9aa8\u4e4b\u76fe\u6240\u63d0\u4f9b\u7684\u8b77\u7532\u503c\u63d0\u9ad810%\uff0c\u4e14\u53ef\u984d\u5916\u5806\u758a2\u5c64\u3002",
+    "zh_CN": "\u767d\u9aa8\u4e4b\u76fe\u63d0\u4f9b\u7684\u62a4\u7532\u503c\u63d0\u9ad810%\uff0c\u53ef\u4ee5\u989d\u5916\u53e0\u52a02\u6b21\u3002"
+  }
 }

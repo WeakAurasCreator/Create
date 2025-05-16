@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "344587"
+  "SpellID": "344587",
+  "name_blz": {
+    "en_US": "Teleport: Oribos",
+    "es_MX": "Teletransporte: Oribos",
+    "pt_BR": "Teleporte: Oribos",
+    "de_DE": "Teleport: Oribos",
+    "en_GB": "Teleport: Oribos",
+    "es_ES": "Teletransporte a: Oribos",
+    "fr_FR": "T\u00e9l\u00e9portation\u00a0: Oribos",
+    "it_IT": "Teletrasporto: Oribos",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f: \u041e\u0440\u0438\u0431\u043e\u0441",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9: \uc624\ub9ac\ubcf4\uc2a4",
+    "zh_TW": "\u50b3\u9001\uff1a\u5967\u777f\u535a\u53f8",
+    "zh_CN": "\u4f20\u9001\uff1a\u5965\u5229\u6ce2\u65af"
+  },
+  "description_blz": {
+    "en_US": "Teleports you to Oribos.",
+    "es_MX": "Te transporta a Oribos.",
+    "pt_BR": "Teleporta voc\u00ea para Oribos.",
+    "de_DE": "Teleportiert Euch nach Oribos.",
+    "en_GB": "Teleports you to Oribos.",
+    "es_ES": "Te teletransporta a Oribos.",
+    "fr_FR": "Vous t\u00e9l\u00e9porte \u00e0 Oribos.",
+    "it_IT": "Ti teletrasporta a Oribos.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u0441 \u0432 \u041e\u0440\u0438\u0431\u043e\u0441.",
+    "ko_KR": "\uc624\ub9ac\ubcf4\uc2a4\ub85c \uc21c\uac04\uc774\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u50b3\u9001\u5230\u5967\u777f\u535a\u53f8\u3002",
+    "zh_CN": "\u5c06\u4f60\u4f20\u9001\u81f3\u5965\u5229\u6ce2\u65af\u3002"
+  }
 }

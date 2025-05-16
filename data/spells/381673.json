@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "381673"
+  "SpellID": "381673",
+  "name_blz": {
+    "en_US": "Doomblade",
+    "es_MX": "Espada apocal\u00edptica",
+    "pt_BR": "L\u00e2mina da Ru\u00edna",
+    "de_DE": "Verdammnisklinge",
+    "en_GB": "Doomblade",
+    "es_ES": "Hoja funesta",
+    "fr_FR": "Lame-du-destin",
+    "it_IT": "Lama Spietata",
+    "ru_RU": "\u0420\u043e\u043a\u043e\u0432\u043e\u0439 \u043a\u043b\u0438\u043d\u043e\u043a",
+    "ko_KR": "\ud30c\uba78\uce7c\ub0a0",
+    "zh_TW": "\u6bc0\u6ec5\u4e4b\u5203",
+    "zh_CN": "\u672b\u65e5\u4e4b\u5203"
+  },
+  "description_blz": {
+    "en_US": "Mutilate deals an additional 20% Bleed damage over 8 sec.",
+    "es_MX": "Mutilar inflige un 20% m\u00e1s de da\u00f1o de sangrado durante 8 s.",
+    "pt_BR": "Mutilar causa mais 20% de dano de Sangramento ao longo de 8 s.",
+    "de_DE": "'Verst\u00fcmmeln' verursacht zus\u00e4tzlich 20% Blutungsschaden im Verlauf von 8 Sek.",
+    "en_GB": "Mutilate deals an additional 20% Bleed damage over 8 sec.",
+    "es_ES": "Mutilar inflige un 20% de da\u00f1o de sangrado extra durante 8 s.",
+    "fr_FR": "Estropier inflige 20% de d\u00e9g\u00e2ts de saignement suppl\u00e9mentaires en 8\u00a0s.",
+    "it_IT": "Mutilazione infligge il 20% di danni da sanguinamento aggiuntivi in 8 s.",
+    "ru_RU": "\"\u0420\u0430\u0441\u043f\u0440\u0430\u0432\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0435\u0449\u0435 20% \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u0437\u0430 8 \u0441\u0435\u043a.",
+    "ko_KR": "\uc808\ub2e8\uc774 8\ucd08\uc5d0 \uac78\uccd0 20%\uc758 \ucd94\uac00 \ucd9c\ud608 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u622a\u80a2\u57288\u79d2\u5167\u984d\u5916\u9020\u621020%\u6d41\u8840\u50b7\u5bb3\u3002",
+    "zh_CN": "\u6bc1\u4f24\u4f1a\u57288\u79d2\u5185\u989d\u5916\u9020\u621020%\u7684\u6d41\u8840\u4f24\u5bb3\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390504"
+  "SpellID": "390504",
+  "name_blz": {
+    "en_US": "Ancient Waygate: Algeth'era",
+    "es_MX": "Portal antiguo: Algeth'era",
+    "pt_BR": "P\u00f3rtico Antigo: Algeth'era",
+    "de_DE": "Uraltes Portal: Algeth'era",
+    "en_GB": "Ancient Waygate: Algeth'era",
+    "es_ES": "Puerta ancestral: Algeth'era",
+    "fr_FR": "Portail d\u2019acc\u00e8s antique\u00a0: Algeth\u2019ar",
+    "it_IT": "Portale Antico: Algeth'era",
+    "ru_RU": "\u0414\u0440\u0435\u0432\u043d\u0438\u0435 \u0432\u0440\u0430\u0442\u0430: \u0410\u043b\u0433\u0435\u0442'\u0435\u0440\u0430",
+    "ko_KR": "\uace0\ub300 \ucc28\uc6d0\ubb38: \uc54c\uac8c\ud14c\ub77c",
+    "zh_TW": "\u9060\u53e4\u50b3\u9001\u9580\uff1a\u963f\u723e\u84cb\u745f\u62c9",
+    "zh_CN": "\u8fdc\u53e4\u754c\u95e8\uff1a\u827e\u6770\u65af\u4f0a\u62c9"
+  },
+  "description_blz": {
+    "en_US": "Unlocks access to the Algeth'era waygate.",
+    "es_MX": "Desbloquea el acceso al portal de Algeth'era.",
+    "pt_BR": "Desbloqueia o acesso ao p\u00f3rtico de Algeth'era.",
+    "de_DE": "Schaltet den Zugang zum Portal von Algeth'era frei.",
+    "en_GB": "Unlocks access to the Algeth'era waygate.",
+    "es_ES": "Desbloquea el acceso a la puerta de Algeth'era.",
+    "fr_FR": "D\u00e9bloque l\u2019acc\u00e8s au portail d\u2019Algeth\u2019ar.",
+    "it_IT": "Sblocca l'accesso al portale di Algeth'era.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043f\u0443\u0442\u0435\u0432\u044b\u043c \u0432\u0440\u0430\u0442\u0430\u043c \u0432 \u0410\u043b\u0433\u0435\u0442'\u0435\u0440\u0435.",
+    "ko_KR": "\uc54c\uac8c\ud14c\ub77c \ucc28\uc6d0\ubb38\uc744 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u963f\u723e\u84cb\u745f\u62c9\u50b3\u9001\u9580\u3002",
+    "zh_CN": "\u89e3\u9501\u827e\u6770\u65af\u4f0a\u62c9\u754c\u95e8\u6743\u9650\u3002"
+  }
 }

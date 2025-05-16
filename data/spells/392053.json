@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392053"
+  "SpellID": "392053",
+  "name_blz": {
+    "en_US": "Piercing Fangs",
+    "es_MX": "Colmillos penetrantes",
+    "pt_BR": "Presas Perfurantes",
+    "de_DE": "Durchbohrende F\u00e4nge",
+    "en_GB": "Piercing Fangs",
+    "es_ES": "Colmillos penetrantes",
+    "fr_FR": "Crocs transper\u00e7ants",
+    "it_IT": "Zanne Perforanti",
+    "ru_RU": "\u041e\u0441\u0442\u0440\u044b\u0435 \u043a\u043b\u044b\u043a\u0438",
+    "ko_KR": "\uaff0\ub6ab\ub294 \uc1a1\uacf3\ub2c8",
+    "zh_TW": "\u5c16\u7259\u7a7f\u523a",
+    "zh_CN": "\u523a\u9aa8\u4e4b\u7259"
+  },
+  "description_blz": {
+    "en_US": "While Bestial Wrath is active, your pet's critical damage dealt is increased by 35%.",
+    "es_MX": "Mientras C\u00f3lera de las bestias est\u00e1 activa, el da\u00f1o critico infligido de tu mascota aumenta un 35%.",
+    "pt_BR": "Enquanto Ira Bestial estiver ativa, o dano cr\u00edtico que seu ajudante causa aumenta em 35%.",
+    "de_DE": "W\u00e4hrend 'Zorn des Wildtiers' aktiv ist, wird der verursachte kritische Schaden Eures Begleiters um 35% erh\u00f6ht.",
+    "en_GB": "While Bestial Wrath is active, your pet's critical damage dealt is increased by 35%.",
+    "es_ES": "Mientras C\u00f3lera de las bestias est\u00e9 activa, el da\u00f1o cr\u00edtico que inflige tu mascota aumenta un 35%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts critiques de votre familier sont augment\u00e9s de 35% tant que Courroux bestial est actif.",
+    "it_IT": "Quando Ira Bestiale \u00e8 attiva, i danni critici inflitti dal tuo famiglio sono aumentati del 35%.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0430\u043a\u0442\u0438\u0432\u0435\u043d \"\u0417\u0432\u0435\u0440\u0438\u043d\u044b\u0439 \u0433\u043d\u0435\u0432\", \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 35%.",
+    "ko_KR": "\uc57c\uc218\uc758 \uaca9\ub178\uac00 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc57c\uc218\uc758 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud53c\ud574\uac00 35%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u72c2\u91ce\u6012\u706b\u7684\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u5bf5\u7269\u9020\u6210\u7684\u81f4\u547d\u4e00\u64ca\u50b7\u5bb3\u63d0\u9ad835%\u3002",
+    "zh_CN": "\u5f53\u72c2\u91ce\u6012\u706b\u6fc0\u6d3b\u65f6\uff0c\u4f60\u7684\u5ba0\u7269\u9020\u6210\u7684\u7206\u51fb\u4f24\u5bb3\u63d0\u9ad835%\u3002"
+  }
 }

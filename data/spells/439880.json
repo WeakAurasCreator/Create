@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "439880"
+  "SpellID": "439880",
+  "name_blz": {
+    "en_US": "Resilient Flourishing",
+    "es_MX": "Florecimiento resiliente",
+    "pt_BR": "Florescer Resiliente",
+    "de_DE": "Unverw\u00fcstliches Bl\u00fchen",
+    "en_GB": "Resilient Flourishing",
+    "es_ES": "Florecimiento resistente",
+    "fr_FR": "Floraison persistante",
+    "it_IT": "Fioritura Resiliente",
+    "ru_RU": "\u0414\u043e\u043b\u0433\u043e\u0435 \u0446\u0432\u0435\u0442\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ubd88\uad74\uc758 \ubc88\uc131",
+    "zh_TW": "\u5f37\u97cc\u7e41\u76db",
+    "zh_CN": "\u575a\u6bc5\u5174\u8363"
+  },
+  "description_blz": {
+    "en_US": "Bloodseeker Vines and Symbiotic Blooms last 2 additional sec.\r\n\r\nWhen a target afflicted by Bloodseeker Vines dies, the vines jump to a valid nearby target for their remaining duration.",
+    "es_MX": "Las Vides buscasangre y las Floraciones simbi\u00f3ticas duran 2 s m\u00e1s.\r\n\r\nCuando muere un objetivo afectado por Vides buscasangre, las vides saltan a un objetivo v\u00e1lido cercano durante el resto de su duraci\u00f3n.",
+    "pt_BR": "Vinhas Sanguin\u00e1rias e Floresceres Simbi\u00f3ticos duram mais 2 s.\r\n\r\nQuando um alvo afetado por Vinhas Sanguin\u00e1rias morre, elas saltam para um alvo v\u00e1lido pr\u00f3ximo pelo restante da dura\u00e7\u00e3o.",
+    "de_DE": "'Blutsucherranken' und 'Symbiotische Bl\u00fcten' halten 2 zus\u00e4tzliche Sek. an.\r\n\r\nWenn ein durch 'Blutsucherranken' beeintr\u00e4chtigtes Ziel stirbt, springen die Ranken f\u00fcr die verbleibende Dauer auf ein verf\u00fcgbares Ziel in der N\u00e4he \u00fcber.",
+    "en_GB": "Bloodseeker Vines and Symbiotic Blooms last 2 additional sec.\r\n\r\nWhen a target afflicted by Bloodseeker Vines dies, the vines jump to a valid nearby target for their remaining duration.",
+    "es_ES": "Las vides buscasangre y los florecimientos simbi\u00f3ticos duran 2 s m\u00e1s.\r\n\r\nCuando muere un objetivo afectado por Vides buscasangre, las vides saltan hacia un objetivo cercano v\u00e1lido durante su tiempo restante.",
+    "fr_FR": "Lianes sanguinaires et Floraison symbiotique durent 2\u00a0s de plus.\r\n\r\nLorsqu\u2019une cible affect\u00e9e par Lianes sanguinaires meurt, les lianes se d\u00e9placent vers une cible proche valide pendant le temps restant.",
+    "it_IT": "Aumenta la durata di Viticci Succhiasangue e Boccioli Simbiotici di 2 s.\r\n\r\nQuando un bersaglio affetto da Viticci Succhiasangue muore, i viticci saltano su un bersaglio vicino valido per la durata restante.",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u043e\u0441\u043e\u0441\u0443\u0449\u0438\u0435 \u043b\u0438\u0430\u043d\u044b \u0438 \u0446\u0432\u0435\u0442\u044b-\u0441\u0438\u043c\u0431\u0438\u043e\u043d\u0442\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0435\u0449\u0435 2 \u0441\u0435\u043a.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \u0446\u0435\u043b\u044c \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u043a\u0440\u043e\u0432\u043e\u0441\u043e\u0441\u0443\u0449\u0435\u0439 \u043b\u0438\u0430\u043d\u044b \u043f\u043e\u0433\u0438\u0431\u0430\u0435\u0442, \u043b\u0438\u0430\u043d\u044b \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442 \u0434\u0440\u0443\u0433\u0443\u044e \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0443\u044e \u0446\u0435\u043b\u044c \u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u044f\u0442 \u043d\u0430 \u043d\u0435\u0435 \u043d\u0430 \u043e\u0441\u0442\u0430\u0432\u0448\u0435\u0435\u0441\u044f \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.",
+    "ko_KR": "\ud53c\ubc14\ub77c\ubbf8 \ub369\uad74\uacfc \uacf5\uc0dd\uccb4 \uaf43\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 \ucd94\uac00\ub85c 2\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ud53c\ubc14\ub77c\ubbf8 \ub369\uad74\uc5d0 \uc601\ud5a5\uc744 \ubc1b\ub294 \ub300\uc0c1\uc774 \uc0ac\ub9dd\ud558\uba74 \ub369\uad74\uc774 \ub0a8\uc740 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \uc8fc\uc704\uc758 \uc720\ud6a8\ud55c \ub300\uc0c1\uc5d0\uac8c\ub85c \uc804\uc774\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u8993\u8840\u85e4\u8513\u548c\u5171\u751f\u4e4b\u82b1\u7684\u6301\u7e8c\u6642\u9593\u984d\u5916\u5ef6\u95772\u79d2\u3002\r\n\r\n\u7576\u4e00\u540d\u53d7\u8993\u8840\u85e4\u8513\u5f71\u97ff\u7684\u76ee\u6a19\u6b7b\u4ea1\u5f8c\uff0c\u85e4\u8513\u6703\u5f48\u8df3\u81f3\u9644\u8fd1\u4e00\u540d\u6709\u6548\u7684\u76ee\u6a19\u8eab\u4e0a\uff0c\u4e26\u6309\u5269\u9918\u6642\u9593\u6301\u7e8c\u3002",
+    "zh_CN": "\u89c5\u8840\u7f20\u85e4\u548c\u5171\u751f\u7efd\u534e\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f2\u79d2\u3002\r\n\r\n\u53d7\u5230\u89c5\u8840\u7f20\u85e4\u5f71\u54cd\u7684\u76ee\u6807\u6b7b\u4ea1\u65f6\uff0c\u7f20\u85e4\u4f1a\u8df3\u5411\u9644\u8fd1\u7684\u4e00\u4e2a\u6709\u6548\u76ee\u6807\uff0c\u6301\u7eed\u65f6\u95f4\u4e3a\u5269\u4f59\u65f6\u95f4\u3002"
+  }
 }

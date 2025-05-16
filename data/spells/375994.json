@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375994"
+  "SpellID": "375994",
+  "name_blz": {
+    "en_US": "Mental Decay",
+    "es_MX": "Descomposici\u00f3n mental",
+    "pt_BR": "Decomposi\u00e7\u00e3o Mental",
+    "de_DE": "Geistiger Verfall",
+    "en_GB": "Mental Decay",
+    "es_ES": "Descomposici\u00f3n mental",
+    "fr_FR": "D\u00e9t\u00e9rioration mentale",
+    "it_IT": "Decomposizione Mentale",
+    "ru_RU": "\u0420\u0430\u0441\u043f\u0430\u0434 \u043f\u0441\u0438\u0445\u0438\u043a\u0438",
+    "ko_KR": "\uc815\uc2e0\uc758 \ubd80\uc2dd",
+    "zh_TW": "\u7cbe\u795e\u51cb\u96f6",
+    "zh_CN": "\u7cbe\u795e\u8150\u70c2"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage of Mind Flay and Mind Spike by 10%.\r\n\r\nThe duration of your Shadow Word: Pain and Vampiric Touch is increased by 1 sec when enemies suffer damage from Mind Flay and 2 sec when enemies suffer damage from Mind Spike.",
+    "es_MX": "Aumenta un 10% el da\u00f1o de Tortura mental y P\u00faa mental.\r\n\r\nLa duraci\u00f3n de tu Palabra de las sombras: dolor y Toque vamp\u00edrico aumenta 1 s cuando los enemigos reciben da\u00f1o de Tortura mental, y 2 s cuando los enemigos reciben da\u00f1o de P\u00faa mental.",
+    "pt_BR": "Aumenta em 10% o dano de A\u00e7oite Mental e Aguilh\u00e3o Mental.\r\n\r\nA dura\u00e7\u00e3o da sua Palavra Sombria: Dor e Toque Vamp\u00edrico aumenta em 1 s quando os inimigos recebem dano de A\u00e7oite Mental e aumenta em 2 s quando os inimigos recebem dano do Aguilh\u00e3o Mental.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Gedankenschinden' und 'Gedankenstachel' um 10%.\r\n\r\nErh\u00f6ht die Dauer Eurer Zauber 'Schattenwort: Schmerz' und 'Vampirber\u00fchrung' um 1 Sek., wenn Gegner Schaden durch 'Gedankenschinden' erleiden. Erh\u00f6ht die Dauer um 2 Sek., wenn Gegner Schaden durch 'Gedankenstachel' erleiden.",
+    "en_GB": "Increases the damage of Mind Flay and Mind Spike by 10%.\r\n\r\nThe duration of your Shadow Word: Pain and Vampiric Touch is increased by 1 sec when enemies suffer damage from Mind Flay and 2 sec when enemies suffer damage from Mind Spike.",
+    "es_ES": "Aumenta un 10% el da\u00f1o de Tortura mental y P\u00faa mental.\r\n\r\nLa duraci\u00f3n de Palabra de las Sombras: dolor y Toque vamp\u00edrico aumenta 1 s cuando los enemigos reciben da\u00f1o de Tortura mental y 2 s cuando reciben da\u00f1o de P\u00faa mental.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de Fouet mental et Pointe mentale de 10%.\r\n\r\nLa dur\u00e9e de Mot de l\u2019ombre\u00a0: Douleur et de Toucher vampirique est augment\u00e9e de 1\u00a0s sur les adversaires subissant des d\u00e9g\u00e2ts de Fouet mental et de 2\u00a0s sur ceux qui subissent des d\u00e9g\u00e2ts de Pointe mentale.",
+    "it_IT": "Aumenta i danni inflitti da Flagello Mentale e Aculeo Mentale del 10%.\r\n\r\nLa durata di Parola d'Ombra: Dolore e Tocco Vampirico aumenta di 1 s quando i nemici subiscono danni da Flagello Mentale e di 2 s quando i nemici subiscono danni da Aculeo Mentale.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \"\u041f\u044b\u0442\u043a\u0438 \u0440\u0430\u0437\u0443\u043c\u0430\" \u0438 \"\u041f\u0440\u043e\u043d\u0437\u0430\u043d\u0438\u044f \u0440\u0430\u0437\u0443\u043c\u0430\" \u043d\u0430 10%.\r\n\r\n\"\u041f\u044b\u0442\u043a\u0430 \u0440\u0430\u0437\u0443\u043c\u0430\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u044f \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u0438 \"\u0421\u043b\u043e\u0432\u0430 \u0422\u044c\u043c\u044b: \u0411\u043e\u043b\u044c\" \u043d\u0430 1 \u0441\u0435\u043a., \u0430 \"\u041f\u0440\u043e\u043d\u0437\u0430\u043d\u0438\u0435 \u0440\u0430\u0437\u0443\u043c\u0430\" \u2013 \u043d\u0430 2 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\uc2e0\uc758 \ucc44\ucc0d\uacfc \uc815\uc2e0\uc758 \uc410\uae30\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc815\uc2e0\uc758 \ucc44\ucc0d\uc73c\ub85c \uc801\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 \uc5b4\ub460\uc758 \uad8c\ub2a5: \uace0\ud1b5\uacfc \ud761\ud608\uc758 \uc190\uae38\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 1\ucd08\ub9cc\ud07c, \uc815\uc2e0\uc758 \uc410\uae30\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 2\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7cbe\u795e\u97ad\u7b1e\u548c\u5fc3\u9748\u947d\u523a\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u6575\u4eba\u53d7\u5230\u7cbe\u795e\u97ad\u7b1e\u50b7\u5bb3\u6642\uff0c\u4f60\u7684\u6697\u8a00\u8853\uff1a\u75db\u548c\u5438\u8840\u4e4b\u89f8\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95771\u79d2\uff0c\u53d7\u5230\u5fc3\u9748\u947d\u523a\u50b7\u5bb3\u6642\uff0c\u5247\u5ef6\u95772\u79d2\u3002",
+    "zh_CN": "\u7cbe\u795e\u97ad\u7b1e\u548c\u5fc3\u7075\u5c16\u523a\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u5f53\u654c\u4eba\u53d7\u5230\u7cbe\u795e\u97ad\u7b1e\u6216\u5fc3\u7075\u5c16\u523a\u7684\u4f24\u5bb3\u65f6\uff0c\u4f60\u7684\u6697\u8a00\u672f\uff1a\u75db\u548c\u5438\u8840\u9b3c\u4e4b\u89e6\u7684\u6301\u7eed\u65f6\u95f4\u5206\u522b\u5ef6\u957f1\u79d2\u548c2\u79d2\u3002"
+  }
 }

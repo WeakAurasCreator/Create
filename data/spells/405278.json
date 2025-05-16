@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405278"
+  "SpellID": "405278",
+  "name_blz": {
+    "en_US": "Boundless Judgment",
+    "es_MX": "Sentencia sin restricciones",
+    "pt_BR": "Julgamento Irrestrito",
+    "de_DE": "Allumfassendes Urteil",
+    "en_GB": "Boundless Judgment",
+    "es_ES": "Sentencia sin l\u00edmites",
+    "fr_FR": "Jugement infini",
+    "it_IT": "Giudizio Sconfinato",
+    "ru_RU": "\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435 \u0431\u0435\u0437 \u0433\u0440\u0430\u043d\u0438\u0446",
+    "ko_KR": "\ubb34\uad81\ud55c \uc2ec\ud310",
+    "zh_TW": "\u7121\u908a\u5be9\u5224",
+    "zh_CN": "\u65e0\u5c3d\u5ba1\u5224"
+  },
+  "description_blz": {
+    "en_US": "Judgment generates 1 additional Holy Power and has a 50% increased chance to trigger Mastery: Highlord's Judgment.",
+    "es_MX": "Sentencia genera 1 p. m\u00e1s de poder sagrado y tiene un 50% m\u00e1s de probabilidad de activar Maestr\u00eda: Sentencia del Alto se\u00f1or.",
+    "pt_BR": "Julgamento gera 1 a mais de Poder Sagrado e tem 50% a mais de chance de acionar Maestria: Julgamento do Gr\u00e3o-Lorde.",
+    "de_DE": "'Richturteil' erzeugt zus\u00e4tzlich 1 Heilige Kraft und hat eine 50% h\u00f6here Chance, 'Meisterschaft: Urteil des Hochlords' auszul\u00f6sen.",
+    "en_GB": "Judgment generates 1 additional Holy Power and has a 50% increased chance to trigger Mastery: Highlord's Judgment.",
+    "es_ES": "Sentencia genera 1 p. de poder sagrado m\u00e1s y tiene un 50% m\u00e1s de probabilidades de activar Maestr\u00eda: Sentencia del Alto Se\u00f1or.",
+    "fr_FR": "Jugement g\u00e9n\u00e8re 1\u00a0point de puissance sacr\u00e9e suppl\u00e9mentaire et a 50\u00a0% de chances suppl\u00e9mentaires de d\u00e9clencher Ma\u00eetrise\u00a0: Jugement du g\u00e9n\u00e9ralissime.",
+    "it_IT": "Aumenta le cariche di potere sacro fornite da Giudizio di 1 e la probabilit\u00e0 che Giudizio attivi Maestria: Giudizio del Gran Signore del 50%.",
+    "ru_RU": "\"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435\" \u0434\u0430\u0435\u0442 \u0435\u0449\u0435 1 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430, \u0430 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u044f \"\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u0438: \u0432\u0435\u0440\u0434\u0438\u043a\u0442 \u0432\u0435\u0440\u0445\u043e\u0432\u043d\u043e\u0433\u043e \u043b\u043e\u0440\u0434\u0430\" \u043e\u0442 \"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u044f\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50%.",
+    "ko_KR": "\uc2ec\ud310\uc774 \uc2e0\uc131\ud55c \ud798 1\uac1c\ub97c \ucd94\uac00\ub85c \uc0dd\uc131\ud558\uace0 \ud2b9\ud654: \ub300\uc601\uc8fc\uc758 \uc2ec\ud310\uc744 \ubc1c\ub3d9\uc2dc\ud0ac \ud655\ub960\uc774 50%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5be9\u5224\u6703\u984d\u5916\u7522\u751f1\u9053\u8056\u80fd\uff0c\u4e14\u89f8\u767c\u7cbe\u901a\uff1a\u5927\u9818\u4e3b\u7684\u5be9\u5224\u7684\u6a5f\u7387\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u5ba1\u5224\u989d\u5916\u751f\u62101\u5c42\u795e\u5723\u80fd\u91cf\uff0c\u89e6\u53d1\u7cbe\u901a\uff1a\u5927\u9886\u4e3b\u7684\u5ba1\u5224\u7684\u51e0\u7387\u63d0\u9ad850%\u3002"
+  }
 }

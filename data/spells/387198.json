@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387198"
+  "SpellID": "387198",
+  "name_blz": {
+    "en_US": "Grandiose Boon",
+    "es_MX": "Bendici\u00f3n grandiosa",
+    "pt_BR": "B\u00ean\u00e7\u00e3o Grandiosa",
+    "de_DE": "Grandioser Segen",
+    "en_GB": "Grandiose Boon",
+    "es_ES": "Favor grandioso",
+    "fr_FR": "Faveur grandiose",
+    "it_IT": "Dono Grandioso",
+    "ru_RU": "\u0413\u0440\u0430\u043d\u0434\u0438\u043e\u0437\u043d\u044b\u0439 \u0434\u0430\u0440",
+    "ko_KR": "\uac70\ucc3d\ud55c \uc740\ud61c",
+    "zh_TW": "\u5b8f\u5049\u6069\u8cdc",
+    "zh_CN": "\u6d69\u8361\u6069\u6cfd"
+  },
+  "description_blz": {
+    "en_US": "Boon of the Covenants passively increases your damage and healing by an additional 1.0%.",
+    "es_MX": "Bendici\u00f3n de los pactos aumenta el da\u00f1o y la sanaci\u00f3n que realizas un 1.0% m\u00e1s de forma pasiva.",
+    "pt_BR": "D\u00e1diva dos Pactos aumenta passivamente seu dano e cura em mais 1,0%.",
+    "de_DE": "'Segen der Pakte' erh\u00f6ht Euren Schaden und Eure Heilung passiv um zus\u00e4tzlich 1,0%.",
+    "en_GB": "Boon of the Covenants passively increases your damage and healing by an additional 1.0%.",
+    "es_ES": "Favor de las curias aumenta un 1,0% m\u00e1s tu da\u00f1o y tu sanaci\u00f3n de forma pasiva.",
+    "fr_FR": "Faveur des congr\u00e9gations augmente passivement vos d\u00e9g\u00e2ts et vos soins de 1,0% suppl\u00e9mentaires.",
+    "it_IT": "Dono delle Congreghe aumenta passivamente i danni inflitti e le cure fornite del 1,0% aggiuntivo.",
+    "ru_RU": "\"\u0414\u0430\u0440 \u043a\u043e\u0432\u0435\u043d\u0430\u043d\u0442\u043e\u0432\" \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u043e \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0448 \u0443\u0440\u043e\u043d \u0438 \u0441\u0438\u043b\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0435\u0449\u0435 \u043d\u0430 1,0%.",
+    "ko_KR": "\uc131\uc57d\uc758 \ub2e8\uc758 \uc740\ud61c\uc758 \uc9c0\uc18d\ud6a8\uacfc\uac00 \uacf5\uaca9\ub825\uacfc \uce58\uc720\ub7c9\uc744 \ucd94\uac00\ub85c 1.0%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8a93\u76df\u7684\u6069\u6fa4\u63d0\u4f9b\u88ab\u52d5\u6548\u679c\uff0c\u4f7f\u4f60\u7684\u50b7\u5bb3\u548c\u6cbb\u7642\u6548\u679c\u984d\u5916\u63d0\u9ad81.0%\u3002",
+    "zh_CN": "\u76df\u7ea6\u6069\u6cfd\u7684\u88ab\u52a8\u6548\u679c\u4f7f\u4f60\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u6548\u679c\u989d\u5916\u63d0\u9ad81.0%\u3002"
+  }
 }

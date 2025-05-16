@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393672"
+  "SpellID": "393672",
+  "name_blz": {
+    "en_US": "Paladin Holy Class Set 4pc",
+    "es_MX": "Paladin Holy Class Set 4pc",
+    "pt_BR": "Paladino, Sagrado, Conjunto de Classe, 4 p\u00e7",
+    "de_DE": "Paladinklassenset, Heilig, 4 Teile",
+    "en_GB": "Paladin Holy Class Set 4pc",
+    "es_ES": "Conjunto de clase de palad\u00edn Sagrado (4 piezas)",
+    "fr_FR": "Ensemble de classe de paladin Sacr\u00e9 (4\u00a0pi\u00e8ces)",
+    "it_IT": "Paladino Sacro, Set di Classe, 4 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043f\u0430\u043b\u0430\u0434\u0438\u043d\u0430 \u2013 \u0421\u0432\u0435\u0442, 4 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uc2e0\uc131 \uc131\uae30\uc0ac \uc9c1\uc5c5 \uc138\ud2b8 4\uc138\ud2b8",
+    "zh_TW": "\u8056\u9a0e\u58eb\u795e\u8056\u8077\u696d\u5957\u88dd4\u4ef6",
+    "zh_CN": "\u5723\u9a91\u58eb\u795e\u5723\u804c\u4e1a\u5957\u88c5\u56db\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Holy Light, Flash of Light, Light of Dawn, Word of Glory, and Bestow Faith healing is increased by 6% and their critical effects increase the damage or healing of your next Holy Shock by 20%.",
+    "es_MX": "La sanaci\u00f3n de Luz sagrada, Destello de luz, Luz del alba, Palabra de gloria y Ofrecimiento de fe aumenta un 6%, y sus efectos cr\u00edticos aumentan un 20% el da\u00f1o o sanaci\u00f3n de tu siguiente Choque sagrado.",
+    "pt_BR": "A cura do seu pr\u00f3ximo uso de Luz Sagrada, Clar\u00e3o de Luz, Luz da Aurora, Palavra de Gl\u00f3ria e Conceder F\u00e9 aumenta em 6%, e seus efeitos cr\u00edticos aumentam em 20% o dano ou a cura do seu pr\u00f3ximo uso de Choque Sagrado.",
+    "de_DE": "Die durch 'Heiliges Licht', 'Lichtblitz', 'Licht der Morgend\u00e4mmerung', 'Wort der Herrlichkeit' und 'Zuversicht verleihen' hervorgerufene Heilung ist um 6% erh\u00f6ht. Au\u00dferdem erh\u00f6hen die jeweiligen kritischen Effekte den verursachten Schaden oder die hervorgerufene Heilung Eures n\u00e4chsten Einsatzes von 'Heiliger Schock' um 20%.",
+    "en_GB": "Holy Light, Flash of Light, Light of Dawn, Word of Glory, and Bestow Faith healing is increased by 6% and their critical effects increase the damage or healing of your next Holy Shock by 20%.",
+    "es_ES": "La sanaci\u00f3n de Luz Sagrada, Destello de Luz, Luz del alba, Palabra de gloria y Otorgar fe aumenta un 6% y sus efectos cr\u00edticos incrementan un 20% el da\u00f1o o la sanaci\u00f3n de tu siguiente Choque Sagrado.",
+    "fr_FR": "Les soins de Lumi\u00e8re sacr\u00e9e, \u00c9clair lumineux, Lumi\u00e8re de l\u2019aube, Mot de gloire et Don de foi sont augment\u00e9s de 6% et leurs effets critiques augmentent les d\u00e9g\u00e2ts ou les soins de votre prochain Horion sacr\u00e9 de 20%.",
+    "it_IT": "Aumenta le cure fornite dal successivo lancio di Luce Sacra, Lampo di Luce, Luce dell'Alba, Parola di Gloria e Dono di Fede del 6% e i loro effetti critici aumentano i danni inflitti o le cure fornite dalla successiva Folgore Sacra del 20%.",
+    "ru_RU": "\"\u0421\u0432\u0435\u0442 \u043d\u0435\u0431\u0435\u0441\", \"\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0421\u0432\u0435\u0442\u0430\", \"\u0421\u0432\u0435\u0442 \u0437\u0430\u0440\u0438\", \"\u0422\u043e\u0440\u0436\u0435\u0441\u0442\u0432\u043e\" \u0438 \"\u0414\u0430\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432\u0435\u0440\u044b\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u043d\u0430 6% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0418\u0445 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u0443\u0440\u043e\u043d \u0438\u043b\u0438 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\" \u043d\u0430 20%.",
+    "ko_KR": "\uc131\uc2a4\ub7ec\uc6b4 \ube5b, \ube5b\uc758 \uc12c\uad11, \uc5ec\uba85\uc758 \ube5b, \uc601\uad11\uc758 \uc11c\uc57d, \uc2e0\ub150 \uc218\uc5ec\uc758 \uce58\uc720\ub7c9\uc774 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud558\uba74 \ub2e4\uc74c \uc2e0\uc131 \ucda9\uaca9\uc758 \uacf5\uaca9\ub825 \ub610\ub294 \uce58\uc720\ub7c9\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u5149\u8853\u3001\u8056\u5149\u9583\u73fe\u3001\u9ece\u660e\u66d9\u5149\u3001\u69ae\u8000\u8056\u8a00\u548c\u8ce6\u4e88\u4fe1\u5ff5\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad86%\uff0c\u9020\u6210\u6975\u6548\u6cbb\u7642\u6642\uff0c\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u795e\u8056\u9707\u64ca\u7684\u50b7\u5bb3\u6216\u6cbb\u7642\u91cf\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u5723\u5149\u672f\u3001\u5723\u5149\u95ea\u73b0\u3001\u9ece\u660e\u4e4b\u5149\u3001\u8363\u8000\u5723\u4ee4\u548c\u8d4b\u4e88\u4fe1\u4ef0\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad86%\uff0c\u800c\u4e14\u8fd9\u4e9b\u6280\u80fd\u7206\u51fb\u65f6\u4f1a\u4f7f\u4f60\u4e0b\u4e00\u4e2a\u795e\u5723\u9707\u51fb\u7684\u4f24\u5bb3\u6216\u6cbb\u7597\u91cf\u63d0\u9ad820%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "363738"
+  "SpellID": "363738",
+  "name_blz": {
+    "en_US": "Frenzied Destruction",
+    "es_MX": "Destrucci\u00f3n fren\u00e9tica",
+    "pt_BR": "Destrui\u00e7\u00e3o Enfurecida",
+    "de_DE": "Rasende Zerst\u00f6rung",
+    "en_GB": "Frenzied Destruction",
+    "es_ES": "Destrucci\u00f3n enloquecida",
+    "fr_FR": "Destruction fr\u00e9n\u00e9tique",
+    "it_IT": "Distruzione Frenetica",
+    "ru_RU": "\u0411\u0435\u0448\u0435\u043d\u043e\u0435 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uad11\ud3ec\ud55c \ud30c\uad34",
+    "zh_TW": "\u72c2\u66b4\u6bc0\u6ec5",
+    "zh_CN": "\u72c2\u4e71\u6bc1\u706d"
+  },
+  "description_blz": {
+    "en_US": "Raging Blow has a 20% chance to grant Recklessness for 3 sec.",
+    "es_MX": "Arremetida enfurecida tiene un 20% de probabilidad de otorgar Temeridad durante 3 s.",
+    "pt_BR": "Golpe Furioso tem 20% de chance de conceder Temeridade por 3 s.",
+    "de_DE": "'W\u00fctender Schlag' hat eine Chance von 20%, Euch f\u00fcr 3 Sek. 'Tollk\u00fchnheit' zu gew\u00e4hren.",
+    "en_GB": "Raging Blow has a 20% chance to grant Recklessness for 3 sec.",
+    "es_ES": "Arremetida enfurecida tiene un 20% de probabilidad de otorgar Temeridad durante 3 s.",
+    "fr_FR": "Coup d\u00e9cha\u00een\u00e9 a 20% de chances de conf\u00e9rer T\u00e9m\u00e9rit\u00e9 pendant 3\u00a0s.",
+    "it_IT": "Colpo Furente ha una probabilit\u00e0 del 20% di fornire Avventatezza per 3 s.",
+    "ru_RU": "\"\u042f\u0440\u043e\u0441\u0442\u043d\u044b\u0439 \u0432\u044b\u043f\u0430\u0434\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 20% \u043d\u0430 3 \u0441\u0435\u043a. \u0434\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0411\u0435\u0437\u0440\u0430\u0441\u0441\u0443\u0434\u0441\u0442\u0432\u043e\".",
+    "ko_KR": "\ubd84\ub178\uc758 \uac15\ud0c0\uac00 20%\uc758 \ud655\ub960\ub85c 3\ucd08 \ub3d9\uc548 \ubb34\ubaa8\ud55c \ud76c\uc0dd\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u72c2\u6012\u4e4b\u64ca\u670920%\u6a5f\u7387\u8ce6\u4e88\u9b6f\u83bd\uff0c\u6301\u7e8c3\u79d2\u3002",
+    "zh_CN": "\u6012\u51fb\u670920%\u7684\u51e0\u7387\u83b7\u5f97\u9c81\u83bd\u6548\u679c\uff0c\u6301\u7eed3\u79d2\u3002"
+  }
 }

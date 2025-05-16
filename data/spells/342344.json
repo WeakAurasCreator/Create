@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "342344"
+  "SpellID": "342344",
+  "name_blz": {
+    "en_US": "From the Ashes",
+    "es_MX": "Desde las cenizas",
+    "pt_BR": "Das Cinzas",
+    "de_DE": "Aus der Asche",
+    "en_GB": "From the Ashes",
+    "es_ES": "Desde las cenizas",
+    "fr_FR": "N\u00e9 des cendres",
+    "it_IT": "Dalle Ceneri",
+    "ru_RU": "\u0418\u0437 \u043f\u0435\u043f\u043b\u0430",
+    "ko_KR": "\uc7bf\ubd88\uc758 \uc0dd\uba85",
+    "zh_TW": "\u7070\u71fc\u4e4b\u6e90",
+    "zh_CN": "\u6d85\u69c3\u91cd\u751f"
+  },
+  "description_blz": {
+    "en_US": "Phoenix Flames damage increased by 15% and your direct-damage spells reduce the cooldown of Phoenix Flames by 1 sec.",
+    "es_MX": "El da\u00f1o de Llamas del f\u00e9nix aumenta un 15% y tus hechizos de da\u00f1o directo reducen el tiempo de reutilizaci\u00f3n de Llamas del f\u00e9nix 1 s.",
+    "pt_BR": "Aumenta em 15% o dano de Chamas da F\u00eanix, e os seus feiti\u00e7os de dano direto reduzem a recarga de Chamas da F\u00eanix em 1 s.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Ph\u00f6nixflammen' um 15% und Eure Direktschadenszauber verringern die Abklingzeit von 'Ph\u00f6nixflammen' um 1 Sek.",
+    "en_GB": "Phoenix Flames damage increased by 15% and your direct-damage spells reduce the cooldown of Phoenix Flames by 1 sec.",
+    "es_ES": "Da\u00f1o de Llamas de f\u00e9nix aumentado un 15%. Adem\u00e1s, tus hechizos de da\u00f1o directo reducen 1 s el tiempo de reutilizaci\u00f3n de Llamas de f\u00e9nix.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Flammes de ph\u00e9nix sont augment\u00e9s de 15\u00a0% et vos sorts de d\u00e9g\u00e2ts directs r\u00e9duisent son temps de recharge de 1\u00a0s.",
+    "it_IT": "Aumenta i danni inflitti da Fiamme della Fenice del 15%. Gli incantesimi a bersaglio singolo riducono il tempo di recupero di Fiamme della Fenice di 1 s.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u041f\u043b\u0430\u043c\u0435\u043d\u0438 \u0444\u0435\u043d\u0438\u043a\u0441\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15%. \u0412\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u043b\u0430\u043c\u0435\u043d\u0438 \u0444\u0435\u043d\u0438\u043a\u0441\u0430\" \u043d\u0430 1 \u0441\u0435\u043a.",
+    "ko_KR": "\ubd88\uc0ac\uc870\uc758 \ubd88\uae38\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c \uc9c1\uc811 \ud53c\ud574\ub97c \uc785\ud788\ub294 \uc8fc\ubb38\uc774 \ubd88\uc0ac\uc870\uc758 \ubd88\uae38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 1\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9cf3\u51f0\u4e4b\u708e\u7684\u50b7\u5bb3\u63d0\u9ad815%\uff0c\u4f60\u7684\u76f4\u63a5\u50b7\u5bb3\u6cd5\u8853\u6703\u4f7f\u9cf3\u51f0\u4e4b\u708e\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1\u79d2\u3002",
+    "zh_CN": "\u4e0d\u6b7b\u9e1f\u4e4b\u7130\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u4f60\u7684\u76f4\u63a5\u4f24\u5bb3\u6cd5\u672f\u4f7f\u4e0d\u6b7b\u9e1f\u4e4b\u7130\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "414720"
+  "SpellID": "414720",
+  "name_blz": {
+    "en_US": "Tirion's Devotion",
+    "es_MX": "Devoci\u00f3n de Tirion",
+    "pt_BR": "Devo\u00e7\u00e3o de Tirion",
+    "de_DE": "Tirions Hingabe",
+    "en_GB": "Tirion's Devotion",
+    "es_ES": "Devoci\u00f3n de Tirion",
+    "fr_FR": "D\u00e9votion de Tirion",
+    "it_IT": "Devozione di Tirion",
+    "ru_RU": "\u041f\u0440\u0435\u0434\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u0422\u0438\u0440\u0438\u043e\u043d\u0430",
+    "ko_KR": "\ud2f0\ub9ac\uc628\uc758 \ud5cc\uc2e0",
+    "zh_TW": "\u63d0\u91cc\u5967\u7684\u8654\u8aa0",
+    "zh_CN": "\u63d0\u91cc\u5965\u7684\u8654\u8bda"
+  },
+  "description_blz": {
+    "en_US": "Lay on Hands' cooldown is reduced by 1.5 sec per Holy Power spent and restores 5% of your Mana.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Imposici\u00f3n de manos se reduce 1,500/1000 s por cada punto de poder sagrado utilizado y restaura un 5% de tu man\u00e1.",
+    "pt_BR": "Recarga de Impor as M\u00e3os reduzida em 1,5 s por ponto de Poder Sagrado gasto, al\u00e9m de restaurar 5% do seu mana.",
+    "de_DE": "Verringert die Abklingzeit von 'Handauflegung' pro verbrauchter Heiliger Kraft um 1,5 Sek. und stellt 5% Eures Mana wieder her.",
+    "en_GB": "Lay on Hands' cooldown is reduced by 1.5 sec per Holy Power spent and restores 5% of your Mana.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Imposici\u00f3n de manos se reduce 1,5 s por cada punto de poder sagrado gastado y restaura un 5% de tu man\u00e1.",
+    "fr_FR": "Le temps de recharge d\u2019Imposition des mains est r\u00e9duit de 1,5\u00a0s par charge de puissance sacr\u00e9e d\u00e9pens\u00e9e et elle vous rend 5% de votre mana.",
+    "it_IT": "Riduce il tempo di recupero di Mano Celestiale di 1,5 s per ogni carica di potere sacro consumata e rigenera il 5% del mana.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0412\u043e\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0440\u0443\u043a\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1,5 \u0441\u0435\u043a. \u0437\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u0443\u044e \u0435\u0434\u0438\u043d\u0438\u0446\u0443 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0421\u0432\u0435\u0442\u0430. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \"\u0412\u043e\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0440\u0443\u043a\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 5% \u0432\u0430\u0448\u0435\u0439 \u043c\u0430\u043d\u044b.",
+    "ko_KR": "\uc18c\ubaa8\ud55c \uc2e0\uc131\ud55c \ud798 \ud558\ub098\ub2f9 \uc2e0\uc758 \ucd95\ubcf5\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1.5\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0, \ub9c8\ub098\uc758 5%\ub97c \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6d88\u8017\u4e00\u9053\u8056\u80fd\uff0c\u8056\u7642\u8853\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.5\u79d2\uff0c\u4e26\u5728\u65bd\u653e\u8056\u7642\u8853\u6642\u6062\u5fa95%\u6cd5\u529b\u3002",
+    "zh_CN": "\u6bcf\u6d88\u8017\u4e00\u5c42\u795e\u5723\u80fd\u91cf\uff0c\u5723\u7597\u672f\u7684\u51b7\u5374\u65f6\u95f4\u5c31\u7f29\u77ed1.5\u79d2\uff0c\u6b64\u5916\uff0c\u5723\u7597\u672f\u4e3a\u4f60\u6062\u590d5%\u7684\u6cd5\u529b\u503c\u3002"
+  }
 }

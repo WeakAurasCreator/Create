@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "343127"
+  "SpellID": "343127",
+  "name_blz": {
+    "en_US": "Teleport",
+    "es_MX": "Teletransporte",
+    "pt_BR": "Teleporte",
+    "de_DE": "Teleport",
+    "en_GB": "Teleport",
+    "es_ES": "Teletransporte",
+    "fr_FR": "T\u00e9l\u00e9portation",
+    "it_IT": "Teletrasporto",
+    "ru_RU": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0430\u0446\u0438\u044f",
+    "ko_KR": "\uc21c\uac04\uc774\ub3d9",
+    "zh_TW": "\u50b3\u9001",
+    "zh_CN": "\u4f20\u9001"
+  },
+  "description_blz": {
+    "en_US": "Teleports you to a major city.",
+    "es_MX": "Te teletransporta a una ciudad principal.",
+    "pt_BR": "Teleporta voc\u00ea para uma cidade grande.",
+    "de_DE": "Teleportiert Euch in eine gro\u00dfe Stadt.",
+    "en_GB": "Teleports you to a major city.",
+    "es_ES": "Te teletransporta a una ciudad principal.",
+    "fr_FR": "Vous t\u00e9l\u00e9porte dans une grande ville.",
+    "it_IT": "Ti teletrasporta in una delle citt\u00e0 principali.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u0441 \u0432 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0434.",
+    "ko_KR": "\uc790\uc2e0\uc744 \ub300\ub3c4\uc2dc\ub85c \uc21c\uac04\uc774\ub3d9\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u4f60\u50b3\u9001\u81f3\u4e00\u5ea7\u4e3b\u8981\u57ce\u5e02\u3002",
+    "zh_CN": "\u5c06\u4f60\u4f20\u9001\u5230\u4e00\u5ea7\u4e3b\u57ce\u4e2d\u3002"
+  }
 }

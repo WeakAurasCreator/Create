@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "363613"
+  "SpellID": "363613",
+  "name_blz": {
+    "en_US": "Summon Lightforged Ruinstrider",
+    "es_MX": "Invocar zancarruinas templeluz",
+    "pt_BR": "Evocar Andarilho das Ru\u00ednas Forjado a Luz",
+    "de_DE": "Lichtgeschmiedeten Ruinprescher beschw\u00f6ren",
+    "en_GB": "Summon Lightforged Ruinstrider",
+    "es_ES": "Invocar vagarruinas forjado por la Luz",
+    "fr_FR": "Invocation de foule-ruines sancteforge",
+    "it_IT": "Evocazione: Calcarovina dei Forgialuce",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0430\u0440\u0433\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0441\u043a\u0438\u0442\u0430\u043b\u044c\u0446\u0430 \u043e\u0437\u0430\u0440\u0435\u043d\u043d\u044b\u0445",
+    "ko_KR": "\ube5b\ubcbc\ub9bc \ud30c\uba78\ubc1c\uad7d \uc18c\ud658",
+    "zh_TW": "\u53ec\u559a\u5149\u9444\u53e4\u5883\u5854\u5df4\u514b",
+    "zh_CN": "\u53ec\u5524\u5149\u94f8\u5e9f\u589f\u5954\u8e0f\u8005"
+  },
+  "description_blz": {
+    "en_US": "Summons a Lightforged Ruinstrider, which serves as a mount.",
+    "es_MX": "Invoca un zancarruinas templeluz que sirve como montura.",
+    "pt_BR": "Evoca um Andarilho das Ru\u00ednas Forjado a Luz de montaria.",
+    "de_DE": "Beschw\u00f6rt einen lichtgeschmiedeten Ruinprescher, der als Reittier dient.",
+    "en_GB": "Summons a Lightforged Ruinstrider, which serves as a mount.",
+    "es_ES": "Invoca a un vagarruinas forjado por la Luz que sirve de montura.",
+    "fr_FR": "Invoque un foule-ruines sancteforge, qui vous sert de monture.",
+    "it_IT": "Evoca un Calcarovina dei Forgialuce da usare come cavalcatura.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442 \u2013 \u0430\u0440\u0433\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0441\u043a\u0438\u0442\u0430\u043b\u044c\u0446\u0430 \u043e\u0437\u0430\u0440\u0435\u043d\u043d\u044b\u0445.",
+    "ko_KR": "\ube5b\ubcbc\ub9bc \ud30c\uba78\ubc1c\uad7d\uc744 \uc18c\ud658\ud558\uc5ec \ud0c8\uac83\uc73c\ub85c \uc774\uc6a9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u4e00\u96bb\u5149\u9444\u53e4\u5883\u5854\u5df4\u514b\uff0c\u505a\u70ba\u4f60\u7684\u5750\u9a0e\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u5339\u5149\u94f8\u5e9f\u589f\u5954\u8e0f\u8005\u4f5c\u4e3a\u4f60\u7684\u5750\u9a91\u3002"
+  }
 }

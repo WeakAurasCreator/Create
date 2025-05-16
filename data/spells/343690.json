@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "343690"
+  "SpellID": "343690",
+  "name_blz": {
+    "en_US": "Mastery: Shadow Weaving",
+    "es_MX": "Maestr\u00eda: Tejido de las Sombras",
+    "pt_BR": "Maestria: Tecelagem Sombria",
+    "de_DE": "Meisterschaft: Schattenweben",
+    "en_GB": "Mastery: Shadow Weaving",
+    "es_ES": "Maestr\u00eda: Tejedura de las Sombras",
+    "fr_FR": "Ma\u00eetrise\u00a0: tissage d\u2019ombre",
+    "it_IT": "Maestria: Tessitura dell'Ombra",
+    "ru_RU": "\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c: \u043f\u043e\u0434\u0447\u0438\u043d\u0435\u043d\u0438\u0435 \u0422\u044c\u043c\u044b",
+    "ko_KR": "\ud2b9\ud654: \uc5b4\ub460\uc758 \ub9e4\ub4ed",
+    "zh_TW": "\u7cbe\u901a\uff1a\u6697\u5f71\u4ea4\u7e54",
+    "zh_CN": "\u7cbe\u901a\uff1a\u6697\u5f71\u4ea4\u7ec7"
+  },
+  "description_blz": {
+    "en_US": "Your damage is increased by 9.3% for each of Shadow Word: Pain, Vampiric Touch and Devouring Plague on the target. During Voidform, all targets receive the maximum effect.",
+    "es_MX": "Tu da\u00f1o aumenta un 9.3% por cada Palabra de las sombras: dolor, Toque vamp\u00edrico y Peste devoradora sobre el objetivo. Durante Forma del vac\u00edo, todos los objetivos reciben el efecto m\u00e1ximo.",
+    "pt_BR": "Seu dano \u00e9 aumentado em 9,3% para cada Palavra Sombria: Dor, Toque Vamp\u00edrico e Peste Devoradora no alvo. Durante a Forma do Caos, todos os alvos recebem efeito m\u00e1ximo.",
+    "de_DE": "Euer Schaden wird f\u00fcr jeden Eurer Effekte 'Schattenwort: Schmerz', 'Vampirber\u00fchrung' und 'Verschlingende Seuche' auf dem Ziel um 9,3% erh\u00f6ht. W\u00e4hrend die Leerengestalt aktiv ist, gilt der maximale Effekt f\u00fcr alle Ziele.",
+    "en_GB": "Your damage is increased by 9.3% for each of Shadow Word: Pain, Vampiric Touch and Devouring Plague on the target. During Voidform, all targets receive the maximum effect.",
+    "es_ES": "Tu da\u00f1o aumenta un 9,3% por cada Palabra de las Sombras: dolor, Toque vamp\u00edrico y Peste devoradora sobre el objetivo. Durante Forma del Vac\u00edo, todos los objetivos reciben el efecto m\u00e1ximo.",
+    "fr_FR": "Vos d\u00e9g\u00e2ts sont augment\u00e9s de 9,3% pour chaque Mot de l\u2019ombre\u00a0: Douleur, Toucher vampirique et Peste d\u00e9vorante affectant la cible. Pendant Forme du Vide, toutes les cibles subissent l\u2019effet maximal.",
+    "it_IT": "Aumenta i danni inflitti del 9,3% per ogni effetto di Parola d'Ombra: Dolore, Tocco Vampirico e Piaga Divoratrice sul bersaglio. Durante Forma del Vuoto, tutti i bersagli subiscono l'effetto massimo.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 9,3% \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0421\u043b\u043e\u0432\u0430 \u0422\u044c\u043c\u044b: \u0411\u043e\u043b\u044c\", \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u044f \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u0438 \"\u0412\u0441\u0435\u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0449\u0435\u0439 \u0447\u0443\u043c\u044b\" \u043d\u0430 \u0446\u0435\u043b\u0438. \u0412 \u043e\u0431\u043b\u0438\u043a\u0435 \u0411\u0435\u0437\u0434\u043d\u044b \u044d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u0434\u043e\u0441\u0442\u0438\u0433\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c\u0430.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \uac78\ub9b0 \uc5b4\ub460\uc758 \uad8c\ub2a5: \uace0\ud1b5, \ud761\ud608\uc758 \uc190\uae38, \ud30c\uba78\uc758 \uc5ed\ubcd1 \ud558\ub098\ub2f9 \uacf5\uaca9\ub825\uc774 9.3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uacf5\ud5c8\uc758 \ud615\uc0c1\uc774 \uc9c0\uc18d\ub418\ub294 \ub3d9\uc548\uc5d0\ub294 \ubaa8\ub4e0 \ub300\uc0c1\uc774 \ucd5c\ub300 \ud6a8\uacfc\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5728\u76ee\u6a19\u8eab\u4e0a\u65bd\u653e\u7684\u6bcf\u500b\u6697\u8a00\u8853\uff1a\u75db\u3001\u5438\u8840\u4e4b\u89f8\u548c\u566c\u9748\u761f\u75ab\u6703\u4f7f\u4f60\u5c0d\u8a72\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad89.3%\uff0c\u5728\u865b\u7121\u5f62\u614b\u671f\u9593\uff0c\u5c0d\u6240\u6709\u76ee\u6a19\u90fd\u6703\u7372\u5f97\u6700\u5927\u6548\u679c\u3002",
+    "zh_CN": "\u4f60\u7684\u76ee\u6807\u8eab\u4e0a\u82e5\u5b58\u5728\u6697\u8a00\u672f\uff1a\u75db\u3001\u5438\u8840\u9b3c\u4e4b\u89e6\u6216\u566c\u7075\u75ab\u75c5\uff0c\u6bcf\u6709\u4e00\u4e2a\u6280\u80fd\u4f60\u7684\u4f24\u5bb3\u4fbf\u4f1a\u63d0\u9ad89.3%\u3002\u5728\u865a\u7a7a\u5f62\u6001\u4e0b\uff0c\u6240\u6709\u76ee\u6807\u90fd\u4f1a\u53d7\u5230\u6548\u679c\u6700\u5927\u503c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376240"
+  "SpellID": "376240",
+  "name_blz": {
+    "en_US": "Timeless Magic",
+    "es_MX": "Magia intemporal",
+    "pt_BR": "Magia Atemporal",
+    "de_DE": "Zeitlose Magie",
+    "en_GB": "Timeless Magic",
+    "es_ES": "Magia intemporal",
+    "fr_FR": "Magie intemporelle",
+    "it_IT": "Magia Senza Tempo",
+    "ru_RU": "\u0412\u043d\u0435\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u044f",
+    "ko_KR": "\uc601\uc6d0\uc758 \ub9c8\ubc95",
+    "zh_TW": "\u6c38\u6046\u9b54\u6cd5",
+    "zh_CN": "\u8d8a\u65f6\u9b54\u6cd5"
+  },
+  "description_blz": {
+    "en_US": "Reversion, Time Dilation, Echo, and Temporal Anomaly last 15% longer and cost 15% less mana.",
+    "es_MX": "Reversi\u00f3n, Dilataci\u00f3n temporal, Eco y Anomal\u00eda temporal duran un 15% m\u00e1s y cuestan un 15% menos de man\u00e1.",
+    "pt_BR": "Revers\u00e3o, Dila\u00e7\u00e3o Temporal, Eco e Anomalia Temporal duram 15% mais e custam 15% menos mana.",
+    "de_DE": "'Umkehrung', 'Zeitverschiebung', 'Echo' und 'Zeitanomalie' halten 15% l\u00e4nger an und kosten 15% weniger Mana.",
+    "en_GB": "Reversion, Time Dilation, Echo, and Temporal Anomaly last 15% longer and cost 15% less mana.",
+    "es_ES": "Reversi\u00f3n, Dilataci\u00f3n temporal, Eco y Anomal\u00eda temporal duran un 15% m\u00e1s y cuestan un 15% menos de man\u00e1.",
+    "fr_FR": "R\u00e9version, Dilatation temporelle, \u00c9cho et Anomalie temporelle durent 15\u00a0% plus longtemps et leur co\u00fbt en mana est r\u00e9duit de 15\u00a0%.",
+    "it_IT": "Aumenta la durata di Regressione, Dilatazione Temporale, Eco e Anomalia Temporale del 15% e ne riduce il costo del 15%.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0418\u043d\u0432\u0435\u0440\u0441\u0438\u0438\", \"\u0420\u0430\u0441\u0442\u044f\u0436\u0435\u043d\u0438\u044f \u0432\u0440\u0435\u043c\u0435\u043d\u0438\" \u0438 \"\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u0430\u043d\u043e\u043c\u0430\u043b\u0438\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15%, \u0430 \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u043c\u0430\u043d\u044b \u043d\u0430 \u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0442\u0441\u044f \u043d\u0430 15%.",
+    "ko_KR": "\ub418\uac10\uae30, \uc2dc\uac04 \ud33d\ucc3d, \uba54\uc544\ub9ac, \uc2dc\uac04 \ubcc0\uce59\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \ub9c8\ub098 \uc18c\ubaa8\ub7c9\uc740 15%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9006\u8f49\u3001\u6642\u9593\u64f4\u5f35\u3001\u56de\u97f3\u548c\u6642\u7a7a\u7570\u8c61\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u957715%\uff0c\u6d88\u8017\u7684\u6cd5\u529b\u964d\u4f4e15%\u3002",
+    "zh_CN": "\u9006\u8f6c\u3001\u65f6\u95f4\u81a8\u80c0\u3001\u56de\u54cd\u548c\u65f6\u7a7a\u7578\u4f53\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f15%\uff0c\u6d88\u8017\u7684\u6cd5\u529b\u503c\u964d\u4f4e15%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "343743"
+  "SpellID": "343743",
+  "name_blz": {
+    "en_US": "Improved Purifying Brew",
+    "es_MX": "Brebaje purificador mejorado",
+    "pt_BR": "Cerveja Purificante Aprimorada",
+    "de_DE": "Verbessertes reinigendes Gebr\u00e4u",
+    "en_GB": "Improved Purifying Brew",
+    "es_ES": "Brebaje purificador mejorado",
+    "fr_FR": "Infusion purificatrice am\u00e9lior\u00e9e",
+    "it_IT": "Birra Purificatrice Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u043e\u0447\u0438\u0449\u0430\u044e\u0449\u0438\u0439 \u043e\u0442\u0432\u0430\u0440",
+    "ko_KR": "\uc815\ud654\uc8fc \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u6e05\u5fc3\u7d55\u91c0",
+    "zh_CN": "\u5f3a\u5316\u6d3b\u8840\u9152"
+  },
+  "description_blz": {
+    "en_US": "Purifying Brew now has 2 charges.",
+    "es_MX": "Brebaje purificador ahora tiene 2 cargas.",
+    "pt_BR": "Cerveja Purificante passa a ter 2 cargas.",
+    "de_DE": "'Reinigendes Gebr\u00e4u' hat 2 Aufladungen.",
+    "en_GB": "Purifying Brew now has 2 charges.",
+    "es_ES": "Brebaje purificador ahora tiene 2 cargas.",
+    "fr_FR": "Infusion purificatrice a d\u00e9sormais 2\u00a0charges.",
+    "it_IT": "Birra Purificatrice ha 2 cariche.",
+    "ru_RU": "\"\u041e\u0447\u0438\u0449\u0430\u044e\u0449\u0438\u0439 \u043e\u0442\u0432\u0430\u0440\" \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0432\u0442\u043e\u0440\u043e\u0439 \u0437\u0430\u0440\u044f\u0434.",
+    "ko_KR": "\uc815\ud654\uc8fc\uac00 2\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6e05\u5fc3\u7d55\u91c0\u73fe\u5728\u53ef\u4f7f\u75282\u6b21\u3002",
+    "zh_CN": "\u6d3b\u8840\u9152\u73b0\u5728\u53ef\u4ee5\u4f7f\u75282\u6b21\u3002"
+  }
 }

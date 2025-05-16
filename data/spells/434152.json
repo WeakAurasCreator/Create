@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "434152"
+  "SpellID": "434152",
+  "name_blz": {
+    "en_US": "Gift of the San'layn",
+    "es_MX": "Don de los San'layn",
+    "pt_BR": "D\u00e1diva dos San'layn",
+    "de_DE": "Gabe der San'layn",
+    "en_GB": "Gift of the San'layn",
+    "es_ES": "Don de los San'layn",
+    "fr_FR": "Don des San\u2019layn",
+    "it_IT": "Dono dei San'layn",
+    "ru_RU": "\u0414\u0430\u0440 \u0441\u0430\u043d'\u043b\u0435\u0439\u043d",
+    "ko_KR": "\uc0b0\ub808\uc778\uc758 \uc120\ubb3c",
+    "zh_TW": "\u715e\u5a6a\u8d08\u79ae",
+    "zh_CN": "\u8428\u83b1\u56e0\u4e4b\u8d50"
+  },
+  "description_blz": {
+    "en_US": "While Dark Transformation is active you gain Gift of the San'layn.\r\n\r\nGift of the San'layn increases the effectiveness of your Essence of the Blood Queen by 200%, and Vampiric Strike replaces your Scourge Strike for the duration.\r\n",
+    "es_MX": "Cuando Transformaci\u00f3n oscura est\u00e1 activa, obtienes Don de los San'layn.\r\n\r\nDon de los San'layn aumenta un 200% la efectividad de tu Esencia de la Reina de Sangre, y Golpe vamp\u00edrico reemplaza a tu Golpe de la plaga mientras dure la habilidad.\r\n",
+    "pt_BR": "Quando o efeito de Transforma\u00e7\u00e3o Negra est\u00e1 ativo, voc\u00ea ganha D\u00e1diva dos San'layn.\r\n\r\nD\u00e1diva dos San'layn aumenta em 200% a efic\u00e1cia da sua Ess\u00eancia da Rainha de Sangue, e Golpe Vamp\u00edrico substitui seu feiti\u00e7o Golpe do Flagelo enquanto durar o efeito.\r\n",
+    "de_DE": "W\u00e4hrend 'Dunkle Transformation' aktiv ist, erhaltet Ihr 'Gabe der San'layn'.\r\n\r\n'Gabe der San'layn' erh\u00f6ht die Effektivit\u00e4t Eurer 'Essenz der Blutk\u00f6nigin' um 200% und ersetzt Euren Zauber 'Gei\u00dfelsto\u00df' f\u00fcr die Dauer durch 'Vampirsto\u00df'.\r\n",
+    "en_GB": "While Dark Transformation is active you gain Gift of the San'layn.\r\n\r\nGift of the San'layn increases the effectiveness of your Essence of the Blood Queen by 200%, and Vampiric Strike replaces your Scourge Strike for the duration.\r\n",
+    "es_ES": "Obtienes Don de los San'layn mientras Transformaci\u00f3n oscura est\u00e1 activa.\r\n\r\nDon de los San'layn aumenta un 200% la efectividad de tu Esencia de la Reina de Sangre, y Golpe vamp\u00edrico sustituye tu Golpe de la Plaga mientras dura.\r\n",
+    "fr_FR": "Tant que Sombre transformation est active, vous gagnez Don des San\u2019layn.\r\n\r\nDon des San\u2019layn augmente l\u2019efficacit\u00e9 de votre Essence de la reine de sang de 200\u00a0% et remplace Frappe du Fl\u00e9au pendant toute la dur\u00e9e.\r\n",
+    "it_IT": "Quando l'effetto di Trasformazione Oscura \u00e8 attivo, si ottiene Dono dei San'layn.\r\n\r\nDono dei San'layn aumenta l'efficacia di Essenza della Regina del Sangue del 200% e fa s\u00ec che Assalto Vampirico sostituisca Assalto del Flagello per tutta la durata dell'effetto.\r\n",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0422\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435\", \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \"\u0414\u0430\u0440 \u0441\u0430\u043d'\u043b\u0435\u0439\u043d\".\r\n\r\n\"\u0414\u0430\u0440 \u0441\u0430\u043d'\u043b\u0435\u0439\u043d\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \"\u0421\u0443\u0449\u043d\u043e\u0441\u0442\u0438 \u043a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u044b\" \u043d\u0430 200% \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \"\u0423\u0434\u0430\u0440 \u041f\u043b\u0435\u0442\u0438\" \u0432 \"\u0423\u0434\u0430\u0440 \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u043d\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.\r\n",
+    "ko_KR": "\uc5b4\ub460\uc758 \ubcc0\uc2e0\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc0b0\ub808\uc778\uc758 \uc120\ubb3c \ud6a8\uacfc\ub97c \uc5bb\uc2b5\ub2c8\ub2e4.\r\n\r\n\uc0b0\ub808\uc778\uc758 \uc120\ubb3c\uc740 \ud53c\uc758 \uc5ec\uc655\uc758 \uc815\uc218 \ud6a8\uacfc\ub97c 200%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uba70, \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \ud761\ud608\uc758 \uc77c\uaca9\uc774 \uc2a4\uceec\uc9c0\uc758 \uc77c\uaca9\uc744 \ub300\uccb4\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u4f60\u5728\u9ed1\u6697\u8b8a\u8eab\u4f5c\u7528\u671f\u9593\u6703\u7372\u5f97\u715e\u5a6a\u8d08\u79ae\u6548\u679c\u3002\r\n\r\n\u715e\u5a6a\u8d08\u79ae\u6703\u4f7f\u4f60\u8840\u8165\u5973\u738b\u7cbe\u83ef\u7684\u6548\u679c\u5f37\u5ea6\u63d0\u9ad8200%\uff0c\u4e26\u6703\u5728\u6301\u7e8c\u6642\u9593\u5167\u4ee5\u5438\u8840\u6253\u64ca\u53d6\u4ee3\u5929\u8b74\u6253\u64ca\u3002\r\n",
+    "zh_CN": "\u9ed1\u6697\u7a81\u53d8\u6fc0\u6d3b\u65f6\uff0c\u4f60\u83b7\u5f97\u8428\u83b1\u56e0\u4e4b\u8d50\u3002\r\n\r\n\u8428\u83b1\u56e0\u4e4b\u8d50\u4f7f\u4f60\u7684\u9c9c\u8840\u5973\u738b\u7684\u7cbe\u534e\u6548\u679c\u63d0\u9ad8200%\uff0c\u5e76\u5728\u6548\u679c\u671f\u95f4\u5c06\u5929\u707e\u6253\u51fb\u66ff\u6362\u4e3a\u5438\u8840\u9b3c\u6253\u51fb\u3002\r\n"
+  }
 }

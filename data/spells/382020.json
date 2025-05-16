@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382020"
+  "SpellID": "382020",
+  "name_blz": {
+    "en_US": "Earthen Harmony",
+    "es_MX": "Armon\u00eda terr\u00e1nea",
+    "pt_BR": "Harmonia Terrana",
+    "de_DE": "Irdene Harmonie",
+    "en_GB": "Earthen Harmony",
+    "es_ES": "Armon\u00eda terr\u00e1nea",
+    "fr_FR": "Harmonie terrestre",
+    "it_IT": "Armonia Terrestre",
+    "ru_RU": "\u0417\u0435\u043c\u043d\u0430\u044f \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u044f",
+    "ko_KR": "\ub300\uc9c0\uc758 \uc870\ud654",
+    "zh_TW": "\u5927\u5730\u548c\u8ae7",
+    "zh_CN": "\u5927\u5730\u7965\u548c"
+  },
+  "description_blz": {
+    "en_US": "Earth Shield reduces damage taken by 3% and its healing is increased by up to 150% as its target's health decreases. Maximum benefit is reached below 50% health.",
+    "es_MX": "Escudo de tierra reduce el da\u00f1o recibido un 3%, y su sanaci\u00f3n aumenta hasta un 150% a medida que decrece la salud de su objetivo. El beneficio m\u00e1ximo se alcanza por debajo del 50% de salud.",
+    "pt_BR": "Escudo da Terra reduz em 3% o dano recebido, e a cura \u00e9 aumentada em at\u00e9 150%, conforme o alvo perde pontos de vida. O ganho m\u00e1ximo ocorre com 50% dos pontos de vida.",
+    "de_DE": "'Erdschild' verringert den erlittenen Schaden um 3% und die Heilung von 'Erdschild' wird um bis zu 150% erh\u00f6ht, w\u00e4hrend die Gesundheit des Ziels abnimmt. Der maximale Nutzen wird bei weniger als 50% Gesundheit erreicht.",
+    "en_GB": "Earth Shield reduces damage taken by 3% and its healing is increased by up to 150% as its target's health decreases. Maximum benefit is reached below 50% health.",
+    "es_ES": "Escudo de tierra reduce un 3% el da\u00f1o recibido, y su sanaci\u00f3n aumenta hasta un m\u00e1ximo de 150% cuanta menos vida tenga el objetivo. El beneficio m\u00e1ximo se alcanza cuando tiene menos de un 50% de salud.",
+    "fr_FR": "Bouclier de terre r\u00e9duit les d\u00e9g\u00e2ts subis de 3\u00a0% et ses soins sont augment\u00e9s de 150\u00a0% au maximum, \u00e0 mesure que les points de vie de sa cible diminuent. Les effets maximums sont atteints en dessous de 50\u00a0% de points de vie.",
+    "it_IT": "Scudo di Terra riduce i danni subiti del 3% e le cure che fornisce aumentano fino al 150% al ridursi della quantit\u00e0 di salute del bersaglio. Il beneficio \u00e8 massimo quando il bersaglio ha meno del 50% della salute massima.",
+    "ru_RU": "\"\u0429\u0438\u0442 \u0437\u0435\u043c\u043b\u0438\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0446\u0435\u043b\u044c\u044e \u0443\u0440\u043e\u043d \u043d\u0430 3%, \u0430 \u0435\u0433\u043e \u0441\u0438\u043b\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u043e \u043c\u0435\u0440\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0446\u0435\u043b\u0438 \u043f\u0430\u0434\u0430\u0435\u0442. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u043e\u043d\u0443\u0441 \u2013 150% \u043f\u0440\u0438 \u0443\u0440\u043e\u0432\u043d\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0438\u0436\u0435 50%.",
+    "ko_KR": "\ub300\uc9c0\uc758 \ubcf4\ud638\ub9c9\uc774 \ubc1b\ub294 \ud53c\ud574\ub97c 3%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uace0, \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc774 \uac10\uc18c\ud560\uc218\ub85d \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\uac00 \uc99d\uac00\ud574 \ucd5c\ub300 150%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc774 50% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74 \ud6a8\uacfc\uac00 \ucd5c\ub300\uc5d0 \ub3c4\ub2ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5927\u5730\u4e4b\u76fe\u4f7f\u76ee\u6a19\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e3%\uff0c\u4e14\u76ee\u6a19\u7684\u751f\u547d\u529b\u964d\u4f4e\u6642\uff0c\u5927\u5730\u4e4b\u76fe\u7684\u6cbb\u7642\u6548\u679c\u6700\u591a\u63d0\u9ad8\u81f3150%\u3002\u5982\u679c\u751f\u547d\u529b\u4f4e\u65bc50%\uff0c\u5176\u6cbb\u7642\u6548\u679c\u5c31\u6703\u9054\u5230\u6700\u9ad8\u3002",
+    "zh_CN": "\u5927\u5730\u4e4b\u76fe\u4f7f\u76ee\u6807\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e3%\uff0c\u5e76\u6839\u636e\u76ee\u6807\u635f\u5931\u7684\u751f\u547d\u503c\uff0c\u5176\u6cbb\u7597\u6548\u679c\u6700\u591a\u63d0\u9ad8150%\u3002\u751f\u547d\u503c\u4f4e\u4e8e50%\u65f6\u8fbe\u5230\u6700\u5927\u6548\u679c\u3002"
+  }
 }

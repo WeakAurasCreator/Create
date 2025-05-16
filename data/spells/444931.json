@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444931"
+  "SpellID": "444931",
+  "name_blz": {
+    "en_US": "Unhindered Assault",
+    "es_MX": "Asalto sin estorbos",
+    "pt_BR": "Sob Ataque",
+    "de_DE": "Ungehinderter Sturmangriff",
+    "en_GB": "Unhindered Assault",
+    "es_ES": "Asalto implacable",
+    "fr_FR": "Assaut irr\u00e9fr\u00e9nable",
+    "it_IT": "Assalto Indisturbato",
+    "ru_RU": "\u0411\u0435\u0441\u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430",
+    "ko_KR": "\ubb34\ucc28\ubcc4 \ub9f9\uacf5",
+    "zh_TW": "\u7121\u963b\u8972\u64ca",
+    "zh_CN": "\u65e0\u62d8\u5f3a\u88ad"
+  },
+  "description_blz": {
+    "en_US": "Vengeful Retreat resets the cooldown of Felblade.",
+    "es_MX": "Retirada vengativa restablece el tiempo de reutilizaci\u00f3n de Hoja m\u00e1cula.",
+    "pt_BR": "Retirada Vingativa conclui a recarga da L\u00e2mina Vil.",
+    "de_DE": "'Rachs\u00fcchtiger R\u00fcckzug' setzt die Abklingzeit von 'Teufelsklinge' zur\u00fcck.",
+    "en_GB": "Vengeful Retreat resets the cooldown of Felblade.",
+    "es_ES": "Retirada vengativa reinicia el tiempo de reutilizaci\u00f3n de Hoja m\u00e1cula.",
+    "fr_FR": "Retraite vengeresse met fin au temps de recharge de Gangrelame.",
+    "it_IT": "Ritiro Vendicativo azzera il tempo di recupero di Vilspada.",
+    "ru_RU": "\"\u041a\u043e\u0432\u0430\u0440\u043d\u043e\u0435 \u043e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \"\u041a\u043b\u0438\u043d\u043e\u043a \u0421\u043a\u0432\u0435\u0440\u043d\u044b\".",
+    "ko_KR": "\ubcf5\uc218\uc758 \ud1f4\uac01 \uc0ac\uc6a9 \uc2dc \uc9c0\uc625\uce7c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd08\uae30\ud654\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u883b\u6068\u64a4\u96e2\u6703\u91cd\u7f6e\u9b54\u5203\u7684\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u590d\u4ec7\u56de\u907f\u4f1a\u91cd\u7f6e\u90aa\u80fd\u4e4b\u5203\u7684\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

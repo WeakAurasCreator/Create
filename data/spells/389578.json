@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389578"
+  "SpellID": "389578",
+  "name_blz": {
+    "en_US": "Resonant Fists",
+    "es_MX": "Pu\u00f1os resonantes",
+    "pt_BR": "Punhos Ressoantes",
+    "de_DE": "Nachhallende F\u00e4uste",
+    "en_GB": "Resonant Fists",
+    "es_ES": "Pu\u00f1os resonantes",
+    "fr_FR": "Poings r\u00e9sonnants",
+    "it_IT": "Pugni Risonanti",
+    "ru_RU": "\u0420\u0435\u0437\u043e\u043d\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u043a\u0443\u043b\u0430\u043a\u0438",
+    "ko_KR": "\uacf5\uba85\ud558\ub294 \uc8fc\uba39",
+    "zh_TW": "\u5171\u9cf4\u4e4b\u62f3",
+    "zh_CN": "\u5171\u632f\u62f3\u6cd5"
+  },
+  "description_blz": {
+    "en_US": "Your attacks have a chance to resonate, dealing 79 Nature damage to enemies within 8 yds.",
+    "es_MX": "Tus ataques tienen una probabilidad de resonar e infligir 79 p. de da\u00f1o de naturaleza a los enemigos en un radio de 8 m.",
+    "pt_BR": "Seus ataques t\u00eam chance de ressoar, causando 79 de dano de Natureza aos inimigos em um raio de 8 m.",
+    "de_DE": "Eure Angriffe habe eine Chance nachzuhallen und Gegnern innerhalb von 8 Metern 79 Naturschaden zuzuf\u00fcgen.",
+    "en_GB": "Your attacks have a chance to resonate, dealing 79 Nature damage to enemies within 8 yds.",
+    "es_ES": "Existe la posibilidad de que tus ataques resuenen para infligir 79 p. de da\u00f1o de Naturaleza a los enemigos en un radio de 8 m.",
+    "fr_FR": "Vos attaques ont une chance de r\u00e9sonner, ce qui inflige 79\u00a0points de d\u00e9g\u00e2ts de nature aux adversaires \u00e0 moins de 8\u00a0m.",
+    "it_IT": "Gli attacchi hanno una probabilit\u00e0 di risuonare, infliggendo 79 danni da natura ai nemici entro 8 m.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0430\u0442\u0430\u043a\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0437\u0432\u0430\u0442\u044c \u044d\u0445\u043e, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0435 79 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c.",
+    "ko_KR": "\uacf5\uaca9 \uc2dc \uc77c\uc815 \ud655\ub960\ub85c \uacf5\uba85\uc744 \uc77c\uc73c\ucf1c 8\ubbf8\ud130 \ub0b4\uc758 \uc801\uc5d0\uac8c 79\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u653b\u64ca\u6709\u4e00\u5b9a\u6a5f\u7387\u7522\u751f\u5171\u9cf4\uff0c\u5c0d8\u78bc\u7bc4\u570d\u5167\u7684\u6575\u4eba\u9020\u621079\u9ede\u81ea\u7136\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u653b\u51fb\u6709\u51e0\u7387\u5f15\u53d1\u5171\u632f\uff0c\u5bf98\u7801\u5185\u7684\u654c\u4eba\u9020\u621079\u70b9\u81ea\u7136\u4f24\u5bb3\u3002"
+  }
 }

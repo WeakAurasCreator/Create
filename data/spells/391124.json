@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "391124"
+  "SpellID": "391124",
+  "name_blz": {
+    "en_US": "Restitution",
+    "es_MX": "Restituci\u00f3n",
+    "pt_BR": "Restitui\u00e7\u00e3o",
+    "de_DE": "Wiedergutmachung",
+    "en_GB": "Restitution",
+    "es_ES": "Restituci\u00f3n",
+    "fr_FR": "Restitution",
+    "it_IT": "Restituzione",
+    "ru_RU": "\u0412\u043e\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ubcf5\uc6d0",
+    "zh_TW": "\u62b5\u511f",
+    "zh_CN": "\u4ee3\u507f"
+  },
+  "description_blz": {
+    "en_US": "After Spirit of Redemption expires, you will revive at up to 100% health, based on your healing done during Spirit of Redemption. After reviving, you cannot benefit from Spirit of Redemption for 10 min.",
+    "es_MX": "Cuando Esp\u00edritu redentor termina, revives con hasta un 100% de salud, de acuerdo con tu sanaci\u00f3n realizada durante Esp\u00edritu redentor. Despu\u00e9s de revivir, no podr\u00e1s beneficiarte de Esp\u00edritu redentor durante 10 min.",
+    "pt_BR": "Depois que o Esp\u00edrito da Reden\u00e7\u00e3o expira, voc\u00ea revive com at\u00e9 100% dos seus pontos de vida, a depender da sua cura realizada enquanto estava no Esp\u00edrito da Reden\u00e7\u00e3o. Depois de reviver, voc\u00ea n\u00e3o pode se beneficiar de Esp\u00edrito da Reden\u00e7\u00e3o por 10 min.",
+    "de_DE": "Wenn Euer Geist der Erl\u00f6sung abl\u00e4uft, werdet Ihr mit bis zu 100% Gesundheit wiederbelebt, abh\u00e4ngig von Eurer als Geist der Erl\u00f6sung hervorgerufenen Heilung. Nach Eurer Wiederbelebung kann der Geist der Erl\u00f6sung 10 Min. lang nicht erneut ausgel\u00f6st werden.",
+    "en_GB": "After Spirit of Redemption expires, you will revive at up to 100% health, based on your healing done during Spirit of Redemption. After reviving, you cannot benefit from Spirit of Redemption for 10 min.",
+    "es_ES": "Cuando Esp\u00edritu redentor haya acabado, revivir\u00e1s con hasta un 100% de salud, en funci\u00f3n de tu sanaci\u00f3n realizada durante Esp\u00edritu redentor. Tras revivir, no podr\u00e1s volver a beneficiarte de Esp\u00edritu redentor durante 10 min.",
+    "fr_FR": "Apr\u00e8s la dissipation d\u2019Esprit de r\u00e9demption, vous revenez \u00e0 la vie avec un maximum de 100% de vos points de vie, en fonction des soins que vous avez prodigu\u00e9s sous votre forme d\u2019Esprit de r\u00e9demption. Apr\u00e8s votre r\u00e9surrection, vous ne pouvez pas b\u00e9n\u00e9ficier de cet effet pendant 10 min.",
+    "it_IT": "Al termine di Spirito di Redenzione, si rinasce con una percentuale di salute che varia in base alla quantit\u00e0 di cure fornite durante Spirito della Redenzione, fino a un massimo del 100%. Dopo essere rinati, non si pu\u00f2 beneficiare dell'effetto per 10 min.",
+    "ru_RU": "\u041f\u043e \u0438\u0441\u0442\u0435\u0447\u0435\u043d\u0438\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0414\u0443\u0445\u0430 \u0432\u043e\u0437\u0434\u0430\u044f\u043d\u0438\u044f\" \u0432\u044b \u0432\u043e\u0437\u0440\u043e\u0436\u0434\u0430\u0435\u0442\u0435\u0441\u044c \u0441 \u0437\u0430\u043f\u0430\u0441\u043e\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0434\u043e 100% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0442\u043e\u0433\u043e, \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u0442\u0432\u043e\u0440\u0438\u043b\u0438 \u0432 \u043e\u0431\u043b\u0438\u043a\u0435 \u0434\u0443\u0445\u0430 \u0432\u043e\u0437\u0434\u0430\u044f\u043d\u0438\u044f. \u041f\u043e\u0441\u043b\u0435 \u0432\u043e\u0437\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u043d\u0435 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u043c\u0438\u043d.",
+    "ko_KR": "\uad6c\uc6d0\uc758 \uc601\ud63c\uc774 \ub9cc\ub8cc\ud558\uba74 \uad6c\uc6d0\uc758 \uc601\ud63c \uc0c1\ud0dc\uc5d0\uc11c \uae30\uc5ec\ud55c \uce58\uc720\ub7c9\uc5d0 \uae30\ubc18\ud558\uc5ec \ucd5c\ub300 100%\uc758 \uc0dd\uba85\ub825\uc744 \uc9c0\ub2cc \uc0c1\ud0dc\ub85c \ubd80\ud65c\ud569\ub2c8\ub2e4. \ubd80\ud65c\ud55c \ud6c4\uc5d0\ub294 10\ubd84 \ub3d9\uc548 \ub2e4\uc2dc \uad6c\uc6d0\uc758 \uc601\ud63c \ud6a8\uacfc\ub97c \ubc1b\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6551\u8d16\u4e4b\u9748\u6642\u9593\u7d50\u675f\u5f8c\uff0c\u4f60\u6700\u9ad8\u53ef\u4ee5100%\u7684\u751f\u547d\u529b\u5fa9\u6d3b\uff0c\u4f9d\u6551\u8d16\u4e4b\u9748\u6301\u7e8c\u6642\u9593\u5167\u4f60\u9020\u6210\u7684\u6cbb\u7642\u800c\u5b9a\u3002\u5728\u5fa9\u6d3b\u5f8c\uff0c\u4f60\u7121\u6cd5\u5f9e\u6551\u8d16\u4e4b\u9748\u7372\u76ca\uff0c\u6301\u7e8c10\u5206\u9418\u3002",
+    "zh_CN": "\u5728\u6551\u8d4e\u4e4b\u9b42\u6d88\u5931\u540e\uff0c\u4f60\u5c06\u4f1a\u590d\u6d3b\uff0c\u6062\u590d\u6700\u591a100%\u7684\u751f\u547d\u503c\uff0c\u6062\u590d\u7684\u751f\u547d\u503c\u7531\u4f60\u5728\u6551\u8d4e\u4e4b\u9b42\u72b6\u6001\u4e0b\u4ea7\u751f\u7684\u6cbb\u7597\u91cf\u51b3\u5b9a\u3002\u6bcf10\u5206\u949f\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

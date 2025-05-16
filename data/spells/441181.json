@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "441181"
+  "SpellID": "441181",
+  "name_blz": {
+    "en_US": "Menacing Presence",
+    "es_MX": "Presencia amenazadora",
+    "pt_BR": "Presen\u00e7a Amea\u00e7adora",
+    "de_DE": "Drohende Pr\u00e4senz",
+    "en_GB": "Menacing Presence",
+    "es_ES": "Presencia amenazante",
+    "fr_FR": "Pr\u00e9sence mena\u00e7ante",
+    "it_IT": "Presenza Minacciosa",
+    "ru_RU": "\u0423\u0441\u0442\u0440\u0430\u0448\u0430\u044e\u0449\u0435\u0435 \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435",
+    "ko_KR": "\uc0b4\uae30\ub4f1\ub4f1\ud55c \uc874\uc7ac\uac10",
+    "zh_TW": "\u5147\u60e1\u6c23\u52e2",
+    "zh_CN": "\u5a01\u6151\u82f1\u6c14"
+  },
+  "description_blz": {
+    "en_US": "Knocking enemies up or backwards reduces their damage done to you by 15% for 8 sec.",
+    "es_MX": "Hacer retroceder a los enemigos o hacerlos volar por los aires reduce 15% el da\u00f1o que te infligen durante 8 s.",
+    "pt_BR": "Arremessar inimigos para cima ou derrub\u00e1-los reduz em 15% o dano causado a voc\u00ea por 8 s.",
+    "de_DE": "Das Zur\u00fccksto\u00dfen oder in die Luft schleudern von Gegnern verringert den Schaden, den sie Euch zuf\u00fcgen, 8 Sek. lang um 15%.",
+    "en_GB": "Knocking enemies up or backwards reduces their damage done to you by 15% for 8 sec.",
+    "es_ES": "Al lanzar a un enemigo por los aires o repelerlo, se reduce un 15% el da\u00f1o que te inflige durante 8 s.",
+    "fr_FR": "Lorsque vous projetez en l\u2019air ou repoussez une cible adverse, les d\u00e9g\u00e2ts qu\u2019elle vous inflige sont r\u00e9duits de 15\u00a0% pendant 8 s.",
+    "it_IT": "Scagliare in aria o respingere indietro un nemico ne riduce i danni a te inflitti del 15% per 8 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0434\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442\u0435 \u0438\u043b\u0438 \u043e\u0442\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u043e\u043d\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0432\u0430\u043c \u043d\u0430 15% \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a.",
+    "ko_KR": "\uc801\uc744 \uacf5\uc911\uc73c\ub85c \ub0a0\ub824 \ubcf4\ub0b4\uac70\ub098 \ub4a4\ub85c \ubc00\uccd0\ub0b4\uba74 8\ucd08 \ub3d9\uc548 \uc790\uc2e0\uc5d0\uac8c \uc785\ud788\ub294 \ud53c\ud574\uac00 15%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u64ca\u98db\u6216\u64ca\u9000\u4e00\u540d\u6575\u4eba\uff0c\u4f7f\u5176\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e15%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u5c06\u654c\u4eba\u51fb\u98de\u6216\u51fb\u9000\u4f7f\u5176\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e15%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "433568"
+  "SpellID": "433568",
+  "name_blz": {
+    "en_US": "Rite of Sanctification",
+    "es_MX": "Rito de santificaci\u00f3n",
+    "pt_BR": "Rito da Santifica\u00e7\u00e3o",
+    "de_DE": "Ritus der Heiligung",
+    "en_GB": "Rite of Sanctification",
+    "es_ES": "Rito de santificaci\u00f3n",
+    "fr_FR": "Rite de sanctification",
+    "it_IT": "Rito della Santificazione",
+    "ru_RU": "\u041e\u0431\u0440\u044f\u0434 \u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u044f",
+    "ko_KR": "\ucd95\uc131\uc758 \uc758\uc2dd",
+    "zh_TW": "\u8056\u5316\u5100\u5f0f",
+    "zh_CN": "\u5723\u8a00\u796d\u793c"
+  },
+  "description_blz": {
+    "en_US": "Imbue your weapon with the power of the Light, increasing your armor by 5% and your primary stat by 2%.\r\n\r\nLasts 1 hour.",
+    "es_MX": "Infunde tu arma con el poder de la Luz, lo que aumenta un 5% tu armadura y un 2% tu estad\u00edstica principal.\r\n\r\nDura 1 h.",
+    "pt_BR": "Imbui sua arma com o poder da Luz, aumentando em 5% sua armadura e em 2% seu atributo prim\u00e1rio.\r\n\r\nDura 1 hora.",
+    "de_DE": "Erf\u00fcllt Eure Waffen mit der Macht des Lichts, was Eure R\u00fcstung um 5% und Eure Prim\u00e4rwerte um 2% erh\u00f6ht.\r\n\r\nH\u00e4lt 1 Stunde lang an.",
+    "en_GB": "Imbue your weapon with the power of the Light, increasing your armor by 5% and your primary stat by 2%.\r\n\r\nLasts 1 hour.",
+    "es_ES": "Imbuye tu arma con el poder de la Luz, lo que aumenta un 5% tu armadura y un 2% tu estad\u00edstica principal.\r\n\r\nDura 1 h.",
+    "fr_FR": "Impr\u00e8gne votre arme du pouvoir de la Lumi\u00e8re, ce qui augmente votre Armure de 5\u00a0% et votre statistique principale de 2\u00a0%.\r\n\r\nDure 1 heure.",
+    "it_IT": "Infonde l'arma con il potere della Luce, aumentando l'armatura del 5% e l'attributo primario del 2%.\r\n\r\nDura 1 ora.",
+    "ru_RU": "\u041d\u0430\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043e\u0440\u0443\u0436\u0438\u0435 \u0441\u0438\u043b\u043e\u0439 \u0421\u0432\u0435\u0442\u0430, \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044f \u0431\u0440\u043e\u043d\u044e \u043d\u0430 5% \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u0443\u044e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0443 \u043d\u0430 2%.\r\n\r\n\u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 1 \u0447.",
+    "ko_KR": "\ubb34\uae30\uc5d0 \ube5b\uc758 \ud798\uc744 \uc8fc\uc785\ud558\uc5ec \ubc29\uc5b4\ub3c4\uac00 5%\ub9cc\ud07c, \uc8fc \ub2a5\ub825\uce58\uac00 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n1\uc2dc\uac04 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u4f60\u7684\u6b66\u5668\u704c\u6ce8\u8056\u5149\u7684\u529b\u91cf\uff0c\u4f7f\u4f60\u7684\u8b77\u7532\u503c\u63d0\u9ad85%\uff0c\u4e3b\u8981\u5c6c\u6027\u63d0\u9ad82%\u3002\r\n\r\n\u6301\u7e8c1\u5c0f\u6642\u3002",
+    "zh_CN": "\u4e3a\u6b66\u5668\u6ce8\u5165\u5723\u5149\u4e4b\u529b\uff0c\u4f7f\u4f60\u7684\u62a4\u7532\u503c\u63d0\u9ad85%\uff0c\u4f60\u7684\u4e3b\u8981\u5c5e\u6027\u63d0\u9ad82%\u3002\r\n\r\n\u6301\u7eed1\u5c0f\u65f6\u3002"
+  }
 }

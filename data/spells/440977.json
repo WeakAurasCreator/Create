@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "440977"
+  "SpellID": "440977",
+  "name_blz": {
+    "en_US": "Sharpen Your Knife",
+    "es_MX": "Afilen sus cuchillos",
+    "pt_BR": "Afiar a Faca",
+    "de_DE": "Messer sch\u00e4rfen",
+    "en_GB": "Sharpen Your Knife",
+    "es_ES": "Afilar cuchillo",
+    "fr_FR": "Aiguiser votre couteau",
+    "it_IT": "Affilatura Coltello",
+    "ru_RU": "\u0417\u0430\u0442\u043e\u0447\u0438\u0442\u044c \u043d\u043e\u0436",
+    "ko_KR": "\uce7c \uc5f0\ub9c8",
+    "zh_TW": "\u78e8\u5229\u4f60\u7684\u5c0f\u5200",
+    "zh_CN": "\u6253\u78e8\u5c0f\u5200"
+  },
+  "description_blz": {
+    "en_US": "Use your expert knowledge of the outdoors to find a suitable stone to sharpen your knife. This sharpening process will guarantee you receive a hide or carapace from your next Algari skinning attempt. The whole process is physically taxing, and cannot be undertaken often.",
+    "es_MX": "Utilizas tus conocimientos expertos de la naturaleza para encontrar una piedra adecuada para afilar tu cuchillo. El proceso de afilado te garantiza que obtendr\u00e1s un pellejo o caparaz\u00f3n en tu siguiente intento de desuello algari. Todo este proceso es agotador y no puede hacerse a menudo.",
+    "pt_BR": "Use seu conhecimento de especialista em ambientes externos para encontrar uma pedra adequada para afiar sua faca. Este processo de afia\u00e7\u00e3o garante que voc\u00ea receba um pelego ou carapa\u00e7a na pr\u00f3xima tentativa de Esfolamento Algari. O processo inteiro demanda muito fisicamente e n\u00e3o pode ser realizado com frequ\u00eancia.",
+    "de_DE": "Nutzt Euer Expertenwissen \u00fcber die Natur, um einen passenden Stein zum Sch\u00e4rfen Eures Messers zu finden. Mit gesch\u00e4rftem Messer bekommt Ihr garantiert einen Balg oder Panzer, wenn Ihr Euch das n\u00e4chste Mal an der algarischen K\u00fcrschnerei versucht. Der gesamte Vorgang ist k\u00f6rperlich anstrengend und kann nicht oft durchgef\u00fchrt werden.",
+    "en_GB": "Use your expert knowledge of the outdoors to find a suitable stone to sharpen your knife. This sharpening process will guarantee you receive a hide or carapace from your next Algari skinning attempt. The whole process is physically taxing, and cannot be undertaken often.",
+    "es_ES": "Utilizas tus conocimientos sobre los exteriores para encontrar una piedra adecuada con la que afilar tu cuchillo. Esto garantizar\u00e1 un pellejo o un caparaz\u00f3n en tu siguiente intento de desuello algariano. Es un proceso agotador que no puedes repetir con frecuencia.",
+    "fr_FR": "Vous utilisez vos connaissances pouss\u00e9es sur l\u2019environnement pour trouver une pierre adapt\u00e9e et aiguiser votre couteau. Ce proc\u00e9d\u00e9 d\u2019aiguisage vous garantira de recevoir une peau ou une carapace \u00e0 votre prochaine tentative de d\u00e9pe\u00e7age algari. L\u2019op\u00e9ration est ext\u00e9nuante et ne peut pas \u00eatre r\u00e9p\u00e9t\u00e9e souvent.",
+    "it_IT": "Sfruttare la conoscenza del mondo esterno aiuta a trovare una pietra adatta per affilare il coltello. Il processo di affilatura permette di ottenere una pelle o un carapace dal successivo intervento di Scuoiatura degli Algari. Il processo \u00e8 fisicamente impegnativo e non pu\u00f2 essere intrapreso spesso.",
+    "ru_RU": "\u041e\u043f\u044b\u0442 \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0432 \u0434\u0438\u043a\u043e\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0430\u043c \u043d\u0430\u0439\u0442\u0438 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0439 \u043a\u0430\u043c\u0435\u043d\u044c, \u043e\u0431 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u0437\u0430\u0442\u043e\u0447\u0438\u0442\u044c \u043d\u043e\u0436. \u0412 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0437\u0430\u0442\u043e\u0447\u043a\u0438 \u0432\u044b \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0448\u043a\u0443\u0440\u0443 \u0438\u043b\u0438 \u043f\u0430\u043d\u0446\u0438\u0440\u044c \u043f\u0440\u0438 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0441\u043d\u044f\u0442\u0438\u0438 \u0448\u043a\u0443\u0440 \u0441 \u0430\u043b\u0433\u0430\u0440\u0438\u0439\u0441\u043a\u0438\u0445 \u0441\u0443\u0449\u0435\u0441\u0442\u0432. \u042d\u0442\u043e\u0442 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u043e\u0447\u0435\u043d\u044c \u0443\u0442\u043e\u043c\u043b\u044f\u0435\u0442, \u0438 \u0435\u0433\u043e \u043d\u0435\u043b\u044c\u0437\u044f \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0447\u0430\u0441\u0442\u043e.",
+    "ko_KR": "\uc57c\uc678 \ud658\uacbd\uc5d0 \ub300\ud55c \uc804\ubb38 \uc9c0\uc2dd\uc744 \ud65c\uc6a9\ud558\uc5ec \uce7c\uc744 \uac08\uae30\uc5d0 \uc801\ud569\ud55c \ub3cc\uc744 \ucc3e\uc2b5\ub2c8\ub2e4. \uc774 \uc5f0\ub9c8 \uacfc\uc815\uc744 \uac70\uce58\uba74 \ub2e4\uc74c \uc54c\uac00\ub974 \ubb34\ub450\uc9c8 \uc0ac\uc6a9 \uc2dc \ubc18\ub4dc\uc2dc \uc0dd\uac00\uc8fd \ub610\ub294 \uac11\uac01\uc744 \ud68d\ub4dd\ud569\ub2c8\ub2e4. \uc2e0\uccb4\uc801\uc73c\ub85c \ubd80\ub2f4\uc774 \ub418\ub294 \uad00\uacc4\uc0c1 \uc790\uc8fc \uce7c\uc744 \uac00\ub294 \uac83\uc740 \ubd88\uac00\ub2a5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u904b\u7528\u4f60\u7684\u91ce\u5916\u6c42\u751f\u77e5\u8b58\uff0c\u627e\u5230\u9069\u5408\u7528\u4f86\u78e8\u5229\u5c0f\u5200\u7684\u77f3\u982d\u3002\u5728\u78e8\u5200\u4e4b\u5f8c\uff0c\u4f60\u4e0b\u6b21\u9032\u884c\u963f\u723e\u52a0\u525d\u76ae\u6642\uff0c\u5c07\u5fc5\u5b9a\u7372\u5f97\u6bdb\u76ae\u6216\u7532\u6bbc\u3002\u6574\u500b\u904e\u7a0b\u6703\u6d88\u8017\u5927\u91cf\u9ad4\u529b\uff0c\u56e0\u6b64\u7121\u6cd5\u6642\u5e38\u9032\u884c\u3002",
+    "zh_CN": "\u5229\u7528\u4f60\u5bf9\u6237\u5916\u4e16\u754c\u7684\u4e13\u4e1a\u77e5\u8bc6\uff0c\u5bfb\u627e\u4e00\u5757\u5408\u9002\u7684\u77f3\u5934\u6765\u6253\u78e8\u5c0f\u5200\u3002\u6253\u78e8\u4f1a\u4f7f\u4f60\u4e0b\u4e00\u6b21\u963f\u52a0\u5265\u76ae\u65f6\u5fc5\u5b9a\u83b7\u5f97\u4e00\u5757\u6bdb\u76ae\u6216\u7532\u58f3\u3002\u6253\u78e8\u8fc7\u7a0b\u8d39\u65f6\u8d39\u529b\uff0c\u65e0\u6cd5\u9891\u7e41\u8fdb\u884c\u3002"
+  }
 }

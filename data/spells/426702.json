@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "426702"
+  "SpellID": "426702",
+  "name_blz": {
+    "en_US": "Liveliness",
+    "es_MX": "Vivacidad",
+    "pt_BR": "Vivacidade",
+    "de_DE": "Lebendigkeit",
+    "en_GB": "Liveliness",
+    "es_ES": "Vivacidad",
+    "fr_FR": "Vivacit\u00e9",
+    "it_IT": "Vivacit\u00e0",
+    "ru_RU": "\u0411\u043e\u0439\u043a\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ud65c\uae30",
+    "zh_TW": "\u751f\u6c23\u84ec\u52c3",
+    "zh_CN": "\u8dc3\u52a8\u6d3b\u529b"
+  },
+  "description_blz": {
+    "en_US": "Your damage over time effects deal their damage 25% faster, and your healing over time effects heal 5% faster.",
+    "es_MX": "Tus efectos de da\u00f1o con el tiempo se aplican un 25% m\u00e1s r\u00e1pido, y tus efectos de sanaci\u00f3n con el tiempo se activan un 5% m\u00e1s r\u00e1pido.",
+    "pt_BR": "Seus efeitos de dano peri\u00f3dico causam dano 25% mais r\u00e1pido e seus efeitos de cura peri\u00f3dica curam 5% mais r\u00e1pido.",
+    "de_DE": "Eure regelm\u00e4\u00dfigen Schadenseffekte verursachen ihren Schaden in 25% k\u00fcrzerer Zeit und Eure regelm\u00e4\u00dfigen Heileffekte ihre Heilung in 5% k\u00fcrzerer Zeit.",
+    "en_GB": "Your damage over time effects deal their damage 25% faster, and your healing over time effects heal 5% faster.",
+    "es_ES": "Tus efectos de da\u00f1o en el tiempo infligen el da\u00f1o un 25% m\u00e1s r\u00e1pido, y tus efectos de sanaci\u00f3n en el tiempo sanan un 5% m\u00e1s r\u00e1pido.",
+    "fr_FR": "Vos effets de d\u00e9g\u00e2ts sur la dur\u00e9e infligent leurs d\u00e9g\u00e2ts 25\u00a0% plus vite. Vos effets de soins sur la dur\u00e9e soignent 5\u00a0% plus vite.",
+    "it_IT": "Aumenta la velocit\u00e0 alla quale gli effetti dannosi periodici infliggono danni del 25% e la velocit\u00e0 alla quale le cure periodiche rigenerano salute del 5%.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043f\u043e\u043b\u043d\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 25% \u0431\u044b\u0441\u0442\u0440\u0435\u0435, \u0430 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u043d\u0430 5% \u0431\u044b\u0441\u0442\u0440\u0435\u0435.",
+    "ko_KR": "\uc790\uc2e0\uc758 \uc9c0\uc18d \ud53c\ud574 \ud6a8\uacfc\uac00 \ud53c\ud574\ub97c \uc785\ud788\ub294 \uc8fc\uae30\uac00 25%\ub9cc\ud07c, \uc9c0\uc18d \uce58\uc720 \ud6a8\uacfc\uac00 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\uc2dc\ud0a4\ub294 \uc8fc\uae30\uac00 5%\ub9cc\ud07c \ube68\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6301\u7e8c\u6027\u50b7\u5bb3\u6548\u679c\u7684\u50b7\u5bb3\u9593\u9694\u6642\u9593\u7e2e\u77ed25%\uff0c\u4f60\u7684\u6301\u7e8c\u6027\u6cbb\u7642\u6548\u679c\u7684\u6cbb\u7642\u9593\u9694\u6642\u9593\u7e2e\u77ed5%\u3002",
+    "zh_CN": "\u4f60\u7684\u6301\u7eed\u4f24\u5bb3\u6548\u679c\u9020\u6210\u4f24\u5bb3\u7684\u901f\u5ea6\u52a0\u5feb25%\uff0c\u6301\u7eed\u6cbb\u7597\u6548\u679c\u9020\u6210\u6cbb\u7597\u7684\u901f\u5ea6\u52a0\u5feb5%\u3002"
+  }
 }

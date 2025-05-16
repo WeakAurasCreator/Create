@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442497"
+  "SpellID": "442497",
+  "name_blz": {
+    "en_US": "Keen Engagement",
+    "es_MX": "Enfrentamiento intenso",
+    "pt_BR": "Confronto Acalorado",
+    "de_DE": "Erbitterter Angriff",
+    "en_GB": "Keen Engagement",
+    "es_ES": "Compromiso profundo",
+    "fr_FR": "Engagement intense",
+    "it_IT": "Ingaggio Tagliente",
+    "ru_RU": "\u0411\u043e\u0435\u0432\u0430\u044f \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f",
+    "ko_KR": "\uc5f4\ub82c\ud55c \uad50\uc804",
+    "zh_TW": "\u654f\u92b3\u4ea4\u6230",
+    "zh_CN": "\u9510\u610f\u4ea4\u950b"
+  },
+  "description_blz": {
+    "en_US": "Reaver's Glaive generates 20 Fury.",
+    "es_MX": "Guja de atracador genera 20 p. de furia.",
+    "pt_BR": "A Glaive do Aniquilador gera 20 de F\u00faria.",
+    "de_DE": "'H\u00e4schergleve' generiert 20 Zorn.",
+    "en_GB": "Reaver's Glaive generates 20 Fury.",
+    "es_ES": "Guja de atracador genera 20 p. de furia.",
+    "fr_FR": "Glaive de saccageur g\u00e9n\u00e8re 20\u00a0points de fureur.",
+    "it_IT": "Lame del Razziatore genera 20 furia.",
+    "ru_RU": "\"\u041a\u043b\u0438\u043d\u043e\u043a \u0440\u0430\u0437\u043e\u0440\u0438\u0442\u0435\u043b\u044f\" \u0434\u0430\u0435\u0442 20 \u0435\u0434. \u0433\u043d\u0435\u0432\u0430.",
+    "ko_KR": "\ud30c\uad34\uc790\uc758 \uae00\ub808\uc774\ube0c\uac00 20\uc758 \uaca9\ub178\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65ac\u63a0\u6230\u5203\u6703\u7522\u751f20\u9ede\u9b54\u6012\u3002",
+    "zh_CN": "\u6536\u5272\u8005\u6218\u5203\u4ea7\u751f20\u70b9\u6076\u9b54\u4e4b\u6012\u3002"
+  }
 }

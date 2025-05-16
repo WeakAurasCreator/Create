@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "402964"
+  "SpellID": "402964",
+  "name_blz": {
+    "en_US": "Sanctified Plates",
+    "es_MX": "Placas santificadas",
+    "pt_BR": "Coura\u00e7a Santificada",
+    "de_DE": "Geweihte Platten",
+    "en_GB": "Sanctified Plates",
+    "es_ES": "Placas santificadas",
+    "fr_FR": "Plaques sanctifi\u00e9es",
+    "it_IT": "Piastre Consacrate",
+    "ru_RU": "\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0435 \u043b\u0430\u0442\u044b",
+    "ko_KR": "\ucd95\uc131\ub41c \ud310\uae08",
+    "zh_TW": "\u6c90\u8056\u8b77\u93a7",
+    "zh_CN": "\u5723\u5316\u62a4\u7532"
+  },
+  "description_blz": {
+    "en_US": "Armor increased by 10%, Stamina increased by 5% and damage taken from area of effect attacks reduced by 3%.",
+    "es_MX": "La armadura aumenta un 10%, el aguante aumenta un 5% y el da\u00f1o recibido de ataques con \u00e1rea de efecto se reduce un 3%.",
+    "pt_BR": "Armadura aumentada em 10%, Vigor aumentado em 5% e dano recebido de ataques em \u00e1rea reduzido em 3%.",
+    "de_DE": "Erh\u00f6ht die R\u00fcstung um 10%, die Ausdauer um 5% und verringert durch Fl\u00e4chenangriffe erlittenen Schaden um 3%.",
+    "en_GB": "Armor increased by 10%, Stamina increased by 5% and damage taken from area of effect attacks reduced by 3%.",
+    "es_ES": "Armadura aumentada un 10%, aguante aumentado un 5% y da\u00f1o recibido de los ataques de \u00e1rea de efecto reducido un 3%.",
+    "fr_FR": "Armure augment\u00e9e de 10%, Endurance augment\u00e9e de 5% et d\u00e9g\u00e2ts subis des attaques \u00e0 zone d\u2019effet r\u00e9duits de 3%.",
+    "it_IT": "Aumenta l'armatura del 10%, aumenta la Tempra del 5% e riduce i danni subiti dagli attacchi ad area d'effetto del 3%.",
+    "ru_RU": "\u0423\u043a\u0440\u0435\u043f\u043b\u044f\u0435\u0442 \u0431\u0440\u043e\u043d\u044e \u043d\u0430 10%, \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c \u043d\u0430 5% \u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u043e\u0442 \u0430\u0442\u0430\u043a \u043f\u043e \u043e\u0431\u043b\u0430\u0441\u0442\u0438, \u043d\u0430 3%.",
+    "ko_KR": "\ubc29\uc5b4\ub3c4\uac00 10%\ub9cc\ud07c, \uccb4\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c \uad11\uc5ed \uacf5\uaca9\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574\uac00 3%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8b77\u7532\u503c\u63d0\u9ad810%\uff0c\u8010\u529b\u63d0\u9ad85%\uff0c\u53d7\u5230\u7684\u7bc4\u570d\u653b\u64ca\u50b7\u5bb3\u964d\u4f4e3%\u3002",
+    "zh_CN": "\u62a4\u7532\u63d0\u9ad810%\uff0c\u8010\u529b\u63d0\u9ad85%\uff0c\u53d7\u5230\u7684\u8303\u56f4\u653b\u51fb\u4f24\u5bb3\u964d\u4f4e3%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "432615"
+  "SpellID": "432615",
+  "name_blz": {
+    "en_US": "Endless Wrath",
+    "es_MX": "Furia sin fin",
+    "pt_BR": "Ira Infinita",
+    "de_DE": "Endloser Zorn",
+    "en_GB": "Endless Wrath",
+    "es_ES": "C\u00f3lera infinita",
+    "fr_FR": "Courroux infini",
+    "it_IT": "Ira Infinita",
+    "ru_RU": "\u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0433\u043d\u0435\u0432",
+    "ko_KR": "\ubb34\ud55c\ud55c \ucc9c\ubc8c",
+    "zh_TW": "\u7121\u76e1\u6012\u706b",
+    "zh_CN": "\u65e0\u9645\u6124\u6012"
+  },
+  "description_blz": {
+    "en_US": "Calling down an Empyrean Hammer has a 10% chance to reset the cooldown of Hammer of Wrath and make it usable on any target, regardless of their health.",
+    "es_MX": "Invocar un Martillo emp\u00edreo tiene un 10% de probabilidad de restablecer el tiempo de reutilizaci\u00f3n de Martillo de c\u00f3lera y hacer que se pueda usar en cualquier objetivo, independientemente de su salud.",
+    "pt_BR": "Chamar um Martelo Emp\u00edreo tem 10% de chance de concluir a recarga de Martelo da Ira e permitir o uso dele em qualquer alvo, independentemente dos pontos de vida.",
+    "de_DE": "'Himmelshammer' hat eine Chance von 10%, die Abklingzeit von 'Hammer des Zorns' abzuschlie\u00dfen und die F\u00e4higkeit gegen jedes Ziel einsetzbar zu machen, unabh\u00e4ngig von seiner Gesundheit.",
+    "en_GB": "Calling down an Empyrean Hammer has a 10% chance to reset the cooldown of Hammer of Wrath and make it usable on any target, regardless of their health.",
+    "es_ES": "Al invocar un Martillo emp\u00edreo, hay un 10% de probabilidades de restablecer el tiempo de reutilizaci\u00f3n de Martillo de c\u00f3lera, que se podr\u00e1 usar contra cualquier objetivo independientemente de su salud.",
+    "fr_FR": "Lorsque vous lancez Marteau empyr\u00e9en, vous avez 10\u00a0% de chances de mettre fin au temps de recharge de Marteau de courroux et de le rendre utilisable sur n\u2019importe quelle cible, quels que soient ses points de vie.",
+    "it_IT": "Lanciare Martello Empireo fornisce una probabilit\u00e0 del 10% di azzerare il tempo di recupero di Martello dell'Ira e di renderlo utilizzabile su qualsiasi bersaglio, a prescindere dalla salute.",
+    "ru_RU": "\"\u041d\u0435\u0431\u0435\u0441\u043d\u044b\u0439 \u043c\u043e\u043b\u043e\u0442\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 10% \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041c\u043e\u043b\u043e\u0442\u0430 \u0433\u043d\u0435\u0432\u0430\" \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0435\u0433\u043e \u043a \u0446\u0435\u043b\u0438 \u0441 \u043b\u044e\u0431\u044b\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ucd5c\uace0\ucc9c\uc758 \ub9dd\uce58\ub97c \ubd88\ub7ec \ub0b4\ub9ac\uba74 10%\uc758 \ud655\ub960\ub85c \ucc9c\ubc8c\uc758 \ub9dd\uce58\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd08\uae30\ud654\ub418\uace0 \ub300\uc0c1\uc758 \ub0a8\uc740 \uc0dd\uba85\ub825\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0ac\uc6a9\ud560 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u84bc\u7a79\u4e4b\u9318\u670910%\u7684\u6a5f\u7387\u91cd\u7f6e\u61a4\u6012\u4e4b\u9318\u7684\u51b7\u537b\u6642\u9593\uff0c\u4e26\u4f7f\u5176\u53ef\u5c0d\u4efb\u4f55\u76ee\u6a19\u4f7f\u7528\uff0c\u4e0d\u53d7\u76ee\u6a19\u7684\u751f\u547d\u529b\u5f71\u97ff\u3002",
+    "zh_CN": "\u53ec\u5524\u4e00\u628a\u82cd\u7a79\u4e4b\u9524\u670910%\u7684\u51e0\u7387\u91cd\u7f6e\u6124\u6012\u4e4b\u9524\u7684\u51b7\u5374\u65f6\u95f4\uff0c\u5e76\u4f7f\u5176\u53ef\u4ee5\u5bf9\u4efb\u610f\u76ee\u6807\u4f7f\u7528\uff0c\u65e0\u89c6\u5176\u751f\u547d\u503c\u3002"
+  }
 }

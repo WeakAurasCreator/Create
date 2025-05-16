@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444008"
+  "SpellID": "444008",
+  "name_blz": {
+    "en_US": "On a Paler Horse",
+    "es_MX": "Sobre un caballo m\u00e1s bayo",
+    "pt_BR": "Sobre um Cavalo Mais P\u00e1lido",
+    "de_DE": "Der Tod reit' schneller",
+    "en_GB": "On a Paler Horse",
+    "es_ES": "El m\u00e1s p\u00e1lido",
+    "fr_FR": "Monture blafarde",
+    "it_IT": "Cavalcata Inarrestabile",
+    "ru_RU": "\u041d\u0430 \u0435\u0449\u0435 \u0431\u043e\u043b\u0435\u0435 \u0431\u043b\u0435\u0434\u043d\u043e\u043c \u043a\u043e\u043d\u0435",
+    "ko_KR": "\ub354\uc6b1\ub354 \ucc3d\ubc31\ud55c \ub9d0",
+    "zh_TW": "\u9ab8\u99ac\u5954\u99b3",
+    "zh_CN": "\u544a\u6b7b\u82cd\u9a79"
+  },
+  "description_blz": {
+    "en_US": "While outdoors you are able to mount your Acherus Deathcharger in combat.",
+    "es_MX": "En exteriores, puedes montar tu Destrero de la muerte de Acherus en combate.",
+    "pt_BR": "Em ambientes externos, voc\u00ea pode montar seu Corcel da Morte de \u00c1querus em combate.",
+    "de_DE": "In der Au\u00dfenwelt k\u00f6nnt Ihr auch im Kampf auf Euer Todesstreitross von Acherus aufsitzen.",
+    "en_GB": "While outdoors you are able to mount your Acherus Deathcharger in combat.",
+    "es_ES": "Mientras te encuentras en el exterior, puedes montar sobre el destrero de la muerte de Acherus en combate.",
+    "fr_FR": "En ext\u00e9rieur, vous pouvez chevaucher votre destrier de la mort d\u2019Ach\u00e9rus en combat.",
+    "it_IT": "Quando ci si trova all'esterno si pu\u00f2 salire sulla propria cavalcatura Nerodestriero di Acherus anche in combattimento.",
+    "ru_RU": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043a\u043e\u043d\u0435\u043c \u0441\u043c\u0435\u0440\u0442\u0438 \u0410\u043a\u0435\u0440\u0443\u0441\u0430 \u0432 \u0431\u043e\u044e, \u043f\u043e\u043a\u0430 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0435\u0441\u044c \u0432\u043d\u0435 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439.",
+    "ko_KR": "\uc57c\uc678\uc5d0\uc11c \uc804\ud22c \uc2dc \uc544\ucf00\ub8e8\uc2a4 \uc8fd\uc74c\uc758 \uad70\ub9c8\ub97c \ud0c0\uace0 \uc2f8\uc6b8 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u5728\u6236\u5916\u6642\u53ef\u5728\u6230\u9b25\u4e2d\u9a0e\u4e58\u4e9e\u69ad\u6d1b\u6b7b\u4ea1\u6230\u9a0e\u3002",
+    "zh_CN": "\u5728\u6237\u5916\u65f6\uff0c\u4f60\u53ef\u4ee5\u5728\u6218\u6597\u4e2d\u9a91\u4e58\u963f\u5f7b\u9c81\u65af\u6b7b\u4ea1\u6218\u9a6c\u3002"
+  }
 }

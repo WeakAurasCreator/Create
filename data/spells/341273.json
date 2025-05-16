@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341273"
+  "SpellID": "341273",
+  "name_blz": {
+    "en_US": "Unfurling Darkness",
+    "es_MX": "Oscuridad desquiciada",
+    "pt_BR": "Escurid\u00e3o Desatante",
+    "de_DE": "Ausbreitende Dunkelheit",
+    "en_GB": "Unfurling Darkness",
+    "es_ES": "Oscuridad desatada",
+    "fr_FR": "D\u00e9ferlement de t\u00e9n\u00e8bres",
+    "it_IT": "Oscurit\u00e0 Dispiegata",
+    "ru_RU": "\u0420\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u0442\u044c\u043c\u0430",
+    "ko_KR": "\ud3bc\uccd0\uc9c0\ub294 \uc5b4\ub460",
+    "zh_TW": "\u9ed1\u6697\u5ef6\u5c55",
+    "zh_CN": "\u9ed1\u6697\u5f25\u6f2b"
+  },
+  "description_blz": {
+    "en_US": "After casting Vampiric Touch on a target, your next Vampiric Touch within 8 sec is instant cast and deals 16,842 Shadow damage immediately.\r\n\r\nThis effect cannot occur more than once every 15 sec.",
+    "es_MX": "Despu\u00e9s de lanzar Toque vamp\u00edrico contra un objetivo, tu pr\u00f3ximo lanzamiento de Toque vamp\u00edrico en 8 s es instant\u00e1neo e inflige 16,842 p. de da\u00f1o de las sombras de forma inmediata.\r\n\r\nEste efecto no puede ocurrir m\u00e1s de una vez cada 15 s.",
+    "pt_BR": "Ap\u00f3s lan\u00e7ar Toque Vamp\u00edrico em um alvo, o seu pr\u00f3ximo Toque Vamp\u00edrico em at\u00e9 8 s ser\u00e1 instant\u00e2neo e causar\u00e1 16.842 de dano de Sombra imediatamente.\r\n\r\nEste efeito s\u00f3 pode ocorrer uma vez a cada 15 s.",
+    "de_DE": "Nachdem Ihr ein Ziel mit 'Vampirber\u00fchrung' belegt habt, ist Euer n\u00e4chster Einsatz von 'Vampirber\u00fchrung' innerhalb von 8 Sek. ein Spontanzauber und verursacht sofort 16.842 Schattenschaden.\r\n\r\nDieser Effekt kann nur einmal alle 15 Sek. auftreten.",
+    "en_GB": "After casting Vampiric Touch on a target, your next Vampiric Touch within 8 sec is instant cast and deals 16,842 Shadow damage immediately.\r\n\r\nThis effect cannot occur more than once every 15 sec.",
+    "es_ES": "Despu\u00e9s de lanzar Toque vamp\u00edrico a un objetivo, tu siguiente Toque vamp\u00edrico antes de 8 s se lanza al instante e inflige 16842 p. de da\u00f1o de las Sombras inmediatamente.\r\n\r\nEste efecto solo se puede producir una vez cada 15 s.",
+    "fr_FR": "Apr\u00e8s avoir lanc\u00e9 Toucher vampirique sur une cible, votre prochain Toucher vampirique avant 8 s est instantan\u00e9 et inflige imm\u00e9diatement 16842\u00a0points de d\u00e9g\u00e2ts d\u2019Ombre.\r\n\r\nCet effet ne peut pas se produire plus d\u2019une fois toutes les 15 s.",
+    "it_IT": "Dopo aver lanciato Tocco Vampirico su un bersaglio, il successivo Tocco Vampirico lanciato entro 8 s \u00e8 istantaneo e infligge 16.842 danni da ombra aggiuntivi.\r\n\r\nL'effetto non pu\u00f2 verificarsi pi\u00f9 di una volta ogni 15 s.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043a \u0446\u0435\u043b\u0438 \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u044f \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0432\u0430\u043c\u043f\u0438\u0440\u0430\", \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u043d\u043e\u0435 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a., \u043d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0438 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u043d\u0430\u043d\u043e\u0441\u0438\u0442 16842 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.\r\n\r\n\u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 15 \u0441\u0435\u043a.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \ud761\ud608\uc758 \uc190\uae38\uc744 \uc2dc\uc804\ud55c \ud6c4, 8\ucd08 \uc548\uc5d0 \uc2dc\uc804\ud558\ub294 \ub2e4\uc74c \ud761\ud608\uc758 \uc190\uae38\uc740 \uc989\uc2dc \uc2dc\uc804\ub418\uace0 \uc989\uc2dc 16,842\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc774 \ud6a8\uacfc\ub294 15\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u76ee\u6a19\u65bd\u653e\u5438\u8840\u4e4b\u89f8\u5f8c\uff0c\u4f60\u57288\u79d2\u5167\u65bd\u653e\u7684\u4e0b\u4e00\u500b\u5438\u8840\u4e4b\u89f8\u6210\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u4e26\u7acb\u523b\u9020\u621016,842\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\r\n\r\n\u6b64\u6548\u679c\u6bcf15\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5728\u5bf9\u4e00\u4e2a\u76ee\u6807\u65bd\u653e\u5438\u8840\u9b3c\u4e4b\u89e6\u540e\uff0c\u4f60\u57288\u79d2\u5185\u7684\u4e0b\u4e00\u4e2a\u5438\u8840\u9b3c\u4e4b\u89e6\u53d8\u4e3a\u77ac\u53d1\u5e76\u7acb\u5373\u9020\u621016,842\u70b9\u6697\u5f71\u4f24\u5bb3\u3002\r\n\r\n\u8be5\u6548\u679c\u6bcf15\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

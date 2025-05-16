@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386110"
+  "SpellID": "386110",
+  "name_blz": {
+    "en_US": "Fiendish Stride",
+    "es_MX": "Zancada maligna",
+    "pt_BR": "Passada Mal\u00e9vola",
+    "de_DE": "H\u00f6llisches Schreiten",
+    "en_GB": "Fiendish Stride",
+    "es_ES": "Zancada maligna",
+    "fr_FR": "Foul\u00e9e diabolique",
+    "it_IT": "Passo Demoniaco",
+    "ru_RU": "\u0414\u044c\u044f\u0432\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043f\u043e\u0445\u043e\u0434\u043a\u0430",
+    "ko_KR": "\uc545\uadc0\uc758 \uac78\uc74c",
+    "zh_TW": "\u60e1\u9b54\u6b65\u5c65",
+    "zh_CN": "\u6076\u9b54\u6b65"
+  },
+  "description_blz": {
+    "en_US": "Reduces the damage dealt by Burning Rush by 10%. Burning Rush increases your movement speed by an additional 20%.",
+    "es_MX": "Reduce el da\u00f1o infligido por \u00cdmpetu ardiente un 10%. \u00cdmpetu ardiente aumenta tu velocidad de movimiento un 20% m\u00e1s.",
+    "pt_BR": "Reduz em 10% o dano causado por Impulso Ardente. Impulso Ardente aumenta em mais 20% sua velocidade de movimento.",
+    "de_DE": "Verringert den von 'Brennender Ansturm' verursachten Schaden um 10%. 'Brennender Ansturm' erh\u00f6ht Eure Bewegungsgeschwindigkeit um zus\u00e4tzlich 20%.",
+    "en_GB": "Reduces the damage dealt by Burning Rush by 10%. Burning Rush increases your movement speed by an additional 20%.",
+    "es_ES": "Reduce un 10% el da\u00f1o infligido por \u00cdmpetu ardiente. \u00cdmpetu ardiente aumenta un 20% m\u00e1s tu velocidad de movimiento.",
+    "fr_FR": "R\u00e9duit les d\u00e9g\u00e2ts inflig\u00e9s par Ru\u00e9e ardente de 10%. Ru\u00e9e ardente augmente votre vitesse de d\u00e9placement de 20% suppl\u00e9mentaires.",
+    "it_IT": "Riduce i danni inflitti da Rapidit\u00e0 Bruciante del 10%. Rapidit\u00e0 Bruciante aumenta la velocit\u00e0 di movimento del 20% aggiuntivo.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u0435\u0433\u0430\" \u043d\u0430 10%. \"\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0431\u0435\u0433\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0435\u0449\u0435 \u043d\u0430 20%.",
+    "ko_KR": "\ubd88\ud0c0\ub294 \ub3cc\uc9c4\uc73c\ub85c \uc785\ub294 \ud53c\ud574\uac00 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ub610\ud55c \ubd88\ud0c0\ub294 \ub3cc\uc9c4\uc774 \uc774\ub3d9 \uc18d\ub3c4\ub97c \ucd94\uac00\ub85c 20%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u71c3\u71d2\u72c2\u5954\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e10%\u3002\u71c3\u71d2\u72c2\u5954\u53ef\u4f7f\u4f60\u7684\u79fb\u52d5\u901f\u5ea6\u984d\u5916\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u7206\u71c3\u51b2\u523a\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e10%\u3002\u7206\u71c3\u51b2\u523a\u4f7f\u4f60\u7684\u79fb\u52a8\u901f\u5ea6\u989d\u5916\u63d0\u9ad820%\u3002"
+  }
 }

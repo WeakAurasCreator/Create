@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382800"
+  "SpellID": "382800",
+  "name_blz": {
+    "en_US": "Accumulative Shielding",
+    "es_MX": "Escudo acumulativo",
+    "pt_BR": "Prote\u00e7\u00e3o Cumulativa",
+    "de_DE": "Akkumulierte Abschirmung",
+    "en_GB": "Accumulative Shielding",
+    "es_ES": "Protecci\u00f3n acumulativa",
+    "fr_FR": "Bouclier cumulatif",
+    "it_IT": "Protezione Accumulativa",
+    "ru_RU": "\u041a\u0443\u043c\u0443\u043b\u044f\u0442\u0438\u0432\u043d\u044b\u0435 \u0449\u0438\u0442\u044b",
+    "ko_KR": "\ubcf4\ud638\ub9c9 \ucd95\uc804",
+    "zh_TW": "\u758a\u52a0\u8b77\u76fe",
+    "zh_CN": "\u79ef\u805a\u62a4\u76fe"
+  },
+  "description_blz": {
+    "en_US": "Your barrier's cooldown recharges 30% faster while the shield persists.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de tu barrera se recarga un 30% m\u00e1s r\u00e1pido mientras el escudo persiste.",
+    "pt_BR": "A recarga da sua barreira recarrega 30% mais r\u00e1pido enquanto o escudo durar.",
+    "de_DE": "Die Abklingzeit Eurer Barriere l\u00e4dt sich 30% schneller wieder auf, solange der Schild anh\u00e4lt.",
+    "en_GB": "Your barrier's cooldown recharges 30% faster while the shield persists.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de tu barrera se recarga un 30% m\u00e1s r\u00e1pido mientras dura el escudo.",
+    "fr_FR": "Le temps de recharge de votre barri\u00e8re est acc\u00e9l\u00e9r\u00e9 de 30% tant que le bouclier est actif.",
+    "it_IT": "Aumenta la velocit\u00e0 di recupero della tua Barriera del 30% finch\u00e9 lo scudo persiste.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0449\u0438\u0442, \u0432\u0430\u0448\u0438 \u043f\u0440\u0435\u0433\u0440\u0430\u0434\u044b \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 30% \u0431\u044b\u0441\u0442\u0440\u0435\u0435.",
+    "ko_KR": "\ubcf4\ud638\ub9c9\uc774 \uc9c0\uc18d\ub418\ub294 \ub3d9\uc548 \ubc29\ubcbd \uc8fc\ubb38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 30%\ub9cc\ud07c \ub354 \ube68\ub9ac \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8b77\u76fe\u6301\u7e8c\u671f\u9593\uff0c\u4f60\u5c4f\u969c\u7684\u51b7\u537b\u6642\u9593\u6062\u5fa9\u901f\u5ea6\u52a0\u5feb30%\u3002",
+    "zh_CN": "\u5f53\u62a4\u76fe\u5b58\u5728\u65f6\uff0c\u4f60\u7684\u62a4\u4f53\u6280\u80fd\u51b7\u5374\u901f\u5ea6\u52a0\u5feb30%\u3002"
+  }
 }

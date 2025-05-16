@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "445036"
+  "SpellID": "445036",
+  "name_blz": {
+    "en_US": "Totemic Coordination",
+    "es_MX": "Coordinaci\u00f3n tot\u00e9mica",
+    "pt_BR": "Coordena\u00e7\u00e3o Tot\u00eamica",
+    "de_DE": "Totemische Koordination",
+    "en_GB": "Totemic Coordination",
+    "es_ES": "Coordinaci\u00f3n tot\u00e9mica",
+    "fr_FR": "Coordination tot\u00e9mique",
+    "it_IT": "Coordinazione Totemica",
+    "ru_RU": "\u0422\u043e\u0442\u0435\u043c\u043d\u0430\u044f \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u044f",
+    "ko_KR": "\ud1a0\ud15c\uc758 \ud611\uc751",
+    "zh_TW": "\u5716\u9a30\u5354\u4f5c",
+    "zh_CN": "\u56fe\u817e\u534f\u540c"
+  },
+  "description_blz": {
+    "en_US": "Chain Heals from Lively Totem and Totemic Rebound are 25% more effective.",
+    "es_MX": "Las Sanaciones en cadena de T\u00f3tem animado y Rebote tot\u00e9mico son un 25% m\u00e1s efectivas.",
+    "pt_BR": "Curas Encadeadas de Totens Vivazes e Repercuss\u00e3o Tot\u00eamica s\u00e3o 25% mais eficazes.",
+    "de_DE": "'Kettenheilung' von 'Lebendiges Totem' und 'Totemischer Abpraller' ist 25% effektiver.",
+    "en_GB": "Chain Heals from Lively Totem and Totemic Rebound are 25% more effective.",
+    "es_ES": "Las sanaciones en cadena de T\u00f3tem vivaz y Rebote tot\u00e9mico son un 25% m\u00e1s efectivas.",
+    "fr_FR": "Les Salves de gu\u00e9rison lanc\u00e9es gr\u00e2ce \u00e0 vos talents Totems vivants et Rebond tot\u00e9mique sont 25\u00a0% plus efficace.",
+    "it_IT": "Aumenta l'efficacia delle Catene di Guarigione lanciate da Totem Vivaci e Rimbalzo Totemico del 25%.",
+    "ru_RU": "\"\u0426\u0435\u043f\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u043e\u0442 \"\u042d\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u044b\u0445 \u0442\u043e\u0442\u0435\u043c\u043e\u0432\" \u0438 \"\u0422\u043e\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0442\u043e\u043b\u0447\u043a\u0430\" \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043d\u0430 25% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ud65c\ubc1c\ud55c \ud1a0\ud15c \ubc0f \ud1a0\ud15c\uc758 \ubc18\ud5a5\uc73c\ub85c \ubc1c\ub3d9\ud558\ub294 \uc5f0\uc1c4 \uce58\uc720\uc758 \ud6a8\uacfc\uac00 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6d3b\u529b\u5716\u9a30\u548c\u5716\u9a30\u53cd\u5f48\u7684\u6cbb\u7642\u934a\u6548\u679c\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u751f\u673a\u56fe\u817e\u548c\u56fe\u817e\u53cd\u5f39\u7684\u6cbb\u7597\u94fe\u7684\u6548\u679c\u63d0\u9ad825%\u3002"
+  }
 }

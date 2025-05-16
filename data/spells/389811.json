@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389811"
+  "SpellID": "389811",
+  "name_blz": {
+    "en_US": "Unnatural Malice",
+    "es_MX": "Malicia antinatural",
+    "pt_BR": "Mal\u00edcia Anormal",
+    "de_DE": "Unnat\u00fcrliche Bosheit",
+    "en_GB": "Unnatural Malice",
+    "es_ES": "Malicia antinatural",
+    "fr_FR": "Malveillance surnaturelle",
+    "it_IT": "Malizia Innaturale",
+    "ru_RU": "\u041d\u0435\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0437\u043b\u043e\u0431\u0430",
+    "ko_KR": "\uae30\uc774\ud55c \uc545\uc758",
+    "zh_TW": "\u51f6\u60e1\u8ffd\u64ca",
+    "zh_CN": "\u5f02\u5e38\u4e4b\u4ec7"
+  },
+  "description_blz": {
+    "en_US": "Increase the damage over time effect of The Hunt by 30%.",
+    "es_MX": "Aumenta un 30% el efecto de da\u00f1o con el tiempo de La cacer\u00eda.",
+    "pt_BR": "Aumenta em 30% o dano ao longo do tempo de A Ca\u00e7ada.",
+    "de_DE": "Erh\u00f6ht den regelm\u00e4\u00dfigen Schadenseffekt von 'Die Jagd' um 30%.",
+    "en_GB": "Increase the damage over time effect of The Hunt by 30%.",
+    "es_ES": "El efecto de da\u00f1o en el tiempo de La caza aumenta un 30%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts sur la dur\u00e9e de La Traque de 30%.",
+    "it_IT": "Aumenta i danni periodici inflitti da A Caccia del 30%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041e\u0445\u043e\u0442\u044b\" \u043d\u0430 30%.",
+    "ko_KR": "\uc0ac\ub0e5\uc758 \uc9c0\uc18d \ud53c\ud574\ub7c9\uc774 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7375\u6bba\u8ffd\u64ca\u7684\u6301\u7e8c\u6027\u50b7\u5bb3\u6548\u679c\u63d0\u9ad830%\u3002",
+    "zh_CN": "\u6076\u9b54\u8ffd\u51fb\u9020\u6210\u7684\u6301\u7eed\u4f24\u5bb3\u63d0\u9ad830%\u3002"
+  }
 }

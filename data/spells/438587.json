@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "438587"
+  "SpellID": "438587",
+  "name_blz": {
+    "en_US": "Mass Eruption",
+    "es_MX": "Erupci\u00f3n masiva",
+    "pt_BR": "Erup\u00e7\u00e3o em Massa",
+    "de_DE": "Masseneruption",
+    "en_GB": "Mass Eruption",
+    "es_ES": "Erupci\u00f3n en masa",
+    "fr_FR": "\u00c9ruption de masse",
+    "it_IT": "Eruzione di Massa",
+    "ru_RU": "\u041c\u0430\u0441\u0441\u043e\u0432\u043e\u0435 \u0438\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub300\uaddc\ubaa8 \ubd84\ucd9c",
+    "zh_TW": "\u96c6\u9ad4\u7206\u767c",
+    "zh_CN": "\u5927\u89c4\u6a21\u55b7\u53d1"
+  },
+  "description_blz": {
+    "en_US": "Empower spells cause your next Eruption to strike up to 3 targets. When striking less than 3 targets, Eruption damage is increased by 15% for each missing target.",
+    "es_MX": "Potenciar hechizos hace que tu pr\u00f3xima Erupci\u00f3n golpee a un m\u00e1ximo de 3 objetivos. Si golpea a menos de 3 objetivos, el da\u00f1o de la Erupci\u00f3n aumenta un 15% por cada objetivo que falte.",
+    "pt_BR": "Feiti\u00e7os de potencializa\u00e7\u00e3o fazem com que sua pr\u00f3xima Erup\u00e7\u00e3o acerte at\u00e9 3 alvos. Quando acerta menos de 3 alvos, o dano da Erup\u00e7\u00e3o \u00e9 aumentado em 15% para cada alvo perdido.",
+    "de_DE": "Erm\u00e4chtigte Zauber lassen Eure n\u00e4chste Eruption bis zu 3 Ziele treffen. Wenn weniger als 3 Ziele getroffen werden, wird der Schaden von 'Masseneruption' f\u00fcr jedes fehlende Ziel um 15% erh\u00f6ht.",
+    "en_GB": "Empower spells cause your next Eruption to strike up to 3 targets. When striking less than 3 targets, Eruption damage is increased by 15% for each missing target.",
+    "es_ES": "Al potenciar hechizos, tu siguiente Erupci\u00f3n golpea a un m\u00e1ximo de 3 objetivos. Cuando golpee a menos de 3 objetivos, el da\u00f1o de Erupci\u00f3n aumentar\u00e1 un 15% por cada objetivo que falte.",
+    "fr_FR": "Les sorts renforc\u00e9s entra\u00eenent votre prochaine \u00c9ruption \u00e0 frapper jusqu\u2019\u00e0 3\u00a0cibles. Lorsque vous touchez moins de 3\u00a0cibles, les d\u00e9g\u00e2ts d\u2019\u00c9ruption sont augment\u00e9s de 15\u00a0% par cible manqu\u00e9e.",
+    "it_IT": "Gli incantesimi Potenziati fanno s\u00ec che la successiva Eruzione colpisca fino a 3 bersagli. Se Eruzione colpisce meno di 3 bersagli, i danni inflitti aumentano del 15% per ogni bersaglio mancante.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c\u0443 \"\u0418\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u044e\" \u043f\u043e\u0440\u0430\u0437\u0438\u0442\u044c \u0434\u043e 3 \u0446\u0435\u043b\u0435\u0439. \u041f\u043e\u0440\u0430\u0437\u0438\u0432 \u043c\u0435\u043d\u0435\u0435 3 \u0446\u0435\u043b\u0435\u0439, \"\u0418\u0437\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u0435\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u044e\u0449\u0443\u044e \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\uac15\ud654 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc \ub2e4\uc74c \ubd84\ucd9c\uc774 \ucd5c\ub300 3\uba85\uc758 \ub300\uc0c1\uc744 \uac00\uaca9\ud569\ub2c8\ub2e4. 3\uba85 \ubbf8\ub9cc\uc758 \ub300\uc0c1\uc744 \uac00\uaca9\ud560 \uacbd\uc6b0 \ucd5c\ub300\uce58\uc5d0\uc11c \ubd80\uc871\ud55c \ub300\uc0c1 \ud55c \uba85\ub2f9 \ubd84\ucd9c\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u805a\u80fd\u6cd5\u8853\u6703\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u7206\u767c\u6700\u591a\u64ca\u4e2d3\u500b\u76ee\u6a19\u3002\u64ca\u4e2d\u7684\u76ee\u6a19\u5c11\u65bc3\u500b\u6642\uff0c\u6bcf\u5c11\u4e00\u500b\u76ee\u6a19\uff0c\u90fd\u6703\u4f7f\u7206\u767c\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u84c4\u529b\u6cd5\u672f\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u55b7\u53d1\u51fb\u4e2d\u6700\u591a3\u4e2a\u76ee\u6807\u3002\u51fb\u4e2d\u7684\u76ee\u6807\u5c11\u4e8e3\u4e2a\u65f6\uff0c\u6bcf\u5c11\u4e00\u4e2a\u76ee\u6807\uff0c\u55b7\u53d1\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

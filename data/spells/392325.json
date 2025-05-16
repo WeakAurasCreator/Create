@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392325"
+  "SpellID": "392325",
+  "name_blz": {
+    "en_US": "Verdancy",
+    "es_MX": "Ultrafloraci\u00f3n",
+    "pt_BR": "Verdejar",
+    "de_DE": "\u00dcppiges Gr\u00fcn",
+    "en_GB": "Verdancy",
+    "es_ES": "Verdeante",
+    "fr_FR": "Verdoiement",
+    "it_IT": "Verdefilia",
+    "ru_RU": "\u0421\u043e\u0447\u043d\u0430\u044f \u0437\u0435\u043b\u0435\u043d\u044c",
+    "ko_KR": "\ud478\ub978 \uc2e0\ub85d",
+    "zh_TW": "\u65b0\u7da0",
+    "zh_CN": "\u65b0\u7eff"
+  },
+  "description_blz": {
+    "en_US": "When Lifebloom blooms, up to 3 targets within your Efflorescence are healed for 4,303.",
+    "es_MX": "Cuando Flor de vida florece, un m\u00e1ximo de 3 objetivos dentro de tu Floraci\u00f3n reciben una sanaci\u00f3n de 4,303 p.",
+    "pt_BR": "Quando Brotar da Vida floresce, cura 4.303 pontos de vida de at\u00e9 3 alvos dentro da sua Efloresc\u00eancia.",
+    "de_DE": "Wenn 'Bl\u00fchendes Leben' aufbl\u00fcht, werden bis zu 3 Ziele im Effektbereich von Eurem 'Erbl\u00fchen' um 4.303 Gesundheit geheilt.",
+    "en_GB": "When Lifebloom blooms, up to 3 targets within your Efflorescence are healed for 4,303.",
+    "es_ES": "Cuando Flor de vida florece, hasta 3 objetivos al alcance de tu Floraci\u00f3n se sanan 4303 p.",
+    "fr_FR": "Rend 4303\u00a0points de vie \u00e0 un maximum de 3\u00a0cibles dans votre Efflorescence quand Fleur de vie entre en floraison.",
+    "it_IT": "Quando Bocciolo di Vita sboccia, cura fino a 3 bersagli all'interno di una tua Efflorescenza di 4.303.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\u0430\" \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u0435\u0442\u0441\u044f, \u0434\u043e 3 \u0446\u0435\u043b\u0435\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041f\u0435\u0440\u0438\u043e\u0434\u0430 \u0446\u0432\u0435\u0442\u0435\u043d\u0438\u044f\" \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442 4303 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ud53c\uc5b4\ub098\ub294 \uc0dd\uba85\uc774 \ub9cc\uac1c\ud558\uba74 \uc790\uc2e0\uc758 \uaf43\ud53c\uc6b0\uae30\uc758 \ubc94\uc704 \ub0b4\uc5d0 \uc788\ub294 \ucd5c\ub300 3\uba85\uc758 \ub300\uc0c1\uc744 4,303\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u4e4b\u82b1\u958b\u82b1\u6642\uff0c\u4f7f\u751f\u547d\u7dbb\u653e\u7bc4\u570d\u5167\u6700\u591a3\u540d\u76ee\u6a19\u6062\u5fa94,303\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u751f\u547d\u7efd\u653e\u8fdb\u884c\u6700\u7ec8\u7efd\u653e\u65f6\uff0c\u53ef\u4ee5\u6cbb\u7597\u6700\u591a3\u540d\u62e5\u6709\u4f60\u7684\u767e\u82b1\u9f50\u653e\u6548\u679c\u7684\u76ee\u6807\uff0c\u4f7f\u5176\u6062\u590d4,303\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

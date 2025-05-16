@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378457"
+  "SpellID": "378457",
+  "name_blz": {
+    "en_US": "Soaring Shield",
+    "es_MX": "Escudo planeador",
+    "pt_BR": "Escudo Pairante",
+    "de_DE": "Segelnder Schild",
+    "en_GB": "Soaring Shield",
+    "es_ES": "Escudo a propulsi\u00f3n",
+    "fr_FR": "Pouss\u00e9e de bouclier",
+    "it_IT": "Scudo Crescente",
+    "ru_RU": "\u041f\u0430\u0440\u044f\u0449\u0438\u0439 \u0449\u0438\u0442",
+    "ko_KR": "\ub0a0\uc544\uc624\ub974\ub294 \ubc29\ud328",
+    "zh_TW": "\u98db\u65cb\u76fe\u64ca",
+    "zh_CN": "\u98de\u821e\u4e4b\u76fe"
+  },
+  "description_blz": {
+    "en_US": "Avenger's Shield jumps to 2 additional targets.",
+    "es_MX": "Escudo de vengador salta a 2 objetivos m\u00e1s.",
+    "pt_BR": "Escudo do Vingador se propaga para 2 alvos a mais.",
+    "de_DE": "'Schild des R\u00e4chers' springt auf 2 zus\u00e4tzliche Ziele \u00fcber.",
+    "en_GB": "Avenger's Shield jumps to 2 additional targets.",
+    "es_ES": "Escudo de vengador salta a 2 objetivos m\u00e1s.",
+    "fr_FR": "Bouclier du vengeur se propage \u00e0 2\u00a0cibles suppl\u00e9mentaires.",
+    "it_IT": "Scudo del Vendicatore salta su 2 bersagli aggiuntivi.",
+    "ru_RU": "\"\u0429\u0438\u0442 \u043c\u0441\u0442\u0438\u0442\u0435\u043b\u044f\" \u0440\u0438\u043a\u043e\u0448\u0435\u0442\u0438\u0442, \u043f\u043e\u0440\u0430\u0436\u0430\u044f \u0435\u0449\u0435 2 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\uc751\uc9d5\uc758 \ubc29\ud328\uac00 \ucd94\uac00\ub85c 2\uba85\uc758 \ub300\uc0c1\uc744 \uc5f0\uc1c4\uc801\uc73c\ub85c \uac00\uaca9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5fa9\u4ec7\u4e4b\u76fe\u53ef\u984d\u5916\u5f48\u8df3\u52302\u500b\u76ee\u6a19\u8eab\u4e0a\u3002",
+    "zh_CN": "\u590d\u4ec7\u8005\u4e4b\u76fe\u4f1a\u989d\u5916\u8df3\u54112\u4e2a\u76ee\u6807\u3002"
+  }
 }

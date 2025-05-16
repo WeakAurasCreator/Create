@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389724"
+  "SpellID": "389724",
+  "name_blz": {
+    "en_US": "Meteoric Strikes",
+    "es_MX": "Golpes de meteorito",
+    "pt_BR": "Golpes Mete\u00f3ricos",
+    "de_DE": "Meteorst\u00f6\u00dfe",
+    "en_GB": "Meteoric Strikes",
+    "es_ES": "Golpes mete\u00f3ricos",
+    "fr_FR": "Chute de m\u00e9t\u00e9ores",
+    "it_IT": "Assalti Meteorici",
+    "ru_RU": "\u041c\u0435\u0442\u0435\u043e\u0440\u0438\u0442\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b",
+    "ko_KR": "\uc720\uc131\uc758 \uc77c\uaca9",
+    "zh_TW": "\u9695\u77f3\u8f5f\u64ca",
+    "zh_CN": "\u6d41\u661f\u6253\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Reduce the cooldown of Infernal Strike by 10 sec.",
+    "es_MX": "Reduce 10 s el tiempo de reutilizaci\u00f3n de Golpe infernal.",
+    "pt_BR": "Reduz em 10 s a recarga do Golpe Infernal.",
+    "de_DE": "Verringert die Abklingzeit von 'Infernoeinschlag' um 10 Sek.",
+    "en_GB": "Reduce the cooldown of Infernal Strike by 10 sec.",
+    "es_ES": "Reduce 10 s el tiempo de reutilizaci\u00f3n de Golpe infernal.",
+    "fr_FR": "R\u00e9duit le temps de recharge de Frappe infernale de 10\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Assalto Infernale di 10 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0418\u043d\u0444\u0435\u0440\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430\" \u043d\u0430 10 \u0441\u0435\u043a.",
+    "ko_KR": "\ubd88\uc9c0\uc625 \uc77c\uaca9\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 10\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u7149\u7344\u8f5f\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed10\u79d2\u3002",
+    "zh_CN": "\u5730\u72f1\u706b\u649e\u51fb\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed10\u79d2\u3002"
+  }
 }

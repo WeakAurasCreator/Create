@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389102"
+  "SpellID": "389102",
+  "name_blz": {
+    "en_US": "Dragon Rider's Set",
+    "es_MX": "Conjunto de jinete de drag\u00f3n",
+    "pt_BR": "Conjunto do Dragoneiro",
+    "de_DE": "Drachenreiterset",
+    "en_GB": "Dragon Rider's Set",
+    "es_ES": "Conjunto de jinete de drag\u00f3n",
+    "fr_FR": "Ensemble d\u2019\u00e9quipement de chevaucheur de dragon",
+    "it_IT": "Set del Cavalcadraghi",
+    "ru_RU": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043d\u0430\u0435\u0437\u0434\u043d\u0438\u043a\u0430 \u043d\u0430 \u0434\u0440\u0430\u043a\u043e\u043d\u0430\u0445",
+    "ko_KR": "\uc6a9\uae30\uc218\uc758 \ub9c8\uc74c\uac00\uc9d0",
+    "zh_TW": "\u9f8d\u9a0e\u58eb\u7684\u5957\u88dd",
+    "zh_CN": "\u5de8\u9f99\u9a6d\u624b\u5957\u88c5"
+  },
+  "description_blz": {
+    "en_US": "Each time you kill an enemy that rewards honor or experience, gain 160 Intellect for 30 seconds. Additional kills in the Storm can extend this duration for up to 5 minutes.\r\n\r\n",
+    "es_MX": "Cada vez que matas a un enemigo que otorga honor o experiencia, obtienes 160 p. de intelecto durante 30 s. Las muertes adicionales durante la tormenta extienden la duraci\u00f3n hasta 5 minutos.\r\n\r\n",
+    "pt_BR": "Toda vez que matar um inimigo que conceda honra ou experi\u00eancia, voc\u00ea recebe 160 de Intelecto por 30 s. Abates adicionais na Tempestade podem estender esta dura\u00e7\u00e3o por at\u00e9 5 minutos.\r\n\r\n",
+    "de_DE": "Jedes Mal, wenn Ihr einen Gegner t\u00f6tet, der Ehre oder Erfahrung gew\u00e4hrt, erhaltet Ihr f\u00fcr 30 Sek. 160 Intelligenz. Weitere Ziele im Sturm zu t\u00f6ten, kann die Dauer auf bis zu 5 Min. erh\u00f6hen.\r\n\r\n",
+    "en_GB": "Each time you kill an enemy that rewards honor or experience, gain 160 Intellect for 30 seconds. Additional kills in the Storm can extend this duration for up to 5 minutes.\r\n\r\n",
+    "es_ES": "Cada vez que matas a un enemigo que otorga honor o experiencia, obtienes 160 p. de intelecto durante 30 s. Las muertes adicionales en la tormenta pueden prolongar esta duraci\u00f3n hasta 5 min.\r\n\r\n",
+    "fr_FR": "Vous gagnez 160\u00a0points d\u2019Intelligence pendant 30\u00a0s pour chaque adversaire que vous tuez et qui vous rapporte des points d\u2019honneur ou d\u2019exp\u00e9rience. Les victimes suppl\u00e9mentaires se trouvant dans la temp\u00eate peuvent augmenter cette dur\u00e9e jusqu\u2019\u00e0 5\u00a0min.\r\n\r\n",
+    "it_IT": "Ogni volta che si uccide un nemico che fa ottenere onore o esperienza, l'Intelletto aumenta di 160 per 30 s. Ulteriori uccisioni nella tempesta possono aumentarne la durata fino a un massimo di 5 min.\r\n\r\n",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0443\u0431\u0438\u0432\u0430\u0435\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u0437\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u043e\u043f\u044b\u0442 \u0438\u043b\u0438 \u0447\u0435\u0441\u0442\u044c, \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 160 \u043d\u0430 30 \u0441\u0435\u043a. \u041f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u0430 \u0432 \u0437\u043e\u043d\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0431\u0443\u0440\u0438 \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u044e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 5 \u043c\u0438\u043d\u0443\u0442.\r\n\r\n",
+    "ko_KR": "\uc801\uc744 \ucc98\uce58\ud558\uace0 \uba85\uc608 \uc810\uc218\ub098 \uacbd\ud5d8\uce58\ub97c \ubc1b\uc744 \ub54c\ub9c8\ub2e4 30\ucd08 \ub3d9\uc548 \uc9c0\ub2a5\uc774 160\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ud3ed\ud48d \uc18d\uc5d0\uc11c \uc801\uc744 \ucd94\uac00\ub85c \ucc98\uce58\ud560 \uacbd\uc6b0 \uc9c0\uc18d\uc2dc\uac04\uc774 \ucd5c\ub300 5\ubd84\uae4c\uc9c0 \uc5f0\uc7a5\ub429\ub2c8\ub2e4.\r\n\r\n",
+    "zh_TW": "\u6bcf\u6b21\u64ca\u6bba\u53ef\u7372\u5f97\u69ae\u8b7d\u503c\u6216\u7d93\u9a57\u503c\u7684\u6575\u4eba\u5f8c\uff0c\u667a\u529b\u63d0\u9ad8160\u9ede\uff0c\u6301\u7e8c30\u79d2\u3002\u5728\u98a8\u66b4\u4e2d\u7684\u984d\u5916\u64ca\u6bba\u53ef\u4f7f\u6301\u7e8c\u6642\u9593\u6700\u591a\u5ef6\u95775\u5206\u9418\u3002\r\n\r\n",
+    "zh_CN": "\u6bcf\u6b21\u4f60\u6d88\u706d\u4e86\u4e00\u540d\u53ef\u4ee5\u4f7f\u4f60\u83b7\u5f97\u8363\u8a89\u6216\u7ecf\u9a8c\u503c\u7684\u654c\u4eba\uff0c\u83b7\u5f97160\u70b9\u667a\u529b\uff0c\u6301\u7eed30\u79d2\u3002\u5728\u98ce\u66b4\u4e2d\u7684\u989d\u5916\u6d88\u706d\u53ef\u4ee5\u5ef6\u957f\u8be5\u6301\u7eed\u65f6\u95f4\uff0c\u6700\u591a5\u5206\u949f\u3002\r\n\r\n"
+  }
 }

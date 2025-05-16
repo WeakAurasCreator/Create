@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "424113"
+  "SpellID": "424113",
+  "name_blz": {
+    "en_US": "The Eternal Moon",
+    "es_MX": "La luna eterna",
+    "pt_BR": "A Lua Eterna",
+    "de_DE": "Der ewige Mond",
+    "en_GB": "The Eternal Moon",
+    "es_ES": "La luna eterna",
+    "fr_FR": "Lune \u00e9ternelle",
+    "it_IT": "Luna Eterna",
+    "ru_RU": "\u0412\u0435\u0447\u043d\u0430\u044f \u043b\u0443\u043d\u0430",
+    "ko_KR": "\uc601\uc6d0\ud55c \ub2ec",
+    "zh_TW": "\u6c38\u6046\u4e4b\u6708",
+    "zh_CN": "\u6708\u8000\u4e07\u4e16"
+  },
+  "description_blz": {
+    "en_US": "Further increases the power of Boundless Moonlight.\r\n\r\n Fury of Elune\r\nThe flash of energy now generates 6 Astral Power and its damage is increased by 50%.\r\n\r\n Full Moon\r\nNew Moon and Half Moon now also call down 1 Minor Moon.",
+    "es_MX": "Aumenta a\u00fan m\u00e1s el poder de Luz de luna ilimitada.\r\n\r\n Furia de Elune\r\nEl destello de energ\u00eda ahora genera 6 p. de poder astral y su da\u00f1o aumenta un 50%.\r\n\r\n Luna llena\r\nLuna nueva y Medialuna ahora tambi\u00e9n invocan 1 Luna menor.",
+    "pt_BR": "Aumenta ainda mais o poder de Luar Infinito.\r\n\r\n F\u00faria de Eluna\r\nO clar\u00e3o de energia agora gera 6 de Poder Astral e o dano \u00e9 aumentado em 50%.\r\n\r\n Lua Cheia\r\nLua Nova e Meia-lua agora tamb\u00e9m invocam 1 Lua Menor.",
+    "de_DE": "Erh\u00f6ht au\u00dferdem die Macht von 'Endloses Mondlicht'.\r\n\r\n Zorn der Elune\r\nDer Energieblitz erzeugt nun 6 Astrale Macht und verursacht 50% mehr Schaden.\r\n\r\n Vollmond\r\n'Neumond' und 'Halbmond' rufen nun zus\u00e4tzlich 1 kleinen Mond herab.",
+    "en_GB": "Further increases the power of Boundless Moonlight.\r\n\r\n Fury of Elune\r\nThe flash of energy now generates 6 Astral Power and its damage is increased by 50%.\r\n\r\n Full Moon\r\nNew Moon and Half Moon now also call down 1 Minor Moon.",
+    "es_ES": "Aumenta m\u00e1s el poder de Luz lunar infinita.\r\n\r\n Furia de Elune\r\nAhora el destello de energ\u00eda genera 6 p. de poder astral, y su da\u00f1o aumenta un 50%.\r\n\r\n Luna llena\r\nLuna nueva y Medialuna tambi\u00e9n invocan 1luna menor.",
+    "fr_FR": "Augmente davantage la puissance de Clair de lune infini.\r\n\r\n Fureur d\u2019\u00c9lune\r\nL\u2019\u00e9clair d\u2019\u00e9nergie g\u00e9n\u00e8re d\u00e9sormais 6\u00a0points de puissance astrale et ses d\u00e9g\u00e2ts sont augment\u00e9s de 50\u00a0%.\r\n\r\n Pleine lune\r\nNouvelle lune et Demi-lune invoquent \u00e9galement 1\u00a0Lune mineure.",
+    "it_IT": "Aumenta ulteriormente la potenza di Chiaro di Luna Sconfinato.\r\n\r\n Furia di Elune\r\nIl lampo d'energia ora genera 6 potere astrale e infligge il 50% di danni aggiuntivi.\r\n\r\n Luna Piena\r\nLuna Nuova e Mezza Luna ora richiamano anche 1 Luna Minore.",
+    "ru_RU": "\u0415\u0449\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \"\u0411\u0435\u0441\u043a\u0440\u0430\u0439\u043d\u0438\u0439 \u043b\u0443\u043d\u043d\u044b\u0439 \u0441\u0432\u0435\u0442\".\r\n\r\n \u042f\u0440\u043e\u0441\u0442\u044c \u042d\u043b\u0443\u043d\u044b\r\n\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u0434\u0430\u0435\u0442 6 \u0435\u0434. \u0430\u0441\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u043e\u0449\u0438, \u0430 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0435\u044e \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 50%.\r\n\r\n \u041f\u043e\u043b\u043d\u0430\u044f \u043b\u0443\u043d\u0430\r\n\"\u041d\u043e\u0432\u043e\u043b\u0443\u043d\u0438\u0435\" \u0438 \"\u041f\u043e\u043b\u0443\u043c\u0435\u0441\u044f\u0446\" \u0442\u0435\u043f\u0435\u0440\u044c \u0442\u043e\u0436\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u044e\u0442 1 \u043c\u0430\u043b\u0443\u044e \u043b\u0443\u043d\u0443.",
+    "ko_KR": "\ub05d\uc5c6\ub294 \ub2ec\ube5b\uc758 \ud798\uc744 \ucd94\uac00\ub85c \uac15\ud654\ud569\ub2c8\ub2e4.\r\n\r\n \uc5d8\ub8ec\uc758 \ubd84\ub178\r\n\ub9c8\ub825\uc758 \uc12c\uad11\uc774 6\uc758 \ucc9c\uacf5\uc758 \ud798\uc744 \uc0dd\uc131\ud558\uace0 \uacf5\uaca9\ub825\uc740 50%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n \ubcf4\ub984\ub2ec\r\n\ucd08\uc2b9\ub2ec \ubc0f \ubc18\ub2ec\uc774 \uc791\uc740 \ub2ec 1\uac1c\ub97c \ubd88\ub7ec \ub0b4\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u9032\u4e00\u6b65\u63d0\u9ad8\u7121\u76e1\u6708\u5149\u7684\u529b\u91cf\u3002\r\n\r\n\u4f0a\u9732\u6069\u4e4b\u6012\r\n\u80fd\u91cf\u9583\u5149\u73fe\u5728\u6703\u7522\u751f6\u9ede\u661f\u80fd\uff0c\u4e14\u5176\u50b7\u5bb3\u63d0\u9ad850%\u3002\r\n\r\n\u6eff\u6708\r\n\u65b0\u6708\u548c\u534a\u6708\u73fe\u5728\u4e5f\u6703\u547c\u559a1\u500b\u5c0f\u578b\u6708\u4eae\u3002",
+    "zh_CN": "\u8fdb\u4e00\u6b65\u5f3a\u5316\u5929\u6daf\u5171\u94f6\u8f89\u7684\u6548\u679c\u3002\r\n\r\n\u827e\u9732\u6069\u4e4b\u6012\r\n\u95ea\u73b0\u7684\u80fd\u91cf\u73b0\u5728\u4f1a\u4ea7\u751f6\u70b9\u661f\u754c\u80fd\u91cf\uff0c\u4f24\u5bb3\u63d0\u9ad850%\u3002\r\n\r\n \u6ee1\u6708\r\n\u65b0\u6708\u548c\u534a\u6708\u73b0\u5728\u8fd8\u4f1a\u964d\u4e0b1\u4e2a\u5fae\u6708\u3002"
+  }
 }

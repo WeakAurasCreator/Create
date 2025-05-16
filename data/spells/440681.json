@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "440681"
+  "SpellID": "440681",
+  "name_blz": {
+    "en_US": "Waste No Time",
+    "es_MX": "Segundos valiosos",
+    "pt_BR": "N\u00e3o Perca Tempo",
+    "de_DE": "Keine Zeit zu verlieren",
+    "en_GB": "Waste No Time",
+    "es_ES": "Sin perder el tiempo",
+    "fr_FR": "Imp\u00e9ratif",
+    "it_IT": "Nessuno Spreco di Tempo",
+    "ru_RU": "\u041d\u0438 \u0441\u0435\u043a\u0443\u043d\u0434\u044b \u043b\u0438\u0448\u043d\u0435\u0439",
+    "ko_KR": "\ucc9c\uae08 \uac19\uc740 \uc2dc\uac04",
+    "zh_TW": "\u5206\u79d2\u5fc5\u722d",
+    "zh_CN": "\u5206\u79d2\u5fc5\u4e89"
+  },
+  "description_blz": {
+    "en_US": "Premonition causes your next Heal or Prayer of Healing cast to be instant and cost 15% less mana.\r\n",
+    "es_MX": "Premonici\u00f3n hace que tu siguiente lanzamiento de Sanar o Rezo de sanaci\u00f3n sea instant\u00e1neo y cueste un 15% menos de man\u00e1.\r\n",
+    "pt_BR": "Premoni\u00e7\u00e3o faz com que seu pr\u00f3ximo lan\u00e7amento de Cura ou Prece de Cura seja instant\u00e2neo e custe 15% menos mana.\r\n",
+    "de_DE": "'Vorahnung' l\u00e4sst Euren n\u00e4chsten Einsatz von 'Heilung' oder 'Gebet der Heilung' zu einem Spontanzauber werden und 15% weniger Mana kosten.\r\n",
+    "en_GB": "Premonition causes your next Heal or Prayer of Healing cast to be instant and cost 15% less mana.\r\n",
+    "es_ES": "Premonici\u00f3n hace que tu siguiente Sanar o Rezo de sanaci\u00f3n se lance al instante y cueste un 15% menos de man\u00e1.\r\n",
+    "fr_FR": "Pr\u00e9monition rend votre prochaine utilisation de Soins ou Pri\u00e8re de soins instantan\u00e9e et r\u00e9duit son co\u00fbt en mana de 15\u00a0%.\r\n",
+    "it_IT": "Premonizione fa s\u00ec che il successivo lancio di Cura o Preghiera di Cura sia istantaneo e costi il 15% di mana in meno.\r\n",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u041f\u0440\u0435\u0434\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u044f\" \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u0418\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435\" \u0438\u043b\u0438 \"\u041c\u043e\u043b\u0438\u0442\u0432\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f\" \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e, \u0437\u0430\u0442\u0440\u0430\u0442\u0438\u0432 \u043d\u0430 15% \u043c\u0435\u043d\u044c\u0448\u0435 \u043c\u0430\u043d\u044b.\r\n",
+    "ko_KR": "\ud749\uc870\uac00 \ub2e4\uc74c \uce58\uc720 \ub610\ub294 \uce58\uc720\uc758 \uae30\uc6d0\uc744 \uc989\uc2dc \uc2dc\uc804\ub418\uac8c \ud558\uace0 \ub9c8\ub098 \uc18c\ubaa8\ub7c9\uc740 15%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u9810\u793a\u4f7f\u4f60\u4e0b\u4e00\u6b21\u65bd\u653e\u7684\u6cbb\u7642\u8853\u6216\u6cbb\u7642\u79b1\u8a00\u6210\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u4e14\u6d88\u8017\u7684\u6cd5\u529b\u964d\u4f4e15%\u3002\r\n",
+    "zh_CN": "\u9884\u5146\u4f1a\u4f7f\u4f60\u7684\u4e0b\u4e00\u6b21\u6cbb\u7597\u672f\u6216\u6cbb\u7597\u7977\u8a00\u53d8\u4e3a\u77ac\u53d1\uff0c\u5e76\u4e14\u6cd5\u529b\u503c\u6d88\u8017\u964d\u4f4e15%\u3002\r\n"
+  }
 }

@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405558"
+  "SpellID": "405558",
+  "name_blz": {
+    "en_US": "Priest Shadow 10.1 Class Set 4pc",
+    "en_GB": "Priest Shadow 10.1 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Devouring Plague damage increased by 18%. Every 4 casts of Devouring Plague increases the damage of Shadowy Apparitions conjured within the next 10 sec by 100%.",
+    "es_MX": "El da\u00f1o de Peste devoradora aumenta un 18%. Cada 4 lanzamientos de Peste devoradora, el da\u00f1o de Apariciones sombr\u00edas conjuradas aumenta un 100% en los pr\u00f3ximos 10 s.",
+    "pt_BR": "Dano de Peste Devoradora aumentado em 18%. A cada 4 lan\u00e7amentos, Peste Devoradora aumenta em 100% o dano das Apari\u00e7\u00f5es Sombrias conjuradas dentro dos pr\u00f3ximos 10 s.",
+    "de_DE": "Der Schaden von 'Verschlingende Seuche' ist um 18% erh\u00f6ht. Jeder 4. Einsatz von 'Verschlingende Seuche' erh\u00f6ht den Schaden von schattenhaften Erscheinungen, die innerhalb der n\u00e4chsten 10 Sek. beschworen werden, um 100%.",
+    "en_GB": "Devouring Plague damage increased by 18%. Every 4 casts of Devouring Plague increases the damage of Shadowy Apparitions conjured within the next 10 sec by 100%.",
+    "es_ES": "Da\u00f1o de Peste devoradora aumentado un 18%. Cada 4 lanzamientos de Peste devoradora, aumenta un 100% el da\u00f1o de las apariciones sombr\u00edas que se conjuran en los siguientes 10 s.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Peste d\u00e9vorante sont augment\u00e9s de 18%. Toutes les 4\u00a0incantations de ce sort, les d\u00e9g\u00e2ts de vos apparitions t\u00e9n\u00e9breuses sont augment\u00e9s de 100% pendant 10 s.",
+    "it_IT": "Aumenta i danni inflitti da Piaga Divoratrice del 18%. Ogni 4 lanci di Piaga Divoratrice, i danni inflitti dalle Apparizioni d'Ombra evocate nei successivi 10 s aumentano del 100%.",
+    "ru_RU": "\"\u0412\u0441\u0435\u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0449\u0430\u044f \u0447\u0443\u043c\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 18% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430. \u041f\u043e\u0441\u043b\u0435 4 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0439 \"\u0412\u0441\u0435\u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0449\u0435\u0439 \u0447\u0443\u043c\u044b\" \u0443\u0440\u043e\u043d \u0441\u0443\u043c\u0435\u0440\u0435\u0447\u043d\u044b\u0445 \u043f\u0440\u0438\u0437\u0440\u0430\u043a\u043e\u0432, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0445 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u0441\u0435\u043a., \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100%.",
+    "ko_KR": "\ud30c\uba78\uc758 \uc5ed\ubcd1\uc758 \uacf5\uaca9\ub825\uc774 18%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ud30c\uba78\uc758 \uc5ed\ubcd1\uc744 4\ubc88 \uc2dc\uc804\ud560 \ub54c\ub9c8\ub2e4 \ub2e4\uc74c 10\ucd08 \uc548\uc5d0 \uc0dd\uc131\ub418\ub294 \uadf8\ub9bc\uc790 \uc6d0\ud63c\uc758 \uacf5\uaca9\ub825\uc774 100%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u566c\u9748\u761f\u75ab\u7684\u50b7\u5bb3\u63d0\u9ad818%\u3002\u6bcf\u65bd\u653e4\u6b21\u566c\u9748\u761f\u75ab\uff0c\u63a5\u4e0b\u4f8610\u79d2\u5167\u53ec\u559a\u7684\u6697\u5f71\u5e7b\u9748\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad8100%\u3002",
+    "zh_CN": "\u566c\u7075\u75ab\u75c5\u7684\u4f24\u5bb3\u63d0\u9ad818%\u3002\u6bcf\u65bd\u653e4\u6b21\u566c\u7075\u75ab\u75c5\uff0c\u5728\u63a5\u4e0b\u676510\u79d2\u5185\u53ec\u5524\u7684\u6697\u5f71\u5e7b\u7075\u7684\u4f24\u5bb3\u4f1a\u63d0\u9ad8100%\u3002"
+  }
 }

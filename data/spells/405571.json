@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405571"
+  "SpellID": "405571",
+  "name_blz": {
+    "en_US": "Warlock Affliction 10.1 Class Set 2pc",
+    "en_GB": "Warlock Affliction 10.1 Class Set 2pc"
+  },
+  "description_blz": {
+    "en_US": "Vile Taint cooldown reduced by 5 sec and Phantom Singularity cooldown reduced by 12 sec. Vile Taint and Phantom Singularity damage increased by 60%.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de M\u00e1cula vil se reduce en 5 s y el de Singularidad fantasma en 12 s. El da\u00f1o de M\u00e1cula vil y Singularidad fantasma aumenta en un 60%.",
+    "pt_BR": "Recarga de M\u00e1cula Torpe reduzida em 5 s, recarga de Singularidade Fantasm\u00e1tica reduzida em 12 s. Dano de M\u00e1cula Torpe e Singularidade Fantasm\u00e1tica aumentado em 60%.",
+    "de_DE": "Verringert die Abklingzeit von '\u00dcbler Makel' um 5 Sek., die Abklingzeit von 'Phantomsingularit\u00e4t' um 12 Sek. und erh\u00f6ht deren Schaden um 60%.",
+    "en_GB": "Vile Taint cooldown reduced by 5 sec and Phantom Singularity cooldown reduced by 12 sec. Vile Taint and Phantom Singularity damage increased by 60%.",
+    "es_ES": "Reduce 5 s el tiempo de reutilizaci\u00f3n de M\u00e1cula vil y 12 s el de Singularidad fantasma. Aumenta un 60% el da\u00f1o de M\u00e1cula vil y Singularidad fantasma.",
+    "fr_FR": "Le temps de recharge de Souillure inf\u00e2me est r\u00e9duit de 5\u00a0s et celui de Singularit\u00e9 fantomatique de 12\u00a0s. Les d\u00e9g\u00e2ts de ces deux sorts sont augment\u00e9s de 60%.",
+    "it_IT": "Riduce il tempo di recupero di Contaminazione Vile di 5 s e il tempo di recupero di Singolarit\u00e0 Fantasma di 12 s. Aumenta i danni inflitti da Contaminazione Vile e Singolarit\u00e0 Fantasma del 60%.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0430\u0433\u0443\u0431\u044b\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5 \u0441\u0435\u043a., \u0430 \"\u041f\u0440\u0438\u0437\u0440\u0430\u0447\u043d\u043e\u0439 \u0441\u0438\u043d\u0433\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u0438\" \u2013 \u043d\u0430 12 \u0441\u0435\u043a. \"\u041f\u0430\u0433\u0443\u0431\u0430\" \u0438 \"\u041f\u0440\u0438\u0437\u0440\u0430\u0447\u043d\u0430\u044f \u0441\u0438\u043d\u0433\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044c\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 60% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc0ac\uc545\ud55c \ud0c0\ub77d\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c, \uc720\ub839 \ud2b9\uc774\uc810\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 12\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \uc0ac\uc545\ud55c \ud0c0\ub77d\uacfc \uc720\ub839 \ud2b9\uc774\uc810\uc758 \uacf5\uaca9\ub825\uc774 60%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8150\u8755\u90aa\u80fd\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed5\u79d2\uff0c\u5e7b\u9b45\u5947\u7570\u9ede\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed12\u79d2\u3002\u8150\u8755\u90aa\u80fd\u548c\u5e7b\u9b45\u5947\u7570\u9ede\u7684\u50b7\u5bb3\u63d0\u9ad860%\u3002",
+    "zh_CN": "\u90aa\u6076\u6c61\u67d3\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed5\u79d2\uff0c\u8be1\u5f02\u9b45\u5f71\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed12\u79d2\u3002\u90aa\u6076\u6c61\u67d3\u548c\u8be1\u5f02\u9b45\u5f71\u7684\u4f24\u5bb3\u63d0\u9ad860%\u3002"
+  }
 }

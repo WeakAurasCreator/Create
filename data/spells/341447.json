@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341447"
+  "SpellID": "341447",
+  "name_blz": {
+    "en_US": "Evolved Swarm",
+    "es_MX": "Enjambre evolucionado",
+    "pt_BR": "Enxame Evolu\u00eddo",
+    "de_DE": "Evolvierter Schwarm",
+    "en_GB": "Evolved Swarm",
+    "es_ES": "Enjambre evolucionado",
+    "fr_FR": "Essaim \u00e9volu\u00e9",
+    "it_IT": "Sciame Evoluto",
+    "ru_RU": "\u042d\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u0432\u0448\u0438\u0439 \u0440\u043e\u0439",
+    "ko_KR": "\uc9c4\ud654\ud55c \ubb34\ub9ac",
+    "zh_TW": "\u9032\u5316\u87f2\u7fa4",
+    "zh_CN": "\u8fdb\u5316\u8702\u7fa4"
+  },
+  "description_blz": {
+    "en_US": "Adaptive Swarm increases periodic effects by an additional 6.0%.",
+    "es_MX": "Enjambre adaptable aumenta los efectos peri\u00f3dicos un 6.0% m\u00e1s.",
+    "pt_BR": "Enxame Adapt\u00e1vel aumenta em mais 6,0% os efeitos peri\u00f3dicos.",
+    "de_DE": "'Adaptiver Schwarm' erh\u00f6ht die Effektivit\u00e4t regelm\u00e4\u00dfiger Effekte um zus\u00e4tzlich 6,0%.",
+    "en_GB": "Adaptive Swarm increases periodic effects by an additional 6.0%.",
+    "es_ES": "Enjambre adaptable aumenta los efectos peri\u00f3dicos un 6,0% m\u00e1s.",
+    "fr_FR": "Essaim adaptatif augmente les effets p\u00e9riodiques de 6,0% suppl\u00e9mentaires.",
+    "it_IT": "Sciame Adattivo aumenta gli effetti periodici del 6,0% aggiuntivo.",
+    "ru_RU": "\"\u0410\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u044b\u0439 \u0440\u043e\u0439\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0435\u0449\u0435 \u043d\u0430 6,0%.",
+    "ko_KR": "\uc801\uc751\uc758 \ubb34\ub9ac\uac00 \uc8fc\uae30\uc801\uc778 \ud6a8\uacfc\ub97c \ucd94\uac00\ub85c 6.0%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9069\u61c9\u87f2\u7fa4\u4f7f\u9031\u671f\u6027\u6548\u679c\u984d\u5916\u63d0\u9ad86.0%\u3002",
+    "zh_CN": "\u6fc0\u53d8\u8702\u7fa4\u5bf9\u5468\u671f\u6027\u6548\u679c\u7684\u52a0\u6210\u989d\u5916\u63d0\u9ad86.0%\u3002"
+  }
 }

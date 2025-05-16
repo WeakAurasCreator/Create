@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375507"
+  "SpellID": "375507",
+  "name_blz": {
+    "en_US": "Roar of Exhilaration",
+    "es_MX": "Rugido de euforia",
+    "pt_BR": "Rugido Euf\u00f3rico",
+    "de_DE": "Gebr\u00fcll des Freudentaumels",
+    "en_GB": "Roar of Exhilaration",
+    "es_ES": "Rugido de exaltaci\u00f3n",
+    "fr_FR": "Rugissement d\u2019exaltation",
+    "it_IT": "Ruggito dell'Euforia",
+    "ru_RU": "\u0410\u0437\u0430\u0440\u0442\u043d\u044b\u0439 \u0440\u044b\u043a",
+    "ko_KR": "\ud65c\uae30\uc758 \ud3ec\ud6a8",
+    "zh_TW": "\u795e\u6021\u5486\u54ee",
+    "zh_CN": "\u6b22\u6b23\u4e4b\u543c"
+  },
+  "description_blz": {
+    "en_US": "Successfully interrupting an enemy with Quell generates 1 Essence.",
+    "es_MX": "Interrumpir exitosamente a un enemigo con Reprimir genera 1 p. de esencia.",
+    "pt_BR": "Interromper um inimigo com Supress\u00e3o gera 1 de Ess\u00eancia.",
+    "de_DE": "Das erfolgreiche Unterbrechen eines Gegners durch 'Unterdr\u00fccken' erzeugt 1 Essenz.",
+    "en_GB": "Successfully interrupting an enemy with Quell generates 1 Essence.",
+    "es_ES": "Al interrumpir con \u00e9xito a un enemigo con Sofocar, se generan 1 p. de esencia.",
+    "fr_FR": "Interrompre un personnage ennemi avec Apaisement g\u00e9n\u00e8re 1\u00a0point d\u2019essence.",
+    "it_IT": "Interrompere con successo un nemico con Sedazione genera 1 essenza.",
+    "ru_RU": "\u041f\u0440\u0438 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u043c \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u043d\u0438\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \"\u041f\u043e\u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c\" \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 1 \u0435\u0434. \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\uc9c4\uc555\uc73c\ub85c \uc801\uc758 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ubc29\ud574\ud558\ub294 \ub370 \uc131\uacf5\ud558\uba74 1\uc758 \uc815\uc218\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6210\u529f\u4ee5\u58d3\u5236\u4e2d\u65b7\u6575\u4eba\u65bd\u6cd5\u53ef\u7522\u751f1\u9ede\u9f8d\u80fd\u3002",
+    "zh_CN": "\u4f7f\u7528\u9547\u538b\u6210\u529f\u6253\u65ad\u4e00\u540d\u654c\u4eba\u4f1a\u4ea7\u751f1\u4e2a\u7cbe\u534e\u3002"
+  }
 }

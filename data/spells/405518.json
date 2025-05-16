@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405518"
+  "SpellID": "405518",
+  "name_blz": {
+    "en_US": "Evoker Devastation 10.1 Class Set 2pc",
+    "en_GB": "Evoker Devastation 10.1 Class Set 2pc"
+  },
+  "description_blz": {
+    "en_US": "Disintegrate and Pyre pierce enemies with Obsidian Shards, dealing 18% of damage done as Volcanic damage over 8 sec. \r\n",
+    "es_MX": "Desintegrar y Pira perforan a los enemigos con fragmentos de obsidiana y causan un 18% del da\u00f1o infligido como da\u00f1o volc\u00e1nico durante 8 s. \r\n",
+    "pt_BR": "Desintegrar e Pira perfuram os inimigos com Estilha\u00e7os de Obsidiana, causando dano Vulc\u00e2nico equivalente a 18% do dano causado ao longo de 8 s. \r\n",
+    "de_DE": "'Desintegration' und 'Scheiterhaufen' durchbohren Gegner mit Obsidiansplittern, die 18% des Schadens als Vulkanschaden \u00fcber 8 Sek. verursachen.\r\n",
+    "en_GB": "Disintegrate and Pyre pierce enemies with Obsidian Shards, dealing 18% of damage done as Volcanic damage over 8 sec. \r\n",
+    "es_ES": "Desintegrar y Pira atraviesan a los enemigos con unos fragmentos de obsidiana que infligen un 18% del da\u00f1o infligido como da\u00f1o Volc\u00e1nico durante 8 s.\r\n",
+    "fr_FR": "D\u00e9sint\u00e9gration et B\u00fbcher criblent les adversaires avec des \u00e9clats d\u2019obsidienne. Les cibles touch\u00e9es subissent 18% des d\u00e9g\u00e2ts inflig\u00e9s sous forme de d\u00e9g\u00e2ts volcaniques en 8 s.\r\n",
+    "it_IT": "Disintegrazione e Pira colpiscono i nemici con Schegge d'Ossidiana, infliggendo danni vulcanici pari al 18% dei danni inflitti in 8 s. \r\n",
+    "ru_RU": "\"\u0414\u0435\u0437\u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f\" \u0438 \"\u041f\u043e\u0433\u0440\u0435\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u0441\u0442\u0435\u0440\" \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043e\u0441\u043a\u043e\u043b\u043a\u0430\u043c\u0438 \u043e\u0431\u0441\u0438\u0434\u0438\u0430\u043d\u0430, \u043d\u0430\u043d\u043e\u0441\u044f \u0435\u0449\u0435 18% \u0432\u0443\u043b\u043a\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 8 \u0441\u0435\u043a. \r\n",
+    "ko_KR": "\ud30c\uc5f4\uacfc \uae30\uc5fc\uc774 \ud751\uc694\uc11d \ud30c\ud3b8\uc73c\ub85c \uc801\uc744 \uaff0\ub6ab\uc5b4 8\ucd08\uc5d0 \uac78\uccd0 \uc785\ud78c \ud53c\ud574\uc758 18%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud654\uc0b0 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \r\n",
+    "zh_TW": "\u5d29\u89e3\u548c\u9f8d\u7130\u6703\u4ee5\u9ed1\u66dc\u77f3\u88c2\u7247\u523a\u7a7f\u6575\u4eba\uff0c\u57288\u79d2\u5167\u9020\u6210\u76f8\u7576\u65bc\u8a72\u6b21\u50b7\u5bb318%\u7684\u7194\u5ca9\u50b7\u5bb3\u3002 \r\n",
+    "zh_CN": "\u88c2\u89e3\u548c\u846c\u706b\u4f1a\u7528\u9ed1\u66dc\u788e\u7247\u523a\u7a7f\u654c\u4eba\uff0c\u57288\u79d2\u5185\u9020\u6210\u7194\u706b\u4f24\u5bb3\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u9020\u6210\u4f24\u5bb3\u768418%\u3002 \r\n"
+  }
 }

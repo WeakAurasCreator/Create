@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388964"
+  "SpellID": "388964",
+  "name_blz": {
+    "en_US": "Tuskarr Champion's Tales",
+    "es_MX": "Relatos de los campeones colmillarr",
+    "pt_BR": "Contos do Campe\u00e3o Morsano",
+    "de_DE": "Sagen des Champions der Tuskarr",
+    "en_GB": "Tuskarr Champion's Tales",
+    "es_ES": "Relatos de campeones colmillarr",
+    "fr_FR": "R\u00e9cits des champions et championnes roharts",
+    "it_IT": "Racconti del Campione dei Tuskarr",
+    "ru_RU": "\u041b\u0435\u0433\u0435\u043d\u0434\u044b \u043e \u0433\u0435\u0440\u043e\u044f\u0445 \u043a\u043b\u044b\u043a\u0430\u0440\u0440\u043e\u0432",
+    "ko_KR": "\ud22c\uc2a4\uce74\ub974 \uc6a9\uc0ac\uc758 \uc774\uc57c\uae30",
+    "zh_TW": "\u5de8\u7259\u6d77\u6c11\u52c7\u58eb\u7684\u6545\u4e8b",
+    "zh_CN": "\u6d77\u8c61\u4eba\u52c7\u58eb\u4f20\u8bf4"
+  },
+  "description_blz": {
+    "en_US": "Unlock the ability to find scrolls from enemies throughout the Dragon Isles that describe the great deeds of great Tuskarr. ",
+    "es_MX": "Desbloquea la habilidad de obtener de los enemigos en las Islas Drag\u00f3n pergaminos que describen las incre\u00edbles haza\u00f1as de los legendarios colmillarr.",
+    "pt_BR": "Desbloqueia a habilidade de encontrar, nas Ilhas do Drag\u00e3o, pergaminhos inimigos que descrevem grandes feitos de grandes morsanos. ",
+    "de_DE": "Schaltet die F\u00e4higkeit frei, Schriftrollen bei Gegnern auf den Dracheninseln zu finden, welche die gro\u00dfen Taten der Tuskarr beschreiben.",
+    "en_GB": "Unlock the ability to find scrolls from enemies throughout the Dragon Isles that describe the great deeds of great Tuskarr. ",
+    "es_ES": "Desbloquea la capacidad de encontrar pergaminos en los enemigos en las Islas Drag\u00f3n, que describen las grandes haza\u00f1as de insignes colmillarr.",
+    "fr_FR": "D\u00e9bloque la capacit\u00e9 \u00e0 trouver sur les adversaires des \u00eeles aux Dragons des parchemins retra\u00e7ant les hauts faits d\u2019illustres Roharts.",
+    "it_IT": "Sblocca l'abilit\u00e0 di trovare sui nemici nelle Isole dei Draghi delle pergamene che descrivono le epiche gesta dei grandi Tuskarr. ",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c \u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u0430\u0445 \u0441\u0432\u0438\u0442\u043a\u0438, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043b\u0435\u0433\u0435\u043d\u0434\u044b \u043e \u0432\u0435\u043b\u0438\u043a\u0438\u0445 \u043f\u043e\u0434\u0432\u0438\u0433\u0430\u0445 \u043a\u043b\u044b\u043a\u0430\u0440\u0440\u0441\u043a\u0438\u0445 \u0433\u0435\u0440\u043e\u0435\u0432. ",
+    "ko_KR": "\uc6a9\uc758 \uc12c \uc804\uc5ed\uc758 \uc801\uc5d0\uac8c\uc11c \uc704\ub300\ud55c \ud22c\uc2a4\uce74\ub974\uc758 \uc704\uc5c5\uc774 \ub2f4\uae34 \ub450\ub8e8\ub9c8\ub9ac\ub97c \ucc3e\uc744 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u89e3\u9396\u5f8c\u53ef\u5728\u5de8\u9f8d\u7fa4\u5cf6\u7684\u5730\u57ce\u9996\u9818\u8eab\u4e0a\u767c\u73fe\u5377\u8ef8\uff0c\u4e0a\u9762\u8a18\u9304\u8457\u5de8\u9f8d\u7fa4\u5cf6\u82f1\u96c4\u7684\u53f2\u8a69\u529f\u7e3e\u3002 ",
+    "zh_CN": "\u89e3\u9501\u5728\u5de8\u9f99\u7fa4\u5c9b\u7684\u654c\u4eba\u8eab\u4e0a\u627e\u5230\u8bb0\u8ff0\u4e86\u6d77\u8c61\u4eba\u4f1f\u4e1a\u7684\u5377\u8f74\u7684\u80fd\u529b\u3002 "
+  }
 }

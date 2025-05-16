@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "344172"
+  "SpellID": "344172",
+  "name_blz": {
+    "en_US": "Consecration",
+    "es_MX": "Consagraci\u00f3n",
+    "pt_BR": "Consagra\u00e7\u00e3o",
+    "de_DE": "Weihe",
+    "en_GB": "Consecration",
+    "es_ES": "Consagraci\u00f3n",
+    "fr_FR": "Cons\u00e9cration",
+    "it_IT": "Consacrazione",
+    "ru_RU": "\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc2e0\uc131\ud654",
+    "zh_TW": "\u5949\u737b",
+    "zh_CN": "\u5949\u732e"
+  },
+  "description_blz": {
+    "en_US": "Damage taken is reduced by 5% while inside your Consecration.",
+    "es_MX": "El da\u00f1o recibido se reduce un 5% en el interior de tu Consagraci\u00f3n.",
+    "pt_BR": "Dano recebido reduzido em 5% dentro da sua Consagra\u00e7\u00e3o.",
+    "de_DE": "Verringert den erlittenen Schaden innerhalb Eurer 'Weihe' um 5%.",
+    "en_GB": "Damage taken is reduced by 5% while inside your Consecration.",
+    "es_ES": "El da\u00f1o recibido se reduce un 5% dentro de tu Consagraci\u00f3n.",
+    "fr_FR": "D\u00e9g\u00e2ts subis r\u00e9duits de 5% dans la zone d\u2019effet de votre Cons\u00e9cration.",
+    "it_IT": "Riduce i danni subiti del 5% quando si \u00e8 all'interno dell'area d'effetto di una propria Consacrazione.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0432\u044b \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0435\u0441\u044c \u0432 \u0437\u043e\u043d\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0432\u0430\u0448\u0435\u0433\u043e \"\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u044f\", \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5%.",
+    "ko_KR": "\uc2e0\uc131\ud654 \uc9c0\uc5ed\uc5d0 \uc788\ub294 \ub3d9\uc548 \ubc1b\ub294 \ud53c\ud574\uac00 5%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5f85\u5728\u4f60\u7684\u5949\u737b\u6548\u679c\u7bc4\u570d\u5167\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e5%\u3002",
+    "zh_CN": "\u4f60\u5728\u81ea\u5df1\u7684\u5949\u732e\u4e2d\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e5%\u3002"
+  }
 }

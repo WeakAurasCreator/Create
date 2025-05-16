@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442446"
+  "SpellID": "442446",
+  "name_blz": {
+    "en_US": "Delve Companion",
+    "es_MX": "Compa\u00f1ero del abismo",
+    "pt_BR": "Companheiro de Imers\u00e3o",
+    "de_DE": "Tiefengef\u00e4hrte",
+    "en_GB": "Delve Companion",
+    "es_ES": "Compa\u00f1ero de las profundidades",
+    "fr_FR": "Compagnon de Gouffre",
+    "it_IT": "Compagno delle Scorribande",
+    "ru_RU": "\u0421\u043f\u0443\u0442\u043d\u0438\u043a \u0432 \u0432\u044b\u043b\u0430\u0437\u043a\u0430\u0445",
+    "ko_KR": "\uad6c\ub801 \ub3d9\ub8cc",
+    "zh_TW": "\u63a2\u7a76\u5925\u4f34",
+    "zh_CN": "\u5730\u4e0b\u5821\u4f19\u4f34"
+  },
+  "description_blz": {
+    "en_US": "Brann Bronzebeard permanently joins your party while in Delves.",
+    "es_MX": "Brann Barbabronce se une permanentemente a tu grupo mientras est\u00e1s en los Abismos.",
+    "pt_BR": "Brann Barbabronze se junta permanentemente ao seu grupo em Imers\u00f5es.",
+    "de_DE": "Brann Bronzebart schlie\u00dft sich Eurer Gruppe dauerhaft an, solange Ihr in den Tiefen seid.",
+    "en_GB": "Brann Bronzebeard permanently joins your party while in Delves.",
+    "es_ES": "Brann Barbabronce se une de forma permanente a tu grupo mientras est\u00e1s en las profundidades.",
+    "fr_FR": "Brann Barbe-de-Bronze rejoint votre groupe pendant toute la dur\u00e9e de vos exp\u00e9ditions dans les Gouffres.",
+    "it_IT": "Brann Barbabronzea si unisce permanentemente al gruppo durante le Scorribande.",
+    "ru_RU": "\u0411\u0440\u0430\u043d\u043d \u0411\u0440\u043e\u043d\u0437\u043e\u0431\u043e\u0440\u043e\u0434 \u043d\u0430\u0432\u0441\u0435\u0433\u0434\u0430 \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0435\u0442\u0441\u044f \u043a \u0432\u0430\u0448\u0435\u0439 \u0433\u0440\u0443\u043f\u043f\u0435 \u0432 \u0432\u044b\u043b\u0430\u0437\u043a\u0430\u0445.",
+    "ko_KR": "\ube0c\ub780 \ube0c\ub860\uc988\ube44\uc5b4\ub4dc\uac00 \uad6c\ub801\uc5d0\uc11c \uc601\uad6c\uc801\uc73c\ub85c \ud30c\ud2f0\uc5d0 \ud569\ub958\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5e03\u840a\u6069\u2027\u9285\u9b1a\u6c38\u4e45\u52a0\u5165\u4f60\u7684\u63a2\u7a76\u968a\u4f0d\u3002",
+    "zh_CN": "\u5728\u5730\u4e0b\u5821\u4e2d\u65f6\uff0c\u5e03\u83b1\u6069\u00b7\u94dc\u987b\u4f1a\u6c38\u4e45\u52a0\u5165\u4f60\u7684\u5c0f\u961f\u3002"
+  }
 }

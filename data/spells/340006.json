@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "340006"
+  "SpellID": "340006",
+  "name_blz": {
+    "en_US": "Vengeful Shock",
+    "es_MX": "Choque vengativo",
+    "pt_BR": "Choque Vingativo",
+    "de_DE": "Rachs\u00fcchtiger Schock",
+    "en_GB": "Vengeful Shock",
+    "es_ES": "Choque vengativo",
+    "fr_FR": "Choc vengeur",
+    "it_IT": "Folgore Vendicativa",
+    "ru_RU": "\u041a\u0430\u0440\u0430\u044e\u0449\u0438\u0439 \u0448\u043e\u043a",
+    "ko_KR": "\ubcf5\uc218\uc758 \ucda9\uaca9",
+    "zh_TW": "\u5fa9\u4ec7\u9707\u64ca",
+    "zh_CN": "\u590d\u4ec7\u9707\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Avenger's Shield causes your target to take 15.0% increased Holy damage from you for 5 sec.",
+    "es_MX": "Escudo de vengador hace que tu objetivo reciba un 15.0% m\u00e1s de da\u00f1o sagrado de ti durante 5 s.",
+    "pt_BR": "Escudo do Vingador faz seu alvo receber 15,0% a mais de dano Sagrado de voc\u00ea por 5 s.",
+    "de_DE": "'Schild des R\u00e4chers' erh\u00f6ht den durch Euch erlittenen Heiligschaden des Ziels 5 Sek. lang um 15,0%.",
+    "en_GB": "Avenger's Shield causes your target to take 15.0% increased Holy damage from you for 5 sec.",
+    "es_ES": "Escudo de vengador provoca que tu objetivo reciba un 15,0% m\u00e1s de da\u00f1o Sagrado de ti durante 5 s.",
+    "fr_FR": "Bouclier du vengeur augmente les d\u00e9g\u00e2ts du Sacr\u00e9 que vous infligez \u00e0 votre cible de 15,0% pendant 5 s.",
+    "it_IT": "Scudo del Vendicatore aumenta i tuoi danni da sacro inflitti al tuo bersaglio del 15,0% per 5 s.",
+    "ru_RU": "\"\u0429\u0438\u0442 \u043c\u0441\u0442\u0438\u0442\u0435\u043b\u044f\" \u043d\u0430 5 \u0441\u0435\u043a. \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0446\u0435\u043b\u044c\u044e \u043e\u0442 \u0432\u0430\u0448\u0435\u0439 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u043d\u0430 15,0%.",
+    "ko_KR": "\uc751\uc9d5\uc758 \ubc29\ud328\uac00 5\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc5d0\uac8c \uc785\ud788\ub294 \uc2e0\uc131 \ud53c\ud574\ub97c 15.0%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5fa9\u4ec7\u4e4b\u76fe\u6703\u4f7f\u76ee\u6a19\u53d7\u5230\u4f60\u7684\u795e\u8056\u50b7\u5bb3\u63d0\u9ad815.0%\uff0c\u6301\u7e8c5\u79d2\u3002",
+    "zh_CN": "\u590d\u4ec7\u8005\u4e4b\u76fe\u4f1a\u4f7f\u4f60\u5bf9\u76ee\u6807\u9020\u6210\u7684\u795e\u5723\u4f24\u5bb3\u63d0\u9ad815.0%\uff0c\u6301\u7eed5\u79d2\u3002"
+  }
 }

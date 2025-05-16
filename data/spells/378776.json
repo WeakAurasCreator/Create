@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378776"
+  "SpellID": "378776",
+  "name_blz": {
+    "en_US": "Inundate",
+    "es_MX": "Inundar",
+    "pt_BR": "Inundar",
+    "de_DE": "\u00dcberflutung",
+    "en_GB": "Inundate",
+    "es_ES": "Inundar",
+    "fr_FR": "Inondation du maelstr\u00f6m",
+    "it_IT": "Inondazione",
+    "ru_RU": "\u0417\u0430\u0442\u043e\u043f\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ubc94\ub78c",
+    "zh_TW": "\u6df9\u6c92",
+    "zh_CN": "\u7d0a\u6d41"
+  },
+  "description_blz": {
+    "en_US": "Your successful Purge, Cleanse Spirit, Healing Stream Totem, Hex, and Wind Shear casts generate 8 Maelstrom during combat.",
+    "es_MX": "Tus lanzamientos exitosos de Purgar, Limpiar esp\u00edritu, T\u00f3tem Corriente de sanaci\u00f3n, Maleficio y Corte de viento generan 8 Vor\u00e1gine durante el combate.",
+    "pt_BR": "Seus lan\u00e7amentos bem-sucedidos de Expurgar, Purificar Esp\u00edrito, Totem de Torrente Curativa, Bagata e Rajada de Vento geram 8 de Voragem durante o combate.",
+    "de_DE": "Erfolgreiche Eins\u00e4tze von 'Reinigen', 'Geistl\u00e4uterung', 'Totem des heilenden Flusses', 'Verhexen' und 'Windsto\u00df' im Kampf erzeugen 8 Mahlstrom.",
+    "en_GB": "Your successful Purge, Cleanse Spirit, Healing Stream Totem, Hex, and Wind Shear casts generate 8 Maelstrom during combat.",
+    "es_ES": "Tus lanzamientos con \u00e9xito de Purgar, Limpiar esp\u00edritu, T\u00f3tem de Corriente de sanaci\u00f3n, Maleficio y Corte de viento generan 8 p. de vor\u00e1gine durante el combate.",
+    "fr_FR": "Vos techniques Purge, Purifier l\u2019esprit, Totem gu\u00e9risseur, Mal\u00e9fice et Cisaille de vent r\u00e9ussies g\u00e9n\u00e8rent 8\u00a0points de maelstr\u00f6m lors des combats.",
+    "it_IT": "I lanci a segno di Epurazione, Purificazione dello Spirito, Totem del Flusso Vitale, Maleficio e Raffica di Vento generano 8 maelstrom in combattimento.",
+    "ru_RU": "\u0423\u0441\u043f\u0435\u0448\u043d\u044b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0420\u0430\u0437\u0432\u0435\u0438\u0432\u0430\u043d\u0438\u044f \u043c\u0430\u0433\u0438\u0438\", \"\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u044f \u0434\u0443\u0445\u0430\", \"\u0422\u043e\u0442\u0435\u043c\u0430 \u0438\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0430\", \"\u0421\u0433\u043b\u0430\u0437\u0430\" \u0438 \"\u0412\u0435\u0442\u0440\u043e\u0440\u0435\u0437\u0430\" \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0431\u043e\u044f \u0434\u0430\u044e\u0442 8 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0412\u043e\u0434\u043e\u0432\u043e\u0440\u043e\u0442\u0430.",
+    "ko_KR": "\uc804\ud22c \uc911 \uc815\ud654, \uc601\ud63c \uc815\ud654, \uce58\uc720\uc758 \ud1a0\ud15c, \uc0ac\uc220, \ub0a0\uce74\ub85c\uc6b4 \ubc14\ub78c \uc2dc\uc804\uc5d0 \uc131\uacf5\ud558\uba74 8\uc758 \uc18c\uc6a9\ub3cc\uc774\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6210\u529f\u65bd\u653e\u6de8\u9b54\u8853\u3001\u6de8\u5316\u9748\u9b42\u3001\u6cbb\u7642\u4e4b\u6cc9\u5716\u9a30\u3001\u5996\u8853\u548c\u524a\u98a8\u8853\uff0c\u53ef\u5728\u6230\u9b25\u4e2d\u7522\u751f8\u9ede\u5143\u80fd\u3002",
+    "zh_CN": "\u5728\u6218\u6597\u4e2d\u6210\u529f\u65bd\u653e\u51c0\u5316\u672f\u3001\u51c0\u5316\u7075\u9b42\u3001\u6cbb\u7597\u4e4b\u6cc9\u56fe\u817e\u3001\u5996\u672f\u548c\u98ce\u526a\u4f1a\u4ea7\u751f8\u70b9\u6f29\u6da1\u503c\u3002"
+  }
 }

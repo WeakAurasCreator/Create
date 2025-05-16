@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "391398"
+  "SpellID": "391398",
+  "name_blz": {
+    "en_US": "Bloodshot",
+    "es_MX": "Ojos amenazantes",
+    "pt_BR": "Olho Injetado",
+    "de_DE": "Blutunterlaufen",
+    "en_GB": "Bloodshot",
+    "es_ES": "Tirosangre",
+    "fr_FR": "Sanguin",
+    "it_IT": "Sputasangue",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u043e\u0433\u043b\u0430\u0437",
+    "ko_KR": "\ud608\uc548",
+    "zh_TW": "\u8840\u8108\u8cc1\u5f35",
+    "zh_CN": "\u5145\u8840\u4e4b\u773c"
+  },
+  "description_blz": {
+    "en_US": "While Blood Shield is active, you deal 25% increased Physical damage.",
+    "es_MX": "Mientras Escudo de sangre est\u00e1 activo, infliges un 25% m\u00e1s de da\u00f1o f\u00edsico.",
+    "pt_BR": "Enquanto Escudo de Sangue estiver ativo, voc\u00ea causa 25% a mais de dano F\u00edsico.",
+    "de_DE": "W\u00e4hrend 'Blutschild' aktiv ist, verursacht Ihr 25% mehr k\u00f6rperlichen Schaden.",
+    "en_GB": "While Blood Shield is active, you deal 25% increased Physical damage.",
+    "es_ES": "Mientras Escudo de sangre est\u00e1 activo, infliges un 25% m\u00e1s de da\u00f1o f\u00edsico.",
+    "fr_FR": "Tant que Bouclier de sang est actif, vos d\u00e9g\u00e2ts physiques sont augment\u00e9s de 25%.",
+    "it_IT": "Quando Scudo di Sangue \u00e8 attivo, i danni fisici inflitti aumentano del 25%.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0430\u043a\u0442\u0438\u0432\u0435\u043d \"\u0429\u0438\u0442 \u043a\u0440\u043e\u0432\u0438\", \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u043d\u0430 25% \u0431\u043e\u043b\u044c\u0448\u0435 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud53c\uc758 \ubcf4\ud638\ub9c9\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \ubb3c\ub9ac \uacf5\uaca9\ub825\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u8840\u9b44\u8b77\u76fe\u4f5c\u7528\u671f\u9593\uff0c\u4f60\u9020\u6210\u7684\u7269\u7406\u50b7\u5bb3\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u9c9c\u8840\u62a4\u76fe\u6fc0\u6d3b\u65f6\uff0c\u9020\u6210\u7684\u7269\u7406\u4f24\u5bb3\u63d0\u9ad825%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "385810"
+  "SpellID": "385810",
+  "name_blz": {
+    "en_US": "Dire Frenzy",
+    "es_MX": "Furia temible",
+    "pt_BR": "Frenesi Atroz",
+    "de_DE": "Alpharaserei",
+    "en_GB": "Dire Frenzy",
+    "es_ES": "Frenes\u00ed temible",
+    "fr_FR": "Fr\u00e9n\u00e9sie redoutable",
+    "it_IT": "Frenesia Feroce",
+    "ru_RU": "\u041b\u044e\u0442\u043e\u0435 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u043e",
+    "ko_KR": "\uad11\ud3ec\ud55c \uaca9\ub178",
+    "zh_TW": "\u51f6\u66b4\u72c2\u4e82",
+    "zh_CN": "\u51f6\u731b\u72c2\u66b4"
+  },
+  "description_blz": {
+    "en_US": "Dire Beast lasts an additional 1 sec and deals 30% increased damage.",
+    "es_MX": "Bestia temible dura 1 s m\u00e1s e inflige un 30% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Fera Atroz dura 1 s a mais e causa 30% a mais de dano.",
+    "de_DE": "'Alphatier' h\u00e4lt zus\u00e4tzlich 1 Sek. lang an und verursacht 30% mehr Schaden.",
+    "en_GB": "Dire Beast lasts an additional 1 sec and deals 30% increased damage.",
+    "es_ES": "La bestia temible dura 1 s m\u00e1s e inflige un 30% de da\u00f1o m\u00e1s.",
+    "fr_FR": "La dur\u00e9e de B\u00eate f\u00e9roce est augment\u00e9e de 1\u00a0s et ses d\u00e9g\u00e2ts de 30%.",
+    "it_IT": "Aumenta la durata di Bestia Feroce di 1 s aggiuntivi e i danni che infligge del 30%.",
+    "ru_RU": "\u0423\u0436\u0430\u0441\u043d\u044b\u0439 \u0437\u0432\u0435\u0440\u044c \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0435\u0449\u0435 1 \u0441\u0435\u043a. \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 30% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uad11\ud3ec\ud55c \uc57c\uc218\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 1\ucd08\ub9cc\ud07c, \uacf5\uaca9\ub825\uc774 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u51f6\u66b4\u91ce\u7378\u7684\u6301\u7e8c\u6642\u9593\u984d\u5916\u5ef6\u95771\u79d2\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad830%\u3002",
+    "zh_CN": "\u51f6\u66b4\u91ce\u517d\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f1\u79d2\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad830%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389976"
+  "SpellID": "389976",
+  "name_blz": {
+    "en_US": "Vulnerability",
+    "es_MX": "Vulnerabilidad",
+    "pt_BR": "Vulnerabilidade",
+    "de_DE": "Verwundbarkeit",
+    "en_GB": "Vulnerability",
+    "es_ES": "Vulnerabilidad",
+    "fr_FR": "Vuln\u00e9rabilit\u00e9",
+    "it_IT": "Vulnerabilit\u00e0",
+    "ru_RU": "\u0423\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc57d\uc810",
+    "zh_TW": "\u6613\u50b7",
+    "zh_CN": "\u6613\u4f24"
+  },
+  "description_blz": {
+    "en_US": "Frailty now also increases all damage you deal to afflicted targets by 2%.",
+    "es_MX": "Flaqueza ahora tambi\u00e9n aumenta un 2% todo el da\u00f1o que infliges a los objetivos afectados.",
+    "pt_BR": "Fragilidade agora tamb\u00e9m aumenta todo o dano que voc\u00ea causa a alvos afetados em 2%.",
+    "de_DE": "'Gebrechlichkeit' erh\u00f6ht zus\u00e4tzlich s\u00e4mtlichen Schaden, den Ihr betroffenen Zielen zuf\u00fcgt, um 2%.",
+    "en_GB": "Frailty now also increases all damage you deal to afflicted targets by 2%.",
+    "es_ES": "Ahora, Flaqueza tambi\u00e9n aumenta un 2% todo el da\u00f1o que infliges a los objetivos afectados.",
+    "fr_FR": "Fragilit\u00e9 augmente \u00e9galement de 2% les d\u00e9g\u00e2ts que vous infligez aux cibles affect\u00e9es.",
+    "it_IT": "Fragilit\u00e0 aumenta anche tutti i danni da te inflitti ai bersagli affetti del 2%.",
+    "ru_RU": "\"\u0425\u0440\u0443\u043f\u043a\u043e\u0441\u0442\u044c\" \u0442\u0430\u043a\u0436\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u043e\u0442 \u0432\u0430\u0441 \u0443\u0440\u043e\u043d \u043d\u0430 2%.",
+    "ko_KR": "\uc57d\ud654\uac00 \ucd94\uac00\ub85c \ub300\uc0c1\uc5d0\uac8c \uc785\ud788\ub294 \ubaa8\ub4e0 \ud53c\ud574\ub97c 2%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8106\u5f31\u4e5f\u6703\u4f7f\u4f60\u5c0d\u53d7\u5f71\u97ff\u76ee\u6a19\u9020\u6210\u7684\u6240\u6709\u50b7\u5bb3\u63d0\u9ad82%\u3002",
+    "zh_CN": "\u8106\u5f31\u8fd8\u4f1a\u4f7f\u4f60\u5bf9\u53d7\u5230\u5f71\u54cd\u7684\u76ee\u6807\u9020\u6210\u7684\u6240\u6709\u4f24\u5bb3\u63d0\u9ad82%\u3002"
+  }
 }

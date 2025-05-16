@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382504"
+  "SpellID": "382504",
+  "name_blz": {
+    "en_US": "Dark Brew",
+    "es_MX": "Brebaje oscuro",
+    "pt_BR": "Preparado Sombrio",
+    "de_DE": "Finstere Mischung",
+    "en_GB": "Dark Brew",
+    "es_ES": "Ponzo\u00f1a oscura",
+    "fr_FR": "Breuvage sombre",
+    "it_IT": "Miscela Oscura",
+    "ru_RU": "\u0422\u0435\u043c\u043d\u044b\u0439 \u043e\u0442\u0432\u0430\u0440",
+    "ko_KR": "\uc5b4\ub460 \ud63c\ud569\ubb3c",
+    "zh_TW": "\u6697\u91c0",
+    "zh_CN": "\u7384\u9ed1\u79d8\u917f"
+  },
+  "description_blz": {
+    "en_US": "Your attacks that deal Nature or Bleed damage now deal Shadow instead.\r\n\r\nShadow damage increased by 10%.",
+    "es_MX": "Tus ataques que infligen da\u00f1o de naturaleza o de sangrado ahora infligen da\u00f1o de las sombras.\r\n\r\nEl da\u00f1o de las sombras aumenta un 10%.",
+    "pt_BR": "Seus ataques que causam dano de Natureza ou Sangramento agora causam dano de Sombra.\r\n\r\nDano de Sombra aumentado em 10%.",
+    "de_DE": "Eure Angriffe, die Natur- oder Blutungsschaden verursachen, verursachen stattdessen Schattenschaden.\r\n\r\nSchattenschaden um 10% erh\u00f6ht.",
+    "en_GB": "Your attacks that deal Nature or Bleed damage now deal Shadow instead.\r\n\r\nShadow damage increased by 10%.",
+    "es_ES": "Los ataques que infligen da\u00f1o de Naturaleza o de sangrado infligen ahora da\u00f1o de las Sombras en su lugar.\r\n\r\nDa\u00f1o de las Sombras aumentado un 10%.",
+    "fr_FR": "Vos attaques qui infligent des d\u00e9g\u00e2ts de nature ou de saignement infligent d\u00e9sormais des d\u00e9g\u00e2ts d\u2019ombre.\r\n\r\nD\u00e9g\u00e2ts d\u2019ombre augment\u00e9s de 10%.",
+    "it_IT": "Gli attacchi che infliggono danni da natura o da sanguinamento infliggono invece danni da ombra.\r\n\r\nAumenta i danni da ombra inflitti del 10%.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0438\u043b\u0438 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f, \u0432\u043c\u0435\u0441\u0442\u043e \u044d\u0442\u043e\u0433\u043e \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.\r\n\r\n\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043d\u0430 10%.",
+    "ko_KR": "\uc790\uc5f0 \ub610\ub294 \ucd9c\ud608 \ud53c\ud574\ub97c \uc785\ud788\ub294 \uacf5\uaca9\uc774 \ub300\uc2e0 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uc554\ud751 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u9020\u6210\u81ea\u7136\u6216\u6d41\u8840\u50b7\u5bb3\u7684\u653b\u64ca\uff0c\u73fe\u5728\u8b8a\u70ba\u9020\u6210\u6697\u5f71\u50b7\u5bb3\u3002\r\n\r\n\u6697\u5f71\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f60\u653b\u51fb\u6240\u9020\u6210\u7684\u81ea\u7136\u6216\u6d41\u8840\u4f24\u5bb3\u6539\u4e3a\u9020\u6210\u6697\u5f71\u4f24\u5bb3\u3002\r\n\r\n\u6697\u5f71\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

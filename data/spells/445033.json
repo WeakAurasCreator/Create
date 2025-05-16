@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "445033"
+  "SpellID": "445033",
+  "name_blz": {
+    "en_US": "Supportive Imbuements",
+    "es_MX": "Imbuimientos de apoyo",
+    "pt_BR": "Imbui\u00e7\u00f5es de Apoio",
+    "de_DE": "Unterst\u00fctzende Verzauberungen",
+    "en_GB": "Supportive Imbuements",
+    "es_ES": "Imbuiciones de apoyo",
+    "fr_FR": "Impr\u00e9gnations d\u2019assistance",
+    "it_IT": "Infusioni di Supporto",
+    "ru_RU": "\u041f\u043e\u0434\u043f\u0438\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0447\u0430\u0440\u044b",
+    "ko_KR": "\uc9c0\uc6d0\ud615 \uac15\ud654",
+    "zh_TW": "\u8f14\u52a9\u704c\u6ce8",
+    "zh_CN": "\u8f85\u52a9\u704c\u9b54"
+  },
+  "description_blz": {
+    "en_US": "Learn a new weapon imbue, Tidecaller's Guard.\r\n\r\n Tidecaller's Guard\r\nImbue your shield with the element of Water for 1 hour. Your healing done is increased by 2.0% and the duration of your Healing Stream Totem and Cloudburst Totem is increased by 3.0 sec. ",
+    "es_MX": "Aprendes un nuevo imbuimiento de arma, Protecci\u00f3n del clamamareas.\r\n\r\n Protecci\u00f3n del clamamareas\r\nImbuye tu escudo con el elemento de agua durante 1 h. Tu sanaci\u00f3n realizada aumenta un 2.0% y la duraci\u00f3n de tu T\u00f3tem Corriente de sanaci\u00f3n y T\u00f3tem de R\u00e1faga de nubes aumenta 3.0 s. ",
+    "pt_BR": "Aprende uma nova imbui\u00e7\u00e3o de arma, Guarda do Chamar\u00e9.\r\n\r\n Guarda do Chamar\u00e9\r\nImbui seu escudo com o elemento da \u00c1gua por 1 hora. Sua cura realizada aumenta em 2,0%, e a dura\u00e7\u00e3o do seu Totem de Torrente Curativa ou da Explos\u00e3o Nebulosa aumenta em 3,0 s. ",
+    "de_DE": "Lernt eine neue Waffenverzauberung: 'Wache des Gezeitenrufers'.\r\n\r\n Wache des Gezeitenrufers\r\nErf\u00fcllt Euren Schild 1 Stunde lang mit dem Element des Wassers. Erh\u00f6ht Eure hervorgerufene Heilung um 2,0% und die Dauer Eures Totems des heilenden Flusses und Totems des Wolkenbruchs um 3,0 Sek. ",
+    "en_GB": "Learn a new weapon imbue, Tidecaller's Guard.\r\n\r\n Tidecaller's Guard\r\nImbue your shield with the element of Water for 1 hour. Your healing done is increased by 2.0% and the duration of your Healing Stream Totem and Cloudburst Totem is increased by 3.0 sec. ",
+    "es_ES": "Aprendes una nueva imbuici\u00f3n de arma, Guardia de clamamareas.\r\n\r\n Guarda de clamamareas\r\nImbuye tu escudo del elemento del agua durante 1 h. La sanaci\u00f3n que realizas aumenta un 2,0%, y la duraci\u00f3n de tu T\u00f3tem Corriente de sanaci\u00f3n y tu T\u00f3tem de R\u00e1faga de nubes aumentan 3,0 s.",
+    "fr_FR": "Vous apprenez une nouvelle impr\u00e9gnation d\u2019arme, Garde de mande-flots.\r\n\r\n Garde de mande-flots\r\nImpr\u00e8gne votre bouclier de l\u2019\u00e9l\u00e9ment eau pendant 1 heure. Vos soins prodigu\u00e9s sont augment\u00e9s de 2,0\u00a0%, et la dur\u00e9e de Totem gu\u00e9risseur et de Totem d\u2019explosion nuageuse est augment\u00e9e de 3,0\u00a0s. ",
+    "it_IT": "Apprendi una nuova Infusione dell'Arma: Guardia dell'Invocatore delle Maree.\r\n\r\n Guardia dell'Invocatore delle Maree\r\nInfonde lo scudo con l'elemento dell'acqua per 1 ora. Aumenta le cure fornite del  2,0% e la durata del Totem del Flusso Vitale e del Totem del Nubifragio di 3,0 s. ",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043d\u043e\u0432\u044b\u0435 \u0447\u0430\u0440\u044b \u0434\u043b\u044f \u043e\u0440\u0443\u0436\u0438\u044f \"\u0417\u0430\u0449\u0438\u0442\u0430 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0442\u0435\u043b\u044f \u043f\u0440\u0438\u043b\u0438\u0432\u043e\u0432\".\r\n\r\n \u0417\u0430\u0449\u0438\u0442\u0430 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0442\u0435\u043b\u044f \u043f\u0440\u0438\u043b\u0438\u0432\u043e\u0432\r\n\u0412\u044b \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0435 \u0449\u0438\u0442 \u0441\u0442\u0438\u0445\u0438\u0435\u0439 \u0432\u043e\u0434\u044b \u043d\u0430 1 \u0447. \u0412\u0430\u0448\u0430 \u0441\u0438\u043b\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 2,0%, \u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0422\u043e\u0442\u0435\u043c\u0430 \u0438\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0430\" \u0438 \"\u0422\u043e\u0442\u0435\u043c\u0430 \u0440\u0430\u0437\u0440\u0430\u0437\u0438\u0432\u0448\u0435\u0433\u043e\u0441\u044f \u043b\u0438\u0432\u043d\u044f\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 3,0 \u0441\u0435\u043a. ",
+    "ko_KR": "\uc0c8\ub85c\uc6b4 \ubb34\uae30 \uac15\ud654 \ub2a5\ub825 \ud30c\ub3c4\uc18c\ud658\uc0ac\uc758 \uc218\ud638\ub97c \ubc30\uc6c1\ub2c8\ub2e4.\r\n\r\n \ud30c\ub3c4\uc18c\ud658\uc0ac\uc758 \uc218\ud638\r\n1\uc2dc\uac04 \ub3d9\uc548 \ubc29\ud328\uc5d0 \ubb3c\uc758 \uc815\uae30\ub97c \uc8fc\uc785\ud569\ub2c8\ub2e4. \uce58\uc720\ub7c9\uc774 2.0%\ub9cc\ud07c, \uce58\uc720\uc758 \ud1a0\ud15c \ubc0f \ud3ed\uc6b0\uc758 \ud1a0\ud15c\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 3.0\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u7fd2\u5f97\u65b0\u7684\u6b66\u5668\u704c\u9b54\uff1a\u559a\u6f6e\u8005\u4e4b\u79a6\u3002\r\n\r\n\u559a\u6f6e\u8005\u4e4b\u79a6\r\n\u5c07\u6c34\u5143\u7d20\u6ce8\u5165\u4f60\u7684\u76fe\u724c\uff0c\u6301\u7e8c1\u5c0f\u6642\u3002\u4f60\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad82.0%\uff0c\u4e14\u6cbb\u7642\u4e4b\u6cc9\u5716\u9a30\u548c\u96f2\u7206\u5716\u9a30\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95773.0\u79d2\u3002",
+    "zh_CN": "\u4e60\u5f97\u4e00\u79cd\u65b0\u7684\u6b66\u5668\u704c\u9b54\uff1a\u5524\u6f6e\u8005\u7684\u62a4\u536b\r\n\r\n \u5524\u6f6e\u8005\u7684\u62a4\u536b\r\n\u4e3a\u4f60\u7684\u76fe\u724c\u6ce8\u5165\u6c34\u5143\u7d20\u4e4b\u529b\uff0c\u6301\u7eed1\u5c0f\u65f6\u3002\u4f60\u9020\u6210\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad82.0%\uff0c\u4f60\u7684\u6cbb\u7597\u4e4b\u6cc9\u56fe\u817e\u548c\u66b4\u96e8\u56fe\u817e\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f3.0\u79d2\u3002"
+  }
 }

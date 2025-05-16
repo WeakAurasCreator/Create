@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "344563"
+  "SpellID": "344563",
+  "name_blz": {
+    "en_US": "Spiked Hair Cut",
+    "es_MX": "Peinado con puntas",
+    "pt_BR": "Corte de Cabelo Espetado",
+    "de_DE": "Stachelhaarschnitt",
+    "en_GB": "Spiked Hair Cut",
+    "es_ES": "Corte de pelo pincho",
+    "fr_FR": "Coupe de cheveux h\u00e9riss\u00e9e",
+    "it_IT": "Acconciatura a Spuntoni",
+    "ru_RU": "\u041f\u0440\u0438\u0447\u0435\u0441\u043a\u0430 \u0441 \"\u0448\u0438\u043f\u0430\u043c\u0438\"",
+    "ko_KR": "\ubfb0\uc871\ubfb0\uc871 \uba38\ub9ac",
+    "zh_TW": "\u523a\u875f\u982d\u9aee\u578b",
+    "zh_CN": "\u523a\u5934\u53d1\u578b"
+  },
+  "description_blz": {
+    "en_US": "Teaches your dredger how to grow his hair in the 'spiked' fashion.",
+    "es_MX": "Le ense\u00f1a a tu dragador a que su cabello crezca como \"puntas\".",
+    "pt_BR": "Ensina o seu Dragador a fazer um penteado espetado.",
+    "de_DE": "Lehrt Euren Gr\u00e4ber, wie er sein Haar \"stachelig\" wachsen l\u00e4sst.",
+    "en_GB": "Teaches your dredger how to grow his hair in the 'spiked' fashion.",
+    "es_ES": "Ense\u00f1a a tu dragador el corte de \"pelo pincho\".",
+    "fr_FR": "Apprend \u00e0 votre purotin \u00e0 faire pousser sa chevelure pour obtenir une coupe de cheveux h\u00e9riss\u00e9e.",
+    "it_IT": "Insegna al tuo Dragatore come farsi un'acconciatura a spuntoni.",
+    "ru_RU": "\u0423\u0447\u0438\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0435\u043c\u043b\u0435\u0440\u043e\u044f \u0443\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c \u0432\u043e\u043b\u043e\u0441\u044b \"\u0448\u0438\u043f\u0430\u043c\u0438\".",
+    "ko_KR": "\ud5c8\ub4dc\ub808\uafbc\uc5d0\uac8c \ubfb0\uc871\ubfb0\uc871\ud55c \ubaa8\uc591\uc73c\ub85c \uba38\ub9ac\ub97c \uae30\ub974\ub294 \ubc29\ubc95\uc744 \uac00\ub974\uce69\ub2c8\ub2e4.",
+    "zh_TW": "\u6559\u4f60\u7684\u6ce5\u6398\u8005\u5b78\u6703\u5982\u4f55\u9577\u51fa\u523a\u875f\u982d\u3002",
+    "zh_CN": "\u6559\u4f60\u7684\u6ce5\u4ec6\u5982\u4f55\u62e5\u6709\u65f6\u5c1a\u7684\u523a\u5934\u53d1\u578b\u3002"
+  }
 }

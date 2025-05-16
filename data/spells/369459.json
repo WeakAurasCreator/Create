@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "369459"
+  "SpellID": "369459",
+  "name_blz": {
+    "en_US": "Source of Magic",
+    "es_MX": "Fuente de magia",
+    "pt_BR": "Fonte de Magia",
+    "de_DE": "Quell der Magie",
+    "en_GB": "Source of Magic",
+    "es_ES": "Fuente de magia",
+    "fr_FR": "Source de magie",
+    "it_IT": "Sorgente della Magia",
+    "ru_RU": "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a",
+    "ko_KR": "\ub9c8\ubc95\uc758 \uc6d0\ucc9c",
+    "zh_TW": "\u9b54\u529b\u4e4b\u6e90",
+    "zh_CN": "\u9b54\u529b\u4e4b\u6e90"
+  },
+  "description_blz": {
+    "en_US": "Redirect your excess magic to a friendly healer for 1 hour. When you cast an empowered spell, you restore 0.25% of their maximum mana per empower level. Limit 1.",
+    "es_MX": "Redirige tu exceso de magia a un sanador aliado durante 1 h. Cuando lanzas un hechizo potenciado, restauras un 0.25% de su man\u00e1 m\u00e1ximo por nivel de potenciaci\u00f3n. L\u00edmite de 1.",
+    "pt_BR": "Redireciona o excesso de magia para um curador aliado por 1 hora. Ao lan\u00e7ar um feiti\u00e7o potencializado, voc\u00ea restaura 0,25% do m\u00e1ximo de pontos de mana por n\u00edvel de potencializa\u00e7\u00e3o. Limite de 1.",
+    "de_DE": "Leitet Eure \u00fcbersch\u00fcssige Magie 1 Stunde lang auf einen verb\u00fcndeten Heiler um. Wenn Ihr einen erm\u00e4chtigten Zauber einsetzt, stellt Ihr pro Erm\u00e4chtigungsstufe 0,25% des maximalen Manas dieses Heilers wieder her. Maximal 1 Ziel.",
+    "en_GB": "Redirect your excess magic to a friendly healer for 1 hour. When you cast an empowered spell, you restore 0.25% of their maximum mana per empower level. Limit 1.",
+    "es_ES": "Redirige tu exceso de magia a un sanador aliado durante 1 h s. Cuando lanzas un hechizo potenciado, recuperas un 0,25% de tu man\u00e1 m\u00e1ximo por cada nivel de potencia. Limitado a 1.",
+    "fr_FR": "Vous redirigez votre exc\u00e9dent de magie vers une soigneuse ou un soigneur alli\u00e9 pendant 1 heure. Vos sorts renforc\u00e9s lui rendent 0,25% de son maximum de mana par niveau de renforcement. Limit\u00e9 \u00e0 une cible.",
+    "it_IT": "Reindirizza la magia in eccesso su un guaritore alleato per 1 ora. Quando si lancia un incantesimo potenziato, rigenera il 0,25% del mana massimo del guaritore alleato per ogni livello di potenziamento. L'effetto pu\u00f2 essere attivo su un solo bersaglio alla volta.",
+    "ru_RU": "\u0412\u044b \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442\u0435 \u0438\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u0443\u044e \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0446\u0435\u043b\u0438\u0442\u0435\u043b\u044e-\u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 \u043d\u0430 1 \u0447. \u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u0443\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f, \u043e\u043d \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 0,25% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u043c\u0430\u043d\u044b \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0443\u0441\u0438\u043b\u0435\u043d\u0438\u044f. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 1 \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\uc544\uad70 \uce58\uc720 \ub2f4\ub2f9\uc5d0\uac8c 1\uc2dc\uac04 \ub3d9\uc548 \ub0a8\uc740 \ub9c8\ub825\uc744 \uc804\ub2ec\ud569\ub2c8\ub2e4. \uac15\ud654\ub41c \uc8fc\ubb38\uc744 \uc2dc\uc804\ud560 \ub54c \uac15\ud654 \ub2e8\uacc4\ub2f9 \ub300\uc0c1\uc758 \ucd5c\ub300 \ub9c8\ub098\ub97c 0.25%\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4. \ub300\uc0c1\uc740 \ud558\ub098\ub85c \uc81c\ud55c\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u91cd\u65b0\u5f15\u5c0e\u4f60\u6ea2\u51fa\u7684\u9b54\u6cd5\u81f3\u4e00\u540d\u53cb\u65b9\u6cbb\u7642\u8005\uff0c\u6301\u7e8c1\u5c0f\u6642\u3002\u7576\u4f60\u65bd\u653e\u805a\u80fd\u6cd5\u8853\u6642\uff0c\u6bcf\u500b\u805a\u80fd\u7b49\u7d1a\u4f7f\u4f60\u6062\u5fa9\u76f8\u7576\u65bc\u5176\u6cd5\u529b\u4e0a\u96500.25%\u7684\u751f\u547d\u529b\u3002\u6700\u591a1\u500b\u3002",
+    "zh_CN": "\u5c06\u4f60\u6ea2\u51fa\u7684\u9b54\u529b\u8f6c\u79fb\u7ed9\u4e00\u540d\u53cb\u65b9\u6cbb\u7597\u8005\uff0c\u6301\u7eed1\u5c0f\u65f6\u3002\u5f53\u4f60\u65bd\u653e\u84c4\u529b\u6cd5\u672f\u65f6\uff0c\u6bcf\u5c42\u84c4\u529b\u90fd\u4f1a\u4e3a\u5176\u6062\u590d\u6700\u5927\u6cd5\u529b\u76840.25%\u3002\u53ea\u80fd\u5f71\u54cd\u4e00\u4e2a\u76ee\u6807\u3002"
+  }
 }

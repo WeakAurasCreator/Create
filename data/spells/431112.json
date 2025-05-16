@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "431112"
+  "SpellID": "431112",
+  "name_blz": {
+    "en_US": "Flame and Frost",
+    "es_MX": "Fuego y escarcha",
+    "pt_BR": "Chama e Gelo",
+    "de_DE": "Flamme und Frost",
+    "en_GB": "Flame and Frost",
+    "es_ES": "Llama y Escarcha",
+    "fr_FR": "Flamme et givre",
+    "it_IT": "Fiamme e Ghiaccio",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u044f \u0438 \u0445\u043e\u043b\u043e\u0434",
+    "ko_KR": "\ubd88\uaf43\uacfc \uc11c\ub9ac",
+    "zh_TW": "\u70c8\u7130\u51b0\u971c",
+    "zh_CN": "\u7130\u971c\u76f8\u4f9d"
+  },
+  "description_blz": {}
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "425539"
+  "SpellID": "425539",
+  "name_blz": {
+    "en_US": "Swift Skimming",
+    "es_MX": "Vuelo r\u00e1pido rasante",
+    "pt_BR": "Planagem Veloz",
+    "de_DE": "Schnelles Kratzen",
+    "en_GB": "Swift Skimming",
+    "es_ES": "Vuelo raso presto",
+    "fr_FR": "Survol rapide",
+    "it_IT": "Rasoterra Rapido",
+    "ru_RU": "\u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0431\u0440\u0435\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0435\u0442",
+    "ko_KR": "\uc2e0\uc18d\ud55c \ucd08\uc800\uace0\ub3c4 \ube44\ud589",
+    "zh_TW": "\u8fc5\u6377\u98db\u63a0",
+    "zh_CN": "\u8fc5\u7535\u6ed1\u7fd4"
+  },
+  "description_blz": {
+    "en_US": "Ground Skimming can now occur while affected by Thrill of the Skies.",
+    "es_MX": "Ahora Al ras del suelo puede ocurrir mientras est\u00e1 afectado por Adrenalina a\u00e9rea.",
+    "pt_BR": "Rasante no Solo agora pode ocorrer durante o efeito de Emo\u00e7\u00e3o dos C\u00e9us.",
+    "de_DE": "'Bodenkratzer' kann nun auftreten, wenn 'Nervenkitzel der L\u00fcfte' aktiv ist.",
+    "en_GB": "Ground Skimming can now occur while affected by Thrill of the Skies.",
+    "es_ES": "Ahora se puede activar A ras del suelo bajo los efectos de Emoci\u00f3n de los cielos.",
+    "fr_FR": "Rase-mottes peut se d\u00e9clencher lorsque vous \u00eates sous l\u2019effet d\u2019Exaltation c\u00e9leste.",
+    "it_IT": "Rasoterra pu\u00f2 attivarsi quando si \u00e8 affetti da Brivido dei Cieli.",
+    "ru_RU": "\"\u0411\u0440\u0435\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0435\u0442\" \u0442\u0435\u043f\u0435\u0440\u044c \u043c\u043e\u0436\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0441 \"\u0410\u0437\u0430\u0440\u0442\u043e\u043c \u043d\u0435\u0431\u0435\u0441\".",
+    "ko_KR": "\ud558\ub298\uc758 \uc804\uc728\uc5d0 \uc601\ud5a5\uc744 \ubc1b\ub294 \ub3d9\uc548\uc5d0\ub3c4 \ucd08\uc800\uace0\ub3c4 \ube44\ud589\uc774 \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u73fe\u5728\u53ef\u5728\u53d7\u5feb\u610f\u7ff1\u7fd4\u5f71\u97ff\u6642\uff0c\u89f8\u767c\u8cbc\u5730\u98db\u63a0\u3002",
+    "zh_CN": "\u63a0\u5730\u6ed1\u7fd4\u53ef\u4ee5\u5728\u53d7\u5230\u78a7\u7a7a\u70ed\u8840\u5f71\u54cd\u65f6\u751f\u6548\u3002"
+  }
 }

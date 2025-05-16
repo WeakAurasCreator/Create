@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "394123"
+  "SpellID": "394123",
+  "name_blz": {
+    "en_US": "Fatal Touch",
+    "es_MX": "Toque fatal",
+    "pt_BR": "Toque Fatal",
+    "de_DE": "T\u00f6dliche Ber\u00fchrung",
+    "en_GB": "Fatal Touch",
+    "es_ES": "Toque letal",
+    "fr_FR": "Toucher fatal",
+    "it_IT": "Tocco Fatale",
+    "ru_RU": "\u0424\u0430\u0442\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uce58\uba85\uc801\uc778 \uc190\uae38",
+    "zh_TW": "\u81f4\u547d\u4e4b\u89f8",
+    "zh_CN": "\u81f4\u547d\u4e4b\u89e6"
+  },
+  "description_blz": {
+    "en_US": "Touch of Death increases your damage by 5% for 30 sec after being cast and its cooldown is reduced by 90 sec.",
+    "es_MX": "Toque de la muerte aumenta tu da\u00f1o en un 5% durante 30 s despu\u00e9s de lanzarlo y su tiempo de reutilizaci\u00f3n se reduce en 90 s.",
+    "pt_BR": "Toque da Morte aumenta em 5% o seu dano por 30 s depois de lan\u00e7ado e tem a recarga reduzida em 90 s.",
+    "de_DE": "Nach dem Wirken erh\u00f6ht 'Ber\u00fchrung des Todes' 30 Sek. lang Euren Schaden um 5%, und die Abklingzeit der F\u00e4higkeit wird um 90 Sek. verringert.",
+    "en_GB": "Touch of Death increases your damage by 5% for 30 sec after being cast and its cooldown is reduced by 90 sec.",
+    "es_ES": "Toque de la muerte aumenta un 5% tu da\u00f1o durante 30 s tras su lanzamiento. Adem\u00e1s, su tiempo de reutilizaci\u00f3n se reduce 90 s.",
+    "fr_FR": "Toucher mortel augmente vos d\u00e9g\u00e2ts de 5\u00a0% pendant 30 s apr\u00e8s son lancement et son temps de recharge est r\u00e9duit de 90\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Tocco della Morte di 90 s. Inoltre, Tocco della Morte aumenta i danni da te inflitti del 5% per 30 s.",
+    "ru_RU": "\"\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043a\u0430\u0441\u0430\u043d\u0438\u0435\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u043d\u0430 5% \u043d\u0430 30 \u0441\u0435\u043a., \u0430 \u0435\u0433\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 90 \u0441\u0435\u043a.",
+    "ko_KR": "\uc808\uba85\uc758 \uc190\uae38 \uc2dc\uc804 \ud6c4 30\ucd08 \ub3d9\uc548 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c \uc808\uba85\uc758 \uc190\uae38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 90\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u5e7d\u51a5\u638c\u5f8c\uff0c\u4f60\u7684\u50b7\u5bb3\u63d0\u9ad85%\uff0c\u6301\u7e8c30\u79d2\uff0c\u4e14\u5176\u51b7\u537b\u6642\u9593\u7e2e\u77ed90\u79d2\u3002",
+    "zh_CN": "\u8f6e\u56de\u4e4b\u89e6\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed90\u79d2\uff0c\u65bd\u653e\u540e\u4f7f\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u6301\u7eed30\u79d2\u3002"
+  }
 }

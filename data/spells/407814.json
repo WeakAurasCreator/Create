@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "407814"
+  "SpellID": "407814",
+  "name_blz": {
+    "en_US": "Pupil of Alexstrasza",
+    "es_MX": "Pupilo de Alexstrasza",
+    "pt_BR": "Aprendiz de Alexstrasza",
+    "de_DE": "Sch\u00fcler von Alexstrasza",
+    "en_GB": "Pupil of Alexstrasza",
+    "es_ES": "Pupilo de Alexstrasza",
+    "fr_FR": "\u00c9l\u00e8ve d\u2019Alexstrasza",
+    "it_IT": "Pupillo di Alexstrasza",
+    "ru_RU": "\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043b\u0435\u043a\u0441\u0442\u0440\u0430\u0437\u044b",
+    "ko_KR": "\uc54c\ub809\uc2a4\ud2b8\ub77c\uc790\uc758 \uc81c\uc790",
+    "zh_TW": "\u96c5\u7acb\u53f2\u5353\u838e\u7684\u5b78\u5f92",
+    "zh_CN": "\u963f\u83b1\u514b\u4e1d\u5854\u8428\u7684\u95e8\u5f92"
+  },
+  "description_blz": {
+    "en_US": "When cast at an enemy, Living Flame strikes 1 additional enemy for 100% damage.",
+    "es_MX": "Cuando se lanza a un enemigo, Llama viva golpea 1 enemigos m\u00e1s con un 100% de da\u00f1o.",
+    "pt_BR": "Quando lan\u00e7ado em um inimigo, Chama Viva atinge mais 1 inimigo, causando 100% de dano.",
+    "de_DE": "Wenn 'Lebende Flamme' auf einen Gegner gewirkt wird, trifft der Zauber 1 zus\u00e4tzlichen Gegner und f\u00fcgt ihm 100% Schaden zu.",
+    "en_GB": "When cast at an enemy, Living Flame strikes 1 additional enemy for 100% damage.",
+    "es_ES": "Cuando se lanza Llama viva contra un enemigo, golpea a 1 m\u00e1s e inflige un 100% de da\u00f1o.",
+    "fr_FR": "Lanc\u00e9e sur un ennemi, Flamme vivante frappe 1\u00a0ennemi suppl\u00e9mentaire et lui inflige 100\u00a0% des d\u00e9g\u00e2ts.",
+    "it_IT": "Quando viene lanciata contro un nemico, Fiamma Vivente colpisce 1 nemico aggiuntivo,infliggendo il 100% di danni.",
+    "ru_RU": "\u041f\u043e\u0440\u0430\u0436\u0430\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \"\u0416\u0438\u0432\u043e\u0439 \u0436\u0430\u0440\" \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0435\u0449\u0435 1 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f 100% \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc801\uc5d0\uac8c \uc0b4\uc544\uc788\ub294 \ubd88\uaf43 \uc2dc\uc804 \uc2dc \ucd94\uac00 \uc801 1\uba85\uc5d0\uac8c 100%\uc758 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u671d\u6575\u4eba\u65bd\u653e\u6642\uff0c\u751f\u547d\u70c8\u7130\u6703\u984d\u5916\u653b\u64ca1\u500b\u6575\u4eba\uff0c\u9020\u6210100%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5bf9\u654c\u4eba\u65bd\u653e\u65f6\uff0c\u6d3b\u5316\u70c8\u7130\u4f1a\u989d\u5916\u6253\u51fb1\u540d\u654c\u4eba\uff0c\u9020\u6210100%\u7684\u4f24\u5bb3\u3002"
+  }
 }

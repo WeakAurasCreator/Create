@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444033"
+  "SpellID": "444033",
+  "name_blz": {
+    "en_US": "Whitemane's Famine",
+    "es_MX": "Hambruna de Melenablanca",
+    "pt_BR": "Fome de Cristalba",
+    "de_DE": "Hunger von Wei\u00dfm\u00e4hne",
+    "en_GB": "Whitemane's Famine",
+    "es_ES": "Hambruna de Melenablanca",
+    "fr_FR": "Famine de Blanchet\u00eate",
+    "it_IT": "Carestia di Biancachioma",
+    "ru_RU": "\u0413\u043e\u043b\u043e\u0434 \u0412\u0430\u0439\u0442\u043c\u0435\u0439\u043d",
+    "ko_KR": "\ud654\uc774\ud2b8\uba54\uc778\uc758 \uae30\uadfc",
+    "zh_TW": "\u61f7\u7279\u9081\u6069\u4e4b\u98e2",
+    "zh_CN": "\u6000\u7279\u8fc8\u6069\u4e4b\u9965\u8352"
+  },
+  "description_blz": {
+    "en_US": "When Scourge Strike damages an enemy affected by Undeath it gains 1 stack and infects another nearby enemy.",
+    "es_MX": "Cuando Golpe de la plaga da\u00f1a a un enemigo afectado por No-muerte, obtiene 1 acumulaci\u00f3n e infecta a otro enemigo cercano.",
+    "pt_BR": "Quando Golpe do Flagelo causa dano a um inimigo afetado por Morte-viva, concede mais 1 aplica\u00e7\u00e3o e infecta um inimigo pr\u00f3ximo.",
+    "de_DE": "Wenn 'Gei\u00dfelsto\u00df' einem Gegner Schaden zuf\u00fcgt, der von 'Untot' betroffen ist, erh\u00e4lt der Effekt 1 weiteren Stapel und springt au\u00dferdem auf einen weiteren Gegner in der N\u00e4he \u00fcber.",
+    "en_GB": "When Scourge Strike damages an enemy affected by Undeath it gains 1 stack and infects another nearby enemy.",
+    "es_ES": "Cuando Golpe de la Plaga inflige da\u00f1o a un enemigo bajo los efectos de No-muerte, gana 1 acumulaci\u00f3n e infecta a otro enemigo cercano.",
+    "fr_FR": "Lorsque Frappe du Fl\u00e9au inflige des d\u00e9g\u00e2ts \u00e0 un personnage adverse affect\u00e9 par Non-mort, l\u2019effet gagne 1\u00a0charge et infecte un autre personnage adverse proche.",
+    "it_IT": "Quando Assalto del Flagello infligge danni a un nemico affetto da Non Morte, fornisce 1 accumulo dell'incantesimo e infetta un altro nemico vicino.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0423\u0434\u0430\u0440 \u041f\u043b\u0435\u0442\u0438\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d \u0446\u0435\u043b\u0438 \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041d\u0435\u0436\u0438\u0442\u044c\", \u044d\u0442\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0435\u0449\u0435 1 \u044d\u0444\u0444\u0435\u043a\u0442 \u0438 \u0437\u0430\u0440\u0430\u0436\u0430\u0435\u0442 \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0440\u044f\u0434\u043e\u043c.",
+    "ko_KR": "\uc2a4\uceec\uc9c0\uc758 \uc77c\uaca9\uc73c\ub85c \ubd88\uc0ac\uc5d0 \uc601\ud5a5\uc744 \ubc1b\ub294 \uc801\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 1\uc911\ucca9\uc774 \uc99d\uac00\ud558\uace0 \ub2e4\ub978 \uc8fc\uc704\uc758 \uc801\uc744 \uac10\uc5fc\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u5929\u8b74\u6253\u64ca\u5c0d\u53d7\u4e0d\u6b7b\u5316\u5f71\u97ff\u7684\u6575\u4eba\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u5806\u758a1\u5c64\uff0c\u4e26\u611f\u67d3\u9644\u8fd1\u7684\u53e6\u4e00\u4f4d\u6575\u4eba\u3002",
+    "zh_CN": "\u5929\u707e\u6253\u51fb\u5bf9\u53d7\u5230\u6b7b\u7075\u5f71\u54cd\u7684\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u4f7f\u5176\u53e0\u52a01\u5c42\uff0c\u5e76\u611f\u67d3\u9644\u8fd1\u7684\u53e6\u4e00\u4e2a\u654c\u4eba\u3002"
+  }
 }

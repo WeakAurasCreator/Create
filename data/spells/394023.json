@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "394023"
+  "SpellID": "394023",
+  "name_blz": {
+    "en_US": "Improved Shadow Techniques",
+    "es_MX": "T\u00e9cnicas de las sombras mejoradas",
+    "pt_BR": "T\u00e9cnicas Sombrias Aprimoradas",
+    "de_DE": "Verbesserte Schattentechniken",
+    "en_GB": "Improved Shadow Techniques",
+    "es_ES": "T\u00e9cnicas de las Sombras mejoradas",
+    "fr_FR": "Techniques de l\u2019ombre am\u00e9lior\u00e9es",
+    "it_IT": "Tecniche d'Ombra Migliorate",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u0430\u044f \u0442\u0435\u043d\u0435\u0432\u0430\u044f \u0442\u0435\u0445\u043d\u0438\u043a\u0430",
+    "ko_KR": "\uadf8\ub9bc\uc790 \uae30\uc220 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u6697\u5f71\u6280\u6cd5",
+    "zh_CN": "\u5f3a\u5316\u6697\u5f71\u6280\u5de7"
+  },
+  "description_blz": {
+    "en_US": "Shadow Techniques generates 3 additional Energy.",
+    "es_MX": "T\u00e9cnicas de las sombras genera 3 p. m\u00e1s de energ\u00eda.",
+    "pt_BR": "T\u00e9cnicas Sombrias geram 3 a mais de Energia.",
+    "de_DE": "'Schattentechniken' erzeugt zus\u00e4tzlich 3 Energie.",
+    "en_GB": "Shadow Techniques generates 3 additional Energy.",
+    "es_ES": "T\u00e9cnicas de las Sombras genera 3 p. de energ\u00eda m\u00e1s.",
+    "fr_FR": "Techniques de l\u2019ombre g\u00e9n\u00e8re 3\u00a0points d\u2019\u00e9nergie suppl\u00e9mentaires.",
+    "it_IT": "Aumenta l'energia generata da Tecniche d'Ombra di 3.",
+    "ru_RU": "\"\u0422\u0435\u043d\u0435\u0432\u0430\u044f \u0442\u0435\u0445\u043d\u0438\u043a\u0430\" \u0434\u0430\u0435\u0442 \u0435\u0449\u0435 3 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438.",
+    "ko_KR": "\uadf8\ub9bc\uc790 \uae30\uc220\uc774 \ucd94\uac00\ub85c 3\uc758 \uae30\ub825\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6697\u5f71\u6280\u6cd5\u984d\u5916\u7522\u751f3\u9ede\u80fd\u91cf\u3002",
+    "zh_CN": "\u6697\u5f71\u6280\u5de7\u989d\u5916\u4ea7\u751f3\u70b9\u80fd\u91cf\u503c\u3002"
+  }
 }

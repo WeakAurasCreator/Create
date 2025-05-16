@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386858"
+  "SpellID": "386858",
+  "name_blz": {
+    "en_US": "Demonic Inspiration",
+    "es_MX": "Inspiraci\u00f3n demon\u00edaca",
+    "pt_BR": "Inspira\u00e7\u00e3o Demon\u00edaca",
+    "de_DE": "D\u00e4monische Inspiration",
+    "en_GB": "Demonic Inspiration",
+    "es_ES": "Inspiraci\u00f3n demon\u00edaca",
+    "fr_FR": "Inspiration d\u00e9moniaque",
+    "it_IT": "Ispirazione Demoniaca",
+    "ru_RU": "\u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0432\u043e\u043e\u0434\u0443\u0448\u0435\u0432\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc545\ub9c8\uc758 \uac10\ud654",
+    "zh_TW": "\u60e1\u9b54\u9f13\u821e",
+    "zh_CN": "\u6076\u9b54\u6fc0\u52b1"
+  },
+  "description_blz": {
+    "en_US": "Increases the attack speed of your primary pet by 5%. \r\n\r\nIncreases Grimoire of Sacrifice damage by 10%.",
+    "es_MX": "Aumenta la velocidad de ataque de tu mascota principal un 5%. \r\n\r\nAumenta un 10% el da\u00f1o de Grimorio de sacrificio.",
+    "pt_BR": "Aumenta em 5% a velocidade de ataque do seu ajudante prim\u00e1rio. \r\n\r\nAumenta em 10% o dano do seu Grim\u00f3rio de Sacrificar.",
+    "de_DE": "Erh\u00f6ht das Angriffstempo Eures Hauptbegleiters um 5%. \r\n\r\nErh\u00f6ht den Schaden von 'Grimoire der Opferung' um 10%.",
+    "en_GB": "Increases the attack speed of your primary pet by 5%. \r\n\r\nIncreases Grimoire of Sacrifice damage by 10%.",
+    "es_ES": "Aumenta un 5% la velocidad de ataque de tu mascota principal. \r\n\r\nAumenta un 10% el da\u00f1o de Grimorio de sacrificio.",
+    "fr_FR": "Augmente la vitesse d\u2019attaque de votre familier principal de 5%. \r\n\r\nAugmente les d\u00e9g\u00e2ts de Grimoire de sacrifice de 10%.",
+    "it_IT": "Aumenta la velocit\u00e0 d'attacco del servitore primario del 5%.\r\n\r\nAumenta i danni inflitti dal Rito del Sacrificio del 10%.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0430\u0442\u0430\u043a\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u0441\u043b\u0443\u0436\u043d\u0438\u043a\u0430 \u043d\u0430 5%. \r\n\r\n\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0413\u0440\u0438\u043c\u0443\u0430\u0440\u0430 \u0436\u0435\u0440\u0442\u0432\u043e\u043f\u0440\u0438\u043d\u043e\u0448\u0435\u043d\u0438\u044f\" \u043d\u0430 10%.",
+    "ko_KR": "\uc8fc \uc18c\ud658\uc218\uc758 \uacf5\uaca9 \uc18d\ub3c4\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \r\n\r\n\ud751\ub9c8\ubc95\uc11c: \ud76c\uc0dd\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u4e3b\u8981\u5bf5\u7269\u7684\u653b\u64ca\u901f\u5ea6\u63d0\u9ad85%\u3002\r\n\r\n\u72a7\u7272\u9b54\u5178\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u4e3b\u8981\u5ba0\u7269\u7684\u653b\u51fb\u901f\u5ea6\u63d0\u9ad85%\u3002\r\n\r\n\u727a\u7272\u9b54\u5178\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

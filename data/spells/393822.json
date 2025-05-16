@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393822"
+  "SpellID": "393822",
+  "name_blz": {
+    "en_US": "Internal Struggle",
+    "es_MX": "Lucha interna",
+    "pt_BR": "Luta Interna",
+    "de_DE": "Innerer Konflikt",
+    "en_GB": "Internal Struggle",
+    "es_ES": "Pugna interna",
+    "fr_FR": "Conflit int\u00e9rieur",
+    "it_IT": "Sforzo Interno",
+    "ru_RU": "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044f\u044f \u0431\u043e\u0440\u044c\u0431\u0430",
+    "ko_KR": "\ub0b4\uba74\uc758 \ud22c\uc7c1",
+    "zh_TW": "\u5167\u5728\u6399\u624e",
+    "zh_CN": "\u5185\u5fc3\u51b2\u7a81"
+  },
+  "description_blz": {
+    "en_US": "Increases your mastery by 2.4%.",
+    "es_MX": "Aumenta tu maestr\u00eda un 2.4%.",
+    "pt_BR": "Aumenta em 2,4% a sua Maestria.",
+    "de_DE": "Erh\u00f6ht Eure Meisterschaft um 2,4%.",
+    "en_GB": "Increases your mastery by 2.4%.",
+    "es_ES": "Aumenta un 2,4% tu maestr\u00eda.",
+    "fr_FR": "Augmente votre Ma\u00eetrise de 2,4%.",
+    "it_IT": "Aumenta la maestria del 2,4%.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 2,4%.",
+    "ko_KR": "\ud2b9\ud654\uac00 2.4%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u7cbe\u901a\u63d0\u9ad82.4%\u3002",
+    "zh_CN": "\u4f60\u7684\u7cbe\u901a\u63d0\u9ad82.4%\u3002"
+  }
 }

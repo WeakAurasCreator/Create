@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341549"
+  "SpellID": "341549",
+  "name_blz": {
+    "en_US": "Deeper Daggers",
+    "es_MX": "Dagas profundas",
+    "pt_BR": "Adagas Cravadas",
+    "de_DE": "Tiefere Dolche",
+    "en_GB": "Deeper Daggers",
+    "es_ES": "Dagas profundas",
+    "fr_FR": "Dagues plus longues",
+    "it_IT": "Pugnali Profondi",
+    "ru_RU": "\u0414\u043b\u0438\u043d\u043d\u044b\u0435 \u043a\u043b\u0438\u043d\u043a\u0438",
+    "ko_KR": "\uae4a\uc740 \ub2e8\uac80",
+    "zh_TW": "\u6df1\u523a\u4e4b\u64ca",
+    "zh_CN": "\u6df1\u523a\u5315\u9996"
+  },
+  "description_blz": {
+    "en_US": "Eviscerate and Black Powder increase your Shadow damage dealt by 30.0% for 8 sec.",
+    "es_MX": "Eviscerar y Polvo negro aumentan un 30.0% el da\u00f1o de las sombras que infliges durante 8 s.",
+    "pt_BR": "Eviscerar e P\u00f3lvora Negra aumentam o dano de Sombra que voc\u00ea causa em 30,0% por 8 s.",
+    "de_DE": "'Ausweiden' und 'Schwarzpulver' erh\u00f6hen Euren verursachten Schattenschaden 8 Sek. lang um 30,0%.",
+    "en_GB": "Eviscerate and Black Powder increase your Shadow damage dealt by 30.0% for 8 sec.",
+    "es_ES": "Eviscerar y P\u00f3lvora negra aumentan un 30,0% el da\u00f1o de las Sombras que infliges durante 8 s.",
+    "fr_FR": "\u00c9visc\u00e9ration et Poudre noire augmentent les d\u00e9g\u00e2ts d\u2019Ombre que vous infligez de 30,0% pendant 8 s.",
+    "it_IT": "Sventramento e Polvere Nera aumentano i danni da ombra inflitti del 30,0% per 8 s.",
+    "ru_RU": "\"\u041f\u043e\u0442\u0440\u043e\u0448\u0435\u043d\u0438\u0435\" \u0438 \"\u0427\u0435\u0440\u043d\u044b\u0439 \u043f\u043e\u0440\u043e\u0445\" \u043d\u0430 8 \u0441\u0435\u043a. \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043d\u0430 30,0%.",
+    "ko_KR": "\uc808\uac1c\uc640 \uac80\uc740 \ud654\uc57d\uc774 8\ucd08 \ub3d9\uc548 \uc554\ud751 \uacf5\uaca9\ub825\uc744 30.0%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5254\u9aa8\u548c\u9ed1\u706b\u85e5\u4f7f\u4f60\u9020\u6210\u7684\u6697\u5f71\u50b7\u5bb3\u63d0\u9ad830.0%\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u523a\u9aa8\u548c\u9ed1\u706b\u836f\u4f7f\u4f60\u9020\u6210\u7684\u6697\u5f71\u4f24\u5bb3\u63d0\u9ad830.0%\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

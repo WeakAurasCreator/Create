@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "434904"
+  "SpellID": "434904",
+  "name_blz": {
+    "en_US": "Aegis of Ironforge",
+    "es_MX": "\u00c9gida de Forjaz",
+    "pt_BR": "\u00c9gide de Altaforja",
+    "de_DE": "Aegis von Eisenschmiede",
+    "en_GB": "Aegis of Ironforge",
+    "es_ES": "\u00c9gida de Forjaz",
+    "fr_FR": "\u00c9gide de Forgefer",
+    "it_IT": "Egida di Forgiardente",
+    "ru_RU": "\u042d\u0433\u0438\u0434\u0430 \u0421\u0442\u0430\u043b\u044c\u0433\u043e\u0440\u043d\u0430",
+    "ko_KR": "\uc544\uc774\uc5b8\ud3ec\uc9c0\uc758 \uc544\uc774\uae30\uc2a4",
+    "zh_TW": "\u9435\u7210\u5821\u79a6\u8b77",
+    "zh_CN": "\u94c1\u7089\u5821\u5fbd\u76fe"
+  },
+  "description_blz": {
+    "en_US": "Brann hurls a shield at all players, reducing their damage taken by 20% and preventing loss of control effects for 12 sec.",
+    "es_MX": "Brann arroja un escudo a todos los jugadores, que reduce un 20% el da\u00f1o que reciben e impide los efectos de p\u00e9rdida de control durante 12 s.",
+    "pt_BR": "Brann lan\u00e7a um escudo em todos os jogadores, reduzindo em 20% o dano recebido e impedindo efeitos de perda de controle por 12 s.",
+    "de_DE": "Brann schleudert einen Schild auf alle Spielercharaktere, der ihren erlittenen Schaden um 20% verringert und 12 Sek. lang Kontrollverlusteffekte verhindert.",
+    "en_GB": "Brann hurls a shield at all players, reducing their damage taken by 20% and preventing loss of control effects for 12 sec.",
+    "es_ES": "Brann lanza un escudo a todos los jugadores que reduce un 20% el da\u00f1o que reciben y los hace inmunes a los efectos de p\u00e9rdida de control durante 12 s.",
+    "fr_FR": "Brann projette un bouclier sur tous les personnages-joueurs, r\u00e9duisant leurs d\u00e9g\u00e2ts subis de 20\u00a0% et emp\u00eachant les effets de perte de contr\u00f4le pendant 12 s.",
+    "it_IT": "Brann lancia uno scudo a tutti i personaggi, riducendone i danni subiti del 20% e impedendo loro di subire effetti di perdita di controllo del personaggio per 12 s.",
+    "ru_RU": "\u0411\u0440\u0430\u043d\u043d \u0431\u0440\u043e\u0441\u0430\u0435\u0442 \u0438\u0433\u0440\u043e\u043a\u0430\u043c \u0449\u0438\u0442, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 20% \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044e\u0449\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 12 \u0441\u0435\u043a.",
+    "ko_KR": "\ube0c\ub780\uc774 \ubaa8\ub4e0 \ud50c\ub808\uc774\uc5b4\uc5d0\uac8c \ubc29\ud328\ub97c \ub358\uc838 \ubc1b\ub294 \ud53c\ud574\ub97c 20%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0a4\uace0 12\ucd08 \ub3d9\uc548 \uc81c\uc5b4 \ubd88\uac00 \ud6a8\uacfc\ub97c \ubc29\uc9c0\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5e03\u840a\u6069\u5c0d\u6240\u6709\u73a9\u5bb6\u4e1f\u64f2\u51fa\u4e00\u9762\u76fe\u724c\uff0c\u4f7f\u4ed6\u5011\u53d7\u5230\u7684\u50b7\u5bb3\u964d\u4f4e20%\uff0c\u4e26\u9632\u6b62\u6240\u6709\u55aa\u5931\u63a7\u5236\u6548\u679c\uff0c\u6301\u7e8c12\u79d2\u3002",
+    "zh_CN": "\u5e03\u83b1\u6069\u5411\u6240\u6709\u73a9\u5bb6\u63b7\u51fa\u4e00\u9762\u76fe\u724c\uff0c\u4f7f\u5176\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e20%\uff0c\u5e76\u9632\u6b62\u5931\u63a7\u6548\u679c\uff0c\u6301\u7eed12\u79d2\u3002"
+  }
 }

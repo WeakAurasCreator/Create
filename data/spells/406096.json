@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "406096"
+  "SpellID": "406096",
+  "name_blz": {
+    "en_US": "Calm the Wolf",
+    "es_MX": "Apaciguar al lobo",
+    "pt_BR": "Acalmar o Lobo",
+    "de_DE": "Wolf z\u00fcgeln",
+    "en_GB": "Calm the Wolf",
+    "es_ES": "Calmar al lobo",
+    "fr_FR": "Apaisement du loup",
+    "it_IT": "Calma del Lupo",
+    "ru_RU": "\u0423\u0441\u043c\u0438\u0440\u0435\u043d\u0438\u0435 \u0432\u043e\u043b\u043a\u0430",
+    "ko_KR": "\ub291\ub300 \uc9c4\uc815\uc2dc\ud0a4\uae30",
+    "zh_TW": "\u5b89\u64ab\u72fc\u6027",
+    "zh_CN": "\u629a\u5e73\u72fc\u5fc3"
+  },
+  "description_blz": {
+    "en_US": "Enables Worgen to switch between Worgen and Human forms.",
+    "es_MX": "Permite a los huargen cambiar entre la forma huargen y la forma humana.",
+    "pt_BR": "Permite que worgens mudem entre a forma worgen e a humana.",
+    "de_DE": "Erm\u00f6glicht den Wechsel zwischen Menschen- und Worgengestalt.",
+    "en_GB": "Enables Worgen to switch between Worgen and Human forms.",
+    "es_ES": "Permite a los huargen cambiar entre la forma humana y la de huargen.",
+    "fr_FR": "Permet aux Worgens de passer de leur forme de Worgen \u00e0 leur forme humaine et vice versa.",
+    "it_IT": "Permette ai Worgen di passare dalla forma umana alla forma Worgen.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043c\u0435\u043d\u044f\u0442\u044c \u043e\u0431\u043b\u0438\u043a \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043d\u0430 \u0432\u043e\u0440\u0433\u0435\u043d\u0441\u043a\u0438\u0439 \u0438 \u043d\u0430\u043e\u0431\u043e\u0440\u043e\u0442.",
+    "ko_KR": "\ub291\ub300\uc778\uac04\uc774 \uc778\uac04 \ub610\ub294 \ub291\ub300\ub85c \ubcc0\uc2e0\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u72fc\u4eba\u5f97\u4ee5\u5728\u72fc\u4eba\u8207\u4eba\u985e\u5f62\u614b\u9593\u5207\u63db\u3002",
+    "zh_CN": "\u72fc\u4eba\u53ef\u4ee5\u5207\u6362\u4eba\u7c7b\u5f62\u6001\u548c\u72fc\u4eba\u5f62\u6001\u3002"
+  }
 }

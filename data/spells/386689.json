@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386689"
+  "SpellID": "386689",
+  "name_blz": {
+    "en_US": "Pact of Gluttony",
+    "es_MX": "Pacto de gula",
+    "pt_BR": "Pacto de Glutonaria",
+    "de_DE": "Pakt der Uners\u00e4ttlichkeit",
+    "en_GB": "Pact of Gluttony",
+    "es_ES": "Pacto de glotoner\u00eda",
+    "fr_FR": "Pacte de gloutonnerie",
+    "it_IT": "Patto dell'Ingordigia",
+    "ru_RU": "\u041f\u0430\u043a\u0442 \u0447\u0440\u0435\u0432\u043e\u0443\u0433\u043e\u0434\u0438\u044f",
+    "ko_KR": "\ud0d0\uc2dd\uc758 \ub9f9\uc57d",
+    "zh_TW": "\u66b4\u98df\u5951\u7d04",
+    "zh_CN": "\u9955\u992e\u5951\u7ea6"
+  },
+  "description_blz": {
+    "en_US": "Healthstones you conjure for yourself are now Demonic Healthstones and can be used multiple times in combat. Demonic Healthstones cannot be traded.\r\n\r\n Demonic Healthstone\r\nInstantly restores 25% health. 60 sec cooldown.",
+    "es_MX": "Las piedras de salud que conjuras para ti ahora se convierten en piedras de salud demon\u00edacas y pueden usarse varias veces en combate. Las piedras de salud demon\u00edacas no se pueden comerciar.\r\n\r\n Piedra de salud demon\u00edaca\r\nRestaura un 25% de salud al instante.Tiempo de reutilizaci\u00f3n de 60 s.",
+    "pt_BR": "As Pedras de Vida que voc\u00ea conjura para si mesmo se tornam Pedras de Vida Demon\u00edacas e podem ser usadas v\u00e1rias vezes em combate. Pedras de Vida Demon\u00edacas n\u00e3o podem ser negociadas.\r\n\r\n Pedra de Vida Demon\u00edaca\r\nRestaura instantaneamente 25% dos pontos de vida. 60 s de recarga.",
+    "de_DE": "Gesundheitssteine, die Ihr f\u00fcr Euch selbst beschw\u00f6rt, sind nun d\u00e4monische Gesundheitssteine und k\u00f6nnen im Kampf mehrfach verwendet werden. D\u00e4monische Gesundheitssteine lassen sich nicht handeln.\r\n\r\n D\u00e4monischer Gesundheitsstein\r\nStellt sofort 25% Gesundheit wieder her. 60 Sek. Abklingzeit.",
+    "en_GB": "Healthstones you conjure for yourself are now Demonic Healthstones and can be used multiple times in combat. Demonic Healthstones cannot be traded.\r\n\r\n Demonic Healthstone\r\nInstantly restores 25% health. 60 sec cooldown.",
+    "es_ES": "Ahora, las piedras de salud que invocas para ti son piedras de salud demon\u00edacas que se pueden usar varias veces en combate. Las piedras de salud demon\u00edacas no se pueden intercambiar.\r\n\r\n Piedra de salud demon\u00edaca\r\nRestaura al instante un 25% de salud. 60 s de tiempo de reutilizaci\u00f3n.",
+    "fr_FR": "Les pierres de soins que vous invoquez pour vous deviennent des pierres de soins d\u00e9moniaques qui peuvent \u00eatre utilis\u00e9es plusieurs fois au cours d\u2019un combat. Les pierres de soins d\u00e9moniaques ne peuvent \u00eatre \u00e9chang\u00e9es.\r\n\r\n Pierre de soins d\u00e9moniaque\r\nRend imm\u00e9diatement 25\u00a0% de vos points de vie. Temps de recharge\u00a0: 60\u00a0s.",
+    "it_IT": "Le Pietre della Salute che evochi per te stesso sono ora Pietre della Salute Demoniache e possono essere usate pi\u00f9 volte in combattimento. Le Pietre della Salute Demoniache non possono essere commerciate.\r\n\r\n Pietra della Salute Demoniaca\r\nRigenera istantaneamente il 25% della salute. 60 s di tempo di recupero.",
+    "ru_RU": "\u041a\u0430\u043c\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u044b \u0441\u043e\u0437\u0434\u0430\u0435\u0442\u0435 \u0434\u043b\u044f \u0441\u0435\u0431\u044f, \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f \u0432 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u0430\u043c\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0437 \u0437\u0430 \u0431\u043e\u0439. \u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u0430\u043c\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0435\u043b\u044c\u0437\u044f \u043f\u0435\u0440\u0435\u0434\u0430\u0442\u044c.\r\n\r\n \u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u0430\u043c\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f\r\n\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 25% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u2013 60 \u0441\u0435\u043a.",
+    "ko_KR": "\uc9c1\uc811 \ucc3d\uc870\ud558\ub294 \uc0dd\uba85\uc11d\uc774 \uc804\ud22c \uc911 \uc5ec\ub7ec \ubc88 \uc0ac\uc6a9 \uac00\ub2a5\ud55c \uc545\ub9c8\uc758 \uc0dd\uba85\uc11d\uc774 \ub429\ub2c8\ub2e4. \uc545\ub9c8\uc758 \uc0dd\uba85\uc11d\uc740 \uac70\ub798\uac00 \ubd88\uac00\ub2a5\ud569\ub2c8\ub2e4.\r\n\r\n \uc545\ub9c8\uc758 \uc0dd\uba85\uc11d\r\n\uc989\uc2dc 25%\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4. 60\ucd08\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \uc801\uc6a9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u628a\u81ea\u5df1\u88fd\u9020\u7684\u6cbb\u7642\u77f3\u8b8a\u6210\u60e1\u9b54\u6cbb\u7642\u77f3\uff0c\u4e26\u53ef\u5728\u6230\u9b25\u4e2d\u591a\u6b21\u4f7f\u7528\u3002\u60e1\u9b54\u6cbb\u7642\u77f3\u7121\u6cd5\u4ea4\u6613\u3002\r\n\r\n\u60e1\u9b54\u6cbb\u7642\u77f3\r\n\u7acb\u523b\u6062\u5fa925%\u751f\u547d\u529b\u3002 60\u79d2\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u4f60\u4e3a\u81ea\u5df1\u53ec\u5524\u7684\u6cbb\u7597\u77f3\u53d8\u4e3a\u6076\u9b54\u6cbb\u7597\u77f3\uff0c\u53ef\u4ee5\u5728\u6218\u6597\u4e2d\u4f7f\u7528\u591a\u6b21\u3002\u6076\u9b54\u6cbb\u7597\u77f3\u65e0\u6cd5\u4ea4\u6613\u3002\r\n\r\n\u6076\u9b54\u6cbb\u7597\u77f3\r\n\u7acb\u5373\u6062\u590d25%\u7684\u751f\u547d\u503c\u3002 60\u79d2\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

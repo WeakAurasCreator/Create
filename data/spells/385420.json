@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "385420"
+  "SpellID": "385420",
+  "name_blz": {
+    "en_US": "Breaker's Frenzy",
+    "es_MX": "Frenes\u00ed del destructor",
+    "pt_BR": "Frenesi Avassalador",
+    "de_DE": "Raserei des Brechers",
+    "en_GB": "Breaker's Frenzy",
+    "es_ES": "Frenes\u00ed del aniquilador",
+    "fr_FR": "Fr\u00e9n\u00e9sie de brise-drake",
+    "it_IT": "Frenesia dello Spezzatore",
+    "ru_RU": "\u0420\u0430\u0436 \u0431\u0438\u0442\u0432\u044b",
+    "ko_KR": "\ud30c\uad34\uc790\uc758 \uad11\ub780",
+    "zh_TW": "\u7834\u58de\u8005\u7684\u72c2\u4e82",
+    "zh_CN": "\u7834\u574f\u8005\u4e4b\u72c2"
+  },
+  "description_blz": {
+    "en_US": "Killing enemy players grants Breaker's Frenzy, increasing versatility by 2% and movement speed by 2%. Can stack up to 10 times.\r\n",
+    "es_MX": "Matar a un jugador enemigo te otorga Frenes\u00ed del destructor, que aumenta un 2% tu versatilidad y un 2% tu velocidad de movimiento. Puede acumularse hasta 10 veces.\r\n",
+    "pt_BR": "Matar jogadores inimigos concede Frenesi Avassalador, aumentando em 2% a Versatilidade e em 2% a velocidade de movimento. Pode acumular at\u00e9 10 vezes.\r\n",
+    "de_DE": "Das T\u00f6ten von gegnerischen Spielercharakteren gew\u00e4hrt 'Raserei des Brechers', was die Vielseitigkeit um 2% und die Bewegungsgeschwindigkeit um 2% erh\u00f6ht. Bis zu 10-mal stapelbar.\r\n",
+    "en_GB": "Killing enemy players grants Breaker's Frenzy, increasing versatility by 2% and movement speed by 2%. Can stack up to 10 times.\r\n",
+    "es_ES": "Al matar a jugadores enemigos, se recibe Frenes\u00ed del aniquilador, un efecto que aumenta un 2% la versatilidad y un 2% la velocidad de movimiento. Se puede acumular hasta un m\u00e1ximo de 10 veces.\r\n",
+    "fr_FR": "\u00c9liminer des personnages-joueurs ennemis conf\u00e8re Fr\u00e9n\u00e9sie destructrice, ce qui augmente la Polyvalence de 2% et la vitesse de d\u00e9placement de 2%. Cet effet se cumule jusqu\u2019\u00e0 10\u00a0fois.\r\n",
+    "it_IT": "Uccidere i giocatori nemici fornisce Frenesia dello Spezzatore, aumentando la versatilit\u00e0 del 2% e la velocit\u00e0 di movimento del 2%. Si accumula fino a 10 volte.\r\n",
+    "ru_RU": "\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u043e \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u0445 \u0438\u0433\u0440\u043e\u043a\u043e\u0432 \u0434\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0420\u0430\u0436 \u0431\u0438\u0442\u0432\u044b\", \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043d\u0430 2%, \u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u2013 \u043d\u0430 2%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437.\r\n",
+    "ko_KR": "\uc801 \ud50c\ub808\uc774\uc5b4\ub97c \ucc98\uce58\ud558\uba74 \ud30c\uad34\uc790\uc758 \uad11\ub780\uc774 \ubd80\uc5ec\ub418\uc5b4 \uc720\uc5f0\uc131\uc774 2%\ub9cc\ud07c, \uc774\ub3d9 \uc18d\ub3c4\uac00 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 10\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u6bba\u6b7b\u6575\u65b9\u73a9\u5bb6\u5f8c\uff0c\u7372\u5f97\u7834\u58de\u8005\u7684\u72c2\u4e82\uff0c\u81e8\u6a5f\u61c9\u8b8a\u63d0\u9ad82%\uff0c\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad82%\u3002\u6700\u591a\u53ef\u5806\u758a10\u5c64\u3002\r\n",
+    "zh_CN": "\u51fb\u6740\u654c\u65b9\u73a9\u5bb6\u4f1a\u4f7f\u4f60\u83b7\u5f97\u7834\u574f\u8005\u4e4b\u72c2\uff0c\u5168\u80fd\u63d0\u9ad82%\uff0c\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad82%\u3002\u6700\u591a\u53ef\u53e0\u52a010\u6b21\u3002\r\n"
+  }
 }

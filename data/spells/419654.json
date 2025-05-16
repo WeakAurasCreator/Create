@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "419654"
+  "SpellID": "419654",
+  "name_blz": {
+    "en_US": "Scarlet Monastery of Old",
+    "es_MX": "Monasterio Escarlata Antiguo",
+    "pt_BR": "Monast\u00e9rio Escarlate de Outrora",
+    "de_DE": "Das alte Scharlachrote Kloster",
+    "en_GB": "Scarlet Monastery of Old",
+    "es_ES": "Monasterio Escarlata de Anta\u00f1o",
+    "fr_FR": "Monast\u00e8re \u00c9carlate d\u2019antan",
+    "it_IT": "Vecchio Monastero Scarlatto",
+    "ru_RU": "\u041f\u0440\u0435\u0436\u043d\u0438\u0439 \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c \u0410\u043b\u043e\u0433\u043e \u043e\u0440\u0434\u0435\u043d\u0430",
+    "ko_KR": "\uc61b \ubd89\uc740\uc2ed\uc790\uad70 \uc218\ub3c4\uc6d0",
+    "zh_TW": "\u820a\u6642\u8840\u8272\u4fee\u9053\u9662",
+    "zh_CN": "\u65e7\u7248\u8840\u8272\u4fee\u9053\u9662"
+  },
+  "description_blz": {
+    "en_US": "Grants access to Scarlet Monastery of Old for all characters for your Warband.",
+    "es_MX": "Les otorga acceso al Monasterio Escarlata Antiguo a todos los personajes de tu tropa.",
+    "pt_BR": "Concede acesso ao Monast\u00e9rio Escarlate de Outrora a todos os personagens da sua tropa.",
+    "de_DE": "Gew\u00e4hrt allen Charakteren Eurer Kriegsmeute Zugang zum alten Scharlachroten Kloster.",
+    "en_GB": "Grants access to Scarlet Monastery of Old for all characters for your Warband.",
+    "es_ES": "Otorga acceso al Monasterio Escarlata de Anta\u00f1o a todos los personajes de tu banda guerrera.",
+    "fr_FR": "Donne acc\u00e8s au monast\u00e8re \u00c9carlate d\u2019antan \u00e0 tous les personnages de votre bataillon.",
+    "it_IT": "Fornisce l'accesso al Vecchio Monastero Scarlatto per tutti i personaggi della tua Brigata.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u0432 \u0441\u0442\u0430\u0440\u044b\u0439 \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c \u0410\u043b\u043e\u0433\u043e \u043e\u0440\u0434\u0435\u043d\u0430 \u0432\u0441\u0435\u043c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430\u043c \u0438\u0437 \u0432\u0430\u0448\u0435\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430.",
+    "ko_KR": "\uc804\ud22c\ubd80\ub300 \ub0b4 \ubaa8\ub4e0 \uce90\ub9ad\ud130\uac00 \uc61b \ubd89\uc740\uc2ed\uc790\uad70 \uc218\ub3c4\uc6d0\uc5d0 \uc785\uc7a5\ud560 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u6230\u968a\u4e2d\u7684\u6240\u6709\u89d2\u8272\u53ef\u4ee5\u9032\u5165\u820a\u6642\u8840\u8272\u4fee\u9053\u9662\u3002",
+    "zh_CN": "\u4e3a\u6218\u56e2\u4e2d\u7684\u6240\u6709\u89d2\u8272\u89e3\u9501\u65e7\u65e5\u7684\u8840\u8272\u4fee\u9053\u9662\u3002"
+  }
 }

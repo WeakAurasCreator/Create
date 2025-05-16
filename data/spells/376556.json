@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376556"
+  "SpellID": "376556",
+  "name_blz": {
+    "en_US": "Azureweave Bolt",
+    "es_MX": "Madeja de entramado azur",
+    "pt_BR": "Seta de Lazulinho",
+    "de_DE": "Azurgewobener Ballen",
+    "en_GB": "Azureweave Bolt",
+    "es_ES": "Rollo de tejido azur",
+    "fr_FR": "Rouleau de trame-d\u2019azur",
+    "it_IT": "Rotolo di Telazzurra",
+    "ru_RU": "\u0420\u0443\u043b\u043e\u043d \u043b\u0430\u0437\u0443\u0440\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u043e\u0442\u043d\u0430",
+    "ko_KR": "\ud558\ub298\ub9e4\ub4ed \ub450\ub8e8\ub9c8\ub9ac",
+    "zh_TW": "\u85cd\u7e54\u5e03\u5339",
+    "zh_CN": "\u9752\u7eb9\u5e03\u5377"
+  },
+  "description_blz": {
+    "en_US": "This mystical cloth can only be woven at a special loom in the Azure Archives, located in the southern area of The Azure Span.",
+    "es_MX": "Esta tela m\u00edstica solo puede tejerse en un telar especial de los Archivos Azur, ubicados en la zona sur del Trecho Azur.",
+    "pt_BR": "Este tecido m\u00edstico s\u00f3 pode ser feito em um tear especial no Arquivo Laz\u00fali, localizado na \u00e1rea sul de Vasta Laz\u00fali.",
+    "de_DE": "Dieser geheimnisvolle Stoff kann nur auf einem besonderen Webstuhl in den Azurarchiven gewoben werden, die sich im Azurblauen Gebirge befinden.",
+    "en_GB": "This mystical cloth can only be woven at a special loom in the Azure Archives, located in the southern area of The Azure Span.",
+    "es_ES": "Esta tela m\u00edstica solo se puede tejer con un telar especial del Archivo Azur, al sur de las Tierras Azures.",
+    "fr_FR": "Cette \u00e9toffe mystique ne peut \u00eatre obtenue qu\u2019\u00e0 l\u2019aide d\u2019un m\u00e9tier \u00e0 tisser sp\u00e9cial des archives d\u2019Azur, dans le sud de la trav\u00e9e du m\u00eame nom.",
+    "it_IT": "Questa stoffa pu\u00f2 essere tessuta solo su un telaio speciale che si trova presso gli Archivi Azzurri, a sud della Vastit\u00e0 Azzurra.",
+    "ru_RU": "\u042d\u0442\u0443 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0442\u043a\u0430\u043d\u044c \u043c\u043e\u0436\u043d\u043e \u0441\u043f\u043b\u0435\u0441\u0442\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u043e\u0441\u043e\u0431\u043e\u043c \u0442\u043a\u0430\u0446\u043a\u043e\u043c \u0441\u0442\u0430\u043d\u043a\u0435 \u041b\u0430\u0437\u0443\u0440\u043d\u044b\u0445 \u0430\u0440\u0445\u0438\u0432\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u044e\u0433\u0435 \u041b\u0430\u0437\u0443\u0440\u043d\u043e\u0433\u043e \u041f\u0440\u043e\u0441\u0442\u043e\u0440\u0430.",
+    "ko_KR": "\uc774 \uc2e0\ube44\ud55c \uc637\uac10\uc740 \ud558\ub298\ube5b \ud3c9\uc6d0 \ub0a8\ucabd \uc9c0\uc5ed\uc5d0 \uc790\ub9ac\ud55c \ud558\ub298\ube5b \uae30\ub85d \ubcf4\uad00\uc18c\uc758 \ud2b9\ubcc4\ud55c \ubca0\ud2c0\ub85c\ub9cc \uc5ee\uc5b4\ub0bc \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u88fd\u4f5c\u9019\u7a2e\u795e\u79d8\u5e03\u6599\u6642\uff0c\u9700\u8981\u524d\u5f80\u84bc\u85cd\u9ad8\u5730\u5357\u90e8\u5730\u5340\uff0c\u4f7f\u7528\u84bc\u85cd\u6587\u5eab\u4e2d\u7684\u7279\u6b8a\u7e54\u5e03\u6a5f\u3002",
+    "zh_CN": "\u8fd9\u79cd\u795e\u79d8\u7684\u5e03\u6599\u53ea\u80fd\u5728\u4f4d\u4e8e\u78a7\u84dd\u6797\u6d77\u5357\u90e8\u7684\u78a7\u84dd\u6863\u6848\u9986\u5185\u7684\u7279\u6b8a\u7ec7\u673a\u4e0a\u7ec7\u9020\u3002"
+  }
 }

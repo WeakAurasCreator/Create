@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382032"
+  "SpellID": "382032",
+  "name_blz": {
+    "en_US": "Echo Chamber",
+    "es_MX": "C\u00e1mara de eco",
+    "pt_BR": "C\u00e2mara do Eco",
+    "de_DE": "Echokammer",
+    "en_GB": "Echo Chamber",
+    "es_ES": "C\u00e1mara de eco",
+    "fr_FR": "Chambre d\u2019\u00e9cho",
+    "it_IT": "Camera dell'Eco",
+    "ru_RU": "\u041a\u0430\u043c\u0435\u0440\u0430 \u044d\u0445\u043e",
+    "ko_KR": "\uba54\uc544\ub9ac\uc758 \ubc29",
+    "zh_TW": "\u56de\u97f3\u4e4b\u5ba4",
+    "zh_CN": "\u56de\u58f0\u84c4\u80fd"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage dealt by your Elemental Overloads by 40%.",
+    "es_MX": "Aumenta el da\u00f1o infligido de tus Sobrecargas elementales un 40%.",
+    "pt_BR": "Aumenta em 40% o dano causado pelas suas Sobrecargas Elementais.",
+    "de_DE": "Erh\u00f6ht den von 'Elementar\u00fcberladung' verursachten Schaden um 40%.",
+    "en_GB": "Increases the damage dealt by your Elemental Overloads by 40%.",
+    "es_ES": "Aumenta un 40% el da\u00f1o que inflige tu Sobrecarga elemental.",
+    "fr_FR": "Augmente de 40% les d\u00e9g\u00e2ts inflig\u00e9s par vos Surcharges \u00e9l\u00e9mentaires.",
+    "it_IT": "Aumenta i danni inflitti da Sovraccarico Elementale del 40%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0412\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0441\u0442\u0438\u0445\u0438\u0439\" \u043d\u0430 40%.",
+    "ko_KR": "\uc815\uae30 \uacfc\ubd80\ud558\uc758 \uacf5\uaca9\ub825\uc774 40%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u5143\u7d20\u8d85\u8f09\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad840%\u3002",
+    "zh_CN": "\u4f60\u7684\u5143\u7d20\u8fc7\u8f7d\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad840%\u3002"
+  }
 }

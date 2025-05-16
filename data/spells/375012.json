@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375012"
+  "SpellID": "375012",
+  "name_blz": {
+    "en_US": "Bronze Timelock",
+    "es_MX": "Bloqueo temporal bronce",
+    "pt_BR": "Trava Temporal Bronze",
+    "de_DE": "Bronzenes Zeitschloss",
+    "en_GB": "Bronze Timelock",
+    "es_ES": "Cerradura temporal bronce",
+    "fr_FR": "Champ temporel de bronze",
+    "it_IT": "Serratura Temporale Bronzea",
+    "ru_RU": "\u0411\u0440\u043e\u043d\u0437\u043e\u0432\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b",
+    "ko_KR": "\uccad\ub3d9 \uc2dc\uac04\uc790\ubb3c\uc1e0",
+    "zh_TW": "\u9752\u9285\u6642\u9593\u9396",
+    "zh_CN": "\u9752\u94dc\u65f6\u5149\u4e4b\u9501"
+  },
+  "description_blz": {
+    "en_US": "Mark a waypoint on your positional timeline. Use Bronze Rewind to rewind to this location.\r\n\r\nCan only be used in the Dragon Isles.",
+    "es_MX": "Marca un punto de ruta en tu l\u00ednea temporal posicional. Usa Retroceso bronce para retroceder a esta ubicaci\u00f3n.\r\n\r\nSolo puede usarse en las Islas Drag\u00f3n.",
+    "pt_BR": "Marca um ponto de rota na sua linha temporal posicional. Use o Retrocesso de Bronze para retornar ao local.\r\n\r\nS\u00f3 \u00e9 poss\u00edvel usar nas Ilhas do Drag\u00e3o.",
+    "de_DE": "Markiert einen Wegpunkt auf Eurer zur\u00fcckgelegten Strecke. Setzt 'Bronzenes Zur\u00fcckspulen' ein, um an diese Position zur\u00fcckzukehren.\r\n\r\nKann nur auf den Dracheninseln verwendet werden.",
+    "en_GB": "Mark a waypoint on your positional timeline. Use Bronze Rewind to rewind to this location.\r\n\r\nCan only be used in the Dragon Isles.",
+    "es_ES": "Marca un punto de ruta en la posici\u00f3n de tu l\u00ednea temporal. Usa Rebobinado bronce para volver a esa ubicaci\u00f3n.\r\n\r\nSolo se puede usar en las Islas Drag\u00f3n.",
+    "fr_FR": "Vous marquez un point de passage sur votre ligne temporelle. Utilisez Retour au d\u00e9part pour y revenir.\r\n\r\nUniquement utilisable sur les \u00eeles aux Dragons.",
+    "it_IT": "Segna un punto sulla tua linea temporale. Usare Ritorno di Bronzo permette di tornare a quel punto.\r\n\r\nUtilizzabile solo sulle Isole dei Draghi.",
+    "ru_RU": "\u041e\u0442\u043c\u0435\u0447\u0430\u0435\u0442 \u0432\u0430\u0448\u0435 \u043c\u0435\u0441\u0442\u043e\u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u043d\u0430 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e-\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u043b\u0438\u043d\u0438\u0438. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \"\u0411\u0440\u043e\u043d\u0437\u043e\u0432\u0443\u044e \u043f\u0435\u0440\u0435\u043c\u043e\u0442\u043a\u0443\", \u0447\u0442\u043e\u0431\u044b \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u0432 \u043e\u0442\u043c\u0435\u0447\u0435\u043d\u043d\u0443\u044e \u0442\u043e\u0447\u043a\u0443.\r\n\r\n\u0414\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u0430\u0445.",
+    "ko_KR": "\uc2dc\uac04\uc758 \uae38\uc758 \ud604\uc7ac \uc704\uce58\uc5d0 \uc774\ub3d9 \uc9c0\uc810\uc744 \ud45c\uc2dc\ud569\ub2c8\ub2e4. \uccad\ub3d9 \ub418\ub3cc\ub9ac\uae30 \uc0ac\uc6a9 \uc2dc \uc774 \uc704\uce58\ub85c \ub3cc\uc544\uc635\ub2c8\ub2e4.\r\n\r\n\uc6a9\uc758 \uc12c\uc5d0\uc11c\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u7684\u6642\u9593\u7dda\u6a19\u8a18\u4f4d\u7f6e\u7684\u8def\u5f91\u9ede\u3002\u5229\u7528\u9752\u9285\u5012\u8f49\u56de\u6eaf\u5230\u9019\u500b\u4f4d\u7f6e\u3002\r\n\r\n\u53ea\u80fd\u5728\u5de8\u9f8d\u7fa4\u5cf6\u4f7f\u7528\u3002",
+    "zh_CN": "\u5728\u4f60\u7684\u4f4d\u7f6e\u65f6\u95f4\u7ebf\u4e0a\u6807\u8bb0\u4e00\u4e2a\u5bfb\u8def\u70b9\u3002\u4f7f\u7528\u9752\u94dc\u56de\u6eaf\u6765\u56de\u6eaf\u5230\u6b64\u4f4d\u7f6e\u3002\r\n\r\n\u53ea\u80fd\u5728\u5de8\u9f99\u7fa4\u5c9b\u4f7f\u7528\u3002"
+  }
 }

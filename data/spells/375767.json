@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375767"
+  "SpellID": "375767",
+  "name_blz": {
+    "en_US": "Screams of the Void",
+    "es_MX": "Gritos del Vac\u00edo",
+    "pt_BR": "Gritos do Caos",
+    "de_DE": "Schreie der Leere",
+    "en_GB": "Screams of the Void",
+    "es_ES": "Alaridos del Vac\u00edo",
+    "fr_FR": "Hurlements du Vide",
+    "it_IT": "Urla del Vuoto",
+    "ru_RU": "\u041a\u0440\u0438\u043a\u0438 \u0438\u0437 \u0411\u0435\u0437\u0434\u043d\u044b",
+    "ko_KR": "\uacf5\ud5c8\uc758 \ube44\uba85",
+    "zh_TW": "\u865b\u7121\u5c16\u562f",
+    "zh_CN": "\u865a\u7a7a\u5c16\u5578"
+  },
+  "description_blz": {
+    "en_US": "Devouring Plague causes your Shadow Word: Pain and Vampiric Touch to deal damage 40% faster on all targets for 3 sec.",
+    "es_MX": "Peste devoradora hace que tu Palabra de las sombras: dolor y Toque vamp\u00edrico inflijan da\u00f1o un 40% m\u00e1s r\u00e1pido a todos los objetivos durante 3 s.",
+    "pt_BR": "Peste Devoradora faz sua Palavra Sombria: Dor e seu Toque Vamp\u00edrico causarem dano 40% mais r\u00e1pido em todos os alvos por 3 s.",
+    "de_DE": "'Verschlingende Seuche' l\u00e4sst Eure Zauber 'Schattenwort: Schmerz' und 'Vampirber\u00fchrung' f\u00fcr 3 Sek. ihren Schaden bei allen Zielen um 40% schneller verursachen.",
+    "en_GB": "Devouring Plague causes your Shadow Word: Pain and Vampiric Touch to deal damage 40% faster on all targets for 3 sec.",
+    "es_ES": "Peste devoradora provoca que tu Palabra de las Sombras: dolor y tu Toque vamp\u00edrico inflijan da\u00f1o un 40% m\u00e1s r\u00e1pido a todos los objetivos durante 3 s.",
+    "fr_FR": "Peste d\u00e9vorante permet \u00e0 votre prochain Mot de l\u2019ombre\u00a0: Douleur ou Toucher vampirique d\u2019infliger ses d\u00e9g\u00e2ts aux cibles 40% plus vite pendant 3 s.",
+    "it_IT": "Piaga Divoratrice fa s\u00ec che Parola d'Ombra: Dolore e Tocco Vampirico infliggano danni il 40% pi\u00f9 velocemente su tutti i bersagli per 3 s.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0412\u0441\u0435\u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0449\u0435\u0439 \u0447\u0443\u043c\u044b\" \u0432\u0430\u0448\u0438 \"\u0421\u043b\u043e\u0432\u043e \u0422\u044c\u043c\u044b: \u0411\u043e\u043b\u044c\" \u0438 \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0442 \u043d\u0430 40% \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u044c \u0432\u0441\u0435\u043c \u0446\u0435\u043b\u044f\u043c \u0443\u0440\u043e\u043d \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a.",
+    "ko_KR": "\ud30c\uba78\uc758 \uc5ed\ubcd1 \uc2dc\uc804 \uc2dc 3\ucd08 \ub3d9\uc548 \uc5b4\ub460\uc758 \uad8c\ub2a5: \uace0\ud1b5\uacfc \ud761\ud608\uc758 \uc190\uae38\uc774 \ubaa8\ub4e0 \ub300\uc0c1\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\ub294 \uc2dc\uac04\uc774 40%\ub9cc\ud07c \ub354 \ube68\ub77c\uc9d1\ub2c8\ub2e4.",
+    "zh_TW": "\u566c\u9748\u761f\u75ab\u4f7f\u4f60\u6697\u8a00\u8853\uff1a\u75db\u548c\u5438\u8840\u4e4b\u89f8\u5c0d\u6240\u6709\u76ee\u6a19\u9020\u6210\u50b7\u5bb3\u7684\u901f\u5ea6\u63d0\u9ad840%\uff0c\u6301\u7e8c3\u79d2\u3002",
+    "zh_CN": "\u566c\u7075\u75ab\u75c5\u4f7f\u4f60\u7684\u6697\u8a00\u672f\uff1a\u75db\u548c\u5438\u8840\u9b3c\u4e4b\u89e6\u5bf9\u6240\u6709\u76ee\u6807\u9020\u6210\u4f24\u5bb3\u7684\u901f\u5ea6\u63d0\u9ad840%\uff0c\u6301\u7eed3\u79d2\u3002"
+  }
 }

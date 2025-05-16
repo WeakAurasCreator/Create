@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388856"
+  "SpellID": "388856",
+  "name_blz": {
+    "en_US": "Touch of the Tiger",
+    "es_MX": "Toque del tigre",
+    "pt_BR": "Toque do Tigre",
+    "de_DE": "Ber\u00fchrung des Tigers",
+    "en_GB": "Touch of the Tiger",
+    "es_ES": "Toque del tigre",
+    "fr_FR": "Toucher du tigre",
+    "it_IT": "Tocco della Tigre",
+    "ru_RU": "\u041a\u0430\u0441\u0430\u043d\u0438\u0435 \u0442\u0438\u0433\u0440\u0430",
+    "ko_KR": "\ud638\ub791\uc774\uc758 \uc190\uae38",
+    "zh_TW": "\u731b\u864e\u4e4b\u89f8",
+    "zh_CN": "\u731b\u864e\u4e4b\u89e6"
+  },
+  "description_blz": {
+    "en_US": "Tiger Palm damage increased by 40%.",
+    "es_MX": "Aumenta un 40% el da\u00f1o de Palma del tigre.",
+    "pt_BR": "Dano da Palma do Tigre aumentado em 40%.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Tigerklaue' um 40%.",
+    "en_GB": "Tiger Palm damage increased by 40%.",
+    "es_ES": "Da\u00f1o de Palma del tigre aumentado un 40%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Paume du tigre sont augment\u00e9s de 40%.",
+    "it_IT": "Aumenta i danni inflitti da Palmo della Tigre del 40%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u041b\u0430\u043f\u044b \u0442\u0438\u0433\u0440\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d \u043d\u0430 40%.",
+    "ko_KR": "\ubc94\uc758 \uc7a5\ud48d\uc758 \uacf5\uaca9\ub825\uc774 40%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u864e\u638c\u7684\u50b7\u5bb3\u63d0\u9ad840%\u3002",
+    "zh_CN": "\u731b\u864e\u638c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad840%\u3002"
+  }
 }

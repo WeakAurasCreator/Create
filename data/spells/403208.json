@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "403208"
+  "SpellID": "403208",
+  "name_blz": {
+    "en_US": "Draconic Attunements",
+    "es_MX": "Armonizaci\u00f3n drac\u00f3nica",
+    "pt_BR": "Harmoniza\u00e7\u00f5es Drac\u00f4nicas",
+    "de_DE": "Drakonische Einstimmungen",
+    "en_GB": "Draconic Attunements",
+    "es_ES": "Armonizaciones drac\u00f3nicas",
+    "fr_FR": "Harmonisations draconiques",
+    "it_IT": "Sintonie Draconiche",
+    "ru_RU": "\u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0435 \u0440\u043e\u0434\u0441\u0442\u0432\u043e",
+    "ko_KR": "\uc6a9\uc871\uc758 \uc870\uc728",
+    "zh_TW": "\u9f8d\u65cf\u540c\u8abf",
+    "zh_CN": "\u5de8\u9f99\u534f\u8c03"
+  },
+  "description_blz": {
+    "en_US": "Learn to attune yourself to the essence of the Black or Bronze Dragonflights:\r\n\r\nBlack Attunement: You and your 4 nearest allies have 2% increased maximum health.\r\n\r\nBronze Attunement:You and your 4 nearest allies have 10% increased movement speed.",
+    "es_MX": "Aprende a armonizar con la esencia de los Vuelos Negro y Bronce:\r\n\r\nArmonizaci\u00f3n negra: T\u00fa y tus 4 aliados m\u00e1s cercanos tienen un 2% m\u00e1s de salud m\u00e1xima.\r\n\r\nArmonizaci\u00f3n de bronce: T\u00fa y tus 4 aliados m\u00e1s cercanos tienen un 10% m\u00e1s de velocidad de movimiento.",
+    "pt_BR": "Aprende a se harmonizar com a ess\u00eancia das Revoadas Drag\u00f4nicas Negra ou Bronze:\r\n\r\nHarmoniza\u00e7\u00e3o Negra: voc\u00ea e os 4 aliados mais pr\u00f3ximos t\u00eam um aumento de 2% no m\u00e1ximo de pontos de vida.\r\n\r\nHarmoniza\u00e7\u00e3o Bronze: voc\u00ea e os 4 aliados mais pr\u00f3ximos t\u00eam um aumento de 10% na velocidade de movimento.",
+    "de_DE": "Lernt, Euch auf die Essenzen der schwarzen oder bronzenen Drachenschw\u00e4rme einzustimmen:\r\n\r\nSchwarze Einstimmung: Eure maximale Gesundheit und die Eurer 4 n\u00e4chsten Verb\u00fcndeten wird um 2% erh\u00f6ht.\r\n\r\nBronzene Einstimmung: Eure Bewegungsgeschwindigkeit und die Eurer 4 n\u00e4chsten Verb\u00fcndeten wird um 10% erh\u00f6ht.",
+    "en_GB": "Learn to attune yourself to the essence of the Black or Bronze Dragonflights:\r\n\r\nBlack Attunement: You and your 4 nearest allies have 2% increased maximum health.\r\n\r\nBronze Attunement:You and your 4 nearest allies have 10% increased movement speed.",
+    "es_ES": "Aprendes a armonizarte con la esencia de los Vuelos Obsidiana o Bronce:\r\n\r\nArmonizaci\u00f3n negra: aumenta un 2% tu salud m\u00e1xima y la de tus 4 aliados m\u00e1s cercanos.\r\n\r\nArmonizaci\u00f3n bronce: aumenta un 10% tu velocidad de movimiento y la de tus 4 aliados m\u00e1s cercanos.",
+    "fr_FR": "Vous apprenez \u00e0 harmoniser votre magie avec l\u2019essence du Vol draconique noir ou du Vol draconique de bronze\u00a0:\r\n\r\nHarmonisation avec le Vol noir\u00a0: augmente le maximum de points de vie de vous et vos 4\u00a0alli\u00e9s les plus proches de 2\u00a0%.\r\n\r\nHarmonisation avec le Vol de bronze\u00a0: augmente la vitesse de d\u00e9placement de vous et vos 4\u00a0alli\u00e9s les plus proches de 10\u00a0%.",
+    "it_IT": "Apprendi come sintonizzarti con l'essenza dello Stormo dei Draghi Neri o di Bronzo:\r\n\r\nSintonia Nera aumenta la tua salute massima e quella dei 4 alleati pi\u00f9 vicini del 2%.\r\n\r\nSintonia di Bronzo aumenta la tua velocit\u00e0 di movimento e quella dei 4 alleati pi\u00f9 vicini del 10%.",
+    "ru_RU": "\u0412\u044b \u0443\u0447\u0438\u0442\u0435\u0441\u044c \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c \u0447\u0435\u0440\u043d\u044b\u0445 \u0438\u043b\u0438 \u0431\u0440\u043e\u043d\u0437\u043e\u0432\u044b\u0445 \u0434\u0440\u0430\u043a\u043e\u043d\u043e\u0432:\r\n\r\n\u0427\u0435\u0440\u043d\u043e\u0435 \u0440\u043e\u0434\u0441\u0442\u0432\u043e: \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0434\u043b\u044f \u0432\u0430\u0441 \u0438 \u0435\u0449\u0435 4 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 2%.\r\n\r\n\u0411\u0440\u043e\u043d\u0437\u043e\u0432\u043e\u0435 \u0440\u043e\u0434\u0441\u0442\u0432\u043e: \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u0432\u0430\u0441 \u0438 \u0435\u0449\u0435 4 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0445\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 10%.",
+    "ko_KR": "\uac80\uc740\uc6a9\uad70\ub2e8 \ub610\ub294 \uccad\ub3d9\uc6a9\uad70\ub2e8\uc758 \uc815\uc218\uc5d0 \uc870\uc728\ud558\ub294 \ubc29\ubc95\uc744 \ubc30\uc6c1\ub2c8\ub2e4.\r\n\r\n\uac80\uc740 \uc870\uc728: \uc790\uc2e0\uacfc \uac00\uc7a5 \uac00\uae4c\uc6b4 \uc544\uad70 4\uba85\uc758 \ucd5c\ub300 \uc0dd\uba85\ub825\uc774 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uccad\ub3d9 \uc870\uc728:\uc790\uc2e0\uacfc \uac00\uc7a5 \uac00\uae4c\uc6b4 \uc544\uad70 4\uba85\uc758 \uc774\ub3d9 \uc18d\ub3c4\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5b78\u6703\u5982\u4f55\u8207\u9ed1\u9f8d\u6216\u9752\u9285\u9f8d\u8ecd\u5718\u7684\u7cbe\u83ef\u540c\u8abf\uff1a\r\n\r\n\u9ed1\u66dc\u540c\u8abf\uff1a\u4f60\u548c\u8ddd\u96e2\u6700\u8fd1\u76844\u4f4d\u76df\u53cb\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad82%\u3002\r\n\r\n\u9752\u9285\u540c\u8abf\uff1a\u4f60\u548c\u8ddd\u96e2\u6700\u8fd1\u76844\u4f4d\u76df\u53cb\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u5b66\u4e60\u4e0e\u9ed1\u9f99\u6216\u9752\u94dc\u9f99\u519b\u56e2\u7684\u7cbe\u534e\u534f\u8c03\uff1a\r\n\r\n\u9ed1\u9f99\u534f\u8c03\uff1a\u4f60\u548c\u6700\u8fd1\u76844\u540d\u76df\u53cb\u7684\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad82%\u3002\r\n\r\n\u9752\u94dc\u534f\u8c03\uff1a\u4f60\u548c\u6700\u8fd1\u76844\u540d\u76df\u53cb\u7684\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad810%\u3002"
+  }
 }

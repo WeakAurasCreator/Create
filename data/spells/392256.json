@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392256"
+  "SpellID": "392256",
+  "name_blz": {
+    "en_US": "Harmonious Blooming",
+    "es_MX": "Florecimiento arm\u00f3nico",
+    "pt_BR": "Florescer Harmonioso",
+    "de_DE": "Harmonisches Bl\u00fchen",
+    "en_GB": "Harmonious Blooming",
+    "es_ES": "Florecimiento armonioso",
+    "fr_FR": "Floraison harmonieuse",
+    "it_IT": "Fioritura Armoniosa",
+    "ru_RU": "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u0447\u043d\u043e\u0435 \u0446\u0432\u0435\u0442\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc870\ud654\ub85c\uc6b4 \ub9cc\uac1c",
+    "zh_TW": "\u548c\u8ae7\u7dbb\u653e",
+    "zh_CN": "\u7965\u548c\u7efd\u653e"
+  },
+  "description_blz": {
+    "en_US": "Lifebloom counts for 3 stacks of Mastery: Harmony.",
+    "es_MX": "Flor de vida cuenta como 3 acumulaciones del efecto de Maestr\u00eda: Armon\u00eda.",
+    "pt_BR": "Brotar da Vida contribui com 3 aplica\u00e7\u00f5es de Maestria: Harmonia.",
+    "de_DE": "'Bl\u00fchendes Leben' z\u00e4hlt als 3 Stapel von 'Meisterschaft: Harmonie'.",
+    "en_GB": "Lifebloom counts for 3 stacks of Mastery: Harmony.",
+    "es_ES": "Flor de vida cuenta como 3 acumulaciones de Maestr\u00eda: Armon\u00eda.",
+    "fr_FR": "Fleur de vie compte pour 3\u00a0charges de Ma\u00eetrise\u00a0: Harmonie.",
+    "it_IT": "Bocciolo di Vita conta come 3 accumuli di Maestria: Armonia.",
+    "ru_RU": "\"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \"\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c: \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u044e\" \u043a\u0430\u043a 3 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0432\u043c\u0435\u0441\u0442\u043e \u043e\u0434\u043d\u043e\u0433\u043e.",
+    "ko_KR": "\ud2b9\ud654: \ud654\ud569\uc5d0 \ubc18\uc601\ub418\ub294 \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85\uc758 \uc911\ucca9\uc774 3\uac1c\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u4e4b\u82b1\u7372\u5f973\u5c64\u7cbe\u901a\uff1a\u548c\u8ae7\u3002",
+    "zh_CN": "\u751f\u547d\u7efd\u653e\u53ef\u63d0\u4f9b3\u5c42\u7cbe\u901a\uff1a\u76f8\u751f\u3002"
+  }
 }

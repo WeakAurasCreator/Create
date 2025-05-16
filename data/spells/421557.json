@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "421557"
+  "SpellID": "421557",
+  "name_blz": {
+    "en_US": "Overloaded with Light",
+    "es_MX": "Sobrecargado con luz",
+    "pt_BR": "Sobrecarregado com Luz",
+    "de_DE": "Mit Licht \u00fcberladen",
+    "en_GB": "Overloaded with Light",
+    "es_ES": "Sobrecargado de Luz",
+    "fr_FR": "Surcharg\u00e9 de lumi\u00e8re",
+    "it_IT": "Sovraccaricato di Luce",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043a\u0430 \u0421\u0432\u0435\u0442\u043e\u043c",
+    "ko_KR": "\ube5b\uc758 \uacfc\uc789",
+    "zh_TW": "\u8056\u5149\u8d85\u8f09",
+    "zh_CN": "\u5723\u5149\u8fc7\u8f7d"
+  },
+  "description_blz": {
+    "en_US": "Ultimate Penitence emits an explosion of light, healing up to 10 allies around you for 9,961 and applying Atonement at 50% of normal duration.",
+    "es_MX": "Penitencia definitiva emite una explosi\u00f3n de luz que sana hasta 10 de los aliados que te rodean por 9,961 p. y aplica Expiaci\u00f3n al 50% de la duraci\u00f3n normal.",
+    "pt_BR": "Penit\u00eancia Suprema emite uma explos\u00e3o de luz, curando 9.961 pontos de vida de at\u00e9 10 aliados ao seu redor e aplicando Expia\u00e7\u00e3o em si com 50% da dura\u00e7\u00e3o normal.",
+    "de_DE": "'Ultimative Bu\u00dffertigkeit' l\u00f6st eine Lichtexplosion aus, heilt 9.961 lang 10 Verb\u00fcndete in Eurer N\u00e4he und wirkt 'Abbitte' f\u00fcr 50% der normalen Dauer.",
+    "en_GB": "Ultimate Penitence emits an explosion of light, healing up to 10 allies around you for 9,961 and applying Atonement at 50% of normal duration.",
+    "es_ES": "Penitencia definitiva emite una explosi\u00f3n de luz que sana a un m\u00e1ximo de 10 aliados a tu alrededor 9961 p. y aplica Expiaci\u00f3n con un 50% de la duraci\u00f3n normal.",
+    "fr_FR": "P\u00e9nitence ultime \u00e9met une explosion de lumi\u00e8re, ce qui soigne jusqu\u2019\u00e0 10\u00a0alli\u00e9s proches de vous pendant 9961 et applique Expiation pour 50\u00a0% de la dur\u00e9e normale.",
+    "it_IT": "Penitenza Definitiva emette un'esplosione di luce, curando fino a 10 alleati vicini di 9.961 e applicando Espiazione al 50% della durata normale.",
+    "ru_RU": "\"\u0418\u0441\u043a\u0440\u0435\u043d\u043d\u0435\u0435 \u0440\u0430\u0441\u043a\u0430\u044f\u043d\u0438\u0435\" \u0438\u0441\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432\u0437\u0440\u044b\u0432 \u0441\u0432\u0435\u0442\u0430, \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0432\u043e\u043a\u0440\u0443\u0433 \u0432\u0430\u0441 9961 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0439 \u043a \u043d\u0438\u043c \"\u0418\u0441\u043a\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0432\u0438\u043d\u044b\" \u0441\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f 50% \u043e\u0442 \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0446\u0435\u043b\u0435\u0439 \u2013 10.",
+    "ko_KR": "\uad81\uadf9\uc758 \ucc38\ud68c \uc0ac\uc6a9 \uc2dc \ud3ed\ubc1c\ud558\ub294 \ube5b\uc744 \ubc1c\uc0b0\ud574 \ucd5c\ub300 10\uba85\uc758 \uc8fc\uc704 \uc544\uad70\uc744 9,961\ub9cc\ud07c \uce58\uc720\ud558\uace0 \uc18d\uc8c4\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub85c \ubd80\uc5ec\ub41c \uc18d\uc8c4\ub294 \uc77c\ubc18 \uc9c0\uc18d\uc2dc\uac04\uc758 50%\ub9cc\ud07c \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7d42\u6975\u61fa\u7f6a\u6703\u91cb\u653e\u5149\u4e4b\u7206\u767c\uff0c\u70ba\u4f60\u5468\u570d\u6700\u591a10\u4f4d\u76df\u53cb\u6cbb\u76429,961\u9ede\u751f\u547d\u529b\uff0c\u4e26\u65bd\u52a0\u8d16\u7f6a\uff0c\u4f46\u6301\u7e8c\u6642\u9593\u70ba\u5e73\u6642\u768450%\u3002",
+    "zh_CN": "\u7ec8\u6781\u82e6\u4fee\u7206\u53d1\u51fa\u5723\u5149\uff0c\u4e3a\u4f60\u5468\u56f4\u7684\u6700\u591a10\u540d\u76df\u53cb\u6062\u590d9,961\u70b9\u751f\u547d\u503c\uff0c\u5e76\u5bf9\u5176\u65bd\u52a0\u6551\u8d4e\uff0c\u6301\u7eed\u65f6\u95f4\u4e3a\u901a\u5e38\u768450%\u3002"
+  }
 }

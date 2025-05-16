@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "407470"
+  "SpellID": "407470",
+  "name_blz": {
+    "en_US": "Mind's Eye",
+    "es_MX": "Ojo de la mente",
+    "pt_BR": "Olho da Mente",
+    "de_DE": "Geistiges Auge",
+    "en_GB": "Mind's Eye",
+    "es_ES": "Ojo de la mente",
+    "fr_FR": "\u0152il de l\u2019esprit",
+    "it_IT": "Occhio della Mente",
+    "ru_RU": "\u0413\u043b\u0430\u0437 \u0440\u0430\u0437\u0443\u043c\u0430",
+    "ko_KR": "\ub9c8\uc74c\uc758 \ub208",
+    "zh_TW": "\u5fc3\u9748\u4e4b\u773c",
+    "zh_CN": "\u5fc3\u7075\u4e4b\u773c"
+  },
+  "description_blz": {
+    "en_US": "Reduces the Insanity cost of Devouring Plague by 5.",
+    "es_MX": "Reduce 5 p. el costo de demencia de tu Peste devoradora.",
+    "pt_BR": "Reduz em 5 o custo de Insanidade da Peste Devoradora.",
+    "de_DE": "Verringert die Wahnsinnskosten von 'Verschlingende Seuche' um 5.",
+    "en_GB": "Reduces the Insanity cost of Devouring Plague by 5.",
+    "es_ES": "Reduce 5 p. el coste de demencia de Peste devoradora.",
+    "fr_FR": "R\u00e9duit de 5 le co\u00fbt en insanit\u00e9 de Peste d\u00e9vorante.",
+    "it_IT": "Riduce il costo in pazzia di Piaga Divoratrice di 5.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u0431\u0435\u0437\u0443\u043c\u0438\u044f \u043d\u0430 \"\u0412\u0441\u0435\u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0449\u0443\u044e \u0447\u0443\u043c\u0443\" \u043d\u0430 5 \u0435\u0434.",
+    "ko_KR": "\ud30c\uba78\uc758 \uc5ed\ubcd1\uc758 \uad11\uae30 \uc18c\ubaa8\ub7c9\uc774 5\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u566c\u9748\u761f\u75ab\u6d88\u8017\u7684\u760b\u72c2\u964d\u4f4e5\u9ede\u3002",
+    "zh_CN": "\u566c\u7075\u75ab\u75c5\u7684\u72c2\u4e71\u503c\u6d88\u8017\u964d\u4f4e5\u70b9\u3002"
+  }
 }

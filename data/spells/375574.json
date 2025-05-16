@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375574"
+  "SpellID": "375574",
+  "name_blz": {
+    "en_US": "Foci of Life",
+    "es_MX": "Focos de vida",
+    "pt_BR": "Focos da Vida",
+    "de_DE": "Fokusse des Lebens",
+    "en_GB": "Foci of Life",
+    "es_ES": "Focos de vida",
+    "fr_FR": "Focalisateurs de vie",
+    "it_IT": "Foci di Vita",
+    "ru_RU": "\u041e\u0447\u0430\u0433\u0438 \u0436\u0438\u0437\u043d\u0438",
+    "ko_KR": "\uc0dd\uba85\uc758 \uc9d1\uc911\uccb4",
+    "zh_TW": "\u751f\u547d\u805a\u80fd",
+    "zh_CN": "\u751f\u547d\u805a\u7126"
+  },
+  "description_blz": {
+    "en_US": "Renewing Blaze restores you more quickly, causing damage you take to be healed back over 4 sec.",
+    "es_MX": "Llamarada renovadora te restaura m\u00e1s r\u00e1pido, lo que hace que sanes el da\u00f1o recibido durante 4 s.",
+    "pt_BR": "Labareda Renovadora recupera voc\u00ea mais rapidamente, curando o dano que voc\u00ea recebe ao longo de 4 s.",
+    "de_DE": "'Erneuernde Flammen' heilen Euch schneller, wodurch der Schaden, den Ihr erleidet, im Verlauf von 4 Sek. wieder geheilt wird.",
+    "en_GB": "Renewing Blaze restores you more quickly, causing damage you take to be healed back over 4 sec.",
+    "es_ES": "Llamarada de renovaci\u00f3n te restaura m\u00e1s r\u00e1pidamente, lo que provoca que el da\u00f1o que recibas te sane durante 4 s.",
+    "fr_FR": "Brasier de r\u00e9novation vous gu\u00e9rit plus rapidement. Les d\u00e9g\u00e2ts que vous subissez sont soign\u00e9s en 4\u00a0s.",
+    "it_IT": "Aumenta l'effetto rigenerante di Fiammata Curativa, permettendole di rigenerare salute pari ai danni subiti in 4 s.",
+    "ru_RU": "\"\u041e\u0431\u043d\u043e\u0432\u043b\u044f\u044e\u0449\u0435\u0435 \u043f\u043b\u0430\u043c\u044f\" \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0432\u0430\u0441 \u0431\u044b\u0441\u0442\u0440\u0435\u0435, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4 \u0441\u0435\u043a.",
+    "ko_KR": "\uc18c\uc0dd\uc758 \ubd88\uae38\uc758 \uce58\uc720 \uc18d\ub3c4\uac00 \ube68\ub77c\uc838, \ud53c\ud574\ub97c \ubc1b\uc73c\uba74 4\ucd08\uc5d0 \uac78\uccd0 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u518d\u751f\u70c8\u7130\u63d0\u9ad8\u4f60\u7684\u6062\u5fa9\u901f\u5ea6\uff0c\u57284\u79d2\u5167\u6062\u5fa9\u76f8\u7576\u65bc\u6240\u53d7\u50b7\u5bb3\u7684\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u65b0\u751f\u5149\u7130\u4f1a\u66f4\u9ad8\u6548\u7684\u6cbb\u7597\u4f60\uff0c\u57284\u79d2\u5185\u6062\u590d\u7b49\u540c\u4e8e\u4f60\u6240\u53d7\u5230\u4f24\u5bb3\u7684\u751f\u547d\u503c\u3002"
+  }
 }

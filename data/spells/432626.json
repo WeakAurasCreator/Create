@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "432626"
+  "SpellID": "432626",
+  "name_blz": {
+    "en_US": "Undisputed Ruling",
+    "es_MX": "Resoluci\u00f3n indiscutible",
+    "pt_BR": "Veredito Incontest\u00e1vel",
+    "de_DE": "Unangefochtene Dominanz",
+    "en_GB": "Undisputed Ruling",
+    "es_ES": "Mando indiscutible",
+    "fr_FR": "Verdict unanime",
+    "it_IT": "Sentenza Indiscussa",
+    "ru_RU": "\u041d\u0435\u043e\u0441\u043f\u043e\u0440\u0438\u043c\u043e\u0435 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub9cc\uc7a5\uc77c\uce58 \ud310\uacb0",
+    "zh_TW": "\u7121\u7591\u88c1\u6c7a",
+    "zh_CN": "\u516c\u5141\u88c1\u5b9a"
+  },
+  "description_blz": {
+    "en_US": "Hammer of Light applies Judgment to its targets, and increases your Haste by 12% for 6 sec.",
+    "es_MX": "Martillo de Luz aplica Sentencia a sus objetivos y aumenta tu celeridad un 12% durante 6 s.",
+    "pt_BR": "Martelo de Luz aplica Julgamento aos alvos e aumenta em 12% sua Acelera\u00e7\u00e3o por 6 s.",
+    "de_DE": "Euer Zauber 'Hammer des Lichts' belegt Ziele mit 'Richturteil' und erh\u00f6ht Euer Tempo f\u00fcr 6 Sek. um 12%.",
+    "en_GB": "Hammer of Light applies Judgment to its targets, and increases your Haste by 12% for 6 sec.",
+    "es_ES": "Martillo de Luz aplica Sentencia a sus objetivos y aumenta un 12% tu celeridad durante 6 s.",
+    "fr_FR": "Marteau de la Lumi\u00e8re applique Jugement \u00e0 ses cibles et augmente votre H\u00e2te de 12\u00a0% pendant 6 s.",
+    "it_IT": "Martello della Luce applica Giudizio ai bersagli e aumenta la tua celerit\u00e0 del 12% per 6 s.",
+    "ru_RU": "\"\u041c\u043e\u043b\u043e\u0442 \u0421\u0432\u0435\u0442\u0430\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u0446\u0435\u043b\u044f\u043c \"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435\" \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 12% \u043d\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\ube5b\uc758 \ub9dd\uce58\uac00 \ub300\uc0c1\uc5d0\uac8c \uc2ec\ud310\uc744 \ubd80\uc5ec\ud558\uace0, 6\ucd08 \ub3d9\uc548 \uc2dc\uc804\uc790\uc758 \uac00\uc18d\uc744 12%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u5149\u4e4b\u9318\u6703\u5c0d\u5176\u76ee\u6a19\u65bd\u52a0\u5be9\u5224\uff0c\u4e26\u4f7f\u4f60\u7684\u52a0\u901f\u63d0\u9ad812%\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u5723\u5149\u4e4b\u9524\u5bf9\u76ee\u6807\u65bd\u52a0\u5ba1\u5224\uff0c\u5e76\u4f7f\u4f60\u7684\u6025\u901f\u63d0\u9ad812%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

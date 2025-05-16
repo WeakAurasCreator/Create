@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422894"
+  "SpellID": "422894",
+  "name_blz": {
+    "en_US": "Paladin Holy 10.2 Class Set 4pc",
+    "en_GB": "Paladin Holy 10.2 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Daybreak now increases Haste by 25% for 6 sec and its cooldown is reduced by 15 sec.",
+    "es_MX": "Ahora Amanecer aumenta un 25% la celeridad durante 6 s y reduce su tiempo de reutilizaci\u00f3n 15 s.",
+    "pt_BR": "Amanhecer agora aumenta em 25% a acelera\u00e7\u00e3o por 6 s e tem a recarga reduzida em 15 s.",
+    "de_DE": "'Tagesanbruch' beschleunigt das Tempo jetzt 6 Sek. lang um 25% und die Abklingzeit wird um 15 Sek. verringert.",
+    "en_GB": "Daybreak now increases Haste by 25% for 6 sec and its cooldown is reduced by 15 sec.",
+    "es_ES": "Ahora, Amanecer aumenta un 25% la celeridad durante 6 s, y su tiempo de reutilizaci\u00f3n se reduce 15 s.",
+    "fr_FR": "Aube augmente d\u00e9sormais la H\u00e2te de 25\u00a0% pendant 6 s et son temps de recharge est r\u00e9duit de 15\u00a0s.",
+    "it_IT": "Chiarore dell'Alba aumenta la celerit\u00e0 del 25% per 6 s e il suo tempo di recupero \u00e8 ridotto di 15 s.",
+    "ru_RU": "\"\u0420\u0430\u0441\u0441\u0432\u0435\u0442\" \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043d\u0430 25% \u043d\u0430 6 \u0441\u0435\u043a., \u0430 \u0435\u0433\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\uc5ec\uba85\uc774 6\ucd08 \ub3d9\uc548 \uac00\uc18d\uc744 25%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0a4\uace0 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc740 15\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7834\u66c9\u4e4b\u5149\u73fe\u5728\u4f7f\u52a0\u901f\u63d0\u9ad825%\uff0c\u6301\u7e8c6\u79d2\uff0c\u5176\u51b7\u537b\u6642\u9593\u7e2e\u77ed15\u79d2\u3002",
+    "zh_CN": "\u6668\u8f89\u73b0\u5728\u4f7f\u6025\u901f\u63d0\u9ad825%\uff0c\u6301\u7eed6\u79d2\uff0c\u5176\u51b7\u5374\u65f6\u95f4\u7f29\u77ed15\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "343408"
+  "SpellID": "343408",
+  "name_blz": {
+    "en_US": "Courier's Swiftness",
+    "es_MX": "Presteza del mensajero",
+    "pt_BR": "Rapidez do Mensageiro",
+    "de_DE": "Schnelligkeit des Kuriers",
+    "en_GB": "Courier's Swiftness",
+    "es_ES": "Presteza del mensajero",
+    "fr_FR": "Rapidit\u00e9 de messager",
+    "it_IT": "Rapidit\u00e0 del Corriere",
+    "ru_RU": "\u0411\u044b\u0441\u0442\u0440\u043e\u0442\u0430 \u043a\u0443\u0440\u044c\u0435\u0440\u0430",
+    "ko_KR": "\uc2ec\ubd80\ub984\uafbc\uc758 \uc2e0\uc18d\ud568",
+    "zh_TW": "\u4f8d\u81e3\u8fc5\u6377",
+    "zh_CN": "\u4fe1\u4f7f\u8fc5\u6377"
+  },
+  "description_blz": {
+    "en_US": "Increase your run speed by 3% while outdoors in the Shadowlands.",
+    "es_MX": "Aumenta un 3% tu velocidad de carrera en exteriores en las Tierras de las Sombras.",
+    "pt_BR": "Aumenta em 3% a sua velocidade de corrida em ambientes externos das Terras Sombrias.",
+    "de_DE": "Erh\u00f6ht Eure Laufgeschwindigkeit im Freien der Schattenlande um 3%.",
+    "en_GB": "Increase your run speed by 3% while outdoors in the Shadowlands.",
+    "es_ES": "Aumenta tu velocidad de carrera un 3% mientras est\u00e1s en zonas exteriores en las Tierras Sombr\u00edas.",
+    "fr_FR": "Augmente votre vitesse de course de 3% quand vous \u00eates en ext\u00e9rieur en Ombreterre.",
+    "it_IT": "Aumenta la velocit\u00e0 di movimento del 3% quando ci si trova all'esterno nelle Terretetre.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0431\u0435\u0433\u0430 \u0432\u043d\u0435 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439 \u0432 \u0422\u0435\u043c\u043d\u044b\u0445 \u0417\u0435\u043c\u043b\u044f\u0445 \u043d\u0430 3%.",
+    "ko_KR": "\uc5b4\ub460\ub545 \uc57c\uc678\uc5d0\uc11c \ub2ec\ub9ac\uae30 \uc18d\ub3c4\uac00 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6697\u5f71\u4e4b\u5883\u7684\u6236\u5916\u6642\uff0c\u4f60\u7684\u5954\u8dd1\u901f\u5ea6\u63d0\u9ad83%\u3002",
+    "zh_CN": "\u5f53\u5904\u4e8e\u6697\u5f71\u754c\u7684\u6237\u5916\u65f6\uff0c\u4f60\u7684\u8dd1\u6b65\u901f\u5ea6\u52a0\u5feb3%\u3002"
+  }
 }

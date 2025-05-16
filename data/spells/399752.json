@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "399752"
+  "SpellID": "399752",
+  "name_blz": {
+    "en_US": "Lion's Heritage",
+    "es_MX": "Legado del le\u00f3n",
+    "pt_BR": "Tradi\u00e7\u00e3o do Le\u00e3o",
+    "de_DE": "Tradition des L\u00f6wen",
+    "en_GB": "Lion's Heritage",
+    "es_ES": "Legado del le\u00f3n",
+    "fr_FR": "Armure ancestrale du Lion",
+    "it_IT": "Retaggio del Leone",
+    "ru_RU": "\u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u041b\u044c\u0432\u0430",
+    "ko_KR": "\uc0ac\uc790\uc758 \uc720\uc0b0",
+    "zh_TW": "\u96c4\u7345\u50b3\u627f",
+    "zh_CN": "\u72ee\u5fc3\u4f20\u627f"
+  },
+  "description_blz": {
+    "en_US": "Unlock the appearances of the Lion's Heritage on completion of the Human Heritage storyline.",
+    "es_MX": "Desbloquea las apariencias del Legado del le\u00f3n tras completar la trama del legado de los humanos.",
+    "pt_BR": "Desbloqueia as apar\u00eancias da Tradi\u00e7\u00e3o do Le\u00e3o ao concluir a hist\u00f3ria da Tradi\u00e7\u00e3o Humana.",
+    "de_DE": "Schaltet die Vorlagen der Tradition des L\u00f6wen nach Abschluss der Traditionsr\u00fcstungsquestreihe der Menschen frei.",
+    "en_GB": "Unlock the appearances of the Lion's Heritage on completion of the Human Heritage storyline.",
+    "es_ES": "Desbloquea las apariencias del legado del le\u00f3n al completar la trama de armadura din\u00e1stica de los humanos.",
+    "fr_FR": "Vous d\u00e9bloquez les apparences de l\u2019armure ancestrale du Lion lorsque vous terminez la suite de qu\u00eates correspondante des Humains.",
+    "it_IT": "Sblocca gli aspetti dell'equipaggiamento Retaggio del Leone al completamento della storia Retaggio degli Umani.",
+    "ru_RU": "\u0414\u0430\u0435\u0442 \u0438\u043b\u043b\u044e\u0437\u0438\u044e \u0432\u043d\u0435\u0448\u043d\u0435\u0433\u043e \u0432\u0438\u0434\u0430 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0430 \u0434\u043e\u0441\u043f\u0435\u0445\u043e\u0432 \"\u041d\u0430\u0441\u043b\u0435\u0434\u0438\u0435 \u041b\u044c\u0432\u0430\" \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u0446\u0435\u043f\u043e\u0447\u043a\u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u0439 \u043d\u0430\u0441\u043b\u0435\u0434\u0438\u044f \u043b\u044e\u0434\u0435\u0439.",
+    "ko_KR": "\uc778\uac04 \uc720\uc0b0 \uc774\uc57c\uae30 \uc804\uac1c \uc644\ub8cc \uc2dc \uc0ac\uc790\uc758 \uc720\uc0b0 \ud615\uc0c1\uc744 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5b8c\u6210\u4eba\u985e\u50b3\u627f\u6545\u4e8b\u7dda\u5f8c\uff0c\u89e3\u9396\u96c4\u7345\u50b3\u627f\u7684\u5916\u89c0\u3002",
+    "zh_CN": "\u5b8c\u6210\u4eba\u7c7b\u4f20\u627f\u6545\u4e8b\u7ebf\uff0c\u89e3\u9501\u72ee\u5fc3\u4f20\u627f\u5916\u89c2\u3002"
+  }
 }

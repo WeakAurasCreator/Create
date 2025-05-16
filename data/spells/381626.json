@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "381626"
+  "SpellID": "381626",
+  "name_blz": {
+    "en_US": "Bloody Mess",
+    "es_MX": "Carnicer\u00eda sangrienta",
+    "pt_BR": "Banho de Sangue",
+    "de_DE": "Blutige Sauerei",
+    "en_GB": "Bloody Mess",
+    "es_ES": "Carnicer\u00eda sangrienta",
+    "fr_FR": "Carnage sanglant",
+    "it_IT": "Massacro Sanguinario",
+    "ru_RU": "\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0435 \u043c\u0435\u0441\u0438\u0432\u043e",
+    "ko_KR": "\ud53c\ubc14\ub2e4",
+    "zh_TW": "\u8840\u6dcb\u6dcb",
+    "zh_CN": "\u8840\u8089\u76f8\u8fde"
+  },
+  "description_blz": {
+    "en_US": "Garrote and Rupture damage increased by 15%.",
+    "es_MX": "El da\u00f1o de Garrote y Ruptura aumenta un 15%.",
+    "pt_BR": "Dano de Garrote e Ruptura aumentado em 15%.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Erdrosseln' und 'Blutung' um 15%.",
+    "en_GB": "Garrote and Rupture damage increased by 15%.",
+    "es_ES": "Da\u00f1o de Garrote y Ruptura aumentado un 15%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Garrot et Rupture sont augment\u00e9s de 15%.",
+    "it_IT": "Aumenta i danni inflitti da Garrota e Perforazione del 15%.",
+    "ru_RU": "\"\u0413\u0430\u0440\u0440\u043e\u0442\u0430\" \u0438 \"\u0420\u0432\u0430\u043d\u0430\u044f \u0440\u0430\u043d\u0430\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ubaa9\uc870\ub974\uae30\uc640 \ud30c\uc5f4\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7d5e\u5589\u548c\u5272\u88c2\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u9501\u5589\u548c\u5272\u88c2\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

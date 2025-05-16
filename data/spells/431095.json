@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "431095"
+  "SpellID": "431095",
+  "name_blz": {
+    "en_US": "Isothermic Core",
+    "es_MX": "N\u00facleo isot\u00e9rmico",
+    "pt_BR": "N\u00facleo Isot\u00e9rmico",
+    "de_DE": "Isothermischer Kern",
+    "en_GB": "Isothermic Core",
+    "es_ES": "N\u00facleo isot\u00e9rmico",
+    "fr_FR": "C\u0153ur isotherme",
+    "it_IT": "Nucleo Isotermico",
+    "ru_RU": "\u0418\u0437\u043e\u0442\u0435\u0440\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u044f\u0434\u0440\u043e",
+    "ko_KR": "\ub4f1\uc628 \ud575",
+    "zh_TW": "\u7b49\u6eab\u6838\u5fc3",
+    "zh_CN": "\u7b49\u6e29\u4e4b\u6838"
+  },
+  "description_blz": {
+    "en_US": "Comet Storm now also calls down a Meteor at 150% effectiveness onto your target's location.\r\n\r\nMeteor now also calls down a Comet Storm at 300% effectiveness onto your target location.",
+    "es_MX": "Tormenta de cometas ahora tambi\u00e9n invoca un Meteoro con un 150% de efectividad contra la ubicaci\u00f3n de tu objetivo.\r\n\r\nMeteoro ahora tambi\u00e9n invoca una Tormenta de cometas con un 300% de efectividad contra la ubicaci\u00f3n de tu objetivo.",
+    "pt_BR": "Chuva de Cometas agora tamb\u00e9m invoca um Meteoro com 150% da efic\u00e1cia na posi\u00e7\u00e3o do alvo.\r\n\r\nMeteoro agora tamb\u00e9m causa uma Chuva de Cometas com 300% da efic\u00e1cia na posi\u00e7\u00e3o do alvo.",
+    "de_DE": "'Kometenhagel' l\u00e4sst auch einen 'Meteor' mit 150% Effektivit\u00e4t an der Position Eures Ziels niedergehen.\r\n\r\n'Meteor' l\u00e4sst auch einen 'Kometenhagel' mit 300% Effektivit\u00e4t am Zielort niedergehen.",
+    "en_GB": "Comet Storm now also calls down a Meteor at 150% effectiveness onto your target's location.\r\n\r\nMeteor now also calls down a Comet Storm at 300% effectiveness onto your target location.",
+    "es_ES": "Ahora, Lluvia de cometas tambi\u00e9n invoca un Meteorito con un 150% de efectividad sobre la ubicaci\u00f3n de tu objetivo.\r\n\r\nAhora, Meteorito tambi\u00e9n invoca una Lluvia de cometas con un 300% de efectividad sobre la ubicaci\u00f3n de tu objetivo.",
+    "fr_FR": "Temp\u00eate de com\u00e8tes fait \u00e9galement tomber M\u00e9t\u00e9ore \u00e0 150\u00a0% d\u2019efficacit\u00e9 sur l\u2019emplacement de la cible.\r\n\r\nM\u00e9t\u00e9ore fait \u00e9galement tomber Temp\u00eate de com\u00e8tes \u00e0 300\u00a0% d\u2019efficacit\u00e9 sur l\u2019emplacement de la cible.",
+    "it_IT": "Tempesta di Comete ora richiama anche una Meteora al 150% dell'efficacia sulla posizione del bersaglio.\r\n\r\nMeteora ora richiama anche una Tempesta di Comete al 300% dell'efficacia sulla posizione bersaglio.",
+    "ru_RU": "\"\u041a\u043e\u043c\u0435\u0442\u043d\u0430\u044f \u0431\u0443\u0440\u044f\" \u0442\u0435\u043f\u0435\u0440\u044c \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u0443\u044e \u043e\u0431\u043b\u0430\u0441\u0442\u044c \"\u041c\u0435\u0442\u0435\u043e\u0440\u0438\u0442\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 150%.\r\n\r\n\"\u041c\u0435\u0442\u0435\u043e\u0440\u0438\u0442\" \u0442\u0435\u043f\u0435\u0440\u044c \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u0443\u044e \u043e\u0431\u043b\u0430\u0441\u0442\u044c \"\u041a\u043e\u043c\u0435\u0442\u043d\u0443\u044e \u0431\u0443\u0440\u044e\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 300%.",
+    "ko_KR": "\ud61c\uc131 \ud3ed\ud48d \uc2dc\uc804 \uc2dc \ucd94\uac00\ub85c \ub300\uc0c1\uc758 \uc704\uce58\uc5d0 150%\uc758 \ud6a8\uc728\ub85c \uc720\uc131\uc744 \ubd88\ub7ec \ub0b4\ub9bd\ub2c8\ub2e4.\r\n\r\n\uc720\uc131 \uc2dc\uc804 \uc2dc \ucd94\uac00\ub85c \ub300\uc0c1\uc758 \uc704\uce58\uc5d0 300%\uc758 \ud6a8\uc728\ub85c \ud61c\uc131 \ud3ed\ud48d\uc744 \ubd88\ub7ec \ub0b4\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u5f57\u661f\u98a8\u66b4\u73fe\u5728\u9084\u6703\u5728\u76ee\u6a19\u4f4d\u7f6e\u964d\u4e0b\u6548\u679c\u5f37\u5ea6\u70ba150%\u7684\u9695\u77f3\u3002\r\n\r\n\u9695\u77f3\u73fe\u5728\u9084\u6703\u5728\u76ee\u6a19\u4f4d\u7f6e\u964d\u4e0b\u6548\u679c\u5f37\u5ea6\u70ba300%\u7684\u5f57\u661f\u98a8\u66b4\u3002",
+    "zh_CN": "\u5f57\u661f\u98ce\u66b4\u8fd8\u4f1a\u5728\u76ee\u6807\u4f4d\u7f6e\u964d\u4e0b\u4e00\u9897\u6d41\u661f\uff0c\u4ea7\u751f150%\u7684\u6548\u679c\u3002\r\n\r\n\u6d41\u661f\u8fd8\u4f1a\u5728\u76ee\u6807\u4f4d\u7f6e\u964d\u4e0b\u4e00\u9635\u5f57\u661f\u98ce\u66b4\uff0c\u4ea7\u751f300%\u7684\u6548\u679c\u3002"
+  }
 }

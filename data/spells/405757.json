@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405757"
+  "SpellID": "405757",
+  "name_blz": {
+    "en_US": "Inmost Light",
+    "es_MX": "Luz rec\u00f3ndita",
+    "pt_BR": "Luz Interior",
+    "de_DE": "Innerstes Licht",
+    "en_GB": "Inmost Light",
+    "es_ES": "Luz del interior profundo",
+    "fr_FR": "Lumi\u00e8re int\u00e9rieure",
+    "it_IT": "Luce Intima",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u043e\u0432\u0435\u043d\u043d\u044b\u0439 \u0421\u0432\u0435\u0442",
+    "ko_KR": "\uc5fc\uc6d0\uc758 \ube5b",
+    "zh_TW": "\u5d07\u5149",
+    "zh_CN": "\u5fc3\u5e95\u8000\u5149"
+  },
+  "description_blz": {
+    "en_US": "Eye of Tyr deals 300% increased damage and has 33% reduced cooldown.",
+    "es_MX": "Ojo de Tyr inflige un 300% m\u00e1s de da\u00f1o y su tiempo de reutilizaci\u00f3n se reduce un 33%.",
+    "pt_BR": "Olho de Tyr causa 300% a mais de dano e tem a recarga reduzida em 33%.",
+    "de_DE": "'Auge von Tyr' verursacht 300% mehr Schaden und die Abklingzeit ist um 33% verringert.",
+    "en_GB": "Eye of Tyr deals 300% increased damage and has 33% reduced cooldown.",
+    "es_ES": "Ojo de Tyr inflige un 300% m\u00e1s de da\u00f1o, y el tiempo de reutilizaci\u00f3n se reduce un 33%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts d\u2019\u0152il de Tyr de 300% et r\u00e9duit son temps de recharge de 33%.",
+    "it_IT": "Aumenta i danni inflitti da Occhio di Tyr del 300% e ne riduce il tempo di recupero del 33%.",
+    "ru_RU": "\"\u041e\u043a\u043e \u0422\u0438\u0440\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 300% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430, \u0430 \u0432\u0440\u0435\u043c\u044f \u0435\u0433\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 33%.",
+    "ko_KR": "\ud2f0\ub974\uc758 \ub208\uc758 \uacf5\uaca9\ub825\uc774 300%\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 33%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u63d0\u723e\u4e4b\u773c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad8300%\uff0c\u51b7\u537b\u6642\u9593\u7e2e\u77ed33%\u3002",
+    "zh_CN": "\u63d0\u5c14\u4e4b\u773c\u7684\u4f24\u5bb3\u63d0\u9ad8300%\uff0c\u51b7\u5374\u65f6\u95f4\u7f29\u77ed33%\u3002"
+  }
 }

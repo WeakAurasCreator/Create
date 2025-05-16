@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390152"
+  "SpellID": "390152",
+  "name_blz": {
+    "en_US": "Collective Anguish",
+    "es_MX": "Angustia colectiva",
+    "pt_BR": "Ang\u00fastia Coletiva",
+    "de_DE": "Kollektive Qual",
+    "en_GB": "Collective Anguish",
+    "es_ES": "Angustia colectiva",
+    "fr_FR": "Angoisse collective",
+    "it_IT": "Angoscia Collettiva",
+    "ru_RU": "\u0412\u0441\u0435\u043e\u0431\u0449\u0430\u044f \u0442\u043e\u0441\u043a\u0430",
+    "ko_KR": "\uc9d1\ub2e8 \uace0\ub1cc",
+    "zh_TW": "\u96c6\u9ad4\u82e6\u75db",
+    "zh_CN": "\u805a\u51dd\u75db\u695a"
+  },
+  "description_blz": {
+    "en_US": "Eye Beam summons an allied Vengeance Demon Hunter who casts Fel Devastation, dealing 1,278 Fire damage over 2 sec. Dealing damage heals you for up to 106 health.",
+    "es_MX": "Haz ocular invoca un cazador de demonios de venganza que lanza Devastaci\u00f3n vil e inflige 1,265 p. de da\u00f1o de fuego durante 2 s. Infligir da\u00f1o te sana hasta 102 p. de salud.",
+    "pt_BR": "Raio Ocular evoca um Ca\u00e7ador de Dem\u00f4nios de Vingan\u00e7a que lan\u00e7a Devasta\u00e7\u00e3o Vil, causando 1.261 de dano de Fogo ao longo de 2 s. Causar dano concede a voc\u00ea at\u00e9 106 de cura.",
+    "de_DE": "Beim Einsatz von 'Augenstrahl' wird ein verb\u00fcndeter Rachsuchtd\u00e4monenj\u00e4ger herbeigerufen, der 'D\u00e4monische Verw\u00fcstung' einsetzt und 1.262 Feuerschaden im Verlauf von 2 Sek. verursacht. Beim Verursachen von Schaden werdet Ihr um bis zu 107 Gesundheit geheilt.",
+    "en_GB": "Eye Beam summons an allied Vengeance Demon Hunter who casts Fel Devastation, dealing 1,284 Fire damage over 2 sec. Dealing damage heals you for up to 104 health.",
+    "es_ES": "Haz ocular invoca a un cazador de demonios Venganza aliado que lanza Devastaci\u00f3n vil, lo que inflige 1265 p. de da\u00f1o de Fuego durante 2 s. Al infligir da\u00f1o, recuperas hasta 107 p. de salud.",
+    "fr_FR": "Rayon accablant invoque un chasseur de d\u00e9mons Vengeance alli\u00e9 qui lance \u00e0 son tour D\u00e9vastation gangren\u00e9e, infligeant ainsi 1265\u00a0points de d\u00e9g\u00e2ts de feu en 2 s. Infliger des d\u00e9g\u00e2ts vous rend jusqu\u2019\u00e0 106\u00a0points de vie.",
+    "it_IT": "Raggio Oculare evoca un Cacciatore di Demoni della Vendetta alleato che lancia Vildevastazione, infliggendo 1.253 danni da fuoco in 2 s. I danni inflitti ti curano di massimo 105.",
+    "ru_RU": "\"\u041f\u0440\u043e\u043d\u0437\u0430\u044e\u0449\u0438\u0439 \u0432\u0437\u0433\u043b\u044f\u0434\" \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u043e\u0433\u043e \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u043d\u0430 \u0434\u0435\u043c\u043e\u043d\u043e\u0432 \u0441\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \"\u041c\u0435\u0441\u0442\u044c\", \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u0418\u0441\u0442\u0440\u0435\u0431\u043b\u0435\u043d\u0438\u0435 \u0421\u043a\u0432\u0435\u0440\u043d\u043e\u0439\", \u043d\u0430\u043d\u043e\u0441\u044f 1259 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0437\u0430 2 \u0441\u0435\u043a. \u041d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c \u0434\u043e 106 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc548\uad11 \uc0ac\uc6a9 \uc2dc \uc544\uad70 \ubcf5\uc218 \uc545\ub9c8\uc0ac\ub0e5\uafbc\uc744 \uc18c\ud658\ud569\ub2c8\ub2e4. \uc544\uad70 \uc545\ub9c8\uc0ac\ub0e5\uafbc\uc740 \uc9c0\uc625 \ud669\ud3d0\ub97c \uc2dc\uc804\ud574 2\ucd08\uc5d0 \uac78\uccd0 1,259\uc758 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ud53c\ud574\ub97c \uc785\ud790 \uc2dc \ucd5c\ub300 105\uc758 \uccb4\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u9b54\u773c\u5149\u675f\u5f8c\uff0c\u53ef\u53ec\u559a\u7d50\u76df\u7684\u5fa9\u4ec7\u60e1\u9b54\u7375\u4eba\uff0c\u5176\u53ef\u65bd\u653e\u9b54\u5316\u7834\u6ec5\uff0c\u57282\u79d2\u5167\u9020\u62101,282\u9ede\u706b\u7130\u50b7\u5bb3\u3002\u9020\u6210\u50b7\u5bb3\u53ef\u6cbb\u7642\u4f60\u6700\u591a106\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u773c\u68f1\u4f1a\u53ec\u5524\u4e00\u540d\u590d\u4ec7\u6076\u9b54\u730e\u624b\u76df\u53cb\uff0c\u8be5\u76df\u53cb\u4f1a\u65bd\u653e\u90aa\u80fd\u6bc1\u706d\uff0c\u57282\u79d2\u5185\u9020\u62101,261\u70b9\u706b\u7130\u4f24\u5bb3\u3002\u9020\u6210\u4f24\u5bb3\u4f1a\u4f7f\u4f60\u56de\u590d\u6700\u591a104\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

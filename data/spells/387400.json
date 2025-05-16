@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387400"
+  "SpellID": "387400",
+  "name_blz": {
+    "en_US": "Madness of the Azj'Aqir",
+    "es_MX": "Locura de Azj'Aqir",
+    "pt_BR": "Loucura dos Azj'Aqir",
+    "de_DE": "Wahnsinn der Azj'Aqir",
+    "en_GB": "Madness of the Azj'Aqir",
+    "es_ES": "Locura de Azj'Aqir",
+    "fr_FR": "Folie des Azj\u2019Aqir",
+    "it_IT": "Follia degli Azj'aqir",
+    "ru_RU": "\u0411\u0435\u0437\u0443\u043c\u0438\u0435 \u0410\u0437'\u0410\u043a\u0438\u0440\u0430",
+    "ko_KR": "\uc544\uc988\uc544\ud034\ub974\uc758 \uad11\uae30",
+    "zh_TW": "\u963f\u8332\u4e9e\u57fa\u7684\u760b\u72c2",
+    "zh_CN": "\u963f\u5179\u4e9a\u57fa\u7684\u75af\u72c2"
+  },
+  "description_blz": {
+    "en_US": "Chaos Bolt increases the damage of Chaos Bolt by 12% and reduces the cast time of Chaos Bolt by 10% for 5 sec.\r\n\r\nRain of Fire increases the damage of Rain of Fire by 12% for 5 sec.\r\n\r\nShadowburn increases the damage of Shadowburn by 12% for 5 sec.",
+    "es_MX": "Descarga de caos aumenta el da\u00f1o de Descarga de caos un 12% y reduce el tiempo de lanzamiento de Descarga de caos un 10% durante 5 s.\r\n\r\nLluvia de fuego aumenta el da\u00f1o de Lluvia de fuego un 12% durante 5 s.\r\n\r\nQuemadura de las sombras aumenta el da\u00f1o de Quemadura de las sombras un 12% durante 5 s.",
+    "pt_BR": "Seta do Caos aumenta em 12% o dano da Seta do Caos e reduz em 10% o tempo de lan\u00e7amento dela por 5 s.\r\n\r\nChuva de Fogo aumenta em 12% o dano de Chuva de Fogo por 5 s.\r\n\r\nSombra Ardente aumenta em 12% o dano da Sombra Ardente por 5 s.",
+    "de_DE": "'Chaosblitz' erh\u00f6ht den Schaden von 'Chaosblitz' um 12% und verringert die Zauberzeit von 'Chaosblitz' um 10%. H\u00e4lt 5 Sek. lang an.\r\n\r\n'Feuerregen' erh\u00f6ht den Schaden von 'Feuerregen' f\u00fcr 5 Sek. um 12%.\r\n\r\n'Schattenbrand' erh\u00f6ht den Schaden von 'Schattenbrand' f\u00fcr 5 Sek. um 12%.",
+    "en_GB": "Chaos Bolt increases the damage of Chaos Bolt by 12% and reduces the cast time of Chaos Bolt by 10% for 5 sec.\r\n\r\nRain of Fire increases the damage of Rain of Fire by 12% for 5 sec.\r\n\r\nShadowburn increases the damage of Shadowburn by 12% for 5 sec.",
+    "es_ES": "Descarga de caos aumenta un 12% su propio da\u00f1o y reduce un 10% su tiempo de lanzamiento durante 5 s.\r\n\r\nLluvia de Fuego aumenta un 12% su propio da\u00f1o durante 5 s.\r\n\r\nQuemadura de las Sombras aumenta un 12% su propio da\u00f1o durante 5 s.",
+    "fr_FR": "Trait du chaos augmente ses propres d\u00e9g\u00e2ts de 12\u00a0% et r\u00e9duit son temps d\u2019incantation de 10\u00a0% pendant 5 s.\r\n\r\nPluie de feu augmente ses propres d\u00e9g\u00e2ts de 12\u00a0% pendant 5 s.\r\n\r\nBr\u00fblure de l\u2019ombre augmente ses propres d\u00e9g\u00e2ts de 12\u00a0% pendant 5 s.",
+    "it_IT": "Dardo del Caos aumenta i danni inflitti da Dardo del Caos del 12% e riduce il tempo di lancio di Dardo del Caos del 10% per 5 s.\r\n\r\nPioggia di Fuoco aumenta i danni inflitti da Pioggia di Fuoco del 12% per 5 s.\r\n\r\nCombustione dell'Ombra aumenta i danni inflitti da Combustione dell'Ombra del 12% per 5 s.",
+    "ru_RU": "\"\u0421\u0442\u0440\u0435\u043b\u0430 \u0425\u0430\u043e\u0441\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0421\u0442\u0440\u0435\u043b\u044b \u0425\u0430\u043e\u0441\u0430\" \u043d\u0430 12% \u0438 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0421\u0442\u0440\u0435\u043b\u044b \u0425\u0430\u043e\u0441\u0430\" \u043d\u0430 10% \u043d\u0430 5 \u0441\u0435\u043a.\r\n\r\n\"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u043b\u0438\u0432\u0435\u043d\u044c\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u043b\u0438\u0432\u043d\u044f\" \u043d\u0430 12% \u043d\u0430 5 \u0441\u0435\u043a.\r\n\r\n\"\u041e\u0436\u043e\u0433 \u0422\u044c\u043c\u044b\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041e\u0436\u043e\u0433\u0430 \u0422\u044c\u043c\u044b\" \u043d\u0430 12% \u043d\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\ud63c\ub3c8\uc758 \ud654\uc0b4 \uc2dc\uc804 \uc2dc 5\ucd08 \ub3d9\uc548 \ud63c\ub3c8\uc758 \ud654\uc0b4\uc758 \uacf5\uaca9\ub825\uc774 12%\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \ud63c\ub3c8\uc758 \ud654\uc0b4\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\ubd88\uc758 \ube44 \uc2dc\uc804 \uc2dc 5\ucd08 \ub3d9\uc548 \ubd88\uc758 \ube44\uc758 \uacf5\uaca9\ub825\uc774 12%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc5b4\ub460\uc758 \uc5f0\uc18c \uc2dc\uc804 \uc2dc 5\ucd08 \ub3d9\uc548 \uc5b4\ub460\uc758 \uc5f0\uc18c\uc758 \uacf5\uaca9\ub825\uc774 12%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6df7\u6c8c\u7bad\u6703\u4f7f\u6df7\u6c8c\u7bad\u7684\u50b7\u5bb3\u63d0\u9ad812%\uff0c\u4e26\u4f7f\u6df7\u6c8c\u7bad\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed10%\uff0c\u6301\u7e8c5\u79d2\u3002\r\n\r\n\u706b\u7130\u4e4b\u96e8\u6703\u4f7f\u706b\u7130\u4e4b\u96e8\u7684\u50b7\u5bb3\u63d0\u9ad812%\uff0c\u6301\u7e8c5\u79d2\u3002\r\n\r\n\u6697\u5f71\u707c\u71d2\u6703\u4f7f\u6697\u5f71\u707c\u71d2\u7684\u50b7\u5bb3\u63d0\u9ad812%\uff0c\u6301\u7e8c5\u79d2\u3002",
+    "zh_CN": "\u6df7\u4e71\u4e4b\u7bad\u4f1a\u4f7f\u6df7\u4e71\u4e4b\u7bad\u7684\u4f24\u5bb3\u63d0\u9ad812%\uff0c\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed10%\uff0c\u6301\u7eed5\u79d2\u3002\r\n\r\n\u706b\u7130\u4e4b\u96e8\u4f1a\u4f7f\u706b\u7130\u4e4b\u96e8\u7684\u4f24\u5bb3\u63d0\u9ad812%\uff0c\u6301\u7eed5\u79d2\u3002\r\n\r\n\u6697\u5f71\u707c\u70e7\u4f1a\u4f7f\u6697\u5f71\u707c\u70e7\u7684\u4f24\u5bb3\u63d0\u9ad812%\uff0c\u6301\u7eed5\u79d2\u3002"
+  }
 }

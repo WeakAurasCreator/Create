@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374261"
+  "SpellID": "374261",
+  "name_blz": {
+    "en_US": "Unholy Bond",
+    "es_MX": "V\u00ednculo profano",
+    "pt_BR": "V\u00ednculo Profano",
+    "de_DE": "Unheilige Bindung",
+    "en_GB": "Unholy Bond",
+    "es_ES": "V\u00ednculo profano",
+    "fr_FR": "Lien impie",
+    "it_IT": "Legame Empio",
+    "ru_RU": "\u041d\u0435\u0447\u0435\u0441\u0442\u0438\u0432\u0430\u044f \u0441\u0432\u044f\u0437\u044c",
+    "ko_KR": "\ubd80\uc815\ud55c \uacb0\uc18d",
+    "zh_TW": "\u7a62\u90aa\u9023\u7d50",
+    "zh_CN": "\u79fd\u90aa\u4e4b\u7f1a"
+  },
+  "description_blz": {
+    "en_US": "Increases the effectiveness of your Runeforge effects by 20%.",
+    "es_MX": "Aumenta un 20% la efectividad de tus efectos de forja de runas.",
+    "pt_BR": "Aumenta em 20% a efic\u00e1cia das suas habilidades de Forja R\u00fanica.",
+    "de_DE": "Erh\u00f6ht die Wirksamkeit der Runenschmiedeeffekte um 20%.",
+    "en_GB": "Increases the effectiveness of your Runeforge effects by 20%.",
+    "es_ES": "Aumenta un 20% la efectividad de tus efectos de forja de runas.",
+    "fr_FR": "Augmente l\u2019efficacit\u00e9 des effets de votre forgerune de 20%.",
+    "it_IT": "Aumenta l'efficacia degli effetti della tua Forgia delle Rune del 20%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u0448\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043a\u0443\u0437\u043d\u0438 \u0440\u0443\u043d \u043d\u0430 20%.",
+    "ko_KR": "\ub8ec\uac00\uc5f4\ub85c\uc758 \uc774\ub85c\uc6b4 \ud6a8\uacfc\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7b26\u6587\u7194\u7210\u7684\u6548\u679c\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u4f60\u7684\u7b26\u6587\u7194\u94f8\u7684\u6548\u679c\u63d0\u9ad820%\u3002"
+  }
 }

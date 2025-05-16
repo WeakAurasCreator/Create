@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "358733"
+  "SpellID": "358733",
+  "name_blz": {
+    "en_US": "Glide",
+    "es_MX": "Planear",
+    "pt_BR": "Planar",
+    "de_DE": "Gleiten",
+    "en_GB": "Glide",
+    "es_ES": "Planear",
+    "fr_FR": "Planer",
+    "it_IT": "Planata",
+    "ru_RU": "\u041f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+    "ko_KR": "\ud65c\uacf5",
+    "zh_TW": "\u6ed1\u7fd4",
+    "zh_CN": "\u6ed1\u7fd4"
+  },
+  "description_blz": {
+    "en_US": "Reduces your falling speed.\r\n\r\nYou can activate this ability with the jump key while falling.",
+    "es_MX": "Reduce tu velocidad de ca\u00edda.\r\n\r\nPuedes activar esta habilidad con la tecla de salto durante una ca\u00edda.",
+    "pt_BR": "Reduz sua velocidade de queda.\r\n\r\nAo cair, voc\u00ea pode ativar essa habilidade com a tecla de pular.",
+    "de_DE": "Verringert Eure Fallgeschwindigkeit.\r\n\r\nIhr k\u00f6nnt diese F\u00e4higkeit einsetzen, indem Ihr beim Fallen springt.",
+    "en_GB": "Reduces your falling speed.\r\n\r\nYou can activate this ability with the jump key while falling.",
+    "es_ES": "Reduce tu velocidad de ca\u00edda.\r\n\r\nPuedes activar esta facultad con la tecla de saltar mientras caes.",
+    "fr_FR": "R\u00e9duit votre vitesse de chute.\r\n\r\nVous pouvez activer cette comp\u00e9tence avec la touche de saut pendant la chute.",
+    "it_IT": "Riduce la velocit\u00e0 di caduta.\r\n\r\n\u00c8 possibile attivare quest'abilit\u00e0 mentre si sta cadendo con il tasto utilizzato per saltare.",
+    "ru_RU": "\u0421\u043d\u0438\u0436\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0430\u0434\u0435\u043d\u0438\u044f.\r\n\r\n\u041c\u043e\u0436\u043d\u043e \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u0430\u0434\u0435\u043d\u0438\u044f, \u043d\u0430\u0436\u0430\u0432 \u043a\u043b\u0430\u0432\u0438\u0448\u0443 \u043f\u0440\u044b\u0436\u043a\u0430.",
+    "ko_KR": "\ub099\ud558 \uc18d\ub3c4\uac00 \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\ub099\ud558 \uc911 \ub3c4\uc57d \ud0a4\ub97c \ub20c\ub7ec \uc774 \ub2a5\ub825\uc744 \ud65c\uc131\ud654\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u964d\u4f4e\u4f60\u7684\u6389\u843d\u901f\u5ea6\u3002\r\n\r\n\u4f60\u5728\u6389\u843d\u6642\u53ef\u4ee5\u4f7f\u7528\u8df3\u8e8d\u9375\u555f\u52d5\u6b64\u6280\u80fd\u3002",
+    "zh_CN": "\u964d\u4f4e\u4f60\u7684\u5760\u843d\u901f\u5ea6\u3002\r\n\r\n\u4f60\u53ef\u4ee5\u5728\u5760\u843d\u8fc7\u7a0b\u4e2d\u6309\u8df3\u8dc3\u952e\u6fc0\u6d3b\u6b64\u6280\u80fd\u3002"
+  }
 }

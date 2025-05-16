@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "342601"
+  "SpellID": "342601",
+  "name_blz": {
+    "en_US": "Ritual of Doom",
+    "es_MX": "Ritual de la fatalidad",
+    "pt_BR": "Ritual de Fatalidade",
+    "de_DE": "Ritual der Verdammnis",
+    "en_GB": "Ritual of Doom",
+    "es_ES": "Ritual de fatalidad",
+    "fr_FR": "Rituel funeste",
+    "it_IT": "Rituale della Rovina",
+    "ru_RU": "\u0420\u0438\u0442\u0443\u0430\u043b \u0440\u043e\u043a\u0430",
+    "ko_KR": "\ud30c\uba78\uc758 \uc758\uc2dd",
+    "zh_TW": "\u672b\u65e5\u5100\u5f0f",
+    "zh_CN": "\u672b\u65e5\u4eea\u5f0f"
+  },
+  "description_blz": {
+    "en_US": "Begins a ritual that sacrifices a random participant to summon a doomguard. Requires the caster and 4 additional party members to complete the ritual.",
+    "es_MX": "Comienza un ritual que sacrifica a un participante aleatorio para invocar un guardia apocal\u00edptico. Requiere el taumaturgo y 4 miembros m\u00e1s del grupo para completar el ritual.",
+    "pt_BR": "Come\u00e7a um ritual que sacrifica um participante aleat\u00f3rio para evocar um demonarca. Requer que o lan\u00e7ador e 4 outros integrantes do grupo concluam o ritual.",
+    "de_DE": "Beginnt ein Ritual, das einen zuf\u00e4lligen Teilnehmer opfert, um eine Verdammniswache zu beschw\u00f6ren. Um das Ritual zu vervollst\u00e4ndigen, werden der Zaubernde und vier zus\u00e4tzliche Gruppenmitglieder ben\u00f6tigt.",
+    "en_GB": "Begins a ritual that sacrifices a random participant to summon a doomguard. Requires the caster and 4 additional party members to complete the ritual.",
+    "es_ES": "Inicia un ritual que sacrifica a un participante aleatorio para invocar a un guardia apocal\u00edptico. Requiere al taumaturgo y a 4 miembros del grupo m\u00e1s para completar el ritual.",
+    "fr_FR": "Entame un rituel qui sacrifie un participant al\u00e9atoire pour invoquer un garde funeste. N\u00e9cessite la pr\u00e9sence du lanceur et de 4\u00a0autres membres du groupe pour mener le rituel \u00e0 son terme.",
+    "it_IT": "Inizia un rituale che sacrifica un partecipante casuale per evocare un Demone Guardiano. Necessita la presenza dell'incantatore e di 4 altri membri del gruppo per completare il rituale.",
+    "ru_RU": "\u041f\u0440\u0438\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u043a \u0440\u0438\u0442\u0443\u0430\u043b\u0443, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0438\u043d\u043e\u0441\u0438\u0442 \u0432 \u0436\u0435\u0440\u0442\u0432\u0443 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0433\u043e \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u0438 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u0442\u0440\u0430\u0436\u0430 \u0443\u0436\u0430\u0441\u0430. \u0414\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0438\u0442\u0443\u0430\u043b\u0430 \u043f\u043e\u043c\u0438\u043c\u043e \u0441\u0430\u043c\u043e\u0433\u043e \u0447\u0435\u0440\u043d\u043e\u043a\u043d\u0438\u0436\u043d\u0438\u043a\u0430 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u0435\u0449\u0435 \u0447\u0435\u0442\u044b\u0440\u0435 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u0433\u0440\u0443\u043f\u043f\u044b.",
+    "ko_KR": "\ubb34\uc791\uc704 \ucc38\uc5ec\uc790\ub97c \uc81c\ubb3c\ub85c \ubc14\uccd0 \ud30c\uba78\uc218\ud638\ubcd1\uc744 \uc18c\ud658\ud558\ub294 \uc758\uc2dd\uc744 \uac70\ud589\ud569\ub2c8\ub2e4. \uc758\uc2dd\uc744 \uc644\ub8cc\ud558\ub824\uba74 \uc2dc\uc804\uc790\uc640 4\uba85\uc758 \ud30c\ud2f0\uc6d0\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9032\u884c\u5100\u5f0f\uff0c\u72a7\u7272\u4e00\u540d\u96a8\u6a5f\u53c3\u8207\u8005\u4ee5\u53ec\u559a\u672b\u65e5\u5b88\u885b\u3002\u9700\u8981\u65bd\u6cd5\u8005\u4ee5\u53ca4\u540d\u984d\u5916\u7684\u968a\u4f0d\u6210\u54e1\u624d\u80fd\u5b8c\u6210\u5100\u5f0f\u3002",
+    "zh_CN": "\u5f00\u59cb\u4eea\u5f0f\uff0c\u727a\u7272\u968f\u673a\u4e00\u540d\u53c2\u4e0e\u8005\u6765\u53ec\u5524\u672b\u65e5\u5b88\u536b\u3002\u9700\u8981\u65bd\u6cd5\u8005\u53ca\u53e6\u5916\u56db\u540d\u961f\u4f0d\u6210\u5458\u6765\u5b8c\u6210\u4eea\u5f0f\u3002"
+  }
 }

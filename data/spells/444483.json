@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444483"
+  "SpellID": "444483",
+  "name_blz": {
+    "en_US": "Controlled Instincts",
+    "es_MX": "Instintos controlados",
+    "pt_BR": "Instintos Controlados",
+    "de_DE": "Kontrollierte Instinkte",
+    "en_GB": "Controlled Instincts",
+    "es_ES": "Instintos bajo control",
+    "fr_FR": "Instincts ma\u00eetris\u00e9s",
+    "it_IT": "Istinti Controllati",
+    "ru_RU": "\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u044b\u0435 \u0438\u043d\u0441\u0442\u0438\u043d\u043a\u0442\u044b",
+    "ko_KR": "\ud1b5\uc81c\ub41c \ubcf8\ub2a5",
+    "zh_TW": "\u638c\u63a7\u672c\u80fd",
+    "zh_CN": "\u53d7\u63a7\u672c\u80fd"
+  },
+  "description_blz": {
+    "en_US": "For 8 seconds after being struck by an Arcane Orb, 20% of the direct damage dealt by an Arcane Splinter is also dealt to nearby enemies. Damage reduced beyond 5 targets.",
+    "es_MX": "Durante 8 s despu\u00e9s recibir el impacto de un Orbe arcano, un 20% del da\u00f1o directo infligido por una Astilla arcana tambi\u00e9n se inflige a los enemigos cercanos. El da\u00f1o se reduce si golpea a m\u00e1s de 5 objetivos.",
+    "pt_BR": "Por 8 s ap\u00f3s acertar com um Orbe Arcano, 20% do dano direto causado pela Farpa Arcana tamb\u00e9m \u00e9 causado aos inimigos pr\u00f3ximos. Dano reduzido acima de 5 alvos.",
+    "de_DE": "F\u00fcr 8 Sek. nach einem Treffer mit 'Arkane Kugel', werden 20% des durch 'Arkane Splitter' verursachten Schadens auch nahen Gegnern zugef\u00fcgt. Der Schaden wird bei Zielen \u00fcber 5 Ziele hinaus verringert.",
+    "en_GB": "For 8 seconds after being struck by an Arcane Orb, 20% of the direct damage dealt by an Arcane Splinter is also dealt to nearby enemies. Damage reduced beyond 5 targets.",
+    "es_ES": "Durante los 8 segundos tras ser golpeado por Orbe Arcano, un 20% del da\u00f1o directo infligido por una astilla Arcana tambi\u00e9n se inflige a los enemigos cercanos. Da\u00f1o reducido por encima de 5 objetivos.",
+    "fr_FR": "Pendant 8\u00a0s apr\u00e8s qu\u2019Orbe arcanique a touch\u00e9, 20\u00a0% des d\u00e9g\u00e2ts directs inflig\u00e9s par un fragment arcanique sont \u00e9galement inflig\u00e9s aux adversaires proches. D\u00e9g\u00e2ts r\u00e9duits au-del\u00e0 de 5\u00a0cibles.",
+    "it_IT": "Per 8 s dopo essere stati colpiti da un Globo Arcano, il 20% dei danni diretti inflitti da una Scheggia Arcana vengono inflitti ai nemici vicini. Danni ridotti oltre 5 bersagli.",
+    "ru_RU": "\u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u044f \"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u043e\u0439 \u0441\u0444\u0435\u0440\u044b\" 20% \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0447\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043b\u043e\u043c\u043a\u0430 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 5-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ube44\uc804 \ubcf4\uc8fc\uc5d0 \uc801\uc911\ub2f9\ud55c \ub300\uc0c1\uc740 8\ucd08 \ub3d9\uc548 \ube44\uc804 \uc1c4\ud3b8\uc73c\ub85c \uc9c1\uc811 \ud53c\ud574\ub97c \ubc1b\uc744 \uacbd\uc6b0 \ud53c\ud574\ub7c9\uc758 20%\ub97c \uc8fc\uc704\uc758 \uc801\uc5d0\uac8c\ub3c4 \uc785\ud799\ub2c8\ub2e4. 5\uba85\uc744 \ucd08\uacfc\ud558\ub294 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u88ab\u79d8\u6cd5\u5149\u7403\u64ca\u4e2d\u5f8c\u76848\u79d2\u5167\uff0c\u79d8\u6cd5\u88c2\u7247\u4e5f\u6703\u5c0d\u9644\u8fd1\u7684\u6575\u4eba\u9020\u6210\u76f8\u7576\u65bc\u5176\u9020\u6210\u7684\u76f4\u63a5\u50b7\u5bb320%\u7684\u50b7\u5bb3\u3002\u8d85\u904e5\u500b\u76ee\u6a19\u6642\uff0c\u50b7\u5bb3\u964d\u4f4e\u3002",
+    "zh_CN": "\u88ab\u5965\u672f\u5b9d\u73e0\u51fb\u4e2d\u540e\u76848\u79d2\u5185\uff0c\u5965\u672f\u88c2\u7247\u8fd8\u4f1a\u5bf9\u5468\u56f4\u7684\u654c\u4eba\u9020\u6210\u76f8\u5f53\u4e8e\u76f4\u63a5\u4f24\u5bb3\u768420%\u7684\u4f24\u5bb3\u3002\u76ee\u6807\u8d85\u8fc75\u4e2a\u65f6\u4f24\u5bb3\u964d\u4f4e\u3002"
+  }
 }

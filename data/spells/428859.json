@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "428859"
+  "SpellID": "428859",
+  "name_blz": {
+    "en_US": "Power of Nature",
+    "es_MX": "Poder de la naturaleza",
+    "pt_BR": "Poder da Natureza",
+    "de_DE": "Kraft der Natur",
+    "en_GB": "Power of Nature",
+    "es_ES": "Poder de la naturaleza",
+    "fr_FR": "Puissance de la nature",
+    "it_IT": "Potenza della Natura",
+    "ru_RU": "\u0421\u0438\u043b\u0430 \u043f\u0440\u0438\u0440\u043e\u0434\u044b",
+    "ko_KR": "\uc790\uc5f0\uc758 \ud798",
+    "zh_TW": "\u81ea\u7136\u529b\u91cf",
+    "zh_CN": "\u81ea\u7136\u4e4b\u5a01"
+  },
+  "description_blz": {
+    "en_US": "Your Grove Guardians increase the healing of your Rejuvenation, Efflorescence, and Lifebloom by 10% while active.",
+    "es_MX": "Tus Guardianes de la arboleda aumentan un 10% la sanaci\u00f3n de tu Rejuvenecimiento, Floraci\u00f3n y Flor de vida mientras est\u00e1n activos.",
+    "pt_BR": "Seus Guardi\u00f5es do Bosque aumentam em 10% a cura de Rejuvenescer, Efloresc\u00eancia e Brotar da Vida enquanto est\u00e3o ativos.",
+    "de_DE": "Eure 'Hainw\u00e4chter' erh\u00f6hen die Heilung Eurer Eins\u00e4tze von 'Verj\u00fcngung', 'Erbl\u00fchen' und 'Bl\u00fchendes Leben' um 10%, w\u00e4hrend sie aktiv sind.",
+    "en_GB": "Your Grove Guardians increase the healing of your Rejuvenation, Efflorescence, and Lifebloom by 10% while active.",
+    "es_ES": "Tus guardianes de la arboleda aumentan un 10% la sanaci\u00f3n de tus efectos de Rejuvenecimiento, Floraci\u00f3n y Flor de vida mientras est\u00e1n activos.",
+    "fr_FR": "Vos Gardiennes du Bosquet augmentent les soins de R\u00e9cup\u00e9ration, Efflorescence et Fleur de vie de 10\u00a0% lorsqu\u2019elles sont actives.",
+    "it_IT": "I Guardiani del Bosco aumentano le cure fornite da Rinvigorimento, Efflorescenza e Bocciolo di Vita del 10% mentre sono attivi.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0432\u0430\u043c \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u0441\u0442\u0440\u0430\u0436\u0438 \u0440\u043e\u0449\u0438, \u043e\u043d\u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u0430\u0448\u0435\u0433\u043e \"\u041e\u043c\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f\", \"\u041f\u0435\u0440\u0438\u043e\u0434\u0430 \u0446\u0432\u0435\u0442\u0435\u043d\u0438\u044f\" \u0438 \"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\u0430\" \u043d\u0430 10%.",
+    "ko_KR": "\uc232 \uc218\ud638\uc790\uac00 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc790\uc2e0\uc758 \ud68c\ubcf5, \uaf43\ud53c\uc6b0\uae30, \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85\uc758 \uce58\uc720\ub7c9\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6797\u5730\u5b88\u8b77\u8005\u751f\u6548\u6642\uff0c\u4f60\u7684\u56de\u6625\u8853\u3001\u751f\u547d\u7dbb\u653e\u548c\u751f\u547d\u4e4b\u82b1\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f60\u7684\u6797\u83bd\u536b\u58eb\u6fc0\u6d3b\u65f6\u4f7f\u4f60\u7684\u56de\u6625\u672f\u3001\u767e\u82b1\u9f50\u653e\u548c\u751f\u547d\u7efd\u653e\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad810%\u3002"
+  }
 }

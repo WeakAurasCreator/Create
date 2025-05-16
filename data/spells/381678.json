@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "381678"
+  "SpellID": "381678",
+  "name_blz": {
+    "en_US": "Go with the Flow",
+    "es_MX": "Seguir la corriente",
+    "pt_BR": "Siga o Fluxo",
+    "de_DE": "Mit dem Strom",
+    "en_GB": "Go with the Flow",
+    "es_ES": "Seguir la corriente",
+    "fr_FR": "Au gr\u00e9 du vent",
+    "it_IT": "Seguire il Flusso",
+    "ru_RU": "\u041f\u043b\u044b\u0432\u0438 \u043f\u043e \u0442\u0435\u0447\u0435\u043d\u0438\u044e",
+    "ko_KR": "\ud750\ub984\uc5d0 \ub9e1\uaca8\ub77c",
+    "zh_TW": "\u96a8\u6ce2\u9010\u6d41",
+    "zh_CN": "\u968f\u98ce\u8fdc\u884c"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of Spirit Walk by 10 sec.\r\n\r\nReduces the cooldown of Gust of Wind by 5 sec.\r\n",
+    "es_MX": "Reduce 10 s el tiempo de reutilizaci\u00f3n de Caminata espiritual.\r\n\r\nReduce 5 s el tiempo de reutilizaci\u00f3n de Racha de viento.\r\n",
+    "pt_BR": "Reduz em 10 s a recarga de Andar Espiritual.\r\n\r\nReduz a recarga de Rajada de Vento em 5 s.\r\n",
+    "de_DE": "Verringert die Abklingzeit von 'Geisterpfoten' um 10 Sek.\r\n\r\nVerringert die Abklingzeit von 'R\u00fcckenwind' um 5 Sek.\r\n",
+    "en_GB": "Reduces the cooldown of Spirit Walk by 10 sec.\r\n\r\nReduces the cooldown of Gust of Wind by 5 sec.\r\n",
+    "es_ES": "Reduce 10 s el tiempo de reutilizaci\u00f3n de Camino de esp\u00edritu.\r\n\r\nReduce 5 s el tiempo de reutilizaci\u00f3n de Racha de viento.\r\n",
+    "fr_FR": "R\u00e9duit le temps de recharge de Marche de l\u2019esprit de 10\u00a0s.\r\n\r\nR\u00e9duit le temps de recharge de Bourrasque de 5\u00a0s.\r\n",
+    "it_IT": "Riduce il tempo di recupero di Movimento Spirituale di 10 s.\r\n\r\nRiduce il tempo di recupero di Folata di Vento di 5 s.\r\n",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u043e\u0441\u0442\u0443\u043f\u0438 \u0434\u0443\u0445\u0430\" \u043d\u0430 10 \u0441\u0435\u043a.\r\n\r\n\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u043e\u0440\u044b\u0432\u0430 \u0432\u0435\u0442\u0440\u0430\" \u043d\u0430 5 \u0441\u0435\u043a.\r\n",
+    "ko_KR": "\uc815\ub839\uc758 \uac78\uc74c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 10\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\ub3cc\ud48d\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u4f7f\u5e7d\u9b42\u6b65\u4f10\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed10\u79d2\u3002\r\n\r\n\u4f7f\u9663\u98a8\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed5\u79d2\u3002\r\n",
+    "zh_CN": "\u5e7d\u9b42\u6b65\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed10\u79d2\u3002\r\n\r\n\u9635\u98ce\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed5\u79d2\u3002"
+  }
 }

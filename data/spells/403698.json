@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "403698"
+  "SpellID": "403698",
+  "name_blz": {
+    "en_US": "Light's Celerity",
+    "es_MX": "Celeridad de la Luz",
+    "pt_BR": "Celeridade da Luz",
+    "de_DE": "Schnelligkeit des Lichts",
+    "en_GB": "Light's Celerity",
+    "es_ES": "Celeridad de la Luz",
+    "fr_FR": "C\u00e9l\u00e9rit\u00e9 de la Lumi\u00e8re",
+    "it_IT": "Fluidit\u00e0 della Luce",
+    "ru_RU": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uae30\ubbfc\ud568",
+    "zh_TW": "\u8056\u5149\u8fc5\u654f",
+    "zh_CN": "\u5723\u5149\u7684\u8fc5\u6377"
+  },
+  "description_blz": {
+    "en_US": "Flash of Light casts instantly, its healing done is increased by 20%, but it now has a 6 sec cooldown.",
+    "es_MX": "Hace que los lanzamientos de Destello de luz sean instant\u00e1neos, aumenta su sanaci\u00f3n un 20%, pero le da un tiempo de reutilizaci\u00f3n de 6 s.",
+    "pt_BR": "Clar\u00e3o de Luz \u00e9 lan\u00e7ado instantaneamente e a cura concedida por ele \u00e9 aumentada em 20%, mas agora a recarga \u00e9 de 6 s.",
+    "de_DE": "'Lichtblitz' wird sofort eingesetzt und heilt 20% mehr, hat nun allerdings eine Abklingzeit von 6 Sek.",
+    "en_GB": "Flash of Light casts instantly, its healing done is increased by 20%, but it now has a 6 sec cooldown.",
+    "es_ES": "Destello de Luz se lanza al instante y su sanaci\u00f3n realizada aumenta un 20%, pero ahora tiene 6 s de tiempo de reutilizaci\u00f3n.",
+    "fr_FR": "\u00c9clair lumineux est instantan\u00e9 et ses soins sont augment\u00e9s de 20%, mais son temps de recharge passe \u00e0 6\u00a0s.",
+    "it_IT": "Rende Lampo di Luce istantaneo, ne aumenta le cure fornite del 20% ma ne aumenta il tempo di recupero a 6 s.",
+    "ru_RU": "\"\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0421\u0432\u0435\u0442\u0430\" \u0442\u0440\u0435\u0431\u0443\u0435\u0442 6 \u0441\u0435\u043a. \u043d\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435, \u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e, \u0430 \u0435\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20%.",
+    "ko_KR": "\ube5b\uc758 \uc12c\uad11\uc774 \uc989\uc2dc \uc2dc\uc804\ub429\ub2c8\ub2e4. \uce58\uc720\ub7c9\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud558\uc9c0\ub9cc, 6\ucd08\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \uc801\uc6a9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u5149\u9583\u73fe\u6210\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad820%\uff0c\u4f46\u64c1\u67096\u79d2\u7684\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u5723\u5149\u95ea\u73b0\u53d8\u4e3a\u77ac\u53d1\uff0c\u6cbb\u7597\u6548\u679c\u63d0\u9ad820%\uff0c\u4f46\u4f1a\u67096\u79d2\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }
