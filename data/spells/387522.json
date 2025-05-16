@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387522"
+  "SpellID": "387522",
+  "name_blz": {
+    "en_US": "Cry Havoc",
+    "es_MX": "Berrido de caos",
+    "pt_BR": "Grito de Devasta\u00e7\u00e3o",
+    "de_DE": "Unendliches Chaos",
+    "en_GB": "Cry Havoc",
+    "es_ES": "Grito de caos",
+    "fr_FR": "Cri du chaos",
+    "it_IT": "Calamit\u00e0 Senza Piet\u00e0",
+    "ru_RU": "\u041e\u043f\u0443\u0441\u0442\u043e\u0448\u0430\u044e\u0449\u0438\u0439 \u043a\u0440\u0438\u043a",
+    "ko_KR": "\ud30c\uba78\uc758 \ube44\uba85",
+    "zh_TW": "\u54ed\u865f\u6d69\u52ab",
+    "zh_CN": "\u5c16\u5578\u6d69\u52ab"
+  },
+  "description_blz": {
+    "en_US": "When Chaos Bolt damages a target afflicted by Havoc, it explodes, dealing 2,767 damage to enemies within 8 yards.",
+    "es_MX": "Cuando Descarga de caos da\u00f1a a un objetivo afectado por Estragos, explota e inflige 2,767 p. de da\u00f1o a los enemigos en un radio de 8 m.",
+    "pt_BR": "A Seta do Caos explode se atingir um alvo afligido por Devasta\u00e7\u00e3o, causando 2.767 de dano a todos os inimigos em um raio de 8 m.",
+    "de_DE": "Wenn 'Chaosblitz' einem von 'Verw\u00fcstung' betroffenen Ziel Schaden zuf\u00fcgt, explodiert es und f\u00fcgt Gegnern innerhalb von 8 Metern 2.767 Schaden zu.",
+    "en_GB": "When Chaos Bolt damages a target afflicted by Havoc, it explodes, dealing 2,767 damage to enemies within 8 yards.",
+    "es_ES": "Cuando Descarga de caos inflige da\u00f1o a un objetivo afectado por Devastaci\u00f3n, explota e inflige 2767 p. de da\u00f1o a los enemigos en un radio de 8 m.",
+    "fr_FR": "Quand Trait du chaos inflige des d\u00e9g\u00e2ts \u00e0 une cible affect\u00e9e par Tumulte, il explose, ce qui inflige 2767\u00a0points de d\u00e9g\u00e2ts aux adversaires \u00e0 moins de 8\u00a0m\u00e8tres.",
+    "it_IT": "Quando Dardo del Caos colpisce un bersaglio affetto da Calamit\u00e0, esplode, infliggendo 2.767 danni ai nemici entro 8 m.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0421\u0442\u0440\u0435\u043b\u0430 \u0425\u0430\u043e\u0441\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d \u0446\u0435\u043b\u0438, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u0439\u0441\u044f \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \"\u0425\u0430\u043e\u0441\u0430\", \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0432\u0437\u0440\u044b\u0432, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 2767 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 8 \u043c.",
+    "ko_KR": "\ud63c\ub3c8\uc758 \ud654\uc0b4\uc774 \ub300\ud63c\ub780\uc758 \uc9d5\ud45c\uac00 \ucc0d\ud78c \ub300\uc0c1\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 \ud3ed\ubc1c\uc744 \uc77c\uc73c\ucf1c 8\ubbf8\ud130 \ub0b4\uc758 \uc801\uc5d0\uac8c 2,767\uc758 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u6df7\u6c8c\u7bad\u5c0d\u53d7\u6d69\u52ab\u5f71\u97ff\u7684\u76ee\u6a19\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u5c07\u6703\u7206\u70b8\uff0c\u5c0d8\u78bc\u7bc4\u570d\u5167\u7684\u6575\u4eba\u9020\u62102,767\u9ede\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u6df7\u4e71\u4e4b\u7bad\u5bf9\u53d7\u5230\u6d69\u52ab\u5f71\u54cd\u7684\u76ee\u6807\u9020\u6210\u4f24\u5bb3\u65f6\u5c06\u4f1a\u7206\u70b8\uff0c\u5bf98\u7801\u5185\u7684\u654c\u4eba\u9020\u62102,767\u70b9\u4f24\u5bb3\u3002"
+  }
 }

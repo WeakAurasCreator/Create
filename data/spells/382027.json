@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382027"
+  "SpellID": "382027",
+  "name_blz": {
+    "en_US": "Improved Flametongue Weapon",
+    "es_MX": "Arma Lengua de Fuego mejorada",
+    "pt_BR": "Arma de Labaredas Aprimorada",
+    "de_DE": "Verbesserte Waffe der Flammenzunge",
+    "en_GB": "Improved Flametongue Weapon",
+    "es_ES": "Arma Lengua de Fuego mejorada",
+    "fr_FR": "Arme langue de feu am\u00e9lior\u00e9e",
+    "it_IT": "Arma della Lingua di Fuoco Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u043f\u043b\u0430\u043c\u0435\u043d\u0438",
+    "ko_KR": "\ubd88\uaf43\ud613\ubc14\ub2e5 \ubb34\uae30 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u706b\u820c\u6b66\u5668",
+    "zh_CN": "\u5f3a\u5316\u706b\u820c\u6b66\u5668"
+  },
+  "description_blz": {
+    "en_US": "Imbuing your weapon with Flametongue increases your Fire spell damage by 5.0% for 1 hour.",
+    "es_MX": "Imbuye tu arma con Lengua de fuego y aumenta un 5.0% tu da\u00f1o con hechizos de fuego durante 1 h.",
+    "pt_BR": "Imbuir sua arma com Labareda aumenta em 5,0% seu dano m\u00e1gico de Fogo por 1 hora.",
+    "de_DE": "Das Erf\u00fcllen Eurer Waffe mit 'Flammenzunge' erh\u00f6ht Euren Feuerzauberschaden 1 Stunde lang um 5,0%.",
+    "en_GB": "Imbuing your weapon with Flametongue increases your Fire spell damage by 5.0% for 1 hour.",
+    "es_ES": "Al imbuir tu arma de Lengua de Fuego, aumentas un 5,0% el da\u00f1o con hechizos de Fuego durante 1 h.",
+    "fr_FR": "Vous impr\u00e9gnez votre arme avec Langue de feu, ce qui augmente les d\u00e9g\u00e2ts de vos sorts de feu de 5,0\u00a0% pendant 1 heure.",
+    "it_IT": "Infondere l'arma con Lingua di Fuoco aumenta i danni da fuoco inflitti del 5,0% per 1 ora.",
+    "ru_RU": "\u041e\u0440\u0443\u0436\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u043f\u043b\u0430\u043c\u0435\u043d\u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043e\u0433\u043d\u044f \u043d\u0430 5,0% \u043d\u0430 1 \u0447.",
+    "ko_KR": "\ubb34\uae30\uc5d0 \ubd88\uaf43\ud613\ubc14\ub2e5\uc744 \uc8fc\uc785\ud558\uba74 1\uc2dc\uac04 \ub3d9\uc548 \ud654\uc5fc \uc8fc\ubb38 \uacf5\uaca9\ub825\uc774 5.0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u706b\u820c\u6253\u64ca\u704c\u6ce8\u4f60\u7684\u6b66\u5668\uff0c\u4f7f\u4f60\u7684\u706b\u7130\u6cd5\u8853\u50b7\u5bb3\u63d0\u9ad85.0%\uff0c\u6301\u7e8c1\u5c0f\u6642\u3002",
+    "zh_CN": "\u4e3a\u4f60\u7684\u6b66\u5668\u6ce8\u5165\u706b\u820c\u7684\u80fd\u91cf\uff0c\u4f7f\u4f60\u7684\u706b\u7130\u4f24\u5bb3\u63d0\u9ad85.0%\uff0c\u6301\u7eed1\u5c0f\u65f6\u3002"
+  }
 }

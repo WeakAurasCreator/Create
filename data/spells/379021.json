@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "379021"
+  "SpellID": "379021",
+  "name_blz": {
+    "en_US": "Sanctuary",
+    "es_MX": "Salvaguardia",
+    "pt_BR": "Santu\u00e1rio",
+    "de_DE": "Refugium",
+    "en_GB": "Sanctuary",
+    "es_ES": "Santuario",
+    "fr_FR": "Sanctuaire",
+    "it_IT": "Santuario",
+    "ru_RU": "\u0421\u0432\u044f\u0442\u0438\u043b\u0438\u0449\u0435",
+    "ko_KR": "\uc131\uc5ed",
+    "zh_TW": "\u5e87\u8b77",
+    "zh_CN": "\u5e87\u62a4"
+  },
+  "description_blz": {
+    "en_US": "Consecration's benefits persist for 4.0 seconds after you leave it.",
+    "es_MX": "Los beneficios de Consagraci\u00f3n persisten durante 4.0 s despu\u00e9s de que abandonas el \u00e1rea.",
+    "pt_BR": "Os benef\u00edcios da Consagra\u00e7\u00e3o persistem por 4.0 s depois de voc\u00ea sair dela.",
+    "de_DE": "Die Vorteile von 'Weihe' halten 4.0 Sek. lang an, nachdem Ihr sie verlassen habt.",
+    "en_GB": "Consecration's benefits persist for 4.0 seconds after you leave it.",
+    "es_ES": "Los beneficios de Consagraci\u00f3n persisten durante 4.0 s tras abandonar la zona.",
+    "fr_FR": "Les avantages procur\u00e9s par Cons\u00e9cration persistent pendant 4.0\u00a0s apr\u00e8s que vous en sortez.",
+    "it_IT": "I benefici di Consacrazione persistono per 4.0 s dopo che si \u00e8 usciti dall'area d'effetto.",
+    "ru_RU": "\"\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435\" \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0432\u0430\u0441 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4.0 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0432\u044b \u043f\u043e\u043a\u0438\u0434\u0430\u0435\u0442\u0435 \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.",
+    "ko_KR": "\uc2e0\uc131\ud654 \uc9c0\ub300\ub97c \ubc97\uc5b4\ub098\ub3c4 \uc774\ub85c\uc6b4 \ud6a8\uacfc\uac00 4.0\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u96e2\u958b\u5949\u737b\u7bc4\u570d\u5f8c\uff0c\u5176\u589e\u76ca\u6548\u679c\u6301\u7e8c4.0\u79d2\u3002",
+    "zh_CN": "\u5f53\u4f60\u79bb\u5f00\u5949\u732e\u540e\uff0c\u5949\u732e\u7684\u589e\u76ca\u6548\u679c\u6301\u7eed4.0\u79d2\u3002"
+  }
 }

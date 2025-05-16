@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383604"
+  "SpellID": "383604",
+  "name_blz": {
+    "en_US": "Improved Scorch",
+    "es_MX": "Agostar mejorado",
+    "pt_BR": "Calcinar Aprimorado",
+    "de_DE": "Verbessertes Versengen",
+    "en_GB": "Improved Scorch",
+    "es_ES": "Agostar mejorado",
+    "fr_FR": "Br\u00fblure am\u00e9lior\u00e9e",
+    "it_IT": "Bruciatura Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u043e\u0436\u043e\u0433",
+    "ko_KR": "\ubd88\ud0dc\uc6b0\uae30 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u707c\u71d2",
+    "zh_CN": "\u5f3a\u5316\u707c\u70e7"
+  },
+  "description_blz": {
+    "en_US": "Casting Scorch on targets below 30% health increase the target's damage taken from you by 7% for 12 sec. This effect stacks up to 2 times.",
+    "es_MX": "Lanzar Agostar contra objetivos que est\u00e1n por debajo del 30% de salud aumenta el da\u00f1o que infliges al objetivo un 7% durante 12 s. Este efecto se acumula hasta 2 veces.",
+    "pt_BR": "Lan\u00e7ar Calcinar em alvos com menos de 30% dos pontos de vida aumenta em 7% o dano que o alvo recebe de voc\u00ea por 12 s. Este efeito acumula at\u00e9 2 vezes.",
+    "de_DE": "Wenn Ihr 'Versengen' gegen Ziele mit weniger als 30% Gesundheit einsetzt, erleidet das Ziel 12 Sek. lang 7% mehr Schaden durch Euch. Bis zu 2-mal stapelbar.",
+    "en_GB": "Casting Scorch on targets below 30% health increase the target's damage taken from you by 7% for 12 sec. This effect stacks up to 2 times.",
+    "es_ES": "Al lanzar Agostar a objetivos por debajo de un 30% de salud, aumenta el da\u00f1o que les infliges un 7% durante 12 s. Este efecto se acumula hasta 2 veces.",
+    "fr_FR": "Le lancement de Br\u00fblure sur des cibles dont les points de vie sont inf\u00e9rieurs \u00e0 30\u00a0% augmente les d\u00e9g\u00e2ts que vous infligez \u00e0 la cible de 7\u00a0% pendant 12 s. Cet effet est cumulable jusqu\u2019\u00e0 2\u00a0fois.",
+    "it_IT": "Lanciare Bruciatura su bersagli con meno del 30% della salute massima aumenta i danni da te inflitti al bersaglio del 7% per 12 s. Si accumula fino a 2 volte.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u041e\u0436\u043e\u0433\" \u043a \u0446\u0435\u043b\u044f\u043c \u0441 \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0438\u0436\u0435 30%, \u0446\u0435\u043b\u044c \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0439 \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043e\u0442 \u0432\u0430\u0441 \u043d\u0430 7% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 12 \u0441\u0435\u043a. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 2 \u0440\u0430\u0437.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 30% \ubbf8\ub9cc\uc778 \ub300\uc0c1\uc5d0\uac8c \ubd88\ud0dc\uc6b0\uae30 \uc2dc\uc804 \uc2dc 12\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \uc2dc\uc804\uc790\uc5d0\uac8c \ubc1b\ub294 \ud53c\ud574\uac00 7%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 \ucd5c\ub300 2\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u751f\u547d\u529b\u4f4e\u65bc30%\u7684\u76ee\u6a19\u65bd\u653e\u707c\u71d2\u6642\uff0c\u6703\u4f7f\u4f60\u5c0d\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad87%\uff0c\u6301\u7e8c12\u79d2\u3002\u6b64\u6548\u679c\u6700\u591a\u53ef\u5806\u758a2\u5c64\u3002",
+    "zh_CN": "\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e30%\u7684\u76ee\u6807\u65bd\u653e\u707c\u70e7\uff0c\u4f1a\u4f7f\u76ee\u6807\u53d7\u5230\u4f60\u7684\u4f24\u5bb3\u63d0\u9ad87%\uff0c\u6301\u7eed12\u79d2\u3002\u8be5\u6548\u679c\u6700\u591a\u53e0\u52a02\u6b21\u3002"
+  }
 }

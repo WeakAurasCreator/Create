@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "372469"
+  "SpellID": "372469",
+  "name_blz": {
+    "en_US": "Scarlet Adaptation",
+    "es_MX": "Adaptaci\u00f3n escarlata",
+    "pt_BR": "Adapta\u00e7\u00e3o Escarlate",
+    "de_DE": "Scharlachrote Anpassung",
+    "en_GB": "Scarlet Adaptation",
+    "es_ES": "Adaptaci\u00f3n escarlata",
+    "fr_FR": "Adaptation \u00e9carlate",
+    "it_IT": "Adattamento Scarlatto",
+    "ru_RU": "\u0410\u043b\u0430\u044f \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u044f",
+    "ko_KR": "\uc9c4\ud64d\ube5b \uc801\uc751",
+    "zh_TW": "\u7dcb\u7d05\u6f14\u5316",
+    "zh_CN": "\u7eef\u7ea2\u9002\u6027"
+  },
+  "description_blz": {
+    "en_US": "Store 20% of your effective healing, up to 12,473. Your next damaging Living Flame consumes all stored healing to increase its damage dealt.",
+    "es_MX": "Almacena un 20% de tu sanaci\u00f3n efectiva hasta un m\u00e1ximo de 12,473. Tu pr\u00f3xima Llama viva que inflija da\u00f1o consumir\u00e1 toda la sanaci\u00f3n almacenada para aumentar su da\u00f1o.",
+    "pt_BR": "Armazena 20% da sua cura efetiva, at\u00e9 um m\u00e1ximo de 12.473. Sua pr\u00f3xima Chama Viva que causar dano consome toda a cura armazenada para aumentar o dano causado.",
+    "de_DE": "Speichert 20% Eurer effektiven Heilung, bis zu 12.473. Euer n\u00e4chster Einsatz von 'Lebende Flamme', der Schaden verursacht, verbraucht s\u00e4mtliche gespeicherte Heilung, um den verursachten Schaden zu erh\u00f6hen.",
+    "en_GB": "Store 20% of your effective healing, up to 12,473. Your next damaging Living Flame consumes all stored healing to increase its damage dealt.",
+    "es_ES": "Almacena un 20% de tu sanaci\u00f3n hasta un m\u00e1ximo de 12473. Tu siguiente Llama viva consume toda la sanaci\u00f3n almacenada para aumentar el da\u00f1o infligido.",
+    "fr_FR": "Accumule 20% de vos soins effectifs, dans la limite de 12473\u00a0points, qui seront utilis\u00e9s par votre prochaine Flamme vivante offensive pour augmenter ses d\u00e9g\u00e2ts.",
+    "it_IT": "Accumula il 20% delle cure fornite, fino a un massimo di 12.473. La successiva Fiamma Vivente consuma tutte le cure accumulate per aumentare i danni inflitti.",
+    "ru_RU": "\u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 20% \u0432\u0430\u0448\u0435\u0433\u043e \u043d\u0435\u0438\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 12473 \u0435\u0434. \u0412\u0430\u0448 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \"\u0416\u0438\u0432\u043e\u0439 \u0436\u0430\u0440\" \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \u0432\u0441\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d.",
+    "ko_KR": "\uc790\uc2e0\uc758 \uc720\ud6a8 \uce58\uc720\ub7c9\uc744 20%\ub9cc\ud07c, \ucd5c\ub300 12,473\ub9cc\ud07c \uc800\uc7a5\ud569\ub2c8\ub2e4. \ub2e4\uc74c\uc5d0 \uc0b4\uc544\uc788\ub294 \ubd88\uaf43\uc73c\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \uc800\uc7a5\ub41c \ubaa8\ub4e0 \uce58\uc720\ub7c9\uc744 \uc18c\ubaa8\ud574 \uacf5\uaca9\ub825\uc744 \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5132\u5b58\u4f60\u6709\u6548\u6cbb\u7642\u91cf\u768420%\u7684\u751f\u547d\u529b\uff0c\u6700\u591a12,473\u9ede\u751f\u547d\u529b\u3002\u4f60\u7684\u4e0b\u4e00\u6b21\u50b7\u5bb3\u6027\u751f\u547d\u70c8\u7130\u6d88\u8017\u6240\u6709\u5132\u5b58\u7684\u6cbb\u7642\u91cf\uff0c\u4f7f\u5176\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad8\u3002",
+    "zh_CN": "\u50a8\u5b58\u4f60\u6709\u6548\u6cbb\u7597\u91cf\u768420%\uff0c\u6700\u591a\u4e0d\u8d85\u8fc712,473\u70b9\u3002\u4f60\u7684\u4e0b\u4e00\u4e2a\u4f24\u5bb3\u6027\u6d3b\u5316\u70c8\u7130\u4f1a\u6d88\u8017\u6240\u6709\u5df2\u50a8\u5b58\u7684\u6cbb\u7597\u91cf\uff0c\u9020\u6210\u989d\u5916\u7684\u4f24\u5bb3\u3002"
+  }
 }

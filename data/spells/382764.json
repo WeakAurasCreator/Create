@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382764"
+  "SpellID": "382764",
+  "name_blz": {
+    "en_US": "Crushing Force",
+    "es_MX": "Potencia aplastante",
+    "pt_BR": "For\u00e7a Esmagadora",
+    "de_DE": "Zerschmetternde Kraft",
+    "en_GB": "Crushing Force",
+    "es_ES": "Fuerza aplastante",
+    "fr_FR": "Force accablante",
+    "it_IT": "Forza Devastante",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0443\u0448\u0430\u044e\u0449\u0430\u044f \u0441\u0438\u043b\u0430",
+    "ko_KR": "\ubd84\uc1c4\uc758 \ubb34\ub825",
+    "zh_TW": "\u7c89\u788e\u4e4b\u529b",
+    "zh_CN": "\u78be\u538b\u4e4b\u529b"
+  },
+  "description_blz": {
+    "en_US": "Mortal Strike deals an additional 5% damage and deals 5% increased critical strike damage.",
+    "es_MX": "Golpe mortal inflige un 5% m\u00e1s de da\u00f1o e inflige un 5% m\u00e1s de da\u00f1o de golpe cr\u00edtico.",
+    "pt_BR": "Golpe Mortal causa 5% a mais de dano e causa 5% a mais de dano de acerto cr\u00edtico.",
+    "de_DE": "'T\u00f6dlicher Sto\u00df' verursacht 5% zus\u00e4tzlichen Schaden und 5% mehr kritischen Schaden.",
+    "en_GB": "Mortal Strike deals an additional 5% damage and deals 5% increased critical strike damage.",
+    "es_ES": "Golpe mortal inflige un 5% m\u00e1s de da\u00f1o y un 5% m\u00e1s de da\u00f1o cr\u00edtico.",
+    "fr_FR": "Frappe mortelle inflige 5\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires et 5\u00a0% de d\u00e9g\u00e2ts critiques suppl\u00e9mentaires.",
+    "it_IT": "Assalto Mortale infligge il 5% di danni aggiuntivi e il 5% di danni critici aggiuntivi.",
+    "ru_RU": "\"\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0443\u0434\u0430\u0440\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 5% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u043d\u0430 5% \u0431\u043e\u043b\u044c\u0448\u0435 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud544\uc0ac\uc758 \uc77c\uaca9\uc774 5%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud788\uba70, \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud53c\ud574\uac00 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u81f4\u6b7b\u6253\u64ca\u9020\u6210\u984d\u59165%\u50b7\u5bb3\uff0c\u4e14\u9020\u6210\u7684\u81f4\u547d\u4e00\u64ca\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u81f4\u6b7b\u6253\u51fb\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u7206\u51fb\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }

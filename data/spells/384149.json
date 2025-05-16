@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "384149"
+  "SpellID": "384149",
+  "name_blz": {
+    "en_US": "Overflowing Maelstrom",
+    "es_MX": "Vor\u00e1gine rebosante",
+    "pt_BR": "Voragem Transbordante",
+    "de_DE": "\u00dcberquellender Mahlstrom",
+    "en_GB": "Overflowing Maelstrom",
+    "es_ES": "Vor\u00e1gine desbordante",
+    "fr_FR": "\u00c9panchement du Maelstr\u00f6m",
+    "it_IT": "Maelstrom Traboccante",
+    "ru_RU": "\u0411\u0443\u0440\u043b\u044f\u0449\u0438\u0439 \u0412\u043e\u0434\u043e\u0432\u043e\u0440\u043e\u0442",
+    "ko_KR": "\ub118\uce58\ub294 \uc18c\uc6a9\ub3cc\uc774",
+    "zh_TW": "\u5143\u80fd\u6eff\u6ea2",
+    "zh_CN": "\u6ea2\u6d41\u6f29\u6da1"
+  },
+  "description_blz": {
+    "en_US": "Your damage or healing spells will now consume up to 10 Maelstrom Weapon stacks. ",
+    "es_MX": "Tus hechizos de da\u00f1o o sanaci\u00f3n ahora consumir\u00e1n hasta 10 acumulaciones de Arma vor\u00e1gine. ",
+    "pt_BR": "Seus feiti\u00e7os de cura ou dano agora consomem at\u00e9 10 aplica\u00e7\u00f5es de Arma da Voragem. ",
+    "de_DE": "Eure Schaden verursachenden oder heilenden Zauber verbrauchen nun bis zu 10 Stapel von 'Waffe des Mahlstroms'.",
+    "en_GB": "Your damage or healing spells will now consume up to 10 Maelstrom Weapon stacks. ",
+    "es_ES": "Ahora, tus hechizos de da\u00f1o o de sanaci\u00f3n consumir\u00e1n hasta 10 acumulaciones de Arma vor\u00e1gine.",
+    "fr_FR": "Vos sorts de d\u00e9g\u00e2ts et de soins consomment d\u00e9sormais jusqu\u2019\u00e0 10\u00a0charges d\u2019Arme du Maelstr\u00f6m.",
+    "it_IT": "Gli incantesimi d'attacco o di cura consumano fino a 10 accumuli di Arma del Maelstrom. ",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0443\u0440\u043e\u043d \u0438\u043b\u0438 \u0438\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0442 \u0434\u043e 10 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \"\u041e\u0440\u0443\u0436\u0438\u044f \u0412\u043e\u0434\u043e\u0432\u043e\u0440\u043e\u0442\u0430\". ",
+    "ko_KR": "\uacf5\uaca9 \ub610\ub294 \uce58\uc720 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc \uc18c\uc6a9\ub3cc\uc774\uce58\ub294 \ubb34\uae30\ub97c \ucd5c\ub300 10\uc911\ucca9\uae4c\uc9c0 \uc18c\ubaa8\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u4f60\u7684\u50b7\u5bb3\u6216\u6cbb\u7642\u6cd5\u8853\u73fe\u5728\u6700\u591a\u80fd\u6d88\u801710\u5c64\u6c23\u6f29\u6b66\u5668\u3002 ",
+    "zh_CN": "\u4f60\u7684\u4f24\u5bb3\u6216\u6cbb\u7597\u6cd5\u672f\u73b0\u5728\u53ef\u4ee5\u6d88\u8017\u81f3\u591a10\u5c42\u6f29\u6da1\u6b66\u5668\u5c42\u6570\u3002 "
+  }
 }

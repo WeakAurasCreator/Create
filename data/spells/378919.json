@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378919"
+  "SpellID": "378919",
+  "name_blz": {
+    "en_US": "Piercing Cold",
+    "es_MX": "Fr\u00edo desgarrador",
+    "pt_BR": "Frio Penetrante",
+    "de_DE": "Durchdringende K\u00e4lte",
+    "en_GB": "Piercing Cold",
+    "es_ES": "Fr\u00edo perforador",
+    "fr_FR": "Froid saisissant",
+    "it_IT": "Freddo Penetrante",
+    "ru_RU": "\u041f\u0440\u043e\u043d\u0438\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0445\u043e\u043b\u043e\u0434",
+    "ko_KR": "\uad00\ud1b5\uc758 \ub0c9\uae30",
+    "zh_TW": "\u7a7f\u900f\u4e4b\u5bd2",
+    "zh_CN": "\u523a\u9aa8\u4e4b\u51b0"
+  },
+  "description_blz": {
+    "en_US": "Frostbolt and Icicle critical strike damage increased by 20%.",
+    "es_MX": "El da\u00f1o cr\u00edtico de Descarga de escarcha y Car\u00e1mbano aumenta un 20%.",
+    "pt_BR": "Dano de acerto cr\u00edtico de Seta de Gelo e Sincelo aumentado em 20%.",
+    "de_DE": "Erh\u00f6ht den kritischen Schaden von 'Frostblitz' und 'Eiszapfen' um 20%.",
+    "en_GB": "Frostbolt and Icicle critical strike damage increased by 20%.",
+    "es_ES": "Da\u00f1o cr\u00edtico de Descarga de Escarcha y Car\u00e1mbano aumentado un 20%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts critiques d\u2019\u00c9clair de givre et Gla\u00e7on sont augment\u00e9s de 20%.",
+    "it_IT": "Aumenta i danni critici inflitti da Dardo di Gelo e Frammenti di Ghiaccio del 20%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0443\u0434\u0430\u0440\u043e\u0432 \"\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0441\u0442\u0440\u0435\u043b\u044b\" \u0438 \"\u041a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0430 \u043b\u044c\u0434\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d \u043d\u0430 20%.",
+    "ko_KR": "\uc5bc\uc74c \ud654\uc0b4\uacfc \uace0\ub4dc\ub984\uc758 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud53c\ud574\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5bd2\u51b0\u7bad\u548c\u51b0\u67f1\u7684\u81f4\u547d\u4e00\u64ca\u50b7\u5bb3\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u5bd2\u51b0\u7bad\u548c\u51b0\u523a\u7684\u7206\u51fb\u4f24\u5bb3\u63d0\u9ad820%\u3002"
+  }
 }

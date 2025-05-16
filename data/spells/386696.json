@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386696"
+  "SpellID": "386696",
+  "name_blz": {
+    "en_US": "Decimating Bolt",
+    "es_MX": "Descarga exterminadora",
+    "pt_BR": "Seta Dizimadora",
+    "de_DE": "Dezimierungsblitz",
+    "en_GB": "Decimating Bolt",
+    "es_ES": "Descarga exterminadora",
+    "fr_FR": "Trait de d\u00e9cimation",
+    "it_IT": "Dardo della Decimazione",
+    "ru_RU": "\u0421\u0442\u0440\u0435\u043b\u0430 \u043e\u043f\u0443\u0441\u0442\u043e\u0448\u0435\u043d\u0438\u044f",
+    "ko_KR": "\ud559\uc0b4\uc758 \ud654\uc0b4",
+    "zh_TW": "\u7d55\u6bba\u7bad",
+    "zh_CN": "\u5c60\u622e\u7bad"
+  },
+  "description_blz": {
+    "en_US": "Hurl bolts of decimating magic at your target, dealing 80,437 Shadow damage and increasing the damage of your next 3 Shadow Bolts or Drain Souls by 40%.\r\n\r\nDecimating Bolt's damage, and the bonus to Shadow Bolt and Drain Soul both increase as your target's health decreases.",
+    "es_MX": "Lanza descargas de magia exterminadora a tu objetivo, inflige 80,321 p. de da\u00f1o de las sombras y aumenta el da\u00f1o de tus pr\u00f3ximos 3 Descargas de las sombras o Drenar alma un 40%.\r\n\r\nEl da\u00f1o de Descarga exterminadora y las bonificaciones de Descarga de las sombras y Drenar alma aumentan a medida que la salud de tu objetivo se reduce.",
+    "pt_BR": "Arremessa setas de magia dizimadora contra o alvo, causando 81.020 de dano de Sombra e aumentando em 40% o dano de 3 feiti\u00e7os Setas Sombrias ou Drenar Almar subsequente(s).\r\n\r\nO dano da Seta Dizimadora e o b\u00f4nus concedido a Seta Sombria e Drenar Alma aumentam conforme o alvo perde pontos de vida.",
+    "de_DE": "Schleudert Blitze aus dezimierender Magie auf Euer Ziel, die 82.750 Schattenschaden verursachen und den Schaden Eurer n\u00e4chsten 3 Eins\u00e4tze von 'Schattenblitz' oder 'Seelendieb' um 40% erh\u00f6hen.\r\n\r\nSowohl der Schaden von 'Dezimierungsblitz' als auch der Bonus f\u00fcr 'Schattenblitz' und 'Seelendieb' steigt mit abnehmender Gesundheit Eures Ziels an.",
+    "en_GB": "Hurl bolts of decimating magic at your target, dealing 82,331 Shadow damage and increasing the damage of your next 3 Shadow Bolts or Drain Souls by 40%.\r\n\r\nDecimating Bolt's damage, and the bonus to Shadow Bolt and Drain Soul both increase as your target's health decreases.",
+    "es_ES": "Lanzas unas descargas de magia exterminadora a tu objetivo que infligen 81798 p. de da\u00f1o de las Sombras y aumentan un 40% el da\u00f1o de tus siguientes ataques con. aumentan a medida que se reduce la salud de tu objetivo.",
+    "fr_FR": "Vous lancez des traits magiques d\u00e9vastateurs sur la cible, ce qui lui inflige 81077\u00a0points de d\u00e9g\u00e2ts d\u2019ombre et augmente les d\u00e9g\u00e2ts des  3\u00a0prochains sorts Trait de l\u2019ombre ou Drain d\u2019\u00e2me de 40%.\r\n\r\nLes d\u00e9g\u00e2ts de Trait de d\u00e9cimation et le bonus conf\u00e9r\u00e9 \u00e0 Trait de l\u2019ombre ou Drain d\u2019\u00e2me augmentent \u00e0 mesure que les points de vie de la cible diminuent.",
+    "it_IT": "Scaglia dardi di magia della decimazione sul bersaglio, infliggendo 81.896 danni da ombra e aumentando i danni inflitti dai successivi  3 lanci di Dardo d'Ombra o Risucchio d'Anima del 40%.\r\n\r\nI danni inflitti da Dardo della Decimazione e il bonus a Dardo d'Ombra e Risucchio d'Anima aumentano al ridursi della salute del bersaglio.",
+    "ru_RU": "\u0412\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432 \u0446\u0435\u043b\u044c \u0437\u0430\u0440\u044f\u0434\u044b \u0441\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 81483 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0435 \u0443\u0440\u043e\u043d \u043e\u0442 $3 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0439$$?s198590[\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f][$$386698u \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0439] \"\u0421\u0442\u0440\u0435\u043b\u044b \u0422\u044c\u043c\u044b\" \u043d\u0430 40%.\r\n\r\n\u041f\u043e \u043c\u0435\u0440\u0435 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u0438\u044f \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0446\u0435\u043b\u0438 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0421\u0442\u0440\u0435\u043b\u044b \u043e\u043f\u0443\u0441\u0442\u043e\u0448\u0435\u043d\u0438\u044f\" \u0438 \u0431\u043e\u043d\u0443\u0441 \u043a \"\u0421\u0442\u0440\u0435\u043b\u0435 \u0422\u044c\u043c\u044b\" \u0438 \"\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u0438\u044e \u0434\u0443\u0448\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \ud559\uc0b4\uc758 \ub9c8\ubc95 \ud654\uc0b4\uc744 \ub0a0\ub824 81,729\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 \ub2e4\uc74c 3\ud68c \ub3d9\uc548 \uc2dc\uc804\ud558\ub294 \uc5b4\ub460\uc758 \ud654\uc0b4 \ub610\ub294 \uc601\ud63c \ud761\uc218\uc758 \uacf5\uaca9\ub825\uc744 40%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ud559\uc0b4\uc758 \ud654\uc0b4\uc758 \uacf5\uaca9\ub825\uacfc \uc5b4\ub460\uc758 \ud654\uc0b4 \ubc0f \uc601\ud63c \ud761\uc218 \uacf5\uaca9\ub825 \uc99d\uac00 \ud6a8\uacfc\ub294 \ub300\uc0c1\uc758 \uc0dd\uba85\ub825\uc774 \uac10\uc18c\ud560\uc218\ub85d \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u671d\u76ee\u6a19\u767c\u5c04\u591a\u767c\u7d55\u6bba\u9b54\u6cd5\uff0c\u9020\u621080,186\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4f7f\u4f60\u4e0b3\u500b\u6697\u5f71\u7bad\u6216\u5438\u53d6\u9748\u9b42\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad840%\u3002\r\n\r\n\u7d55\u6bba\u7bad\u7684\u50b7\u5bb3\u548c\u6697\u5f71\u7bad\u548c\u5438\u53d6\u9748\u9b42\u7684\u52a0\u6210\uff0c\u90fd\u6703\u96a8\u8457\u4f60\u76ee\u6a19\u7684\u751f\u547d\u529b\u964d\u4f4e\u800c\u63d0\u9ad8\u3002",
+    "zh_CN": "\u5411\u4f60\u7684\u76ee\u6807\u53d1\u51fa\u6570\u9053\u5c60\u622e\u9b54\u6cd5\uff0c\u9020\u621081,390\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4f7f\u4f60\u63a5\u4e0b\u6765\u76843\u4e2a\u6697\u5f71\u7bad\u6216\u5438\u53d6\u7075\u9b42\u7684\u4f24\u5bb3\u63d0\u9ad840%\u3002\r\n\r\n\u4f60\u76ee\u6807\u7684\u751f\u547d\u503c\u8d8a\u4f4e\uff0c\u5c60\u622e\u7bad\u7684\u4f24\u5bb3\u4ee5\u53ca\u6697\u5f71\u7bad\u548c\u5438\u53d6\u7075\u9b42\u7684\u4f24\u5bb3\u52a0\u6210\u90fd\u4f1a\u8d8a\u9ad8\u3002"
+  }
 }

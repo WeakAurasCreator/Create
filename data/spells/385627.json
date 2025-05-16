@@ -10,7 +10,7 @@
   "Attributes_4": "0",
   "Attributes_5": "134217728",
   "Attributes_6": "0",
-  "Attributes_7": "0",
+  "Attributes_7": "16777216",
   "Attributes_8": "4608",
   "Attributes_9": "0",
   "Attributes_10": "0",
@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "385627"
+  "SpellID": "385627",
+  "name_blz": {
+    "en_US": "Kingsbane",
+    "es_MX": "Perdici\u00f3n de reyes",
+    "pt_BR": "Ru\u00edna dos Reis",
+    "de_DE": "K\u00f6nigsmord",
+    "en_GB": "Kingsbane",
+    "es_ES": "Perdici\u00f3n de Reyes",
+    "fr_FR": "Plaie des rois",
+    "it_IT": "Rovina dei Re",
+    "ru_RU": "\u041f\u043e\u0433\u0438\u0431\u0435\u043b\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0439",
+    "ko_KR": "\uc655\uc758 \ud30c\uba78",
+    "zh_TW": "\u738b\u798d",
+    "zh_CN": "\u541b\u738b\u4e4b\u707e"
+  },
+  "description_blz": {
+    "en_US": "Release a lethal poison from your weapons and inject it into your target, dealing 917 Nature damage instantly and an additional 1,077 Nature damage over 14 sec. \r\n\r\nEach time you apply a Lethal Poison to a target affected by Kingsbane, Kingsbane damage increases by 20%, up to 1,000%.\r\n\r\nAwards 1 combo point.",
+    "es_MX": "Libera un veneno letal desde tus armas y lo inyecta en tu objetivo, lo que inflige 917 p. de da\u00f1o de naturaleza al instante y 1,077 p. m\u00e1s de da\u00f1o de naturaleza durante 14 s. \r\n\r\nCada vez que aplicas un Veneno letal al objetivo afectado con Perdici\u00f3n de reyes, el da\u00f1o de Perdici\u00f3n de reyes aumenta un 20%, hasta un 1,000%.\r\n\r\nOtorga 1 p. de combo.",
+    "pt_BR": "Solta um veneno letal das suas armas e o injeta no alvo, causando 917 de dano de Natureza instantaneamente e mais 1.077 de dano de Natureza ao longo de 14 s. \r\n\r\nCada vez que voc\u00ea aplicar Veneno Letal num alvo afetado por Ru\u00edna dos Reis, o dano de Ru\u00edna dos Reis aumentar\u00e1 em 20%, at\u00e9 1.000%.\r\n\r\nConcede 1 ponto de combo.",
+    "de_DE": "Entfesselt das in Euren Waffen enthaltene todbringende Gift, spritzt es Eurem Ziel ein und f\u00fcgt ihm so sofort 917 Naturschaden und zus\u00e4tzlich 1.077 Naturschaden im Verlauf von 14 Sek. zu.\r\n\r\nJedes Mal, wenn Ihr ein von 'K\u00f6nigsmord' betroffenes Ziel mit t\u00f6dlichem Gift vergiftet, wird der Schaden von 'K\u00f6nigsmord' um 20% erh\u00f6ht, bis zu 1.000%.\r\n\r\nGew\u00e4hrt 1 Combopunkt.",
+    "en_GB": "Release a lethal poison from your weapons and inject it into your target, dealing 917 Nature damage instantly and an additional 1,077 Nature damage over 14 sec. \r\n\r\nEach time you apply a Lethal Poison to a target affected by Kingsbane, Kingsbane damage increases by 20%, up to 1,000%.\r\n\r\nAwards 1 combo point.",
+    "es_ES": "Tus armas liberan un veneno letal que inyectas al enemigo, que recibe 917 p. de da\u00f1o de Naturaleza al instante y 1077 p. de da\u00f1o de Naturaleza m\u00e1s durante 14 s. \r\n\r\nCada vez que aplicas un veneno letal a un objetivo afectado por Perdici\u00f3n de Reyes, aumenta un 20% el da\u00f1o de esta facultad, hasta un m\u00e1ximo de 1000%.\r\n\r\nOtorga 1 punto. de combo.",
+    "fr_FR": "Lib\u00e8re un poison mortel de vos armes pour l\u2019inoculer \u00e0 votre cible, ce qui lui inflige 917\u00a0points de d\u00e9g\u00e2ts de nature, puis 1077\u00a0suppl\u00e9mentaires en 14 s.\r\n\r\nChaque fois que vous appliquez un poison mortel \u00e0 une cible affect\u00e9e par Plaie des rois, les d\u00e9g\u00e2ts de cette derni\u00e8re sont augment\u00e9s de 20\u00a0%, jusqu\u2019\u00e0 un maximum de 1000\u00a0%.\r\n\r\nConf\u00e8re 1\u00a0point de combo.",
+    "it_IT": "Rilascia un veleno letale dalle armi e lo inietta nel bersaglio, infliggendo 917 danni da natura istantaneamente e 1.077 danni da natura aggiuntivi in 14 s.\r\n\r\nOgni volta che si applica un Veleno Mortale a un bersaglio affetto da Rovina dei Re, i danni inflitti da Rovina dei Re aumentano del 20%, fino a un massimo del 1.000%.\r\n\r\nFornisce 1 punto combo.",
+    "ru_RU": "\u0412\u044b\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u0438\u0437 \u043e\u0440\u0443\u0436\u0438\u044f \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044f\u0434 \u0438 \u0432\u0432\u043e\u0434\u0438\u0442 \u0435\u0433\u043e \u0446\u0435\u043b\u0438, \u043d\u0430\u043d\u043e\u0441\u044f 917 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0435\u0449\u0435 1077 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0437\u0430 14 \u0441\u0435\u043a. \r\n\r\n\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u043e\u0442\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u044f\u0434\u043e\u043c \u0446\u0435\u043b\u044c, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u041f\u043e\u0433\u0438\u0431\u0435\u043b\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0439\", \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041f\u043e\u0433\u0438\u0431\u0435\u043b\u0438 \u043a\u043e\u0440\u043e\u043b\u0435\u0439\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20% \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 1000%.\r\n\r\n+1 \u043a \u0441\u0435\u0440\u0438\u0438 \u043f\u0440\u0438\u0435\u043c\u043e\u0432.",
+    "ko_KR": "\ub300\uc0c1\uc5d0\uac8c \ubb34\uae30\uc758 \uce58\uba85\uc801\uc778 \ub3c5\uc744 \uc8fc\uc785\ud574 \uc989\uc2dc 917\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\ud788\uace0, \ucd94\uac00\ub85c 14\ucd08\uc5d0 \uac78\uccd0 1,077\uc758 \uc790\uc5f0 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \r\n\r\n\uc655\uc758 \ud30c\uba78\uc758 \uc601\ud5a5\uc744 \ubc1b\uc740 \ub300\uc0c1\uc5d0\uac8c \uce58\uba85\ub3c5\uc744 \uc801\uc6a9\ud560 \ub54c\ub9c8\ub2e4 \uc655\uc758 \ud30c\uba78\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c, \ucd5c\ub300 1,000%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc5f0\uacc4 \uc810\uc218 1\uc810\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5f9e\u6b66\u5668\u91cb\u51fa\u81f4\u547d\u6bd2\u7d20\uff0c\u6ce8\u5165\u76ee\u6a19\u9ad4\u5167\uff0c\u7acb\u5373\u9020\u6210917\u9ede\u81ea\u7136\u50b7\u5bb3\uff0c\u540c\u6642\u572814\u79d2\u5167\u984d\u5916\u9020\u62101,077\u9ede\u81ea\u7136\u50b7\u5bb3\u3002\r\n\r\n\u6bcf\u6b21\u5c0d\u53d7\u738b\u798d\u6548\u679c\u5f71\u97ff\u7684\u76ee\u6a19\u65bd\u52a0\u731b\u70c8\u6bd2\u85e5\u6642\uff0c\u738b\u798d\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad820%\uff0c\u6700\u9ad8\u53ef\u90541,000%\u3002\r\n\r\n\u734e\u52f51\u500b\u9023\u64ca\u9ede\u6578\u3002",
+    "zh_CN": "\u91ca\u653e\u4f60\u6b66\u5668\u4e2d\u7684\u81f4\u547d\u6bd2\u7d20\u5e76\u6ce8\u5165\u76ee\u6807\u4f53\u5185\uff0c\u7acb\u5373\u5bf9\u5176\u9020\u6210917\u70b9\u81ea\u7136\u4f24\u5bb3\uff0c\u5e76\u4f7f\u5176\u572814\u79d2\u5185\u989d\u5916\u53d7\u52301,077\u70b9\u81ea\u7136\u4f24\u5bb3\u3002\r\n\r\n\u6bcf\u5f53\u4f60\u7684\u81f4\u547d\u836f\u818f\u51fb\u4e2d\u53d7\u5230\u541b\u738b\u4e4b\u707e\u5f71\u54cd\u7684\u76ee\u6807\u65f6\uff0c\u541b\u738b\u4e4b\u707e\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad820%\uff0c\u6700\u591a\u63d0\u9ad81,000%\u3002\r\n\r\n\u5956\u52b11\u4e2a\u8fde\u51fb\u70b9\u6570\u3002"
+  }
 }

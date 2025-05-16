@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388161"
+  "SpellID": "388161",
+  "name_blz": {
+    "en_US": "Tarjin's Next Tale",
+    "es_MX": "Pr\u00f3ximo relato de Tarjin",
+    "pt_BR": "Pr\u00f3xima Hist\u00f3ria de Tarjin",
+    "de_DE": "Tarjins n\u00e4chste Geschichte",
+    "en_GB": "Tarjin's Next Tale",
+    "es_ES": "La siguiente historia de Tarjin",
+    "fr_FR": "Nouvelle fable de Tarjin",
+    "it_IT": "Storia Successiva di Tarjin",
+    "ru_RU": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u0422\u0430\u0440\u0434\u0436\u0438\u043d\u0430",
+    "ko_KR": "\ud0c0\ub974\uc9c4\uc758 \ub2e4\uc74c \uc774\uc57c\uae30",
+    "zh_TW": "\u5854\u91d1\u7684\u4e0b\u4e00\u500b\u6545\u4e8b",
+    "zh_CN": "\u5854\u5c14\u91d1\u7684\u4e0b\u4e00\u4e2a\u6545\u4e8b"
+  },
+  "description_blz": {
+    "en_US": "Unlocks a new djaradin legend to listen to.",
+    "es_MX": "Desbloquea una nueva leyenda djaradin para escuchar.",
+    "pt_BR": "Desbloqueia uma nova lenda djaradin para ouvir.",
+    "de_DE": "Schaltet eine neue Djaradinlegende frei, die Ihr Euch anh\u00f6ren k\u00f6nnt.",
+    "en_GB": "Unlocks a new djaradin legend to listen to.",
+    "es_ES": "Desbloquea una nueva leyenda djaradin que escuchar.",
+    "fr_FR": "D\u00e9verrouille une nouvelle l\u00e9gende djaradine \u00e0 \u00e9couter.",
+    "it_IT": "Sblocca una nuova leggenda dei Djaradin da ascoltare.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043d\u043e\u0432\u0443\u044e \u0434\u0436\u0430\u0440\u0430\u0434\u0438\u043d\u0441\u043a\u0443\u044e \u043b\u0435\u0433\u0435\u043d\u0434\u0443.",
+    "ko_KR": "\uc0c8\ub85c\uc6b4 \uc790\ub77c\ub518 \uc804\uc124\uc744 \ud574\uc81c\ud558\uace0 \uacbd\uccad\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u53ef\u4f9b\u8046\u807d\u7684\u5168\u65b0\u52a0\u62c9\u767b\u50b3\u8aaa\u3002",
+    "zh_CN": "\u89e3\u9501\u4e00\u540d\u53e4\u4ee3\u8d3e\u62c9\u4e01\u82f1\u96c4\u7684\u5168\u65b0\u6545\u4e8b\u3002"
+  }
 }

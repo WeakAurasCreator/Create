@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388593"
+  "SpellID": "388593",
+  "name_blz": {
+    "en_US": "Peaceful Mending",
+    "es_MX": "Curaci\u00f3n pac\u00edfica",
+    "pt_BR": "Recomposi\u00e7\u00e3o Pac\u00edfica",
+    "de_DE": "Friedliche Heilung",
+    "en_GB": "Peaceful Mending",
+    "es_ES": "Alivio apacible",
+    "fr_FR": "Gu\u00e9rison paisible",
+    "it_IT": "Guarigione Pacifica",
+    "ru_RU": "\u041c\u0438\u0440\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ud3c9\ud654\ub85c\uc6b4 \uce58\uc720",
+    "zh_TW": "\u5e73\u975c\u7652\u7642",
+    "zh_CN": "\u5e73\u9759\u6108\u5408"
+  },
+  "description_blz": {
+    "en_US": "Allies targeted by Soothing Mist receive 40% more healing from your Enveloping Mist and Renewing Mist effects.",
+    "es_MX": "Los aliados objetivo de Niebla reconfortante reciben un 40% m\u00e1s de sanaci\u00f3n de los efectos de tu Niebla envolvente y Niebla renovadora.",
+    "pt_BR": "Aliados no alvo de Bruma Calmante recebem 40% a mais de cura dos seus efeitos de Bruma Envolvente e Brumas da Renova\u00e7\u00e3o.",
+    "de_DE": "Von 'Beruhigender Nebel' anvisierte Verb\u00fcndete erhalten 40% mehr Heilung durch die Effekte Eurer F\u00e4higkeiten 'Einh\u00fcllender Nebel' und 'Erneuernder Nebel'.",
+    "en_GB": "Allies targeted by Soothing Mist receive 40% more healing from your Enveloping Mist and Renewing Mist effects.",
+    "es_ES": "Los aliados seleccionados por Niebla reconfortante reciben un 40% m\u00e1s de sanaci\u00f3n de tus efectos de Niebla envolvente y Niebla renovadora.",
+    "fr_FR": "Les soins prodigu\u00e9s par votre Brume enveloppante et votre Brume de r\u00e9novation aux personnages alli\u00e9s cibl\u00e9s par Brume apaisante sont augment\u00e9s de 40%.",
+    "it_IT": "Gli alleati bersaglio di Nebbia del Sollievo ricevono il 40% di cure aggiuntive dai tuoi effetti di Nebbia Avvolgente e Nebbia Curativa.",
+    "ru_RU": "\u042d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432, \u0441\u0442\u0430\u0432\u0448\u0438\u0445 \u0446\u0435\u043b\u044f\u043c\u0438 \"\u0423\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0449\u0435\u0433\u043e \u0442\u0443\u043c\u0430\u043d\u0430\", \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \"\u041e\u043a\u0443\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u0433\u043e \u0442\u0443\u043c\u0430\u043d\u0430\" \u0438 \"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0442\u0443\u043c\u0430\u043d\u0430\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 40%.",
+    "ko_KR": "\uc544\uad70\uc774 \uc704\uc548\uc758 \uc548\uac1c\uc758 \ub300\uc0c1\uc774 \ub420 \ub54c\ub9c8\ub2e4 \uc18c\uc0dd\uc758 \uc548\uac1c, \ud3ec\uc6a9\uc758 \uc548\uac1c \ud6a8\uacfc\ub85c\ubd80\ud130 \uce58\uc720 \ud6a8\uacfc\ub97c 40%\ub9cc\ud07c \ub354 \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u88ab\u8212\u548c\u4e4b\u9727\u9396\u5b9a\u7684\u76df\u53cb\uff0c\u5f9e\u4f60\u7684\u8ff7\u9727\u7e5a\u7e5e\u548c\u56de\u751f\u8ff7\u9727\u7372\u5f97\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad840%\u3002",
+    "zh_CN": "\u6210\u4e3a\u629a\u6170\u4e4b\u96fe\u76ee\u6807\u7684\u76df\u53cb\u53d7\u5230\u4f60\u6c24\u6c32\u4e4b\u96fe\u548c\u590d\u82cf\u4e4b\u96fe\u7684\u6cbb\u7597\u63d0\u9ad840%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378773"
+  "SpellID": "378773",
+  "name_blz": {
+    "en_US": "Greater Purge",
+    "es_MX": "Purga mayor",
+    "pt_BR": "Expurgo Maior",
+    "de_DE": "Gro\u00dfes Reinigen",
+    "en_GB": "Greater Purge",
+    "es_ES": "Purgar superior",
+    "fr_FR": "Purge sup\u00e9rieure",
+    "it_IT": "Epurazione Superiore",
+    "ru_RU": "\u0412\u0435\u043b\u0438\u043a\u043e\u0435 \u043e\u0447\u0438\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc0c1\uae09 \uc815\ud654",
+    "zh_TW": "\u5f37\u6548\u6de8\u9b54\u8853",
+    "zh_CN": "\u5f3a\u6548\u51c0\u5316\u672f"
+  },
+  "description_blz": {
+    "en_US": "Purges the enemy target, removing 2 beneficial Magic effects.",
+    "es_MX": "Purga al objetivo enemigo, lo que elimina 2 efectos m\u00e1gicos beneficiosos.",
+    "pt_BR": "Expurga o alvo inimigo, removendo 2 efeitos M\u00e1gicos ben\u00e9ficos.",
+    "de_DE": "L\u00e4utert das gegnerische Ziel und entfernt so 2 n\u00fctzliche magische Effekte.",
+    "en_GB": "Purges the enemy target, removing 2 beneficial Magic effects.",
+    "es_ES": "Purga al objetivo enemigo, lo que elimina 2 efectos m\u00e1gicos beneficiosos.",
+    "fr_FR": "Purge la cible ennemie et dissipe 2\u00a0effets magiques b\u00e9n\u00e9fiques.",
+    "it_IT": "Epura un bersaglio nemico, dissolvendo 2 effetti magici benefici.",
+    "ru_RU": "\u041e\u0447\u0438\u0449\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u0441\u043d\u0438\u043c\u0430\u044f 2 \u0431\u043b\u0430\u0433\u043e\u0442\u0432\u043e\u0440\u043d\u044b\u0445 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u0430.",
+    "ko_KR": "\uc801 \ub300\uc0c1\uc744 \uc815\ud654\ud574 2\uac1c\uc758 \uc774\ub85c\uc6b4 \ub9c8\ubc95 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6de8\u5316\u6575\u65b9\u76ee\u6a19\uff0c\u79fb\u96642\u500b\u589e\u76ca\u9b54\u6cd5\u6548\u679c\u3002",
+    "zh_CN": "\u51c0\u5316\u654c\u65b9\u76ee\u6807\uff0c\u79fb\u96642\u4e2a\u6709\u76ca\u7684\u9b54\u6cd5\u6548\u679c\u3002"
+  }
 }

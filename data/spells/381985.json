@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "381985"
+  "SpellID": "381985",
+  "name_blz": {
+    "en_US": "Precise Cuts",
+    "es_MX": "Cortes precisos",
+    "pt_BR": "Cortes Precisos",
+    "de_DE": "Pr\u00e4zise Stiche",
+    "en_GB": "Precise Cuts",
+    "es_ES": "Cortes precisos",
+    "fr_FR": "Entailles pr\u00e9cises",
+    "it_IT": "Tagli Precisi",
+    "ru_RU": "\u0422\u043e\u0447\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b",
+    "ko_KR": "\uc815\ubc00 \uc808\ub2e8",
+    "zh_TW": "\u7cbe\u78ba\u5207\u5272",
+    "zh_CN": "\u7cbe\u51c6\u65a9\u88c2"
+  },
+  "description_blz": {
+    "en_US": "Blade Flurry damage is increased by an additional 5% per missing target below its maximum.",
+    "es_MX": "Aluvi\u00f3n de acero inflige un 5% m\u00e1s de da\u00f1o por cada objetivo que no tenga la salud al m\u00e1ximo.",
+    "pt_BR": "O dano de Rajada de L\u00e2minas aumenta em 5% para cada alvo abaixo do m\u00e1ximo de alvos.",
+    "de_DE": "Der Schaden von 'Klingenwirbel' wird f\u00fcr jedes bis zur maximalen Anzahl an Zielen fehlendes Ziel zus\u00e4tzlich um 5% erh\u00f6ht.",
+    "en_GB": "Blade Flurry damage is increased by an additional 5% per missing target below its maximum.",
+    "es_ES": "El da\u00f1o de Aluvi\u00f3n de acero aumenta un 5% m\u00e1s por cada objetivo que falte para alcanzar su m\u00e1ximo.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de D\u00e9luge de lames sont augment\u00e9s de 5% suppl\u00e9mentaires par cible rat\u00e9e en dessous de son maximum.",
+    "it_IT": "Aumenta i danni inflitti da Vortice di Lame del 5% aggiuntivo per ogni bersaglio mancante al di sotto del suo massimo.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0428\u043a\u0432\u0430\u043b \u043a\u043b\u0438\u043d\u043a\u043e\u0432\" \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u043d\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0446\u0435\u043b\u0435\u0439, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5% \u0437\u0430 \u043a\u0430\u0436\u0434\u0443\u044e \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u044e\u0449\u0443\u044e \u0446\u0435\u043b\u044c.",
+    "ko_KR": "\ub300\uc0c1\uc758 \uc218\uac00 \ucd5c\ub300\uce58\ubcf4\ub2e4 \uc801\uc744 \ub54c, \ucd5c\ub300\uce58\uc5d0\uc11c \ubd80\uc871\ud55c \ub300\uc0c1 \ud55c \uba85\ub2f9 \ud3ed\ud48d\uc758 \uce7c\ub0a0\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \ucd94\uac00\ub85c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u528d\u5203\u4e82\u821e\u9020\u6210\u50b7\u5bb3\u7684\u76ee\u6a19\u6578\u91cf\u5c11\u65bc\u4e0a\u9650\u6642\uff0c\u6bcf\u5c11\u4e00\u500b\u76ee\u6a19\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u984d\u5916\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u5251\u5203\u4e71\u821e\u5f71\u54cd\u7684\u76ee\u6807\u6570\u8f83\u5176\u6700\u5927\u76ee\u6807\u6570\u6bcf\u4f4e\u4e00\u4e2a\uff0c\u4f24\u5bb3\u5c31\u63d0\u9ad85%\u3002"
+  }
 }

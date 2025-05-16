@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387240"
+  "SpellID": "387240",
+  "name_blz": {
+    "en_US": "Graceful Stride",
+    "es_MX": "Zancada elegante",
+    "pt_BR": "Passo Gracioso",
+    "de_DE": "Anmutiger Gang",
+    "en_GB": "Graceful Stride",
+    "es_ES": "Zancada gr\u00e1cil",
+    "fr_FR": "Foul\u00e9e gracieuse",
+    "it_IT": "Passo Leggiadro",
+    "ru_RU": "\u0413\u0440\u0430\u0446\u0438\u043e\u0437\u043d\u0430\u044f \u043f\u043e\u0441\u0442\u0443\u043f\u044c",
+    "ko_KR": "\uc6b0\uc544\ud55c \ubc1c\uac78\uc74c",
+    "zh_TW": "\u512a\u96c5\u9081\u6b65",
+    "zh_CN": "\u4f18\u96c5\u6b65\u6001"
+  },
+  "description_blz": {
+    "en_US": "Increases movement speed by 3.0%.",
+    "es_MX": "Aumenta la velocidad de movimiento un 3.0%.",
+    "pt_BR": "Aumenta em 3,0% a velocidade de movimento.",
+    "de_DE": "Erh\u00f6ht die Bewegungsgeschwindigkeit um 3,0%.",
+    "en_GB": "Increases movement speed by 3.0%.",
+    "es_ES": "Aumenta un 3,0% la velocidad de movimiento.",
+    "fr_FR": "Augmente la vitesse de d\u00e9placement de 3,0%.",
+    "it_IT": "Aumenta la velocit\u00e0 di movimento del 3,0%.",
+    "ru_RU": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 3,0%.",
+    "ko_KR": "\uc774\ub3d9 \uc18d\ub3c4\uac00 3.0%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad83.0%\u3002",
+    "zh_CN": "\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad83.0%\u3002"
+  }
 }

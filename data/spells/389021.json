@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389021"
+  "SpellID": "389021",
+  "name_blz": {
+    "en_US": "Of Iskaara",
+    "es_MX": "De Iskaara",
+    "pt_BR": "De Iskaara",
+    "de_DE": "von Iskaara",
+    "en_GB": "Of Iskaara",
+    "es_ES": "de Iskaara",
+    "fr_FR": "D\u2019Iskaara",
+    "it_IT": "Di Iskaara",
+    "ru_RU": "\u0438\u0437 \u0418\u0441\u043a\u0430\u0440\u044b",
+    "ko_KR": "\uc774\uc2a4\uce74\ub77c\uc758",
+    "zh_TW": "\u4f0a\u65af\u51f1\u62c9\u7684",
+    "zh_CN": "\u4f0a\u65af\u5361\u62c9\u7684"
+  },
+  "description_blz": {
+    "en_US": "Unlock the title Of Iskaara for your Warband.",
+    "es_MX": "Desbloquea el t\u00edtulo De Iskaara para tu tropa.",
+    "pt_BR": "Desbloqueia o t\u00edtulo \"de Iskaara\" para seu Bando de Guerra.",
+    "de_DE": "Schaltet den Titel 'von Iskaara' f\u00fcr Eure Kriegsmeute frei.",
+    "en_GB": "Unlock the title Of Iskaara for your Warband.",
+    "es_ES": "Desbloquea el t\u00edtulo de Iskaara para tu banda guerrera.",
+    "fr_FR": "D\u00e9bloque le titre d\u2019Iskaara pour votre bataillon.",
+    "it_IT": "Sblocca il titolo Di Iskaara per la tua Brigata.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0437\u0432\u0430\u043d\u0438\u0435 \"\u0438\u0437 \u0418\u0441\u043a\u0430\u0440\u044b\" \u0434\u043b\u044f \u0432\u0441\u0435\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430.",
+    "ko_KR": "\uc804\ud22c\ubd80\ub300 \uce6d\ud638 \"\uc774\uc2a4\uce74\ub77c\uc758\"\ub97c \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u4f60\u7684\u6230\u968a\u89e3\u9396\u300c\u4f0a\u65af\u51f1\u62c9\u7684\u300d\u982d\u929c\u3002",
+    "zh_CN": "\u4e3a\u4f60\u7684\u6218\u56e2\u89e3\u9501\u5934\u8854\uff1a\u4f0a\u65af\u5361\u62c9\u7684\u3002"
+  }
 }

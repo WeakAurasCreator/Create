@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386870"
+  "SpellID": "386870",
+  "name_blz": {
+    "en_US": "Brutal Companion",
+    "es_MX": "Compa\u00f1ero brutal",
+    "pt_BR": "Ajudante Brutal",
+    "de_DE": "Brutaler Begleiter",
+    "en_GB": "Brutal Companion",
+    "es_ES": "Compa\u00f1ero brutal",
+    "fr_FR": "Compagnon brutal",
+    "it_IT": "Compagno Brutale",
+    "ru_RU": "\u0417\u0432\u0435\u0440\u0441\u043a\u0438\u0439 \u0441\u043f\u0443\u0442\u043d\u0438\u043a",
+    "ko_KR": "\uc794\ud639\ud55c \ub3d9\ub8cc",
+    "zh_TW": "\u91ce\u883b\u5925\u4f34",
+    "zh_CN": "\u6b8b\u9177\u4f19\u4f34"
+  },
+  "description_blz": {
+    "en_US": "When Barbed Shot causes Frenzy to stack up to 3, your pet will immediately use its special attack and deal 50% bonus damage.",
+    "es_MX": "Cuando Disparo lacerante hace que Frenes\u00ed se acumule 3 veces, tu mascota usa su ataque especial de inmediato e inflige un 50% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Quando Disparo Farpado faz Frenesi acumular at\u00e9 3, seu ajudante usa imediatamente o ataque especial e causar\u00e1 50% de dano extra.",
+    "de_DE": "Wenn 'Stachelpfeil' die Stapel von 'Raserei' auf 3 erh\u00f6ht, setzt Euer Begleiter sofort seinen Spezialangriff ein und verursacht 50% zus\u00e4tzlichen Schaden.",
+    "en_GB": "When Barbed Shot causes Frenzy to stack up to 3, your pet will immediately use its special attack and deal 50% bonus damage.",
+    "es_ES": "Cuando Disparo con p\u00faas provoca que Frenes\u00ed se acumule hasta 3 veces, tu mascota usa inmediatamente su ataque especial e inflige un 50% de da\u00f1o extra.",
+    "fr_FR": "\u00c0 3\u00a0charges de Fr\u00e9n\u00e9sie conf\u00e9r\u00e9es par Tir ac\u00e9r\u00e9, votre familier utilise imm\u00e9diatement son attaque sp\u00e9ciale et inflige 50% de d\u00e9g\u00e2ts suppl\u00e9mentaires.",
+    "it_IT": "Quando Tiro Lacerante arriva a fornire 3 accumuli di Frenesia, il tuo famiglio lancia istantaneamente il suo attacco speciale e infligge il 50% di danni aggiuntivi.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442\u0435 3 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 \u0437\u0430 \u0441\u0447\u0435\u0442 \"\u0420\u0430\u0437\u0440\u044b\u0432\u0430\u044e\u0449\u0435\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\", \u0432\u0430\u0448 \u043f\u0438\u0442\u043e\u043c\u0435\u0446 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043e\u0441\u043e\u0431\u0443\u044e \u0430\u0442\u0430\u043a\u0443 \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 50% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub0a0\uce74\ub85c\uc6b4 \uc0ac\uaca9 \uc0ac\uc6a9\uc73c\ub85c \uad11\uae30\uac00 3\ubc88\uae4c\uc9c0 \uc911\ucca9\ub418\uba74, \uc57c\uc218\uac00 \uc989\uc2dc \ud2b9\uc218 \uacf5\uaca9\uc744 \uc0ac\uc6a9\ud558\uc5ec 50%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u92d2\u92b3\u5c04\u64ca\u4f7f\u72c2\u4e82\u5806\u758a3\u5c64\u5f8c\uff0c\u4f60\u7684\u5bf5\u7269\u6703\u7acb\u523b\u4f7f\u7528\u7279\u6b8a\u653b\u64ca\uff0c\u4e26\u984d\u5916\u9020\u621050%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5012\u523a\u5c04\u51fb\u4f7f\u72c2\u4e71\u53e0\u52a0\u52303\u5c42\u65f6\uff0c\u4f60\u7684\u5ba0\u7269\u4f1a\u7acb\u5373\u4f7f\u7528\u7279\u6b8a\u653b\u51fb\u5e76\u9020\u621050%\u7684\u989d\u5916\u4f24\u5bb3\u3002"
+  }
 }

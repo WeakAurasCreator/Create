@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389024"
+  "SpellID": "389024",
+  "name_blz": {
+    "en_US": "Dragon Isle Champion's Tales",
+    "es_MX": "Relatos de los campeones de las Islas Drag\u00f3n",
+    "pt_BR": "Contos do Campe\u00e3o das Ilha do Drag\u00e3o",
+    "de_DE": "Sagen der Champions der Dracheninseln",
+    "en_GB": "Dragon Isle Champion's Tales",
+    "es_ES": "Relatos de campeones de las Islas Drag\u00f3n",
+    "fr_FR": "R\u00e9cits des champions et championnes des \u00eeles aux Dragons",
+    "it_IT": "Racconti del Campione delle Isole dei Draghi",
+    "ru_RU": "\u041b\u0435\u0433\u0435\u043d\u0434\u044b \u043e \u0433\u0435\u0440\u043e\u044f\u0445 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043e\u0432",
+    "ko_KR": "\uc6a9\uc758 \uc12c \uc6a9\uc0ac\uc758 \uc774\uc57c\uae30",
+    "zh_TW": "\u5de8\u9f8d\u7fa4\u5cf6\u52c7\u58eb\u7684\u6545\u4e8b",
+    "zh_CN": "\u5de8\u9f99\u7fa4\u5c9b\u52c7\u58eb\u7684\u4f20\u8bf4"
+  },
+  "description_blz": {
+    "en_US": "Unlock the ability to find scrolls from the bosses of Dragon Isles Dungeons that document the great deeds of epic Dragon Isles Champions. ",
+    "es_MX": "Desbloquea la habilidad de encontrar pergaminos de jefes de los calabozos de las Islas Drag\u00f3n que registran las grandes haza\u00f1as de campeones \u00e9picos de las Islas Drag\u00f3n. ",
+    "pt_BR": "Desbloqueia a habilidade de encontrar pergaminhos dos chefes das Masmorras das Ilhas do Drag\u00e3o que registram os feitos \u00e9picos de Campe\u00f5es das Ilhas do Drag\u00e3o. ",
+    "de_DE": "Schaltet die F\u00e4higkeit frei, Schriftrollen von Bossen der Dungeons auf den Dracheninseln zu finden, welche die gro\u00dfen Taten der epischen Champions der Dracheninseln dokumentieren.",
+    "en_GB": "Unlock the ability to find scrolls from the bosses of Dragon Isles Dungeons that document the great deeds of epic Dragon Isles Champions. ",
+    "es_ES": "Desbloquea la capacidad de encontrar pergaminos en los jefes de las mazmorras de las Islas Drag\u00f3n, donde se documentan las grandes haza\u00f1as de campeones legendarios de las Islas Drag\u00f3n.",
+    "fr_FR": "D\u00e9bloque la capacit\u00e9 \u00e0 trouver sur les boss des donjons des \u00eeles aux Dragons des parchemins retra\u00e7ant les hauts faits des champions et championnes l\u00e9gendaires de la r\u00e9gion.",
+    "it_IT": "Sblocca l'abilit\u00e0 di trovare sui boss delle spedizioni delle Isole dei Draghi delle pergamene che documentano le epiche imprese dei campioni delle Isole dei Draghi. ",
+    "ru_RU": "\u041e\u0431\u0443\u0447\u0430\u0435\u0442 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c \u0443 \u0431\u043e\u0441\u0441\u043e\u0432 \u0432 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f\u0445 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043e\u0432 \u0441\u0432\u0438\u0442\u043a\u0438, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043e \u0432\u0435\u043b\u0438\u043a\u0438\u0445 \u043f\u043e\u0434\u0432\u0438\u0433\u0430\u0445 \u043f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0445 \u0433\u0435\u0440\u043e\u0435\u0432 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043e\u0432.",
+    "ko_KR": "\uc6a9\uc758 \uc12c \ub358\uc804\uc758 \uc6b0\ub450\uba38\ub9ac\uc5d0\uac8c\uc11c \uac78\ucd9c\ud55c \uc6a9\uc758 \uc12c \uc6a9\uc0ac\uc758 \uc704\uc5c5\uc774 \ub2f4\uae34 \ub450\ub8e8\ub9c8\ub9ac\ub97c \ucc3e\uc744 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u89e3\u9396\u5f8c\u53ef\u5728\u5de8\u9f8d\u7fa4\u5cf6\u7684\u5730\u57ce\u9996\u9818\u8eab\u4e0a\u767c\u73fe\u5377\u8ef8\uff0c\u4e0a\u9762\u8a18\u9304\u8457\u5de8\u9f8d\u7fa4\u5cf6\u82f1\u96c4\u7684\u53f2\u8a69\u529f\u7e3e\u3002 ",
+    "zh_CN": "\u89e3\u9501\u5728\u5de8\u9f99\u7fa4\u5c9b\u5730\u4e0b\u57ce\u7684\u9996\u9886\u8eab\u4e0a\u627e\u5230\u8bb0\u8ff0\u7740\u5de8\u9f99\u7fa4\u5c9b\u52c7\u58eb\u53f2\u8bd7\u4f1f\u4e1a\u7684\u5377\u8f74\u7684\u80fd\u529b\u3002 "
+  }
 }
