@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "343230"
+  "SpellID": "343230",
+  "name_blz": {
+    "en_US": "Surging Blaze",
+    "es_MX": "Llamarada electrificante",
+    "pt_BR": "Labareda Irrompente",
+    "de_DE": "Wogende Lohe",
+    "en_GB": "Surging Blaze",
+    "es_ES": "Oleada ardiente",
+    "fr_FR": "Brasier d\u00e9ferlant",
+    "it_IT": "Fiammata Crescente",
+    "ru_RU": "\u0412\u044b\u0431\u0440\u043e\u0441 \u043f\u043b\u0430\u043c\u0435\u043d\u0438",
+    "ko_KR": "\uc1c4\ub3c4\ud558\ub294 \ubd88\uae38",
+    "zh_TW": "\u7ffb\u9a30\u71c3\u7130",
+    "zh_CN": "\u55b7\u6d8c\u6012\u7130"
+  },
+  "description_blz": {
+    "en_US": "Pyroblast and Flamestrike's cast time is reduced by 0.5 sec and their damage dealt is increased by 5%.",
+    "es_MX": "El tiempo de lanzamiento de Piroexplosi\u00f3n y Fogonazo se reduce 0.5 s y el da\u00f1o infligido aumenta un 5%.",
+    "pt_BR": "O tempo de lan\u00e7amento dos feiti\u00e7os Ignimpacto e Golpe Flamejante \u00e9 reduzido em 0,5 s, e o dano causado \u00e9 aumentado em 5%.",
+    "de_DE": "Verringert die Zauberzeit von 'Pyroschlag' und 'Flammensto\u00df' um 0,5 Sek. und erh\u00f6ht ihren verursachten Schaden um 5%.",
+    "en_GB": "Pyroblast and Flamestrike's cast time is reduced by 0.5 sec and their damage dealt is increased by 5%.",
+    "es_ES": "El tiempo de lanzamiento de Piroexplosi\u00f3n y Fogonazo se reduce 0,5 s, y el da\u00f1o que inflige aumenta un 5%.",
+    "fr_FR": "Les temps de recharge d\u2019Explosion pyrotechnique et Choc de flammes sont r\u00e9duits de 0,5\u00a0s et leurs d\u00e9g\u00e2ts augment\u00e9s de 5\u00a0%.",
+    "it_IT": "Riduce il tempo di lancio di Pirosfera e Colonna di Fuoco di 0,5 s e ne aumenta i danni inflitti del 5%.",
+    "ru_RU": "\u0412\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0439 \u0433\u043b\u044b\u0431\u044b\" \u0438 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u0442\u043e\u043b\u0431\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 0,5 \u0441\u0435\u043a., \u0430 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0438\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5%.",
+    "ko_KR": "\ubd88\ub369\uc774 \uc791\ub82c \ubc0f \ubd88\uae30\ub465\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 0.5\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \uacf5\uaca9\ub825\uc740 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u708e\u7206\u8853\u548c\u70c8\u7130\u98a8\u66b4\u7684\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed0.5\u79d2\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u708e\u7206\u672f\u548c\u70c8\u7130\u98ce\u66b4\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed0.5\u79d2\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "345672"
+  "SpellID": "345672",
+  "name_blz": {
+    "en_US": "Flesh Infusion",
+    "es_MX": "Infusi\u00f3n de carne",
+    "pt_BR": "Infus\u00e3o de Carne",
+    "de_DE": "Fleischinfusion",
+    "en_GB": "Flesh Infusion",
+    "es_ES": "Infusi\u00f3n de carne",
+    "fr_FR": "Infusion de chair",
+    "it_IT": "Infusione di Carne",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0435\u043d\u0438\u0435 \u043f\u043b\u043e\u0442\u0438",
+    "ko_KR": "\uc0b4\uc810 \uc8fc\uc785",
+    "zh_TW": "\u8840\u8089\u704c\u6ce8",
+    "zh_CN": "\u8840\u8089\u704c\u6ce8"
+  },
+  "description_blz": {
+    "en_US": "While Fleshcraft is active your Intellect is increased by 100. \r\n",
+    "es_MX": "Mientras Forjacarne est\u00e1 activo, tu Intelecto aumenta 100 p. \r\n",
+    "pt_BR": "Enquanto Moldacarne estiver ativa, voc\u00ea ganha 100 de Intelecto. \r\n",
+    "de_DE": "W\u00e4hrend 'Fleischformung' aktiv ist, ist Eure Intelligenz um 100 erh\u00f6ht.\r\n",
+    "en_GB": "While Fleshcraft is active your Intellect is increased by 100. \r\n",
+    "es_ES": "Mientras Modelar carne est\u00e1 activo, tu Intelecto aumenta 100 p.\r\n",
+    "fr_FR": "Tant que Chair recompos\u00e9e est active, votre Intelligence est augment\u00e9e de 100. \r\n",
+    "it_IT": "Forgiatura della Carne aumenta [Intelletto] di 100.\r\n",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0430\u043a\u0442\u0438\u0432\u0435\u043d \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0421\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440 \u043f\u043b\u043e\u0442\u0438\", \u043e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 (\u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442) \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100.",
+    "ko_KR": "\uc0b4\ub369\uc774\ucc3d\uc870\uac00 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uc9c0\ub2a5\uc774 100\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u8840\u8089\u5de5\u85dd\u751f\u6548\u671f\u9593\uff0c\u4f60\u7684\u667a\u529b\u63d0\u9ad8100\u9ede\u3002\r\n",
+    "zh_CN": "\u6fc0\u6d3b\u8840\u8089\u94f8\u9020\u4f1a\u4f7f\u4f60\u7684\u667a\u529b\u63d0\u9ad8100\u70b9\u3002"
+  }
 }

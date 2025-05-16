@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339839"
+  "SpellID": "339839",
+  "name_blz": {
+    "en_US": "Restock Security",
+    "es_MX": "Reabastecer seguridad",
+    "pt_BR": "Reposi\u00e7\u00e3o: Seguran\u00e7a",
+    "de_DE": "Sicherheit auff\u00fcllen",
+    "en_GB": "Restock Security",
+    "es_ES": "Reabastecer seguridad",
+    "fr_FR": "Ravitaillement en s\u00e9curit\u00e9",
+    "it_IT": "Rifornimento Sicurezza",
+    "ru_RU": "Restock Security",
+    "ko_KR": "\ubcf4\uc548 \ub2f4\ub2f9 \ubcf4\ucda9",
+    "zh_TW": "\u88dc\u5145\u8b77\u885b",
+    "zh_CN": "\u8865\u5145\u5b89\u4fdd"
+  },
+  "description_blz": {
+    "en_US": "Restock Watchmaster Boromod's supplies, allowing you to select Security for your Ember Court.",
+    "es_MX": "Reabastece los suministros del vig\u00eda maestro Boromod y te permite seleccionar opciones de seguridad para tu Corte de Brasas.",
+    "pt_BR": "Rep\u00f5e os estoques do Mestre-vigia Boromod, permitindo que voc\u00ea escolha a Seguran\u00e7a da sua Corte das Brasas.",
+    "de_DE": "F\u00fcllt die Vorr\u00e4te von Wachhauptmann Boromod wieder auf, sodass Ihr Sicherheit f\u00fcr Euren Gluthof ausw\u00e4hlen k\u00f6nnt.",
+    "en_GB": "Restock Watchmaster Boromod's supplies, allowing you to select Security for your Ember Court.",
+    "es_ES": "Reabastece los suministros del maestro de vigilantes Boromod, lo que te permite elegir la seguridad para tu Corte de Ascuas.",
+    "fr_FR": "Ravitaille le ma\u00eetre de guet Boromod, ce qui vous permet de s\u00e9lectionner des dispositifs de s\u00e9curit\u00e9 pour votre r\u00e9ception de la cour des Braises.",
+    "it_IT": "Rifornisce le scorte del Maestro di Guardia Boromod, permettendoti di selezionare la sicurezza per la tua Corte delle Braci.",
+    "ru_RU": "\u041e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u0442 \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u0441\u0442\u0430\u0440\u0448\u0435\u0433\u043e \u0434\u043e\u0437\u043e\u0440\u043d\u043e\u0433\u043e \u0411\u043e\u0440\u043e\u043c\u043e\u0434\u0430, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0432\u044b\u0431\u0438\u0440\u0430\u0442\u044c \u043e\u0445\u0440\u0430\u043d\u0443 \u0434\u043b\u044f \u041f\u0435\u043f\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0434\u0432\u043e\u0440\u0430.",
+    "ko_KR": "\uc21c\ucc30\ub300\uc7a5 \ubcf4\ub85c\ubaa8\ub4dc\uc758 \ubcf4\uae09\ud488\uc744 \ubcf4\ucda9\ud569\ub2c8\ub2e4. \uc7bf\ubd88 \uad81\uc815\uc758 \ubcf4\uc548 \ub2f4\ub2f9\uc744 \uc120\ud0dd\ud560 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u88dc\u5145\u5b88\u885b\u968a\u9577\u6ce2\u7f85\u83ab\u7684\u88dc\u7d66\u54c1\uff0c\u8b93\u4f60\u80fd\u9078\u64c7\u9918\u71fc\u5bb4\u6703\u7684\u8b77\u885b\u3002",
+    "zh_CN": "\u8865\u8db3\u5b88\u536b\u961f\u957f\u6ce2\u7f57\u83ab\u5fb7\u7684\u8865\u7ed9\u54c1\uff0c\u8fd9\u6837\u4f60\u5c31\u53ef\u4ee5\u4e3a\u4f60\u7684\u7070\u70ec\u738b\u5ead\u9009\u62e9\u5b89\u4fdd\u9009\u9879\u3002"
+  }
 }

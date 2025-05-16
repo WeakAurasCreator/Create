@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341559"
+  "SpellID": "341559",
+  "name_blz": {
+    "en_US": "Stiletto Staccato",
+    "es_MX": "Estilete staccato",
+    "pt_BR": "Stiletto Staccato",
+    "de_DE": "Stilettstakkato",
+    "en_GB": "Stiletto Staccato",
+    "es_ES": "Estilete staccato",
+    "fr_FR": "Staccato au stylet",
+    "it_IT": "Stiletto Intermittente",
+    "ru_RU": "\u0421\u0442\u0430\u043a\u043a\u0430\u0442\u043e \u0441\u0442\u0438\u043b\u0435\u0442\u043e\u043c",
+    "ko_KR": "\ucca8\uc608\ud55c \ube44\uc218",
+    "zh_TW": "\u65b7\u9b42\u4e4b\u5315",
+    "zh_CN": "\u77ed\u5251\u65ad\u594f"
+  },
+  "description_blz": {
+    "en_US": "Shadow Techniques now also reduces the remaining cooldown of Shadow Blades by 1.0 sec.",
+    "es_MX": "T\u00e9cnicas de las sombras ahora tambi\u00e9n reduce 1.0 s el tiempo de reutilizaci\u00f3n restante de Hojas de las sombras.",
+    "pt_BR": "T\u00e9cnicas Sombrias agora tamb\u00e9m reduz a recarga restante de L\u00e2minas Sombrias em 1,0 s.",
+    "de_DE": "'Schattentechniken' verringert zus\u00e4tzlich die verbleibende Abklingzeit von 'Schattenklingen' um 1,0 Sek.",
+    "en_GB": "Shadow Techniques now also reduces the remaining cooldown of Shadow Blades by 1.0 sec.",
+    "es_ES": "T\u00e9cnicas de las Sombras ahora tambi\u00e9n reduce 1,0 s el tiempo de reutilizaci\u00f3n restante de Hojas de las Sombras.",
+    "fr_FR": "Techniques de l\u2019ombre r\u00e9duit \u00e9galement le temps de recharge restant de Lames de l\u2019ombre de 1,0\u00a0s.",
+    "it_IT": "Tecniche d'Ombra riduce il tempo di recupero restante di Lame d'Ombra di 1,0 s.",
+    "ru_RU": "\"\u0422\u0435\u043d\u0435\u0432\u0430\u044f \u0442\u0435\u0445\u043d\u0438\u043a\u0430\" \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0422\u0435\u043d\u0435\u0432\u044b\u0445 \u043a\u043b\u0438\u043d\u043a\u043e\u0432\" \u043d\u0430 1,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uadf8\ub9bc\uc790 \uae30\uc220\uc774 \ucd94\uac00\ub85c \uc5b4\ub460\uc758 \uce7c\ub0a0\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6697\u5f71\u6280\u6cd5\u73fe\u5728\u4e5f\u6703\u4f7f\u6697\u5f71\u4e4b\u5203\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002",
+    "zh_CN": "\u6697\u5f71\u6280\u5de7\u4f1a\u4f7f\u6697\u5f71\u4e4b\u5203\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.0\u79d2\u3002"
+  }
 }
