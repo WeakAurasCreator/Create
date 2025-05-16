@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387526"
+  "SpellID": "387526",
+  "name_blz": {
+    "en_US": "Ner'zhul's Volition",
+    "es_MX": "Volici\u00f3n de Ner'zhul",
+    "pt_BR": "Vontade de Ner'zhul",
+    "de_DE": "Ner'zhuls Wille",
+    "en_GB": "Ner'zhul's Volition",
+    "es_ES": "Voluntad de Ner'zhul",
+    "fr_FR": "Volont\u00e9 de Ner\u2019zhul",
+    "it_IT": "Arbitrio di Ner'zhul",
+    "ru_RU": "\u0414\u0435\u044f\u043d\u0438\u0435 \u041d\u0435\u0440'\u0437\u0443\u043b\u0430",
+    "ko_KR": "\ub12c\uc974\uc758 \uc790\uc544",
+    "zh_TW": "\u8010\u7956\u5967\u7684\u6c7a\u65b7",
+    "zh_CN": "\u8010\u5965\u7956\u7684\u610f\u5fd7"
+  },
+  "description_blz": {
+    "en_US": "Demons summoned from your Nether Portal deal 15% increased damage.",
+    "es_MX": "Los demonios invocados desde tu Portal abisal infligen un 15% de da\u00f1o aumentado.",
+    "pt_BR": "Dem\u00f4nios evocados do seu Portal Et\u00e9reo causam 15% a mais de dano.",
+    "de_DE": "D\u00e4monen, die durch Euer Netherportal beschworen wurden, verursachen 15% mehr Schaden.",
+    "en_GB": "Demons summoned from your Nether Portal deal 15% increased damage.",
+    "es_ES": "Los demonios invocados con tu Portal abisal infligen un 15% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Les d\u00e9mons invoqu\u00e9s par votre Portail de N\u00e9ant infligent 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires.",
+    "it_IT": "Aumenta i danni inflitti dai demoni evocati dal tuo Portale Fatuo del 15%.",
+    "ru_RU": "\u0414\u0435\u043c\u043e\u043d\u044b \u0438\u0437 \"\u0412\u0440\u0430\u0442 \u041f\u0443\u0441\u0442\u043e\u0442\u044b\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ud669\ucc9c\uc758 \ucc28\uc6d0\ubb38\uc73c\ub85c \uc18c\ud658\ub41c \uc545\ub9c8\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5f9e\u4f60\u7684\u865b\u7a7a\u50b3\u9001\u9580\u53ec\u559a\u7684\u60e1\u9b54\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u865a\u7a7a\u4f20\u9001\u95e8\u53ec\u5524\u7684\u6076\u9b54\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

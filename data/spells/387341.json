@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387341"
+  "SpellID": "387341",
+  "name_blz": {
+    "en_US": "Walloping Blow",
+    "es_MX": "Golpe inmenso",
+    "pt_BR": "Golpe Esbordoante",
+    "de_DE": "Umwerfender Schlag",
+    "en_GB": "Walloping Blow",
+    "es_ES": "Golpe tremendo",
+    "fr_FR": "Frappe h\u00e9b\u00e9tante",
+    "it_IT": "Percossa",
+    "ru_RU": "\u0422\u044f\u0436\u0435\u043b\u044b\u0439 \u0443\u0434\u0430\u0440",
+    "ko_KR": "\ub9e4\uc11c\uc6b4 \uac15\ud0c0",
+    "zh_TW": "\u731b\u70c8\u91cd\u64ca",
+    "zh_CN": "\u906d\u53d7\u91cd\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Wing Buffet and Tail Swipe knock enemies further and daze them, reducing movement speed by 70% for 4 sec. ",
+    "es_MX": "Sacudida de alas y Flagelo de cola repelen a los enemigos m\u00e1s lejos y los aturden, lo que reduce la velocidad de movimiento un 70% durante 4 s. ",
+    "pt_BR": "Bofetada de Asa e Rev\u00e9s com a Cauda repelem mais os inimigos e os tonteiam, reduzindo em 70% a velocidade de movimento por 4 s. ",
+    "de_DE": "'Fl\u00fcgelsto\u00df' und 'Schwanzfeger' sto\u00dfen Gegner weiter und machen sie benommen, was ihre Bewegungsgeschwindigkeit 4 Sek. lang um 70% verringert.",
+    "en_GB": "Wing Buffet and Tail Swipe knock enemies further and daze them, reducing movement speed by 70% for 4 sec. ",
+    "es_ES": "Sacudida de alas y Flagelo de cola repelen m\u00e1s a los enemigos y los atontan, lo que reduce un 70% su velocidad de movimiento durante 4 s.",
+    "fr_FR": "Frappe des ailes et Claque caudale repoussent davantage les adversaires et les h\u00e9b\u00e8tent, ce qui r\u00e9duit leur vitesse de d\u00e9placement de 70% pendant 4\u00a0s.",
+    "it_IT": "Battito d'Ali e Spazzata di Coda respingono i nemici e li confondono, riducendone la velocit\u00e0 di movimento del 70% per 4 s. ",
+    "ru_RU": "\"\u0412\u0437\u043c\u0430\u0445 \u043a\u0440\u044b\u043b\u044c\u044f\u043c\u0438\" \u0438 \"\u0423\u0434\u0430\u0440 \u0445\u0432\u043e\u0441\u0442\u043e\u043c\" \u043e\u0442\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0434\u0430\u043b\u044c\u0448\u0435 \u0438 \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0442 \u0443 \u043d\u0438\u0445 \u0433\u043e\u043b\u043e\u0432\u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435, \u0441\u043d\u0438\u0436\u0430\u044f \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043d\u0430 70% \u043d\u0430 4 \u0441\u0435\u043a. ",
+    "ko_KR": "\ud3ed\ud48d \ub0a0\uac1c\uc640 \uaf2c\ub9ac \ud718\ub458\ub7ec\uce58\uae30\uac00 \uc801\uc744 \ub354 \uba40\ub9ac \ubc00\uccd0\ub0b4\uace0 \uba4d\ud558\uac8c \ub9cc\ub4e4\uc5b4 4\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\ub97c 70%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. ",
+    "zh_TW": "\u632f\u7fc5\u653b\u64ca\u548c\u5c3e\u5df4\u63ee\u64ca\u6703\u5927\u5e45\u64ca\u9000\u6575\u4eba\uff0c\u4e26\u4f7f\u5176\u6688\u7729\uff0c\u79fb\u52d5\u901f\u5ea6\u964d\u4f4e70%\uff0c\u6301\u7e8c4\u79d2\u3002 ",
+    "zh_CN": "\u98de\u7ffc\u6253\u51fb\u548c\u626b\u5c3e\u7684\u51fb\u9000\u8ddd\u79bb\u63d0\u9ad8\uff0c\u5e76\u4f7f\u654c\u4eba\u7729\u6655\uff0c\u4f7f\u5176\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e70%\uff0c\u6301\u7eed4\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "376236"
+  "SpellID": "376236",
+  "name_blz": {
+    "en_US": "Resonating Sphere",
+    "es_MX": "Esfera resonadora",
+    "pt_BR": "Esfera Ressoante",
+    "de_DE": "Resonanzsph\u00e4re",
+    "en_GB": "Resonating Sphere",
+    "es_ES": "Esfera resonante",
+    "fr_FR": "Sph\u00e8re r\u00e9sonnante",
+    "it_IT": "Sfera Risonante",
+    "ru_RU": "\u0420\u0435\u0437\u043e\u043d\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u0441\u0444\u0435\u0440\u0430",
+    "ko_KR": "\uacf5\uba85\ud558\ub294 \uad6c\uc2ac",
+    "zh_TW": "\u5171\u9cf4\u7403\u9ad4",
+    "zh_CN": "\u5171\u9e23\u9886\u57df"
+  },
+  "description_blz": {
+    "en_US": "Temporal Anomaly applies Echo at 30% effectiveness to the first 5 allies it passes through.",
+    "es_MX": "Anomal\u00eda temporal aplica Eco con un 30% de efectividad a los primeros 5 aliados que atraviesa.",
+    "pt_BR": "Anomalia Temporal aplica Eco com 30% de efic\u00e1cia nos 5 primeiros aliados que atravessa.",
+    "de_DE": "'Zeitanomalie' wendet 'Echo' mit 30% Effektivit\u00e4t auf die ersten 5 von der F\u00e4higkeit ber\u00fchrten Verb\u00fcndeten an.",
+    "en_GB": "Temporal Anomaly applies Echo at 30% effectiveness to the first 5 allies it passes through.",
+    "es_ES": "Anomal\u00eda temporal aplica Eco con un 30% de efectividad a los 5 primeros aliados a los que atraviesa.",
+    "fr_FR": "Anomalie temporelle applique \u00c9cho \u00e0 30% de son efficacit\u00e9 aux 5\u00a0premiers alli\u00e9s qu\u2019elle traverse.",
+    "it_IT": "Anomalia Temporale applica Eco al 30% di efficacia ai primi 5 alleati che attraversa.",
+    "ru_RU": "\"\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0430\u043d\u043e\u043c\u0430\u043b\u0438\u044f\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 30% \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u041e\u0442\u0433\u043e\u043b\u043e\u0441\u043e\u043a\" \u043a \u043f\u0435\u0440\u0432\u044b\u043c 5 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c.",
+    "ko_KR": "\uc2dc\uac04 \ubcc0\uce59\uc774 \ucc98\uc74c \ud1b5\uacfc\ud558\ub294 5\uba85\uc758 \uc544\uad70\uc5d0\uac8c 30%\uc758 \ud6a8\uc728\ub85c \uba54\uc544\ub9ac\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6642\u7a7a\u7570\u8c61\u6703\u5c0d\u8def\u5f91\u4e0a\u524d5\u500b\u76df\u53cb\u65bd\u52a0\u6548\u679c\u70ba30%\u7684\u56de\u97f3\u3002",
+    "zh_CN": "\u65f6\u7a7a\u7578\u4f53\u4f1a\u4ee530%\u7684\u6548\u679c\u5bf9\u7a7f\u8fc7\u7684\u524d5\u4e2a\u76df\u53cb\u65bd\u52a0\u56de\u54cd\u3002"
+  }
 }

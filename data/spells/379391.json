@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "379391"
+  "SpellID": "379391",
+  "name_blz": {
+    "en_US": "Quickened Invocation",
+    "es_MX": "Invocaci\u00f3n acelerada",
+    "pt_BR": "Invoca\u00e7\u00e3o Vivificada",
+    "de_DE": "Beschleunigte Anrufung",
+    "en_GB": "Quickened Invocation",
+    "es_ES": "Invocaci\u00f3n acelerada",
+    "fr_FR": "Invocation acc\u00e9l\u00e9r\u00e9e",
+    "it_IT": "Invocazione Accelerata",
+    "ru_RU": "\u0423\u0441\u043a\u043e\u0440\u0435\u043d\u043d\u044b\u0435 \u0432\u043e\u0437\u0437\u0432\u0430\u043d\u0438\u044f",
+    "ko_KR": "\ucd09\uc9c4\ub41c \uae30\uc6d0",
+    "zh_TW": "\u7948\u9858\u52a0\u901f",
+    "zh_CN": "\u6025\u4fc3\u7977\u544a"
+  },
+  "description_blz": {
+    "en_US": "Divine Toll's cooldown is reduced by 15 sec.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Ta\u00f1ido divino se reduce 15 s.",
+    "pt_BR": "A recarga de Pre\u00e7o Divino \u00e9 reduzida em 15 s.",
+    "de_DE": "Verringert die Abklingzeit von 'G\u00f6ttlicher Glockenschlag' um 15 Sek.",
+    "en_GB": "Divine Toll's cooldown is reduced by 15 sec.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Estrago divino se reduce 15 s.",
+    "fr_FR": "Le temps de recharge de Glas divin est r\u00e9duit de 15\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Rintocco Divino di 15 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0431\u043b\u0430\u0433\u043e\u0432\u0435\u0441\u0442\u0430\" \u043d\u0430 15 \u0441\u0435\u043a.",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \uc885\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u795e\u8056\u9cf4\u97ff\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed15\u79d2\u3002",
+    "zh_CN": "\u5723\u6d01\u9e23\u949f\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed15\u79d2\u3002"
+  }
 }

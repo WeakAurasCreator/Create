@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383219"
+  "SpellID": "383219",
+  "name_blz": {
+    "en_US": "Exhilarating Blows",
+    "es_MX": "Golpes estimulantes",
+    "pt_BR": "Golpes Euf\u00f3ricos",
+    "de_DE": "Berauschende Hiebe",
+    "en_GB": "Exhilarating Blows",
+    "es_ES": "Golpes estimulantes",
+    "fr_FR": "Coups exaltants",
+    "it_IT": "Colpi Inebrianti",
+    "ru_RU": "\u0423\u0434\u0430\u0440 \u0437\u0430 \u0443\u0434\u0430\u0440\u043e\u043c",
+    "ko_KR": "\uc804\uc728\uc758 \uac15\ud0c0",
+    "zh_TW": "\u4ea2\u596e\u75db\u64ca",
+    "zh_CN": "\u9163\u7545\u6253\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Mortal Strike and Cleave have a 20% chance to instantly reset their own cooldowns.",
+    "es_MX": "Golpe mortal y Rajar tienen una probabilidad de un 20% de restablecer su tiempo de reutilizaci\u00f3n al instante.",
+    "pt_BR": "Golpe Mortal e Cutilada t\u00eam 20% de chance de concluir instantaneamente as pr\u00f3prias recargas.",
+    "de_DE": "'T\u00f6dlicher Sto\u00df' und 'Spalten' haben eine Chance von 20%, ihre eigenen Abklingzeiten sofort abzuschlie\u00dfen.",
+    "en_GB": "Mortal Strike and Cleave have a 20% chance to instantly reset their own cooldowns.",
+    "es_ES": "Golpe Mortal y Rajar tienen un 20% de probabilidades de restablecer sus propios tiempos de reutilizaci\u00f3n al instante.",
+    "fr_FR": "Frappe mortelle et Encha\u00eenement ont 20% de chances de mettre fin instantan\u00e9ment \u00e0 leurs propres temps de recharge.",
+    "it_IT": "Assalto Mortale e Fendente hanno una probabilit\u00e0 del 20% di azzerare istantaneamente i propri tempi di recupero.",
+    "ru_RU": "\"\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0443\u0434\u0430\u0440\" \u0438 \"\u0420\u0430\u0441\u0441\u0435\u043a\u0430\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 20% \u043d\u0435 \u0442\u0440\u0435\u0431\u0443\u044e\u0442 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043d\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435.",
+    "ko_KR": "\ud544\uc0ac\uc758 \uc77c\uaca9\uacfc \ud68c\uc804\ubca0\uae30 \uc0ac\uc6a9 \uc2dc 20%\uc758 \ud655\ub960\ub85c \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \uc989\uc2dc \ucd08\uae30\ud654\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u81f4\u6b7b\u6253\u64ca\u548c\u9806\u5288\u65ac\u670920%\u7684\u6a5f\u7387\u7acb\u523b\u91cd\u7f6e\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u81f4\u6b7b\u6253\u51fb\u548c\u987a\u5288\u65a9\u670920%\u7684\u51e0\u7387\u7acb\u5373\u91cd\u7f6e\u81ea\u8eab\u7684\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

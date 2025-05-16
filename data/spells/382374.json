@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382374"
+  "SpellID": "382374",
+  "name_blz": {
+    "en_US": "Rummage Through Scrap",
+    "es_MX": "Hurgar en la chatarra",
+    "pt_BR": "Revirar a Sucata",
+    "de_DE": "Schrott durchw\u00fchlen",
+    "en_GB": "Rummage Through Scrap",
+    "es_ES": "Rebuscar en la chatarra",
+    "fr_FR": "Fouille de d\u00e9chets",
+    "it_IT": "Rovistamento tra gli Scarti",
+    "ru_RU": "\u041e\u0431\u0448\u0430\u0440\u0438\u0432\u0430\u043d\u0438\u0435 \u0443\u0442\u0438\u043b\u044f",
+    "ko_KR": "\uace0\ucca0 \ub4a4\uc9c0\uae30",
+    "zh_TW": "\u7ffb\u627e\u788e\u584a",
+    "zh_CN": "\u5728\u5e9f\u6599\u4e2d\u7ffb\u627e"
+  },
+  "description_blz": {
+    "en_US": "Rummage through 5 pieces of scrap in effort to find sellable junk.",
+    "es_MX": "Hurga entre 5 piezas de chatarra para tratar de encontrar chatarra para vender.",
+    "pt_BR": "Revira 5 pe\u00e7as de sucata para encontrar sucata vend\u00e1vel.",
+    "de_DE": "Durchw\u00fchlt 5 Schrottteile, um Ramsch zum Verkaufen zu finden.",
+    "en_GB": "Rummage through 5 pieces of scrap in effort to find sellable junk.",
+    "es_ES": "Hurga en 5 piezas de chatarra para encontrar chatarra vendible.",
+    "fr_FR": "Vous examinez 5\u00a0bouts de ferraille \u00e0 la recherche de bricoles vendables.",
+    "it_IT": "Permette di rovistare tra 5 pezzi di scarti per trovare delle cianfrusaglie da vendere.",
+    "ru_RU": "\u041e\u0431\u0448\u0430\u0440\u0438\u0432\u0430\u0435\u0442 5 \u043a\u0443\u0441\u043a\u043e\u0432 \u0443\u0442\u0438\u043b\u044f \u0432 \u043f\u043e\u0438\u0441\u043a\u0430\u0445 \u0447\u0435\u0433\u043e-\u043d\u0438\u0431\u0443\u0434\u044c \u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0443.",
+    "ko_KR": "5\uac1c\uc758 \uace0\ucca0\uc744 \ub4a4\uc838 \ud314 \ub9cc\ud55c \uace0\ubb3c\uc744 \ucc3e\uc2b5\ub2c8\ub2e4. ",
+    "zh_TW": "\u4ed4\u7d30\u7ffb\u627e5\u7247\u788e\u584a\uff0c\u8a66\u5716\u627e\u5230\u53ef\u8ce3\u51fa\u7684\u5783\u573e\u3002",
+    "zh_CN": "\u57285\u7247\u5e9f\u6599\u5806\u4e2d\u7ffb\u627e\uff0c\u4ee5\u56fe\u627e\u5230\u80fd\u5356\u51fa\u624b\u7684\u5783\u573e\u3002"
+  }
 }

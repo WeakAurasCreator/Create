@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388107"
+  "SpellID": "388107",
+  "name_blz": {
+    "en_US": "Ragefire",
+    "es_MX": "Fueguira",
+    "pt_BR": "Iraflama",
+    "de_DE": "W\u00fctende Flammen",
+    "en_GB": "Ragefire",
+    "es_ES": "Fueguira",
+    "fr_FR": "Ragefeu",
+    "it_IT": "Fiamma Furente",
+    "ru_RU": "\u041e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u0434\u043d\u0430",
+    "ko_KR": "\uc131\ub09c\ubd88\uae38",
+    "zh_TW": "\u6012\u7130",
+    "zh_CN": "\u6012\u7130"
+  },
+  "description_blz": {
+    "en_US": "Each time Immolation Aura deals damage, 30% of the damage dealt by up to 3 critical strikes is gathered as Ragefire.\r\n\r\nWhen Immolation Aura expires you explode, dealing all stored Ragefire damage to nearby enemies.",
+    "es_MX": "Cada vez que Aura de inmolaci\u00f3n inflige da\u00f1o, un 30% del da\u00f1o infligido hasta un m\u00e1ximo de 3 golpes cr\u00edticos se re\u00fane como da\u00f1o de fueguira.\r\n\r\nCuando Aura de inmolaci\u00f3n expira, explotas e infliges todo el da\u00f1o recolectado de da\u00f1o de fueguira a los enemigos cercanos.",
+    "pt_BR": "Cada vez que Aura de Imola\u00e7\u00e3o causa dano, 30% do dano causado por at\u00e9 3 acertos cr\u00edticos \u00e9 coletado como Iraflama.\r\n\r\nQuando Aura de Imola\u00e7\u00e3o expira, voc\u00ea explode, causando todo o dano de Iraflama armazenado nos inimigos pr\u00f3ximos.",
+    "de_DE": "Jedes Mal, wenn 'Feuerbrandaura' Schaden verursacht, sammeln sich 30% des von bis zu 3 kritischen Treffern verursachten Schadens als 'W\u00fctende Flammen' an.\r\n\r\nWenn 'Feuerbrandaura' abl\u00e4uft, explodiert Ihr und f\u00fcgt Gegnern in der N\u00e4he den gesammelten Schaden von 'W\u00fctende Flammen' zu.",
+    "en_GB": "Each time Immolation Aura deals damage, 30% of the damage dealt by up to 3 critical strikes is gathered as Ragefire.\r\n\r\nWhen Immolation Aura expires you explode, dealing all stored Ragefire damage to nearby enemies.",
+    "es_ES": "Cada vez que Aura de inmolaci\u00f3n inflige da\u00f1o, un 30% del da\u00f1o infligido por hasta 3 golpes cr\u00edticos se acumula como Fueguira.\r\n\r\nCuando el Aura de inmolaci\u00f3n se agota, explotas e infliges a los enemigos cercanos todo el da\u00f1o acumulado de Fueguira.",
+    "fr_FR": "Chaque fois que votre Aura d\u2019immolation inflige des d\u00e9g\u00e2ts, 30% des d\u00e9g\u00e2ts inflig\u00e9s par un maximum de 3\u00a0coups critiques sont accumul\u00e9s sous forme de ragefeu.\r\n\r\n\u00c0 expiration, vous explosez et infligez aux adversaires proches des d\u00e9g\u00e2ts de ragefeu d\u2019un montant \u00e9gal au total accumul\u00e9 sur sa dur\u00e9e.",
+    "it_IT": "Ogni volta che Rogo Rovente infligge danni, il 30% dei danni inflitti, fino a un massimo di 3 colpi critici, viene immagazzinato da Fiamma Furente.\r\n\r\nQuando Rogo Rovente termina, esplode, infliggendo tutti i danni immagazzinati da Fiamma Furente ai nemici vicini.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u041e\u0431\u0436\u0438\u0433\u0430\u044e\u0449\u0438\u0439 \u0436\u0430\u0440\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d, 30% \u044d\u0442\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0437\u0434\u043d\u0430\". \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 3 \u0440\u0430\u0437.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \"\u041e\u0431\u0436\u0438\u0433\u0430\u044e\u0449\u0438\u0439 \u0436\u0430\u0440\" \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0432\u044b \u0432\u0437\u0440\u044b\u0432\u0430\u0435\u0442\u0435\u0441\u044c, \u043d\u0430\u043d\u043e\u0441\u044f \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0439 \u0431\u0435\u0437\u0434\u043d\u044b\" \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c.",
+    "ko_KR": "\uc81c\ubb3c\uc758 \uc624\ub77c\uac00 \ud53c\ud574\ub97c \uc785\ud790 \ub54c\ub9c8\ub2e4, \ucd5c\ub300 3\ud68c\uc758 \uadf9\ub300\ud654 \ud53c\ud574\ub85c \uc785\ud78c \ud53c\ud574\uc758 30%\ub97c \uc131\ub09c\ubd88\uae38\ub85c \ucd95\uc801\ud569\ub2c8\ub2e4.\r\n\r\n\uc81c\ubb3c\uc758 \uc624\ub77c\uac00 \ub9cc\ub8cc\ub418\uba74 \ud3ed\ubc1c\uc744 \uc77c\uc73c\ucf1c \uc8fc\uc704 \uc801\uc5d0\uac8c \uc800\uc7a5\ub41c \ubaa8\ub4e0 \uc131\ub09c\ubd88\uae38 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u737b\u796d\u5149\u74b0\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u6700\u591a3\u6b21\u81f4\u547d\u4e00\u64ca\u9020\u6210\u768430%\u50b7\u5bb3\u6703\u8f49\u5316\u6210\u6012\u7130\u3002\r\n\r\n\u737b\u796d\u5149\u74b0\u6548\u679c\u7d50\u675f\u5f8c\u4f60\u6703\u7206\u70b8\uff0c\u5c0d\u9644\u8fd1\u6575\u4eba\u9020\u6210\u6012\u7130\u7d2f\u7a4d\u7684\u5168\u90e8\u50b7\u5bb3\u3002",
+    "zh_CN": "\u732e\u796d\u5149\u73af\u6bcf\u6b21\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u6700\u591a3\u6b21\u7206\u51fb\u4f24\u5bb3\u768430%\u4f1a\u88ab\u4f5c\u4e3a\u6012\u7130\u6536\u96c6\u8d77\u6765\u3002\r\n\r\n\u732e\u796d\u5149\u73af\u7ed3\u675f\u65f6\uff0c\u4f60\u4f1a\u7206\u70b8\uff0c\u50a8\u5b58\u7684\u6240\u6709\u6012\u7130\u4f1a\u5bf9\u9644\u8fd1\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u3002"
+  }
 }

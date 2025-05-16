@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "380154"
+  "SpellID": "380154",
+  "name_blz": {
+    "en_US": "Subzero",
+    "es_MX": "Bajo cero",
+    "pt_BR": "Abaixo de Zero",
+    "de_DE": "Unter Null",
+    "en_GB": "Subzero",
+    "es_ES": "Subcero",
+    "fr_FR": "Temp\u00e9rature n\u00e9gative",
+    "it_IT": "Sottozero",
+    "ru_RU": "\u041d\u0438\u0436\u0435 \u043d\u0443\u043b\u044f",
+    "ko_KR": "\uc601\ud558",
+    "zh_TW": "\u96f6\u4e0b",
+    "zh_CN": "\u96f6\u4e0b\u4f4e\u6e29"
+  },
+  "description_blz": {
+    "en_US": "Your Frost spells deal 20% more damage to targets that are rooted and frozen.",
+    "es_MX": "Tus hechizos de escarcha infligen un 20% m\u00e1s de da\u00f1o a los objetivos que est\u00e1n enraizados y congelados.",
+    "pt_BR": "Seus feiti\u00e7os de Gelo causam 20% a mais de dano a alvos enraizados e congelados.",
+    "de_DE": "Eure Frostzauber f\u00fcgen Zielen 20% mehr Schaden zu, wenn sie bewegungsunf\u00e4hig und eingefroren sind.",
+    "en_GB": "Your Frost spells deal 20% more damage to targets that are rooted and frozen.",
+    "es_ES": "Tus hechizos de Escarcha infligen un 20% m\u00e1s de da\u00f1o a los objetivos enraizados y congelados.",
+    "fr_FR": "Vos sorts de givre infligent 20% de d\u00e9g\u00e2ts suppl\u00e9mentaires aux cibles immobilis\u00e9es et gel\u00e9es.",
+    "it_IT": "Aumenta i danni inflitti dagli incantesimi di gelo ai bersagli immobilizzati e congelati del 20%.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 20% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0437\u0430\u043c\u0435\u0434\u043b\u0435\u043d\u043d\u044b\u043c \u0438 \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0435\u043d\u043d\u044b\u043c \u0446\u0435\u043b\u044f\u043c.",
+    "ko_KR": "\uc774\ub3d9 \ubd88\uac00 \ubc0f \uc5bc\uc5b4\ubd99\uc740 \ub300\uc0c1\uc5d0\uac8c \ub0c9\uae30 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc 20%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u51b0\u971c\u6cd5\u8853\u5c0d\u5b9a\u8eab\u548c\u51b0\u51cd\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u4f60\u7684\u51b0\u971c\u6cd5\u672f\u5bf9\u5b9a\u8eab\u548c\u88ab\u51bb\u7ed3\u7684\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad820%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378255"
+  "SpellID": "378255",
+  "name_blz": {
+    "en_US": "Call of Fire",
+    "es_MX": "Llamado del fuego",
+    "pt_BR": "Chamado de Fogo",
+    "de_DE": "Ruf des Feuers",
+    "en_GB": "Call of Fire",
+    "es_ES": "Llamada del fuego",
+    "fr_FR": "Appel du feu",
+    "it_IT": "Richiamo del Fuoco",
+    "ru_RU": "\u0417\u043e\u0432 \u043e\u0433\u043d\u044f",
+    "ko_KR": "\ubd88\uc758 \ubd80\ub984",
+    "zh_TW": "\u706b\u7130\u4e4b\u8072",
+    "zh_CN": "\u706b\u7130\u53ec\u5524"
+  },
+  "description_blz": {
+    "en_US": "Increases the damage of your Flame Shock, Lava Burst, Lava Beam, and Fire Elemental by 10%.",
+    "es_MX": "Aumenta un 10% el da\u00f1o de tu Choque de llamas, R\u00e1faga de lava, Haz de lava y de tu elemental de fuego.",
+    "pt_BR": "Aumenta em 10% o dano dos feiti\u00e7os Choque Flamejante, Estouro de Lava, Feixe de Lava e Elemental do Fogo.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Flammenschock', 'Lavaeruption', 'Lavastrahl' und 'Feuerelementar' um 10%.",
+    "en_GB": "Increases the damage of your Flame Shock, Lava Burst, Lava Beam, and Fire Elemental by 10%.",
+    "es_ES": "Aumenta un 10% el da\u00f1o de tu Choque de llamas, R\u00e1faga de lava, Haz de lava y elemental de Fuego.",
+    "fr_FR": "D\u00e9g\u00e2ts de Horion de flammes, Explosion de lave, Faisceau de lave et \u00c9l\u00e9mentaire de feu augment\u00e9s de 10%.",
+    "it_IT": "Aumenta i danni inflitti da Folgore del Fuoco, Getto di Lava, Catena di Lava e dall'Elementale del Fuoco del 10%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u043c \u0448\u043e\u043a\u043e\u043c\", \"\u0412\u044b\u0431\u0440\u043e\u0441\u043e\u043c \u043b\u0430\u0432\u044b\", \"\u041f\u043e\u0442\u043e\u043a\u043e\u043c \u043b\u0430\u0432\u044b\" \u0438 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u0435\u043c \u043e\u0433\u043d\u044f, \u043d\u0430 10%.",
+    "ko_KR": "\ud654\uc5fc \ucda9\uaca9, \uc6a9\uc554 \ud3ed\ubc1c, \uc6a9\uc554 \uad11\uc120, \ubd88\uc758 \uc815\ub839\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u70c8\u7130\u9707\u64ca\u3001\u7194\u5ca9\u7206\u767c\u3001\u7194\u5ca9\u5149\u675f\u548c\u706b\u5143\u7d20\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u4f60\u7684\u70c8\u7130\u9707\u51fb\u3001\u7194\u5ca9\u7206\u88c2\u3001\u7194\u5ca9\u5f39\u5c04\u3001\u706b\u5143\u7d20\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

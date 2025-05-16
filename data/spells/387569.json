@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387569"
+  "SpellID": "387569",
+  "name_blz": {
+    "en_US": "Rolling Havoc",
+    "es_MX": "Estragos desoladores",
+    "pt_BR": "Devasta\u00e7\u00e3o Cont\u00ednua",
+    "de_DE": "Tobende Verw\u00fcstung",
+    "en_GB": "Rolling Havoc",
+    "es_ES": "Estragos m\u00faltiples",
+    "fr_FR": "Tumulte retentissant",
+    "it_IT": "Calamit\u00e0 Graduale",
+    "ru_RU": "\u0411\u0443\u0440\u043b\u044f\u0449\u0438\u0439 \u0445\u0430\u043e\u0441",
+    "ko_KR": "\uaca9\uc815\uc758 \ub300\ud63c\ub780",
+    "zh_TW": "\u8f2a\u8ff4\u6d69\u52ab",
+    "zh_CN": "\u7ffb\u6eda\u6d69\u52ab"
+  },
+  "description_blz": {
+    "en_US": "Each time your spells duplicate from Havoc, gain 1% increased damage for 6 sec. Stacks up to 5 times.",
+    "es_MX": "Cada vez que tus hechizos se duplican por Estragos, obtienes un 1% m\u00e1s de da\u00f1o durante 6 s. Se acumula hasta 5 veces.",
+    "pt_BR": "Toda vez que seus feiti\u00e7os s\u00e3o duplicados por Devasta\u00e7\u00e3o, concede 1% mais dano por 6 s. Acumula at\u00e9 5 vezes.",
+    "de_DE": "Jedes Mal, wenn Eure Zauber auf ein Ziel von 'Verw\u00fcstung' kopiert werden, wird Euer Schaden f\u00fcr 6 Sek. um 1% erh\u00f6ht. Dieser Effekt ist bis zu 5-mal stapelbar.",
+    "en_GB": "Each time your spells duplicate from Havoc, gain 1% increased damage for 6 sec. Stacks up to 5 times.",
+    "es_ES": "Cada vez que se duplican tus hechizos de Devastaci\u00f3n, obtienes un 1% m\u00e1s de da\u00f1o durante 6 s. Se acumula hasta 5 veces.",
+    "fr_FR": "Chaque fois que vos sorts se dupliquent sous l\u2019effet de Tumulte, vos d\u00e9g\u00e2ts sont augment\u00e9s de 1% pendant 6 s. Cumulable jusqu\u2019\u00e0 5\u00a0fois.",
+    "it_IT": "Ogni volta che gli incantesimi si duplicano tramite Calamit\u00e0, i danni inflitti aumentano del 1% per 6 s. Si accumula fino a 5 volte.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043a\u043e\u043f\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0437\u0430 \u0441\u0447\u0435\u0442 \"\u0425\u0430\u043e\u0441\u0430\", \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1% \u043d\u0430 6 \u0441\u0435\u043a. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437.",
+    "ko_KR": "\ub300\ud63c\ub780\uc73c\ub85c \uc8fc\ubb38\uc774 \ubcf5\uc81c\ub420 \ub54c\ub9c8\ub2e4 6\ucd08 \ub3d9\uc548 \uacf5\uaca9\ub825\uc774 1%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u5f9e\u6d69\u52ab\u8907\u88fd\u6cd5\u8853\u53ef\u4f7f\u50b7\u5bb3\u63d0\u9ad81%\uff0c\u6301\u7e8c6\u79d2\u3002\u6700\u591a\u53ef\u5806\u758a5\u6b21\u3002",
+    "zh_CN": "\u6bcf\u6b21\u4f60\u7684\u6cd5\u672f\u88ab\u66b4\u4e71\u590d\u5236\uff0c\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u5c31\u63d0\u9ad81%\uff0c\u6301\u7eed6\u79d2\u3002\u6700\u591a\u53ef\u53e0\u52a05\u6b21\u3002"
+  }
 }

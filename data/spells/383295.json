@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383295"
+  "SpellID": "383295",
+  "name_blz": {
+    "en_US": "Deft Experience",
+    "es_MX": "Experiencia en destreza",
+    "pt_BR": "Experi\u00eancia Habilidosa",
+    "de_DE": "Gewandt und erfahren",
+    "en_GB": "Deft Experience",
+    "es_ES": "Experiencia del h\u00e1bil",
+    "fr_FR": "Habilet\u00e9 consomm\u00e9e",
+    "it_IT": "Esperienza Abile",
+    "ru_RU": "\u0421\u043d\u043e\u0440\u043e\u0432\u043a\u0430 \u0438 \u043e\u043f\u044b\u0442",
+    "ko_KR": "\uc219\ub828\ub41c \uacbd\ud5d8",
+    "zh_TW": "\u9748\u5de7\u7d93\u9a57",
+    "zh_CN": "\u719f\u80fd\u751f\u5de7"
+  },
+  "description_blz": {
+    "en_US": "Mastery increased by 1% and if you are Enraged, Bloodthirst extends your Enrage by 0.5 sec.",
+    "es_MX": "Aumenta la maestr\u00eda un 1% y, si est\u00e1s Enfurecido, Sed de sangre extiende tu Enfurecer 0.5 s.",
+    "pt_BR": "Maestria aumentada em 1% e, se Enfurecido, Sede de Sangue prolonga Enfurecer em 0,5 s.",
+    "de_DE": "Erh\u00f6ht die Meisterschaft um 1%. Wenn Ihr Euch in einem Wutzustand befindet, verl\u00e4ngert 'Blutdurst' diesen um 0,5 Sek.",
+    "en_GB": "Mastery increased by 1% and if you are Enraged, Bloodthirst extends your Enrage by 0.5 sec.",
+    "es_ES": "Aumenta un 1% la maestr\u00eda y, si est\u00e1s enfurecido, Sed de sangre prolonga 0,5\u00a0s el efecto.",
+    "fr_FR": "La Ma\u00eetrise est augment\u00e9e de 1\u00a0% et si vous b\u00e9n\u00e9ficiez de l\u2019effet Enrager. Sanguinaire prolonge cet effet de 0,5\u00a0s.",
+    "it_IT": "Aumenta la maestria del 1%. Se si \u00e8 infuriati, Sete di Sangue estende la durata dell'effetto Infuriato di 0,5 s.",
+    "ru_RU": "\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1%. \"\u041a\u0440\u043e\u0432\u043e\u0436\u0430\u0434\u043d\u043e\u0441\u0442\u044c\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0438\u0441\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u043d\u0430 0,5 \u0441\u0435\u043a.",
+    "ko_KR": "\ud2b9\ud654\uac00 1%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uaca9\ub178 \uc0c1\ud0dc\uc77c \ub54c \ud53c\uc758 \uac08\uc99d \uc0ac\uc6a9 \uc2dc \uaca9\ub178\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 0.5\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7cbe\u901a\u63d0\u9ad81%\uff0c\u5982\u679c\u4f60\u9677\u5165\u72c2\u6012\uff0c\u55dc\u8840\u6703\u4f7f\u4f60\u7684\u72c2\u6012\u5ef6\u95770.5\u79d2\u3002",
+    "zh_CN": "\u7cbe\u901a\u63d0\u9ad81%\u3002\u5982\u679c\u4f60\u88ab\u6fc0\u6012\uff0c\u55dc\u8840\u4f7f\u6fc0\u6012\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f0.5\u79d2\u3002"
+  }
 }

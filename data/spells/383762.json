@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383762"
+  "SpellID": "383762",
+  "name_blz": {
+    "en_US": "Bitter Immunity",
+    "es_MX": "Inmunidad amarga",
+    "pt_BR": "Imunidade Mordaz",
+    "de_DE": "Bittere Immunit\u00e4t",
+    "en_GB": "Bitter Immunity",
+    "es_ES": "Inmunidad amarga",
+    "fr_FR": "Immunit\u00e9 am\u00e8re",
+    "it_IT": "Immunit\u00e0 Amara",
+    "ru_RU": "\u0413\u043e\u0440\u0435\u0441\u0442\u043d\u0430\u044f \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc0ac\uae30\uc801\uc778 \uba74\uc5ed",
+    "zh_TW": "\u75db\u82e6\u514d\u75ab",
+    "zh_CN": "\u82e6\u75db\u514d\u75ab"
+  },
+  "description_blz": {
+    "en_US": "Restores 20% health instantly and removes all diseases, poisons, and curses affecting you.\r\n",
+    "es_MX": "Restaura un 20% de salud al instante y elimina todas las enfermedades, venenos y maldiciones que te afectan.\r\n",
+    "pt_BR": "Restaura 20% dos pontos de vida instantaneamente e remove todos os efeitos de doen\u00e7a, veneno e maldi\u00e7\u00e3o de voc\u00ea.\r\n",
+    "de_DE": "Stellt sofort 20% Gesundheit wieder her und entfernt alle Krankheiten, Gifte und Fl\u00fcche von Euch.\r\n",
+    "en_GB": "Restores 20% health instantly and removes all diseases, poisons, and curses affecting you.\r\n",
+    "es_ES": "Restaura un 20% de salud al instante y elimina todos los efectos de enfermedad, veneno y maldici\u00f3n que te afecten.\r\n",
+    "fr_FR": "Vous rend 20\u00a0% de vos points de vie instantan\u00e9ment et dissipe les maladies, poisons et mal\u00e9dictions qui vous affectent.\r\n",
+    "it_IT": "Rigenera il 20% della salute massima istantaneamente e dissolve tutti gli effetti di malattia, veleno e maledizione subiti.\r\n",
+    "ru_RU": "\u0412\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 20% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u0441\u043d\u0438\u043c\u0430\u0435\u0442 \u0441 \u0432\u0430\u0441 \u0432\u0441\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u0439, \u044f\u0434\u043e\u0432 \u0438 \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0439.\r\n",
+    "ko_KR": "\uc989\uc2dc 20%\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud558\uace0 \ubaa8\ub4e0 \uc9c8\ubcd1, \ub3c5, \uc800\uc8fc \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u7acb\u523b\u6062\u5fa920%\u7684\u751f\u547d\u529b\uff0c\u4e26\u79fb\u9664\u4f60\u53d7\u5230\u7684\u6240\u6709\u75be\u75c5\u3001\u4e2d\u6bd2\u548c\u8a5b\u5492\u6548\u679c\u3002\r\n",
+    "zh_CN": "\u7acb\u5373\u6062\u590d20%\u7684\u751f\u547d\u503c\uff0c\u5e76\u79fb\u9664\u4f60\u53d7\u5230\u7684\u6240\u6709\u75be\u75c5\u3001\u4e2d\u6bd2\u548c\u8bc5\u5492\u6548\u679c\u3002\r\n"
+  }
 }
