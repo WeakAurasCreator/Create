@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "435005"
+  "SpellID": "435005",
+  "name_blz": {
+    "en_US": "Smothering Offense",
+    "es_MX": "Ofensiva asfixiante",
+    "pt_BR": "Ofensa Sufocante",
+    "de_DE": "Glimmende Offensive",
+    "en_GB": "Smothering Offense",
+    "es_ES": "Ataque asfixiante",
+    "fr_FR": "Offense \u00e9touffante",
+    "it_IT": "Attacco Asfissiante",
+    "ru_RU": "\u0423\u0434\u0443\u0448\u0430\u044e\u0449\u0435\u0435 \u043d\u0430\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc625\uc8c4\ub294 \uacf5\uc138",
+    "zh_TW": "\u7a92\u606f\u653b\u52e2",
+    "zh_CN": "\u7a92\u606f\u653b\u52bf"
+  },
+  "description_blz": {
+    "en_US": "Your auto attack damage is increased by 10%. \r\n\r\nThis amount is increased for each stack of Icy Talons you have and it can stack up to 2 additional times.",
+    "es_MX": "El da\u00f1o de tus ataques autom\u00e1ticos aumenta un 10%. \r\n\r\nEsta cantidad aumenta con cada acumulaci\u00f3n de Garras heladas y puede acumularse hasta 2 veces m\u00e1s.",
+    "pt_BR": "Aumenta em 10% o dano do seu ataque autom\u00e1tico. \r\n\r\nA quantidade aumenta a cada aplica\u00e7\u00e3o de Garras G\u00e9lidas, que podem acumular at\u00e9 2 vezes.",
+    "de_DE": "Der Schaden Eurer automatischen Angriffe ist um 10% erh\u00f6ht.\r\n\r\nDiese Menge wird f\u00fcr jeden Stapel von 'Eisige Klauen' erh\u00f6ht, den Ihr habt, und ist bis zu 2 zus\u00e4tzliche Male stapelbar.",
+    "en_GB": "Your auto attack damage is increased by 10%. \r\n\r\nThis amount is increased for each stack of Icy Talons you have and it can stack up to 2 additional times.",
+    "es_ES": "El da\u00f1o de tus ataques autom\u00e1ticos aumenta un 10%. \r\n\r\nEsta cantidad aumenta por cada acumulaci\u00f3n de Garfas heladas que tengas. Se puede acumular hasta 2 veces m\u00e1s.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de vos attaques automatiques sont augment\u00e9s de 10\u00a0%.\r\n\r\nCe montant est augment\u00e9 par charge de Serres glaciales vous affectant et cet effet est cumulable jusqu\u2019\u00e0 2\u00a0fois suppl\u00e9mentaires.",
+    "it_IT": "Aumenta i danni inflitti dagli attacchi automatici del 10%.\r\n\r\nQuesto ammontare aumenta per ogni accumulo di Artigli di Ghiaccio. Si accumula fino a 2 volte.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0430\u0432\u0442\u043e\u0430\u0442\u0430\u043a\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430. \r\n\r\n\u0411\u043e\u043d\u0443\u0441 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041b\u0435\u0434\u044f\u043d\u044b\u0445 \u043a\u043e\u0433\u0442\u0435\u0439\" \u0438 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 2 \u0440\u0430\u0437.",
+    "ko_KR": "\uc790\ub3d9 \uacf5\uaca9\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \r\n\r\n\uc5bc\uc74c \ubc1c\ud1b1 \uc911\ucca9\uc5d0 \ub530\ub77c \uacf5\uaca9\ub825\uc774 \uc99d\uac00\ud558\uba70, \uc5bc\uc74c \ubc1c\ud1b1\uc774 \ucd5c\ub300 2\ubc88\uae4c\uc9c0 \ucd94\uac00\ub85c \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u81ea\u52d5\u653b\u64ca\u50b7\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u4f60\u64c1\u6709\u7684\u6bcf\u5c64\u51b0\u7d50\u4e4b\u722a\u90fd\u6703\u63d0\u9ad8\u6b64\u6578\u503c\uff0c\u6700\u591a\u53ef\u984d\u5916\u5806\u758a2\u5c64\u3002",
+    "zh_CN": "\u4f60\u7684\u81ea\u52a8\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u6bcf\u5c42\u51b0\u51b7\u4e4b\u722a\u90fd\u4f1a\u63d0\u9ad8\u4f24\u5bb3\uff0c\u5e76\u4e14\u53ef\u4ee5\u989d\u5916\u53e0\u52a02\u6b21\u3002"
+  }
 }

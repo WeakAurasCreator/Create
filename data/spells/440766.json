@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "440766"
+  "SpellID": "440766",
+  "name_blz": {
+    "en_US": "Assured Safety",
+    "es_MX": "Protecci\u00f3n asegurada",
+    "pt_BR": "Seguran\u00e7a Garantida",
+    "de_DE": "Gepr\u00fcfte Sicherheit",
+    "en_GB": "Assured Safety",
+    "es_ES": "Seguridad garantizada",
+    "fr_FR": "S\u00e9curit\u00e9 assur\u00e9e",
+    "it_IT": "Sicurezza Garantita",
+    "ru_RU": "\u0413\u0430\u0440\u0430\u043d\u0442\u0438\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\ubcf4\uc7a5\ub41c \uc548\uc804",
+    "zh_TW": "\u78ba\u4fdd\u5b89\u5168",
+    "zh_CN": "\u5b89\u5168\u65e0\u865e"
+  },
+  "description_blz": {
+    "en_US": "Prayer of Mending casts apply a Power Word: Shield to your target at 100% effectiveness.",
+    "es_MX": "Los lanzamientos de Rezo de alivio aplican Palabra de poder: escudo a tu objetivo con un 100% de efectividad.",
+    "pt_BR": "Lan\u00e7amentos de Prece da Recomposi\u00e7\u00e3o aplicam Palavra de Poder: Escudo ao alvo com 100% de efic\u00e1cia.",
+    "de_DE": "Das Wirken von 'Gebet der Besserung' belegt Euer Ziel mit einem 'Machtwort: Schild' mit 100% Effektivit\u00e4t.",
+    "en_GB": "Prayer of Mending casts apply a Power Word: Shield to your target at 100% effectiveness.",
+    "es_ES": "Rezo de alivio aplica Palabra de poder: escudo a tu objetivo con un 100% de efectividad.",
+    "fr_FR": "Pri\u00e8re de gu\u00e9rison applique Mot de pouvoir\u00a0: Bouclier \u00e0 votre cible \u00e0 100\u00a0% d\u2019efficacit\u00e9.",
+    "it_IT": "Preghiera di Guarigione applica Parola del Potere: Scudo sul bersaglio al 100% dell'efficacia.",
+    "ru_RU": "\"\u041c\u043e\u043b\u0438\u0442\u0432\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u0446\u0435\u043b\u0438 \"\u0421\u043b\u043e\u0432\u043e \u0441\u0438\u043b\u044b: \u0429\u0438\u0442\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 100%.",
+    "ko_KR": "\ud68c\ubcf5\uc758 \uae30\uc6d0 \uc2dc\uc804 \uc2dc \ub300\uc0c1\uc5d0\uac8c 100%\uc758 \ud6a8\uc728\ub85c \uc2e0\uc758 \uad8c\ub2a5: \ubcf4\ud638\ub9c9\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u7652\u5408\u79b1\u8a00\u6642\uff0c\u5c0d\u4f60\u7684\u76ee\u6a19\u65bd\u52a0\u6548\u679c\u70ba100%\u7684\u771f\u8a00\u8853\uff1a\u76fe\u3002",
+    "zh_CN": "\u65bd\u653e\u6108\u5408\u7977\u8a00\u4f1a\u5bf9\u76ee\u6807\u65bd\u52a0100%\u6548\u679c\u7684\u771f\u8a00\u672f\uff1a\u76fe\u3002"
+  }
 }

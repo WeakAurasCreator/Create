@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "443739"
+  "SpellID": "443739",
+  "name_blz": {
+    "en_US": "Splintering Sorcery",
+    "es_MX": "Hechicer\u00eda astillada",
+    "pt_BR": "Feiti\u00e7aria Farpada",
+    "de_DE": "Splitterzauberkunst",
+    "en_GB": "Splintering Sorcery",
+    "es_ES": "Hechicer\u00eda astillada",
+    "fr_FR": "Sorcellerie fragment\u00e9e",
+    "it_IT": "Magia Scheggiante",
+    "ru_RU": "\u041e\u043a\u043e\u043b\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043e\u0431\u043b\u043e\u043c\u043a\u0438",
+    "ko_KR": "\uc1c4\ud3b8\uc758 \ub9c8\uc220",
+    "zh_TW": "\u5206\u88c2\u9b54\u6cd5",
+    "zh_CN": "\u88c2\u89e3\u5deb\u672f"
+  },
+  "description_blz": {
+    "en_US": "When you consume Nether Precision, conjure 2 Arcane Splinters.\r\n\r\nArcane Splinter:\r\nConjure raw Arcane magic into a sharp projectile that deals 2,117 Arcane damage.\r\n\r\nArcane Splinters embed themselves into their target, dealing 2,117 Arcane damage over 18 sec. This effect stacks.\r\n",
+    "es_MX": "Cuando consumes Precisi\u00f3n abisal, conjuras 2 Astillas arcanas.\r\n\r\nAstilla arcana:\r\nConjura magia arcana pura en un proyectil afilado que inflige 2,117 p. de da\u00f1o arcano.\r\n\r\nSe clavan Astillas arcanas en su objetivo, lo que inflige 2,117 p. de da\u00f1o arcano durante 18 s. Este efecto se acumula.\r\n",
+    "pt_BR": "Ao consumir Precis\u00e3o Et\u00e9rea, voc\u00ea conjura 2 Farpas Arcanas.\r\n\r\nFarpa Arcana:\r\nConjura magia Arcana fluida em um proj\u00e9til afiado que causa 2.117 de dano Arcano.\r\n\r\nCada Farpa Arcana se crava no alvo, causando 2.117 de dano Arcano ao longo de 18 s. Este efeito acumula.\r\n",
+    "de_DE": "Wenn Ihr 'Netherpr\u00e4zision' verbraucht, beschw\u00f6rt Ihr 2 arkane Splitter .\r\n\r\nArkaner Splitter:\r\nBeschw\u00f6rt aus Arkanmagie ein scharfes Projektil, das 2.117 Arkanschaden verursacht.\r\n\r\n'Arkane Splitter' bohren sich in ihr Ziel und verursachen 18 Sek. lang 2.117 Arkanschaden. Dieser Effekt ist stapelbar.\r\n",
+    "en_GB": "When you consume Nether Precision, conjure 2 Arcane Splinters.\r\n\r\nArcane Splinter:\r\nConjure raw Arcane magic into a sharp projectile that deals 2,117 Arcane damage.\r\n\r\nArcane Splinters embed themselves into their target, dealing 2,117 Arcane damage over 18 sec. This effect stacks.\r\n",
+    "es_ES": "Cuando consumes Precisi\u00f3n abisal, conjuras 2 astillas Arcanas .\r\n\r\nAstilla Arcana:\r\nCrea un proyectil afilado de magia Arcana pura que inflige 2117 p. de da\u00f1o Arcano.\r\n\r\nIncrusta Astillas Arcanas al objetivo, que le infligen 2117 p. de da\u00f1o Arcano durante 18 s. Este efecto se acumula.\r\n",
+    "fr_FR": "Lorsque vous consommez Pr\u00e9cision du N\u00e9ant, vous invoquez 2\u00a0fragments arcaniques.\r\n\r\n Fragment arcanique\u00a0:\r\nConjure de la magie des arcanes pure en un projectile tranchant qui inflige 2117\u00a0points de d\u00e9g\u00e2ts des arcanes.\r\n\r\nLes Fragments arcaniques s\u2019incrustent dans leur cible et inflige 2117\u00a0points de d\u00e9g\u00e2ts des arcanes en 18 s. Cet effet est cumulable.\r\n",
+    "it_IT": "Consumare Precisione Fatua evoca 2 Schegge Arcane.\r\n\r\nParticella Arcana :\r\nEvoca la magia arcana grezza sottoforma di un proiettile appuntito che infligge 2.117 danni da arcano.\r\n\r\nLe Schegge Arcane penetrano nel bersaglio, infliggendo 2.117 danni da arcano in 18 s. Si accumula.\r\n",
+    "ru_RU": "\u041f\u043e\u0433\u043b\u043e\u0449\u0430\u044f \"\u041c\u0435\u0442\u043a\u043e\u0441\u0442\u044c \u041f\u0443\u0441\u0442\u043e\u0442\u044b\", \u0432\u044b \u0441\u043e\u0437\u0434\u0430\u0435\u0442\u0435 2 \u0447\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0445 \u043e\u0431\u043b\u043e\u043c\u043a\u0430.\r\n\r\n\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u043e\u0431\u043b\u043e\u043c\u043e\u043a:\r\n\u041f\u0440\u0438\u0434\u0430\u0435\u0442 \u0447\u0438\u0441\u0442\u043e\u0439 \u0447\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u043e\u0439 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0444\u043e\u0440\u043c\u0443 \u043e\u0441\u0442\u0440\u043e\u0433\u043e \u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 2117 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.\r\n\r\n\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0435 \u043e\u0431\u043b\u043e\u043c\u043a\u0438 \u0432\u043e\u043d\u0437\u0430\u044e\u0442\u0441\u044f \u0432 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f 2117 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0437\u0430 18 \u0441\u0435\u043a. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f.\r\n",
+    "ko_KR": "\ud669\ucc9c\uc758 \uc815\ubc00\ud568 \ud6a8\uacfc\ub97c \uc18c\ubaa8\ud558\uba74 2\uac1c\uc758 \ube44\uc804 \uc1c4\ud3b8\uc744 \uc0dd\uc131\ud558\uc5ec \ub300\uc0c1\uc5d0\uac8c \ubc1c\uc0ac\ud569\ub2c8\ub2e4.\r\n\r\n\ube44\uc804 \uc1c4\ud3b8:\r\n\uc21c\uc218\ud55c \ube44\uc804 \ub9c8\ubc95\uc73c\ub85c \ub0a0\uce74\ub85c\uc6b4 \ud22c\uc0ac\uccb4\ub97c \ube5a\uc5b4\ub0b4 2,117\uc758 \ube44\uc804 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\ube44\uc804 \uc1c4\ud3b8\uc740 \ub300\uc0c1\uc758 \ubab8\uc5d0 \ubc15\ud600 18\ucd08\uc5d0 \uac78\uccd0 2,117\uc758 \ube44\uc804 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 \uc911\ucca9\ub429\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u7576\u4f60\u6d88\u8017\u865b\u7a7a\u7cbe\u6e96\u6642\uff0c\u6703\u53ec\u559a2\u500b\u79d8\u6cd5\u88c2\u7247\u3002\r\n\r\n\u79d8\u6cd5\u88c2\u7247\uff1a\r\n\u5c07\u539f\u59cb\u79d8\u6cd5\u9b54\u6cd5\u51dd\u805a\u6210\u92b3\u5229\u7684\u6295\u5c04\u7269\uff0c\u9020\u62102,117\u9ede\u79d8\u6cd5\u50b7\u5bb3\u3002\r\n\r\n\u79d8\u6cd5\u88c2\u7247\u6703\u5d4c\u5165\u76ee\u6a19\u9ad4\u5167\uff0c\u572818\u79d2\u5167\u9020\u62102,117\u9ede\u79d8\u6cd5\u50b7\u5bb3\u3002\u6b64\u6548\u679c\u53ef\u5806\u758a\u3002\r\n",
+    "zh_CN": "\u5f53\u4f60\u6d88\u8017\u865a\u7a7a\u7cbe\u51c6\uff0c\u53ec\u55242\u4e2a\u5965\u672f\u88c2\u7247\u3002\r\n\r\n\u5965\u672f\u88c2\u7247:\r\n\u53ec\u5524\u6e90\u751f\u7684\u5965\u672f\u9b54\u6cd5\uff0c\u51dd\u805a\u6210\u5c16\u9510\u7684\u6295\u5c04\u7269\uff0c\u9020\u62102,117\u70b9\u5965\u672f\u4f24\u5bb3\u3002\r\n\r\n\u5965\u672f\u88c2\u7247\u4f1a\u5d4c\u5165\u76ee\u6807\u4f53\u5185\uff0c\u572818\u79d2\u5185\u9020\u62102,117\u70b9\u5965\u672f\u4f24\u5bb3\u3002\u8be5\u6548\u679c\u53ef\u53e0\u52a0\u3002\r\n"
+  }
 }

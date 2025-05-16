@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "442332"
+  "SpellID": "442332",
+  "name_blz": {
+    "en_US": "Refine Ironclaw Ore |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "es_MX": "Refinar mena de garraf\u00e9rrea |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "pt_BR": "Refinar Min\u00e9rio de Garraf\u00e9rrea |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "de_DE": "Eisenklauenerz aufbereiten |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "en_GB": "Refine Ironclaw Ore |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "es_ES": "Refinar mena de colmillof\u00e9rreo |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "fr_FR": "Raffinage de griffefer \u2013 |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "it_IT": "Raffinamento Grinfiaferro |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "ru_RU": "\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043a\u043e\u0433\u0442\u0435\u0441\u0442\u0430\u043b\u0438 |A:Professions-ChatIcon-Quality-Tier2:20:20|a-\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430",
+    "ko_KR": "\ubb34\uc1e0\ubc1c\ud1b1 \uad11\uc11d \uac00\uacf5 - |A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "zh_TW": "\u7cbe\u7149\u9435\u722a\u7926\u77f3|A:Professions-ChatIcon-Quality-Tier2:20:20|a",
+    "zh_CN": "\u7cbe\u5236\u9554\u722a\u77ff|A:Professions-ChatIcon-Quality-Tier2:20:20|a"
+  },
+  "description_blz": {
+    "en_US": "Refines 5 Ironclaw Ore  to 1 Ironclaw Ore .",
+    "es_MX": "Refina 5 menas de garraf\u00e9rrea  para obtener 1 menas de garraf\u00e9rrea .",
+    "pt_BR": "Refina 5 Min\u00e9rios de Garraf\u00e9rrea de qualidade  em 1 Min\u00e9rio de qualidade .",
+    "de_DE": "Bereitet 5 St\u00fccke Eisenklauenerz der Qualit\u00e4t  zu 1 St\u00fccken Eisenklauenerz der Qualit\u00e4t  auf.",
+    "en_GB": "Refines 5 Ironclaw Ore  to 1 Ironclaw Ore .",
+    "es_ES": "Convierte 5 menas de colmillof\u00e9rreo de calidad  en 1 menas de colmillof\u00e9rreo de calidad .",
+    "fr_FR": "Raffine 5\u00a0\u00e9chantillons de minerai de griffefer de qualit\u00e9  en 1 de qualit\u00e9 .",
+    "it_IT": "Raffina 5 minerali di Grinfiaferro  in 1 minerale di Grinfiaferro .",
+    "ru_RU": "\u041e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 5 \u0441\u043b\u0438\u0442\u043a\u043e\u0432 \u043a\u043e\u0433\u0442\u0435\u0441\u0442\u0430\u043b\u0438 -\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u044f \u0432 1 \u0441\u043b\u0438\u0442\u043e\u043a \u043a\u043e\u0433\u0442\u0435\u0441\u0442\u0430\u043b\u0438 -\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f.",
+    "ko_KR": " \ubb34\uc1e0\ubc1c\ud1b1 \uad11\uc11d 5\uac1c\ub97c  \ubb34\uc1e0\ubc1c\ud1b1 \uad11\uc11d 1\uac1c\ub85c \uac00\uacf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c075\u500b\u9435\u722a\u7926\u77f3\u7cbe\u7149\u62101\u500b\u9435\u722a\u7926\u77f3\u3002",
+    "zh_CN": "\u5c065\u4efd\u9554\u722a\u77ff\u7cbe\u5236\u62101\u4efd\u9554\u722a\u77ff\u3002"
+  }
 }

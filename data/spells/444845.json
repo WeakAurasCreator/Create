@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444845"
+  "SpellID": "444845",
+  "name_blz": {
+    "en_US": "Expanded Lungs",
+    "es_MX": "Pulmones expandidos",
+    "pt_BR": "Pulm\u00f5es Expandidos",
+    "de_DE": "Erweiterte Lungen",
+    "en_GB": "Expanded Lungs",
+    "es_ES": "Pulmones ampliados",
+    "fr_FR": "Capacit\u00e9 pulmonaire amplifi\u00e9e",
+    "it_IT": "Polmoni Potenziati",
+    "ru_RU": "\u041c\u043e\u0449\u043d\u044b\u0435 \u043b\u0435\u0433\u043a\u0438\u0435",
+    "ko_KR": "\ud655\uc7a5\ub41c \ud5c8\ud30c",
+    "zh_TW": "\u64f4\u5f35\u80ba\u6d3b\u91cf",
+    "zh_CN": "\u80ba\u6d3b\u731b\u589e"
+  },
+  "description_blz": {
+    "en_US": "Fire Breath's damage over time is increased by 30%. Dream Breath's heal over time is increased by 30%.",
+    "es_MX": "El da\u00f1o con el tiempo de Aliento de fuego aumenta un 30%. La curaci\u00f3n con el tiempo de Aliento de ensue\u00f1o aumenta un 30%.",
+    "pt_BR": "O dano peri\u00f3dico do Sopro de Fogo aumenta em 30%. A cura peri\u00f3dica do Sopro On\u00edrico aumenta em 30%.",
+    "de_DE": "Der Schaden von 'Feueratem' ist um 30% erh\u00f6ht. Der regelm\u00e4\u00dfige Heileffekt von 'Feueratem' ist um 30% erh\u00f6ht.",
+    "en_GB": "Fire Breath's damage over time is increased by 30%. Dream Breath's heal over time is increased by 30%.",
+    "es_ES": "El da\u00f1o en el tiempo de Aliento de Fuego aumenta un 30%. La sanaci\u00f3n en el tiempo de Aliento on\u00edrico aumenta un 30%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts sur la dur\u00e9e de Souffle de feu sont augment\u00e9s de 30\u00a0%. Les soins sur la dur\u00e9e de Souffle onirique sont augment\u00e9s de 30\u00a0%.",
+    "it_IT": "Aumenta i danni periodici inflitti da Soffio di Fuoco del 30%. Aumenta le cure periodiche fornite da Soffio del Sogno del 30%.",
+    "ru_RU": "\u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0434\u044b\u0445\u0430\u043d\u0438\u044f\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 30%. \u041f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \"\u0418\u0437\u0443\u043c\u0440\u0443\u0434\u043d\u043e\u0433\u043e \u0434\u044b\u0445\u0430\u043d\u0438\u044f\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 30%.",
+    "ko_KR": "\ubd88\uc758 \uc228\uacb0\uc758 \uc9c0\uc18d \ud53c\ud574 \ud6a8\uacfc\uac00 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uafc8\uc758 \uc228\uacb0\uc758 \uc9c0\uc18d \uce58\uc720 \ud6a8\uacfc\uac00 30%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u706b\u7130\u4e4b\u606f\u7684\u6301\u7e8c\u6027\u50b7\u5bb3\u63d0\u9ad830%\u3002\u5922\u5883\u4e4b\u606f\u7684\u6301\u7e8c\u6027\u6cbb\u7642\u63d0\u9ad830%\u3002",
+    "zh_CN": "\u706b\u7130\u5410\u606f\u7684\u6301\u7eed\u6027\u4f24\u5bb3\u63d0\u9ad830%\u3002\u68a6\u5883\u5410\u606f\u7684\u6301\u7eed\u6027\u6cbb\u7597\u6548\u679c30%\u3002"
+  }
 }

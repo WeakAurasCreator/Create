@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "431840"
+  "SpellID": "431840",
+  "name_blz": {
+    "en_US": "Master of Destiny",
+    "es_MX": "Amo del destino",
+    "pt_BR": "Mestre do Destino",
+    "de_DE": "Meister des Schicksals",
+    "en_GB": "Master of Destiny",
+    "es_ES": "Maestro del destino",
+    "fr_FR": "Ma\u00eetrise du destin",
+    "it_IT": "Padrone del Destino",
+    "ru_RU": "\u0412\u043b\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c \u0441\u0443\u0434\u044c\u0431\u044b",
+    "ko_KR": "\uc6b4\uba85\uc758 \uc8fc\uc778",
+    "zh_TW": "\u547d\u904b\u4e3b\u5bb0",
+    "zh_CN": "\u547d\u8fd0\u4e3b\u5bb0"
+  },
+  "description_blz": {
+    "en_US": "Casting Essence spells extends all your active Threads of Fate by 1 sec.",
+    "es_MX": "Lanzar hechizos de esencia extiende 1 s todos tus Hilos del destino activos.",
+    "pt_BR": "Lan\u00e7ar feiti\u00e7os de Ess\u00eancia estende em 1 s todos os seus Fios do Destino ativos.",
+    "de_DE": "Der Einsatz von Essenzzaubern verl\u00e4ngert alle Eure aktiven 'F\u00e4den des Schicksals' um 1 Sek.",
+    "en_GB": "Casting Essence spells extends all your active Threads of Fate by 1 sec.",
+    "es_ES": "Lanar hechizos de esencia prolonga 1 s todos tus hilos del destino activos.",
+    "fr_FR": "Le lancement de sorts d\u2019essence augmente la dur\u00e9e de vos fils du destin actifs de 1\u00a0s.",
+    "it_IT": "Gli incantesimi che consumano essenza estendono la durata di tutti i Fili del Fato attivi di 1 s.",
+    "ru_RU": "\u0417\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f, \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u044e\u0449\u0438\u0435 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u044e\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0432\u0441\u0435\u0445 \"\u041d\u0438\u0442\u0435\u0439 \u0441\u0443\u0434\u044c\u0431\u044b\" \u043d\u0430 1 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\uc218 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc \ud65c\uc131\ud654\ub41c \ubaa8\ub4e0 \uc6b4\uba85\uc758 \uc2e4\ud0c0\ub798\uc758 \uc9c0\uc18d\uc2dc\uac04\uc744 1\ucd08\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u9f8d\u80fd\u6cd5\u8853\u6703\u4f7f\u4f60\u6240\u6709\u751f\u6548\u7684\u547d\u904b\u7d72\u7dda\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95771\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u7cbe\u534e\u6cd5\u672f\u4f7f\u4f60\u6fc0\u6d3b\u7684\u6240\u6709\u547d\u8fd0\u4e1d\u7ebf\u5ef6\u957f1\u79d2\u3002"
+  }
 }
