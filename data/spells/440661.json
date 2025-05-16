@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "440661"
+  "SpellID": "440661",
+  "name_blz": {
+    "en_US": "Perfect Vision",
+    "es_MX": "Visi\u00f3n perfecta",
+    "pt_BR": "Vis\u00e3o Perfeita",
+    "de_DE": "Perfekte Vision",
+    "en_GB": "Perfect Vision",
+    "es_ES": "Visi\u00f3n perfecta",
+    "fr_FR": "Vision parfaite",
+    "it_IT": "Visione Perfetta",
+    "ru_RU": "\u0418\u0434\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc644\ubcbd\ud55c \uc2dc\uc57c",
+    "zh_TW": "\u5b8c\u7f8e\u8996\u754c",
+    "zh_CN": "\u5b8c\u7f8e\u9884\u793a"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of Premonition by 15 sec.\r\n",
+    "es_MX": "Reduce 15 s el tiempo de reutilizaci\u00f3n de Premonici\u00f3n.\r\n",
+    "pt_BR": "Reduz em 15 s a recarga de Premoni\u00e7\u00e3o.\r\n",
+    "de_DE": "Verringert die Abklingzeit von 'Vorahnung' um 15 Sek.\r\n",
+    "en_GB": "Reduces the cooldown of Premonition by 15 sec.\r\n",
+    "es_ES": "Reduce 15 s el tiempo de reutilizaci\u00f3n de Premonici\u00f3n.\r\n",
+    "fr_FR": "R\u00e9duit le temps de recharge de Pr\u00e9monition de 15\u00a0s.\r\n",
+    "it_IT": "Riduce il tempo di recupero di Premonizione di 15 s.\r\n",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0440\u0435\u0434\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u044f\" \u043d\u0430 15 \u0441\u0435\u043a.\r\n",
+    "ko_KR": "\ud749\uc870\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u9810\u793a\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed15\u79d2\u3002\r\n",
+    "zh_CN": "\u9884\u5146\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed15\u79d2\u3002\r\n"
+  }
 }

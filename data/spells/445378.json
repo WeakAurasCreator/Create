@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "445378"
+  "SpellID": "445378",
+  "name_blz": {
+    "en_US": "Algari Ingenuity",
+    "es_MX": "Ingenio algari",
+    "pt_BR": "Engenhosidade Algari",
+    "de_DE": "Algarische Genialit\u00e4t",
+    "en_GB": "Algari Ingenuity",
+    "es_ES": "Inventiva algariana",
+    "fr_FR": "Inventivit\u00e9 algarie",
+    "it_IT": "Ingegno Algari",
+    "ru_RU": "\u0410\u043b\u0433\u0430\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc54c\uac00\ub974 \ub3c5\ucc3d\uc131",
+    "zh_TW": "\u963f\u723e\u52a0\u7cbe\u5999",
+    "zh_CN": "\u963f\u52a0\u5947\u601d"
+  },
+  "description_blz": {
+    "en_US": "Earthen Enhancements - Terrific Tools\r\n\r\nPermanently enchants a crafting tool to increase your Ingenuity by 72. Cannot be applied to items lower than level 500.",
+    "es_MX": "Mejoras terr\u00e1neas - Herramientas extraordinarias\r\n\r\nEncanta una herramienta de fabricaci\u00f3n de forma permanente para aumentar 72 p. tu ingenio. No se puede aplicar a objetos de nivel inferior a 500.",
+    "pt_BR": "Enriquecimentos Terranos - Ferramentas Formid\u00e1veis\r\n\r\nEncanta permanentemente uma ferramenta de cria\u00e7\u00e3o para aumentar em 72 a Engenhosidade. N\u00e3o \u00e9 poss\u00edvel aplicar a itens abaixo do n\u00edvel 500.",
+    "de_DE": "Irdene Verbesserungen - Wunderbare Werkzeuge\r\n\r\nEin Handwerkswerkzeug dauerhaft verzaubern, sodass Eure Genialit\u00e4t um 72 erh\u00f6ht wird. Kann nicht auf Gegenst\u00e4nde unter Stufe 500 angewandt werden.",
+    "en_GB": "Earthen Enhancements - Terrific Tools\r\n\r\nPermanently enchants a crafting tool to increase your Ingenuity by 72. Cannot be applied to items lower than level 500.",
+    "es_ES": "Mejoras terr\u00e1neas - Herramientas estupendas\r\n\r\nEncanta de forma permanente una herramienta de fabricaci\u00f3n para que aumente 72 p. tu inventiva. No se puede aplicar a objetos de nivel inferior a 500.",
+    "fr_FR": "Enchantements terrestres\u00a0: outils extraordinaires\r\n\r\nEnchante un outil d\u2019artisanat de mani\u00e8re permanente. Augmente votre Inventivit\u00e9 de 72. Ne peut \u00eatre appliqu\u00e9 sur des objets d\u2019un niveau inf\u00e9rieur \u00e0 500.",
+    "it_IT": "Potenziamenti Terrigeni - Attrezzi Fantastici\r\n\r\nIncanta in modo permanente un attrezzo d'artigianato, aumentando l'Ingegno di 72. Non applicabile a oggetti di livello inferiore a 500.",
+    "ru_RU": "\u0417\u0430\u043a\u043b\u044f\u0442\u0438\u044f \u0437\u0435\u043c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u2013 \u0418\u0434\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b\r\n\r\n\u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0443 \u0434\u043b\u044f \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u0438 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u044b\u0435 \u0447\u0430\u0440\u044b, \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u0435 \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043d\u0430 72. \u041d\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u043d\u0438\u0436\u0435 500-\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f.",
+    "ko_KR": "\ud1a0\uc11d\uc778 \uac15\ud654 - \ud0c1\uc6d4\ud55c \ub3c4\uad6c\r\n\r\n\uc81c\uc791 \ub3c4\uad6c\uc5d0 \uc601\uad6c\uc801\uc73c\ub85c \ub9c8\ubc95\uc744 \ubd80\uc5ec\ud574 \ucc29\uc6a9\uc790\uc758 \ub3c5\ucc3d\uc131\uc744 72\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. 500 \ub808\ubca8 \ubbf8\ub9cc\uc758 \uc544\uc774\ud15c\uc5d0\ub294 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u571f\u9748\u5f37\u5316 - \u9802\u5c16\u5de5\u5177\r\n\r\n\u6c38\u4e45\u6027\u5730\u70ba\u88fd\u4f5c\u5de5\u5177\u9644\u9b54\uff0c\u4f7f\u4f60\u7684\u7cbe\u5999\u63d0\u9ad872\u9ede\u3002\u7121\u6cd5\u7528\u5728\u7b49\u7d1a\u4f4e\u65bc500\u7684\u7269\u54c1\u3002",
+    "zh_CN": "\u571f\u7075\u589e\u5f3a - \u5148\u5229\u5176\u5668\r\n\r\n\u6c38\u4e45\u6027\u5730\u4e3a\u4e00\u4ef6\u5236\u4f5c\u5de5\u5177\u9644\u9b54\uff0c\u4f7f\u4f60\u7684\u5947\u601d\u63d0\u9ad872\u3002\u4e0d\u80fd\u5bf9\u7269\u54c1\u7b49\u7ea7\u4f4e\u4e8e500\u7684\u7269\u54c1\u4f7f\u7528\u3002"
+  }
 }

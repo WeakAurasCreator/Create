@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "438600"
+  "SpellID": "438600",
+  "name_blz": {
+    "en_US": "Excess Frost",
+    "es_MX": "Escarcha excesiva",
+    "pt_BR": "Gelo Excessivo",
+    "de_DE": "Frost\u00fcberschuss",
+    "en_GB": "Excess Frost",
+    "es_ES": "Exceso de Escarcha",
+    "fr_FR": "Surcharge de givre",
+    "it_IT": "Eccesso di Gelo",
+    "ru_RU": "\u0418\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u044b\u0439 \u043b\u0435\u0434",
+    "ko_KR": "\ub0c9\uae30 \uacfc\uc789",
+    "zh_TW": "\u51b0\u971c\u6eff\u6ea2",
+    "zh_CN": "\u6ea2\u6d41\u5bd2\u971c"
+  },
+  "description_blz": {
+    "en_US": "Consuming Excess Fire causes your next  to also cast Ice Nova at 150% effectiveness. Ice Novas cast this way do not freeze enemies in place.\r\n\r\nWhen you consume Excess Frost, the cooldown of  is reduced by 3 sec.",
+    "es_MX": "Consumir Fuego excesivo hace que tu siguiente  tambi\u00e9n lance Nova de hielo con un 150% de efectividad. Las Novas de hielo lanzadas de este modo no congelan a los enemigos en una posici\u00f3n.\r\n\r\nCuando consumes Escarcha excesiva, el tiempo de reutilizaci\u00f3n de  se reduce 3 s.",
+    "pt_BR": "Consumir Fogo Excessivo faz seu pr\u00f3ximo lan\u00e7amento de  tamb\u00e9m lan\u00e7ar Nova de Gelo com 150% da efic\u00e1cia.\r\n\r\nQuando voc\u00ea consome Gelo Excessivo, a recarga de  \u00e9 reduzida em 3 s.",
+    "de_DE": "Wenn Ihr 'Feuer\u00fcberschuss' verbraucht, l\u00f6st Euer n\u00e4chster Einsatz von  zus\u00e4tzlich 'Eisnova' mit 150% Effektivit\u00e4t aus.\r\n\r\nWenn Ihr 'Frost\u00fcberschuss' verbraucht, wird die Abklingzeit von  um 3 Sek verringert.",
+    "en_GB": "Consuming Excess Fire causes your next  to also cast Ice Nova at 150% effectiveness. Ice Novas cast this way do not freeze enemies in place.\r\n\r\nWhen you consume Excess Frost, the cooldown of  is reduced by 3 sec.",
+    "es_ES": "Al consumir Exceso de Fuego, tu siguiente lanzamiento de  tambi\u00e9n lanza Nova de hielo con un 150% de efectividad. Las Novas de hielo que se lancen de este modo no congelan a los enemigos en su sitio.\r\n\r\nCuando consumes Exceso de Escarcha, el tiempo de reutilizaci\u00f3n de  se reduce 3 s.",
+    "fr_FR": "La consommation de Surcharge de feu fait que votre prochaine incantation de  lance \u00e9galement Nova de glace \u00e0 150\u00a0% d\u2019efficacit\u00e9.\r\n\r\nLorsque vous consommez Surcharge de givre, le temps de recharge de  est r\u00e9duit de 3\u00a0s.",
+    "it_IT": "Consumare Eccesso di Fuoco fa s\u00ec che il successivo lancio di  lanci anche Esplosione di Ghiaccio al 150% dell'efficacia. Questi lanci di Esplosione di Ghiaccio non congelano sul posto i nemici.\r\n\r\nConsumare Eccesso di Gelo riduce il tempo di recupero di  di 3 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0418\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\", \u0432\u0430\u0448\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435  \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u041a\u043e\u043b\u044c\u0446\u043e \u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u044f\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 150%. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \"\u041a\u043e\u043b\u044c\u0446\u043e \u043e\u0431\u043b\u0435\u0434\u0435\u043d\u0435\u043d\u0438\u044f\" \u043d\u0435 \u043f\u0440\u0438\u043c\u043e\u0440\u0430\u0436\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043a \u043c\u0435\u0441\u0442\u0443.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0418\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u044b\u0439 \u043b\u0435\u0434\", \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f  \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\ud654\uc5fc \uacfc\uc789\uc744 \uc18c\ubaa8\ud558\uba74 \ub2e4\uc74c  \uc2dc\uc804 \uc2dc \ucd94\uac00\ub85c 150%\uc758 \ud6a8\uc728\ub85c \uc11c\ub9ac \ud68c\uc624\ub9ac\ub97c \uc2dc\uc804\ud569\ub2c8\ub2e4. \uc774 \ubc29\uc2dd\uc73c\ub85c \uc2dc\uc804\ub418\ub294 \uc11c\ub9ac \ud68c\uc624\ub9ac\ub294 \uc801\uc744 \uc5bc\uc5b4\ubd99\uac8c \ub9cc\ub4e4\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.\r\n\r\n\ub0c9\uae30 \uacfc\uc789 \ud6a8\uacfc\ub97c \uc18c\ubaa8\ud558\uba74 \uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 3\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6d88\u8017\u70c8\u706b\u6eff\u6ea2\u6642\uff0c\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u4e5f\u6703\u65bd\u653e\u6548\u679c\u5f37\u5ea6\u70ba150%\u7684\u5bd2\u51b0\u65b0\u661f\u3002\u4ee5\u6b64\u65b9\u5f0f\u65bd\u653e\u7684\u5bd2\u51b0\u65b0\u661f\u4e0d\u6703\u5c07\u6575\u4eba\u51cd\u7d50\u5728\u539f\u5730\u3002\r\n\r\n\u7576\u4f60\u6d88\u8017\u51b0\u971c\u6eff\u6ea2\u6642\uff0c\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed3\u79d2\u3002",
+    "zh_CN": "\u6d88\u8017\u6ea2\u6d41\u98de\u706b\u4f1a\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u8fd8\u4f1a\u65bd\u653e\u5bd2\u51b0\u65b0\u661f\uff0c\u4ea7\u751f150%\u7684\u6548\u679c\u3002\r\n\r\n\u6d88\u8017\u6ea2\u6d41\u5bd2\u971c\u65f6\uff0c\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed3\u79d2\u3002"
+  }
 }

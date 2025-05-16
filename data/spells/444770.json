@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444770"
+  "SpellID": "444770",
+  "name_blz": {
+    "en_US": "Death Drive",
+    "es_MX": "Impulso mortal",
+    "pt_BR": "\u00cdmpeto da Morte",
+    "de_DE": "Todestrieb",
+    "en_GB": "Death Drive",
+    "es_ES": "\u00cdmpetu mortal",
+    "fr_FR": "App\u00e9tit meurtrier",
+    "it_IT": "Pulsione Mortale",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u043e\u0435 \u0440\u0432\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc8fd\uc74c\uc758 \ucd94\uc9c4\ub825",
+    "zh_TW": "\u6b7b\u4ea1\u9a45\u4f7f",
+    "zh_CN": "\u593a\u547d\u52a8\u529b"
+  },
+  "description_blz": {
+    "en_US": "You heal for 15% of damage dealt by Sudden Death.",
+    "es_MX": "Te sanas por un 15% del da\u00f1o que inflige Muerte s\u00fabita.",
+    "pt_BR": "Voc\u00ea recebe uma cura equivalente a 15% do dano causado por Morte S\u00fabita.",
+    "de_DE": "Ihr heilt um 15% des durch 'Pl\u00f6tzlicher Tod' verursachten Schadens.",
+    "en_GB": "You heal for 15% of damage dealt by Sudden Death.",
+    "es_ES": "Te sanas un 15% del da\u00f1o infligido con Muerte s\u00fabita.",
+    "fr_FR": "Vous vous soignez \u00e0 hauteur de 15\u00a0% des d\u00e9g\u00e2ts que vous infligez avec Mort subite.",
+    "it_IT": "Rigenera salute pari al 15% dei danni inflitti da Morte Improvvisa.",
+    "ru_RU": "\"\u0412\u043d\u0435\u0437\u0430\u043f\u043d\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 15% \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uae09\uc0b4\ub85c \uc785\ud78c \ud53c\ud574\uc758 15%\ub9cc\ud07c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u6062\u5fa9\u76f8\u7576\u65bc\u9a5f\u4ea1\u6240\u9020\u6210\u50b7\u5bb315%\u7684\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u731d\u6b7b\u9020\u6210\u7684\u4f24\u5bb3\u768415%\u4e3a\u4f60\u6062\u590d\u751f\u547d\u503c\u3002"
+  }
 }

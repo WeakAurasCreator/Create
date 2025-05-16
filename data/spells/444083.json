@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444083"
+  "SpellID": "444083",
+  "name_blz": {
+    "en_US": "Pact of the Apocalypse",
+    "es_MX": "Pacto del apocalipsis",
+    "pt_BR": "Pacto do Apocalipse",
+    "de_DE": "Pakt der Apokalypse",
+    "en_GB": "Pact of the Apocalypse",
+    "es_ES": "Pacto del Apocalipsis",
+    "fr_FR": "Pacte de l\u2019apocalypse",
+    "it_IT": "Patto dell'Apocalisse",
+    "ru_RU": "\u041f\u0430\u043a\u0442 \u0410\u043f\u043e\u043a\u0430\u043b\u0438\u043f\u0441\u0438\u0441\u0430",
+    "ko_KR": "\uc885\ub9d0\uc758 \uc11c\uc57d",
+    "zh_TW": "\u5929\u555f\u4e4b\u7d04",
+    "zh_CN": "\u5929\u542f\u5951\u7ea6"
+  },
+  "description_blz": {
+    "en_US": "When you take damage, 5% of the damage is redirected to each active horsemen.",
+    "es_MX": "Cuando recibes da\u00f1o, un 5% se redirige hacia cada jinete activo.",
+    "pt_BR": "Ao receber dano, 5% do dano \u00e9 redirecionado para cada cavaleiro ativo.",
+    "de_DE": "Wenn Ihr Schaden erleidet, werden 5% davon auf jeden aktiven Reiter umgeleitet.",
+    "en_GB": "When you take damage, 5% of the damage is redirected to each active horsemen.",
+    "es_ES": "Cuando recibes da\u00f1o, un 5% de ese da\u00f1o se redirige a cada Jinete activo.",
+    "fr_FR": "Lorsque vous subissez des d\u00e9g\u00e2ts, 5\u00a0% de ces derniers sont redirig\u00e9s vers chaque cavalier actif.",
+    "it_IT": "Quando si subiscono danni, il 5% dei danni subiti viene reindirizzato su ciascun Cavaliere attivo.",
+    "ru_RU": "5% \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0433\u043e \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d\u0430 \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0430 \u0432\u0441\u0435\u0445 \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0445 \u0432\u0441\u0430\u0434\u043d\u0438\u043a\u043e\u0432.",
+    "ko_KR": "\ud53c\ud574\ub97c \ubc1b\uc744 \ub54c, \ubc1b\uc740 \ud53c\ud574\uc758 5%\ub97c \uac01 \ud65c\uc131\ud654\ub41c \uae30\uc0ac\ub2e8\uc6d0\uc5d0\uac8c \uc774\uc804\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u53d7\u5230\u50b7\u5bb3\u6642\uff0c\u6703\u5c07\u8a72\u50b7\u5bb3\u76845%\u8f49\u79fb\u5230\u555f\u7528\u7684\u9a0e\u58eb\u8eab\u4e0a\u3002",
+    "zh_CN": "\u5f53\u4f60\u53d7\u5230\u4f24\u5bb3\u65f6\uff0c5%\u7684\u4f24\u5bb3\u4f1a\u8f6c\u79fb\u7ed9\u6bcf\u4e2a\u6fc0\u6d3b\u7684\u5929\u542f\u9a91\u58eb\u3002"
+  }
 }

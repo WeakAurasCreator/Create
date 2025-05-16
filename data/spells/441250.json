@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "441250"
+  "SpellID": "441250",
+  "name_blz": {
+    "en_US": "Mirrors",
+    "es_MX": "Espejos",
+    "pt_BR": "Espelhos",
+    "de_DE": "Spiegelungen",
+    "en_GB": "Mirrors",
+    "es_ES": "Espejos",
+    "fr_FR": "Miroirs",
+    "it_IT": "Specchi",
+    "ru_RU": "\u0417\u0435\u0440\u043a\u0430\u043b\u0430",
+    "ko_KR": "\uac70\uc6b8",
+    "zh_TW": "\u93e1\u9762",
+    "zh_CN": "\u955c\u5f71"
+  },
+  "description_blz": {
+    "en_US": "Feint reduces damage taken from area-of-effect attacks by an additional 10%",
+    "es_MX": "Amago reduce un 10% m\u00e1s el da\u00f1o recibido de ataques con \u00e1rea de efecto.",
+    "pt_BR": "Finta reduz o dano recebido de ataques em \u00e1rea em mais 10%.",
+    "de_DE": "'Finte' verringert den durch Angriffe erlittenen Fl\u00e4chenschaden zus\u00e4tzlich um 10%.",
+    "en_GB": "Feint reduces damage taken from area-of-effect attacks by an additional 10%",
+    "es_ES": "Amago reduce un 10% m\u00e1s el da\u00f1o recibido de ataques de \u00e1rea de efecto.",
+    "fr_FR": "Feinte r\u00e9duit les d\u00e9g\u00e2ts subis des attaques de zone de 10\u00a0% suppl\u00e9mentaires.",
+    "it_IT": "Finta riduce i danni subiti dagli attacchi ad area d'effetto del 10% aggiuntivo.",
+    "ru_RU": "\"\u0423\u043b\u043e\u0432\u043a\u0430\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0430\u0442\u0430\u043a \u043f\u043e \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0435\u0449\u0435 \u043d\u0430 10%.",
+    "ko_KR": "\uad50\ub780\uc774 \uad11\uc5ed \uacf5\uaca9\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574\ub97c \ucd94\uac00\ub85c 10%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f6f\u653b\u6703\u4f7f\u53d7\u5230\u7684\u7bc4\u570d\u653b\u64ca\u50b7\u5bb3\u984d\u5916\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u4f6f\u653b\u4f7f\u53d7\u5230\u7684\u8303\u56f4\u653b\u51fb\u4f24\u5bb3\u989d\u5916\u964d\u4f4e10%\u3002"
+  }
 }

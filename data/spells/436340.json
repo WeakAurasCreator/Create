@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "436340"
+  "SpellID": "436340",
+  "name_blz": {
+    "en_US": "Titan-Wrought Frame",
+    "es_MX": "Estructura forjada por los titanes",
+    "pt_BR": "Robustez Tit\u00e2nica",
+    "de_DE": "Gesch\u00f6pf der Titanen",
+    "en_GB": "Titan-Wrought Frame",
+    "es_ES": "Armaz\u00f3n tit\u00e1nico",
+    "fr_FR": "Structure forg\u00e9e par les Titans",
+    "it_IT": "Struttura Forgiata dai Titani",
+    "ru_RU": "\u0412\u044b\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0442\u0438\u0442\u0430\u043d\u0430\u043c\u0438 \u043e\u0441\u0442\u043e\u0432",
+    "ko_KR": "\ud2f0\ud0c4\uc774 \ubcbc\ub9b0 \uace8\uaca9",
+    "zh_TW": "\u6cf0\u5766\u9444\u9020\u6846\u67b6",
+    "zh_CN": "\u6cf0\u5766\u6253\u9020\u7684\u8eab\u8eaf"
+  },
+  "description_blz": {
+    "en_US": "Base armor from equipped items is increased by 10%.",
+    "es_MX": "La armadura b\u00e1sica que otorgan los objetos equipados aumenta un 10%.",
+    "pt_BR": "A armadura b\u00e1sica de itens equipados aumenta em 10%.",
+    "de_DE": "Erh\u00f6ht den R\u00fcstungsgrundwert durch angelegte Gegenst\u00e4nde um 10%.",
+    "en_GB": "Base armor from equipped items is increased by 10%.",
+    "es_ES": "La armadura base de los objetos equipados aumenta un 10%.",
+    "fr_FR": "L\u2019Armure de base des objets port\u00e9s est augment\u00e9e de 10\u00a0%.",
+    "it_IT": "Aumenta l'armatura di base fornita dagli oggetti equipaggiati del 10%.",
+    "ru_RU": "\u0411\u0430\u0437\u043e\u0432\u044b\u0439 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u0431\u0440\u043e\u043d\u0438 \u043e\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%.",
+    "ko_KR": "\ucc29\uc6a9\ud55c \uc544\uc774\ud15c\uc744 \ud1b5\ud574 \uc5bb\ub294 \uae30\ubcf8 \ubc29\uc5b4\ub3c4\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5f9e\u88dd\u5099\u7269\u54c1\u7372\u5f97\u7684\u57fa\u790e\u8b77\u7532\u503c\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u88c5\u5907\u7269\u54c1\u7684\u57fa\u7840\u62a4\u7532\u503c\u63d0\u9ad810%\u3002"
+  }
 }
