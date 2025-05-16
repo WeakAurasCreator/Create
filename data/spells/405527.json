@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405527"
+  "SpellID": "405527",
+  "name_blz": {
+    "en_US": "Hunter Marksmanship 10.1 Class Set 4pc",
+    "en_GB": "Hunter Marksmanship 10.1 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Kill Shot deals 15% increased damage and reduces the cooldown of Aimed Shot and Rapid Fire by 1.5 sec.",
+    "es_MX": "Disparo mortal causa un 15% m\u00e1s de da\u00f1o y reduce el tiempo de reutilizaci\u00f3n de Disparo de punter\u00eda y Fuego r\u00e1pido en 1.5 s.",
+    "pt_BR": "Tiro Mortal causa 15% a mais de dano e reduz em 1,5 s a recarga de Tiro Certo e Tiro R\u00e1pido.",
+    "de_DE": "'T\u00f6dlicher Schuss' verursacht 15% mehr Schaden und verringert die Abklingzeit von 'Gezielter Schuss' und 'Schnellfeuer' um 1,5 Sek.",
+    "en_GB": "Kill Shot deals 15% increased damage and reduces the cooldown of Aimed Shot and Rapid Fire by 1.5 sec.",
+    "es_ES": "Disparo mortal inflige un 15% m\u00e1s de da\u00f1o y reduce 1,5 s el tiempo de reutilizaci\u00f3n de Disparo de punter\u00eda y de Fuego r\u00e1pido.",
+    "fr_FR": "Tir mortel inflige 15% de d\u00e9g\u00e2ts suppl\u00e9mentaires et r\u00e9duit le temps de recharge de Vis\u00e9e et Tir rapide de 1,5\u00a0s.",
+    "it_IT": "Aumenta i danni inflitti da Tiro Mortale del 15% e riduce il tempo di recupero di Tiro Mirato e Rapidit\u00e0 di Tiro di 1,5 s.",
+    "ru_RU": "\"\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u043d\u0430 1,5 \u0441\u0435\u043a. \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0438 \"\u0411\u044b\u0441\u0442\u0440\u043e\u0439 \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u044b\".",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc0ac\uaca9\uc774 15%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc870\uc900 \uc0ac\uaca9\uacfc \uc18d\uc0ac\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 1.5\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u64ca\u6bba\u5c04\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\uff0c\u4e26\u4f7f\u7784\u6e96\u5c04\u64ca\u548c\u6025\u901f\u5c04\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.5\u79d2\u3002",
+    "zh_CN": "\u593a\u547d\u5c04\u51fb\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u5e76\u4f7f\u7784\u51c6\u5c04\u51fb\u548c\u6025\u901f\u5c04\u51fb\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.5\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "414073"
+  "SpellID": "414073",
+  "name_blz": {
+    "en_US": "Light's Conviction",
+    "es_MX": "Convicci\u00f3n lum\u00ednica",
+    "pt_BR": "Convic\u00e7\u00e3o da Luz",
+    "de_DE": "\u00dcberzeugung des Lichts",
+    "en_GB": "Light's Conviction",
+    "es_ES": "Convicci\u00f3n de la Luz",
+    "fr_FR": "Sentence de la Lumi\u00e8re",
+    "it_IT": "Convinzione della Luce",
+    "ru_RU": "\u0423\u0431\u0435\u0436\u0434\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0421\u0432\u0435\u0442\u0430",
+    "ko_KR": "\ube5b\uc758 \uc2e0\ub150",
+    "zh_TW": "\u8056\u5149\u4fe1\u5ff5",
+    "zh_CN": "\u5723\u5149\u51b3\u65ad"
+  },
+  "description_blz": {
+    "en_US": "Holy Shock now has 2 charges and it refunds 50% of its mana cost when cast on an enemy.",
+    "es_MX": "Choque sagrado ahora tiene 2 cargas y restituye un 50% de su costo de man\u00e1 cuando se lanza sobre un enemigo.",
+    "pt_BR": "Choque Sagrado agora tem 2 cargas e restitui 50% do custo de mana ao ser lan\u00e7ado em um inimigo.",
+    "de_DE": "Euer 'Heiliger Schock' hat 2 Aufladungen und erstattet beim Einsatz gegen einen Gegner 50% der Manakosten zur\u00fcck.",
+    "en_GB": "Holy Shock now has 2 charges and it refunds 50% of its mana cost when cast on an enemy.",
+    "es_ES": "Ahora, Choque Sagrado tiene 2 cargas y devuelve un 50% de su coste de man\u00e1 cuando se lanza a un enemigo.",
+    "fr_FR": "Horion sacr\u00e9 poss\u00e8de d\u00e9sormais 2\u00a0charges et rend 50\u00a0% de son co\u00fbt en mana s\u2019il est utilis\u00e9 contre un personnage adverse.",
+    "it_IT": "Folgore Sacra ha 2 cariche e ripristina il 50% del proprio costo in mana quando viene lanciata su un nemico.",
+    "ru_RU": "\"\u0428\u043e\u043a \u043d\u0435\u0431\u0435\u0441\" \u0442\u0435\u043f\u0435\u0440\u044c \u0438\u043c\u0435\u0435\u0442 2 \u0437\u0430\u0440\u044f\u0434\u0430. \u041f\u0440\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\" \u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 50% \u0437\u0430\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u043e\u0439 \u043c\u0430\u043d\u044b.",
+    "ko_KR": "\uc2e0\uc131 \ucda9\uaca9\uc774 2\ud68c \ucda9\uc804\ub429\ub2c8\ub2e4. \ub610\ud55c \uc801\uc5d0\uac8c \uc2dc\uc804 \uc2dc \uc18c\ubaa8\ud55c \ub9c8\ub098\uc758 50%\ub97c \ub3cc\ub824\ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u795e\u8056\u9707\u64ca\u73fe\u5728\u53ef\u4f7f\u75282\u6b21\uff0c\u800c\u4e14\u5c0d\u6575\u4eba\u65bd\u653e\u6642\uff0c\u8fd4\u908450%\u6d88\u8017\u7684\u6cd5\u529b\u3002",
+    "zh_CN": "\u795e\u5723\u9707\u51fb\u73b0\u67092\u6b21\u5145\u80fd\uff0c\u5bf9\u654c\u4eba\u65bd\u653e\u65f6\u8fd4\u8fd850%\u7684\u6cd5\u529b\u503c\u6d88\u8017\u3002"
+  }
 }

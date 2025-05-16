@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "429433"
+  "SpellID": "429433",
+  "name_blz": {
+    "en_US": "Blooming Infusion",
+    "es_MX": "Infusi\u00f3n floral",
+    "pt_BR": "Infus\u00e3o de Flores",
+    "de_DE": "Bl\u00fchende Infusion",
+    "en_GB": "Blooming Infusion",
+    "es_ES": "Infusi\u00f3n floreciente",
+    "fr_FR": "Impr\u00e9gnation florissante",
+    "it_IT": "Infusione Sbocciante",
+    "ru_RU": "\u0426\u0432\u0435\u0442\u043e\u0447\u043d\u043e\u0435 \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ub9cc\ubc1c\ud558\ub294 \uc8fc\uc785",
+    "zh_TW": "\u7dbb\u653e\u704c\u6ce8",
+    "zh_CN": "\u76db\u653e\u6ce8\u80fd"
+  },
+  "description_blz": {
+    "en_US": "Every 5 Regrowths you cast makes your next Wrath, Starfire, or Entangling Roots instant and increases damage it deals by 100%.\r\n\r\nEvery 5 Starsurges you cast makes your next Regrowth or Entangling roots instant.",
+    "es_MX": "Cada 5 Recrecimientos que lanzas, tu siguiente C\u00f3lera, Fuego estelar o Ra\u00edces enredadoras es instant\u00e1neo y aumenta un 100% el da\u00f1o que inflige.\r\n\r\nCada 5 Oleadas de estrellas que lanzas, tu siguiente Recrecimiento o Ra\u00edces enredadoras es instant\u00e1neo.",
+    "pt_BR": "Cada 5 Recrescimentos que voc\u00ea lan\u00e7a tornam seu pr\u00f3ximo lan\u00e7amento de Ira, Fogo Estelar ou Ra\u00edzes Enredantes instant\u00e2neo e aumentam em 100% o dano causado.\r\n\r\nCada 5 Surtos Estelares que voc\u00ea lan\u00e7a tornam seu pr\u00f3ximo lan\u00e7amento de Recrescimento ou Ra\u00edzes Enredantes instant\u00e2neo.",
+    "de_DE": "Jeder 5. Einsatz von 'Nachwachsen' macht Euren n\u00e4chsten Einsatz von 'Zorn', 'Sternenfeuer' oder 'Wucherwurzeln' zu einem Spontanzauber und erh\u00f6ht deren Schaden um 100%.\r\n\r\nJeder 5. Einsatz von 'Sternensog'  macht Euren n\u00e4chsten Einsatz von 'Nachwachsen' oder 'Wucherwurzeln' zu einem Spontanzauber.",
+    "en_GB": "Every 5 Regrowths you cast makes your next Wrath, Starfire, or Entangling Roots instant and increases damage it deals by 100%.\r\n\r\nEvery 5 Starsurges you cast makes your next Regrowth or Entangling roots instant.",
+    "es_ES": "Cada 5 lanzamientos de Recrecimiento, tu siguiente C\u00f3lera, Fuego estelar o Ra\u00edces enredadoras es instant\u00e1neo e inflige un 100% m\u00e1s de da\u00f1o.\r\n\r\nPor cada 5 lanzamientos de Oleada de estrellas tu siguiente Recrecimiento o Ra\u00edces enredadoras es instant\u00e1neo.",
+    "fr_FR": "Chaque fois que vous lancez R\u00e9tablissement 5\u00a0fois, vous pouvez rendre instantan\u00e9 le prochain lancement de Col\u00e8re, Feu stellaire ou Sarments. Augmente les d\u00e9g\u00e2ts du sort lanc\u00e9 de cette mani\u00e8re de 100\u00a0%.\r\n\r\nChaque fois que vous lancez \u00c9ruption stellaire 5\u00a0fois, vous pouvez rendre instantan\u00e9 le prochain lancement de R\u00e9tablissement ou Sarments.",
+    "it_IT": "Ogni 5 lanci di Ricrescita, il successivo lancio di Ira Silvana, Fuoco Stellare o Radici Avvolgenti \u00e8 istantaneo e infligge il 100% di danni aggiuntivi.\r\n\r\nOgni 5 lanci di Cometa Arcana, il successivo lancio di Ricrescita o Radici Avvolgenti \u00e8 istantaneo.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u043e\u0435 5-\u0435 \"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\" \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0413\u043d\u0435\u0432\", \"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\" \u0438\u043b\u0438 \"\u0413\u043d\u0435\u0432 \u0434\u0435\u0440\u0435\u0432\u044c\u0435\u0432\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0441 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u043d\u044b\u043c \u043d\u0430 100% \u0443\u0440\u043e\u043d\u043e\u043c.\r\n\r\n\u041a\u0430\u0436\u0434\u044b\u0439 5-\u0439 \"\u0417\u0432\u0435\u0437\u0434\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\" \u0438\u043b\u0438 \"\u0413\u043d\u0435\u0432 \u0434\u0435\u0440\u0435\u0432\u044c\u0435\u0432\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e.",
+    "ko_KR": "\uc7ac\uc0dd\uc744 5\ud68c \uc2dc\uc804\ud560 \ub54c\ub9c8\ub2e4 \ub2e4\uc74c \ucc9c\ubc8c, \ubcc4\ube5b\uc12c\uad11 \ub610\ub294 \ud718\uac10\ub294 \ubfcc\ub9ac\uac00 \uc989\uc2dc \uc2dc\uc804\ub418\uace0 \uacf5\uaca9\ub825\uc740 100%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ubcc4\ube5b\uc1c4\ub3c4\ub97c 5\ud68c \uc2dc\uc804\ud560 \ub54c\ub9c8\ub2e4 \ub2e4\uc74c \uc7ac\uc0dd \ub610\ub294 \ud718\uac10\ub294 \ubfcc\ub9ac\uac00 \uc989\uc2dc \uc2dc\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u6bcf\u65bd\u653e5\u500b\u7652\u5408\uff0c\u5c31\u6703\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u61a4\u6012\u3001\u661f\u706b\u8853\u6216\u7cfe\u7e8f\u6839\u9b1a\u6210\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u4e14\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad8100%\u3002\r\n\r\n\u4f60\u6bcf\u65bd\u653e5\u500b\u661f\u6e67\u8853\uff0c\u5c31\u6703\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u7652\u5408\u6216\u7cfe\u7e8f\u6839\u9b1a\u6210\u70ba\u77ac\u767c\u6cd5\u8853\u3002",
+    "zh_CN": "\u6bcf\u65bd\u653e5\u6b21\u6108\u5408\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u6124\u6012\u3001\u661f\u706b\u672f\u6216\u7ea0\u7f20\u6839\u987b\u53d8\u4e3a\u77ac\u53d1\uff0c\u4e14\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8100%\u3002\r\n\r\n\u6bcf\u65bd\u653e5\u6b21\u661f\u6d8c\u672f\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u6108\u5408\u6216\u7ea0\u7f20\u6839\u987b\u53d8\u4e3a\u77ac\u53d1\u3002"
+  }
 }

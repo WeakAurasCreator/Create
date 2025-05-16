@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "414131"
+  "SpellID": "414131",
+  "name_blz": {
+    "en_US": "Yu'lon's Grace",
+    "es_MX": "Gracia de Yu'lon",
+    "pt_BR": "Gra\u00e7a de Yu'lon",
+    "de_DE": "Yu'lons Anmut",
+    "en_GB": "Yu'lon's Grace",
+    "es_ES": "Gracia de Yu'lon",
+    "fr_FR": "Gr\u00e2ce de Yu\u2019lon",
+    "it_IT": "Grazia di Yu'lon",
+    "ru_RU": "\u041c\u0438\u043b\u043e\u0441\u0442\u044c \u042e\u0439-\u043b\u0443\u043d",
+    "ko_KR": "\uc704\ub860\uc758 \uc740\ucd1d",
+    "zh_TW": "\u7389\u9f8d\u6069\u5178",
+    "zh_CN": "\u7389\u73d1\u7684\u4f18\u96c5"
+  },
+  "description_blz": {
+    "en_US": "Find resilience in the flow of chi in battle, gaining a magic absorb shield for 1.0% of your max health every 3 sec in combat, stacking up to 10%.",
+    "es_MX": "Encuentra temple en el flujo de chi durante la batalla y obt\u00e9n un escudo de absorci\u00f3n m\u00e1gica equivalente al 1.0% de tu salud m\u00e1xima cada 3 s que pasas en combate, que se acumula hasta un 10%.",
+    "pt_BR": "Encontra resili\u00eancia no fluxo de chi na batalha, ganhando um escudo de absor\u00e7\u00e3o m\u00e1gica equivalente a 1,0% do seu m\u00e1ximo de pontos de vida a cada 3 s em combate, acumulando at\u00e9 10%.",
+    "de_DE": "Findet w\u00e4hrend des Kampfes Widerstandskraft im Fluss des Chi, wodurch Ihr alle 3 Sek. einen magischen Absorptionsschild in H\u00f6he von 1,0% Eurer maximalen Gesundheit erhaltet. Bis zu einem Wert von 10% stapelbar.",
+    "en_GB": "Find resilience in the flow of chi in battle, gaining a magic absorb shield for 1.0% of your max health every 3 sec in combat, stacking up to 10%.",
+    "es_ES": "Hallas resistencia en el flujo del chi durante la batalla, lo que te otorga un escudo de absorci\u00f3n m\u00e1gico equivalente a un 1,0% de tu salud m\u00e1xima cada 3 s que est\u00e9s en combate. Se acumula hasta un 10%.",
+    "fr_FR": "Vous trouvez la r\u00e9silience dans le flux de chi en combat. Cela vous conf\u00e8re un bouclier d\u2019absorption magique de 1,0% de votre maximum de points de vie toutes les 3\u00a0s en combat, cumulable jusqu\u2019\u00e0 un maximum de 10%.",
+    "it_IT": "Fornisce la resilienza nel flusso del chi in battaglia, ottenendo uno scudo che assorbe danni subiti pari al 1,0% della salute massima ogni 3 s in combattimento, fino a un massimo del 10%.",
+    "ru_RU": "\u041f\u043e\u0442\u043e\u043a \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0446\u0438 \u043f\u0440\u0438\u0434\u0430\u0435\u0442 \u0432\u0430\u043c \u0441\u0438\u043b \u0432 \u0431\u043e\u044e, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u0432\u044b \u0440\u0430\u0437 \u0432 3 \u0441\u0435\u043a. \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u0449\u0438\u0442 \u0441 \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c\u044e 1,0% \u0432\u0430\u0448\u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10% \u0440\u0430\u0437.",
+    "ko_KR": "\uc804\ud22c \uc911 \uae30\uc758 \ud750\ub984\uc5d0 \uae43\ub4e0 \uac15\uc778\ud568\uc744 \ucc3e\uc544 3\ucd08\ub9c8\ub2e4 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 1.0%\uc5d0 \ud574\ub2f9\ud558\ub294 \ub9c8\ubc95 \ud53c\ud574 \ud761\uc218 \ubcf4\ud638\ub9c9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4. \ucd5c\ub300 10%\ub9cc\ud07c \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6230\u9b25\u4e2d\u5229\u7528\u771f\u6c23\u7684\u6d41\u52d5\u63d0\u9ad8\u8010\u6253\u80fd\u529b\uff0c\u6bcf3\u79d2\u7372\u5f97\u76f8\u7576\u65bc\u4f60\u751f\u547d\u529b\u4e0a\u96501.0%\u7684\u9b54\u6cd5\u5438\u6536\u8b77\u76fe\uff0c\u6700\u9ad8\u53ef\u905410%\u3002",
+    "zh_CN": "\u6fc0\u6218\u65f6\u771f\u6c14\u7684\u6d41\u52a8\u4ee4\u4f60\u53d8\u5f97\u575a\u6bc5\uff0c\u5728\u6218\u6597\u4e2d\u6bcf3\u79d2\u83b7\u5f97\u4e00\u5c42\u9b54\u6cd5\u5438\u6536\u62a4\u76fe\uff0c\u5438\u6536\u76f8\u5f53\u4e8e\u6700\u5927\u751f\u547d\u503c1.0%\u7684\u4f24\u5bb3\uff0c\u6700\u591a\u53e0\u52a0\u81f310%\u3002"
+  }
 }

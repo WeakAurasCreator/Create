@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "429523"
+  "SpellID": "429523",
+  "name_blz": {
+    "en_US": "Lunar Calling",
+    "es_MX": "Llamada lunar",
+    "pt_BR": "Chamado Lunar",
+    "de_DE": "Mondanrufung",
+    "en_GB": "Lunar Calling",
+    "es_ES": "Vocaci\u00f3n lunar",
+    "fr_FR": "Appel lunaire",
+    "it_IT": "Richiamo Lunare",
+    "ru_RU": "\u041b\u0443\u043d\u043d\u044b\u0439 \u0437\u043e\u0432",
+    "ko_KR": "\ub2ec\uc758 \ubd80\ub984",
+    "zh_TW": "\u6708\u4e4b\u53ec\u559a",
+    "zh_CN": "\u768e\u6708\u547c\u5524"
+  },
+  "description_blz": {
+    "en_US": "Thrash now deals Arcane damage and its damage is increased by 12%.",
+    "es_MX": "Vapulear ahora inflige da\u00f1o arcano y su da\u00f1o aumenta un 12%.",
+    "pt_BR": "Surra agora causa dano Arcano, e seu dano \u00e9 aumentado em 12%.",
+    "de_DE": "'Hauen' verursacht jetzt Arkanschaden und der Schaden der F\u00e4higkeit ist um 12% erh\u00f6ht.",
+    "en_GB": "Thrash now deals Arcane damage and its damage is increased by 12%.",
+    "es_ES": "Ahora, Vapulear inflige da\u00f1o Arcano, y su da\u00f1o aumenta un 12%.",
+    "fr_FR": "Rosser inflige d\u00e9sormais des d\u00e9g\u00e2ts des arcanes et ses d\u00e9g\u00e2ts sont augment\u00e9s de 12\u00a0%.",
+    "it_IT": "Falciata infligge danni da arcano e i suoi danni inflitti aumentano del 12%.",
+    "ru_RU": "\"\u0412\u0437\u0431\u0443\u0447\u043a\u0430\" \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438. \u041d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0435\u044e \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 12%.",
+    "ko_KR": "\ub09c\ud0c0\uac00 \ube44\uc804 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uacf5\uaca9\ub825\uc774 12%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u75db\u64ca\u73fe\u5728\u6703\u9020\u6210\u79d8\u6cd5\u50b7\u5bb3\uff0c\u4e14\u5176\u50b7\u5bb3\u63d0\u9ad812%\u3002",
+    "zh_CN": "\u75db\u51fb\u73b0\u5728\u9020\u6210\u5965\u672f\u4f24\u5bb3\uff0c\u4f24\u5bb3\u63d0\u9ad812%\u3002"
+  }
 }

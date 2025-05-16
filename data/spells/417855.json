@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "417855"
+  "SpellID": "417855",
+  "name_blz": {
+    "en_US": "Awestruck",
+    "es_MX": "At\u00f3nito",
+    "pt_BR": "Fulg\u00eancia",
+    "de_DE": "Ehrfurcht",
+    "en_GB": "Awestruck",
+    "es_ES": "Sobrecogimiento",
+    "fr_FR": "Fascination",
+    "it_IT": "Sgomento",
+    "ru_RU": "\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439 \u0442\u0440\u0435\u043f\u0435\u0442",
+    "ko_KR": "\uc678\uacbd",
+    "zh_TW": "\u656c\u754f\u6253\u64ca",
+    "zh_CN": "\u5fc3\u656c\u5219\u754f"
+  },
+  "description_blz": {
+    "en_US": "Holy Shock, Holy Light, and Flash of Light critical healing increased by 20%.",
+    "es_MX": "Aumenta un 20% la sanaci\u00f3n cr\u00edtica de Choque sagrado, Luz sagrada y Destello de luz.",
+    "pt_BR": "Cura cr\u00edtica de Choque Sagrado, Luz Sagrada e Clar\u00e3o de Luz aumentada em 20%.",
+    "de_DE": "Erh\u00f6ht die kritische Heilung von 'Heiliger Schock', 'Heiliges Licht' und 'Lichtblitz' um 20%.",
+    "en_GB": "Holy Shock, Holy Light, and Flash of Light critical healing increased by 20%.",
+    "es_ES": "Se ha aumentado un 20% la sanaci\u00f3n cr\u00edtica de Choque Sagrado, Luz Sagrada y Destello de Luz.",
+    "fr_FR": "Les soins critiques d\u2019Horion sacr\u00e9, de Lumi\u00e8re sacr\u00e9e et d\u2019\u00c9clair lumineux sont augment\u00e9s de 20\u00a0%.",
+    "it_IT": "Aumenta le cure critiche fornite da Folgore Sacra, Luce Sacra e Lampo di Luce del 20%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\", \"\u0421\u0432\u0435\u0442\u0430 \u043d\u0435\u0431\u0435\u0441\" \u0438 \"\u0412\u0441\u043f\u044b\u0448\u043a\u0438 \u0421\u0432\u0435\u0442\u0430\" \u043d\u0430 20%.",
+    "ko_KR": "\uc2e0\uc131 \ucda9\uaca9, \uc131\uc2a4\ub7ec\uc6b4 \ube5b, \ube5b\uc758 \uc12c\uad11\uc758 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \uce58\uc720\ub7c9\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u795e\u8056\u9707\u64ca\u3001\u8056\u5149\u8853\u548c\u8056\u5149\u9583\u73fe\u7684\u6975\u6548\u6cbb\u7642\u6548\u679c\u63d0\u9ad820%\u3002",
+    "zh_CN": "\u795e\u5723\u9707\u51fb\u3001\u5723\u5149\u672f\u4e0e\u5723\u5149\u95ea\u73b0\u7684\u7206\u51fb\u6cbb\u7597\u6548\u679c\u63d0\u9ad820%\u3002"
+  }
 }

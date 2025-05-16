@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422890"
+  "SpellID": "422890",
+  "name_blz": {
+    "en_US": "Monk Mistweaver 10.2 Class Set 4pc",
+    "en_GB": "Monk Mistweaver 10.2 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "20% of all healing you do to targets with Chi Harmony is stored and then dispersed evenly among your allies with Renewing Mist when Chi Harmony fades or is refreshed.",
+    "es_MX": "Un 20% de la sanaci\u00f3n que realizas a objetivos con Armon\u00eda de chi se almacena y luego se dispersa de forma equitativa entre tus aliados con Niebla renovadora cuando Armon\u00eda de chi se desvanece o se renueva.",
+    "pt_BR": "20% de toda a cura que voc\u00ea concede a alvos com Harmonia do Chi \u00e9 armazenada e, depois, distribu\u00edda igualmente entre seus aliados com Brumas da Renova\u00e7\u00e3o quando a Harmonia do Chi se esvai ou \u00e9 renovada.",
+    "de_DE": "20% s\u00e4mtlicher Heilung, die Ihr mit 'Chiharmonie' hervorgerufen habt, wird gespeichert und dann mit 'Erneuernder Nebel' gleichm\u00e4\u00dfig auf Eure Verb\u00fcndeten \u00fcbertragen, wenn 'Chiharmonie' ausl\u00e4uft oder aufgefrischt wird.",
+    "en_GB": "20% of all healing you do to targets with Chi Harmony is stored and then dispersed evenly among your allies with Renewing Mist when Chi Harmony fades or is refreshed.",
+    "es_ES": "Un 20% de toda la sanaci\u00f3n que realizas a objetivos con Armon\u00eda de chi se almacena para despu\u00e9s dividirse a partes iguales entre tus aliados con Niebla renovadora en cuanto Armon\u00eda de chi se disipa o se reinicia.",
+    "fr_FR": "20\u00a0% de tous les soins que vous prodiguez aux cibles avec Harmonie avec le Chi sont conserv\u00e9s puis dispers\u00e9s \u00e9quitablement parmi vos alli\u00e9s avec Brume de r\u00e9novation lorsque Harmonie avec le Chi prend fin ou est r\u00e9initialis\u00e9.",
+    "it_IT": "Il 20% delle cure fornite ai bersagli con Armonia del Chi viene accumulato e diffuso equamente tra gli alleati con Nebbia Curativa quando Armonia del Chi si dissolve o viene rinnovata.",
+    "ru_RU": "20% \u0432\u0430\u0448\u0435\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0446\u0435\u043b\u0435\u0439 \u0441 \"\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u0435\u0439 \u0446\u0438\" \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u0438 \u043f\u043e\u0440\u043e\u0432\u043d\u0443 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c\u0438 \u0441 \"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0438\u043c \u0442\u0443\u043c\u0430\u043d\u043e\u043c\", \u043a\u043e\u0433\u0434\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u0438 \u0446\u0438\" \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0438\u043b\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\ucc9c\uc9c0\uad50\ud0dc\uac00 \ubd80\uc5ec\ub41c \ub300\uc0c1\uc5d0 \ub300\ud55c \uce58\uc720\ub7c9\uc758 20%\ub97c \uc800\uc7a5\ud569\ub2c8\ub2e4. \ucc9c\uc9c0\uad50\ud0dc\uac00 \uc0ac\ub77c\uc9c0\uac70\ub098 \uac31\uc2e0\ub420 \ub54c \uc18c\uc0dd\uc758 \uc548\uac1c\uac00 \ubd80\uc5ec\ub41c \uc544\uad70\uc744 \uc800\uc7a5\ub41c \uce58\uc720\ub7c9\ub9cc\ud07c \ub098\ub204\uc5b4 \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5c0d\u53d7\u771f\u6c23\u548c\u8ae7\u5f71\u97ff\u7684\u76ee\u6a19\u9020\u6210\u7684\u6240\u6709\u6cbb\u7642\u6548\u679c\u768420%\u6703\u5132\u5b58\u8d77\u4f86\uff0c\u7136\u5f8c\u5728\u771f\u6c23\u548c\u8ae7\u6548\u679c\u7d50\u675f\u6216\u91cd\u7f6e\u6642\uff0c\u5e73\u5747\u5206\u914d\u7d66\u53d7\u56de\u751f\u8ff7\u9727\u5f71\u97ff\u7684\u76df\u53cb\u3002",
+    "zh_CN": "\u4f60\u5bf9\u5177\u6709\u771f\u6c14\u5b81\u548c\u7684\u76ee\u6807\u9020\u6210\u6cbb\u7597\u6548\u679c\u768420%\u4f1a\u50a8\u5b58\u8d77\u6765\u3002\u5728\u771f\u6c14\u5b81\u548c\u7ed3\u675f\u6216\u5237\u65b0\u65f6\uff0c\u50a8\u5b58\u7684\u6cbb\u7597\u91cf\u4f1a\u5e73\u5747\u5206\u914d\u7ed9\u53d7\u5230\u590d\u82cf\u4e4b\u96fe\u5f71\u54cd\u7684\u76df\u53cb\u3002"
+  }
 }

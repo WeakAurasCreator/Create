@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "425537"
+  "SpellID": "425537",
+  "name_blz": {
+    "en_US": "Wind's Respite",
+    "es_MX": "Reposo del viento",
+    "pt_BR": "Tr\u00e9gua do Vento",
+    "de_DE": "Erholung des Winds",
+    "en_GB": "Wind's Respite",
+    "es_ES": "Descanso del viento",
+    "fr_FR": "R\u00e9pit du vent",
+    "it_IT": "Tregua del Vento",
+    "ru_RU": "\u041f\u043e\u0434\u044a\u0435\u043c \u0432\u0435\u0442\u0440\u0430",
+    "ko_KR": "\ubc14\ub78c\uc758 \uc720\uc608",
+    "zh_TW": "\u98a8\u4e4b\u4f11\u61a9",
+    "zh_CN": "\u98ce\u4e4b\u6b62\u505c"
+  },
+  "description_blz": {
+    "en_US": "After activating Aerial Halt, experience a brief moment of weightlessness as the effects of gravity are reduced for 4 sec.",
+    "es_MX": "Despu\u00e9s de activar Alto a\u00e9reo, los efectos de la gravedad se reducen durante 4 s y experimentas una breve sensaci\u00f3n de ligereza.",
+    "pt_BR": "Depois de ativar Parada A\u00e9rea, vivencie a sensa\u00e7\u00e3o de n\u00e3o ter peso rapidamente com os efeitos da gravidade reduzidos por 4 s.",
+    "de_DE": "Nach Aktivierung von 'Flugstopp' erlebt Ihr einen kurzen Moment der Schwerelosigkeit, wenn 4 Sek. lang die Effekte der Gravitation verringert sind.",
+    "en_GB": "After activating Aerial Halt, experience a brief moment of weightlessness as the effects of gravity are reduced for 4 sec.",
+    "es_ES": "Tras activar Freno a\u00e9reo, experimentas un breve momento de ingravidez durante 4 s.",
+    "fr_FR": "Apr\u00e8s avoir activ\u00e9 Halte a\u00e9rienne, vous connaissez un bref instant d\u2019apesanteur, o\u00f9 les effets de la gravit\u00e9 sont r\u00e9duits pendant 4\u00a0s.",
+    "it_IT": "Dopo aver attivato l'effetto di Blocco Aereo, si sperimenta un breve momento di assenza di peso, durante il quale gli effetti della gravit\u00e0 sono ridotti per 4 s.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \"\u041e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0432 \u0432\u043e\u0437\u0434\u0443\u0445\u0435\" \u0432\u044b \u043d\u0430 4 \u0441\u0435\u043a. \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \u043d\u0435\u0432\u0435\u0441\u043e\u043c\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\uacf5\uc911 \uc815\uc9c0 \ud65c\uc131\ud654 \ud6c4, 4\ucd08 \ub3d9\uc548 \uc911\ub825\uc774 \uc57d\ud574\uc9c0\uba74\uc11c \uc77c\uc2dc\uc801\uc73c\ub85c \ubb34\uc911\ub825 \uc0c1\ud0dc\ub97c \uacbd\ud5d8\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u555f\u52d5\u7a7a\u4e2d\u6025\u715e\u5f8c\uff0c\u91cd\u529b\u6548\u679c\u964d\u4f4e\uff0c\u6301\u7e8c4\u79d2\uff0c\u8b93\u4eba\u66ab\u6642\u9ad4\u9a57\u5931\u91cd\u72c0\u614b\u3002",
+    "zh_CN": "\u6fc0\u6d3b\u7a7a\u4e2d\u6025\u505c\u65f6\u6682\u65f6\u83b7\u5f97\u5931\u91cd\u4f53\u9a8c\uff0c\u51cf\u8f7b\u91cd\u529b\u7684\u5f71\u54cd\uff0c\u6301\u7eed4\u79d2\u3002"
+  }
 }

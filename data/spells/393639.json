@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393639"
+  "SpellID": "393639",
+  "name_blz": {
+    "en_US": "Druid Restoration Class Set 2pc",
+    "es_MX": "Druid Restoration Class Set 2pc",
+    "pt_BR": "Druida, Restaura\u00e7\u00e3o, Conjunto de Classe, 2 p\u00e7",
+    "de_DE": "Druidenklassenset, Wiederherstellung, 2 Teile",
+    "en_GB": "Druid Restoration Class Set 2pc",
+    "es_ES": "Conjunto de clase de druida Restauraci\u00f3n (2 piezas)",
+    "fr_FR": "Ensemble de classe de druide Restauration (2\u00a0pi\u00e8ces)",
+    "it_IT": "Druido della Rigenerazione, Set di Classe, 2 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0434\u0440\u0443\u0438\u0434\u0430 \u2013 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435, 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ud68c\ubcf5 \ub4dc\ub8e8\uc774\ub4dc \uc9c1\uc5c5 \uc138\ud2b8 2\uc138\ud2b8",
+    "zh_TW": "\u5fb7\u9b6f\u4f0a\u6062\u5fa9\u8077\u696d\u5957\u88dd2\u4ef6",
+    "zh_CN": "\u5fb7\u9c81\u4f0a\u6062\u590d\u804c\u4e1a\u5957\u88c5\u4e24\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Rejuvenation, Lifebloom, Wild Growth, Efflorescence, and Tranquility chance to critically heal is increased by 8%.",
+    "es_MX": "Aumenta un 8% la probabilidad de realizar una sanaci\u00f3n cr\u00edtica con Rejuvenecimiento, Flor de vida, Crecimiento salvaje, Floraci\u00f3n y Tranquilidad.",
+    "pt_BR": "Chance de Rejuvenescer, Brotar da Vida, Crescimento Silvestre, Efloresc\u00eancia e Tranquilidade concederem cura cr\u00edtica aumentada em 8%.",
+    "de_DE": "Die Chance, dass 'Verj\u00fcngung', 'Bl\u00fchendes Leben', 'Wildwuchs', 'Erbl\u00fchen' und 'Gelassenheit' kritisch heilen, ist um 8% erh\u00f6ht.",
+    "en_GB": "Rejuvenation, Lifebloom, Wild Growth, Efflorescence, and Tranquility chance to critically heal is increased by 8%.",
+    "es_ES": "Probabilidad de que Rejuvenecimiento, Flor de vida, Crecimiento salvaje, Floraci\u00f3n y Tranquilidad realicen una sanaci\u00f3n cr\u00edtica aumentada un 8%.",
+    "fr_FR": "Les chances de coup critique de R\u00e9cup\u00e9ration, Fleur de vie, Croissance sauvage, Efflorescence et Tranquillit\u00e9 sont augment\u00e9es de 8%.",
+    "it_IT": "Aumenta la probabilit\u00e0 di fornire cure critiche di Rinvigorimento, Bocciolo di Vita, Crescita Rigogliosa, Efflorescenza e Tranquillit\u00e0 del 8%.",
+    "ru_RU": "\u0412\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041e\u043c\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f\", \"\u0416\u0438\u0437\u043d\u0435\u0446\u0432\u0435\u0442\u0430\", \"\u0411\u0443\u0439\u043d\u043e\u0433\u043e \u0440\u043e\u0441\u0442\u0430\", \"\u041f\u0435\u0440\u0438\u043e\u0434\u0430 \u0446\u0432\u0435\u0442\u0435\u043d\u0438\u044f\" \u0438 \"\u0421\u043f\u043e\u043a\u043e\u0439\u0441\u0442\u0432\u0438\u044f\" \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0430 \u043d\u0430 8%.",
+    "ko_KR": "\ud68c\ubcf5, \ud53c\uc5b4\ub098\ub294 \uc0dd\uba85, \uae09\uc18d \uc131\uc7a5, \uaf43\ud53c\uc6b0\uae30, \ud3c9\uc628\uc774 \uadf9\ub300\ud654 \uce58\uc720 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud560 \ud655\ub960\uc774 8%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u56de\u6625\u8853\u3001\u751f\u547d\u4e4b\u82b1\u3001\u91ce\u6027\u75ca\u7652\u3001\u751f\u547d\u7dbb\u653e\u548c\u5be7\u975c\u9020\u6210\u6975\u6548\u6cbb\u7642\u7684\u6a5f\u7387\u63d0\u9ad88%\u3002",
+    "zh_CN": "\u56de\u6625\u672f\u3001\u751f\u547d\u7efd\u653e\u3001\u91ce\u6027\u6210\u957f\u3001\u767e\u82b1\u9f50\u653e\u548c\u5b81\u9759\u7684\u7206\u51fb\u51e0\u7387\u63d0\u9ad88%\u3002"
+  }
 }

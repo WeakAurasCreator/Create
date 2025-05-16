@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422851"
+  "SpellID": "422851",
+  "name_blz": {
+    "en_US": "Death Knight Blood 10.2 Class Set 4pc",
+    "en_GB": "Death Knight Blood 10.2 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Soul Reaper's execute damage and Abomination Limb's damage applies Ashen Decay to enemy targets, and Heart Strike and Blood Boil's direct damage extends Ashen Decay by 1.0 sec. ",
+    "es_MX": "El da\u00f1o de ejecuci\u00f3n de Segador de almas y el da\u00f1o de Extremidad de abominaci\u00f3n aplican Descomposici\u00f3n cin\u00e9rea a los objetivos enemigos, y el da\u00f1o directo de Golpe en el coraz\u00f3n y Hervor de sangre prolongan Descomposici\u00f3n cin\u00e9rea durante 1.0 s.",
+    "pt_BR": "O dano de execu\u00e7\u00e3o de Ceifador de Almas e o dano de Membro da Abomina\u00e7\u00e3o aplicam Decomposi\u00e7\u00e3o das Cinzas aos alvos inimigos. Dano direto de Golpe no Cora\u00e7\u00e3o e Ferver Sangue prolonga Decomposi\u00e7\u00e3o das Cinzas em 1,0 s. ",
+    "de_DE": "Der Hinrichtungsschaden von 'Seelenernter' und der Schaden von 'Monstr\u00f6se Gliedma\u00dfe' belegen gegnerische Ziele mit 'Aschenverfall', und der direkte Schaden von 'Herzsto\u00df' und 'Siedendes Blut' verl\u00e4ngert 'Aschenverfall' um 1,0 Sek. ",
+    "en_GB": "Soul Reaper's execute damage and Abomination Limb's damage applies Ashen Decay to enemy targets, and Heart Strike and Blood Boil's direct damage extends Ashen Decay by 1.0 sec. ",
+    "es_ES": "El da\u00f1o de ejecuci\u00f3n de Segador de almas y el da\u00f1o de Extremidad abominable aplican Descomposici\u00f3n cin\u00e9rea a los objetivos enemigos, y el da\u00f1o directo de Golpe en el coraz\u00f3n y Hervor de sangre prolonga 1,0 s Descomposici\u00f3n cin\u00e9rea. ",
+    "fr_FR": "Les d\u00e9g\u00e2ts d\u2019ex\u00e9cution de Faucheur d\u2019\u00e2me et les d\u00e9g\u00e2ts de Membre abominable appliquent D\u00e9composition cendr\u00e9e aux cibles ennemies, et les d\u00e9g\u00e2ts directs de Frappe au c\u0153ur et Furoncle sanglant prolongent D\u00e9composition cendr\u00e9e de 1,0\u00a0s. ",
+    "it_IT": "I danni finali inflitti da Mietitura dell'Anima e i danni inflitti da Arto di Abominio applicano Decadimento Cinereo ai bersagli nemici. I danni diretti inflitti da Assalto al Cuore ed Ebollizione del Sangue aumentano la durata di Decadimento Cinereo di 1,0 s. ",
+    "ru_RU": "\u0414\u043e\u0431\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0416\u043d\u0435\u0446\u0430 \u0434\u0443\u0448\" \u0438 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0420\u0443\u043a\u0438 \u043f\u043e\u0433\u0430\u043d\u0438\u0449\u0430\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442 \u043a \u0446\u0435\u043b\u044f\u043c \"\u041f\u0435\u043f\u0435\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u0435\". \u041f\u0440\u044f\u043c\u043e\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0423\u0434\u0430\u0440\u0430 \u0432 \u0441\u0435\u0440\u0434\u0446\u0435\" \u0438 \"\u0412\u0441\u043a\u0438\u043f\u0430\u043d\u0438\u044f \u043a\u0440\u043e\u0432\u0438\" \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041f\u0435\u043f\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u044f\" \u043d\u0430 1,0 \u0441\u0435\u043a. ",
+    "ko_KR": "\uc601\ud63c \uc218\ud655\uc790\uc758 \ub9c8\ubb34\ub9ac \uc77c\uaca9 \uacf5\uaca9\uacfc \ud749\ubb3c \uc0ac\uc9c0\uc758 \uacf5\uaca9\uc774 \uc801 \ub300\uc0c1\uc5d0\uac8c \uc7bf\ube5b \ubd80\ud328\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4. \ub610\ud55c \uc2ec\uc7a5 \uac15\ud0c0\uc640 \ud53c\uc758 \uc18c\uc6a9\ub3cc\uc774\uc758 \uc9c1\uc811 \ud53c\ud574\uac00 \uc7bf\ube5b \ubd80\ud328\uc758 \uc9c0\uc18d\uc2dc\uac04\uc744 1.0\ucd08\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. ",
+    "zh_TW": "\u9748\u9b42\u6536\u5272\u8005\u7684\u65ac\u6bba\u50b7\u5bb3\u548c\u618e\u60e1\u9ad4\u5916\u80a2\u7684\u50b7\u5bb3\u6703\u5c0d\u6575\u65b9\u76ee\u6a19\u65bd\u52a0\u7070\u71fc\u8150\u673d\uff0c\u4e14\u788e\u5fc3\u6253\u64ca\u548c\u6cb8\u8840\u8853\u7684\u76f4\u63a5\u50b7\u5bb3\u6703\u4f7f\u7070\u71fc\u8150\u673d\u5ef6\u95771.0\u79d2\u3002 ",
+    "zh_CN": "\u7075\u9b42\u6536\u5272\u7684\u65a9\u6740\u4f24\u5bb3\u548c\u618e\u6076\u9644\u80a2\u7684\u4f24\u5bb3\u4f1a\u5bf9\u654c\u65b9\u76ee\u6807\u65bd\u52a0\u7070\u70ec\u8150\u673d\uff0c\u5fc3\u810f\u6253\u51fb\u548c\u8840\u6db2\u6cb8\u817e\u7684\u76f4\u63a5\u4f24\u5bb3\u4f7f\u7070\u70ec\u8150\u673d\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f1.0\u79d2\u3002 "
+  }
 }

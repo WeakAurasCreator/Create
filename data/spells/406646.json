@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "406646"
+  "SpellID": "406646",
+  "name_blz": {
+    "en_US": "Templar Strikes",
+    "es_MX": "Golpes de templario",
+    "pt_BR": "Golpes Templ\u00e1rios",
+    "de_DE": "Templerst\u00f6\u00dfe",
+    "en_GB": "Templar Strikes",
+    "es_ES": "Golpes de templario",
+    "fr_FR": "Frappes du templier",
+    "it_IT": "Assalti del Templare",
+    "ru_RU": "\u0423\u0434\u0430\u0440\u044b \u0445\u0440\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0430",
+    "ko_KR": "\uae30\uc0ac\ub2e8\uc758 \uacf5\uc138",
+    "zh_TW": "\u8056\u6bbf\u9a0e\u58eb\u8ffd\u64ca",
+    "zh_CN": "\u5723\u6bbf\u9a91\u58eb\u4e4b\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Crusader Strike becomes a 2 part combo.\r\n\r\nTemplar Strike slashes an enemy for 643 Radiant damage and gets replaced by Templar Slash for 5 sec.\r\n\r\nTemplar Slash strikes an enemy for 1,195 Radiant damage, and burns the enemy for 50% of the damage dealt over 4 sec.",
+    "es_MX": "Golpe de cruzado se vuelve un combo de dos partes.\r\n\r\nGolpe de templario acuchilla al objetivo para infligir 653 Radiante y se reemplaza con Tajo de templario durante 5 s.\r\n\r\nTajo de templario corta un enemigo para infligir 1,186 Radiante y quemarlo durante 4 s para infligirle el 50% del da\u00f1o sufrido.",
+    "pt_BR": "Golpe do Cruzado se torna um combo em 2 partes.\r\n\r\nGolpe Templ\u00e1rio talha um inimigo, causando 651 de dano Radiante, e \u00e9 substitu\u00eddo pelo Talho Templ\u00e1rio por 5 s.\r\n\r\nTalho Templ\u00e1rio atinge um inimigo, causando 1.198 de dano Radiante, e o queima, causando 50% do dano causado ao longo de 4 s.",
+    "de_DE": "'Kreuzfahrersto\u00df' wird zur zweiteiligen Combo.\r\n\r\n'Templersto\u00df' schlitzt einen Gegner f\u00fcr 649 Strahlenschaden auf und wird 5 Sek. lang durch 'Templerschlitzer' ersetzt.\r\n\r\n'Templerschlitzer' schl\u00e4gt f\u00fcr 1.187 Strahlenschaden auf einen Gegner ein und verbrennt ihn f\u00fcr 50% des im Verlauf von 4 Sek. verursachten Schadens.",
+    "en_GB": "Crusader Strike becomes a 2 part combo.\r\n\r\nTemplar Strike slashes an enemy for 648 Radiant damage and gets replaced by Templar Slash for 5 sec.\r\n\r\nTemplar Slash strikes an enemy for 1,191 Radiant damage, and burns the enemy for 50% of the damage dealt over 4 sec.",
+    "es_ES": "Golpe de cruzado se convierte en una combinaci\u00f3n de 2 ataques.\r\n\r\nGolpe de templario asesta un tajo a un enemigo que le inflige 639 p. de da\u00f1o Radiante y se sustituye con Tajo de templario durante 5 s.\r\n\r\nTajo de templario golpea a un enemigo, le inflige 1196 p. de da\u00f1o Radiante y le inflige un 50% del da\u00f1o infligido como quemadura durante 4 s.",
+    "fr_FR": "Frappe du crois\u00e9 devient un combo en deux temps.\r\n\r\nFrappe du templier entaille une cible et lui inflige 654\u00a0points de d\u00e9g\u00e2ts de rayonnement, puis est remplac\u00e9e par Taillade du templier pendant 5 s.\r\n\r\nTaillade du templier inflige 1220\u00a0points de d\u00e9g\u00e2ts de rayonnement \u00e0 une cible et la br\u00fble, ce qui lui inflige 50\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires en 4\u00a0s.",
+    "it_IT": "Assalto del Crociato diventa una combo in due parti.\r\n\r\nAssalto del Templare colpisce un nemico, infliggendo 656 danni radiosi, e viene sostituito da Fendente del Templare per 5 s.\r\n\r\nFendente del Templare colpisce un nemico, infliggendo 1.169 danni radiosi, e lo brucia, infliggendo il 50% dei danni inflitti in 4 s.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u0432\u043e\u0438\u043d\u0430 \u0421\u0432\u0435\u0442\u0430\" \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0441\u0435\u0440\u0438\u0435\u0439 \u0438\u0437 \u0434\u0432\u0443\u0445 \u0430\u0442\u0430\u043a.\r\n\r\n\"\u0423\u0434\u0430\u0440 \u0445\u0440\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0446\u0435\u043b\u0438 637 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u044f\u043d\u0438\u044f \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \"\u0420\u0435\u0437\u043a\u0438\u0439 \u0443\u0434\u0430\u0440 \u0445\u0440\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0430\" \u043d\u0430 5 \u0441\u0435\u043a.\r\n\r\n\"\u0420\u0435\u0437\u043a\u0438\u0439 \u0443\u0434\u0430\u0440 \u0445\u0440\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0446\u0435\u043b\u0438 1192 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0438\u044f\u043d\u0438\u044f \u0441\u0440\u0430\u0437\u0443 \u0438 \u0435\u0449\u0435 50% \u043e\u0442 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 4 \u0441\u0435\u043a.",
+    "ko_KR": "\uc131\uc804\uc0ac\uc758 \uc77c\uaca9\uc774 2\ub2e8\uacc4\ub85c \uc774\ub904\uc9c4 \uc5f0\uacc4 \uacf5\uaca9\uc774 \ub429\ub2c8\ub2e4.\r\n\r\n\uae30\uc0ac\ub2e8\uc758 \uacf5\uc138\ub294 \uc801\uc744 \ubca0\uc5b4 635\uc758 \uad11\ud718 \ud53c\ud574\ub97c \uc785\ud788\uba70 5\ucd08 \ub3d9\uc548 \uae30\uc0ac\ub2e8\uc758 \ubca0\uae30\ub85c \ub300\uccb4\ub429\ub2c8\ub2e4.\r\n\r\n\uae30\uc0ac\ub2e8\uc758 \ubca0\uae30\ub294 \uc801\uc744 \uac15\ud0c0\ud558\uc5ec 1,183\uc758 \uad11\ud718 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uc801\uc744 \ubd88\ud0dc\uc6cc 4\ucd08\uc5d0 \uac78\uccd0 \uc785\ud78c \ud53c\ud574\uc758 50%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5341\u5b57\u8ecd\u8056\u64ca\u8b8a\u6210\u4e8c\u968e\u6bb5\u9023\u64ca\u3002\r\n\r\n\u8056\u6bbf\u9a0e\u58eb\u6253\u64ca\u6703\u5c0d\u4e00\u540d\u6575\u4eba\u9020\u6210647\u9ede\u8056\u8f1d\u50b7\u5bb3\uff0c\u4e26\u88ab\u8056\u6bbf\u9a0e\u58eb\u63ee\u64ca\u53d6\u4ee3\uff0c\u6301\u7e8c5\u79d2\u3002\r\n\r\n\u8056\u6bbf\u9a0e\u58eb\u63ee\u64ca\u6703\u5c0d\u4e00\u540d\u6575\u4eba\u9020\u62101,175\u9ede\u8056\u8f1d\u50b7\u5bb3\uff0c\u4e26\u71c3\u71d2\u6575\u4eba\uff0c\u57284\u79d2\u5167\u9020\u6210\u76f8\u7576\u65bc\u6240\u9020\u6210\u50b7\u5bb350%\u7684\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5341\u5b57\u519b\u6253\u51fb\u4f1a\u53d8\u6210\u4e24\u6b21\u8fde\u51fb\u3002\r\n\r\n\u5723\u6bbf\u9a91\u58eb\u6253\u51fb\u4f1a\u65a9\u51fb\u4e00\u540d\u654c\u4eba\uff0c\u9020\u6210646\u70b9\u5149\u8f89\u4f24\u5bb3\uff0c\u5e76\u88ab\u66ff\u6362\u4e3a\u5723\u6bbf\u9a91\u58eb\u65a9\u51fb\uff0c\u6301\u7eed5\u79d2\u3002\r\n\r\n\u5723\u6bbf\u9a91\u58eb\u65a9\u51fb\u4f1a\u6253\u51fb\u4e00\u540d\u654c\u4eba\uff0c\u9020\u62101,199\u70b9\u5149\u8f89\uff0c\u540c\u65f6\u70b9\u71c3\u76ee\u6807\uff0c\u57284\u79d2\u5185\u9020\u621050%\u7684\u4f24\u5bb3\u3002"
+  }
 }

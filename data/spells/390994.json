@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390994"
+  "SpellID": "390994",
+  "name_blz": {
+    "en_US": "Voice of Harmony",
+    "es_MX": "Voz de armon\u00eda",
+    "pt_BR": "Voz da Harmonia",
+    "de_DE": "Stimme der Harmonie",
+    "en_GB": "Voice of Harmony",
+    "es_ES": "Voz de la armon\u00eda",
+    "fr_FR": "Voix d\u2019harmonie",
+    "it_IT": "Voce dell'Armonia",
+    "ru_RU": "\u0413\u043e\u043b\u043e\u0441 \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u0438",
+    "ko_KR": "\uc870\ud654\uc758 \ubaa9\uc18c\ub9ac",
+    "zh_TW": "\u548c\u8ae7\u4e4b\u8072",
+    "zh_CN": "\u548c\u8c10\u4e4b\u58f0"
+  },
+  "description_blz": {
+    "en_US": "Prayer of Mending and Power Word: Life reduce the cooldown of Holy Word: Serenity by 4 sec.\r\n\r\nHalo and Divine Star reduce the cooldown of Holy Word: Sanctify by 4 sec.\r\n\r\nHoly Fire reduces the cooldown of Holy Word: Chastise by 4 sec.",
+    "es_MX": "Rezo de alivio y Palabra de poder: vida reducen 4 s el tiempo de reutilizaci\u00f3n de Palabra sagrada: serenidad.\r\n\r\nHalo y Estrella divina reducen 4 s el tiempo de reutilizaci\u00f3n de Palabra sagrada: santificar.\r\n\r\nFuego sagrado reduce 4 s el tiempo de reutilizaci\u00f3n de Palabra sagrada: condena.",
+    "pt_BR": "Prece da Recomposi\u00e7\u00e3o e Palavra de Poder: Vida reduzem em 4 s a recarga de Palavra Sagrada: Serenidade.\r\n\r\nHalo e Estrela Divina reduzem em 4 s a recarga de Palavra Sagrada: Santificar.\r\n\r\nFogo Sagrado reduz em 4 s a recarga da Palavra Sagrada: Castigar.",
+    "de_DE": "Euer 'Gebet der Besserung' und 'Machtwort: Leben' verringern die Abklingzeit von 'Segenswort: Epiphanie' um 4 Sek.\r\n\r\n'Strahlenkranz' und 'G\u00f6ttlicher Stern' verringern die Abklingzeit von 'Segenswort: Heiligung' um 4 Sek.\r\n\r\n'Heiliges Feuer' verringert die Abklingzeit von 'Segenswort: Z\u00fcchtigung' um 4 Sek.",
+    "en_GB": "Prayer of Mending and Power Word: Life reduce the cooldown of Holy Word: Serenity by 4 sec.\r\n\r\nHalo and Divine Star reduce the cooldown of Holy Word: Sanctify by 4 sec.\r\n\r\nHoly Fire reduces the cooldown of Holy Word: Chastise by 4 sec.",
+    "es_ES": "Rezo de alivio y Palabra de poder: vida reducen 4\u00a0s el tiempo de reutilizaci\u00f3n de Palabra sagrada: serenidad.\r\n\r\nHalo y Estrella divina reducen 4\u00a0s el tiempo de reutilizaci\u00f3n de Palabra sagrada: santificar.\r\n\r\nFuego Sagrado reduce 4 s el tiempo de reutilizaci\u00f3n de Palabra sagrada: condena.",
+    "fr_FR": "Pri\u00e8re de gu\u00e9rison et Mot de pouvoir\u00a0: Vie r\u00e9duisent le temps de recharge de Mot sacr\u00e9\u00a0: S\u00e9r\u00e9nit\u00e9 de 4\u00a0s.\r\n\r\nHalo et \u00c9toile divine r\u00e9duisent le temps de recharge de Mot sacr\u00e9\u00a0: Sanctification de 4\u00a0s.\r\n\r\nFlammes sacr\u00e9es et Nova sacr\u00e9e r\u00e9duisent le temps de recharge de Mot sacr\u00e9\u00a0: Ch\u00e2tier de 4\u00a0s.",
+    "it_IT": "Preghiera di Guarigione e Parola del Potere: Vita riducono il tempo di recupero di Parola Sacra: Serenit\u00e0 di 4 s.\r\n\r\nAureola e Stella Divina riducono il tempo di recupero di Parola Sacra: Santificazione di 4 s.\r\n\r\nFuoco Sacro riduce il tempo di recupero di Parola Sacra: Castigo di 4 s.",
+    "ru_RU": "\"\u041c\u043e\u043b\u0438\u0442\u0432\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\" \u0438 \"\u0421\u043b\u043e\u0432\u043e \u0421\u0438\u043b\u044b: \u0416\u0438\u0437\u043d\u044c\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0421\u043b\u043e\u0432\u0430 \u0421\u0432\u0435\u0442\u0430: \u0411\u0435\u0437\u043c\u044f\u0442\u0435\u0436\u043d\u043e\u0441\u0442\u044c\" \u043d\u0430 4 \u0441\u0435\u043a.\r\n\r\n\"\u0421\u0438\u044f\u043d\u0438\u0435\" \u0438 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0421\u043b\u043e\u0432\u0430 \u0421\u0432\u0435\u0442\u0430: \u041e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435\" \u043d\u0430 4 \u0441\u0435\u043a.\r\n\r\n\"\u0421\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439 \u043e\u0433\u043e\u043d\u044c\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0421\u043b\u043e\u0432\u0430 \u0421\u0432\u0435\u0442\u0430: \u041d\u0430\u043a\u0430\u0437\u0430\u043d\u0438\u0435\" \u043d\u0430 4 \u0441\u0435\u043a.",
+    "ko_KR": "\ud68c\ubcf5\uc758 \uae30\uc6d0\uacfc \uc2e0\uc758 \uad8c\ub2a5: \uc0dd\uba85\uc774 \ube5b\uc758 \uad8c\ub2a5: \ud3c9\uc628\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 4\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\ud6c4\uad11\uacfc \ucc9c\uc0c1\uc758 \ubcc4\uc774 \ube5b\uc758 \uad8c\ub2a5: \uc2e0\uc131\ud654\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 4\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uc2e0\uc131\ud55c \ubd88\uaf43\uc774 \ube5b\uc758 \uad8c\ub2a5: \uc751\uc9d5\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 4\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7652\u5408\u79b1\u8a00\u548c\u771f\u8a00\u8853\uff1a\u547d\u6703\u4f7f\u8056\u8a00\u8853\uff1a\u5be7\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed4\u79d2\u3002\r\n\r\n\u8f1d\u74b0\u548c\u795e\u6027\u4e4b\u661f\u6703\u4f7f\u8056\u8a00\u8853\uff1a\u5e87\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed4\u79d2\u3002\r\n\r\n\u795e\u8056\u4e4b\u706b\u6703\u4f7f\u8056\u8a00\u8853\uff1a\u8b74\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed4\u79d2\u3002",
+    "zh_CN": "\u6108\u5408\u7977\u8a00\u548c\u771f\u8a00\u672f\uff1a\u547d\u4f1a\u4f7f\u5723\u8a00\u672f\uff1a\u9759\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed4\u79d2\u3002\r\n\r\n\u5149\u6655\u548c\u795e\u5723\u4e4b\u661f\u4f1a\u4f7f\u5723\u8a00\u672f\uff1a\u7075\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed4\u79d2\u3002\r\n\r\n\u795e\u5723\u4e4b\u706b\u4f1a\u4f7f\u5723\u8a00\u672f\uff1a\u7f5a\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed4\u79d2\u3002"
+  }
 }

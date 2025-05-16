@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422865"
+  "SpellID": "422865",
+  "name_blz": {
+    "en_US": "Druid Guardian 10.2 Class Set 4pc",
+    "en_GB": "Druid Guardian 10.2 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Each 40 Rage you spend while Rage of the Sleeper is active extends its duration by 1.0 sec, up to 5.0. Your Dream Thorns become Blazing Thorns, causing 100% of damage absorbed to be reflected at the attacker.",
+    "es_MX": "Cada 40 p. de ira que gastas mientras Ira del Durmiente est\u00e1 activa extiende la duraci\u00f3n en 1.0 s, hasta un m\u00e1ximo de 5.0. Espinas on\u00edricas se transforma en Espinas ardientes, que hace que un 100% del da\u00f1o absorbido se refleje hacia el atacante.",
+    "pt_BR": "Cada 40 de Raiva que voc\u00ea gasta com a F\u00faria do Adormecido ativa prolonga a dura\u00e7\u00e3o dela em 1,0 s, at\u00e9 um m\u00e1ximo de 5,0. Seus Espinhos On\u00edricos se tornam Espinhos Fulgurantes, fazendo at\u00e9 100% do dano absorvido ser refletido no atacante.",
+    "de_DE": "Das Verbrauchen von 40 Wut, w\u00e4hrend 'Zorn des Schl\u00e4fers' aktiv ist, verl\u00e4ngert dessen Dauer um 1,0 Sek., bis zu einem Maximum von 5,0 Sekunden. Eure 'Traumdornen' werden zu 'Lodernde Dornen', wodurch 100% des absorbierten Schadens auf den Angreifer zur\u00fcckgeworfen werden.",
+    "en_GB": "Each 40 Rage you spend while Rage of the Sleeper is active extends its duration by 1.0 sec, up to 5.0. Your Dream Thorns become Blazing Thorns, causing 100% of damage absorbed to be reflected at the attacker.",
+    "es_ES": "Por cada 40 p. de ira que gastas mientras est\u00e1 activa Ira del durmiente, se ampl\u00eda 1,0 s su duraci\u00f3n, hasta un m\u00e1ximo de 5,0 s. Tus Espinas on\u00edricas se convierten en Espinas llameantes, lo que hace que se refleje contra el atacante un 100% del da\u00f1o absorbido.",
+    "fr_FR": "Chaque tranche de 40\u00a0points de rage d\u00e9pens\u00e9s pendant que Rage du dormeur est active prolonge sa dur\u00e9e de 1,0\u00a0s, jusqu\u2019\u00e0 5,0. Vos \u00c9pines du R\u00eave deviennent des \u00c9pines ardentes, qui renvoient 100\u00a0% des d\u00e9g\u00e2ts absorb\u00e9s contre l\u2019attaquant.",
+    "it_IT": "Ogni 40 rabbia consumata mentre Rabbia del Dormiente \u00e8 attiva ne estende la durata di 1,0 s, fino a un massimo di 5,0 s. Le Spine del Sogno diventano Spine Fiammeggianti, che riflettono sull'attaccante il 100% dei danni assorbiti.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u042f\u0440\u043e\u0441\u0442\u044c \u0441\u043f\u044f\u0449\u0435\u0433\u043e\", \u043a\u0430\u0436\u0434\u044b\u0435 40 \u0435\u0434. \u0437\u0430\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u043e\u0439 \u044f\u0440\u043e\u0441\u0442\u0438 \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u042f\u0440\u043e\u0441\u0442\u0438 \u0441\u043f\u044f\u0449\u0435\u0433\u043e\" \u043d\u0430 1,0 \u0441\u0435\u043a. \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 5,0 \u0441\u0435\u043a. \"\u0428\u0438\u043f\u044b \u0421\u043d\u0430\" \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u043d\u0430 \"\u041f\u044b\u043b\u0430\u044e\u0449\u0438\u0435 \u0448\u0438\u043f\u044b\", \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0442\u0440\u0430\u0436\u0430\u044e\u0442 100% \u043f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0435\u0433\u043e.",
+    "ko_KR": "\uc7a0\uc790\ub294 \uc790\uc758 \ubd84\ub178\uac00 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 40\uc758 \ubd84\ub178\ub97c \uc18c\ubaa8\ud560 \ub54c\ub9c8\ub2e4 \uc9c0\uc18d\uc2dc\uac04\uc774 1.0\ucd08\ub9cc\ud07c, \ucd5c\ub300 5.0\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uafc8 \uac00\uc2dc\uac00 \uc774\uae00\uac70\ub9ac\ub294 \uac00\uc2dc\ub85c \ubcc0\ud654\ud558\uace0 \uacf5\uaca9\uc790\uc5d0\uac8c \ud761\uc218\ud55c \ud53c\ud574\uc758 100%\ub97c \ubc18\uc0ac\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6c89\u7761\u8005\u4e4b\u6012\u4f5c\u7528\u671f\u9593\uff0c\u6bcf\u6d88\u801740\u9ede\u6012\u6c23\uff0c\u90fd\u6703\u4f7f\u5176\u6301\u7e8c\u6642\u9593\u5ef6\u95771.0\u79d2\uff0c\u6700\u591a\u53ef\u90545.0\u79d2\u3002\u4f60\u7684\u5922\u5883\u834a\u68d8\u8b8a\u6210\u71be\u708e\u834a\u68d8\uff0c\u5c07\u5438\u6536\u7684100%\u50b7\u5bb3\u53cd\u5f48\u7d66\u653b\u64ca\u8005\u3002",
+    "zh_CN": "\u6c89\u7761\u8005\u4e4b\u6012\u6fc0\u6d3b\u65f6\u6bcf\u6d88\u801740\u70b9\u6012\u6c14\u90fd\u80fd\u4f7f\u5176\u6301\u7eed\u65f6\u95f4\u5ef6\u957f1.0\u79d2\uff0c\u6700\u591a\u5ef6\u957f5.0\u79d2\u3002\u4f60\u7684\u68a6\u5883\u8346\u68d8\u53d8\u4e3a\u8000\u7130\u8346\u68d8\uff0c\u5c06\u5438\u6536\u4f24\u5bb3\u7684100%\u53cd\u5f39\u7ed9\u653b\u51fb\u8005\u3002"
+  }
 }

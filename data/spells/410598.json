@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "410598"
+  "SpellID": "410598",
+  "name_blz": {
+    "en_US": "Soul Rip",
+    "es_MX": "Arrancamiento de alma",
+    "pt_BR": "Rasgar Alma",
+    "de_DE": "Seelenrei\u00dfen",
+    "en_GB": "Soul Rip",
+    "es_ES": "Destripar almas",
+    "fr_FR": "D\u00e9chirure de l\u2019\u00e2me",
+    "it_IT": "Squarcio dell'Anima",
+    "ru_RU": "\u0420\u0430\u0437\u0440\u044b\u0432 \u0434\u0443\u0448\u0438",
+    "ko_KR": "\uc601\ud63c \ub3c4\ub824\ub0b4\uae30",
+    "zh_TW": "\u9748\u9b42\u6495\u88c2",
+    "zh_CN": "\u593a\u9b42"
+  },
+  "description_blz": {
+    "en_US": "Fracture the soul of up to 3 target players within 20 yds into the shadows, reducing their damage done by 25% and healing received by 25% for 8 sec. Souls are fractured up to 20 yds from the player's location.\r\n\r\nPlayers can retrieve their souls to remove this effect.",
+    "es_MX": "Fractura el alma de hasta 3 objetivos en un radio de 20 m hacia las sombras, lo que reduce un 25% el da\u00f1o infligido y un 25% la sanaci\u00f3n recibida durante 8 s. Las almas se fracturan en un radio de 20 m de la ubicaci\u00f3n de los jugadores.\r\n\r\nLos jugadores pueden recuperar sus almas para eliminar este efecto.",
+    "pt_BR": "Fratura a alma de at\u00e9 3 jogadores em um raio de 20 m, reduzindo em 25% o dano causado e em 25% a cura recebida por 8 s. Almas s\u00e3o lan\u00e7adas a at\u00e9 20 m dos jogadores.\r\n\r\nOs jogadores podem recuperar as almas para remover o efeito.",
+    "de_DE": "L\u00e4sst die Seelen von bis zu 3 anvisierten Spielercharakteren innerhalb von 20 Metern zerbrechen und in die Schatten \u00fcbergehen, was ihren verursachten Schaden um 25% und ihre erhaltene Heilung um 25% verringert. H\u00e4lt 8 Sek. lang an. Seelenfragmente k\u00f6nnen bis zu 20 Meter vom Standort des Spielercharakters entfernt sein.\r\n\r\nSpielercharaktere k\u00f6nnen sich ihre Seelen zur\u00fcckholen, um den Effekt zu entfernen.",
+    "en_GB": "Fracture the soul of up to 3 target players within 20 yds into the shadows, reducing their damage done by 25% and healing received by 25% for 8 sec. Souls are fractured up to 20 yds from the player's location.\r\n\r\nPlayers can retrieve their souls to remove this effect.",
+    "es_ES": "Fractura el alma de un m\u00e1ximo de 3 jugadores seleccionados en un radio de 20 m de las sombras, lo que reduce un 25% el da\u00f1o que infligen y un 25% la sanaci\u00f3n que reciben durante 8 s. Las almas se quedan fracturadas a un m\u00e1ximo de 20 m de la ubicaci\u00f3n de los jugadores.\r\n\r\nLos jugadores pueden recuperar sus almas para eliminar este efecto.",
+    "fr_FR": "Vous fracturez l\u2019\u00e2me d\u2019un maximum de 3\u00a0personnages-joueurs cibl\u00e9s \u00e0 moins de 20\u00a0m\u00e8tres et vous projetez leurs fragments dans les ombres, ce qui r\u00e9duit les d\u00e9g\u00e2ts qu\u2019ils infligent de 25% et les soins qu\u2019ils re\u00e7oivent de 25% pendant 8 s. Les \u00e2mes sont projet\u00e9es \u00e0 une distance maximum de 20\u00a0m\u00e8tres de l\u2019emplacement des cibles.\r\n\r\nLes personnages-joueurs peuvent r\u00e9cup\u00e9rer leur \u00e2me pour supprimer cet effet.",
+    "it_IT": "Frantuma l'anima di massimo 3 personaggi bersaglio nelle ombre entro 20 m, riducendone i danni inflitti del 25% e le cure ricevute del 25% per 8 s. Le anime fratturate si trovano fino a 20 m di distanza dalla posizione del personaggio.\r\n\r\nI personaggi possono recuperare le proprie anime per rimuovere l'effetto.",
+    "ru_RU": "\u0420\u0430\u0441\u043a\u0430\u043b\u044b\u0432\u0430\u0435\u0442 \u0434\u0443\u0448\u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 3 \u0438\u0433\u0440\u043e\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 20 \u043c, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044f \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0438\u043c\u0438 \u0443\u0440\u043e\u043d \u043d\u0430 25% \u0438 \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u044f \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 25% \u043d\u0430 8 \u0441\u0435\u043a. \u041e\u0441\u043a\u043e\u043b\u043a\u0438 \u0434\u0443\u0448\u0438 \u0440\u0430\u0437\u043b\u0435\u0442\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0434\u043e 20 \u043c \u043e\u0442 \u0438\u0433\u0440\u043e\u043a\u043e\u0432.\r\n\r\n\u0418\u0433\u0440\u043e\u043a\u0438 \u043c\u043e\u0433\u0443\u0442 \u0441\u043d\u044f\u0442\u044c \u044d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442, \u0432\u0435\u0440\u043d\u0443\u0432 \u0441\u0432\u043e\u044e \u0434\u0443\u0448\u0443.",
+    "ko_KR": "20\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \ub300\uc0c1 \ucd5c\ub300 3\uba85\uc758 \uc601\ud63c\uc744 \uc0b0\uc0b0\uc774 \uc870\uac01\ub0b4 \uc5b4\ub460 \uc18d\uc73c\ub85c \ubcf4\ub0b4\uace0 8\ucd08 \ub3d9\uc548 \uacf5\uaca9\ub825\uc744 25%\ub9cc\ud07c, \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\ub97c 25%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. \uc870\uac01\ub09c \uc601\ud63c\uc740 \ud50c\ub808\uc774\uc5b4\uc758 \uc704\uce58\uc5d0\uc11c \ucd5c\ub300 20\ubbf8\ud130 \ub5a8\uc5b4\uc9c4 \uc9c0\uc810\uc5d0 \uc0dd\uc131\ub429\ub2c8\ub2e4.\r\n\r\n\ud574\ub2f9 \ud6a8\uacfc\ub97c \uc81c\uac70\ud558\ub824\uba74 \ud50c\ub808\uc774\uc5b4\uac00 \uc601\ud63c\uc744 \ud68c\uc218\ud574\uc57c \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0720\u78bc\u5167\u6700\u591a3\u540d\u76ee\u6a19\u73a9\u5bb6\u7684\u9748\u9b42\u6495\u88c2\u4e26\u9010\u5165\u6697\u5f71\uff0c\u4f7f\u5176\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e25%\uff0c\u7372\u5f97\u7684\u6cbb\u7642\u6548\u679c\u964d\u4f4e25%\uff0c\u6301\u7e8c8\u79d2\u3002\u6495\u88c2\u7684\u9748\u9b42\u4f4d\u7f6e\u6700\u591a\u8207\u73a9\u5bb6\u76f8\u8ddd20\u78bc\u3002\r\n\r\n\u73a9\u5bb6\u53ef\u53d6\u56de\u5176\u9748\u9b42\uff0c\u4ee5\u79fb\u9664\u6b64\u6548\u679c\u3002",
+    "zh_CN": "\u5c0620\u7801\u5185\u6700\u591a3\u540d\u76ee\u6807\u73a9\u5bb6\u7684\u7075\u9b42\u788e\u88c2\u5230\u9634\u5f71\u4e2d\uff0c\u4f7f\u5176\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e25%\uff0c\u53d7\u5230\u7684\u6cbb\u7597\u6548\u679c\u964d\u4f4e25%\uff0c\u6301\u7eed8\u79d2\u3002\u788e\u88c2\u7684\u7075\u9b42\u4f1a\u51fa\u73b0\u5728\u8ddd\u79bb\u73a9\u5bb6\u6700\u591a20\u7801\u7684\u4f4d\u7f6e\u3002\r\n\r\n\u73a9\u5bb6\u53ef\u4ee5\u627e\u56de\u7075\u9b42\u5e76\u79fb\u9664\u8be5\u6548\u679c\u3002"
+  }
 }

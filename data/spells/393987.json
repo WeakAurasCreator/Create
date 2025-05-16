@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393987"
+  "SpellID": "393987",
+  "name_blz": {
+    "en_US": "Azureweave Vestments",
+    "es_MX": "Vestimentas de entramado azur",
+    "pt_BR": "Vestimenta de Lazulinho",
+    "de_DE": "Azurgewobene Gew\u00e4nder",
+    "en_GB": "Azureweave Vestments",
+    "es_ES": "Vestimentas de tejido azur",
+    "fr_FR": "Habit en trame-d\u2019azur",
+    "it_IT": "Paramenti di Telazzurra",
+    "ru_RU": "\u041b\u0430\u0437\u0443\u0440\u043d\u043e\u0435 \u043e\u0434\u0435\u044f\u043d\u0438\u0435",
+    "ko_KR": "\ud558\ub298\ub9e4\ub4ed \uc608\ubcf5",
+    "zh_TW": "\u85cd\u7e54\u5e03\u6cd5\u8863",
+    "zh_CN": "\u9752\u7eb9\u5e03\u6cd5\u8863"
+  },
+  "description_blz": {
+    "en_US": "Dealing damage has a chance to grant Piercing Azureweave, increasing Intellect for 8 sec. Healing has a chance to grant Flowing Azureweave, reducing the Mana cost of spells for 8 sec.",
+    "es_MX": "Infligir da\u00f1o tiene una probabilidad de otorgar Entramado azur perforante, lo que aumenta el intelecto durante 8 s. Sanar tiene una probabilidad de otorgar Entramado azur fluyente, lo que reduce el costo de man\u00e1 de los hechizos durante 8 s.",
+    "pt_BR": "Causar dano tem chance de conceder Lazulinho Perfurante, que aumenta o Intelecto por 8 s. Curar tem chance de conceder Lazulinho Esvoa\u00e7ante, que reduz o custo de mana de feiti\u00e7os por 8 s.",
+    "de_DE": "Das Verursachen von Schaden hat eine Chance, Euch 'Azurgewobenes Durchdringen' zu gew\u00e4hren, was Eure Intelligenz 8 Sek. lang erh\u00f6ht. Heilung hat eine Chance, Euch 'Azurgewobenes Flie\u00dfen' zu gew\u00e4hren, was 8 Sek. lang die Manakosten von Zaubern verringert.",
+    "en_GB": "Dealing damage has a chance to grant Piercing Azureweave, increasing Intellect for 8 sec. Healing has a chance to grant Flowing Azureweave, reducing the Mana cost of spells for 8 sec.",
+    "es_ES": "Al infligir da\u00f1o, puede suceder que el tejido azur penetrante aumente el intelecto durante 8 s. Al realizar sanaci\u00f3n, existe la posibilidad de que el tejido azur fluido reduzca el coste de man\u00e1 de los hechizos durante 8 s.",
+    "fr_FR": "Les d\u00e9g\u00e2ts inflig\u00e9s peuvent conf\u00e9rer Trame-d\u2019azur per\u00e7ante, ce qui augmente l\u2019Intelligence pendant 8 s. Les soins prodigu\u00e9s peuvent conf\u00e9rer Trame-d\u2019azur ondoyante, ce qui r\u00e9duit le co\u00fbt en mana des sorts pendant 8 s.",
+    "it_IT": "Infliggere danni fornisce una probabilit\u00e0 di attivare Penetrazione di Telazzurra, che aumenta l'Intelletto per 8 s. Fornire cure fornisce una probabilit\u00e0 di attivare Flusso di Telazzurra, che riduce il costo in mana degli incantesimi di 8 s.",
+    "ru_RU": "\u041f\u0440\u0438 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u0438 \u0443\u0440\u043e\u043d\u0430 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041f\u0440\u043e\u043d\u0437\u0430\u044e\u0449\u0430\u044f \u043b\u0430\u0437\u0443\u0440\u044c\", \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442 \u043d\u0430 8 \u0441\u0435\u043a. \u0418\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043c\u043e\u0436\u0435\u0442 \u0434\u0430\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0422\u0435\u043a\u0443\u0447\u0430\u044f \u043b\u0430\u0437\u0443\u0440\u044c\", \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a.",
+    "ko_KR": "\ud53c\ud574\ub97c \uc785\ud788\uba74 \uc77c\uc815 \ud655\ub960\ub85c \uad00\ud1b5\uc758 \ud558\ub298\ub9e4\ub4ed\uc774 \ubd80\uc5ec\ub418\uc5b4 8\ucd08 \ub3d9\uc548 \uc9c0\ub2a5\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4. \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\uc2dc\ud0a4\uba74 \uc77c\uc815 \ud655\ub960\ub85c \ud750\ub974\ub294 \ud558\ub298\ub9e4\ub4ed\uc774 \ubd80\uc5ec\ub418\uc5b4 8\ucd08 \ub3d9\uc548 \uc8fc\ubb38\uc758 \ub9c8\ub098 \uc18c\ubaa8\ub7c9\uc774 \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9020\u6210\u50b7\u5bb3\u5f8c\uff0c\u6709\u4e00\u5b9a\u6a5f\u7387\u8ce6\u4e88\u7a7f\u523a\u85cd\u7e54\uff0c\u4f7f\u667a\u529b\u63d0\u9ad8\uff0c\u6301\u7e8c8\u79d2\u3002\u6cbb\u7642\u6709\u4e00\u5b9a\u6a5f\u7387\u8ce6\u4e88\u6d41\u52d5\u85cd\u7e54\uff0c\u964d\u4f4e\u6cd5\u529b\u6d88\u8017\uff0c\u6301\u7e8c8\u79d2\u3002",
+    "zh_CN": "\u9020\u6210\u4f24\u5bb3\u65f6\u6709\u4e00\u5b9a\u51e0\u7387\u83b7\u5f97\u9752\u7eb9\u5e03\u7684\u654f\u9510\uff0c\u4f7f\u667a\u529b\u63d0\u9ad8\uff0c\u6301\u7eed8\u79d2\u3002\u8fdb\u884c\u6cbb\u7597\u65f6\u5219\u6709\u51e0\u7387\u83b7\u5f97\u9752\u7eb9\u5e03\u7684\u6d41\u52a8\uff0c\u51cf\u5c11\u65bd\u6cd5\u6d88\u8017\u7684\u6cd5\u529b\u503c\uff0c\u6301\u7eed8\u79d2\u3002"
+  }
 }

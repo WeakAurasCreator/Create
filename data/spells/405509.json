@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405509"
+  "SpellID": "405509",
+  "name_blz": {
+    "en_US": "Demon Hunter Vengeance 10.1 Class Set 4pc",
+    "en_GB": "Demon Hunter Vengeance 10.1 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Shear and Fracture deal Fire damage, and after consuming 60 Soul Fragments, your next cast of Shear or Fracture will apply Fiery Brand for 3 sec to its target.",
+    "es_MX": "Cortar y Fractura causan da\u00f1o de fuego. Tras consumir 60 fragmentos de alma, tu siguiente lanzamiento de Cortar o Fractura aplicar\u00e1n Marca ardiente durante 3 s a su objetivo.",
+    "pt_BR": "Talhar e Fratura causam dano de Fogo e, depois de consumir 60 Fragmentos de Alma, seu pr\u00f3ximo lan\u00e7amento de Talhar ou Fratura tamb\u00e9m aplica Marca Ardente no alvo por 3 s.",
+    "de_DE": "'Abscheren' und 'Fraktur' verursachen Feuerschaden und nachdem 60 Seelenfragmente verzehrt wurden, f\u00fcgt Eure n\u00e4chste Anwendung von 'Abscheren' oder 'Fraktur' dem Ziel 3 Sek. lang 'Flammendes Brandmal' zu.",
+    "en_GB": "Shear and Fracture deal Fire damage, and after consuming 60 Soul Fragments, your next cast of Shear or Fracture will apply Fiery Brand for 3 sec to its target.",
+    "es_ES": "Hender y Fractura infligen da\u00f1o de Fuego. Tras consumir 60 trozos de alma, tu siguiente lanzamiento de Hender y Fractura aplican Marca \u00edgnea durante 3 s a su objetivo.",
+    "fr_FR": "Entaille et Fracture infligent des d\u00e9g\u00e2ts de feu. Apr\u00e8s avoir consomm\u00e9 60\u00a0fragments d\u2019\u00e2me, votre prochaine incantation d\u2019Entaille ou Fracture applique Marque enflamm\u00e9e \u00e0 la cible pendant 3\u00a0s.",
+    "it_IT": "Recisione e Frattura infliggono danni da fuoco. Dopo aver consumato 60 Frammenti dell'Anima, il successivo lancio di Recisione o Frattura applica Marchiatura Ardente per 3 s sul bersaglio.",
+    "ru_RU": "\"\u0420\u0430\u0437\u043b\u043e\u043c\" \u0438 \"\u0418\u0441\u0441\u0435\u0447\u0435\u043d\u0438\u0435\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u043e\u0433\u043d\u044f. \u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 60 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u0443\u0448, \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0420\u0430\u0437\u043b\u043e\u043c\" \u0438\u043b\u0438 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \"\u0418\u0441\u0441\u0435\u0447\u0435\u043d\u0438\u0435\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442 \u043a \u0446\u0435\u043b\u0438 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0435 \u043a\u043b\u0435\u0439\u043c\u043e\" \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc808\ub2e8\uacfc \uade0\uc5f4\uc774 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. 60\uac1c\uc758 \uc601\ud63c \ud30c\ud3b8\uc744 \ud761\uc218\ud558\uba74 \ub2e4\uc74c \uc808\ub2e8 \ub610\ub294 \uade0\uc5f4\uc774 \ub300\uc0c1\uc5d0\uac8c 3\ucd08 \ub3d9\uc548 \ubd88\ud0c0\ub294 \ub099\uc778\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u524a\u65ac\u548c\u5207\u88c2\u6703\u9020\u6210\u706b\u7130\u50b7\u5bb3\uff0c\u800c\u4e14\u5728\u6d88\u801760\u500b\u9748\u9b42\u788e\u7247\u5f8c\uff0c\u4f60\u4e0b\u4e00\u500b\u65bd\u653e\u7684\u524a\u65ac\u6216\u5207\u88c2\u6703\u5c0d\u5176\u76ee\u6a19\u65bd\u52a0\u71be\u708e\u70d9\u5370\uff0c\u6301\u7e8c3\u79d2\u3002",
+    "zh_CN": "\u88c2\u9b42\u548c\u7834\u88c2\u9020\u6210\u706b\u7130\u4f24\u5bb3\uff0c\u6d88\u801760\u4e2a\u7075\u9b42\u6b8b\u7247\u540e\uff0c\u4f60\u65bd\u653e\u7684\u4e0b\u4e00\u4e2a\u88c2\u9b42\u548c\u7834\u88c2\u4f1a\u5bf9\u76ee\u6807\u65bd\u52a0\u70c8\u706b\u70d9\u5370\uff0c\u6301\u7eed3\u79d2\u3002"
+  }
 }

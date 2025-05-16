@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "399226"
+  "SpellID": "399226",
+  "name_blz": {
+    "en_US": "Burst of Life",
+    "es_MX": "Explosi\u00f3n vital",
+    "pt_BR": "Explos\u00e3o de Vida",
+    "de_DE": "Schwall des Lebens",
+    "en_GB": "Burst of Life",
+    "es_ES": "R\u00e1faga de vida",
+    "fr_FR": "Afflux de vie",
+    "it_IT": "Scarica di Vita",
+    "ru_RU": "\u041f\u0440\u043e\u0440\u044b\u0432 \u0436\u0438\u0437\u043d\u0438",
+    "ko_KR": "\uc0dd\uba85\uc758 \ub9cc\uac1c",
+    "zh_TW": "\u751f\u547d\u840c\u767c",
+    "zh_CN": "\u751f\u673a\u8ff8\u53d1"
+  },
+  "description_blz": {
+    "en_US": "When Life Cocoon expires, it releases a burst of mist that restores 44,604 health to 3 nearby allies.",
+    "es_MX": "Cuando Cris\u00e1lida vital expira, libera una explosi\u00f3n de niebla que restaura 44,604 p. de salud a 3 aliados cercanos.",
+    "pt_BR": "Quando Casulo de Vida expira, ele libera uma n\u00e9voa que restaura 44.604 pontos de vida de at\u00e9 3 aliados pr\u00f3ximos.",
+    "de_DE": "Sobald 'Lebenskokon' abl\u00e4uft, setzt der Effekt einen Nebel frei, der 3 Verb\u00fcndete in der N\u00e4he um 44.604 Gesundheit heilt.",
+    "en_GB": "When Life Cocoon expires, it releases a burst of mist that restores 44,604 health to 3 nearby allies.",
+    "es_ES": "Cuando Cris\u00e1lida vital se agota, libera una r\u00e1faga de niebla que restaura 44604 p. de salud a 3 aliados cercanos.",
+    "fr_FR": "\u00c0 expiration, Cocon de vie produit une brume qui rend 44604\u00a0points de vie \u00e0 3\u00a0alli\u00e9s \u00e0 proximit\u00e9.",
+    "it_IT": "Quando Bozzolo di Vita termina, rilascia un'esplosione di nebbia che rigenera 44.604 salute a 3 alleati vicini.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0418\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u043a\u043e\u043a\u043e\u043d\u0430\" \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f, \u043e\u043d \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432\u043e\u043b\u043d\u0443 \u0442\u0443\u043c\u0430\u043d\u0430, \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0449\u0435\u0433\u043e 44604 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f 3 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u043f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\uae30\uc758 \uace0\uce58\uac00 \ub9cc\ub8cc\ub418\uba74 \uc548\uac1c\ub97c \ub0b4\ubfdc\uc5b4 \ucd1d 44,604\ub9cc\ud07c\uc758 \uc0dd\uba85\ub825\uc744 \uc8fc\uc704 \uc544\uad70 3\uba85\uc5d0\uac8c \uace0\ub974\uac8c \ub098\ub220 \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u6c23\u7e6d\u8b77\u9ad4\u6548\u679c\u7d50\u675f\u5f8c\uff0c\u6703\u91cb\u653e\u4e00\u6ce2\u9727\u6c23\uff0c\u70ba\u9644\u8fd13\u540d\u76df\u53cb\u6062\u5fa944,604\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u4f5c\u8327\u7f1a\u547d\u6548\u679c\u7ed3\u675f\u65f6\u91ca\u653e\u51fa\u4e00\u80a1\u8ff7\u96fe\uff0c\u4e3a\u9644\u8fd1\u76843\u540d\u76df\u53cb\u6062\u590d44,604\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

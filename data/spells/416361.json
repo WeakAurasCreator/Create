@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "416361"
+  "SpellID": "416361",
+  "name_blz": {
+    "en_US": "Shadowflame Acolyte",
+    "es_MX": "Ac\u00f3lito de llama de las sombras",
+    "pt_BR": "Ac\u00f3lito da Chama Sombria",
+    "de_DE": "Akolyth der Schattenflamme",
+    "en_GB": "Shadowflame Acolyte",
+    "es_ES": "Ac\u00f3lito de llama de las Sombras",
+    "fr_FR": "Acolyte d\u2019ombreflamme",
+    "it_IT": "Accolito d'Ombrofuoco",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0443\u0448\u043d\u0438\u043a \u043f\u043b\u0430\u043c\u0435\u043d\u0438 \u0422\u044c\u043c\u044b",
+    "ko_KR": "\uc554\ud751\ubd88\uae38 \uc218\ud589\uc0ac\uc81c",
+    "zh_TW": "\u6697\u7130\u4f8d\u50e7",
+    "zh_CN": "\u6697\u5f71\u70c8\u7130\u4f8d\u4ec6"
+  },
+  "description_blz": {
+    "en_US": "Shadow Bolt deals 15% increased damage and Demonbolt deals 10% increased damage.",
+    "es_MX": "Descarga de las sombras inflige un 15% m\u00e1s de da\u00f1o y Descarga demon\u00edaca inflige un 10% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Seta Sombria causa 15% a mais de dano, e Seta Demon\u00edaca causa 10% a mais de dano.",
+    "de_DE": "'Schattenblitz' verursacht 15% mehr Schaden und 'D\u00e4monenblitz' verursacht 10% mehr Schaden.",
+    "en_GB": "Shadow Bolt deals 15% increased damage and Demonbolt deals 10% increased damage.",
+    "es_ES": "Descarga de las Sombras inflige un 15% m\u00e1s de da\u00f1o, y Descarga de demonio inflige un 10% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de Trait de l\u2019ombre sont augment\u00e9s de 15\u00a0% et ceux de Trait d\u00e9moniaque de 10\u00a0%.",
+    "it_IT": "Aumenta i danni inflitti da Dardo d'Ombra del 15% e i danni inflitti da Dardo Demoniaco del 10%.",
+    "ru_RU": "\"\u0421\u0442\u0440\u0435\u043b\u0430 \u0422\u044c\u043c\u044b\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430, \u0430 \"\u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0437\u0430\u0440\u044f\u0434\" \u2013 \u043d\u0430 10%.",
+    "ko_KR": "\uc5b4\ub460\uc758 \ud654\uc0b4\uc758 \uacf5\uaca9\ub825\uc774 15%\ub9cc\ud07c, \uc545\ub9c8 \ud654\uc0b4\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6697\u5f71\u7bad\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815\uff05\uff0c\u60e1\u9b54\u7bad\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810\uff05\u3002",
+    "zh_CN": "\u6697\u5f71\u7bad\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u6076\u9b54\u4e4b\u7bad\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

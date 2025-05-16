@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422926"
+  "SpellID": "422926",
+  "name_blz": {
+    "en_US": "Warrior Fury 10.2 Class Set 4pc",
+    "en_GB": "Warrior Fury 10.2 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Bloodthirst critical strikes reduce the cooldown of Odyn's Fury by 2.5 sec.",
+    "es_MX": "Los golpes cr\u00edticos de Sed de sangre reducen 2.5 s el tiempo de reutilizaci\u00f3n de Furia de Odyn.",
+    "pt_BR": "Acertos cr\u00edticos de Sede de Sangue reduzem em 2,5 s a recarga de F\u00faria de Odyn.",
+    "de_DE": "Die kritischen Treffer von 'Blutdurst' reduzieren die Abklingzeit von 'Odyns Zorn' um 2,5 Sek.",
+    "en_GB": "Bloodthirst critical strikes reduce the cooldown of Odyn's Fury by 2.5 sec.",
+    "es_ES": "Los golpes cr\u00edticos de Sed de sangre reducen 2,5 s el tiempo de reutilizaci\u00f3n de Furia de Odyn.",
+    "fr_FR": "Les coups critiques r\u00e9alis\u00e9s avec Sanguinaire r\u00e9duisent le temps de recharge de Fureur d\u2019Odyn de 2,5\u00a0s.",
+    "it_IT": "I colpi critici di Brama di Sangue riducono il tempo di recupero di Furia di Odyn di 2,5 s.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0434\u0430\u0440\u044b \"\u041a\u0440\u043e\u0432\u043e\u0436\u0430\u0434\u043d\u043e\u0441\u0442\u0438\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u042f\u0440\u043e\u0441\u0442\u0438 \u041e\u0434\u0438\u043d\u0430\" \u043d\u0430 2,5 \u0441\u0435\u043a.",
+    "ko_KR": "\ud53c\uc758 \uac08\uc99d\uc774 \uce58\uba85\ud0c0\ub85c \uc801\uc911\ud558\uba74 \uc624\ub518\uc758 \uaca9\ub178\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2.5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u55dc\u8840\u9020\u6210\u81f4\u547d\u4e00\u64ca\u6642\uff0c\u6703\u4f7f\u6b50\u4e01\u4e4b\u6012\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2.5\u79d2\u3002",
+    "zh_CN": "\u55dc\u8840\u7684\u7206\u51fb\u4f7f\u5965\u4e01\u4e4b\u6012\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2.5\u79d2\u3002"
+  }
 }

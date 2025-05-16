@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405534"
+  "SpellID": "405534",
+  "name_blz": {
+    "en_US": "Mage Fire 10.1 Class Set 2pc",
+    "en_GB": "Mage Fire 10.1 Class Set 2pc"
+  },
+  "description_blz": {
+    "en_US": "Phoenix Flames applies Charring Embers to all enemies it damages, increasing their damage taken from you by 6% for 14 sec.",
+    "es_MX": "Llamas del f\u00e9nix aplica Ascuas carbonizantes a todos los enemigos que da\u00f1a y aumenta un 6% el da\u00f1o que les infliges durante 14 s.",
+    "pt_BR": "Chamas da F\u00eanix aplica Brasas Carbonizantes a todos os inimigos que recebem dano delas, aumentando em 6% o dano recebido de voc\u00ea por 14 s.",
+    "de_DE": "'Ph\u00f6nixflammen' belegt alle Gegner, die durch den Zauber Schaden erleiden, mit 'Verkohlende Glut', was ihren durch Euch erlittenen Schaden 14 Sek. lang um 6% erh\u00f6ht.",
+    "en_GB": "Phoenix Flames applies Charring Embers to all enemies it damages, increasing their damage taken from you by 6% for 14 sec.",
+    "es_ES": "Llamas de f\u00e9nix aplica Ascuas calcinantes a todos los enemigos que da\u00f1a, lo que aumenta el da\u00f1o que reciben de ti un 6% durante 14 s.",
+    "fr_FR": "Flammes du ph\u00e9nix applique Braises calcinantes aux adversaires auxquels ce sort inflige des d\u00e9g\u00e2ts, ce qui augmente ceux que vous leur infligez de 6% pendant 14 s.",
+    "it_IT": "L'abilit\u00e0 Fiamme della Fenice applica Braci Bruciacchianti a tutti i nemici cui infligge danni, aumentando i danni da te inflitti a quei bersagli del 6% per 14 s.",
+    "ru_RU": "\"\u041f\u043b\u0430\u043c\u044f \u0444\u0435\u043d\u0438\u043a\u0441\u0430\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u0416\u0433\u0443\u0447\u0438\u0435 \u0443\u0433\u043b\u0438\" \u043a\u043e \u0432\u0441\u0435\u043c \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u043e\u043d\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043e\u0442 \u0432\u0430\u0441 \u043d\u0430 6% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 14 \u0441\u0435\u043a.",
+    "ko_KR": "\ubd88\uc0ac\uc870\uc758 \ubd88\uae38 \uc2dc\uc804 \uc2dc \ud53c\ud574\ub97c \uc785\ud788\ub294 \ubaa8\ub4e0 \uc801\uc5d0\uac8c \uc0ac\ub974\ub294 \uc7bf\ubd88\uc744 \ubd80\uc5ec\ud558\uc5ec 14\ucd08 \ub3d9\uc548 \uc2dc\uc804\uc790\uc5d0\uac8c \ubc1b\ub294 \ud53c\ud574\ub97c 6%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9cf3\u51f0\u4e4b\u708e\u5c0d\u547d\u4e2d\u7684\u6240\u6709\u6575\u4eba\u65bd\u52a0\u7126\u707c\u9918\u71fc\uff0c\u4f7f\u4f60\u5c0d\u5176\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad86%\uff0c\u6301\u7e8c14\u79d2\u3002",
+    "zh_CN": "\u4e0d\u6b7b\u9e1f\u4e4b\u7130\u5bf9\u4f24\u5bb3\u7684\u6240\u6709\u654c\u4eba\u65bd\u52a0\u711a\u8eab\u4f59\u7070\uff0c\u4f7f\u4f60\u5bf9\u5176\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad86%\uff0c\u6301\u7eed14\u79d2\u3002"
+  }
 }

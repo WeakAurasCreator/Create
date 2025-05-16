@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390684"
+  "SpellID": "390684",
+  "name_blz": {
+    "en_US": "Bright Pupil",
+    "es_MX": "Pupila brillante",
+    "pt_BR": "Aprendiz Brilhante",
+    "de_DE": "Gl\u00e4nzender Sch\u00fcler",
+    "en_GB": "Bright Pupil",
+    "es_ES": "Pupilo brillante",
+    "fr_FR": "\u00c9l\u00e8ve brillant",
+    "it_IT": "Pupilla Luminosa",
+    "ru_RU": "\u0421\u0438\u044f\u044e\u0449\u0438\u0439 \u0437\u0440\u0430\u0447\u043e\u043a",
+    "ko_KR": "\ucc2c\ub780\ud55c \ub3d9\uacf5",
+    "zh_TW": "\u5149\u660e\u9580\u5f92",
+    "zh_CN": "\u53cc\u76ee\u8000\u5149"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of Power Word: Radiance by 3 sec.",
+    "es_MX": "Reduce el tiempo de reutilizaci\u00f3n de Palabra de poder: radiancia 3 s.",
+    "pt_BR": "Reduz em 3 s o tempo de recarga de Palavra de Poder: Resplendor.",
+    "de_DE": "Verringert die Abklingzeit von 'Machtwort: Glanz' um 3 Sek.",
+    "en_GB": "Reduces the cooldown of Power Word: Radiance by 3 sec.",
+    "es_ES": "Reduce 3 s el tiempo de reutilizaci\u00f3n de Palabra de poder: radiancia.",
+    "fr_FR": "R\u00e9duit le temps de recharge de Mot de pouvoir\u00a0: Radiance de 3\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Parola del Potere: Radiosit\u00e0 di 3 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0421\u043b\u043e\u0432\u0430 \u0441\u0438\u043b\u044b: \u0421\u0438\u044f\u043d\u0438\u0435\" \u043d\u0430 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\uc758 \uad8c\ub2a5: \uad11\ud718\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 3\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u771f\u8a00\u8853\uff1a\u8f1d\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed3\u79d2\u3002",
+    "zh_CN": "\u771f\u8a00\u672f\uff1a\u8000\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed3\u79d2\u3002"
+  }
 }
