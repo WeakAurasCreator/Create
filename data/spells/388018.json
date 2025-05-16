@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388018"
+  "SpellID": "388018",
+  "name_blz": {
+    "en_US": "Maraad's Dying Breath",
+    "es_MX": "Aliento moribundo de Maraad",
+    "pt_BR": "\u00daltimo Suspiro de Maraad",
+    "de_DE": "Maraads letzter Atemzug",
+    "en_GB": "Maraad's Dying Breath",
+    "es_ES": "\u00daltimo aliento de Maraad",
+    "fr_FR": "Dernier souffle de Maraad",
+    "it_IT": "Ultimo Respiro di Maraad",
+    "ru_RU": "\u041f\u0440\u0435\u0434\u0441\u043c\u0435\u0440\u0442\u043d\u044b\u0439 \u0432\u0437\u0434\u043e\u0445 \u041c\u0430\u0440\u0430\u0430\u0434\u0430",
+    "ko_KR": "\ub9c8\ub77c\uc544\ub4dc\uc758 \ub9c8\uc9c0\ub9c9 \uc228\uacb0",
+    "zh_TW": "\u746a\u92b3\u5fb7\u7684\u81e8\u7d42\u4e4b\u606f",
+    "zh_CN": "\u739b\u5c14\u62c9\u5fb7\u7684\u4e34\u7ec8\u4e4b\u606f"
+  },
+  "description_blz": {
+    "en_US": "Light of Dawn increases your next Light of the Martyr by 10% for each ally healed, and allows that Light of the Martyr to heal through Beacon of Light.\r\n\r\nLight of the Martyr damages you over 5 sec instead of instantly.",
+    "es_MX": "Luz del alba aumenta tu pr\u00f3xima Luz del m\u00e1rtir un 10% por cada aliado sanado y permite que esa Luz del m\u00e1rtir se aplique al objetivo con Se\u00f1al de la Luz.\r\n\r\nLuz del m\u00e1rtir te da\u00f1a durante 5 s en lugar de da\u00f1arte al instante.",
+    "pt_BR": "Luz da Aurora aumenta sua pr\u00f3xima Luz do M\u00e1rtir em 10% para cada aliado curado, e permite que essa Luz do M\u00e1rtir cure por meio do Foco de Luz.\r\n\r\nA Luz do M\u00e1rtir causa dano a voc\u00ea ao longo de 5 s, em vez de instantaneamente.",
+    "de_DE": "'Licht der Morgend\u00e4mmerung' erh\u00f6ht die Heilung Eures n\u00e4chsten Einsatzes von 'Licht des M\u00e4rtyrers' um 10% pro geheiltem Verb\u00fcndeten und bewirkt, dass dieser Einsatz zus\u00e4tzlich Eure 'Flamme des Glaubens' heilt.\r\n\r\nIhr erleidet den Schaden von 'Licht des M\u00e4rtyrers' im Verlauf von 5 Sek. anstatt sofort.",
+    "en_GB": "Light of Dawn increases your next Light of the Martyr by 10% for each ally healed, and allows that Light of the Martyr to heal through Beacon of Light.\r\n\r\nLight of the Martyr damages you over 5 sec instead of instantly.",
+    "es_ES": "Luz del alba aumenta un 10% tu siguiente Luz del m\u00e1rtir por cada aliado sanado y permite que Luz del m\u00e1rtir sane mediante Se\u00f1al de la Luz.\r\n\r\nLuz del m\u00e1rtir te inflige da\u00f1o durante 5 s en lugar de al instante.",
+    "fr_FR": "Lumi\u00e8re de l\u2019aube augmente votre prochaine Lumi\u00e8re du martyr de 10% pour chaque alli\u00e9 soign\u00e9 et permet \u00e0 Lumi\u00e8re du martyr de soigner gr\u00e2ce \u00e0 Guide de lumi\u00e8re.\r\n\r\nLumi\u00e8re du martyr vous inflige des d\u00e9g\u00e2ts en 5 s au lieu de d\u00e9g\u00e2ts instantan\u00e9s.",
+    "it_IT": "Luce dell'Alba aumenta le successive cure fornite da Luce del Martire del 10% per ogni alleato curato e permette a Luce del Martire di curare tramite l'effetto di Faro di Luce.\r\n\r\nInoltre, Luce del Martire infligge danni nel corso di 5 s, invece che istantaneamente.",
+    "ru_RU": "\"\u0421\u0432\u0435\u0442 \u0437\u0430\u0440\u0438\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0421\u0432\u0435\u0442\u0430 \u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0430\" \u043d\u0430 10% \u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u044d\u0442\u043e\u043c\u0443 \"\u0421\u0432\u0435\u0442\u0443 \u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0430\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0446\u0435\u043b\u0438 \u0432\u0430\u0448\u0435\u0439 \"\u0427\u0430\u0441\u0442\u0438\u0446\u044b \u0421\u0432\u0435\u0442\u0430\".\r\n\r\n\"\u0421\u0432\u0435\u0442 \u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0432\u0430\u043c \u0443\u0440\u043e\u043d \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 5 \u0441\u0435\u043a., \u0430 \u043d\u0435 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e.",
+    "ko_KR": "\uc5ec\uba85\uc758 \ube5b\uc73c\ub85c \uce58\uc720\ud55c \uc544\uad70 \ud558\ub098\ub2f9 \ub2e4\uc74c \uc21c\uad50\uc790\uc758 \ube5b\uc758 \ud6a8\uacfc\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ud574\ub2f9 \uc21c\uad50\uc790\uc758 \ube5b\uc740 \ube5b\uc758 \ubd09\ud654\ub97c \ud568\uaed8 \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\n\uc21c\uad50\uc790\uc758 \ube5b\uc774 \ud53c\ud574\ub97c \uc989\uc2dc \uc785\ud788\uc9c0 \uc54a\uace0 5\ucd08\uc5d0 \uac78\uccd0 \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u9ece\u660e\u66d9\u5149\u6bcf\u6cbb\u7642\u4e00\u540d\u76df\u53cb\uff0c\u90fd\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u6b89\u96e3\u8005\u4e4b\u5149\u7684\u6548\u679c\u63d0\u9ad810%\uff0c\u4e26\u4f7f\u8a72\u6b21\u6b89\u96e3\u8005\u4e4b\u5149\u53ef\u4ee5\u900f\u904e\u8056\u5149\u4fe1\u6a19\u9020\u6210\u6cbb\u7642\u3002\r\n\r\n\u6b89\u96e3\u8005\u4e4b\u5149\u6539\u57285\u79d2\u5167\u5c0d\u4f60\u9020\u6210\u50b7\u5bb3\uff0c\u800c\u975e\u7acb\u523b\u9020\u6210\u50b7\u5bb3\u3002",
+    "zh_CN": "\u9ece\u660e\u4e4b\u5149\u6bcf\u6cbb\u7597\u4e00\u540d\u76df\u53cb\uff0c\u4f60\u7684\u4e0b\u4e00\u6b21\u6b89\u9053\u8005\u4e4b\u5149\u7684\u6cbb\u7597\u91cf\u5c31\u63d0\u9ad810%\uff0c\u800c\u4e14\u8fd9\u6b21\u6b89\u9053\u8005\u4e4b\u5149\u8fd8\u4f1a\u901a\u8fc7\u5723\u5149\u9053\u6807\u9020\u6210\u6cbb\u7597\u3002\r\n\r\n\u6b89\u9053\u8005\u4e4b\u5149\u4e0d\u518d\u5bf9\u4f60\u9020\u6210\u76f4\u63a5\u4f24\u5bb3\uff0c\u800c\u662f\u57285\u79d2\u5185\u5bf9\u4f60\u9020\u6210\u4f24\u5bb3\u3002"
+  }
 }

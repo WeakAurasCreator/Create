@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "384631"
+  "SpellID": "384631",
+  "name_blz": {
+    "en_US": "Flagellation",
+    "es_MX": "Flagelaci\u00f3n",
+    "pt_BR": "Flagela\u00e7\u00e3o",
+    "de_DE": "Gei\u00dfelung",
+    "en_GB": "Flagellation",
+    "es_ES": "Flagelaci\u00f3n",
+    "fr_FR": "Flagellation",
+    "it_IT": "Flagellazione",
+    "ru_RU": "\u0424\u043b\u0430\u0433\u0435\u043b\u043b\u044f\u0446\u0438\u044f",
+    "ko_KR": "\ucc44\ucc0d\uc9c8",
+    "zh_TW": "\u9748\u9b44\u97ad\u7b1e",
+    "zh_CN": "\u72c2\u70ed\u97ad\u7b1e"
+  },
+  "description_blz": {
+    "en_US": "Lash the target for 323 Shadow damage, causing each combo point spent within 12 sec to lash for an additional 65. Dealing damage with Flagellation increases your Mastery by 1.2%, persisting 12 sec after their torment fades.",
+    "es_MX": "Azota al objetivo, le inflige 314 p. de da\u00f1o de las sombras y le da otro azote que inflige 65 p. m\u00e1s de da\u00f1o por cada punto de combo gastado durante 12 s. Infligir da\u00f1o con Flagelaci\u00f3n aumenta un 1.2% tu maestr\u00eda, que persiste 12 s despu\u00e9s de que su tormento termine.",
+    "pt_BR": "A\u00e7oita o alvo e causa 319 de dano de Sombra, fazendo com que cada ponto de combo gasto em at\u00e9 12 s a\u00e7oite novamente e cause 64 a mais. Causar dano com Flagela\u00e7\u00e3o aumenta em 1,2% a sua Maestria, persistindo por 12 s ap\u00f3s o fim do tormento.",
+    "de_DE": "Peitscht das Ziel und f\u00fcgt ihm so 316 Schattenschaden zu. Zus\u00e4tzlich l\u00f6st jeder innerhalb von 12 Sek. verbrauchte Combopunkt einen weiteren Peitschenhieb aus, der 64 Schaden verursacht. Wenn Ihr Schaden mit 'Gei\u00dfelung' verursacht, wird Eure Meisterschaft um 1,2% erh\u00f6ht. Dieser Effekt h\u00e4lt nach Ende der Qual des Ziels noch 12 Sek. lang an.",
+    "en_GB": "Lash the target for 316 Shadow damage, causing each combo point spent within 12 sec to lash for an additional 63. Dealing damage with Flagellation increases your Mastery by 1.2%, persisting 12 sec after their torment fades.",
+    "es_ES": "Azotas al objetivo para infligirle 321 p. de da\u00f1o de las Sombras y 65 p. de da\u00f1o m\u00e1s por cada punto de combo gastado en un plazo de 12 s. Al infligir da\u00f1o con Flagelaci\u00f3n, tu maestr\u00eda aumenta un 1,2%, efecto que persiste durante 12 s despu\u00e9s de que acabe el tormento de tu objetivo.",
+    "fr_FR": "Vous fouettez la cible, ce qui lui inflige 317\u00a0points de d\u00e9g\u00e2ts d\u2019ombre, et chaque point de combo d\u00e9pens\u00e9 dans les 12 s s\u2019accompagne d\u2019un coup de fouet qui lui inflige 63\u00a0points de d\u00e9g\u00e2ts suppl\u00e9mentaires. Lorsque vous infligez des d\u00e9g\u00e2ts avec Flagellation, votre Ma\u00eetrise augmente de 1,2\u00a0%, effet qui dure 12 s apr\u00e8s la fin de sa torture.",
+    "it_IT": "Flagella il bersaglio, infliggendo 325 danni da ombra e facendo s\u00ec che ogni punto combo consumato entro 12 s infligga 64 danni aggiuntivi. Infliggere danni con Flagellazione aumenta la maestria del 1,2%. L'effetto bonus persiste per 12 s dopo la fine del tormento.",
+    "ru_RU": "\u0411\u0438\u0447\u0443\u0435\u0442 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f 326 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438. \u0412 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 12 \u0441\u0435\u043a. \u043a\u0430\u0436\u0434\u044b\u0439 \u0438\u0437\u0440\u0430\u0441\u0445\u043e\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0440\u0438\u0435\u043c \u0441\u0435\u0440\u0438\u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0446\u0435\u043b\u0438 \u0435\u0449\u0435 64 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430. \u041a\u043e\u0433\u0434\u0430 \"\u0424\u043b\u0430\u0433\u0435\u043b\u043b\u044f\u0446\u0438\u044f\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \u0432\u0430\u0448\u0430 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1,2%. \u042d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0435\u0449\u0435 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 12 \u0441\u0435\u043a. \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u0438\u0441\u0442\u044f\u0437\u0430\u043d\u0438\u044f.",
+    "ko_KR": "\ub300\uc0c1\uc744 \ucc44\ucc0d\uc9c8\ud574 317\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0 12\ucd08 \uc548\uc5d0 \uc18c\ubaa8\ud55c \uc5f0\uacc4 \uc810\uc218 1\uc810\ub2f9 \ucc44\ucc0d\uc744 \ud718\ub458\ub7ec 63\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ucc44\ucc0d\uc9c8\ub85c \ud53c\ud574\ub97c \uc785\ud788\uba74 \ud2b9\ud654\uac00 1.2%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ub300\uc0c1\uc758 \uace0\ud1b5\uc774 \uc0ac\ub77c\uc9c4 \ub4a4\uc5d0\ub3c4 12\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u97ad\u7b1e\u76ee\u6a19\uff0c\u9020\u6210322\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e14\u572812\u79d2\u5167\u6d88\u8017\u7684\u6bcf\u500b\u9023\u64ca\u9ede\u6578\uff0c\u90fd\u6703\u984d\u5916\u9020\u621063\u9ede\u50b7\u5bb3\u3002\u4f7f\u7528\u9748\u9b44\u97ad\u7b1e\u9020\u6210\u50b7\u5bb3\u5f8c\uff0c\u4f7f\u4f60\u7684\u7cbe\u901a\u63d0\u9ad81.2%\uff0c\u5728\u6298\u78e8\u8870\u9000\u5f8c\u6301\u7e8c12\u79d2\u3002",
+    "zh_CN": "\u62bd\u6253\u76ee\u6807\uff0c\u9020\u6210321\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u4f7f12\u79d2\u5185\u6d88\u8017\u7684\u6bcf\u4e2a\u8fde\u51fb\u70b9\u6570\u90fd\u80fd\u989d\u5916\u62bd\u625365\u70b9\u4f24\u5bb3\u3002\u4f7f\u7528\u72c2\u70ed\u97ad\u7b1e\u9020\u6210\u4f24\u5bb3\u4f1a\u4f7f\u4f60\u7684\u7cbe\u901a\u63d0\u9ad81.2%\uff0c\u5728\u6298\u78e8\u7ed3\u675f\u540e\u53ef\u4ee5\u6301\u7eed12\u79d2\u3002"
+  }
 }

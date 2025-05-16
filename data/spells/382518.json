@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "382518"
+  "SpellID": "382518",
+  "name_blz": {
+    "en_US": "Perforated Veins",
+    "es_MX": "Venas perforadas",
+    "pt_BR": "Veias Perfuradas",
+    "de_DE": "Durchl\u00f6cherte Adern",
+    "en_GB": "Perforated Veins",
+    "es_ES": "Venas perforadas",
+    "fr_FR": "Veines perfor\u00e9es",
+    "it_IT": "Vene Perforate",
+    "ru_RU": "\u041f\u0440\u043e\u043a\u043e\u043b\u043e\u0442\u044b\u0435 \u0432\u0435\u043d\u044b",
+    "ko_KR": "\ud608\uad00 \uad00\ud1b5",
+    "zh_TW": "\u8840\u8108\u7a7f\u523a",
+    "zh_CN": "\u94c1\u62f3\u7a7f\u523a"
+  },
+  "description_blz": {
+    "en_US": "After striking 4 times with Backstab, your next attack that generates combo points deals 50% increased damage.",
+    "es_MX": "Luego de golpear 4 veces con Pu\u00f1alada, tu siguiente ataque que genera p. de combo inflige un 50% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Ap\u00f3s atingir 4 vezes com Punhalada pelas Costas, seu pr\u00f3ximo ataque que gera pontos de combo causa 50% a mais de dano.",
+    "de_DE": "Nachdem Ihr 4-mal mit 'Meucheln' angegriffen habt, verursacht Euer n\u00e4chster Angriff, der Combopunkte erzeugt, 50% mehr Schaden.",
+    "en_GB": "After striking 4 times with Backstab, your next attack that generates combo points deals 50% increased damage.",
+    "es_ES": "Tras golpear 4 veces con Pu\u00f1alada, tu siguiente ataque que genera puntos de combo inflige un 50% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Apr\u00e8s avoir port\u00e9 4\u00a0coups avec Attaque sournoise, votre prochaine attaque qui g\u00e9n\u00e8re des points de combo inflige 50\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires.",
+    "it_IT": "Dopo aver colpito 4 volte con Pugnalata alle Spalle, il successivo attacco che fornisce punti combo infligge il 50% di danni aggiuntivi.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u0432\u044b \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442\u0435 \u0446\u0435\u043b\u044c \"\u0423\u0434\u0430\u0440\u043e\u043c \u0432 \u0441\u043f\u0438\u043d\u0443\" 4 \u0440\u0430\u0437\u0430, \u0432\u0430\u0448\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0430\u0442\u0430\u043a\u0430, \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u044e\u0449\u0430\u044f \u0441\u0435\u0440\u0438\u044e \u043f\u0440\u0438\u0435\u043c\u043e\u0432, \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 50% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uae30\uc2b5\uc73c\ub85c 4\ud68c \uacf5\uaca9\ud55c \ud6c4, \ub2e4\uc74c \uc5f0\uacc4 \uc810\uc218\ub97c \uc0dd\uc131\ud558\ub294 \uacf5\uaca9\uc774 50%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u80cc\u523a\u653b\u64ca4\u6b21\u5f8c\uff0c\u4f60\u4e0b\u4e00\u500b\u7522\u751f\u9023\u64ca\u9ede\u6578\u7684\u653b\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u4f7f\u7528\u80cc\u523a\u653b\u51fb4\u6b21\u540e\uff0c\u4f60\u7684\u4e0b\u4e00\u6b21\u4ea7\u751f\u8fde\u51fb\u70b9\u6570\u7684\u653b\u51fb\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad850%\u3002"
+  }
 }

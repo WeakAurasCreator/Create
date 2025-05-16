@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "352502"
+  "SpellID": "352502",
+  "name_blz": {
+    "en_US": "Survivor's Rally",
+    "es_MX": "Convocatoria del sobreviviente",
+    "pt_BR": "Reagrupamento de Sobreviventes",
+    "de_DE": "Ermutigung der \u00dcberlebenden",
+    "en_GB": "Survivor's Rally",
+    "es_ES": "Fuerzas de flaqueza",
+    "fr_FR": "Ralliement du survivant",
+    "it_IT": "Adunata dei Sopravvissuti",
+    "ru_RU": "\u041a\u043b\u0438\u0447 \u0432\u044b\u0436\u0438\u0432\u0448\u0435\u0433\u043e",
+    "ko_KR": "\uc0dd\uc874\uc790 \uacb0\uc9d1",
+    "zh_TW": "\u96c6\u7d50\u751f\u5b58\u8005",
+    "zh_CN": "\u5e78\u5b58\u8005\u96c6\u7ed3"
+  },
+  "description_blz": {
+    "en_US": "When you fall below 50% health, you regain 20% of your health over 10 sec and receive 10% additional healing from other spells and abilities.\r\n\r\nMay only occur once every 60 sec.",
+    "es_MX": "Cuando tu salud cae por debajo del 50%, recuperas un 20% de tu salud durante 10 s y recibes un 10% m\u00e1s de sanaci\u00f3n de otros hechizos y habilidades.\r\n\r\nSolo puede ocurrir una vez cada 60 s.",
+    "pt_BR": "Ao ficar com menos de 50% de vida, voc\u00ea recupera 20% de vida ao longo de 10 s e recebe 10% a mais de cura de outros feiti\u00e7os e habilidades.\r\n\r\nS\u00f3 pode ocorrer uma vez a cada 60 s.",
+    "de_DE": "Wenn Eure Gesundheit unter 50% f\u00e4llt, erhaltet Ihr im Verlauf von 10 Sek. 20% Eurer Gesundheit zur\u00fcck und erhaltet dabei 10% mehr Heilung durch andere Zauber und F\u00e4higkeiten.\r\n\r\nKann nur einmal alle 60 Sek. auftreten.",
+    "en_GB": "When you fall below 50% health, you regain 20% of your health over 10 sec and receive 10% additional healing from other spells and abilities.\r\n\r\nMay only occur once every 60 sec.",
+    "es_ES": "Cuando tu salud cae por debajo del 50%, recuperas un 20% a lo largo de 10 s y recibes un 10% m\u00e1s de sanaci\u00f3n de otros hechizos y facultades.\r\n\r\nSolo puede ocurrir una vez cada 60\u00a0s.",
+    "fr_FR": "Quand vos points de vie passent sous la barre des 50%, vous r\u00e9cup\u00e9rez 20% de vos points de vie en 10 s, puis 10% de soins suppl\u00e9mentaires des autres sorts et techniques.\r\n\r\nNe peut se produire qu\u2019une fois toutes les 60\u00a0s.",
+    "it_IT": "Quando si scende al di sotto del 50% della salute massima, si rigenera il 20% della salute massima in 10 s e si riceve il 10% di cure aggiuntive dagli incantesimi e dalle abilit\u00e0.\r\n\r\nPu\u00f2 verificarsi solo una volta ogni 60 s.",
+    "ru_RU": "\u041f\u0440\u0438 \u0443\u0440\u043e\u0432\u043d\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0438\u0436\u0435 50% \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 20% \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 10 \u0441\u0435\u043a. \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \u0434\u0440\u0443\u0433\u0438\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432.\r\n\r\n\u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 60 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 50% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74 10\ucd08\uc5d0 \uac78\uccd0 20%\uc758 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud558\uace0, \ub2e4\ub978 \uc8fc\ubb38 \ubc0f \ub2a5\ub825\uc73c\ub85c \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\uac00 \ucd94\uac00\ub85c 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n60\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u7684\u751f\u547d\u529b\u964d\u81f350%\u6642\uff0c\u4f60\u6703\u572810\u79d2\u5167\u6062\u5fa920%\u7684\u751f\u547d\u529b\uff0c\u4e26\u4e14\u4f60\u5f9e\u5225\u7684\u6cd5\u8853\u8207\u6280\u80fd\u7372\u5f97\u7684\u6cbb\u7642\u91cf\u63d0\u9ad810%\u3002\r\n\r\n\u6bcf60\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5f53\u4f60\u7684\u751f\u547d\u503c\u4f4e\u4e8e50%\u65f6\uff0c\u4f60\u5c06\u572810\u79d2\u5185\u6062\u590d20%\u7684\u751f\u547d\u503c\uff0c\u5e76\u4ece\u5176\u4ed6\u6cd5\u672f\u548c\u6280\u80fd\u4e2d\u83b7\u5f9710%\u7684\u989d\u5916\u6cbb\u7597\u3002\r\n\r\n\u6bcf60\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

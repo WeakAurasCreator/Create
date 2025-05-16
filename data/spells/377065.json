@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "377065"
+  "SpellID": "377065",
+  "name_blz": {
+    "en_US": "Mental Fortitude",
+    "es_MX": "Entereza mental",
+    "pt_BR": "Fortitude Mental",
+    "de_DE": "Mentale St\u00e4rke",
+    "en_GB": "Mental Fortitude",
+    "es_ES": "Entereza mental",
+    "fr_FR": "Robustesse mentale",
+    "it_IT": "Fermezza Mentale",
+    "ru_RU": "\u0421\u0438\u043b\u0430 \u0440\u0430\u0437\u0443\u043c\u0430",
+    "ko_KR": "\uac15\uc778\ud55c \uc815\uc2e0",
+    "zh_TW": "\u5fc3\u9748\u5805\u97cc",
+    "zh_CN": "\u610f\u5fd7\u575a\u5b9a"
+  },
+  "description_blz": {
+    "en_US": "Healing from Vampiric Touch and Devouring Plague when you are at maximum health will shield you for the same amount. The shield cannot exceed 10% of your maximum health.",
+    "es_MX": "Cuando tienes tu salud m\u00e1xima, la sanaci\u00f3n de Toque vamp\u00edrico y Peste devoradora te cubrir\u00e1 por la misma cantidad. El escudo no puede exceder el 10% de tu salud m\u00e1xima.",
+    "pt_BR": "Curar-se com Toque Vamp\u00edrico e Peste Devoradora quando voc\u00ea estiver com o m\u00e1ximo de pontos de vida cria um escudo que protege voc\u00ea pela mesma quantidade da cura. O escudo n\u00e3o pode exceder 10% do seu m\u00e1ximo de pontos de vida.",
+    "de_DE": "Wenn Ihr bereits bei vollst\u00e4ndiger Gesundheit seid, wird die durch 'Vampirber\u00fchrung' und 'Verschlingende Seuche' hervorgerufene Heilung in einen Schild umgewandelt. Der Schild kann nicht mehr als 10% Eurer maximalen Gesundheit betragen.",
+    "en_GB": "Healing from Vampiric Touch and Devouring Plague when you are at maximum health will shield you for the same amount. The shield cannot exceed 10% of your maximum health.",
+    "es_ES": "Cuando tienes el m\u00e1ximo de salud, la sanaci\u00f3n de Toque vamp\u00edrico y Peste devoradora se convierte en un escudo que absorber\u00e1 la misma cantidad de da\u00f1o. El escudo no puede superar un 10% de tu salud m\u00e1xima.",
+    "fr_FR": "Lorsque vous avez tous vos points de vie, les soins de Toucher vampirique ou Peste d\u00e9vorante vous conf\u00e8rent un bouclier absorbant un montant de d\u00e9g\u00e2ts \u00e9gal \u00e0 l\u2019exc\u00e9dent de soins. Ce bouclier ne peut pas absorber plus de 10% de votre maximum de points de vie.",
+    "it_IT": "Le sovracure fornite da Tocco Vampirico e Piaga Divoratrice ti proteggono dello stesso ammontare. Lo scudo non pu\u00f2 superare il 10% della salute massima.",
+    "ru_RU": "\u0418\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u044f \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u0438 \"\u0412\u0441\u0435\u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0449\u0435\u0439 \u0447\u0443\u043c\u044b\" \u043d\u0430\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0432\u0430\u0441 \u0449\u0438\u0442, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 \u044d\u0442\u043e\u0433\u043e \u0438\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f. \u0429\u0438\u0442 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442\u044c \u043d\u0435 \u0431\u043e\u043b\u0435\u0435 10% \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 \ucd5c\ub300\uce58\uc77c \ub54c \ud761\ud608\uc758 \uc190\uae38\uc774\ub098 \ud30c\uba78\uc758 \uc5ed\ubcd1\uc73c\ub85c \uce58\uc720\ub97c \ubc1b\uc73c\uba74 \ub3d9\uc77c\ud55c \ud53c\ud574\ub97c \ud761\uc218\ud558\ub294 \ubcf4\ud638\ub9c9\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4. \ubcf4\ud638\ub9c9\uc758 \ud53c\ud574 \ud761\uc218\ub7c9\uc740 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 10%\ub97c \ucd08\uacfc\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4",
+    "zh_TW": "\u5982\u679c\u4f60\u7684\u751f\u547d\u529b\u9054\u5230\u4e0a\u9650\uff0c\u5438\u8840\u4e4b\u89f8\u548c\u566c\u9748\u761f\u75ab\u7684\u6cbb\u7642\u6548\u679c\u6703\u70ba\u4f60\u65bd\u52a0\u4e00\u9762\u7b49\u91cf\u7684\u5438\u6536\u8b77\u76fe\u3002\u8b77\u76fe\u7684\u5438\u6536\u91cf\u4e0a\u9650\u70ba\u4f60\u751f\u547d\u529b\u4e0a\u9650\u768410%\u3002",
+    "zh_CN": "\u5728\u751f\u547d\u503c\u4e3a\u6ee1\u7684\u72b6\u6001\u4e0b\uff0c\u53d7\u5230\u5438\u8840\u9b3c\u4e4b\u89e6\u548c\u566c\u7075\u75ab\u75c5\u7684\u6cbb\u7597\u4f1a\u4ea7\u751f\u5438\u6536\u62a4\u76fe\uff0c\u5438\u6536\u7b49\u540c\u4e8e\u6cbb\u7597\u91cf\u7684\u4f24\u5bb3\u3002\u62a4\u76fe\u5438\u6536\u7684\u4f24\u5bb3\u4e0d\u4f1a\u8d85\u8fc7\u4f60\u6700\u5927\u751f\u547d\u503c\u768410%\u3002"
+  }
 }

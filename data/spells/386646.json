@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386646"
+  "SpellID": "386646",
+  "name_blz": {
+    "en_US": "Lifeblood",
+    "es_MX": "Sangre de vida",
+    "pt_BR": "Sangue Vital",
+    "de_DE": "Lebensblut",
+    "en_GB": "Lifeblood",
+    "es_ES": "Sangre de vida",
+    "fr_FR": "Sang-de-vie",
+    "it_IT": "Sangue Vitale",
+    "ru_RU": "\u0416\u0438\u0437\u043d\u0435\u043d\u043d\u0430\u044f \u0441\u0438\u043b\u0430",
+    "ko_KR": "\uc0dd\uba85\uc758 \ud53c",
+    "zh_TW": "\u751f\u547d\u4e4b\u8840",
+    "zh_CN": "\u751f\u547d\u4e4b\u8840"
+  },
+  "description_blz": {
+    "en_US": "When you use a Healthstone, gain 4% Leech for 20 sec.",
+    "es_MX": "Cuando usas una piedra de salud, obtienes un 4% de robo de vida durante 20 s.",
+    "pt_BR": "Ao usar uma Pedra de Vida, voc\u00ea ganha 4% de Sorver por 20 s.",
+    "de_DE": "Wenn Ihr einen Gesundheitsstein benutzt, wird Euer Lebensraub f\u00fcr 20 Sek. um 4% erh\u00f6ht.",
+    "en_GB": "When you use a Healthstone, gain 4% Leech for 20 sec.",
+    "es_ES": "Cuando usas una piedra de salud obtienes un 4% de parasitar durante 20 s.",
+    "fr_FR": "Lorsque vous utilisez une pierre de soins, votre Ponction est augment\u00e9e de 4% pendant 20 s.",
+    "it_IT": "Quando usi una Pietra della Salute, il ritorno vitale aumenta del 4% per 20 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0435 \u043a\u0430\u043c\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0441\u0430\u043c\u043e\u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 4% \u043d\u0430 20 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0dd\uba85\uc11d\uc744 \uc0ac\uc6a9\ud558\uba74 20\ucd08 \ub3d9\uc548 \uc0dd\uae30\ud761\uc218\uac00 4%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u4f7f\u7528\u6cbb\u7642\u77f3\u6642\uff0c\u7372\u5f974%\u6c72\u53d6\uff0c\u6301\u7e8c20\u79d2\u3002",
+    "zh_CN": "\u5f53\u4f60\u4f7f\u7528\u6cbb\u7597\u77f3\u65f6\uff0c\u83b7\u5f974%\u5438\u8840\uff0c\u6301\u7eed20\u79d2\u3002"
+  }
 }

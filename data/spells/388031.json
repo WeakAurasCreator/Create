@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388031"
+  "SpellID": "388031",
+  "name_blz": {
+    "en_US": "Jade Bond",
+    "es_MX": "V\u00ednculo de jade",
+    "pt_BR": "V\u00ednculo de Jade",
+    "de_DE": "Jadeband",
+    "en_GB": "Jade Bond",
+    "es_ES": "V\u00ednculo de jade",
+    "fr_FR": "Lien de jade",
+    "it_IT": "Vincolo di Giada",
+    "ru_RU": "\u0421\u0432\u044f\u0437\u044c c \u041d\u0435\u0444\u0440\u0438\u0442\u043e\u0432\u043e\u0439 \u0437\u043c\u0435\u0435\u0439",
+    "ko_KR": "\ube44\ucde8 \uacb0\uc18d",
+    "zh_TW": "\u7389\u9f8d\u7f88\u7d46",
+    "zh_CN": "\u7fe1\u7fe0\u7f81\u7eca"
+  },
+  "description_blz": {
+    "en_US": "Chi Cocoons now apply Enveloping Mist for 4 sec when they expire or are consumed, and Chi-Ji's Gusts of Mists healing is increased by 20% and Yu'lon's Soothing Breath healing is increased by 500%.",
+    "es_MX": "Los Capullos de chi ahora aplican Niebla envolvente durante 4 s cuando expiran o se consumen. La sanaci\u00f3n de las R\u00e1fagas de niebla de Chi-Ji aumenta un 20% y la sanaci\u00f3n del Aliento reconfortante de Yu'lon aumenta un 500%.",
+    "pt_BR": "Casulos de Chi agora aplicam Bruma Envolvente por 4 s quando expiram ou s\u00e3o consumidos, a cura de Rajada de Brumas de Chi-Ji aumenta em 20%, e a cura do Sopro Reconfortante de Yu'lon aumenta em 500%.",
+    "de_DE": "Euer 'Chikokon' wendet jetzt 4 Sek. lang 'Einh\u00fcllender Nebel' an, wenn er abl\u00e4uft oder verbraucht wird. Die Heilung durch Chi-Jis 'Nebelschwall' ist um 20% erh\u00f6ht, und die Heilung durch Yu'lons 'Beruhigender Atem' ist um 500% erh\u00f6ht.",
+    "en_GB": "Chi Cocoons now apply Enveloping Mist for 4 sec when they expire or are consumed, and Chi-Ji's Gusts of Mists healing is increased by 20% and Yu'lon's Soothing Breath healing is increased by 500%.",
+    "es_ES": "Ahora, las cris\u00e1lidas de chi aplican Niebla envolvente durante 4 s cuando se agotan o se consumen, y se aumenta un 20% la sanaci\u00f3n de Racha de niebla de Chi-Ji y un 500% la de Aliento reconfortante de Yu'lon.",
+    "fr_FR": "Cocon de chi applique d\u00e9sormais Brume enveloppante pendant 4\u00a0s quand il arrive \u00e0 expiration ou est consomm\u00e9, et les soins des Bourrasques de brume de Chi Ji sont augment\u00e9s de 20\u00a0% et ceux de Souffle apaisant de Yu\u2019lon de 500\u00a0%.",
+    "it_IT": "I Bozzoli del Chi ora applicano Nebbia Avvolgente per 4 s quando terminano o vengono consumati, le cure fornite da Folata di Venti di Chi-Ji aumentano del 20% e le cure fornite da Respiro Calmante di Yu'lon aumentano del 500%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u041a\u043e\u043a\u043e\u043d \u0446\u0438\" \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043e\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u0446\u0435\u043b\u0438 \"\u041e\u043a\u0443\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\" \u043d\u0430 4 \u0441\u0435\u043a. \"\u0422\u0443\u043c\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a\" \u0427\u0438-\u0426\u0437\u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043d\u0430 20% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \"\u0423\u0441\u043f\u043e\u043a\u0430\u0438\u0432\u0430\u044e\u0449\u0435\u0435 \u0434\u044b\u0445\u0430\u043d\u0438\u0435\" \u042e\u0439-\u043b\u0443\u043d \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043d\u0430 500% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uae30 \uace0\uce58\uac00 \ub9cc\ub8cc\ub418\uac70\ub098 \uc18c\ubaa8\ub420 \ub54c 4\ucd08 \ub3d9\uc548 \ud3ec\uc6a9\uc758 \uc548\uac1c\ub97c \ubd80\uc5ec\ud558\uba70, \uce20\uc9c0\uc758 \uc548\uac1c \ub3cc\ud48d\uc758 \uce58\uc720\ub7c9\uc774 20%\ub9cc\ud07c, \uc704\ub860\uc758 \uc704\uc548\uc758 \uc228\uacb0\uc758 \uce58\uc720\ub7c9\uc774 500%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u73fe\u5728\u6c23\u7e6d\u5728\u5931\u6548\u6216\u88ab\u6d88\u8017\u5f8c\u6703\u65bd\u52a0\u6301\u7e8c4\u79d2\u7684\u8ff7\u9727\u7e5a\u7e5e\uff0c\u4e14\u8d64\u5409\u7684\u6d36\u6e67\u8ff7\u9727\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad820%\uff0c\u7389\u9f8d\u7684\u8212\u548c\u5410\u606f\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad8500%\u3002",
+    "zh_CN": "\u771f\u6c14\u4e4b\u8327\u6548\u679c\u7ed3\u675f\u6216\u88ab\u6d88\u8017\u65f6\u8fd8\u4f1a\u65bd\u52a0\u6301\u7eed4\u79d2\u7684\u6c24\u6c32\u4e4b\u96fe\uff0c\u8d64\u7cbe\u7684\u8ff7\u96fe\u4e4b\u98ce\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad820%\uff0c\u7389\u73d1\u7684\u629a\u6170\u4e4b\u606f\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad8500%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "388809"
+  "SpellID": "388809",
+  "name_blz": {
+    "en_US": "Fast Feet",
+    "es_MX": "Pies ligeros",
+    "pt_BR": "P\u00e9s R\u00e1pidos",
+    "de_DE": "Flinke F\u00fc\u00dfe",
+    "en_GB": "Fast Feet",
+    "es_ES": "Pies r\u00e1pidos",
+    "fr_FR": "Jeu de jambes",
+    "it_IT": "Piedi Veloci",
+    "ru_RU": "\u0411\u044b\u0441\u0442\u0440\u043e\u043d\u043e\u0433\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ube60\ub978 \ubc1c",
+    "zh_TW": "\u52d5\u5982\u812b\u5154",
+    "zh_CN": "\u65e0\u5f71\u6b65"
+  },
+  "description_blz": {
+    "en_US": "Rising Sun Kick deals 70% increased damage. Spinning Crane Kick deals 10% additional damage.\r\n",
+    "es_MX": "Patada del sol naciente inflige un 70% m\u00e1s de da\u00f1o. Patada giratoria de la grulla inflige un 10% m\u00e1s de da\u00f1o.\r\n",
+    "pt_BR": "Chute do Sol Nascente causa 70% a mais de dano. Chute Girat\u00f3rio da Gar\u00e7a causa 10% de dano adicional.\r\n",
+    "de_DE": "'Tritt der aufgehenden Sonne' verursacht 70% mehr Schaden. 'Wirbelnder Kranichtritt' verursacht 10% mehr Schaden.\r\n",
+    "en_GB": "Rising Sun Kick deals 70% increased damage. Spinning Crane Kick deals 10% additional damage.\r\n",
+    "es_ES": "Patada del sol naciente inflige un 70% m\u00e1s de da\u00f1o. Patada giratoria de la grulla inflige un 10% m\u00e1s de da\u00f1o.\r\n",
+    "fr_FR": "Coup de pied du soleil levant inflige 70% de d\u00e9g\u00e2ts suppl\u00e9mentaires. Coup tournoyant de la grue inflige 10% de d\u00e9g\u00e2ts suppl\u00e9mentaires.\r\n",
+    "it_IT": "Aumenta i danni inflitti da Calcio del Sole Nascente del 70%. Aumenta i danni inflitti da Calcio Rotante della Gru del 10%.\r\n",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 70% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430. \"\u0422\u0430\u043d\u0446\u0443\u044e\u0449\u0438\u0439 \u0436\u0443\u0440\u0430\u0432\u043b\u044c\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e 10% \u0443\u0440\u043e\u043d\u0430.\r\n",
+    "ko_KR": "\ud574\uc624\ub984\ucc28\uae30\uc758 \uacf5\uaca9\ub825\uc774 70%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\ud68c\uc804 \ud559\ub2e4\ub9ac\ucc28\uae30\uc758 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7fd4\u967d\u8173\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad870%\u3002\u9db4\u65cb\u8e22\u984d\u5916\u9020\u621010%\u50b7\u5bb3\u3002\r\n",
+    "zh_CN": "\u65ed\u65e5\u4e1c\u5347\u8e22\u7684\u4f24\u5bb3\u63d0\u9ad870%\uff0c\u795e\u9e64\u5f15\u9879\u8e22\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002\r\n"
+  }
 }

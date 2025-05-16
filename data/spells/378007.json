@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "378007"
+  "SpellID": "378007",
+  "name_blz": {
+    "en_US": "Beast Master",
+    "es_MX": "Maestro de bestias",
+    "pt_BR": "Mestre das Feras",
+    "de_DE": "Meister der Tiere",
+    "en_GB": "Beast Master",
+    "es_ES": "Maestro de bestias",
+    "fr_FR": "Ma\u00eetre des b\u00eates",
+    "it_IT": "Affinit\u00e0 Feroce",
+    "ru_RU": "\u0425\u043e\u0437\u044f\u0438\u043d \u0437\u0432\u0435\u0440\u0435\u0439",
+    "ko_KR": "\uc57c\uc218 \uc870\ub828\uc0ac",
+    "zh_TW": "\u91ce\u7378\u5927\u5e2b",
+    "zh_CN": "\u517d\u738b"
+  },
+  "description_blz": {
+    "en_US": "Pet damage increased by 3%.",
+    "es_MX": "El da\u00f1o de la mascota aumenta un 3%.",
+    "pt_BR": "Dano do ajudante aumentado em 3%.",
+    "de_DE": "Erh\u00f6ht den Schaden Eures Tiers um 3%.",
+    "en_GB": "Pet damage increased by 3%.",
+    "es_ES": "Da\u00f1o de mascota aumentado un 3%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts du familier sont augment\u00e9s de 3%.",
+    "it_IT": "Aumenta i danni inflitti dal famiglio del 3%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043f\u0438\u0442\u043e\u043c\u0446\u0430 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d \u043d\u0430 3%.",
+    "ko_KR": "\uc57c\uc218\uc758 \uacf5\uaca9\ub825\uc774 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5bf5\u7269\u50b7\u5bb3\u63d0\u9ad83%\u3002",
+    "zh_CN": "\u5ba0\u7269\u7684\u4f24\u5bb3\u63d0\u9ad83%\u3002"
+  }
 }

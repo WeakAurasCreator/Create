@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "372527"
+  "SpellID": "372527",
+  "name_blz": {
+    "en_US": "Time Lord",
+    "es_MX": "Se\u00f1or del tiempo",
+    "pt_BR": "Senhor do Tempo",
+    "de_DE": "Herr \u00fcber die Zeit",
+    "en_GB": "Time Lord",
+    "es_ES": "Se\u00f1or del tiempo",
+    "fr_FR": "Seigneur du temps",
+    "it_IT": "Signore del Tempo",
+    "ru_RU": "\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
+    "ko_KR": "\uc2dc\uac04\uc758 \uad70\uc8fc",
+    "zh_TW": "\u6642\u9593\u9818\u4e3b",
+    "zh_CN": "\u65f6\u5149\u4e4b\u4e3b"
+  },
+  "description_blz": {
+    "en_US": "Echo replicates 50% more healing.",
+    "es_MX": "Eco replica un 50% m\u00e1s de sanaci\u00f3n.",
+    "pt_BR": "Eco replica 50% mais cura.",
+    "de_DE": "'Echo' repliziert 50% mehr Heilung.",
+    "en_GB": "Echo replicates 50% more healing.",
+    "es_ES": "Eco replica un 50% m\u00e1s de sanaci\u00f3n.",
+    "fr_FR": "\u00c9cho duplique 50% de soins suppl\u00e9mentaires.",
+    "it_IT": "Aumenta le cure replicate da Eco del 50%.",
+    "ru_RU": "\"\u041e\u0442\u0433\u043e\u043b\u043e\u0441\u043e\u043a\" \u0434\u0443\u0431\u043b\u0438\u0440\u0443\u0435\u0442 \u0435\u0449\u0435 50% \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f.",
+    "ko_KR": "\uba54\uc544\ub9ac\uac00 \ucd94\uac00\ub85c 50%\uc758 \uce58\uc720\ub7c9\uc744 \ubcf5\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u56de\u97f3\u8907\u88fd\u7684\u6cbb\u7642\u91cf\u63d0\u9ad850%\u3002",
+    "zh_CN": "\u56de\u54cd\u590d\u5236\u6cbb\u7597\u91cf\u63d0\u9ad850%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "350451"
+  "SpellID": "350451",
+  "name_blz": {
+    "en_US": "Egg-xcellent Diplomacy",
+    "es_MX": "Diplomacia pascual",
+    "pt_BR": "Diplomacia Ovoxcepcional",
+    "de_DE": "Ei-nzigartige Diplomatie",
+    "en_GB": "Egg-xcellent Diplomacy",
+    "es_ES": "Diplomacia sensacioval",
+    "fr_FR": "Coqueluche mondaine",
+    "it_IT": "Dipluovazia Eccellente",
+    "ru_RU": "\u042f\u0438\u0447\u043d\u0430\u044f \u0434\u0438\u043f\u043b\u043e\u043c\u0430\u0442\u0438\u044f",
+    "ko_KR": "\uc54c\ucc2c \uc678\uad50\uc220",
+    "zh_TW": "\u86cb\u9858\u4eba\u9577\u4e45",
+    "zh_CN": "\u51fa\u201c\u5375\u201d\u62d4\u8403\u7684\u5916\u4ea4"
+  },
+  "description_blz": {
+    "en_US": "Friendship gains with guests increased by 300% during this Ember Court.",
+    "es_MX": "Aumenta los puntos de amistad obtenidos un 300% durante esta Corte de Brasas.",
+    "pt_BR": "Ganho de amizade com convidados aumentado em 300% durante esta Corte das Brasas.",
+    "de_DE": "Erh\u00f6ht den Freundschaftszuwachs von G\u00e4sten w\u00e4hrend dieses Gluthofs um 300%.",
+    "en_GB": "Friendship gains with guests increased by 300% during this Ember Court.",
+    "es_ES": "La amistad generada con los invitados aumenta un 300% durante esta Corte de Ascuas.",
+    "fr_FR": "Vos gains d\u2019amiti\u00e9 aupr\u00e8s des convives sont augment\u00e9s de 300% au cours de cette r\u00e9ception de la cour des Braises.",
+    "it_IT": "Aumenta l'amicizia accumulata con gli ospiti del 300% durante questa Corte delle Braci.",
+    "ru_RU": "\u041e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u043a \u0432\u0430\u043c \u0433\u043e\u0441\u0442\u0435\u0439 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u0435\u043c\u0430 \u0443\u043b\u0443\u0447\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 300% \u0431\u044b\u0441\u0442\u0440\u0435\u0435.",
+    "ko_KR": "\uc774\ubc88 \uc7bf\ubd88 \uad81\uc815\uc5d0\uc11c \uc5bb\ub294 \uc190\ub2d8\ub4e4\uacfc\uc758 \uc6b0\uc815\uc774 300%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u9019\u5834\u9918\u71fc\u5bb4\u6703\u4e2d\uff0c\u4f7f\u4f60\u548c\u8cd3\u5ba2\u7684\u53cb\u8abc\u63d0\u5347\u5e45\u5ea6\u63d0\u9ad8300%\u3002",
+    "zh_CN": "\u5728\u6b64\u6b21\u7070\u70ec\u738b\u5ead\u4e2d\uff0c\u83b7\u5f97\u7684\u5bbe\u5ba2\u53cb\u8c0a\u589e\u52a0300%\u3002"
+  }
 }

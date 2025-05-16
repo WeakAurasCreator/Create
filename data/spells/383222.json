@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383222"
+  "SpellID": "383222",
+  "name_blz": {
+    "en_US": "Overflowing Shores",
+    "es_MX": "Costas rebosantes",
+    "pt_BR": "Costas Transbordantes",
+    "de_DE": "\u00dcberlaufende K\u00fcsten",
+    "en_GB": "Overflowing Shores",
+    "es_ES": "Orillas desbordantes",
+    "fr_FR": "Crues bienfaisantes",
+    "it_IT": "Spiagge Traboccanti",
+    "ru_RU": "\u0425\u043b\u044f\u0431\u0438 \u043d\u0435\u0431\u0435\u0441\u043d\u044b\u0435",
+    "ko_KR": "\ubc94\ub78c\uc758 \ud30c\ub3c4",
+    "zh_TW": "\u6e67\u6d41\u6c92\u5cb8",
+    "zh_CN": "\u6ea2\u6d41\u6d77\u6ee9"
+  },
+  "description_blz": {
+    "en_US": "Healing Rain instantly restores 2,848 health to 5 allies within its area, and its radius is increased by 2 yards.",
+    "es_MX": "Lluvia de sanaci\u00f3n restaura instant\u00e1neamente 2,848 p. de salud a 5 aliados que est\u00e1n en el \u00e1rea y su radio aumenta 2 m.",
+    "pt_BR": "Chuva Curativa restaura instantaneamente 2.848 pontos de vida de 5 aliados na \u00e1rea, e seu raio \u00e9 aumentado para 2 m.",
+    "de_DE": "'Heilender Regen' heilt 5 Verb\u00fcndete im Effektbereich sofort um 2.848 Gesundheit. Au\u00dferdem wird der Effektradius um 2 Meter erh\u00f6ht.",
+    "en_GB": "Healing Rain instantly restores 2,848 health to 5 allies within its area, and its radius is increased by 2 yards.",
+    "es_ES": "Lluvia de sanaci\u00f3n restaura al instante 2848 p. de salud a 5 aliados dentro de su zona de acci\u00f3n, y el radio de esta aumenta 2 m.",
+    "fr_FR": "Pluie gu\u00e9risseuse rend instantan\u00e9ment 2848\u00a0points de vie \u00e0 5\u00a0personnages alli\u00e9s dans sa zone d\u2019effet, et son rayon est augment\u00e9 de 2\u00a0m.",
+    "it_IT": "Pioggia Curativa rigenera istantaneamente 2.848 salute a 5 alleati nell'area d'effetto. Il raggio dell'area d'effetto aumenta di 2 m.",
+    "ru_RU": "\"\u0426\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043b\u0438\u0432\u0435\u043d\u044c\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 2848 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f 5 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f, \u0430 \u0440\u0430\u0434\u0438\u0443\u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 2 \u043c.",
+    "ko_KR": "\uce58\uc720\uc758 \ube44\uc758 \ubc94\uc704\uac00 2\ubbf8\ud130\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ubc94\uc704 \ub0b4\uc5d0 \uc788\ub294 \uc544\uad70 5\uba85\uc758 \uc0dd\uba85\ub825\uc744 \uc989\uc2dc 2,848\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6cbb\u7652\u4e4b\u96e8\u53ef\u7acb\u5373\u4f7f\u6548\u679c\u7bc4\u570d\u5167\u76845\u540d\u76df\u53cb\u6062\u5fa92,848\u9ede\u751f\u547d\u529b\uff0c\u800c\u4e14\u5176\u6548\u679c\u534a\u5f91\u63d0\u9ad82\u78bc\u3002",
+    "zh_CN": "\u6cbb\u7597\u4e4b\u96e8\u4f1a\u7acb\u5373\u4e3a\u8303\u56f4\u5185\u76845\u540d\u76df\u53cb\u6062\u590d2,848\u70b9\u751f\u547d\u503c\uff0c\u4e14\u8303\u56f4\u534a\u5f84\u589e\u52a02\u7801\u3002"
+  }
 }

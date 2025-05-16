@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "377226"
+  "SpellID": "377226",
+  "name_blz": {
+    "en_US": "Frostwhelp's Aid",
+    "es_MX": "Ayuda de criafr\u00eda",
+    "pt_BR": "Aux\u00edlio do Dragonete G\u00e9lido",
+    "de_DE": "Hilfe des Frostwelpen",
+    "en_GB": "Frostwhelp's Aid",
+    "es_ES": "Ayuda de la cr\u00eda de Escarcha",
+    "fr_FR": "Soutien du Dragonnet de givre",
+    "it_IT": "Aiuto di Alagelida",
+    "ru_RU": "\u041f\u043e\u043c\u043e\u0449\u044c \u043b\u0435\u0434\u044f\u043d\u043e\u0433\u043e \u0434\u0440\u0430\u043a\u043e\u043d\u0447\u0438\u043a\u0430",
+    "ko_KR": "\uc0c8\ub07c \uc11c\ub9ac\uace0\ub8e1\uc758 \uc9c0\uc6d0",
+    "zh_TW": "\u51b0\u971c\u5e7c\u9f8d\u7684\u5354\u52a9",
+    "zh_CN": "\u51b0\u971c\u96cf\u9f99\u4e4b\u63f4"
+  },
+  "description_blz": {
+    "en_US": "Pillar of Frost summons a Frostwhelp who breathes on all enemies within 40 yards in front of you for 223 Frost damage. Each unique enemy hit by Frostwhelp's Aid grants you 8% Mastery for 15 sec, up to 40%.\r\n",
+    "es_MX": "Pilar de escarcha invoca una criafr\u00eda que exhala sobre todos los enemigos en un radio de 40 m frente a ti y les inflige 220 p. de da\u00f1o de escarcha. Cada enemigo golpeado por Ayuda de criafr\u00eda te otorga un 8% de maestr\u00eda durante 15 s, hasta un m\u00e1ximo del 40%.\r\n",
+    "pt_BR": "Pilar de Gelo evoca um Dragonete G\u00e9lido que emite um sopro em todos os inimigos em um raio de 40 m \u00e0 sua frente, causando 208 de dano de Gelo. Cada inimigo atingido por Aux\u00edlio do Dragonete G\u00e9lido concede a voc\u00ea 8% de Maestria por 15 s, at\u00e9 um m\u00e1ximo de 40%.\r\n",
+    "de_DE": "'S\u00e4ule des Frosts' beschw\u00f6rt einen Frostwelpen, der alle Gegner innerhalb von 40 Metern vor Euch mit seinem Atem \u00fcberzieht und ihnen so 228 Frostschaden zuf\u00fcgt. Jeder einzelne von 'Hilfe des Frostwelpen' getroffene Gegner gew\u00e4hrt Euch f\u00fcr 15 Sek. 8% Meisterschaft, bis zu maximal 40% Meisterschaft.\r\n",
+    "en_GB": "Pillar of Frost summons a Frostwhelp who breathes on all enemies within 40 yards in front of you for 215 Frost damage. Each unique enemy hit by Frostwhelp's Aid grants you 8% Mastery for 15 sec, up to 40%.\r\n",
+    "es_ES": "Pilar de Escarcha invoca una cr\u00eda de Escarcha que inflige 232 p. de da\u00f1o de Escarcha con su aliento a todos los enemigos que est\u00e1n en un radio de 40\u00a0m frente a ti. Cada enemigo \u00fanico golpeado por Ayuda de la cr\u00eda de Escarcha te otorga un 8% de maestr\u00eda durante 15 s, hasta un m\u00e1ximo de 40%.\r\n",
+    "fr_FR": "Pilier de givre invoque un dragonnet de givre qui frappe les ennemis \u00e0 moins de 40\u00a0m\u00e8tres devant vous de son souffle glacial et leur inflige 227\u00a0points de d\u00e9g\u00e2ts de givre. Chaque ennemi touch\u00e9 par Soutien du Dragonnet de givre vous conf\u00e8re un bonus de 8\u00a0% \u00e0 la Ma\u00eetrise pendant 15 s, jusqu\u2019\u00e0 un maximum de 40\u00a0%.\r\n",
+    "it_IT": "Pilastro di Ghiaccio evoca un Alagelida che soffia contro tutti i nemici frontali entro 40 m, infliggendo 219 danni da gelo. Ogni nemico unico colpito da Aiuto di Alagelida aumenta la tua maestria del 8% per 15 s, fino a un massimo del 40%.\r\n",
+    "ru_RU": "\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0441\u0442\u043e\u043b\u043f \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043b\u0435\u0434\u044f\u043d\u043e\u0433\u043e \u0434\u0440\u0430\u043a\u043e\u043d\u0447\u0438\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u044b\u0448\u0438\u0442 \u0445\u043e\u043b\u043e\u0434\u043e\u043c \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 40 \u043c \u043f\u0435\u0440\u0435\u0434 \u0432\u0430\u043c\u0438, \u043d\u0430\u043d\u043e\u0441\u044f 225 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430. \u0417\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u043e\u0433\u043e \"\u041f\u043e\u043c\u043e\u0449\u044c\u044e \u043b\u0435\u0434\u044f\u043d\u043e\u0433\u043e \u0434\u0440\u0430\u043a\u043e\u043d\u0447\u0438\u043a\u0430\", \u0432\u0430\u0448\u0430 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 8% \u043d\u0430 15 \u0441\u0435\u043a. \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u043e\u043d\u0443\u0441 \u2013 40%.\r\n",
+    "ko_KR": "\uc5bc\uc74c \uae30\ub465 \uc2dc\uc804 \uc2dc \uc0c8\ub07c \uc11c\ub9ac\uace0\ub8e1\uc774 \uc18c\ud658\ub418\uc5b4 \uc804\ubc29 40\ubbf8\ud130 \ub0b4\uc758 \ubaa8\ub4e0 \uc801\uc5d0\uac8c \uc228\uacb0\uc744 \ub0b4\ubc49\uc5b4 211\uc758 \ub0c9\uae30 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc0c8\ub07c \uc11c\ub9ac\uace0\ub8e1\uc758 \uc9c0\uc6d0\uc5d0 \uc801\uc911\ub2f9\ud55c \uc801 \ud558\ub098\ub2f9 15\ucd08 \ub3d9\uc548 \ud2b9\ud654\uac00 8%\ub9cc\ud07c, \ucd5c\ub300 40%\uae4c\uc9c0 \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u51b0\u971c\u4e4b\u67f1\u53ec\u559a\u51b0\u971c\u5e7c\u9f8d\uff0c\u671d\u4f60\u524d\u65b940\u78bc\u7bc4\u570d\u5167\u6240\u6709\u6575\u4eba\u5410\u606f\u9020\u6210227\u9ede\u51b0\u971c\u50b7\u5bb3\u3002\u51b0\u971c\u5e7c\u9f8d\u7684\u5354\u52a9\u6bcf\u64ca\u4e2d\u4e00\u540d\u4e0d\u540c\u7684\u6575\u4eba\u53ef\u8ce6\u4e88\u4f608%\u7cbe\u901a\uff0c\u6301\u7e8c15\u79d2\uff0c\u6700\u9ad8\u53ef\u905440%\u3002\r\n",
+    "zh_CN": "\u51b0\u971c\u4e4b\u67f1\u4f1a\u53ec\u5524\u4e00\u5934\u51b0\u971c\u96cf\u9f99\uff0c\u5bf9\u4f60\u524d\u65b940\u7801\u5185\u7684\u6240\u6709\u654c\u4eba\u8fdb\u884c\u5410\u606f\uff0c\u9020\u6210218\u70b9\u51b0\u971c\u4f24\u5bb3\u3002\u6bcf\u5f53\u6709\u4e00\u540d\u654c\u4eba\u88ab\u51b0\u971c\u96cf\u9f99\u4e4b\u63f4\u51fb\u4e2d\u65f6\uff0c\u4f60\u7684\u7cbe\u901a\u90fd\u4f1a\u63d0\u9ad88%\uff0c\u6301\u7eed15\u79d2\uff0c\u6700\u591a\u53ef\u53e0\u52a0\u81f340%\u3002\r\n"
+  }
 }

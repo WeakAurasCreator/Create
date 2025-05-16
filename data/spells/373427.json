@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "373427"
+  "SpellID": "373427",
+  "name_blz": {
+    "en_US": "Inescapable Torment",
+    "es_MX": "Tormento ineludible",
+    "pt_BR": "Tormento Inescap\u00e1vel",
+    "de_DE": "Unentrinnbare Qual",
+    "en_GB": "Inescapable Torment",
+    "es_ES": "Tormento ineludible",
+    "fr_FR": "Tourment in\u00e9luctable",
+    "it_IT": "Tormento Inevitabile",
+    "ru_RU": "\u041d\u0435\u0438\u0437\u0431\u0435\u0436\u043d\u0430\u044f \u043f\u044b\u0442\u043a\u0430",
+    "ko_KR": "\ud53c\ud560 \uc218 \uc5c6\ub294 \uace0\ud1b5",
+    "zh_TW": "\u547d\u5b9a\u6298\u78e8",
+    "zh_CN": "\u6298\u78e8\u7f20\u8eab"
+  },
+  "description_blz": {
+    "en_US": "Mind Blast and Shadow Word: Death cause your Mindbender or Shadowfiend to teleport behind your target, slashing up to 5 nearby enemies for 4,647 Shadow damage and extending its duration by 0.7 sec.",
+    "es_MX": "Explosi\u00f3n mental y Palabra de las sombras: muerte hacen que tu dominamentes o maligno de las sombras se teletransporte detr\u00e1s de tu objetivo para atacar a un m\u00e1ximo de 5 enemigos cercanos, lo que les inflige 4,647 p. de da\u00f1o de las sombras y extiende su duraci\u00f3n 0.7 s.",
+    "pt_BR": "Impacto Mental e Palavra Sombria: Morte fazem seu Dobramentes ou Dem\u00f4nio das Sombras se teleportarem para tr\u00e1s do alvo, causando 4.647 de dano de Sombra a at\u00e9 5 inimigos pr\u00f3ximos e prolongando suas dura\u00e7\u00f5es em 0,7 s.",
+    "de_DE": "'Gedankenschlag' und 'Schattenwort: Tod' veranlassen Euren Geistbeuger oder Schattengeist, sich hinter Euer Ziel zu teleportieren und bis zu 5 Gegnern in der N\u00e4he 4.647 Schattenschaden zuzuf\u00fcgen. Dabei wird die Dauer des Geistbeugers oder Schattengeists um 0,7 Sek. erh\u00f6ht.",
+    "en_GB": "Mind Blast and Shadow Word: Death cause your Mindbender or Shadowfiend to teleport behind your target, slashing up to 5 nearby enemies for 4,647 Shadow damage and extending its duration by 0.7 sec.",
+    "es_ES": "Explosi\u00f3n mental y Palabra de las Sombras: muerte provocan que tu dominamentes o maligno de las Sombras se teletransporte detr\u00e1s de tu objetivo, golpee a un m\u00e1ximo de 5 enemigos cercanos y les inflija 4647 p. de da\u00f1o de las Sombras. Adem\u00e1s, prolonga 0,7 s su duraci\u00f3n.",
+    "fr_FR": "Attaque mentale et Mot de l\u2019ombre\u00a0: Mort t\u00e9l\u00e9portent votre torve-esprit ou ombrefiel derri\u00e8re votre cible, ce qui lui permet d\u2019infliger \u00e0 un maximum de 5\u00a0adversaires proches 4647\u00a0points de d\u00e9g\u00e2ts d\u2019ombre et de le prolonger de 0,7\u00a0s.",
+    "it_IT": "Detonazione Mentale e Parola d'Ombra: Morte fanno s\u00ec che il tuo Plagiamente o Spirito d'Ombra si teletrasporti alle spalle del bersaglio, colpendo fino a 5 nemici vicini e infliggendo 4.647 danni da ombra. Inoltre, ne aumenta la durata di 0,7 s.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0412\u0437\u0440\u044b\u0432\u0430 \u0440\u0430\u0437\u0443\u043c\u0430\" \u0438 \"\u0421\u043b\u043e\u0432\u0430 \u0422\u044c\u043c\u044b: \u0421\u043c\u0435\u0440\u0442\u044c\" \u0432\u0430\u0448 \u043f\u043e\u0434\u0447\u0438\u043d\u0438\u0442\u0435\u043b\u044c \u0440\u0430\u0437\u0443\u043c\u0430 \u0438\u043b\u0438 \u0438\u0441\u0447\u0430\u0434\u0438\u0435 \u0422\u044c\u043c\u044b \u0442\u0435\u043b\u0435\u043f\u043e\u0440\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u0430 \u0441\u043f\u0438\u043d\u0443 \u0432\u0430\u0448\u0435\u0439 \u0446\u0435\u043b\u0438, \u043d\u0430\u043d\u043e\u0441\u044f \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c 4647 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0438 \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u044f \u0441\u0432\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 0,7 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\uc2e0 \ubd84\uc5f4 \ubc0f \uc5b4\ub460\uc758 \uad8c\ub2a5: \uc8fd\uc74c \uc2dc\uc804 \uc2dc \ud658\uac01\uc758 \ub9c8\uadc0 \ub610\ub294 \uc5b4\ub460\uc758 \ub9c8\uadc0\uac00 \ub300\uc0c1\uc758 \ubc30\ud6c4\ub85c \uc21c\uac04\uc774\ub3d9\ud558\uc5ec \uc8fc\uc704\uc5d0 \uc788\ub294 \ucd5c\ub300 5\uba85\uc758 \uc801\uc744 \ubca0\uc5b4 4,647\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\uace0, \uc9c0\uc18d\uc2dc\uac04\uc774 0.7\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5fc3\u9748\u9707\u7206\u548c\u6697\u8a00\u8853\uff1a\u6b7b\u6703\u4f7f\u4f60\u7684\u5c48\u5fc3\u9b54\u6216\u6697\u5f71\u60e1\u9b54\u50b3\u9001\u81f3\u76ee\u6a19\u5f8c\u65b9\uff0c\u653b\u64ca\u9644\u8fd1\u6700\u591a5\u500b\u6575\u4eba\uff0c\u9020\u62104,647\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u4e26\u4f7f\u5176\u6301\u7e8c\u6642\u9593\u5ef6\u95770.7\u79d2\u3002",
+    "zh_CN": "\u5fc3\u7075\u9707\u7206\u548c\u6697\u8a00\u672f\uff1a\u706d\u4f1a\u4f7f\u4f60\u7684\u6467\u5fc3\u9b54\u6216\u6697\u5f71\u9b54\u4f20\u9001\u81f3\u76ee\u6807\u8eab\u540e\uff0c\u5bf9\u9644\u8fd1\u81f3\u591a5\u540d\u654c\u4eba\u9020\u62104,647\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u5e76\u4f7f\u5176\u6301\u7eed\u65f6\u95f4\u5ef6\u957f0.7\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "385739"
+  "SpellID": "385739",
+  "name_blz": {
+    "en_US": "Coordinated Kill",
+    "es_MX": "Muerte coordinada",
+    "pt_BR": "Abate Coordenado",
+    "de_DE": "Koordinierte T\u00f6tung",
+    "en_GB": "Coordinated Kill",
+    "es_ES": "Muerte coordinada",
+    "fr_FR": "Ex\u00e9cution coordonn\u00e9e",
+    "it_IT": "Uccisione Coordinata",
+    "ru_RU": "\u0421\u043e\u0433\u043b\u0430\u0441\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430",
+    "ko_KR": "\ud611\uacf5 \uc0ac\uc0b4",
+    "zh_TW": "\u806f\u624b\u64ca\u6bba",
+    "zh_CN": "\u534f\u540c\u6740\u622e"
+  },
+  "description_blz": {
+    "en_US": "While Coordinated Assault is active, the cooldown of Wildfire Bomb is reduced by 25%, Wildfire Bomb generates 5 Focus when thrown, Kill Shot's cooldown is reduced by 25%, and Kill Shot can be used against any target, regardless of their current health.",
+    "es_MX": "Mientras Asalto coordinado est\u00e1 activo, Bomba de fuego salvaje reduce un 25% su tiempo de reutilizaci\u00f3n y genera 5 p. de enfoque cuando se lanza, reduce el tiempo de reutilizaci\u00f3n de Disparo mortal un 25% y Disparo mortal puede usarse contra cualquier objetivo sin importar su salud actual.",
+    "pt_BR": "Enquanto o Ataque Coordenado estiver ativo, a recarga da Bomba de Fogo Ind\u00f4mito \u00e9 reduzida em 25%, a Bomba de Fogo Ind\u00f4mito gera 5 de Concentra\u00e7\u00e3o ao ser arremessada, a recarga de Tiro Mortal \u00e9 reduzida em 25% e o Tiro Mortal pode ser usado contra qualquer alvo, com qualquer quantidade de pontos de vida.",
+    "de_DE": "W\u00e4hrend 'Koordinierter Angriff' aktiv ist, ist die Abklingzeit von 'Lauffeuerbombe' um 25% verringert. 'Lauffeuerbombe' erzeugt beim Werfen 5 Fokus, die Abklingzeit von 'T\u00f6dlicher Schuss' ist um 25% verringert und 'T\u00f6dlicher Schuss' kann gegen jedes Ziel unabh\u00e4ngig von seiner aktuellen Gesundheit eingesetzt werden.",
+    "en_GB": "While Coordinated Assault is active, the cooldown of Wildfire Bomb is reduced by 25%, Wildfire Bomb generates 5 Focus when thrown, Kill Shot's cooldown is reduced by 25%, and Kill Shot can be used against any target, regardless of their current health.",
+    "es_ES": "Mientras Ataque coordinado est\u00e1 activo, el tiempo de reutilizaci\u00f3n de Bomba de fuego salvaje se reduce un 25%, la facultad genera 5 p. de enfoque cuando se lanza, se reduce un 25% el tiempo de reutilizaci\u00f3n de Disparo mortal y se puede usar Disparo mortal sobre cualquier objetivo independientemente de su salud.",
+    "fr_FR": "Tant qu\u2019Assaut coordonn\u00e9 est actif, le temps de recharge de Bombe de feu de brousse est r\u00e9duit de 25\u00a0% et elle g\u00e9n\u00e8re 5\u00a0points de focalisation, et r\u00e9duit le temps de recharge de Tir mortel de 25\u00a0% et lui permet d\u2019\u00eatre utilis\u00e9 contre n\u2019importe quelle cible ind\u00e9pendamment de son montant de vie.",
+    "it_IT": "Quando Assalto Coordinato \u00e8 attivo, il tempo di recupero di Bomba di Fuocobrado si riduce del 25%, Bomba di Fuocobrado genera 5 focus quando viene lanciata, il tempo di recupero di Tiro Mortale si riduce del 25% e Tiro Mortale pu\u00f2 essere usato contro qualsiasi bersaglio, a prescindere dalla sua salute attuale.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0421\u043e\u0433\u043b\u0430\u0441\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430\", \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041e\u0433\u043d\u0435\u0431\u043e\u043c\u0431\u044b\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25%, \"\u041e\u0433\u043d\u0435\u0431\u043e\u043c\u0431\u0430\" \u0434\u0430\u0435\u0442 5 \u0435\u0434. \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u0438, \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25% \u0438 \u0435\u0433\u043e \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u043a \u0446\u0435\u043b\u0438 \u0441 \u043b\u044e\u0431\u044b\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\ud611\uacf5\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc57c\uc0dd\ubd88 \ud3ed\ud0c4\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 25%\ub9cc\ud07c \uac10\uc18c\ud558\uace0, \uc57c\uc0dd\ubd88 \ud3ed\ud0c4 \ud22c\ucc99 \uc2dc 5\uc758 \uc9d1\uc911\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4. \ub610\ud55c \ub9c8\ubb34\ub9ac \uc0ac\uaca9\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 25%\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \ud604\uc7ac \uc0dd\uba85\ub825\uc5d0 \uc0c1\uad00\uc5c6\uc774 \uc544\ubb34 \ub300\uc0c1\uc5d0\uac8c\ub098 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u806f\u624b\u8972\u64ca\u4f5c\u7528\u671f\u9593\uff0c\u91ce\u706b\u70b8\u5f48\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed25%\uff0c\u6295\u64f2\u91ce\u706b\u70b8\u5f48\u6642\uff0c\u7522\u751f5\u9ede\u96c6\u4e2d\u503c\uff0c\u64ca\u6bba\u5c04\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed25%\uff0c\u4e26\u4e14\u53ef\u5c0d\u4efb\u4f55\u76ee\u6a19\u65bd\u653e\u64ca\u6bba\u5c04\u64ca\uff0c\u4e0d\u53d7\u5176\u7576\u524d\u751f\u547d\u529b\u5f71\u97ff\u3002",
+    "zh_CN": "\u5f53\u534f\u540c\u8fdb\u653b\u6548\u679c\u6fc0\u6d3b\u65f6\uff0c\u91ce\u706b\u70b8\u5f39\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed25%\uff0c\u6295\u51fa\u91ce\u706b\u70b8\u5f39\u65f6\u4f1a\u4ea7\u751f5\u70b9\u96c6\u4e2d\u503c\uff0c\u593a\u547d\u5c04\u51fb\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed25%\uff0c\u4e14\u593a\u547d\u5c04\u51fb\u53ef\u4ee5\u5bf9\u4efb\u610f\u76ee\u6807\u4f7f\u7528\uff0c\u65e0\u89c6\u5176\u5f53\u524d\u751f\u547d\u503c\u3002"
+  }
 }

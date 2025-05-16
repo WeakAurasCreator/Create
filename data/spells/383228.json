@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383228"
+  "SpellID": "383228",
+  "name_blz": {
+    "en_US": "Swift Justice",
+    "es_MX": "Justicia inmediata",
+    "pt_BR": "Justi\u00e7a C\u00e9lere",
+    "de_DE": "Schnelle Gerechtigkeit",
+    "en_GB": "Swift Justice",
+    "es_ES": "Justicia presta",
+    "fr_FR": "Justice exp\u00e9ditive",
+    "it_IT": "Giustizia Rapida",
+    "ru_RU": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435",
+    "ko_KR": "\uc2e0\uc18d\ud55c \uc815\uc758",
+    "zh_TW": "\u8fc5\u75be\u6b63\u7fa9",
+    "zh_CN": "\u8fc5\u6377\u5ba1\u5224"
+  },
+  "description_blz": {
+    "en_US": "Reduces the cooldown of Judgment by 2 sec and Crusader Strike by 2 sec.",
+    "es_MX": "Reduce 2 s el tiempo de reutilizaci\u00f3n de Sentencia y 2 s el de Golpe de cruzado.",
+    "pt_BR": "Reduz em 2 s a recarga de Julgamento e em 2 s a recarga do Golpe do Cruzado.",
+    "de_DE": "Verringert die Abklingzeit von 'Richturteil' um 2 Sek. und von 'Kreuzfahrersto\u00df' um 2 Sek.",
+    "en_GB": "Reduces the cooldown of Judgment by 2 sec and Crusader Strike by 2 sec.",
+    "es_ES": "Reduce 2 s el tiempo de reutilizaci\u00f3n de Sentencia y 2 s el de Golpe de cruzado.",
+    "fr_FR": "R\u00e9duit le temps de recharge de Jugement de 2\u00a0s et celui de Frappe du crois\u00e9 de 2\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Giudizio di 2 s e quello di Assalto del Crociato di 2 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u044f\" \u043d\u0430 2 \u0441\u0435\u043a., \u0430 \"\u0423\u0434\u0430\u0440\u0430 \u0432\u043e\u0438\u043d\u0430 \u0421\u0432\u0435\u0442\u0430\" \u2013 \u043d\u0430 2 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2ec\ud310\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c, \uc131\uc804\uc0ac\uc758 \uc77c\uaca9\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u5be9\u5224\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\uff0c\u5341\u5b57\u8ecd\u8056\u64ca\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\u3002",
+    "zh_CN": "\u5ba1\u5224\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\uff0c\u5341\u5b57\u519b\u6253\u51fb\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\u3002"
+  }
 }

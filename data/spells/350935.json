@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "350935"
+  "SpellID": "350935",
+  "name_blz": {
+    "en_US": "Waking Bone Breastplate",
+    "es_MX": "Coraza de huesos del despertar",
+    "pt_BR": "Peitoral dos Ossos Despertos",
+    "de_DE": "Brustplatte der erweckten Knochen",
+    "en_GB": "Waking Bone Breastplate",
+    "es_ES": "Coraza de hueso resucitado",
+    "fr_FR": "Cuirasse d\u2019os \u00e9veill\u00e9",
+    "it_IT": "Risveglio del Pettorale Corazzato d'Ossa",
+    "ru_RU": "\u041f\u0440\u043e\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u043a\u043e\u0441\u0442\u044f\u043d\u043e\u0439 \u043a\u0438\u0440\u0430\u0441\u044b",
+    "ko_KR": "\uae68\uc5b4\ub098\ub294 \ud574\uace8\uc758 \uac00\uc2b4\ubcf4\ud638\uac11",
+    "zh_TW": "\u6d3b\u9aa8\u80f8\u7532",
+    "zh_CN": "\u5524\u9192\u767d\u9aa8\u80f8\u7532"
+  },
+  "description_blz": {
+    "en_US": "When 3 or more enemies are nearby, your maximum health is increased by 5%. This effect lingers for 5 seconds.",
+    "es_MX": "Cuando tres o m\u00e1s enemigos est\u00e1n cerca, tu salud m\u00e1xima aumenta un 5%. Este efecto perdura durante 5 segundos.",
+    "pt_BR": "Quando h\u00e1 3 ou mais inimigos pr\u00f3ximos, seu m\u00e1ximo de pontos de vida \u00e9 aumentado em 5%. Este efeito perdura por 5 segundos.",
+    "de_DE": "Wenn 3 oder mehr Gegner in der N\u00e4he sind, wird Eure maximale Gesundheit um 5% erh\u00f6ht. Dieser Effekt verbleibt f\u00fcr 5 Sek.",
+    "en_GB": "When 3 or more enemies are nearby, your maximum health is increased by 5%. This effect lingers for 5 seconds.",
+    "es_ES": "Si hay 3 o m\u00e1s enemigos cerca, tu salud m\u00e1xima aumenta un 5%. Este efecto persiste durante 5 s.",
+    "fr_FR": "Quand vous vous trouvez \u00e0 proximit\u00e9 de 3\u00a0ennemis ou plus, votre maximum de points de vie est augment\u00e9 de 5%. Cet effet perdure pendant 5\u00a0s.",
+    "it_IT": "Quando 3 o pi\u00f9 nemici sono vicini, la tua salute massima aumenta del 5%. L'effetto persiste per 5 s.",
+    "ru_RU": "\u0415\u0441\u043b\u0438 \u0440\u044f\u0434\u043e\u043c \u0441 \u0432\u0430\u043c\u0438 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f 3 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435, \u0432\u0430\u0448 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5%. \u042d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f 5 \u0441\u0435\u043a.",
+    "ko_KR": "\uc8fc\uc704\uc5d0 \uc801\uc774 3\uba85 \uc774\uc0c1 \uc788\uc73c\uba74 \ucd5c\ub300 \uc0dd\uba85\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 5\ucd08 \ub3d9\uc548 \uc9c0\uc18d\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u9644\u8fd1\u67093\u540d\u4ee5\u4e0a\u7684\u6575\u4eba\uff0c\u4f60\u7684\u751f\u547d\u529b\u4e0a\u9650\u63d0\u9ad85%\u3002\u6b64\u6548\u679c\u6703\u5ef6\u7e8c5\u79d2\u3002",
+    "zh_CN": "\u5f53\u9644\u8fd1\u67093\u4e2a\u62163\u4e2a\u4ee5\u4e0a\u654c\u4eba\u65f6\uff0c\u4f60\u7684\u6700\u5927\u751f\u547d\u503c\u63d0\u9ad85%\u3002\u8be5\u6548\u679c\u53ef\u4ee5\u7559\u5b585\u79d2\u3002"
+  }
 }

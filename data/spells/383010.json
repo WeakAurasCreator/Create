@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383010"
+  "SpellID": "383010",
+  "name_blz": {
+    "en_US": "Elemental Orbit",
+    "es_MX": "\u00d3rbita elemental",
+    "pt_BR": "\u00d3rbita Elemental",
+    "de_DE": "Elementare Umkreisung",
+    "en_GB": "Elemental Orbit",
+    "es_ES": "\u00d3rbita elemental",
+    "fr_FR": "Orbite \u00e9l\u00e9mentaire",
+    "it_IT": "Orbita Elementale",
+    "ru_RU": "\u041a\u0440\u0443\u0436\u0430\u0449\u0438\u0435 \u0441\u0442\u0438\u0445\u0438\u0438",
+    "ko_KR": "\uc815\ub839\uc758 \uada4\ub3c4",
+    "zh_TW": "\u5143\u7d20\u74b0\u8eab",
+    "zh_CN": "\u5143\u7d20\u73af\u7ed5"
+  },
+  "description_blz": {
+    "en_US": "Increases the number of Elemental Shields you can have active on yourself by 1.\r\n\r\nYou can have Earth Shield on yourself and one ally at the same time.",
+    "es_MX": "Aumenta en 1 la cantidad de Escudos elementales que puedes tener activos sobre ti.\r\n\r\nPuedes tener Escudo de tierra sobre ti y un aliado al mismo tiempo.",
+    "pt_BR": "Aumenta em 1 o n\u00famero de Escudos Elementais que voc\u00ea pode ter ativos.\r\n\r\nVoc\u00ea pode ter um Escudo da Terra e aplicar em um aliado ao mesmo tempo.",
+    "de_DE": "Erh\u00f6ht die Anzahl Elementarschilde, die bei Euch aktiv sein k\u00f6nnen, um 1.\r\n\r\nEuer 'Erdschild' kann gleichzeitig bei Euch und einem Verb\u00fcndeten aktiv sein.",
+    "en_GB": "Increases the number of Elemental Shields you can have active on yourself by 1.\r\n\r\nYou can have Earth Shield on yourself and one ally at the same time.",
+    "es_ES": "Aumenta en 1 el n\u00famero de escudos elementales que puedes tener activos en ti mismo.\r\n\r\nPuedes aplicar Escudo de tierra sobre ti y sobre un aliado al mismo tiempo.",
+    "fr_FR": "Augmente de 1 le nombre de boucliers \u00e9l\u00e9mentaires dont vous pouvez b\u00e9n\u00e9ficier simultan\u00e9ment.\r\n\r\nBouclier de terre peut prot\u00e9ger un personnage alli\u00e9 en plus de vous-m\u00eame.",
+    "it_IT": "Aumenta il numero di Scudi Elementali che si possono avere attivi su di s\u00e9 di 1.\r\n\r\n\u00c8 possibile avere uno Scudo di Terra attivo su se stessi e su un alleato contemporaneamente.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0449\u0438\u0442\u043e\u0432 \u0441\u0442\u0438\u0445\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0435\u0434\u0438\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u043a \u0441\u0435\u0431\u0435, \u043d\u0430 1.\r\n\r\n\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0435\u0434\u0438\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \"\u0429\u0438\u0442 \u0437\u0435\u043c\u043b\u0438\" \u043a \u0441\u0435\u0431\u0435 \u0438 \u043a \u043e\u0434\u043d\u043e\u043c\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443.",
+    "ko_KR": "\uc790\uc2e0\uc5d0\uac8c \ubd80\uc5ec\ud560 \uc218 \uc788\ub294 \uc6d0\uc18c \ubcf4\ud638\ub9c9\uc758 \uc218\uac00 1\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ub300\uc9c0\uc758 \ubcf4\ud638\ub9c9\uc744 \ub3d9\uc2dc\uc5d0 \uc790\uc2e0\uacfc \ud55c \uba85\uc758 \uc544\uad70\uc5d0\uac8c \uac78 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u81ea\u5df1\u8eab\u4e0a\u53ef\u4ee5\u540c\u6642\u4f5c\u7528\u7684\u5143\u7d20\u4e4b\u76fe\u7a2e\u985e\u63d0\u9ad81\u7a2e\u3002\r\n\r\n\u5728\u540c\u4e00\u6642\u9593\uff0c\u4f60\u53ef\u4ee5\u5c0d\u81ea\u5df1\u548c\u53e6\u4e00\u500b\u76df\u53cb\u5404\u65bd\u52a0\u5927\u5730\u4e4b\u76fe\u3002",
+    "zh_CN": "\u4f60\u8eab\u4e0a\u53ef\u6fc0\u6d3b\u7684\u5143\u7d20\u62a4\u76fe\u79cd\u7c7b\u63d0\u9ad81\u79cd\u3002\r\n\r\n\u4f60\u53ef\u4ee5\u5728\u81ea\u5df1\u548c\u4e00\u540d\u76df\u53cb\u8eab\u4e0a\u540c\u65f6\u62e5\u6709\u5927\u5730\u4e4b\u76fe\u3002"
+  }
 }

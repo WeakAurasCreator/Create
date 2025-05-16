@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "375777"
+  "SpellID": "375777",
+  "name_blz": {
+    "en_US": "Causality",
+    "es_MX": "Causalidad",
+    "pt_BR": "Causalidade",
+    "de_DE": "Kausalit\u00e4t",
+    "en_GB": "Causality",
+    "es_ES": "Causalidad",
+    "fr_FR": "Causalit\u00e9",
+    "it_IT": "Causalit\u00e0",
+    "ru_RU": "\u041f\u0440\u0438\u0447\u0438\u043d\u0430 \u0438 \u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435",
+    "ko_KR": "\uc0ac\uc0c1\uc790",
+    "zh_TW": "\u56e0\u679c\u95dc\u4fc2",
+    "zh_CN": "\u56e0\u679c\u5f8b"
+  },
+  "description_blz": {
+    "en_US": "Disintegrate reduces the remaining cooldown of your empower spells by 0.50 sec each time it deals damage.\r\n\r\nPyre reduces the remaining cooldown of your empower spells by 0.40 sec per enemy struck, up to 2.0 sec.",
+    "es_MX": "Desintegrar reduce el tiempo de reutilizaci\u00f3n restante de tus hechizos de potenciaci\u00f3n 0.50 s cada vez que inflige da\u00f1o.\r\n\r\nPira reduce el tiempo de reutilizaci\u00f3n restante de tus hechizos de potenciaci\u00f3n 0.40 s por cada enemigo golpeado hasta 2.0 s.",
+    "pt_BR": "Desintegrar reduz a recarga restante dos seus feiti\u00e7os potencializados em 0,50 s sempre que causa dano.\r\n\r\nPira reduz a recarga restante dos seus feiti\u00e7os potencializados em 0,40 s por inimigo atingido, at\u00e9 2,0 s.",
+    "de_DE": "Jedes Mal, wenn 'Desintegration' Schaden verursacht, wird die verbleibende Abklingzeit Eurer erm\u00e4chtigten Zauber um 0,50 verringert.\r\n\r\nPro Gegner, den Ihr mit 'Scheiterhaufen' trefft, wird die verbleibende Abklingzeit Eurer erm\u00e4chtigten Zauber um 0,40 verringert, bis zu maximal 2,0 Sek.",
+    "en_GB": "Disintegrate reduces the remaining cooldown of your empower spells by 0.50 sec each time it deals damage.\r\n\r\nPyre reduces the remaining cooldown of your empower spells by 0.40 sec per enemy struck, up to 2.0 sec.",
+    "es_ES": "Desintegrar reduce 0,50 s el tiempo de reutilizaci\u00f3n restante de tus hechizos potenciados cada vez que inflige da\u00f1o.\r\n\r\nPira reduce 0,40 s el tiempo de reutilizaci\u00f3n restante de tus hechizos potenciados por cada enemigo golpeado, hasta un m\u00e1ximo de 2,0 s.",
+    "fr_FR": "D\u00e9sint\u00e9gration r\u00e9duit le temps de recharge restant de vos sorts renforc\u00e9s de 0,50\u00a0s chaque fois qu\u2019elle inflige des d\u00e9g\u00e2ts.\r\n\r\nB\u00fbcher r\u00e9duit le temps de recharge restant de vos sorts renforc\u00e9s de 0,40\u00a0s par adversaire touch\u00e9 (2,0\u00a0s au maximum).",
+    "it_IT": "Disintegrazione riduce il tempo di recupero restante degli incantesimi Potenziati di 0,50 s ogni volta che infligge danni.\r\n\r\nPira riduce il tempo di recupero restante degli incantesimi Potenziati di 0,40 s per ogni nemico colpito per un massimo di 2,0 s.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \"\u0414\u0435\u0437\u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0430\u0448\u0438\u0445 \u0443\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 0,50 \u0441\u0435\u043a.\r\n\r\n\"\u041f\u043e\u0433\u0440\u0435\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u0441\u0442\u0435\u0440\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0432\u0430\u0448\u0438\u0445 \u0443\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043d\u0430 0,40 \u0441\u0435\u043a. \u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u2013 2,0 \u0441\u0435\u043a.",
+    "ko_KR": "\ud30c\uc5f4\uc774 \ud53c\ud574\ub97c \uc785\ud790 \ub54c\ub9c8\ub2e4 \uac15\ud654 \uc8fc\ubb38\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 0.50\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\uae30\uc5fc\uc744 \uc801\uc911\uc2dc\ud0a8 \uc801 \ud558\ub098\ub2f9 \uac15\ud654 \uc8fc\ubb38\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 0.40\ucd08\ub9cc\ud07c, \ucd5c\ub300 2.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u5d29\u89e3\u9020\u6210\u50b7\u5bb3\u6642\u4fbf\u6703\u4f7f\u4f60\u805a\u80fd\u6cd5\u8853\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\u7e2e\u77ed0.50\u79d2\u3002\r\n\r\n\u9f8d\u7130\u6bcf\u64ca\u4e2d\u4e00\u540d\u6575\u4eba\u4fbf\u6703\u4f7f\u4f60\u805a\u80fd\u6cd5\u8853\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\u7e2e\u77ed0.40\u79d2\uff0c\u6700\u591a\u7e2e\u77ed2.0\u79d2\u3002",
+    "zh_CN": "\u88c2\u89e3\u6bcf\u6b21\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u4f1a\u4f7f\u4f60\u7684\u84c4\u529b\u6cd5\u672f\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed0.50\u79d2\u3002\r\n\r\n\u846c\u706b\u6bcf\u51fb\u4e2d\u4e00\u540d\u654c\u4eba\uff0c\u4f1a\u4f7f\u4f60\u7684\u84c4\u529b\u6cd5\u672f\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed0.40\u79d2\uff0c\u6700\u591a\u7f29\u77ed2.0\u79d2\u3002"
+  }
 }
