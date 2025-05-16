@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390279"
+  "SpellID": "390279",
+  "name_blz": {
+    "en_US": "Vile Contagion",
+    "es_MX": "Contagio nauseabundo",
+    "pt_BR": "Cont\u00e1gio Torpe",
+    "de_DE": "\u00dcble Ansteckung",
+    "en_GB": "Vile Contagion",
+    "es_ES": "Contagio vil",
+    "fr_FR": "Contagion abominable",
+    "it_IT": "Contagio Vile",
+    "ru_RU": "\u041e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ucd94\uc545\ud55c \uac10\uc5fc",
+    "zh_TW": "\u6697\u90aa\u611f\u67d3",
+    "zh_CN": "\u90aa\u6076\u8513\u5ef6"
+  },
+  "description_blz": {
+    "en_US": "Inflict disease upon your enemies spreading Festering Wounds equal to the amount currently active on your target to 7 nearby enemies.",
+    "es_MX": "Propaga la enfermedad a 7 enemigos cercanos con una cantidad de Heridas degenerativas equivalente a la cantidad activa en tu objetivo actual.",
+    "pt_BR": "Causa doen\u00e7a aos seus inimigos, espalhando Feridas Purulentas equivalentes \u00e0 quantidade ativa no alvo a 7 inimigos pr\u00f3ximos.",
+    "de_DE": "Macht Eure Gegner krank und verbreitet 'Schw\u00e4rende Wunde' in H\u00f6he des bei Eurem Ziel aktiven Werts auf 7 Gegner in der N\u00e4he.",
+    "en_GB": "Inflict disease upon your enemies spreading Festering Wounds equal to the amount currently active on your target to 7 nearby enemies.",
+    "es_ES": "Crea una enfermedad que propaga Heridas degenerativas entre 7 enemigos cercanos por un valor equivalente a la cantidad activa que afecta a tu objetivo.",
+    "fr_FR": "Vous r\u00e9pandez une maladie qui propage \u00e0 7\u00a0adversaires proches autant de Blessures purulentes que celles affectant votre cible.",
+    "it_IT": "Sparge la malattia tra i nemici, diffondendo un numero di Ferite Putrescenti pari all'ammontare attivo di accumuli sul bersaglio su 7 nemici vicini.",
+    "ru_RU": "\u0417\u0430\u0440\u0430\u0436\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u044f \"\u0413\u043d\u043e\u0439\u043d\u044b\u0435 \u044f\u0437\u0432\u044b\" \u0441 \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u0446\u0435\u043b\u0438 \u0435\u0449\u0435 \u043d\u0430 7 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432.",
+    "ko_KR": "\uc801\uc744 \uc9c8\ubcd1\uc5d0 \uac10\uc5fc\uc2dc\ucf1c, \ud604\uc7ac \ub300\uc0c1\uc5d0\uac8c \ubd80\uc5ec\ub418\uc5b4 \uc788\ub294 \uace0\ub984 \uc0c1\ucc98 \uc911\ucca9 \uc218\ub9cc\ud07c \uc8fc\uc704 7\uba85\uc758 \uc801\uc5d0\uac8c \uace0\ub984 \uc0c1\ucc98\ub97c \ud37c\ub728\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u6575\u4eba\u611f\u67d3\u75be\u75c5\u5f8c\uff0c\u6703\u4f7f\u76f8\u7576\u65bc\u76ee\u524d\u4f5c\u7528\u65bc\u76ee\u6a19\u8eab\u4e0a\u6578\u91cf\u7684\u81bf\u7621\u50b7\u53e3\u50b3\u64ad\u81f3\u9644\u8fd17\u540d\u6575\u4eba\u8eab\u4e0a\u3002",
+    "zh_CN": "\u7528\u75ab\u75c5\u611f\u67d3\u4f60\u7684\u654c\u4eba\uff0c\u5c06\u4f60\u5f53\u524d\u76ee\u6807\u8eab\u4e0a\u7684\u6e83\u70c2\u4e4b\u4f24\u6563\u64ad\u5230\u9644\u8fd17\u540d\u654c\u4eba\u8eab\u4e0a\uff0c\u6563\u64ad\u7684\u5c42\u6570\u4e0e\u5f53\u524d\u76ee\u6807\u8eab\u4e0a\u6fc0\u6d3b\u7684\u5c42\u6570\u76f8\u5f53\u3002"
+  }
 }

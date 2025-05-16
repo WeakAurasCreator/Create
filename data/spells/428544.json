@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "428544"
+  "SpellID": "428544",
+  "name_blz": {
+    "en_US": "Treants of the Moon",
+    "es_MX": "Ant\u00e1rboles de la luna",
+    "pt_BR": "Arvorosos da Lua",
+    "de_DE": "Treants des Mondes",
+    "en_GB": "Treants of the Moon",
+    "es_ES": "Ant\u00e1rboles de la luna",
+    "fr_FR": "Tr\u00e9ants lunaires",
+    "it_IT": "Treant Lunari",
+    "ru_RU": "\u0414\u0440\u0435\u0432\u043d\u0438 \u043b\u0443\u043d\u044b",
+    "ko_KR": "\ub2ec\uc758 \ub098\ubb34\uc815\ub839",
+    "zh_TW": "\u6708\u4e4b\u6a39\u4eba",
+    "zh_CN": "\u6708\u7167\u6811\u4eba"
+  },
+  "description_blz": {
+    "en_US": "Your Grove Guardians cast Moonfire on nearby targets about once every 6 sec.",
+    "es_MX": "Tus Guardianes de la arboleda lanzan Fuego lunar sobre los objetivos cercanos una vez cada 6 s.",
+    "pt_BR": "Seus Guardi\u00f5es do Bosque lan\u00e7am Fogo Lunar em alvos pr\u00f3ximos cerca de uma vez a cada 6 s.",
+    "de_DE": "Eure Hainw\u00e4chter setzen ungef\u00e4hr einmal alle 6 Sek. 'Mondfeuer' gegen Ziele in der N\u00e4he ein.",
+    "en_GB": "Your Grove Guardians cast Moonfire on nearby targets about once every 6 sec.",
+    "es_ES": "Tus guardianes de la arboleda lanzan Fuego lunar contra objetivos cercanos una vez cada 6 s aproximadamente.",
+    "fr_FR": "Vos gardiennes du Bosquet lancent \u00c9clat lunaire sur les cibles proches toutes les 6\u00a0s environ.",
+    "it_IT": "I tuoi Guardiani del Bosco lanciano Fuoco Lunare su bersagli vicini circa una volta ogni 6 s.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0441\u0442\u0440\u0430\u0436\u0438 \u0440\u043e\u0449\u0438 \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0442 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0446\u0435\u043b\u0438 \"\u041b\u0443\u043d\u043d\u044b\u043c \u043e\u0433\u043d\u0435\u043c\" \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0437 \u0432 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc232 \uc218\ud638\uc790\uac00 6\ucd08\ub9c8\ub2e4 \ud55c \ubc88\uc529 \uc8fc\uc704\uc758 \ub300\uc0c1\uc5d0\uac8c \ub2ec\ube5b\uc12c\uad11\uc744 \uc2dc\uc804\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6797\u5730\u5b88\u8b77\u8005\u6703\u5c0d\u9644\u8fd1\u76ee\u6a19\u65bd\u653e\u6708\u706b\u8853\uff0c\u7d04\u6bcf6\u79d2\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u4f60\u7684\u6797\u83bd\u536b\u58eb\u6bcf6\u79d2\u5bf9\u5468\u56f4\u7684\u76ee\u6807\u65bd\u653e\u6708\u706b\u672f\u3002"
+  }
 }

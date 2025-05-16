@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "391109"
+  "SpellID": "391109",
+  "name_blz": {
+    "en_US": "Dark Ascension",
+    "es_MX": "Ascensi\u00f3n oscura",
+    "pt_BR": "Ascens\u00e3o Sombria",
+    "de_DE": "Dunkler Aufstieg",
+    "en_GB": "Dark Ascension",
+    "es_ES": "Ascensi\u00f3n oscura",
+    "fr_FR": "Sombre ascension",
+    "it_IT": "Ascensione Oscura",
+    "ru_RU": "\u0422\u0435\u043c\u043d\u043e\u0435 \u0432\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc5b4\ub460\uc758 \uc2b9\ucc9c",
+    "zh_TW": "\u9ed1\u6697\u7570\u8b8a",
+    "zh_CN": "\u9ed1\u6697\u5347\u534e"
+  },
+  "description_blz": {
+    "en_US": "Increases your non-periodic Shadow damage by 20% for 20 sec.\r\n\r\nGenerates 30 Insanity.",
+    "es_MX": "Aumenta un 20% tu da\u00f1o de las sombras no peri\u00f3dico durante 20 s.\r\n\r\nGenera 30 p. de demencia.",
+    "pt_BR": "Aumenta em 20% seu dano de Sombra n\u00e3o peri\u00f3dico por 20 s.\r\n\r\nGera 30 de Insanidade.",
+    "de_DE": "Erh\u00f6ht Euren nicht regelm\u00e4\u00dfigen Schattenschaden 20 Sek. lang um 20%.\r\n\r\nErzeugt 30 Wahnsinn.",
+    "en_GB": "Increases your non-periodic Shadow damage by 20% for 20 sec.\r\n\r\nGenerates 30 Insanity.",
+    "es_ES": "Aumenta un 20% tu da\u00f1o de las Sombras no peri\u00f3dico durante 20 s.\r\n\r\nGenera 30 p. de demencia.",
+    "fr_FR": "Augmente vos d\u00e9g\u00e2ts d\u2019ombre non p\u00e9riodiques de 20\u00a0% pendant 20 s.\r\n\r\nG\u00e9n\u00e8re 30\u00a0points d\u2019insanit\u00e9.",
+    "it_IT": "Aumenta i danni da ombra non periodici inflitti del 20% per 20 s.\r\n\r\nGenera 30 pazzia.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0435\u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u043d\u0430 20% \u043d\u0430 20 \u0441\u0435\u043a.\r\n\r\n\u0414\u0430\u0435\u0442 30 \u0435\u0434. \u0431\u0435\u0437\u0443\u043c\u0438\u044f.",
+    "ko_KR": "20\ucd08 \ub3d9\uc548 \ube44\uc8fc\uae30\uc801\uc778 \uc554\ud751 \ud53c\ud574\uac00 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n30\uc758 \uad11\uae30\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u4f60\u7684\u975e\u9031\u671f\u6027\u6697\u5f71\u50b7\u5bb3\u63d0\u9ad820%\uff0c\u6301\u7e8c20\u79d2\u3002\r\n\r\n\u7522\u751f30\u9ede\u760b\u72c2\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u975e\u5468\u671f\u6027\u6697\u5f71\u4f24\u5bb3\u63d0\u9ad820%\uff0c\u6301\u7eed20\u79d2\u3002\r\n\r\n\u4ea7\u751f30\u70b9\u72c2\u4e71\u503c\u3002"
+  }
 }

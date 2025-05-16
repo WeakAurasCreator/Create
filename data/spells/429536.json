@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "429536"
+  "SpellID": "429536",
+  "name_blz": {
+    "en_US": "Astral Insight",
+    "es_MX": "Introspecci\u00f3n astral",
+    "pt_BR": "Percep\u00e7\u00e3o Astral",
+    "de_DE": "Astrale Einsicht",
+    "en_GB": "Astral Insight",
+    "es_ES": "Conocimiento astral",
+    "fr_FR": "Inspiration astrale",
+    "it_IT": "Consapevolezza Astrale",
+    "ru_RU": "\u0410\u0441\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0437\u0440\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ucc9c\uacf5\uc758 \ud1b5\ucc30\ub825",
+    "zh_TW": "\u661f\u754c\u6d1e\u5bdf",
+    "zh_CN": "\u661f\u754c\u6d1e\u5bdf"
+  },
+  "description_blz": {
+    "en_US": "Incarnation: Guardian of Ursoc increases Arcane damage from spells and abilities by 10% while active.\r\n\r\nIncreases the duration and number of spells cast by Convoke the Spirits by 25%.",
+    "es_MX": "Encarnaci\u00f3n: Guardi\u00e1n de Ursoc aumenta un 10% el da\u00f1o arcano de los hechizos y habilidades mientras est\u00e1 activa.\r\n\r\nAumenta un 25% la duraci\u00f3n de Convocar los esp\u00edritus y la cantidad de hechizos que lanza.",
+    "pt_BR": "Encarna\u00e7\u00e3o: Guardi\u00e3o de Ursoc aumenta em 10% o dano Arcano de feiti\u00e7os e habilidades enquanto est\u00e3o ativos.\r\n\r\nAumenta em 25% a dura\u00e7\u00e3o e o n\u00famero de feiti\u00e7os lan\u00e7ados por Convocar Esp\u00edritos.",
+    "de_DE": "'Inkarnation: W\u00e4chter von Ursoc' erh\u00f6hen den Arkanschaden durch Zauber und F\u00e4higkeiten um 10%, solange der Effekt aktiv ist.\r\n\r\nErh\u00f6ht die Dauer und Anzahl der Zauber, die durch 'Konvokation der Geister' gewirkt werden, um 25%.",
+    "en_GB": "Incarnation: Guardian of Ursoc increases Arcane damage from spells and abilities by 10% while active.\r\n\r\nIncreases the duration and number of spells cast by Convoke the Spirits by 25%.",
+    "es_ES": "Mientras dura, Encarnaci\u00f3n: Guardi\u00e1n de Ursoc aumenta un 10% el da\u00f1o Arcano de hechizos y facultades.\r\n\r\nAumenta un 25% la duraci\u00f3n y el n\u00famero de hechizos lanzados por Convocar a los esp\u00edritus.",
+    "fr_FR": "Incarnation\u00a0: Gardien d\u2019Ursoc augmente les d\u00e9g\u00e2ts des arcanes des sorts et techniques de 10\u00a0% tant qu\u2019elle est active.\r\n\r\nAugmente la dur\u00e9e et le nombre de sorts lanc\u00e9s par Convoquer les esprits de 25\u00a0%.",
+    "it_IT": "Incarnazione: Guardiano di Ursoc aumenta i danni da arcano inflitti da incantesimi e abilit\u00e0 del 10% finch\u00e9 \u00e8 attiva.\r\n\r\nAumenta la durata e il numero di incantesimi lanciati da Convocazione degli Spiriti del 25%.",
+    "ru_RU": "\"\u0412\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u0435: \u0421\u0442\u0440\u0430\u0436 \u0423\u0440\u0441\u043e\u043a\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0442\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f\u043c\u0438, \u043d\u0430 10%.\r\n\r\n\u041f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0421\u043e\u0437\u044b\u0432\u0430 \u0434\u0443\u0445\u043e\u0432\" \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u044b\u0445 \u0438\u043c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u043d\u0430 25%.",
+    "ko_KR": "\ud654\uc2e0: \uc6b0\ub974\uc18d\uc758 \uc218\ud638\uc790\uac00 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc8fc\ubb38 \ubc0f \ub2a5\ub825\uc758 \ube44\uc804 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc601\ud63c \uc18c\uc9d1\uc758 \uc9c0\uc18d\uc2dc\uac04\uacfc \uc2dc\uc804\ub418\ub294 \uc8fc\ubb38\uc758 \uc218\uac00 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u5316\u8eab\uff1a\u5384\u7d22\u514b\u5b88\u8b77\u8005\u751f\u6548\u671f\u9593\uff0c\u6cd5\u8853\u8207\u6280\u80fd\u9020\u6210\u7684\u79d8\u6cd5\u50b7\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u53ec\u96c6\u9b42\u9748\u65bd\u653e\u7684\u6cd5\u8853\u6301\u7e8c\u6642\u9593\u548c\u6578\u91cf\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u5316\u8eab\uff1a\u4e4c\u7d22\u514b\u7684\u5b88\u62a4\u8005\u6fc0\u6d3b\u65f6\u4f7f\u6cd5\u672f\u548c\u6280\u80fd\u7684\u5965\u672f\u4f24\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u4e07\u7075\u4e4b\u53ec\u7684\u6301\u7eed\u65f6\u95f4\u548c\u65bd\u653e\u7684\u6cd5\u672f\u6570\u91cf\u63d0\u9ad825%\u3002"
+  }
 }

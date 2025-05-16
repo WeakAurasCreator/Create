@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389551"
+  "SpellID": "389551",
+  "name_blz": {
+    "en_US": "Frozen Devotion",
+    "es_MX": "Devoci\u00f3n congelada",
+    "pt_BR": "Devo\u00e7\u00e3o G\u00e9lida",
+    "de_DE": "Gefrorene Hingabe",
+    "en_GB": "Frozen Devotion",
+    "es_ES": "Devoci\u00f3n congelada",
+    "fr_FR": "Dilection gel\u00e9e",
+    "it_IT": "Devozione Gelida",
+    "ru_RU": "\u041b\u0435\u0434\u044f\u043d\u043e\u0435 \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435",
+    "ko_KR": "\ube59\uacb0\uc758 \ud5cc\uc2e0",
+    "zh_TW": "\u51cd\u7d50\u737b\u7948",
+    "zh_CN": "\u51dd\u51b0\u4e4b\u7948"
+  },
+  "description_blz": {
+    "en_US": "Permanently enchants a weapon to sometimes radiate ice, dealing 10,369 Frost damage split between enemies in front of you. Damage is increased for each enemy struck, up to 5 enemies. Cannot be applied to items lower than level 10.",
+    "es_MX": "Encanta un arma de forma permanente para que a veces irradie hielo que inflige 10,369 p. de da\u00f1o de escarcha dividido entre los enemigos que est\u00e1n frente a ti. El da\u00f1o aumenta por cada enemigo golpeado, hasta un m\u00e1ximo de 5 enemigos. No se puede aplicar a objetos de nivel inferior a 10.",
+    "pt_BR": "Encanta permanentemente uma arma para \u00e0s vezes irradiar gelo, causando 10.369 de dano de Gelo dividido entre os inimigos \u00e0 sua frente. O dano aumenta para cada inimigo atingido, at\u00e9 5 inimigos. N\u00e3o pode ser aplicado a itens abaixo do n\u00edvel 10.",
+    "de_DE": "Eine Waffe dauerhaft verzaubern, sodass sie manchmal Eisesk\u00e4lte verstr\u00f6mt und Gegnern vor Euch insgesamt 10.369 Frostschaden zuf\u00fcgt. Der Schaden erh\u00f6ht sich f\u00fcr jeden getroffenen Gegner, bis zu maximal 5 Gegner. Kann nicht auf Gegenst\u00e4nde unter Stufe 10 angewandt werden.",
+    "en_GB": "Permanently enchants a weapon to sometimes radiate ice, dealing 10,369 Frost damage split between enemies in front of you. Damage is increased for each enemy struck, up to 5 enemies. Cannot be applied to items lower than level 10.",
+    "es_ES": "Encanta de forma permanente un arma para que a veces irradie hielo, lo que inflige 10369 p. de da\u00f1o de Escarcha a dividir entre los enemigos en un cono frente a ti. El da\u00f1o aumenta por cada enemigo golpeado, hasta un m\u00e1ximo de 5 de ellos. No se puede aplicar a objetos de nivel inferior a 10.",
+    "fr_FR": "Enchante une arme de mani\u00e8re permanente. Cette derni\u00e8re irradie parfois de la glace, ce qui inflige 10369\u00a0points de d\u00e9g\u00e2ts de givre r\u00e9partis entre les adversaires devant vous. Les d\u00e9g\u00e2ts sont augment\u00e9s pour chaque adversaire qu\u2019elle touche (5 au maximum). Ne peut \u00eatre appliqu\u00e9 sur des objets d\u2019un niveau inf\u00e9rieur \u00e0 10.",
+    "it_IT": "Incanta in modo permanente un'arma, irradiando occasionalmente il ghiaccio e infliggendo 10.369 danni da gelo suddivisi tra i nemici frontali. I danni aumentano per ogni nemico colpito, fino a un massimo di 5 nemici. Non applicabile a oggetti di livello inferiore a 10.",
+    "ru_RU": "\u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u043e\u0440\u0443\u0436\u0438\u044e \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u044b\u0435 \u0447\u0430\u0440\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0440\u0435\u043c\u044f \u043e\u0442 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0438\u0437\u043b\u0443\u0447\u0430\u044e\u0442 \u0445\u043e\u043b\u043e\u0434, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 10369 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430, \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u043e\u0433\u043e \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c\u0438 \u043f\u0435\u0440\u0435\u0434 \u0432\u0430\u043c\u0438.\r\n\r\n\u0423\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 5. \u041d\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u043d\u0438\u0436\u0435 10-\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f.",
+    "ko_KR": "\ubb34\uae30\uc5d0 \uc601\uad6c\uc801\uc73c\ub85c \ub9c8\ubc95\uc744 \ubd80\uc5ec\ud574 \uc77c\uc815 \ud655\ub960\ub85c \uc5bc\uc74c\uc744 \ubc29\ucd9c\ud558\uc5ec, \ucc29\uc6a9\uc790 \uc804\ubc29\uc758 \uc801\uc5d0\uac8c 10,369\uc758 \ub0c9\uae30 \ud53c\ud574\ub97c \ub098\ub204\uc5b4 \uc785\ud799\ub2c8\ub2e4. \uc801\uc911\ud55c \uc801 \ud558\ub098\ub2f9 \uacf5\uaca9\ub825\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 5\uba85\uc758 \uc801\uae4c\uc9c0 \uc720\ud6a8\ud569\ub2c8\ub2e4. 10 \ub808\ubca8 \ubbf8\ub9cc\uc758 \uc544\uc774\ud15c\uc5d0\ub294 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6c38\u4e45\u6027\u5730\u70ba\u4e00\u628a\u6b66\u5668\u9644\u9b54\uff0c\u6709\u6642\u6703\u6563\u767c\u5bd2\u6c23\uff0c\u9020\u621010,369\u9ede\u51b0\u971c\u50b7\u5bb3\uff0c\u7531\u4f60\u9762\u524d\u7684\u6575\u4eba\u5e73\u5747\u5206\u6524\u3002\u6bcf\u547d\u4e2d\u4e00\u500b\u6575\u4eba\u90fd\u6703\u4f7f\u50b7\u5bb3\u63d0\u9ad8\uff0c\u6700\u591a\u53ef\u547d\u4e2d5\u500b\u6575\u4eba\u3002\u7121\u6cd5\u7528\u65bc\u7b49\u7d1a\u8d85\u904e10\u7684\u7269\u54c1\u3002",
+    "zh_CN": "\u6c38\u4e45\u6027\u5730\u4e3a\u4e00\u4ef6\u6b66\u5668\u9644\u9b54\uff0c\u4f7f\u5176\u6709\u65f6\u4f1a\u653e\u51fa\u5bd2\u51b0\u4e4b\u529b\uff0c\u9020\u621010,369\u70b9\u51b0\u971c\u4f24\u5bb3\uff0c\u8be5\u4f24\u5bb3\u7531\u4f60\u9762\u524d\u7684\u654c\u4eba\u5206\u644a\u3002\u6bcf\u51fb\u4e2d\u4e00\u540d\u654c\u4eba\uff0c\u8be5\u4f24\u5bb3\u90fd\u4f1a\u63d0\u9ad8\uff0c\u51fb\u4e2d5\u540d\u654c\u4eba\u65f6\u4f24\u5bb3\u8fbe\u5230\u4e0a\u9650\u3002\u4e0d\u80fd\u5bf9\u7269\u54c1\u7b49\u7ea7\u4f4e\u4e8e10\u7684\u7269\u54c1\u4f7f\u7528\u3002"
+  }
 }

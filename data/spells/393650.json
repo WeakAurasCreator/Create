@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393650"
+  "SpellID": "393650",
+  "name_blz": {
+    "en_US": "Hunter Survival Class Set 2pc",
+    "es_MX": "Hunter Survival Class Set 2pc",
+    "pt_BR": "Ca\u00e7ador, Sobreviv\u00eancia, Conjunto de Classe, 2 p\u00e7",
+    "de_DE": "J\u00e4gerklassenset, \u00dcberleben, 2 Teile",
+    "en_GB": "Hunter Survival Class Set 2pc",
+    "es_ES": "Conjunto de clase de cazador Supervivencia (2 piezas)",
+    "fr_FR": "Ensemble de classe de chasseur Survie (2\u00a0pi\u00e8ces)",
+    "it_IT": "Cacciatore della Sopravvivenza, Set di Classe, 2 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u2013 \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u0435, 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uc0dd\uc874 \uc0ac\ub0e5\uafbc \uc9c1\uc5c5 \uc138\ud2b8 2\uc138\ud2b8",
+    "zh_TW": "\u7375\u4eba\u751f\u5b58\u8077\u696d\u5957\u88dd2\u4ef6",
+    "zh_CN": "\u730e\u4eba\u751f\u5b58\u804c\u4e1a\u5957\u88c5\u4e24\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Raptor Strike, Carve, and Butchery damage increased by 18%.",
+    "es_MX": "Golpe de raptor, Cuchillada y Carnicer\u00eda infligen un 18% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Aumenta em 18% o dano da habilidade Golpe do Raptor, Entalhar e Carnificina.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Raptorsto\u00df', 'Zerlegen' und 'Schlachten' um 18%.",
+    "en_GB": "Raptor Strike, Carve, and Butchery damage increased by 18%.",
+    "es_ES": "Da\u00f1o de Golpe de raptor, Trinchar y Carnicer\u00eda aumentado un 18%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts d'Attaque du raptor, \u00c9charper et Boucherie sont augment\u00e9s de 18%.",
+    "it_IT": "Aumenta i danni inflitti da Assalto del Raptor, Scorticatura e Macellazione del 18%.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u044f\u0449\u0435\u0440\u0430\", \"\u0421\u0432\u0435\u0436\u0435\u0432\u0430\u043d\u0438\u0435 \u0442\u0443\u0448\" \u0438 \"\u0420\u0430\u0437\u0434\u0435\u043b\u043a\u0430 \u0442\u0443\u0448\u0438\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 18% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub7a9\ud130\uc758 \uc77c\uaca9, \uc800\ubbf8\uae30, \ub3c4\uc0b4\uc758 \uacf5\uaca9\ub825\uc774 18%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u731b\u79bd\u4e00\u64ca\u3001\u6a6b\u5288\u548c\u5c60\u5bb0\u7684\u50b7\u5bb3\u63d0\u9ad818%\u3002",
+    "zh_CN": "\u731b\u79bd\u4e00\u51fb\u3001\u524a\u51ff\u548c\u5c60\u622e\u7684\u4f24\u5bb3\u63d0\u9ad818%\u3002"
+  }
 }

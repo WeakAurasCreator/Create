@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "407028"
+  "SpellID": "407028",
+  "name_blz": {
+    "en_US": "Sticky Tar Bomb",
+    "es_MX": "Bomba de alquitr\u00e1n pegajoso",
+    "pt_BR": "Bomba de Piche Grudento",
+    "de_DE": "Klebrige Teerbombe",
+    "en_GB": "Sticky Tar Bomb",
+    "es_ES": "Bomba de alquitr\u00e1n pegajoso",
+    "fr_FR": "Bombe de goudron collante",
+    "it_IT": "Bomba di Pece Appiccicosa",
+    "ru_RU": "\u0421\u043c\u043e\u043b\u044f\u043d\u0430\u044f \u0431\u043e\u043c\u0431\u0430-\u043b\u0438\u043f\u0443\u0447\u043a\u0430",
+    "ko_KR": "\ub048\uc801\uac70\ub9ac\ub294 \ud0c0\ub974 \ud3ed\ud0c4",
+    "zh_TW": "\u9ecf\u7a20\u701d\u9752\u70b8\u5f48",
+    "zh_CN": "\u7c98\u7a20\u7126\u6cb9\u70b8\u5f39"
+  },
+  "description_blz": {
+    "en_US": "Throw a Sticky Tar Bomb that coats your target's weapons with tar, disarming them for 4 sec. \r\n\r\nAfter 4 sec, Sticky Tar Bomb explodes onto nearby enemies. Other enemies that are hit by the explosion are affected by Sticky Tar Bomb but this effect cannot spread further.",
+    "es_MX": "Arroja una Bomba de alquitr\u00e1n pegajoso que cubre las armas de tu objetivo con alquitr\u00e1n y lo desarma durante 4 s. \r\n\r\nLuego de 4 s, la Bomba de alquitr\u00e1n pegajoso explota sobre los enemigos cercanos. Los dem\u00e1s enemigos impactados por la explosi\u00f3n quedan afectados por Bomba de alquitr\u00e1n pegajoso, pero este efecto no puede esparcirse m\u00e1s.",
+    "pt_BR": "Joga uma Bomba de Piche Grudento que cobre as armas do alvo com piche, desarmando-o por 4 s. \r\n\r\nAp\u00f3s 4 s, a Bomba de Piche Grudento explode sobre os inimigos pr\u00f3ximos. Outros inimigos atingidos pela explos\u00e3o s\u00e3o afetados pela Bomba de Piche Grudento, mas o efeito n\u00e3o pode se espalhar mais.",
+    "de_DE": "Wirft eine klebrige Teerbombe, die die Waffen Eures Ziels mit Teer bedeckt und es f\u00fcr 4 Sek. entwaffnet.\r\n\r\nNach 4 Sek. explodiert die klebrige Teerbombe und trifft Gegner in der N\u00e4he. Andere Gegner, die von der Explosion getroffen werden, sind ebenfalls von 'Klebrige Teerbombe' betroffen, doch dieser Effekt kann sich nicht weiter ausbreiten.",
+    "en_GB": "Throw a Sticky Tar Bomb that coats your target's weapons with tar, disarming them for 4 sec. \r\n\r\nAfter 4 sec, Sticky Tar Bomb explodes onto nearby enemies. Other enemies that are hit by the explosion are affected by Sticky Tar Bomb but this effect cannot spread further.",
+    "es_ES": "Lanza una bomba de alquitr\u00e1n pegajoso que cubre de alquitr\u00e1n las armas de tu objetivo y lo desarma durante 4 s.\r\n\r\nDespu\u00e9s de 4 s, la bomba de alquitr\u00e1n pegajoso explota e impacta a los enemigos cercanos. Los dem\u00e1s enemigos afectados por la explosi\u00f3n sufren el efecto de Bomba de alquitr\u00e1n pegajoso, pero este no se puede propagar m\u00e1s.",
+    "fr_FR": "Vous lancez une bombe collante qui recouvre les armes de votre cible de goudron et la d\u00e9sarme pendant 4 s.\r\n\r\nAu bout de 4 s, la bombe explose et touche les adversaires \u00e0 proximit\u00e9. Les autres cibles touch\u00e9es par l\u2019explosion sont affect\u00e9es par la bombe de goudron collante, mais ne peuvent pas propager cet effet.",
+    "it_IT": "Lancia una Bomba di Pece Appiccicosa che ricopre di pece l'arma del bersaglio, disarmandolo per 4 s.\r\n\r\nDopo 4 s, la bomba esplode sui nemici vicini. Gli altri nemici colpiti dall'esplosione vengono affetti da Bomba di Pece Appiccicosa, che per\u00f2 non si pu\u00f2 diffondere ulteriormente.",
+    "ru_RU": "\u0411\u0440\u043e\u0441\u0430\u0435\u0442 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0441\u043c\u043e\u043b\u044f\u043d\u0443\u044e \u0431\u043e\u043c\u0431\u0443-\u043b\u0438\u043f\u0443\u0447\u043a\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043e\u0440\u0443\u0436\u0438\u0435 \u0446\u0435\u043b\u0438 \u0441\u043c\u043e\u043b\u043e\u0439 \u0438 \u043e\u0431\u0435\u0437\u043e\u0440\u0443\u0436\u0438\u0432\u0430\u0435\u0442 \u043d\u0430 4 \u0441\u0435\u043a.\r\n\r\n\u0427\u0435\u0440\u0435\u0437 4 \u0441\u0435\u043a. \u0431\u043e\u043c\u0431\u0430 \u0432\u0437\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f, \u043f\u043e\u0440\u0430\u0436\u0430\u044f \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432. \u0412\u0437\u0440\u044b\u0432 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043a \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c \u0446\u0435\u043b\u044f\u043c \"\u0421\u043c\u043e\u043b\u044f\u043d\u0443\u044e \u0431\u043e\u043c\u0431\u0443-\u043b\u0438\u043f\u0443\u0447\u043a\u0443\", \u043d\u043e \u0434\u0430\u043b\u0435\u0435 \u044d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u043d\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f.",
+    "ko_KR": "\ub048\uc801\uac70\ub9ac\ub294 \ud0c0\ub974 \ud3ed\ud0c4\uc744 \ub358\uc838 \ub300\uc0c1\uc758 \ubb34\uae30\ub97c \ud0c0\ub974\ub85c \ub4a4\ub36e\uc5b4 4\ucd08 \ub3d9\uc548 \ubb34\uc7a5 \ud574\uc81c \uc0c1\ud0dc\ub85c \ub9cc\ub4ed\ub2c8\ub2e4. \r\n\r\n4\ucd08 \ud6c4\uc5d0, \ub048\uc801\uac70\ub9ac\ub294 \ud0c0\ub974 \ud3ed\ud0c4\uc740 \ud3ed\ubc1c\ud558\uc5ec \uc8fc\uc704\uc758 \uc801\uc5d0\uac8c \uc62e\uaca8\ubd99\uc2b5\ub2c8\ub2e4. \ud3ed\ubc1c\uc5d0 \ud718\ub9d0\ub9b0 \uc801\uc740 \ub048\uc801\uac70\ub9ac\ub294 \ud0c0\ub974 \ud3ed\ud0c4\uc5d0 \uac78\ub9ac\uc9c0\ub9cc, \uc774 \uacfc\uc815\uc5d0\uc11c \ubd80\uc5ec\ub41c \ub048\uc801\uac70\ub9ac\ub294 \ud0c0\ub974 \ud3ed\ud0c4\uc740 \ucd94\uac00\ub85c \uc804\uc774\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6295\u64f2\u9ecf\u7a20\u701d\u9752\u70b8\u5f48\uff0c\u4f7f\u76ee\u6a19\u7684\u6b66\u5668\u6cbe\u6eff\u701d\u9752\uff0c\u4f7f\u5176\u88ab\u7e73\u68b0\uff0c\u6301\u7e8c4\u79d2\u3002\r\n\r\n4\u79d2\u5f8c\uff0c\u9ecf\u7a20\u701d\u9752\u70b8\u5f48\u7206\u70b8\uff0c\u6ce2\u53ca\u9644\u8fd1\u6575\u4eba\u3002\u5176\u4ed6\u88ab\u7206\u70b8\u6ce2\u53ca\u7684\u6575\u4eba\u6703\u53d7\u5230\u9ecf\u7a20\u701d\u9752\u70b8\u5f48\u5f71\u97ff\uff0c\u4f46\u662f\u6548\u679c\u7121\u6cd5\u518d\u5ea6\u64f4\u6563\u3002",
+    "zh_CN": "\u5411\u76ee\u6807\u6295\u63b7\u4e00\u679a\u7c98\u7a20\u7126\u6cb9\u70b8\u5f39\uff0c\u7528\u7126\u6cb9\u5305\u88f9\u76ee\u6807\u7684\u6b66\u5668\uff0c\u4f7f\u5176\u7f34\u68b04\u79d2\u3002\r\n\r\n4\u79d2\u540e\uff0c\u7126\u6cb9\u70b8\u5f39\u7206\u70b8\uff0c\u6ce2\u53ca\u9644\u8fd1\u7684\u654c\u4eba\u3002\u5176\u4ed6\u88ab\u7206\u70b8\u51fb\u4e2d\u7684\u654c\u4eba\u4e5f\u4f1a\u53d7\u5230\u7c98\u7a20\u7126\u6cb9\u70b8\u5f39\u5f71\u54cd\uff0c\u4f46\u8be5\u6548\u679c\u65e0\u6cd5\u7ee7\u7eed\u4f20\u64ad\u3002"
+  }
 }

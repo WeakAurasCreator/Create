@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390498"
+  "SpellID": "390498",
+  "name_blz": {
+    "en_US": "Ancient Waygate: Vakthros",
+    "es_MX": "Portal antiguo: Vakthros",
+    "pt_BR": "P\u00f3rtico Antigo: Vakthros",
+    "de_DE": "Uraltes Portal: Vakthros",
+    "en_GB": "Ancient Waygate: Vakthros",
+    "es_ES": "Puerta ancestral: Vakthros",
+    "fr_FR": "Portail d\u2019acc\u00e8s antique\u00a0: Vakthros",
+    "it_IT": "Portale Antico: Vakthros",
+    "ru_RU": "\u0414\u0440\u0435\u0432\u043d\u0438\u0435 \u0432\u0440\u0430\u0442\u0430: \u0412\u0430\u043a\u0442\u0440\u043e\u0441",
+    "ko_KR": "\uace0\ub300 \ucc28\uc6d0\ubb38: \ubc14\ud06c\uc2a4\ub85c\uc2a4",
+    "zh_TW": "\u9060\u53e4\u50b3\u9001\u9580\uff1a\u74e6\u745f\u6d1b\u65af",
+    "zh_CN": "\u8fdc\u53e4\u754c\u95e8\uff1a\u74e6\u514b\u7d22\u65af"
+  },
+  "description_blz": {
+    "en_US": "Unlocks access to the Vakthros waygate.",
+    "es_MX": "Desbloquea el acceso al portal de Vakthros.",
+    "pt_BR": "Desbloqueia o acesso ao p\u00f3rtico de Vakthros.",
+    "de_DE": "Schaltet den Zugang zum Portal von Vakthros frei.",
+    "en_GB": "Unlocks access to the Vakthros waygate.",
+    "es_ES": "Desbloquea el acceso a la puerta de Vakthros.",
+    "fr_FR": "D\u00e9bloque l\u2019acc\u00e8s au portail du Vakthros.",
+    "it_IT": "Sblocca l'accesso al portale di Vakthros.",
+    "ru_RU": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043f\u0443\u0442\u0435\u0432\u044b\u043c \u0432\u0440\u0430\u0442\u0430\u043c \u0432 \u0412\u0430\u043a\u0442\u0440\u043e\u0441\u0435.",
+    "ko_KR": "\ubc14\ud06c\uc2a4\ub85c\uc2a4 \ucc28\uc6d0\ubb38\uc744 \ud574\uc81c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u89e3\u9396\u74e6\u745f\u6d1b\u65af\u50b3\u9001\u9580\u3002",
+    "zh_CN": "\u89e3\u9501\u74e6\u514b\u7d22\u65af\u754c\u95e8\u6743\u9650\u3002"
+  }
 }

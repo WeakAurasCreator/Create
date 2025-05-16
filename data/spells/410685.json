@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "410685"
+  "SpellID": "410685",
+  "name_blz": {
+    "en_US": "Symbiotic Bloom",
+    "es_MX": "Floraci\u00f3n simbi\u00f3tica",
+    "pt_BR": "Florescer Simbi\u00f3tico",
+    "de_DE": "Symbiotische Bl\u00fcte",
+    "en_GB": "Symbiotic Bloom",
+    "es_ES": "Florecimiento simbi\u00f3tico",
+    "fr_FR": "Floraison symbiotique",
+    "it_IT": "Bocciolo Simbiotico",
+    "ru_RU": "\u0421\u0438\u043c\u0431\u0438\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0432\u0435\u0442\u043e\u043a",
+    "ko_KR": "\uacf5\uc0dd\uc758 \uaf43",
+    "zh_TW": "\u5171\u751f\u4e4b\u82b1",
+    "zh_CN": "\u5171\u6816\u8363\u82b1"
+  },
+  "description_blz": {
+    "en_US": "Emerald Blossom increases targets' healing received by 3% for 10 sec.",
+    "es_MX": "Flor esmeralda aumenta un 3% la sanaci\u00f3n recibida de los objetivos durante 10 s.",
+    "pt_BR": "A Flor de Esmeralda aumenta em 3% a cura recebida pelos alvos por 10 s.",
+    "de_DE": "'Smaragdbl\u00fcte' erh\u00f6ht 10 Sek. lang die erhaltene Heilung der Ziele um 3%.",
+    "en_GB": "Emerald Blossom increases targets' healing received by 3% for 10 sec.",
+    "es_ES": "Flor esmeralda aumenta un 3% la sanaci\u00f3n recibida por los objetivos durante 10 s.",
+    "fr_FR": "Arbre d\u2019\u00e9meraude augmente les soins re\u00e7us par les cibles de 3\u00a0% pendant 10 s.",
+    "it_IT": "Bocciolo di Smeraldo aumenta le cure ricevute dai bersagli del 3% per 10 s.",
+    "ru_RU": "\"\u0418\u0437\u0443\u043c\u0440\u0443\u0434\u043d\u044b\u0439 \u0446\u0432\u0435\u0442\u043e\u043a\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0435 \u0446\u0435\u043b\u044c\u044e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 3% \u043d\u0430 10 \u0441\u0435\u043a.",
+    "ko_KR": "\uc5d0\uba54\ub784\ub4dc \uaf43\uc774 10\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\ub97c 3%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7fe1\u7fe0\u4e4b\u82b1\u6703\u4f7f\u76ee\u6a19\u53d7\u5230\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad83%\uff0c\u6301\u7e8c10\u79d2\u3002",
+    "zh_CN": "\u7fe1\u7fe0\u4e4b\u82b1\u4f7f\u76ee\u6807\u53d7\u5230\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad83%\uff0c\u6301\u7eed10\u79d2\u3002"
+  }
 }

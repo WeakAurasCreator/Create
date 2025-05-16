@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405545"
+  "SpellID": "405545",
+  "name_blz": {
+    "en_US": "Paladin Holy 10.1 Class Set 2pc",
+    "en_GB": "Paladin Holy 10.1 Class Set 2pc"
+  },
+  "description_blz": {
+    "en_US": "Holy Shock's critical strikes heal for 80% more and reduce the cooldown of Light's Hammer by 2 sec, or Holy Prism by 1.0 sec.",
+    "es_MX": "Los golpes cr\u00edticos de Choque sagrado curan un 80% m\u00e1s y reducen el tiempo de reutilizaci\u00f3n de Martillo de la Luz en 2 s o el de Prisma Sagrado en 1.0 s.",
+    "pt_BR": "Acertos cr\u00edticos de Choque Sagrado curam 80% a mais e reduzem a recarga do Martelo da Luz em 2 s, ou do Prisma Sagrado em 1,0 s.",
+    "de_DE": "Kritische Treffer durch 'Heiliger Schock' heilen 80% mehr Gesundheit und verringern die Abklingzeit von 'Hammer des Lichts' um 2 Sek. oder 'Heiliges Prisma' um 1,0 Sek.",
+    "en_GB": "Holy Shock's critical strikes heal for 80% more and reduce the cooldown of Light's Hammer by 2 sec, or Holy Prism by 1.0 sec.",
+    "es_ES": "Los golpes cr\u00edticos de Choque Sagrado sanan un 80% m\u00e1s y reducen 2 s el tiempo de reutilizaci\u00f3n de Martillo de la Luz, o 1,0 s el de Prisma Sagrado.",
+    "fr_FR": "Les soins critiques de Horion sacr\u00e9 rendent 80\u00a0% de vie suppl\u00e9mentaire et r\u00e9duisent le temps de recharge de Marteau de Lumi\u00e8re de 2\u00a0s ou celui de Prisme sacr\u00e9 de 1,0\u00a0s.",
+    "it_IT": "Aumenta le cure critiche fornite da Folgore Sacra del 80% e riduce il tempo di recupero di Martello della Luce di 2 s o di Prisma Sacro di 1,0 s.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\" \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442 \u043d\u0430 80% \u0431\u043e\u043b\u044c\u0448\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0438 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041c\u043e\u043b\u043e\u0442\u0430 \u0421\u0432\u0435\u0442\u0430\" \u043d\u0430 2 \u0441\u0435\u043a. \u0438\u043b\u0438 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043f\u0440\u0438\u0437\u043c\u044b\" \u043d\u0430 1,0 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\uc131 \ucda9\uaca9\uc774 \uadf9\ub300\ud654 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud558\uba74 80%\ub9cc\ud07c \ucd94\uac00\ub85c \uce58\uc720\ud558\uace0, \ube5b\uc758 \ub9dd\uce58\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c, \ub610\ub294 \uc2e0\uc131\ud55c \ubc18\uc0ac\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 1.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u795e\u8056\u9707\u64ca\u7684\u6975\u6548\u6cbb\u7642\u6548\u679c\u63d0\u9ad880%\uff0c\u4e26\u4f7f\u8056\u5149\u4e4b\u9318\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\uff0c\u6216\u4f7f\u795e\u8056\u7a1c\u77f3\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed1.0\u79d2\u3002",
+    "zh_CN": "\u795e\u5723\u9707\u51fb\u7684\u7206\u51fb\u6cbb\u7597\u6548\u679c\u63d0\u9ad880%\uff0c\u5e76\u4f7f\u5723\u5149\u4e4b\u9524\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\uff0c\u6216\u4f7f\u795e\u5723\u68f1\u955c\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed1.0\u79d2\u3002"
+  }
 }

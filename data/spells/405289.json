@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405289"
+  "SpellID": "405289",
+  "name_blz": {
+    "en_US": "Burning Crusade",
+    "es_MX": "Cruzada ardiente",
+    "pt_BR": "Cruzada Ardente",
+    "de_DE": "Brennender Kreuzzug",
+    "en_GB": "Burning Crusade",
+    "es_ES": "Cruzada ardiente",
+    "fr_FR": "Croisade \u00e9carlate",
+    "it_IT": "Crociata Infuocata",
+    "ru_RU": "\u041f\u044b\u043b\u0430\u044e\u0449\u0438\u0439 \u0440\u044b\u0446\u0430\u0440\u044c",
+    "ko_KR": "\ubd88\ud0c0\ub294 \uc131\uc804",
+    "zh_TW": "\u8056\u7130\u5341\u5b57\u8ecd",
+    "zh_CN": "\u71c3\u70e7\u7684\u8fdc\u5f81"
+  },
+  "description_blz": {
+    "en_US": "Divine Storm, Divine Hammer and Consecration now deal Radiant damage and your abilities that deal Radiant damage deal 5% increased damage.",
+    "es_MX": "Tormenta divina, Martillo divino y Consagraci\u00f3n ahora infligen da\u00f1o radiante, y tus habilidades que infligen da\u00f1o radiante infligen un 5% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Tempestade Divina, Martelo Divino e Consagra\u00e7\u00e3o agora causam dano Radiante, e suas habilidades que causam dano Radiante causam 5% a mais de dano.",
+    "de_DE": "'G\u00f6ttlicher Sturm', 'G\u00f6ttlicher Hammer' und 'Weihe' verursachen nun Strahlenschaden und Eure Strahlenschaden verursachenden F\u00e4higkeiten verursachen 5% mehr Schaden.",
+    "en_GB": "Divine Storm, Divine Hammer and Consecration now deal Radiant damage and your abilities that deal Radiant damage deal 5% increased damage.",
+    "es_ES": "Ahora, Tormenta divina, Martillo divino y Consagraci\u00f3n infligen da\u00f1o Radiante, y tus facultades que causan da\u00f1o Radiante infligen un 5% m\u00e1s.",
+    "fr_FR": "Temp\u00eate Divine, Marteau divin et Cons\u00e9cration infligent d\u00e9sormais des d\u00e9g\u00e2ts de rayonnement. Les d\u00e9g\u00e2ts des techniques infligeant des d\u00e9g\u00e2ts de rayonnement sont augment\u00e9s de 5\u00a0%.",
+    "it_IT": "Tempesta Divina, Martello Divino e Consacrazione infliggono danni da radiosit\u00e0, e le tue abilit\u00e0 che infliggono danni da radiosit\u00e0 infliggono il 5% di danni aggiuntivi.",
+    "ru_RU": "\"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0431\u0443\u0440\u044f\", \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043c\u043e\u043b\u043e\u0442\" \u0438 \"\u041e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435\" \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u0438\u044f\u043d\u0438\u044f. \u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u0438\u044f\u043d\u0438\u044f, \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 5% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \ud3ed\ud48d, \ucc9c\uc0c1\uc758 \ub9dd\uce58, \uc2e0\uc131\ud654\uac00 \uad11\ud718 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ucd94\uac00\ub85c \uad11\ud718 \ud53c\ud574\ub97c \uc785\ud788\ub294 \ub2a5\ub825\uc758 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u795e\u6027\u98a8\u66b4\u3001\u795e\u8056\u4e4b\u9318\u548c\u5949\u737b\u73fe\u5728\u6703\u9020\u6210\u8056\u8f1d\u50b7\u5bb3\uff0c\u4e14\u8056\u8f1d\u50b7\u5bb3\u6280\u80fd\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u795e\u5723\u98ce\u66b4\u3001\u795e\u5723\u4e4b\u9524\u548c\u5949\u732e\u73b0\u5728\u9020\u6210\u5149\u8f89\u4f24\u5bb3\uff0c\u800c\u4e14\u4f60\u9020\u6210\u5149\u8f89\u4f24\u5bb3\u7684\u6280\u80fd\u7684\u4f24\u5bb3\u63d0\u9ad85%\u3002"
+  }
 }
