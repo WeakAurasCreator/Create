@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393970"
+  "SpellID": "393970",
+  "name_blz": {
+    "en_US": "Soothing Darkness",
+    "es_MX": "Oscuridad reconfortante",
+    "pt_BR": "Trevas Reconfortantes",
+    "de_DE": "Labende Finsternis",
+    "en_GB": "Soothing Darkness",
+    "es_ES": "Oscuridad reconfortante",
+    "fr_FR": "T\u00e9n\u00e8bres apaisantes",
+    "it_IT": "Oscurit\u00e0 Lenitiva",
+    "ru_RU": "\u0423\u043c\u0438\u0440\u043e\u0442\u0432\u043e\u0440\u044f\u044e\u0449\u0430\u044f \u0442\u044c\u043c\u0430",
+    "ko_KR": "\uc704\uc548\uc758 \uc5b4\ub460",
+    "zh_TW": "\u975c\u8b10\u9ed1\u6697",
+    "zh_CN": "\u629a\u6170\u4e4b\u9eef"
+  },
+  "description_blz": {
+    "en_US": "You are healed for 30% of your maximum health over 6 sec after activating Vanish.",
+    "es_MX": "Sanas por un 30% de tu salud m\u00e1xima durante 6 s despu\u00e9s de activar Esfumarse.",
+    "pt_BR": "Voc\u00ea recebe uma cura equivalente a 30% do seu m\u00e1ximo de pontos de vida ao longo de 6 s depois de ativar Sumir.",
+    "de_DE": "Nachdem Ihr 'Verschwinden' aktiviert, werdet Ihr im Verlauf von 6 Sek. um 30% Eurer maximalen Gesundheit geheilt.",
+    "en_GB": "You are healed for 30% of your maximum health over 6 sec after activating Vanish.",
+    "es_ES": "Te sanas un 30% de tu salud m\u00e1xima durante 6 s despu\u00e9s de que se active Esfumarse.",
+    "fr_FR": "Vous r\u00e9cup\u00e9rez 30\u00a0% de votre maximum de points de vie en 6 s apr\u00e8s l\u2019activation de Disparition.",
+    "it_IT": "Quando si attiva Sparizione, si rigenera il 30% della salute massima in 6 s.",
+    "ru_RU": "\"\u0418\u0441\u0447\u0435\u0437\u043d\u043e\u0432\u0435\u043d\u0438\u0435\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c 30% \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc18c\uba78 \ud65c\uc131\ud654 \ud6c4 6\ucd08\uc5d0 \uac78\uccd0 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 30%\uc5d0 \ud574\ub2f9\ud558\ub294 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u555f\u52d5\u6d88\u5931\u5f8c\uff0c\u4f60\u57286\u79d2\u5167\u6062\u5fa9\u76f8\u7576\u65bc\u751f\u547d\u529b\u4e0a\u965030%\u7684\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u6d88\u5931\u6fc0\u6d3b\u540e\u76846\u79d2\u5185\uff0c\u4f60\u6062\u590d\u6700\u5927\u751f\u547d\u503c\u768430%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "381922"
+  "SpellID": "381922",
+  "name_blz": {
+    "en_US": "Temporal Artificer",
+    "es_MX": "Artificiero temporal",
+    "pt_BR": "Art\u00edfice Temporal",
+    "de_DE": "Temporalkonstrukteur",
+    "en_GB": "Temporal Artificer",
+    "es_ES": "Artificiero temporal",
+    "fr_FR": "Artificier temporel",
+    "it_IT": "Ingegnere Temporale",
+    "ru_RU": "\u041c\u0430\u0441\u0442\u0435\u0440 \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
+    "ko_KR": "\uc2dc\uac04\uc758 \uae30\uc220\uc790",
+    "zh_TW": "\u6642\u9593\u5de5\u85dd\u5e2b",
+    "zh_CN": "\u65f6\u5149\u5de7\u5320"
+  },
+  "description_blz": {
+    "en_US": "Rewind's cooldown is reduced by 60 sec.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Retroceder se reduce 60 s.",
+    "pt_BR": "Reduz em 60 s a recarga de Retroceder.",
+    "de_DE": "Verringert die Abklingzeit von 'Zur\u00fcckspulen' um 60 Sek.",
+    "en_GB": "Rewind's cooldown is reduced by 60 sec.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Rebobinar se reduce 60 s.",
+    "fr_FR": "Le temps de recharge de Rembobinage est r\u00e9duit de 60\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Riavvolgimento di 60 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041f\u0435\u0440\u0435\u043c\u043e\u0442\u043a\u0438\" \u043d\u0430 60 \u0441\u0435\u043a.",
+    "ko_KR": "\ub418\ub3cc\ub9ac\uae30\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 60\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6642\u5149\u5012\u8f49\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed60\u79d2\u3002",
+    "zh_CN": "\u56de\u6eaf\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed60\u79d2\u3002"
+  }
 }

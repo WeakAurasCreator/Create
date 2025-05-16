@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392162"
+  "SpellID": "392162",
+  "name_blz": {
+    "en_US": "Dreamstate",
+    "es_MX": "Estado on\u00edrico",
+    "pt_BR": "Estado On\u00edrico",
+    "de_DE": "Traumzustand",
+    "en_GB": "Dreamstate",
+    "es_ES": "Estado on\u00edrico",
+    "fr_FR": "\u00c9tat de r\u00eave",
+    "it_IT": "Stato Onirico",
+    "ru_RU": "\u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0441\u043d\u0430",
+    "ko_KR": "\uafc8\uacb0",
+    "zh_TW": "\u5922\u5883",
+    "zh_CN": "\u8ff7\u68a6"
+  },
+  "description_blz": {
+    "en_US": "While channeling Tranquility, your other Druid spell cooldowns are reduced by up to 20 seconds.",
+    "es_MX": "Mientras canalizas Tranquilidad, tus tiempos de reutilizaci\u00f3n de hechizos de Druida restantes se reducen hasta 20 segundos.",
+    "pt_BR": "Enquanto canaliza Tranquilidade, a recarga de seus outros feiti\u00e7os de Druida \u00e9 reduzida em at\u00e9 20 s.",
+    "de_DE": "Beim Kanalisieren von 'Gelassenheit' werden die Abklingzeiten Eurer anderen Druidenzauber um bis zu 20 Sek. verringert.",
+    "en_GB": "While channeling Tranquility, your other Druid spell cooldowns are reduced by up to 20 seconds.",
+    "es_ES": "Mientras canalizas Tranquilidad, tus dem\u00e1s tiempos de reutilizaci\u00f3n de hechizos de druida se reducen hasta 20 s.",
+    "fr_FR": "Les temps de recharge de vos autres sorts druidiques sont r\u00e9duits de 20\u00a0s pendant la canalisation de Tranquillit\u00e9.",
+    "it_IT": "Durante la canalizzazione di Tranquillit\u00e0, il tempo di recupero degli altri incantesimi da Druido si riduce di massimo 20 s.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0432\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0435 \"\u0421\u043f\u043e\u043a\u043e\u0439\u0441\u0442\u0432\u0438\u0435\", \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u0434\u0440\u0443\u0438\u0434\u0430 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20 \u0441\u0435\u043a.",
+    "ko_KR": "\ud3c9\uc628\uc5d0 \uc815\uc2e0\uc744 \uc9d1\uc911\ud558\ub294 \ub3d9\uc548 \ub2e4\ub978 \ub4dc\ub8e8\uc774\ub4dc \uc8fc\ubb38\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd5c\ub300 20\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5f15\u5c0e\u5be7\u975c\u6642\uff0c\u4f60\u5176\u4ed6\u5fb7\u9b6f\u4f0a\u6cd5\u8853\u7684\u51b7\u537b\u6642\u9593\u6700\u591a\u7e2e\u77ed20\u79d2\u3002",
+    "zh_CN": "\u5f15\u5bfc\u5b81\u9759\u65f6\uff0c\u4f60\u7684\u5176\u4ed6\u5fb7\u9c81\u4f0a\u6cd5\u672f\u7684\u51b7\u5374\u65f6\u95f4\u964d\u4f4e\u6700\u591a20\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "371426"
+  "SpellID": "371426",
+  "name_blz": {
+    "en_US": "Life-Giver's Flame",
+    "es_MX": "Llama de la brindavida",
+    "pt_BR": "Chama do Concedente da Vida",
+    "de_DE": "Flamme des Lebensspenders",
+    "en_GB": "Life-Giver's Flame",
+    "es_ES": "Llama de otorgavida",
+    "fr_FR": "Flamme du don de vie",
+    "it_IT": "Fiamma del Dono Vitale",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u044f \u0414\u0430\u044e\u0449\u0435\u0433\u043e \u0436\u0438\u0437\u043d\u044c",
+    "ko_KR": "\uc0dd\uba85\uc744 \ubca0\ud478\ub294 \uc790\uc758 \ubd88\uaf43",
+    "zh_TW": "\u751f\u547d\u8cdc\u4e88\u8005\u4e4b\u7130",
+    "zh_CN": "\u8d50\u547d\u8005\u4e4b\u7130"
+  },
+  "description_blz": {
+    "en_US": "Fire Breath heals 5 nearby injured allies for 80% of damage done to up to 5 targets, split evenly among them.",
+    "es_MX": "Aliento de fuego sana a 5 aliados heridos cercanos una cantidad equivalente al 80% del da\u00f1o infligido a un m\u00e1ximo de 5 objetivos, que se divide en partes iguales entre todos.",
+    "pt_BR": "Sopro de Fogo concede a 5 aliados feridos pr\u00f3ximos uma cura equivalente a 80% do dano causado a at\u00e9 5 alvos, dividida igualmente entre eles.",
+    "de_DE": "'Feueratem' heilt 5 verletzte Verb\u00fcndete in der N\u00e4he um 80% des Schadens, der bis zu 5 Zielen zugef\u00fcgt wurde, wobei die Heilung gleichm\u00e4\u00dfig auf die Ziele aufgeteilt wird.",
+    "en_GB": "Fire Breath heals 5 nearby injured allies for 80% of damage done to up to 5 targets, split evenly among them.",
+    "es_ES": "Aliento de Fuego sana un 80% del da\u00f1o infligido a 5 aliados heridos cercanos. Afecta a un m\u00e1ximo de 5 objetivos, entre los que divide su efecto a partes iguales.",
+    "fr_FR": "Souffle de feu soigne 5\u00a0alli\u00e9s bless\u00e9s proches d\u2019un montant \u00e9gal \u00e0 80\u00a0% des d\u00e9g\u00e2ts inflig\u00e9s \u00e0 un maximum de 5\u00a0cibles, en r\u00e9partissant les soins \u00e0 parts \u00e9gales entre eux.",
+    "it_IT": "Soffio di Fuoco cura 5 alleati feriti vicini del 80% dei danni inflitti a massimo 5 bersagli. Le cure sono suddivise equamente tra loro.",
+    "ru_RU": "\"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0435 \u0434\u044b\u0445\u0430\u043d\u0438\u0435\" \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 5 \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u043c\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0440\u0430\u043d\u0435\u043d\u044b\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 80% \u0443\u0440\u043e\u043d\u0430, \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0446\u0435\u043b\u044f\u043c. \u0418\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u0440\u0430\u0432\u043d\u043e\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c\u0438.",
+    "ko_KR": "\ubd88\uc758 \uc228\uacb0\uc774 \uc8fc\uc704\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70 5\uba85\uc744 \ucd5c\ub300 5\uba85\uc758 \ub300\uc0c1\uc5d0\uac8c \uc785\ud78c \ud53c\ud574\uc758 80%\ub9cc\ud07c \ub098\ub204\uc5b4 \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u706b\u7130\u4e4b\u606f\u53ef\u4f7f\u9644\u8fd15\u540d\u53d7\u50b7\u7684\u76df\u53cb\u6062\u5fa9\u751f\u547d\u529b\uff0c\u6062\u5fa9\u91cf\u76f8\u7576\u65bc\u6700\u591a\u5c0d5\u540d\u76ee\u6a19\u9020\u6210\u50b7\u5bb3\u768480%\uff0c\u4e26\u7531\u88ab\u6cbb\u7642\u7684\u76df\u53cb\u5e73\u5747\u5206\u6524\u3002",
+    "zh_CN": "\u706b\u7130\u5410\u606f\u4f1a\u6cbb\u7597\u9644\u8fd15\u540d\u53d7\u4f24\u7684\u76df\u53cb\uff0c\u6548\u679c\u76f8\u5f53\u4e8e\u5bf9\u6700\u591a5\u4e2a\u76ee\u6807\u6240\u9020\u6210\u4f24\u5bb3\u768480%\uff0c\u7531\u6cbb\u7597\u7684\u6240\u6709\u76df\u53cb\u5747\u644a\u3002"
+  }
 }

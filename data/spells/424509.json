@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "424509"
+  "SpellID": "424509",
+  "name_blz": {
+    "en_US": "Schism",
+    "es_MX": "Cisma",
+    "pt_BR": "Cisma",
+    "de_DE": "Schisma",
+    "en_GB": "Schism",
+    "es_ES": "Cisma",
+    "fr_FR": "Schisme",
+    "it_IT": "Scisma",
+    "ru_RU": "\u0421\u0445\u0438\u0437\u043c\u0430",
+    "ko_KR": "\ubd84\ud30c",
+    "zh_TW": "\u6697\u5f71\u5206\u88c2",
+    "zh_CN": "\u6559\u6d3e\u5206\u6b67"
+  },
+  "description_blz": {
+    "en_US": "Mind Blast fractures the enemy's mind, increasing your spell damage to the target by 10% for 9 sec.",
+    "es_MX": "Explosi\u00f3n mental destroza la mente del enemigo, lo que aumenta un 10% el da\u00f1o con hechizos que infliges al objetivo durante 9 s.",
+    "pt_BR": "Impacto Mental fratura a mente do inimigo, aumentando em 10% seu dano m\u00e1gico ao alvo por 9 s.",
+    "de_DE": "'Gedankenschlag' zerbricht den Verstand des Gegners, was Euren Zauberschaden gegen dieses Ziel 9 Sek. lang um 10% erh\u00f6ht.",
+    "en_GB": "Mind Blast fractures the enemy's mind, increasing your spell damage to the target by 10% for 9 sec.",
+    "es_ES": "Explosi\u00f3n mental fractura la mente del enemigo, lo que aumenta un 10% el da\u00f1o con hechizos que le infliges durante 9 s.",
+    "fr_FR": "Attaque mentale fissure l\u2019esprit de l\u2019ennemi, ce qui augmente les d\u00e9g\u00e2ts que vos sorts lui infligent de 10\u00a0% pendant 9 s.",
+    "it_IT": "Detonazione Mentale frantuma la mente del nemico, aumentando i tuoi danni magici inflitti al bersaglio del 10% per 9 s.",
+    "ru_RU": "\"\u0412\u0437\u0440\u044b\u0432 \u0440\u0430\u0437\u0443\u043c\u0430\" \u0440\u0430\u0441\u043a\u0430\u043b\u044b\u0432\u0430\u0435\u0442 \u0440\u0430\u0437\u0443\u043c \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0432\u0430\u0448 \u0443\u0440\u043e\u043d \u044d\u0442\u043e\u0439 \u0446\u0435\u043b\u0438 \u043d\u0430 10% \u043d\u0430 9 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\uc2e0 \ubd84\uc5f4\uc774 \ub300\uc0c1\uc758 \uc815\uc2e0\uc744 \uc798\uac8c \uc870\uac01\ub0b4 9\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc5d0 \ub300\ud55c \uc8fc\ubb38 \uacf5\uaca9\ub825\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5fc3\u9748\u9707\u7206\u6495\u88c2\u6575\u4eba\u7684\u5fc3\u9748\uff0c\u4f7f\u4f60\u5c0d\u8a72\u76ee\u6a19\u9020\u6210\u7684\u6cd5\u8853\u50b7\u5bb3\u63d0\u9ad810%\uff0c\u6301\u7e8c9\u79d2\u3002",
+    "zh_CN": "\u5fc3\u7075\u9707\u7206\u51fb\u788e\u654c\u4eba\u7684\u5fc3\u667a\uff0c\u4f7f\u4f60\u5bf9\u76ee\u6807\u9020\u6210\u7684\u6cd5\u672f\u4f24\u5bb3\u63d0\u9ad810%\uff0c\u6301\u7eed9\u79d2\u3002"
+  }
 }

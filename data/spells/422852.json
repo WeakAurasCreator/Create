@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422852"
+  "SpellID": "422852",
+  "name_blz": {
+    "en_US": "Death Knight Frost 10.2 Class Set 2pc",
+    "en_GB": "Death Knight Frost 10.2 Class Set 2pc"
+  },
+  "description_blz": {
+    "en_US": "Chill Streak's range is increased by 4 yds and can bounce off of you. Each time Chill Streak bounces your damage is increased by 4% for 12 sec, stacking up to 5 times.",
+    "es_MX": "El alcance de Seguidilla escalofriante aumenta 4 m y puede rebotar contra ti. Cada vez que Seguidilla escalofriante rebota, tu da\u00f1o aumenta un 4% durante 12 s. Se acumula hasta 5 veces.",
+    "pt_BR": "O alcance do Assalto G\u00e9lido aumenta em 4 m e ele pode saltar em voc\u00ea. Toda vez que o Assalto G\u00e9lido salta, o seu dano aumenta em 4% por 12 s, acumulando at\u00e9 5 vezes.",
+    "de_DE": "Die Reichweite von 'Kettenunterk\u00fchlung' wird um 4 Meter erh\u00f6ht und der Effekt kann von Euch abprallen. Jedes Mal, wenn 'Kettenunterk\u00fchlung' abprallt, wird Euer Schaden 12 Sek. lang um 4% erh\u00f6ht. Bis zu 5-mal stapelbar.",
+    "en_GB": "Chill Streak's range is increased by 4 yds and can bounce off of you. Each time Chill Streak bounces your damage is increased by 4% for 12 sec, stacking up to 5 times.",
+    "es_ES": "El alcance de Racha helada aumenta 4 m y puede rebotar. Cada vez que Racha helada rebota, tu da\u00f1o aumenta un 4% durante 12 s. Se acumula hasta 5 veces.",
+    "fr_FR": "La port\u00e9e de S\u00e9quence gla\u00e7ante est augment\u00e9e de 4\u00a0m\u00e8tres et elle peut rebondir sur vous. Chaque fois que S\u00e9quence gla\u00e7ante rebondit, vos d\u00e9g\u00e2ts sont augment\u00e9s de 4\u00a0% pendant 12 s. Cumulable jusqu\u2019\u00e0 5\u00a0fois.",
+    "it_IT": "Aumenta la portata di Serie Gelida di 4 m e ora pu\u00f2 rimbalzare su se stessi. Ogni volta che Serie Gelida rimbalza, aumenta i danni inflitti del 4% per 12 s. Si accumula fino a 5 volte.",
+    "ru_RU": "\u0414\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u041f\u043e\u0442\u043e\u043a\u0430 \u0445\u043e\u043b\u043e\u0434\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 4 \u043c., \u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0440\u0438\u043a\u043e\u0448\u0435\u0442\u0438\u0442\u044c \u043e\u0442 \u0432\u0430\u0441. \u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \"\u041f\u043e\u0442\u043e\u043a \u0445\u043e\u043b\u043e\u0434\u0430\" \u0440\u0438\u043a\u043e\u0448\u0435\u0442\u0438\u0442, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 4% \u043d\u0430 12 \u0441\u0435\u043a. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 5 \u0440\u0430\u0437.",
+    "ko_KR": "\ubab0\uc544\uce58\ub294 \ud55c\uae30\uc758 \uc0ac\uc815\uac70\ub9ac\uac00 4\ubbf8\ud130\ub9cc\ud07c \uc99d\uac00\ud558\uace0 \ud295\uae41\ub2c8\ub2e4. \ubab0\uc544\uce58\ub294 \ud55c\uae30\uac00 \ud295\uae38 \ub54c\ub9c8\ub2e4 12\ucd08 \ub3d9\uc548 \uacf5\uaca9\ub825\uc774 4%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 5\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5bd2\u51b0\u51cd\u80fd\u7684\u8ddd\u96e2\u63d0\u9ad84\u78bc\uff0c\u4e26\u53ef\u5728\u4f60\u8eab\u4e0a\u5f48\u8df3\u3002\u5bd2\u51b0\u51cd\u80fd\u6bcf\u5f48\u8df3\u4e00\u6b21\uff0c\u90fd\u6703\u4f7f\u4f60\u7684\u50b7\u5bb3\u63d0\u9ad84%\uff0c\u6301\u7e8c12\u79d2\uff0c\u6700\u591a\u53ef\u5806\u758a5\u5c64\u3002",
+    "zh_CN": "\u5bd2\u51b0\u8054\u7ed3\u7684\u8303\u56f4\u6269\u59274\u7801\uff0c\u5e76\u4e14\u4f60\u4e5f\u53ef\u4ee5\u4f5c\u4e3a\u5f39\u5c04\u76ee\u6807\u3002\u5bd2\u51b0\u8054\u7ed3\u6bcf\u6b21\u5f39\u5c04\u65f6\uff0c\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u572812\u79d2\u5185\u63d0\u9ad84%\uff0c\u6700\u591a\u53e0\u52a05\u6b21\u3002"
+  }
 }

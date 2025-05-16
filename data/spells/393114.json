@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393114"
+  "SpellID": "393114",
+  "name_blz": {
+    "en_US": "Improved Ardent Defender",
+    "es_MX": "Defensor candente mejorado",
+    "pt_BR": "Defensor Ardente Aprimorado",
+    "de_DE": "Verbesserter unerm\u00fcdlicher Verteidiger",
+    "en_GB": "Improved Ardent Defender",
+    "es_ES": "Defensor candente mejorado",
+    "fr_FR": "Ardent d\u00e9fenseur am\u00e9lior\u00e9",
+    "it_IT": "Fervido Difensore Migliorato",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u0440\u0435\u0432\u043d\u043e\u0441\u0442\u043d\u044b\u0439 \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+    "ko_KR": "\ud5cc\uc2e0\uc801\uc778 \uc218\ud638\uc790 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u5fe0\u8aa0\u9632\u885b\u8005",
+    "zh_CN": "\u5f3a\u5316\u70bd\u70ed\u9632\u5fa1\u8005"
+  },
+  "description_blz": {
+    "en_US": "Ardent Defender reduces damage taken by an additional 10%.",
+    "es_MX": "Defensor candente reduce un 10% m\u00e1s el da\u00f1o recibido.",
+    "pt_BR": "Defensor Ardente reduz em mais 10% o dano recebido.",
+    "de_DE": "'Unerm\u00fcdlicher Verteidiger' verringert den erlittenen Schaden zus\u00e4tzlich um 10%.",
+    "en_GB": "Ardent Defender reduces damage taken by an additional 10%.",
+    "es_ES": "Defensor candente reduce el da\u00f1o recibido un 10% extra.",
+    "fr_FR": "Ardent d\u00e9fenseur r\u00e9duit les d\u00e9g\u00e2ts subis de 10% suppl\u00e9mentaires.",
+    "it_IT": "Fervido Difensore riduce i danni subiti del 10% aggiuntivo.",
+    "ru_RU": "\"\u0420\u0435\u0432\u043d\u043e\u0441\u0442\u043d\u044b\u0439 \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0435\u0449\u0435 \u043d\u0430 10%.",
+    "ko_KR": "\ud5cc\uc2e0\uc801\uc778 \uc218\ud638\uc790 \uc0ac\uc6a9 \uc2dc \ucd94\uac00\ub85c \ubc1b\ub294 \ud53c\ud574\uac00 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5fe0\u8aa0\u9632\u885b\u8005\u4f7f\u53d7\u5230\u7684\u50b7\u5bb3\u984d\u5916\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u70bd\u70ed\u9632\u5fa1\u8005\u4f1a\u4f7f\u4f60\u53d7\u5230\u7684\u4f24\u5bb3\u989d\u5916\u964d\u4f4e10%\u3002"
+  }
 }

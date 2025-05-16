@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "384355"
+  "SpellID": "384355",
+  "name_blz": {
+    "en_US": "Elemental Weapons",
+    "es_MX": "Armas elementales",
+    "pt_BR": "Armas Elementais",
+    "de_DE": "Elementarwaffen",
+    "en_GB": "Elemental Weapons",
+    "es_ES": "Armas elementales",
+    "fr_FR": "Armes \u00e9l\u00e9mentaires",
+    "it_IT": "Armi Elementali",
+    "ru_RU": "\u041e\u0440\u0443\u0436\u0438\u0435 \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc790\uc5f0\uc758 \ubb34\uae30",
+    "zh_TW": "\u5143\u7d20\u6b66\u5668",
+    "zh_CN": "\u5143\u7d20\u6b66\u5668"
+  },
+  "description_blz": {
+    "en_US": "Each active weapon imbue Increases all Fire, Frost, and Nature damage dealt by 2.5%.",
+    "es_MX": "Cada Imbuir arma activo aumenta un 2.5% el da\u00f1o de fuego, escarcha y naturaleza.",
+    "pt_BR": "Cada imbui\u00e7\u00e3o de arma ativa aumenta em 2,5% todo o dano de Fogo, Gelo e Natureza causado.",
+    "de_DE": "Jede aktive Waffenverzauberung erh\u00f6ht s\u00e4mtlichen verursachten Feuer-, Frost- und Naturschaden um 2,5%.",
+    "en_GB": "Each active weapon imbue Increases all Fire, Frost, and Nature damage dealt by 2.5%.",
+    "es_ES": "Cada Imbuir arma activo aumenta un 2,5% todo el da\u00f1o infligido de Fuego, Escarcha y Naturaleza.",
+    "fr_FR": "Chaque impr\u00e9gnation d\u2019arme active augmente les d\u00e9g\u00e2ts de feu, de givre et de nature inflig\u00e9s de 2,5%.",
+    "it_IT": "Ogni infusione attiva sull'arma aumenta tutti i danni da fuoco, da gelo e da natura inflitti del 2,5%.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0435 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0435 \u0447\u0430\u0440\u044b \u0441\u0442\u0438\u0445\u0438\u0439 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u043e\u0433\u043d\u044f, \u043c\u0430\u0433\u0438\u0438 \u043b\u044c\u0434\u0430 \u0438 \u0441\u0438\u043b \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u043d\u0430 2,5%.",
+    "ko_KR": "\ud65c\uc131\ud654\ub41c \ubb34\uae30 \uac15\ud654 \ud558\ub098\ub2f9 \ubaa8\ub4e0 \ud654\uc5fc, \ub0c9\uae30, \uc790\uc5f0 \uacf5\uaca9\ub825\uc774 2.5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u500b\u4f5c\u7528\u4e2d\u7684\u6b66\u5668\u704c\u9b54\u6703\u4f7f\u9020\u6210\u7684\u6240\u6709\u706b\u7130\u3001\u51b0\u971c\u548c\u81ea\u7136\u50b7\u5bb3\u63d0\u9ad82.5%\u3002",
+    "zh_CN": "\u6bcf\u4e00\u79cd\u6fc0\u6d3b\u7684\u6b66\u5668\u704c\u9b54\u4f7f\u9020\u6210\u7684\u6240\u6709\u706b\u7130\u3001\u51b0\u971c\u548c\u81ea\u7136\u4f24\u5bb3\u63d0\u9ad82.5%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386634"
+  "SpellID": "386634",
+  "name_blz": {
+    "en_US": "Executioner's Precision",
+    "es_MX": "Precisi\u00f3n de verdugo",
+    "pt_BR": "Precis\u00e3o do Carrasco",
+    "de_DE": "Pr\u00e4zision des Scharfrichters",
+    "en_GB": "Executioner's Precision",
+    "es_ES": "Precisi\u00f3n de verdugo",
+    "fr_FR": "Pr\u00e9cision du bourreau",
+    "it_IT": "Precisione dell'Esecutore",
+    "ru_RU": "\u0422\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u043f\u0430\u043b\u0430\u0447\u0430",
+    "ko_KR": "\uc9d1\ud589\uc790\uc758 \uc815\ubc00\ud568",
+    "zh_TW": "\u8655\u6c7a\u8005\u7684\u7cbe\u6e96",
+    "zh_CN": "\u523d\u5b50\u624b\u7684\u7cbe\u51c6"
+  },
+  "description_blz": {
+    "en_US": "Execute causes the target to take 35% more damage from your next Mortal Strike, stacking up to 2 times.",
+    "es_MX": "Ejecutar hace que el objetivo reciba un 35% m\u00e1s de da\u00f1o de tu pr\u00f3ximo Golpe mortal. Se puede acumular hasta 2 veces.",
+    "pt_BR": "Executar faz com que o alvo receba 35% a mais de dano do seu pr\u00f3ximo Golpe Mortal. Acumula at\u00e9 2 vezes.",
+    "de_DE": "'Hinrichten' l\u00e4sst das Ziel durch Euren n\u00e4chsten Einsatz von 'T\u00f6dlicher Sto\u00df' 35% mehr Schaden erleiden. Bis zu 2-mal stapelbar.",
+    "en_GB": "Execute causes the target to take 35% more damage from your next Mortal Strike, stacking up to 2 times.",
+    "es_ES": "Ejecutar provoca que el objetivo reciba un 35% m\u00e1s de da\u00f1o de tu siguiente Golpe mortal. El efecto se acumula hasta 2 veces.",
+    "fr_FR": "Les d\u00e9g\u00e2ts de votre prochaine Frappe mortelle sont augment\u00e9s de 35% sur la cible d\u2019Ex\u00e9cution, cet effet \u00e9tant cumulable jusqu\u2019\u00e0 2\u00a0fois.",
+    "it_IT": "Esecuzione aumenta i danni inflitti al bersaglio dal tuo successivo Assalto Mortale del 35%. Si accumula fino a 2 volte.",
+    "ru_RU": "\"\u041a\u0430\u0437\u043d\u044c\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0446\u0435\u043b\u044c \u043f\u043e\u043b\u0443\u0447\u0438\u0442 \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430\", \u043d\u0430 35%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 2 \u0440\u0430\u0437.",
+    "ko_KR": "\ub9c8\ubb34\ub9ac \uc77c\uaca9\uc744 \uc0ac\uc6a9\ud558\uba74 \ub300\uc0c1\uc774 \uc790\uc2e0\uc758 \ud544\uc0ac\uc758 \uc77c\uaca9\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574\uac00 35%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 2\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u65ac\u6bba\u53ef\u4ee5\u8b93\u4f60\u7684\u4e0b\u4e00\u500b\u81f4\u6b7b\u6253\u64ca\u5c0d\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad835%\uff0c\u6700\u591a\u53ef\u5806\u758a2\u5c64\u3002",
+    "zh_CN": "\u65a9\u6740\u4f7f\u76ee\u6807\u53d7\u5230\u4f60\u4e0b\u4e00\u6b21\u81f4\u6b7b\u6253\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad835%\uff0c\u6700\u591a\u53e0\u52a02\u6b21\u3002"
+  }
 }

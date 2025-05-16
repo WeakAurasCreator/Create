@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383967"
+  "SpellID": "383967",
+  "name_blz": {
+    "en_US": "Improved Combustion",
+    "es_MX": "Combusti\u00f3n mejorada",
+    "pt_BR": "Combust\u00e3o Aprimorada",
+    "de_DE": "Verbessertes Ein\u00e4schern",
+    "en_GB": "Improved Combustion",
+    "es_ES": "Combusti\u00f3n mejorada",
+    "fr_FR": "Combustion am\u00e9lior\u00e9e",
+    "it_IT": "Combustione Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u0435 \u0432\u043e\u0437\u0433\u043e\u0440\u0430\u043d\u0438\u0435",
+    "ko_KR": "\ubc1c\ud654 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u71c3\u707c",
+    "zh_CN": "\u5f3a\u5316\u71c3\u70e7"
+  },
+  "description_blz": {
+    "en_US": "Combustion grants mastery equal to 75% of your Critical Strike stat and lasts 2 sec longer. ",
+    "es_MX": "Combusti\u00f3n otorga maestr\u00eda equivalente a un 75% de la estad\u00edstica de tu golpe cr\u00edtico y dura 2 s m\u00e1s.",
+    "pt_BR": "Combust\u00e3o concede Maestria equivalente a 75% do seu Acerto Cr\u00edtico e dura 2 s a mais. ",
+    "de_DE": "'Ein\u00e4schern' gew\u00e4hrt Meisterschaft in H\u00f6he von 75% Eures kritischen Trefferwerts und h\u00e4lt 2 Sek. l\u00e4nger an. ",
+    "en_GB": "Combustion grants mastery equal to 75% of your Critical Strike stat and lasts 2 sec longer. ",
+    "es_ES": "Combusti\u00f3n otorga una cantidad de maestr\u00eda equivalente a un 75% de tu golpe cr\u00edtico y dura 2 s m\u00e1s. ",
+    "fr_FR": "Combustion augmente la Ma\u00eetrise de 75\u00a0% de votre score de Coup critique et dure 2\u00a0s de plus. ",
+    "it_IT": "Combustione fornisce maestria pari al 75% della probabilit\u00e0 di critico e la sua durata aumenta di 2 s. ",
+    "ru_RU": "\"\u0412\u043e\u0437\u0433\u043e\u0440\u0430\u043d\u0438\u0435\" \u0434\u0430\u0435\u0442 \u0431\u043e\u043d\u0443\u0441 \u043a \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u0438, \u0440\u0430\u0432\u043d\u044b\u0439 75% \u0432\u0430\u0448\u0435\u0439 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0438 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430, \u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 2 \u0441\u0435\u043a. \u0434\u043e\u043b\u044c\u0448\u0435.  ",
+    "ko_KR": "\ubc1c\ud654\uac00 \ud2b9\ud654\ub97c \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ub2a5\ub825\uce58\uc758 75%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \ub610\ud55c \uc9c0\uc18d\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. ",
+    "zh_TW": "\u71c3\u707c\u4f7f\u4f60\u7372\u5f97\u76f8\u7576\u65bc\u81f4\u547d\u4e00\u64ca\u5c6c\u602775%\u7684\u7cbe\u901a\uff0c\u4e14\u6301\u7e8c\u6642\u9593\u5ef6\u95772\u79d2\u3002 ",
+    "zh_CN": "\u71c3\u70e7\u4f7f\u4f60\u83b7\u5f97\u7cbe\u901a\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u4f60\u7684\u7206\u51fb\u5c5e\u6027\u768475%\u3002\u71c3\u70e7\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f2\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "411165"
+  "SpellID": "411165",
+  "name_blz": {
+    "en_US": "Eye of Infinity",
+    "es_MX": "Ojo de infinidad",
+    "pt_BR": "Olho da Infinidade",
+    "de_DE": "Auge der Unendlichkeit",
+    "en_GB": "Eye of Infinity",
+    "es_ES": "Ojo de infinidad",
+    "fr_FR": "\u0152il de l\u2019infini",
+    "it_IT": "Occhio dell'Infinito",
+    "ru_RU": "\u041e\u043a\u043e \u0432\u0435\u0447\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uc601\uac81\uc758 \ub208",
+    "zh_TW": "\u7121\u9650\u4e4b\u773c",
+    "zh_CN": "\u6c38\u6052\u4e4b\u773c"
+  },
+  "description_blz": {
+    "en_US": "Eternity Surge deals 15% increased damage to your primary target.",
+    "es_MX": "Oleada de eternidad inflige un 15% m\u00e1s de da\u00f1o a tu objetivo principal.",
+    "pt_BR": "Surto da Eternidade causa 15% mais dano ao seu alvo prim\u00e1rio.",
+    "de_DE": "'Ewigkeitswoge' f\u00fcgt dem Prim\u00e4rziel 15% mehr Schaden zu.",
+    "en_GB": "Eternity Surge deals 15% increased damage to your primary target.",
+    "es_ES": "Oleada de eternidad inflige un 15% m\u00e1s de da\u00f1o a tu objetivo principal.",
+    "fr_FR": "Afflux d\u2019\u00e9ternit\u00e9 inflige 15% de d\u00e9g\u00e2ts suppl\u00e9mentaires \u00e0 votre cible principale.",
+    "it_IT": "Aumenta i danni inflitti da Impeto dell'Eternit\u00e0 al bersaglio primario del 15%.",
+    "ru_RU": "\"\u0412\u0441\u043f\u043b\u0435\u0441\u043a \u0432\u0435\u0447\u043d\u043e\u0441\u0442\u0438\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\uc601\uc6d0\uc758 \uc1c4\ub3c4\uac00 \uc8fc \ub300\uc0c1\uc5d0\uac8c 15%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u6c38\u6046\u5954\u9a30\u5c0d\u4f60\u4e3b\u8981\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002",
+    "zh_CN": "\u6c38\u6052\u4e4b\u6d8c\u5bf9\u4e3b\u76ee\u6807\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002"
+  }
 }

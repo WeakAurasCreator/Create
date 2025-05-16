@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383703"
+  "SpellID": "383703",
+  "name_blz": {
+    "en_US": "Fatality",
+    "es_MX": "Fatalidad",
+    "pt_BR": "Fatalidade",
+    "de_DE": "Fatalit\u00e4t",
+    "en_GB": "Fatality",
+    "es_ES": "Fatalidad",
+    "fr_FR": "Fatalit\u00e9",
+    "it_IT": "Fatalit\u00e0",
+    "ru_RU": "\u0424\u0430\u0442\u0443\u043c",
+    "ko_KR": "\uce58\uba85\uc801 \uacf5\uaca9",
+    "zh_TW": "\u6b7b\u4ea1\u5bbf\u547d",
+    "zh_CN": "\u81f4\u6b7b"
+  },
+  "description_blz": {
+    "en_US": "Mortal Strike and Cleave have a high chance to apply Fatal Mark to enemies above 30% health. When an enemy with Fatal Mark is below 30% health, your next Execute causes the Fatal Mark to deal 1,465 Physical damage per stack.",
+    "es_MX": "Golpe mortal y Rajar tienen una alta probabilidad de aplicar Marca fatal sobre los enemigos que tienen m\u00e1s del 30% de salud. Cuando la salud de un enemigo con Marca fatal cae por debajo del 30%, tu siguiente Ejecutar inflige 1,465 p. de da\u00f1o f\u00edsico por acumulaci\u00f3n.",
+    "pt_BR": "Golpe Mortal e Cutilada t\u00eam chance elevada de aplicar Marca Fatal aos inimigos com mais de 30% dos pontos de vida. Quando um inimigo com Marca Fatal chega a menos de 30% dos pontos de vida, seu pr\u00f3ximo Executar faz Marca Fatal causar 1.465 de dano F\u00edsico por aplica\u00e7\u00e3o.",
+    "de_DE": "'T\u00f6dlicher Sto\u00df' und 'Spalten' haben eine hohe Chance, Gegner \u00fcber 30% Gesundheit mit 'Fatales Mal' zu belegen. Wenn ein Gegner mit 'Fatales Mal' weniger als 30% Gesundheit hat, f\u00fchrt Euer n\u00e4chster Einsatz von 'Hinrichten' dazu, dass 'Fatales Mal' ihm pro Stapel 1.465 k\u00f6rperlichen Schaden zuf\u00fcgt.",
+    "en_GB": "Mortal Strike and Cleave have a high chance to apply Fatal Mark to enemies above 30% health. When an enemy with Fatal Mark is below 30% health, your next Execute causes the Fatal Mark to deal 1,465 Physical damage per stack.",
+    "es_ES": "Golpe mortal y Rajar tienen muchas probabilidades de aplicar Marca letal a enemigos por encima del 30% de salud. Cuando un enemigo con Marca letal est\u00e1 por debajo del 30% de salud, tu siguiente Ejecutar hace que Marca letal inflija 1465 p. de da\u00f1o f\u00edsico por cada acumulaci\u00f3n.",
+    "fr_FR": "Frappe mortelle et Encha\u00eenement ont une chance \u00e9lev\u00e9e d\u2019appliquer Marque fatale aux adversaires ayant plus de 30\u00a0% de leurs points de vie. Quand un personnage adverse sous l\u2019effet de Marque fatale a moins de 30\u00a0% de ses points de vie, votre prochaine Ex\u00e9cution permet \u00e0 Marque fatale d\u2019infliger 1465\u00a0points de d\u00e9g\u00e2ts physiques par charge.",
+    "it_IT": "Assalto Mortale e Fendente hanno un'alta probabilit\u00e0 di applicare Marchio Fatale ai nemici con pi\u00f9 del 30% della salute massima. Quando un nemico con Marchio Fatale ha meno del 30% della salute massima, la successiva Esecuzione fa s\u00ec che Marchio Fatale infligga 1.465 danni fisici aggiuntivi per accumulo.",
+    "ru_RU": "\"\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0443\u0434\u0430\u0440\" \u0438 \"\u0420\u0430\u0441\u0441\u0435\u043a\u0430\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440\" \u0441 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442 \u043a \u0446\u0435\u043b\u0438 \"\u0424\u0430\u0442\u0430\u043b\u044c\u043d\u0443\u044e \u043c\u0435\u0442\u043a\u0443\", \u0435\u0441\u043b\u0438 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0446\u0435\u043b\u0438 \u0432\u044b\u0448\u0435 30%. \u041a\u043e\u0433\u0434\u0430 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0446\u0435\u043b\u0438 \u0441 \"\u0424\u0430\u0442\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u0435\u0442\u043a\u043e\u0439\" \u043f\u0430\u0434\u0430\u0435\u0442 \u043d\u0438\u0436\u0435 30%, \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \"\u041a\u0430\u0437\u043d\u044c\" \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442 \"\u0424\u0430\u0442\u0430\u043b\u044c\u043d\u0443\u044e \u043c\u0435\u0442\u043a\u0443\", \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0430\u043d\u043e\u0441\u0438\u0442 1465 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442.",
+    "ko_KR": "\ud544\uc0ac\uc758 \uc77c\uaca9 \ubc0f \ud68c\uc804\ubca0\uae30 \uc0ac\uc6a9 \uc2dc \ub192\uc740 \ud655\ub960\ub85c \uc0dd\uba85\ub825\uc774 30% \uc774\uc0c1\uc778 \uc801\uc5d0\uac8c \ucc99\uc0b4\uc758 \uc9d5\ud45c\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4. \ucc99\uc0b4\uc758 \uc9d5\ud45c\uc5d0 \uac78\ub9b0 \uc801\uc758 \uc0dd\uba85\ub825\uc774 30% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74, \ub2e4\uc74c \ub9c8\ubb34\ub9ac \uc77c\uaca9 \uc0ac\uc6a9 \uc2dc \ucc99\uc0b4\uc758 \uc9d5\ud45c\uac00 \uc911\ucca9 \ud558\ub098\ub2f9 1,465\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u81f4\u6b7b\u6253\u64ca\u548c\u9806\u5288\u65ac\u6709\u5f88\u9ad8\u7684\u6a5f\u7387\u5c0d\u751f\u547d\u529b\u9ad8\u65bc30%\u7684\u6575\u4eba\u65bd\u52a0\u81f4\u547d\u5370\u8a18\u3002\u7576\u5e36\u6709\u81f4\u547d\u5370\u8a18\u7684\u6575\u4eba\u7684\u751f\u547d\u529b\u4f4e\u65bc30%\u6642\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u65ac\u6bba\u6703\u4f7f\u6bcf\u5c64\u81f4\u547d\u5370\u8a18\u9020\u62101,465\u9ede\u7269\u7406\u50b7\u5bb3\u3002",
+    "zh_CN": "\u81f4\u6b7b\u6253\u51fb\u548c\u987a\u5288\u65a9\u6709\u975e\u5e38\u9ad8\u7684\u51e0\u7387\u5bf9\u751f\u547d\u503c\u9ad8\u4e8e30%\u7684\u654c\u4eba\u65bd\u52a0\u4e00\u5c42\u81f4\u6b7b\u5370\u8bb0\u3002\u5f53\u5177\u6709\u81f4\u6b7b\u5370\u8bb0\u7684\u654c\u4eba\u751f\u547d\u503c\u964d\u4f4e\u81f330%\u4ee5\u4e0b\u65f6\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u65a9\u6740\u4f7f\u6bcf\u5c42\u81f4\u6b7b\u5370\u8bb0\u9020\u62101,465\u70b9\u7269\u7406\u4f24\u5bb3\u3002"
+  }
 }

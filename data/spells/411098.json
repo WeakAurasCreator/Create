@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "411098"
+  "SpellID": "411098",
+  "name_blz": {
+    "en_US": "Stormspirit Strikes",
+    "es_MX": "Golpes de Esp\u00edritu de tormenta",
+    "pt_BR": "Golpes do Esp\u00edrito da Tempestade",
+    "de_DE": "Sturmgeistst\u00f6\u00dfe",
+    "en_GB": "Stormspirit Strikes",
+    "es_ES": "Golpes de esp\u00edritu de tormenta",
+    "fr_FR": "Frappes d\u2019esprit de temp\u00eate",
+    "it_IT": "Assalti dello Spirito della Tempesta",
+    "ru_RU": "\u0423\u0434\u0430\u0440\u044b \u0431\u0443\u0445\u0430 \u0434\u0443\u0440\u0438",
+    "ko_KR": "\ud3ed\ud48d\uc758 \uc815\ub839 \uac15\ud0c0",
+    "zh_TW": "\u98a8\u66b4\u4e4b\u9b42\u6253\u64ca",
+    "zh_CN": "\u98ce\u7075\u6253\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Striking more than one enemy with Fists of Fury summons a Storm Spirit to focus your secondary target for 25 sec, which will mimic any of your attacks that do not also strike the target for 25% of normal damage.",
+    "es_MX": "Golpear a m\u00e1s de un enemigo con Pu\u00f1os de furia invoca un Esp\u00edritu de tormenta que se centra en el objetivo secundario por 25 s e imita todos tus ataques que no golpean al objetivo por un 25% de da\u00f1o normal.",
+    "pt_BR": "Acertar mais de um inimigo com Punhos da F\u00faria evoca um Esp\u00edrito da Tempestade para se concentrar no seu alvo secund\u00e1rio por 25 s e imitar quaisquer ataques que n\u00e3o atinjam o alvo, causando 25% do dano normal.",
+    "de_DE": "Wenn Ihr mehr als einen Gegner mit 'Furorf\u00e4uste' trefft, wird ein Sturmgeist beschworen, der sich 25 Sek. lang auf Euer Sekund\u00e4rziel fokussiert. Dabei imitiert er all Eure Angriffe, die das Ziel nicht ebenfalls treffen, und f\u00fcgt ihm 25% des normalen Schadens zu.",
+    "en_GB": "Striking more than one enemy with Fists of Fury summons a Storm Spirit to focus your secondary target for 25 sec, which will mimic any of your attacks that do not also strike the target for 25% of normal damage.",
+    "es_ES": "Al golpear a m\u00e1s de un enemigo con Pu\u00f1os de furia, invocas un esp\u00edritu de tormenta que se centra en tu objetivo secundario durante 25 s e imita todos tus ataques que no golpeen tambi\u00e9n a ese objetivo para infligir un 25% del da\u00f1o normal.",
+    "fr_FR": "Frapper plusieurs adversaires avec Poings de fureur invoque un esprit de temp\u00eate qui s\u2019en prend \u00e0 votre cible secondaire pendant 25\u00a0s en copiant vos attaques qui ne la touchent pas, infligeant ainsi \u00e0 la victime 25% des d\u00e9g\u00e2ts normaux.",
+    "it_IT": "Colpire pi\u00f9 di un nemico con Pugni della Furia evoca uno Spirito della Tempesta che si concentra sul bersaglio secondario per 25 s, imitando tutti i tuoi attacchi che non colpiscono anche quel bersaglio e infliggendo il 25% dei danni normali.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u041d\u0435\u0438\u0441\u0442\u043e\u0432\u044b\u0435 \u043a\u0443\u043b\u0430\u043a\u0438\" \u043f\u043e\u0440\u0430\u0436\u0430\u044e\u0442 \u0431\u043e\u043b\u0435\u0435 \u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u0432\u044b \u043d\u0430 25 \u0441\u0435\u043a. \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u0434\u0443\u0445 \u0431\u0443\u0440\u0438. \u0414\u0443\u0445 \u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u0430\u0447\u0438\u0432\u0430\u0435\u0442 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043d\u0430 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0446\u0435\u043b\u0438 \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u0435\u0442 \u0432\u0430\u0448\u0438 \u0430\u0442\u0430\u043a\u0438, \u043d\u0435 \u043f\u043e\u0440\u0430\u0437\u0438\u0432\u0448\u0438\u0435 \u044d\u0442\u0443 \u0446\u0435\u043b\u044c, \u043d\u0430\u043d\u043e\u0441\u044f \u0435\u0439 25% \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ubd84\ub178\uc758 \uc8fc\uba39\uc774 \ud55c \uba85 \uc774\uc0c1\uc758 \uc801\uc5d0\uac8c \uc801\uc911\ud558\uba74 \ud3ed\ud48d\uc758 \uc815\ub839\uc774 \uc18c\ud658\ub418\uc5b4 25\ucd08 \ub3d9\uc548 \ubd80\uac00 \ub300\uc0c1\uc5d0\uac8c \uc9d1\uc911\ud569\ub2c8\ub2e4. \ud3ed\ud48d\uc758 \uc815\ub839\uc740 \ub300\uc0c1\uc744 \uac00\uaca9\ud558\uc9c0 \uc54a\ub294 \uacf5\uaca9\uc774\ub354\ub77c\ub3c4 \uc2dc\uc804\uc790\uc758 \ubaa8\ub4e0 \uacf5\uaca9\uc744 \ud749\ub0b4 \ub0b4\uba70 \uc77c\ubc18 \uacf5\uaca9\ub825\uc758 25%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u7528\u72c2\u62f3\u9023\u6253\u64ca\u4e2d\u8d85\u904e\u4e00\u540d\u6575\u4eba\u6703\u53ec\u559a\u4e00\u500b\u98a8\u4e4b\u9b42\u4f86\u96c6\u4e2d\u653b\u64ca\u6b21\u8981\u76ee\u6a19\uff0c\u6301\u7e8c25\u79d2\u3002\u98a8\u4e4b\u9b42\u6703\u6a21\u4eff\u4e0d\u6703\u540c\u6642\u653b\u64ca\u5230\u8a72\u76ee\u6a19\u7684\u4efb\u4f55\u653b\u64ca\uff0c\u4e26\u9020\u6210\u666e\u901a\u50b7\u5bb325%\u7684\u50b7\u5bb3\u3002",
+    "zh_CN": "\u6012\u96f7\u7834\u6253\u51fb\u7684\u654c\u4eba\u8d85\u8fc7\u4e00\u540d\u65f6\u53ec\u5524\u51fa\u4e00\u4e2a\u66b4\u98ce\u4e4b\u7075\uff0c\u9501\u5b9a\u4f60\u7684\u6b21\u8981\u76ee\u6807\uff0c\u6301\u7eed25\u79d2\u3002\u5b83\u4f1a\u6a21\u4eff\u4f60\u7684\u6240\u6709\u672a\u6253\u51fb\u8be5\u76ee\u6807\u7684\u653b\u51fb\uff0c\u9020\u6210\u6b63\u5e38\u4f24\u5bb3\u768425%\u3002"
+  }
 }

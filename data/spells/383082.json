@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "383082"
+  "SpellID": "383082",
+  "name_blz": {
+    "en_US": "Barbaric Training",
+    "es_MX": "Entrenamiento b\u00e1rbaro",
+    "pt_BR": "Treinamento B\u00e1rbaro",
+    "de_DE": "Barbarentraining",
+    "en_GB": "Barbaric Training",
+    "es_ES": "Entrenamiento de b\u00e1rbaro",
+    "fr_FR": "Entra\u00eenement barbare",
+    "it_IT": "Addestramento Barbarico",
+    "ru_RU": "\u0422\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 \u0432\u0430\u0440\u0432\u0430\u0440\u0430",
+    "ko_KR": "\uc57c\ub9cc\uc801\uc778 \ud6c8\ub828",
+    "zh_TW": "\u883b\u91ce\u8a13\u7df4",
+    "zh_CN": "\u91ce\u86ee\u8bad\u7ec3"
+  },
+  "description_blz": {
+    "en_US": "Slam, Cleave, and Whirlwind deal 10% more damage and 10% increased critical strike damage.",
+    "es_MX": "Embate, Rajar y Torbellino infligen un 10% m\u00e1s de da\u00f1o y un 10% m\u00e1s de da\u00f1o de golpe cr\u00edtico.",
+    "pt_BR": "Batida, Cutilada e Redemoinho causam 10% a mais de dano e 10% a mais de dano de acerto cr\u00edtico.",
+    "de_DE": "'Zerschmettern', 'Spalten' und 'Wirbelwind' verursachen 10% mehr Schaden und 10% mehr kritischen Schaden.",
+    "en_GB": "Slam, Cleave, and Whirlwind deal 10% more damage and 10% increased critical strike damage.",
+    "es_ES": "Embate, Rajar y Torbellino infligen un 10% m\u00e1s de da\u00f1o y un 10% m\u00e1s de da\u00f1o cr\u00edtico.",
+    "fr_FR": "Heurtoir, Encha\u00eenement et Tourbillon infligent 10\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires et 10\u00a0% de d\u00e9g\u00e2ts critiques suppl\u00e9mentaires.",
+    "it_IT": "Contusione, Fendente e Turbine infliggono il 10% di danni aggiuntivi e il 10% di danni critici aggiuntivi.",
+    "ru_RU": "\"\u041c\u043e\u0449\u043d\u044b\u0439 \u0443\u0434\u0430\u0440\", \"\u0420\u0430\u0441\u0441\u0435\u043a\u0430\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440\" \u0438 \"\u0412\u0438\u0445\u0440\u044c\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uaca9\ub3cc, \ud68c\uc804\ubca0\uae30, \uc18c\uc6a9\ub3cc\uc774\uac00 10%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud788\uace0 \uce58\uba85\ud0c0 \ubc0f \uadf9\ub300\ud654 \ud53c\ud574\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u731b\u64ca\u3001\u9806\u5288\u65ac\u548c\u65cb\u98a8\u65ac\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\uff0c\u4e14\u81f4\u547d\u4e00\u64ca\u50b7\u5bb3\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u731b\u51fb\u3001\u987a\u5288\u65a9\u548c\u65cb\u98ce\u65a9\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\uff0c\u7206\u51fb\u4f24\u5bb3\u63d0\u9ad810%\u3002"
+  }
 }

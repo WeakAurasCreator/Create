@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "386568"
+  "SpellID": "386568",
+  "name_blz": {
+    "en_US": "Inner Light",
+    "es_MX": "Luz interna",
+    "pt_BR": "Luz Interior",
+    "de_DE": "Inneres Licht",
+    "en_GB": "Inner Light",
+    "es_ES": "Luz interior",
+    "fr_FR": "Lumi\u00e8re int\u00e9rieure",
+    "it_IT": "Luce Interiore",
+    "ru_RU": "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0441\u0432\u0435\u0442",
+    "ko_KR": "\ub0b4\uba74\uc758 \ube5b",
+    "zh_TW": "\u5167\u5728\u4e4b\u5149",
+    "zh_CN": "\u5185\u89c6\u4e4b\u5149"
+  },
+  "description_blz": {
+    "en_US": "When Shield of the Righteous expires, gain 10% block chance and deal 120 Holy damage to all attackers for 4 sec.",
+    "es_MX": "Cuando Escudo del honrado expira, obtienes un 10% de probabilidad de bloqueo e infliges 120 p. de da\u00f1o sagrado a todos los atacantes durante 4 s.",
+    "pt_BR": "Quando Escudo do \u00cdntegro expira, voc\u00ea ganha 10% de chance de bloqueio e causa 120 de dano Sagrado a todos os atacantes por 4 s.",
+    "de_DE": "Wenn 'Schild der Rechtschaffenen' abl\u00e4uft, wird Eure Blockchance um 10% erh\u00f6ht und Ihr f\u00fcgt allen Angreifern 120 Heiligschaden zu. H\u00e4lt 4 Sek. lang an.",
+    "en_GB": "When Shield of the Righteous expires, gain 10% block chance and deal 120 Holy damage to all attackers for 4 sec.",
+    "es_ES": "Cuando Escudo del honrado se agota, obtienes un 10% de probabilidad de bloqueo e infliges 120 p. de da\u00f1o Sagrado a todos los atacantes durante 4 s.",
+    "fr_FR": "\u00c0 l\u2019expiration de Bouclier du vertueux, vos chances de blocage sont augment\u00e9es de 10% et vous infligez 120\u00a0points de d\u00e9g\u00e2ts du sacr\u00e9 aux attaquants pendant 4 s.",
+    "it_IT": "Quando Scudo del Virtuoso termina, aumenta la probabilit\u00e0 di blocco del 10% e infligge 120 danni da sacro a tutti gli attaccanti per 4 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0429\u0438\u0442 \u043f\u0440\u0430\u0432\u0435\u0434\u043d\u0438\u043a\u0430\" \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0432\u0430\u0448\u0430 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 10%, \u0430 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0438\u0435 \u0432\u0430\u0441 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4 \u0441\u0435\u043a. \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 120 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\uc815\uc758\uc758 \ubc29\ud328 \ub9cc\ub8cc \uc2dc \ubc29\ud328 \ub9c9\uae30 \ud655\ub960\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 4\ucd08 \ub3d9\uc548 \ubaa8\ub4e0 \uacf5\uaca9\uc790\uc5d0\uac8c 120\uc758 \uc2e0\uc131 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u516c\u6b63\u4e4b\u76fe\u6548\u679c\u7d50\u675f\u6642\uff0c\u7372\u5f9710%\u683c\u64cb\u6a5f\u7387\uff0c\u4e26\u4e14\u5c0d\u6240\u6709\u653b\u64ca\u8005\u9020\u6210120\u9ede\u795e\u8056\u50b7\u5bb3\uff0c\u6301\u7e8c4\u79d2\u3002",
+    "zh_CN": "\u5f53\u6b63\u4e49\u76fe\u51fb\u7684\u6301\u7eed\u65f6\u95f4\u7ed3\u675f\u65f6\uff0c\u83b7\u5f9710%\u7684\u683c\u6321\u51e0\u7387\uff0c\u5e76\u5bf9\u6240\u6709\u653b\u51fb\u8005\u9020\u6210120\u70b9\u795e\u5723\u4f24\u5bb3\uff0c\u6301\u7eed4\u79d2\u3002"
+  }
 }

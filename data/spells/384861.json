@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "384861"
+  "SpellID": "384861",
+  "name_blz": {
+    "en_US": "Foresight",
+    "es_MX": "Previsi\u00f3n",
+    "pt_BR": "Predi\u00e7\u00e3o",
+    "de_DE": "Voraussicht",
+    "en_GB": "Foresight",
+    "es_ES": "Vaticinio",
+    "fr_FR": "Vision ant\u00e9rieure",
+    "it_IT": "Previdenza",
+    "ru_RU": "\u041f\u0440\u0435\u0434\u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uc120\uacac\uc9c0\uba85",
+    "zh_TW": "\u9810\u77e5",
+    "zh_CN": "\u9884\u89c1"
+  },
+  "description_blz": {
+    "en_US": "Standing still for 10 sec grants you Foresight, allowing you to cast while moving for 4 sec. This duration begins when you start moving.",
+    "es_MX": "No moverte durante 10 s te otorga Previsi\u00f3n, lo que te permite lanzar mientras te mueves durante 4 s. Esta duraci\u00f3n comienza cuando empiezas a moverte.",
+    "pt_BR": "Voc\u00ea recebe Predi\u00e7\u00e3o se ficar parado por 10 s, podendo lan\u00e7ar feiti\u00e7os enquanto se move por 4 s. Essa contagem come\u00e7ar\u00e1 quando voc\u00ea se mover.",
+    "de_DE": "Wenn Ihr Euch 10 Sek. lang nicht bewegt, erhaltet Ihr 'Voraussicht'. Dies erlaubt es Euch, 4 Sek. lang Zauber aus der Bewegung heraus zu wirken. Die Dauer beginnt, sobald Ihr Euch bewegt.",
+    "en_GB": "Standing still for 10 sec grants you Foresight, allowing you to cast while moving for 4 sec. This duration begins when you start moving.",
+    "es_ES": "Permanecer inm\u00f3vil durante 10 s te otorga Vaticinio, lo que te permite lanzar hechizos en movimiento durante 4 s. El tiempo empieza a contar cuando te mueves.",
+    "fr_FR": "Rester immobile pendant 10 s vous conf\u00e8re Vision ant\u00e9rieure, ce qui vous permet d\u2019incanter en vous d\u00e9pla\u00e7ant pendant 4\u00a0s. Cette dur\u00e9e commence d\u00e8s que vous vous d\u00e9placez.",
+    "it_IT": "Se si resta fermi per 10 s si ottiene l'effetto Previdenza, che permette di lanciare incantesimi in movimento per 4 s. La durata dell'effetto comincia quando ci si inizia a muovere.",
+    "ru_RU": "\u041f\u0440\u043e\u0441\u0442\u043e\u044f\u0432 \u043d\u0430 \u043c\u0435\u0441\u0442\u0435 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u0441\u0435\u043a., \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041f\u0440\u0435\u0434\u0432\u0438\u0434\u0435\u043d\u0438\u0435\", \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043d\u0430 \u0445\u043e\u0434\u0443 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 4 \u0441\u0435\u043a. \u041e\u0442\u0441\u0447\u0435\u0442 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0441 \u0442\u043e\u0433\u043e \u043c\u043e\u043c\u0435\u043d\u0442\u0430, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0441\u043d\u043e\u0432\u0430 \u043d\u0430\u0447\u043d\u0435\u0442\u0435 \u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f.",
+    "ko_KR": "10\ucd08 \ub3d9\uc548 \uc81c\uc790\ub9ac\uc5d0 \uc11c \uc788\uc73c\uba74 \uc120\uacac\uc9c0\uba85 \ud6a8\uacfc\uac00 \ubd80\uc5ec\ub418\uc5b4, 4\ucd08 \ub3d9\uc548 \uc774\ub3d9\ud558\uba74\uc11c \uc8fc\ubb38\uc744 \uc2dc\uc804\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc774\ub3d9\uc744 \uc2dc\uc791\ud558\uba74 \ud6a8\uacfc\uac00 \ubc1c\ub3d9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u975c\u6b62\u4e0d\u52d5\u905410\u79d2\uff0c\u4f60\u5c31\u80fd\u7372\u5f97\u9810\u77e5\uff0c\u53ef\u908a\u79fb\u52d5\u908a\u65bd\u6cd5\uff0c\u6301\u7e8c4\u79d2\u3002\u53ea\u8981\u4e00\u79fb\u52d5\uff0c\u5c31\u6703\u958b\u59cb\u8a08\u7b97\u6301\u7e8c\u6642\u9593\u3002",
+    "zh_CN": "\u7ad9\u7acb\u4e0d\u52a810\u79d2\u540e\u83b7\u5f97\u9884\u89c1\u6548\u679c\uff0c\u8ba9\u4f60\u53ef\u4ee5\u5728\u79fb\u52a8\u4e2d\u65bd\u6cd5\uff0c\u6301\u7eed4\u79d2\u3002\u6b64\u6301\u7eed\u6548\u679c\u4ece\u4f60\u5f00\u59cb\u79fb\u52a8\u65f6\u8ba1\u7b97\u3002"
+  }
 }

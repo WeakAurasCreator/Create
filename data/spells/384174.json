@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "384174"
+  "SpellID": "384174",
+  "name_blz": {
+    "en_US": "Master of Flame",
+    "es_MX": "Maestro de la llama",
+    "pt_BR": "Mestre das Chamas",
+    "de_DE": "Meister der Flammen",
+    "en_GB": "Master of Flame",
+    "es_ES": "Maestro de la llama",
+    "fr_FR": "Ma\u00eetre de la flamme",
+    "it_IT": "Maestro della Fiamma",
+    "ru_RU": "\u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c \u043f\u043b\u0430\u043c\u0435\u043d\u0438",
+    "ko_KR": "\ud654\uc5fc\uc758 \ub300\uac00",
+    "zh_TW": "\u706b\u7130\u5927\u5e2b",
+    "zh_CN": "\u70c8\u7130\u5927\u5e08"
+  },
+  "description_blz": {
+    "en_US": "Ignite deals 15% more damage and Fireball deals 15% more damage while Combustion is not active. Fire Blast spreads Ignite to 2 additional nearby targets during Combustion.",
+    "es_MX": "Ignici\u00f3n inflige un 15% m\u00e1s de da\u00f1o y Bola de fuego inflige un 15% m\u00e1s de da\u00f1o cuando Combusti\u00f3n no est\u00e1 activa. Explosi\u00f3n de fuego propaga Ignici\u00f3n a 2 objetivos cercanos m\u00e1s durante Combusti\u00f3n.",
+    "pt_BR": "Incendiar causa 15% a mais de dano, e Bola de Fogo causa 15% a mais de dano quando a Combust\u00e3o n\u00e3o est\u00e1 ativa. Impacto de Fogo espalha Incendiar para 2 alvos pr\u00f3ximos adicionais durante a Combust\u00e3o.",
+    "de_DE": "Euer 'Entz\u00fcnden' verursacht 15% und Euer 'Feuerball' verursacht 15% mehr Schaden, w\u00e4hrend 'Ein\u00e4schern' nicht aktiv ist. 'Feuerschlag' verbreitet 'Entz\u00fcnden' auf 2 zus\u00e4tzliche Ziele in der N\u00e4he, w\u00e4hrend 'Ein\u00e4schern' aktiv ist.",
+    "en_GB": "Ignite deals 15% more damage and Fireball deals 15% more damage while Combustion is not active. Fire Blast spreads Ignite to 2 additional nearby targets during Combustion.",
+    "es_ES": "Ignici\u00f3n inflige un 15% m\u00e1s de da\u00f1o, y Bola de Fuego inflige un 15% m\u00e1s de da\u00f1o mientras Combusti\u00f3n no est\u00e1 activa. Explosi\u00f3n de Fuego propaga Ignici\u00f3n a 2 objetivos cercanos m\u00e1s durante Combusti\u00f3n.",
+    "fr_FR": "Enflammer inflige 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires et Boule de feu inflige 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires tant que Combustion n\u2019est pas active. Trait de feu propage Enflammer \u00e0 2\u00a0cibles suppl\u00e9mentaires proches pendant Combustion.",
+    "it_IT": "Incendio infligge il 15% di danni aggiuntivi e Palla di Fuoco infligge il 15% di danni aggiuntivi quando Combustione non \u00e8 attiva. Detonazione di Fuoco diffonde Incendio su 2 bersagli vicini aggiuntivi durante Combustione.",
+    "ru_RU": "\"\u0412\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043d\u0438\u0435\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430, \u0430 \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0448\u0430\u0440\" \u2013 \u043d\u0430 15% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430, \u043a\u043e\u0433\u0434\u0430 \"\u0412\u043e\u0437\u0433\u043e\u0440\u0430\u043d\u0438\u0435\" \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u043d\u043e. \u041a\u043e\u0433\u0434\u0430 \"\u0412\u043e\u0437\u0433\u043e\u0440\u0430\u043d\u0438\u0435\" \u0430\u043a\u0442\u0438\u0432\u043d\u043e, \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0432\u0437\u0440\u044b\u0432\" \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442 \"\u0412\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043d\u0438\u0435\" \u043d\u0430 2 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\ubc1c\ud654\uac00 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\uc9c0 \uc54a\uc73c\uba74 \uc791\uc5f4\uc774 15%, \ud654\uc5fc\uad6c\uac00 15%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ubc1c\ud654\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \ud654\uc5fc \uc791\ub82c\uc744 \uc2dc\uc804\ud558\uba74 \uc8fc\uc704 2\uba85\uc758 \ucd94\uac00 \ub300\uc0c1\uc5d0\uac8c \uc791\uc5f4\uc744 \ud37c\ub728\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u975e\u71c3\u707c\u4f5c\u7528\u671f\u9593\uff0c\u9ede\u71c3\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\uff0c\u706b\u7403\u8853\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad815%\u3002\u5728\u71c3\u707c\u4f5c\u7528\u671f\u9593\uff0c\u706b\u7130\u885d\u64ca\u4f7f\u9ede\u71c3\u984d\u5916\u8513\u5ef6\u81f3\u9644\u8fd12\u500b\u76ee\u6a19\u3002",
+    "zh_CN": "\u5f53\u71c3\u70e7\u672a\u6fc0\u6d3b\u65f6\uff0c\u70b9\u71c3\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\uff0c\u706b\u7403\u672f\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad815%\u3002\u71c3\u70e7\u6fc0\u6d3b\u65f6\uff0c\u706b\u7130\u51b2\u51fb\u4f1a\u5c06\u70b9\u71c3\u989d\u5916\u5ef6\u70e7\u81f3\u9644\u8fd1\u76842\u4e2a\u76ee\u6807\u8eab\u4e0a\u3002"
+  }
 }

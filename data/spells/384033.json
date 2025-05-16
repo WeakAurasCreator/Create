@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "384033"
+  "SpellID": "384033",
+  "name_blz": {
+    "en_US": "Firefall",
+    "es_MX": "Fuego del cielo",
+    "pt_BR": "Queda \u00cdgnea",
+    "de_DE": "Feuersturz",
+    "en_GB": "Firefall",
+    "es_ES": "Cascada de fuego",
+    "fr_FR": "Gr\u00eale de feu",
+    "it_IT": "Pioggia di Fuoco",
+    "ru_RU": "\u041e\u0433\u043d\u0435\u043f\u0430\u0434",
+    "ko_KR": "\uc3df\uc544\uc9c0\ub294 \ud654\uc5fc",
+    "zh_TW": "\u706b\u6b9e\u8853",
+    "zh_CN": "\u5929\u964d\u4e4b\u706b"
+  },
+  "description_blz": {
+    "en_US": "Damaging an enemy with 15 Fireballs or Pyroblasts causes your next Fireball or Pyroblast to call down a Meteor on your target.",
+    "es_MX": "Da\u00f1ar a un enemigo con 15 Bolas de fuego o Piroexplosiones hace que tu pr\u00f3xima Bola de fuego o Piroexplosi\u00f3n invoque un meteoro sobre tu objetivo.",
+    "pt_BR": "Causar dano a um inimigo com 15 Bolas de Fogo ou Ignimpactos faz com que sua pr\u00f3xima Bola de Fogo ou Ignimpacto lance um Meteoro contra o alvo.",
+    "de_DE": "Nachdem Ihr 15-mal einem Gegner mit 'Feuerball' oder 'Pyroschlag' Schaden zugef\u00fcgt habt, l\u00e4sst Euer n\u00e4chster 'Feuerball' oder 'Pyroschlag' einen Meteor auf Euer Ziel niedergehen.",
+    "en_GB": "Damaging an enemy with 15 Fireballs or Pyroblasts causes your next Fireball or Pyroblast to call down a Meteor on your target.",
+    "es_ES": "Tras da\u00f1ar a un enemigo con 15 Bolas de Fuego o Piroexplosiones, tu siguiente Bola de Fuego o Piroexplosi\u00f3n invocar\u00e1 un meteoro sobre el objetivo.",
+    "fr_FR": "Blesser un adversaire avec 15\u00a0Boules de feu ou Explosions pyrotechniques permet \u00e0 votre prochaine Boule de feu ou Explosion pyrotechnique d\u2019envoyer un m\u00e9t\u00e9ore sur votre cible.",
+    "it_IT": "Infliggere danni a un nemico con 15 Palle di Fuoco o Pirosfere fa s\u00ec che la successiva Palla di Fuoco o Pirosfera richiami una Meteora sul bersaglio.",
+    "ru_RU": "\u041d\u0430\u043d\u0435\u0441\u044f \u0443\u0440\u043e\u043d \"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u043c \u0448\u0430\u0440\u043e\u043c\" \u0438\u043b\u0438 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0439 \u0433\u043b\u044b\u0431\u043e\u0439\" 15 \u0440\u0430\u0437, \u0432\u044b \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442\u0435 \u0446\u0435\u043b\u044c \"\u041c\u0435\u0442\u0435\u043e\u0440\u0438\u0442\u043e\u043c\" \u043f\u0440\u0438 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0448\u0430\u0440\u0430\" \u0438\u043b\u0438 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0439 \u0433\u043b\u044b\u0431\u044b\".",
+    "ko_KR": "\ud654\uc5fc\uad6c \ub610\ub294 \ubd88\ub369\uc774 \uc791\ub82c\ub85c \uc801\uc5d0\uac8c 15\ud68c \ud53c\ud574\ub97c \uc785\ud788\uba74 \ub2e4\uc74c \ud654\uc5fc\uad6c \ub610\ub294 \ubd88\ub369\uc774 \uc791\ub82c\uc774 \ub300\uc0c1\uc5d0\uac8c \uc720\uc131\uc744 \ubd88\ub7ec \ub0b4\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u706b\u7403\u8853\u6216\u708e\u7206\u8853\u5c0d\u6575\u4eba\u9020\u621015\u6b21\u50b7\u5bb3\u5f8c\uff0c\u6703\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u706b\u7403\u8853\u6216\u708e\u7206\u8853\u5c0d\u76ee\u6a19\u964d\u4e0b\u9695\u77f3\u3002",
+    "zh_CN": "\u4f7f\u7528\u706b\u7403\u672f\u6216\u708e\u7206\u672f\u5bf9\u654c\u4eba\u9020\u621015\u6b21\u4f24\u5bb3\u540e\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u706b\u7403\u672f\u6216\u708e\u7206\u672f\u4f1a\u5411\u4f60\u7684\u76ee\u6807\u53ec\u5524\u4e00\u9897\u6d41\u661f\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393630"
+  "SpellID": "393630",
+  "name_blz": {
+    "en_US": "Demon Hunter Vengeance Class Set 2pc",
+    "es_MX": "Demon Hunter Vengeance Class Set 2pc",
+    "pt_BR": "Ca\u00e7ador de Dem\u00f4nios, Vingan\u00e7a, Conjunto de Classe, 2 p\u00e7",
+    "de_DE": "D\u00e4monenj\u00e4gerklassenset, Rachsucht, 2 Teile",
+    "en_GB": "Demon Hunter Vengeance Class Set 2pc",
+    "es_ES": "Conjunto de clase de cazador de demonios Venganza (2 piezas)",
+    "fr_FR": "Ensemble de classe de chasseur de d\u00e9mons Vengeance (2\u00a0pi\u00e8ces)",
+    "it_IT": "Cacciatore di Demoni della Vendetta, Set di Classe, 2 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u043d\u0430 \u0434\u0435\u043c\u043e\u043d\u043e\u0432 \u2013 \u043c\u0435\u0441\u0442\u044c, 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ubcf5\uc218 \uc545\ub9c8\uc0ac\ub0e5\uafbc \uc9c1\uc5c5 \uc138\ud2b8 2\uc138\ud2b8",
+    "zh_TW": "\u60e1\u9b54\u7375\u4eba\u5fa9\u4ec7\u8077\u696d\u5957\u88dd2\u4ef6",
+    "zh_CN": "\u6076\u9b54\u730e\u624b\u590d\u4ec7\u804c\u4e1a\u5957\u88c5\u4e24\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Shear deals 20% more damage, generates 20% more Fury, and has a 15% chance to generate an additional Soul Fragment.",
+    "es_MX": "Cortar inflige un 20% m\u00e1s de da\u00f1o, genera un 20% m\u00e1s de furia y tiene un 15% de probabilidad de generar un fragmento de alma m\u00e1s.",
+    "pt_BR": "Talhar causa 20% mais dano, gera 20% mais F\u00faria e tem 15% de chance de gerar um Fragmento de Alma adicional.",
+    "de_DE": "'Abscheren' verursacht 20% mehr Schaden, erzeugt 20% mehr J\u00e4hzorn und hat eine Chance von 15%, ein zus\u00e4tzliches Seelenfragment zu erzeugen.",
+    "en_GB": "Shear deals 20% more damage, generates 20% more Fury, and has a 15% chance to generate an additional Soul Fragment.",
+    "es_ES": "Hender inflige un 20% m\u00e1s de da\u00f1o, genera un 20% m\u00e1s de furia, y tiene un 15% de probabilidades de generar un trozo de alma extra.",
+    "fr_FR": "Entaille voit ses d\u00e9g\u00e2ts augment\u00e9s de 20%, g\u00e9n\u00e8re 20% de fureur en plus et a 15% de produire un fragment d\u2019\u00e2me suppl\u00e9mentaire.",
+    "it_IT": "Aumenta i danni inflitti da Recisione del 20% e la furia che genera del 20%. Inoltre, le fornisce una probabilit\u00e0 del 15% di generare un Frammento dell'Anima aggiuntivo.",
+    "ru_RU": "\"\u0418\u0441\u0441\u0435\u0447\u0435\u043d\u0438\u0435\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 20% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430, \u0434\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e 20% \u0433\u043d\u0435\u0432\u0430 \u0438 \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 15% \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442 \u0434\u0443\u0448\u0438.",
+    "ko_KR": "\uc808\ub2e8\uc758 \uacf5\uaca9\ub825\uc774 20%\ub9cc\ud07c, \uaca9\ub178 \uc0dd\uc131\ub7c9\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c 15%\uc758 \ud655\ub960\ub85c \uc601\ud63c \ud30c\ud3b8\uc744 \ucd94\uac00\ub85c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u524a\u65ac\u984d\u5916\u9020\u621020%\u50b7\u5bb3\uff0c\u984d\u5916\u7522\u751f20%\u9b54\u6012\uff0c\u4e26\u670915%\u7684\u6a5f\u7387\u984d\u5916\u7522\u751f\u4e00\u679a\u9748\u9b42\u788e\u7247\u3002",
+    "zh_CN": "\u88c2\u9b42\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad820%\uff0c\u751f\u6210\u7684\u6076\u9b54\u4e4b\u6012\u63d0\u9ad820%\uff0c\u5e76\u4e14\u670915%\u7684\u51e0\u7387\u989d\u5916\u4ea7\u751f\u4e00\u5757\u7075\u9b42\u6b8b\u7247\u3002"
+  }
 }

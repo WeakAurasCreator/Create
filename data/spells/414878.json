@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "414878"
+  "SpellID": "414878",
+  "name_blz": {
+    "en_US": "Evoker Augmentation 10.1 Class Set 4pc",
+    "en_GB": "Evoker Augmentation 10.1 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Ebon Might increases allies' primary stat by an additional 1.0% of your own.",
+    "es_MX": "Poder de \u00e9bano aumenta un 1.0% m\u00e1s la estad\u00edstica principal de los aliados a partir de la tuya.",
+    "pt_BR": "Poder de \u00c9bano aumenta o atributo prim\u00e1rio dos aliados em mais 1,0% do seu pr\u00f3prio.",
+    "de_DE": "'Schwarzmacht' erh\u00f6ht den Prim\u00e4rwert von Verb\u00fcndeten um zus\u00e4tzlich 1,0% Eures Werts.",
+    "en_GB": "Ebon Might increases allies' primary stat by an additional 1.0% of your own.",
+    "es_ES": "Poder\u00edo de \u00e9bano aumenta la estad\u00edstica principal de tus aliados un 1,0% de la tuya.",
+    "fr_FR": "Puissance d\u2019\u00e9b\u00e8ne augmente la caract\u00e9ristique principale des alli\u00e9s \u00e0 hauteur de 1,0\u00a0% de la v\u00f4tre.",
+    "it_IT": "Vigore d'Ebano aumenta l'attributo primario degli alleati del 1,0% del proprio.",
+    "ru_RU": "\"\u0427\u0435\u0440\u043d\u0430\u044f \u043c\u043e\u0449\u044c\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u0443\u044e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0435\u0449\u0435 \u043d\u0430 1,0% \u043e\u0442 \u0432\u0430\u0448\u0435\u0439 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438.",
+    "ko_KR": "\uce60\ud751\uc758 \ud798\uc774 \uc544\uad70\uc758 \uc8fc \ub2a5\ub825\uce58\ub97c \uc790\uc2e0\uc758 \uc8fc \ub2a5\ub825\uce58\uc758 1.0%\ub9cc\ud07c \ucd94\uac00\ub85c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9eef\u9ed1\u529b\u91cf\u6703\u984d\u5916\u63d0\u9ad8\u76df\u53cb\u7684\u4e3b\u8981\u5c6c\u6027\uff0c\u6548\u679c\u76f8\u7576\u65bc\u4f60\u81ea\u5df1\u76841.0%\u3002",
+    "zh_CN": "\u9ed1\u6a80\u4e4b\u529b\u4f7f\u76df\u53cb\u7684\u4e3b\u5c5e\u6027\u989d\u5916\u63d0\u9ad8\uff0c\u6548\u679c\u76f8\u5f53\u4e8e\u4f60\u81ea\u8eab\u4e3b\u5c5e\u6027\u76841.0%\u3002"
+  }
 }

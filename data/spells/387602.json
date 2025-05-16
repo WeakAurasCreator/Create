@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "387602"
+  "SpellID": "387602",
+  "name_blz": {
+    "en_US": "Stolen Power",
+    "es_MX": "Poder robado",
+    "pt_BR": "Poder Roubado",
+    "de_DE": "Gestohlene Kraft",
+    "en_GB": "Stolen Power",
+    "es_ES": "Poder robado",
+    "fr_FR": "Puissance d\u00e9rob\u00e9e",
+    "it_IT": "Potere Rubato",
+    "ru_RU": "\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u043d\u0430\u044f \u0441\u0438\u043b\u0430",
+    "ko_KR": "\ud6d4\uccd0\ub0b8 \ud798",
+    "zh_TW": "\u7aca\u64da\u4e4b\u529b",
+    "zh_CN": "\u88ab\u7a83\u53d6\u7684\u80fd\u91cf"
+  },
+  "description_blz": {
+    "en_US": "When your Wild Imps cast Fel Firebolt, you gain an application of Stolen Power. After you reach 75 applications, your next Demonbolt deals 60% increased damage or your next Shadow Bolt deals 60% increased damage.",
+    "es_MX": "Cuando tus Diablillos salvajes lanzan Descarga de fuego vil, obtienes una aplicaci\u00f3n de Poder robado. Cuando alcanzas 75 aplicaciones, tu siguiente Descarga demon\u00edaca inflige un 60% m\u00e1s de da\u00f1o o tu siguiente Descarga de las sombras inflige un 60% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Sempre que seus Diabretes Selvagens lan\u00e7am Seta de Fogo Vil, voc\u00ea ganha uma aplica\u00e7\u00e3o de Poder Roubado. Ao acumular 75 aplica\u00e7\u00f5es, sua pr\u00f3xima Seta Demon\u00edaca causa 60% a mais de dano ou sua pr\u00f3xima Seta Sombria causa 60% a mais de dano.",
+    "de_DE": "Wenn Eure Wildwichtel 'Teufelsfeuerblitz' wirken, erhaltet Ihr eine Anwendung von 'Gestohlene Kraft'. Sobald Ihr 75 Anwendungen erreicht, verursacht Euer n\u00e4chster 'D\u00e4monenblitz' 60% oder Euer n\u00e4chster 'Schattenblitz' 60% mehr Schaden.",
+    "en_GB": "When your Wild Imps cast Fel Firebolt, you gain an application of Stolen Power. After you reach 75 applications, your next Demonbolt deals 60% increased damage or your next Shadow Bolt deals 60% increased damage.",
+    "es_ES": "Cuando tus diablillos salvajes lanzan Descarga de fuego vil, obtienes una aplicaci\u00f3n de Poder robado. Al llegar a 75 aplicaciones, tu siguiente Descarga de demonio inflige un 60% m\u00e1s de da\u00f1o o tu siguiente Descarga de las Sombras inflige un 60% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Quand vos diablotins sauvages lancent \u00c9clair de feu gangren\u00e9, vous gagnez une application de Puissance d\u00e9rob\u00e9e. Au bout de 75\u00a0applications, les d\u00e9g\u00e2ts de votre prochain Trait d\u00e9moniaque ou Trait d\u2019ombre sont respectivement augment\u00e9s de 60% et 60%.",
+    "it_IT": "Quando i tuoi Imp Selvaggi lanciano Dardo di Fuoco Vile, ti forniscono un accumulo di Potere Rubato. Al raggiungimento di 75 accumuli, il successivo Dardo Demoniaco infligge il 60% di danni aggiuntivi o il successivo Dardo d'Ombra infligge il 60% di danni aggiuntivi.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448\u0438 \u0434\u0438\u043a\u0438\u0435 \u0431\u0435\u0441\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u0443\u044e \u0441\u0442\u0440\u0435\u043b\u0443 \u0421\u043a\u0432\u0435\u0440\u043d\u044b\", \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u043d\u0430\u044f \u0441\u0438\u043b\u0430\". \u041a\u043e\u0433\u0434\u0430 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u044d\u0442\u0438\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u0434\u043e\u0441\u0442\u0438\u0433\u043d\u0435\u0442 75, \u0432\u0430\u0448 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \"\u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0437\u0430\u0440\u044f\u0434\" \u043d\u0430\u043d\u0435\u0441\u0435\u0442 \u043d\u0430 60% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430 \u0438\u043b\u0438 \u0432\u0430\u0448\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \"\u0421\u0442\u0440\u0435\u043b\u0430 \u0422\u044c\u043c\u044b\" \u043d\u0430\u043d\u0435\u0441\u0435\u0442 \u043d\u0430 60% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ub0a0\ub6f0\ub294 \uc784\ud504\uac00 \uc9c0\uc625\uc758 \ubd88\ud654\uc0b4\uc744 \uc2dc\uc804\ud558\uba74, \ud6d4\uccd0\ub0b8 \ud798 \ud6a8\uacfc\uac00 1\ud68c \ubd80\uc5ec\ub429\ub2c8\ub2e4. \ud574\ub2f9 \ud6a8\uacfc\uac00 75\ud68c \ubd80\uc5ec\ub418\uba74 \ub2e4\uc74c \uc545\ub9c8 \ud654\uc0b4\uc758 \uacf5\uaca9\ub825\uc774 60%\ub9cc\ud07c, \ud639\uc740 \ub2e4\uc74c \uc5b4\ub460\uc758 \ud654\uc0b4\uc758 \uacf5\uaca9\ub825\uc774 60%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u7684\u72c2\u91ce\u5c0f\u9b3c\u65bd\u653e\u9b54\u5316\u706b\u7130\u7bad\u6642\uff0c\u4f60\u6703\u7372\u5f97\u7aca\u64da\u4e4b\u529b\u3002\u7576\u7aca\u64da\u4e4b\u529b\u5806\u758a75\u5c64\u6642\uff0c\u4f60\u7684\u4e0b\u4e00\u767c\u60e1\u9b54\u7bad\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad860%\uff0c\u6216\u8005\u4e0b\u4e00\u767c\u6697\u5f71\u7bad\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad860%\u3002",
+    "zh_CN": "\u5f53\u4f60\u7684\u91ce\u751f\u5c0f\u9b3c\u65bd\u653e\u6076\u9b54\u706b\u7130\u7bad\u65f6\uff0c\u4f60\u83b7\u5f97\u4e00\u5c42\u88ab\u7a83\u53d6\u7684\u80fd\u91cf\u3002\u8fbe\u523075\u5c42\u65f6\uff0c\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u6076\u9b54\u4e4b\u7bad\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad860%\uff0c\u6216\u4f7f\u4f60\u7684\u6697\u5f71\u7bad\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad860%\u3002"
+  }
 }

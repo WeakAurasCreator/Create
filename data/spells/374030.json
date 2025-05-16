@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "374030"
+  "SpellID": "374030",
+  "name_blz": {
+    "en_US": "Blood Scent",
+    "es_MX": "Olor a sangre",
+    "pt_BR": "Cheiro de Sangue",
+    "de_DE": "Blutgeruch",
+    "en_GB": "Blood Scent",
+    "es_ES": "Rastro de sangre",
+    "fr_FR": "Odeur du sang",
+    "it_IT": "Odore del Sangue",
+    "ru_RU": "\u0417\u0430\u043f\u0430\u0445 \u043a\u0440\u043e\u0432\u0438",
+    "ko_KR": "\ud53c\ub0c4\uc0c8",
+    "zh_TW": "\u9bae\u8840\u6c23\u606f",
+    "zh_CN": "\u8840\u4e4b\u6c14\u606f"
+  },
+  "description_blz": {
+    "en_US": "Increases Leech by 3%.",
+    "es_MX": "Aumenta un 3% el robo de vida.",
+    "pt_BR": "Aumenta em 3% o Sorver.",
+    "de_DE": "Erh\u00f6ht Euren Lebensraub um 3%.",
+    "en_GB": "Increases Leech by 3%.",
+    "es_ES": "Aumenta un 3% el parasitar.",
+    "fr_FR": "Augmente la ponction de 3%.",
+    "it_IT": "Aumenta il ritorno vitale del 3%.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0441\u0430\u043c\u043e\u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 3%.",
+    "ko_KR": "\uc0dd\uae30\ud761\uc218\uac00 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6c72\u53d6\u63d0\u9ad83%\u3002",
+    "zh_CN": "\u5438\u8840\u63d0\u9ad83%\u3002"
+  }
 }

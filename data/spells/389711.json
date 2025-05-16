@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389711"
+  "SpellID": "389711",
+  "name_blz": {
+    "en_US": "Soulmonger",
+    "es_MX": "Traficante de almas",
+    "pt_BR": "Colecionador de Almas",
+    "de_DE": "Seelentreiber",
+    "en_GB": "Soulmonger",
+    "es_ES": "Mercader de almas",
+    "fr_FR": "Animancien",
+    "it_IT": "Mercante d'Anime",
+    "ru_RU": "\u0421\u043e\u0431\u0438\u0440\u0430\u0442\u0435\u043b\u044c \u0434\u0443\u0448",
+    "ko_KR": "\uc601\ud63c\uc120\ub3d9\uc790",
+    "zh_TW": "\u9748\u9b42\u4ea4\u6613",
+    "zh_CN": "\u8d29\u5356\u7075\u9b42"
+  },
+  "description_blz": {
+    "en_US": "When consuming a Soul Fragment would heal you above full health it shields you instead, up to a maximum of 19,734.",
+    "es_MX": "Cuando consumir un fragmento de alma te sanar\u00eda m\u00e1s all\u00e1 de tu salud m\u00e1xima, en lugar de sanarte, recibes un escudo de hasta 19,734 p.",
+    "pt_BR": "Se um Fragmento de Alma consumido por voc\u00ea for curar mais que o seu total de pontos de vida, voc\u00ea recebe, em vez de cura, uma prote\u00e7\u00e3o de at\u00e9 19.734.",
+    "de_DE": "Wenn Ihr beim Verschlingen eines Seelenfragments \u00fcber Eure volle Gesundheit hinaus geheilt werden w\u00fcrdet, erhaltet Ihr stattdessen einen Schild in H\u00f6he von bis zu maximal 19.734.",
+    "en_GB": "When consuming a Soul Fragment would heal you above full health it shields you instead, up to a maximum of 19,734.",
+    "es_ES": "Si, al consumir un trozo de alma te sanas por encima de tu salud total, en su lugar obtienes un escudo con un valor de hasta 19734.",
+    "fr_FR": "Les soins prodigu\u00e9s par la consommation d\u2019un fragment d\u2019\u00e2me qui exc\u00e8dent votre maximum de points de vie sont transform\u00e9s en bouclier d\u2019un montant \u00e9gal \u00e0 19734\u00a0points de vie.",
+    "it_IT": "Quando consumare un Frammento dell'Anima fornisce sovracure, si ottiene uno scudo che assorbe fino a un massimo di 19.734 danni subiti.",
+    "ru_RU": "\u0418\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u043e\u0435 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \"\u0424\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u0430 \u0434\u0443\u0448\u0438\" \u0434\u0430\u0435\u0442 \u0432\u0430\u043c \u0449\u0438\u0442 \u0441 \u043f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c\u044e \u0434\u043e 19734 \u0435\u0434.",
+    "ko_KR": "\uc601\ud63c \ud30c\ud3b8\uc744 \ud761\uc218\ud574 \ucd5c\ub300 \uc0dd\uba85\ub825 \uc774\uc0c1\uc73c\ub85c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud560 \ub54c, \ucd5c\ub300 19,734\uc758 \ud53c\ud574 \ud761\uc218 \ubcf4\ud638\ub9c9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u541e\u566c\u9748\u9b42\u788e\u7247\u6642\uff0c\u8d85\u904e\u751f\u547d\u529b\u4e0a\u9650\u7684\u6cbb\u7642\u91cf\u5c07\u6703\u8f49\u5316\u6210\u8b77\u76fe\uff0c\u6700\u591a\u5438\u653619,734\u9ede\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5f53\u6d88\u8017\u7075\u9b42\u6b8b\u7247\u7684\u6cbb\u7597\u6548\u679c\u9020\u6210\u8fc7\u91cf\u6cbb\u7597\u65f6\uff0c\u6cbb\u7597\u6548\u679c\u4f1a\u8f6c\u800c\u4e3a\u4f60\u63d0\u4f9b\u62a4\u76fe\uff0c\u6700\u591a\u4e3a19,734\u70b9\u3002"
+  }
 }

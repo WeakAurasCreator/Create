@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392002"
+  "SpellID": "392002",
+  "name_blz": {
+    "en_US": "Questline Reward: Bottled Essence",
+    "es_MX": "Recompensa de serie de misiones: Esencia embotellada",
+    "pt_BR": "Recompensa da S\u00e9rie de Miss\u00f5es: Ess\u00eancia Engarrafada",
+    "de_DE": "Belohnung f\u00fcr Questreihe: Abgef\u00fcllte Essenz",
+    "en_GB": "Questline Reward: Bottled Essence",
+    "es_ES": "Recompensa de cadena de misiones: esencia embotellada",
+    "fr_FR": "R\u00e9compense de suite de qu\u00eates\u00a0: essence en bouteille",
+    "it_IT": "Ricompensa Missione: Essenza Imbottigliata",
+    "ru_RU": "\u041d\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u0446\u0435\u043f\u043e\u0447\u043a\u0443 \u0437\u0430\u0434\u0430\u043d\u0438\u0439: \u0431\u0443\u0442\u0438\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc774\uc57c\uae30 \uc804\uac1c \ubcf4\uc0c1: \ubcd1\uc5d0 \ub2f4\uae34 \uc815\uc218",
+    "zh_TW": "\u4efb\u52d9\u7dda\u734e\u52f5\uff1a\u74f6\u88dd\u7cbe\u83ef",
+    "zh_CN": "\u4efb\u52a1\u7ebf\u5956\u52b1\uff1a\u74f6\u88c5\u7cbe\u534e"
+  },
+  "description_blz": {
+    "en_US": "At the end of this questline, you will acquire a Bottled Essence, which can be turned into a Spark of Ingenuity.",
+    "es_MX": "Al final de esta serie de misiones, obtendr\u00e1s una esencia embotellada que podr\u00e1s convertir en una chispa de ingenio.",
+    "pt_BR": "Ao fim desta s\u00e9rie de miss\u00f5es, voc\u00ea receber\u00e1 uma Ess\u00eancia Engarrafada, que pode ser transformada em Centelha de Engenhosidade.",
+    "de_DE": "Am Ende dieser Questreihe erhaltet Ihr eine abgef\u00fcllte Essenz, die in einen Funken der Genialit\u00e4t verwandelt werden kann.",
+    "en_GB": "At the end of this questline, you will acquire a Bottled Essence, which can be turned into a Spark of Ingenuity.",
+    "es_ES": "Al final de esta cadena de misiones, adquirir\u00e1s una esencia embotellada que se puede convertir en una chispa de ingenio.",
+    "fr_FR": "Terminer cette s\u00e9rie de qu\u00eates vous rapportera une essence en bouteille que vous pourrez transformer en \u00e9tincelle d\u2019ing\u00e9niosit\u00e9.",
+    "it_IT": "Alla fine di questa serie di missioni, si ottiene un'Essenza Imbottigliata, che pu\u00f2 essere trasformata in una Scintilla d'Ingegno.",
+    "ru_RU": "\u0412 \u043a\u043e\u043d\u0446\u0435 \u044d\u0442\u043e\u0439 \u0446\u0435\u043f\u043e\u0447\u043a\u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u0439 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0431\u0443\u0442\u0438\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u043c\u043e\u0436\u043d\u043e \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0432 \u0438\u0441\u043a\u0440\u0443 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\uc774 \uc774\uc57c\uae30 \uc804\uac1c\uc758 \ub05d\uc5d0\uc11c \ubcd1\uc5d0 \ub2f4\uae34 \uc815\uc218\ub97c \uc785\uc218\ud569\ub2c8\ub2e4. \uc774\ub97c \ucc3d\uc758\uc131\uc758 \ubd88\uaf43\uc73c\ub85c \ubcc0\ud658\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5b8c\u6210\u9019\u689d\u4efb\u52d9\u7dda\u6642\uff0c\u5c07\u6703\u7372\u5f97\u74f6\u88dd\u7cbe\u83ef\uff0c\u53ef\u5c07\u5176\u8f49\u63db\u6210\u7cbe\u5999\u706b\u82b1\u3002",
+    "zh_CN": "\u5728\u672c\u4efb\u52a1\u7ebf\u7ed3\u5c3e\uff0c\u4f60\u5c06\u83b7\u5f97\u4e00\u4e2a\u74f6\u88c5\u7cbe\u534e\uff0c\u5b83\u53ef\u4ee5\u88ab\u8f6c\u5316\u6210\u7075\u601d\u706b\u82b1\u3002"
+  }
 }

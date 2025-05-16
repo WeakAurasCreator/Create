@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "384090"
+  "SpellID": "384090",
+  "name_blz": {
+    "en_US": "Titanic Throw",
+    "es_MX": "Lanzamiento tit\u00e1nico",
+    "pt_BR": "Arremesso Tit\u00e2nico",
+    "de_DE": "Titanischer Wurf",
+    "en_GB": "Titanic Throw",
+    "es_ES": "Lanzamiento tit\u00e1nico",
+    "fr_FR": "Lancer titanesque",
+    "it_IT": "Lancio Titanico",
+    "ru_RU": "\u0422\u0438\u0442\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0431\u0440\u043e\u0441\u043e\u043a",
+    "ko_KR": "\ud2f0\ud0c4\uc758 \ud22c\ucc99",
+    "zh_TW": "\u6cf0\u5766\u6295\u64f2",
+    "zh_CN": "\u6cf0\u5766\u6295\u63b7"
+  },
+  "description_blz": {
+    "en_US": "Throws your weapon at the enemy, causing 183 Physical damage to it and 5 nearby enemies. \r\n\r\nGenerates high threat.",
+    "es_MX": "Lanza tu arma al enemigo y le inflige 185 p. da\u00f1o f\u00edsico a \u00e9l y a 5 enemigos cercanos. \r\n\r\nGenera una gran amenaza.",
+    "pt_BR": "Arremessa a arma em um inimigo, causando 182 de dano F\u00edsico a ele e a 5 inimigos pr\u00f3ximos. \r\n\r\nGera amea\u00e7a elevada.",
+    "de_DE": "Wirft Eure Waffe nach dem Gegner und f\u00fcgt ihm und 5 Gegnern in der N\u00e4he 186 k\u00f6rperlichen Schaden zu.\r\n\r\nErzeugt ein hohes Ma\u00df an Bedrohung.",
+    "en_GB": "Throws your weapon at the enemy, causing 186 Physical damage to it and 5 nearby enemies. \r\n\r\nGenerates high threat.",
+    "es_ES": "Lanza tu arma al enemigo, que recibe 187 p. de da\u00f1o f\u00edsico junto con otros 5 enemigos cercanos.\r\n\r\nGenera una gran cantidad de amenaza.",
+    "fr_FR": "Vous lancez votre arme sur l\u2019adversaire, ce qui inflige 185\u00a0points de d\u00e9g\u00e2ts physiques \u00e0 la cible ainsi qu\u2019\u00e0 5\u00a0adversaires proches.\r\n\r\nG\u00e9n\u00e8re un niveau de menace \u00e9lev\u00e9.",
+    "it_IT": "Lancia l'arma contro il nemico, infliggendo 185 danni fisici al bersaglio e a 5 nemici vicini.\r\n\r\nGenera una grande quantit\u00e0 di minaccia.",
+    "ru_RU": "\u0412\u044b \u0431\u0440\u043e\u0441\u0430\u0435\u0442\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f 186 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0446\u0435\u043b\u0438 \u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u043c \u043a \u043d\u0435\u0439 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c. \r\n\r\n\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0443\u0433\u0440\u043e\u0437\u044b.",
+    "ko_KR": "\uc801\uc5d0\uac8c \ubb34\uae30\ub97c \ub358\uc838 \ub300\uc0c1\uacfc \uc8fc\uc704 5\uba85\uc758 \uc801\uc5d0\uac8c 189\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \r\n\r\n\uc704\ud611 \uc218\uc900\uc774 \ud06c\uac8c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u671d\u6575\u4eba\u4e1f\u51fa\u624b\u4e2d\u6b66\u5668\uff0c\u5c0d\u5176\u548c\u9644\u8fd15\u540d\u6575\u4eba\u9020\u6210182\u9ede\u7269\u7406\u50b7\u5bb3\u3002\r\n\r\n\u7522\u751f\u5927\u91cf\u5a01\u8105\u503c\u3002",
+    "zh_CN": "\u5c06\u4f60\u7684\u6b66\u5668\u63b7\u5411\u654c\u4eba\uff0c\u5bf9\u76ee\u6807\u548c\u9644\u8fd1\u76845\u4e2a\u654c\u4eba\u9020\u6210189\u70b9\u7269\u7406\u4f24\u5bb3\u3002\r\n\r\n\u4ea7\u751f\u5927\u91cf\u5a01\u80c1\u503c\u3002"
+  }
 }

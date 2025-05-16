@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "406777"
+  "SpellID": "406777",
+  "name_blz": {
+    "en_US": "Whispering Shadows",
+    "es_MX": "Sombras susurrantes",
+    "pt_BR": "Sombras Sussurrantes",
+    "de_DE": "Fl\u00fcsternde Schatten",
+    "en_GB": "Whispering Shadows",
+    "es_ES": "Sombras susurrantes",
+    "fr_FR": "Ombres susurrantes",
+    "it_IT": "Ombre Sussurranti",
+    "ru_RU": "\u0428\u0435\u043f\u0447\u0443\u0449\u0438\u0435 \u0442\u0435\u043d\u0438",
+    "ko_KR": "\uc18d\uc0ad\uc774\ub294 \uc554\ud751",
+    "zh_TW": "\u6697\u5f71\u4f4e\u8a9e",
+    "zh_CN": "\u6697\u5f71\u4f4e\u8bed"
+  },
+  "description_blz": {
+    "en_US": "Shadow Crash applies Vampiric Touch to up to 8 targets it damages.",
+    "es_MX": "Fragor de sombra aplica Toque vamp\u00edrico a hasta 8 de los objetivos a los que les inflige da\u00f1o.",
+    "pt_BR": "Colis\u00e3o de Sombras aplica Toque Vamp\u00edrico a at\u00e9 8 alvos atingidos.",
+    "de_DE": "'Schattengeschoss' belegt bis zu 8 Ziele, denen es Schaden zuf\u00fcgt, mit 'Vampirber\u00fchrung'.",
+    "en_GB": "Shadow Crash applies Vampiric Touch to up to 8 targets it damages.",
+    "es_ES": "La facultad Fragor de las Sombras aplica Toque vamp\u00edrico a un m\u00e1ximo de 8 objetivos da\u00f1ado por ella.",
+    "fr_FR": "D\u00e9ferlante d\u2019ombre applique Toucher vampirique \u00e0 un maximum de 8\u00a0cibles auxquelles elle inflige des d\u00e9g\u00e2ts.",
+    "it_IT": "Schianto d'Ombra applica Tocco Vampirico a massimo 8 bersagli cui ha inflitto danni.",
+    "ru_RU": "\"\u0422\u0435\u043c\u043d\u043e\u0435 \u0441\u043e\u043a\u0440\u0443\u0448\u0435\u043d\u0438\u0435\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u041f\u0440\u0438\u043a\u043e\u0441\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u0432\u0430\u043c\u043f\u0438\u0440\u0430\" \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u043a 8 \u043f\u043e\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c \u0446\u0435\u043b\u044f\u043c.",
+    "ko_KR": "\uc5b4\ub460 \ubd95\uad34 \uc2dc\uc804 \uc2dc \ud53c\ud574\ub97c \uc785\ud78c \ub300\uc0c1 \ucd5c\ub300 8\uba85\uc5d0\uac8c \ud761\ud608\uc758 \uc190\uae38\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6697\u5f71\u66b4\u64ca\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u5c0d\u6700\u591a8\u500b\u76ee\u6a19\u65bd\u52a0\u5438\u8840\u4e4b\u89f8\u3002",
+    "zh_CN": "\u6697\u5f71\u51b2\u649e\u4f1a\u5bf9\u5176\u4f24\u5bb3\u7684\u6700\u591a8\u4e2a\u76ee\u6807\u65bd\u52a0\u5438\u8840\u9b3c\u4e4b\u89e6\u3002"
+  }
 }
