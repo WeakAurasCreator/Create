@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339371"
+  "SpellID": "339371",
+  "name_blz": {
+    "en_US": "Expurgation",
+    "es_MX": "Expurgaci\u00f3n",
+    "pt_BR": "Expurgo",
+    "de_DE": "Ausmerzung",
+    "en_GB": "Expurgation",
+    "es_ES": "Expurgaci\u00f3n",
+    "fr_FR": "Expurgation",
+    "it_IT": "Censura",
+    "ru_RU": "\u041e\u0433\u043e\u043d\u044c \u043e\u0447\u0438\u0449\u0435\u043d\u0438\u044f",
+    "ko_KR": "\uc815\ud654",
+    "zh_TW": "\u6de8\u5316\u8056\u7130",
+    "zh_CN": "\u5f02\u7aef\u9010\u9664"
+  },
+  "description_blz": {
+    "en_US": "Your Blade of Justice critical hits cause the target to burn for 20.0% of the damage dealt every 2 sec for 6 sec.",
+    "es_MX": "Los golpes cr\u00edticos de tu Cuchilla de justicia hacen que el objetivo arda por un 20.0% del da\u00f1o infligido cada 2 s durante 6 s.",
+    "pt_BR": "Os acertos cr\u00edticos da sua L\u00e2mina da Justi\u00e7a fazem o alvo queimar, recebendo 20,0% do dano causado a cada 2 s por 6 s s.",
+    "de_DE": "Kritische Treffer Eurer 'Klinge der Gerechtigkeit' verbrennen das Ziel und f\u00fcgen ihm zus\u00e4tzlich 6 Sek. lang alle 2 Sek. 20,0% des verursachten Schadens zu.",
+    "en_GB": "Your Blade of Justice critical hits cause the target to burn for 20.0% of the damage dealt every 2 sec for 6 sec.",
+    "es_ES": "Tus golpes cr\u00edticos con Hoja de justicia provocan que el objetivo arda, lo que inflige un 20,0% del da\u00f1o infligido cada 2 s durante 6 s.",
+    "fr_FR": "Les coups critiques de votre Lame de justice br\u00fblent la cible, qui subit 20,0% des d\u00e9g\u00e2ts toutes les 2\u00a0s pendant 6 s.",
+    "it_IT": "I colpi critici di Lama della Giustizia fanno bruciare il bersaglio, infliggendo il 20,0% dei danni inflitti ogni 2 s per 6 s.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0434\u0430\u0440\u044b \"\u041a\u043b\u0438\u043d\u043a\u0430 \u0441\u043f\u0440\u0430\u0432\u0435\u0434\u043b\u0438\u0432\u043e\u0441\u0442\u0438\" \u0440\u0430\u0437 \u0432 2 \u0441\u0435\u043a. \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a. \u043d\u0430\u043d\u043e\u0441\u044f\u0442 \u0446\u0435\u043b\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 20,0% \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc2ec\ud310\uc758 \uce7c\ub0a0\uc774 \uce58\uba85\ud0c0\ub85c \uc801\uc911\ud558\uba74 \ub300\uc0c1\uc774 \ubd88\ud0c0 6\ucd08 \ub3d9\uc548 2\ucd08\ub9c8\ub2e4 \uc785\uc740 \ud53c\ud574\uc758 20.0%\ub9cc\ud07c \ud53c\ud574\ub97c \uc785\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6b63\u7fa9\u4e4b\u5203\u9020\u6210\u81f4\u547d\u4e00\u64ca\u6642\uff0c\u6703\u4f7f\u76ee\u6a19\u71c3\u71d2\uff0c\u6bcf2\u79d2\u5c0d\u5176\u9020\u6210\u7b49\u540c\u50b7\u5bb3\u91cf20.0%\u7684\u984d\u5916\u50b7\u5bb3\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u516c\u6b63\u4e4b\u5251\u7206\u51fb\u65f6\uff0c\u4f7f\u76ee\u6807\u71c3\u70e7\uff0c\u6bcf2\u79d2\u53d7\u5230\u4e00\u6b21\u4f24\u5bb3\uff0c\u4f24\u5bb3\u91cf\u76f8\u5f53\u4e8e\u9020\u6210\u4f24\u5bb3\u768420.0%\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

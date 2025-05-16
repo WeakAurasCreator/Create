@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339264"
+  "SpellID": "339264",
+  "name_blz": {
+    "en_US": "Marksman's Advantage",
+    "es_MX": "Ventaja de tirador",
+    "pt_BR": "Vantagem do Atirador Perito",
+    "de_DE": "Vorteil des Scharfsch\u00fctzen",
+    "en_GB": "Marksman's Advantage",
+    "es_ES": "Ventaja de tirador",
+    "fr_FR": "Avantage du tireur d\u2019\u00e9lite",
+    "it_IT": "Vantaggio del Tiratore",
+    "ru_RU": "\u041f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u0435\u043b\u043a\u0430",
+    "ko_KR": "\uba85\uc0ac\uc218\uc758 \uae30\uc0c1",
+    "zh_TW": "\u5c04\u624b\u512a\u52e2",
+    "zh_CN": "\u5c04\u624b\u4f18\u52bf"
+  },
+  "description_blz": {
+    "en_US": "Hunter's Mark decreases the damage the target deals to you by -0.0%.",
+    "es_MX": "Marca del cazador reduce un -0.0% el da\u00f1o que te inflige el objetivo.",
+    "pt_BR": "Marca do Ca\u00e7ador reduz o dano que o alvo causa em voc\u00ea em -0,0%.",
+    "de_DE": "'Mal des J\u00e4gers' verringert den Schaden, den das Ziel Euch zuf\u00fcgt, um -0,0%.",
+    "en_GB": "Hunter's Mark decreases the damage the target deals to you by -0.0%.",
+    "es_ES": "Marca del cazador reduce un -0,0% el da\u00f1o que te inflige el objetivo.",
+    "fr_FR": "Marque du chasseur r\u00e9duit les d\u00e9g\u00e2ts que la cible vous inflige de -0,0%.",
+    "it_IT": "Marchio del Cacciatore riduce i danni che il bersaglio infligge a te del  -0,0%.",
+    "ru_RU": "\"\u041c\u0435\u0442\u043a\u0430 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c \u0446\u0435\u043b\u044c\u044e, \u043d\u0430 -0,0%.",
+    "ko_KR": "\uc0ac\ub0e5\uafbc\uc758 \uc9d5\ud45c\uac00 \ub300\uc0c1\uc5d0\uac8c \ubc1b\ub294 \ud53c\ud574\ub97c -0.0%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7375\u4eba\u5370\u8a18\u6703\u4f7f\u76ee\u6a19\u5c0d\u4f60\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e-0.0%\u3002",
+    "zh_CN": "\u730e\u4eba\u5370\u8bb0\u4f7f\u76ee\u6807\u5bf9\u4f60\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e -0.0%\u3002"
+  }
 }

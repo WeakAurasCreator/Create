@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339750"
+  "SpellID": "339750",
+  "name_blz": {
+    "en_US": "One With the Beast",
+    "es_MX": "Uni\u00f3n bestial",
+    "pt_BR": "Uno com a Fera",
+    "de_DE": "Eins mit dem Wildtier",
+    "en_GB": "One With the Beast",
+    "es_ES": "Uno con la bestia",
+    "fr_FR": "Union bestiale",
+    "it_IT": "Tutt'uno con le Bestie",
+    "ru_RU": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u043e \u0441\u043e \u0437\u0432\u0435\u0440\u0435\u043c",
+    "ko_KR": "\uc57c\uc218\uc640 \uc77c\uc2ec\ub3d9\uccb4",
+    "zh_TW": "\u8207\u7378\u70ba\u4f0d",
+    "zh_CN": "\u4e0e\u517d\u5171\u821e"
+  },
+  "description_blz": {
+    "en_US": "Bestial Wrath increases all damage you and your pet deal by an additional 1.0%.",
+    "es_MX": "C\u00f3lera de las bestias aumenta un 1.0% m\u00e1s el da\u00f1o que infligen t\u00fa y tu mascota.",
+    "pt_BR": "Ira Bestial aumenta em mais 1,0% todo o dano causado por voc\u00ea e seu ajudante.",
+    "de_DE": "'Zorn des Wildtiers' erh\u00f6ht s\u00e4mtlichen Schaden, die Ihr und Euer Begleiter verursacht, zus\u00e4tzlich um 1,0%.",
+    "en_GB": "Bestial Wrath increases all damage you and your pet deal by an additional 1.0%.",
+    "es_ES": "C\u00f3lera de las bestias aumenta un 1,0% m\u00e1s todo el da\u00f1o que inflig\u00eds t\u00fa y tu mascota.",
+    "fr_FR": "Courroux bestial augmente les d\u00e9g\u00e2ts que votre familier et vous infligez de 1,0% suppl\u00e9mentaires.",
+    "it_IT": "Ira Bestiale aumenta tutti i danni inflitti da te e dal tuo famiglio del 1,0%.",
+    "ru_RU": "\"\u0417\u0432\u0435\u0440\u0438\u043d\u044b\u0439 \u0433\u043d\u0435\u0432\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0432\u0430\u043c\u0438 \u0438 \u0432\u0430\u0448\u0438\u043c \u043f\u0438\u0442\u043e\u043c\u0446\u0435\u043c \u0443\u0440\u043e\u043d \u0435\u0449\u0435 \u043d\u0430 1,0%.",
+    "ko_KR": "\uc57c\uc218\uc758 \uaca9\ub178\uac00 \uc790\uc2e0\uacfc \uc57c\uc218\uc758 \ubaa8\ub4e0 \uacf5\uaca9\ub825\uc744 \ucd94\uac00\ub85c 1.0%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u72c2\u91ce\u6012\u706b\u4f7f\u4f60\u548c\u5bf5\u7269\u7684\u6240\u6709\u50b7\u5bb3\u984d\u5916\u63d0\u9ad81.0%\u3002",
+    "zh_CN": "\u72c2\u91ce\u6012\u706b\u4f7f\u4f60\u548c\u4f60\u5ba0\u7269\u9020\u6210\u7684\u4f24\u5bb3\u989d\u5916\u63d0\u9ad81.0%\u3002"
+  }
 }
