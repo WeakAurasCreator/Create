@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "444010"
+  "SpellID": "444010",
+  "name_blz": {
+    "en_US": "Death Charge",
+    "es_MX": "Carga mortal",
+    "pt_BR": "Investida Mortal",
+    "de_DE": "Todessprint",
+    "en_GB": "Death Charge",
+    "es_ES": "Carga de la muerte",
+    "fr_FR": "Charge mortelle",
+    "it_IT": "Carica della Morte",
+    "ru_RU": "\u0410\u043b\u043b\u044e\u0440 \u0441\u043c\u0435\u0440\u0442\u0438",
+    "ko_KR": "\uc8fd\uc74c\uc758 \uc9c4\uaca9",
+    "zh_TW": "\u6b7b\u4ea1\u6230\u9a0e",
+    "zh_CN": "\u6b7b\u4ea1\u51b2\u950b"
+  },
+  "description_blz": {
+    "en_US": "Call upon your Death Charger to break free of movement impairment effects.\r\n\r\nFor 10 sec, while upon your Death Charger your movement speed is increased by 100%, you cannot be slowed below 100% of normal speed, and you are immune to forced movement effects and knockbacks.",
+    "es_MX": "Invoca a tu Destrero de la muerte para liberarte de los efectos de reducci\u00f3n de movimiento.\r\n\r\nDurante 10 s, mientras montas tu Destrero de la muerte, tu velocidad de movimiento aumenta un 100%, no pueden ralentizarte menos de un 100% de la velocidad normal y eres inmune a los efectos de movimiento forzado y a las repulsiones.",
+    "pt_BR": "Convoca o seu Corcel da Morte para sair de efeitos que dificultem o movimento.\r\n\r\nPor 10 s, enquanto estiver sobre o Corcel da Morte, sua velocidade de movimento aumenta em 100%, voc\u00ea n\u00e3o pode ser desacelerado abaixo de 100% da velocidade normal e fica imune a efeitos de movimento for\u00e7ado e repuls\u00e3o.",
+    "de_DE": "Ruft Euer Todesstreitross herbei, um aus bewegungseinschr\u00e4nkenden Effekten auszubrechen.\r\n\r\nW\u00e4hrend Ihr Euer Todesstreitross reitet, ist Eure Bewegungsgeschwindigkeit 10 Sek. lang um 100% erh\u00f6ht, Ihr k\u00f6nnt nicht unter 100% der normalen Bewegungsgeschwindigkeit verlangsamt werden und seid immun gegen erzwungene Bewegungseffekte sowie R\u00fcckst\u00f6\u00dfe.",
+    "en_GB": "Call upon your Death Charger to break free of movement impairment effects.\r\n\r\nFor 10 sec, while upon your Death Charger your movement speed is increased by 100%, you cannot be slowed below 100% of normal speed, and you are immune to forced movement effects and knockbacks.",
+    "es_ES": "Llamas a tu destrero de la muerte para liberarte de los efectos de reducci\u00f3n de movimiento.\r\n\r\nDurante 10 s, a lomos de tu destrero de la muerte, tu velocidad de movimiento aumenta un 100%, no se te puede ralentizar por debajo de un 100% de la velocidad normal y eres inmune a los efectos de movimiento forzado y repulsi\u00f3n.",
+    "fr_FR": "Vous invoquez votre destrier de la mort pour vous lib\u00e9rer des effets affectant le d\u00e9placement.\r\n\r\nPendant 10 s, tant que vous chevauchez votre destrier de la mort, votre vitesse de d\u00e9placement est augment\u00e9e de 100\u00a0%, ne peut chuter sous 100\u00a0% et vous \u00eates insensible aux ralentissements, effets de d\u00e9placement forc\u00e9 et repoussements.",
+    "it_IT": "Richiama il Nerodestriero per farsi liberare dagli effetti di limitazione al movimento.\r\n\r\nPer 10 s, sul Nerodestriero la velocit\u00e0 di movimento aumenta del 100%. La velocit\u00e0 di movimento non pu\u00f2 essere ridotta a meno del 100% della velocit\u00e0 normale e si \u00e8 immuni a effetti di movimento forzato e respinte.",
+    "ru_RU": "\u041f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u043a\u043e\u043d\u044f \u0441\u043c\u0435\u0440\u0442\u0438, \u0441\u043d\u0438\u043c\u0430\u044e\u0449\u0435\u0433\u043e \u0441 \u0432\u0430\u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0437\u0430\u043c\u0435\u0434\u043b\u0435\u043d\u0438\u044f \u0438 \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u043d\u0438\u044f.\r\n\r\n\u0412\u0435\u0440\u0445\u043e\u043c \u043d\u0430 \u043a\u043e\u043d\u0435 \u0441\u043c\u0435\u0440\u0442\u0438 \u0432\u0430\u0448\u0430 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100% \u0438 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0443\u043f\u0430\u0441\u0442\u044c \u043d\u0438\u0436\u0435 100% \u043e\u0442 \u043e\u0431\u044b\u0447\u043d\u043e\u0439. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u043e\u0441\u0442\u044c \u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c \u0437\u0430\u043c\u0435\u0434\u043b\u0435\u043d\u0438\u044f, \u043d\u0430\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u043c\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0438 \u043e\u0442\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u043d\u0438\u044f. \u0414\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 10 \u0441\u0435\u043a.",
+    "ko_KR": "\uc8fd\uc74c\uc758 \uad70\ub9c8\ub97c \ubd88\ub7ec\ub0b4 \uc774\ub3d9 \ubc29\ud574 \ud6a8\uacfc\uc5d0\uc11c \ubc97\uc5b4\ub0a9\ub2c8\ub2e4.\r\n\r\n\uc8fd\uc74c\uc758 \uad70\ub9c8\uc5d0 \ud0d1\uc2b9\ud558\uba74 10\ucd08 \ub3d9\uc548 \uc774\ub3d9 \uc18d\ub3c4\uac00 100%\ub9cc\ud07c \uc99d\uac00\ud558\uba70, \ud3c9\uc0c1\uc2dc \uc774\ub3d9 \uc18d\ub3c4\uc758 \ucd5c\uc18c 100%\ub97c \uc720\uc9c0\ud558\uace0 \uac15\uc81c \uc774\ub3d9 \ud6a8\uacfc \ubc0f \ubc00\uccd0\ub0b4\uae30 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u53ec\u559a\u6b7b\u4ea1\u6230\u9a0e\u4f86\u6399\u812b\u79fb\u52d5\u9650\u5236\u6548\u679c\u3002\r\n\r\n\u9a0e\u4e58\u6b7b\u4ea1\u6230\u9a0e\u6642\uff0c\u4f60\u7684\u79fb\u52d5\u901f\u5ea6\u63d0\u9ad8100%\uff0c\u6301\u7e8c10\u79d2\u3002\u4f60\u7684\u79fb\u52d5\u901f\u5ea6\u4e0d\u6703\u4f4e\u65bc\u6b63\u5e38\u79fb\u52d5\u901f\u5ea6\u7684100%\uff0c\u4e5f\u6703\u5c0d\u5f37\u5236\u79fb\u52d5\u548c\u64ca\u9000\u6548\u679c\u514d\u75ab\u3002",
+    "zh_CN": "\u53ec\u5524\u4f60\u7684\u6b7b\u4ea1\u6218\u9a6c\uff0c\u89e3\u9664\u79fb\u52a8\u9650\u5236\u6548\u679c\u3002\r\n\r\n\u572810\u79d2\u5185\u9a91\u4e58\u6b7b\u4ea1\u6218\u9a6c\uff0c\u4f7f\u4f60\u7684\u79fb\u52a8\u901f\u5ea6\u63d0\u9ad8100%\uff0c\u4e0d\u80fd\u88ab\u51cf\u901f\u5230\u6b63\u5e38\u901f\u5ea6\u7684100%\u4ee5\u4e0b\uff0c\u5e76\u514d\u75ab\u5f3a\u5236\u79fb\u52a8\u548c\u51fb\u9000\u6548\u679c\u3002"
+  }
 }

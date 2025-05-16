@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "443449"
+  "SpellID": "443449",
+  "name_blz": {
+    "en_US": "Latent Wisdom",
+    "es_MX": "Sabidur\u00eda latente",
+    "pt_BR": "Sabedoria Oculta",
+    "de_DE": "Geballte Weisheit",
+    "en_GB": "Latent Wisdom",
+    "es_ES": "Sabidur\u00eda latente",
+    "fr_FR": "Sagesse latente",
+    "it_IT": "Saggezza Latente",
+    "ru_RU": "\u041d\u0435\u043e\u0441\u043e\u0437\u043d\u0430\u043d\u043d\u0430\u044f \u043c\u0443\u0434\u0440\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc794\ub958\ud558\ub294 \uc9c0\ud61c",
+    "zh_TW": "\u6f5b\u85cf\u667a\u6167",
+    "zh_CN": "\u6f5c\u5728\u667a\u6167"
+  },
+  "description_blz": {
+    "en_US": "Your Ancestors' spells are 25% more powerful.",
+    "es_MX": "Los hechizos de tus ancestros son un 25% m\u00e1s poderosos.",
+    "pt_BR": "Os feiti\u00e7os do seu Ancestral ficam 25% mais poderosos.",
+    "de_DE": "Die Zauber Eurer Ahnen sind 25% m\u00e4chtiger.",
+    "en_GB": "Your Ancestors' spells are 25% more powerful.",
+    "es_ES": "Los hechizos de tus ancestros son un 25% m\u00e1s potentes.",
+    "fr_FR": "La puissance des sorts de vos Anc\u00eatres est augment\u00e9e de 25\u00a0%.",
+    "it_IT": "Aumenta la potenza degli incantesimi degli Antenati del 25%.",
+    "ru_RU": "\u0417\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u0435\u0434\u043a\u043e\u0432 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 25%.",
+    "ko_KR": "\uc120\uc870\uac00 \uc2dc\uc804\ud558\ub294 \uc8fc\ubb38\uc758 \ud6a8\uacfc\uac00 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u5148\u7956\u6cd5\u8853\u7684\u6548\u679c\u5f37\u5ea6\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u4f60\u7684\u5148\u7956\u7684\u6cd5\u672f\u6548\u679c\u63d0\u9ad825%\u3002"
+  }
 }

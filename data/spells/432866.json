@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "432866"
+  "SpellID": "432866",
+  "name_blz": {
+    "en_US": "Laying Down Arms",
+    "es_MX": "Deposici\u00f3n de armas",
+    "pt_BR": "Depondo as Armas",
+    "de_DE": "Waffen niederlegen",
+    "en_GB": "Laying Down Arms",
+    "es_ES": "Deponer las armas",
+    "fr_FR": "D\u00e9poser les armes",
+    "it_IT": "Deporre le Armi",
+    "ru_RU": "\u0421\u043b\u043e\u0436\u0438\u0442\u044c \u043e\u0440\u0443\u0436\u0438\u0435",
+    "ko_KR": "\ucd95\ubcf5\uc758 \ubb34\uc7a5",
+    "zh_TW": "\u653e\u4e0b\u6b66\u5668",
+    "zh_CN": "\u94f8\u5251\u4e3a\u5149"
+  },
+  "description_blz": {
+    "en_US": "When an Armament fades from you, the cooldown of Lay on Hands is reduced by 15.0 sec and you gain Infusion of Light.",
+    "es_MX": "Cuando un Armamento en tu poder se desvanece, el tiempo de reutilizaci\u00f3n de Imposici\u00f3n de manos se reduce 15.0 s, y obtienes Infusi\u00f3n de luz.",
+    "pt_BR": "Quando um Armamento desaparece, o tempo de recarga de Impor as M\u00e3os \u00e9 reduzido em 15,0 s e voc\u00ea ganha Infus\u00e3o de Luz.",
+    "de_DE": "Wenn Eure 'Bewaffnung' abl\u00e4uft, wird die Abklingzeit von 'Handauflegung' um 15,0 Sek. verringert und Ihr erhaltet 'Lichtinfusion'.",
+    "en_GB": "When an Armament fades from you, the cooldown of Lay on Hands is reduced by 15.0 sec and you gain Infusion of Light.",
+    "es_ES": "Cuando un armamento desaparece de tus manos, el tiempo de reutilizaci\u00f3n de Imposici\u00f3n de manos se reduce 15,0 s y obtienes Infusi\u00f3n de Luz.",
+    "fr_FR": "Lorsqu\u2019un armement se dissipe sur vous, le temps de recharge d\u2019Imposition des mains est r\u00e9duit de 15,0\u00a0s et vous obtenez Impr\u00e9gnation de lumi\u00e8re.",
+    "it_IT": "Quando un Armamento scompare, il tempo di recupero di Mano Celestiale si riduce di 15,0 s e si attiva Infusione di Luce.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u043e\u0440\u0443\u0436\u0438\u0435 \u0438\u0441\u0447\u0435\u0437\u0430\u0435\u0442, \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0412\u043e\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0440\u0443\u043a\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15,0 \u0441\u0435\u043a. \u0438 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u041f\u0440\u0438\u043b\u0438\u0432 \u0421\u0432\u0435\u0442\u0430\".",
+    "ko_KR": "\ubb34\uc7a5\uc774 \uc0ac\ub77c\uc9c0\uba74 \uc2e0\uc758 \ucd95\ubcf5\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud558\uace0 \ube5b \uc8fc\uc785\uc774 \ubd80\uc5ec\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u4e00\u500b\u6b66\u88dd\u5931\u6548\u5f8c\uff0c\u8056\u7642\u8853\u7684\u51b7\u537b\u6642\u9593\u5c31\u6703\u7e2e\u77ed15.0\u79d2\uff0c\u9084\u6703\u7372\u5f97\u8056\u5149\u704c\u6ce8\u3002",
+    "zh_CN": "\u5f53\u4f60\u8eab\u4e0a\u7684\u519b\u5907\u6d88\u6563\u65f6\uff0c\u5723\u7597\u672f\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed15.0\u79d2\uff0c\u5e76\u4f7f\u4f60\u83b7\u5f97\u5723\u5149\u704c\u6ce8\u3002"
+  }
 }

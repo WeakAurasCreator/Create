@@ -34,5 +34,20 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "443625"
+  "SpellID": "443625",
+  "name_blz": {
+    "en_US": "Yu'lon's Knowledge",
+    "es_MX": "Sabidur\u00eda de Yu'lon",
+    "pt_BR": "Conhecimento de Yu'lon",
+    "de_DE": "Yu'lons Wissen",
+    "en_GB": "Yu'lon's Knowledge",
+    "es_ES": "Conocimiento de Yu'lon",
+    "fr_FR": "Savoir de Yu\u2019lon",
+    "it_IT": "Conoscenza di Yu'lon",
+    "ru_RU": "\u0417\u043d\u0430\u043d\u0438\u0435 \u042e\u0439-\u043b\u0443\u043d",
+    "ko_KR": "\uc704\ub860\uc758 \uc9c0\uc2dd",
+    "zh_TW": "\u7389\u9f8d\u667a\u6167",
+    "zh_CN": "\u7389\u73d1\u4e4b\u6167"
+  },
+  "description_blz": {}
 }

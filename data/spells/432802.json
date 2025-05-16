@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "432802"
+  "SpellID": "432802",
+  "name_blz": {
+    "en_US": "Solidarity",
+    "es_MX": "Solidaridad",
+    "pt_BR": "Solidariedade",
+    "de_DE": "Solidarit\u00e4t",
+    "en_GB": "Solidarity",
+    "es_ES": "Solidaridad",
+    "fr_FR": "Solidarit\u00e9",
+    "it_IT": "Solidariet\u00e0",
+    "ru_RU": "\u0421\u043e\u043b\u0438\u0434\u0430\u0440\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uc5f0\ub300",
+    "zh_TW": "\u5718\u7d50\u4e00\u81f4",
+    "zh_CN": "\u52e0\u529b\u540c\u5fc3"
+  },
+  "description_blz": {
+    "en_US": "If you bestow an Armament upon an ally, you also gain its benefits.\r\n\r\nIf you bestow an Armament upon yourself, a nearby ally also gains its benefits.",
+    "es_MX": "Si otorgas un Armamento a uno de tus aliados, t\u00fa tambi\u00e9n obtienes sus beneficios.\r\n\r\nSi te otorgas un Armamento, un aliado cercano tambi\u00e9n obtiene sus beneficios.",
+    "pt_BR": "Se conceder um Armamento a um aliado, voc\u00ea tamb\u00e9m ganha seus benef\u00edcios.\r\n\r\nSe conceder um Armamento a si, um aliado pr\u00f3ximo tamb\u00e9m ganha seus benef\u00edcios.",
+    "de_DE": "Wenn Ihr einem Verb\u00fcndeten eine Bewaffnung gew\u00e4hrt, werden die Vorteile auch Euch zuteil.\r\n\r\nWenn Ihr Euch selbst eine Bewaffnung gew\u00e4hrt, werden die Vorteile auch einem Verb\u00fcndeten in der N\u00e4he zuteil.",
+    "en_GB": "If you bestow an Armament upon an ally, you also gain its benefits.\r\n\r\nIf you bestow an Armament upon yourself, a nearby ally also gains its benefits.",
+    "es_ES": "Si otorgas un armamento a un aliado, t\u00fa tambi\u00e9n obtienes sus beneficios.\r\n\r\nSi te otorgas un armamento, un aliado cercano tambi\u00e9n obtiene sus beneficios.",
+    "fr_FR": "Si vous accordez un armement \u00e0 un personnage alli\u00e9, vous en obtenez aussi les avantages.\r\n\r\nSi vous vous accordez un armement, un personnage alli\u00e9 proche en obtient \u00e9galement les avantages.",
+    "it_IT": "Quando si lancia un Armamento su un alleato, se ne ottengono i benefici.\r\n\r\nQuando si lancia un Armamento su se stessi, anche un alleato vicino ne ottiene i benefici.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0434\u0430\u0435\u0442\u0435 \u0441\u0432\u044f\u0442\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443, \u0432\u044b \u0442\u043e\u0436\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0435\u0433\u043e \u0431\u043e\u043d\u0443\u0441\u044b.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u0431\u0435\u0440\u0435\u0442\u0435 \u0441\u0432\u044f\u0442\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u0441\u0430\u043c\u0438, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0439\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441\u043e\u044e\u0437\u043d\u0438\u043a \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0435\u0433\u043e \u0431\u043e\u043d\u0443\u0441\u044b.",
+    "ko_KR": "\uc544\uad70\uc5d0\uac8c \ubb34\uc7a5\uc744 \ubd80\uc5ec\ud558\uba74 \uc2dc\uc804\uc790\uc5d0\uac8c\ub3c4 \uadf8 \uc774\ub85c\uc6b4 \ud6a8\uacfc\uac00 \ubd80\uc5ec\ub429\ub2c8\ub2e4.\r\n\r\n\uc790\uc2e0\uc5d0\uac8c \ubb34\uc7a5\uc744 \ubd80\uc5ec\ud558\uba74 \uc8fc\uc704\uc758 \uc544\uad70\uc5d0\uac8c\ub3c4 \uadf8 \uc774\ub85c\uc6b4 \ud6a8\uacfc\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5982\u679c\u4f60\u5c07\u6b66\u88dd\u8cdc\u4e88\u4e00\u4f4d\u76df\u53cb\uff0c\u4f60\u4e5f\u6703\u7372\u5f97\u5176\u589e\u76ca\u6548\u679c\u3002\r\n\r\n\u5982\u679c\u4f60\u5c07\u6b66\u88dd\u8cdc\u4e88\u81ea\u5df1\uff0c\u9644\u8fd1\u4e00\u4f4d\u76df\u53cb\u4e5f\u6703\u7372\u5f97\u5176\u589e\u76ca\u6548\u679c\u3002",
+    "zh_CN": "\u5982\u679c\u4f60\u4e3a\u76df\u53cb\u8d4b\u4e88\u519b\u5907\uff0c\u4f60\u4e5f\u4f1a\u83b7\u5f97\u5176\u6548\u679c\u3002\r\n\r\n\u5982\u679c\u4f60\u4e3a\u81ea\u5df1\u8d4b\u4e88\u519b\u5907\uff0c\u9644\u8fd1\u7684\u4e00\u540d\u76df\u53cb\u4e5f\u4f1a\u83b7\u5f97\u5176\u6548\u679c\u3002"
+  }
 }

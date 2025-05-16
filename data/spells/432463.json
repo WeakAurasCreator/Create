@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "432463"
+  "SpellID": "432463",
+  "name_blz": {
+    "en_US": "Hammerfall",
+    "es_MX": "Martillazo",
+    "pt_BR": "Ru\u00edna do Martelo",
+    "de_DE": "Hammerfall",
+    "en_GB": "Hammerfall",
+    "es_ES": "Sentencia",
+    "fr_FR": "Mart\u00e8lement",
+    "it_IT": "Colpo di Martello",
+    "ru_RU": "\u041c\u043e\u043b\u043e\u0442\u043e\u043f\u0430\u0434",
+    "ko_KR": "\ub9dd\uce58 \ub099\ud558",
+    "zh_TW": "\u5929\u964d\u91cd\u9318",
+    "zh_CN": "\u5723\u9524\u964d\u7f5a"
+  },
+  "description_blz": {
+    "en_US": "Templar's Verdict and Divine Storm calls down an Empyrean Hammer on a nearby enemy.\r\n\r\nWhile Shake the Heavens is active, this effect calls down an additional Empyrean Hammer.",
+    "es_MX": "Veredicto del templario y Tormenta divina invocan un Martillo emp\u00edreo sobre un enemigo cercano.\r\n\r\nMientras Sacudir los cielos est\u00e1 activo, este efecto invoca otro Martillo emp\u00edreo.",
+    "pt_BR": "Veredito do Templ\u00e1rio e Tempestade Divina chama um Martelo Emp\u00edreo contra um inimigo pr\u00f3ximo.\r\n\r\nEnquanto Abalo Celestial estiver ativo, este efeito chama um Martelo Emp\u00edreo adicional.",
+    "de_DE": "'Urteil des Templers' und 'G\u00f6ttlicher Sturm' rufen einen Himmelshammer auf einen Gegner in der N\u00e4he herab.\r\n\r\nW\u00e4hrend 'Himmelsbeben' aktiv ist, ruft dieser Effekt einen zus\u00e4tzlichen Himmelshammer herab.",
+    "en_GB": "Templar's Verdict and Divine Storm calls down an Empyrean Hammer on a nearby enemy.\r\n\r\nWhile Shake the Heavens is active, this effect calls down an additional Empyrean Hammer.",
+    "es_ES": "Veredicto del templario y Tormenta divina invocan un Martillo emp\u00edreo sobre un enemigo cercano.\r\n\r\nMientras Temblar\u00e1n los cielos est\u00e9 activo, este efecto invocar\u00e1 un Martillo emp\u00edreo m\u00e1s.",
+    "fr_FR": "Verdict du templier et Temp\u00eate divine invoquent un Marteau empyr\u00e9en sur une cible adverse proche.\r\n\r\nTant que Cieux \u00e9branl\u00e9s est actif, cet effet fait appara\u00eetre un deuxi\u00e8me Marteau empyr\u00e9en.",
+    "it_IT": "Verdetto dei Templari e Tempesta Divina richiamano un Martello Empireo su un nemico vicino.\r\n\r\nDurante Far Tremare i Cieli, l'effetto richiama un Martello Empireo aggiuntivo.",
+    "ru_RU": "\"\u0412\u0435\u0440\u0434\u0438\u043a\u0442 \u0445\u0440\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0430\" \u0438 \"\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0431\u0443\u0440\u044f\" \u043e\u0431\u0440\u0443\u0448\u0438\u0432\u0430\u044e\u0442 \u043d\u0430 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u0433\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \"\u041d\u0435\u0431\u0435\u0441\u043d\u044b\u0439 \u043c\u043e\u043b\u043e\u0442\".\r\n\r\n\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0421\u043e\u0442\u0440\u044f\u0441\u0435\u043d\u0438\u0435 \u043d\u0435\u0431\u0435\u0441\", \u044d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \"\u041d\u0435\u0431\u0435\u0441\u043d\u044b\u0439 \u043c\u043e\u043b\u043e\u0442\".",
+    "ko_KR": "\uae30\uc0ac\ub2e8\uc758 \uc120\uace0 \ubc0f \ucc9c\uc0c1\uc758 \ud3ed\ud48d \uc0ac\uc6a9 \uc2dc \uc8fc\uc704\uc758 \uc801\uc5d0\uac8c \ucd5c\uace0\ucc9c\uc758 \ub9dd\uce58\ub97c \ubd88\ub7ec \ub0b4\ub9bd\ub2c8\ub2e4.\r\n\r\n\uaca9\ub3d9\ud558\ub294 \ucc9c\uc0c1\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548\uc5d0\ub294 \uc774 \ud6a8\uacfc\uac00 \ucd5c\uace0\ucc9c\uc758 \ub9dd\uce58\ub97c \ucd94\uac00\ub85c \ubd88\ub7ec \ub0b4\ub9bd\ub2c8\ub2e4.",
+    "zh_TW": "\u8056\u6bbf\u9a0e\u58eb\u4e4b\u88c1\u6c7a\u548c\u795e\u6027\u98a8\u66b4\u6703\u671d\u9644\u8fd1\u4e00\u500b\u6575\u4eba\u964d\u4e0b\u84bc\u7a79\u4e4b\u9318\u3002\r\n\r\n\u5728\u5929\u5ead\u52d5\u76ea\u4f5c\u7528\u671f\u9593\uff0c\u6b64\u6548\u679c\u6703\u984d\u5916\u964d\u4e0b\u4e00\u500b\u84bc\u7a79\u4e4b\u9318\u3002",
+    "zh_CN": "\u5723\u6bbf\u9a91\u58eb\u7684\u88c1\u51b3\u548c\u795e\u5723\u98ce\u66b4\u53ec\u5524\u82cd\u7a79\u4e4b\u9524\u7838\u5411\u9644\u8fd1\u654c\u4eba\u3002\r\n\r\n\u5f53\u503e\u5929\u5723\u5a01\u6548\u679c\u6fc0\u6d3b\u65f6\uff0c\u8be5\u6548\u679c\u4f1a\u989d\u5916\u53ec\u5524\u4e00\u4e2a\u82cd\u7a79\u4e4b\u9524\u3002"
+  }
 }
