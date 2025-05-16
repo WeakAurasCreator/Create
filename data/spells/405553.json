@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "405553"
+  "SpellID": "405553",
+  "name_blz": {
+    "en_US": "Priest Discipline 10.1 Class Set 4pc",
+    "en_GB": "Priest Discipline 10.1 Class Set 4pc"
+  },
+  "description_blz": {
+    "en_US": "Atonements applied by Power Word: Radiance last 3 sec longer. Your spells have a chance to cause your next Power Word: Radiance to be instant and cost 50% less mana. Can accumulate up to 2 charges.",
+    "es_MX": "Expiaci\u00f3n como consecuencia de Palabra de poder: radiancia dura 3 s m\u00e1s. Tus hechizos pueden causar que la pr\u00f3xima Palabra de poder: radiancia sea inmediata y cueste un 50% menos de man\u00e1. Se acumula hasta 2 cargas.",
+    "pt_BR": "Expia\u00e7\u00f5es aplicadas pela Palavra de Poder: Resplendor duram mais 3 s. Seus feiti\u00e7os t\u00eam chance de fazer com que a sua pr\u00f3xima Palavra de Poder: Resplendor seja instant\u00e2nea e custe 50% menos mana. Acumula at\u00e9 2 cargas.",
+    "de_DE": "Wenn ein Ziel durch 'Machtwort: Glanz' mit 'Abbitte' belegt wird, h\u00e4lt der Effekt 3 Sek. l\u00e4nger an. Eure Zauber haben eine Chance, Euer n\u00e4chstes 'Machtwort: Glanz' zu einem Spontanzauber zu machen und seine Manakosten um 50% zu verringern. Kann bis zu 2 Aufladungen ansammeln.",
+    "en_GB": "Atonements applied by Power Word: Radiance last 3 sec longer. Your spells have a chance to cause your next Power Word: Radiance to be instant and cost 50% less mana. Can accumulate up to 2 charges.",
+    "es_ES": "Los efectos de Expiaci\u00f3n otorgados por Palabra de poder: radiancia duran 3 s m\u00e1s. En ocasiones, tus hechizos pueden hacer que tu siguiente Palabra de poder: radiancia sea instant\u00e1nea y cueste un 50% menos de man\u00e1. Se pueden acumular hasta 2 cargas.",
+    "fr_FR": "Les Expiations appliqu\u00e9es par Mot de pouvoir\u00a0: Radiance durent 3\u00a0s de plus. Vos sorts ont une chance de rendre votre prochain Mot de pouvoir\u00a0: Radiance instantan\u00e9 et de r\u00e9duire son co\u00fbt en mana de 50%. Peut accumuler jusqu\u2019\u00e0 2\u00a0charges.",
+    "it_IT": "Aumenta la durata degli effetti di Espiazione applicati da Parola del Potere: Radiosit\u00e0 di 3 s. Gli incantesimi hanno una probabilit\u00e0 di far s\u00ec che la successiva Parola del Potere: Radiosit\u00e0 sia istantanea e abbia un costo in mana ridotto del 50%. Si accumula fino a 2 cariche.",
+    "ru_RU": "\"\u0418\u0441\u043a\u0443\u043f\u043b\u0435\u043d\u0438\u0435\" \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \"\u0421\u043b\u043e\u0432\u0430 \u0441\u0438\u043b\u044b: \u0421\u0438\u044f\u043d\u0438\u0435\" \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 3 \u0441\u0435\u043a. \u0434\u043e\u043b\u044c\u0448\u0435. \u0412\u0430\u0448\u0438 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043c\u043e\u0433\u0443\u0442 \u0434\u0430\u0442\u044c \u0437\u0430\u0440\u044f\u0434, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \"\u0421\u043b\u043e\u0432\u043e \u0441\u0438\u043b\u044b: \u0421\u0438\u044f\u043d\u0438\u0435\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0449\u0438\u0439 \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u043c\u0430\u043d\u044b \u043d\u0430 \u0435\u0433\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043d\u0430 50%. \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 2 \u0437\u0430\u0440\u044f\u0434\u0430.",
+    "ko_KR": "\uc2e0\uc758 \uad8c\ub2a5: \uad11\ud718\ub85c \ubd80\uc5ec\ub418\ub294 \uc18d\uc8c4\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 3\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \uc8fc\ubb38 \uc2dc\uc804 \uc2dc \uc77c\uc815 \ud655\ub960\ub85c \ub2e4\uc74c \uc2e0\uc758 \uad8c\ub2a5: \uad11\ud718\uac00 \uc989\uc2dc \uc2dc\uc804\ub418\uace0 \ub9c8\ub098 \uc18c\ubaa8\ub7c9\uc774 50%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. \ucd5c\ub300 2\ubc88\uae4c\uc9c0 \ucda9\uc804\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u771f\u8a00\u8853\uff1a\u8f1d\u65bd\u52a0\u7684\u8d16\u7f6a\u6301\u7e8c\u6642\u9593\u5ef6\u95773\u79d2\u3002\u4f60\u7684\u6cd5\u8853\u6709\u4e00\u5b9a\u6a5f\u7387\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u771f\u8a00\u8853\uff1a\u8f1d\u6210\u70ba\u77ac\u767c\u6cd5\u8853\uff0c\u4e14\u6d88\u8017\u7684\u6cd5\u529b\u964d\u4f4e50%\u3002\u6700\u591a\u53ef\u7d2f\u7a4d2\u6b21\u3002",
+    "zh_CN": "\u771f\u8a00\u672f\uff1a\u8000\u65bd\u52a0\u7684\u6551\u8d4e\u65f6\u95f4\u5ef6\u957f3\u79d2\u3002\u4f60\u7684\u6cd5\u672f\u6709\u51e0\u7387\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u771f\u8a00\u672f\uff1a\u8000\u53d8\u4e3a\u77ac\u53d1\uff0c\u5e76\u4e14\u6d88\u8017\u7684\u6cd5\u529b\u503c\u51cf\u5c1150%\u3002\u6700\u591a\u53ef\u7d2f\u8ba12\u6b21\u3002"
+  }
 }

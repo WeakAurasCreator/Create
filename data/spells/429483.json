@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "429483"
+  "SpellID": "429483",
+  "name_blz": {
+    "en_US": "Warp",
+    "es_MX": "Distorsi\u00f3n",
+    "pt_BR": "Distor\u00e7\u00e3o",
+    "de_DE": "Raumkr\u00fcmmung",
+    "en_GB": "Warp",
+    "es_ES": "Distorsi\u00f3n",
+    "fr_FR": "Distorsion",
+    "it_IT": "Distorsione",
+    "ru_RU": "\u0418\u0441\u043a\u0430\u0436\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uacf5\uac04 \uc774\ub3d9",
+    "zh_TW": "\u626d\u66f2\u50b3\u9001",
+    "zh_CN": "\u8fc1\u8dc3"
+  },
+  "description_blz": {
+    "en_US": "Hover now causes you to briefly warp out of existence and appear at your destination. Hover's cooldown is also reduced by 5 sec.\r\n\r\nHover continues to allow Evoker spells to be cast while moving.",
+    "es_MX": "Rondar ahora te permite teletransportarte brevemente fuera de tu cuerpo y aparecer en tu destino. El tiempo de reutilizaci\u00f3n de Rondar tambi\u00e9n se reduce 5 s.\r\n\r\nRondar sigue permitiendo que los hechizos de Evocador se lancen mientras est\u00e1s en movimiento.",
+    "pt_BR": "Pairar agora faz voc\u00ea se translocar brevemente da exist\u00eancia e aparecer no seu destino. A recarga de Pairar agora tamb\u00e9m \u00e9 reduzida em 5 s.\r\n\r\nPairar continua permitindo que feiti\u00e7os de Conjurante sejam lan\u00e7ados em movimento.",
+    "de_DE": "'Schweben' kr\u00fcmmt den Raum und l\u00e4sst Euch f\u00fcr kurze Zeit aus der Realit\u00e4t springen und an Eurem Zielort erscheinen. Zus\u00e4tzlich ist die Abklingzeit von 'Schweben' um 5 Sek. verringert.\r\n\r\n'Schweben' l\u00e4sst Euch weiterhin Ruferzauber aus der Bewegung einsetzen.",
+    "en_GB": "Hover now causes you to briefly warp out of existence and appear at your destination. Hover's cooldown is also reduced by 5 sec.\r\n\r\nHover continues to allow Evoker spells to be cast while moving.",
+    "es_ES": "Ahora, Flotar te hace desaparecer durante un breve lapso para luego aparecer en tu destino. Tambi\u00e9n reduce 5 s el tiempo de reutilizaci\u00f3n de Flotar.\r\n\r\nFlotar todav\u00eda permite que el evocador lance hechizos en movimiento.",
+    "fr_FR": "Survoler vous fait d\u00e9sormais sortir bri\u00e8vement de l\u2019existence et appara\u00eetre \u00e0 votre destination. R\u00e9duit \u00e9galement le temps de recharge de Survoler de 5\u00a0s.\r\n\r\nSurvoler permet toujours de lancer des sorts d\u2019\u00e9vocation en se d\u00e9pla\u00e7ant.",
+    "it_IT": "Volo Sospeso permette di scomparire brevemente dall'esistenza per riapparire a destinazione. Riduce il tempo di recupero di Volo Sospeso di 5 s.\r\n\r\nVolo Sospeso continua a permettere all'Evocatore di lanciare incantesimi in movimento.",
+    "ru_RU": "\"\u0411\u0440\u0435\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0435\u0442\" \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0430\u043c \u043d\u0435\u043d\u0430\u0434\u043e\u043b\u0433\u043e \u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0438\u043d\u043e\u0435 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u044f\u0432\u0438\u0442\u044c\u0441\u044f \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u043e\u043c \u043c\u0435\u0441\u0442\u0435. \u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0411\u0440\u0435\u044e\u0449\u0435\u0433\u043e \u043f\u043e\u043b\u0435\u0442\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 5 \u0441\u0435\u043a.\r\n\r\n\"\u0411\u0440\u0435\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0435\u0442\" \u043f\u043e-\u043f\u0440\u0435\u0436\u043d\u0435\u043c\u0443 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0431\u0443\u0434\u0438\u0442\u0435\u043b\u044f \u043d\u0430 \u0445\u043e\u0434\u0443.",
+    "ko_KR": "\ubd80\uc591 \uc2dc\uc804 \uc2dc \uc77c\uc2dc\uc801\uc73c\ub85c \uacf5\uac04\uc744 \uc65c\uace1\ud574 \ubaa9\ud45c \uc9c0\uc810\uc5d0\uc11c \ub098\ud0c0\ub0a9\ub2c8\ub2e4. \ucd94\uac00\ub85c \ubd80\uc591\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.\r\n\r\n\ubd80\uc591\uc73c\ub85c \uc774\ub3d9\ud558\ub294 \ub3d9\uc548 \uae30\uc6d0\uc0ac \uc8fc\ubb38\uc744 \uc2dc\uc804\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u76e4\u65cb\u73fe\u5728\u6703\u4f7f\u4f60\u77ed\u66ab\u8e8d\u50b3\uff0c\u7136\u5f8c\u51fa\u73fe\u5728\u76ee\u7684\u5730\u3002\u76e4\u65cb\u7684\u51b7\u537b\u6642\u9593\u4e5f\u6703\u7e2e\u77ed5\u79d2\u3002\r\n\r\n\u76e4\u65cb\u6703\u6301\u7e8c\u8b93\u559a\u80fd\u5e2b\u80fd\u5920\u908a\u79fb\u52d5\u908a\u65bd\u6cd5\u3002",
+    "zh_CN": "\u60ac\u7a7a\u73b0\u5728\u4f7f\u4f60\u77ed\u6682\u5730\u8fc1\u8dc3\u5230\u73b0\u5b9e\u4e4b\u5916\uff0c\u5e76\u5728\u76ee\u6807\u4f4d\u7f6e\u51fa\u73b0\u3002\u60ac\u7a7a\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed5\u79d2\u3002\r\n\r\n\u60ac\u7a7a\u4f9d\u7136\u4f7f\u5524\u9b54\u5e08\u6cd5\u672f\u53ef\u4ee5\u5728\u79fb\u52a8\u4e2d\u65bd\u653e\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "404243"
+  "SpellID": "404243",
+  "name_blz": {
+    "en_US": "Land's Blessing",
+    "es_MX": "Bendici\u00f3n de la tierra",
+    "pt_BR": "B\u00ean\u00e7\u00e3o da Terra",
+    "de_DE": "Segen des Landes",
+    "en_GB": "Land's Blessing",
+    "es_ES": "Bendici\u00f3n de la tierra",
+    "fr_FR": "B\u00e9n\u00e9diction du sol",
+    "it_IT": "Benedizione della Terra",
+    "ru_RU": "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u0435\u043d\u0438\u0435 \u0437\u0435\u043c\u043b\u0438",
+    "ko_KR": "\ub545\uc758 \ucd95\ubcf5",
+    "zh_TW": "\u8cbc\u5730\u795d\u798f",
+    "zh_CN": "\u5730\u4e4b\u795d\u798f"
+  },
+  "description_blz": {
+    "en_US": "Ground Skimming regenerates 1 Vigor every 15 sec.",
+    "es_MX": "Al ras del suelo regenera 1 p. de vigor cada 15 s.",
+    "pt_BR": "Rasante no Solo regenera 1 de Vigor a cada 15 s.",
+    "de_DE": "'Bodenkratzer' regeneriert alle 15 Sek. 1 Elan.",
+    "en_GB": "Ground Skimming regenerates 1 Vigor every 15 sec.",
+    "es_ES": "A ras del suelo permite regenerar 1 p. de vigor cada 15 s.",
+    "fr_FR": "Rase-mottes g\u00e9n\u00e8re 1\u00a0point de Vigueur toutes les 15\u00a0s.",
+    "it_IT": "Rasoterra rigenera 1 Vigore ogni 15 s.",
+    "ru_RU": "\u041d\u0430 \u0431\u0440\u0435\u044e\u0449\u0435\u043c \u043f\u043e\u043b\u0435\u0442\u0435 \u0432\u044b \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0435 1 \u0435\u0434. \u0431\u043e\u0434\u0440\u043e\u0441\u0442\u0438 \u0440\u0430\u0437 \u0432 15 \u0441\u0435\u043a.",
+    "ko_KR": "\ucd08\uc800\uace0\ub3c4 \ube44\ud589\uc774 15\ucd08\ub9c8\ub2e4 1\uc758 \ud65c\ub825\uc744 \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8cbc\u5730\u98db\u63a0\u6bcf15\u79d2\u6062\u5fa91\u9ede\u6d3b\u529b\u3002",
+    "zh_CN": "\u63a0\u5730\u6ed1\u7fd4\u6bcf15\u79d2\u4ea7\u751f1\u70b9\u7cbe\u529b\u3002"
+  }
 }

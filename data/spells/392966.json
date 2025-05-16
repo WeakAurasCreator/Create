@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "392966"
+  "SpellID": "392966",
+  "name_blz": {
+    "en_US": "Spell Block",
+    "es_MX": "Bloqueo de hechizo",
+    "pt_BR": "Bloqueio de Feiti\u00e7o",
+    "de_DE": "Zauberblock",
+    "en_GB": "Spell Block",
+    "es_ES": "Bloqueo de hechizos",
+    "fr_FR": "Blocage de sorts",
+    "it_IT": "Blocca Incantesimo",
+    "ru_RU": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439",
+    "ko_KR": "\uc8fc\ubb38 \ub9c9\uae30",
+    "zh_TW": "\u6cd5\u8853\u683c\u64cb",
+    "zh_CN": "\u6cd5\u672f\u683c\u6321"
+  },
+  "description_blz": {
+    "en_US": "You are able to block spells for 30 sec.",
+    "es_MX": "Puedes bloquear hechizos durante 30 s.",
+    "pt_BR": "Voc\u00ea pode bloquear feiti\u00e7os lan\u00e7ados por 30 s.",
+    "de_DE": "Ihr k\u00f6nnt 30 Sek. lang Zauber blocken.",
+    "en_GB": "You are able to block spells for 30 sec.",
+    "es_ES": "Puedes bloquear hechizos durante 30 s.",
+    "fr_FR": "Vous pouvez bloquer les sorts pendant 30 s.",
+    "it_IT": "Permette di bloccare gli incantesimi subiti per 30 s.",
+    "ru_RU": "\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 30 \u0441\u0435\u043a.",
+    "ko_KR": "30\ucd08 \ub3d9\uc548 \uc8fc\ubb38\uc744 \ub9c9\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u80fd\u5920\u683c\u64cb\u6cd5\u8853\uff0c\u6301\u7e8c30\u79d2\u3002",
+    "zh_CN": "\u4f60\u53ef\u4ee5\u683c\u6321\u6cd5\u672f\uff0c\u6301\u7eed30\u79d2\u3002"
+  }
 }

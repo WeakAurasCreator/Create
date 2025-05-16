@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390140"
+  "SpellID": "390140",
+  "name_blz": {
+    "en_US": "Warlord's Torment",
+    "es_MX": "Tormento del se\u00f1or de la guerra",
+    "pt_BR": "Tormento do Senhor da Guerra",
+    "de_DE": "Qual des Kriegsf\u00fcrsten",
+    "en_GB": "Warlord's Torment",
+    "es_ES": "Tormento del se\u00f1or de la guerra",
+    "fr_FR": "Supplice de seigneur de guerre",
+    "it_IT": "Tormento del Signore della Guerra",
+    "ru_RU": "\u0417\u0430\u043c\u0443\u0447\u0435\u043d\u043d\u044b\u0439 \u0432\u043e\u0435\u0432\u043e\u0434\u0430",
+    "ko_KR": "\uc804\uc7c1\uad70\uc8fc\uc758 \uace0\ud1b5",
+    "zh_TW": "\u7763\u8ecd\u7684\u6298\u78e8",
+    "zh_CN": "\u7763\u519b\u7684\u6298\u78e8"
+  },
+  "description_blz": {
+    "en_US": "Activating Avatar grants 6 sec of Recklessness.\r\n\r\nThe additional Rage generation of this Recklessness is reduced to 25%.",
+    "es_MX": "Activar Avatar otorga 6 s de Temeridad.\r\n\r\nLa generaci\u00f3n de ira adicional de esta Temeridad se reduce al 25%.",
+    "pt_BR": "Ativar Avatar concede 6 s de Temeridade.\r\n\r\nA gera\u00e7\u00e3o de Raiva adicional dessa Temeridade \u00e9 reduzida em 25%.",
+    "de_DE": "Das Aktivieren von 'Avatar' gew\u00e4hrt 6 Sek. lang 'Tollk\u00fchnheit'.\r\n\r\nDie zus\u00e4tzliche Wuterzeugung dieser 'Tollk\u00fchnheit' wird auf 25% verringert.",
+    "en_GB": "Activating Avatar grants 6 sec of Recklessness.\r\n\r\nThe additional Rage generation of this Recklessness is reduced to 25%.",
+    "es_ES": "Al activar Avatar, se obtienen 6 s de Temerario.\r\n\r\nLa generaci\u00f3n de Ira adicional de este Temerario se reduce un 25%.",
+    "fr_FR": "Le fait d\u2019activer Avatar conf\u00e8re 6\u00a0s de T\u00e9m\u00e9rit\u00e9.\r\n\r\nLa g\u00e9n\u00e9ration de rage suppl\u00e9mentaire de cette T\u00e9m\u00e9rit\u00e9 est r\u00e9duite \u00e0 25\u00a0%.",
+    "it_IT": "Attivare Avatar fornisce 6 s di Avventatezza.\r\n\r\nLa generazione di rabbia aggiuntiva di questa Avventatezza \u00e8 ridotta del 25%.",
+    "ru_RU": "\"\u0410\u0432\u0430\u0442\u0430\u0440\u0430\" \u0442\u0430\u043a\u0436\u0435 \u0434\u0430\u0435\u0442 \u0432\u0430\u043c \"\u0411\u0435\u0437\u0440\u0430\u0441\u0441\u0443\u0434\u0441\u0442\u0432\u043e\" \u043d\u0430 6 \u0441\u0435\u043a.\r\n\r\n\u042d\u0442\u043e \"\u0411\u0435\u0437\u0440\u0430\u0441\u0441\u0443\u0434\u0441\u0442\u0432\u043e\" \u0434\u0430\u0435\u0442 \u043d\u0430 25% \u043c\u0435\u043d\u044c\u0448\u0435 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u044f\u0440\u043e\u0441\u0442\u0438.",
+    "ko_KR": "\ud22c\uc2e0 \ud65c\uc131\ud654 \uc2dc 6\ucd08 \ub3d9\uc548 \ubb34\ubaa8\ud55c \ud76c\uc0dd\uc774 \ubd80\uc5ec\ub429\ub2c8\ub2e4.\r\n\r\n\uc774 \ud6a8\uacfc\ub85c \ubc1c\ub3d9\ud558\ub294 \ubb34\ubaa8\ud55c \ud76c\uc0dd\uc758 \ucd94\uac00 \ubd84\ub178 \uc0dd\uc131\ub7c9\uc740 25%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u555f\u52d5\u5de8\u50cf\u5316\u8eab\u6703\u8ce6\u4e886\u79d2\u7684\u9b6f\u83bd\u3002\r\n\r\n\u6b64\u4e00\u9b6f\u83bd\u7522\u751f\u7684\u984d\u5916\u6012\u6c23\u964d\u4f4e\u81f325%\u3002",
+    "zh_CN": "\u6fc0\u6d3b\u5929\u795e\u4e0b\u51e1\u4f1a\u83b7\u5f97\u9c81\u83bd\u6548\u679c\uff0c\u6301\u7eed6\u79d2\u3002\r\n\r\n\u8be5\u6b21\u9c81\u83bd\u7684\u989d\u5916\u6012\u6c14\u751f\u6210\u91cf\u51cf\u5c11\u81f325%\u3002"
+  }
 }

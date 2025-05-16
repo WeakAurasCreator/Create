@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "410692"
+  "SpellID": "410692",
+  "name_blz": {
+    "en_US": "Burning Anticipation",
+    "es_MX": "Expectaci\u00f3n ardiente",
+    "pt_BR": "Antecipa\u00e7\u00e3o Ardente",
+    "de_DE": "Brennende Erwartung",
+    "en_GB": "Burning Anticipation",
+    "es_ES": "Anticipaci\u00f3n ardiente",
+    "fr_FR": "Anticipation ardente",
+    "it_IT": "Trepidazione Bruciante",
+    "ru_RU": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u0435",
+    "ko_KR": "\ud0c0\uc624\ub974\ub294 \uc608\uac10",
+    "zh_TW": "\u731b\u71c3\u9810\u77e5",
+    "zh_CN": "\u70bd\u70ed\u5148\u5146"
+  },
+  "description_blz": {
+    "en_US": "For each second you extend Ebon Might, increase the damage and healing and reduce the cast time of your next Living Flame by 10%.",
+    "es_MX": "Por cada segundo que extiendas Poder de \u00e9bano, aumenta el da\u00f1o y la sanaci\u00f3n y reduce el tiempo de lanzamiento de tu siguiente Llama viva un 10%.",
+    "pt_BR": "Para cada segundo que voc\u00ea prolonga o Poder de \u00c9bano, aumenta o dano e a cura, e reduzindo em 10% o tempo de lan\u00e7amento da sua pr\u00f3xima Chama Viva.",
+    "de_DE": "F\u00fcr jede Sekunde, um die Ihr 'Schwarzmacht' verl\u00e4ngert, erh\u00f6hen sich der Schaden und die Heilung sowie verringert sich die Zauberzeit Eures n\u00e4chsten Einsatzes von 'Lebende Flamme' um 10%.",
+    "en_GB": "For each second you extend Ebon Might, increase the damage and healing and reduce the cast time of your next Living Flame by 10%.",
+    "es_ES": "Por cada segundo que prolongas Poder\u00edo de \u00e9bano, aumenta el da\u00f1o y la sanaci\u00f3n, y se reduce un 10% el tiempo de lanzamiento de tu siguiente Llama viva.",
+    "fr_FR": "Chaque seconde de prolongement de Puissance d\u2019\u00e9b\u00e8ne augmente les d\u00e9g\u00e2ts et les soins et r\u00e9duit le temps d\u2019incantation de votre prochaine Flamme vivante de 10\u00a0%.",
+    "it_IT": "Per ogni secondo in cui estendi Vigore d'Ebano, aumenta i danni inflitti e le cure fornite e riduce il tempo di lancio della successiva Fiamma Vivente del 10%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442\u0435 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0427\u0435\u0440\u043d\u043e\u0439 \u043c\u043e\u0449\u0438\", \u043a\u0430\u0436\u0434\u0430\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u043a\u0443\u043d\u0434\u0430 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u0438 \u0441\u0438\u043b\u0443 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0438 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0416\u0438\u0432\u043e\u0433\u043e \u0436\u0430\u0440\u0430\" \u043d\u0430 10%.",
+    "ko_KR": "\uce60\ud751\uc758 \ud798\uc774 1\ucd08\ub9cc\ud07c \uc5f0\uc7a5\ub420 \ub54c\ub9c8\ub2e4 \ub2e4\uc74c \uc0b4\uc544\uc788\ub294 \ubd88\uaf43\uc758 \uacf5\uaca9\ub825\uacfc \uce58\uc720\ub7c9\uc774 10%\ub9cc\ud07c \uc99d\uac00\ud558\uace0, \uc2dc\uc804 \uc2dc\uac04\uc740 \uadf8\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u8b93\u9eef\u9ed1\u529b\u91cf\u5ef6\u9577\u4e00\u79d2\uff0c\u90fd\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u751f\u547d\u70c8\u7130\u7684\u50b7\u5bb3\u8207\u6cbb\u7642\u6548\u679c\u63d0\u9ad810%\uff0c\u4e14\u65bd\u6cd5\u6642\u9593\u7e2e\u77ed10%\u3002",
+    "zh_CN": "\u9ed1\u6a80\u4e4b\u529b\u6bcf\u5ef6\u957f\u4e00\u79d2\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u6d3b\u5316\u70c8\u7130\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u6548\u679c\u63d0\u9ad810%\uff0c\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed10%\u3002"
+  }
 }

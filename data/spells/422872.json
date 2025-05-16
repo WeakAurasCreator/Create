@@ -34,5 +34,23 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "422872"
+  "SpellID": "422872",
+  "name_blz": {
+    "en_US": "Evoker Preservation 10.2 Class Set 2pc",
+    "en_GB": "Evoker Preservation 10.2 Class Set 2pc"
+  },
+  "description_blz": {
+    "en_US": "Empower spells cast up to 3 Living Flames at enemies or allies struck at 50% effectiveness.",
+    "es_MX": "Los hechizos potenciados lanzan hasta 3 Llamas vivas a los enemigos o aliados con un 50% de efectividad.",
+    "pt_BR": "Feiti\u00e7os potencializados lan\u00e7am at\u00e9 3 Chamas Vivas nos inimigos ou aliados atingidos com 50% da efic\u00e1cia.",
+    "de_DE": "Erm\u00e4chtigte Zauber wirken bis zu 3-mal 'Lebende Flamme' mit 50% Effektivit\u00e4t auf Gegner oder getroffene Verb\u00fcndete.",
+    "en_GB": "Empower spells cast up to 3 Living Flames at enemies or allies struck at 50% effectiveness.",
+    "es_ES": "Tus hechizos potenciados lanzan hasta 3 Llamas vivas contra los enemigos o aliados alcanzados, con un 50% de efectividad.",
+    "fr_FR": "Les sorts renforc\u00e9s lancent jusqu\u2019\u00e0 3\u00a0Flammes vivantes sur les adversaires ou alli\u00e9s touch\u00e9s \u00e0 50\u00a0% d\u2019efficacit\u00e9.",
+    "it_IT": "Gli incantesimi Potenziati lanciano fino a 3 Fiamme Viventi sui nemici o sugli alleati colpiti al 50% dell'efficacia.",
+    "ru_RU": "\u0423\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442 \u043a \u0446\u0435\u043b\u044f\u043c \u0434\u043e 3 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \"\u0416\u0438\u0432\u043e\u0439 \u0436\u0430\u0440\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 50%.",
+    "ko_KR": "\uac15\ud654 \uc8fc\ubb38 \uc2dc\uc804 \uc2dc \uc801\uc911\ub2f9\ud55c \uc801 \ub610\ub294 \uc544\uad70\uc5d0\uac8c 50%\uc758 \ud6a8\uc728\ub85c \uc0b4\uc544\uc788\ub294 \ubd88\uaf43\uc744 \ucd5c\ub300 3\ud68c \uc2dc\uc804\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u805a\u80fd\u6cd5\u8853\u6703\u5c0d\u64ca\u4e2d\u7684\u6575\u4eba\u6216\u76df\u53cb\u65bd\u653e\u6700\u591a3\u6b21\u751f\u547d\u70c8\u7130\uff0c\u4f46\u6548\u679c\u8b8a\u70ba50%\u3002",
+    "zh_CN": "\u84c4\u529b\u6cd5\u672f\u4f1a\u4ee550%\u7684\u6548\u679c\u5bf9\u51fb\u4e2d\u7684\u654c\u4eba\u548c\u76df\u53cb\u65bd\u653e\u6700\u591a3\u4e2a\u6d3b\u5316\u70c8\u7130\u3002"
+  }
 }

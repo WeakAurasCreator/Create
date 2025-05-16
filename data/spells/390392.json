@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "390392"
+  "SpellID": "390392",
+  "name_blz": {
+    "en_US": "Overload Elemental Herb",
+    "es_MX": "Sobrecargar hierba elemental",
+    "pt_BR": "Sobrecarga de Planta Elemental",
+    "de_DE": "Elementarkraut \u00fcberladen",
+    "en_GB": "Overload Elemental Herb",
+    "es_ES": "Sobrecargar hierba elemental",
+    "fr_FR": "Surcharge d\u2019herbe \u00e9l\u00e9mentaire",
+    "it_IT": "Sovraccarico Erba Elementale",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u0433\u0440\u0443\u0437\u043a\u0430 \u0442\u0440\u0430\u0432\u044b \u0441\u0442\u0438\u0445\u0438\u0439",
+    "ko_KR": "\uc815\uae30 \uc57d\ucd08 \uacfc\ubd80\ud558",
+    "zh_TW": "\u8d85\u8f09\u5143\u7d20\u8349\u85e5",
+    "zh_CN": "\u8fc7\u8f7d\u5143\u7d20\u8349\u836f"
+  },
+  "description_blz": {
+    "en_US": "Overload a nearby elemental herb.\r\n\r\nSpecialize into Master of the Elements to gain significant cooldown reduction on this ability whenever you gather herbs native to the Dragon Isles.",
+    "es_MX": "Sobrecarga una hierba elemental cercana.\r\n\r\nEspecial\u00edzate en Maestro de los elementos para obtener una gran reducci\u00f3n del tiempo de reutilizaci\u00f3n de esta habilidad cada vez que recoges hierbas nativas de las Islas Drag\u00f3n.",
+    "pt_BR": "Sobrecarrega uma planta elemental pr\u00f3xima.\r\n\r\nA especializa\u00e7\u00e3o em Mestre dos Elementos concede uma redu\u00e7\u00e3o consider\u00e1vel da recarga desta habilidade sempre que voc\u00ea coletar plantas nativas das Ilhas do Drag\u00e3o.",
+    "de_DE": "\u00dcberl\u00e4dt ein Elementarkraut in der N\u00e4he.\r\n\r\nSpezialisiert Euch in 'Meister der Elemente' und die Abklingzeit dieser F\u00e4higkeit verringert sich deutlich, wenn Ihr heimische Kr\u00e4uter der Dracheninseln sammelt.",
+    "en_GB": "Overload a nearby elemental herb.\r\n\r\nSpecialize into Master of the Elements to gain significant cooldown reduction on this ability whenever you gather herbs native to the Dragon Isles.",
+    "es_ES": "Sobrecarga una hierba elemental cercana.\r\n\r\nEspecial\u00edzate en Dominio de los elementos para obtener una gran reducci\u00f3n del tiempo de reutilizaci\u00f3n de esta facultad siempre que recojas hierbas aut\u00f3ctonas de las Islas Drag\u00f3n.",
+    "fr_FR": "Vous surchargez une herbe \u00e9l\u00e9mentaire proche.\r\n\r\nObtenez la sp\u00e9cialit\u00e9 Ma\u00eetrise des \u00e9l\u00e9ments pour r\u00e9duire sensiblement le temps de recharge de cette technique chaque fois que vous cueillez des fleurs originaires des \u00eeles aux Dragons.",
+    "it_IT": "Sovraccarica un'erba elementale vicina.\r\n\r\nSpecializzandosi in Signore degli Elementi, si ottiene una riduzione significativa del tempo di recupero di quest'abilit\u00e0 quando si raccolgono erbe originarie delle Isole dei Draghi.",
+    "ru_RU": "\u041f\u0435\u0440\u0435\u0433\u0440\u0443\u0436\u0430\u0435\u0442 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0443\u044e \u0442\u0440\u0430\u0432\u0443 \u0441\u0442\u0438\u0445\u0438\u0439.\r\n\r\n\u0418\u0437\u0443\u0447\u0438\u0442\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e \"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u0441\u0442\u0438\u0445\u0438\u0439\", \u0447\u0442\u043e\u0431\u044b \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u043e\u043a\u0440\u0430\u0442\u0438\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438 \u0441\u0431\u043e\u0440\u0435 \u0442\u0440\u0430\u0432 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043e\u0432.",
+    "ko_KR": "\uc8fc\uc704 \uc815\ub839 \uc57d\ucd08\ub97c \uacfc\ubd80\ud558\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uc6d0\uc18c\uc758 \ub300\uac00 \uc804\ubb38\ud654\ub97c \ubc30\uc6b0\uba74 \uc6a9\uc758 \uc12c \ud1a0\ucc29 \uc57d\ucd08\ub97c \ucc44\uc9d1\ud560 \ub54c\ub9c8\ub2e4 \ud574\ub2f9 \ub2a5\ub825\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ud06c\uac8c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u9644\u8fd1\u7684\u5143\u7d20\u8349\u85e5\u8d85\u8f09\u3002\r\n\r\n\u5c08\u7cbe\u6210\u70ba\u5143\u7d20\u5927\u5e2b\uff0c\u4f7f\u4f60\u6bcf\u6b21\u63a1\u96c6\u5de8\u9f8d\u7fa4\u5cf6\u539f\u751f\u8349\u85e5\u6642\uff0c\u5927\u5e45\u7e2e\u77ed\u6b64\u6280\u80fd\u7684\u51b7\u537b\u6642\u9593\u3002",
+    "zh_CN": "\u4f7f\u4e00\u4e2a\u9644\u8fd1\u7684\u5143\u7d20\u8349\u836f\u8fc7\u8f7d\u3002\r\n\r\n\u4e13\u7cbe\u4e8e\u5143\u7d20\u5b97\u5e08\u65f6\uff0c\u91c7\u96c6\u5de8\u9f99\u7fa4\u5c9b\u7684\u539f\u751f\u8349\u836f\u53ef\u4ee5\u5927\u5e45\u7f29\u77ed\u6b64\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u3002"
+  }
 }

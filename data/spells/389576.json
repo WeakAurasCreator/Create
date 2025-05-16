@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389576"
+  "SpellID": "389576",
+  "name_blz": {
+    "en_US": "Profane Bargain",
+    "es_MX": "Trato profano",
+    "pt_BR": "Barganha Profana",
+    "de_DE": "Profaner Handel",
+    "en_GB": "Profane Bargain",
+    "es_ES": "Trato profano",
+    "fr_FR": "March\u00e9 profane",
+    "it_IT": "Patto Blasfemo",
+    "ru_RU": "\u041a\u043e\u0449\u0443\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0441\u0434\u0435\u043b\u043a\u0430",
+    "ko_KR": "\ubd88\uacbd\ud55c \uc57d\uc18d",
+    "zh_TW": "\u893b\u7006\u4ea4\u6613",
+    "zh_CN": "\u4eb5\u6e0e\u5951\u7ea6"
+  },
+  "description_blz": {
+    "en_US": "When your health drops below 35%, the percentage of damage shared via your Soul Link is increased by an additional 5%. \r\n\r\nWhile Grimoire of Sacrifice is active, your Stamina is increased by 3%.",
+    "es_MX": "Cuando tu salud cae por debajo del 35%, el porcentaje de da\u00f1o compartido por Enlace de alma aumenta un 5% m\u00e1s. \r\n\r\nMientras Grimorio de sacrificio est\u00e1 activo, tu aguante aumenta un 3%.",
+    "pt_BR": "Quando seus pontos de vida caem abaixo de 35%, o percentual de dano compartilhado pelo seu V\u00ednculo An\u00edmico aumenta em mais 5%. \r\n\r\nSeu Vigor aumenta em 3% enquanto Grim\u00f3rio de Sacrificar estiver ativo.",
+    "de_DE": "Wenn Eure Gesundheit unter 35% f\u00e4llt, erh\u00f6ht sich der Prozentsatz des durch Eure 'Seelenverbindung' geteilten Schadens um zus\u00e4tzliche 5%. \r\n\r\nSolange 'Grimoire der Opferung' aktiv ist, ist Eure Ausdauer um 3% erh\u00f6ht.",
+    "en_GB": "When your health drops below 35%, the percentage of damage shared via your Soul Link is increased by an additional 5%. \r\n\r\nWhile Grimoire of Sacrifice is active, your Stamina is increased by 3%.",
+    "es_ES": "Cuando tu salud cae por debajo del 35%, el porcentaje de da\u00f1o compartido mediante tu Enlace de alma aumenta un 5%. \r\n\r\nMientras Grimorio de sacrificio est\u00e9 activo, tu aguante aumenta un 3%.",
+    "fr_FR": "Lorsque vos points de vie passent sous la barre des 35%, le pourcentage de d\u00e9g\u00e2ts partag\u00e9s par votre Lien spirituel est augment\u00e9 de 5% suppl\u00e9mentaires. \r\n\r\nTant que Grimoire de sacrifice est actif, votre Endurance est augment\u00e9e de 3%.",
+    "it_IT": "Quando si ha meno del 35% della salute massima, la percentuale dei danni condivisi da Legame delle Anime aumenta del 5% aggiuntivo.\r\n\r\nQuando Rito del Sacrificio \u00e8 attivo, la Tempra aumenta del 3%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u0430\u0448 \u0437\u0430\u043f\u0430\u0441 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0430\u0434\u0430\u0435\u0442 \u043d\u0438\u0436\u0435 35%, \"\u0420\u043e\u0434\u0441\u0442\u0432\u043e \u0434\u0443\u0448\" \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0442\u044c \u043d\u0430 5% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430. \r\n\r\n\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0413\u0440\u0438\u043c\u0443\u0430\u0440 \u0436\u0435\u0440\u0442\u0432\u043e\u043f\u0440\u0438\u043d\u043e\u0448\u0435\u043d\u0438\u044f\", \u0432\u0430\u0448\u0430 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442\u0441\u044f \u043d\u0430 3%.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 35% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74 \uc601\ud63c\uc758 \uace0\ub9ac\ub85c \uacf5\uc720\ud558\ub294 \ud53c\ud574\uac00 \ucd94\uac00\ub85c 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \r\n\r\n\ud751\ub9c8\ubc95\uc11c: \ud76c\uc0dd\uc774 \ud65c\uc131\ud654\ub418\uc5b4 \uc788\ub294 \ub3d9\uc548 \uccb4\ub825\uc774 3%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u4f60\u7684\u751f\u547d\u529b\u4f4e\u65bc35%\u6642\uff0c\u7d93\u7531\u9748\u9b42\u93c8\u7d50\u5206\u6524\u50b7\u5bb3\u7684\u767e\u5206\u6bd4\u984d\u5916\u63d0\u9ad85%\u3002\r\n\r\n\u5728\u72a7\u7272\u9b54\u5178\u4f5c\u7528\u671f\u9593\u5167\uff0c\u4f60\u7684\u8010\u529b\u63d0\u9ad83%\u3002",
+    "zh_CN": "\u5f53\u4f60\u7684\u751f\u547d\u503c\u964d\u81f335%\u4ee5\u4e0b\u65f6\uff0c\u4f60\u7684\u7075\u9b42\u94fe\u63a5\u5171\u4eab\u4f24\u5bb3\u7684\u767e\u5206\u6bd4\u989d\u5916\u63d0\u9ad85%\u3002\r\n\r\n\u727a\u7272\u9b54\u5178\u6fc0\u6d3b\u65f6\uff0c\u4f60\u7684\u8010\u529b\u63d0\u9ad83%\u3002"
+  }
 }

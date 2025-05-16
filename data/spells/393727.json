@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393727"
+  "SpellID": "393727",
+  "name_blz": {
+    "en_US": "Rogue Outlaw Class Set 2pc",
+    "es_MX": "Rogue Outlaw Class Set 2pc",
+    "pt_BR": "Ladino, Fora da Lei, Conjunto de Classe, 2 p\u00e7",
+    "de_DE": "Schurkenklassenset, Gesetzlos, 2 Teile",
+    "en_GB": "Rogue Outlaw Class Set 2pc",
+    "es_ES": "Conjunto de clase de p\u00edcaro Forajido (2 piezas)",
+    "fr_FR": "Ensemble de classe de voleur Hors-la-loi (2\u00a0pi\u00e8ces)",
+    "it_IT": "Ladro Fuorilegge, Set di Classe, 2 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438\u043a\u0430 \u2013 \u0433\u043e\u043b\u043e\u0432\u043e\u0440\u0435\u0437, 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\ubb34\ubc95 \ub3c4\uc801 \uc9c1\uc5c5 \uc138\ud2b8 2\uc138\ud2b8",
+    "zh_TW": "\u76dc\u8cca\u66b4\u5f92\u8077\u696d\u5957\u88dd2\u4ef6",
+    "zh_CN": "\u6f5c\u884c\u8005\u72c2\u5f92\u804c\u4e1a\u5957\u88c5\u4e24\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Dispatch increases the damage of your next Sinister Strike or Ambush by 8% per combo point spent.",
+    "es_MX": "Despachar aumenta el da\u00f1o de tu siguiente Golpe siniestro o Emboscada un 8% por cada p. de combo gastado.",
+    "pt_BR": "Liquidar aumenta o dano do seu pr\u00f3ximo Golpe Sinistro ou Emboscar em 8% por ponto de combo gasto.",
+    "de_DE": "'T\u00f6tung' erh\u00f6ht den Schaden Eures n\u00e4chsten Einsatzes von 'Finsterer Sto\u00df' oder 'Hinterhalt' pro verbrauchtem Combopunkt um 8%.",
+    "en_GB": "Dispatch increases the damage of your next Sinister Strike or Ambush by 8% per combo point spent.",
+    "es_ES": "Despachar aumenta un 8% el da\u00f1o de tu siguiente Golpe siniestro o Emboscada por cada punto de combo gastado.",
+    "fr_FR": "Couperet augmente les d\u00e9g\u00e2ts de votre prochaine Attaque pernicieuse ou Embuscade de 8% par point de combo d\u00e9pens\u00e9.",
+    "it_IT": "Eliminazione aumenta i danni inflitti dal successivo lancio di Assalto Funesto o Imboscata del 8% per ogni punto combo consumato.",
+    "ru_RU": "\"\u0423\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u041a\u043e\u0432\u0430\u0440\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430\" \u0438\u043b\u0438 \"\u0412\u043d\u0435\u0437\u0430\u043f\u043d\u043e\u0433\u043e \u0443\u0434\u0430\u0440\u0430\" \u043d\u0430 8% \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0442\u0440\u0430\u0447\u0435\u043d\u043d\u044b\u0439 \u043f\u0440\u0438\u0435\u043c \u0441\u0435\u0440\u0438\u0438.",
+    "ko_KR": "\uc18d\uacb0 \uc0ac\uc6a9 \uc2dc \uc18c\ubaa8\ud55c \uc5f0\uacc4 \uc810\uc218\ub2f9 \ub2e4\uc74c \uc0ac\uc545\ud55c \uc77c\uaca9 \ub610\ub294 \ub9e4\ubcf5\uc758 \uacf5\uaca9\ub825\uc774 8%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6d88\u8017\u4e00\u500b\u9023\u64ca\u9ede\u6578\u53ef\u8b93\u62b9\u6bba\u4f7f\u4f60\u4e0b\u4e00\u500b\u90aa\u60e1\u653b\u64ca\u6216\u4f0f\u64ca\u7684\u50b7\u5bb3\u63d0\u9ad88%\u3002",
+    "zh_CN": "\u65a9\u51fb\u6bcf\u82b1\u8d39\u4e00\u4e2a\u8fde\u51fb\u70b9\u6570\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u5f71\u88ad\u6216\u4f0f\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad88%\u3002"
+  }
 }

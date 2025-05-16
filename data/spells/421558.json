@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "421558"
+  "SpellID": "421558",
+  "name_blz": {
+    "en_US": "Heaven's Wrath",
+    "es_MX": "C\u00f3lera celestial",
+    "pt_BR": "Ira do C\u00e9u",
+    "de_DE": "Zorn des Himmels",
+    "en_GB": "Heaven's Wrath",
+    "es_ES": "C\u00f3lera celestial",
+    "fr_FR": "Courroux des cieux",
+    "it_IT": "Ira del Cielo",
+    "ru_RU": "\u0413\u043d\u0435\u0432 \u041d\u0435\u0431\u0435\u0441",
+    "ko_KR": "\ucc9c\uc0c1\uc758 \uaca9\ub178",
+    "zh_TW": "\u5929\u5802\u6012\u706b",
+    "zh_CN": "\u5929\u5802\u6012\u706b"
+  },
+  "description_blz": {
+    "en_US": "Each Penance bolt you fire reduces the cooldown of Ultimate Penitence by 2 sec.",
+    "es_MX": "Cada salva de Penitencia que disparas reduce 2 s el tiempo de reutilizaci\u00f3n de Penitencia definitiva.",
+    "pt_BR": "Cada proj\u00e9til de Penit\u00eancia que voc\u00ea dispara reduz em 2 s a recarga da sua Penit\u00eancia Suprema.",
+    "de_DE": "Jeder durch 'S\u00fchne' erzeugte Blitz, den Ihr abfeuert, verringert die Abklingzeit von 'Ultimative Bu\u00dffertigkeit' um 2 Sek.",
+    "en_GB": "Each Penance bolt you fire reduces the cooldown of Ultimate Penitence by 2 sec.",
+    "es_ES": "Cada descarga de Penitencia que lances reduce 2 s el tiempo de reutilizaci\u00f3n de Penitencia definitiva.",
+    "fr_FR": "Chaque trait de P\u00e9nitence r\u00e9duit le temps de recharge de P\u00e9nitence ultime de 2\u00a0s.",
+    "it_IT": "Ogni dardo di Contrizione lanciato riduce il tempo di recupero di Penitenza Definitiva di 2 s.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0437\u0430\u0440\u044f\u0434 \"\u0418\u0441\u043f\u043e\u0432\u0435\u0434\u0438\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0418\u0441\u043a\u0440\u0435\u043d\u043d\u0435\u0433\u043e \u0440\u0430\u0441\u043a\u0430\u044f\u043d\u0438\u044f\" \u043d\u0430 2 \u0441\u0435\u043a.",
+    "ko_KR": "\ud68c\uac1c\uc758 \ud654\uc0b4\uc744 \ubc1c\uc0ac\ud560 \ub54c\ub9c8\ub2e4 \uad81\uadf9\uc758 \ucc38\ud68c\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u65bd\u653e\u7684\u6bcf\u500b\u61fa\u609f\u90fd\u6703\u4f7f\u7d42\u6975\u61fa\u7f6a\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed2\u79d2\u3002",
+    "zh_CN": "\u4f60\u5c04\u51fa\u7684\u6bcf\u53d1\u82e6\u4fee\u7bad\u77e2\u4f7f\u7ec8\u6781\u82e6\u4fee\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed2\u79d2\u3002"
+  }
 }

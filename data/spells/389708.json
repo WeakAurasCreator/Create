@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389708"
+  "SpellID": "389708",
+  "name_blz": {
+    "en_US": "Darkglare Boon",
+    "es_MX": "Favor de Mirada oscura",
+    "pt_BR": "B\u00ean\u00e7\u00e3o do Clar\u00e3o Sombrio",
+    "de_DE": "Dunkelblicksegen",
+    "en_GB": "Darkglare Boon",
+    "es_ES": "Favor de miradaoscura",
+    "fr_FR": "Faveur de Regard-noir",
+    "it_IT": "Dono Lumenero",
+    "ru_RU": "\u0414\u0430\u0440 \u0441\u043e\u0437\u0435\u0440\u0446\u0430\u0442\u0435\u043b\u044f \u0442\u044c\u043c\u044b",
+    "ko_KR": "\uc554\ud751\uc2dc\uc120\uc758 \uc740\ud61c",
+    "zh_TW": "\u9ed1\u6697\u4e4b\u773c\u6069\u60e0",
+    "zh_CN": "\u9ed1\u773c\u4e4b\u8d50"
+  },
+  "description_blz": {
+    "en_US": "When Fel Devastation finishes fully channeling, it refreshes 15-30% of its cooldown and refunds 15-30 Fury.",
+    "es_MX": "Cuando Devastaci\u00f3n vil termina de canalizarse, se restablece un 15-30% de su tiempo de reutilizaci\u00f3n y restituye 15-30 p. de furia.",
+    "pt_BR": "Quando a canaliza\u00e7\u00e3o de Devasta\u00e7\u00e3o Vil termina, 15-30% da recarga s\u00e3o renovados e 15-30 de F\u00faria s\u00e3o restitu\u00eddos.",
+    "de_DE": "Wenn Eure 'D\u00e4monische Verw\u00fcstung' vollst\u00e4ndig kanalisiert wurde, werden 15-30% ihrer Abklingzeit abgeschlossen und 15-30 J\u00e4hzorn erstattet.",
+    "en_GB": "When Fel Devastation finishes fully channeling, it refreshes 15-30% of its cooldown and refunds 15-30 Fury.",
+    "es_ES": "Cuando Devastaci\u00f3n vil termina de canalizarse por completo, completa de un 15% a un 30% de su tiempo de reutilizaci\u00f3n y devuelve de 15 a 30 p. de furia.",
+    "fr_FR": "Lorsque la canalisation de D\u00e9vastation gangren\u00e9e arrive \u00e0 son terme, elle annule entre 15 et 30% de son temps de recharge et rend entre 15 et 30\u00a0points de fureur.",
+    "it_IT": "Quando la canalizzazione di Vildevastazione riesce ad arrivare al termine, ripristina il 15-30% del proprio tempo di recupero e 15-30 furia.",
+    "ru_RU": "\u041f\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f \"\u041e\u043f\u0443\u0441\u0442\u043e\u0448\u0435\u043d\u0438\u044f \u0421\u043a\u0432\u0435\u0440\u043d\u043e\u0439\" \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 15-30%, \u0438 \u0432\u044b \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0435 15-30 \u0435\u0434. \u0433\u043d\u0435\u0432\u0430.",
+    "ko_KR": "\uc9c0\uc625 \ud669\ud3d0 \uc2dc\uc804\uc744 \ub05d\uae4c\uc9c0 \ub9c8\uce58\uba74 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 15~30%\ub9cc\ud07c \ucd08\uae30\ud654\ub418\uace0 15~30\uc758 \uaca9\ub178\ub97c \ub3cc\ub824\ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u9b54\u5316\u7834\u6ec5\u7d50\u675f\u5f15\u5c0e\u6642\uff0c\u91cd\u7f6e15-30%\u51b7\u537b\u6642\u9593\uff0c\u4e26\u6062\u5fa915-30\u9ede\u9b54\u6012\u3002",
+    "zh_CN": "\u90aa\u80fd\u6bc1\u706d\u5b8c\u5168\u5f15\u5bfc\u7ed3\u675f\u65f6\uff0c\u4f1a\u5237\u65b015-30%\u7684\u51b7\u5374\u65f6\u95f4\uff0c\u5e76\u8fd4\u8fd815-30\u70b9\u6076\u9b54\u4e4b\u6012\u3002"
+  }
 }

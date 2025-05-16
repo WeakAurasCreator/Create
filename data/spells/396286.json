@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "94589",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "396286"
+  "SpellID": "396286",
+  "name_blz": {
+    "en_US": "Upheaval",
+    "es_MX": "Levantamiento",
+    "pt_BR": "Revolta",
+    "de_DE": "Emporsto\u00dfen",
+    "en_GB": "Upheaval",
+    "es_ES": "Agitaci\u00f3n",
+    "fr_FR": "Soul\u00e8vement",
+    "it_IT": "Sollevazione Terrestre",
+    "ru_RU": "\u0414\u0440\u043e\u0436\u044c \u0437\u0435\u043c\u043b\u0438",
+    "ko_KR": "\uc9c0\uac01 \ubcc0\ub3d9",
+    "zh_TW": "\u5730\u88c2\u5d29\u5f15",
+    "zh_CN": "\u5730\u58f3\u6fc0\u53d8"
+  },
+  "description_blz": {
+    "en_US": "Gather earthen power beneath your enemy's feet and send them hurtling upwards, dealing 24,096 Volcanic damage to the target and nearby enemies.\r\n\r\nEmpowering expands the area of effect.\r\n\r\nI:   3 yd radius.\r\n\r\nII:  6 yd radius.\r\n\r\nIII: 9 yd radius.",
+    "es_MX": "Recoge poderes terr\u00e1neos de debajo de tus enemigos, los lanza hacia arriba e inflige 24,198 p. de da\u00f1o volc\u00e1nico al objetivo y a los enemigos cercanos.\r\n\r\nUtilizar Potenciamiento expande el \u00e1rea de efecto.\r\n\r\nI:   Radio de 3 m.\r\n\r\nII:  Radio de 6 m.\r\n\r\nIII: Radio de 9 m.",
+    "pt_BR": "Concentra poder terreno sob os p\u00e9s do inimigo e o lan\u00e7a para o alto, causando 23.952 de dano Vulc\u00e2nico ao alvo e aos inimigos pr\u00f3ximos.\r\n\r\nA potencializa\u00e7\u00e3o aumenta a \u00e1rea de efeito.\r\n\r\nI:   raio de 3 m.\r\n\r\nII:   raio de 6 m.\r\n\r\nIII:   raio de 9 m.",
+    "de_DE": "Sammelt irdene Macht unter den F\u00fc\u00dfen Eures Gegners und schleudert ihn nach oben, was dem Ziel sowie Gegnern in der N\u00e4he 23.538 Vulkanschaden zuf\u00fcgt.\r\n\r\nDurch Erm\u00e4chtigung vergr\u00f6\u00dfert sich der Effektbereich.\r\n\r\nI:   Radius von 3 Metern.\r\n\r\nII:  Radius von 6 Metern.\r\n\r\nIII: Radius von 9 Metern.",
+    "en_GB": "Gather earthen power beneath your enemy's feet and send them hurtling upwards, dealing 24,024 Volcanic damage to the target and nearby enemies.\r\n\r\nEmpowering expands the area of effect.\r\n\r\nI:   3 yd radius.\r\n\r\nII:  6 yd radius.\r\n\r\nIII: 9 yd radius.",
+    "es_ES": "Re\u00fane poder terr\u00e1neo bajo los pies de tu enemigo y lo hace saltar por los aires, lo que les inflige 23863 p. de da\u00f1o Volc\u00e1nico tanto a \u00e9l como a los enemigos cercanos.\r\n\r\nAl potenciar el hechizo aumenta el \u00e1rea de efecto.\r\n\r\nI: radio de 3 m.\r\n\r\nII: radio de 6 m.\r\n\r\nIII: radio de 9 m.",
+    "fr_FR": "Concentre la puissance de la terre sous les pieds de l\u2019ennemi et le projette dans les airs en infligeant 23468\u00a0points de d\u00e9g\u00e2ts volcaniques \u00e0 lui et aux ennemis proches.\r\n\r\nRenforcement \u00e9largit la zone d\u2019effet.\r\n\r\nI\u00a0: 3\u00a0m de rayon.\r\n\r\nII\u00a0: 6\u00a0m de rayon.\r\n\r\nIII\u00a0: 9\u00a0m de rayon.",
+    "it_IT": "Accumula il potere della terra sotto i piedi del nemico e lo scaglia verso l'alto, infliggendo 23.950 danni vulcanici al bersaglio e ai nemici vicini.\r\n\r\nIl Potenziamento aumenta l'area d'effetto.\r\n\r\nI:   raggio di 3 m.\r\n\r\nII:  raggio di 6 m.\r\n\r\nIII: raggio di 9 m.",
+    "ru_RU": "\u0421\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0441\u0438\u043b\u0443 \u0437\u0435\u043c\u043b\u0438 \u043f\u043e\u0434 \u043d\u043e\u0433\u0430\u043c\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0438 \u043f\u043e\u0434\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442 \u0435\u0433\u043e \u0432\u0432\u0435\u0440\u0445, \u043d\u0430\u043d\u043e\u0441\u044f 23436 \u0435\u0434. \u0432\u0443\u043b\u043a\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0443 \u0438 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u043c \u0446\u0435\u043b\u044f\u043c.\r\n\r\n\u0423\u0441\u0438\u043b\u0435\u043d\u0438\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.\r\n\r\nI:   \u0440\u0430\u0434\u0438\u0443\u0441 3 \u043c.\r\n\r\nII:  \u0440\u0430\u0434\u0438\u0443\u0441 6 \u043c.\r\n\r\nIII: \u0440\u0430\u0434\u0438\u0443\u0441 9 \u043c.",
+    "ko_KR": "\uc801\uc758 \ubc1c\ubc11\uc5d0 \ub300\uc9c0\uc758 \ud798\uc744 \uc751\uc9d1\ud55c \ud6c4 \uacf5\uc911\uc73c\ub85c \ub0a0\ub824 \ubcf4\ub0b4\uace0, \ub300\uc0c1\uacfc \uc8fc\uc704\uc758 \uc801\uc5d0\uac8c 23,466\uc758 \ud654\uc0b0 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n\uac15\ud654 \uc2dc \ud6a8\uacfc \ubc94\uc704\uac00 \ud655\uc7a5\ub429\ub2c8\ub2e4.\r\n\r\nI:   \ubc18\uacbd\uc774 3\ubbf8\ud130\uac00 \ub429\ub2c8\ub2e4.\r\n\r\nII:  \ubc18\uacbd\uc774 6\ubbf8\ud130\uac00 \ub429\ub2c8\ub2e4.\r\n\r\nIII: \ubc18\uacbd\uc774 9\ubbf8\ud130\uac00 \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6536\u96c6\u6575\u4eba\u8173\u4e0b\u7684\u5927\u5730\u4e4b\u529b\uff0c\u4f7f\u6575\u4eba\u6025\u901f\u5411\u4e0a\u5674\u767c\uff0c\u5c0d\u8a72\u76ee\u6a19\u548c\u9644\u8fd1\u7684\u6575\u4eba\u9020\u621023,869\u9ede\u7194\u5ca9\u50b7\u5bb3\u3002\r\n\r\n\u805a\u80fd\u6703\u63d0\u9ad8\u6548\u679c\u7bc4\u570d\u3002\r\n\r\nI\uff1a\u534a\u5f913\u78bc\u3002\r\n\r\nII\uff1a\u534a\u5f916\u78bc\u3002\r\n\r\nIII\uff1a\u534a\u5f919\u78bc\u3002",
+    "zh_CN": "\u5c06\u5927\u5730\u4e4b\u529b\u6c47\u805a\u5728\u654c\u4eba\u811a\u4e0b\u5e76\u5c06\u5176\u51fb\u98de\uff0c\u5bf9\u76ee\u6807\u548c\u9644\u8fd1\u7684\u654c\u4eba\u9020\u621023,983\u70b9\u7194\u706b\u4f24\u5bb3\u3002\r\n\r\n\u84c4\u529b\u4f1a\u6269\u5927\u6548\u679c\u8303\u56f4\u3002\r\n\r\nI\uff1a3\u7801\u8303\u56f4\u3002\r\n\r\nII\uff1a6\u7801\u8303\u56f4\u3002\r\n\r\nIII\uff1a9\u7801\u8303\u56f4\u3002"
+  }
 }

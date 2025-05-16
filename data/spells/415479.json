@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "415479"
+  "SpellID": "415479",
+  "name_blz": {
+    "en_US": "Essence Devourer",
+    "es_MX": "Devorador de esencia",
+    "pt_BR": "Devorador de Ess\u00eancia",
+    "de_DE": "Essenzverschlinger",
+    "en_GB": "Essence Devourer",
+    "es_ES": "Devorador de esencia",
+    "fr_FR": "D\u00e9voreur d\u2019essence",
+    "it_IT": "Divoratore d'Essenza",
+    "ru_RU": "\u041f\u043e\u0436\u0438\u0440\u0430\u0442\u0435\u043b\u044c \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438",
+    "ko_KR": "\uc815\uc218 \ud3ec\uc2dd\uc790",
+    "zh_TW": "\u7cbe\u83ef\u541e\u566c\u8005",
+    "zh_CN": "\u7cbe\u534e\u541e\u566c\u8005"
+  },
+  "description_blz": {
+    "en_US": "Attacks from your Shadowfiend siphon life from enemies, healing a nearby injured ally for 9,961.\r\n\r\nAttacks from your Mindbender siphon life from enemies, healing a nearby injured ally for 3,320.",
+    "es_MX": "Los ataques de tu Maligno de las Sombras succionan vida de tus enemigos, lo que sana 9,961 p. de salud a un aliado herido cercano.\r\n\r\nLos ataques de tus Dominamentes succionan vida de los enemigos y sanan 3,320 p. de salud a un aliado herido cercano.",
+    "pt_BR": "Ataques do seu Dem\u00f4nio das Sombras drenam vida dos inimigos, concedendo 9.961 de cura a um aliado ferido pr\u00f3ximo.\r\n\r\nAtaques do seu Dobramentes drenam de vida dos inimigos, concedendo 3.320 de cura a um aliado ferido pr\u00f3ximo.",
+    "de_DE": "Die Angriffe Eures Schattengeistes entziehen Gegnern Lebenskraft, wodurch ein verletzter Verb\u00fcndeter in der N\u00e4he um 9.961 Gesundheit geheilt wird.\r\n\r\nDie Angriffe Eures Geistbeugers entziehen Gegnern Lebenskraft, wodurch ein verletzter Verb\u00fcndeter in der N\u00e4he um 3.320 Gesundheit geheilt wird.",
+    "en_GB": "Attacks from your Shadowfiend siphon life from enemies, healing a nearby injured ally for 9,961.\r\n\r\nAttacks from your Mindbender siphon life from enemies, healing a nearby injured ally for 3,320.",
+    "es_ES": "Los ataques de tu maligno de las Sombras absorben la salud de los enemigos, lo que sana 9961 p. a un aliado herido cercano.\r\n\r\nLos ataques de tu dominamentes absorben la salud de los enemigos, lo que sana 3320 p. a un aliado herido cercano.",
+    "fr_FR": "Les attaques de votre ombrefiel drainent la vie des ennemis, ce qui soigne un alli\u00e9 bless\u00e9 proche de 9961.\r\n\r\nLes attaques de votre torve-esprit drainent la vie de vos ennemis, ce qui soigne un alli\u00e9 bless\u00e9 proche de 3320.",
+    "it_IT": "Gli attacchi dello Spirito d'Ombra risucchiano salute ai nemici, curando un alleato ferito vicino di 9.961.\r\n\r\nGli attacchi del Plagiamente risucchiano salute ai nemici, curando un alleato ferito vicino di 3.320.",
+    "ru_RU": "\u0410\u0442\u0430\u043a\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u0438\u0441\u0447\u0430\u0434\u0438\u044f \u0422\u044c\u043c\u044b \u0432\u044b\u0442\u044f\u0433\u0438\u0432\u0430\u044e\u0442 \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u043c\u0443\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0440\u0430\u043d\u0435\u043d\u043e\u043c\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 9961 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.\r\n\r\n\u0410\u0442\u0430\u043a\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u043f\u043e\u0434\u0447\u0438\u043d\u0438\u0442\u0435\u043b\u044f \u0440\u0430\u0437\u0443\u043c\u0430 \u0432\u044b\u0442\u044f\u0433\u0438\u0432\u0430\u044e\u0442 \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0435\u043c\u0443\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0440\u0430\u043d\u0435\u043d\u043e\u043c\u0443 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 3320 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f.",
+    "ko_KR": "\uc5b4\ub460\uc758 \ub9c8\uadc0\uac00 \uacf5\uaca9 \uc2dc \uc801\uc758 \uc0dd\uba85\ub825\uc744 \ucc29\ucde8\ud558\uc5ec \uc8fc\uc704\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc744 9,961\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\n\ud658\uac01\uc758 \ub9c8\uadc0\uac00 \uacf5\uaca9 \uc2dc \uc801\uc758 \uc0dd\uba85\ub825\uc744 \ucc29\ucde8\ud558\uc5ec \uc8fc\uc704\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc744 3,320\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u6697\u5f71\u60e1\u9b54\u653b\u64ca\u6642\uff0c\u53ef\u5438\u53d6\u6575\u4eba\u7684\u751f\u547d\uff0c\u4f7f\u9644\u8fd1\u4e00\u4f4d\u53d7\u50b7\u7684\u76df\u53cb\u6062\u5fa99,961\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u4f60\u7684\u5c48\u5fc3\u9b54\u653b\u64ca\u6642\uff0c\u53ef\u5438\u53d6\u6575\u4eba\u7684\u751f\u547d\uff0c\u4f7f\u9644\u8fd1\u4e00\u4f4d\u53d7\u50b7\u7684\u76df\u53cb\u6062\u5fa93,320\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u4f60\u7684\u6697\u5f71\u9b54\u7684\u653b\u51fb\u4f1a\u5438\u6536\u654c\u4eba\u7684\u751f\u547d\u529b\uff0c\u4e3a\u9644\u8fd1\u4e00\u540d\u53d7\u4f24\u7684\u76df\u53cb\u6062\u590d9,961\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u4f60\u7684\u6467\u5fc3\u9b54\u7684\u653b\u51fb\u4f1a\u5438\u6536\u654c\u4eba\u7684\u751f\u547d\u529b\uff0c\u4e3a\u9644\u8fd1\u4e00\u540d\u53d7\u4f24\u7684\u76df\u53cb\u6062\u590d3,320\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

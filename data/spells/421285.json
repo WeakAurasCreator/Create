@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "421285"
+  "SpellID": "421285",
+  "name_blz": {
+    "en_US": "Trusty Whip",
+    "es_MX": "L\u00e1tigo confiable",
+    "pt_BR": "Chicote de Estima\u00e7\u00e3o",
+    "de_DE": "Treue Peitsche",
+    "en_GB": "Trusty Whip",
+    "es_ES": "L\u00e1tigo fiable",
+    "fr_FR": "Fid\u00e8le fouet",
+    "it_IT": "Frusta Fidata",
+    "ru_RU": "\u0412\u0435\u0440\u043d\u044b\u0439 \u0445\u043b\u044b\u0441\u0442",
+    "ko_KR": "\ubbff\uc74c\uc9c1\ud55c \ucc44\ucc0d",
+    "zh_TW": "\u4fe1\u4efb\u4e4b\u97ad",
+    "zh_CN": "\u53ef\u9760\u7684\u76ae\u97ad"
+  },
+  "description_blz": {
+    "en_US": "Brann uses his whip to lash the enemy, interrupting enemy spellcasting and preventing any spell in that school from being cast for 3 sec.\r\n",
+    "es_MX": "Brann usa su l\u00e1tigo para azotar al enemigo, lo que interrumpe el lanzamiento de hechizos enemigos y evita que se lancen hechizos de esa escuela durante 3 s.\r\n",
+    "pt_BR": "Brann usa o chicote para a\u00e7oitar o inimigo, interrompendo o lan\u00e7amento de feiti\u00e7os e impedindo que qualquer feiti\u00e7o da mesma escola seja lan\u00e7ado por 3 s.\r\n",
+    "de_DE": "Brann schl\u00e4gt den Gegner mit seiner Peitsche, unterbricht das Wirken von Zaubern und verhindert 3 Sek. lang, dass Zauber dieser Art gewirkt werden k\u00f6nnen.\r\n",
+    "en_GB": "Brann uses his whip to lash the enemy, interrupting enemy spellcasting and preventing any spell in that school from being cast for 3 sec.\r\n",
+    "es_ES": "Brann usa su l\u00e1tigo para atacar al enemigo, lo que interrumpe el lanzamiento de hechizos y evita que se lance cualquier hechizo de esa escuela durante 3 s.\r\n",
+    "fr_FR": "Brann utilise son fouet pour lac\u00e9rer l\u2019adversaire, ce qui interrompt l\u2019incantation de sort et emp\u00eache tout sort de la m\u00eame \u00e9cole de magie d\u2019\u00eatre lanc\u00e9 pendant 3 s.\r\n",
+    "it_IT": "Brann usa la frusta per colpire il nemico, interrompendo il lancio d'incantesimi e impedendo il lancio di altri incantesimi della stessa scuola di magia per 3 s.\r\n",
+    "ru_RU": "\u0411\u0440\u0430\u043d\u043d \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0445\u043b\u044b\u0441\u0442\u043e\u043c, \u043f\u0440\u0435\u0440\u044b\u0432\u0430\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439 \u0438 \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0442\u044c \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u044f \u0442\u043e\u0439 \u0436\u0435 \u0448\u043a\u043e\u043b\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 3 \u0441\u0435\u043a.\r\n",
+    "ko_KR": "\ube0c\ub780\uc774 \ucc44\ucc0d\uc73c\ub85c \uc801\uc744 \uac15\ud0c0\ud574 \uc8fc\ubb38 \uc2dc\uc804\uc744 \ucc28\ub2e8\ud558\uace0 \ub300\uc0c1\uc774 3\ucd08 \ub3d9\uc548 \uac19\uc740 \uacc4\uc5f4\uc758 \uc8fc\ubb38\uc744 \uc2dc\uc804\ud558\ub294 \uac83\uc744 \ubc29\ud574\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u5e03\u840a\u6069\u7528\u4ed6\u7684\u97ad\u5b50\u653b\u64ca\u6575\u4eba\uff0c\u4e2d\u65b7\u5c0d\u65b9\u7684\u65bd\u6cd5\uff0c\u4e26\u4f7f\u5176\u7121\u6cd5\u65bd\u653e\u4efb\u4f55\u540c\u7cfb\u6cd5\u8853\uff0c\u6301\u7e8c3\u79d2\u3002\r\n",
+    "zh_CN": "\u5e03\u83b1\u6069\u7528\u76ae\u97ad\u62bd\u6253\u654c\u4eba\uff0c\u6253\u65ad\u654c\u65b9\u65bd\u6cd5\u5e76\u4f7f\u8be5\u7cfb\u6cd5\u672f\u65e0\u6cd5\u65bd\u653e\uff0c\u6301\u7eed3\u79d2\u3002\r\n"
+  }
 }

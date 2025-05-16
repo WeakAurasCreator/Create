@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393648"
+  "SpellID": "393648",
+  "name_blz": {
+    "en_US": "Hunter Marksmanship Class Set 2pc",
+    "es_MX": "Hunter Marksmanship Class Set 2pc",
+    "pt_BR": "Ca\u00e7ador, Precis\u00e3o, Conjunto de Classe, 2 p\u00e7",
+    "de_DE": "J\u00e4gerklassenset, Treffsicherheit, 2 Teile",
+    "en_GB": "Hunter Marksmanship Class Set 2pc",
+    "es_ES": "Conjunto de clase de cazador Punter\u00eda (2 piezas)",
+    "fr_FR": "Ensemble de classe de chasseur Pr\u00e9cision (2\u00a0pi\u00e8ces)",
+    "it_IT": "Cacciatore della Precisione di Tiro, Set di Classe, 2 Pezzi",
+    "ru_RU": "\u041a\u043b\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442 \u043e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u2013 \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u0430, 2 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430",
+    "ko_KR": "\uc0ac\uaca9 \uc0ac\ub0e5\uafbc \uc9c1\uc5c5 \uc138\ud2b8 2\uc138\ud2b8",
+    "zh_TW": "\u7375\u4eba\u5c04\u64ca\u8077\u696d\u5957\u88dd2\u4ef6",
+    "zh_CN": "\u730e\u4eba\u5c04\u51fb\u804c\u4e1a\u5957\u88c5\u4e24\u4ef6\u5957"
+  },
+  "description_blz": {
+    "en_US": "Arcane Shot and Multi-Shot critical hits cause your next Aimed Shot to cause the target to bleed for 40% of damage dealt over 6 sec.",
+    "es_MX": "Los golpes cr\u00edticos de Disparo arcano y Multidisparo hacen que tu siguiente Disparo de punter\u00eda provoque un sangrado en el objetivo y reciba un 40% del da\u00f1o infligido durante 6 s.",
+    "pt_BR": "Os acertos cr\u00edticos de Tiro Arcano e Tiro M\u00faltiplo fazem com que o seu pr\u00f3ximo Tiro Certo provoque sangramento no alvo, que receber\u00e1 40% do dano causado ao longo de 6 s.",
+    "de_DE": "Kritische Treffer mit 'Arkaner Schuss' und 'Mehrfachschuss' bewirken, dass Euer n\u00e4chster Einsatz von 'Gezielter Schuss' das Ziel bluten l\u00e4sst, was ihm 40% des verursachten Schadens im Verlauf von 6 Sek. zuf\u00fcgt.",
+    "en_GB": "Arcane Shot and Multi-Shot critical hits cause your next Aimed Shot to cause the target to bleed for 40% of damage dealt over 6 sec.",
+    "es_ES": "Los golpes cr\u00edticos de Disparo Arcano y Multidisparo hacen que tu siguiente Disparo de punter\u00eda provoque un efecto de sangrado al objetivo que le infligir\u00e1 un 40% del da\u00f1o del disparo a lo largo de 6 s.",
+    "fr_FR": "Les coups critiques de Tir des Arcanes et Fl\u00e8ches multiples font saigner la cible qui subit 40% des d\u00e9g\u00e2ts inflig\u00e9s en 6 s.",
+    "it_IT": "I colpi critici di Tiro Arcano e Tiro Multiplo permettono al successivo Tiro Mirato di far sanguinare il bersaglio, infliggendo danni aggiuntivi pari al 40% dei danni inflitti in 6 s.",
+    "ru_RU": "\u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0443\u0434\u0430\u0440\u044b \"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0438 \"\u0417\u0430\u043b\u043f\u0430\" \u043c\u043e\u0433\u0443\u0442 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \"\u041f\u0440\u0438\u0446\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\", \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u043e\u043d \u0432\u044b\u0437\u043e\u0432\u0435\u0442 \u0443 \u0446\u0435\u043b\u0438 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u0435, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0435 \u0435\u0449\u0435 40% \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uc2e0\ube44\ud55c \uc0ac\uaca9 \ubc0f \uc77c\uc81c \uc0ac\uaca9\uc774 \uce58\uba85\ud0c0\ub85c \uc801\uc911\ud558\uba74 \ub2e4\uc74c \uc870\uc900 \uc0ac\uaca9\uc774 \ub300\uc0c1\uc5d0\uac8c \ucd9c\ud608\uc744 \uc77c\uc73c\ucf1c 6\ucd08\uc5d0 \uac78\uccd0 \uc785\ud78c \ud53c\ud574\uc758 40%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u79d8\u6cd5\u5c04\u64ca\u548c\u591a\u91cd\u5c04\u64ca\u9020\u6210\u81f4\u547d\u4e00\u64ca\u5f8c\uff0c\u6703\u4f7f\u76ee\u6a19\u56e0\u70ba\u6d41\u8840\u57286\u79d2\u5167\u53d7\u5230\u76f8\u7576\u65bc40%\u7684\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5965\u672f\u5c04\u51fb\u548c\u591a\u91cd\u5c04\u51fb\u4ea7\u751f\u7206\u51fb\u65f6\u4f1a\u4f7f\u4f60\u7684\u4e0b\u4e00\u6b21\u7784\u51c6\u5c04\u51fb\u4f7f\u76ee\u6807\u6d41\u8840\uff0c\u4f24\u5bb3\u76f8\u5f53\u4e8e\u57286\u79d2\u5185\u9020\u6210\u4f24\u5bb3\u768440%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "404522"
+  "SpellID": "404522",
+  "name_blz": {
+    "en_US": "Spiritwalker's Tidal Totem",
+    "es_MX": "T\u00f3tem de las mareas de caminaesp\u00edritus",
+    "pt_BR": "Totem das Mar\u00e9s do Andarilho Espiritual",
+    "de_DE": "Gezeitentotem des Geistwandlers",
+    "en_GB": "Spiritwalker's Tidal Totem",
+    "es_ES": "T\u00f3tem de mareas de caminaesp\u00edritus",
+    "fr_FR": "Totem des mar\u00e9es du marcheur des esprits",
+    "it_IT": "Totem della Marea dello Spiritista",
+    "ru_RU": "\u0422\u043e\u0442\u0435\u043c \u0432\u043e\u043b\u043d \u0434\u0443\u0445\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u0438\u043a\u0430",
+    "ko_KR": "\uc601\ud63c\ub098\uadf8\ub124\uc758 \ud574\uc77c \ud1a0\ud15c",
+    "zh_TW": "\u9748\u884c\u8005\u7684\u6d6a\u6f6e\u5716\u9a30",
+    "zh_CN": "\u7075\u9b42\u884c\u8005\u7684\u6f6e\u6c50\u56fe\u817e"
+  },
+  "description_blz": {
+    "en_US": "After using Healing Tide Totem, the cast time of your next 3 Healing Surges within 30 sec is reduced by 100% and their mana cost is reduced by 50%.",
+    "es_MX": "Despu\u00e9s de usar T\u00f3tem de Marea de sanaci\u00f3n, el tiempo de lanzamiento de 3 Oleadas de sanaci\u00f3n que lances en los pr\u00f3ximos 30 s se reduce un 100% y su costo de man\u00e1 se reduce un 50%.",
+    "pt_BR": "Ap\u00f3s usar o Totem de Mar\u00e9 Curativa, reduz em 100% o tempo de lan\u00e7amento de 3 feiti\u00e7os Mar\u00e9 Curativa e em 50% o custo de mana dentro de 30 s.",
+    "de_DE": "Nach dem Einsatz des Totems der Heilungsflut wird die Zauberzeit Eurer n\u00e4chsten 3 Eins\u00e4tze von 'Heilende Woge' innerhalb von 30 Sek. um 100% und ihre Manakosten um 50% verringert.",
+    "en_GB": "After using Healing Tide Totem, the cast time of your next 3 Healing Surges within 30 sec is reduced by 100% and their mana cost is reduced by 50%.",
+    "es_ES": "Tras usar el t\u00f3tem de Marea de sanaci\u00f3n, el tiempo de lanzamiento de tus siguientes 3 Oleadas de sanaci\u00f3n durante 30 s se reduce un 100% y su coste de man\u00e1 se reduce un 50%.",
+    "fr_FR": "Apr\u00e8s utilisation de Totem de mar\u00e9e de soins, le temps d\u2019incantation de vos 3\u00a0prochaines techniques Afflux de soins dans les 30 s est r\u00e9duit de 100\u00a0% et leur co\u00fbt en mana est r\u00e9duit de 50\u00a0%.",
+    "it_IT": "Usare il Totem della Marea Curativa riduce il tempo di lancio delle successive 3 Eruzioni Benefiche lanciate entro 30 s del 100% e ne riduce il costo in mana del 50%.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \"\u0422\u043e\u0442\u0435\u043c\u0430 \u0446\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043b\u0438\u0432\u0430\" \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f 3 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \"\u0418\u0441\u0446\u0435\u043b\u044f\u044e\u0449\u0438\u0445 \u0432\u0441\u043f\u043b\u0435\u0441\u043a\u043e\u0432\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100%, \u0430 \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u043d\u0430 \u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0441\u043d\u0438\u0436\u0430\u044e\u0442\u0441\u044f \u043d\u0430 50%. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 30 \u0441\u0435\u043a.",
+    "ko_KR": "\uce58\uc720\uc758 \ud574\uc77c \ud1a0\ud15c\uc744 \uc0ac\uc6a9\ud558\uba74 \ub2e4\uc74c 30\ucd08 \ub3d9\uc548 \uc2dc\uc804\ud558\ub294 3\ud68c\uc758 \uce58\uc720\uc758 \ud30c\ub3c4\uc758 \uc2dc\uc804 \uc2dc\uac04\uc774 100%\ub9cc\ud07c, \ub9c8\ub098 \uc18c\ubaa8\ub7c9\uc740 50%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f7f\u7528\u7642\u7652\u4e4b\u6f6e\u5716\u9a30\u5f8c\uff0c\u572830\u79d2\u5167\u7684\u4e0b3\u6b21\u6d36\u6e67\u6cbb\u7642\u7684\u65bd\u6cd5\u6642\u9593\u6703\u7e2e\u77ed100%\uff0c\u6cd5\u529b\u6d88\u8017\u964d\u4f4e50%\u3002",
+    "zh_CN": "\u4f7f\u7528\u6cbb\u7597\u4e4b\u6f6e\u56fe\u817e\u540e\uff0c\u4f60\u572830\u79d2\u5185\u7684\u4e0b3\u4e2a\u6cbb\u7597\u4e4b\u6d8c\u7684\u65bd\u6cd5\u65f6\u95f4\u7f29\u77ed100%\uff0c\u6cd5\u529b\u503c\u6d88\u8017\u964d\u4f4e50%\u3002"
+  }
 }

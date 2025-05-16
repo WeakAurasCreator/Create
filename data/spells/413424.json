@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "413424"
+  "SpellID": "413424",
+  "name_blz": {
+    "en_US": "Empower Commission",
+    "es_MX": "Comisi\u00f3n potenciada",
+    "pt_BR": "Potencializar Ordem",
+    "de_DE": "Anstecknadel erm\u00e4chtigen",
+    "en_GB": "Empower Commission",
+    "es_ES": "Potenciar comisi\u00f3n",
+    "fr_FR": "Renforcer le brevet",
+    "it_IT": "Potenziamento Commissione",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0439 \u0436\u0435\u0442\u043e\u043d",
+    "ko_KR": "\uc704\uc784\ubd09 \uac15\ud654",
+    "zh_TW": "\u5f37\u5316\u59d4\u4efb\u5fbd\u7ae0",
+    "zh_CN": "\u8d4b\u6743\u59d4\u4efb"
+  },
+  "description_blz": {
+    "en_US": "Unlocks the ability to discover ancient secrets and acquire Corruptor's Scourgestones within Naxxramas for all characters for your Warband.\n\nThe Argent Dawn Commission is no longer needed to loot scourgestones.",
+    "es_MX": "Desbloquea la habilidad de descubrir secretos ancestrales y adquirir Piedras de la Plaga del corruptor en Naxxramas para todos los personajes de tu tropa.\r\n\r\nYa no se necesita a la Comisi\u00f3n de El Alba Argenta para conseguir Piedras de la Plaga.",
+    "pt_BR": "Desbloqueia a habilidade de descobrir segredos ancestrais e adquirir Pedras do Flagelo do Corruptor em Naxxramas para todos os seus personagens do seu Bando de Guerra.\r\n\r\nA Ordem da Aurora Arg\u00eantea n\u00e3o \u00e9 mais necess\u00e1ria para saquear Pedras do Flagelo do Corruptor.",
+    "de_DE": "Schaltet f\u00fcr alle Charaktere Eurer Kriegsmeute die F\u00e4higkeit frei, in Naxxramas uralte Geheimnisse zu entdecken und Gei\u00dfelsteine des Verderbers zu erhalten.\r\n\r\nDie Anstecknadel der Argentumd\u00e4mmerung wird nicht mehr ben\u00f6tigt, um Gei\u00dfelsteine zu erbeuten.",
+    "en_GB": "Unlocks the ability to discover ancient secrets and acquire Corruptor's Scourgestones within Naxxramas for all characters for your Warband.\n\nThe Argent Dawn Commission is no longer needed to loot scourgestones.",
+    "es_ES": "Desbloquea la capacidad de descubrir secretos ancestrales y de conseguir piedras de la Plaga del corruptor en Naxxramas para todos los personajes de tu banda guerrera.\r\n\r\nYa no necesitas una comisi\u00f3n de El Alba Argenta para despojar piedras de la Plaga.",
+    "fr_FR": "Permet de d\u00e9couvrir des secrets antiques et d\u2019acqu\u00e9rir des pierres du Fl\u00e9au de corrupteur dans Naxxramas pour tous les personnages de votre bataillon.\r\n\r\nIl n\u2019est plus n\u00e9cessaire de poss\u00e9der le brevet de l\u2019Aube d\u2019argent pour r\u00e9cup\u00e9rer des pierres du Fl\u00e9au.",
+    "it_IT": "Sblocca la possibilit\u00e0 di scoprire antichi segreti e ottenere le Pietre del Flagello del Corruttore a Naxxramas per tutti i personaggi della Brigata.\r\n\r\nNon \u00e8 pi\u00f9 necessario indossare il Distintivo dell'Alba d'Argento per depredare le Pietre del Flagello.",
+    "ru_RU": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0441\u0435\u043c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430\u043c \u0438\u0437 \u0432\u0430\u0448\u0435\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0434\u0440\u0435\u0432\u043d\u0438\u0435 \u0442\u0430\u0439\u043d\u044b \u0438 \u0434\u043e\u0431\u044b\u0432\u0430\u0442\u044c \u043a\u0430\u043c\u043d\u0438 \u043e\u0441\u043a\u0432\u0435\u0440\u043d\u0438\u0442\u0435\u043b\u044f \u0432 \u041d\u0430\u043a\u0441\u0440\u0430\u043c\u0430\u0441\u0435.\r\n\r\n\u0412\u0430\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u043d\u0443\u0436\u0435\u043d \u0436\u0435\u0442\u043e\u043d \u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e\u0433\u043e \u0420\u0430\u0441\u0441\u0432\u0435\u0442\u0430, \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0431\u044b\u0432\u0430\u0442\u044c \u043a\u0430\u043c\u043d\u0438 \u041f\u043b\u0435\u0442\u0438.",
+    "ko_KR": "\uc804\ud22c\ubd80\ub300 \ub0b4 \ubaa8\ub4e0 \uce90\ub9ad\ud130\uac00 \ub099\uc2a4\ub77c\ub9c8\uc2a4\uc5d0\uc11c \uace0\ub300\uc758 \ube44\ubc00\uc744 \ubc1d\ud600\ub0b4\uace0 \ud0c0\ub77d\uc790\uc758 \uc2a4\uceec\uc9c0\uc11d\uc744 \uc785\uc218\ud560 \uc218 \uc788\ub3c4\ub85d \ud569\ub2c8\ub2e4.\r\n\r\n\uc774\uc81c \uc740\ube5b \uc5ec\uba85\ud68c \uc704\uc784\ubd09 \uc5c6\uc774\ub3c4 \uc2a4\uceec\uc9c0\uc11d\uc744 \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u70ba\u6230\u968a\u4e2d\u7684\u6240\u6709\u89d2\u8272\u89e3\u9396\u5728\u7d0d\u514b\u85a9\u746a\u65af\u767c\u6398\u53e4\u8001\u79d8\u5bc6\u548c\u53d6\u5f97\u58ae\u843d\u8005\u7684\u5929\u8b74\u77f3\u7684\u80fd\u529b\u3002\r\n\r\n\u4e0d\u518d\u9700\u8981\u9280\u8272\u9ece\u660e\u59d4\u4efb\u5fbd\u7ae0\uff0c\u5c31\u80fd\u7372\u5f97\u5929\u8b74\u77f3\u3002",
+    "zh_CN": "\u4e3a\u6218\u56e2\u4e2d\u7684\u6240\u6709\u89d2\u8272\u89e3\u9501\u5728\u7eb3\u514b\u8428\u739b\u65af\u63ed\u9732\u8fdc\u53e4\u79d8\u5bc6\u3001\u83b7\u53d6\u5815\u843d\u8005\u7684\u5929\u707e\u77f3\u7684\u80fd\u529b\u3002\r\n\r\n\u4e0d\u518d\u9700\u8981\u94f6\u8272\u9ece\u660e\u59d4\u4efb\u5fbd\u7ae0\u5373\u53ef\u62fe\u53d6\u5929\u707e\u77f3\u3002"
+  }
 }

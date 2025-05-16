@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "393956"
+  "SpellID": "393956",
+  "name_blz": {
+    "en_US": "Waning Twilight",
+    "es_MX": "Crep\u00fasculo menguante",
+    "pt_BR": "Crep\u00fasculo Minguante",
+    "de_DE": "Schwindendes Zwielicht",
+    "en_GB": "Waning Twilight",
+    "es_ES": "Crep\u00fasculo menguante",
+    "fr_FR": "Cr\u00e9puscule mourant",
+    "it_IT": "Crepuscolo Calante",
+    "ru_RU": "\u041e\u0442\u0441\u0442\u0443\u043f\u0430\u044e\u0449\u0438\u0435 \u0441\u0443\u043c\u0435\u0440\u043a\u0438",
+    "ko_KR": "\uc800\ubb34\ub294 \ud669\ud63c",
+    "zh_TW": "\u66ae\u5149\u8667\u8755",
+    "zh_CN": "\u9611\u73ca\u66ae\u5149"
+  },
+  "description_blz": {
+    "en_US": "When you have 3 periodic effects from your spells on a target, your damage and healing on them are increased by 6%.",
+    "es_MX": "Cuando tienes 3 efectos peri\u00f3dicos de tus hechizos en un objetivo, tu da\u00f1o y sanaci\u00f3n sobre este aumentan un 6%.",
+    "pt_BR": "Quando voc\u00ea tem 3 efeitos peri\u00f3dicos dos seus feiti\u00e7os em um alvo, seu dano e sua cura nele s\u00e3o aumentados em 6%.",
+    "de_DE": "Wenn 3 Eurer durch Zauber ausgel\u00f6sten regelm\u00e4\u00dfigen Effekte auf einem Ziel aktiv sind, werden Euer Schaden und Eure Heilung bei ihm um 6% erh\u00f6ht.",
+    "en_GB": "When you have 3 periodic effects from your spells on a target, your damage and healing on them are increased by 6%.",
+    "es_ES": "Cuando tienes 3 efectos peri\u00f3dicos de tus hechizos en un objetivo, tu da\u00f1o y tu sanaci\u00f3n sobre \u00e9l aumentan un 6%.",
+    "fr_FR": "Lorsqu\u2019il y a 3\u00a0effets p\u00e9riodiques de vos sorts sur une cible, les d\u00e9g\u00e2ts que vous lui infligez et les soins que vous lui prodiguez sont augment\u00e9s de 6\u00a0%.",
+    "it_IT": "Quando su un bersaglio sono attivi 3 effetti periodici dei propri incantesimi, i danni inflitti e le cure fornite a quel bersaglio aumentano del 6%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u043d\u0430 \u0446\u0435\u043b\u0438 3 \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \u0432\u0430\u0448\u0438\u0445 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439, \u0432\u0430\u0448 \u0443\u0440\u043e\u043d \u043f\u0440\u043e\u0442\u0438\u0432 \u044d\u0442\u043e\u0439 \u0446\u0435\u043b\u0438 \u0438\u043b\u0438 \u0441\u0438\u043b\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c\u043e\u0433\u043e \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 6%.",
+    "ko_KR": "\uc8fc\ubb38\uc73c\ub85c \ub300\uc0c1\uc5d0\uac8c \uc8fc\uae30\uc801\uc778 \ud6a8\uacfc 3\uac1c\ub97c \ubd80\uc5ec\ud558\uba74, \ub300\uc0c1\uc5d0 \ub300\ud55c \uacf5\uaca9\ub825 \ubc0f \uce58\uc720\ub7c9\uc774 6%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u7576\u76ee\u6a19\u8eab\u4e0a\u67093\u500b\u4f60\u7684\u6cd5\u8853\u65bd\u52a0\u7684\u9031\u671f\u6027\u6548\u679c\u6642\uff0c\u4f60\u5c0d\u5176\u9020\u6210\u7684\u50b7\u5bb3\u548c\u6cbb\u7642\u6548\u679c\u63d0\u9ad86%\u3002",
+    "zh_CN": "\u5f53\u4e00\u540d\u76ee\u6807\u8eab\u4e0a\u540c\u65f6\u5b58\u57283\u4e2a\u7531\u4f60\u7684\u6cd5\u672f\u65bd\u52a0\u7684\u5468\u671f\u6027\u6548\u679c\u65f6\uff0c\u4f60\u5bf9\u5176\u9020\u6210\u7684\u4f24\u5bb3\u548c\u6cbb\u7597\u6548\u679c\u63d0\u9ad86%\u3002"
+  }
 }

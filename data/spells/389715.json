@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "389715"
+  "SpellID": "389715",
+  "name_blz": {
+    "en_US": "Chains of Anger",
+    "es_MX": "Cadenas de furia",
+    "pt_BR": "Correntes da Ira",
+    "de_DE": "Ketten des Zorns",
+    "en_GB": "Chains of Anger",
+    "es_ES": "Cadenas de ira",
+    "fr_FR": "Cha\u00eenes de col\u00e8re",
+    "it_IT": "Catene della Rabbia",
+    "ru_RU": "\u041f\u0435\u0447\u0430\u0442\u044c \u0433\u043d\u0435\u0432\u0430",
+    "ko_KR": "\ubd84\ub178\uc758 \uc0ac\uc2ac",
+    "zh_TW": "\u61a4\u6012\u9396\u934a",
+    "zh_CN": "\u6124\u6012\u9501\u94fe"
+  },
+  "description_blz": {
+    "en_US": "Increases the duration of your Sigils by 2 sec and radius by 2 yds.",
+    "es_MX": "Aumenta la duraci\u00f3n de tu Sigilo 2 s y el radio 2 m.",
+    "pt_BR": "Aumenta em 2 s a dura\u00e7\u00e3o dos seus Signos e o raio em 2 m.",
+    "de_DE": "Erh\u00f6ht die Dauer Eurer Zeichen um 2 Sek. und ihren Radius um 2 Meter.",
+    "en_GB": "Increases the duration of your Sigils by 2 sec and radius by 2 yds.",
+    "es_ES": "Aumenta 2 s la duraci\u00f3n de tus sigilos y 2 m su radio.",
+    "fr_FR": "Augmente la dur\u00e9e de vos sigils de 2\u00a0s et leur rayon d\u2019effet de 2\u00a0m.",
+    "it_IT": "Aumenta la durata dei Sigilli di 2 di s e il loro raggio di 2 m.",
+    "ru_RU": "\u041f\u0440\u043e\u0434\u043b\u0435\u0432\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u0435\u0447\u0430\u0442\u0435\u0439 \u043d\u0430 2 \u0441\u0435\u043a., \u0430 \u0440\u0430\u0434\u0438\u0443\u0441 \u0438\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 \u043d\u0430 2 \u043c.",
+    "ko_KR": "\uc778\uc7a5\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c, \ubc18\uacbd\uc740 2\ubbf8\ud130\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7b26\u5370\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95772\u79d2\uff0c\u6548\u679c\u7bc4\u570d\u63d0\u9ad82\u78bc\u3002",
+    "zh_CN": "\u5492\u7b26\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f2\u79d2\uff0c\u534a\u5f84\u6269\u59272\u7801\u3002"
+  }
 }
