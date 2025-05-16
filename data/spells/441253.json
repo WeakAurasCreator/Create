@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "441253"
+  "SpellID": "441253",
+  "name_blz": {
+    "en_US": "Nimble Flyer",
+    "es_MX": "Volador liviano",
+    "pt_BR": "Voador Veloz",
+    "de_DE": "Flinker Flieger",
+    "en_GB": "Nimble Flyer",
+    "es_ES": "Volador \u00e1gil",
+    "fr_FR": "Vol agile",
+    "it_IT": "Volo Agile",
+    "ru_RU": "\u041b\u043e\u0432\u043a\u0438\u0435 \u043a\u0440\u044b\u043b\u044c\u044f",
+    "ko_KR": "\ub0a0\ub835\ud55c \ube44\ud589",
+    "zh_TW": "\u9748\u5de7\u98db\u5c07",
+    "zh_CN": "\u7075\u5de7\u98de\u884c"
+  },
+  "description_blz": {
+    "en_US": "While Hovering, damage taken from area of effect attacks is reduced by 10%.",
+    "es_MX": "Mientras est\u00e1s Sobrevolando, el da\u00f1o recibido de los ataques con \u00e1rea de efecto se reduce un 10%.",
+    "pt_BR": "Durante Pairar, o dano recebido de ataques com efeito em \u00e1rea \u00e9 reduzido em 10%.",
+    "de_DE": "Beim Schweben ist der durch Fl\u00e4chenangriffe erlittene Schaden um 10% verringert.",
+    "en_GB": "While Hovering, damage taken from area of effect attacks is reduced by 10%.",
+    "es_ES": "Mientras est\u00e1s flotando, el da\u00f1o recibido por ataques de \u00e1rea de efecto se reduce un 10%.",
+    "fr_FR": "Les d\u00e9g\u00e2ts inflig\u00e9s des attaques \u00e0 effet de zone sont r\u00e9duits de 10\u00a0% pendant Survoler.",
+    "it_IT": "Durante Volo Sospeso riduce i danni subiti dagli attacchi con effetti ad area del 10%.",
+    "ru_RU": "\"\u0411\u0440\u0435\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u0435\u0442\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u043e\u0442 \u0430\u0442\u0430\u043a \u043f\u043e \u043e\u0431\u043b\u0430\u0441\u0442\u0438, \u043d\u0430 10%.",
+    "ko_KR": "\ubd80\uc591 \uc911\uc77c \ub54c \uad11\uc5ed \uacf5\uaca9\uc73c\ub85c \ubc1b\ub294 \ud53c\ud574 10%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u76e4\u65cb\u6642\u53d7\u5230\u7684\u7bc4\u570d\u653b\u64ca\u50b7\u5bb3\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u60ac\u7a7a\u65f6\uff0c\u53d7\u5230\u7684\u8303\u56f4\u653b\u51fb\u4f24\u5bb3\u964d\u4f4e10%\u3002"
+  }
 }
