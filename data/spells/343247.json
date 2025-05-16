@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "343247"
+  "SpellID": "343247",
+  "name_blz": {
+    "en_US": "Improved Traps",
+    "es_MX": "Trampas mejoradas",
+    "pt_BR": "Armadilhas Aprimoradas",
+    "de_DE": "Verbesserte Fallen",
+    "en_GB": "Improved Traps",
+    "es_ES": "Trampas mejoradas",
+    "fr_FR": "Pi\u00e8ges am\u00e9lior\u00e9s",
+    "it_IT": "Trappole Migliorate",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u044b\u0435 \u043b\u043e\u0432\u0443\u0448\u043a\u0438",
+    "ko_KR": "\ub36b \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u9677\u9631",
+    "zh_CN": "\u5f3a\u5316\u9677\u9631"
+  },
+  "description_blz": {
+    "en_US": "The cooldown of Tar Trap, High Explosive Trap, Implosive Trap, and Freezing Trap is reduced by 5.0 sec.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Trampa de alquitr\u00e1n, Trampa altamente explosiva, Trampa implosiva y Trampa congelante se reduce 5.0 s.",
+    "pt_BR": "Reduz em 5,0 s a recarga de Armadilha de Piche, Armadilha Altamente Explosiva e Armadilha Congelante.",
+    "de_DE": "Verringert die Abklingzeit von 'Teerfalle', 'Hochexplosivfalle', 'Implosionsfalle' und 'Eisk\u00e4ltefalle' um 5,0 Sek.",
+    "en_GB": "The cooldown of Tar Trap, High Explosive Trap, Implosive Trap, and Freezing Trap is reduced by 5.0 sec.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Trampa de brea, Trampa sumamente explosiva, Trampa implosiva y Trampa congelante se reduce 5,0 s.",
+    "fr_FR": "Les temps de recharge de Pi\u00e8ge de goudron, de Pi\u00e8ge hautement explosif, de Pi\u00e8ge implosif et de Pi\u00e8ge givrant sont r\u00e9duits de 5,0\u00a0s.",
+    "it_IT": "Riduce il tempo di recupero di Trappola di Pece, Trappola ad Alto Potenziale, Trappola Implosiva e Trappola Congelante di 5,0 s.",
+    "ru_RU": "\u0421\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0421\u043c\u043e\u043b\u044f\u043d\u043e\u0439 \u043b\u043e\u0432\u0443\u0448\u043a\u0438\", \"\u0424\u0443\u0433\u0430\u0441\u043d\u043e\u0439 \u043b\u043e\u0432\u0443\u0448\u043a\u0438\", \"\u041a\u043e\u043b\u043b\u0430\u043f\u0441\u0438\u0440\u0443\u044e\u0449\u0435\u0439 \u043b\u043e\u0432\u0443\u0448\u043a\u0438\" \u0438 \"\u0417\u0430\u043c\u043e\u0440\u0430\u0436\u0438\u0432\u0430\u044e\u0449\u0435\u0439 \u043b\u043e\u0432\u0443\u0448\u043a\u0438\" \u043d\u0430 5,0 \u0441\u0435\u043a.",
+    "ko_KR": "\ud0c0\ub974 \ub36b, \uace0\ud3ed\ud0c4 \ub36b, \ub0b4\ud30c \ub36b\uacfc \ube59\uacb0 \ub36b\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5.0\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u701d\u9752\u9677\u9631\u3001\u9ad8\u7206\u9677\u9631\u3001\u7206\u7834\u9677\u9631\u548c\u51b0\u51cd\u9677\u9631\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed5.0\u79d2\u3002",
+    "zh_CN": "\u7126\u6cb9\u9677\u9631\u3001\u9ad8\u7206\u9677\u9631\u3001\u5185\u7206\u9677\u9631\u548c\u51b0\u51bb\u9677\u9631\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed5.0\u79d2\u3002"
+  }
 }

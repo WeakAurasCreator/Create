@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "342914"
+  "SpellID": "342914",
+  "name_blz": {
+    "en_US": "Fear",
+    "es_MX": "Miedo",
+    "pt_BR": "Medo",
+    "de_DE": "Furcht",
+    "en_GB": "Fear",
+    "es_ES": "Miedo",
+    "fr_FR": "Peur",
+    "it_IT": "Paura",
+    "ru_RU": "\u0421\u0442\u0440\u0430\u0445",
+    "ko_KR": "\uacf5\ud3ec",
+    "zh_TW": "\u6050\u61fc\u8853",
+    "zh_CN": "\u6050\u60e7"
+  },
+  "description_blz": {
+    "en_US": "You no longer suffer spell pushback when casting Fear.",
+    "es_MX": "Ya no sufres el retroceso del hechizo mientras lanzas Miedo.",
+    "pt_BR": "Voc\u00ea n\u00e3o sofre atraso enquanto lan\u00e7a Medo.",
+    "de_DE": "Ihr erleidet beim Einsatz von 'Furcht' keine Zauberverz\u00f6gerungen mehr.",
+    "en_GB": "You no longer suffer spell pushback when casting Fear.",
+    "es_ES": "Ya no sufres retroceso de hechizos al lanzar Miedo.",
+    "fr_FR": "Vous ne souffrez plus de r\u00e9duction des sorts lors du lancement de Peur.",
+    "it_IT": "Impedisce di subire effetti di ritardo durante il lancio di Paura.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \"\u0421\u0442\u0440\u0430\u0445\", \u0432\u044b \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u044b \u043a \u043e\u0442\u0441\u0440\u043e\u0447\u043a\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439.",
+    "ko_KR": "\uacf5\ud3ec \uc2dc\uc804 \uc2dc \uc2dc\uc804 \ubc00\ub9bc\uc5d0 \uba74\uc5ed\uc774 \ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u6050\u61fc\u8853\u6642\uff0c\u4f60\u4e0d\u6703\u53d7\u5230\u65bd\u6cd5\u5e72\u64fe\u3002",
+    "zh_CN": "\u65bd\u653e\u6050\u60e7\u65f6\u4e0d\u4f1a\u518d\u906d\u53d7\u65bd\u6cd5\u63a8\u8fdf\u3002"
+  }
 }

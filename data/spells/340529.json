@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "340529"
+  "SpellID": "340529",
+  "name_blz": {
+    "en_US": "Tough as Bark",
+    "es_MX": "Fuerte como corteza",
+    "pt_BR": "Duro Feito Casca",
+    "de_DE": "Borkenhart",
+    "en_GB": "Tough as Bark",
+    "es_ES": "Duro como la corteza",
+    "fr_FR": "Dur comme l\u2019\u00e9corce",
+    "it_IT": "Duro come Corteccia",
+    "ru_RU": "\u0414\u0440\u0435\u0432\u0435\u0441\u043d\u0430\u044f \u0436\u0435\u0441\u0442\u043a\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uac15\uac74\ud55c \uaecd\uc9c8",
+    "zh_TW": "\u5f37\u97cc\u5982\u6a39\u76ae",
+    "zh_CN": "\u97e7\u5982\u6811\u76ae"
+  },
+  "description_blz": {
+    "en_US": "Barkskin's cooldown is reduced by 10.0%.",
+    "es_MX": "El tiempo de reutilizaci\u00f3n de Piel de corteza se reduce un 10.0%.",
+    "pt_BR": "Reduz em 10,0% a recarga da Pele de \u00c1rvore.",
+    "de_DE": "Verringert die Abklingzeit von 'Baumrinde' um 10,0%.",
+    "en_GB": "Barkskin's cooldown is reduced by 10.0%.",
+    "es_ES": "El tiempo de reutilizaci\u00f3n de Piel de corteza se reduce un 10,0%.",
+    "fr_FR": "R\u00e9duit le temps de recharge d\u2019\u00c9corce de 10,0%.",
+    "it_IT": "Riduce il tempo di recupero di Pelledura del 10,0%.",
+    "ru_RU": "\u0423\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0414\u0443\u0431\u043e\u0432\u043e\u0439 \u043a\u043e\u0436\u0438\" \u043d\u0430 10,0%.",
+    "ko_KR": "\ub098\ubb34 \uaecd\uc9c8\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 10.0%\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u6a39\u76ae\u8853\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed10.0%\u3002",
+    "zh_CN": "\u6811\u76ae\u672f\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed10.0%\u3002"
+  }
 }

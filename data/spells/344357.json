@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "344357"
+  "SpellID": "344357",
+  "name_blz": {
+    "en_US": "Stormflurry",
+    "es_MX": "Aluvi\u00f3n tormentoso",
+    "pt_BR": "Rajada de Tempestade",
+    "de_DE": "Sturmhagel",
+    "en_GB": "Stormflurry",
+    "es_ES": "Aluvi\u00f3n tormentoso",
+    "fr_FR": "D\u00e9luge temp\u00e9tueux",
+    "it_IT": "Vortice della Tempesta",
+    "ru_RU": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439 \u0448\u043a\u0432\u0430\u043b",
+    "ko_KR": "\uc138\ucc2c \ud3ed\ud48d",
+    "zh_TW": "\u98a8\u66b4\u4e82\u821e",
+    "zh_CN": "\u98ce\u66b4\u4e4b\u821e"
+  },
+  "description_blz": {
+    "en_US": "Stormstrike has a 25% chance to strike the target an additional time for 40% of normal damage. This effect can chain off of itself.",
+    "es_MX": "Golpe de tormenta tiene un 25% de probabilidad de atacar una vez m\u00e1s por un 40% del da\u00f1o normal. Este efecto puede suceder en cadena.",
+    "pt_BR": "Ataque da Tempestade tem 25% de chance de desferir um ataque adicional contra o alvo, causando 40% do dano normal. Esse efeito pode se propagar de si mesmo.",
+    "de_DE": "'Sturmschlag' hat eine Chance von 25%, das Ziel ein weiteres Mal zu treffen und dabei 40% des normalen Schadens zu verursachen. Dieser Effekt kann durch sich selbst erneut ausgel\u00f6st werden.",
+    "en_GB": "Stormstrike has a 25% chance to strike the target an additional time for 40% of normal damage. This effect can chain off of itself.",
+    "es_ES": "Golpe de tormenta tiene un 25% de probabilidad de golpear al objetivo una vez m\u00e1s e infligir un 40% de su da\u00f1o normal. Este efecto puede desencadenarse a s\u00ed mismo.",
+    "fr_FR": "Frappe-temp\u00eate a 25% de chances de frapper la cible une fois de plus en infligeant 40% des d\u00e9g\u00e2ts normaux. Les effets peuvent s\u2019encha\u00eener.",
+    "it_IT": "Assalto della Tempesta ha una probabilit\u00e0 del 25% di colpire il bersaglio una volta aggiuntiva, infliggendo il 40% dei danni normali. I danni attivati dall'effetto possono attivare nuovamente l'effetto.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u0431\u0443\u0440\u0438\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 25% \u043f\u043e\u0440\u0430\u0436\u0430\u0435\u0442 \u0446\u0435\u043b\u044c \u0435\u0449\u0435 \u0440\u0430\u0437, \u043d\u0430\u043d\u043e\u0441\u044f 40% \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430. \u042d\u0442\u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \u043c\u043e\u0436\u0435\u0442 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u0441\u0430\u043c \u043e\u0442 \u0441\u0435\u0431\u044f.",
+    "ko_KR": "\ud3ed\ud48d\uc758 \uc77c\uaca9 \uc0ac\uc6a9 \uc2dc 25%\uc758 \ud655\ub960\ub85c \ub300\uc0c1\uc744 \ucd94\uac00\ub85c \uacf5\uaca9\ud558\uc5ec \uc77c\ubc18 \uacf5\uaca9\ub825\uc758 40%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \uc774 \ucd94\uac00 \ud6a8\uacfc\ub85c\ub3c4 \uacf5\uaca9\uc774 \uc5f0\uc1c4\uc801\uc73c\ub85c \ubc1c\ub3d9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u98a8\u66b4\u6253\u64ca\u670925%\u6a5f\u7387\u984d\u5916\u653b\u64ca\u76ee\u6a19\u4e00\u6b21\uff0c\u9020\u621040%\u7684\u666e\u901a\u50b7\u5bb3\u3002\u6b64\u6548\u679c\u53ef\u7531\u81ea\u8eab\u9023\u7e8c\u767c\u52d5\u3002",
+    "zh_CN": "\u98ce\u66b4\u6253\u51fb\u670925%\u51e0\u7387\u989d\u5916\u653b\u51fb\u76ee\u6807\u4e00\u6b21\uff0c\u9020\u621040%\u7684\u4f24\u5bb3\u3002\u6b64\u6548\u679c\u53ef\u4ee5\u7531\u5176\u672c\u8eab\u89e6\u53d1\u3002 "
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339272"
+  "SpellID": "339272",
+  "name_blz": {
+    "en_US": "Resolute Barrier",
+    "es_MX": "Barrera resuelta",
+    "pt_BR": "Barreira Resoluta",
+    "de_DE": "Entschlossene Barriere",
+    "en_GB": "Resolute Barrier",
+    "es_ES": "Barrera resuelta",
+    "fr_FR": "Barri\u00e8re r\u00e9solue",
+    "it_IT": "Barriera Risoluta",
+    "ru_RU": "\u041d\u0435\u043f\u043e\u043a\u043e\u043b\u0435\u0431\u0438\u043c\u0430\u044f \u043f\u0440\u0435\u0433\u0440\u0430\u0434\u0430",
+    "ko_KR": "\uacb0\uc758\uc758 \ubc29\ubcbd",
+    "zh_TW": "\u5805\u5b9a\u5c4f\u969c",
+    "zh_CN": "\u51b3\u610f\u5c4f\u969c"
+  },
+  "description_blz": {
+    "en_US": "Attacks received that deal at least 5% of your health decrease Unending Resolve's cooldown by 10 sec. Cannot occur more than once every 30 sec.\r\n",
+    "es_MX": "Los ataques recibidos que infligen al menos un 5% de tu salud como da\u00f1o reducen 10 s el tiempo de reutilizaci\u00f3n de Resoluci\u00f3n inagotable. No puede ocurrir m\u00e1s de una vez cada 30 s.\r\n",
+    "pt_BR": "A recarga da Determina\u00e7\u00e3o Intermin\u00e1vel \u00e9 reduzida em 10 s sempre que voc\u00ea receber um ataque que reduza em mais de 5% seus pontos de vida. Este efeito s\u00f3 pode ocorrer uma vez a cada 30 s.\r\n",
+    "de_DE": "Erlittene Angriffe, die Euch mindestens 5% Eurer Gesundheit als Schaden zuf\u00fcgen, verringern die Abklingzeit von 'Erbarmungslose Entschlossenheit' um 10 Sek. Dieser Effekt kann nur einmal alle 30 Sek. auftreten.\r\n",
+    "en_GB": "Attacks received that deal at least 5% of your health decrease Unending Resolve's cooldown by 10 sec. Cannot occur more than once every 30 sec.\r\n",
+    "es_ES": "Los ataques recibidos que inflijan al menos un 5% de tu salud en da\u00f1o reducen 10 s el tiempo de reutilizaci\u00f3n de Resoluci\u00f3n inagotable. Esto solo puede suceder una vez cada 30 s.\r\n",
+    "fr_FR": "Les attaques subies vous faisant perdre au moins 5% de vos points de vie r\u00e9duisent le temps de recharge de R\u00e9solution interminable de 10\u00a0s. Cet effet ne peut se produire plus d\u2019une fois toutes les 30\u00a0s.\r\n",
+    "it_IT": "Gli attacchi subiti che infliggono danni pari almeno al 5% della salute massima riducono il tempo di recupero di Determinazione Assoluta di 10 s. Non pu\u00f2 verificarsi pi\u00f9 di una volta ogni 30 s.\r\n",
+    "ru_RU": "\u0410\u0442\u0430\u043a\u0438, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0435 \u0432\u0430\u043c \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 \u043c\u0438\u043d\u0438\u043c\u0443\u043c 5% \u0432\u0430\u0448\u0435\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u0422\u0432\u0435\u0440\u0434\u043e\u0439 \u0440\u0435\u0448\u0438\u043c\u043e\u0441\u0442\u0438\" \u043d\u0430 10 \u0441\u0435\u043a. \u0421\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0435 \u0447\u0430\u0449\u0435 \u0440\u0430\u0437\u0430 \u0432 30 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc758 \ucd5c\uc18c 5%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574\ub97c \ubc1b\uc73c\uba74 \uc601\uc6d0\ud55c \uacb0\uc758\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 10\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4. 30\ucd08\uc5d0 \ud55c \ubc88\uc529\ub9cc \ubc1c\ub3d9\ud569\ub2c8\ub2e4.\r\n",
+    "zh_TW": "\u53d7\u5230\u751f\u547d\u529b5%\u4ee5\u4e0a\u7684\u653b\u64ca\u50b7\u5bb3\u6642\uff0c\u53ef\u4f7f\u5fc3\u5fd7\u5805\u5b9a\u7684\u51b7\u537b\u6642\u9593\u7e2e\u77ed10\u79d2\u3002\u6b64\u6548\u679c\u6bcf30\u79d2\u53ea\u80fd\u89f8\u767c\u4e00\u6b21\u3002",
+    "zh_CN": "\u5f53\u53d7\u5230\u7684\u653b\u51fb\u81f3\u5c11\u9020\u6210\u4f60\u751f\u547d\u503c5%\u7684\u4f24\u5bb3\u65f6\uff0c\u4e0d\u706d\u51b3\u5fc3\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed10\u79d2\u3002\u6bcf30\u79d2\u53ea\u80fd\u89e6\u53d1\u4e00\u6b21\u3002"
+  }
 }

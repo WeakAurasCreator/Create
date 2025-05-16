@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339265"
+  "SpellID": "339265",
+  "name_blz": {
+    "en_US": "Veteran's Repute",
+    "es_MX": "Reputaci\u00f3n de veterano",
+    "pt_BR": "Fama do Veterano",
+    "de_DE": "Leumund des Veteranen",
+    "en_GB": "Veteran's Repute",
+    "es_ES": "Reputaci\u00f3n de veterano",
+    "fr_FR": "Renom du v\u00e9t\u00e9ran",
+    "it_IT": "Reputazione del Veterano",
+    "ru_RU": "\u0420\u0435\u043f\u0443\u0442\u0430\u0446\u0438\u044f \u0432\u0435\u0442\u0435\u0440\u0430\u043d\u0430",
+    "ko_KR": "\uc5ed\uc804\uc6a9\uc0ac\uc758 \uba85\ub9dd",
+    "zh_TW": "\u7cbe\u5175\u4e4b\u540d",
+    "zh_CN": "\u8001\u5175\u7684\u58f0\u8a89"
+  },
+  "description_blz": {
+    "en_US": "Conqueror's Banner increases your Strength by 10%.",
+    "es_MX": "Estandarte del conquistador aumenta tu fuerza un 10%.",
+    "pt_BR": "O Estandarte do Conquistador aumenta em 10% a sua For\u00e7a.",
+    "de_DE": "'Banner des Eroberers' erh\u00f6ht Eure St\u00e4rke um 10%.",
+    "en_GB": "Conqueror's Banner increases your Strength by 10%.",
+    "es_ES": "Estandarte de conquistador aumenta tu fuerza un 10%.",
+    "fr_FR": "Banni\u00e8re du conqu\u00e9rant augmente votre Force de 10%.",
+    "it_IT": "Lo Stendardo del Conquistatore aumenta la tua Forza del 10%.",
+    "ru_RU": "\"\u0417\u043d\u0430\u043c\u044f \u0437\u0430\u0432\u043e\u0435\u0432\u0430\u0442\u0435\u043b\u044f\" \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0432\u0430\u0448\u0443 \u0441\u0438\u043b\u0443 \u043d\u0430 10%.",
+    "ko_KR": "\uc815\ubcf5\uc790\uc758 \uae43\ubc1c\uc774 \ud798\uc744 10%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5f81\u670d\u8005\u65cc\u65d7\u4f7f\u4f60\u7684\u529b\u91cf\u63d0\u9ad810%\u3002",
+    "zh_CN": "\u5f81\u670d\u8005\u6218\u65d7\u4f7f\u4f60\u7684\u529b\u91cf\u63d0\u9ad810%\u3002"
+  }
 }
