@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "339182"
+  "SpellID": "339182",
+  "name_blz": {
+    "en_US": "Elysian Dirge",
+    "es_MX": "R\u00e9quiem el\u00edseo",
+    "pt_BR": "R\u00e9quiem El\u00edsio",
+    "de_DE": "Elysisches Klagelied",
+    "en_GB": "Elysian Dirge",
+    "es_ES": "R\u00e9quiem elisio",
+    "fr_FR": "Requiem \u00e9lys\u00e9en",
+    "it_IT": "Canto Funebre Elisio",
+    "ru_RU": "\u042d\u043b\u0438\u0437\u0438\u0439\u0441\u043a\u0430\u044f \u043f\u0430\u043d\u0438\u0445\u0438\u0434\u0430",
+    "ko_KR": "\uc5d8\ub9ac\uc2dc\uc548 \uc9c4\ud63c\uace1",
+    "zh_TW": "\u6a02\u571f\u8f13\u6b4c",
+    "zh_CN": "\u6781\u4e50\u633d\u6b4c"
+  },
+  "description_blz": {
+    "en_US": "Vesper Totem is 40% more effective against the target nearest to it.",
+    "es_MX": "T\u00f3tem de carill\u00f3n es un 40% m\u00e1s efectivo contra el objetivo m\u00e1s cercano.",
+    "pt_BR": "Totem de V\u00e9spera \u00e9 40% mais eficaz contra o alvo mais pr\u00f3ximo dele.",
+    "de_DE": "Das Vespertotem ist gegen das ihm n\u00e4chste Ziel 40% effektiver.",
+    "en_GB": "Vesper Totem is 40% more effective against the target nearest to it.",
+    "es_ES": "T\u00f3tem de campana de v\u00edsperas es un 40% m\u00e1s eficaz contra el objetivo m\u00e1s cercano.",
+    "fr_FR": "Totem carillonneur est 40% plus efficace contre la cible qui en est la plus proche.",
+    "it_IT": "Aumenta l'efficacia del Totem del Vespro del 40% contro il bersaglio pi\u00f9 vicino.",
+    "ru_RU": "\u0422\u043e\u0442\u0435\u043c \u0432\u0435\u0447\u0435\u0440\u043d\u0435\u0433\u043e \u043a\u043e\u043b\u043e\u043a\u043e\u043b\u0430 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 \u0446\u0435\u043b\u0438 \u0440\u044f\u0434\u043e\u043c \u0441 \u043d\u0438\u043c \u0441 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u043d\u0430 40% \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e.",
+    "ko_KR": "\ub9cc\uacfc \ud1a0\ud15c\uc5d0 \uac00\uc7a5 \uac00\uae4c\uc774 \uc788\ub294 \ub300\uc0c1\uc5d0 \ub300\ud55c \ud6a8\uacfc\uac00 40%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u79b1\u9418\u5716\u9a30\u5c0d\u6700\u9760\u8fd1\u7684\u76ee\u6a19\u9020\u6210\u7684\u6548\u679c\u63d0\u9ad840%\u3002",
+    "zh_CN": "\u66ae\u949f\u56fe\u817e\u5bf9\u8ddd\u79bb\u6700\u8fd1\u7684\u76ee\u6807\u9020\u6210\u7684\u6548\u679c\u63d0\u9ad840%\u3002"
+  }
 }

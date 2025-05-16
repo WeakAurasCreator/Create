@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341344"
+  "SpellID": "341344",
+  "name_blz": {
+    "en_US": "Withering Ground",
+    "es_MX": "Tierra marchitante",
+    "pt_BR": "Solo Definhante",
+    "de_DE": "Verdorrender Boden",
+    "en_GB": "Withering Ground",
+    "es_ES": "Suelo debilitador",
+    "fr_FR": "Sol fl\u00e9trissant",
+    "it_IT": "Terreno Avvizzito",
+    "ru_RU": "\u0418\u0441\u0442\u043e\u0449\u0430\u044e\u0449\u0430\u044f \u0437\u0435\u043c\u043b\u044f",
+    "ko_KR": "\uba54\ub9c8\ub978 \ub300\uc9c0",
+    "zh_TW": "\u51cb\u840e\u4e4b\u5730",
+    "zh_CN": "\u51cb\u96f6\u4e4b\u5730"
+  },
+  "description_blz": {
+    "en_US": "Death's Due deals 50.0% increased damage.",
+    "es_MX": "Hora de la muerte inflige un 50.0% m\u00e1s de da\u00f1o.",
+    "pt_BR": "Tributo da Morte causa 50,0% a mais de dano.",
+    "de_DE": "Erh\u00f6ht den Schaden von 'Recht des Todes' um 50,0%.",
+    "en_GB": "Death's Due deals 50.0% increased damage.",
+    "es_ES": "Cuota de la muerte inflige un 50,0% m\u00e1s de da\u00f1o.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts de D\u00fb de la mort de 50,0%.",
+    "it_IT": "Aumenta i danni inflitti da Dovere della Morte del 50,0%.",
+    "ru_RU": "\"\u0414\u0430\u043d\u044c \u0441\u043c\u0435\u0440\u0442\u0438\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 50,0% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\uc8fd\uc74c\uc758 \ub300\uac00\uac00 50.0%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u6b7b\u4ea1\u4ee3\u50f9\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad850.0%\u3002",
+    "zh_CN": "\u6d88\u4ea1\u4e4b\u503a\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad850.0%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "340033"
+  "SpellID": "340033",
+  "name_blz": {
+    "en_US": "Powerful Precision",
+    "es_MX": "Precisi\u00f3n poderosa",
+    "pt_BR": "Precis\u00e3o Poderosa",
+    "de_DE": "Potente Pr\u00e4zision",
+    "en_GB": "Powerful Precision",
+    "es_ES": "Precisi\u00f3n potente",
+    "fr_FR": "Pr\u00e9cision puissante",
+    "it_IT": "Precisione Potente",
+    "ru_RU": "\u0420\u0430\u0437\u044f\u0449\u0430\u044f \u043c\u0435\u0442\u043a\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uac15\ub825\ud55c \uc815\ubc00\ud568",
+    "zh_TW": "\u5f37\u5316\u7cbe\u6e96",
+    "zh_CN": "\u5f3a\u6548\u7cbe\u51c6"
+  },
+  "description_blz": {
+    "en_US": "Precise Shots increases the damage of your next Arcane Shot or Multi-Shot by an additional 5.0%.",
+    "es_MX": "Disparos precisos aumenta el da\u00f1o de tu pr\u00f3ximo Disparo arcano o Multidisparo un 5.0% m\u00e1s.",
+    "pt_BR": "Tiros Precisos aumenta em mais 5,0% o dano do seu pr\u00f3ximo Tiro Arcano ou Tiro M\u00faltiplo.",
+    "de_DE": "'Pr\u00e4zise Sch\u00fcsse' erh\u00f6ht den Schaden Eures n\u00e4chsten Einsatzes von 'Arkaner Schuss' oder 'Mehrfachschuss' um zus\u00e4tzlich 5,0%.",
+    "en_GB": "Precise Shots increases the damage of your next Arcane Shot or Multi-Shot by an additional 5.0%.",
+    "es_ES": "Disparos precisos aumenta un 5,0% extra el da\u00f1o de tu siguiente Disparo Arcano o Multidisparo.",
+    "fr_FR": "Tirs pr\u00e9cis augmente les d\u00e9g\u00e2ts de votre prochaine technique Tir des Arcanes ou Fl\u00e8ches multiples de 5,0% suppl\u00e9mentaires.",
+    "it_IT": "Tiri Precisi aumenta i danni inflitti dal successivo Tiro Arcano o Tiro Multiplo di un ulteriore  5,0%.",
+    "ru_RU": "\"\u0422\u043e\u0447\u043d\u044b\u0435 \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u044b\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \"\u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0435\u043b\u0430\" \u0438\u043b\u0438 \"\u0417\u0430\u043b\u043f\u0430\" \u0435\u0449\u0435 \u043d\u0430 5,0%.",
+    "ko_KR": "\uc815\ubc00 \uc0ac\uaca9\uc774 \ub2e4\uc74c \uc2e0\ube44\ud55c \uc0ac\uaca9 \ub610\ub294 \uc77c\uc81c \uc0ac\uaca9\uc758 \uacf5\uaca9\ub825\uc744 \ucd94\uac00\ub85c 5.0%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7cbe\u6e96\u5c04\u64ca\u4f7f\u4f60\u7684\u4e0b\u4e00\u500b\u79d8\u6cd5\u5c04\u64ca\u6216\u591a\u91cd\u5c04\u64ca\u9020\u6210\u7684\u50b7\u5bb3\u984d\u5916\u63d0\u9ad85.0%\u3002",
+    "zh_CN": "\u5f39\u65e0\u865a\u53d1\u4f7f\u4f60\u4e0b\u4e00\u4e2a\u5965\u672f\u5c04\u51fb\u6216\u8005\u591a\u91cd\u5c04\u51fb\u7684\u4f24\u5bb3\u63d0\u9ad85.0%\u3002"
+  }
 }

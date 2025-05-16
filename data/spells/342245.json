@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "342245"
+  "SpellID": "342245",
+  "name_blz": {
+    "en_US": "Alter Time",
+    "es_MX": "Alterar el tiempo",
+    "pt_BR": "Alterar Tempo",
+    "de_DE": "Zeitverschiebung",
+    "en_GB": "Alter Time",
+    "es_ES": "Alterar el tiempo",
+    "fr_FR": "Alt\u00e9rer le temps",
+    "it_IT": "Alterazione Temporale",
+    "ru_RU": "\u041c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0446\u0438\u0438 \u0441\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c",
+    "ko_KR": "\uc2dc\uac04 \ub3cc\ub9ac\uae30",
+    "zh_TW": "\u6642\u5149\u5012\u8f49",
+    "zh_CN": "\u64cd\u63a7\u65f6\u95f4"
+  },
+  "description_blz": {
+    "en_US": "Alters the fabric of time, returning you to your current location and health when cast a second time, or after 10 sec. Effect negated by long distance or death.",
+    "es_MX": "Altera el curso del tiempo, lo que te devuelve a tu ubicaci\u00f3n y salud actuales cuando se lanza una segunda vez o despu\u00e9s de 10 s. El efecto se cancela si est\u00e1s muy lejos o mueres.",
+    "pt_BR": "Altera o tecido temporal, fazendo com que voc\u00ea volte \u00e0 localiza\u00e7\u00e3o e aos pontos de vida atuais ao ser lan\u00e7ado pela segunda vez ou ap\u00f3s 10 s. O efeito ser\u00e1 cancelado em caso de longa dist\u00e2ncia ou morte.",
+    "de_DE": "Verschiebt die Zeit und versetzt Euch beim zweiten Wirken oder nach 10 Sek. mit der Gesundheit zum Zeitpunkt der Aktivierung zur\u00fcck an Eure Ausgangsposition. Der Effekt wird aufgehoben, wenn Ihr sterbt oder Euch zu weit entfernt.",
+    "en_GB": "Alters the fabric of time, returning you to your current location and health when cast a second time, or after 10 sec. Effect negated by long distance or death.",
+    "es_ES": "Altera el curso del tiempo y te devuelve a tu ubicaci\u00f3n y tu salud actuales cuando se lanza una segunda vez o tras 10 s. El efecto se anula al alejarse demasiado o al morir.",
+    "fr_FR": "Alt\u00e8re la trame du temps et vous fait retrouver votre position et vos points de vie actuels au bout de 10\u00a0s ou lorsque vous lancez ce sort une deuxi\u00e8me fois. L\u2019effet est annul\u00e9 si vous vous \u00e9loignez trop ou si vous mourez.",
+    "it_IT": "Altera il tessuto temporale, riportando alla posizione e alla salute precedenti quando viene lanciato una seconda volta o dopo 10 s. L'effetto non pu\u00f2 aver luogo se la distanza \u00e8 troppo grande o se si \u00e8 morti.",
+    "ru_RU": "\u0412\u044b \u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u0442\u043a\u0430\u043d\u044c \u0432\u0440\u0435\u043c\u0435\u043d\u0438, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e\u043c \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438\u043b\u0438 \u0441\u043f\u0443\u0441\u0442\u044f 10 \u0441\u0435\u043a. \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u0432 \u0442\u0435\u043a\u0443\u0449\u0435\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0441 \u0442\u0435\u043a\u0443\u0449\u0438\u043c \u0437\u0430\u043f\u0430\u0441\u043e\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u041d\u0435 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442, \u0435\u0441\u043b\u0438 \u0432\u044b \u0443\u043c\u0438\u0440\u0430\u0435\u0442\u0435 \u0438\u043b\u0438 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0441\u0438\u043b\u044c\u043d\u043e \u043e\u0442\u0434\u0430\u043b\u044f\u0435\u0442\u0435\u0441\u044c \u043e\u0442 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0438.",
+    "ko_KR": "\uc2dc\uac04\uc758 \uacb0\uc744 \uc870\uc791\ud558\uc5ec, \uccab \ubc88\uc9f8 \uc2dc\uc804\ud560 \ub54c\uc758 \uc7a5\uc18c\uc640 \uccb4\ub825 \uc0c1\ud0dc\ub85c \ub450 \ubc88\uc9f8 \uc2dc\uc804 \uc2dc \ud639\uc740 10\ucd08 \ud6c4\uc5d0 \ub3cc\uc544\uc624\uac8c \ud569\ub2c8\ub2e4. \ub108\ubb34 \uba3c \uac70\ub9ac\ub97c \uc774\ub3d9\ud558\uac70\ub098 \uc8fd\uc73c\uba74 \ud6a8\uacfc\uac00 \ucde8\uc18c\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6539\u8b8a\u6642\u9593\u7dda\uff0c\u5728\u7b2c\u4e8c\u6b21\u65bd\u653e\u621610\u79d2\u5f8c\uff0c\u8b93\u4f60\u56de\u5230\u76ee\u524d\u7684\u4f4d\u7f6e\u548c\u751f\u547d\u529b\u72c0\u614b\u3002\u8ddd\u96e2\u592a\u9060\u6216\u6b7b\u4ea1\u5c07\u53d6\u6d88\u6b64\u6548\u679c\u3002",
+    "zh_CN": "\u6539\u53d8\u65f6\u95f4\u7684\u7ed3\u6784\uff0c\u5f53\u4f60\u518d\u6b21\u65bd\u6cd5\uff0c\u6216\u572810\u79d2\u4e4b\u540e\uff0c\u4f60\u7684\u4f4d\u7f6e\u548c\u751f\u547d\u503c\u4f1a\u56de\u5230\u5f53\u524d\u72b6\u6001\u3002\u6b7b\u4ea1\u6216\u8ddd\u79bb\u592a\u8fdc\u4f1a\u5bfc\u81f4\u6cd5\u672f\u5931\u6548\u3002"
+  }
 }

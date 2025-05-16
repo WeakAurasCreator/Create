@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "341539"
+  "SpellID": "341539",
+  "name_blz": {
+    "en_US": "Lethal Poisons",
+    "es_MX": "Venenos letales",
+    "pt_BR": "Venenos Letais",
+    "de_DE": "T\u00f6dliche Gifte",
+    "en_GB": "Lethal Poisons",
+    "es_ES": "Venenos letales",
+    "fr_FR": "Poisons l\u00e9taux",
+    "it_IT": "Veleni Letali",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u044f\u0434\u044b",
+    "ko_KR": "\uc8fd\uc74c\uc758 \ub3c5",
+    "zh_TW": "\u731b\u70c8\u6bd2\u85e5",
+    "zh_CN": "\u81f4\u547d\u836f\u818f"
+  },
+  "description_blz": {
+    "en_US": "The instant damage of your lethal poisons is increased by 25%.",
+    "es_MX": "El da\u00f1o instant\u00e1neo de tus venenos letales aumenta un 25%.",
+    "pt_BR": "Aumenta em 25% o dano instant\u00e2neo dos seus venenos letais.",
+    "de_DE": "Erh\u00f6ht den sofortigen Schaden Eurer t\u00f6dlichen Gifte um 25%.",
+    "en_GB": "The instant damage of your lethal poisons is increased by 25%.",
+    "es_ES": "El da\u00f1o instant\u00e1neo de tus venenos letales aumenta un 25%.",
+    "fr_FR": "Augmente les d\u00e9g\u00e2ts instantan\u00e9s de vos poisons l\u00e9taux de 25%.",
+    "it_IT": "Aumenta i danni istantanei inflitti dai tuoi veleni letali del 25%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d \u043e\u0442 \u0432\u0430\u0448\u0438\u0445 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u044f\u0434\u043e\u0432 \u043d\u0430 25%.",
+    "ko_KR": "\uce58\uba85\ub3c5\uc758 \uc989\uc2dc \ud53c\ud574\uac00 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u731b\u70c8\u6bd2\u85e5\u7684\u7acb\u5373\u50b7\u5bb3\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u4f7f\u4f60\u7684\u81f4\u547d\u836f\u818f\u7684\u76f4\u63a5\u4f24\u5bb3\u63d0\u9ad825%\u3002"
+  }
 }
