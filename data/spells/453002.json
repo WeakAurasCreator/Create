@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453002"
+  "SpellID": "453002",
+  "name_blz": {
+    "en_US": "Improved Touch of the Magi",
+    "es_MX": "Toque del magi mejorado",
+    "pt_BR": "Toque dos Magos Aprimorado",
+    "de_DE": "Verbesserte Ber\u00fchrung der Magi",
+    "en_GB": "Improved Touch of the Magi",
+    "es_ES": "Toque de los magi mejorado",
+    "fr_FR": "Toucher des magi am\u00e9lior\u00e9",
+    "it_IT": "Tocco del Magus Migliorato",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u0435 \u043a\u0430\u0441\u0430\u043d\u0438\u0435 \u043c\u0430\u0433\u0430",
+    "ko_KR": "\ube44\uc804\uc758 \uc5ec\ud30c \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u9b54\u5c0e\u5e2b\u4e4b\u89f8",
+    "zh_CN": "\u5f3a\u5316\u5927\u6cd5\u5e08\u4e4b\u89e6"
+  },
+  "description_blz": {
+    "en_US": "Your Touch of the Magi now accumulates 25% of the damage you deal.",
+    "es_MX": "Tu Toque del magi ahora acumula un 25% del da\u00f1o que infliges.",
+    "pt_BR": "Seu Toque dos Magos agora acumula 25% do dano que voc\u00ea causa.",
+    "de_DE": "Eure 'Ber\u00fchrung der Magi' sammelt 25% des von Euch verursachten Schadens an.",
+    "en_GB": "Your Touch of the Magi now accumulates 25% of the damage you deal.",
+    "es_ES": "Toque de los magi acumula ahora un 25% del da\u00f1o que infliges.",
+    "fr_FR": "Votre Toucher des magi accumule \u00e0 pr\u00e9sent 25\u00a0% des d\u00e9g\u00e2ts que vous infligez.",
+    "it_IT": "Tocco del Magus accumula il 25% dei danni inflitti.",
+    "ru_RU": "\u0412\u0430\u0448\u0435 \"\u041a\u0430\u0441\u0430\u043d\u0438\u0435 \u043c\u0430\u0433\u0430\" \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442 25% \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u043e\u0433\u043e \u0432\u0430\u043c\u0438 \u0443\u0440\u043e\u043d\u0430.",
+    "ko_KR": "\ube44\uc804\uc758 \uc5ec\ud30c\uac00 \uc774\uc81c \uc785\ud788\ub294 \ud53c\ud574\uc758 25%\ub97c \ucd95\uc801\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u9b54\u5c0e\u5e2b\u4e4b\u89f8\u73fe\u5728\u6703\u7d2f\u7a4d\u4f60\u9020\u6210\u768425%\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u5927\u6cd5\u5e08\u4e4b\u89e6\u73b0\u5728\u79ef\u7d2f\u4f60\u6240\u9020\u6210\u4f24\u5bb3\u768425%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449938"
+  "SpellID": "449938",
+  "name_blz": {
+    "en_US": "Gleaming Chaos",
+    "es_MX": "Caos reluciente",
+    "pt_BR": "Caos Rebrilhante",
+    "de_DE": "Schimmerndes Chaos",
+    "en_GB": "Gleaming Chaos",
+    "es_ES": "Caos reluciente",
+    "fr_FR": "Chaos resplendissant",
+    "it_IT": "Caos Abbagliante",
+    "ru_RU": "\u041c\u0435\u0440\u0446\u0430\u044e\u0449\u0438\u0439 \u0445\u0430\u043e\u0441",
+    "ko_KR": "\ube5b\ub098\ub294 \ud63c\ub3c8",
+    "zh_TW": "\u9583\u720d\u6df7\u6c8c",
+    "zh_CN": "\u70c1\u5149\u6df7\u6c8c"
+  },
+  "description_blz": {
+    "en_US": "Convert Gleaming Transmutagen into an assortment of random materials.",
+    "es_MX": "Transforma un transmut\u00e1geno resplandeciente en una selecci\u00f3n de materiales aleatorios.",
+    "pt_BR": "Converte Transmutag\u00eanico Luminoso em uma diversidade de mat\u00e9rias-primas aleat\u00f3rias.",
+    "de_DE": "Wandelt schimmerndes Transmutagen in eine Auswahl zuf\u00e4lliger Materialien um.",
+    "en_GB": "Convert Gleaming Transmutagen into an assortment of random materials.",
+    "es_ES": "Convierte transmutagen reluciente en una serie de materiales aleatorios.",
+    "fr_FR": "Convertit des transmutag\u00e8nes resplendissants en un assortiment de composants al\u00e9atoires.",
+    "it_IT": "Converte il Trasmutageno Riflettente in un assortimento di materiali casuali.",
+    "ru_RU": "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u044c \u043c\u0435\u0440\u0446\u0430\u044e\u0449\u0438\u0439 \u0442\u0440\u0430\u043d\u0441\u043c\u0443\u0442\u0430\u0433\u0435\u043d \u0432 \u043d\u0430\u0431\u043e\u0440 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432.",
+    "ko_KR": "\ube5b\ub098\ub294 \ubcc0\ud658 \ucd09\ub9e4\ub97c \uac01\uc885 \ubb34\uc791\uc704 \uc7ac\ub8cc\ub85c \ubcc0\ud658\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5c07\u5fae\u5149\u8f49\u5316\u539f\u8f49\u63db\u6210\u5404\u7a2e\u96a8\u6a5f\u6750\u6599\u3002",
+    "zh_CN": "\u628a\u70c1\u5149\u8f6c\u5316\u5242\u53d8\u4e3a\u5404\u79cd\u968f\u673a\u6750\u6599\u3002"
+  }
 }

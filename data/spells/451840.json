@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451840"
+  "SpellID": "451840",
+  "name_blz": {
+    "en_US": "Devour Matter",
+    "es_MX": "Devorar materia",
+    "pt_BR": "Devorar Mat\u00e9ria",
+    "de_DE": "Materie verschlingen",
+    "en_GB": "Devour Matter",
+    "es_ES": "Devorar material",
+    "fr_FR": "D\u00e9voration mat\u00e9rielle",
+    "it_IT": "Divoramento Materia",
+    "ru_RU": "\u041f\u043e\u0433\u043b\u043e\u0449\u0435\u043d\u0438\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0438",
+    "ko_KR": "\ubb3c\uc9c8 \ud3ec\uc2dd",
+    "zh_TW": "\u541e\u566c\u7269\u8cea",
+    "zh_CN": "\u541e\u706d\u7269\u8d28"
+  },
+  "description_blz": {
+    "en_US": "Shadow Word: Death consumes absorb shields from your target, dealing 14,158 extra damage to them and granting you 1% mana if a shield was present.",
+    "es_MX": "Palabra de las sombras: muerte consume los escudos de absorci\u00f3n de tu objetivo, al cual le inflige 14,155 p. m\u00e1s de da\u00f1o mientras que a ti te otorga un 1% de man\u00e1 si hab\u00eda un escudo.",
+    "pt_BR": "Palavra Sombria: Morte consome escudos de absor\u00e7\u00e3o do seu alvo, causando 14.258 de dano extra a ele e concedendo a voc\u00ea 1% de mana se houver um escudo presente.",
+    "de_DE": "'Schattenwort: Tod' verbraucht Absorptionsschilde Eures Ziels, f\u00fcgt ihm 14.266 zus\u00e4tzlichen Schaden zu und gew\u00e4hrt Euch 1% Mana, wenn ein Schild vorhanden war.",
+    "en_GB": "Shadow Word: Death consumes absorb shields from your target, dealing 13,988 extra damage to them and granting you 1% mana if a shield was present.",
+    "es_ES": "Palabra de las Sombras: muerte consume los escudos de absorci\u00f3n de tu objetivo, que recibe 14133 p. m\u00e1s de da\u00f1o. Adem\u00e1s, te otorga un 1% de man\u00e1 si hab\u00eda un escudo presente.",
+    "fr_FR": "Mot de l\u2019ombre\u00a0: Mort absorbe les boucliers protecteurs de votre cible, lui inflige 13888 de d\u00e9g\u00e2ts suppl\u00e9mentaires et vous conf\u00e8re 1\u00a0% de mana si un bouclier \u00e9tait pr\u00e9sent.",
+    "it_IT": "Parola d'Ombra: Morte consuma gli scudi di assorbimento sul bersaglio, infliggendo 14.029 danni aggiuntivi e rigenerando il 1% del mana massimo se era presente uno scudo.",
+    "ru_RU": "\"\u0421\u043b\u043e\u0432\u043e \u0422\u044c\u043c\u044b: \u0421\u043c\u0435\u0440\u0442\u044c\" \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u0449\u0438\u0442\u043e\u0432, \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u043d\u0430 \u0446\u0435\u043b\u044c. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \"\u0421\u043b\u043e\u0432\u043e \u0422\u044c\u043c\u044b: \u0421\u043c\u0435\u0440\u0442\u044c\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 14278 \u0435\u0434. \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 1% \u043c\u0430\u043d\u044b, \u0435\u0441\u043b\u0438 \u043d\u0430 \u0446\u0435\u043b\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u043b \u0449\u0438\u0442.",
+    "ko_KR": "\uc5b4\ub460\uc758 \uad8c\ub2a5: \uc8fd\uc74c\uc774 \ub300\uc0c1\uc5d0\uac8c \ubd80\uc5ec\ub41c \ud53c\ud574 \ud761\uc218 \ubcf4\ud638\ub9c9\uc744 \ud761\uc218\ud558\uc5ec 14,312\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. \ub610\ud55c \ubcf4\ud638\ub9c9\uc774 \uc788\ub2e4\uba74 1%\uc758 \ub9c8\ub098\ub97c \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u76ee\u6a19\u6709\u8b77\u76fe\u7684\u60c5\u6cc1\u4e0b\uff0c\u6697\u8a00\u8853\uff1a\u6b7b\u6703\u6d88\u8017\u76ee\u6a19\u8eab\u4e0a\u7684\u5438\u6536\u8b77\u76fe\uff0c\u5c0d\u5176\u984d\u5916\u9020\u621014,095\u9ede\u50b7\u5bb3\uff0c\u4e26\u8ce6\u4e88\u4f601%\u6cd5\u529b\u3002",
+    "zh_CN": "\u6697\u8a00\u672f\uff1a\u706d\u541e\u566c\u76ee\u6807\u7684\u5438\u6536\u62a4\u76fe\uff0c\u6709\u62a4\u76fe\u5b58\u5728\u65f6\u5bf9\u5176\u9020\u6210\u6700\u591a14,032\u70b9\u989d\u5916\u4f24\u5bb3\uff0c\u5e76\u4f7f\u4f60\u83b7\u5f971%\u7684\u6cd5\u529b\u503c\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453034"
+  "SpellID": "453034",
+  "name_blz": {
+    "en_US": "Volatile Agony",
+    "es_MX": "Agon\u00eda vol\u00e1til",
+    "pt_BR": "Agonia Vol\u00e1til",
+    "de_DE": "Fl\u00fcchtige Agonie",
+    "en_GB": "Volatile Agony",
+    "es_ES": "Agon\u00eda vol\u00e1til",
+    "fr_FR": "Agonie instable",
+    "it_IT": "Agonia Instabile",
+    "ru_RU": "\u041d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0430\u0433\u043e\u043d\u0438\u044f",
+    "ko_KR": "\ud63c\ud0c1\ud55c \uace0\ud1b5",
+    "zh_TW": "\u7206\u71c3\u75db\u82e6",
+    "zh_CN": "\u6613\u53d8\u75db\u695a"
+  },
+  "description_blz": {
+    "en_US": "Refreshing Agony with 10 or less seconds remaining deals 8,807 Shadow damage to its target and enemies within 10 yards.\r\n\r\nDeals reduced damage beyond 8 targets.",
+    "es_MX": "Restablecer Agon\u00eda con 10 o menos segundos restantes inflige 8,807 p. de da\u00f1o de las sombras a su objetivo y a los enemigos en un radio de 10 m.\r\n\r\nInflige menos da\u00f1o si golpea a m\u00e1s de 8 objetivos.",
+    "pt_BR": "Renovar Agonia com 10 ou menos segundos restantes causa 8.807 de dano de Sombra ao alvo e aos inimigos em um raio de 10 m.\r\n\r\nCausa dano reduzido acima de 8 alvos.",
+    "de_DE": "Die Erneuerung von 'Agonie', wenn h\u00f6chstens 10 Sek. verbleiben, f\u00fcgt dem Ziel und Gegnern innerhalb von 10 Metern 8.807 Schattenschaden zu.\r\n\r\nF\u00fcgt Zielen \u00fcber 8 Ziele hinaus verringerten Schaden zu.",
+    "en_GB": "Refreshing Agony with 10 or less seconds remaining deals 8,807 Shadow damage to its target and enemies within 10 yards.\r\n\r\nDeals reduced damage beyond 8 targets.",
+    "es_ES": "Al volver a aplicar Agon\u00eda con 10\u00a0s restantes o menos, infliges 8807\u00a0p. de da\u00f1o de las Sombras al objetivo y a los enemigos en un radio de 10\u00a0m.\r\n\r\nInflige da\u00f1o reducido si golpea a m\u00e1s de 8 objetivos.",
+    "fr_FR": "Lorsque vous rafra\u00eechissez Agonie alors qu\u2019il lui reste 10\u00a0s d\u2019effet ou moins, vous infligez 8807\u00a0points de d\u00e9g\u00e2ts d\u2019ombre \u00e0 sa cible et aux adversaires \u00e0 moins de 10\u00a0m.\r\n\r\nD\u00e9g\u00e2ts r\u00e9duits au-del\u00e0 de 8\u00a0cibles.",
+    "it_IT": "Rinnovare l'effetto di Agonia a 10 s o meno dal termine infligge 8.807 danni da ombra al bersaglio e ai nemici entro 10 m.\r\n\r\nDanni ridotti oltre 8 bersagli.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u0442\u0435 \"\u0410\u0433\u043e\u043d\u0438\u044e\", \u043e\u0441\u0442\u0430\u0432\u0448\u0435\u0435\u0441\u044f \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 10 \u0441\u0435\u043a. \u0438\u043b\u0438 \u043c\u0435\u043d\u0435\u0435, \u0446\u0435\u043b\u044c \u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 8807 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.\r\n\r\n\u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 8-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d.",
+    "ko_KR": "\ub0a8\uc740 \uc9c0\uc18d\uc2dc\uac04\uc774 10\ucd08 \uc774\ud558\uc778 \uace0\ud1b5\uc744 \uac31\uc2e0\ud558\uba74 \ub300\uc0c1\uacfc 10\ubbf8\ud130 \ub0b4\uc758 \uc801\uc5d0\uac8c 8,807\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.\r\n\r\n8\uba85\uc744 \ucd08\uacfc\ud558\ub294 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u91cd\u7f6e\u5269\u9918\u6642\u959310\u79d2\u4ee5\u4e0b\u7684\u75db\u82e6\u6642\uff0c\u6703\u5c0d\u76ee\u6a19\u548c10\u78bc\u5167\u7684\u6575\u4eba\u9020\u62108,807\u9ede\u6697\u5f71\u50b7\u5bb3\u3002\r\n\r\n\u8d85\u904e8\u500b\u76ee\u6a19\u6642\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e\u3002",
+    "zh_CN": "\u5237\u65b0\u5269\u4f59\u6301\u7eed\u65f6\u95f4\u7b49\u4e8e\u6216\u5c11\u4e8e10\u79d2\u7684\u75db\u695a\u65f6\u5bf9\u76ee\u6807\u53ca\u5176\u5468\u56f410\u7801\u8303\u56f4\u5185\u7684\u654c\u4eba\u9020\u62108,807\u70b9\u6697\u5f71\u4f24\u5bb3\u3002\r\n\r\n\u76ee\u6807\u6570\u91cf\u8d85\u8fc78\u4e2a\u540e\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e\u3002"
+  }
 }

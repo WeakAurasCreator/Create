@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451204"
+  "SpellID": "451204",
+  "name_blz": {
+    "en_US": "No Escape",
+    "es_MX": "Sin escapatoria",
+    "pt_BR": "Sem Sa\u00edda",
+    "de_DE": "Kein Entkommen",
+    "en_GB": "No Escape",
+    "es_ES": "Sin escapatoria",
+    "fr_FR": "Plus d\u2019\u00e9chappatoire",
+    "it_IT": "Senza Scampo",
+    "ru_RU": "\u041d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0431\u0435\u0433\u0430",
+    "ko_KR": "\ud0c8\ucd9c \ubd88\uac00",
+    "zh_TW": "\u7121\u8655\u53ef\u9003",
+    "zh_CN": "\u65e0\u8def\u53ef\u9003"
+  },
+  "description_blz": {
+    "en_US": "Entropic Rift slows enemies by up to 70%, increased the closer they are to its center.",
+    "es_MX": "Falla entr\u00f3pica ralentiza a los enemigos hasta un 70%, y el efecto aumenta cuanto m\u00e1s cerca est\u00e9n del centro.",
+    "pt_BR": "Fenda Entr\u00f3pica desacelera os inimigos em at\u00e9 70%. Quanto mais pr\u00f3ximos do centro, maior a acelera\u00e7\u00e3o.",
+    "de_DE": "'Entropischer Riss' verlangsamt Gegner um 70%, wirkungsvoller, je n\u00e4her sie dem Zentrum sind.",
+    "en_GB": "Entropic Rift slows enemies by up to 70%, increased the closer they are to its center.",
+    "es_ES": "Falla entr\u00f3pica ralentiza hasta un 70% a los enemigos en funci\u00f3n de lo cerca que est\u00e9n del centro.",
+    "fr_FR": "Faille entropique ralentit les adversaires jusqu\u2019\u00e0 un maximum de 70\u00a0%. Le ralentissement est d\u2019autant plus important qu\u2019ils sont proches du centre de la faille.",
+    "it_IT": "La Fenditura Entropica riduce la velocit\u00e0 di movimento dei nemici di massimo il 70%. La riduzione aumenta all'aumentare della vicinanza del nemico al centro.",
+    "ru_RU": "\"\u042d\u043d\u0442\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u043b\u043e\u043c\" \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u043d\u0430 70%. \u0427\u0435\u043c \u0431\u043b\u0438\u0436\u0435 \u0446\u0435\u043b\u044c \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0440\u0430\u0437\u043b\u043e\u043c\u0430, \u0442\u0435\u043c \u0441\u0438\u043b\u044c\u043d\u0435\u0435 \u0437\u0430\u043c\u0435\u0434\u043b\u0435\u043d\u0438\u0435.",
+    "ko_KR": "\ud63c\ub3c8\uc758 \uade0\uc5f4\uc774 \uc801\uc758 \uc774\ub3d9 \uc18d\ub3c4\ub97c \ucd5c\ub300 70%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. \uc911\uc559\uc5d0 \uac00\uae4c\uc6b8\uc218\ub85d \uc774\ub3d9 \uc18d\ub3c4\ub97c \ucd94\uac00\ub85c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6df7\u4e82\u88c2\u9699\u6703\u4f7f\u6575\u4eba\u6700\u591a\u7de9\u901f70%\uff0c\u6575\u4eba\u8ddd\u96e2\u4e2d\u5fc3\u9ede\u8d8a\u8fd1\uff0c\u6548\u679c\u8d8a\u597d\u3002",
+    "zh_CN": "\u71b5\u80fd\u88c2\u9699\u4f7f\u654c\u4eba\u6700\u591a\u51cf\u901f70%\uff0c\u8ddd\u79bb\u4e2d\u5fc3\u8d8a\u8fd1\u51cf\u901f\u6548\u679c\u8d8a\u9ad8\u3002"
+  }
 }

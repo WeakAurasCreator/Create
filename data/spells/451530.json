@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451530"
+  "SpellID": "451530",
+  "name_blz": {
+    "en_US": "Crescent Steel",
+    "es_MX": "Acero creciente",
+    "pt_BR": "A\u00e7o Crescente",
+    "de_DE": "Halbmondstahl",
+    "en_GB": "Crescent Steel",
+    "es_ES": "Acero creciente",
+    "fr_FR": "Croissant d\u2019acier",
+    "it_IT": "Acciaio Crescente",
+    "ru_RU": "\u0421\u0435\u0440\u043f\u043e\u0432\u0438\u0434\u043d\u044b\u0439 \u043a\u043b\u0438\u043d\u043e\u043a",
+    "ko_KR": "\ucd08\uc2b9\ub2ec \uac15\ucca0",
+    "zh_TW": "\u65b0\u6708\u4e4b\u5200",
+    "zh_CN": "\u65b0\u6708\u4e4b\u94a2"
+  },
+  "description_blz": {
+    "en_US": "Targets you damage below 20% health gain a stack of Sentinel every 3 sec.",
+    "es_MX": "Los objetivos con menos del 20% de salud que da\u00f1es obtienen una acumulaci\u00f3n de Centinela cada 3 s.",
+    "pt_BR": "Alvos que recebem dano de voc\u00ea abaixo de 20% dos pontos de vida ganham uma aplica\u00e7\u00e3o de Sentinela a cada 3 s.",
+    "de_DE": "Ziele, deren Gesundheit Ihr auf weniger als 20% Gesundheit reduziert, erhalten alle 3 Sek. einen Stapel 'W\u00e4chter'.",
+    "en_GB": "Targets you damage below 20% health gain a stack of Sentinel every 3 sec.",
+    "es_ES": "Los objetivos a los que dejas con menos de un 20% de salud reciben una acumulaci\u00f3n de Centinela cada 3 s.",
+    "fr_FR": "Lorsque vous infligez des d\u00e9g\u00e2ts \u00e0 une cible poss\u00e9dant moins de 20\u00a0% de ses points de vie, elle obtient une charge de Sentinelle toutes les 3\u00a0s.",
+    "it_IT": "Infliggere danni a bersagli con meno del 20% della salute massima li affligge con 1 accumulo di Sentinella ogni 3 s.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043d\u0430\u043d\u043e\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u0446\u0435\u043b\u044f\u043c \u0441 \u0437\u0430\u043f\u0430\u0441\u043e\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043c\u0435\u043d\u0435\u0435 20%, \u043e\u043d\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0427\u0430\u0441\u043e\u0432\u043e\u0439\" \u0440\u0430\u0437 \u0432 3 \u0441\u0435\u043a.",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 20% \ubbf8\ub9cc\uc778 \ub300\uc0c1\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 3\ucd08\ub9c8\ub2e4 \ud30c\uc218\uafbc \uc911\ucca9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5c0d\u751f\u547d\u529b\u4f4e\u65bc20%\u7684\u76ee\u6a19\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u6bcf3\u79d2\u7372\u5f97\u4e00\u5c64\u54e8\u5175\u3002",
+    "zh_CN": "\u4f60\u5bf9\u751f\u547d\u503c\u4f4e\u4e8e20%\u7684\u76ee\u6807\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u6bcf3\u79d2\u4f7f\u5176\u53e0\u52a0\u4e00\u5c42\u54e8\u5175\u3002"
+  }
 }

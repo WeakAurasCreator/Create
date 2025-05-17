@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451041"
+  "SpellID": "451041",
+  "name_blz": {
+    "en_US": "Tiger's Vigor",
+    "es_MX": "Vigor del tigre",
+    "pt_BR": "Vigor do Tigre",
+    "de_DE": "Tigerlebenskraft",
+    "en_GB": "Tiger's Vigor",
+    "es_ES": "Vigor del tigre",
+    "fr_FR": "Vigueur du tigre",
+    "it_IT": "Vigore della Tigre",
+    "ru_RU": "\u0422\u0438\u0433\u0440\u0438\u043d\u0430\u044f \u043d\u0435\u0443\u0442\u043e\u043c\u0438\u043c\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ud638\ub791\uc774\uc758 \ud65c\ub825",
+    "zh_TW": "\u864e\u4e4b\u6d3b\u529b",
+    "zh_CN": "\u9f99\u817e\u864e\u8e74"
+  },
+  "description_blz": {
+    "en_US": "Casting Tiger's Lust reduces the remaining cooldown on Roll by 5 sec.",
+    "es_MX": "Lanzar Deseo del tigre reduce 5 s el tiempo de reutilizaci\u00f3n restante de Rodar.",
+    "pt_BR": "Lan\u00e7ar Lux\u00faria do Tigre reduz em 5 s a recarga restante de Rolamento.",
+    "de_DE": "Das Wirken von 'Tigerrausch' verringert die verbleibende Abklingzeit von 'Rollen' um 5 Sek.",
+    "en_GB": "Casting Tiger's Lust reduces the remaining cooldown on Roll by 5 sec.",
+    "es_ES": "Al lanzar Deseo del tigre, se reduce en 5\u00a0s el tiempo de reutilizaci\u00f3n restante de Rodar.",
+    "fr_FR": "Le lancement de Soif du tigre r\u00e9duit le temps de recharge restant de Roulade de 5\u00a0s.",
+    "it_IT": "Lanciare Brama della Tigre riduce il tempo di recupero restante di Capriola di 5 s.",
+    "ru_RU": "\"\u0422\u0438\u0433\u0440\u0438\u043d\u043e\u0435 \u0440\u0432\u0435\u043d\u0438\u0435\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041a\u0443\u0432\u044b\u0440\u043a\u0430\" \u043d\u0430 5 \u0441\u0435\u043a.",
+    "ko_KR": "\ubc94\uc758 \uc695\ub9dd \uc2dc\uc804 \uc2dc \uad6c\ub974\uae30\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 5\ucd08\ub9cc\ud07c \uac10\uc18c\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u731b\u864e\u51fa\u9598\u6703\u4f7f\u8fc5\u7a7a\u7ffb\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\u7e2e\u77ed5\u79d2\u3002",
+    "zh_CN": "\u65bd\u653e\u8fc5\u5982\u731b\u864e\u4f7f\u6eda\u5730\u7ffb\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed5\u79d2\u3002"
+  }
 }

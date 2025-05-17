@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449191"
+  "SpellID": "449191",
+  "name_blz": {
+    "en_US": "Oakskin",
+    "es_MX": "Piel de roble",
+    "pt_BR": "Pele de Carvalho",
+    "de_DE": "Eichenhaut",
+    "en_GB": "Oakskin",
+    "es_ES": "Piel de roble",
+    "fr_FR": "Peau de ch\u00eane",
+    "it_IT": "Pelle di Quercia",
+    "ru_RU": "\u0414\u0440\u0435\u0432\u0435\u0441\u043d\u0430\u044f \u043a\u043e\u0436\u0430",
+    "ko_KR": "\ub5a1\uac08\ub098\ubb34 \uaecd\uc9c8",
+    "zh_TW": "\u6a61\u6728\u76ae",
+    "zh_CN": "\u6a61\u6728\u6811\u76ae"
+  },
+  "description_blz": {
+    "en_US": "Survival Instincts and Barkskin reduce damage taken by an additional 10%.",
+    "es_MX": "Instintos de supervivencia y Piel de corteza reducen el da\u00f1o recibido un 10% m\u00e1s.",
+    "pt_BR": "Instintos de Sobreviv\u00eancia e Pele de \u00c1rvore reduzem em 10% o dano recebido.",
+    "de_DE": "'\u00dcberlebensinstinkte' und 'Baumrinde' verringern den erlittenen Schaden zus\u00e4tzlich um 10%.",
+    "en_GB": "Survival Instincts and Barkskin reduce damage taken by an additional 10%.",
+    "es_ES": "Instintos de supervivencia y Piel de corteza reducen un 10% m\u00e1s el da\u00f1o recibido.",
+    "fr_FR": "Instincts de survie et \u00c9corce r\u00e9duisent les d\u00e9g\u00e2ts subis de 10\u00a0% suppl\u00e9mentaires.",
+    "it_IT": "Istinto di Sopravvivenza e Pelledura riducono i danni subiti del 10% aggiuntivo.",
+    "ru_RU": "\"\u0418\u043d\u0441\u0442\u0438\u043d\u043a\u0442\u044b \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u044f\" \u0438 \"\u0414\u0443\u0431\u043e\u0432\u0430\u044f \u043a\u043e\u0436\u0430\" \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0435\u0449\u0435 \u043d\u0430 10%.",
+    "ko_KR": "\uc0dd\uc874 \ubcf8\ub2a5\uacfc \ub098\ubb34 \uaecd\uc9c8\uc774 \ubc1b\ub294 \ud53c\ud574\ub97c \ucd94\uac00\ub85c 10%\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6c42\u751f\u672c\u80fd\u548c\u6a39\u76ae\u8853\u4f7f\u53d7\u5230\u7684\u50b7\u5bb3\u984d\u5916\u964d\u4f4e10%\u3002",
+    "zh_CN": "\u751f\u5b58\u672c\u80fd\u548c\u6811\u76ae\u672f\u4f7f\u53d7\u5230\u7684\u4f24\u5bb3\u989d\u5916\u964d\u4f4e10%\u3002"
+  }
 }
