@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451755"
+  "SpellID": "451755",
+  "name_blz": {
+    "en_US": "Blast Zone",
+    "es_MX": "Zona de explosi\u00f3n",
+    "pt_BR": "Zona de Impacto",
+    "de_DE": "Explosionszone",
+    "en_GB": "Blast Zone",
+    "es_ES": "Zona de explosi\u00f3n",
+    "fr_FR": "Zone d\u2019explosion",
+    "it_IT": "Zona di Detonazione",
+    "ru_RU": "\u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0432\u0437\u0440\u044b\u0432\u0430",
+    "ko_KR": "\ud3ed\ubc1c \uc9c0\ub300",
+    "zh_TW": "\u7206\u70b8\u5340\u57df",
+    "zh_CN": "\u9707\u7206\u533a\u57df"
+  },
+  "description_blz": {
+    "en_US": "Lit Fuse now turns up to 3 targets into Living Bombs.\r\n\r\nLiving Bombs can now spread to 5 enemies.",
+    "es_MX": "Mecha encendida ahora convierte a un m\u00e1ximo de 3 objetivos en Bombas vivas.\r\n\r\nBombas vivas ahora puede propagarse a 5 enemigos.",
+    "pt_BR": "Pavio Aceso agora transforma at\u00e9 3 alvos em Bombas Vivas.\r\n\r\nBombas Vivas agora podem se espalhar para 5 inimigos.",
+    "de_DE": "'Gez\u00fcndete Lunte' verwandelt jetzt bis zu 3 Ziele in lebende Bomben.\r\n\r\n'Lebende Bombe' kann sich jetzt auf 5 Gegner ausbreiten.",
+    "en_GB": "Lit Fuse now turns up to 3 targets into Living Bombs.\r\n\r\nLiving Bombs can now spread to 5 enemies.",
+    "es_ES": "Ahora, Encender mecha convierte a un m\u00e1ximo de 3 objetivos en bombas vivas.\r\n\r\nAhora, estas bombas se pueden extender a 5 enemigos.",
+    "fr_FR": "M\u00e8che allum\u00e9e transforme \u00e0 pr\u00e9sent jusqu\u2019\u00e0 3\u00a0cibles en bombes vivantes.\r\n\r\nLes bombes vivantes peuvent \u00e0 pr\u00e9sent se transmettre \u00e0 jusqu\u2019\u00e0 5\u00a0adversaires.",
+    "it_IT": "Miccia Accesa trasforma fino a 3 bersagli in Bombe Viventi.\r\n\r\nL'effetto Bomba Vivente si pu\u00f2 diffondere su 5 nemici.",
+    "ru_RU": "\"\u0413\u043e\u0440\u044f\u0449\u0438\u0439 \u0444\u0438\u0442\u0438\u043b\u044c\" \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \"\u0416\u0438\u0432\u0443\u044e \u0431\u043e\u043c\u0431\u0443\" \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u043a 3 \u0446\u0435\u043b\u044f\u043c.\r\n\r\n\"\u0416\u0438\u0432\u0430\u044f \u0431\u043e\u043c\u0431\u0430\" \u0442\u0435\u043f\u0435\u0440\u044c \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f \u043d\u0430 5 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432.",
+    "ko_KR": "\ubd88\ubd99\uc740 \ub3c4\ud654\uc120\uc774 \ucd5c\ub300 3\uba85\uc758 \ub300\uc0c1\uc744 \uc0b4\uc544\uc788\ub294 \ud3ed\ud0c4\uc73c\ub85c \ub9cc\ub4ed\ub2c8\ub2e4.\r\n\r\n\uc0b4\uc544\uc788\ub294 \ud3ed\ud0c4\uc774 5\uba85\uc758 \uc801\uc5d0\uac8c \uc804\uc774\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u9ede\u71c3\u5f15\u4fe1\u73fe\u5728\u6703\u5c07\u6700\u591a3\u500b\u76ee\u6a19\u8b8a\u6210\u6d3b\u9ad4\u7206\u5f48\u3002\r\n\r\n\u6d3b\u9ad4\u7206\u5f48\u73fe\u5728\u53ef\u64f4\u6563\u52305\u500b\u6575\u4eba\u3002",
+    "zh_CN": "\u70b9\u71c3\u5bfc\u706b\u7d22\u73b0\u5728\u4f1a\u5c06\u6700\u591a3\u4e2a\u76ee\u6807\u53d8\u4e3a\u6d3b\u52a8\u70b8\u5f39\u3002\r\n\r\n\u6d3b\u52a8\u70b8\u5f39\u73b0\u5728\u53ef\u4ee5\u4f20\u64ad\u7ed95\u4e2a\u654c\u4eba\u3002"
+  }
 }

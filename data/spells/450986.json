@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450986"
+  "SpellID": "450986",
+  "name_blz": {
+    "en_US": "Against All Odds",
+    "es_MX": "Contra todo pron\u00f3stico",
+    "pt_BR": "Contra as Probabilidades",
+    "de_DE": "Allen Widrigkeiten zum Trotz",
+    "en_GB": "Against All Odds",
+    "es_ES": "Contra todo pron\u00f3stico",
+    "fr_FR": "Contre toute attente",
+    "it_IT": "Contro Ogni Probabilit\u00e0",
+    "ru_RU": "\u0412\u043e\u043f\u0440\u0435\u043a\u0438 \u0432\u0441\u0435\u043c\u0443",
+    "ko_KR": "\uace0\ub09c\uacfc \uc5ed\uacbd\uc744 \ub118\uc5b4",
+    "zh_TW": "\u529b\u633d\u72c2\u703e",
+    "zh_CN": "\u4e0d\u60e7\u4e07\u96be"
+  },
+  "description_blz": {
+    "en_US": "Flurry Strikes increase your Agility by 1% for 5 sec, stacking up to 20 times.",
+    "es_MX": "Los Golpes en aluvi\u00f3n aumentan tu agilidad un 1% durante 5 s. Este efecto se acumula un m\u00e1ximo de 20 veces.",
+    "pt_BR": "Rajada de Golpes aumenta em 1% a sua Agilidade por 5 s, acumulando at\u00e9 20 vezes.",
+    "de_DE": "Euer 'Pr\u00fcgelhagel' erh\u00f6ht 5 Sek. lang Eure Beweglichkeit um 1%. Bis zu 20-mal stapelbar.",
+    "en_GB": "Flurry Strikes increase your Agility by 1% for 5 sec, stacking up to 20 times.",
+    "es_ES": "Aluviones de golpes aumenta un 1% tu agilidad durante 5 s y se acumula hasta 20 veces.",
+    "fr_FR": "D\u00e9luge de coups augmente l\u2019Agilit\u00e9 de 1\u00a0% pendant 5 s. Cumulable jusqu\u2019\u00e0 20\u00a0fois.",
+    "it_IT": "Assalti a Raffica aumenta l'Agilit\u00e0 del 1% per 5 s. Si accumula fino a 20 volte.",
+    "ru_RU": "\"\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b\" \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442 \u0432\u0430\u0448\u0443 \u043b\u043e\u0432\u043a\u043e\u0441\u0442\u044c \u043d\u0430 1% \u043d\u0430 5 \u0441\u0435\u043a. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 20 \u0440\u0430\u0437.",
+    "ko_KR": "\uc9c8\ud48d\uaca9\uc774 5\ucd08 \ub3d9\uc548 \ubbfc\ucca9\uc131\uc744 1%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \ucd5c\ub300 20\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u9023\u62f3\u6253\u64ca\u4f7f\u4f60\u7684\u654f\u6377\u63d0\u9ad81%\uff0c\u6301\u7e8c5\u79d2\uff0c\u6700\u591a\u53ef\u5806\u758a20\u5c64\u3002",
+    "zh_CN": "\u75be\u98ce\u4e71\u6253\u4f7f\u4f60\u7684\u654f\u6377\u63d0\u9ad81%\uff0c\u6301\u7eed5\u79d2\uff0c\u6700\u591a\u53ef\u53e0\u52a020\u6b21\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451454"
+  "SpellID": "451454",
+  "name_blz": {
+    "en_US": "Martial Mixture",
+    "es_MX": "Mezcla marcial",
+    "pt_BR": "Mistura Marcial",
+    "de_DE": "Kampfkunstkombi",
+    "en_GB": "Martial Mixture",
+    "es_ES": "Mezcla marcial",
+    "fr_FR": "M\u00e9lange martial",
+    "it_IT": "Mistura Marziale",
+    "ru_RU": "\u0412\u043e\u0438\u043d\u0441\u043a\u0430\u044f \u0441\u043c\u0435\u0441\u044c",
+    "ko_KR": "\ubb34\uc608 \uc811\ubaa9",
+    "zh_TW": "\u96c6\u767e\u5bb6\u4e4b\u9577",
+    "zh_CN": "\u535a\u91c7\u4f17\u6280"
+  },
+  "description_blz": {
+    "en_US": "Blackout Kick increases the damage of your next Tiger Palm by 8%, stacking up to 30 times.",
+    "es_MX": "Patada oscura aumenta el da\u00f1o de tu siguiente Palma del tigre un 8%. Puede acumularse un m\u00e1ximo de 30 veces.",
+    "pt_BR": "Chute Blecaute aumenta em 8% o dano da sua pr\u00f3xima Palma do Tigre, acumulando at\u00e9 30 vezes.",
+    "de_DE": "'Blackout-Tritt' erh\u00f6ht den Schaden Eures n\u00e4chsten Einsatzes von 'Tigerklaue' um 8%. Bis zu 30-mal stapelbar.",
+    "en_GB": "Blackout Kick increases the damage of your next Tiger Palm by 8%, stacking up to 30 times.",
+    "es_ES": "Patada oscura aumenta un 8% el da\u00f1o de tu siguiente Palma del tigre. Se acumula hasta 30 veces.",
+    "fr_FR": "Frappe du voile noir augmente de 8\u00a0% les d\u00e9g\u00e2ts de votre prochaine Paume du tigre. Cumulable jusqu\u2019\u00e0 30\u00a0fois.",
+    "it_IT": "Calcio dell'Oscuramento aumenta i danni inflitti dal successivo Palmo della Tigre del 8%. Si accumula fino a 30 volte.",
+    "ru_RU": "\"\u041d\u043e\u043a\u0430\u0443\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d \u043e\u0442 \u0432\u0430\u0448\u0435\u0439 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \"\u041b\u0430\u043f\u044b \u0442\u0438\u0433\u0440\u0430\" \u043d\u0430 8%. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 30 \u0440\u0430\u0437.",
+    "ko_KR": "\ud6c4\ub824\ucc28\uae30 \uc0ac\uc6a9 \uc2dc \ub2e4\uc74c \ubc94\uc758 \uc7a5\ud48d\uc758 \uacf5\uaca9\ub825\uc774 8%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 30\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u6ec5\u5bc2\u817f\u6703\u4f7f\u4f60\u4e0b\u4e00\u500b\u864e\u638c\u7684\u50b7\u5bb3\u63d0\u9ad88%\uff0c\u6700\u591a\u53ef\u5806\u758a30\u5c64\u3002",
+    "zh_CN": "\u5e7b\u706d\u8e22\u4f7f\u4f60\u7684\u4e0b\u4e00\u4e2a\u731b\u864e\u638c\u7684\u4f24\u5bb3\u63d0\u9ad88%\uff0c\u6700\u591a\u53ef\u53e0\u52a030\u6b21\u3002"
+  }
 }

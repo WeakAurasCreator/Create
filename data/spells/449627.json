@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449627"
+  "SpellID": "449627",
+  "name_blz": {
+    "en_US": "Lessons in Debilitation",
+    "es_MX": "Lecciones de debilitamiento",
+    "pt_BR": "Aula de Debilita\u00e7\u00e3o",
+    "de_DE": "Lektionen in Entkr\u00e4ftung",
+    "en_GB": "Lessons in Debilitation",
+    "es_ES": "Lecciones de debilitaci\u00f3n",
+    "fr_FR": "Enseignements dans l\u2019apathie",
+    "it_IT": "Lezioni di Spossatezza",
+    "ru_RU": "\u0423\u0440\u043e\u043a\u0438 \u043e\u0431 \u0438\u0441\u0442\u043e\u0449\u0435\u043d\u0438\u0438",
+    "ko_KR": "\uc1e0\uc57d\uc758 \uac00\ub974\uce68",
+    "zh_TW": "\u8870\u5f31\u8a13\u8aa8",
+    "zh_CN": "\u8870\u7aed\u4e4b\u8bad"
+  },
+  "description_blz": {
+    "en_US": "Your Arcane Phoenix will Spellsteal when it is summoned and when it expires.",
+    "es_MX": "Tu F\u00e9nix arcano usa Robar hechizo cuando se invoca y cuando expira.",
+    "pt_BR": "Sua F\u00eanix Arcana rouba feiti\u00e7os quando \u00e9 evocada e quando expira.",
+    "de_DE": "Euer arkaner Ph\u00f6nix wendet 'Zauberraub' an, wenn er beschworen wird und wenn er abl\u00e4uft.",
+    "en_GB": "Your Arcane Phoenix will Spellsteal when it is summoned and when it expires.",
+    "es_ES": "Tu f\u00e9nix Arcano lanzar\u00e1 Robar hechizo cuando se invoque y cuando se agote.",
+    "fr_FR": "Votre ph\u00e9nix arcanique lance Vol de sort lorsqu\u2019il est invoqu\u00e9 et lorsqu\u2019il prend fin.",
+    "it_IT": "Fenice Arcana lancia Ruba Incantesimo quando viene evocata e quando termina.",
+    "ru_RU": "\u0412\u0430\u0448 \u0447\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u0444\u0435\u043d\u0438\u043a\u0441 \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u0442\u0430\u043b\u0430\u043d\u0442 \"\u0427\u0430\u0440\u043e\u043a\u0440\u0430\u0434\", \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442\u0435 \u0435\u0433\u043e \u0438 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e \u0438\u0441\u0442\u0435\u0447\u0435\u043d\u0438\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.",
+    "ko_KR": "\ube44\uc804 \ubd88\uc0ac\uc870\uac00 \uc18c\ud658\ub420 \ub54c, \uadf8\ub9ac\uace0 \ub9cc\ub8cc\ub420 \ub54c \ub9c8\ubc95\uc744 \ud6d4\uce69\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u79d8\u6cd5\u9cf3\u51f0\u6703\u5728\u53ec\u559a\u548c\u5931\u6548\u6642\u65bd\u653e\u6cd5\u8853\u7aca\u53d6\u3002",
+    "zh_CN": "\u4f60\u7684\u5965\u672f\u51e4\u51f0\u5728\u53ec\u5524\u65f6\u548c\u6d88\u5931\u65f6\u4f1a\u65bd\u653e\u6cd5\u672f\u5438\u53d6\u3002"
+  }
 }
