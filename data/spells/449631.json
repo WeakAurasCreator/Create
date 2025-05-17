@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449631"
+  "SpellID": "449631",
+  "name_blz": {
+    "en_US": "Wicked Reaping",
+    "es_MX": "Est\u00edmulo malvado",
+    "pt_BR": "Ceifa Perversa",
+    "de_DE": "T\u00fcckischer Schnitter",
+    "en_GB": "Wicked Reaping",
+    "es_ES": "Siega perversa",
+    "fr_FR": "R\u00e9colte pernicieuse",
+    "it_IT": "Mietitura Malvagia",
+    "ru_RU": "\u0416\u0435\u0441\u0442\u043e\u043a\u0430\u044f \u0436\u0430\u0442\u0432\u0430",
+    "ko_KR": "\uc0ac\uc545\ud55c \uc218\ud655",
+    "zh_TW": "\u90aa\u60e1\u6536\u5272",
+    "zh_CN": "\u90aa\u6bd2\u6536\u5272"
+  },
+  "description_blz": {
+    "en_US": "Damage dealt by your demonic soul is increased by 10%.\r\n\r\nConsuming Demonic Core feeds the demonic entity within you, causing it to appear and deal 5,321 Shadow damage to your target.",
+    "es_MX": "El da\u00f1o que inflige tu alma demon\u00edaca aumenta un 10%.\r\n\r\nConsumir N\u00facleo demon\u00edaco alimenta a la entidad demon\u00edaca en tu interior, lo que hace que aparezca e inflija 5,321 p. de da\u00f1o de las sombras a tu objetivo.",
+    "pt_BR": "O dano causado pela sua Alma Demon\u00edaca aumenta em 10%.\r\n\r\nConsumir N\u00facleo Demon\u00edaco alimenta a entidade demon\u00edaca em voc\u00ea, que aparece e causa 5.321 de dano de Sombra ao alvo.",
+    "de_DE": "Der von Eurer d\u00e4monischen Seele verursachte Schaden wird um 10% erh\u00f6ht.\r\n\r\nDer Verbrauch von 'D\u00e4monischer Kern' f\u00fcttert das d\u00e4monische Wesen in Euch, das erscheint und Eurem Ziel 5.321 Schattenschaden zuf\u00fcgt.",
+    "en_GB": "Damage dealt by your demonic soul is increased by 10%.\r\n\r\nConsuming Demonic Core feeds the demonic entity within you, causing it to appear and deal 5,321 Shadow damage to your target.",
+    "es_ES": "El da\u00f1o que inflige tu alma demon\u00edaca aumenta un 10%.\r\n\r\nConsumir N\u00facleo demon\u00edaco alimenta a la entidad demon\u00edaca que hay en ti, que aparece e inflige 5321 p. de da\u00f1o de las Sombras a tu objetivo.",
+    "fr_FR": "Les d\u00e9g\u00e2ts inflig\u00e9s par votre \u00e2me d\u00e9moniaque sont augment\u00e9s de 10\u00a0%.\r\n\r\nLa consommation de C\u0153ur d\u00e9moniaque nourrit l\u2019entit\u00e9 d\u00e9moniaque en vous, la faisant appara\u00eetre et infliger 5321\u00a0points de d\u00e9g\u00e2ts d\u2019ombre \u00e0 votre cible.",
+    "it_IT": "Aumenta i danni inflitti dalla tua anima demoniaca del 10%.\r\n\r\nConsumare Nucleo Demoniaco nutre e fa apparire la tua entit\u00e0 demoniaca, che infligge 5.321 danni da ombra al bersaglio.",
+    "ru_RU": "\u0414\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0434\u0443\u0448\u0430 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 10% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0421\u0435\u0440\u0434\u0446\u0435 \u0434\u0435\u043c\u043e\u043d\u0430\", \u0432\u044b \u0434\u0430\u0435\u0442\u0435 \u044d\u043d\u0435\u0440\u0433\u0438\u044e \u0437\u0430\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u043e\u0439 \u0432 \u0432\u0430\u0441 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0435\u0439 \u0432\u043e\u043f\u043b\u043e\u0442\u0438\u0442\u044c\u0441\u044f \u0438 \u043d\u0430\u043d\u0435\u0441\u0442\u0438 \u0446\u0435\u043b\u0438 5321 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\uc545\ub9c8\uc758 \uc601\ud63c\uc73c\ub85c \uc785\ud788\ub294 \ud53c\ud574\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc545\ub9c8\uc758 \ud575 \uc18c\ubaa8 \uc2dc \ub0b4\uba74\uc758 \uc545\ub9c8\uc5d0\uac8c \uc591\ubd84\uc744 \uacf5\uae09\ud574, \ubaa8\uc2b5\uc744 \ub4dc\ub7ec\ub0b4 \ub300\uc0c1\uc5d0\uac8c 5,321\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud788\ub3c4\ub85d \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u9b54\u6027\u4e4b\u9b42\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u6d88\u8017\u9b54\u80fd\u4e4b\u6838\u6703\u58ef\u5927\u4f60\u9ad4\u5167\u7684\u60e1\u9b54\u5be6\u9ad4\uff0c\u4f7f\u5176\u73fe\u8eab\uff0c\u4e26\u5c0d\u76ee\u6a19\u9020\u62105,321\u9ede\u6697\u5f71\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u6076\u9b54\u4e4b\u9b42\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad810%\u3002\r\n\r\n\u6d88\u8017\u6076\u9b54\u4e4b\u6838\u4f1a\u6ecb\u517b\u4f60\u4f53\u5185\u7684\u6076\u9b54\u5b9e\u4f53\uff0c\u4f7f\u5176\u73b0\u8eab\u5e76\u5bf9\u76ee\u6807\u9020\u62105,321\u70b9\u6697\u5f71\u4f24\u5bb3\u3002"
+  }
 }

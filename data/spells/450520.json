@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450520"
+  "SpellID": "450520",
+  "name_blz": {
+    "en_US": "Bounding Agility",
+    "es_MX": "Agilidad de salto",
+    "pt_BR": "Agilidade Expansiva",
+    "de_DE": "Sprunghafte Beweglichkeit",
+    "en_GB": "Bounding Agility",
+    "es_ES": "Agilidad saltarina",
+    "fr_FR": "Agilit\u00e9 bondissante",
+    "it_IT": "Agilit\u00e0 Vincolante",
+    "ru_RU": "\u041f\u0440\u043e\u0432\u043e\u0440\u043d\u044b\u0435 \u043f\u0440\u044b\u0436\u043a\u0438",
+    "ko_KR": "\uce58\uc19f\ub294 \ubbfc\ucca9\uc131",
+    "zh_TW": "\u654f\u6377\u4e4b\u7e1b",
+    "zh_CN": "\u654f\u6377\u8dc3\u8fdb"
+  },
+  "description_blz": {
+    "en_US": "Roll and Chi Torpedo travel a small distance further.",
+    "es_MX": "Rodar y Torpedo de chi te hacen desplazar un poco m\u00e1s lejos.",
+    "pt_BR": "Rolamento e Torpedo de Chi percorrem uma dist\u00e2ncia ligeiramente maior.",
+    "de_DE": "'Rollen' und 'Chitorpedo' transportieren ein kleines St\u00fcck weiter.",
+    "en_GB": "Roll and Chi Torpedo travel a small distance further.",
+    "es_ES": "Rodar y Torpedo de chi te desplazan un poco m\u00e1s lejos.",
+    "fr_FR": "Roulade et Torpille de chi couvrent une courte distance suppl\u00e9mentaire.",
+    "it_IT": "Aumenta la distanza coperta da Capriola o Dardo del Chi.",
+    "ru_RU": "\"\u041a\u0443\u0432\u044b\u0440\u043e\u043a\" \u0438 \"\u0426\u0438-\u043f\u043e\u043b\u0435\u0442\" \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435\u0435 \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435.",
+    "ko_KR": "\uad6c\ub974\uae30 \ubc0f \uae30\uacf5\ud0c4\uc758 \uc774\ub3d9 \uac70\ub9ac\uac00 \uc57d\uac04 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8fc5\u7a7a\u7ffb\u548c\u771f\u6c23\u98db\u9f8d\u7a7f\u7684\u79fb\u52d5\u8ddd\u96e2\u7a0d\u5fae\u63d0\u9ad8\u3002",
+    "zh_CN": "\u6eda\u5730\u7ffb\u548c\u771f\u6c14\u7a81\u7684\u79fb\u52a8\u8ddd\u79bb\u7565\u5fae\u5ef6\u957f\u3002"
+  }
 }

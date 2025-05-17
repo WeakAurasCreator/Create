@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451017"
+  "SpellID": "451017",
+  "name_blz": {
+    "en_US": "Clarity of Purpose",
+    "es_MX": "Claridad de prop\u00f3sito",
+    "pt_BR": "Clareza de Prop\u00f3sito",
+    "de_DE": "Klare Bestimmung",
+    "en_GB": "Clarity of Purpose",
+    "es_ES": "Prop\u00f3sito claro",
+    "fr_FR": "Clart\u00e9 de l\u2019intention",
+    "it_IT": "Chiarezza d'Intenti",
+    "ru_RU": "\u0423\u0431\u0435\u0436\u0434\u0435\u043d\u043d\u0430\u044f \u0446\u0435\u043b\u0435\u0443\u0441\u0442\u0440\u0435\u043c\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ubaa9\uc801\uc758 \uba85\ub8cc\ud568",
+    "zh_TW": "\u4f7f\u547d\u6e05\u6670",
+    "zh_CN": "\u6e05\u6670\u4f7f\u547d"
+  },
+  "description_blz": {
+    "en_US": "Casting Vivify stores 5,534 vitality, increased based on your recent Gusts of Mist.",
+    "es_MX": "Lanzar Vivificar almacena 5,534 p. de vitalidad, seg\u00fan tus R\u00e1fagas de niebla recientes.",
+    "pt_BR": "Lan\u00e7ar Vivificar armazena 5.534 de vitalidade, aumentada com base nas suas Rajadas de Brumas recentes.",
+    "de_DE": "Das Wirken von 'Beleben' speichert 5.534 Lebenskraft, erh\u00f6ht basierend auf Euren letzten Eins\u00e4tzen von 'Nebelschwall'.",
+    "en_GB": "Casting Vivify stores 5,534 vitality, increased based on your recent Gusts of Mist.",
+    "es_ES": "Al lanzar Vivificar almacenas 5534\u00a0p. de vitalidad, que aumentan en funci\u00f3n de tus efectos de Racha de niebla recientes.",
+    "fr_FR": "Le lancement de Vivifier stocke 5534\u00a0points de vitalit\u00e9, augment\u00e9e en fonction des Bourrasques de brume r\u00e9centes.",
+    "it_IT": "Lanciare Vivificazione immagazzina 5.534 vitalit\u00e0, aumentata in base al recente lancio di Folata di Venti.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041e\u0436\u0438\u0432\u0438\u0442\u044c\", \u0432\u044b \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0435\u0442\u0435 5534 \u0435\u0434. \u0436\u0438\u0437\u043d\u0435\u043d\u043d\u043e\u0439 \u0441\u0438\u043b\u044b. \u042d\u0442\u043e\u0442 \u043e\u0431\u044a\u0435\u043c \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u043d\u0435\u0434\u0430\u0432\u043d\u0438\u0445 \u0441\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043d\u0438\u0439 \"\u0422\u0443\u043c\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0430\".",
+    "ko_KR": "\uc0dd\uae30 \ucda9\uc804 \uc2dc\uc804 \uc2dc 5,534\uc758 \ud65c\ub825\uc744 \ucd95\uc801\ud569\ub2c8\ub2e4. \ucd5c\uadfc \uc548\uac1c \ub3cc\ud48d\uc5d0 \ub530\ub77c \ud6a8\uacfc\uac00 \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u65bd\u653e\u751f\u6c23\u52c3\u52c3\u6703\u5132\u5b585,534\u9ede\u7cbe\u529b\uff0c\u6548\u679c\u6839\u64da\u6700\u8fd1\u7684\u6d36\u6e67\u8ff7\u9727\u63d0\u9ad8\u3002",
+    "zh_CN": "\u65bd\u653e\u6d3b\u8840\u672f\u4f1a\u5b58\u50a85,534\u70b9\u6d3b\u529b\uff0c\u6839\u636e\u6700\u8fd1\u65bd\u653e\u7684\u8ff7\u96fe\u4e4b\u98ce\u63d0\u9ad8\u3002"
+  }
 }

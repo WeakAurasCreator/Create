@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451432"
+  "SpellID": "451432",
+  "name_blz": {
+    "en_US": "Acclamation",
+    "es_MX": "Aclamaci\u00f3n",
+    "pt_BR": "Aclama\u00e7\u00e3o",
+    "de_DE": "Beifallsruf",
+    "en_GB": "Acclamation",
+    "es_ES": "Aclamaci\u00f3n",
+    "fr_FR": "Acclamation",
+    "it_IT": "Acclamazione",
+    "ru_RU": "\u041e\u0434\u043e\u0431\u0440\u0435\u043d\u0438\u0435",
+    "ko_KR": "\uac08\ucc44",
+    "zh_TW": "\u559d\u5f69",
+    "zh_CN": "\u5f53\u5934\u68d2\u559d"
+  },
+  "description_blz": {
+    "en_US": "Rising Sun Kick increases the damage your target receives from you by 3% for 12 sec. Multiple instances may overlap.",
+    "es_MX": "Patada del sol naciente aumenta un 3% el da\u00f1o que le infliges a tu objetivo durante 12 s. Pueden superponerse varias aplicaciones.",
+    "pt_BR": "Chute do Sol Nascente aumenta em 3% o dano que o seu alvo recebe por 12 s. Diferentes inst\u00e2ncias podem se sobrepor.",
+    "de_DE": "'Tritt der aufgehenden Sonne' erh\u00f6ht den Schaden, den Eurer Ziel durch Euch erleidet, 12 Sek. lang um 3%. Mehrere Instanzen k\u00f6nnen sich \u00fcberlappen.",
+    "en_GB": "Rising Sun Kick increases the damage your target receives from you by 3% for 12 sec. Multiple instances may overlap.",
+    "es_ES": "Patada del sol naciente aumenta el da\u00f1o que infliges a tu objetivo un 3% durante 12 s. Pueden solaparse varias aplicaciones.",
+    "fr_FR": "Coup de pied du soleil levant augmente les d\u00e9g\u00e2ts que vous infligez \u00e0 votre cible de 3\u00a0% pendant 12 s. Plusieurs instances de cet effet peuvent se chevaucher.",
+    "it_IT": "Calcio del Sole Nascente aumenta i danni da te inflitti al bersaglio del 3% per 12 s. Accumuli multipli potrebbero sovrapporsi.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0443\u0440\u043e\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0446\u0435\u043b\u044c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043e\u0442 \u0432\u0430\u0441, \u043d\u0430 3% \u043d\u0430 12 \u0441\u0435\u043a. \u042d\u0444\u0444\u0435\u043a\u0442\u044b \u043c\u043e\u0433\u0443\u0442 \u043d\u0430\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0434\u0440\u0443\u0433 \u043d\u0430 \u0434\u0440\u0443\u0433\u0430.",
+    "ko_KR": "\ud574\uc624\ub984\ucc28\uae30\uac00 12\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \uc2dc\uc804\uc790\uc5d0\uac8c \ubc1b\ub294 \ud53c\ud574\ub97c 3%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \uc5ec\ub7ec \ubc88 \uc911\ucca9\ud574\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u7fd4\u967d\u8173\u6703\u4f7f\u4f60\u5c0d\u76ee\u6a19\u9020\u6210\u7684\u50b7\u5bb3\u63d0\u9ad83%\uff0c\u6301\u7e8c12\u79d2\u3002\u6548\u679c\u53ef\u91cd\u758a\u3002",
+    "zh_CN": "\u65ed\u65e5\u4e1c\u5347\u8e22\u4f7f\u4f60\u7684\u76ee\u6807\u53d7\u5230\u4f60\u7684\u4f24\u5bb3\u63d0\u9ad83%\uff0c\u6301\u7eed12\u79d2\u3002\u591a\u6b21\u65bd\u52a0\u53ef\u4ee5\u91cd\u53e0\u751f\u6548\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449638"
+  "SpellID": "449638",
+  "name_blz": {
+    "en_US": "Shadow of Death",
+    "es_MX": "Sombra de muerte",
+    "pt_BR": "Sombra da Morte",
+    "de_DE": "Schatten des Todes",
+    "en_GB": "Shadow of Death",
+    "es_ES": "Sombra de muerte",
+    "fr_FR": "Ombre de la mort",
+    "it_IT": "Ombra di Morte",
+    "ru_RU": "\u0422\u0435\u043d\u044c \u0441\u043c\u0435\u0440\u0442\u0438",
+    "ko_KR": "\uc8fd\uc74c\uc758 \uadf8\ub9bc\uc790",
+    "zh_TW": "\u6b7b\u4ea1\u4e4b\u5f71",
+    "zh_CN": "\u6b7b\u4ea1\u4e4b\u5f71"
+  },
+  "description_blz": {
+    "en_US": "Your Summon Demonic Tyrant spell is empowered by the demonic entity within you, causing it to grant 3 Soul Shards that each contain a Succulent Soul.",
+    "es_MX": "Tu hechizo Invocar tirano demon\u00edaco es potenciado por la entidad demon\u00edaca dentro de ti, lo que hace que otorgue 3 fragmentos de alma que contienen un alma suculenta cada uno.",
+    "pt_BR": "Seu feiti\u00e7o Evocar Tirano Demon\u00edaco \u00e9 potencializado pela entidade demon\u00edaca em voc\u00ea, fazendo-o conceder 3 Estilha\u00e7os de Alma, cada um com uma Alma Suculenta.",
+    "de_DE": "Euer Zauber 'D\u00e4monischen Tyrannen beschw\u00f6ren' ist vom d\u00e4monischen Wesen in Euch erm\u00e4chtigt, sodass er Euch 3 Seelensplitter gew\u00e4hrt, die jeweils eine saftige Seele enthalten.",
+    "en_GB": "Your Summon Demonic Tyrant spell is empowered by the demonic entity within you, causing it to grant 3 Soul Shards that each contain a Succulent Soul.",
+    "es_ES": "La entidad demon\u00edaca de tu interior potencia tu hechizo Invocar tirano demon\u00edaco, lo que te otorga 3 fragmentos de alma que contienen un alma suculenta cada uno.",
+    "fr_FR": "Votre sort Invocation\u00a0: tyran d\u00e9moniaque est renforc\u00e9 par l\u2019entit\u00e9 d\u00e9moniaque en vous, ce qui lui permet de conf\u00e9rer 3\u00a0\u00e9clats d\u2019\u00e2me qui contiennent chacun une \u00e2me succulente.",
+    "it_IT": "Il lancio di Evocazione: Tiranno Demoniaco viene potenziato dall'entit\u00e0 demoniaca interiore, fornendo 3 frammenti d'anima che contengono ciascuno un'Anima Succulenta.",
+    "ru_RU": "\u0412\u0430\u0448\u0430 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0437\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0435 \"\u041f\u0440\u0438\u0437\u044b\u0432 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0442\u0438\u0440\u0430\u043d\u0430\", \u043e\u0442\u0447\u0435\u0433\u043e \u043e\u043d\u043e \u0434\u0430\u0435\u0442 3 \u043e\u0441\u043a\u043e\u043b\u043a\u0430 \u0434\u0443\u0448\u0438 \u0441 \u043d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u044b\u043c\u0438 \u0434\u0443\u0448\u0430\u043c\u0438.",
+    "ko_KR": "\ub0b4\uba74\uc758 \uc545\ub9c8\uac00 \uc545\ub9c8 \ud3ed\uad70 \uc18c\ud658 \uc8fc\ubb38\uc744 \uac15\ud654\ud558\uc5ec \uac01\uac01 \ud0d0\uc2a4\ub7ec\uc6b4 \uc601\ud63c\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\ub294 \uc601\ud63c\uc758 \uc870\uac01 3\uac1c\ub97c \ubd80\uc5ec\ud558\ub3c4\ub85d \ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u53ec\u559a\u60e1\u9b54\u66b4\u541b\u6cd5\u8853\u53d7\u5230\u4f60\u9ad4\u5167\u7684\u60e1\u9b54\u5be6\u9ad4\u5f37\u5316\uff0c\u4f7f\u5176\u8ce6\u4e883\u584a\u9748\u9b42\u88c2\u7247\uff0c\u6bcf\u584a\u90fd\u542b\u6709\u591a\u6c41\u7684\u9748\u9b42\u3002",
+    "zh_CN": "\u4f60\u7684\u53ec\u5524\u6076\u9b54\u66b4\u541b\u6cd5\u672f\u88ab\u6076\u9b54\u5b9e\u4f53\u6240\u5f3a\u5316\uff0c\u4f7f\u5176\u4ea7\u751f3\u4e2a\u542b\u6709\u8bf1\u4eba\u7075\u9b42\u7684\u7075\u9b42\u788e\u7247\u3002"
+  }
 }

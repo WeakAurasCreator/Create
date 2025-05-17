@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451529"
+  "SpellID": "451529",
+  "name_blz": {
+    "en_US": "Knowledge of the Broken Temple",
+    "es_MX": "Conocimiento del Templo Quebrado",
+    "pt_BR": "Conhecimento do Templo Partido",
+    "de_DE": "Wissen des Verheerten Tempels",
+    "en_GB": "Knowledge of the Broken Temple",
+    "es_ES": "Conocimiento del Templo Quebrado",
+    "fr_FR": "Savoir du temple Bris\u00e9",
+    "it_IT": "Conoscenza del Tempio in Rovina",
+    "ru_RU": "\u0417\u043d\u0430\u043d\u0438\u044f \u041f\u0430\u0432\u0448\u0435\u0433\u043e \u0425\u0440\u0430\u043c\u0430",
+    "ko_KR": "\ubd80\uc11c\uc9c4 \uc0ac\uc6d0\uc758 \uc9c0\uc2dd",
+    "zh_TW": "\u632f\u864e\u6703\u7684\u77e5\u8b58",
+    "zh_CN": "\u6b8b\u5bfa\u79d8\u5b66"
+  },
+  "description_blz": {
+    "en_US": "Whirling Dragon Punch grants 4 stacks of Teachings of the Monastery and its damage is increased by 20%.\r\n\r\nTeachings of the Monastery can now stack up to 8 times.",
+    "es_MX": "Pu\u00f1etazo de drag\u00f3n giratorio otorga 4 acumulaciones de Ense\u00f1anzas del monasterio y su da\u00f1o aumenta un 20%.\r\n\r\nEnse\u00f1anzas del monasterio ahora puede acumularse un m\u00e1ximo de 8 veces.",
+    "pt_BR": "Soco Girat\u00f3rio do Drag\u00e3o concede 4 aplica\u00e7\u00f5es de Ensinamentos do Monast\u00e9rio, e seu dano aumenta em 20%.\r\n\r\nEnsinamentos do Monast\u00e9rio agora pode acumular at\u00e9 8 vezes.",
+    "de_DE": "'Wirbelnder Drachenschlag' gew\u00e4hrt 4 Stapel von 'Lehren des Klosters' und der Schaden wird um 20% erh\u00f6ht.\r\n\r\n'Lehren des Klosters' kann jetzt bis zu 8-mal gestapelt werden.",
+    "en_GB": "Whirling Dragon Punch grants 4 stacks of Teachings of the Monastery and its damage is increased by 20%.\r\n\r\nTeachings of the Monastery can now stack up to 8 times.",
+    "es_ES": "Pu\u00f1etazo giratorio del drag\u00f3n otorga 4 acumulaciones de Ense\u00f1anzas del monasterio, y su da\u00f1o aumenta un 20%.\r\n\r\nAhora, Ense\u00f1anzas del monasterio se puede acumular hasta 8 veces.",
+    "fr_FR": "Coup de poing du dragon tourbillonnant conf\u00e8re 4\u00a0charges d\u2019Enseignements du monast\u00e8re et ses d\u00e9g\u00e2ts sont augment\u00e9s de 20\u00a0%.\r\n\r\nEnseignements du monast\u00e8re peut d\u00e9sormais se cumuler jusqu\u2019\u00e0 8\u00a0fois.",
+    "it_IT": "Pugno Rotante del Drago fornisce 4 accumuli di Insegnamenti del Monastero e infligge il 20% di danni aggiuntivi.\r\n\r\nInsegnamenti del Monastero pu\u00f2 accumularsi fino a 8 volte.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u043a\u0440\u0443\u0442\u044f\u0449\u0435\u0433\u043e\u0441\u044f \u0434\u0440\u0430\u043a\u043e\u043d\u0430\" \u0434\u0430\u0435\u0442 4 \u044d\u0444\u0444\u0435\u043a\u0442\u0430 \"\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u0438\u044f\" \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u043d\u0430 20% \u0431\u043e\u043b\u044c\u0448\u0435 \u0443\u0440\u043e\u043d\u0430.\r\n\r\n\"\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u0438\u044f\" \u0442\u0435\u043f\u0435\u0440\u044c \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0434\u043e 8 \u0440\u0430\u0437.",
+    "ko_KR": "\uc18c\uc6a9\ub3cc\uc774 \uc6a9\uc758 \uc8fc\uba39 \uc0ac\uc6a9 \uc2dc \uc218\ub3c4\uc6d0\uc758 \uac00\ub974\uce68 4\uc911\ucca9\uc774 \ubd80\uc5ec\ub418\uace0 \uacf5\uaca9\ub825\uc740 20%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\uc218\ub3c4\uc6d0\uc758 \uac00\ub974\uce68\uc774 \ucd5c\ub300 8\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u8ff4\u9f8d\u5347\u5929\u7834\u6703\u8ce6\u4e884\u5c64\u50e7\u9662\u6559\u7fa9\uff0c\u4e14\u5176\u50b7\u5bb3\u63d0\u9ad820%\u3002\r\n\r\n\u50e7\u9662\u6559\u7fa9\u73fe\u5728\u6700\u591a\u53ef\u5806\u758a8\u5c64\u3002",
+    "zh_CN": "\u5347\u9f99\u9738\u4ea7\u751f4\u5c42\u7985\u9662\u6559\u8bf2\uff0c\u4f24\u5bb3\u63d0\u9ad820%\u3002\r\n\r\n\u7985\u9662\u6559\u8bf2\u73b0\u5728\u6700\u591a\u53ef\u53e0\u52a08\u6b21\u3002"
+  }
 }

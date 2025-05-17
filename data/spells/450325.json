@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450325"
+  "SpellID": "450325",
+  "name_blz": {
+    "en_US": "Mark of the Firelord",
+    "es_MX": "Marca del Se\u00f1or del Fuego",
+    "pt_BR": "Marca do Senhor do Fogo",
+    "de_DE": "Mal des Feuerlords",
+    "en_GB": "Mark of the Firelord",
+    "es_ES": "Marca del Se\u00f1or del Fuego",
+    "fr_FR": "Marque du seigneur de Feu",
+    "it_IT": "Marchio del Signore del Fuoco",
+    "ru_RU": "\u0417\u043d\u0430\u043a \u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044f \u041e\u0433\u043d\u044f",
+    "ko_KR": "\ubd88\uc758 \uad70\uc8fc \uc9d5\ud45c",
+    "zh_TW": "\u708e\u9b54\u5370\u8a18",
+    "zh_CN": "\u708e\u9b54\u4e4b\u738b\u7684\u5370\u8bb0"
+  },
+  "description_blz": {
+    "en_US": "Flamestrike and Living Bomb apply Mastery: Ignite at 100% increased effectiveness.",
+    "es_MX": "Fogonazo y Bomba viviente aplican Maestr\u00eda: Ignici\u00f3n con un 100% m\u00e1s de efectividad.",
+    "pt_BR": "Golpe Flamejante e Bomba Viva aplicam Maestria: Incendiar com 100% a mais de efic\u00e1cia.",
+    "de_DE": "'Flammensto\u00df' und 'Lebende Bombe' wirken 'Meisterschaft: Entz\u00fcnden' mit 100% erh\u00f6hter Effektivit\u00e4t.",
+    "en_GB": "Flamestrike and Living Bomb apply Mastery: Ignite at 100% increased effectiveness.",
+    "es_ES": "Fogonazo y Bomba viva aplican Maestr\u00eda: Ignici\u00f3n con un 100% de efectividad aumentada.",
+    "fr_FR": "Choc de flammes et Bombe vivante appliquent Ma\u00eetrise\u00a0: Enflammer avec une efficacit\u00e9 accrue de 100\u00a0%.",
+    "it_IT": "Colonna di Fuoco e Bomba Vivente applicano Maestria: Incendio al 100% di efficacia aggiuntiva.",
+    "ru_RU": "\"\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u043e\u043b\u0431\" \u0438 \"\u0416\u0438\u0432\u0430\u044f \u0431\u043e\u043c\u0431\u0430\" \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442 \"\u0418\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c: \u0432\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0435\u043d\u0438\u0435\" \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e 100%.",
+    "ko_KR": "\ubd88\uae30\ub465 \ubc0f \uc0b4\uc544\uc788\ub294 \ud3ed\ud0c4\uc774 100%\ub9cc\ud07c \uc99d\uac00\ud55c \ud6a8\uc728\ub85c \ud2b9\ud654: \uc791\uc5f4\uc744 \ubd80\uc5ec\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u70c8\u7130\u98a8\u66b4\u548c\u6d3b\u9ad4\u7206\u5f48\u6703\u65bd\u52a0\u6548\u679c\u63d0\u9ad8100%\u7684\u7cbe\u901a\uff1a\u9ede\u71c3\u3002",
+    "zh_CN": "\u70c8\u7130\u98ce\u66b4\u548c\u6d3b\u52a8\u70b8\u5f39\u65bd\u52a0\u7684\u7cbe\u901a\uff1a\u70b9\u71c3\u6548\u679c\u63d0\u9ad8100%\u3002"
+  }
 }
