@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447131"
+  "SpellID": "447131",
+  "name_blz": {
+    "en_US": "Thriving Vegetation",
+    "es_MX": "Vegetaci\u00f3n exuberante",
+    "pt_BR": "Vegeta\u00e7\u00e3o Vi\u00e7osa",
+    "de_DE": "Sprie\u00dfende Vegetation",
+    "en_GB": "Thriving Vegetation",
+    "es_ES": "Vegetaci\u00f3n boyante",
+    "fr_FR": "V\u00e9g\u00e9tation \u00e9panouie",
+    "it_IT": "Vegetazione Rigogliosa",
+    "ru_RU": "\u041f\u044b\u0448\u043d\u0430\u044f \u0437\u0435\u043b\u0435\u043d\u044c",
+    "ko_KR": "\ubc88\uc131\ud558\ub294 \ucd08\ubaa9",
+    "zh_TW": "\u6b23\u6b23\u5411\u69ae",
+    "zh_CN": "\u6b23\u8363\u690d\u88ab"
+  },
+  "description_blz": {
+    "en_US": "Rejuvenation instantly heals your target for 20% of its total periodic effect and Regrowth's duration is increased by 3 sec.",
+    "es_MX": "Rejuvenecimiento sana al instante a tu objetivo un 20% de su efecto peri\u00f3dico total, y la duraci\u00f3n de Recrecimiento aumenta 3 s.",
+    "pt_BR": "Rejuvenescer cura o alvo instantaneamente em 20% do efeito peri\u00f3dico total, e a dura\u00e7\u00e3o de Recrescimento aumenta em 3 s.",
+    "de_DE": "Der Zauber 'Verj\u00fcngung' heilt Euer Ziel sofort um 20% seines gesamten regelm\u00e4\u00dfigen Effekts, und die Dauer von 'Nachwachsen' wird um 3 Sek. verl\u00e4ngert.",
+    "en_GB": "Rejuvenation instantly heals your target for 20% of its total periodic effect and Regrowth's duration is increased by 3 sec.",
+    "es_ES": "Rejuvenecimiento sana al instante un 20% de su efecto peri\u00f3dico total, y la duraci\u00f3n de Recrecimiento aumenta 3\u00a0s.",
+    "fr_FR": "R\u00e9cup\u00e9ration rend instantan\u00e9ment \u00e0 la cible un montant de points de vie \u00e9gal \u00e0 20\u00a0% de son effet p\u00e9riodique total et la dur\u00e9e de R\u00e9tablissement est augment\u00e9e de 3\u00a0s.",
+    "it_IT": "Rinvigorimento cura istantaneamente il bersaglio del 20% delle cure fornite dal suo effetto periodico. Aumenta la durata di Ricrescita di 3 s.",
+    "ru_RU": "\"\u041e\u043c\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0446\u0435\u043b\u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 20% \u0441\u0432\u043e\u0435\u0433\u043e \u043f\u0435\u0440\u0438\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430. \"\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\" \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 3 \u0441\u0435\u043a. \u0434\u043e\u043b\u044c\u0448\u0435.",
+    "ko_KR": "\ud68c\ubcf5 \uc2dc\uc804 \uc2dc \ub300\uc0c1\uc744 \uc989\uc2dc \ucd1d \uc8fc\uae30\uc801\uc778 \uce58\uc720\ub7c9\uc758 20%\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4. \ub610\ud55c \uc7ac\uc0dd\uc758 \uc9c0\uc18d\uc2dc\uac04\uc774 3\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u56de\u6625\u8853\u7acb\u523b\u4f7f\u76ee\u6a19\u6062\u5fa9\u76f8\u7576\u65bc\u5176\u7e3d\u9031\u671f\u6027\u6548\u679c20%\u7684\u751f\u547d\u529b\uff0c\u4e14\u7652\u5408\u7684\u6301\u7e8c\u6642\u9593\u5ef6\u95773\u79d2\u3002",
+    "zh_CN": "\u56de\u6625\u672f\u7acb\u5373\u4e3a\u4f60\u7684\u76ee\u6807\u6062\u590d\u5176\u5468\u671f\u6027\u6548\u679c\u603b\u91cf20%\u7684\u751f\u547d\u503c\uff0c\u6108\u5408\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f3\u79d2\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450615"
+  "SpellID": "450615",
+  "name_blz": {
+    "en_US": "Flurry Strikes",
+    "es_MX": "Golpes en aluvi\u00f3n",
+    "pt_BR": "Rajadas de Golpes",
+    "de_DE": "Pr\u00fcgelhagel",
+    "en_GB": "Flurry Strikes",
+    "es_ES": "Aluviones de golpes",
+    "fr_FR": "D\u00e9luge de coups",
+    "it_IT": "Assalti a Raffica",
+    "ru_RU": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b",
+    "ko_KR": "\uc9c8\ud48d\uaca9",
+    "zh_TW": "\u9023\u62f3\u6253\u64ca",
+    "zh_CN": "\u75be\u98ce\u4e71\u6253"
+  },
+  "description_blz": {
+    "en_US": "Every 3,318 damage you deal generates a Flurry Charge. For each 240 energy you spend, unleash all Flurry Charges, dealing 318 Physical damage per charge. ",
+    "es_MX": "Cada 3,318 p. de da\u00f1o que infliges, generas una Carga de aluvi\u00f3n. Por cada 240 p. de energ\u00eda que gastas, desata todas las Cargas de aluvi\u00f3n, lo que inflige 318 p. de da\u00f1o f\u00edsico por carga. ",
+    "pt_BR": "Cada 3.318 de dano que voc\u00ea causa gera uma Investida Impetuosa. A cada 240 de Energia gasta, toda a Investida Impetuosa \u00e9 liberada, causando 318 de dano F\u00edsico por carga. ",
+    "de_DE": "Pro 3.318 Schaden, die Ihr verursacht, wird eine Aufladung von 'Pr\u00fcgelladung' erzeugt. Pro 240 Energie, die Ihr verbraucht, werden alle Aufladungen von 'Pr\u00fcgelladung' entfesselt und verursachen pro Aufladung 318 k\u00f6rperlichen Schaden. ",
+    "en_GB": "Every 3,318 damage you deal generates a Flurry Charge. For each 240 energy you spend, unleash all Flurry Charges, dealing 318 Physical damage per charge. ",
+    "es_ES": "Por cada 3318\u00a0p. de da\u00f1o que infliges, se genera una carga de aluvi\u00f3n. Cuando gastas 240\u00a0p. de energ\u00eda, lanzas todas las cargas, cada una de las cuales inflige 318\u00a0p. de da\u00f1o f\u00edsico. ",
+    "fr_FR": "Vous g\u00e9n\u00e9rez une charge de d\u00e9luge pour chaque tranche de 3318\u00a0points de d\u00e9g\u00e2ts que vous infligez. Pour chaque tranche de 240\u00a0points d\u2019\u00e9nergie d\u00e9pens\u00e9s, vous d\u00e9cha\u00eenez toutes les charges de d\u00e9luge, ce qui inflige 318\u00a0points de d\u00e9g\u00e2ts physiques par charge. ",
+    "it_IT": "Ogni 3.318 danni inflitti, si ottiene una Carica di Raffica. Ogni 240 energia consumata, tutte le Cariche di Raffica esplodono, infliggendo 318 danni fisici per carica. ",
+    "ru_RU": "\u0417\u0430 \u043a\u0430\u0436\u0434\u044b\u0435 3318 \u0435\u0434. \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0441\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0440\u044f\u0434. \u041f\u043e\u0442\u0440\u0430\u0442\u0438\u0432 240 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438, \u0432\u044b \u0440\u0430\u0441\u0445\u043e\u0434\u0443\u0435\u0442\u0435 \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u043d\u044b\u0435 \u0441\u0442\u0440\u0435\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0440\u044f\u0434\u044b, \u043d\u0430\u043d\u043e\u0441\u044f 318 \u0435\u0434. \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0437\u0430\u0440\u044f\u0434. ",
+    "ko_KR": "3,318\uc758 \ud53c\ud574\ub97c \uc785\ud790 \ub54c\ub9c8\ub2e4 \uc9c8\ud48d\uaca9 \ucda9\uc804\ubb3c\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4. 240\uc758 \uae30\ub825\uc744 \uc18c\ubaa8\ud560 \ub54c\ub9c8\ub2e4 \ubaa8\ub4e0 \uc9c8\ud48d\uaca9 \ucda9\uc804\ubb3c\uc744 \ubc29\ucd9c\ud574 \ucda9\uc804\ubb3c \ud558\ub098\ub2f9 318\uc758 \ubb3c\ub9ac \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. ",
+    "zh_TW": "\u6bcf\u9020\u62103,318\u9ede\u50b7\u5bb3\uff0c\u90fd\u6703\u751f\u6210\u4e00\u500b\u9023\u62f3\u5145\u80fd\u3002\u6bcf\u6d88\u8017240\u9ede\u80fd\u91cf\uff0c\u90fd\u6703\u91cb\u653e\u6240\u6709\u9023\u62f3\u5145\u80fd\uff0c\u6bcf\u500b\u5145\u80fd\u9020\u6210318\u9ede\u7269\u7406\u50b7\u5bb3\u3002 ",
+    "zh_CN": "\u4f60\u6bcf\u9020\u62103,318\u70b9\u4f24\u5bb3\u4f1a\u4ea7\u751f\u4e00\u5c42\u75be\u98ce\u62f3\u52bf\u3002\u6bcf\u6d88\u8017240\u70b9\u80fd\u91cf\u4f1a\u91ca\u653e\u6240\u6709\u75be\u98ce\u62f3\u52bf\uff0c\u6bcf\u5c42\u9020\u6210318\u70b9\u7269\u7406\u4f24\u5bb3\u3002 "
+  }
 }

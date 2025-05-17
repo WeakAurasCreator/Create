@@ -2,7 +2,7 @@
   "ID": "781742",
   "NameSubtext_lang": "",
   "Description_lang": "$@spelldesc1227206",
-  "AuraDescription_lang": "Damage taken from Infinite Stars increased by up to ${$1227314s2*$u}.",
+  "AuraDescription_lang": "Damage taken from Infinite Stars increased by up to $?a1227211[${$1227211s2*$u}][${$1227210s2*$u}].",
   "Attributes_0": "159383552",
   "Attributes_1": "32",
   "Attributes_2": "540676",

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449574"
+  "SpellID": "449574",
+  "name_blz": {
+    "en_US": "Ominous Coalescence",
+    "es_MX": "Coalescencia ominosa",
+    "pt_BR": "Coalesc\u00eancia Agourenta",
+    "de_DE": "Omin\u00f6se Vereinigung",
+    "en_GB": "Ominous Coalescence",
+    "es_ES": "Coalescencia ominosa",
+    "fr_FR": "Coalescence inqui\u00e9tante",
+    "it_IT": "Aggregazione Inquietante",
+    "ru_RU": "\u0417\u043b\u043e\u0432\u0435\u0449\u0435\u0435 \u0441\u043b\u0438\u044f\u043d\u0438\u0435",
+    "ko_KR": "\ubd88\uae38\ud55c \uc751\uacb0\uccb4",
+    "zh_TW": "\u60e1\u5146\u805a\u5408",
+    "zh_CN": "\u4e0d\u7965\u805a\u5408"
+  },
+  "description_blz": {
+    "en_US": "Coalesce Ominous Transmutagen by combining Mercurial and Volatile transmutagens with power from your Philosopher's Stone.",
+    "es_MX": "Combina transmut\u00e1genos de mercurio y vol\u00e1tiles con el poder de tu piedra filosofal para crear un transmut\u00e1geno ominoso.",
+    "pt_BR": "Coalesce Transmutag\u00eanico Agourento combinando os transmutag\u00eanicos Mercurial e Vol\u00e1til com poder da sua Pedra Filosofal.",
+    "de_DE": "Vereinigt mit der Kraft Eures Steins der Weisen omin\u00f6ses Transmutagen durch die Kombination von quecksilbrigem und instabilem Transmutagen.",
+    "en_GB": "Coalesce Ominous Transmutagen by combining Mercurial and Volatile transmutagens with power from your Philosopher's Stone.",
+    "es_ES": "Forma un transmutagen ominoso combinando transmutagen vol\u00e1til y merc\u00farico con el poder de tu piedra filosofal.",
+    "fr_FR": "Combine des transmutag\u00e8nes mercurien et instable \u00e0 la puissance de votre pierre philosophale pour cr\u00e9er du transmutag\u00e8ne sinistre.",
+    "it_IT": "Condensa un Trasmutageno Inquietante combinando Trasmutageni Mercuriali e Instabili con il potere della Pietra Filosofale.",
+    "ru_RU": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0438\u0442\u044c \u0440\u0442\u0443\u0442\u043d\u044b\u0439 \u0438 \u043d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043c\u0443\u0442\u0430\u0433\u0435\u043d\u044b \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0441\u043a\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0437\u043b\u043e\u0432\u0435\u0449\u0438\u0439 \u0442\u0440\u0430\u043d\u0441\u043c\u0443\u0442\u0430\u0433\u0435\u043d.",
+    "ko_KR": "\ud604\uc790\uc758 \ub3cc\uc758 \ud798\uc73c\ub85c \ubcc0\ud654\uc131 \ubcc0\ud658 \ucd09\ub9e4\uc640 \ubd88\uc548\uc815\ud55c \ubcc0\ud658 \ucd09\ub9e4\ub97c \uacb0\ud569\ud558\uc5ec \uc74c\uc0b0\ud55c \ubcc0\ud658 \ucd09\ub9e4\ub85c \uc751\ucd95\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u4ee5\u4f60\u7684\u9ede\u91d1\u77f3\u7684\u529b\u91cf\u7d50\u5408\u6613\u8b8a\u8f49\u5316\u539f\u548c\u70c8\u6027\u8f49\u5316\u539f\uff0c\u5408\u6210\u51fa\u4e0d\u7965\u8f49\u5316\u539f\u3002",
+    "zh_CN": "\u8fd0\u7528\u70b9\u91d1\u77f3\u7684\u529b\u91cf\uff0c\u5c06\u987a\u6ed1\u8f6c\u5316\u5242\u548c\u52a8\u71c3\u8f6c\u5316\u5242\u7ec4\u5408\u51dd\u805a\u6210\u4e0d\u7965\u8f6c\u5316\u5242\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "448040"
+  "SpellID": "448040",
+  "name_blz": {
+    "en_US": "Bestow Light",
+    "es_MX": "Conferir luz",
+    "pt_BR": "Conceder Luz",
+    "de_DE": "Licht verleihen",
+    "en_GB": "Bestow Light",
+    "es_ES": "Otorgar luz",
+    "fr_FR": "Don de Lumi\u00e8re",
+    "it_IT": "Dono di Luce",
+    "ru_RU": "\u0414\u0430\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0421\u0432\u0435\u0442",
+    "ko_KR": "\ube5b\uc758 \uad50\ubd80",
+    "zh_TW": "\u8ce6\u4e88\u8056\u5149",
+    "zh_CN": "\u8d4b\u4e88\u5723\u5149"
+  },
+  "description_blz": {
+    "en_US": "Light of the Martyr's health threshold is reduced to 70% and increases Holy Shock's healing by an additional 5% for every 5 sec Light of the Martyr is active, stacking up to 3 times.\r\n\r\nWhile below 70% health, the light urgently heals you for 1,106 every 1 sec.",
+    "es_MX": "El l\u00edmite de salud de Luz del m\u00e1rtir se reduce a un 70% y aumenta un 5% m\u00e1s la sanaci\u00f3n de Choque sagrado por cada 5 s que Luz del m\u00e1rtir est\u00e9 activa. Se acumula hasta 3 veces.\r\n\r\nMientras tengas menos de un 70% de salud, la luz te sana 1,106 p. de salud de inmediato cada 1 s.",
+    "pt_BR": "O limite de pontos de vida da Luz do M\u00e1rtir diminui em 70%, e a cura do Choque Sagrado aumenta em mais 5% a cada 5 s que Luz do M\u00e1rtir ficar ativa, acumulando at\u00e9 3 vezes.\r\n\r\nEnquanto estiver abaixo de 70% dos pontos de vida, a luz cura voc\u00ea com urg\u00eancia, recuperando 1.106 pontos de vida a cada 1 s.",
+    "de_DE": "Die Gesundheitsschwelle von 'Licht des M\u00e4rtyrers' wird auf 70% verringert und die Heilung durch 'Heiliger Schock' um zus\u00e4tzliche 5% f\u00fcr alle 5 Sek. erh\u00f6ht, die 'Licht des M\u00e4rtyrs' aktiv ist. Bis zu 3-mal stapelbar.\r\n\r\nW\u00e4hrend Eure Gesundheit unter 70% liegt, heilt das Licht Euch sofort alle 1 Sek. um 1.106.",
+    "en_GB": "Light of the Martyr's health threshold is reduced to 70% and increases Holy Shock's healing by an additional 5% for every 5 sec Light of the Martyr is active, stacking up to 3 times.\r\n\r\nWhile below 70% health, the light urgently heals you for 1,106 every 1 sec.",
+    "es_ES": "El umbral de salud de Luz del m\u00e1rtir se reduce al 70%. La sanaci\u00f3n de Choque Sagrado aumenta un 5% m\u00e1s por cada 5\u00a0s que Luz del m\u00e1rtir est\u00e1 activo. Se acumula hasta 3 veces.\r\n\r\nMientras tienes menos de un 70% de salud, la Luz te sana 1106\u00a0p. cada 1\u00a0s.",
+    "fr_FR": "Le seuil de points de vie de Lumi\u00e8re du martyr est r\u00e9duit \u00e0 70\u00a0%. Augmente les soins de Horion sacr\u00e9 de 5\u00a0% suppl\u00e9mentaires toutes les 5\u00a0s o\u00f9 Lumi\u00e8re du martyr est active, cumulable jusqu\u2019\u00e0 3\u00a0fois.\r\n\r\nSous 70\u00a0% de points de vie, la Lumi\u00e8re vous soigne d\u2019urgence de 1106 toutes les 1\u00a0s.",
+    "it_IT": "Riduce la soglia di salute di Luce del Martire al 70% e aumenta le cure fornite da Folgore Sacra del 5% aggiuntivo per ogni 5 s in cui Luce del Martire \u00e8 stata attiva. Si accumula fino a 3 volte.\r\n\r\nQuando si ha meno del 70% della salute massima, la luce rigenera con urgenza 1.106 salute ogni 1 s.",
+    "ru_RU": "\u0417\u0430\u0442\u0440\u0430\u0442\u044b \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \"\u0421\u0432\u0435\u0442\u0430 \u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0430\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f \u0434\u043e 70%. \"\u0428\u043e\u043a \u043d\u0435\u0431\u0435\u0441\" \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u0435\u0449\u0435 5% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 \u043a\u0430\u0436\u0434\u044b\u0435 5 \u0441\u0435\u043a. \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0421\u0432\u0435\u0442\u0430 \u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0430\". \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 3 \u0440\u0430\u0437.\r\n\r\n\u0415\u0441\u043b\u0438 \u0443 \u0432\u0430\u0441 \u043c\u0435\u043d\u0435\u0435 70% \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f, \u0421\u0432\u0435\u0442 \u0431\u044b\u0441\u0442\u0440\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u0432\u0430\u043c 1106 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0440\u0430\u0437 \u0432 1 \u0441\u0435\u043a.",
+    "ko_KR": "\uc21c\uad50\uc790\uc758 \ube5b\uc758 \uc0dd\uba85\ub825 \uae30\uc900\uc774 70%\ub85c \uac10\uc18c\ud569\ub2c8\ub2e4. \ub610\ud55c \uc21c\uad50\uc790\uc758 \ube5b\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 5\ucd08\ub9c8\ub2e4 \uc2e0\uc131 \ucda9\uaca9\uc758 \uce58\uc720\ub7c9\uc774 \ucd94\uac00\ub85c 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 3\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.\r\n\r\n\uc0dd\uba85\ub825\uc774 70% \ubbf8\ub9cc\uc73c\ub85c \ub5a8\uc5b4\uc9c0\uba74 \ube5b\uc774 1\ucd08\ub9c8\ub2e4 1,106\uc758 \uc0dd\uba85\ub825\uc744 \uae09\uaca9\ud558\uac8c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6b89\u96e3\u8005\u4e4b\u5149\u7684\u751f\u547d\u529b\u9580\u6abb\u964d\u4f4e\u81f370%\uff0c\u4e14\u5728\u6b89\u96e3\u8005\u4e4b\u5149\u4f5c\u7528\u671f\u9593\uff0c\u6bcf5\u79d2\u4f7f\u795e\u8056\u9707\u64ca\u7684\u6cbb\u7642\u6548\u679c\u984d\u5916\u63d0\u9ad85%\uff0c\u6700\u591a\u53ef\u5806\u758a3\u5c64\u3002\r\n\r\n\u751f\u547d\u529b\u4f4e\u65bc70%\u6642\uff0c\u8056\u5149\u6703\u7dca\u6025\u5730\u6bcf1\u79d2\u70ba\u4f60\u6cbb\u76421,106\u9ede\u751f\u547d\u529b\u3002",
+    "zh_CN": "\u6b89\u9053\u8005\u4e4b\u5149\u7684\u751f\u547d\u503c\u9608\u503c\u964d\u4f4e\u81f370%\uff0c\u5e76\u4e14\u6b89\u9053\u8005\u4e4b\u5149\u6bcf\u6fc0\u6d3b5\u79d2\uff0c\u90fd\u4f1a\u4f7f\u795e\u5723\u9707\u51fb\u7684\u6cbb\u7597\u6548\u679c\u989d\u5916\u63d0\u9ad85%\uff0c\u6700\u591a\u53e0\u52a03\u6b21\u3002\r\n\r\n\u751f\u547d\u503c\u4f4e\u4e8e70%\u65f6\uff0c\u5723\u5149\u4f1a\u7d27\u6025\u6cbb\u7597\u4f60\uff0c\u6bcf1\u79d2\u6062\u590d1,106\u70b9\u751f\u547d\u503c\u3002"
+  }
 }

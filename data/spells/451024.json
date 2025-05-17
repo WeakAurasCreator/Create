@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451024"
+  "SpellID": "451024",
+  "name_blz": {
+    "en_US": "Overwhelming Force",
+    "es_MX": "Fuerza arrolladora",
+    "pt_BR": "For\u00e7a Sobrepujante",
+    "de_DE": "\u00dcberw\u00e4ltigende Kraft",
+    "en_GB": "Overwhelming Force",
+    "es_ES": "Poder sobrecogedor",
+    "fr_FR": "Force accablante",
+    "it_IT": "Forza Travolgente",
+    "ru_RU": "\u041f\u043e\u0434\u0430\u0432\u043b\u044f\u044e\u0449\u0430\u044f \u043c\u043e\u0449\u044c",
+    "ko_KR": "\uc555\ub3c4\uc801\uc778 \ubb34\ub825",
+    "zh_TW": "\u58d3\u5012\u6027\u529b\u91cf",
+    "zh_CN": "\u65e0\u5339\u4e4b\u52b2"
+  },
+  "description_blz": {
+    "en_US": "Rising Sun Kick, Blackout Kick, and Tiger Palm deal 15% additional damage to enemies in a line in front of you. Damage reduced above 5 targets.",
+    "es_MX": "Patada del sol naciente, Patada oscura y Palma del tigre infligen un 15% m\u00e1s de da\u00f1o a los enemigos en una l\u00ednea frente a ti. El da\u00f1o se reduce si golpean a m\u00e1s de 5 objetivos.",
+    "pt_BR": "Chute do Sol Nascente, Chute Blecaute e Palma do Tigre causam 15% de dano adicional aos inimigos em linha reta \u00e0 sua frente. Dano reduzido acima de 5 alvos.",
+    "de_DE": "'Tritt der aufgehenden Sonne', 'Blackout-Tritt', und 'Tigerklaue' f\u00fcgen Gegnern in einer Linie vor Euch 15% zus\u00e4tzlichen Schaden zu. Nach dem 5. Ziel ist der Schaden verringert.",
+    "en_GB": "Rising Sun Kick, Blackout Kick, and Tiger Palm deal 15% additional damage to enemies in a line in front of you. Damage reduced above 5 targets.",
+    "es_ES": "Patada del sol naciente, Patada oscura y Palma del tigre infligen un 15% m\u00e1s de da\u00f1o a los enemigos en una l\u00ednea frente a ti. El da\u00f1o se reduce por encima de 5 objetivos.",
+    "fr_FR": "Coup de pied du soleil levant, Frappe du voile noir et Paume du tigre infligent 15\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires aux adversaires sur une ligne devant vous. D\u00e9g\u00e2ts r\u00e9duits au-del\u00e0 de 5\u00a0cibles.",
+    "it_IT": "Calcio del Sole Nascente, Calcio dell'Oscuramento e Palmo della Tigre infliggono il 15% di danni aggiuntivi ai nemici in una linea frontale. Danni ridotti oltre 5 bersagli.",
+    "ru_RU": "\"\u0423\u0434\u0430\u0440 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\", \"\u041d\u043e\u043a\u0430\u0443\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440\" \u0438 \"\u041b\u0430\u043f\u0430 \u0442\u0438\u0433\u0440\u0430\" \u043d\u0430\u043d\u043e\u0441\u044f\u0442 15% \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u043d\u0430 \u043b\u0438\u043d\u0438\u0438 \u043f\u0435\u0440\u0435\u0434 \u0432\u0430\u043c\u0438. \u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 5-\u0439 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u043d\u044b\u0439 \u0443\u0440\u043e\u043d.",
+    "ko_KR": "\ud574\uc624\ub984\ucc28\uae30, \ud6c4\ub824\ucc28\uae30, \ubc94\uc758 \uc7a5\ud48d \uc0ac\uc6a9 \uc2dc \uc804\ubc29 \uc77c\uc9c1\uc120 \uc0c1\uc758 \uc801\uc5d0\uac8c 15%\uc758 \ucd94\uac00 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4. 5\uba85\uc744 \ucd08\uacfc\ud558\ub294 \ub300\uc0c1\uc5d0\uac8c\ub294 \uac10\uc18c\ub41c \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u7fd4\u967d\u8173\u3001\u6ec5\u5bc2\u817f\u548c\u864e\u638c\u5c0d\u4f60\u9762\u524d\u76f4\u7dda\u7bc4\u570d\u5167\u7684\u6575\u4eba\u9020\u6210\u7684\u50b7\u5bb3\u984d\u5916\u63d0\u9ad815%\u3002\u8d85\u904e5\u500b\u76ee\u6a19\u6642\uff0c\u9020\u6210\u7684\u50b7\u5bb3\u964d\u4f4e\u3002",
+    "zh_CN": "\u65ed\u65e5\u4e1c\u5347\u8e22\u3001\u5e7b\u706d\u8e22\u548c\u731b\u864e\u638c\u5bf9\u4f60\u524d\u65b9\u76f4\u7ebf\u8303\u56f4\u5185\u7684\u654c\u4eba\u9020\u621015%\u7684\u989d\u5916\u4f24\u5bb3\u3002\u76ee\u6807\u8d85\u8fc75\u4e2a\u65f6\u9020\u6210\u7684\u4f24\u5bb3\u964d\u4f4e\u3002"
+  }
 }

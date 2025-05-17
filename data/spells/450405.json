@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450405"
+  "SpellID": "450405",
+  "name_blz": {
+    "en_US": "Void Blast",
+    "es_MX": "Explosi\u00f3n del Vac\u00edo",
+    "pt_BR": "Impacto do Caos",
+    "de_DE": "Leerenschlag",
+    "en_GB": "Void Blast",
+    "es_ES": "Explosi\u00f3n del Vac\u00edo",
+    "fr_FR": "Trait de Vide",
+    "it_IT": "Detonazione del Vuoto",
+    "ru_RU": "\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0411\u0435\u0437\u0434\u043d\u044b",
+    "ko_KR": "\uacf5\ud5c8\uc758 \ud3ed\ubc1c",
+    "zh_TW": "\u865b\u7121\u885d\u64ca",
+    "zh_CN": "\u865a\u7a7a\u51b2\u51fb"
+  },
+  "description_blz": {
+    "en_US": "Entropic Rift upgrades Smite into Void Blast while it is active.\r\n\r\nVoid Blast:\r\nSends a blast of cosmic void energy at the enemy, causing 5,982 Shadow damage.",
+    "es_MX": "Falla entr\u00f3pica mejora Punici\u00f3n en Explosi\u00f3n del Vac\u00edo mientras est\u00e1 activa.\r\n\r\nExplosi\u00f3n del Vac\u00edo:\r\nLanza una r\u00e1faga de energ\u00eda c\u00f3smica del Vac\u00edo contra el enemigo que inflige 6,075 p. de da\u00f1o de las sombras.",
+    "pt_BR": "Fenda Entr\u00f3pica aprimora Puni\u00e7\u00e3o para Impacto do Caos quando ativa.\r\n\r\nImpacto do Caos:\r\nEnvia uma explos\u00e3o de energia ca\u00f3tica c\u00f3smica no inimigo, causando 6.071 de dano de Sombra.",
+    "de_DE": "'Entropischer Riss' wertet 'Heilige Pein' zu 'Leerenschlag' auf, w\u00e4hrend er aktiv ist.\r\n\r\nLeerenschlag:\r\nSendet einen Sto\u00df kosmischer Leerenenergie auf den Gegner, der 6.095 Schattenschaden verursacht.",
+    "en_GB": "Entropic Rift upgrades Smite into Void Blast while it is active.\r\n\r\nVoid Blast:\r\nSends a blast of cosmic void energy at the enemy, causing 6,209 Shadow damage.",
+    "es_ES": "Mientras est\u00e1 activa, Falla entr\u00f3pica convierte Punici\u00f3n en Explosi\u00f3n del Vac\u00edo.\r\n\r\nExplosi\u00f3n del Vac\u00edo:\r\nLanza al enemigo una explosi\u00f3n de energ\u00eda del Vac\u00edo c\u00f3smica que inflige 6086\u00a0p. de da\u00f1o de las Sombras.",
+    "fr_FR": "Faille entropique am\u00e9liore Ch\u00e2timent en Trait de Vide tant qu\u2019elle est active.\r\n\r\nTrait de Vide\u00a0:\r\nEnvoie un souffle d\u2019\u00e9nergie cosmique du Vide sur l\u2019adversaire, ce qui inflige 6099\u00a0points de d\u00e9g\u00e2ts d\u2019ombre.",
+    "it_IT": "Quando \u00e8 attiva, la Fenditura Entropica potenzia Punizione in Detonazione del Vuoto.\r\n\r\nDetonazione del Vuoto:\r\nEmette una scarica di energia cosmica del vuoto contro il nemico, infliggendo 6.037 danni da ombra.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u042d\u043d\u0442\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u043b\u043e\u043c\", \"\u041a\u0430\u0440\u0430\" \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432\u043e \"\u0412\u0441\u043f\u044b\u0448\u043a\u0443 \u0411\u0435\u0437\u0434\u043d\u044b\".\r\n\r\n\u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0411\u0435\u0437\u0434\u043d\u044b:\r\n\u0412\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0437\u0430\u0440\u044f\u0434 \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0411\u0435\u0437\u0434\u043d\u044b, \u043d\u0430\u043d\u043e\u0441\u044f 6068 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438.",
+    "ko_KR": "\ud63c\ub3c8\uc758 \uade0\uc5f4\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc131\uc2a4\ub7ec\uc6b4 \uc77c\uaca9\uc774 \uacf5\ud5c8\uc758 \ud3ed\ubc1c\ub85c \uac15\ud654\ub429\ub2c8\ub2e4.\r\n\r\n\uacf5\ud5c8\uc758 \ud3ed\ubc1c:\r\n\uc801\uc5d0\uac8c \ud3ed\ubc1c\ud558\ub294 \uc6b0\uc8fc\uc758 \uacf5\ud5c8 \ub9c8\ub825\uc744 \ub0b4\ubcf4\ub0b4 6,141\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u6df7\u4e82\u88c2\u9699\u4f5c\u7528\u671f\u9593\uff0c\u5b83\u6703\u5c07\u61f2\u64ca\u5347\u7d1a\u6210\u865b\u7121\u885d\u64ca\u3002\r\n\r\n\u865b\u7121\u885d\u64ca\uff1a\r\n\u671d\u6575\u4eba\u91cb\u653e\u5b87\u5b99\u865b\u7121\u80fd\u91cf\u885d\u64ca\uff0c\u9020\u62106,026\u9ede\u6697\u5f71\u50b7\u5bb3\u3002",
+    "zh_CN": "\u71b5\u80fd\u88c2\u9699\u6fc0\u6d3b\u65f6\u5c06\u60e9\u51fb\u5347\u7ea7\u4e3a\u865a\u7a7a\u51b2\u51fb\u3002\r\n\r\n\u865a\u7a7a\u51b2\u51fb\uff1a\r\n\u5411\u654c\u4eba\u5c04\u51fa\u4e00\u80a1\u5b87\u5b99\u865a\u7a7a\u80fd\u91cf\uff0c\u9020\u62106,052\u70b9\u6697\u5f71\u4f24\u5bb3\u3002"
+  }
 }

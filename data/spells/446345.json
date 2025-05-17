@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "446345"
+  "SpellID": "446345",
+  "name_blz": {
+    "en_US": "Deep Clarity",
+    "es_MX": "Claridad absoluta",
+    "pt_BR": "Clareza Profunda",
+    "de_DE": "Tiefe Klarheit",
+    "en_GB": "Deep Clarity",
+    "es_ES": "Claridad profunda",
+    "fr_FR": "Clart\u00e9 absolue",
+    "it_IT": "Lucidit\u00e0 Profonda",
+    "ru_RU": "\u0427\u0438\u0441\u0442\u043e\u0442\u0430 \u0441\u043e\u0437\u043d\u0430\u043d\u0438\u044f",
+    "ko_KR": "\uae4a\uc740 \uba85\ub8cc\ud568",
+    "zh_TW": "\u6df1\u5c64\u660e\u6670",
+    "zh_CN": "\u6df1\u5f7b\u660e\u6670"
+  },
+  "description_blz": {
+    "en_US": "After you fully consume Thunder Focus Tea, your next Vivify triggers Zen Pulse.",
+    "es_MX": "Luego de consumir por completo T\u00e9 de enfoque del trueno, tu siguiente Vivificar activa un Pulso zen.",
+    "pt_BR": "Ap\u00f3s consumir totalmente o Ch\u00e1 do Foco do Trov\u00e3o, seu pr\u00f3ximo Vivificar ativa Pulso Zen.",
+    "de_DE": "Wenn Ihr 'Donnerfokustee' vollst\u00e4ndig verzehrt habt, l\u00f6st Euer n\u00e4chster Einsatz von 'Beleben' 'Zenimpuls' aus.",
+    "en_GB": "After you fully consume Thunder Focus Tea, your next Vivify triggers Zen Pulse.",
+    "es_ES": "Tras consumir por completo T\u00e9 de enfoque del trueno, tu siguiente Vivificar activa Pulso zen.",
+    "fr_FR": "Quand vous consommez enti\u00e8rement Th\u00e9 de concentration foudroyante, votre prochain Vivifier d\u00e9clenche Impulsion zen.",
+    "it_IT": "Quando si \u00e8 consumato completamente l'effetto del T\u00e8 della Concentrazione del Tuono, la successiva Vivificazione attiva Impulso Zen.",
+    "ru_RU": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u0432\u044b \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u0435\u0442\u0435 \"\u0413\u0440\u043e\u043c\u043e\u0432\u043e\u0439 \u0447\u0430\u0439\", \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041e\u0436\u0438\u0432\u0438\u0442\u044c\" \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442 \"\u0414\u0437\u0435\u043d-\u0438\u043c\u043f\u0443\u043b\u044c\u0441\".",
+    "ko_KR": "\uc9d1\uc911\uc758 \ucc9c\ub465 \ucc28\ub97c \uc644\uc804\ud788 \uc18c\ubaa8\ud558\uba74, \ub2e4\uc74c \uc0dd\uae30 \ucda9\uc804 \uc2dc\uc804 \uc2dc \uc120\uc758 \ud30c\ub3d9\uc774 \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u4f60\u5b8c\u5168\u6d88\u8017\u805a\u96f7\u8336\u5f8c\uff0c\u4f60\u7684\u4e0b\u4e00\u500b\u751f\u6c23\u52c3\u52c3\u6703\u89f8\u767c\u79aa\u5fc3\u8108\u52d5\u3002",
+    "zh_CN": "\u5b8c\u5168\u6d88\u8017\u96f7\u5149\u805a\u795e\u8336\u540e\uff0c\u4f60\u7684\u4e0b\u4e00\u4e2a\u6d3b\u8840\u672f\u4f1a\u89e6\u53d1\u7985\u610f\u6ce2\u3002"
+  }
 }

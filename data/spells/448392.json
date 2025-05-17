@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "448392"
+  "SpellID": "448392",
+  "name_blz": {
+    "en_US": "Chi Harmony",
+    "es_MX": "Armon\u00eda de chi",
+    "pt_BR": "Harmonia do Chi",
+    "de_DE": "Chiharmonie",
+    "en_GB": "Chi Harmony",
+    "es_ES": "Armon\u00eda de chi",
+    "fr_FR": "Harmonie avec le Chi",
+    "it_IT": "Armonia del Chi",
+    "ru_RU": "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f \u0446\u0438",
+    "ko_KR": "\ucc9c\uc9c0\uad50\ud0dc",
+    "zh_TW": "\u771f\u6c23\u548c\u8ae7",
+    "zh_CN": "\u771f\u6c14\u5b81\u548c"
+  },
+  "description_blz": {
+    "en_US": "Renewing Mist increases its target's healing received from you by 50% for the first 8 sec of its duration, but cannot jump to a new target during this time.",
+    "es_MX": "Niebla renovadora aumenta un 50% la sanaci\u00f3n que el objetivo recibe de ti durante los primeros 8 s de su duraci\u00f3n, pero no puede saltar a un nuevo objetivo durante este tiempo.",
+    "pt_BR": "As Brumas da Renova\u00e7\u00e3o aumentam em 50% sua cura no alvo nos primeiros 8 s da dura\u00e7\u00e3o, mas n\u00e3o salta mais para outros alvos neste per\u00edodo.",
+    "de_DE": "'Erneuernder Nebel' erh\u00f6ht die durch Euch erhaltene Heilung des Ziels f\u00fcr die ersten 8 Sek. seiner Dauer um 50%, kann w\u00e4hrend dieser Zeit aber nicht auf ein neues Ziel \u00fcberspringen.",
+    "en_GB": "Renewing Mist increases its target's healing received from you by 50% for the first 8 sec of its duration, but cannot jump to a new target during this time.",
+    "es_ES": "Niebla renovadora aumenta un 50% la sanaci\u00f3n que recibe el objetivo de ti los primeros 8 s de su duraci\u00f3n, pero no puede saltar a otro objetivo durante este tiempo.",
+    "fr_FR": "Brume de r\u00e9novation augmente les soins que vous prodiguez \u00e0 sa cible de 50\u00a0% pendant les premi\u00e8res 8 s de l\u2019effet, mais ne peut pas passer \u00e0 une nouvelle cible pendant ce laps de temps.",
+    "it_IT": "Nebbia Curativa aumenta le cure da te fornite al bersaglio del 50% per i primi 8 s s della sua durata, ma non pu\u00f2 saltare su nessun nuovo bersaglio durante questo lasso di tempo.",
+    "ru_RU": "\"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\" \u043d\u0430 8 \u0441\u0435\u043a. \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043e\u0442 \u0432\u0430\u0441 \u0446\u0435\u043b\u044c, \u043d\u0430 50%. \u0412 \u044d\u0442\u043e \u0432\u0440\u0435\u043c\u044f \"\u0417\u0430\u0436\u0438\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u0442\u0443\u043c\u0430\u043d\" \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\uc18c\uc0dd\uc758 \uc548\uac1c \uc9c0\uc18d\uc2dc\uac04\uc758 \uccab 8\ucd08 \ub3d9\uc548 \ub300\uc0c1\uc774 \uc790\uc2e0\uc5d0\uac8c \ubc1b\ub294 \uce58\uc720 \ud6a8\uacfc\ub97c 50%\ub9cc\ud07c \uc99d\uac00\uc2dc\ud0b5\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uc774 \uc2dc\uac04 \ub3d9\uc548\uc5d0\ub294 \ub2e4\ub978 \ub300\uc0c1\uc5d0\uac8c \uc774\uc804\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u5176\u6301\u7e8c\u6642\u9593\u7684\u524d8\u79d2\u5167\uff0c\u56de\u751f\u8ff7\u9727\u6703\u4f7f\u4f60\u5c0d\u5176\u76ee\u6a19\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad850%\uff0c\u4f46\u5728\u6b64\u671f\u9593\u7121\u6cd5\u8df3\u81f3\u65b0\u7684\u76ee\u6a19\u3002",
+    "zh_CN": "\u590d\u82cf\u4e4b\u96fe\u5728\u6301\u7eed\u65f6\u95f4\u7684\u524d8\u79d2\u5185\u4f7f\u76ee\u6807\u4ece\u4f60\u53d7\u5230\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad850%\uff0c\u4f46\u65e0\u6cd5\u5728\u6b64\u671f\u95f4\u8df3\u8f6c\u5230\u65b0\u7684\u76ee\u6807\u3002"
+  }
 }

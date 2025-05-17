@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "449582"
+  "SpellID": "449582",
+  "name_blz": {
+    "en_US": "Lighter Than Air",
+    "es_MX": "M\u00e1s ligero que el aire",
+    "pt_BR": "Mais Leve Que o Ar",
+    "de_DE": "Leichter als Luft",
+    "en_GB": "Lighter Than Air",
+    "es_ES": "M\u00e1s ligero que el aire",
+    "fr_FR": "Plus l\u00e9ger que l\u2019air",
+    "it_IT": "Pi\u00f9 Leggero dell'Aria",
+    "ru_RU": "\u041b\u0435\u0433\u0447\u0435 \u0432\u043e\u0437\u0434\u0443\u0445\u0430",
+    "ko_KR": "\ud5c8\uacf5\ub2f5\ubcf4",
+    "zh_TW": "\u8eab\u8f15\u5982\u71d5",
+    "zh_CN": "\u8eab\u8f7b\u5982\u7fbd"
+  },
+  "description_blz": {
+    "en_US": "Roll causes you to become lighter than air, allowing you to double jump to dash forward a short distance once within 5 sec, but the cooldown of Roll is increased by 2 sec.",
+    "es_MX": "Rodar hace que te vuelvas m\u00e1s ligero que el aire, lo que te permite ejecutar un salto doble para impulsarte hacia adelante una corta distancia dentro de 5 s, pero el tiempo de reutilizaci\u00f3n de Rodar aumenta 2 s.",
+    "pt_BR": "O Rolamento te deixa mais leve que o ar, permitindo pular duas vezes para se lan\u00e7ar para a frente uma vez dentro de 5 s, mas a recarga de Rolamento aumenta em 2 s.",
+    "de_DE": "Durch 'Rollen' werdet Ihr leichter als Luft und k\u00f6nnt einen Doppelsprung ausf\u00fchren, um einmal innerhalb von 5 Sek. \u00fcber eine kurze Entfernung nach vorne zu st\u00fcrmen, aber die Abklingzeit von 'Rollen' wird um 2 Sek. erh\u00f6ht.",
+    "en_GB": "Roll causes you to become lighter than air, allowing you to double jump to dash forward a short distance once within 5 sec, but the cooldown of Roll is increased by 2 sec.",
+    "es_ES": "Al rodar, te vuelves m\u00e1s ligero que el aire, lo que te permite saltar dos veces para avanzar r\u00e1pidamente una peque\u00f1a distancia una vez cada 5 s, pero el tiempo de reutilizaci\u00f3n de rodar aumenta 2 s.",
+    "fr_FR": "Roulade vous permet de devenir plus l\u00e9ger que l\u2019air, ce qui vous permet de faire un double saut et de foncer sur une courte distance une fois pendant 5 s, mais le temps de recharge de Roulade est augment\u00e9 de 2\u00a0s.",
+    "it_IT": "Capriola ti rende pi\u00f9 leggero dell'aria, permettendoti di saltare due volte per scattare in avanti per un breve tratto una volta ogni 5 s. Aumenta il tempo di recupero di Capriola di 2 s.",
+    "ru_RU": "\"\u041a\u0443\u0432\u044b\u0440\u043e\u043a\" \u0434\u0435\u043b\u0430\u0435\u0442 \u0432\u0430\u0441 \u043b\u0435\u0433\u0447\u0435 \u0432\u043e\u0437\u0434\u0443\u0445\u0430, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0432\u0430\u043c \u043d\u0430\u0436\u0430\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443 \u043f\u0440\u044b\u0436\u043a\u0430 \u0434\u0432\u0430\u0436\u0434\u044b \u0438 \u0441\u043e\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0440\u044b\u0432\u043e\u043a \u0432\u043f\u0435\u0440\u0435\u0434. \u0412\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u2013 5 \u0441\u0435\u043a. \u0412\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \"\u041a\u0443\u0432\u044b\u0440\u043a\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 2 \u0441\u0435\u043a.",
+    "ko_KR": "\uad6c\ub974\uae30 \uc0ac\uc6a9 \uc2dc \ubab8\uc774 \uae43\ud138\ucc98\ub7fc \uac00\ubcbc\uc6cc\uc838 5\ucd08 \uc548\uc5d0 \uc774\uc911 \ub3c4\uc57d\uc744 \uc0ac\uc6a9\ud574 \ud55c \ubc88 \uc804\ubc29\uc73c\ub85c \uc9e7\uc740 \uac70\ub9ac\ub97c \ub3cc\uc9c4\ud560 \uc218 \uc788\uc9c0\ub9cc \uad6c\ub974\uae30\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 2\ucd08\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u8fc5\u7a7a\u7ffb\u4f7f\u4f60\u8b8a\u5f97\u8eab\u8f15\u5982\u71d5\uff0c\u8b93\u4f60\u53ef\u4ee5\u57285\u79d2\u5167\u8df3\u8e8d\u5169\u6b21\uff0c\u5411\u524d\u77ed\u8ddd\u96e2\u885d\u523a\u4e00\u6b21\uff0c\u4e0d\u904e\u8fc5\u7a7a\u7ffb\u7684\u51b7\u537b\u6642\u9593\u5ef6\u95772\u79d2\u3002",
+    "zh_CN": "\u6eda\u5730\u7ffb\u4ee4\u4f60\u8eab\u8f7b\u5982\u7fbd\uff0c\u4f7f\u4f60\u53ef\u4ee5\u57285\u79d2\u5185\u65bd\u5c55\u4e00\u6b21\u4e8c\u6bb5\u8df3\uff0c\u5411\u524d\u51b2\u523a\u4e00\u5c0f\u6bb5\u8ddd\u79bb\uff0c\u6eda\u5730\u7ffb\u7684\u51b7\u5374\u65f6\u95f4\u63d0\u9ad82\u79d2\u3002"
+  }
 }

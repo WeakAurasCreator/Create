@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450373"
+  "SpellID": "450373",
+  "name_blz": {
+    "en_US": "Don't Look Back",
+    "es_MX": "No mires atr\u00e1s",
+    "pt_BR": "Sem Olhar Para Tr\u00e1s",
+    "de_DE": "Kein Blick zur\u00fcck",
+    "en_GB": "Don't Look Back",
+    "es_ES": "No mires atr\u00e1s",
+    "fr_FR": "Ne regardez jamais derri\u00e8re vous",
+    "it_IT": "Non Guardarsi Indietro",
+    "ru_RU": "\u041d\u0435 \u043e\u0433\u043b\u044f\u0434\u044b\u0432\u0430\u0439\u0441\u044f",
+    "ko_KR": "\ubc30\uc218\uc758 \uc9c4",
+    "zh_TW": "\u6c38\u4e0d\u56de\u982d",
+    "zh_CN": "\u51b3\u610f\u65e0\u6094"
+  },
+  "description_blz": {
+    "en_US": "Each time Sentinel deals damage to an enemy you gain an absorb shield equal to 1.0% of your maximum health, up to 10%.",
+    "es_MX": "Cada vez que Centinela inflige da\u00f1o a un enemigo, obtienes un escudo de absorci\u00f3n igual al 1.0% de tu salud m\u00e1xima, hasta un m\u00e1ximo de 10%.",
+    "pt_BR": "Toda vez que a Sentinela causa dano a um inimigo, voc\u00ea ganha um escudo de absor\u00e7\u00e3o equivalente a 1,0% do seu m\u00e1ximo de pontos de vida, at\u00e9 10%.",
+    "de_DE": "Wann immer 'Wachsamer Sch\u00fctze' einem Gegner Schaden zuf\u00fcgt, erhaltet Ihr einen Absorptionsschild, der 1,0% Eurer maximalen Gesundheit entspricht, bis zu 10%.",
+    "en_GB": "Each time Sentinel deals damage to an enemy you gain an absorb shield equal to 1.0% of your maximum health, up to 10%.",
+    "es_ES": "Cada vez que Centinela inflige da\u00f1o a un enemigo, ganas un escudo de absorci\u00f3n equivalente a un 1,0% de tu salud m\u00e1xima, hasta un m\u00e1ximo de un 10%.",
+    "fr_FR": "Chaque fois que Sentinelle inflige des d\u00e9g\u00e2ts \u00e0 un personnage adverse, vous b\u00e9n\u00e9ficiez d\u2019un bouclier d\u2019absorption de 1,0\u00a0% de votre maximum de points de vie, jusqu\u2019\u00e0 10\u00a0%.",
+    "it_IT": "Ogni volta che Sentinella infligge danni a un nemico, fornisce uno scudo che assorbe danni subiti pari al 1,0% della tua salute massima, fino a un massimo del 10%.",
+    "ru_RU": "\u041a\u043e\u0433\u0434\u0430 \"\u0427\u0430\u0441\u043e\u0432\u043e\u0439\" \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0449\u0438\u0442, \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u043d \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 1,0% \u0432\u0430\u0448\u0435\u0433\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432\u043f\u043b\u043e\u0442\u044c \u0434\u043e 10%.",
+    "ko_KR": "\ud30c\uc218\uafbc\uc73c\ub85c \uc801\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud790 \ub54c\ub9c8\ub2e4 \ucd5c\ub300 \uc0dd\uba85\ub825\uc758 1.0%%\ub9cc\ud07c, \ucd5c\ub300 10%\uc5d0 \ud574\ub2f9\ud558\ub294 \ud53c\ud574 \ud761\uc218 \ubcf4\ud638\ub9c9\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u54e8\u5175\u5c0d\u6575\u4eba\u9020\u6210\u50b7\u5bb3\u6642\uff0c\u4f60\u6703\u7372\u5f97\u5438\u6536\u8b77\u76fe\uff0c\u5438\u6536\u91cf\u76f8\u7576\u65bc\u4f60\u751f\u547d\u529b\u4e0a\u9650\u76841.0%\uff0c\u6700\u9ad810%\u3002",
+    "zh_CN": "\u6bcf\u5f53\u54e8\u5175\u5bf9\u4e00\u540d\u654c\u4eba\u9020\u6210\u4f24\u5bb3\uff0c\u4f60\u83b7\u5f97\u4e00\u4e2a\u76f8\u5f53\u4e8e\u6700\u5927\u751f\u547d\u503c\u76841.0%\u7684\u5438\u6536\u62a4\u76fe\uff0c\u6700\u591a\u5438\u653610%\u3002"
+  }
 }

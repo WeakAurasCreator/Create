@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "448403"
+  "SpellID": "448403",
+  "name_blz": {
+    "en_US": "Collapsing Void",
+    "es_MX": "Vac\u00edo colapsante",
+    "pt_BR": "Caos Destruidor",
+    "de_DE": "Kollabierende Leere",
+    "en_GB": "Collapsing Void",
+    "es_ES": "Vac\u00edo en colapso",
+    "fr_FR": "Effondrement du Vide",
+    "it_IT": "Energia del Vuoto",
+    "ru_RU": "\u041f\u0440\u043e\u0440\u044b\u0432\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u0411\u0435\u0437\u0434\u043d\u0430",
+    "ko_KR": "\uacf5\ud5c8 \ubd95\uad34",
+    "zh_TW": "\u5d29\u6f70\u865b\u7121",
+    "zh_CN": "\u5d29\u584c\u865a\u7a7a"
+  },
+  "description_blz": {
+    "en_US": "Each time Penance damages or heals, Entropic Rift is empowered, increasing its damage and size by 10%.\r\n\r\nAfter Entropic Rift ends it collapses, dealing 24,349 Shadow damage split amongst enemy targets within 15 yds.",
+    "es_MX": "Cada vez que Penitencia da\u00f1a o sana, Falla entr\u00f3pica se potencia, lo que aumenta su da\u00f1o y tama\u00f1o un 10%.\r\n\r\nCuando Falla entr\u00f3pica termina, colapsa e inflige 24,349 p. de da\u00f1o de las sombras dividido entre los enemigos en un radio de 15 m.",
+    "pt_BR": "Sempre que Penit\u00eancia causar dano, Fenda Entr\u00f3pica \u00e9 potencializada, aumentando em 10% o dano e o tamanho dela.\r\n\r\nAo terminar, a Fenda Entr\u00f3pica implode, causando 24.349 de dano de Sombra dividido entre os alvos inimigos em um raio de 15 m.",
+    "de_DE": "Jedes Mal, wenn 'S\u00fchne' Schaden oder Heilung verursacht, wird 'Entropischer Riss' erm\u00e4chtigt, was Schaden und Gr\u00f6\u00dfe um 10% erh\u00f6ht.\r\n\r\nNachdem 'Entropischer Riss endet, kollabiert er und verursacht 24.349 Schattenschaden, die auf gegnerische Ziele innerhalb von 15 Metern aufgeteilt werden.",
+    "en_GB": "Each time Penance damages or heals, Entropic Rift is empowered, increasing its damage and size by 10%.\r\n\r\nAfter Entropic Rift ends it collapses, dealing 24,349 Shadow damage split amongst enemy targets within 15 yds.",
+    "es_ES": "Cada vez que Penitencia inflige da\u00f1o o sana, Falla entr\u00f3pica se potencia, lo que aumenta un 10% su da\u00f1o y su tama\u00f1o.\r\n\r\nAl agotarse, Falla entr\u00f3pica colapsa e inflige 24349\u00a0p. de da\u00f1o de las Sombras a dividir entre los enemigos en un radio de 15\u00a0m.",
+    "fr_FR": "Chaque fois que P\u00e9nitence inflige des d\u00e9g\u00e2ts ou soigne, Faille entropique est renforc\u00e9e, ce qui augmente ses d\u00e9g\u00e2ts et sa taille de 10\u00a0%.\r\n\r\nApr\u00e8s la fin de Faille entropique, elle s\u2019effondre, ce qui inflige 24349\u00a0points de d\u00e9g\u00e2ts d\u2019ombre r\u00e9partis entre les cibles ennemies \u00e0 moins de 15\u00a0m.",
+    "it_IT": "Infliggere danni o fornire cure con Contrizione aumenta i danni inflitti dalla Fenditura Entropica e le sue dimensioni del 10%.\r\n\r\nQuando la Fenditura Entropica termina, collassa, infliggendo 24.349 danni da ombra suddivisi tra i bersagli nemici entro 15 m.",
+    "ru_RU": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \"\u0418\u0441\u043f\u043e\u0432\u0435\u0434\u044c\" \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0438\u043b\u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 \u0443\u0440\u043e\u043d, \"\u042d\u043d\u0442\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u043b\u043e\u043c\" \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f, \u0438 \u0435\u0433\u043e \u0440\u0430\u0437\u043c\u0435\u0440 \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u0443\u0440\u043e\u043d \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 10%.\r\n\r\n\u041a\u043e\u0433\u0434\u0430 \"\u042d\u043d\u0442\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u043b\u043e\u043c\" \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043e\u043d \u0441\u0445\u043b\u043e\u043f\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0438 \u043d\u0430\u043d\u043e\u0441\u0438\u0442 24349 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438, \u0440\u0430\u0432\u043d\u043e\u043c\u0435\u0440\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u043c\u043e\u0433\u043e \u043c\u0435\u0436\u0434\u0443 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c\u0438 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 15 \u043c.",
+    "ko_KR": "\ud68c\uac1c\ub85c \ud53c\ud574\ub97c \uc785\ud788\uac70\ub098 \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\uc2dc\ud0ac \ub54c\ub9c8\ub2e4 \ud63c\ub3c8\uc758 \uade0\uc5f4\uc774 \uac15\ud654\ub418\uc5b4 \uacf5\uaca9\ub825\uacfc \ud06c\uae30\uac00 10%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ud63c\ub3c8\uc758 \uade0\uc5f4\uc740 \ud6a8\uacfc\uac00 \ub05d\ub098\uba74 \ubd95\uad34\ud558\uc5ec 15\ubbf8\ud130 \ub0b4\uc758 \uc801 \ub300\uc0c1\uc5d0\uac8c 24,349\uc758 \uc554\ud751 \ud53c\ud574\ub97c \ub098\ub204\uc5b4 \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u6bcf\u6b21\u61fa\u609f\u9020\u6210\u50b7\u5bb3\u6216\u6cbb\u7642\u6548\u679c\uff0c\u6df7\u4e82\u88c2\u9699\u90fd\u6703\u7372\u5f97\u5f37\u5316\uff0c\u4f7f\u5176\u50b7\u5bb3\u548c\u7bc4\u570d\u63d0\u9ad810%\u3002\r\n\r\n\u5728\u6df7\u4e82\u88c2\u9699\u6548\u679c\u7d50\u675f\u5f8c\uff0c\u88c2\u9699\u6703\u5d29\u89e3\uff0c\u9020\u621024,349\u9ede\u6697\u5f71\u50b7\u5bb3\uff0c\u753115\u78bc\u5167\u7684\u6575\u65b9\u76ee\u6a19\u5e73\u5747\u5206\u6524\u3002",
+    "zh_CN": "\u6bcf\u5f53\u82e6\u4fee\u9020\u6210\u4f24\u5bb3\u6216\u6cbb\u7597\u90fd\u4f1a\u5f3a\u5316\u71b5\u80fd\u88c2\u9699\uff0c\u4f7f\u5176\u9020\u6210\u7684\u4f24\u5bb3\u548c\u5c3a\u5bf8\u63d0\u9ad810%\u3002\r\n\r\n\u71b5\u80fd\u88c2\u9699\u7ed3\u675f\u540e\u4f1a\u584c\u7f29\uff0c\u9020\u621024,349\u70b9\u6697\u5f71\u4f24\u5bb3\uff0c\u753115\u7801\u5185\u7684\u6240\u6709\u654c\u65b9\u76ee\u6807\u5747\u644a\u3002"
+  }
 }

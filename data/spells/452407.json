@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "452407"
+  "SpellID": "452407",
+  "name_blz": {
+    "en_US": "Improved Soul Rending",
+    "es_MX": "Desgarre de alma mejorado",
+    "pt_BR": "Dilacera\u00e7\u00e3o da Alma Aprimorada",
+    "de_DE": "Verbesserter Seelenrei\u00dfer",
+    "en_GB": "Improved Soul Rending",
+    "es_ES": "Desgarre de almas mejorado",
+    "fr_FR": "D\u00e9chirement de l\u2019\u00e2me am\u00e9lior\u00e9",
+    "it_IT": "Lacerazione d'Anima Migliorata",
+    "ru_RU": "\u0423\u043b\u0443\u0447\u0448\u0435\u043d\u043d\u043e\u0435 \u0440\u0430\u0437\u0434\u0438\u0440\u0430\u043d\u0438\u0435 \u0434\u0443\u0448\u0438",
+    "ko_KR": "\uc601\ud63c \ubd84\uc1c4 \uc5f0\ub9c8",
+    "zh_TW": "\u5f37\u5316\u88c2\u9b42",
+    "zh_CN": "\u5f3a\u5316\u7075\u9b42\u5288\u88c2"
+  },
+  "description_blz": {
+    "en_US": "Leech granted by Soul Rending increased by 2% and an additional 2% while Metamorphosis is active.",
+    "es_MX": "El robo de vida otorgado por Desgarre de alma aumenta un 2% y un 2% m\u00e1s mientras Metamorfosis est\u00e1 activa.",
+    "pt_BR": "Sorver concedido por Dilacera\u00e7\u00e3o da Alma aumentado em 2%, mais um adicional de 2% quando a Metamorfose est\u00e1 ativa.",
+    "de_DE": "Durch 'Seelenrei\u00dfer' gew\u00e4hrter Lebensraub wurde um 2% und zus\u00e4tzlich um 2% erh\u00f6ht, w\u00e4hrend 'Metamorphose' aktiv ist.",
+    "en_GB": "Leech granted by Soul Rending increased by 2% and an additional 2% while Metamorphosis is active.",
+    "es_ES": "Parasitar recibido de Desgarre de almas aumentado un 2% y un 2% m\u00e1s mientras Metamorfosis est\u00e1 activa.",
+    "fr_FR": "Ponction conf\u00e9r\u00e9e par D\u00e9chirement de l\u2019\u00e2me augment\u00e9e de 2\u00a0%, et de 2\u00a0% suppl\u00e9mentaires lorsque M\u00e9tamorphose est active.",
+    "it_IT": "Aumenta il ritorno vitale fornito da Lacerazione d'Anima del 2% e del 2% aggiuntivo quando Metamorfosi Demoniaca \u00e8 attiva.",
+    "ru_RU": "\u0411\u043e\u043d\u0443\u0441 \u043a \u0441\u0430\u043c\u043e\u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044e \u043e\u0442 \"\u0420\u0430\u0437\u0434\u0438\u0440\u0430\u043d\u0438\u044f \u0434\u0443\u0448\u0438\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 2%, \u0430 \u043f\u043e\u0434 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\u043c \"\u041c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0437\u044b\" \u2013 \u0435\u0449\u0435 \u043d\u0430 2%.",
+    "ko_KR": "\uc601\ud63c \ubd84\uc1c4\uc758 \uc0dd\uae30\ud761\uc218 \uc99d\uac00\ub7c9\uc774 2%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ub610\ud55c \ud0c8\ud0dc\uac00 \ud65c\uc131\ud654\ub41c \ub3d9\uc548\uc5d0\ub294 2%\ub9cc\ud07c \ucd94\uac00\ub85c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u88c2\u9b42\u8ce6\u4e88\u7684\u6c72\u53d6\u63d0\u9ad82%\uff0c\u5728\u60e1\u9b54\u5316\u8eab\u4f5c\u7528\u671f\u9593\uff0c\u518d\u984d\u5916\u63d0\u9ad82%\u3002",
+    "zh_CN": "\u7531\u7075\u9b42\u5288\u88c2\u83b7\u5f97\u7684\u5438\u8840\u63d0\u9ad82%\uff0c\u5728\u6076\u9b54\u53d8\u5f62\u671f\u95f4\u518d\u989d\u5916\u63d0\u9ad82%\u3002"
+  }
 }

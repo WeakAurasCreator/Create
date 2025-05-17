@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "453172"
+  "SpellID": "453172",
+  "name_blz": {
+    "en_US": "Cunning Cruelty",
+    "es_MX": "Crueldad astuta",
+    "pt_BR": "Crueldade Astuta",
+    "de_DE": "Gerissene Grausamkeit",
+    "en_GB": "Cunning Cruelty",
+    "es_ES": "Crueldad astuta",
+    "fr_FR": "Cruaut\u00e9 sournoise",
+    "it_IT": "Crudelt\u00e0 Scaltra",
+    "ru_RU": "\u0425\u0438\u0442\u0440\u0430\u044f \u0436\u0435\u0441\u0442\u043e\u043a\u043e\u0441\u0442\u044c",
+    "ko_KR": "\uad50\ud65c\ud55c \uc794\ud639\uc131",
+    "zh_TW": "\u72e1\u8a50\u6b98\u5fcd",
+    "zh_CN": "\u72e1\u9ee0\u6b8b\u9177"
+  },
+  "description_blz": {
+    "en_US": "Shadow Bolt and Drain Soul have a chance to trigger a Shadow Bolt Volley, dealing 6,876 Shadow damage to 5 enemies within 10 yards of your current target.",
+    "es_MX": "Descarga de las sombras y Drenar alma tienen una probabilidad de activar una Salva de descarga de las sombras que inflige 6,156 p. de da\u00f1o de las sombras a 5 enemigos en un radio de 10 m de tu objetivo actual.",
+    "pt_BR": "Seta Sombria e Drenar Alma t\u00eam chance de ativar uma Salva de Setas Sombrias, causando 7.121 de dano de Sombra a 5 inimigos em um raio de 10 m do seu alvo atual.",
+    "de_DE": "'Schattenblitz' und 'Seelendieb' haben eine Chance, eine 'Schattenblitzsalve' auszul\u00f6sen, die 5 Gegnern innerhalb von 10 Metern um Euer aktuelles Ziel 7.378 Schattenschaden zuf\u00fcgt.",
+    "en_GB": "Shadow Bolt and Drain Soul have a chance to trigger a Shadow Bolt Volley, dealing 7,033 Shadow damage to 5 enemies within 10 yards of your current target.",
+    "es_ES": "Existe la posibilidad de que Descarga de las Sombras y Drenar alma activen una Salva de descarga de las Sombras que infligir\u00e1 7060\u00a0p. de da\u00f1o de las Sombras a 5 enemigos en un radio de 10\u00a0m de tu objetivo actual.",
+    "fr_FR": "Trait de l\u2019ombre et Drain d\u2019\u00e2me ont une chance de d\u00e9clencher une Salve de traits de l\u2019ombre, qui inflige 7629\u00a0points de d\u00e9g\u00e2ts d\u2019ombre \u00e0 5\u00a0adversaires \u00e0 moins de 10\u00a0m de votre cible actuelle.",
+    "it_IT": "Dardo d'Ombra e Risucchio d'Anima hanno una probabilit\u00e0 di attivare Raffica di Dardi d'Ombra, infliggendo 7.066 danni da ombra a 5 nemici entro 10 m dal bersaglio attuale.",
+    "ru_RU": "\"\u0421\u0442\u0440\u0435\u043b\u0430 \u0422\u044c\u043c\u044b\" \u0438 \"\u041f\u043e\u0445\u0438\u0449\u0435\u043d\u0438\u0435 \u0434\u0443\u0448\u0438\" \u043c\u043e\u0433\u0443\u0442 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u0442\u044c \"\u0417\u0430\u043b\u043f \u0441\u0442\u0440\u0435\u043b \u0422\u044c\u043c\u044b\", \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0438\u0439 5719 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 5 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430\u043c \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 10 \u043c \u043e\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0446\u0435\u043b\u0438.",
+    "ko_KR": "\uc5b4\ub460\uc758 \ud654\uc0b4 \ubc0f \uc601\ud63c \ud761\uc218 \uc2dc\uc804 \uc2dc \uc77c\uc815 \ud655\ub960\ub85c \uc5f0\ubc1c \uc5b4\ub460\uc758 \ud654\uc0b4\uc774 \ubc1c\ub3d9\ud574 \ud604\uc7ac \ub300\uc0c1\uc758 10\ubbf8\ud130 \ub0b4\uc5d0 \uc788\ub294 \uc801 5\uba85\uc5d0\uac8c 7,597\uc758 \uc554\ud751 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u6697\u5f71\u7bad\u548c\u5438\u53d6\u9748\u9b42\u6709\u4e00\u5b9a\u6a5f\u7387\u89f8\u767c\u6697\u5f71\u7bad\u96e8\uff0c\u5c0d\u7576\u524d\u76ee\u6a19\u9644\u8fd110\u78bc\u5167\u76845\u500b\u6575\u4eba\u9020\u62106,428\u9ede\u6697\u5f71\u50b7\u5bb3\u3002",
+    "zh_CN": "\u6697\u5f71\u7bad\u548c\u5438\u53d6\u7075\u9b42\u6709\u4e00\u5b9a\u51e0\u7387\u89e6\u53d1\u6697\u5f71\u7bad\u96e8\uff0c\u5bf9\u4f60\u5f53\u524d\u76ee\u680710\u7801\u8303\u56f4\u5185\u76845\u4e2a\u654c\u4eba\u9020\u62106,187\u70b9\u6697\u5f71\u4f24\u5bb3\u3002"
+  }
 }

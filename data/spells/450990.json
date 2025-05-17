@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450990"
+  "SpellID": "450990",
+  "name_blz": {
+    "en_US": "Martial Precision",
+    "es_MX": "Precisi\u00f3n marcial",
+    "pt_BR": "Precis\u00e3o Marcial",
+    "de_DE": "Pr\u00e4zise Kampfkunst",
+    "en_GB": "Martial Precision",
+    "es_ES": "Precisi\u00f3n marcial",
+    "fr_FR": "Pr\u00e9cision martiale",
+    "it_IT": "Precisione Marziale",
+    "ru_RU": "\u0411\u043e\u0435\u0432\u0430\u044f \u0442\u043e\u0447\u043d\u043e\u0441\u0442\u044c",
+    "ko_KR": "\ubb34\uc608\uc758 \uc815\ubc00\ud568",
+    "zh_TW": "\u62db\u62db\u81f4\u547d",
+    "zh_CN": "\u6b66\u6280\u7cbe\u51c6"
+  },
+  "description_blz": {
+    "en_US": "Your attacks penetrate 12% armor.",
+    "es_MX": "Tus ataques penetran un 12% de armadura.",
+    "pt_BR": "Seus ataques penetram 12% da armadura.",
+    "de_DE": "Eure Angriffe durchdringen 12% R\u00fcstung.",
+    "en_GB": "Your attacks penetrate 12% armor.",
+    "es_ES": "Tus ataques penetran un 12% de la armadura.",
+    "fr_FR": "Vos attaques p\u00e9n\u00e8trent 12\u00a0% de l\u2019Armure.",
+    "it_IT": "Gli attacchi penetrano il 12% dell'armatura.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u0430\u0442\u0430\u043a\u0438 \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u044e\u0442 12% \u0431\u0440\u043e\u043d\u0438.",
+    "ko_KR": "\uacf5\uaca9 \uc2dc 12%\uc758 \ubc29\uc5b4\ub3c4\ub97c \uad00\ud1b5\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u653b\u64ca\u7121\u899612%\u8b77\u7532\u503c\u3002",
+    "zh_CN": "\u4f60\u7684\u653b\u51fb\u7a7f\u900f12%\u7684\u62a4\u7532\u3002"
+  }
 }

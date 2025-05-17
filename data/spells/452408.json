@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "452408"
+  "SpellID": "452408",
+  "name_blz": {
+    "en_US": "Burning Blades",
+    "es_MX": "Filos ardientes",
+    "pt_BR": "L\u00e2minas Ardentes",
+    "de_DE": "Brennende Klingen",
+    "en_GB": "Burning Blades",
+    "es_ES": "Filos ardientes",
+    "fr_FR": "Lames ardentes",
+    "it_IT": "Lame Brucianti",
+    "ru_RU": "\u0413\u043e\u0440\u044f\u0449\u0438\u0435 \u043a\u043b\u0438\u043d\u043a\u0438",
+    "ko_KR": "\ubd88\ud0c0\ub294 \uce7c\ub0a0",
+    "zh_TW": "\u71c3\u5203",
+    "zh_CN": "\u71c3\u70e7\u5251\u5203"
+  },
+  "description_blz": {
+    "en_US": "Your blades burn with Fel energy, causing your Soul Cleave, Throw Glaive, and auto-attacks to deal an additional 50% damage as Fire over 6 sec.",
+    "es_MX": "Tus espadas arden con energ\u00eda vil, lo que hace que tus Rajar alma, Lanzar guja y ataques autom\u00e1ticos inflijan un 50% m\u00e1s de da\u00f1o como da\u00f1o de fuego durante 6 s.",
+    "pt_BR": "Suas l\u00e2minas ardem com energia vil, fazendo seus usos de Cutilada da Alma, Arremessar Glaive e ataques autom\u00e1ticos causarem 50% a mais de dano de Fogo ao longo 6 s.",
+    "de_DE": "Eure Klingen brennen mit Teufelsenergie, wodurch Eure 'Seelenspalter', 'Gleve werfen' und automatischen Angriffe zus\u00e4tzlich 50% Schaden als Feuer \u00fcber 6 Sek. zuf\u00fcgen.",
+    "en_GB": "Your blades burn with Fel energy, causing your Soul Cleave, Throw Glaive, and auto-attacks to deal an additional 50% damage as Fire over 6 sec.",
+    "es_ES": "Tus hojas arden con energ\u00eda vil, lo que hace que Rajar alma, Lanzar guja y tus ataques autom\u00e1ticos inflijan un 50% de da\u00f1o de Fuego m\u00e1s durante 6 s.",
+    "fr_FR": "Vos lames br\u00fblent d\u2019\u00e9nergie gangren\u00e9e, ce qui permet \u00e0 vos attaques automatiques et vos techniques Division de l\u2019\u00e2me et Lancer de glaive d\u2019infliger 50\u00a0% de d\u00e9g\u00e2ts suppl\u00e9mentaires sous forme de d\u00e9g\u00e2ts de feu en 6 s.",
+    "it_IT": "Le lame bruciano di vilenergia e fanno s\u00ec che Fendente d'Anima, Lancio Lama e gli attacchi automatici infliggano il 50% di danni aggiuntivi come danni da fuoco in 6 s.",
+    "ru_RU": "\u0412\u0430\u0448\u0438 \u043a\u043b\u0438\u043d\u043a\u0438 \u0437\u0430\u0433\u043e\u0440\u0430\u044e\u0442\u0441\u044f \u044d\u043d\u0435\u0440\u0433\u0438\u0435\u0439 \u0421\u043a\u0432\u0435\u0440\u043d\u044b, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u0432\u0430\u0448\u0438 \"\u0420\u0430\u0441\u043a\u0430\u043b\u044b\u0432\u0430\u043d\u0438\u0435 \u0434\u0443\u0448\", \"\u0411\u0440\u043e\u0441\u043e\u043a \u0431\u043e\u0435\u0432\u043e\u0433\u043e \u043a\u043b\u0438\u043d\u043a\u0430\" \u0438 \u0430\u0432\u0442\u043e\u0430\u0442\u0430\u043a\u0438 \u043d\u0430\u043d\u043e\u0441\u044f\u0442 50% \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u043e\u0433\u043d\u044f \u0437\u0430 6 \u0441\u0435\u043a.",
+    "ko_KR": "\uce7c\ub0a0\uc774 \uc9c0\uc625 \ub9c8\ub825\uc73c\ub85c \ud0c0\uc62c\ub77c \uc601\ud63c \ubca0\uc5b4\ub0b4\uae30, \uae00\ub808\uc774\ube0c \ud22c\ucc99 \ubc0f \uc790\ub3d9 \uacf5\uaca9 \uc0ac\uc6a9 \uc2dc\uc5d0 6\ucd08\uc5d0 \uac78\uccd0 50%\uc758 \ucd94\uac00 \ud654\uc5fc \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+    "zh_TW": "\u9b54\u5316\u80fd\u91cf\u8b93\u4f60\u7684\u5200\u5203\u718a\u718a\u71c3\u71d2\uff0c\u4f7f\u4f60\u7684\u7834\u9b42\u65ac\u3001\u6295\u64f2\u6230\u5203\u548c\u81ea\u52d5\u653b\u64ca\u57286\u79d2\u5167\u984d\u5916\u9020\u621050%\u706b\u7130\u50b7\u5bb3\u3002",
+    "zh_CN": "\u4f60\u7684\u5229\u5203\u71c3\u70e7\u7740\u90aa\u80fd\uff0c\u4f7f\u4f60\u7684\u7075\u9b42\u88c2\u5288\u3001\u6295\u63b7\u5229\u5203\u548c\u81ea\u52a8\u653b\u51fb\u9020\u6210\u989d\u591650%\u7684\u706b\u7130\u4f24\u5bb3\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }

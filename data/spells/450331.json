@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450331"
+  "SpellID": "450331",
+  "name_blz": {
+    "en_US": "Death's Chill",
+    "es_MX": "Frialdad de la muerte",
+    "pt_BR": "Calafrio da Morte",
+    "de_DE": "Todesk\u00fchle",
+    "en_GB": "Death's Chill",
+    "es_ES": "Fr\u00edo de la muerte",
+    "fr_FR": "Frisson de la mort",
+    "it_IT": "Brivido della Morte",
+    "ru_RU": "\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0443\u0436\u0430",
+    "ko_KR": "\uc8fd\uc74c\uc758 \ub0c9\uae30",
+    "zh_TW": "\u6b7b\u4ea1\u51b0\u51cd",
+    "zh_CN": "\u6b7b\u4ea1\u5bd2\u610f"
+  },
+  "description_blz": {
+    "en_US": "While Icy Veins is active, damaging an enemy with Frostbolt increases spell damage by 1%. Stacks up to 15 times.",
+    "es_MX": "Mientras Venas heladas est\u00e1 activo, da\u00f1ar a un enemigo con Descarga de escarcha aumenta el da\u00f1o con hechizos un 1%. Se acumula hasta 15 veces.",
+    "pt_BR": "Enquanto as Veias G\u00e9lidas estiverem ativas, causar dano a um inimigo com Seta de Gelo aumenta em 1% o dano m\u00e1gico. Acumula at\u00e9 15 vezes.",
+    "de_DE": "Wenn 'Eisige Adern' aktiv ist und Ihr einem Gegner mit 'Frostblitz' Schaden zuf\u00fcgt, wird der Zauberschaden um 1% erh\u00f6ht. Bis zu 15-mal stapelbar.",
+    "en_GB": "While Icy Veins is active, damaging an enemy with Frostbolt increases spell damage by 1%. Stacks up to 15 times.",
+    "es_ES": "Mientras Venas heladas est\u00e1 activo, al da\u00f1ar a un enemigo con Descarga de Escarcha, aumentas un 1% tu da\u00f1o con hechizos. Se acumula hasta 15 veces.",
+    "fr_FR": "Lorsque Veines glaciales est actif, le fait d\u2019infliger des d\u00e9g\u00e2ts \u00e0 l\u2019adversaire avec \u00c9clair de givre augmente les d\u00e9g\u00e2ts des sorts de 1\u00a0%. Cumulable jusqu\u2019\u00e0 15\u00a0fois.",
+    "it_IT": "Quando l'effetto Vene Gelide \u00e8 attivo, infliggere danni magici a un nemico con Dardo di Gelo aumenta i danni magici inflitti del 1%. Si accumula fino a 15 volte.",
+    "ru_RU": "\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \"\u0421\u0442\u044b\u043b\u043e\u0439 \u043a\u0440\u043e\u0432\u0438\" \u0443\u0440\u043e\u043d \u043e\u0442 \"\u041b\u0435\u0434\u044f\u043d\u043e\u0439 \u0441\u0442\u0440\u0435\u043b\u044b\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1%. \u042d\u0444\u0444\u0435\u043a\u0442 \u0441\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 15 \u0440\u0430\u0437.",
+    "ko_KR": "\uc5bc\uc74c \ud54f\uc904\uc774 \ud65c\uc131\ud654\ub41c \ub3d9\uc548 \uc5bc\uc74c \ud654\uc0b4\ub85c \uc801\uc5d0\uac8c \ud53c\ud574\ub97c \uc785\ud788\uba74 \uc8fc\ubb38 \uacf5\uaca9\ub825\uc774 1%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4. \ucd5c\ub300 15\ubc88\uae4c\uc9c0 \uc911\ucca9\ub429\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u51b0\u5bd2\u8108\u52d5\u4f5c\u7528\u671f\u9593\uff0c\u4ee5\u5bd2\u51b0\u7bad\u5c0d\u4e00\u500b\u6575\u4eba\u9020\u6210\u50b7\u5bb3\uff0c\u6703\u4f7f\u6cd5\u8853\u50b7\u5bb3\u63d0\u9ad81%\u3002\u6700\u591a\u53ef\u5806\u758a15\u5c64\u3002",
+    "zh_CN": "\u51b0\u51b7\u8840\u8109\u6fc0\u6d3b\u65f6\uff0c\u7528\u5bd2\u51b0\u7bad\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3\u4f1a\u4f7f\u6cd5\u672f\u4f24\u5bb3\u63d0\u9ad81%\u3002\u6700\u591a\u53e0\u52a015\u6b21\u3002"
+  }
 }

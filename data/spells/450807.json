@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450807"
+  "SpellID": "450807",
+  "name_blz": {
+    "en_US": "Quickflame",
+    "es_MX": "Llama r\u00e1pida",
+    "pt_BR": "Chama R\u00e1pida",
+    "de_DE": "Flinke Flamme",
+    "en_GB": "Quickflame",
+    "es_ES": "Llamapresta",
+    "fr_FR": "Flamme spontan\u00e9e",
+    "it_IT": "Fiammalesta",
+    "ru_RU": "\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u043b\u0430\u043c\u044f",
+    "ko_KR": "\uc7ac\ube60\ub978 \ubd88\uaf43",
+    "zh_TW": "\u8fc5\u708e",
+    "zh_CN": "\u95ea\u7130"
+  },
+  "description_blz": {
+    "en_US": "Flamestrike damage increased by 25%.",
+    "es_MX": "El da\u00f1o de Fogonazo aumenta un 25%.",
+    "pt_BR": "Dano de Golpe Flamejante aumentado em 25%.",
+    "de_DE": "Schaden von 'Flammensto\u00df' um 25% erh\u00f6ht.",
+    "en_GB": "Flamestrike damage increased by 25%.",
+    "es_ES": "Da\u00f1o de Fogonazo aumentado un 25%.",
+    "fr_FR": "D\u00e9g\u00e2ts de Choc de flammes augment\u00e9s de 25\u00a0%.",
+    "it_IT": "Aumenta i danni inflitti da Colonna di Fuoco del 25%.",
+    "ru_RU": "\u0423\u0440\u043e\u043d \u043e\u0442 \"\u041e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u0442\u043e\u043b\u0431\u0430\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 25%.",
+    "ko_KR": "\ubd88\uae30\ub465\uc758 \uacf5\uaca9\ub825\uc774 25%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u70c8\u7130\u98a8\u66b4\u50b7\u5bb3\u63d0\u9ad825%\u3002",
+    "zh_CN": "\u70c8\u7130\u98ce\u66b4\u7684\u4f24\u5bb3\u63d0\u9ad825%\u3002"
+  }
 }

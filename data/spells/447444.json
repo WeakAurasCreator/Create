@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447444"
+  "SpellID": "447444",
+  "name_blz": {
+    "en_US": "Entropic Rift",
+    "es_MX": "Falla entr\u00f3pica",
+    "pt_BR": "Fenda Entr\u00f3pica",
+    "de_DE": "Entropischer Riss",
+    "en_GB": "Entropic Rift",
+    "es_ES": "Falla entr\u00f3pica",
+    "fr_FR": "Faille entropique",
+    "it_IT": "Fenditura Entropica",
+    "ru_RU": "\u042d\u043d\u0442\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u043b\u043e\u043c",
+    "ko_KR": "\ud63c\ub3c8\uc758 \uade0\uc5f4",
+    "zh_TW": "\u6df7\u4e82\u88c2\u9699",
+    "zh_CN": "\u71b5\u80fd\u88c2\u9699"
+  },
+  "description_blz": {
+    "en_US": "Mind Blast tears open an Entropic Rift that follows the enemy for 8 sec. Enemies caught in its path suffer 3,299 Shadow damage every 0.9 sec while within its reach.",
+    "es_MX": "Explosi\u00f3n mental abre una Falla entr\u00f3pica que sigue al enemigo durante 8 s. Los enemigos atrapados en su camino reciben 3,292 p. de da\u00f1o de las sombras cada 0.9 s mientras est\u00e1n dentro de su alcance.",
+    "pt_BR": "Impacto Mental abre uma Fenda Entr\u00f3pica que segue o inimigo por 8 s. Os inimigos atingidos pelo caminho recebem 3.329 de dano de Sombra a cada 0,9 s enquanto estiverem no alcance da Fenda.",
+    "de_DE": "Beim Einsatz von 'Gedankenschlag' entsteht ein 'Entropischer Riss', der den Gegner 8 Sek. lang verfolgt. Gegner, die in seinen Pfad geraten, erleiden alle 0,9 Sek. 3.295 Schattenschaden, solange sie in Reichweite sind.",
+    "en_GB": "Mind Blast tears open an Entropic Rift that follows the enemy for 8 sec. Enemies caught in its path suffer 3,352 Shadow damage every 0.9 sec while within its reach.",
+    "es_ES": "Explosi\u00f3n mental abre una falla entr\u00f3pica que persigue al enemigo durante 8 s. Los enemigos a su paso reciben 3292\u00a0p. de da\u00f1o de las Sombras cada 0,9\u00a0s mientras est\u00e9n a su alcance.",
+    "fr_FR": "Attaque mentale ouvre une Faille entropique qui suit l\u2019adversaire pendant 8 s. Les cibles prises dans sa course subissent 3335\u00a0points de d\u00e9g\u00e2ts d\u2019ombre toutes les 0,9\u00a0s tant qu\u2019elles sont \u00e0 port\u00e9e.",
+    "it_IT": "Detonazione Mentale apre una Fenditura Entropica che segue il nemico per 8 s. I nemici colpiti sulla traiettoria subiscono 3.294 danni da ombra ogni 0,9 s finch\u00e9 si trovano nell'area d'effetto.",
+    "ru_RU": "\"\u0412\u0437\u0440\u044b\u0432 \u0440\u0430\u0437\u0443\u043c\u0430\" \u0440\u0430\u0437\u0440\u044b\u0432\u0430\u0435\u0442 \u0442\u043a\u0430\u043d\u044c \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u044d\u043d\u0442\u0440\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0437\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 8 \u0441\u0435\u043a. \u041f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438 \u043d\u0430 \u043f\u0443\u0442\u0438 \u0440\u0430\u0437\u043b\u043e\u043c\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 3329 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0442\u0435\u043c\u043d\u043e\u0439 \u043c\u0430\u0433\u0438\u0438 \u0440\u0430\u0437 \u0432 0,9 \u0441\u0435\u043a.",
+    "ko_KR": "\uc815\uc2e0 \ubd84\uc5f4 \uc2dc\uc804 \uc2dc \ucc28\uc6d0\uc744 \ucc22\uc5b4 8\ucd08 \ub3d9\uc548 \uc801\uc744 \ub530\ub77c\ub2e4\ub2c8\ub294 \ud63c\ub3c8\uc758 \uade0\uc5f4\uc744 \uc5fd\ub2c8\ub2e4. \uade0\uc5f4\uc5d0 \ud718\ub9d0\ub9b0 \uc801\uc740 \ubc94\uc704 \uc548\uc5d0 \uc788\ub294 \ub3d9\uc548 0.9\ucd08\ub9c8\ub2e4 3,330\uc758 \uc554\ud751 \ud53c\ud574\ub97c \ubc1b\uc2b5\ub2c8\ub2e4.",
+    "zh_TW": "\u5fc3\u9748\u9707\u7206\u6703\u6495\u958b\u4e00\u9053\u6df7\u4e82\u88c2\u9699\uff0c\u88c2\u9699\u6703\u8ffd\u64ca\u6575\u4eba\uff0c\u6301\u7e8c8\u79d2\u3002\u8def\u5f91\u4e0a\u7684\u6575\u4eba\u53ea\u8981\u9032\u5165\u6548\u679c\u7bc4\u570d\uff0c\u5c31\u6703\u6bcf0.9\u79d2\u53d7\u52303,321\u9ede\u6697\u5f71\u50b7\u5bb3\u3002",
+    "zh_CN": "\u5fc3\u7075\u9707\u7206\u6495\u5f00\u4e00\u9053\u8ffd\u8e2a\u654c\u4eba\u7684\u71b5\u80fd\u88c2\u9699\uff0c\u6301\u7eed8\u79d2\u3002\u4f4d\u4e8e\u8def\u5f84\u4e2d\u7684\u654c\u4eba\u5904\u4e8e\u8303\u56f4\u5185\u65f6\u6bcf0.9\u79d2\u53d7\u52303,358\u70b9\u6697\u5f71\u4f24\u5bb3\u3002"
+  }
 }

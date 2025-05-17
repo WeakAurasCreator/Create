@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "447985"
+  "SpellID": "447985",
+  "name_blz": {
+    "en_US": "Light of the Martyr",
+    "es_MX": "Luz del m\u00e1rtir",
+    "pt_BR": "Luz do M\u00e1rtir",
+    "de_DE": "Licht des M\u00e4rtyrers",
+    "en_GB": "Light of the Martyr",
+    "es_ES": "Luz del m\u00e1rtir",
+    "fr_FR": "Lumi\u00e8re du martyr",
+    "it_IT": "Luce del Martire",
+    "ru_RU": "\u0421\u0432\u0435\u0442 \u043c\u0443\u0447\u0435\u043d\u0438\u043a\u0430",
+    "ko_KR": "\uc21c\uad50\uc790\uc758 \ube5b",
+    "zh_TW": "\u6b89\u96e3\u8005\u4e4b\u5149",
+    "zh_CN": "\u6b89\u9053\u8005\u4e4b\u5149"
+  },
+  "description_blz": {
+    "en_US": "While above 80% health, Holy Shock's healing is increased 20%, but creates a heal absorb on you for 30% of the amount healed that prevents Beacon of Light from healing you until it has dissipated.",
+    "es_MX": "Mientras tienes m\u00e1s de un 80% de salud, la sanaci\u00f3n de Choque sagrado aumenta un 20%, pero crea una absorci\u00f3n de sanaci\u00f3n sobre ti equivalente a un 30% de la cantidad sanada, que impide que Se\u00f1al de la Luz te sane hasta que se haya disipado.",
+    "pt_BR": "Enquanto estiver acima de 80% dos pontos de vida, a cura do Choque Sagrado aumenta em 20%, mas absorve uma quantidade equivalente a 30% da cura em voc\u00ea e impede o Foco de Luz de curar voc\u00ea at\u00e9 se dissipar.",
+    "de_DE": "Solange Eure Gesundheit \u00fcber 80% liegt, wird die Heilung durch 'Heiliger Schock' um 20% erh\u00f6ht, belegt Euch jedoch mit einer Heilungsabsorption in H\u00f6he von 30% des geheilten Werts, die verhindert, dass 'Flamme des Glaubens' Euch heilt, bis sie sich aufgel\u00f6st hat.",
+    "en_GB": "While above 80% health, Holy Shock's healing is increased 20%, but creates a heal absorb on you for 30% of the amount healed that prevents Beacon of Light from healing you until it has dissipated.",
+    "es_ES": "Mientras tu salud est\u00e9 por encima del 80%, la sanaci\u00f3n de Choque Sagrado aumentar\u00e1 un 20%, pero hace que absorbas un 30% de la sanaci\u00f3n realizada, lo que impide que Se\u00f1al de la Luz te sane hasta que la absorci\u00f3n se haya disipado.",
+    "fr_FR": "Lorsque vous avez plus de 80\u00a0% de vos points de vie, les soins de Horion sacr\u00e9 sont augment\u00e9s de 20\u00a0%, mais cr\u00e9ent une absorption de soins sur vous pour 30\u00a0% du montant soign\u00e9. Elle emp\u00eache Guide de lumi\u00e8re de vous soigner jusqu\u2019\u00e0 ce qu\u2019elle se dissipe.",
+    "it_IT": "Quando si ha pi\u00f9 del 80% della salute massima, le cure fornite da Folgore Sacra aumentano del 20%, ma creano una barriera che assorbe cure ricevute pari al 30% delle cure fornite e impedisce alle cure fornite al Faro di Luce di trasferirsi su di te.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0432\u0430\u0448 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0432\u044b\u0448\u0435 80%, \u0441\u0438\u043b\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \"\u0428\u043e\u043a\u0430 \u043d\u0435\u0431\u0435\u0441\" \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 20%, \u043d\u043e 30% \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0431\u0430\u0440\u044c\u0435\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0430\u043c \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \"\u0427\u0430\u0441\u0442\u0438\u0446\u044b \u0421\u0432\u0435\u0442\u0430\".",
+    "ko_KR": "\uc0dd\uba85\ub825\uc774 80% \uc774\uc0c1\uc77c \ub54c \uc2e0\uc131 \ucda9\uaca9\uc758 \uce58\uc720\ub7c9\uc774 20%\ub9cc\ud07c \uc99d\uac00\ud558\uc9c0\ub9cc \uc790\uc2e0\uc5d0\uac8c \uce58\uc720\ub7c9\uc758 30%\uc5d0 \ud574\ub2f9\ud558\ub294 \uce58\uc720 \ud761\uc218 \ud6a8\uacfc\ub97c \ubd80\uc5ec\ud569\ub2c8\ub2e4. \uc774 \ud6a8\uacfc\ub294 \uc0ac\ub77c\uc9c8 \ub54c\uae4c\uc9c0 \ube5b\uc758 \ubd09\ud654\ub85c \uc0dd\uba85\ub825\uc744 \ud68c\ubcf5\ud558\uc9c0 \ubabb\ud558\ub3c4\ub85d \ubc29\uc9c0\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u751f\u547d\u529b\u9ad8\u65bc80%\u6642\uff0c\u795e\u8056\u9707\u64ca\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad820%\uff0c\u4f46\u6703\u5c0d\u4f60\u65bd\u52a030%\u6cbb\u7642\u91cf\u7684\u6cbb\u7642\u5438\u6536\u6548\u679c\uff0c\u9632\u6b62\u8056\u5149\u4fe1\u6a19\u6cbb\u7642\u4f60\uff0c\u76f4\u5230\u5b83\u6d88\u5931\u70ba\u6b62\u3002",
+    "zh_CN": "\u751f\u547d\u503c\u9ad8\u4e8e80%\u65f6\uff0c\u795e\u5723\u9707\u51fb\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad820%\uff0c\u4f46\u4f1a\u4f7f\u4f60\u53d7\u5230\u5438\u6536\u6cbb\u7597\u6548\u679c\u7684\u5f71\u54cd\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u8be5\u6b21\u6cbb\u7597\u91cf\u768430%\uff0c\u5438\u6536\u6cbb\u7597\u6548\u679c\u5b58\u5728\u671f\u95f4\u4f60\u65e0\u6cd5\u83b7\u5f97\u5723\u5149\u9053\u6807\u7684\u6cbb\u7597\u3002"
+  }
 }
