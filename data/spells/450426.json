@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450426"
+  "SpellID": "450426",
+  "name_blz": {
+    "en_US": "Chi Proficiency",
+    "es_MX": "Dominio del chi",
+    "pt_BR": "Profici\u00eancia em Chi",
+    "de_DE": "Chibef\u00e4higung",
+    "en_GB": "Chi Proficiency",
+    "es_ES": "Competencia en chi",
+    "fr_FR": "Expertise du chi",
+    "it_IT": "Padronanza del Chi",
+    "ru_RU": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0446\u0438",
+    "ko_KR": "\uae30 \ub2a5\ub960",
+    "zh_TW": "\u771f\u6c23\u7cbe\u901a",
+    "zh_CN": "\u771f\u6c14\u719f\u7a14"
+  },
+  "description_blz": {
+    "en_US": "Magical damage done increased by 5% and healing done increased by 5%.",
+    "es_MX": "El da\u00f1o m\u00e1gico infligido aumenta un 5% y la sanaci\u00f3n realizada aumenta un 5%.",
+    "pt_BR": "Dano m\u00e1gico causado aumentado em 5% e cura realizada aumentada em 5%.",
+    "de_DE": "Verursachter magischer Schaden um 5% und hervorgerufene Heilung um 5% erh\u00f6ht.",
+    "en_GB": "Magical damage done increased by 5% and healing done increased by 5%.",
+    "es_ES": "Da\u00f1o m\u00e1gico infligido aumentado un 5%. Sanaci\u00f3n realizada aumentada un 5%.",
+    "fr_FR": "D\u00e9g\u00e2ts magiques inflig\u00e9s augment\u00e9s de 5\u00a0% et soins prodigu\u00e9s augment\u00e9s de 5\u00a0%.",
+    "it_IT": "Aumenta i danni magici inflitti del 5% e aumenta le cure fornite del 5%.",
+    "ru_RU": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043d\u0430\u043d\u043e\u0441\u0438\u043c\u044b\u0439 \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0440\u043e\u043d \u043d\u0430 5% \u0438 \u043f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u043d\u0430 5%.",
+    "ko_KR": "\ub9c8\ubc95 \uacf5\uaca9\ub825\uc774 5%\ub9cc\ud07c, \uce58\uc720\ub7c9\uc774 5%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u9020\u6210\u7684\u9b54\u6cd5\u50b7\u5bb3\u63d0\u9ad85%\u3002\u9020\u6210\u7684\u6cbb\u7642\u6548\u679c\u63d0\u9ad85%\u3002",
+    "zh_CN": "\u9020\u6210\u7684\u9b54\u6cd5\u4f24\u5bb3\u63d0\u9ad85%\uff0c\u9020\u6210\u7684\u6cbb\u7597\u6548\u679c\u63d0\u9ad85%\u3002"
+  }
 }

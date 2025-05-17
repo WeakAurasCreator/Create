@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "450984"
+  "SpellID": "450984",
+  "name_blz": {
+    "en_US": "Protect and Serve",
+    "es_MX": "Proteger y servir",
+    "pt_BR": "Proteger e Servir",
+    "de_DE": "Schutz und Dienst",
+    "en_GB": "Protect and Serve",
+    "es_ES": "Proteger y servir",
+    "fr_FR": "Protection et assistance",
+    "it_IT": "Proteggere e Servire",
+    "ru_RU": "\u0421\u043b\u0443\u0436\u0438\u0442\u044c \u0438 \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c",
+    "ko_KR": "\ubcf4\ud638\uc640 \ubd09\uc0ac",
+    "zh_TW": "\u76e1\u5fe0\u4fdd\u8b77",
+    "zh_CN": "\u7aed\u5fe0\u634d\u536b"
+  },
+  "description_blz": {
+    "en_US": "Your Vivify always heals you for an additional 30% of its total value.",
+    "es_MX": "Tu Vivificar siempre te sana un 30% m\u00e1s de su valor total.",
+    "pt_BR": "Seu Vivificar agora concede a voc\u00ea uma cura equivalente a 30% do valor total.",
+    "de_DE": "Euer 'Beleben' heilt Euch immer um zus\u00e4tzliche 30% des Gesamtwerts.",
+    "en_GB": "Your Vivify always heals you for an additional 30% of its total value.",
+    "es_ES": "Tu Vivificar siempre te sana un 30% m\u00e1s de su valor total.",
+    "fr_FR": "Les soins de Vivifier vous rendent toujours 30\u00a0% suppl\u00e9mentaires de la valeur totale.",
+    "it_IT": "La tua Vivificazione ti fa rigenerare sempre salute aggiuntiva pari al 30% del suo valore totale.",
+    "ru_RU": "\u0412\u0430\u0448\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \"\u041e\u0436\u0438\u0432\u0438\u0442\u044c\" \u0442\u0435\u043f\u0435\u0440\u044c \u0442\u0430\u043a\u0436\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0432\u0430\u043c \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0432 \u043e\u0431\u044a\u0435\u043c\u0435 30%.",
+    "ko_KR": "\uc0dd\uae30 \ucda9\uc804 \uc2dc\uc804 \uc2dc \ud56d\uc0c1 \ucd1d \uce58\uc720\ub7c9\uc758 30%\ub9cc\ud07c \ucd94\uac00\ub85c \uce58\uc720\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u4f60\u7684\u751f\u6c23\u52c3\u52c3\u5fc5\u5b9a\u6703\u70ba\u4f60\u984d\u5916\u6cbb\u7642\u7e3d\u6cbb\u7642\u91cf\u768430%\u3002",
+    "zh_CN": "\u4f60\u7684\u6d3b\u8840\u672f\u59cb\u7ec8\u4e3a\u4f60\u989d\u5916\u6062\u590d\u751f\u547d\u503c\uff0c\u6570\u503c\u76f8\u5f53\u4e8e\u603b\u6cbb\u7597\u91cf\u768430%\u3002"
+  }
 }

@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "451463"
+  "SpellID": "451463",
+  "name_blz": {
+    "en_US": "Ordered Elements",
+    "es_MX": "Elementos ordenados",
+    "pt_BR": "Elementos Ordenados",
+    "de_DE": "Beorderte Elemente",
+    "en_GB": "Ordered Elements",
+    "es_ES": "Elementos ordenados",
+    "fr_FR": "\u00c9l\u00e9ments ordonn\u00e9s",
+    "it_IT": "Elementi Ordinati",
+    "ru_RU": "\u0423\u043f\u043e\u0440\u044f\u0434\u043e\u0447\u0435\u043d\u043d\u044b\u0435 \u0441\u0442\u0438\u0445\u0438\u0438",
+    "ko_KR": "\uc815\uc5f0\ud55c \uae30\uc6b4",
+    "zh_TW": "\u4e94\u884c\u76f8\u751f",
+    "zh_CN": "\u9053\u6cd5\u4e07\u8c61"
+  },
+  "description_blz": {
+    "en_US": "During Storm, Earth, and Fire, Chi costs are reduced by 1 and Blackout Kick reduces the cooldown of affected abilities by an additional 1 sec. \r\n\r\nActivating Storm, Earth, and Fire resets the remaining cooldown of Rising Sun Kick and grants 2 Chi.",
+    "es_MX": "Durante Tormenta, Tierra y Fuego, los costos de chi se reducen 1 p., y Patada oscura reduce 1 s m\u00e1s el tiempo de reutilizaci\u00f3n de las habilidades afectadas. \r\n\r\nActivar Tormenta, Tierra y Fuego restablece el tiempo de reutilizaci\u00f3n restante de Patada del sol naciente y otorga 2 p. de chi.",
+    "pt_BR": "Durante Tempestade, Terra e Fogo, o custo de Chi \u00e9 reduzido em 1, e o Chute Blecaute reduz a recarga de habilidades afetadas em mais 1s. \r\n\r\nAtivar Tempestade, Terra e Fogo reinicia a recarga restante de Chute do Sol Nascente e concede 2 de Chi.",
+    "de_DE": "W\u00e4hrend 'Sturm, Erde und Feuer' sind die Chi-Kosten um 1 verringert und 'Blackout-Tritt' verringert die Abklingzeit betroffener F\u00e4higkeiten um weitere 1 Sek.\r\n\r\nDie Aktivierung von 'Sturm, Erde und Feuer' setzt die verbleibende Abklingzeit von 'Tritt der aufgehenden Sonne' zur\u00fcck und gew\u00e4hrt 2 Chi.",
+    "en_GB": "During Storm, Earth, and Fire, Chi costs are reduced by 1 and Blackout Kick reduces the cooldown of affected abilities by an additional 1 sec. \r\n\r\nActivating Storm, Earth, and Fire resets the remaining cooldown of Rising Sun Kick and grants 2 Chi.",
+    "es_ES": "Durante Tormenta, Tierra y Fuego, los costes de chi se reducen 1 p., y Patada oscura reduce el tiempo de reutilizaci\u00f3n de las facultades afectadas 1 s m\u00e1s. \r\n\r\nLa activaci\u00f3n de Tormenta, Tierra y Fuego restablece el tiempo de reutilizaci\u00f3n de Patada del sol naciente y otorga 2 p. de chi.",
+    "fr_FR": "Pendant Temp\u00eate, Terre et Feu, les co\u00fbts en chi sont r\u00e9duits de 1 et Frappe du voile noir r\u00e9duit le temps de recharge des techniques affect\u00e9es de 1\u00a0s suppl\u00e9mentaire.\r\n\r\nL\u2019activation de Temp\u00eate, Terre et Feu annule le temps de recharge restant de Coup de pied du soleil levant et conf\u00e8re 2\u00a0points de chi.",
+    "it_IT": "Durante Tempesta, Terra e Fuoco, i costi in chi sono ridotti di 1 e Calcio dell'Oscuramento riduce il tempo di recupero delle abilit\u00e0 che modifica di 1 s aggiuntivi.\r\n\r\nAttivare Tempesta, Terra e Fuoco azzera il tempo di recupero restante di Calcio del Sole Nascente e genera 2 chi.",
+    "ru_RU": "\u041f\u043e\u043a\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \"\u0411\u0443\u0440\u044f, \u0437\u0435\u043c\u043b\u044f \u0438 \u043e\u0433\u043e\u043d\u044c\", \u0437\u0430\u0442\u0440\u0430\u0442\u044b \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0446\u0438 \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f \u043d\u0430 1 \u0435\u0434., \u0430 \"\u041d\u043e\u043a\u0430\u0443\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u0443\u0434\u0430\u0440\" \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u0435\u0449\u0435 \u043d\u0430 1 \u0441\u0435\u043a. \r\n\r\n\u041f\u0440\u0438 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \"\u0411\u0443\u0440\u044f, \u0437\u0435\u043c\u043b\u044f \u0438 \u043e\u0433\u043e\u043d\u044c\" \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \"\u0423\u0434\u0430\u0440 \u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0433\u043e \u0441\u043e\u043b\u043d\u0446\u0430\" \u0438 \u0434\u0430\u0435\u0442 2 \u0435\u0434. \u044d\u043d\u0435\u0440\u0433\u0438\u0438 \u0446\u0438.",
+    "ko_KR": "\ud3ed\ud48d\uacfc \ub300\uc9c0\uc640 \ubd88\uc758 \uc9c0\uc18d\uc2dc\uac04 \ub3d9\uc548 \uae30 \uc18c\ubaa8\ub7c9\uc774 1\ub9cc\ud07c \uac10\uc18c\ud558\uace0, \ud6c4\ub824\ucc28\uae30 \uc0ac\uc6a9 \uc2dc \uc601\ud5a5\uc744 \ubc1b\ub294 \ub2a5\ub825\uc758 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc744 \ucd94\uac00\ub85c 1\ucd08\ub9cc\ud07c \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4. \r\n\r\n\ud3ed\ud48d\uacfc \ub300\uc9c0\uc640 \ubd88 \ud65c\uc131\ud654 \uc2dc \ud574\uc624\ub984\ucc28\uae30\uc758 \ub0a8\uc740 \uc7ac\uc0ac\uc6a9 \ub300\uae30\uc2dc\uac04\uc774 \ucd08\uae30\ud654\ub418\uace0 2\uc758 \uae30\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u5728\u98a8\u3001\u706b\u3001\u5927\u5730\u4f5c\u7528\u671f\u9593\uff0c\u6d88\u8017\u7684\u771f\u6c23\u964d\u4f4e1\u9ede\uff0c\u4e14\u6ec5\u5bc2\u817f\u6703\u4f7f\u53d7\u5f71\u97ff\u6280\u80fd\u7684\u51b7\u537b\u6642\u9593\u984d\u5916\u7e2e\u77ed1\u79d2\u3002\r\n\r\n\u555f\u52d5\u98a8\u3001\u706b\u3001\u5927\u5730\u5f8c\uff0c\u6703\u91cd\u7f6e\u7fd4\u967d\u8173\u7684\u5269\u9918\u51b7\u537b\u6642\u9593\uff0c\u4e26\u8ce6\u4e882\u9ede\u771f\u6c23\u3002",
+    "zh_CN": "\u5728\u98ce\u706b\u96f7\u7535\u671f\u95f4\uff0c\u771f\u6c14\u6d88\u8017\u964d\u4f4e1\u70b9\uff0c\u5e76\u4e14\u5e7b\u706d\u8e22\u4f7f\u53d7\u5f71\u54cd\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u989d\u5916\u7f29\u77ed1\u79d2\u3002\r\n\r\n\u6fc0\u6d3b\u98ce\u706b\u96f7\u7535\u4f1a\u91cd\u7f6e\u65ed\u65e5\u4e1c\u5347\u8e22\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\uff0c\u5e76\u4ea7\u751f2\u70b9\u771f\u6c14\u3002"
+  }
 }

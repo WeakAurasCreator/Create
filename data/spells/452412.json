@@ -34,5 +34,33 @@
   "ShowFutureSpellPlayerConditionID": "0",
   "SpellVisualScript": "0",
   "ActiveSpellVisualScript": "0",
-  "SpellID": "452412"
+  "SpellID": "452412",
+  "name_blz": {
+    "en_US": "Student of Suffering",
+    "es_MX": "Estudiante del sufrimiento",
+    "pt_BR": "Aprendiz do Sofrimento",
+    "de_DE": "Lehren des Leids",
+    "en_GB": "Student of Suffering",
+    "es_ES": "Estudiante del sufrimiento",
+    "fr_FR": "\u00c9l\u00e8ve de la souffrance",
+    "it_IT": "Studente della Sofferenza",
+    "ru_RU": "\u0417\u043d\u0430\u0442\u043e\u043a \u0441\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u0439",
+    "ko_KR": "\uace0\ud1b5\uc758 \ubc97",
+    "zh_TW": "\u82e6\u96e3\u5b78\u5f92",
+    "zh_CN": "\u82e6\u96be\u4fee\u884c"
+  },
+  "description_blz": {
+    "en_US": "Sigil of Flame applies Student of Suffering to you, increasing Mastery by 9.6% and granting 5 Fury every 2 sec, for 6 sec.",
+    "es_MX": "Sigilo de la llama te aplica Estudiante del sufrimiento, lo que aumenta un 9.6% la maestr\u00eda y otorga 5 p. de furia cada 2 s durante 6 s.",
+    "pt_BR": "Signo da Chama aplica Aprendiz do Sofrimento a voc\u00ea, aumentando em 9,6% a Maestria e concedendo 5 de F\u00faria a cada 2 s por 6 s.",
+    "de_DE": "'Zeichen der Flamme' kann 'Lehren des Leids' auf Euch anwenden, was Eure Meisterschaft um 9,6% erh\u00f6ht und 6 Sek. lang alle 2 Sek. 5 J\u00e4hzorn gew\u00e4hrt.",
+    "en_GB": "Sigil of Flame applies Student of Suffering to you, increasing Mastery by 9.6% and granting 5 Fury every 2 sec, for 6 sec.",
+    "es_ES": "Sigilo de llamas te aplica Estudiante del sufrimiento, lo que aumenta un 9,6% tu maestr\u00eda y te otorga 5 p. de furia cada 2 s durante 6 s.",
+    "fr_FR": "Sigil de feu applique \u00c9l\u00e8ve de la souffrance, ce qui augmente votre Ma\u00eetrise de 9,6\u00a0% et vous conf\u00e8re 5\u00a0points de fureur toutes les 2\u00a0s pendant 6 s.",
+    "it_IT": "Sigillo della Fiamma attiva Studente della Sofferenza, che aumenta la maestria del 9,6% e genera 5 furia ogni 2 s per 6 s.",
+    "ru_RU": "\"\u041f\u0435\u0447\u0430\u0442\u044c \u043e\u0433\u043d\u044f\" \u0434\u0430\u0435\u0442 \u0432\u0430\u043c \u044d\u0444\u0444\u0435\u043a\u0442 \"\u0417\u043d\u0430\u0442\u043e\u043a \u0441\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u0439\", \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u0439 \u0438\u0441\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 9,6% \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0438\u0439 5 \u0435\u0434. \u0433\u043d\u0435\u0432\u0430 \u0440\u0430\u0437 \u0432 2 \u0441\u0435\u043a. \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 6 \u0441\u0435\u043a.",
+    "ko_KR": "\ubd88\uaf43\uc758 \uc778\uc7a5 \uc0ac\uc6a9 \uc2dc \uace0\ud1b5\uc758 \ubc97\uc774 \ubd80\uc5ec\ub418\uc5b4 \ud2b9\ud654\uac00 9.6%\ub9cc\ud07c \uc99d\uac00\ud558\uace0 6\ucd08 \ub3d9\uc548 2\ucd08\ub9c8\ub2e4 5\uc758 \uaca9\ub178\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4.",
+    "zh_TW": "\u706b\u7130\u7b26\u5370\u6703\u5c0d\u4f60\u65bd\u52a0\u82e6\u96e3\u5b78\u5f92\uff0c\u4f7f\u7cbe\u901a\u63d0\u9ad89.6%\uff0c\u540c\u6642\u6bcf2\u79d2\u8ce6\u4e88\u4f605\u9ede\u9b54\u6012\uff0c\u6301\u7e8c6\u79d2\u3002",
+    "zh_CN": "\u70c8\u7130\u5492\u7b26\u4f1a\u5bf9\u4f60\u65bd\u52a0\u82e6\u96be\u4fee\u884c\uff0c\u7cbe\u901a\u63d0\u9ad89.6%\uff0c\u5e76\u4e14\u6bcf2\u79d2\u4ea7\u751f5\u70b9\u6076\u9b54\u4e4b\u6012\uff0c\u6301\u7eed6\u79d2\u3002"
+  }
 }
