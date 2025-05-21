@@ -5,9 +5,9 @@ level=80
 race=troll
 role=attack
 position=back
-class_talents=96173:1/96174:1/96176:1/96177:1/96179:1/96180:1/96182:2/96183:1/96187:1/96190:1/96192:1/96194:1/96195:1/96196:1/96197:1/96198:1/96200:1/96201:1/96202:1/96205:1/96206:1/96207:1/96208:2/96209:1/96210:1/96213:1/96214:1/96216:1/126015:1/126016:1
-spec_talents=96285:1/96286:2/96289:1/96290:1/96291:1/96292:1/96294:1/96295:1/96296:1/96297:1/96299:1/96310:1/96313:1/96314:1/96318:1/96319:1/96321:1/96324:1/96325:1/96326:1/96327:1/96328:1/96329:1/96330:1/96331:1/96332:1/96334:2/125816:1
-hero_talents=117630:1/117637:1/117642:1/117643:1/117645:1/117648:1/117650:1/117652:1/117662:1/117891:1/117892:1
+class_talents=96173:1/96174:1/96177:1/96179:1/96180:1/96182:2/96184:1/96187:1/96189:1/96190:1/96192:1/96194:1/96195:1/96196:1/96197:1/96198:1/96200:1/96201:1/96202:1/96203:1/96205:1/96206:1/96208:2/96209:1/96210:1/96213:1/96214:1/96216:1/126015:1/126016:1
+spec_talents=96285:1/96286:2/96287:1/96289:1/96290:1/96292:1/96294:1/96296:1/96297:1/96310:1/96313:1/96314:1/96318:1/96319:1/96321:1/96322:1/96324:1/96325:1/96326:1/96327:1/96328:1/96329:2/96331:1/96332:1/96333:1/96334:2/125816:1
+hero_talents=117630:1/117637:1/117642:1/117643:1/117645:1/117648:1/117650:1/117652:1/117653:1/117662:1/117892:1
 
 # Default consumables
 potion=tempered_potion_3
@@ -73,11 +73,11 @@ actions.aoe+=/wound_spender,target_if=max:debuff.festering_wound.stack,if=debuff
 # AoE Burst
 actions.aoe_burst=festering_strike,if=buff.festering_scythe.react
 actions.aoe_burst+=/death_coil,target_if=min:debuff.rotten_touch.remains*(buff.sudden_doom.react&talent.rotten_touch),if=!buff.vampiric_strike.react&active_enemies<variable.epidemic_targets&(!talent.bursting_sores|talent.bursting_sores&death_knight.fwounded_targets<active_enemies&death_knight.fwounded_targets<active_enemies*0.4&buff.sudden_doom.react|buff.sudden_doom.react&(talent.doomed_bidding&talent.menacing_magus|talent.rotten_touch|debuff.death_rot.remains<gcd)|rune<2)|(rune<4|active_enemies<4|raid_event.pull.has_boss)&active_enemies<variable.epidemic_targets&buff.gift_of_the_sanlayn.up&gcd<=1.0&(!raid_event.adds.exists&fight_remains>buff.dark_transformation.remains*2|raid_event.adds.exists&raid_event.adds.remains>buff.dark_transformation.remains*2)
-actions.aoe_burst+=/epidemic,if=!buff.vampiric_strike.react&(!talent.bursting_sores|talent.bursting_sores&death_knight.fwounded_targets<active_enemies&death_knight.fwounded_targets<active_enemies*0.4&buff.sudden_doom.react|buff.sudden_doom.react&(buff.a_feast_of_souls.up|debuff.death_rot.remains<gcd|debuff.death_rot.stack<10)|rune<2)|(rune<4|raid_event.pull.has_boss)&active_enemies>variable.epidemic_targets&buff.gift_of_the_sanlayn.up&gcd<=1.0&(!raid_event.adds.exists&fight_remains>buff.dark_transformation.remains*2|raid_event.adds.exists&raid_event.adds.remains>buff.dark_transformation.remains*2)
+actions.aoe_burst+=/epidemic,if=!buff.vampiric_strike.react&(!talent.bursting_sores|talent.bursting_sores&death_knight.fwounded_targets<active_enemies&death_knight.fwounded_targets<active_enemies*0.4&buff.sudden_doom.react|buff.sudden_doom.react&(buff.a_feast_of_souls.up|debuff.death_rot.remains<gcd|debuff.death_rot.stack<10)|rune<2)|(rune<4|raid_event.pull.has_boss)&active_enemies>=variable.epidemic_targets&buff.gift_of_the_sanlayn.up&gcd<=1.0&(!raid_event.adds.exists&fight_remains>buff.dark_transformation.remains*2|raid_event.adds.exists&raid_event.adds.remains>buff.dark_transformation.remains*2)
 actions.aoe_burst+=/wound_spender,target_if=debuff.chains_of_ice_trollbane_slow.up
 actions.aoe_burst+=/wound_spender,target_if=max:debuff.festering_wound.stack,if=debuff.festering_wound.stack>=1|buff.vampiric_strike.react|buff.death_and_decay.up
 actions.aoe_burst+=/death_coil,target_if=min:debuff.rotten_touch.remains*(buff.sudden_doom.react&talent.rotten_touch),if=active_enemies<variable.epidemic_targets
-actions.aoe_burst+=/epidemic,if=variable.epidemic_targets<active_enemies
+actions.aoe_burst+=/epidemic,if=variable.epidemic_targets<=active_enemies
 actions.aoe_burst+=/festering_strike,target_if=min:debuff.festering_wound.stack,if=debuff.festering_wound.stack<=2
 actions.aoe_burst+=/wound_spender,target_if=max:debuff.festering_wound.stack
 

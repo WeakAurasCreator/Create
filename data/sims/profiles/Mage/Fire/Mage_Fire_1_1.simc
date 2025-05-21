@@ -5,7 +5,7 @@ level=80
 race=dwarf
 role=spell
 position=ranged_back
-class_talents=80141:1/80142:1/80147:1/80149:1/80151:1/80155:1/80156:2/80158:2/80159:1/80161:1/80163:1/80165:1/80169:2/80171:1/80173:2/80174:1/80177:1/80178:1/80179:1/80181:1/80182:2/80183:1/80187:1/80188:2/115877:1/125817:1
+class_talents=80141:1/80142:1/80147:1/80149:1/80151:1/80155:1/80156:2/80158:1/80159:1/80161:1/80163:1/80165:2/80169:2/80171:1/80173:2/80174:1/80177:1/80178:1/80179:1/80181:1/80182:2/80183:1/80187:1/80188:2/115877:1/125817:1
 spec_talents=124748:1/124750:1/124752:1/124756:1/124758:1/124759:1/124760:1/124763:1/124764:1/124767:1/124769:1/124771:1/124774:1/124775:1/124777:1/124778:1/124780:1/124783:2/124784:1/124789:1/124790:1/124793:1/124795:1/125940:1/125941:1/125942:1/125944:1/126022:1/126024:1
 hero_talents=117246:1/117247:1/117248:1/117249:1/117250:1/117251:1/117252:1/117253:1/117254:1/117255:1/117256:1
 
@@ -132,32 +132,32 @@ actions.sf_filler+=/phoenix_flames
 actions.sf_filler+=/scorch,if=scorch_execute.active
 actions.sf_filler+=/fireball
 
-head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=11996/10356/11960/6652/12176/1579/10255,ilevel=678,gem_id=213743
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10421/10520/9633/8902/10879/10396/9627/10222/8792,ilevel=675,gem_id=213455/213485
-shoulders=aspectral_emissarys_arcane_vents,id=229341,bonus_id=11996/10356/11962/6652/1579/10255,ilevel=678
-back=consecrated_cloak,id=222817,bonus_id=11304/8960,ilevel=675,enchant_id=7403,crafted_stats=36/40
-chest=aspectral_emissarys_primal_robes,id=229346,bonus_id=11996/10356/11958/6652/1579/10255,ilevel=678,enchant_id=7364
-wrists=hyperthread_wristwraps,id=168989,ilevel=678,gem_id=213485
-hands=punctured_apiary_gloves,id=221067,ilevel=678
-waist=ringmasters_cummerbund,id=168958,ilevel=678,gem_id=213485
-legs=aspectral_emissarys_trousers,id=229342,bonus_id=11996/10356/11961/6652/1579/10255,ilevel=678,enchant_id=7534
-feet=aspectral_emissarys_slippers,id=229345,bonus_id=11996/10356/6652/1579/10255,ilevel=678
-finger1=miniature_roulette_wheel,id=228843,ilevel=678,gem_id=213485/213470,enchant_id=7340,crafted_stats=40/36
-finger2=wicks_golden_loop,id=221099,ilevel=678,gem_id=213485/213485,enchant_id=7340
-trinket1=eye_of_kezan,id=230198,bonus_id=6652/10356/11996/1527/10255,ilevel=678
-trinket2=mugs_moxie_jug,id=230192,bonus_id=6652/10356/11996/1527/10255,ilevel=678
-main_hand=neural_synapse_enhancer,id=168973,ilevel=678,enchant_id=7460
+head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=11996/10356/11960/6652/12176/1579/10255,ilevel=684,gem_id=213743
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10421/10520/9633/8902/10879/10396/9627/10222/8792,ilevel=681,gem_id=213455/213485
+shoulders=aspectral_emissarys_arcane_vents,id=229341,bonus_id=11996/10356/11962/6652/1579/10255,ilevel=684
+back=consecrated_cloak,id=222817,bonus_id=11304/8960,ilevel=681,enchant_id=7403,crafted_stats=36/40
+chest=aspectral_emissarys_primal_robes,id=229346,bonus_id=11996/10356/11958/6652/1579/10255,ilevel=684,enchant_id=7364
+wrists=hyperthread_wristwraps,id=168989,ilevel=684,gem_id=213485
+hands=punctured_apiary_gloves,id=221067,ilevel=684
+waist=ringmasters_cummerbund,id=168958,ilevel=684,gem_id=213485
+legs=aspectral_emissarys_trousers,id=229342,bonus_id=11996/10356/11961/6652/1579/10255,ilevel=684,enchant_id=7534
+feet=aspectral_emissarys_slippers,id=229345,bonus_id=11996/10356/6652/1579/10255,ilevel=684
+finger1=miniature_roulette_wheel,id=228843,ilevel=684,gem_id=213485/213470,enchant_id=7340,crafted_stats=40/36
+finger2=wicks_golden_loop,id=221099,ilevel=684,gem_id=213485/213485,enchant_id=7340
+trinket1=eye_of_kezan,id=230198,bonus_id=6652/10356/11996/1527/10255,ilevel=684
+trinket2=mugs_moxie_jug,id=230192,bonus_id=6652/10356/11996/1527/10255,ilevel=684
+main_hand=neural_synapse_enhancer,id=168973,ilevel=684,enchant_id=7460
 
 # Gear Summary
-# gear_ilvl=677.60
-# gear_stamina=391524
-# gear_intellect=62825
-# gear_crit_rating=1204
-# gear_haste_rating=20735
-# gear_mastery_rating=7723
-# gear_versatility_rating=15917
+# gear_ilvl=683.60
+# gear_stamina=421466
+# gear_intellect=66329
+# gear_crit_rating=1223
+# gear_haste_rating=21268
+# gear_mastery_rating=7902
+# gear_versatility_rating=16404
 # gear_avoidance_rating=545
-# gear_armor=20731
+# gear_armor=21608
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
 
