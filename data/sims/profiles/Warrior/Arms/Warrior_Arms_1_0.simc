@@ -1,7 +1,23 @@
 warrior="TWW2_Warrior_Arms"
 source=default
 spec=arms
-gear=head=fullthrottle_facerig,id=228858,bonus_id=10255/10356/11998/12176/12376/1533/6652,neck=semi_charmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213467/213743,shoulder=enforcer_s_backalley_shoulderplates,id=229233,bonus_id=10255/10356/11962/12179/12376/1533/6652,chest=enforcer_s_backalley_vestplate,id=229238,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364,waist=enforcer_s_backalley_girdle,id=229232,bonus_id=10255/10356/12176/12376/1533/6652/8095,legs=enforcer_s_backalley_chausses,id=229234,bonus_id=10255/10356/11961/12178/12376/1533/6652,enchant_id=7595,feet=rik_s_walkin_boots,id=228874,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7424,wrist=everforged_vambraces,id=222435,bonus_id=10421/11303/12040/12043/12176/12373/8790/8902/8960/9627/9633,enchant_id=7385,hands=enforcer_s_backalley_crushers,id=229236,bonus_id=10255/10356/11959/12179/12376/1533/6652,finger=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7340,trinket=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652,back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8790/8902/8960/9627/9633,enchant_id=7403,two_hand=best_in_slots,id=232526,bonus_id=10255/10356/12376/1533/6652/9418,enchant_id=7460,shirt=precious_s_ribbon,id=52019,tabard=tabard_of_the_lightbringer,id=52252
+head=fullthrottle_facerig,id=228858,bonus_id=10255/10356/11998/12176/12376/1533/6652
+neck=semi_charmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213467/213743
+shoulder=enforcer_s_backalley_shoulderplates,id=229233,bonus_id=10255/10356/11962/12179/12376/1533/6652
+chest=enforcer_s_backalley_vestplate,id=229238,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant=7364
+waist=enforcer_s_backalley_girdle,id=229232,bonus_id=10255/10356/12176/12376/1533/6652/8095
+legs=enforcer_s_backalley_chausses,id=229234,bonus_id=10255/10356/11961/12178/12376/1533/6652,enchant=7595
+feet=rik_s_walkin_boots,id=228874,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7424
+wrist=everforged_vambraces,id=222435,bonus_id=10421/11303/12040/12043/12176/12373/8790/8902/8960/9627/9633,enchant=7385
+hands=enforcer_s_backalley_crushers,id=229236,bonus_id=10255/10356/11959/12179/12376/1533/6652
+back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8790/8902/8960/9627/9633,enchant=7403
+two_hand=best_in_slots,id=232526,bonus_id=10255/10356/12376/1533/6652/9418,enchant=7460
+shirt=precious_s_ribbon,id=52019
+tabard=tabard_of_the_lightbringer,id=52252
+finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7340
+finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213479/213479,enchant=7340
+trinket1=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
+trinket2=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12376/1520/6652
 level=80
 race=void_elf
 role=attack
@@ -244,21 +260,21 @@ actions.variables=variable,name=st_planning,value=active_enemies=1&(raid_event.a
 actions.variables+=/variable,name=adds_remain,value=active_enemies>=2&(!raid_event.adds.exists|raid_event.adds.exists&raid_event.adds.remains>5)
 actions.variables+=/variable,name=execute_phase,value=(talent.massacre.enabled&target.health.pct<35)|target.health.pct<20
 
-head=waxsteel_greathelm,id=221100,bonus_id=523,ilevel=678,gem_id=213743
-neck=semicharmed_amulet,id=228841,bonus_id=1527/11996/11964/8781,ilevel=678,gem_id=213482/213482
-shoulders=enforcers_backalley_shoulderplates,id=229233,bonus_id=11996/10356/11962/6652/1579/10255,ilevel=678
-back=consecrated_cloak,id=222817,bonus_id=10421/9633/8902/12043/12040/1485/11304/8960/8795,ilevel=675,crafted_stats=32/36
-chest=enforcers_backalley_vestplate,id=229238,ilevel=678,enchant=crystalline_radiance_3
-wrists=everforged_vambraces,id=222435,bonus_id=10421/9633/8902/12043/12040/1485/1808/11304/8960,gem_id=213482,crafted_stats=32/36
-hands=enforcers_backalley_crushers,id=229236,bonus_id=11996/10356/11959/6652/1579/10255,ilevel=678
-waist=enforcers_backalley_girdle,id=229232,bonus_id=11996/10356/6652/12176/1579/10255/1808,ilevel=678,gem_id=213467
-legs=enforcers_backalley_chausses,id=229234,bonus_id=11996/10356/11961/6652/1579/10255,ilevel=678,enchant=defenders_armor_kit_3
-feet=sabatons_of_rampaging_elements,id=159679,bonus_id=11359/11996/11964,enchant_id=7424
-finger1=the_jastor_diamond,id=231265,bonus_id=1527/10376/8781,ilevel=678,gem_id=213491/213455,enchant=radiant_haste_3
-finger2=faded_championship_ring,id=228840,bonus_id=12028/1511,ilevel=678,gem_id=213479/213455,enchant=radiant_critical_strike_3
-trinket1=eye_of_kezan,id=230198,bonus_id=6652/10356/11996/1527/10255,ilevel=678
-trinket2=house_of_cards,id=230027,bonus_id=1527/11996/11964,ilevel=678
-main_hand=bestinslots,id=232526,bonus_id=1527/11996/11964,ilevel=678,enchant=authority_of_the_depths_3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Gear Summary
 # gear_ilvl=677.60
@@ -272,7 +288,6 @@ main_hand=bestinslots,id=232526,bonus_id=1527/11996/11964,ilevel=678,enchant=aut
 # gear_bonus_armor=980
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
-
 # Power Infusion override
 external_buffs.pool=power_infusion:120:0
 

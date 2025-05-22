@@ -1,7 +1,26 @@
 mage="TWW2_Mage_Arcane_Spellslinger"
 source=default
 spec=arcane
-gear=head=aspectral_emissary_s_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213485,neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213467/213743,shoulder=aspectral_emissary_s_arcane_vents,id=229341,bonus_id=10255/10390/11962/12179/12376/1533/6652,robe=aspectral_emissary_s_primal_robes,id=229346,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364,waist=tune_up_toolbelt,id=228861,bonus_id=10255/10356/11998/12176/12376/1533/6652,legs=aspectral_emissary_s_trousers,id=229342,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7534,feet=consecrated_slippers,id=222814,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant_id=7424,wrist=aspectral_emissary_s_gembands,id=229339,bonus_id=10255/10356/12176/12376/1533/6652/8095,enchant_id=7385,hands=aspectral_emissary_s_hardened_grasp,id=229344,bonus_id=10255/10356/11959/12179/12376/1533/6652,finger=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213467/213467,enchant_id=7352,trinket=mug_s_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652,back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant_id=7403,held_in_offhand=superfan_s_beater_buzzer,id=228890,bonus_id=10255/10356/12376/1533/6652,tabard=tabard_of_the_lightbringer,id=52252,shirt=fashionable_undershirt,id=151116,two_hand=neural_synapse_enhancer,id=168973,bonus_id=10255/10384/10390/11346/12376/6652,enchant_id=7448,chest=zealous_warden_s_raiment,id=221126,bonus_id=10255/10383/10390/11964/12376/3176/6652,enchant_id=7364,main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/12376/1533/6652,enchant_id=7448
+head=aspectral_emissary_s_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213485
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213467/213743
+shoulder=aspectral_emissary_s_arcane_vents,id=229341,bonus_id=10255/10390/11962/12179/12376/1533/6652
+robe=aspectral_emissary_s_primal_robes,id=229346,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant=7364
+waist=tune_up_toolbelt,id=228861,bonus_id=10255/10356/11998/12176/12376/1533/6652
+legs=aspectral_emissary_s_trousers,id=229342,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant=7534
+feet=consecrated_slippers,id=222814,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant=7424
+wrist=aspectral_emissary_s_gembands,id=229339,bonus_id=10255/10356/12176/12376/1533/6652/8095,enchant=7385
+hands=aspectral_emissary_s_hardened_grasp,id=229344,bonus_id=10255/10356/11959/12179/12376/1533/6652
+back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant=7403
+held_in_offhand=superfan_s_beater_buzzer,id=228890,bonus_id=10255/10356/12376/1533/6652
+tabard=tabard_of_the_lightbringer,id=52252
+shirt=fashionable_undershirt,id=151116
+two_hand=neural_synapse_enhancer,id=168973,bonus_id=10255/10384/10390/11346/12376/6652,enchant=7448
+chest=zealous_warden_s_raiment,id=221126,bonus_id=10255/10383/10390/11964/12376/3176/6652,enchant=7364
+main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/12376/1533/6652,enchant=7448
+finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213467/213467,enchant=7352
+finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213461/213497,enchant=7352
+trinket1=mug_s_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652
+trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=void_elf
 role=spell
@@ -164,21 +183,21 @@ actions.sunfury+=/arcane_explosion,if=buff.arcane_charge.stack<2&active_enemies>
 actions.sunfury+=/arcane_blast
 actions.sunfury+=/arcane_barrage
 
-head=aspectral_emissarys_crystalline_cowl,id=229343,ilevel=684,gem_id=213743
-neck=semicharmed_amulet,id=228841,ilevel=684,gem_id=213494/213455
-shoulders=aspectral_emissarys_arcane_vents,id=229341,ilevel=684
-back=trashmasters_mantle,id=168970,ilevel=684,enchant_id=7415
-chest=petticoat_of_the_selfstylized_azerite_baron,id=235420,ilevel=684,enchant_id=7364
-wrists=consecrated_cuffs,id=222815,bonus_id=10520/8960,ilevel=681,gem_id=213470,enchant_id=7397,crafted_stats=36/40
-hands=aspectral_emissarys_hardened_grasp,id=229344,ilevel=684
-waist=ringmasters_cummerbund,id=168958,ilevel=684,gem_id=213485
-legs=aspectral_emissarys_trousers,id=229342,ilevel=684,enchant_id=7531
-feet=consecrated_slippers,id=222814,bonus_id=10520/8960,ilevel=681,enchant_id=7424,crafted_stats=36/40
-finger1=the_jastor_diamond,id=231265,ilevel=684,gem_id=213485/213485,enchant_id=7352
-finger2=miniature_roulette_wheel,id=228843,ilevel=684,gem_id=213485/213470,enchant_id=7352,crafted_stats=40/36
-trinket1=mugs_moxie_jug,id=230192,ilevel=684
-trinket2=eye_of_kezan,id=230198,ilevel=684
-main_hand=neural_synapse_enhancer,id=168973,ilevel=684,enchant_id=7460
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Gear Summary
 # gear_ilvl=683.60
@@ -192,7 +211,6 @@ main_hand=neural_synapse_enhancer,id=168973,ilevel=684,enchant_id=7460
 # gear_armor=21576
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
-
 # Power Infusion override
 external_buffs.pool=power_infusion:120:1
 

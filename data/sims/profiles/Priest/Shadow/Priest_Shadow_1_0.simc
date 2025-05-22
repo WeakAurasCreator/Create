@@ -1,7 +1,26 @@
 priest="TWW2_Priest_Shadow_Voidweaver"
 source=default
 spec=shadow
-gear=head=confessor_s_unshakable_halo,id=229334,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213743,enchant_id=7931,neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213743,shoulder=confessor_s_unshakable_radiance,id=229332,bonus_id=10255/10356/11962/12179/12376/1533/6652,robe=bottom_dollar_blouse,id=228850,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7364,waist=refiner_s_conveyor_belt,id=228882,bonus_id=10255/10356/11998/12176/12376/1533/6652,legs=pit_doctor_s_petticoat,id=228865,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7534,feet=confessor_s_unshakable_boots,id=229336,bonus_id=10255/10356/12376/1533/6652/8095,enchant_id=7424,wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12040/12043/12056/12373/8793/8902/8960/9627/9633,gem_id=213482,enchant_id=7391,hands=confessor_s_unshakable_mitts,id=229335,bonus_id=10255/10356/11959/12179/12376/1533/6652,finger=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7346,trinket=mug_s_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652,back=test_pilot_s_go_pack,id=228844,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7409,two_hand=vagabond_s_bounding_baton,id=222568,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7463,shirt=precious_s_ribbon,id=52019,chest=confessor_s_unshakable_vestment,id=229337,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364,held_in_offhand=vagabond_s_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633,tabard=renowned_guild_tabard,id=69210,main_hand=big_earner_s_bludgeon,id=228901,bonus_id=10255/10356/12060/12376/1533/6652,enchant_id=7460
+head=confessor_s_unshakable_halo,id=229334,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213743,enchant=7931
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213743
+shoulder=confessor_s_unshakable_radiance,id=229332,bonus_id=10255/10356/11962/12179/12376/1533/6652
+robe=bottom_dollar_blouse,id=228850,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7364
+waist=refiner_s_conveyor_belt,id=228882,bonus_id=10255/10356/11998/12176/12376/1533/6652
+legs=pit_doctor_s_petticoat,id=228865,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7534
+feet=confessor_s_unshakable_boots,id=229336,bonus_id=10255/10356/12376/1533/6652/8095,enchant=7424
+wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12040/12043/12056/12373/8793/8902/8960/9627/9633,gem_id=213482,enchant=7391
+hands=confessor_s_unshakable_mitts,id=229335,bonus_id=10255/10356/11959/12179/12376/1533/6652
+back=test_pilot_s_go_pack,id=228844,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7409
+two_hand=vagabond_s_bounding_baton,id=222568,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633,enchant=7463
+shirt=precious_s_ribbon,id=52019
+chest=confessor_s_unshakable_vestment,id=229337,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant=7364
+held_in_offhand=vagabond_s_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633
+tabard=renowned_guild_tabard,id=69210
+main_hand=big_earner_s_bludgeon,id=228901,bonus_id=10255/10356/12060/12376/1533/6652,enchant=7460
+finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7346
+finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213482/213494,enchant=7346
+trinket1=mug_s_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652
+trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=maghar_orc
 role=spell
@@ -183,22 +202,22 @@ actions.trinkets+=/use_item,name=spymasters_web,if=(buff.power_infusion.remains>
 actions.trinkets+=/use_item,name=prized_gladiators_badge_of_ferocity,if=(buff.voidform.up|buff.power_infusion.remains>=10|buff.dark_ascension.up|(talent.void_eruption&cooldown.void_eruption.remains>10)|equipped.neural_synapse_enhancer&buff.entropic_rift.up)|fight_remains<20
 actions.trinkets+=/use_items,if=(buff.voidform.up|buff.power_infusion.remains>=10|buff.dark_ascension.up|equipped.neural_synapse_enhancer&buff.entropic_rift.up)|fight_remains<20
 
-head=confessors_unshakable_halo,id=229334,ilevel=684,gem_id=213743,enchant_id=7933
-neck=semicharmed_amulet,id=228841,ilevel=684,gem_id=213482/213458
-shoulders=confessors_unshakable_radiance,id=229332,ilevel=684
-back=test_pilots_gopack,id=228844,ilevel=684
-chest=confessors_unshakable_vestment,id=229337,ilevel=684,enchant=crystalline_radiance_3
-wrists=consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=681,gem_id=213497
-hands=confessors_unshakable_mitts,id=229335,ilevel=684
-waist=refiners_conveyor_belt,id=228882,ilevel=684,gem_id=213470
-legs=pit_doctors_petticoat,id=228865,ilevel=684,enchant=sunset_spellthread_3
-feet=cemented_murlocswimmers,id=228879,ilevel=684
-finger1=the_jastor_diamond,id=231265,ilevel=684,gem_id=213494/213494,enchant=radiant_mastery_3
-finger2=ritual_bone_band,id=178870,ilevel=684,gem_id=213494/213494,enchant=radiant_mastery_3
-trinket1=mugs_moxie_jug,id=230192,ilevel=684
-trinket2=house_of_cards,id=230027,ilevel=684
-main_hand=big_earners_bludgeon,id=228901,ilevel=684,enchant=authority_of_the_depths_3
-off_hand=vagabonds_torch,id=222566,bonus_id=11300/8793,ilevel=681
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Gear Summary
 # gear_ilvl=683.63
@@ -211,7 +230,6 @@ off_hand=vagabonds_torch,id=222566,bonus_id=11300/8793,ilevel=681
 # gear_armor=21621
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
-
 # Power Infusion override
 external_buffs.pool=power_infusion:120:0
 

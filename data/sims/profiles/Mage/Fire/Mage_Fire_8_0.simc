@@ -1,7 +1,25 @@
 mage="TWW2_Mage_Fire_Frostfire"
 source=default
 spec=fire
-gear=head=aspectral_emissary_s_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/11996/12176/12178/1527/6652,neck=strapped_rescue_keg,id=221060,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213482/213743,shoulder=aspectral_emissary_s_arcane_vents,id=229341,bonus_id=10255/10390/11962/11996/12179/1527/6652,shirt=fashionable_undershirt,id=151116,robe=aspectral_emissary_s_primal_robes,id=229346,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant_id=7364,waist=consecrated_cord,id=222816,bonus_id=10421/11304/12040/12043/12176/8793/8902/8960/9627/9633,legs=aspectral_emissary_s_trousers,id=229342,bonus_id=10255/10390/11961/11996/12178/1527/6652,enchant_id=7534,feet=consecrated_slippers,id=222814,bonus_id=10421/12040/12043/8793/8902/9627/9633,enchant_id=7424,wrist=hyperthread_wristwraps,id=168989,bonus_id=10047/10255/10383/10390/11964/11988/12176/6652,enchant_id=7385,hands=consecrated_gloves,id=222822,bonus_id=10421/11304/12040/12043/8793/8902/8960/9627/9633,finger=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7340,trinket=mug_s_moxie_jug,id=230192,bonus_id=10255/10355/11990/1514/6652,back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/8793/8902/8960/9627/9633,enchant_id=7403,held_in_offhand=vagabond_s_torch,id=222566,bonus_id=10421/11300/12040/12043/8793/8902/8960/9627/9633,tabard=tabard_of_the_lightbringer,id=52252,two_hand=neural_synapse_enhancer,id=168973,bonus_id=10067/10255/10384/10390/11996/6652,enchant_id=7442,main_hand=stix_s_metal_detector,id=228896,bonus_id=10255/10356/11996/1527/6652,enchant_id=7442
+head=aspectral_emissary_s_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/11996/12176/12178/1527/6652
+neck=strapped_rescue_keg,id=221060,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213482/213743
+shoulder=aspectral_emissary_s_arcane_vents,id=229341,bonus_id=10255/10390/11962/11996/12179/1527/6652
+shirt=fashionable_undershirt,id=151116
+robe=aspectral_emissary_s_primal_robes,id=229346,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant=7364
+waist=consecrated_cord,id=222816,bonus_id=10421/11304/12040/12043/12176/8793/8902/8960/9627/9633
+legs=aspectral_emissary_s_trousers,id=229342,bonus_id=10255/10390/11961/11996/12178/1527/6652,enchant=7534
+feet=consecrated_slippers,id=222814,bonus_id=10421/12040/12043/8793/8902/9627/9633,enchant=7424
+wrist=hyperthread_wristwraps,id=168989,bonus_id=10047/10255/10383/10390/11964/11988/12176/6652,enchant=7385
+hands=consecrated_gloves,id=222822,bonus_id=10421/11304/12040/12043/8793/8902/8960/9627/9633
+back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/8793/8902/8960/9627/9633,enchant=7403
+held_in_offhand=vagabond_s_torch,id=222566,bonus_id=10421/11300/12040/12043/8793/8902/8960/9627/9633
+tabard=tabard_of_the_lightbringer,id=52252
+two_hand=neural_synapse_enhancer,id=168973,bonus_id=10067/10255/10384/10390/11996/6652,enchant=7442
+main_hand=stix_s_metal_detector,id=228896,bonus_id=10255/10356/11996/1527/6652,enchant=7442
+finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7340
+finger2=wick_s_golden_loop,id=221099,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213470/213494,enchant=7340
+trinket1=mug_s_moxie_jug,id=230192,bonus_id=10255/10355/11990/1514/6652
+trinket2=house_of_cards,id=230027,bonus_id=10255/10355/11990/1514/6652
 level=80
 race=dwarf
 role=spell
@@ -133,21 +151,21 @@ actions.sf_filler+=/phoenix_flames
 actions.sf_filler+=/scorch,if=scorch_execute.active
 actions.sf_filler+=/fireball
 
-head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=11996/10356/11960/6652/12176/1579/10255,ilevel=684,gem_id=213743
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10421/10520/9633/8902/10879/10396/9627/10222/8792,ilevel=681,gem_id=213455/213485
-shoulders=aspectral_emissarys_arcane_vents,id=229341,bonus_id=11996/10356/11962/6652/1579/10255,ilevel=684
-back=consecrated_cloak,id=222817,bonus_id=11304/8960,ilevel=681,enchant_id=7403,crafted_stats=36/40
-chest=aspectral_emissarys_primal_robes,id=229346,bonus_id=11996/10356/11958/6652/1579/10255,ilevel=684,enchant_id=7364
-wrists=hyperthread_wristwraps,id=168989,ilevel=684,gem_id=213485
-hands=punctured_apiary_gloves,id=221067,ilevel=684
-waist=ringmasters_cummerbund,id=168958,ilevel=684,gem_id=213485
-legs=aspectral_emissarys_trousers,id=229342,bonus_id=11996/10356/11961/6652/1579/10255,ilevel=684,enchant_id=7534
-feet=aspectral_emissarys_slippers,id=229345,bonus_id=11996/10356/6652/1579/10255,ilevel=684
-finger1=miniature_roulette_wheel,id=228843,ilevel=684,gem_id=213485/213470,enchant_id=7340,crafted_stats=40/36
-finger2=wicks_golden_loop,id=221099,ilevel=684,gem_id=213485/213485,enchant_id=7340
-trinket1=eye_of_kezan,id=230198,bonus_id=6652/10356/11996/1527/10255,ilevel=684
-trinket2=mugs_moxie_jug,id=230192,bonus_id=6652/10356/11996/1527/10255,ilevel=684
-main_hand=neural_synapse_enhancer,id=168973,ilevel=684,enchant_id=7460
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Gear Summary
 # gear_ilvl=683.60
@@ -161,7 +179,6 @@ main_hand=neural_synapse_enhancer,id=168973,ilevel=684,enchant_id=7460
 # gear_armor=21608
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
-
 # Power Infusion override
 external_buffs.pool=power_infusion:120:0
 

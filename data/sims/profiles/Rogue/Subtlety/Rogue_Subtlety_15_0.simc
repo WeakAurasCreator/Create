@@ -1,7 +1,24 @@
 rogue="TWW2_Rogue_Subtlety"
 source=default
 spec=subtlety
-gear=head=spectral_gambler_s_damned_visage,id=229289,bonus_id=10255/10390/11960/11996/12176/12178/1527/6652,neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10520/10879/12040/12043/8794/8902/8960/9627/9633,gem_id=213497/213743,shoulder=spectral_gambler_s_bladed_mantle,id=229287,bonus_id=10255/10390/11962/11996/12179/1527/6652,chest=spectral_gambler_s_vest,id=229292,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant_id=7364,waist=competitor_s_battle_cord,id=228856,bonus_id=10255/10356/11996/11998/12176/1527/6652,legs=spectral_gambler_s_pantaloons,id=229288,bonus_id=10255/10390/11961/11996/12178/1527/6652,enchant_id=7601,feet=rune_branded_kickers,id=219327,bonus_id=10421/10520/12040/12043/8794/8902/8960/9627/9633,enchant_id=7424,wrist=hustler_s_ante_uppers,id=228885,bonus_id=10255/10355/11967/11988/12176/1507/6652,enchant_id=7385,hands=rune_branded_grasps,id=219333,bonus_id=10421/12040/12043/8794/8902/9627/9633,finger=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7346,trinket=house_of_cards,id=230027,bonus_id=10255/10355/11990/1514/6652,back=trashmaster_s_mantle,id=199921,bonus_id=10047/10255/10383/10390/11964/11988/6652,enchant_id=7403,shirt=fashionable_undershirt,id=151116,tabard=renowned_guild_tabard,id=69210,main_hand=everforged_stabber,id=222438,bonus_id=10421/10520/12040/12043/8794/8902/8960/9627/9633,enchant_id=7463,off_hand=pyrotechnic_needle_dropper,id=228897,bonus_id=10255/10356/11996/1527/6652,enchant_id=7463
+head=spectral_gambler_s_damned_visage,id=229289,bonus_id=10255/10390/11960/11996/12176/12178/1527/6652
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10520/10879/12040/12043/8794/8902/8960/9627/9633,gem_id=213497/213743
+shoulder=spectral_gambler_s_bladed_mantle,id=229287,bonus_id=10255/10390/11962/11996/12179/1527/6652
+chest=spectral_gambler_s_vest,id=229292,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant=7364
+waist=competitor_s_battle_cord,id=228856,bonus_id=10255/10356/11996/11998/12176/1527/6652
+legs=spectral_gambler_s_pantaloons,id=229288,bonus_id=10255/10390/11961/11996/12178/1527/6652,enchant=7601
+feet=rune_branded_kickers,id=219327,bonus_id=10421/10520/12040/12043/8794/8902/8960/9627/9633,enchant=7424
+wrist=hustler_s_ante_uppers,id=228885,bonus_id=10255/10355/11967/11988/12176/1507/6652,enchant=7385
+hands=rune_branded_grasps,id=219333,bonus_id=10421/12040/12043/8794/8902/9627/9633
+back=trashmaster_s_mantle,id=199921,bonus_id=10047/10255/10383/10390/11964/11988/6652,enchant=7403
+shirt=fashionable_undershirt,id=151116
+tabard=renowned_guild_tabard,id=69210
+main_hand=everforged_stabber,id=222438,bonus_id=10421/10520/12040/12043/8794/8902/8960/9627/9633,enchant=7463
+off_hand=pyrotechnic_needle_dropper,id=228897,bonus_id=10255/10356/11996/1527/6652,enchant=7463
+finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7346
+finger2=radiant_necromancer_s_band,id=221200,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213458/213473,enchant=7346
+trinket1=house_of_cards,id=230027,bonus_id=10255/10355/11990/1514/6652
+trinket2=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/11990/1501/6652
 level=80
 race=maghar_orc
 role=attack
@@ -114,22 +131,22 @@ actions.stealth_cds=shadow_dance,if=variable.shd_cp&variable.maintenance&(cooldo
 actions.stealth_cds+=/vanish,if=energy>=40&!buff.subterfuge.up&effective_combo_points<=3
 actions.stealth_cds+=/shadowmeld,if=energy>=40&combo_points.deficit>=3
 
-head=spectral_gamblers_damned_visage,id=229289,bonus_id=1808,ilevel=678,gem_id=213743
-neck=flickering_glowtorc,id=221103,bonus_id=8781,ilevel=678,gem_id=213461/213461
-shoulders=spectral_gamblers_bladed_mantle,id=229287,ilevel=678
-back=consecrated_cloak,id=222817,bonus_id=10421/9633/8902/8794/10520/8960,ilevel=675
-chest=spectral_gamblers_vest,id=229292,ilevel=678,enchant_id=7364
-wrists=hustlers_anteuppers,id=228885,bonus_id=1808,ilevel=678,gem_id=213473
-hands=enforcers_sticky_fingers,id=228863,ilevel=678
-waist=competitors_battle_cord,id=228856,bonus_id=1808,ilevel=678,gem_id=213473
-legs=spectral_gamblers_pantaloons,id=229288,ilevel=678,enchant_id=7601
-feet=runebranded_kickers,id=219327,bonus_id=10421/9633/8902/8794/10520/8960,ilevel=675
-finger1=the_jastor_diamond,id=231265,bonus_id=8781,ilevel=678,gem_id=213473/213473,enchant_id=7352
-finger2=ritual_bone_band,id=178870,bonus_id=8781,ilevel=678,gem_id=213497/213497,enchant_id=7352
-trinket1=zees_thug_hotline,id=230199,ilevel=678
-trinket2=house_of_cards,id=230027,ilevel=678
-main_hand=pyrotechnic_needledropper,id=228897,ilevel=678,enchant_id=7460
-off_hand=pyrotechnic_needledropper,id=228897,ilevel=678,enchant_id=7460
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Gear Summary
 # gear_ilvl=677.63
@@ -143,7 +160,6 @@ off_hand=pyrotechnic_needledropper,id=228897,ilevel=678,enchant_id=7460
 # gear_armor=33920
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
-
 # Power Infusion override
 external_buffs.pool=power_infusion:120:0
 

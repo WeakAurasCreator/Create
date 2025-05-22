@@ -1,7 +1,25 @@
 warlock="TWW2_Warlock_Destruction_Diabolist"
 source=default
 spec=destruction
-gear=head=spliced_fiendtrader_s_transcendence,id=229325,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213743,enchant_id=7931,neck=semi_charmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213491/213743,shoulder=spliced_fiendtrader_s_loyal_servants,id=229323,bonus_id=10255/10356/11962/12179/12376/1533/6652,shirt=precious_s_ribbon,id=52019,robe=spliced_fiendtrader_s_surgical_gown,id=229328,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364,waist=refiner_s_conveyor_belt,id=228882,bonus_id=10255/10356/11998/12176/12376/1533/6652,legs=spliced_fiendtrader_s_skin_tights,id=229324,bonus_id=10255/10356/11961/12178/12376/1533/6652,enchant_id=7534,feet=spliced_fiendtrader_s_soles,id=229327,bonus_id=10255/10356/12376/1533/6652/8095,enchant_id=7424,wrist=underparty_admission_bracelet,id=228857,bonus_id=10255/10356/11998/12176/12376/1533/6652,enchant_id=7385,hands=spliced_fiendtrader_s_demonic_grasp,id=229326,bonus_id=10255/10356/11959/12179/12376/1533/6652,finger=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7340,trinket=mug_s_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652,back=undercircuit_racing_flag,id=228839,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7403,held_in_offhand=vagabond_s_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8790/8902/8960/9627/9633,tabard=renowned_guild_tabard,id=69210,two_hand=alphacoil_ba_boom_stick,id=228898,bonus_id=10255/10356/12376/1533/6652,enchant_id=7463,main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/12376/1533/6652,enchant_id=7463
+head=spliced_fiendtrader_s_transcendence,id=229325,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213743,enchant=7931
+neck=semi_charmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213491/213743
+shoulder=spliced_fiendtrader_s_loyal_servants,id=229323,bonus_id=10255/10356/11962/12179/12376/1533/6652
+shirt=precious_s_ribbon,id=52019
+robe=spliced_fiendtrader_s_surgical_gown,id=229328,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant=7364
+waist=refiner_s_conveyor_belt,id=228882,bonus_id=10255/10356/11998/12176/12376/1533/6652
+legs=spliced_fiendtrader_s_skin_tights,id=229324,bonus_id=10255/10356/11961/12178/12376/1533/6652,enchant=7534
+feet=spliced_fiendtrader_s_soles,id=229327,bonus_id=10255/10356/12376/1533/6652/8095,enchant=7424
+wrist=underparty_admission_bracelet,id=228857,bonus_id=10255/10356/11998/12176/12376/1533/6652,enchant=7385
+hands=spliced_fiendtrader_s_demonic_grasp,id=229326,bonus_id=10255/10356/11959/12179/12376/1533/6652
+back=undercircuit_racing_flag,id=228839,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7403
+held_in_offhand=vagabond_s_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8790/8902/8960/9627/9633
+tabard=renowned_guild_tabard,id=69210
+two_hand=alphacoil_ba_boom_stick,id=228898,bonus_id=10255/10356/12376/1533/6652,enchant=7463
+main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/12376/1533/6652,enchant=7463
+finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7340
+finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213479/213479,enchant=7340
+trinket1=mug_s_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652
+trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=Dwarf
 role=spell
@@ -191,22 +209,22 @@ actions.variables+=/variable,name=infernal_active,op=set,value=pet.infernal.acti
 actions.variables+=/variable,name=trinket_1_will_lose_cast,value=((floor((fight_remains%trinket.1.cooldown.duration)+1)!=floor((fight_remains+(cooldown.summon_infernal.duration-cooldown.summon_infernal.remains))%cooldown.summon_infernal.duration))&(floor((fight_remains%trinket.1.cooldown.duration)+1))!=(floor(((fight_remains-cooldown.summon_infernal.remains)%trinket.1.cooldown.duration)+1))|((floor((fight_remains%trinket.1.cooldown.duration)+1)=floor((fight_remains+(cooldown.summon_infernal.duration-cooldown.summon_infernal.remains))%cooldown.summon_infernal.duration))&(((fight_remains-cooldown.summon_infernal.remains%%trinket.1.cooldown.duration)-cooldown.summon_infernal.remains-variable.trinket_1_buff_duration)>0)))&cooldown.summon_infernal.remains>20
 actions.variables+=/variable,name=trinket_2_will_lose_cast,value=((floor((fight_remains%trinket.2.cooldown.duration)+1)!=floor((fight_remains+(cooldown.summon_infernal.duration-cooldown.summon_infernal.remains))%cooldown.summon_infernal.duration))&(floor((fight_remains%trinket.2.cooldown.duration)+1))!=(floor(((fight_remains-cooldown.summon_infernal.remains)%trinket.2.cooldown.duration)+1))|((floor((fight_remains%trinket.2.cooldown.duration)+1)=floor((fight_remains+(cooldown.summon_infernal.duration-cooldown.summon_infernal.remains))%cooldown.summon_infernal.duration))&(((fight_remains-cooldown.summon_infernal.remains%%trinket.2.cooldown.duration)-cooldown.summon_infernal.remains-variable.trinket_2_buff_duration)>0)))&cooldown.summon_infernal.remains>20
 
-head=spliced_fiendtraders_transcendence,id=229325,bonus_id=1527/11996/1808,gem_id=213743
-neck=semicharmed_amulet,id=228841,bonus_id=8781,ilevel=678,gem_id=213473/213479
-shoulders=spliced_fiendtraders_loyal_servants,id=229323,bonus_id=1527/11996
-back=electricians_siphoning_filter,id=234507,bonus_id=1527/11996/11964
-chest=spliced_fiendtraders_surgical_gown,id=229328,ilevel=678,enchant_id=7364
-wrists=consecrated_cuffs,id=222815,bonus_id=10421/9633/8902/9627/10222/11144/11307/11109/8960/8791,ilevel=675,gem_id=213491,enchant_id=7397,crafted_stats=36/32
-hands=mine_rats_handwarmers,id=159231,bonus_id=11359/11996/11964
-waist=excavators_safety_belt,id=159226,bonus_id=11359/11996/11964/1808,gem_id=213479
-legs=spliced_fiendtraders_skin_tights,id=229324,bonus_id=11996/10356/11961/6652/1579/10255,ilevel=678,enchant_id=7534
-feet=hyperthread_boots,id=168964,bonus_id=10067/11996/11964,enchant_id=7421
-finger1=hoop_of_the_blighted,id=221197,bonus_id=3170/11996/11964/8781,gem_id=213467/213491,enchant_id=7346
-finger2=the_jastor_diamond,id=231265,bonus_id=8781,ilevel=678,gem_id=213458/213482,enchant_id=7334
-trinket1=eye_of_kezan,id=230198,ilevel=678
-trinket2=mugs_moxie_jug,id=230192,bonus_id=1527/11996/11964
-main_hand=scalding_queenmakers_shiv,id=221062,bonus_id=3170/11996/11964,enchant_id=7460
-off_hand=vagabonds_torch,id=222566,bonus_id=10421/9633/8902/12043/12040/1485/8795/11300/8960,crafted_stats=40/36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Gear Summary
 # gear_ilvl=677.63
@@ -221,7 +239,6 @@ off_hand=vagabonds_torch,id=222566,bonus_id=10421/9633/8902/12043/12040/1485/879
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
 default_pet=sayaad
-
 # Power Infusion override
 external_buffs.pool=power_infusion:120:1
 

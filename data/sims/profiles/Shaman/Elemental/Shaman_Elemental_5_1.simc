@@ -1,7 +1,27 @@
 shaman="TWW2_Shaman_Elemental_Farseer"
 source=default
 spec=elemental
-gear=head=gale_sovereign_s_charged_hood,id=229262,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652,neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213494,shoulder=gale_sovereign_s_zephyrs,id=229260,bonus_id=10255/10390/11962/12179/12376/1533/6652,shirt=precious_s_ribbon,id=52019,robe=gale_sovereign_s_clouded_hauberk,id=229265,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364,waist=gale_sovereign_s_ritual_belt,id=229259,bonus_id=10255/10356/12176/12376/1533/6652/8095,legs=gale_sovereign_s_pantaloons,id=229261,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7534,feet=shrapnel_ridden_sabatons,id=228862,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7424,wrist=glyph_etched_vambraces,id=219342,bonus_id=10421/11303/12040/12043/12056/12373/8793/8902/8960/9627/9633,gem_id=213494,enchant_id=7385,hands=gale_sovereign_s_grasps,id=229263,bonus_id=10255/10390/11959/12179/12376/1533/6652,finger=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7346,trinket=mug_s_moxie_jug,id=230192,bonus_id=10255/10355/12372/1520/6652,back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7403,two_hand=best_in_slots,id=232805,bonus_id=10255/10356/12376/1533/6652/9418,enchant_id=7439,tabard=tabard_of_brute_force,id=43349,chest=blazer_of_glory,id=228852,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7364,off_hand=galebreaker_bulwark,id=221045,bonus_id=10255/10383/10390/12376/3176/6652,held_in_offhand=superfan_s_beater_buzzer,id=228890,bonus_id=10255/10356/12376/1533/6652,main_hand=charged_runeaxe,id=222445,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7463
+head=gale_sovereign_s_charged_hood,id=229262,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213494
+shoulder=gale_sovereign_s_zephyrs,id=229260,bonus_id=10255/10390/11962/12179/12376/1533/6652
+shirt=precious_s_ribbon,id=52019
+robe=gale_sovereign_s_clouded_hauberk,id=229265,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant=7364
+waist=gale_sovereign_s_ritual_belt,id=229259,bonus_id=10255/10356/12176/12376/1533/6652/8095
+legs=gale_sovereign_s_pantaloons,id=229261,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant=7534
+feet=shrapnel_ridden_sabatons,id=228862,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7424
+wrist=glyph_etched_vambraces,id=219342,bonus_id=10421/11303/12040/12043/12056/12373/8793/8902/8960/9627/9633,gem_id=213494,enchant=7385
+hands=gale_sovereign_s_grasps,id=229263,bonus_id=10255/10390/11959/12179/12376/1533/6652
+back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8793/8902/8960/9627/9633,enchant=7403
+two_hand=best_in_slots,id=232805,bonus_id=10255/10356/12376/1533/6652/9418,enchant=7439
+tabard=tabard_of_brute_force,id=43349
+chest=blazer_of_glory,id=228852,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7364
+off_hand=frontman_s_wondrous_wall,id=231311,bonus_id=10255/10356/12376/1533/6652
+held_in_offhand=superfan_s_beater_buzzer,id=228890,bonus_id=10255/10356/12376/1533/6652
+main_hand=charged_runeaxe,id=222445,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633,enchant=7463
+finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7346
+finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213494,enchant=7346
+trinket1=mug_s_moxie_jug,id=230192,bonus_id=10255/10355/12372/1520/6652
+trinket2=signet_of_the_priory,id=219308,bonus_id=10255/10383/10390/12376/3176/6652
 level=80
 race=tauren
 role=spell
@@ -154,22 +174,22 @@ actions.single_target+=/flame_shock,moving=1,if=movement.distance>6
 # Frost Shock is our movement filler.
 actions.single_target+=/frost_shock,moving=1
 
-head=gale_sovereigns_charged_hood,id=229262,bonus_id=4800/4786/1527/11996/523,gem_id=213743
-neck=semicharmed_amulet,id=228841,bonus_id=4800/4786/1527/11996/8781,gem_id=213473/213494
-shoulders=gale_sovereigns_zephyrs,id=229260,bonus_id=4800/4786/1527/11996
-back=consecrated_cloak,id=222817,bonus_id=10421/9633/8902/12043/12040/1485/10520/8960,enchant_id=7403,crafted_stats=40/36
-chest=gale_sovereigns_clouded_hauberk,id=229265,bonus_id=4800/4786/1527/11996,enchant_id=7364
-wrists=glyphetched_vambraces,id=219342,bonus_id=10421/9633/8902/12043/12040/1485/1808/10520/8960,gem_id=213494,enchant_id=7385,crafted_stats=40/36
-hands=gale_sovereigns_grasps,id=229263,bonus_id=4800/4786/1527/11996
-waist=scentstrong_candlecord,id=221101,bonus_id=3170/11996/11964/1808,gem_id=213494
-legs=chemical_blasters_legguards,id=158341,bonus_id=4786/11359/11996,enchant_id=7534
-feet=regal_mekanospurs,id=168982,bonus_id=10067/11996/11964,enchant_id=7424
-finger1=the_jastor_diamond,id=231265,bonus_id=4800/4786/1527/11996/8781,gem_id=213482/213458,enchant_id=7346
-finger2=cyrces_circlet,id=228411,bonus_id=1511/11988/11964,gem_id=228639/228638/228646,enchant_id=7346
-trinket1=house_of_cards,id=230027,bonus_id=4800/4786/1527/11996
-trinket2=mugs_moxie_jug,id=230192,bonus_id=1527/11996/11964
-main_hand=big_earners_bludgeon,id=228901,bonus_id=1527/11996/11964,enchant_id=7460
-off_hand=titan_of_industry,id=228889,bonus_id=1527/11996/11964
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Gear Summary
 # gear_ilvl=676.38
@@ -184,7 +204,6 @@ off_hand=titan_of_industry,id=228889,bonus_id=1527/11996/11964
 # gear_armor=86080
 # set_bonus=thewarwithin_season_2_2pc=1
 # set_bonus=thewarwithin_season_2_4pc=1
-
 # Power Infusion override
 external_buffs.pool=power_infusion:120:1
 
