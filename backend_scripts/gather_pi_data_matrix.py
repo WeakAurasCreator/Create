@@ -410,9 +410,7 @@ def inject_gear_overrides(text: str, gear_map: dict[str, dict]) -> str:
 
         # Prefer readable enchant string if present
         if "permanentEnchant" in info and info["permanentEnchant"]:
-            segs.append("enchant=" + to_snake(info["permanentEnchant"]))
-        elif "temporaryEnchant" in info and info["temporaryEnchant"]:
-            segs.append("enchant_id=" + str(info["temporaryEnchant"]))
+            segs.append("enchant_id=" + to_snake(info["permanentEnchant"]))
 
         # Optional crafted stats?
         if "craftedStats" in info and info["craftedStats"]:
