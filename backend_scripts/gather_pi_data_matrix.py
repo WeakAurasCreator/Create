@@ -375,6 +375,7 @@ def inject_gear_overrides(text: str, gear_map: dict[str, dict]) -> str:
     parts = []
     for slot, info in gear_map.items():
         # Create a slug from the item name
+        print(info.get("name", ""))
         slug = to_snake(info.get("name", ""))
 
         # Start with slot=slug,id=…
