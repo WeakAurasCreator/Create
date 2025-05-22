@@ -65,7 +65,7 @@ with open(CONFIG_PATH) as f:
 with open(Path("data")/"talents"/"talents.json") as f:
     talents_data = json.load(f)
 
-with open("equippable-items.json", "r", encoding="utf-8") as f:
+with open(Path("data")/"equippable-items.json", "r", encoding="utf-8") as f:
     raidbots_items = json.load(f)
 
 item_id_to_slot: dict[int,str] = {}
@@ -321,6 +321,16 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
         for slot, counter in slot_counters.items()
         if counter
     }
+    if "one_hand" in slot_counters:
+        common = slot_counters["one_hand"].most_common(2)
+        if dual_wield:
+            main_id = common[0][0]
+            off_id  = common[1][0] if len(common) > 1 else main_id
+            top_gear["main_hand"] = main_id
+            top_gear["off_hand"]  = off_id
+        else:
+            top_gear["main_hand"] = common[0][0]
+        del top_gear["one_hand"]
 
     return popular_build, top_gear
 
