@@ -215,16 +215,15 @@ def fetch_current_tier_encounters(wcl_token: str) -> tuple[list[int], list[int]]
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Current raid: {raid_zone['name']} (ID={raid_zone['id']}) Current Dungeon Season: {dungeon_zone['name']} (ID={dungeon_zone['id']})")
     return raid_ids, dungeon_ids
 
-
-def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: str) -> str:
+def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str) -> tuple[list[tuple[int,int]], dict[str,int]]:
     """
-    Fetches the top-100 character rankings JSON blob,
-    parses it, aggregates talent picks, and returns
-    a SimC override string of the most-popular points
-    for each talentID.
+    Fetches top-100 rankings for each encounter, aggregates:
+      1) talent builds (list of (talentID, points))
+      2) gear (most-common item per slot)
+    Returns (popular_build, top_gear_map).
     """
     query = """
-    query TopBuild($encID: Int!, $class: String!, $spec: String!) {
+    query TopData($encID: Int!, $class: String!, $spec: String!) {
       worldData {
         encounter(id: $encID) {
           characterRankings(
@@ -232,46 +231,54 @@ def fetch_top_talents(token: str, encIDs: list[int], className: str, specName: s
             specName:         $spec
             leaderboard:     LogsOnly
             includeCombatantInfo: true
-          )
+          ) {
+            rankings {
+              talents {
+                talentID
+                points
+              }
+              gear {
+                slot
+                id
+              }
+            }
+          }
         }
       }
     }
     """
 
-
-    headers   = {"Authorization": f"Bearer {token}"}
-
-
+    headers = {"Authorization": f"Bearer {token}"}
     all_builds: list[tuple[tuple[tuple[int,int],...], int]] = []
+    slot_counters: dict[str, Counter[int]] = defaultdict(Counter)
+
     for encID in encIDs:
         variables = {"encID": encID, "class": className, "spec": specName}
         resp = request_with_backoff("post", GRAPHQL_URL, headers=headers, json={"query": query, "variables": variables})
         resp.raise_for_status()
-        for entry in resp.json()["data"]["worldData"]["encounter"]["characterRankings"]["rankings"]:
-            # build = sorted list of (talentID, points)
+        rankings = resp.json()["data"]["worldData"]["encounter"]["characterRankings"]["rankings"]
+        for entry in rankings:
+            # accumulate talents
             talents = tuple(sorted((t["talentID"], t["points"]) for t in entry["talents"]))
             total_pts = sum(p for _, p in talents)
             all_builds.append((talents, total_pts))
 
-    if not all_builds:
-        raise RuntimeError("No builds returned from WCL")
+            # accumulate gear
+            for g in entry.get("gear", []):
+                slot_counters[g["slot"]][int(g["id"])] += 1
 
-    # 5) Determine the cap (max points)
-    max_points = max(total for _, total in all_builds)
+    # Determine most-popular full-build (as before)
+    max_pts = max(total for _, total in all_builds)
+    valid = [b for b, tot in all_builds if tot == max_pts]
+    popular_build, _ = Counter(valid).most_common(1)[0]
 
-    # 6) Keep only builds that spent all points
-    valid_builds = [talents for talents, total in all_builds if total == max_points]
-    if not valid_builds:
-        raise RuntimeError(f"No builds found spending all {max_points} points")
+    # Determine top gear per slot
+    top_gear: dict[str,int] = {}
+    for slot, cnt in slot_counters.items():
+        if cnt:
+            top_gear[slot] = cnt.most_common(1)[0][0]
 
-    # 7) Find the single most-popular full build
-    build_counter = Counter(valid_builds)
-    popular_build, count = build_counter.most_common(1)[0]
-    print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Found {len(build_counter)} unique builds, most popular: {count}")
-
-    return popular_build
-
-
+    return popular_build, top_gear
 
 def to_snake(name: str) -> str:
     """
@@ -284,6 +291,28 @@ def to_snake(name: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "_", s)
     s = re.sub(r"_+", "_", s).strip("_")
     return s
+
+def inject_gear_overrides(text: str, gear_map: dict[str,int]) -> str:
+    """
+    Builds a 'gear=' override line from gear_map (slot=itemID) and
+    replaces/inserts it into the profile.
+    """
+    # build a comma-separated list like "head=229253,neck=203128,..."
+    gear_parts = [f"{slot}={item_id}" for slot, item_id in gear_map.items()]
+    gear_line = "gear=" + ",".join(gear_parts)
+
+    # replace existing gear= line if present
+    pattern = re.compile(r"(?m)^gear=.*$")
+    if pattern.search(text):
+        return pattern.sub(gear_line, text)
+    # otherwise insert after class/spec block
+    insert_match = re.search(r"(?m)^(class=.*|spec=.*)$", text)
+    if insert_match:
+        insert_pos = insert_match.end()
+        return text[:insert_pos] + "\n" + gear_line + text[insert_pos:]
+    # fallback: prepend
+    return gear_line + "\n" + text
+
 
 def split_tree_overrides(pairs: list[tuple[int,int]]):
     class_pts, spec_pts, hero_pts = [], [], []
@@ -543,12 +572,15 @@ def prepare_matrix():
         cls = cfg["classSlug"]; spec = cfg["specSlug"]
 
         # fetch top talents & inject
-        raid_build = fetch_top_talents(wcl_token, raid_ids, cls, spec)
-        dung_build = fetch_top_talents(wcl_token, dungeon_ids, cls, spec)
+        raid_build, raid_gear = fetch_top_data(wcl_token, raid_ids, cls, spec)
+        dung_build, dung_gear = fetch_top_data(wcl_token, dungeon_ids, cls, spec)
         rcls, rspec, rhero = split_tree_overrides(raid_build)
         dcls, dspec, dhero = split_tree_overrides(dung_build)
         prof_raid = inject_overrides(text, rcls, rspec, rhero)
+        prof_raid = inject_gear_overrides(prof_raid, raid_gear)
+
         prof_dung = inject_overrides(text, dcls, dspec, dhero)
+        prof_dung = inject_gear_overrides(prof_dung, dung_gear)
 
         for nt in TARGET_COUNTS:
             prof = prof_raid if nt==1 else prof_dung
