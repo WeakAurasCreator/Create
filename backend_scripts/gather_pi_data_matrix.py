@@ -362,56 +362,49 @@ def to_snake(name: str) -> str:
 
 def inject_gear_overrides(text: str, gear_map: dict[str, dict]) -> str:
     """
-    Builds a 'gear=' override line from gear_map, where each value is a dict:
-      {
-        "id": int,
-        "name": str,
-        "bonusIDs": tuple[str,…],
-        "gems": tuple[str,…],
-        "permanentEnchant": str,
-        "temporaryEnchant": str
-      }
-    and replaces/inserts it into the profile.
+    Inserts gear slot overrides in the format:
+    slot=slug,id=...,bonus_id=...,... (each on its own line, no gear= prefix)
+    Replaces existing lines starting with slot=… if found.
     """
-    parts = []
+    lines = []
     for slot, info in gear_map.items():
-        # Create a slug from the item name
-        print(info.get("name", ""))
         slug = to_snake(info.get("name", ""))
-
-        # Start with slot=slug,id=…
         segs = [f"{slot}={slug}", f"id={info['id']}"]
 
-        # bonus_id=… (slash‐sep)
         if info.get("bonusIDs"):
             segs.append("bonus_id=" + "/".join(info["bonusIDs"]))
-
-        # gem_id=… (slash‐sep)
         if info.get("gems"):
             segs.append("gem_id=" + "/".join(info["gems"]))
 
-        # choose enchant: permanent if present, else temporary
-        ench = info.get("permanentEnchant") or info.get("temporaryEnchant")
-        if ench:
-            segs.append("enchant_id=" + str(ench))
+        # Prefer readable enchant string if present
+        if "permanentEnchant" in info and info["permanentEnchant"]:
+            segs.append("enchant=" + to_snake(info["permanentEnchant"]))
+        elif "temporaryEnchant" in info and info["temporaryEnchant"]:
+            segs.append("enchant_id=" + str(info["temporaryEnchant"]))
 
-        parts.append(",".join(segs))
+        # Optional crafted stats?
+        if "craftedStats" in info and info["craftedStats"]:
+            segs.append("crafted_stats=" + "/".join(info["craftedStats"]))
 
-    gear_line = "gear=" + ",".join(parts)
+        lines.append(",".join(segs))
 
-    # replace existing gear= line if present
-    pattern = re.compile(r"(?m)^gear=.*$")
-    if pattern.search(text):
-        return pattern.sub(gear_line, text)
+    # Build the block to insert
+    gear_block = "\n".join(lines)
 
-    # otherwise insert after the class/spec block
-    insert_match = re.search(r"(?m)^(class=.*|spec=.*)$", text)
-    if insert_match:
-        pos = insert_match.end()
-        return text[:pos] + "\n" + gear_line + text[pos:]
+    # Remove any existing lines that look like gear overrides
+    # Match lines starting with one of the known gear slot names
+    slot_pattern = re.compile(r"(?m)^(head|neck|shoulders|back|chest|wrists|hands|waist|legs|feet|finger1|finger2|trinket1|trinket2|main_hand|off_hand)=.*$")
+    text = slot_pattern.sub("", text).strip()
 
-    # fallback: prepend at top
-    return gear_line + "\n" + text
+    # Insert after the spec= line if found
+    spec_match = re.search(r"(?m)^spec=.*$", text)
+    if spec_match:
+        insert_pos = spec_match.end()
+        return text[:insert_pos] + "\n" + gear_block + "\n" + text[insert_pos:].lstrip()
+
+    # Fallback: append to the end
+    return text.rstrip() + "\n" + gear_block + "\n"
+
 
 
 
