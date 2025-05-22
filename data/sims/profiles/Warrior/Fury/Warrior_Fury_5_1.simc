@@ -5,7 +5,7 @@ head=enforcers_backalley_faceshield,id=229235,bonus_id=10255/10390/11960/12176/1
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213743
 shoulder=enforcers_backalley_shoulderplates,id=229233,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=enforcers_backalley_vestplate,id=229238,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
-waist=lightning_conductors_bands,id=221040,bonus_id=10255/10383/10390/11964/11996/12176/3170/6652
+waist=lightningconductors_bands,id=221040,bonus_id=10255/10383/10390/11964/12176/12372/3163/6652
 legs=enforcers_backalley_chausses,id=229234,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7595
 feet=riks_walkin_boots,id=228874,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7424
 wrist=everforged_vambraces,id=222435,bonus_id=10421/11304/12040/12043/12176/12373/8793/8902/8960/9627/9633,enchant_id=7385

@@ -6,13 +6,13 @@ neck=flickering_glowtorc,id=221103,bonus_id=10255/10383/10390/10396/10879/11988/
 shoulder=aspectral_emissarys_arcane_vents,id=229341,bonus_id=10255/10390/11962/11996/12179/1527/6652
 shirt=lucky_shirt,id=138385
 robe=aspectral_emissarys_primal_robes,id=229346,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant_id=7364
-waist=tune_up_toolbelt,id=228861,bonus_id=10255/10356/11996/11998/12176/1527/6652
+waist=tuneup_toolbelt,id=228861,bonus_id=10255/10356/11996/11998/12176/1527/6652
 legs=aspectral_emissarys_trousers,id=229342,bonus_id=10255/10390/11961/11996/12178/1527/6652,enchant_id=7534
 feet=consecrated_slippers,id=222814,bonus_id=10421/11304/12040/12043/8792/8902/8960/9627/9633,enchant_id=7424
 wrist=contaminated_gauze_wristwraps,id=178806,bonus_id=10255/10383/10390/11964/11988/12176/6652/9967,enchant_id=7385
 hands=aspectral_emissarys_hardened_grasp,id=229344,bonus_id=10255/10390/11959/11996/12179/1527/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/8792/8902/8960/9627/9633,enchant_id=7403
-held_in_offhand=superfans_beater_buzzer,id=228890,bonus_id=10255/10356/11996/1527/6652
+held_in_offhand=superfans_beaterbuzzer,id=228890,bonus_id=10255/10356/11996/1527/6652
 main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/11996/1527/6652,enchant_id=7463
 tabard=tabard_of_the_lightbringer,id=52252
 chest=zealous_wardens_raiment,id=221126,bonus_id=10255/10383/10390/11964/11990/3157/40,enchant_id=7364

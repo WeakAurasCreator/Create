@@ -8,13 +8,13 @@ shirt=preciouss_ribbon,id=52019
 chest=spectral_gamblers_vest,id=229292,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
 waist=competitors_battle_cord,id=228856,bonus_id=10255/10356/11998/12055/12376/1533/6652,gem_id=213497
 legs=spectral_gamblers_pantaloons,id=229288,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7601
-feet=rune_branded_kickers,id=219327,bonus_id=10421/10520/12040/12043/12373/8794/8902/8960/9627/9633,enchant_id=7424
-wrist=hustlers_ante_uppers,id=228885,bonus_id=10255/10355/11967/11990/12176/1514/6652,enchant_id=7385
+feet=runebranded_kickers,id=219327,bonus_id=10421/10520/12040/12043/12373/8794/8902/8960/9627/9633,enchant_id=7424
+wrist=hustlers_anteuppers,id=228885,bonus_id=10255/10355/11967/11990/12176/1514/6652,enchant_id=7385
 hands=enforcers_sticky_fingers,id=228863,bonus_id=10255/10356/11998/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/10520/12040/12043/12373/8794/8902/8960/9627/9633,enchant_id=7403
 tabard=renowned_guild_tabard,id=69210
-main_hand=pyrotechnic_needle_dropper,id=228897,bonus_id=10255/10356/12376/1533/6652,enchant_id=7460
-off_hand=pyrotechnic_needle_dropper,id=228897,bonus_id=10255/10356/11996/1527/6652,enchant_id=7460
+main_hand=pyrotechnic_needledropper,id=228897,bonus_id=10255/10356/12376/1533/6652,enchant_id=7460
+off_hand=pyrotechnic_needledropper,id=228897,bonus_id=10255/10356/11996/1527/6652,enchant_id=7460
 finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7346
 finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213473/213473,enchant_id=7352
 trinket1=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652

@@ -5,13 +5,13 @@ head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/1
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213467/213743
 shoulder=aspectral_emissarys_arcane_vents,id=229341,bonus_id=10255/10390/11962/12179/12376/1533/6652
 robe=aspectral_emissarys_primal_robes,id=229346,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
-waist=tune_up_toolbelt,id=228861,bonus_id=10255/10356/11998/12176/12376/1533/6652
+waist=tuneup_toolbelt,id=228861,bonus_id=10255/10356/11998/12176/12376/1533/6652
 legs=aspectral_emissarys_trousers,id=229342,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7534
 feet=consecrated_slippers,id=222814,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant_id=7424
 wrist=aspectral_emissarys_gembands,id=229339,bonus_id=10255/10356/12176/12376/1533/6652/8095,enchant_id=7385
 hands=aspectral_emissarys_hardened_grasp,id=229344,bonus_id=10255/10356/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant_id=7403
-held_in_offhand=superfans_beater_buzzer,id=228890,bonus_id=10255/10356/12376/1533/6652
+held_in_offhand=superfans_beaterbuzzer,id=228890,bonus_id=10255/10356/12376/1533/6652
 tabard=tabard_of_the_lightbringer,id=52252
 shirt=fashionable_undershirt,id=151116
 main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/12376/1533/6652,enchant_id=7448

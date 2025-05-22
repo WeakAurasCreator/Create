@@ -2,11 +2,11 @@ warlock="TWW2_Warlock_Demonology_Diabolist"
 source=default
 spec=demonology
 head=spliced_fiendtraders_transcendence,id=229325,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652
-neck=semi_charmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213743
+neck=semicharmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213743
 shoulder=spliced_fiendtraders_loyal_servants,id=229323,bonus_id=10255/10390/11962/12179/12376/1533/6652
 shirt=fashionable_undershirt,id=151116
 robe=spliced_fiendtraders_surgical_gown,id=229328,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
-waist=tune_up_toolbelt,id=228861,bonus_id=10255/10356/11998/12176/12376/1533/6652
+waist=tuneup_toolbelt,id=228861,bonus_id=10255/10356/11998/12176/12376/1533/6652
 legs=spliced_fiendtraders_skin_tights,id=229324,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7534
 feet=spliced_fiendtraders_soles,id=229327,bonus_id=10255/10356/12376/1533/6652/8095,enchant_id=7424
 wrist=underparty_admission_bracelet,id=228857,bonus_id=10255/10356/11998/12176/12376/1533/6652,enchant_id=7385

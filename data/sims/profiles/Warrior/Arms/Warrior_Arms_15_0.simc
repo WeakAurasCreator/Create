@@ -2,7 +2,7 @@ warrior="TWW2_Warrior_Arms"
 source=default
 spec=arms
 head=enforcers_backalley_faceshield,id=229235,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652
-neck=semi_charmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213455/213743
+neck=semicharmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213455/213743
 shoulder=enforcers_backalley_shoulderplates,id=229233,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=enforcers_backalley_vestplate,id=229238,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
 waist=enforcers_backalley_girdle,id=229232,bonus_id=10255/10356/12176/12376/1533/6652/8095
@@ -11,7 +11,7 @@ feet=riks_walkin_boots,id=228874,bonus_id=10255/10356/11998/12376/1533/6652,ench
 wrist=everforged_vambraces,id=222435,bonus_id=10421/11303/12040/12043/12176/12373/8790/8902/8960/9627/9633,enchant_id=7385
 hands=enforcers_backalley_crushers,id=229236,bonus_id=10255/10390/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8790/8902/8960/9627/9633,enchant_id=7403
-main_hand=best_in_slots,id=232526,bonus_id=10255/10356/12376/1533/6652/9418,enchant_id=7439
+main_hand=bestinslots,id=232526,bonus_id=10255/10356/12376/1533/6652/9418,enchant_id=7439
 shirt=preciouss_ribbon,id=52019
 tabard=tabard_of_the_lightbringer,id=52252
 finger1=the_jastor_diamond,id=231265,bonus_id=10255/10355/10396/10879/12372/1520/6652,gem_id=213455/213455,enchant_id=7334

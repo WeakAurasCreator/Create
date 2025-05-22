@@ -2,7 +2,7 @@ warlock="TWW2_Warlock_Destruction_Diabolist"
 source=default
 spec=destruction
 head=spliced_fiendtraders_transcendence,id=229325,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652
-neck=semi_charmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213743
+neck=semicharmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213743
 shoulder=spliced_fiendtraders_loyal_servants,id=229323,bonus_id=10255/10390/11962/12179/12376/1533/6652
 robe=spliced_fiendtraders_surgical_gown,id=229328,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
 waist=refiners_conveyor_belt,id=228882,bonus_id=10255/10356/11998/12176/12376/1533/6652

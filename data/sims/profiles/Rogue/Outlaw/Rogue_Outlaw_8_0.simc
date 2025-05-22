@@ -9,7 +9,7 @@ chest=spectral_gamblers_vest,id=229292,bonus_id=10255/10390/11958/12178/12376/15
 waist=competitors_battle_cord,id=228856,bonus_id=10255/10356/11998/12176/12376/1533/6652
 legs=spectral_gamblers_pantaloons,id=229288,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7601
 feet=spectral_gamblers_cavaliers,id=229291,bonus_id=10255/10356/12376/1533/6652/8095,enchant_id=7424
-wrist=rune_branded_armbands,id=219334,bonus_id=10421/10520/12040/12043/12176/12373/8792/8902/8960/9627/9633,enchant_id=7385
+wrist=runebranded_armbands,id=219334,bonus_id=10421/10520/12040/12043/12176/12373/8792/8902/8960/9627/9633,enchant_id=7385
 hands=spectral_gamblers_gloves,id=229290,bonus_id=10255/10390/11959/12179/12376/1533/6652
 back=trashmasters_mantle,id=199921,bonus_id=10255/10383/10390/11346/11964/12376/6652,enchant_id=7403
 tabard=renowned_guild_tabard,id=69210

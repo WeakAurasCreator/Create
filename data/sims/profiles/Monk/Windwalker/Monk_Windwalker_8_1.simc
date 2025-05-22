@@ -6,10 +6,10 @@ neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/
 shoulder=ageless_serpents_shoulderpads,id=229296,bonus_id=10255/10390/11962/12179/12376/1533/6652
 shirt=fashionable_undershirt,id=151116
 chest=ageless_serpents_inked_coils,id=229301,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
-waist=rune_branded_waistband,id=219331,bonus_id=10421/11304/12040/12043/12176/8793/8902/8960/9627/9633
-legs=flame_seared_leggings,id=168968,bonus_id=10255/10383/10390/11346/11964/12376/6652,enchant_id=7601
+waist=runebranded_waistband,id=219331,bonus_id=10421/11304/12040/12043/12176/8793/8902/8960/9627/9633
+legs=flameseared_leggings,id=168968,bonus_id=10255/10383/10390/11346/11964/12376/6652,enchant_id=7601
 feet=dragsters_last_stride,id=228876,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7424
-wrist=rune_branded_armbands,id=219334,bonus_id=10421/11304/12040/12043/12176/8793/8902/8960/9627/9633,enchant_id=7385
+wrist=runebranded_armbands,id=219334,bonus_id=10421/11304/12040/12043/12176/8793/8902/8960/9627/9633,enchant_id=7385
 hands=ageless_serpents_handguards,id=229299,bonus_id=10255/10390/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7403
 main_hand=everforged_mace,id=222442,bonus_id=10421/12040/12043/8793/8902/9627/9633,enchant_id=7463

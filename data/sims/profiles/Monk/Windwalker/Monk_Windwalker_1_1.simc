@@ -9,7 +9,7 @@ chest=ageless_serpents_inked_coils,id=229301,bonus_id=10255/10390/11958/12178/12
 waist=competitors_battle_cord,id=228856,bonus_id=10255/10356/11998/12176/12376/1533/6652
 legs=bilgerats_discarded_slacks,id=228854,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7601
 feet=dragsters_last_stride,id=228876,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7424
-wrist=rune_branded_armbands,id=219334,bonus_id=10421/11304/12040/12043/12056/12373/8793/8902/8960/9627/9633,gem_id=213494,enchant_id=7385
+wrist=runebranded_armbands,id=219334,bonus_id=10421/11304/12040/12043/12056/12373/8793/8902/8960/9627/9633,gem_id=213494,enchant_id=7385
 hands=ageless_serpents_handguards,id=229299,bonus_id=10255/10356/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7403
 main_hand=capos_molten_knuckles,id=232804,bonus_id=10255/10356/12376/1533/6652,enchant_id=7460

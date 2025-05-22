@@ -2,7 +2,7 @@ priest="TWW2_Priest_Shadow_Voidweaver"
 source=default
 spec=shadow
 head=confessors_unshakable_halo,id=229334,bonus_id=10255/10390/11960/11996/12176/12178/1527/6652
-neck=strapped_rescue_keg,id=221060,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213494/213746
+neck=strapped_rescuekeg,id=221060,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213494/213746
 shoulder=confessors_unshakable_radiance,id=229332,bonus_id=10255/10390/11962/11996/12179/1527/6652
 chest=confessors_unshakable_vestment,id=229337,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant_id=7364
 waist=consecrated_cord,id=222816,bonus_id=10421/12040/12043/12176/8793/8902/9627/9633

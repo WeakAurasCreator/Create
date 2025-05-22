@@ -2,7 +2,7 @@ mage="TWW2_Mage_Fire_Frostfire"
 source=default
 spec=fire
 head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/11996/12176/12178/1527/6652
-neck=strapped_rescue_keg,id=221060,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213482/213743
+neck=strapped_rescuekeg,id=221060,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213482/213743
 shoulder=aspectral_emissarys_arcane_vents,id=229341,bonus_id=10255/10390/11962/11996/12179/1527/6652
 shirt=fashionable_undershirt,id=151116
 robe=aspectral_emissarys_primal_robes,id=229346,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant_id=7364
