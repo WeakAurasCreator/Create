@@ -282,6 +282,7 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
     headers = {"Authorization": f"Bearer {token}"}
     all_builds: list[tuple[tuple[tuple[int,int],...], int]] = []
     slot_counters: dict[str, Counter[int]] = defaultdict(Counter)
+    gear_variants: dict[tuple, dict] = {}
     dual_wield = False
 
     for encID in encIDs:
@@ -299,8 +300,22 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
                 if g["id"] :
                     item_id = int(g["id"])
                     slot = item_id_to_slot.get(item_id)
-                    if slot:
-                        slot_counters[slot][item_id] += 1
+                    if not slot:
+                        continue
+                    bonuses = tuple(sorted(str(b) for b in g.get("bonusIDs", [])))
+                    gems    = tuple(sorted(str(x["id"]) for x in g.get("gems", [])))
+                    perm    = g.get("permanentEnchant") or ""
+                    temp    = g.get("temporaryEnchant") or ""
+                    variant_key = (item_id, bonuses, gems, perm, temp)
+                    slot_counters[slot][variant_key] += 1
+                    if variant_key not in gear_variants:
+                        gear_variants[variant_key] = {
+                            "id":               item_id,
+                            "bonusIDs":         bonuses,
+                            "gems":             gems,
+                            "permanentEnchant": perm,
+                            "temporaryEnchant": temp
+                        }
                     if slot == "one_hand":
                         one_hand_count += 1
             if one_hand_count >= 2:
@@ -312,11 +327,13 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
     popular_build, _ = Counter(valid).most_common(1)[0]
 
     # Determine top gear per slot
-    top_gear = {
-        slot: counter.most_common(1)[0][0]
-        for slot, counter in slot_counters.items()
-        if counter
-    }
+    top_gear: dict[str, dict] = {}
+    for slot, counter in slot_counters.items():
+        if not counter:
+            continue
+        top_variant = counter.most_common(1)[0][0]
+        top_gear[slot] = gear_variants[top_variant]
+
     if "one_hand" in slot_counters:
         common = slot_counters["one_hand"].most_common(2)
         if dual_wield:
@@ -342,26 +359,58 @@ def to_snake(name: str) -> str:
     s = re.sub(r"_+", "_", s).strip("_")
     return s
 
-def inject_gear_overrides(text: str, gear_map: dict[str,int]) -> str:
+def inject_gear_overrides(text: str, gear_map: dict[str, dict]) -> str:
     """
-    Builds a 'gear=' override line from gear_map (slot=itemID) and
-    replaces/inserts it into the profile.
+    Builds a 'gear=' override line from gear_map, where each value is a dict:
+      {
+        "id": int,
+        "name": str,
+        "bonusIDs": tuple[str,…],
+        "gems": tuple[str,…],
+        "permanentEnchant": str,
+        "temporaryEnchant": str
+      }
+    and replaces/inserts it into the profile.
     """
-    # build a comma-separated list like "head=229253,neck=203128,..."
-    gear_parts = [f"{slot}={item_id}" for slot, item_id in gear_map.items()]
-    gear_line = "gear=" + ",".join(gear_parts)
+    parts = []
+    for slot, info in gear_map.items():
+        # Create a slug from the item name
+        slug = to_snake(info.get("name", ""))
+
+        # Start with slot=slug,id=…
+        segs = [f"{slot}={slug}", f"id={info['id']}"]
+
+        # bonus_id=… (slash‐sep)
+        if info.get("bonusIDs"):
+            segs.append("bonus_id=" + "/".join(info["bonusIDs"]))
+
+        # gem_id=… (slash‐sep)
+        if info.get("gems"):
+            segs.append("gem_id=" + "/".join(info["gems"]))
+
+        # choose enchant: permanent if present, else temporary
+        ench = info.get("permanentEnchant") or info.get("temporaryEnchant")
+        if ench:
+            segs.append("enchant_id=" + str(ench))
+
+        parts.append(",".join(segs))
+
+    gear_line = "gear=" + ",".join(parts)
 
     # replace existing gear= line if present
     pattern = re.compile(r"(?m)^gear=.*$")
     if pattern.search(text):
         return pattern.sub(gear_line, text)
-    # otherwise insert after class/spec block
+
+    # otherwise insert after the class/spec block
     insert_match = re.search(r"(?m)^(class=.*|spec=.*)$", text)
     if insert_match:
-        insert_pos = insert_match.end()
-        return text[:insert_pos] + "\n" + gear_line + text[insert_pos:]
-    # fallback: prepend
+        pos = insert_match.end()
+        return text[:pos] + "\n" + gear_line + text[pos:]
+
+    # fallback: prepend at top
     return gear_line + "\n" + text
+
 
 
 def split_tree_overrides(pairs: list[tuple[int,int]]):
