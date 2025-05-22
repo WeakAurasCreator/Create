@@ -312,6 +312,7 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
                         gear_variants[variant_key] = {
                             "id":               item_id,
                             "bonusIDs":         bonuses,
+                            "name":             g.get("name", ""),
                             "gems":             gems,
                             "permanentEnchant": perm,
                             "temporaryEnchant": temp
@@ -339,10 +340,10 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
         if dual_wield:
             main_id = common[0][0]
             off_id  = common[1][0] if len(common) > 1 else main_id
-            top_gear["main_hand"] = main_id
-            top_gear["off_hand"]  = off_id
+            top_gear["main_hand"] = gear_variants[main_id]
+            top_gear["off_hand"]  = gear_variants[off_id]
         else:
-            top_gear["main_hand"] = common[0][0]
+            top_gear["main_hand"] = gear_variants[common[0][0]]
         del top_gear["one_hand"]
 
     return popular_build, top_gear
