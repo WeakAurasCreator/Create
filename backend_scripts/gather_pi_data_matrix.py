@@ -377,20 +377,22 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
 
 def to_snake(name: str) -> str:
     """
-    Convert a display name like "Pillar of Frost" or "Dark Transformation"
-    into snake_case: "pillar_of_frost", "dark_transformation".
+    Convert a display name into snake_case, with special handling:
+      - "Gambler's-Gloves" → "gamblers_gloves"
+      - Internal hyphens are removed (not turned into underscores)
     """
-    # Lowercase, strip any punctuation, then replace non-alphanum runs with underscores
-    
     s = name.strip().lower()
-    # 1) turn "'s" into "s"
+    # 1) Turn "'s" or "’s" into "s"
     s = re.sub(r"[’']s\b", "s", s)
-    # 2) remove any remaining apostrophes
+    # 2) Remove any remaining apostrophes
     s = re.sub(r"[’']", "", s)
-    # 3) replace non-alphanumeric runs with underscore
+    # 3) Remove internal hyphens (so we don't end up with extra underscores)
+    s = re.sub(r"-+", "", s)
+    # 4) Replace any other non-alphanumeric runs with a single underscore
     s = re.sub(r"[^a-z0-9]+", "_", s)
-    # 4) collapse multiple underscores and strip
+    # 5) Collapse multiple underscores and strip edge underscores
     return re.sub(r"_+", "_", s).strip("_")
+
 
 def inject_gear_overrides(text: str, gear_map: dict[str, dict]) -> str:
     """
