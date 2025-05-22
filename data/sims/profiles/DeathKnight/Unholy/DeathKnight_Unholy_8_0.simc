@@ -1,7 +1,7 @@
 deathknight="TWW2_Death_Knight_Unholy_San'layn"
 source=default
 spec=unholy
-gear=head=229253,neck=221060,shoulder=229251,chest=229256,waist=222431,legs=222434,feet=228874,wrist=222435,hands=229254,finger=231265,trinket=230027,back=222817,two_hand=232526,shirt=138385,tabard=52252
+gear=head=cauldron_champion_s_crown,id=229253,bonus_id=10255/10356/11960/12176/12178/12376/1533/6652,neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213482/213482,shoulder=cauldron_champion_s_screamplate,id=229251,bonus_id=10255/10356/11962/12179/12376/1533/6652,chest=cauldron_champion_s_ribcage,id=229256,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364,waist=coin_operated_girdle,id=228886,bonus_id=10255/10356/11998/12176/12376/1533/6652,legs=everforged_legplates,id=222434,bonus_id=10421/11304/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7601,feet=rik_s_walkin_boots,id=228874,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7424,wrist=everforged_vambraces,id=222435,bonus_id=10421/11304/12040/12043/12176/12373/8793/8902/8960/9627/9633,enchant_id=7385,hands=cauldron_champion_s_fistguards,id=229254,bonus_id=10255/10356/11959/12179/12376/1533/6652,finger=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213482/213482,enchant_id=7340,trinket=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652,back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7403,two_hand=best_in_slots,id=232526,bonus_id=10255/10356/12376/1533/6652/9418,enchant_id=3368,shirt=lucky_shirt,id=138385,tabard=tabard_of_the_lightbringer,id=52252
 level=80
 race=troll
 role=attack
