@@ -49,7 +49,7 @@ inventory_type_map = {
    14:  "off_hand",
    15:  "ranged",
    16:  "back",
-   17:  "two_hand",
+   17:  "main_hand",
    18:  "bag",
    19:  "tabard",
    20:  "robe",       
