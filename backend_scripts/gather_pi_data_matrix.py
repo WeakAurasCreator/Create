@@ -347,15 +347,31 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
         del top_gear["one_hand"]
     # handle multi-slot items
     for multi in ("finger", "trinket"):
-        if multi in slot_counters:
-            top_two = slot_counters[multi].most_common(2)
-            # assign finger1/finger2 or trinket1/trinket2
-            for idx, (variant, _) in enumerate(top_two, start=1):
-                key = f"{multi}{idx}"
-                top_gear[key] = gear_variants[variant]
-            # remove the generic slot
-            del top_gear[multi]
-            del slot_counters[multi]
+        if multi not in slot_counters:
+           raise RuntimeError(f"Missing {multi} slot in slot_counters")
+        
+        counter = slot_counters[multi]
+        seen_ids = set()
+        picked = []
+
+        # iterate in popularity order and pick up to 2 different itemIDs
+        for variant, _count in counter.most_common():
+            item_id = variant[0]
+            if item_id in seen_ids:
+                continue
+            seen_ids.add(item_id)
+            picked.append(variant)
+            if len(picked) == 2:
+                break
+
+        # assign them to numbered slots (finger1/finger2 or trinket1/trinket2)
+        for idx, variant in enumerate(picked, start=1):
+            key = f"{multi}{idx}"
+            top_gear[key] = gear_variants[variant]
+
+        # clean up the generic slot
+        top_gear.pop(multi, None)
+        slot_counters.pop(multi, None)
 
     return popular_build, top_gear
 
