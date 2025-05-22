@@ -299,17 +299,12 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
                 if g["id"] :
                     item_id = int(g["id"])
                     slot = item_id_to_slot.get(item_id)
+                    if slot:
+                        slot_counters[slot][item_id] += 1
                     if slot == "one_hand":
                         one_hand_count += 1
             if one_hand_count >= 2:
                 dual_wield = True
-
-            # accumulate gear counts
-            for g in entry.get("gear", []):
-                item_id = int(g["id"])
-                slot = item_id_to_slot.get(item_id)
-                if slot:
-                    slot_counters[slot][item_id] += 1
 
     # Determine most-popular full-build (as before)
     max_pts = max(total for _, total in all_builds)
