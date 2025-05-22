@@ -231,18 +231,7 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
             specName:         $spec
             leaderboard:     LogsOnly
             includeCombatantInfo: true
-          ) {
-            rankings {
-              talents {
-                talentID
-                points
-              }
-              gear {
-                slot
-                id
-              }
-            }
-          }
+          ) 
         }
       }
     }
