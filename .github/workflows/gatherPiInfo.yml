@@ -46,6 +46,7 @@ jobs:
   build-simc:
     name: Build SimulationCraft CLI
     runs-on: ubuntu-latest
+    if: false
 
     steps:
       - name: Checkout code
@@ -131,7 +132,7 @@ jobs:
             path: ${{ matrix.html_out }}    
 
   collect-and-commit:
-    needs: simulate
+    needs: prepare-matrix #simulate
     runs-on: ubuntu-latest
 
     steps:
@@ -141,31 +142,31 @@ jobs:
         with:
             name: simc-profiles
             path: data/sims/profiles
-      - name: Download all sim JSONs
-        uses: actions/download-artifact@v4
-        with: { path: data/sims/final_sims }
+      #- name: Download all sim JSONs
+      #  uses: actions/download-artifact@v4
+      #  with: { path: data/sims/final_sims }
 
-      - name: Flatten & regroup into per-spec dirs
-        run: |
-          set -e
-          # 1) Move all files up
-          find data/sims/final_sims -mindepth 2 -type f \
-            -exec mv {} data/sims/final_sims/ \;
-          # 2) Delete empty dirs
-          find data/sims/final_sims -mindepth 1 -type d -exec rm -rf {} +
-          # 3) Regroup by class/spec
-          mkdir -p data/sims/final_sims_grouped
-          for f in data/sims/final_sims/*.{json,html}; do
-            base=$(basename "$f")
-            cls=${base%%_*}                       # up to first underscore
-            spec=${base#*_}; spec=${spec%%_*}    # between underscores
-            dir="data/sims/final_sims_grouped/$cls/$spec"
-            mkdir -p "$dir"
-            mv "$f" "$dir/"
-          done
-          # 4) Swap in place
-          rm -rf data/sims/final_sims
-          mv data/sims/final_sims_grouped data/sims/final_sims/   
+  #    - name: Flatten & regroup into per-spec dirs
+  #      run: |
+  #        set -e
+  #        # 1) Move all files up
+  #        find data/sims/final_sims -mindepth 2 -type f \
+  #          -exec mv {} data/sims/final_sims/ \;
+  #        # 2) Delete empty dirs
+  #        find data/sims/final_sims -mindepth 1 -type d -exec rm -rf {} +
+  #        # 3) Regroup by class/spec
+  #        mkdir -p data/sims/final_sims_grouped
+  #        for f in data/sims/final_sims/*.{json,html}; do
+  #          base=$(basename "$f")
+  #          cls=${base%%_*}                       # up to first underscore
+  #          spec=${base#*_}; spec=${spec%%_*}    # between underscores
+  #          dir="data/sims/final_sims_grouped/$cls/$spec"
+  #          mkdir -p "$dir"
+  #          mv "$f" "$dir/"
+  #        done
+  #        # 4) Swap in place
+  #        rm -rf data/sims/final_sims
+  #        mv data/sims/final_sims_grouped data/sims/final_sims/   
 
       - name: Regroup simc profiles into class/spec subfolders
         run: |
@@ -188,18 +189,18 @@ jobs:
           echo "=== File list ==="
           find data/sims -type f    -print    
 
-      - name: Stage all sim outputs
-        run: |
-          git add data/sims/final_sims/**/*.json
-          git add data/sims/final_sims/**/*.html
+  #    - name: Stage all sim outputs
+  #      run: |
+  #        git add data/sims/final_sims/**/*.json
+  #        git add data/sims/final_sims/**/*.html
 
       - name: Auto-commit & push   
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: |
             :(glob)data/sims/profiles/**/*.simc
-            :(glob)data/sims/final_sims/**/*.json
-            :(glob)data/sims/final_sims/**/*.html
+   #         :(glob)data/sims/final_sims/**/*.json
+   #         :(glob)data/sims/final_sims/**/*.html
           disable_globbing: true
           commit_message: "Updated simulation outputs"
              
