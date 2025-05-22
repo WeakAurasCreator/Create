@@ -381,11 +381,16 @@ def to_snake(name: str) -> str:
     into snake_case: "pillar_of_frost", "dark_transformation".
     """
     # Lowercase, strip any punctuation, then replace non-alphanum runs with underscores
-    import re
+    
     s = name.strip().lower()
+    # 1) turn "'s" into "s"
+    s = re.sub(r"[’']s\b", "s", s)
+    # 2) remove any remaining apostrophes
+    s = re.sub(r"[’']", "", s)
+    # 3) replace non-alphanumeric runs with underscore
     s = re.sub(r"[^a-z0-9]+", "_", s)
-    s = re.sub(r"_+", "_", s).strip("_")
-    return s
+    # 4) collapse multiple underscores and strip
+    return re.sub(r"_+", "_", s).strip("_")
 
 def inject_gear_overrides(text: str, gear_map: dict[str, dict]) -> str:
     """
