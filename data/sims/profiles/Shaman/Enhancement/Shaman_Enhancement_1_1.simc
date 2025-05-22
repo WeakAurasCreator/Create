@@ -1,7 +1,7 @@
 shaman="TWW2_Shaman_Enhancement"
 source=default
 spec=enhancement
-head=gale_sovereign_s_charged_hood,id=229262,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213482,enchant=7931
+head=gale_sovereign_s_charged_hood,id=229262,bonus_id=10255/10356/11960/12055/12178/12376/1533/6652/8095,gem_id=213494
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213482/213482
 shoulder=gale_sovereign_s_zephyrs,id=229260,bonus_id=10255/10356/11962/12179/12376/1533/6652
 robe=gale_sovereign_s_clouded_hauberk,id=229265,bonus_id=10255/10356/11958/12178/12376/1533/6652/8095,enchant=7364

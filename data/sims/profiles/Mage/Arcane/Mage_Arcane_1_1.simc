@@ -13,8 +13,8 @@ hands=aspectral_emissary_s_hardened_grasp,id=229344,bonus_id=10255/10356/11959/1
 back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant=7403
 held_in_offhand=vagabond_s_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8792/8902/8960/9627/9633
 shirt=lucky_shirt,id=138385
-two_hand=neural_synapse_enhancer,id=168973,bonus_id=10255/10384/10390/11346/12376/6652,enchant=7460
 tabard=tabard_of_the_lightbringer,id=52252
+two_hand=neural_synapse_enhancer,id=168973,bonus_id=10255/10384/10390/11346/12376/6652,enchant=7460
 chest=zealous_warden_s_raiment,id=221126,bonus_id=10255/10383/10390/11964/12376/3176/6652,enchant=7364
 main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/12376/1533/6652,enchant=7460
 finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7352
