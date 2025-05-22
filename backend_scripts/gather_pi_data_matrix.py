@@ -32,12 +32,54 @@ PROFILE_PATH.mkdir(parents=True, exist_ok=True)
 FINAL_SIM_PATH.mkdir(parents=True, exist_ok=True)
 TARGET_COUNTS = [1, 3, 5, 8, 15]
 
+inventory_type_map = {
+    1:  "head",
+    2:  "neck",
+    3:  "shoulder",
+    4:  "shirt",
+    5:  "chest",
+    6:  "waist",
+    7:  "legs",
+    8:  "feet",
+    9:  "wrist",
+   10:  "hands",
+   11:  "finger",     
+   12:  "trinket",
+   13:  "one_hand",
+   14:  "off_hand",
+   15:  "ranged",
+   16:  "back",
+   17:  "two_hand",
+   18:  "bag",
+   19:  "tabard",
+   20:  "robe",       
+   21:  "main_hand",  
+   22:  "off_hand",  
+   23:  "held_in_offhand",
+}
+
 # Load manual slug → class/spec map
 with open(CONFIG_PATH) as f:
     PROFILE_MAP = {k.lower(): v for k, v in json.load(f).items()}
 
 with open(Path("data")/"talents"/"talents.json") as f:
     talents_data = json.load(f)
+
+with open("equippable-items.json", "r", encoding="utf-8") as f:
+    raidbots_items = json.load(f)
+
+item_id_to_slot: dict[int,str] = {}
+for item in raidbots_items:
+    inv = item.get("inventoryType")
+    slot = inventory_type_map.get(inv)
+    if slot:
+        item_id_to_slot[item["id"]] = slot
+    else:
+        # fallback: try to deduce from itemClass/itemSubClass if needed
+        # e.g. itemClass==4 (Armor), itemSubClass==4 (Plate) & inv=1 → head
+        # but for now we can skip unmapped codes or log them
+        print(f"⚠️ Unmapped inventoryType {inv} for item {item['id']}")
+
 
 # Map each Raidbots entry.id to its tree index: 0=class, 1=spec, 2=hero
 talent_tree_map: dict[int,int] = {}
@@ -240,6 +282,7 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
     headers = {"Authorization": f"Bearer {token}"}
     all_builds: list[tuple[tuple[tuple[int,int],...], int]] = []
     slot_counters: dict[str, Counter[int]] = defaultdict(Counter)
+    dual_wield = False
 
     for encID in encIDs:
         variables = {"encID": encID, "class": className, "spec": specName}
@@ -251,10 +294,21 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
             talents = tuple(sorted((t["talentID"], t["points"]) for t in entry["talents"]))
             total_pts = sum(p for _, p in talents)
             all_builds.append((talents, total_pts))
-
-            # accumulate gear
+            one_hand_count = 0
             for g in entry.get("gear", []):
-                slot_counters[g["slot"]][int(g["id"])] += 1
+                item_id = int(g["id"])
+                slot = item_id_to_slot.get(item_id)
+                if slot == "one_hand":
+                    one_hand_count += 1
+            if one_hand_count >= 2:
+                dual_wield = True
+
+            # accumulate gear counts
+            for g in entry.get("gear", []):
+                item_id = int(g["id"])
+                slot = item_id_to_slot.get(item_id)
+                if slot:
+                    slot_counters[slot][item_id] += 1
 
     # Determine most-popular full-build (as before)
     max_pts = max(total for _, total in all_builds)
@@ -262,10 +316,11 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
     popular_build, _ = Counter(valid).most_common(1)[0]
 
     # Determine top gear per slot
-    top_gear: dict[str,int] = {}
-    for slot, cnt in slot_counters.items():
-        if cnt:
-            top_gear[slot] = cnt.most_common(1)[0][0]
+    top_gear = {
+        slot: counter.most_common(1)[0][0]
+        for slot, counter in slot_counters.items()
+        if counter
+    }
 
     return popular_build, top_gear
 

@@ -33,6 +33,7 @@ jobs:
           curl -L "https://wago.tools/db2/JournalSectionXDifficulty/csv?product=wow" -o data/JournalSectionXDifficulty.csv
           curl -L "https://wago.tools/db2/Difficulty/csv?product=wow" -o data/Difficulty.csv
           curl -L "https://www.raidbots.com/static/data/live/metadata.json" -o data/metadata.json
+          curl -L "https://www.raidbots.com/static/data/live/equippable-items.json" -o data/equippable-items.json
 
 
       - name: Convert CSVs to JSON
