@@ -296,6 +296,7 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
             all_builds.append((talents, total_pts))
             one_hand_count = 0
             for g in entry.get("gear", []):
+                print(g)
                 item_id = int(g["id"])
                 slot = item_id_to_slot.get(item_id)
                 if slot == "one_hand":
