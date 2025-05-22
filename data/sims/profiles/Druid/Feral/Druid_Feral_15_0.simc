@@ -11,11 +11,11 @@ feet=rune_branded_kickers,id=219327,bonus_id=10421/11303/12040/12043/12373/8793/
 wrist=rune_branded_armbands,id=219334,bonus_id=10421/11303/12040/12043/12176/12373/8791/8902/8960/9627/9633,enchant=7385
 hands=grips_of_reclaiming_blight,id=229308,bonus_id=10255/10356/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8791/8902/8960/9627/9633,enchant=7403
-two_hand=greasemonkey_s_shift_stick,id=228892,bonus_id=10255/10356/12376/1533/6652,enchant=7463
+main_hand=greasemonkeys_shift_stick,id=228892,bonus_id=10255/10356/12376/1533/6652,enchant=7463
 tabard=renowned_guild_tabard,id=69210
-shirt=precious_s_ribbon,id=52019
+shirt=preciouss_ribbon,id=52019
 chest=streamlined_cartel_uniform,id=228864,bonus_id=10255/10356/11998/12376/1533/6652,enchant=7364
-finger1=cyrce_s_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7346
+finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant=7346
 finger2=the_jastor_diamond,id=231265,bonus_id=10255/10355/10396/10879/12372/1520/6652,gem_id=213491/213491,enchant=7346
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12376/1520/6652
 trinket2=signet_of_the_priory,id=219308,bonus_id=10255/10383/10390/12376/3176/6652
