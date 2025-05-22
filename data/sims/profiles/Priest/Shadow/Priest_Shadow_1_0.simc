@@ -1,6 +1,7 @@
 priest="TWW2_Priest_Shadow_Voidweaver"
 source=default
 spec=shadow
+gear=head=229334,neck=215136,shoulder=229332,robe=222819,waist=228882,legs=228865,feet=229336,wrist=222815,hands=229335,finger=231265,trinket=230192,back=228844,two_hand=222568,shirt=52019,chest=229337,held_in_offhand=222566,tabard=69210,main_hand=228901
 level=80
 race=maghar_orc
 role=spell

@@ -1,6 +1,7 @@
 druid="TWW2_Druid_Balance"
 source=default
 spec=balance
+gear=head=229307,neck=215136,shoulder=229305,chest=228864,waist=219331,legs=229306,feet=219327,wrist=219334,hands=229308,finger=231265,trinket=230192,back=222817,two_hand=232805,shirt=52019,tabard=168100,robe=229310,held_in_offhand=228890,main_hand=222439
 level=80
 race=night_elf
 timeofday=night

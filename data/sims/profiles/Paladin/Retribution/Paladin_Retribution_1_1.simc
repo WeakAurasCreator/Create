@@ -1,6 +1,7 @@
 paladin="TWW2_Paladin_Retribution"
 source=default
 spec=retribution
+gear=head=229244,neck=215136,shoulder=229242,chest=229247,waist=222431,legs=229243,feet=228874,wrist=222435,hands=229245,finger=231265,trinket=232541,back=222817,two_hand=232526,tabard=52252,shirt=52019
 level=80
 race=human
 role=attack

@@ -1,6 +1,7 @@
 hunter="TWW2_Hunter_Beast_Mastery_PackLeader"
 source=default
 spec=beast_mastery
+gear=head=229271,neck=228841,shoulder=228860,chest=229274,waist=219339,legs=229270,feet=228862,wrist=219342,hands=229272,finger=231265,trinket=232541,back=222817,ranged=228900,tabard=69210,shirt=52019
 level=80
 race=dwarf
 role=attack

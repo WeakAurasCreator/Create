@@ -1,6 +1,7 @@
 warrior="TWW2_Warrior_Fury"
 source=default
 spec=fury
+gear=head=229235,neck=221060,shoulder=229233,chest=229238,waist=222431,legs=229234,feet=228874,wrist=222435,hands=229236,finger=228411,trinket=232541,back=222817,two_hand=222447,tabard=52252,shirt=52019
 level=80
 race=void_elf
 role=attack

@@ -1,6 +1,7 @@
 demonhunter="TWW2_Demon_Hunter_Havoc_Aldrachi_Reaver"
 source=default
 spec=havoc
+gear=head=229316,neck=215136,shoulder=229314,shirt=151116,chest=229319,waist=229313,legs=229315,feet=228888,wrist=219334,hands=229317,finger=231265,trinket=232541,back=222817,tabard=69210,main_hand=232804,off_hand=228894
 level=80
 race=blood_elf
 role=attack

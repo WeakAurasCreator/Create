@@ -1,6 +1,7 @@
 warlock="TWW2_Warlock_Affliction_Hellcaller"
 source=default
 spec=affliction
+gear=head=229325,neck=215136,shoulder=229323,shirt=138385,robe=229328,waist=222816,legs=229324,feet=222814,wrist=222815,hands=229326,finger=228411,trinket=230192,back=222817,held_in_offhand=222566,tabard=69210,two_hand=222568,main_hand=231268
 level=80
 race=maghar_orc
 role=spell

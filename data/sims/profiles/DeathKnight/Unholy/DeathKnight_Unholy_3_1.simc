@@ -1,6 +1,7 @@
 deathknight="TWW2_Death_Knight_Unholy_San'layn"
 source=default
 spec=unholy
+gear=head=229253,neck=221060,shoulder=229251,chest=229256,waist=222431,legs=222434,feet=228874,wrist=222435,hands=229254,finger=231265,trinket=230027,back=222817,two_hand=232526,shirt=138385,tabard=52252
 level=80
 race=troll
 role=attack

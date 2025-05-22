@@ -1,6 +1,7 @@
 hunter="TWW2_Hunter_Marksmanship_DarkRanger"
 source=default
 spec=marksmanship
+gear=head=229271,neck=215136,shoulder=219338,shirt=89195,chest=229274,waist=229268,legs=229270,feet=228862,wrist=219342,hands=229272,finger=228840,trinket=232541,back=222817,tabard=52252,ranged=228900
 level=80
 race=maghar_orc
 role=attack

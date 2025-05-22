@@ -1,6 +1,7 @@
 warrior="TWW2_Warrior_Arms"
 source=default
 spec=arms
+gear=head=229235,neck=215136,shoulder=229233,chest=229238,waist=229232,legs=229234,feet=222429,wrist=222435,hands=229236,finger=215135,trinket=232541,back=222817,two_hand=232526,shirt=52019,tabard=52252
 level=80
 race=void_elf
 role=attack

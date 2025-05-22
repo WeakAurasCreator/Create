@@ -1,6 +1,7 @@
 deathknight="TWW2_Death_Knight_Frost_Deathbringer"
 source=default
 spec=frost
+gear=head=229253,neck=215136,shoulder=229251,shirt=52019,chest=229256,waist=229250,legs=229252,feet=222429,wrist=222435,hands=229254,finger=228411,trinket=232541,back=222817,tabard=69210,two_hand=232526,main_hand=228895,off_hand=222440
 level=80
 race=maghar_orc
 role=attack

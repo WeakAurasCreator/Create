@@ -1,6 +1,7 @@
 rogue="TWW2_Rogue_Outlaw"
 source=default
 spec=outlaw
+gear=head=229289,neck=215136,shoulder=229287,shirt=151116,chest=229292,waist=229286,legs=229288,feet=229291,wrist=219334,hands=229290,finger=215135,trinket=232541,back=199921,tabard=69210,main_hand=237780,off_hand=228904
 level=80
 race=dwarf
 role=attack

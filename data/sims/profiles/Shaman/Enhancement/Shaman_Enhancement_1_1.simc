@@ -1,6 +1,7 @@
 shaman="TWW2_Shaman_Enhancement"
 source=default
 spec=enhancement
+gear=head=229262,neck=215136,shoulder=229260,robe=229265,waist=219339,legs=229261,feet=228862,wrist=219342,hands=229263,finger=231265,trinket=232541,back=222817,tabard=69210,shirt=151116,chest=228852,main_hand=222451,off_hand=228899
 level=80
 race=maghar_orc
 role=attack

@@ -1,6 +1,7 @@
 rogue="TWW2_Rogue_Assassination"
 source=default
 spec=assassination
+gear=head=229289,neck=215136,shoulder=229287,chest=229292,waist=228856,legs=229288,feet=219327,wrist=219334,hands=229290,finger=231265,trinket=232541,back=222817,shirt=52019,tabard=69210,main_hand=228897,off_hand=222438
 level=80
 race=orc
 role=attack

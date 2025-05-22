@@ -1,6 +1,7 @@
 monk="TWW2_Monk_Windwalker"
 source=default
 spec=windwalker
+gear=head=229298,neck=215136,shoulder=229296,shirt=151116,chest=229301,waist=219331,legs=229297,feet=219327,wrist=219334,hands=229299,finger=228411,trinket=230027,back=222817,two_hand=228892,tabard=5976,main_hand=221033,off_hand=221051
 level=80
 race=troll
 role=attack

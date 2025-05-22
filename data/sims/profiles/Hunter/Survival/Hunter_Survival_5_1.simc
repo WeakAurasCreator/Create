@@ -1,6 +1,7 @@
 hunter="TWW2_Hunter_Survival_PackLeader"
 source=default
 spec=survival
+gear=head=229271,neck=221060,shoulder=229269,shirt=52019,chest=229274,waist=219339,legs=229270,feet=219335,wrist=219342,hands=229272,finger=228411,trinket=232541,back=222817,two_hand=222448,tabard=233288,ranged=228900
 level=80
 race=maghar_orc
 role=attack

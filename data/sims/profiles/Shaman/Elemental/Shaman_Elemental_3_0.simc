@@ -1,6 +1,7 @@
 shaman="TWW2_Shaman_Elemental_Farseer"
 source=default
 spec=elemental
+gear=head=229262,neck=221060,shoulder=229260,shirt=52019,robe=229265,waist=229259,legs=229261,feet=228862,wrist=219342,hands=229263,finger=228411,trinket=230192,back=222817,two_hand=232805,tabard=43349,chest=228852,off_hand=222432,held_in_offhand=228890,main_hand=222445
 level=80
 race=tauren
 role=spell

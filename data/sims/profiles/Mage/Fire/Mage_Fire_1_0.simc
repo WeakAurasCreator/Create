@@ -1,6 +1,7 @@
 mage="TWW2_Mage_Fire_Frostfire"
 source=default
 spec=fire
+gear=head=229343,neck=228841,shoulder=229341,shirt=52019,robe=229346,waist=222816,legs=229342,feet=229345,wrist=168989,hands=222822,finger=221099,trinket=230192,back=222817,held_in_offhand=222566,tabard=52252,two_hand=222568,main_hand=228896
 level=80
 race=dwarf
 role=spell

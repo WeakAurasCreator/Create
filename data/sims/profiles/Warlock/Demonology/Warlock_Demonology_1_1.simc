@@ -1,6 +1,7 @@
 warlock="TWW2_Warlock_Demonology_Diabolist"
 source=default
 spec=demonology
+gear=head=229325,neck=228841,shoulder=229323,shirt=151116,robe=229328,waist=228882,legs=229324,feet=222814,wrist=222815,hands=229326,finger=231265,trinket=230192,back=222817,held_in_offhand=222566,tabard=69210,two_hand=222568,chest=221126,main_hand=231268
 level=80
 race=Orc
 role=spell

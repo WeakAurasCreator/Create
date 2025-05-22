@@ -1,6 +1,7 @@
 warlock="TWW2_Warlock_Destruction_Diabolist"
 source=default
 spec=destruction
+gear=head=229325,neck=228841,shoulder=229323,shirt=52019,robe=229328,waist=228882,legs=229324,feet=222814,wrist=222815,hands=229326,finger=231265,trinket=230192,back=228839,held_in_offhand=222566,tabard=69210,two_hand=222568,main_hand=231268
 level=80
 race=Dwarf
 role=spell

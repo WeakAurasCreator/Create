@@ -1,6 +1,7 @@
 evoker="TWW2_Evoker_Devastation_FS"
 source=default
 spec=devastation
+gear=head=229280,neck=228841,shoulder=229278,chest=229283,waist=219339,legs=229279,feet=228862,wrist=219342,hands=229281,finger=215135,trinket=230027,back=222817,two_hand=232805,shirt=237130,held_in_offhand=222566,tabard=202197,main_hand=231268
 level=80
 race=dracthyr
 role=spell
