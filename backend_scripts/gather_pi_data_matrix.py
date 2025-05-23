@@ -198,47 +198,43 @@ def inject_overrides(text: str, cls: str, spec: str, hero: str) -> str:
 
 def strip_unnecessary_sections(text: str) -> str:
     """
-    1) Keep everything up to the APL intro comment.
-    2) Remove from there through the last `actions...` line.
-    3) Re-attach what comes after.
-    4) Finally drop any '# Gear Summary', '# gear_*', or 'set_bonus=' lines.
+    1) Remove from the APL intro comment ("# This default action priority list…")
+       through the last ‘actions…’ line in that block.
+    2) Additionally drop any stray lines starting with “actions...” to catch nested blocks.
+    3) Finally strip out any '# Gear Summary', '# gear_*' or 'set_bonus=' lines.
     """
     lines = text.splitlines()
 
-    # 1) locate the APL intro
-    start_idx = next(
-        (i for i, l in enumerate(lines)
-         if l.strip().startswith("# This default action priority list is automatically created")),
-        None
-    )
-    if start_idx is None:
-        # fallback: nothing to strip
-        cleaned = lines
-    else:
-        # 2) locate the last actions.* line after start_idx
-        action_re = re.compile(r"^\s*actions(\.|\+)=/")
-        # find all indices of lines matching action_re
+    # 1) find the APL intro
+    start_idx = next((
+        i for i, l in enumerate(lines)
+        if l.strip().startswith("# This default action priority list")
+    ), None)
+
+    if start_idx is not None:
+        # find the last “actions…” line after that
+        action_re = re.compile(r"^\s*actions(\.|\+|\=)")
         action_idxs = [i for i, l in enumerate(lines[start_idx:], start_idx) if action_re.match(l)]
         if action_idxs:
             end_idx = action_idxs[-1]
-            # splice: keep before start_idx, then after end_idx
-            cleaned = lines[:start_idx] + lines[end_idx+1:]
-        else:
-            # no actions lines found, just keep everything before start_idx
-            cleaned = lines[:start_idx]
+            # drop that entire slice
+            del lines[start_idx:end_idx+1]
 
-    # 3) drop any Gear Summary / gear_* / set_bonus lines
-    out = []
-    for l in cleaned:
+    # 2) drop *any* leftover actions.* lines anywhere
+    action_re = re.compile(r"^\s*actions(\.|\+|\=)")
+    lines = [l for l in lines if not action_re.match(l)]
+
+    # 3) drop old gear-summary / set-bonus metadata
+    cleaned = []
+    for l in lines:
         s = l.strip()
         if s.startswith("# Gear Summary"): continue
         if re.match(r"^#\s*gear_.*", s): continue
-        if re.match(r"^#\s*set_bonus*", s): continue
+        if s.startswith("set_bonus="): continue
         if s.startswith("# set_bonus="): continue
-        out.append(l)
+        cleaned.append(l)
 
-    return "\n".join(out)
-
+    return "\n".join(cleaned)
 # ──────────────────────────────────────────────────────────
 # Helpers: Warcraft Logs OAuth2 & Top-Talent Fetching
 # ──────────────────────────────────────────────────────────
