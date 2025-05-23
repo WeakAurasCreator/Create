@@ -954,8 +954,8 @@
     "dps_delta": -193559.75,
     "dps_pct_gain": -4.23,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -968,8 +968,8 @@
     "dps_delta": 1364279.28,
     "dps_pct_gain": 25.56,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -982,8 +982,8 @@
     "dps_delta": -1920749.4,
     "dps_pct_gain": -11.62,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -996,8 +996,8 @@
     "dps_delta": 2877109.35,
     "dps_pct_gain": 35.85,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -1090,8 +1090,8 @@
     "dps_pct_gain": 3.19,
     "pi_dep_spell_ids": {
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "doom_winds": 466772,
+      "feral_spirit": 333957
     }
   },
   {
@@ -1105,8 +1105,8 @@
     "dps_pct_gain": 5.04,
     "pi_dep_spell_ids": {
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "doom_winds": 466772,
+      "feral_spirit": 333957
     }
   },
   {
@@ -1119,8 +1119,8 @@
     "dps_delta": 85824.48,
     "dps_pct_gain": 3.22,
     "pi_dep_spell_ids": {
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "doom_winds": 466772,
+      "feral_spirit": 333957
     }
   },
   {
@@ -1134,8 +1134,8 @@
     "dps_pct_gain": 3.21,
     "pi_dep_spell_ids": {
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "doom_winds": 466772,
+      "feral_spirit": 333957
     }
   },
   {
@@ -1149,8 +1149,8 @@
     "dps_pct_gain": 1.18,
     "pi_dep_spell_ids": {
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "doom_winds": 466772,
+      "feral_spirit": 333957
     }
   },
   {
