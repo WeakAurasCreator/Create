@@ -136,18 +136,13 @@ jobs:
               --repeats=3
           done
 
-
-
-      - name: Upload json sim result
+      - name: Upload all sim results for ${{ matrix.class }} / ${{ matrix.spec }}
         uses: actions/upload-artifact@v4
         with:
-          name: sim-json-${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
-          path: ${{ matrix.json_out }}
-      - name: Upload html sim result
-        uses: actions/upload-artifact@v4
-        with:
-            name: sim-html-${{ matrix.class }}-${{ matrix.spec }}-t${{ matrix.targets }}-pi${{ matrix.pi }}
-            path: ${{ matrix.html_out }}    
+          name: sim-results-${{ matrix.class }}-${{ matrix.spec }}
+          path: |
+            data/sims/final_sims/${{ matrix.class }}/${{ matrix.spec }}/*.json
+            data/sims/final_sims/${{ matrix.class }}/${{ matrix.spec }}/*.html
 
   collect-and-commit:
     needs: simulate
@@ -160,9 +155,24 @@ jobs:
         with:
             name: simc-profiles
             path: data/sims/profiles
-      - name: Download all sim JSONs
+
+      - name: Regroup simc profiles into class/spec subfolders
+        run: |
+          set -e
+          PROFILE_DIR="data/sims/profiles"
+          find "$PROFILE_DIR" -maxdepth 1 -type f -name '*.simc' | while read f; do
+            base=$(basename "$f" .simc)
+            cls=${base%%_*}
+            spec=${base#*_}; spec=${spec%%_*}
+            dest="$PROFILE_DIR/$cls/$spec"
+            mkdir -p "$dest"
+            mv "$f" "$dest/"
+          done
+
+      - name: Download all sim results artifacts
         uses: actions/download-artifact@v4
-        with: { path: data/sims/final_sims }
+        with:
+          path: data/sims/final_sims
 
       - name: Flatten & regroup into per-spec dirs
         run: |
@@ -186,18 +196,6 @@ jobs:
           rm -rf data/sims/final_sims
           mv data/sims/final_sims_grouped data/sims/final_sims/   
 
-      - name: Regroup simc profiles into class/spec subfolders
-        run: |
-          set -e
-          PROFILE_DIR="data/sims/profiles"
-          find "$PROFILE_DIR" -maxdepth 1 -type f -name '*.simc' | while read f; do
-            base=$(basename "$f" .simc)
-            cls=${base%%_*}
-            spec=${base#*_}; spec=${spec%%_*}
-            dest="$PROFILE_DIR/$cls/$spec"
-            mkdir -p "$dest"
-            mv "$f" "$dest/"
-          done
       
       - name: List full workspace tree
         run: |
