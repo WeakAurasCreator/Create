@@ -52,10 +52,10 @@ inventory_type_map = {
    17:  "main_hand",
    18:  "bag",
    19:  "tabard",
-   20:  "robe",       
+   20:  "chest",       
    21:  "main_hand",  
    22:  "off_hand",  
-   23:  "held_in_offhand",
+   23:  "off_hand",
 }
 
 # Load manual slug → class/spec map
