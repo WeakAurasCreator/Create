@@ -57,6 +57,7 @@ inventory_type_map = {
    21:  "main_hand",  
    22:  "off_hand",  
    23:  "off_hand",
+   26:  "main_hand",
 }
 
 # Load manual slug → class/spec map
@@ -70,16 +71,16 @@ with open(Path("data")/"equippable-items.json", "r", encoding="utf-8") as f:
     raidbots_items = json.load(f)
 
 item_id_to_slot: dict[int,str] = {}
+seen_unmapped: set[int] = set()
 for item in raidbots_items:
     inv = item.get("inventoryType")
     slot = inventory_type_map.get(inv)
     if slot:
         item_id_to_slot[item["id"]] = slot
     else:
-        # fallback: try to deduce from itemClass/itemSubClass if needed
-        # e.g. itemClass==4 (Armor), itemSubClass==4 (Plate) & inv=1 → head
-        # but for now we can skip unmapped codes or log them
-        print(f"⚠️ Unmapped inventoryType {inv} for item {item['id']}")
+        if inv not in seen_unmapped:
+            seen_unmapped.add(inv)
+            print(f"⚠️ Unmapped inventoryType {inv} (first occurrence, item ID  {item['id']})")
 
 
 # Map each Raidbots entry.id to its tree index: 0=class, 1=spec, 2=hero
