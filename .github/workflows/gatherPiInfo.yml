@@ -109,15 +109,18 @@ jobs:
 
       - name: Run all sims for one spec
         run: |
-          # Emit the JSON array and iterate each element
-          printf '%s\n' "${{ toJson(matrix.jobs) }}" | jq -c '.[]' | while read -r job; do
-            sim_file=$(echo "$job" | jq -r .sim_file)
-            json_out=$(echo "$job" | jq -r .json_out)
-            html_out=$(echo "$job" | jq -r .html_out)
-            cls=$(echo "$job" | jq -r .class)
-            spec=$(echo "$job" | jq -r .spec)
-            targets=$(echo "$job" | jq -r .targets)
-            pi=$(echo "$job" | jq -r .pi)
+          # Grab the jobs list into a variable
+          jobs_json='${{ toJson(matrix.jobs) }}'
+
+          # Iterate each job object
+          echo "$jobs_json" | jq -c '.[]' | while read -r job; do
+            sim_file=$(printf '%s' "$job" | jq -r .sim_file)
+            json_out=$(printf '%s' "$job" | jq -r .json_out)
+            html_out=$(printf '%s' "$job" | jq -r .html_out)
+            cls=$(printf '%s' "$job" | jq -r .class)
+            spec=$(printf '%s' "$job" | jq -r .spec)
+            targets=$(printf '%s' "$job" | jq -r .targets)
+            pi=$(printf '%s' "$job" | jq -r .pi)
 
             python backend_scripts/gather_pi_data_matrix.py \
               --run-job \
@@ -132,6 +135,7 @@ jobs:
               --iterations=50000 \
               --repeats=3
           done
+
 
 
       - name: Upload json sim result
