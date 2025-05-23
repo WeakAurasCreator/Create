@@ -4,10 +4,10 @@
     "spec": "Havoc",
     "specId": 577,
     "targets": 1,
-    "dps_no_pi": 3220688.21,
-    "dps_with_pi": 3309900.46,
-    "dps_delta": 89212.25,
-    "dps_pct_gain": 2.77,
+    "dps_no_pi": 3055214.57,
+    "dps_with_pi": 3140097.8,
+    "dps_delta": 84883.23,
+    "dps_pct_gain": 2.78,
     "pi_dep_spell_ids": {
       "metamorphosis": 162264
     }
@@ -17,10 +17,10 @@
     "spec": "Havoc",
     "specId": 577,
     "targets": 3,
-    "dps_no_pi": 5736178.15,
-    "dps_with_pi": 5845883.04,
-    "dps_delta": 109704.89,
-    "dps_pct_gain": 1.91,
+    "dps_no_pi": 5375418.87,
+    "dps_with_pi": 5501899.42,
+    "dps_delta": 126480.55,
+    "dps_pct_gain": 2.35,
     "pi_dep_spell_ids": {
       "metamorphosis": 162264
     }
@@ -30,10 +30,10 @@
     "spec": "Havoc",
     "specId": 577,
     "targets": 15,
-    "dps_no_pi": 15052392.66,
-    "dps_with_pi": 15348276.41,
-    "dps_delta": 295883.75,
-    "dps_pct_gain": 1.97,
+    "dps_no_pi": 14431713.85,
+    "dps_with_pi": 14755682.66,
+    "dps_delta": 323968.81,
+    "dps_pct_gain": 2.24,
     "pi_dep_spell_ids": {
       "metamorphosis": 162264
     }
@@ -43,10 +43,10 @@
     "spec": "Havoc",
     "specId": 577,
     "targets": 5,
-    "dps_no_pi": 7890173.74,
-    "dps_with_pi": 8034917.05,
-    "dps_delta": 144743.31,
-    "dps_pct_gain": 1.83,
+    "dps_no_pi": 7424644.53,
+    "dps_with_pi": 7594396.21,
+    "dps_delta": 169751.67,
+    "dps_pct_gain": 2.29,
     "pi_dep_spell_ids": {
       "metamorphosis": 162264
     }
@@ -56,10 +56,10 @@
     "spec": "Havoc",
     "specId": 577,
     "targets": 8,
-    "dps_no_pi": 10211569.97,
-    "dps_with_pi": 10406372.19,
-    "dps_delta": 194802.23,
-    "dps_pct_gain": 1.91,
+    "dps_no_pi": 9647974.99,
+    "dps_with_pi": 9864114.27,
+    "dps_delta": 216139.28,
+    "dps_pct_gain": 2.24,
     "pi_dep_spell_ids": {
       "metamorphosis": 162264
     }
@@ -69,10 +69,10 @@
     "spec": "Affliction",
     "specId": 265,
     "targets": 3,
-    "dps_no_pi": 5415583.8,
-    "dps_with_pi": 5703675.05,
-    "dps_delta": 288091.25,
-    "dps_pct_gain": 5.32,
+    "dps_no_pi": 4204342.76,
+    "dps_with_pi": 4426951.97,
+    "dps_delta": 222609.22,
+    "dps_pct_gain": 5.29,
     "pi_dep_spell_ids": {}
   },
   {
@@ -80,10 +80,10 @@
     "spec": "Affliction",
     "specId": 265,
     "targets": 8,
-    "dps_no_pi": 12107445.83,
-    "dps_with_pi": 12785848.55,
-    "dps_delta": 678402.72,
-    "dps_pct_gain": 5.6,
+    "dps_no_pi": 9446870.14,
+    "dps_with_pi": 9993168.53,
+    "dps_delta": 546298.39,
+    "dps_pct_gain": 5.78,
     "pi_dep_spell_ids": {}
   },
   {
@@ -92,9 +92,9 @@
     "specId": 265,
     "targets": 5,
     "dps_no_pi": 8924532.61,
-    "dps_with_pi": 9422498.07,
-    "dps_delta": 497965.46,
-    "dps_pct_gain": 5.58,
+    "dps_with_pi": 7356275.17,
+    "dps_delta": -1568257.44,
+    "dps_pct_gain": -17.57,
     "pi_dep_spell_ids": {}
   },
   {
@@ -102,10 +102,10 @@
     "spec": "Affliction",
     "specId": 265,
     "targets": 15,
-    "dps_no_pi": 16571643.29,
+    "dps_no_pi": 12902959.09,
     "dps_with_pi": 17380891.67,
-    "dps_delta": 809248.37,
-    "dps_pct_gain": 4.88,
+    "dps_delta": 4477932.58,
+    "dps_pct_gain": 34.7,
     "pi_dep_spell_ids": {}
   },
   {
@@ -113,9 +113,9 @@
     "spec": "Affliction",
     "specId": 265,
     "targets": 1,
-    "dps_no_pi": 2465932.83,
-    "dps_with_pi": 2602279.91,
-    "dps_delta": 136347.08,
+    "dps_no_pi": 2234603.52,
+    "dps_with_pi": 2358119.12,
+    "dps_delta": 123515.59,
     "dps_pct_gain": 5.53,
     "pi_dep_spell_ids": {}
   },
@@ -124,10 +124,10 @@
     "spec": "Demonology",
     "specId": 266,
     "targets": 3,
-    "dps_no_pi": 5461787.93,
-    "dps_with_pi": 5694912.57,
-    "dps_delta": 233124.64,
-    "dps_pct_gain": 4.27,
+    "dps_no_pi": 5073431.75,
+    "dps_with_pi": 5297831.14,
+    "dps_delta": 224399.39,
+    "dps_pct_gain": 4.42,
     "pi_dep_spell_ids": {
       "456323": 456323
     }
@@ -138,9 +138,9 @@
     "specId": 266,
     "targets": 8,
     "dps_no_pi": 11806422.59,
-    "dps_with_pi": 12385549.62,
-    "dps_delta": 579127.02,
-    "dps_pct_gain": 4.91,
+    "dps_with_pi": 11546342.01,
+    "dps_delta": -260080.59,
+    "dps_pct_gain": -2.2,
     "pi_dep_spell_ids": {
       "456323": 456323
     }
@@ -150,10 +150,10 @@
     "spec": "Demonology",
     "specId": 266,
     "targets": 1,
-    "dps_no_pi": 2822682.19,
-    "dps_with_pi": 2961439.44,
-    "dps_delta": 138757.25,
-    "dps_pct_gain": 4.92,
+    "dps_no_pi": 2644427.72,
+    "dps_with_pi": 2779386.74,
+    "dps_delta": 134959.02,
+    "dps_pct_gain": 5.1,
     "pi_dep_spell_ids": {
       "456323": 456323
     }
@@ -163,10 +163,10 @@
     "spec": "Demonology",
     "specId": 266,
     "targets": 15,
-    "dps_no_pi": 18986790.24,
-    "dps_with_pi": 19701158.03,
-    "dps_delta": 714367.79,
-    "dps_pct_gain": 3.76,
+    "dps_no_pi": 17734881.46,
+    "dps_with_pi": 18406481.71,
+    "dps_delta": 671600.25,
+    "dps_pct_gain": 3.79,
     "pi_dep_spell_ids": {
       "456323": 456323
     }
@@ -176,45 +176,45 @@
     "spec": "Demonology",
     "specId": 266,
     "targets": 5,
-    "dps_no_pi": 8415913.84,
-    "dps_with_pi": 8751796.9,
-    "dps_delta": 335883.07,
+    "dps_no_pi": 7835605.37,
+    "dps_with_pi": 8151265.3,
+    "dps_delta": 315659.93,
+    "dps_pct_gain": 4.03,
+    "pi_dep_spell_ids": {
+      "456323": 456323
+    }
+  },
+  {
+    "class": "Warlock",
+    "spec": "Destruction",
+    "specId": 267,
+    "targets": 3,
+    "dps_no_pi": 4561851.55,
+    "dps_with_pi": 4762214.45,
+    "dps_delta": 200362.9,
+    "dps_pct_gain": 4.39,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "class": "Warlock",
+    "spec": "Destruction",
+    "specId": 267,
+    "targets": 1,
+    "dps_no_pi": 1966830.44,
+    "dps_with_pi": 2058408.0,
+    "dps_delta": 91577.56,
+    "dps_pct_gain": 4.66,
+    "pi_dep_spell_ids": {}
+  },
+  {
+    "class": "Warlock",
+    "spec": "Destruction",
+    "specId": 267,
+    "targets": 8,
+    "dps_no_pi": 11966538.73,
+    "dps_with_pi": 12444365.11,
+    "dps_delta": 477826.38,
     "dps_pct_gain": 3.99,
-    "pi_dep_spell_ids": {
-      "456323": 456323
-    }
-  },
-  {
-    "class": "Warlock",
-    "spec": "Destruction",
-    "specId": 267,
-    "targets": 3,
-    "dps_no_pi": 5005209.01,
-    "dps_with_pi": 5224481.21,
-    "dps_delta": 219272.2,
-    "dps_pct_gain": 4.38,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "class": "Warlock",
-    "spec": "Destruction",
-    "specId": 267,
-    "targets": 1,
-    "dps_no_pi": 2450269.15,
-    "dps_with_pi": 2566357.33,
-    "dps_delta": 116088.17,
-    "dps_pct_gain": 4.74,
-    "pi_dep_spell_ids": {}
-  },
-  {
-    "class": "Warlock",
-    "spec": "Destruction",
-    "specId": 267,
-    "targets": 8,
-    "dps_no_pi": 13137169.17,
-    "dps_with_pi": 13701764.39,
-    "dps_delta": 564595.22,
-    "dps_pct_gain": 4.3,
     "pi_dep_spell_ids": {}
   },
   {
@@ -222,10 +222,10 @@
     "spec": "Destruction",
     "specId": 267,
     "targets": 5,
-    "dps_no_pi": 7993130.98,
+    "dps_no_pi": 7261931.78,
     "dps_with_pi": 8089817.19,
-    "dps_delta": 96686.21,
-    "dps_pct_gain": 1.21,
+    "dps_delta": 827885.41,
+    "dps_pct_gain": 11.4,
     "pi_dep_spell_ids": {}
   },
   {
@@ -233,10 +233,10 @@
     "spec": "Destruction",
     "specId": 267,
     "targets": 15,
-    "dps_no_pi": 27970611.38,
-    "dps_with_pi": 29631984.28,
-    "dps_delta": 1661372.9,
-    "dps_pct_gain": 5.94,
+    "dps_no_pi": 25922198.94,
+    "dps_with_pi": 27335346.22,
+    "dps_delta": 1413147.28,
+    "dps_pct_gain": 5.45,
     "pi_dep_spell_ids": {}
   },
   {
@@ -244,10 +244,10 @@
     "spec": "Fury",
     "specId": 72,
     "targets": 3,
-    "dps_no_pi": 4854398.1,
-    "dps_with_pi": 4981564.58,
-    "dps_delta": 127166.49,
-    "dps_pct_gain": 2.62,
+    "dps_no_pi": 1880458.19,
+    "dps_with_pi": 1953409.49,
+    "dps_delta": 72951.3,
+    "dps_pct_gain": 3.88,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -257,10 +257,10 @@
     "spec": "Fury",
     "specId": 72,
     "targets": 1,
-    "dps_no_pi": 2902457.47,
-    "dps_with_pi": 2965643.18,
-    "dps_delta": 63185.71,
-    "dps_pct_gain": 2.18,
+    "dps_no_pi": 1295577.94,
+    "dps_with_pi": 1333630.56,
+    "dps_delta": 38052.62,
+    "dps_pct_gain": 2.94,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -270,10 +270,10 @@
     "spec": "Fury",
     "specId": 72,
     "targets": 15,
-    "dps_no_pi": 11123684.98,
+    "dps_no_pi": 5565935.56,
     "dps_with_pi": 11393663.64,
-    "dps_delta": 269978.66,
-    "dps_pct_gain": 2.43,
+    "dps_delta": 5827728.09,
+    "dps_pct_gain": 104.7,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -283,10 +283,10 @@
     "spec": "Fury",
     "specId": 72,
     "targets": 8,
-    "dps_no_pi": 8491047.62,
-    "dps_with_pi": 8715233.15,
-    "dps_delta": 224185.53,
-    "dps_pct_gain": 2.64,
+    "dps_no_pi": 3804993.59,
+    "dps_with_pi": 3946142.24,
+    "dps_delta": 141148.64,
+    "dps_pct_gain": 3.71,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -296,10 +296,10 @@
     "spec": "Fury",
     "specId": 72,
     "targets": 5,
-    "dps_no_pi": 7268597.39,
+    "dps_no_pi": 2892344.62,
     "dps_with_pi": 7445046.49,
-    "dps_delta": 176449.1,
-    "dps_pct_gain": 2.43,
+    "dps_delta": 4552701.86,
+    "dps_pct_gain": 157.41,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -309,10 +309,10 @@
     "spec": "Arms",
     "specId": 71,
     "targets": 5,
-    "dps_no_pi": 8380128.66,
-    "dps_with_pi": 8611201.75,
-    "dps_delta": 231073.09,
-    "dps_pct_gain": 2.76,
+    "dps_no_pi": 8811633.18,
+    "dps_with_pi": 9051213.34,
+    "dps_delta": 239580.16,
+    "dps_pct_gain": 2.72,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -322,10 +322,10 @@
     "spec": "Arms",
     "specId": 71,
     "targets": 15,
-    "dps_no_pi": 14399722.66,
-    "dps_with_pi": 14819356.69,
-    "dps_delta": 419634.03,
-    "dps_pct_gain": 2.91,
+    "dps_no_pi": 15172059.73,
+    "dps_with_pi": 15620383.51,
+    "dps_delta": 448323.78,
+    "dps_pct_gain": 2.95,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -335,10 +335,10 @@
     "spec": "Arms",
     "specId": 71,
     "targets": 3,
-    "dps_no_pi": 5674529.56,
-    "dps_with_pi": 5838217.81,
-    "dps_delta": 163688.24,
-    "dps_pct_gain": 2.88,
+    "dps_no_pi": 5955372.77,
+    "dps_with_pi": 6126573.52,
+    "dps_delta": 171200.75,
+    "dps_pct_gain": 2.87,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -349,9 +349,9 @@
     "specId": 71,
     "targets": 1,
     "dps_no_pi": 2799279.51,
-    "dps_with_pi": 2945905.55,
-    "dps_delta": 146626.04,
-    "dps_pct_gain": 5.24,
+    "dps_with_pi": 3109950.66,
+    "dps_delta": 310671.15,
+    "dps_pct_gain": 11.1,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -362,9 +362,9 @@
     "specId": 71,
     "targets": 8,
     "dps_no_pi": 10308354.3,
-    "dps_with_pi": 10968743.32,
-    "dps_delta": 660389.03,
-    "dps_pct_gain": 6.41,
+    "dps_with_pi": 11535109.49,
+    "dps_delta": 1226755.19,
+    "dps_pct_gain": 11.9,
     "pi_dep_spell_ids": {
       "avatar": 107574
     }
@@ -374,10 +374,10 @@
     "spec": "Subtlety",
     "specId": 261,
     "targets": 1,
-    "dps_no_pi": 2535259.78,
-    "dps_with_pi": 2571949.19,
-    "dps_delta": 36689.42,
-    "dps_pct_gain": 1.45,
+    "dps_no_pi": 2598880.59,
+    "dps_with_pi": 2638827.91,
+    "dps_delta": 39947.32,
+    "dps_pct_gain": 1.54,
     "pi_dep_spell_ids": {
       "shadow_dance": 185313
     }
@@ -401,9 +401,9 @@
     "specId": 261,
     "targets": 3,
     "dps_no_pi": 4620315.27,
-    "dps_with_pi": 4691039.99,
-    "dps_delta": 70724.72,
-    "dps_pct_gain": 1.53,
+    "dps_with_pi": 4517793.27,
+    "dps_delta": -102522.0,
+    "dps_pct_gain": -2.22,
     "pi_dep_spell_ids": {
       "shadow_dance": 185313
     }
@@ -414,9 +414,9 @@
     "specId": 261,
     "targets": 5,
     "dps_no_pi": 6941791.96,
-    "dps_with_pi": 7052030.61,
-    "dps_delta": 110238.65,
-    "dps_pct_gain": 1.59,
+    "dps_with_pi": 6814763.84,
+    "dps_delta": -127028.12,
+    "dps_pct_gain": -1.83,
     "pi_dep_spell_ids": {
       "shadow_dance": 185313
     }
@@ -426,10 +426,10 @@
     "spec": "Subtlety",
     "specId": 261,
     "targets": 15,
-    "dps_no_pi": 11740616.68,
-    "dps_with_pi": 11938275.47,
-    "dps_delta": 197658.79,
-    "dps_pct_gain": 1.68,
+    "dps_no_pi": 11305609.5,
+    "dps_with_pi": 11490264.17,
+    "dps_delta": 184654.67,
+    "dps_pct_gain": 1.63,
     "pi_dep_spell_ids": {
       "shadow_dance": 185313
     }
@@ -439,10 +439,10 @@
     "spec": "Assassination",
     "specId": 259,
     "targets": 3,
-    "dps_no_pi": 5513967.52,
-    "dps_with_pi": 5673027.64,
-    "dps_delta": 159060.12,
-    "dps_pct_gain": 2.88,
+    "dps_no_pi": 5687820.49,
+    "dps_with_pi": 5853168.77,
+    "dps_delta": 165348.29,
+    "dps_pct_gain": 2.91,
     "pi_dep_spell_ids": {}
   },
   {
@@ -451,9 +451,9 @@
     "specId": 259,
     "targets": 8,
     "dps_no_pi": 13721691.49,
-    "dps_with_pi": 12677117.0,
-    "dps_delta": -1044574.49,
-    "dps_pct_gain": -7.61,
+    "dps_with_pi": 13127624.34,
+    "dps_delta": -594067.14,
+    "dps_pct_gain": -4.33,
     "pi_dep_spell_ids": {}
   },
   {
@@ -462,9 +462,9 @@
     "specId": 259,
     "targets": 1,
     "dps_no_pi": 2370593.28,
-    "dps_with_pi": 2492688.22,
-    "dps_delta": 122094.94,
-    "dps_pct_gain": 5.15,
+    "dps_with_pi": 2561943.62,
+    "dps_delta": 191350.34,
+    "dps_pct_gain": 8.07,
     "pi_dep_spell_ids": {}
   },
   {
@@ -472,10 +472,10 @@
     "spec": "Assassination",
     "specId": 259,
     "targets": 5,
-    "dps_no_pi": 9240154.88,
+    "dps_no_pi": 9559903.96,
     "dps_with_pi": 10284391.68,
-    "dps_delta": 1044236.8,
-    "dps_pct_gain": 11.3,
+    "dps_delta": 724487.72,
+    "dps_pct_gain": 7.58,
     "pi_dep_spell_ids": {}
   },
   {
@@ -483,10 +483,10 @@
     "spec": "Assassination",
     "specId": 259,
     "targets": 15,
-    "dps_no_pi": 15217993.35,
-    "dps_with_pi": 15629525.48,
-    "dps_delta": 411532.13,
-    "dps_pct_gain": 2.7,
+    "dps_no_pi": 15978379.26,
+    "dps_with_pi": 16390282.27,
+    "dps_delta": 411903.0,
+    "dps_pct_gain": 2.58,
     "pi_dep_spell_ids": {}
   },
   {
@@ -495,9 +495,9 @@
     "specId": 260,
     "targets": 8,
     "dps_no_pi": 12742227.98,
-    "dps_with_pi": 13055306.47,
-    "dps_delta": 313078.49,
-    "dps_pct_gain": 2.46,
+    "dps_with_pi": 13058994.05,
+    "dps_delta": 316766.07,
+    "dps_pct_gain": 2.49,
     "pi_dep_spell_ids": {
       "13750": 13750
     }
@@ -508,9 +508,9 @@
     "specId": 260,
     "targets": 5,
     "dps_no_pi": 9707399.94,
-    "dps_with_pi": 10111567.66,
-    "dps_delta": 404167.72,
-    "dps_pct_gain": 4.16,
+    "dps_with_pi": 10083141.91,
+    "dps_delta": 375741.97,
+    "dps_pct_gain": 3.87,
     "pi_dep_spell_ids": {
       "13750": 13750
     }
@@ -520,10 +520,10 @@
     "spec": "Outlaw",
     "specId": 260,
     "targets": 3,
-    "dps_no_pi": 6503242.39,
-    "dps_with_pi": 6503515.78,
-    "dps_delta": 273.38,
-    "dps_pct_gain": 0.0,
+    "dps_no_pi": 6446226.59,
+    "dps_with_pi": 6449966.43,
+    "dps_delta": 3739.84,
+    "dps_pct_gain": 0.06,
     "pi_dep_spell_ids": {
       "13750": 13750
     }
@@ -533,10 +533,10 @@
     "spec": "Outlaw",
     "specId": 260,
     "targets": 1,
-    "dps_no_pi": 2793982.69,
-    "dps_with_pi": 2794636.19,
-    "dps_delta": 653.5,
-    "dps_pct_gain": 0.02,
+    "dps_no_pi": 2715389.06,
+    "dps_with_pi": 2715139.57,
+    "dps_delta": -249.48,
+    "dps_pct_gain": -0.01,
     "pi_dep_spell_ids": {
       "13750": 13750
     }
@@ -546,10 +546,10 @@
     "spec": "Outlaw",
     "specId": 260,
     "targets": 15,
-    "dps_no_pi": 13146105.57,
+    "dps_no_pi": 13050499.61,
     "dps_with_pi": 12818442.19,
-    "dps_delta": -327663.38,
-    "dps_pct_gain": -2.49,
+    "dps_delta": -232057.42,
+    "dps_pct_gain": -1.78,
     "pi_dep_spell_ids": {
       "13750": 13750
     }
@@ -559,10 +559,10 @@
     "spec": "Frost",
     "specId": 64,
     "targets": 15,
-    "dps_no_pi": 15414718.62,
-    "dps_with_pi": 15661927.42,
-    "dps_delta": 247208.8,
-    "dps_pct_gain": 1.6,
+    "dps_no_pi": 13192493.12,
+    "dps_with_pi": 13489232.84,
+    "dps_delta": 296739.72,
+    "dps_pct_gain": 2.25,
     "pi_dep_spell_ids": {
       "12472": 12472
     }
@@ -572,10 +572,10 @@
     "spec": "Frost",
     "specId": 64,
     "targets": 1,
-    "dps_no_pi": 2777711.84,
+    "dps_no_pi": 2382650.17,
     "dps_with_pi": 2853139.81,
-    "dps_delta": 75427.98,
-    "dps_pct_gain": 2.72,
+    "dps_delta": 470489.65,
+    "dps_pct_gain": 19.75,
     "pi_dep_spell_ids": {
       "12472": 12472
     }
@@ -585,10 +585,10 @@
     "spec": "Frost",
     "specId": 64,
     "targets": 8,
-    "dps_no_pi": 10835943.44,
-    "dps_with_pi": 11008029.27,
-    "dps_delta": 172085.83,
-    "dps_pct_gain": 1.59,
+    "dps_no_pi": 9137470.85,
+    "dps_with_pi": 9343493.02,
+    "dps_delta": 206022.17,
+    "dps_pct_gain": 2.25,
     "pi_dep_spell_ids": {
       "12472": 12472
     }
@@ -598,10 +598,10 @@
     "spec": "Frost",
     "specId": 64,
     "targets": 3,
-    "dps_no_pi": 5496951.11,
-    "dps_with_pi": 5587511.38,
-    "dps_delta": 90560.27,
-    "dps_pct_gain": 1.65,
+    "dps_no_pi": 4464855.93,
+    "dps_with_pi": 4579999.09,
+    "dps_delta": 115143.16,
+    "dps_pct_gain": 2.58,
     "pi_dep_spell_ids": {
       "12472": 12472
     }
@@ -611,10 +611,10 @@
     "spec": "Frost",
     "specId": 64,
     "targets": 5,
-    "dps_no_pi": 7593319.82,
-    "dps_with_pi": 7722863.11,
-    "dps_delta": 129543.29,
-    "dps_pct_gain": 1.71,
+    "dps_no_pi": 6295481.8,
+    "dps_with_pi": 6440613.63,
+    "dps_delta": 145131.83,
+    "dps_pct_gain": 2.31,
     "pi_dep_spell_ids": {
       "12472": 12472
     }
@@ -624,10 +624,10 @@
     "spec": "Arcane",
     "specId": 62,
     "targets": 1,
-    "dps_no_pi": 2973027.81,
-    "dps_with_pi": 3061653.23,
-    "dps_delta": 88625.42,
-    "dps_pct_gain": 2.98,
+    "dps_no_pi": 2591510.9,
+    "dps_with_pi": 2673278.39,
+    "dps_delta": 81767.5,
+    "dps_pct_gain": 3.16,
     "pi_dep_spell_ids": {
       "365362": 365362
     }
@@ -638,9 +638,9 @@
     "specId": 62,
     "targets": 3,
     "dps_no_pi": 5964373.79,
-    "dps_with_pi": 6712243.97,
-    "dps_delta": 747870.19,
-    "dps_pct_gain": 12.54,
+    "dps_with_pi": 6089101.05,
+    "dps_delta": 124727.26,
+    "dps_pct_gain": 2.09,
     "pi_dep_spell_ids": {
       "365362": 365362
     }
@@ -650,10 +650,10 @@
     "spec": "Arcane",
     "specId": 62,
     "targets": 15,
-    "dps_no_pi": 13773263.35,
-    "dps_with_pi": 14126405.11,
-    "dps_delta": 353141.75,
-    "dps_pct_gain": 2.56,
+    "dps_no_pi": 12387919.55,
+    "dps_with_pi": 12907737.86,
+    "dps_delta": 519818.3,
+    "dps_pct_gain": 4.2,
     "pi_dep_spell_ids": {
       "365362": 365362
     }
@@ -663,10 +663,10 @@
     "spec": "Arcane",
     "specId": 62,
     "targets": 8,
-    "dps_no_pi": 11589976.91,
+    "dps_no_pi": 10442193.51,
     "dps_with_pi": 10853205.84,
-    "dps_delta": -736771.07,
-    "dps_pct_gain": -6.36,
+    "dps_delta": 411012.33,
+    "dps_pct_gain": 3.94,
     "pi_dep_spell_ids": {
       "365362": 365362
     }
@@ -676,10 +676,10 @@
     "spec": "Arcane",
     "specId": 62,
     "targets": 5,
-    "dps_no_pi": 10329440.08,
-    "dps_with_pi": 10585682.92,
-    "dps_delta": 256242.84,
-    "dps_pct_gain": 2.48,
+    "dps_no_pi": 9276931.82,
+    "dps_with_pi": 9654857.76,
+    "dps_delta": 377925.94,
+    "dps_pct_gain": 4.07,
     "pi_dep_spell_ids": {
       "365362": 365362
     }
@@ -689,10 +689,10 @@
     "spec": "Fire",
     "specId": 63,
     "targets": 15,
-    "dps_no_pi": 14860878.83,
-    "dps_with_pi": 15924214.36,
-    "dps_delta": 1063335.54,
-    "dps_pct_gain": 7.16,
+    "dps_no_pi": 9678850.11,
+    "dps_with_pi": 10322363.9,
+    "dps_delta": 643513.78,
+    "dps_pct_gain": 6.65,
     "pi_dep_spell_ids": {
       "combustion": 190319
     }
@@ -715,10 +715,10 @@
     "spec": "Fire",
     "specId": 63,
     "targets": 3,
-    "dps_no_pi": 5358909.17,
+    "dps_no_pi": 3472810.05,
     "dps_with_pi": 5364963.29,
-    "dps_delta": 6054.12,
-    "dps_pct_gain": 0.11,
+    "dps_delta": 1892153.24,
+    "dps_pct_gain": 54.48,
     "pi_dep_spell_ids": {
       "combustion": 190319
     }
@@ -728,10 +728,10 @@
     "spec": "Fire",
     "specId": 63,
     "targets": 5,
-    "dps_no_pi": 7808455.57,
-    "dps_with_pi": 8362373.8,
-    "dps_delta": 553918.23,
-    "dps_pct_gain": 7.09,
+    "dps_no_pi": 5024468.81,
+    "dps_with_pi": 5354624.05,
+    "dps_delta": 330155.24,
+    "dps_pct_gain": 6.57,
     "pi_dep_spell_ids": {
       "combustion": 190319
     }
@@ -742,9 +742,9 @@
     "specId": 63,
     "targets": 8,
     "dps_no_pi": 10665965.93,
-    "dps_with_pi": 12164409.36,
-    "dps_delta": 1498443.43,
-    "dps_pct_gain": 14.05,
+    "dps_with_pi": 7834396.86,
+    "dps_delta": -2831569.07,
+    "dps_pct_gain": -26.55,
     "pi_dep_spell_ids": {
       "combustion": 190319
     }
@@ -884,10 +884,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": 3,
-    "dps_no_pi": 6854746.48,
+    "dps_no_pi": 3893837.3,
     "dps_with_pi": 6682459.63,
-    "dps_delta": -172286.85,
-    "dps_pct_gain": -2.51,
+    "dps_delta": 2788622.33,
+    "dps_pct_gain": 71.62,
     "pi_dep_spell_ids": {
       "trueshot": 288613
     }
@@ -897,10 +897,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": 15,
-    "dps_no_pi": 18798923.55,
-    "dps_with_pi": 19545834.24,
-    "dps_delta": 746910.7,
-    "dps_pct_gain": 3.97,
+    "dps_no_pi": 10879701.61,
+    "dps_with_pi": 11296888.05,
+    "dps_delta": 417186.45,
+    "dps_pct_gain": 3.83,
     "pi_dep_spell_ids": {
       "trueshot": 288613
     }
@@ -910,10 +910,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": 5,
-    "dps_no_pi": 11215687.5,
+    "dps_no_pi": 6414345.75,
     "dps_with_pi": 10938132.49,
-    "dps_delta": -277555.01,
-    "dps_pct_gain": -2.47,
+    "dps_delta": 4523786.73,
+    "dps_pct_gain": 70.53,
     "pi_dep_spell_ids": {
       "trueshot": 288613
     }
@@ -924,9 +924,9 @@
     "specId": 254,
     "targets": 8,
     "dps_no_pi": 13624817.57,
-    "dps_with_pi": 15093467.7,
-    "dps_delta": 1468650.13,
-    "dps_pct_gain": 10.78,
+    "dps_with_pi": 8696307.66,
+    "dps_delta": -4928509.91,
+    "dps_pct_gain": -36.17,
     "pi_dep_spell_ids": {
       "trueshot": 288613
     }
@@ -936,10 +936,10 @@
     "spec": "Marksmanship",
     "specId": 254,
     "targets": 1,
-    "dps_no_pi": 3043614.81,
-    "dps_with_pi": 3177556.21,
-    "dps_delta": 133941.4,
-    "dps_pct_gain": 4.4,
+    "dps_no_pi": 1620118.73,
+    "dps_with_pi": 1687632.18,
+    "dps_delta": 67513.45,
+    "dps_pct_gain": 4.17,
     "pi_dep_spell_ids": {
       "trueshot": 288613
     }
@@ -954,8 +954,8 @@
     "dps_delta": -193559.75,
     "dps_pct_gain": -4.23,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
@@ -963,13 +963,13 @@
     "spec": "Shadow",
     "specId": 258,
     "targets": 5,
-    "dps_no_pi": 7001352.11,
+    "dps_no_pi": 5338169.39,
     "dps_with_pi": 6702448.67,
-    "dps_delta": -298903.44,
-    "dps_pct_gain": -4.27,
+    "dps_delta": 1364279.28,
+    "dps_pct_gain": 25.56,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
@@ -978,12 +978,12 @@
     "specId": 258,
     "targets": 15,
     "dps_no_pi": 16532010.63,
-    "dps_with_pi": 18820869.97,
-    "dps_delta": 2288859.34,
-    "dps_pct_gain": 13.85,
+    "dps_with_pi": 14611261.23,
+    "dps_delta": -1920749.4,
+    "dps_pct_gain": -11.62,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
@@ -991,13 +991,13 @@
     "spec": "Shadow",
     "specId": 258,
     "targets": 8,
-    "dps_no_pi": 10482803.32,
+    "dps_no_pi": 8024583.44,
     "dps_with_pi": 10901692.79,
-    "dps_delta": 418889.47,
-    "dps_pct_gain": 4.0,
+    "dps_delta": 2877109.35,
+    "dps_pct_gain": 35.85,
     "pi_dep_spell_ids": {
-      "voidform": 194249,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "voidform": 194249
     }
   },
   {
@@ -1019,10 +1019,10 @@
     "spec": "Devastation",
     "specId": 1467,
     "targets": 8,
-    "dps_no_pi": 14646249.68,
+    "dps_no_pi": 12287144.03,
     "dps_with_pi": 14686162.48,
-    "dps_delta": 39912.8,
-    "dps_pct_gain": 0.27,
+    "dps_delta": 2399018.45,
+    "dps_pct_gain": 19.52,
     "pi_dep_spell_ids": {
       "dragonrage": 375087
     }
@@ -1033,9 +1033,9 @@
     "specId": 1467,
     "targets": 1,
     "dps_no_pi": 2940439.06,
-    "dps_with_pi": 3388906.76,
-    "dps_delta": 448467.7,
-    "dps_pct_gain": 15.25,
+    "dps_with_pi": 2966223.23,
+    "dps_delta": 25784.17,
+    "dps_pct_gain": 0.88,
     "pi_dep_spell_ids": {
       "dragonrage": 375087
     }
@@ -1045,10 +1045,10 @@
     "spec": "Devastation",
     "specId": 1467,
     "targets": 3,
-    "dps_no_pi": 6623710.65,
+    "dps_no_pi": 5574343.39,
     "dps_with_pi": 7267976.06,
-    "dps_delta": 644265.41,
-    "dps_pct_gain": 9.73,
+    "dps_delta": 1693632.66,
+    "dps_pct_gain": 30.38,
     "pi_dep_spell_ids": {
       "dragonrage": 375087
     }
@@ -1059,9 +1059,9 @@
     "specId": 1467,
     "targets": 15,
     "dps_no_pi": 22427628.72,
-    "dps_with_pi": 24459673.14,
-    "dps_delta": 2032044.42,
-    "dps_pct_gain": 9.06,
+    "dps_with_pi": 20606473.5,
+    "dps_delta": -1821155.22,
+    "dps_pct_gain": -8.12,
     "pi_dep_spell_ids": {
       "dragonrage": 375087
     }
@@ -1071,10 +1071,10 @@
     "spec": "Devastation",
     "specId": 1467,
     "targets": 5,
-    "dps_no_pi": 10556269.46,
-    "dps_with_pi": 11285704.37,
-    "dps_delta": 729434.91,
-    "dps_pct_gain": 6.91,
+    "dps_no_pi": 8908949.13,
+    "dps_with_pi": 9539438.08,
+    "dps_delta": 630488.95,
+    "dps_pct_gain": 7.08,
     "pi_dep_spell_ids": {
       "dragonrage": 375087
     }
@@ -1084,14 +1084,14 @@
     "spec": "Enhancement",
     "specId": 263,
     "targets": 15,
-    "dps_no_pi": 18352610.64,
+    "dps_no_pi": 16564027.87,
     "dps_with_pi": 17091636.9,
-    "dps_delta": -1260973.73,
-    "dps_pct_gain": -6.87,
+    "dps_delta": 527609.03,
+    "dps_pct_gain": 3.19,
     "pi_dep_spell_ids": {
+      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "feral_spirit": 333957
     }
   },
   {
@@ -1104,9 +1104,9 @@
     "dps_delta": 643631.72,
     "dps_pct_gain": 5.04,
     "pi_dep_spell_ids": {
+      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "feral_spirit": 333957
     }
   },
   {
@@ -1119,8 +1119,8 @@
     "dps_delta": 85824.48,
     "dps_pct_gain": 3.22,
     "pi_dep_spell_ids": {
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "doom_winds": 466772,
+      "feral_spirit": 333957
     }
   },
   {
@@ -1133,9 +1133,9 @@
     "dps_delta": 182049.37,
     "dps_pct_gain": 3.21,
     "pi_dep_spell_ids": {
+      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "feral_spirit": 333957
     }
   },
   {
@@ -1144,13 +1144,13 @@
     "specId": 263,
     "targets": 5,
     "dps_no_pi": 10096057.19,
-    "dps_with_pi": 11259914.15,
-    "dps_delta": 1163856.96,
-    "dps_pct_gain": 11.53,
+    "dps_with_pi": 10215091.51,
+    "dps_delta": 119034.32,
+    "dps_pct_gain": 1.18,
     "pi_dep_spell_ids": {
+      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957,
-      "doom_winds": 466772
+      "feral_spirit": 333957
     }
   },
   {
@@ -1159,9 +1159,9 @@
     "specId": 262,
     "targets": 1,
     "dps_no_pi": 2800994.51,
-    "dps_with_pi": 2888770.26,
-    "dps_delta": 87775.75,
-    "dps_pct_gain": 3.13,
+    "dps_with_pi": 2910334.89,
+    "dps_delta": 109340.38,
+    "dps_pct_gain": 3.9,
     "pi_dep_spell_ids": {
       "ascendance": 1219480
     }
@@ -1184,10 +1184,10 @@
     "spec": "Elemental",
     "specId": 262,
     "targets": 5,
-    "dps_no_pi": 11649876.1,
-    "dps_with_pi": 11955468.44,
-    "dps_delta": 305592.34,
-    "dps_pct_gain": 2.62,
+    "dps_no_pi": 12276541.93,
+    "dps_with_pi": 12568975.27,
+    "dps_delta": 292433.34,
+    "dps_pct_gain": 2.38,
     "pi_dep_spell_ids": {
       "ascendance": 1219480
     }
@@ -1197,10 +1197,10 @@
     "spec": "Elemental",
     "specId": 262,
     "targets": 15,
-    "dps_no_pi": 20161423.65,
+    "dps_no_pi": 21504001.52,
     "dps_with_pi": 20795783.0,
-    "dps_delta": 634359.35,
-    "dps_pct_gain": 3.15,
+    "dps_delta": -708218.52,
+    "dps_pct_gain": -3.29,
     "pi_dep_spell_ids": {
       "ascendance": 1219480
     }
@@ -1211,9 +1211,9 @@
     "specId": 262,
     "targets": 3,
     "dps_no_pi": 5251926.9,
-    "dps_with_pi": 5384510.63,
-    "dps_delta": 132583.73,
-    "dps_pct_gain": 2.52,
+    "dps_with_pi": 5532845.34,
+    "dps_delta": 280918.44,
+    "dps_pct_gain": 5.35,
     "pi_dep_spell_ids": {
       "ascendance": 1219480
     }
@@ -1252,9 +1252,9 @@
     "specId": 102,
     "targets": 8,
     "dps_no_pi": 13232593.77,
-    "dps_with_pi": 13571278.73,
-    "dps_delta": 338684.96,
-    "dps_pct_gain": 2.56,
+    "dps_with_pi": 13028141.76,
+    "dps_delta": -204452.01,
+    "dps_pct_gain": -1.55,
     "pi_dep_spell_ids": {
       "102560": 102560,
       "194223": 194223
@@ -1376,8 +1376,8 @@
     "dps_delta": -540730.38,
     "dps_pct_gain": -8.58,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -1390,8 +1390,8 @@
     "dps_delta": 320618.21,
     "dps_pct_gain": 3.61,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -1404,8 +1404,8 @@
     "dps_delta": 638186.6,
     "dps_pct_gain": 3.34,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -1418,8 +1418,8 @@
     "dps_delta": -1252540.03,
     "dps_pct_gain": -10.35,
     "pi_dep_spell_ids": {
-      "pillar_of_frost": 51271,
-      "breath_of_sindragosa": 152279
+      "breath_of_sindragosa": 152279,
+      "pillar_of_frost": 51271
     }
   },
   {
@@ -1440,10 +1440,10 @@
     "spec": "Unholy",
     "specId": 252,
     "targets": 5,
-    "dps_no_pi": 9713109.83,
+    "dps_no_pi": 9356506.0,
     "dps_with_pi": 9980529.8,
-    "dps_delta": 267419.97,
-    "dps_pct_gain": 2.75,
+    "dps_delta": 624023.8,
+    "dps_pct_gain": 6.67,
     "pi_dep_spell_ids": {
       "dark_transformation": 63560
     }
