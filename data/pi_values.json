@@ -954,8 +954,8 @@
     "dps_delta": -193559.75,
     "dps_pct_gain": -4.23,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -968,8 +968,8 @@
     "dps_delta": 1364279.28,
     "dps_pct_gain": 25.56,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -982,8 +982,8 @@
     "dps_delta": -1920749.4,
     "dps_pct_gain": -11.62,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -996,8 +996,8 @@
     "dps_delta": 2877109.35,
     "dps_pct_gain": 35.85,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     }
   },
   {
@@ -1010,8 +1010,8 @@
     "dps_delta": 60824.35,
     "dps_pct_gain": 2.28,
     "pi_dep_spell_ids": {
-      "dark_ascension": 391109,
-      "power_infusion": 10060
+      "power_infusion": 10060,
+      "dark_ascension": 391109
     }
   },
   {
@@ -1089,9 +1089,9 @@
     "dps_delta": 527609.03,
     "dps_pct_gain": 3.19,
     "pi_dep_spell_ids": {
-      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957
+      "feral_spirit": 333957,
+      "doom_winds": 466772
     }
   },
   {
@@ -1104,9 +1104,9 @@
     "dps_delta": 643631.72,
     "dps_pct_gain": 5.04,
     "pi_dep_spell_ids": {
-      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957
+      "feral_spirit": 333957,
+      "doom_winds": 466772
     }
   },
   {
@@ -1119,8 +1119,8 @@
     "dps_delta": 85824.48,
     "dps_pct_gain": 3.22,
     "pi_dep_spell_ids": {
-      "doom_winds": 466772,
-      "feral_spirit": 333957
+      "feral_spirit": 333957,
+      "doom_winds": 466772
     }
   },
   {
@@ -1133,9 +1133,9 @@
     "dps_delta": 182049.37,
     "dps_pct_gain": 3.21,
     "pi_dep_spell_ids": {
-      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957
+      "feral_spirit": 333957,
+      "doom_winds": 466772
     }
   },
   {
@@ -1148,9 +1148,9 @@
     "dps_delta": 119034.32,
     "dps_pct_gain": 1.18,
     "pi_dep_spell_ids": {
-      "doom_winds": 466772,
       "ascendance": 114051,
-      "feral_spirit": 333957
+      "feral_spirit": 333957,
+      "doom_winds": 466772
     }
   },
   {
