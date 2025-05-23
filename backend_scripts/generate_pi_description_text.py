@@ -122,28 +122,31 @@ def main():
     explanations = {}
     print(f"Found {len(profs)} profiles in {tier}")
     client = get_openai_client(os.getenv("OPENROUTER_API_KEY"))
-    for filename, text in profs.items():
-        lines = text.splitlines()  # split into lines 
-        key   = extract_class_spec(lines)
-        print("Key: ", key)
-        if not key or key in explanations or not key in pi_config:
-            continue
+    try:
+        for filename, text in profs.items():
+            lines = text.splitlines()  # split into lines 
+            key   = extract_class_spec(lines)
+            print("Key: ", key)
+            if not key or key in explanations or not key in pi_config:
+                continue
 
-        # find Power Infusion invocation and its preceding comments
-        for idx, line in enumerate(lines):
-            if "invoke_external_buff,name=power_infusion" in line:
-                class_var =  string.capwords(key.split("_")[0].lower())
-                spec_var  =  string.capwords(key.split("_")[1].lower())
-                description = llm_describe(client, line, class_var, spec_var)
-                explanations[key] = description  
-                break
+            # find Power Infusion invocation and its preceding comments
+            for idx, line in enumerate(lines):
+                if "invoke_external_buff,name=power_infusion" in line:
+                    class_var =  string.capwords(key.split("_")[0].lower())
+                    spec_var  =  string.capwords(key.split("_")[1].lower())
+                    description = llm_describe(client, line, class_var, spec_var)
+                    explanations[key] = description  
+                    break
 
-    # write to data/piExplanations.json
-    os.makedirs("data", exist_ok=True)  # create dirs safely 
-    with open("data/piExplanations.json", "w", encoding="utf-8") as f:
-        json.dump(explanations, f, indent=2, ensure_ascii=False)  # human-readable JSON 
+        # write to data/piExplanations.json
+        os.makedirs("data", exist_ok=True)  # create dirs safely 
+        with open("data/piExplanations.json", "w", encoding="utf-8") as f:
+            json.dump(explanations, f, indent=2, ensure_ascii=False)  # human-readable JSON 
 
-    print(f"Saved {len(explanations)} explanations to data/piExplanations.json")
+        print(f"Saved {len(explanations)} explanations to data/piExplanations.json")
+    except Exception as e:
+        print(f"[Warning] Failed to fetch LLM descriptions for due to: {e}")
 
 if __name__ == "__main__":
     main()
