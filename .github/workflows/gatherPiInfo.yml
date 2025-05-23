@@ -129,7 +129,7 @@ jobs:
               --pi="$pi" \
               --precision=0.05 \
               --iterations=50000 \
-        done
+          done
 
       - name: Upload json sim result
         uses: actions/upload-artifact@v4
