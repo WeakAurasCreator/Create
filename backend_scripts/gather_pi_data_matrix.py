@@ -6,6 +6,7 @@ import requests
 import subprocess
 from pathlib import Path
 from collections import defaultdict, Counter
+from typing import DefaultDict, Tuple, List
 import datetime
 import argparse
 import glob
@@ -731,11 +732,26 @@ def prepare_matrix():
                     "pi": pi_flag
                 })
     # write the matrix.json on disk
-    matrix = { "include": jobs }
+
+    spec_groups: DefaultDict[Tuple[str, str], List[dict]] = defaultdict(list)
+    for job in jobs:
+        key = (job["class"], job["spec"])
+        spec_groups[key].append(job)
+
+    # Build a matrix entry per spec, containing its list of jobs
+    include = []
+    for (cls, spec), jobs_list in spec_groups.items():
+        include.append({
+            "class": cls,
+            "spec":  spec,
+            "jobs":  jobs_list
+        })
+
+    matrix = { "include": include }
     with open("matrix.json", "w") as f:
         json.dump(matrix, f)
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ✔️ Wrote {len(jobs)} jobs to matrix.json")
-    print(jobs)
+    print(json.dumps(matrix, indent=2))
 
 
 
@@ -744,29 +760,79 @@ def run_job(args):
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Running sim with args {args}")
     content = Path(args.sim_file).read_text()
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Running sim for file {content}")
-
-    cmd = [
-        SIMC_CMD,
-        args.sim_file,
-        f"target_error={args.precision}",
-        f"iterations={args.iterations}",
-        "threads=10",
-        "log_spell_id=1",
-        "report_details=1",
-        f"json2={args.json_out}",
-        f"html={args.html_out}"
-    ]
+    # ── Repeat the sim args.repeats times, writing to temp files ────────────
     try:
-        subprocess.run(cmd, check=True)
+        dps_values = []
+        json_runs = []
+        html_runs = []
+        for i in range(1, args.repeats+1):
+            print(f"▶️ Repeat {i}/{args.repeats}")
+
+            # build per-run output paths: e.g. mysim.json.run1, mysim.html.run1
+            base_json = Path(args.json_out)
+            base_html = Path(args.html_out)
+            json_run = base_json.with_name(base_json.stem + f".run{i}" + base_json.suffix)
+            html_run = base_html.with_name(base_html.stem + f".run{i}" + base_html.suffix)
+
+            # run simc into these per-run files
+            cmd_run = [
+                SIMC_CMD,
+            args.sim_file,
+                f"target_error={args.precision}",
+                f"iterations={args.iterations}",
+                "threads=10",
+                "log_spell_id=1",
+                "report_details=1",
+                f"json2={json_run}",
+                f"html={html_run}"
+            ]
+    
+            res = subprocess.run(cmd_run, capture_output=True, text=True)
+            if res.returncode != 0:
+                raise print(f"WARNING SimC failed on repeat {i}: {res.stderr}")
+
+            # ── Load DPS & buffs from the generated JSON ────────────────────────
+            dps, _buff_map = load_dps_and_buffs(json_run)
+            print(f"   → DPS on run {i}: {dps:.2f}")
+    
+
+            dps_values.append(dps)
+            json_runs.append(json_run)
+            html_runs.append(html_run)
+
+        # ── Pick the run whose DPS is closest to the mean ───────────────────────
+        mean_dps = sum(dps_values) / len(dps_values)
+        diffs = [abs(d - mean_dps) for d in dps_values]
+        best_idx = diffs.index(min(diffs))
+        chosen_json = json_runs[best_idx]
+        chosen_html = html_runs[best_idx]
+
+        print(f"ℹ️ Mean DPS={mean_dps:.2f}, choosing run #{best_idx+1} with DPS={dps_values[best_idx]:.2f}")
+        
+        # Copy the chosen run outputs into the final destinations
+        shutil.copy(chosen_json, args.json_out)
+        shutil.copy(chosen_html, args.html_out)
+        print(f"✅ Final JSON: {args.json_out}, HTML: {args.html_out}")
+        # ── Cleanup: remove all temporary run files ─────────────────────────────
+        for temp in json_runs + html_runs:
+            try:
+                Path(temp).unlink()
+            except Exception as e:
+                print(f"⚠️ Failed to delete temp file {temp}: {e}")
+        print("🧹 Cleaned up temporary sim files.")
+        return
     except Exception as e:
-        # log the failure
-        print(f"WARNING: simc failed for {args.sim_file}: {e}")
-        # ensure output directory exists
+        # On any error, still produce a valid empty JSON and exit gracefully
+        print(f"⚠️ Error during sim-job: {e}")
         out_path = Path(args.json_out)
         out_path.parent.mkdir(parents=True, exist_ok=True)
-        # write an empty-but-valid JSON structure
         empty = {"error": "simc_failed", "profiles": [], "stats": {}}
         out_path.write_text(json.dumps(empty))
+        # also ensure an (empty) HTML exists so later steps won't break
+        html_path = Path(args.html_out)
+        html_path.parent.mkdir(parents=True, exist_ok=True)
+        html_path.write_text("") 
+        print(f"✏️ Wrote empty JSON to {out_path} and stub HTML to {html_path}")
         return
 
 
@@ -786,6 +852,7 @@ if __name__ == "__main__":
     parser.add_argument("--pi",          type=lambda v: v.lower() in ("1","true"), help="Enable Power Infusion")
     parser.add_argument("--precision",   type=float, default=0.1, help="Statistical precision (%)")
     parser.add_argument("--iterations",   type=int, default=0.1, help="# of iterations to run")
+    parser.add_argument("--repeats",      type=int, default=1,   help="How many times to repeat each sim and aggregate")
 
     args = parser.parse_args()
     if args.prepare:

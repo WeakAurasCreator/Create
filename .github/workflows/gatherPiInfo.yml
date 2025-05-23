@@ -98,6 +98,8 @@ jobs:
         with:
           name: simc-binary
           path: simc-dist
+      - name: Download jq (for looping JSON arrays)
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Make simc executable
         run: chmod +x simc-dist/simc
@@ -105,19 +107,28 @@ jobs:
       - name: Add simc to PATH
         run: echo "${{ github.workspace }}/simc-dist" >> $GITHUB_PATH
 
-      - name: Run one sim
+      - name: Run all sims for one spec
         run: |
-          python backend_scripts/gather_pi_data_matrix.py \
-            --run-job \
-            --sim-file="${{ matrix.sim_file }}" \
-            --json-out="${{ matrix.json_out }}" \
-            --html-out="${{ matrix.html_out }}" \
-            --class="${{ matrix.class }}" \
-            --spec="${{ matrix.spec }}" \
-            --targets="${{ matrix.targets }}" \
-            --pi="${{ matrix.pi }}" \
-            --precision=0.05 \
-            --iterations=50000 \
+         echo '${{ toJson(matrix.jobs) }}' | jq -c '.[]' | while read job; do
+            sim_file=$(echo "$job" | jq -r .sim_file)
+            json_out=$(echo "$job" | jq -r .json_out)
+            html_out=$(echo "$job" | jq -r .html_out)
+            cls=$(echo "$job" | jq -r .class)
+            spec=$(echo "$job" | jq -r .spec)
+            targets=$(echo "$job" | jq -r .targets)
+            pi=$(echo "$job" | jq -r .pi)
+
+            python backend_scripts/gather_pi_data_matrix.py \
+              --run-job \
+              --sim-file="$sim_file" \
+              --json-out="$json_out" \
+              --html-out="$html_out" \
+              --class="$cls" \
+              --spec="$spec" \
+              --targets="$targets" \
+              --pi="$pi" \
+              --precision=0.05 \
+              --iterations=50000 \
 
       - name: Upload json sim result
         uses: actions/upload-artifact@v4
