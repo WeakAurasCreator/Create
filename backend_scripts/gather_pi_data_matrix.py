@@ -741,7 +741,7 @@ def prepare_matrix():
             continue
         cfg = PROFILE_MAP[key]
         cls = cfg["classSlug"]; spec = cfg["specSlug"]
-        
+
         text = strip_unnecessary_sections(text)
         # fetch top talents & inject
         raid_build, raid_gear = fetch_top_data(wcl_token, raid_ids, cls, spec)
@@ -765,12 +765,12 @@ def prepare_matrix():
                     tgt_block += f"enemy=TrainingDummy{i}\n"
                 full_profile = prof + pi_block + tgt_block
 
-                simf = PROFILE_PATH / fname
+                simf = PROFILE_PATH /cls / spec / fname
                 simf.write_text(full_profile)
                 jobs.append({
                     "sim_file": str(simf),
-                    "json_out": str(FINAL_SIM_PATH / fname.replace('.simc','.json')),
-                    "html_out": str(FINAL_SIM_PATH / fname.replace('.simc','.html')),
+                    "json_out": str(FINAL_SIM_PATH /cls / spec / fname.replace('.simc','.json')),
+                    "html_out": str(FINAL_SIM_PATH /cls / spec / fname.replace('.simc','.html')),
                     "class": cls,
                     "spec": spec,
                     "targets": nt,
