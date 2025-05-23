@@ -150,6 +150,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+      - name: Fetch and fast-forward to origin/main
+        run: |
+          git fetch origin ${{ github.ref_name }}
+          git merge --ff-only origin/${{ github.ref_name }}
       - name: Download simc profiles
         uses: actions/download-artifact@v4       
         with:
