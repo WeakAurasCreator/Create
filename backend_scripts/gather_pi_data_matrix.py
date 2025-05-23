@@ -48,7 +48,7 @@ inventory_type_map = {
    12:  "trinket",
    13:  "one_hand",
    14:  "off_hand",
-   15:  "ranged",
+   15:  "main_hand",
    16:  "back",
    17:  "main_hand",
    18:  "bag",
