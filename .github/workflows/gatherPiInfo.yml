@@ -109,7 +109,8 @@ jobs:
 
       - name: Run all sims for one spec
         run: |
-         echo '${{ toJson(matrix.jobs) }}' | jq -c '.[]' | while read job; do
+          # Emit the JSON array and iterate each element
+          printf '%s\n' "${{ toJson(matrix.jobs) }}" | jq -c '.[]' | while read -r job; do
             sim_file=$(echo "$job" | jq -r .sim_file)
             json_out=$(echo "$job" | jq -r .json_out)
             html_out=$(echo "$job" | jq -r .html_out)
@@ -129,7 +130,9 @@ jobs:
               --pi="$pi" \
               --precision=0.05 \
               --iterations=50000 \
+              --repeats=3
           done
+
 
       - name: Upload json sim result
         uses: actions/upload-artifact@v4
