@@ -225,12 +225,26 @@ jobs:
           git add data/sims/final_sims/**/*.json
           git add data/sims/final_sims/**/*.html
 
-          # commit if there are changes
+          # Commit only if there are changes
           if git diff --cached --quiet; then
-            echo "No simulation data changed."
+            echo "No changes to commit"
           else
-            git commit -m "Updated simulation data"
-            git push
+            git commit -m "Updated Simulation data"
+          fi
+          # throw away any non commited changes
+          git reset --hard                
+          git clean -fd 
+          
+          # Pull latest changes, fail only on actual errors
+          if ! git pull --rebase; then
+            echo "Error during git pull" >&2
+            exit 1
+          fi
+      
+          # Push changes, fail if there's an actual error
+          if ! git push; then
+            echo "Error during git push" >&2
+            exit 1
           fi
              
 
