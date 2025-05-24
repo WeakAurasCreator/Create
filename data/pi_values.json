@@ -21025,8 +21025,8 @@
     "dps_delta": 160132.28,
     "dps_pct_gain": 3.9,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     },
     "gear": {
       "head": {
@@ -21307,8 +21307,8 @@
     "dps_delta": 245899.83,
     "dps_pct_gain": 3.84,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     },
     "gear": {
       "head": {
@@ -21589,8 +21589,8 @@
     "dps_delta": 877978.65,
     "dps_pct_gain": 5.19,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     },
     "gear": {
       "head": {
@@ -21871,8 +21871,8 @@
     "dps_delta": 388080.54,
     "dps_pct_gain": 4.0,
     "pi_dep_spell_ids": {
-      "power_infusion": 10060,
-      "voidform": 194249
+      "voidform": 194249,
+      "power_infusion": 10060
     },
     "gear": {
       "head": {
@@ -23841,8 +23841,8 @@
     "dps_pct_gain": 3.01,
     "pi_dep_spell_ids": {
       "feral_spirit": 333957,
-      "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "doom_winds": 466772
     },
     "gear": {
       "head": {
@@ -24147,8 +24147,8 @@
     "dps_pct_gain": 2.74,
     "pi_dep_spell_ids": {
       "feral_spirit": 333957,
-      "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "doom_winds": 466772
     },
     "gear": {
       "head": {
@@ -24758,8 +24758,8 @@
     "dps_pct_gain": 3.34,
     "pi_dep_spell_ids": {
       "feral_spirit": 333957,
-      "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "doom_winds": 466772
     },
     "gear": {
       "head": {
@@ -25064,8 +25064,8 @@
     "dps_pct_gain": 2.89,
     "pi_dep_spell_ids": {
       "feral_spirit": 333957,
-      "doom_winds": 466772,
-      "ascendance": 114051
+      "ascendance": 114051,
+      "doom_winds": 466772
     },
     "gear": {
       "head": {
