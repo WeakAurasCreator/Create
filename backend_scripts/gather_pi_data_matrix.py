@@ -71,10 +71,12 @@ with open(Path("data")/"equippable-items.json", "r", encoding="utf-8") as f:
     raidbots_items = json.load(f)
 
 item_id_to_slot: dict[int,str] = {}
+item_id_to_icon: dict[int,str] = {}
 seen_unmapped: set[int] = set()
 for item in raidbots_items:
     inv = item.get("inventoryType")
     slot = inventory_type_map.get(inv)
+    item_id_to_icon[item["id"]] = item.get("icon", "")
     if slot:
         item_id_to_slot[item["id"]] = slot
     else:
@@ -539,6 +541,9 @@ def parse_gear_from_profile(text: str) -> dict[str, dict]:
                 entry["enchant_ids"] = v.split("/")
         # Only include if we found a real item
         if entry["id"] is not None:
+            icon_name = item_id_to_icon.get(entry["id"])
+            if icon_name:
+                entry["icon"] = f"data/icon/{icon_name}.jpg"
             gear[slot] = entry
     return gear
 
