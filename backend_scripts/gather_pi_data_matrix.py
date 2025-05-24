@@ -597,12 +597,13 @@ def run_sim_in_memory(profile_text, enable_pi, num_targets=1, character_class ="
 
     return float(dps_str), reverse_buff_map
 
-def load_dps_and_buffs(path: Path) -> float:
+def load_sim_data(path: Path) -> float:
     try:
         j = json.loads(path.read_text())
         player = j["sim"]["players"][0]
         cd = player.get("collected_data", {})
         dps = cd.get("dps", {}).get("mean")
+        talents = player.get("talents", "")
         buffs_all = player.get("buffs", []) + player.get("buffs_constant", [])
 
         buff_map: dict[str,int] = {}
@@ -625,7 +626,7 @@ def load_dps_and_buffs(path: Path) -> float:
             snake = to_snake(display_name)
             reverse_buff_map[snake] = sid
 
-        return float(dps), reverse_buff_map
+        return float(dps), reverse_buff_map, talents
     except Exception as e:
         print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] ⚠️ "
                 f"Failed to load DPS/buffs from '{path}': {e}")
@@ -655,8 +656,8 @@ def merge_results():
 
         
 
-        d0,buffs = load_dps_and_buffs(pair[False])
-        d1,buffs = load_dps_and_buffs(pair[True])
+        d0,buffs,talents = load_sim_data(pair[False])
+        d1,buffs,talents = load_sim_data(pair[True])
         print(d0, d1)
         delta = d1 - d0
         pct   = (delta / d0) * 100
@@ -694,6 +695,7 @@ def merge_results():
             "specId": next(v["specId"] for v in profile_map.values()
                            if v["classSlug"]==cls and v["specSlug"]==spec),
             "targets": nt,
+            "talents": talents,
             "dps_no_pi":    round(d0,2),
             "dps_with_pi":  round(d1,2),
             "dps_delta":    round(delta,2),
@@ -833,7 +835,7 @@ def run_job(args):
                 raise print(f"WARNING SimC failed on repeat {i}: {res.stderr}")
 
             # ── Load DPS & buffs from the generated JSON ────────────────────────
-            dps, _buff_map = load_dps_and_buffs(json_run)
+            dps, _buff_map, _talents = load_sim_data(json_run)
             print(f"   → DPS on run {i}: {dps:.2f}")
     
 
