@@ -454,10 +454,6 @@ def inject_gear_overrides(text: str, gear_map: dict[str, dict]) -> str:
         if "permanentEnchant" in info and info["permanentEnchant"]:
             segs.append("enchant_id=" + to_snake(info["permanentEnchant"]))
 
-        # Optional crafted stats?
-        if "craftedStats" in info and info["craftedStats"]:
-            segs.append("crafted_stats=" + "/".join(info["craftedStats"]))
-
         lines.append(",".join(segs))
 
     # Build the block to insert
@@ -515,6 +511,37 @@ def extract_external_buffs(profile_text: str) -> set[str]:
         for name in re.findall(r"(?<!\!)buff\.([a-z0-9_]+)\.remains>", line, flags=re.IGNORECASE):
             deps.add(name.lower())    
     return deps
+
+
+def parse_gear_from_profile(text: str) -> dict[str, dict]:
+    """
+    Scan lines like "head=slug,id=1234,bonus_id=1/2/3,gem_id=4/5,enchant_id=678"
+    and return a dict slot → { id:int, bonus_ids:[str], gem_ids:[str], enchant_ids:[str] }.
+    """
+    gear: dict[str, dict] = {}
+    slot_pattern = re.compile(
+        r"^(head|neck|shoulder|shoulders|back|chest|waist|legs|feet|wrist|wrists|hands|finger1|finger2|trinket1|trinket2|main_hand|off_hand|tabard|shirt)=(.+)$",
+        flags=re.MULTILINE
+    )
+    for match in slot_pattern.finditer(text):
+        slot, rest = match.groups()
+        parts = rest.split(",")
+        entry: dict[str, any] = {"id": None, "bonus_ids": [], "gem_ids": [], "enchant_ids": []}
+        for part in parts:
+            k, _, v = part.partition("=")
+            if k == "id":
+                entry["id"] = int(v)
+            elif k == "bonus_id":
+                entry["bonus_ids"] = v.split("/")
+            elif k == "gem_id":
+                entry["gem_ids"] = v.split("/")
+            elif k == "enchant_id":
+                entry["enchant_ids"] = v.split("/")
+        # Only include if we found a real item
+        if entry["id"] is not None:
+            gear[slot] = entry
+    return gear
+
 # ──────────────────────────────────────────────────────────
 # Helpers: Running SimC with/without PI & Parsing DPS
 # ──────────────────────────────────────────────────────────
@@ -689,6 +716,15 @@ def merge_results():
                     break
             valid_deps = {sid: sid for sid in backup}
         
+        # parse gear from the simc profile file
+        simc_path = PROFILE_PATH / cls / spec / f"{cls}_{spec}_{nt}_{1}.simc"
+        try:
+            profile_text = simc_path.read_text()
+            gear_map = parse_gear_from_profile(profile_text)
+        except Exception as e:
+            print(f"⚠️ Failed to parse gear from {simc_path}: {e}")
+            gear_map = {}
+
         results.append({
             "class": cls,
             "spec": spec,
@@ -701,6 +737,7 @@ def merge_results():
             "dps_delta":    round(delta,2),
             "dps_pct_gain": round(pct,2),
             "pi_dep_spell_ids": valid_deps,
+            "gear": gear_map,
         })
 
     # write the merged array
