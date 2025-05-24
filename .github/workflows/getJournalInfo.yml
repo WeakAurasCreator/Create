@@ -93,6 +93,39 @@ jobs:
           process_journal_section_x_difficulty()
           process_difficulty()
           EOF
+      
+      - name: Download WoW item icons
+        run: |
+          python - <<'EOF'
+          import os
+          import json
+          from urllib import request, error
+
+          # Load your items JSON
+          with open('data/equippable-items.json', 'r') as f:
+              items = json.load(f)
+
+          # Collect unique icon names
+          icons = {item.get('icon') for item in items if item.get('icon')}
+
+          # Ensure target directory exists
+          os.makedirs('data/icons', exist_ok=True)
+
+          # Download each icon exactly once
+          base_url = 'https://render.worldofwarcraft.com/eu/icons/56/{}.jpg'
+          for name in icons:
+              dest = f'data/icons/{name}.jpg'
+              if os.path.exists(dest):
+                  continue
+              try:
+                  print(f'Downloading {name}…')
+                  request.urlretrieve(base_url.format(name), dest)
+              except error.HTTPError as e:
+                  print(f'  → failed ({e.code}) for {name}')
+              except Exception as e:
+                  print(f'  → error for {name}: {e}')
+          EOF
+      
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
