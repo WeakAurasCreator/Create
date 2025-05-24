@@ -162,8 +162,15 @@ function renderChart(targetCount, data,ctx,chart) {
     spec: e.spec,
     targets: e.targets,
     talents: e.talents,
+    gear : e.gear,
+    spec_id: e.specId,
     gain: e.dps_delta > 0 ? e.dps_delta : 0,
+    dps_no_pi: e.dps_no_pi,
+    dps_with_pi: e.dps_with_pi,
+    dps_delta: e.dps_delta,
+    dps_pct_gain: e.dps_pct_gain,
   }));
+
   // Sort descending by gain
   specGains.sort((a, b) => b.gain - a.gain);
 
@@ -227,37 +234,129 @@ function renderChart(targetCount, data,ctx,chart) {
         // Only take the first bar clicked
         const bar = elements[0];
         const meta = specGains[bar.index]; 
-        const targets = meta.targets;
-        const cls   = meta.class;
-        const spec  = meta.spec;
-        const talents = meta.talents;
-        // Build URLs
-        const base = 'https://weakaurascreator.github.io/Create/data/sims/final_sims';
-        const path = `${cls}/${spec}/${cls}_${spec}_${targets}_`;
-        const urlNoPi   = `${base}/${path}0.html`;
-        const urlWithPi = `${base}/${path}1.html`;
-        // Set iframe srcs
-        document.getElementById('reportNoPi').href   = urlNoPi;
-        document.getElementById('reportWithPi').href = urlWithPi;
-        let talentHolder = document.createElement('a');
-        talentHolder.innerText = 'View Talents on Wowhead';
-        talentHolder.href = 'https://www.wowhead.com/talent-calc/embed/blizzard/' + talents;
-        document.getElementById('simReportTalents').replaceChildren(talentHolder);
-        // Show modal
-        const mouseOverEvent = new MouseEvent('mouseover', {
-          view: window,
-          bubbles: true,
-          cancelable: true
-        });
-        talentHolder.dispatchEvent(mouseOverEvent);
-
-        window.location.hash = 'piSimModal';
+        renderModal(meta);
       },
       responsive: true,
       maintainAspectRatio: false,
     },
   });
   return chart;
+}
+
+
+function formatSuffix(number) {
+  if (number >= 1e9)   return (number / 1e9).toFixed(2) + ' B';
+  if (number >= 1e6)   return (number / 1e6).toFixed(2) + ' M';
+  if (number >= 1e3)   return (number / 1e3).toFixed(2) + ' K';
+  return Math.round(number).toLocaleString();
+}
+
+function renderModal(meta){
+  console.log('Rendering modal with meta:', meta);
+        const { targets, class: cls, spec, talents, gear, spec_id,
+          dps_no_pi, dps_with_pi, dps_delta, dps_pct_gain } = meta;
+        // Build URLs
+        const base = 'https://weakaurascreator.github.io/Create/data/sims/final_sims';
+        const path = `${cls}/${spec}/${cls}_${spec}_${targets}_`;
+        const urlNoPi   = `${base}/${path}0.html`;
+        const urlWithPi = `${base}/${path}1.html`;
+
+        // DPS stats
+          document.getElementById('dpsNoPiValue').textContent    = formatSuffix(dps_no_pi);
+          document.getElementById('dpsWithPiValue').textContent  = formatSuffix(dps_with_pi);
+          document.getElementById('dpsDeltaValue').textContent   = formatSuffix(dps_delta);
+          document.getElementById('dpsPctGainValue').textContent = dps_pct_gain.toFixed(2);
+
+        // Set links
+        document.getElementById('simulation-header').textContent = `Details for ${targets} Target${targets > 1 ? 's' : ''}`;
+        document.getElementById('reportNoPi').href   = urlNoPi;
+        document.getElementById('reportWithPi').href = urlWithPi;
+        let talentHolder = document.createElement('a');
+        talentHolder.innerText = 'View Talents on Wowhead';
+        talentHolder.href = 'https://www.wowhead.com/talent-calc/embed/blizzard/' + talents;
+        document.getElementById('simReportTalents').replaceChildren(talentHolder);
+        // dirty hack to render the wowhead tooltip by mousing over the link
+        const mouseOverEvent = new MouseEvent('mouseover', {
+          view: window,
+          bubbles: true,
+          cancelable: true
+        });
+        
+        talentHolder.dispatchEvent(mouseOverEvent);
+        renderGear(gear,spec_id);
+
+        updateArchonLinks(meta);
+        window.location.hash = 'piSimModal';
+        localStorage.setItem('piLastMeta', JSON.stringify(meta));
+}
+
+function updateArchonLinks(meta) {
+          const { class: cls, spec, targets } = meta;
+          // slugify class & spec
+          const specSlug  = spec.toLowerCase();
+          const classSlug = cls.toLowerCase();
+
+          // decide URL based on target count
+          let archonURL;
+          if (targets === 1) {
+            // —— single-target raid guide —— 
+            // replace `<RAID_SLUG>` with your raid’s actual slug, e.g. "vault-of-the-incarnates"
+            archonURL = `https://www.archon.gg/wow/builds/${specSlug}/${classSlug}/raid/overview/mythic/all-bosses`;
+          } else {
+            // —— multi-target (M+) guide ——
+            archonURL = `https://www.archon.gg/wow/builds/${specSlug}/${classSlug}/mythic-plus/overview/high-keys/all-dungeons/this-week`;
+          }
+
+          // update both the logo link and the text link
+          document.getElementById('archonLink')    .href = archonURL;
+          document.getElementById('archonLinkText').href = archonURL;
+        }
+
+function renderGear(gear, spec_id){
+        let gearHolder =  document.getElementById('simReportGear')
+        console.log(typeof gear)
+        gearHolder.replaceChildren(); // clear previous gear items
+        for (const [key, item] of Object.entries(gear)) {
+          let gearItem = document.createElement('a');
+          gearItem.target = '_blank';
+          gearItem.classList.add('gear-item');
+          let gearIcon = document.createElement('img');
+          gearIcon.src = item.icon
+          gearItem.appendChild(gearIcon);
+          gearItem.href = `https://www.wowhead.com/item=${item.id}`;
+          
+          let attributes = ""
+          if (item.bonus_ids && item.bonus_ids.length > 0) {
+            if (attributes.length > 0) {
+              attributes += '&';
+            }
+            attributes += `bonus=${item.bonus_ids.join(':')}`;
+          }
+          if (item.gem_ids && item.gem_ids.length > 0) {
+            if (attributes.length > 0) {
+              attributes += '&';
+            }
+            attributes += `gems=${item.gem_ids.join(':')}`;
+          }
+          if (item.enchant_ids && item.enchant_ids.length > 0) {
+            if (attributes.length > 0) {
+              attributes += '&';
+            }
+            attributes += `ench=${item.enchant_ids.join(':')}`;
+          }
+
+          if (attributes.length > 0) {
+            attributes += '&';
+          }
+          attributes += `spec=${spec_id}`;
+          
+
+          gearItem.setAttribute("data-wowhead", attributes);
+
+          gearHolder.appendChild(gearItem);
+          
+          
+        };
 }
 
 function setupPiData(data ) {
@@ -424,4 +523,26 @@ document.addEventListener('DOMContentLoaded', () => {
   advToggle.addEventListener('change', () => {
     advSettings.classList.toggle('d-none', !advToggle.checked);
   });
+
+
+  if (window.location.hash === '#piSimModal') {
+    const saved = localStorage.getItem('piLastMeta');
+    if (saved) {
+      try {
+        renderModal(JSON.parse(saved));
+      } catch (e) {
+        console.error('Failed to reload PI simulation data:', e);
+      }
+    }
+    else{
+      console.warn('No saved PI simulation data found.');
+      window.location.hash = ''; // Clear hash if no data
+    }
+  }
+});
+
+window.addEventListener('hashchange', () => {
+  if (window.location.hash !== '#piSimModal') {
+    localStorage.removeItem('piLastMeta');
+  }
 });

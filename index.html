@@ -164,22 +164,81 @@
 				</div>
 			</article>
 			<article id="piSimModal" aria-labelledby="simReportModalLabel">
-				<h2 class="major">Setup</h2>
+				
+				<h2 id ="simulation-header" class="major">Details for Simulation</h2>
 				<h6>Talents</h6>
 				<div id="simReportTalents">
 					View Talents
 				</div>
-				<h2 class="major">Simulation Reports</h2>
-
-				<div class="flex-fill">
-					<h6>Without Power Infusion</h6>
-					<a id="reportNoPi" href="" target="_blank"> See Full Report</a>
+				<h6>Gear</h6>
+				<div id="simReportGear" class="gear-grid two-column">
 
 				</div>
 
-				<div class="flex-fill">
-					<h6>With Power Infusion</h6>
-					<a id="reportWithPi" href="" target="_blank"> See Full Report</a>
+				<div id="archonAttribution" class="archon-link mt-4 text-center">
+					<a id="archonLink" href="#" target="_blank" rel="noopener">
+						<img src="https://assets.rpglogs.com/img/archon/logo.svg" alt="Archon Logo"
+							style="width:120px;" />
+					</a>
+					<p class="mt-2">
+						Data driven by Archon. For further details on each spec, check their
+						<a id="archonLinkText" href="#" target="_blank" rel="noopener">official guides</a>.
+					</p>
+				</div>
+				<div class="simulation-reports">
+					<h2 class="major text-center mb-4">Simulation Reports</h2>
+
+					<div class="row gx-4 gy-3">
+						<div class="col-md-6">
+							<div class="card text-white bg-dark h-100">
+								<div class="card-header">
+									Without Power Infusion
+								</div>
+								<div class="card-body d-flex flex-column align-items-center justify-content-center">
+									<p class="mb-1">
+										<strong>DPS:</strong>
+										<span id="dpsNoPiValue">–</span>
+									</p>
+									<a id="reportNoPi" class="btn btn-outline-secondary" href="" target="_blank">
+										See Full Report
+									</a>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-6">
+							<div class="card text-white bg-dark h-100">
+								<div class="card-header">
+									With Power Infusion
+								</div>
+								<div class="card-body d-flex flex-column align-items-center justify-content-center">
+									<p class="mb-1">
+          <strong>DPS:</strong>
+          <span id="dpsWithPiValue">–</span>
+        </p>
+									<a id="reportWithPi" class="btn btn-outline-secondary" href="" target="_blank">
+										See Full Report
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="text-center mt-3 text-white">
+  <p class="mb-0">
+    <strong>Difference:</strong>
+    <span id="dpsDeltaValue">–</span>
+  </p>
+  <p>
+    <strong>Gain:</strong>
+    <span id="dpsPctGainValue">–</span> %
+  </p>
+</div>
+					<p class="text-center mt-4 small text-muted">
+						Simulation results powered by
+						<a href="https://www.simulationcraft.org" target="_blank" class="text-decoration-underline">
+							SimulationCraft
+						</a>
+					</p>
 
 				</div>
 			</article>
@@ -245,7 +304,7 @@
 							</div>
 							<div class="adv-control">
 								<label for="iconSizeSelect" class="form-label">Icon Size:</label>
-								<select id="iconSizeSelect"  data-style="btn-dark" class="selectpicker">
+								<select id="iconSizeSelect" data-style="btn-dark" class="selectpicker">
 									<option value="8">Very Small (8px)</option>
 									<option value="16">Small (16px)</option>
 									<option value="32" selected>Medium (32px)</option>
@@ -391,8 +450,13 @@
 
 
 	<script src="assets/js/script.js"></script>
-	<script>const whTooltips = { colorLinks: true, iconizeLinks: true, renameLinks: true };</script>
+	<script>const whTooltips = {
+			colorLinks: false,
+			iconizeLinks: false,
+			renameLinks: false,
+		};</script>
 	<script src="https://wow.zamimg.com/js/tooltips.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?always=1"></script>
 
 </body>
 
