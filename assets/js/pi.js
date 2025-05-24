@@ -323,7 +323,7 @@ function renderGear(gear, spec_id){
           let gearIcon = document.createElement('img');
           gearIcon.src = item.icon
           gearItem.appendChild(gearIcon);
-          gearItem.href = `https://www.wowhead.com/item=${item.id}`;
+          
           
           let attributes = ""
           if (item.bonus_ids && item.bonus_ids.length > 0) {
@@ -350,7 +350,7 @@ function renderGear(gear, spec_id){
           }
           attributes += `spec=${spec_id}`;
           
-
+          gearItem.href = `https://www.wowhead.com/item=${item.id}?${attributes}`;
           gearItem.setAttribute("data-wowhead", attributes);
 
           gearHolder.appendChild(gearItem);
