@@ -35,8 +35,12 @@ jobs:
       - name: Generate description texts
         run: |
             python backend_scripts/generate_pi_description_text.py
-      - name: Auto-commit & push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Updated Pi Results"
-          file_pattern: "data/**"
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git config pull.rebase true   # rebase
+          git add data/
+          git commit -m "Updated Pi Data" || echo "No changes to commit"
+          git pull || echo "No changes to pull"
+          git push || echo "No changes to push"

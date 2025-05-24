@@ -150,10 +150,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch and fast-forward to origin/main
-        run: |
-          git fetch origin ${{ github.ref_name }}
-          git merge --ff-only origin/${{ github.ref_name }}
       - name: Download simc profiles
         uses: actions/download-artifact@v4       
         with:
@@ -214,14 +210,27 @@ jobs:
           git add data/sims/final_sims/**/*.json
           git add data/sims/final_sims/**/*.html
 
-      - name: Auto-commit & push   
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          file_pattern: |
-            :(glob)data/sims/profiles/**/*.simc
-            :(glob)data/sims/final_sims/**/*.json
-            :(glob)data/sims/final_sims/**/*.html
-          disable_globbing: true
-          commit_message: "Updated simulation outputs"
+      - name: Commit and push simulation outputs
+        run: |
+          # set up git identity
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git config pull.rebase true
+
+          # make sure we're up to date
+          git pull
+
+          # add only the sim files we care about
+          git add data/sims/profiles/**/*.simc
+          git add data/sims/final_sims/**/*.json
+          git add data/sims/final_sims/**/*.html
+
+          # commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No simulation data changed."
+          else
+            git commit -m "Updated simulation data"
+            git push
+          fi
              
 
