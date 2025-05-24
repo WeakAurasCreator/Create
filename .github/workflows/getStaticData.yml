@@ -1,4 +1,4 @@
-name: Gather Journal info
+name: Gather Static WoW data
 
 on:
   schedule:
@@ -99,31 +99,37 @@ jobs:
           python - <<'EOF'
           import os
           import json
-          from urllib import request, error
+          import urllib.request
+          import urllib.error
+          from concurrent.futures import ThreadPoolExecutor, as_completed
 
-          # Load your items JSON
+          # Load items
           with open('data/equippable-items.json', 'r') as f:
               items = json.load(f)
 
-          # Collect unique icon names
+          # Unique icon names
           icons = {item.get('icon') for item in items if item.get('icon')}
 
-          # Ensure target directory exists
+          # Ensure output directory exists
           os.makedirs('data/icons', exist_ok=True)
 
-          # Download each icon exactly once
-          base_url = 'https://render.worldofwarcraft.com/eu/icons/56/{}.jpg'
-          for name in icons:
-              dest = f'data/icons/{name}.jpg'
-              if os.path.exists(dest):
-                  continue
+          # Download function
+          def download_icon(icon_name):
+              url = f'https://render.worldofwarcraft.com/eu/icons/56/{icon_name}.jpg'
+              dest = f'data/icons/{icon_name}.jpg'
               try:
-                  print(f'Downloading {name}…')
-                  request.urlretrieve(base_url.format(name), dest)
-              except error.HTTPError as e:
-                  print(f'  → failed ({e.code}) for {name}')
+                  urllib.request.urlretrieve(url, dest)
+                  return f"Downloaded: {icon_name}"
+              except urllib.error.HTTPError as e:
+                  return f"Failed ({e.code}) for {icon_name}"
               except Exception as e:
-                  print(f'  → error for {name}: {e}')
+                  return f"Error for {icon_name}: {e}"
+
+          # Use thread pool to parallelize downloads
+          with ThreadPoolExecutor(max_workers=100) as executor:
+              futures = {executor.submit(download_icon, icon): icon for icon in icons}
+              for future in as_completed(futures):
+                  print(future.result())
           EOF
       
       - name: Commit and push changes
