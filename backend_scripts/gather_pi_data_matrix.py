@@ -543,7 +543,7 @@ def parse_gear_from_profile(text: str) -> dict[str, dict]:
         if entry["id"] is not None:
             icon_name = item_id_to_icon.get(entry["id"])
             if icon_name:
-                entry["icon"] = f"data/icon/{icon_name}.jpg"
+                entry["icon"] = f"data/icons/{icon_name}.jpg"
             gear[slot] = entry
     return gear
 
