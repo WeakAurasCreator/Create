@@ -1,10 +1,9 @@
 paladin="TWW2_Paladin_Retribution"
 source=default
 spec=retribution
-head=aureate_sentrys_pledge,id=229244,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652
+head=aureate_sentrys_pledge,id=229244,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213458
 neck=semicharmed_amulet,id=228841,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213743
 shoulder=aureate_sentrys_roaring_will,id=229242,bonus_id=10255/10390/11962/12179/12376/1533/6652
-shirt=fashionable_undershirt,id=151116
 chest=aureate_sentrys_encasement,id=229247,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
 waist=aureate_sentrys_greatbelt,id=229241,bonus_id=10255/10356/12176/12376/1533/6652/8095
 legs=aureate_sentrys_legguards,id=229243,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7601
@@ -13,16 +12,15 @@ wrist=everforged_vambraces,id=222435,bonus_id=10421/11303/12040/12043/12176/1237
 hands=aureate_sentrys_gauntlets,id=229245,bonus_id=10255/10356/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8791/8902/8960/9627/9633,enchant_id=7403
 main_hand=bestinslots,id=232526,bonus_id=10255/10356/12376/1533/6652/9418,enchant_id=7439
-tabard=tabard_of_the_lightbringer,id=52252
 finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7334
-finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12040/12043/12373/8791/8902/9627/9633,gem_id=213458/213458,enchant_id=7334
+finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12040/12043/12373/8790/8902/9627/9633,gem_id=213455/213455,enchant_id=7334
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12376/1520/6652
 trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=human
 role=attack
 position=back
-class_talents=102465:1/102479:1/102518:1/102583:1/102584:1/102587:1/102589:1/102590:1/102591:1/102592:1/102595:1/102597:1/102602:1/102603:1/102604:1/102612:2/102615:1/102622:1/102625:1/115034:2/115239:1/115454:1/115468:1/115481:1/128239:2/128243:1/128251:1/128257:1/128259:1/128260:1/128263:1
+class_talents=102465:1/102479:1/102518:1/102583:1/102584:1/102587:1/102590:1/102591:1/102592:1/102595:1/102597:1/102602:1/102603:1/102604:1/102612:2/102615:1/102622:1/102625:1/115034:2/115239:1/115454:1/115468:1/115481:1/128239:2/128243:1/128251:1/128255:1/128257:1/128259:1/128260:1/128263:1
 spec_talents=102491:1/102493:1/102497:1/102498:1/102499:1/102504:1/102506:1/102510:1/102511:1/102513:1/102515:1/102525:1/114824:1/114830:1/115016:1/115020:1/115021:1/115022:1/115024:1/115043:1/115051:1/115165:2/115438:1/115443:1/115452:1/115453:1/115474:1/125129:1/125130:1
 hero_talents=117810:1/117811:1/117812:1/117813:1/117815:1/117816:1/117818:1/117819:1/117822:1/117823:1/117858:1
 
@@ -32,96 +30,6 @@ flask=flask_of_alchemical_chaos_3
 food=the_sushi_special
 augmentation=crystallized
 temporary_enchant=main_hand:algari_mana_oil_3
-
-# This default action priority list is automatically created based on your character.
-# It is a attempt to provide you with a action list that is both simple and practicable,
-# while resulting in a meaningful and good simulation. It may not result in the absolutely highest possible dps.
-# Feel free to edit, adapt and improve it to your own needs.
-# SimulationCraft is always looking for updates and improvements to the default action lists.
-
-# Executed before combat begins. Accepts non-harmful actions only.
-# Snapshot raid buffed stats before combat begins and pre-potting is done.
-actions.precombat=snapshot_stats
-actions.precombat+=/shield_of_vengeance
-actions.precombat+=/variable,name=trinket_1_buffs,value=trinket.1.has_buff.strength|trinket.1.has_buff.mastery|trinket.1.has_buff.versatility|trinket.1.has_buff.haste|trinket.1.has_buff.crit
-actions.precombat+=/variable,name=trinket_2_buffs,value=trinket.2.has_buff.strength|trinket.2.has_buff.mastery|trinket.2.has_buff.versatility|trinket.2.has_buff.haste|trinket.2.has_buff.crit
-actions.precombat+=/variable,name=trinket_1_sync,op=setif,value=1,value_else=0.5,condition=variable.trinket_1_buffs&(trinket.1.cooldown.duration%%cooldown.crusade.duration=0|cooldown.crusade.duration%%trinket.1.cooldown.duration=0|trinket.1.cooldown.duration%%cooldown.avenging_wrath.duration=0|cooldown.avenging_wrath.duration%%trinket.1.cooldown.duration=0)
-actions.precombat+=/variable,name=trinket_2_sync,op=setif,value=1,value_else=0.5,condition=variable.trinket_2_buffs&(trinket.2.cooldown.duration%%cooldown.crusade.duration=0|cooldown.crusade.duration%%trinket.2.cooldown.duration=0|trinket.2.cooldown.duration%%cooldown.avenging_wrath.duration=0|cooldown.avenging_wrath.duration%%trinket.2.cooldown.duration=0)
-actions.precombat+=/variable,name=trinket_priority,op=setif,value=2,value_else=1,condition=!variable.trinket_1_buffs&variable.trinket_2_buffs|variable.trinket_2_buffs&((trinket.2.cooldown.duration%trinket.2.proc.any_dps.duration)*(1.5+trinket.2.has_buff.strength)*(variable.trinket_2_sync))>((trinket.1.cooldown.duration%trinket.1.proc.any_dps.duration)*(1.5+trinket.1.has_buff.strength)*(variable.trinket_1_sync))
-
-# Executed every time the actor is available.
-actions=auto_attack
-actions+=/rebuke
-actions+=/call_action_list,name=cooldowns
-actions+=/call_action_list,name=generators
-
-actions.cooldowns=potion,if=buff.avenging_wrath.up|buff.crusade.up|debuff.execution_sentence.up|fight_remains<30
-actions.cooldowns+=/invoke_external_buff,name=power_infusion,if=buff.avenging_wrath.up|buff.crusade.up|debuff.execution_sentence.up
-actions.cooldowns+=/lights_judgment,if=spell_targets.lights_judgment>=2|!raid_event.adds.exists|raid_event.adds.in>75|raid_event.adds.up
-actions.cooldowns+=/fireblood,if=buff.avenging_wrath.up|buff.crusade.up&buff.crusade.stack=10|debuff.execution_sentence.up
-actions.cooldowns+=/use_item,slot=trinket1,if=((buff.avenging_wrath.up&cooldown.avenging_wrath.remains>40|buff.crusade.up&buff.crusade.stack=10)&!talent.radiant_glory|talent.radiant_glory&(!talent.execution_sentence&cooldown.wake_of_ashes.remains=0|debuff.execution_sentence.up))&(!trinket.2.has_cooldown|trinket.2.cooldown.remains|variable.trinket_priority=1)|trinket.1.proc.any_dps.duration>=fight_remains
-actions.cooldowns+=/use_item,slot=trinket2,if=((buff.avenging_wrath.up&cooldown.avenging_wrath.remains>40|buff.crusade.up&buff.crusade.stack=10)&!talent.radiant_glory|talent.radiant_glory&(!talent.execution_sentence&cooldown.wake_of_ashes.remains=0|debuff.execution_sentence.up))&(!trinket.1.has_cooldown|trinket.1.cooldown.remains|variable.trinket_priority=2)|trinket.2.proc.any_dps.duration>=fight_remains
-actions.cooldowns+=/use_item,name=bestinslots,if=((buff.avenging_wrath.up&cooldown.avenging_wrath.remains>40|buff.crusade.up&buff.crusade.stack=10)&!talent.radiant_glory|talent.radiant_glory&(!talent.execution_sentence&cooldown.wake_of_ashes.remains=0|debuff.execution_sentence.up))
-actions.cooldowns+=/use_item,slot=trinket1,if=!variable.trinket_1_buffs&(trinket.2.cooldown.remains|!variable.trinket_2_buffs|!buff.crusade.up&cooldown.crusade.remains>20|!buff.avenging_wrath.up&cooldown.avenging_wrath.remains>20)
-actions.cooldowns+=/use_item,slot=trinket2,if=!variable.trinket_2_buffs&(trinket.1.cooldown.remains|!variable.trinket_1_buffs|!buff.crusade.up&cooldown.crusade.remains>20|!buff.avenging_wrath.up&cooldown.avenging_wrath.remains>20)
-actions.cooldowns+=/shield_of_vengeance,if=fight_remains>15&(!talent.execution_sentence|!debuff.execution_sentence.up)&!buff.divine_hammer.up
-actions.cooldowns+=/execution_sentence,if=(!buff.crusade.up&cooldown.crusade.remains>15|buff.crusade.stack=10|cooldown.avenging_wrath.remains<0.75|cooldown.avenging_wrath.remains>15|talent.radiant_glory)&(holy_power>=4&time<5|holy_power>=3&time>5|(holy_power>=2|time<5)&(talent.divine_auxiliary|talent.radiant_glory))&(cooldown.divine_hammer.remains>5|buff.divine_hammer.up|!talent.divine_hammer)&(target.time_to_die>8&!talent.executioners_will|target.time_to_die>12)&cooldown.wake_of_ashes.remains<gcd
-actions.cooldowns+=/avenging_wrath,if=(holy_power>=4&time<5|holy_power>=3&time>5|holy_power>=2&talent.divine_auxiliary&(cooldown.execution_sentence.remains=0|cooldown.final_reckoning.remains=0))&(!raid_event.adds.up|target.time_to_die>10)
-actions.cooldowns+=/crusade,if=holy_power>=5&time<5|holy_power>=3&time>5
-actions.cooldowns+=/final_reckoning,if=(holy_power>=4&time<8|holy_power>=3&time>=8|holy_power>=2&(talent.divine_auxiliary|talent.radiant_glory))&(cooldown.avenging_wrath.remains>10|cooldown.crusade.remains&(!buff.crusade.up|buff.crusade.stack>=10)|talent.radiant_glory&(buff.avenging_wrath.up|talent.crusade&cooldown.wake_of_ashes.remains<gcd))&(!raid_event.adds.exists|raid_event.adds.up|raid_event.adds.in>40)
-
-actions.finishers=variable,name=ds_castable,value=(spell_targets.divine_storm>=2|buff.empyrean_power.up|!talent.final_verdict&talent.tempest_of_the_lightbringer)&!buff.empyrean_legacy.up&!(buff.divine_arbiter.up&buff.divine_arbiter.stack>24)
-actions.finishers+=/hammer_of_light,if=buff.hammer_of_light_ready.up|!talent.divine_hammer|buff.divine_hammer.up|cooldown.divine_hammer.remains>10
-actions.finishers+=/divine_hammer,if=!buff.divine_hammer.up
-actions.finishers+=/divine_storm,if=variable.ds_castable&!buff.hammer_of_light_ready.up&(cooldown.divine_hammer.remains|buff.divine_hammer.up|!talent.divine_hammer)&(!talent.crusade|cooldown.crusade.remains>gcd*3|buff.crusade.up&buff.crusade.stack<10|talent.radiant_glory)
-actions.finishers+=/justicars_vengeance,if=(!talent.crusade|cooldown.crusade.remains>gcd*3|buff.crusade.up&buff.crusade.stack<10|talent.radiant_glory)&!buff.hammer_of_light_ready.up&(cooldown.divine_hammer.remains|buff.divine_hammer.up|!talent.divine_hammer)
-actions.finishers+=/templars_verdict,if=(!talent.crusade|cooldown.crusade.remains>gcd*3|buff.crusade.up&buff.crusade.stack<10|talent.radiant_glory)&!buff.hammer_of_light_ready.up&(cooldown.divine_hammer.remains|buff.divine_hammer.up|!talent.divine_hammer)
-
-actions.generators=call_action_list,name=finishers,if=(holy_power=5|holy_power=4&buff.divine_resonance.up|buff.all_in.up)&cooldown.wake_of_ashes.remains
-actions.generators+=/templar_slash,if=buff.templar_strikes.remains<gcd*2
-actions.generators+=/blade_of_justice,if=!dot.expurgation.ticking&talent.holy_flames&cooldown.divine_toll.remains
-actions.generators+=/wake_of_ashes,if=(!talent.lights_guidance|holy_power>=2&talent.lights_guidance)&(cooldown.avenging_wrath.remains>6|cooldown.crusade.remains>6|talent.radiant_glory)&(!talent.execution_sentence|cooldown.execution_sentence.remains>4|target.time_to_die<8)&(!raid_event.adds.exists|raid_event.adds.in>10|raid_event.adds.up)
-actions.generators+=/divine_toll,if=holy_power<=2&(!raid_event.adds.exists|raid_event.adds.in>10|raid_event.adds.up)&(cooldown.avenging_wrath.remains>15|cooldown.crusade.remains>15|talent.radiant_glory|fight_remains<8)
-actions.generators+=/call_action_list,name=finishers
-actions.generators+=/templar_slash,if=buff.templar_strikes.remains<gcd&spell_targets.divine_storm>=2
-actions.generators+=/blade_of_justice,if=spell_targets.divine_storm>=2&talent.blade_of_vengeance
-actions.generators+=/hammer_of_wrath,if=(spell_targets.divine_storm<2|!talent.blessed_champion)&buff.blessing_of_anshe.up
-actions.generators+=/templar_strike
-actions.generators+=/judgment
-actions.generators+=/blade_of_justice
-actions.generators+=/hammer_of_wrath,if=(spell_targets.divine_storm<2|!talent.blessed_champion)
-actions.generators+=/templar_slash
-actions.generators+=/crusader_strike
-actions.generators+=/hammer_of_wrath
-actions.generators+=/arcane_torrent
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Gear Summary
-# gear_ilvl=677.60
-# gear_strength=56402
-# gear_stamina=391524
-# gear_crit_rating=12953
-# gear_haste_rating=14561
-# gear_mastery_rating=17665
-# gear_versatility_rating=147
-# gear_armor=72548
-# set_bonus=thewarwithin_season_2_2pc=1
-# set_bonus=thewarwithin_season_2_4pc=1
 # Power Infusion override
 external_buffs.pool=power_infusion:120:1
 
