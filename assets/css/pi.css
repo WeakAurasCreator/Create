@@ -113,4 +113,16 @@ body, html {
   margin-top: 2rem;
 }
   
+
+/* override the built-in 200px bottom padding */
+.wowhead-embed-talent-calc > div {
+  /* original: padding-top: calc(55.555% + 200px); */
+  padding-top: 58.55% !important;
+}
+
+/* if you want the container height to collapse to the iframe's content */
+.wowhead-embed-talent-calc {
+  min-height: auto !important;
+}
+
   

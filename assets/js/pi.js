@@ -161,6 +161,7 @@ function renderChart(targetCount, data,ctx,chart) {
     class: e.class,
     spec: e.spec,
     targets: e.targets,
+    talents: e.talents,
     gain: e.dps_delta > 0 ? e.dps_delta : 0,
   }));
   // Sort descending by gain
@@ -229,15 +230,27 @@ function renderChart(targetCount, data,ctx,chart) {
         const targets = meta.targets;
         const cls   = meta.class;
         const spec  = meta.spec;
+        const talents = meta.talents;
         // Build URLs
         const base = 'https://weakaurascreator.github.io/Create/data/sims/final_sims';
         const path = `${cls}/${spec}/${cls}_${spec}_${targets}_`;
         const urlNoPi   = `${base}/${path}0.html`;
         const urlWithPi = `${base}/${path}1.html`;
         // Set iframe srcs
-        document.getElementById('reportNoPi').src   = urlNoPi;
-        document.getElementById('reportWithPi').src = urlWithPi;
+        document.getElementById('reportNoPi').href   = urlNoPi;
+        document.getElementById('reportWithPi').href = urlWithPi;
+        let talentHolder = document.createElement('a');
+        talentHolder.innerText = 'View Talents on Wowhead';
+        talentHolder.href = 'https://www.wowhead.com/talent-calc/embed/blizzard/' + talents;
+        document.getElementById('simReportTalents').replaceChildren(talentHolder);
         // Show modal
+        const mouseOverEvent = new MouseEvent('mouseover', {
+          view: window,
+          bubbles: true,
+          cancelable: true
+        });
+        talentHolder.dispatchEvent(mouseOverEvent);
+
         window.location.hash = 'piSimModal';
       },
       responsive: true,
