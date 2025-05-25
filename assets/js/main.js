@@ -295,7 +295,7 @@
 					$('<div class="close">Close</div>')
 						.appendTo($this)
 						.on('click', function() {
-							if ($this.attr('id') === 'piSimModal') {
+							if ($this.attr('id') === 'piSimModal' || $this.attr('id') === 'pi-sim-explanation') {
 								location.hash = '#powerInfusion';
 							} else {
 								// Default behavior for all other articles.
