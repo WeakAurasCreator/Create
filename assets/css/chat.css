@@ -12,6 +12,10 @@
     padding: .5rem 1rem;
     border-radius: 1rem;
     position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    
   }
   .msg.bot .bubble {
     background: #2f2f2f;
@@ -27,15 +31,23 @@
   .option-btn { margin: .25rem; }
   
 .info-icon {
+  font-size: 1em;        /* match your text size */
+  vertical-align: middle;
+  margin-left: 0.25em;   /* small gap from the label */
+  cursor: help;
+  color: lightskyblue;   /* inherits the text color */
+}
+
+
+
+.bubble .chat-label {
   display: inline-block;
-  margin-left: 4px;
-  padding: 0 4px;
-  font-weight: bold;
-  cursor: help;              /* show the question-mark cursor */
-  border: 1px dotted rgba(255,255,255,0.7);
-  border-radius: 50%;
-  line-height: 1;
-  font-size: 0.9em;
-  color: #f5f5f5;
-  background: rgba(0,0,0,0.2);
+  vertical-align: middle;
+}
+.bubble .chat-description {
+  display: block;
+  margin-top: 0.25em;    /* small gap above */
+  margin-left: 1.5em;    /* indent to line up under the label text */
+  font-size: 0.9em;      /* optional tweak */
+  flex: 0 0 100%;      /* ← span full width → drop to next line */
 }

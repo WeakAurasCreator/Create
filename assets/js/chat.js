@@ -163,15 +163,18 @@
       step.options = data.map((o) => ({ label: o.name, value: o.value }));
     }
     // if there is a hint, render a little "!" that shows it on hover
-    const labelHtml = hint
-      ? `${
-          step.label
-        }<span class="info-icon" data-bs-toggle="tooltip" data-bs-placement="top" title="${hint.replace(
+    const labelText    = `<span class="chat-label"> ${step.label} </span>` || '';
+    const escapedHint = hint ? hint.replace(
           /"/g,
           "&quot;"
-        )}">!</span>
-        ${step.description} `
-      : step.label;
+        ) : '';
+    const hintHtml = hint
+      ? `<i class="bi bi-info-circle-fill info-icon" data-bs-toggle="tooltip" data-bs-placement="top" title="${escapedHint}"></i>`
+        : '';
+    const descriptionHtml = step.description
+  ? `<span class="chat-description">${step.description} </span>`
+  : '';
+    const labelHtml = `${labelText}${hintHtml}${descriptionHtml}`;
     bot(labelHtml);
     renderControl(step, cb);
   }
@@ -299,7 +302,7 @@
   function bot(txt) {
     const d = document.createElement("div");
     d.className = "msg bot";
-    d.innerHTML = `<div class="bubble">${txt.replace(/\n/g, "<br>")}</div>`;
+    d.innerHTML = `<div class="bubble">${txt}</div>`;
     chatC.append(d);
     chatC.scrollTop = chatC.scrollHeight;
   }
