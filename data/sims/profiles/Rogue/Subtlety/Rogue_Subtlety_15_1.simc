@@ -3,7 +3,7 @@ source=default
 spec=subtlety
 head=spectral_gamblers_damned_visage,id=229289,bonus_id=10255/10390/11960/11996/12176/12178/1527/6652
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10520/10879/12040/12043/8794/8902/8960/9627/9633,gem_id=213497/213743
-shoulder=spectral_gamblers_bladed_mantle,id=229287,bonus_id=10255/10390/11962/11996/12179/1527/6652
+shoulder=spectral_gamblers_bladed_mantle,id=229287,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=spectral_gamblers_vest,id=229292,bonus_id=10255/10390/11958/11996/12178/1527/6652,enchant_id=7364
 waist=competitors_battle_cord,id=228856,bonus_id=10255/10356/11996/11998/12176/1527/6652
 legs=spectral_gamblers_pantaloons,id=229288,bonus_id=10255/10390/11961/11996/12178/1527/6652,enchant_id=7601

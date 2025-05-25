@@ -1,7 +1,7 @@
 deathknight="TWW2_Death_Knight_Unholy_San'layn"
 source=default
 spec=unholy
-head=cauldron_champions_crown,id=229253,bonus_id=10255/10356/11960/12176/12178/12376/1533/6652
+head=cauldron_champions_crown,id=229253,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213482,enchant_id=7931
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213482/213482
 shoulder=cauldron_champions_screamplate,id=229251,bonus_id=10255/10356/11962/12179/12376/1533/6652
 chest=cauldron_champions_ribcage,id=229256,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
