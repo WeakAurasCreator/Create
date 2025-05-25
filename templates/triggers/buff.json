@@ -13,7 +13,9 @@
     "useMatch_count": true,
     "match_countOperator": ">",
     "match_count": "0",
-    "ignoreSelf": true
+    "ignoreSelf": true,
+    "showClones": false
+    
   },
   "untrigger": {}
 }
