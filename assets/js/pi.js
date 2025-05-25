@@ -147,9 +147,6 @@ function setupTargetSelector(targets, targetSelect, defaultValue) {
     opt.text = `${t} Target${t > 1 ? "s" : ""}`;
     targetSelect.appendChild(opt);
   });
-  $("#"+targetSelect.id).selectpicker("refresh");
-  if (!defaultValue) return;
-  $("#"+targetSelect.id).selectpicker("val", defaultValue);
 }
 
 function renderChart(targetCount, data,ctx,chart) {
