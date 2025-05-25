@@ -217,9 +217,6 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git config pull.rebase true
 
-          # make sure we're up to date
-          git pull
-
           # add only the sim files we care about
           git add data/sims/profiles/**/*.simc
           git add data/sims/final_sims/**/*.json
