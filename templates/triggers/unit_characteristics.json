@@ -15,7 +15,8 @@
     "use_spec": true,
     "use_character": false,
     "use_unit": true,
-    "debuffType": "HELPFUL"
+    "debuffType": "HELPFUL",
+    "use_ignoreSelf": true
   },
   "untrigger": {}
 }
