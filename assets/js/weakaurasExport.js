@@ -115,7 +115,7 @@ function addTrigger(aura, trigger) {
     .filter((n) => !isNaN(n));
   const newIndex = existingKeys.length ? Math.max(...existingKeys) + 1 : 1;
 
-  aura.triggers[newIndex] = trigger;
+  aura.triggers[newIndex.toString()] = trigger;
   aura.triggers.activeTriggerMode = -10;
 }
 
