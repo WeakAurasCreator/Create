@@ -13,7 +13,7 @@ hands=tireless_collectors_gauntlets,id=229272,bonus_id=10255/10356/11959/12179/1
 back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8790/8902/8960/9627/9633,enchant_id=7403
 main_hand=tiny_pal,id=228893,bonus_id=10255/10356/12060/12376/1533/6652,enchant_id=7439
 finger1=faded_championship_ring,id=228840,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213455/213455,enchant_id=7334
-finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213455/213455,enchant_id=7334
+finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213458,enchant_id=7334
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12376/1520/6652
 trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80
