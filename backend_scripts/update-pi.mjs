@@ -52,7 +52,7 @@ async function main() {
         type: 'WEAKAURA',
         scanID: scanData.scan,
         newVersion: process.env.NEW_VERSION,
-        changelog: `Automated Data update for ${Date.now().toLocaleString('en-US')}`,
+        changelog: `Automated Data update for ${new Date().toLocaleDateString('en-US')}`,
         changelogFormat: 'bbcode',
         cipherKey: ''
       })
