@@ -19,7 +19,7 @@ jobs:
       PI_ICON_SIZE: 32
       PI_ANCHOR_GROUP: true
       WAGO_ID: "glkfVf6mD"
-      WAGO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      WAGO_TOKEN: ${{ secrets.WAGO_WA_PUSH_TOKEN }}
 
     steps:
       - name: Checkout repository

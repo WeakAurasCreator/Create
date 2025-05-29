@@ -15,7 +15,7 @@ async function main() {
     Number(process.env.PI_ICON_SIZE   || 36),
     process.env.PI_ANCHOR_GROUP === 'true'
   );
-
+  console.log(`Generated import string: ${importString}`);
   // Your existing Wago‐push logic:
   const WAGO_ID     = process.env.WAGO_ID;
   const TOKEN       = process.env.WAGO_TOKEN;
@@ -33,15 +33,12 @@ async function main() {
     });
 
     const scanData = await scanRes.json();
-    if (!scanData.scan) {
-      throw new Error(`Scan failed: ${JSON.stringify(scanData)}`);
-    }
+
   console.log('Scan response:', scanRes.status, scanData);
 
   if (!scanData.scan) {
     throw new Error(`Scan failed (status ${scanRes.status}): ${JSON.stringify(scanData)}`);
   }
-
 
  const updateRes = await fetch('https://data.wago.io/import/update', {
       method: 'POST',
