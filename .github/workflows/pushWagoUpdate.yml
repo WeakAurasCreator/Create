@@ -70,5 +70,5 @@ jobs:
         env:
           NEW_VERSION: ${{ env.NEW_VERSION }}
         run: |
-          node backend_scripts/build-pi.js
+          node backend_scripts/build-pi.mjs
 
