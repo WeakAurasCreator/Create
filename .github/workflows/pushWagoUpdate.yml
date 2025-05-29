@@ -1,25 +1,64 @@
 # GitHub Actions workflow to run the esbuild script on changes to JS source files
-name: Build PI Generator Bundles
+name: Push wago update
 
 on:
-  push:
-    paths:
-      - 'scripts/build-pi.js'
-      - 'assets/js/**'
-
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Build pi json"]
+    types:
+      - completed
 jobs:
-  build:
-    name: Run esbuild Bundles
+  update:
+    name: Push Wago Update
     runs-on: ubuntu-latest
+    env:
+      PI_TARGET_COUNT: 1
+      PI_MODE: "dual"
+      PI_DUAL_BOSS_COUNT: 1     
+      PI_DUAL_TRASH_COUNT: 5
+      PI_ICON_SIZE: 32
+      PI_ANCHOR_GROUP: true
+      WAGO_ID: "glkfVf6mD"
+      WAGO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Bump "pi-helper" version
+        id: bump
+        run: |
+          # Read the current version string under "pi-helper"
+          current=$(jq -r '.["pi-helper"]' data/wa_versions.json)
+          IFS='.' read -r major minor patch <<< "$current"
+          patch=$((patch + 1))
+          new="$major.$minor.$patch"
+
+          echo "Bumping pi-helper: $current → $new"
+          # Update the JSON in place
+          jq --arg v "$new" '.["pi-helper"] = $v' data/wa_versions.json \
+            > data/wa_versions.tmp.json
+          mv data/wa_versions.tmp.json data/wa_versions.json
+
+          # Expose for downstream steps
+          echo "NEW_VERSION=$new" >> $GITHUB_ENV
+
+      - name: Commit bumped version
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/wa_versions.json
+          git commit -m "ci: bump pi-helper to ${{ env.NEW_VERSION }}"
+          git push
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          # specify the Node.js version matching your project
           node-version: '21.x'
           cache: 'npm'
 
@@ -27,16 +66,9 @@ jobs:
         run: |
           if [ -f package-lock.json ]; then npm ci; else npm install; fi
 
-      - name: Run build-pi script
+      - name: Push update to wago
+        env:
+          NEW_VERSION: ${{ env.NEW_VERSION }}
         run: |
-          node backend_scripts/update-pi.mjs
+          node backend_scripts/build-pi.js
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git config pull.rebase true   # rebase
-          git add assets/bundles/
-          git commit -m "Updated Bundles || echo "No changes to commit"
-          git pull || echo "No changes to pull"
-          git push || echo "No changes to push"
