@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.25.5"
+  },
+  "scripts": {
+    "build:pi": "node backend_scripts/build-pi.js"
+  },
+  "dependencies": {
+    "pako": "^2.1.0"
+  }
+}

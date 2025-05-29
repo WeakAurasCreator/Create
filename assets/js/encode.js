@@ -1,203 +1,218 @@
-// ace serializer function from wowhead https://wow.zamimg.com/js/WeakAuraExport.js
- 
- // EncodeForPrint forked from https://github.com/LetsTimeIt/mdt-compression under GPL-3.0 license
- // this version was fixed by Vardex
- 
- // forked from WA companion
- 
- const mappingTable = [
-    "a",
-    "b",
-    "c",
-    "d",
-    "e",
-    "f",
-    "g",
-    "h",
-    "i",
-    "j",
-    "k",
-    "l",
-    "m",
-    "n",
-    "o",
-    "p",
-    "q",
-    "r",
-    "s",
-    "t",
-    "u",
-    "v",
-    "w",
-    "x",
-    "y",
-    "z",
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L",
-    "M",
-    "N",
-    "O",
-    "P",
-    "Q",
-    "R",
-    "S",
-    "T",
-    "U",
-    "V",
-    "W",
-    "X",
-    "Y",
-    "Z",
-    "0",
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "(",
-    ")",
-  ];
-  
-  const convertByteTo6bit = function (chr) {
-    return mappingTable[chr].charCodeAt(0);
-  };
-  
-  // EncodeForPrint encodes a buffer of bytes into an ASCII string that can be printed.
-  // The string is encoded by converting each 6 bits into a printable ASCII character.
-  const EncodeForPrint = function (input) {
-      if (input.length === 0) {
-          return "";
-      }
-  
-      const strlen = input.length;
-      const lenMinus2 = strlen - 2;
-      let i = 0;
-      let j = 0;
-      const encodedChars = [];
-  
-      while (i < lenMinus2) {
-          const x1 = input[i];
-          const x2 = input[i + 1];
-          const x3 = input[i + 2];
-          i += 3;
-          const cache = x1 + x2 * 256 + x3 * 65536;
-          const b1 = cache % 64;
-          const b2 = ((cache - b1) / 64) % 64;
-          const b3 = ((cache - b1 - b2 * 64) / (64 * 64)) % 64;
-          const b4 = ((cache - b1 - b2 * 64 - b3 * 64 * 64) / (64 * 64 * 64)) % 64;
-  
-          encodedChars.push(mappingTable[b1], mappingTable[b2], mappingTable[b3], mappingTable[b4]);
-      }
-      let cache = 0;
-      let cache_bitlen = 0;
-  
-      while (i < strlen) {
-          const x = input[i];
-          cache += x * 2 ** cache_bitlen;
-          cache_bitlen += 8;
-          i += 1;
-      }
-  
-      while (cache_bitlen > 0) {
-          const bit6 = cache % 64;
-          encodedChars.push(mappingTable[bit6]);
-          cache = (cache - bit6) / 64;
-          cache_bitlen -= 6;
-      }
-      return encodedChars.join('');
-  };
-  
-  
-  const deflate = function (input) {
-      return pako.deflateRaw(input, { level: 9 });
-  };
-  
-  const encode = function (input) {
-      return EncodeForPrint(new Uint8Array(input));
-  };
-  
-  const serializationMapping = [
-      [/\^/g, "}"],
-      [/~/g, "~|"],
-      [/\s/g, "~`"],
-  ];
-  
-  function replaceNonASCIICharacters(inputString) {
-      // eslint-disable-next-line no-control-regex
-      return inputString.replace(/[^\x00-\x7F]/g, "?");
-  }
-    
-    function applySerializationMapping(inputString) {
-      let result = inputString;
-    
-      for (const [search, replace] of serializationMapping) {
-        result = result.replace(search, replace);
-      }
-    
-      return result;
-  }
-    
-  
-  function serializeValue(value, serializedArray) {
-  
-    const valueType = typeof value;
-  
-    if (valueType === "string") {
-      const processedValue = applySerializationMapping(
-        replaceNonASCIICharacters(value),
-      );
-      serializedArray.push("^S", processedValue);
-    } else if (valueType === "number") {
-      serializedArray.push(`^N${value}`);
-    } else if (valueType === "boolean") {
-      serializedArray.push(value ? "^B" : "^b");
-    } else if (valueType === "object" || Array.isArray(value)) {
-      serializedArray.push("^T");
-  
-      for (const key of Object.keys(value)) {
-        const parsedKey = /^\d+$/.test(key) ? Number.parseInt(key) : key;
-        serializeValue(parsedKey, serializedArray);
-        serializeValue(value[key], serializedArray);
-      }
-  
-      serializedArray.push("^t");
-    } else {
-      console.error(`Cannot serialize a value of type "${valueType}"`);
+import pako from "pako";
+
+/** ─────────────────────────────────────────────── **
+ *  64-char table for chat‐safe 6-bit encoding      *
+ ** ─────────────────────────────────────────────── **/
+const MAPPING = [
+  ..."abcdefghijklmnopqrstuvwxyz",
+  ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  ..."0123456789",
+  "(",
+  ")"
+];
+
+/** 6-bit encoder (LibDeflate:EncodeForPrint) */
+function encodeForPrint(bytes) {
+  let out = [], acc = 0, bits = 0;
+  for (const b of bytes) {
+    acc |= b << bits;
+    bits += 8;
+    while (bits >= 6) {
+      out.push( MAPPING[acc & 0x3F] );
+      acc >>>= 6;
+      bits -= 6;
     }
   }
-  
-  function serialize(input) {
-      const serializedArray = ["^1"];
-      serializeValue(input, serializedArray);
-    return `${serializedArray.join("")}^^`;
+  if (bits > 0) out.push( MAPPING[acc & 0x3F] );
+  return out.join("");
+}
+
+/** raw DEFLATE (LibDeflate:CompressDeflate) */
+function compressRaw(dataStr) {
+  const utf8 = new TextEncoder().encode(dataStr);
+  return pako.deflateRaw(utf8, { level: 9 });
+}
+
+/** ─────────────────────────────────────────────── **
+ *  LibSerialize:SerializeEx (JS port, default config)  
+ ** ─────────────────────────────────────────────── **/
+// libserialize-port.js
+
+/**
+ * A JS port of LibSerialize:SerializeEx from
+ * https://github.dev/rossnichols/LibSerialize/blob/main/LibSerialize.lua
+ *
+ * Supports only the default configForLS = { errorOnUnserializableType = false }
+ * which WA uses, so it will skip any unserializable types instead of blowing up.
+ */
+
+const TYPE_STRING  = "^S";
+const TYPE_NUMBER  = "^N";
+const TYPE_TRUE    = "^B";
+const TYPE_FALSE   = "^b";
+const TYPE_TABLE   = "^T";
+const TYPE_TABLE_END = "^t";
+
+/**
+ * escape rules exactly as in LibSerialize:
+ * 1) non-ASCII → "?"
+ * 2) "^" → "}"
+ * 3) "~" → "~|"
+ * 4) whitespace → "~`"
+ */
+const ESCAPE_RULES = [
+  [/[^\x00-\x7F]/g,   "?"],
+  [/\^/g,             "}"],
+  [/~/g,               "~|"],
+  [/\s/g,              "~`"]
+];
+
+function escapeString(str) {
+  for (const [pat, rep] of ESCAPE_RULES) {
+    str = str.replace(pat, rep);
   }
-  
-  function getRandomInt(min, max) {
-      const range = max - min + 1;
-      return Math.floor(Math.random() * range) + min;
+  return str;
+}
+
+/**
+ * Recursively serializes a JS value following the Lua logic:
+ * - primitive types: string, number, boolean
+ * - objects/arrays: into two-part tables (array part then hash part, sorted keys)
+ * - skips undefined/null
+ * 
+ * config.errorOnUnserializableType=false: silently omit bad types.
+ */
+function serializeValue(val, out, config) {
+  const t = typeof val;
+  if (t === "string") {
+    out.push(TYPE_STRING, escapeString(val));
   }
-    
-  function generateUniqueID() {
-      const uid = new Array(11);
-      const tableLen = mappingTable.length;
-    
-      for (let i = 0; i < 11; i++) {
-        uid[i] = mappingTable[getRandomInt(0, tableLen - 1)];
+  else if (t === "number") {
+    out.push(TYPE_NUMBER, String(val));
+  }
+  else if (t === "boolean") {
+    out.push(val ? TYPE_TRUE : TYPE_FALSE);
+  }
+  else if (val == null) {
+    // skip null/undefined
+    return;
+  }
+  else if (t === "object") {
+    // begin table
+    out.push(TYPE_TABLE);
+
+    const isArray = Array.isArray(val);
+
+    // 1) array part 1..n
+    if (isArray) {
+      for (let i = 0; i < val.length; i++) {
+        serializeValue(i + 1, out, config);
+        serializeValue(val[i], out, config);
       }
-    
-      return uid.join("");
+    }
+
+    // 2) hash part: keys not in 1..n, sorted
+    const keys = Object.keys(val)
+      .filter(k => !(isArray && /^\d+$/.test(k) && +k >= 1 && +k <= val.length))
+      .sort((a, b) => {
+        // numeric keys before string, numeric sorted numerically
+        const na = /^\d+$/.test(a), nb = /^\d+$/.test(b);
+        if (na && nb) return +a - +b;
+        if (na) return -1;
+        if (nb) return 1;
+        return a < b ? -1 : a > b ? 1 : 0;
+      });
+
+    for (const k of keys) {
+      const coercedKey = /^\d+$/.test(k) ? Number(k) : k;
+      serializeValue(coercedKey, out, config);
+      serializeValue(val[k], out, config);
+    }
+
+    // end table
+    out.push(TYPE_TABLE_END);
   }
+  else {
+    // function, symbol, BigInt, etc.
+    if (config.errorOnUnserializableType) {
+      throw new Error(`Cannot serialize type ${t}`);
+    }
+    // else skip it
+  }
+}
+
+/**
+ * serializeEx(config, inTable) → string
+ *   config: { errorOnUnserializableType: boolean }
+ *   inTable: any JS object/array
+ *
+ * Returns the full "^1 … ^^" payload.
+ */
+export function serializeEx(inTable, config) {
+  // default config:
+  config = config || { errorOnUnserializableType: true };
+
+  const out = ["^1"];
+  serializeValue(inTable, out, config);
+  out.push("^^");
+  return out.join("");
+}
+
+/** ─────────────────────────────────────────────── **
+ *  Wago’s fixNumericIndexes & fixWATables in JS  
+ ** ─────────────────────────────────────────────── **/
+function fixNumericIndexes(tbl) {
+  const fixed = {};
+  for (const [k,v] of Object.entries(tbl)) {
+    const n = Number(k);
+    if (!isNaN(n) && n > 0) fixed[n] = v;
+    else                  fixed[k] = v;
+  }
+  return fixed;
+}
+
+function fixWATables(obj) {
+  if (obj.triggers) {
+    obj.triggers = fixNumericIndexes(obj.triggers);
+    for (const t of Object.values(obj.triggers)) {
+      const trg = t.trigger;
+      if (trg?.form?.multi)      trg.form.multi      = fixNumericIndexes(trg.form.multi);
+      if (trg?.talent?.multi)    trg.talent.multi    = fixNumericIndexes(trg.talent.multi);
+      if (trg?.specId?.multi)    trg.specId.multi    = fixNumericIndexes(trg.specId.multi);
+      if (trg?.herotalent?.multi)trg.herotalent.multi= fixNumericIndexes(trg.herotalent.multi);
+      if (trg?.actualSpec)       trg.actualSpec      = fixNumericIndexes(trg.actualSpec);
+      if (trg?.arena_spec)       trg.arena_spec      = fixNumericIndexes(trg.arena_spec);
+    }
+  }
+  if (obj.load) {
+    for (const key of ["talent","talent2","talent3","herotalent","class_and_spec"]) {
+      if (obj.load[key]?.multi) {
+        obj.load[key].multi = fixNumericIndexes(obj.load[key].multi);
+      }
+    }
+  }
+  return obj;
+}
+
+/** ─────────────────────────────────────────────── **
+ *  Main export: turns a JS object → "!WA:2!…" string  
+ ** ─────────────────────────────────────────────── **/
+export function encode(full, forChat = true) {
+  // 1) Wago’s table‐fixes on the `.d` (and `.c`) part
+  if (!full || typeof full !== "object" || !full.d) {
+    throw new Error("Invalid WA JSON");
+  }
+  const t = JSON.parse(JSON.stringify(full)); // shallow clone
+  t.d = fixWATables(t.d);
+  if (Array.isArray(t.c)) {
+    t.c = t.c.map(c => c ? fixWATables(c) : c);
+  }
+
+  // 2) serialize + compress + encode
+  const serialized = serializeEx(t);
+  const deflated   = compressRaw(serialized);
+  const body       = encodeForPrint(deflated);
+
+  // 3) prefix bump from WA1→WA2
+  return `!WA:1!${body}`;
+}
