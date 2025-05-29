@@ -1,5 +1,5 @@
 # GitHub Actions workflow to run the esbuild script on changes to JS source files
-name: Build PI Generator Bundles
+name: Push wago update
 
 on:
   push:
@@ -8,13 +8,44 @@ on:
       - 'assets/js/**'
 
 jobs:
-  build:
-    name: Run esbuild Bundles
+  update:
+    name: update wago version
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Bump "pi-helper" version
+        id: bump
+        run: |
+          # Read the current version string under "pi-helper"
+          current=$(jq -r '.["pi-helper"]' data/wa_versions.json)
+          IFS='.' read -r major minor patch <<< "$current"
+          patch=$((patch + 1))
+          new="$major.$minor.$patch"
+
+          echo "Bumping pi-helper: $current → $new"
+          # Update the JSON in place
+          jq --arg v "$new" '.["pi-helper"] = $v' data/wa_versions.json \
+            > data/wa_versions.tmp.json
+          mv data/wa_versions.tmp.json data/wa_versions.json
+
+          # Expose for downstream steps
+          echo "NEW_VERSION=$new" >> $GITHUB_ENV
+
+      - name: Commit bumped version
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/wa_versions.json
+          git commit -m "ci: bump pi-helper to ${{ env.NEW_VERSION }}"
+          git push
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -27,7 +58,9 @@ jobs:
         run: |
           if [ -f package-lock.json ]; then npm ci; else npm install; fi
 
-      - name: Run build-pi script
+      - name: Run update-pi script
+        env:
+          NEW_VERSION: ${{ env.NEW_VERSION }}
         run: |
           node backend_scripts/update-pi.mjs
 
