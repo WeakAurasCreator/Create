@@ -1,11 +1,11 @@
 druid="TWW2_Druid_Feral"
 source=default
 spec=feral
-head=branches_of_reclaiming_blight,id=229307,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213482/213743
+head=branches_of_reclaiming_blight,id=229307,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652,enchant_id=7933
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213491/213743
 shoulder=jaws_of_reclaiming_blight,id=229305,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=robes_of_reclaiming_blight,id=229310,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
-waist=runebranded_waistband,id=219331,bonus_id=10421/11304/12040/12043/12176/12373/8793/8902/8960/9627/9633
+waist=wickerbelt_of_reclaiming_blight,id=229304,bonus_id=10255/10390/12176/12376/1533/6652
 legs=breeches_of_reclaiming_blight,id=229306,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7601
 feet=runebranded_kickers,id=219327,bonus_id=10421/11303/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11303/12040/12043/12176/12373/8791/8902/8960/9627/9633,enchant_id=7385

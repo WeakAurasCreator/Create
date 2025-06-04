@@ -1,7 +1,7 @@
 monk="TWW2_Monk_Windwalker"
 source=default
 spec=windwalker
-head=ageless_serpents_mane,id=229298,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652
+head=ageless_serpents_mane,id=229298,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652,enchant_id=7931
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213743
 shoulder=ageless_serpents_shoulderpads,id=229296,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=ageless_serpents_inked_coils,id=229301,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
@@ -16,7 +16,7 @@ off_hand=hyperactive_stormclaw,id=221033,bonus_id=10255/10384/10390/11992/3157/6
 finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7346
 finger2=the_jastor_diamond,id=231265,bonus_id=10255/10355/10396/10879/12372/1520/6652,gem_id=213494/213494,enchant_id=7346
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12376/1520/6652
-trinket2=house_of_cards,id=230027,bonus_id=10255/10355/12372/1520/6652
+trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=troll
 role=attack
