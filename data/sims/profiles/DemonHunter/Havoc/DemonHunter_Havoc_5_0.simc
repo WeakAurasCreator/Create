@@ -1,7 +1,7 @@
 demonhunter="TWW2_Demon_Hunter_Havoc_Aldrachi_Reaver"
 source=default
 spec=havoc
-head=feldealers_visor,id=229316,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652,enchant_id=7931
+head=feldealers_visor,id=229316,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213458,enchant_id=7933
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8791/8902/9627/9633,gem_id=213458/213743
 shoulder=feldealers_recycled_reavers,id=229314,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=feldealers_soul_engine,id=229319,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364

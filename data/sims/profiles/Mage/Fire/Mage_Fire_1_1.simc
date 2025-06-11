@@ -13,8 +13,8 @@ hands=punctured_apiary_gloves,id=221067,bonus_id=10255/10383/10390/11964/12376/3
 back=consecrated_cloak,id=222817,bonus_id=10421/11109/12040/12043/12373/8793/8902/8960/9627/9633,enchant_id=7403
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633
 main_hand=stixs_metal_detector,id=228896,bonus_id=10255/10356/12376/1533/6652,enchant_id=7442
-finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7340
-finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213482/213482,enchant_id=7340
+finger1=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213482/213482,enchant_id=7340
+finger2=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7340
 trinket1=mugs_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652
 trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80

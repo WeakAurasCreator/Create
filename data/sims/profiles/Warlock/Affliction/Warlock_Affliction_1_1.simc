@@ -14,9 +14,9 @@ back=undercircuit_racing_flag,id=228839,bonus_id=10255/10356/11998/12376/1533/66
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8790/8902/8960/9627/9633
 main_hand=blastfurious_machete,id=231268,bonus_id=10255/10356/12376/1533/6652,enchant_id=7463
 finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7340
-finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213482/213482,enchant_id=7340
+finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213479/213479,enchant_id=7340
 trinket1=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
-trinket2=mugs_moxie_jug,id=230192,bonus_id=10255/10355/12372/1520/6652
+trinket2=mugs_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=maghar_orc
 role=spell

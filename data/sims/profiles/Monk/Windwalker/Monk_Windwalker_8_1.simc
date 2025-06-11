@@ -1,7 +1,7 @@
 monk="TWW2_Monk_Windwalker"
 source=default
 spec=windwalker
-head=ageless_serpents_mane,id=229298,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652,enchant_id=7931
+head=ageless_serpents_mane,id=229298,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213743,enchant_id=7933
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213743
 shoulder=ageless_serpents_shoulderpads,id=229296,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=ageless_serpents_inked_coils,id=229301,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364

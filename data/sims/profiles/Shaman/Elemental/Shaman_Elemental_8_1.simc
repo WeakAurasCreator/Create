@@ -16,7 +16,7 @@ main_hand=g3t00t,id=159641,bonus_id=10255/10384/10390/11365/12376/6652,enchant_i
 finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7346
 finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213494/213494,enchant_id=7346
 trinket1=mugs_moxie_jug,id=230192,bonus_id=10255/10355/12372/1520/6652
-trinket2=house_of_cards,id=230027,bonus_id=10255/10355/12372/1520/6652
+trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=tauren
 role=spell
