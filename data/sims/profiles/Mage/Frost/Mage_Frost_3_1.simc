@@ -2,7 +2,7 @@ mage="TWW2_Mage_Frost_Frostfire"
 source=default
 spec=frost
 head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/12176/12178/12376/1533/6652,enchant_id=7933
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213461/213743
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213485/213743
 shoulder=aspectral_emissarys_arcane_vents,id=229341,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=aspectral_emissarys_primal_robes,id=229346,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
 waist=tuneup_toolbelt,id=228861,bonus_id=10255/10356/11998/12176/12376/1533/6652

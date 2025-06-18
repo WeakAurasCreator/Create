@@ -10,11 +10,11 @@ legs=aspectral_emissarys_trousers,id=229342,bonus_id=10255/10390/11961/11996/121
 feet=consecrated_slippers,id=222814,bonus_id=10421/12040/12043/8793/8902/9627/9633,enchant_id=7424
 wrist=hyperthread_wristwraps,id=168989,bonus_id=10047/10255/10383/10390/11964/11988/12176/6652,enchant_id=7385
 hands=consecrated_gloves,id=222822,bonus_id=10421/11304/12040/12043/8793/8902/8960/9627/9633
-back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/8793/8902/8960/9627/9633,enchant_id=7403
+back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/8792/8902/8960/9627/9633,enchant_id=7403
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12040/12043/8793/8902/8960/9627/9633
 main_hand=stixs_metal_detector,id=228896,bonus_id=10255/10356/11996/1527/6652,enchant_id=7442
 finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7340
-finger2=wicks_golden_loop,id=221099,bonus_id=10255/10383/10390/10396/10879/11988/3150/6652,gem_id=213470/213494,enchant_id=7340
+finger2=overclocking_bit_band,id=169159,bonus_id=10047/10255/10383/10389/10396/10879/11984/6652,gem_id=213482/213482,enchant_id=7340
 trinket1=mugs_moxie_jug,id=230192,bonus_id=10255/10355/11990/1514/6652
 trinket2=house_of_cards,id=230027,bonus_id=10255/10355/11990/1514/6652
 level=80
