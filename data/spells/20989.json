@@ -1,5 +1,5 @@
 {
-  "ID": "752022",
+  "ID": "9131",
   "NameSubtext_lang": "",
   "Description_lang": "Puts an enemy to sleep for up to $d. Any damage caused will awaken the target.",
   "AuraDescription_lang": "Asleep.",
@@ -19,9 +19,9 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "2",
+  "DifficultyID": "0",
   "CastingTimeIndex": "1",
-  "DurationIndex": "28",
+  "DurationIndex": "35",
   "PvPDurationIndex": "0",
   "RangeIndex": "4",
   "SchoolMask": "32",

@@ -1,8 +1,8 @@
 {
   "ID": "9779",
   "NameSubtext_lang": "",
-  "Description_lang": "Wraps an ally in a shield that lasts up to $d., absorbing  damage. While the shield holds, spells will not be interrupted damage.",
-  "AuraDescription_lang": "Shielded against Physical and magical damage.",
+  "Description_lang": "Shields an ally for $d, absorbing damage.",
+  "AuraDescription_lang": "Absorbs $w1 damage.",
   "Attributes_0": "327680",
   "Attributes_1": "0",
   "Attributes_2": "0",

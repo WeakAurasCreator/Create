@@ -1,5 +1,5 @@
 {
-  "ID": "751965",
+  "ID": "34337",
   "NameSubtext_lang": "",
   "Description_lang": "Gives a chance to dull the weapons of melee attackers when hit, reducing damage done.",
   "AuraDescription_lang": "Physical damage done reduced by $s1%.",
@@ -19,9 +19,9 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "2",
+  "DifficultyID": "0",
   "CastingTimeIndex": "1",
-  "DurationIndex": "32",
+  "DurationIndex": "27",
   "PvPDurationIndex": "0",
   "RangeIndex": "307",
   "SchoolMask": "1",

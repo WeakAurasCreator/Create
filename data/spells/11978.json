@@ -1,5 +1,5 @@
 {
-  "ID": "748585",
+  "ID": "3950",
   "NameSubtext_lang": "",
   "Description_lang": "Kicks an enemy, inflicting $s1 Physical damage and interrupting the spell being cast for $d.",
   "AuraDescription_lang": "",
@@ -19,9 +19,9 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "2",
+  "DifficultyID": "0",
   "CastingTimeIndex": "1",
-  "DurationIndex": "35",
+  "DurationIndex": "39",
   "PvPDurationIndex": "0",
   "RangeIndex": "2",
   "SchoolMask": "1",
