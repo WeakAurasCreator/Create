@@ -1,5 +1,5 @@
 {
-  "ID": "755017",
+  "ID": "34220",
   "NameSubtext_lang": "",
   "Description_lang": "Fires webbing into the eyes of surrounding enemies, blinding and disorienting them for $d.",
   "AuraDescription_lang": "Disoriented.",
@@ -19,9 +19,9 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "2",
+  "DifficultyID": "0",
   "CastingTimeIndex": "5",
-  "DurationIndex": "28",
+  "DurationIndex": "35",
   "PvPDurationIndex": "0",
   "RangeIndex": "1",
   "SchoolMask": "1",
