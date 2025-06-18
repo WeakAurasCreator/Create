@@ -1,5 +1,5 @@
 {
-  "ID": "751993",
+  "ID": "34318",
   "NameSubtext_lang": "",
   "Description_lang": "Increases the caster's chance to critically hit with melee attacks by $s1% for $d.",
   "AuraDescription_lang": "Chance to critically hit with melee attacks increased by $s1%.",
@@ -19,8 +19,8 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "2",
-  "CastingTimeIndex": "5",
+  "DifficultyID": "0",
+  "CastingTimeIndex": "20",
   "DurationIndex": "1",
   "PvPDurationIndex": "0",
   "RangeIndex": "1",
