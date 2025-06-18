@@ -1627,7 +1627,7 @@
         "ButtonFileDataID":1778892,
         "ButtonSmallFileDataID":1778896,
         "LoreFileDataID":1778890,
-        "Flags":0,
+        "Flags":1,
         "AreaID":0,
         "CovenantID":0
     },
@@ -1639,7 +1639,7 @@
         "ButtonFileDataID":1778893,
         "ButtonSmallFileDataID":1778897,
         "LoreFileDataID":1778891,
-        "Flags":0,
+        "Flags":1,
         "AreaID":0,
         "CovenantID":0
     },
@@ -1675,7 +1675,7 @@
         "ButtonFileDataID":2178278,
         "ButtonSmallFileDataID":2178742,
         "LoreFileDataID":2177732,
-        "Flags":0,
+        "Flags":1,
         "AreaID":0,
         "CovenantID":0
     },
@@ -1723,7 +1723,7 @@
         "ButtonFileDataID":2178273,
         "ButtonSmallFileDataID":2178734,
         "LoreFileDataID":2177727,
-        "Flags":0,
+        "Flags":1,
         "AreaID":0,
         "CovenantID":0
     },
@@ -1747,7 +1747,7 @@
         "ButtonFileDataID":2178271,
         "ButtonSmallFileDataID":2178732,
         "LoreFileDataID":2177725,
-        "Flags":0,
+        "Flags":1,
         "AreaID":0,
         "CovenantID":0
     },
@@ -1759,7 +1759,7 @@
         "ButtonFileDataID":2178269,
         "ButtonSmallFileDataID":2178730,
         "LoreFileDataID":2177723,
-        "Flags":0,
+        "Flags":1,
         "AreaID":0,
         "CovenantID":0
     },
