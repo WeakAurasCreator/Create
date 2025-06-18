@@ -1,13 +1,13 @@
 {
   "_links": {
     "self": {
-      "href": "https://eu.api.blizzard.com/data/wow/talent-tree/872/playable-specialization/1468?namespace=static-11.1.5_60179-eu"
+      "href": "https://eu.api.blizzard.com/data/wow/talent-tree/872/playable-specialization/1468?namespace=static-11.1.7_61131-eu"
     }
   },
   "id": 872,
   "playable_class": {
     "key": {
-      "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.5_60179-eu"
+      "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.7_61131-eu"
     },
     "name": {
       "en_US": "Evoker",
@@ -27,7 +27,7 @@
   },
   "playable_specialization": {
     "key": {
-      "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-11.1.5_60179-eu"
+      "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-11.1.7_61131-eu"
     },
     "name": {
       "en_US": "Preservation",
@@ -61,7 +61,7 @@
   },
   "media": {
     "key": {
-      "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/playable-specialization/1468?namespace=static-11.1.5_60179-eu"
+      "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/playable-specialization/1468?namespace=static-11.1.7_61131-eu"
     }
   },
   "restriction_lines": [
@@ -118,7 +118,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120626?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120626?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Landslide",
@@ -139,7 +139,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/358385?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/358385?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Landslide",
@@ -251,7 +251,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120625?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120625?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Obsidian Scales",
@@ -272,7 +272,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/363916?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/363916?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Obsidian Scales",
@@ -356,7 +356,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120627?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120627?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Expunge",
@@ -377,7 +377,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/365585?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/365585?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Expunge",
@@ -495,7 +495,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120633?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120633?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Natural Convergence",
@@ -516,7 +516,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/369913?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/369913?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Natural Convergence",
@@ -591,7 +591,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/133023?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/133023?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Heavy Wingbeats",
@@ -612,7 +612,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/368838?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/368838?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Heavy Wingbeats",
@@ -687,7 +687,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120667?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120667?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Verdant Embrace",
@@ -708,7 +708,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/360995?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/360995?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Verdant Embrace",
@@ -808,7 +808,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120588?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120588?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Forger of Mountains",
@@ -829,7 +829,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375528?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375528?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Forger of Mountains",
@@ -905,7 +905,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120623?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120623?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Innate Magic",
@@ -926,7 +926,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375520?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375520?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Innate Magic",
@@ -980,7 +980,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120623?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120623?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Innate Magic",
@@ -1001,7 +1001,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375520?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375520?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Innate Magic",
@@ -1071,7 +1071,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120609?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120609?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Obsidian Bulwark",
@@ -1092,7 +1092,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375406?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375406?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Obsidian Bulwark",
@@ -1168,7 +1168,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120615?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120615?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Enkindled",
@@ -1189,7 +1189,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375554?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375554?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Enkindled",
@@ -1243,7 +1243,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120615?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120615?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Enkindled",
@@ -1264,7 +1264,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375554?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375554?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Enkindled",
@@ -1334,7 +1334,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120666?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120666?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Scarlet Adaptation",
@@ -1355,7 +1355,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/372469?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/372469?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Scarlet Adaptation",
@@ -1430,7 +1430,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120632?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120632?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Quell",
@@ -1451,7 +1451,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/351338?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/351338?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Quell",
@@ -1552,7 +1552,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120622?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120622?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Recall",
@@ -1573,7 +1573,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/371806?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/371806?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Recall",
@@ -1644,7 +1644,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/133024?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/133024?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Clobbering Sweep",
@@ -1665,7 +1665,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375443?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375443?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Clobbering Sweep",
@@ -1738,7 +1738,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120610?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120610?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Tailwind",
@@ -1759,7 +1759,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375556?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375556?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Tailwind",
@@ -1834,7 +1834,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120614?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120614?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Cauterizing Flame",
@@ -1855,7 +1855,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/374251?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/374251?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Cauterizing Flame",
@@ -1954,7 +1954,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120589?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120589?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Ancient Flame",
@@ -1975,7 +1975,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/369990?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/369990?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Ancient Flame",
@@ -2048,7 +2048,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120631?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120631?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Instinctive Arcana",
@@ -2069,7 +2069,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376164?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376164?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Instinctive Arcana",
@@ -2123,7 +2123,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120631?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120631?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Instinctive Arcana",
@@ -2144,7 +2144,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376164?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376164?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Instinctive Arcana",
@@ -2216,7 +2216,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120677?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120677?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Tip the Scales",
@@ -2237,7 +2237,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/370553?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/370553?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Tip the Scales",
@@ -2324,7 +2324,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120612?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120612?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Attuned to the Dream",
@@ -2345,7 +2345,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376930?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376930?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Attuned to the Dream",
@@ -2399,7 +2399,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120612?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120612?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Attuned to the Dream",
@@ -2420,7 +2420,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376930?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376930?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Attuned to the Dream",
@@ -2490,7 +2490,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120613?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120613?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Sleep Walk",
@@ -2511,7 +2511,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/360806?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/360806?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Sleep Walk",
@@ -2612,7 +2612,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120680?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120680?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Regenerative Magic",
@@ -2633,7 +2633,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/387787?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/387787?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Regenerative Magic",
@@ -2708,7 +2708,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120682?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120682?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Inherent Resistance",
@@ -2729,7 +2729,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375544?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375544?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Inherent Resistance",
@@ -2783,7 +2783,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120682?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120682?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Inherent Resistance",
@@ -2804,7 +2804,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375544?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375544?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Inherent Resistance",
@@ -2877,7 +2877,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120621?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120621?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Draconic Legacy",
@@ -2898,7 +2898,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376166?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376166?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Draconic Legacy",
@@ -2973,7 +2973,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120676?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120676?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Extended Flight",
@@ -2994,7 +2994,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375517?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375517?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Extended Flight",
@@ -3048,7 +3048,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120676?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120676?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Extended Flight",
@@ -3069,7 +3069,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375517?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375517?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Extended Flight",
@@ -3142,7 +3142,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120611?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120611?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Bountiful Bloom",
@@ -3163,7 +3163,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/370886?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/370886?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Bountiful Bloom",
@@ -3239,7 +3239,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120630?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120630?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Blast Furnace",
@@ -3260,7 +3260,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375510?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375510?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Blast Furnace",
@@ -3333,7 +3333,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120620?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120620?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Exuberance",
@@ -3354,7 +3354,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375542?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375542?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Exuberance",
@@ -3429,7 +3429,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120681?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120681?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Renewing Blaze",
@@ -3450,7 +3450,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/374348?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/374348?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Renewing Blaze",
@@ -3537,7 +3537,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120606?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120606?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Walloping Blow",
@@ -3558,7 +3558,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/387341?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/387341?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Walloping Blow",
@@ -3634,7 +3634,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120675?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120675?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Panacea",
@@ -3655,7 +3655,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/387761?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/387761?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Panacea",
@@ -3728,7 +3728,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120629?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120629?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Unravel",
@@ -3749,7 +3749,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/368432?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/368432?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Unravel",
@@ -3768,18 +3768,18 @@
                 "id": 368432
               },
               "description": {
-                "en_US": "Sunder an enemy's protective magic, dealing 50,173 Spellfrost damage to absorb shields.",
-                "es_MX": "Desgarra la magia protectora de un enemigo e inflige 49,781 p. de da\u00f1o frioarcano a los escudos de absorci\u00f3n.",
-                "pt_BR": "Fende a magia protetora de um inimigo, causando 49.734 de dano de Gelo M\u00e1gico a escudos de absor\u00e7\u00e3o.",
-                "de_DE": "Zerrei\u00dft die sch\u00fctzende Magie eines Gegners und f\u00fcgt Absorptionsschilden 49.934 Zauberfrostschaden zu.",
-                "en_GB": "Sunder an enemy's protective magic, dealing 48,929 Spellfrost damage to absorb shields.",
-                "es_ES": "Destruye la magia protectora de un enemigo, lo que inflige 48731 p. de da\u00f1o de Fr\u00edoarcano a los escudos de absorci\u00f3n.",
-                "fr_FR": "Vous affaiblissez la magie protectrice d\u2019un ou une adversaire pour infliger 49151\u00a0points de d\u00e9g\u00e2ts de givre-sort aux boucliers d\u2019absorption.",
-                "it_IT": "Spezza la magia protettiva di un nemico, infliggendo 49.377 danni da geloincanto agli scudi d'assorbimento.",
-                "ru_RU": "\u0420\u0430\u0441\u043f\u043b\u0435\u0442\u0430\u0435\u0442 \u043c\u0430\u0433\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u043c \u0443\u0440\u043e\u043d \u0449\u0438\u0442\u0430\u043c 49776 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0447\u0430\u0440 \u043b\u044c\u0434\u0430.",
-                "ko_KR": "\uc801\uc758 \ubcf4\ud638 \ub9c8\ubc95\uc744 \ubd84\uc1c4\ud558\uc5ec \ubcf4\ud638\ub9c9\uc5d0 49,238\uc758 \ube44\uc804\ub0c9\uae30 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
-                "zh_TW": "\u7834\u58de\u4e00\u540d\u6575\u4eba\u7684\u9632\u79a6\u9b54\u6cd5\uff0c\u5c0d\u5438\u6536\u8b77\u76fe\u9020\u621050,055\u9ede\u6cd5\u971c\u50b7\u5bb3\u3002",
-                "zh_CN": "\u7834\u9664\u654c\u4eba\u7684\u4fdd\u62a4\u6027\u9b54\u6cd5\uff0c\u5bf9\u5176\u5438\u6536\u62a4\u76fe\u9020\u621050,432\u70b9\u6cd5\u672f\u51b0\u971c\u4f24\u5bb3\u3002"
+                "en_US": "Sunder an enemy's protective magic, dealing 49,540 Spellfrost damage to absorb shields.",
+                "es_MX": "Desgarra la magia protectora de un enemigo e inflige 50,068 p. de da\u00f1o frioarcano a los escudos de absorci\u00f3n.",
+                "pt_BR": "Fende a magia protetora de um inimigo, causando 50.573 de dano de Gelo M\u00e1gico a escudos de absor\u00e7\u00e3o.",
+                "de_DE": "Zerrei\u00dft die sch\u00fctzende Magie eines Gegners und f\u00fcgt Absorptionsschilden 49.876 Zauberfrostschaden zu.",
+                "en_GB": "Sunder an enemy's protective magic, dealing 49,461 Spellfrost damage to absorb shields.",
+                "es_ES": "Destruye la magia protectora de un enemigo, lo que inflige 50500 p. de da\u00f1o de Fr\u00edoarcano a los escudos de absorci\u00f3n.",
+                "fr_FR": "Vous affaiblissez la magie protectrice d\u2019un ou une adversaire pour infliger 49790\u00a0points de d\u00e9g\u00e2ts de givre-sort aux boucliers d\u2019absorption.",
+                "it_IT": "Spezza la magia protettiva di un nemico, infliggendo 49.286 danni da geloincanto agli scudi d'assorbimento.",
+                "ru_RU": "\u0420\u0430\u0441\u043f\u043b\u0435\u0442\u0430\u0435\u0442 \u043c\u0430\u0433\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430, \u043d\u0430\u043d\u043e\u0441\u044f \u043f\u043e\u0433\u043b\u043e\u0449\u0430\u044e\u0449\u0438\u043c \u0443\u0440\u043e\u043d \u0449\u0438\u0442\u0430\u043c 48888 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430 \u043e\u0442 \u0447\u0430\u0440 \u043b\u044c\u0434\u0430.",
+                "ko_KR": "\uc801\uc758 \ubcf4\ud638 \ub9c8\ubc95\uc744 \ubd84\uc1c4\ud558\uc5ec \ubcf4\ud638\ub9c9\uc5d0 50,038\uc758 \ube44\uc804\ub0c9\uae30 \ud53c\ud574\ub97c \uc785\ud799\ub2c8\ub2e4.",
+                "zh_TW": "\u7834\u58de\u4e00\u540d\u6575\u4eba\u7684\u9632\u79a6\u9b54\u6cd5\uff0c\u5c0d\u5438\u6536\u8b77\u76fe\u9020\u621048,914\u9ede\u6cd5\u971c\u50b7\u5bb3\u3002",
+                "zh_CN": "\u7834\u9664\u654c\u4eba\u7684\u4fdd\u62a4\u6027\u9b54\u6cd5\uff0c\u5bf9\u5176\u5438\u6536\u62a4\u76fe\u9020\u621050,191\u70b9\u6cd5\u672f\u51b0\u971c\u4f24\u5bb3\u3002"
               },
               "cast_time": {
                 "en_US": "Instant",
@@ -3864,7 +3864,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120628?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120628?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Protracted Talons",
@@ -3885,7 +3885,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/369909?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/369909?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Protracted Talons",
@@ -3962,7 +3962,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120619?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120619?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Oppressing Roar",
@@ -3983,7 +3983,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/372048?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/372048?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Oppressing Roar",
@@ -4071,7 +4071,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120672?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120672?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Foci of Life",
@@ -4092,7 +4092,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/375574?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/375574?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Foci of Life",
@@ -4143,7 +4143,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120671?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120671?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Fire Within",
@@ -4164,7 +4164,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/375577?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/375577?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Fire Within",
@@ -4241,7 +4241,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120608?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120608?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Rescue",
@@ -4262,7 +4262,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/370665?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/370665?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Rescue",
@@ -4363,7 +4363,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120674?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120674?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Lush Growth",
@@ -4384,7 +4384,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375561?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375561?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Lush Growth",
@@ -4438,7 +4438,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120674?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120674?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Lush Growth",
@@ -4459,7 +4459,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375561?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375561?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Lush Growth",
@@ -4532,7 +4532,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120670?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120670?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Source of Magic",
@@ -4553,7 +4553,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/369459?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/369459?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Source of Magic",
@@ -4642,7 +4642,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120669?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120669?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Leaping Flames",
@@ -4663,7 +4663,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/369939?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/369939?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Leaping Flames",
@@ -4733,7 +4733,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120618?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120618?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Overawe",
@@ -4754,7 +4754,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/374346?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/374346?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Overawe",
@@ -4829,7 +4829,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120679?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120679?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Aerial Mastery",
@@ -4850,7 +4850,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/365933?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/365933?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Aerial Mastery",
@@ -4923,7 +4923,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120607?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120607?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Twin Guardian",
@@ -4944,7 +4944,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/370888?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/370888?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Twin Guardian",
@@ -5017,7 +5017,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/121115?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/121115?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Potent Mana",
@@ -5038,7 +5038,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/418101?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/418101?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Potent Mana",
@@ -5108,7 +5108,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120668?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120668?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Terror of the Skies",
@@ -5129,7 +5129,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/371032?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/371032?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Terror of the Skies",
@@ -5200,7 +5200,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/130442?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/130442?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Spatial Paradox",
@@ -5221,7 +5221,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/406732?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/406732?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Spatial Paradox",
@@ -5300,7 +5300,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120678?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120678?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Time Spiral",
@@ -5321,7 +5321,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/374968?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/374968?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Time Spiral",
@@ -5408,7 +5408,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120673?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120673?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Zephyr",
@@ -5429,7 +5429,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/374227?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/374227?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Zephyr",
@@ -5528,7 +5528,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122559?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122559?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Engulf",
@@ -5549,7 +5549,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/443328?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/443328?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Engulf",
@@ -5652,7 +5652,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122546?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122546?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Trailblazer",
@@ -5673,7 +5673,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/444849?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/444849?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Trailblazer",
@@ -5724,7 +5724,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/128242?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/128242?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Shape of Flame",
@@ -5745,7 +5745,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/445074?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/445074?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Shape of Flame",
@@ -5819,7 +5819,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/128254?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/128254?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Flame Siphon",
@@ -5840,7 +5840,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/444140?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/444140?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Flame Siphon",
@@ -5914,7 +5914,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122565?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122565?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Enkindle",
@@ -5935,7 +5935,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/444016?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/444016?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Enkindle",
@@ -5986,7 +5986,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/133515?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/133515?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Expanded Lungs",
@@ -6007,7 +6007,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/444845?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/444845?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Expanded Lungs",
@@ -6079,7 +6079,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120665?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120665?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Echo",
@@ -6100,7 +6100,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/364343?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/364343?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Echo",
@@ -6201,7 +6201,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122558?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122558?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Conduit of Flame",
@@ -6222,7 +6222,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/444843?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/444843?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Conduit of Flame",
@@ -6295,7 +6295,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122555?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122555?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Burning Adrenaline",
@@ -6316,7 +6316,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/444020?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/444020?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Burning Adrenaline",
@@ -6389,7 +6389,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122532?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122532?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Fulminous Roar",
@@ -6410,7 +6410,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/1218447?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/1218447?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Fulminous Roar",
@@ -6484,7 +6484,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120554?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120554?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Dream Breath",
@@ -6505,7 +6505,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/355936?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/355936?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Dream Breath",
@@ -6607,7 +6607,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120664?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120664?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Reversion",
@@ -6628,7 +6628,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/366155?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/366155?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Reversion",
@@ -6729,7 +6729,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122529?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122529?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Titanic Precision",
@@ -6750,7 +6750,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/445625?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/445625?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Titanic Precision",
@@ -6823,7 +6823,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122554?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122554?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Red Hot",
@@ -6844,7 +6844,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/444081?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/444081?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Red Hot",
@@ -6918,7 +6918,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122540?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122540?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Lifecinders",
@@ -6939,7 +6939,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/444322?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/444322?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Lifecinders",
@@ -6990,7 +6990,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/128243?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/128243?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Draconic Instincts",
@@ -7011,7 +7011,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/445958?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/445958?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Draconic Instincts",
@@ -7085,7 +7085,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120555?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120555?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Temporal Compression",
@@ -7106,7 +7106,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/362874?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/362874?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Temporal Compression",
@@ -7180,7 +7180,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120553?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120553?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Essence Burst",
@@ -7201,7 +7201,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/369297?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/369297?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Essence Burst",
@@ -7274,7 +7274,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120663?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120663?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Rewind",
@@ -7295,7 +7295,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/363534?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/363534?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Rewind",
@@ -7395,7 +7395,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122531?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122531?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Consume Flame",
@@ -7416,7 +7416,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/444088?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/444088?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Consume Flame",
@@ -7491,7 +7491,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120558?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120558?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Spiritbloom",
@@ -7512,7 +7512,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/367226?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/367226?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Spiritbloom",
@@ -7531,18 +7531,18 @@
                 "id": 367226
               },
               "description": {
-                "en_US": "Divert spiritual energy, healing an ally for 47,679. Jumps to injured allies within 30 yds when empowered.\r\n\r\nI:   Heals one ally.\r\n\r\nII:  Heals a second ally.\r\n\r\nIII: Heals a third ally.",
-                "es_MX": "Desv\u00eda energ\u00eda espiritual y restablece 49,385 p. de salud a un aliado. Salta a los aliados heridos en un radio de 30 m cuando est\u00e1 potenciado.\r\n\r\nI:   Sana a un aliado.\r\n\r\nII:  Sana a un segundo aliado.\r\n\r\nIII: Sana a un tercer aliado.",
-                "pt_BR": "Desvia energia espiritual, concedendo a um aliado 47.492 de cura. Salta at\u00e9 aliados feridos em um raio de 30 m quando potencializado.\r\n\r\nI: cura um aliado.\r\n\r\nII: cura um segundo aliado.\r\n\r\nIII: cura um terceiro aliado.",
-                "de_DE": "Leitet spirituelle Energie um, die einen Verb\u00fcndeten um 48.112 Gesundheit heilt. Springt auf verletzte Verb\u00fcndete innerhalb von 30 Metern \u00fcber, wenn die F\u00e4higkeit erm\u00e4chtigt ist.\r\n\r\nI:   Heilt einen Verb\u00fcndeten.\r\n\r\nII:  Heilt einen zweiten Verb\u00fcndeten.\r\n\r\nIII: Heilt einen dritten Verb\u00fcndeten.",
-                "en_GB": "Divert spiritual energy, healing an ally for 47,821. Jumps to injured allies within 30 yds when empowered.\r\n\r\nI:   Heals one ally.\r\n\r\nII:  Heals a second ally.\r\n\r\nIII: Heals a third ally.",
-                "es_ES": "Desv\u00edas una energ\u00eda espiritual que sana 48408 p. a un aliado. Salta a los aliados heridos en un radio de 30 m cuando se potencia.\r\n\r\nI: Sana a un aliado.\r\n\r\nII: Sana a un segundo aliado.\r\n\r\nIII: Sana a un tercer aliado.",
-                "fr_FR": "Vous d\u00e9tournez de l\u2019\u00e9nergie spirituelle, ce qui rend 47768\u00a0points de vie \u00e0 un personnage alli\u00e9 et se propage aux personnages alli\u00e9s bless\u00e9s \u00e0 moins de 30\u00a0m si le sort est renforc\u00e9.\r\n\r\nI\u00a0: soigne un personnage alli\u00e9.\r\n\r\nII\u00a0: soigne un deuxi\u00e8me personnage alli\u00e9.\r\n\r\nIII\u00a0: soigne un troisi\u00e8me personnage alli\u00e9.",
-                "it_IT": "Devia l'energia spirituale, curando un alleato di 48.976. Quando \u00e8 potenziato, salta su altri alleati feriti entro 30 m.\r\n\r\nI: Cura un alleato.\r\n\r\nII: Cura un secondo alleato.\r\n\r\nIII: Cura un terzo alleato.",
-                "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u0434\u0443\u0445\u043e\u0432\u043d\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 48074 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0423\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 30 \u043c.\r\n\r\nI:   \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430.\r\n\r\nII:  \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430.\r\n\r\nIII: \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430.",
-                "ko_KR": "\uc601\ud63c\uc758 \ub9c8\ub825\uc744 \ud758\ub824\ubcf4\ub0b4 \uc544\uad70\uc744 48,539\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4. \uac15\ud654 \uc2dc 30\ubbf8\ud130 \ub0b4\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc5d0\uac8c \uc62e\uaca8\uac11\ub2c8\ub2e4.\r\n\r\nI:   \ud55c \uba85\uc758 \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\nII:  \ub450 \uba85\uc758 \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\nIII: \uc138 \uba85\uc758 \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.",
-                "zh_TW": "\u8f49\u79fb\u9748\u9b42\u80fd\u91cf\uff0c\u4f7f\u4e00\u540d\u76df\u53cb\u6062\u5fa947,447\u9ede\u751f\u547d\u529b\u3002\u805a\u80fd\u6642\uff0c\u5f48\u8df3\u81f330\u78bc\u5167\u7684\u53d7\u50b7\u76df\u53cb\u3002\r\n\r\nI\uff1a   \u6cbb\u7642\u4e00\u540d\u76df\u53cb\u3002\r\n\r\nII\uff1a  \u6cbb\u7642\u7b2c\u4e8c\u540d\u76df\u53cb\u3002\r\n\r\nIII\uff1a \u6cbb\u7642\u7b2c\u4e09\u540d\u76df\u53cb\u3002",
-                "zh_CN": "\u5bfc\u5f15\u7cbe\u795e\u80fd\u91cf\uff0c\u4e3a\u4e00\u540d\u76df\u53cb\u6062\u590d48,868\u70b9\u751f\u547d\u503c\u3002\u5728\u84c4\u529b\u65f6\u4f1a\u8df3\u8dc3\u81f330\u7801\u5185\u53d7\u4f24\u7684\u76df\u53cb\u8eab\u4e0a\u3002\r\n\r\nI\uff1a\u6cbb\u7597\u4e00\u540d\u76df\u53cb\u3002\r\n\r\nII\uff1a\u6cbb\u7597\u7b2c\u4e8c\u540d\u76df\u53cb\u3002\r\n\r\nIII\uff1a\u6cbb\u7597\u7b2c\u4e09\u540d\u76df\u53cb\u3002"
+                "en_US": "Divert spiritual energy, healing an ally for 49,334. Jumps to injured allies within 30 yds when empowered.\r\n\r\nI:   Heals one ally.\r\n\r\nII:  Heals a second ally.\r\n\r\nIII: Heals a third ally.",
+                "es_MX": "Desv\u00eda energ\u00eda espiritual y restablece 47,670 p. de salud a un aliado. Salta a los aliados heridos en un radio de 30 m cuando est\u00e1 potenciado.\r\n\r\nI:   Sana a un aliado.\r\n\r\nII:  Sana a un segundo aliado.\r\n\r\nIII: Sana a un tercer aliado.",
+                "pt_BR": "Desvia energia espiritual, concedendo a um aliado 49.023 de cura. Salta at\u00e9 aliados feridos em um raio de 30 m quando potencializado.\r\n\r\nI: cura um aliado.\r\n\r\nII: cura um segundo aliado.\r\n\r\nIII: cura um terceiro aliado.",
+                "de_DE": "Leitet spirituelle Energie um, die einen Verb\u00fcndeten um 47.728 Gesundheit heilt. Springt auf verletzte Verb\u00fcndete innerhalb von 30 Metern \u00fcber, wenn die F\u00e4higkeit erm\u00e4chtigt ist.\r\n\r\nI:   Heilt einen Verb\u00fcndeten.\r\n\r\nII:  Heilt einen zweiten Verb\u00fcndeten.\r\n\r\nIII: Heilt einen dritten Verb\u00fcndeten.",
+                "en_GB": "Divert spiritual energy, healing an ally for 47,437. Jumps to injured allies within 30 yds when empowered.\r\n\r\nI:   Heals one ally.\r\n\r\nII:  Heals a second ally.\r\n\r\nIII: Heals a third ally.",
+                "es_ES": "Desv\u00edas una energ\u00eda espiritual que sana 49191 p. a un aliado. Salta a los aliados heridos en un radio de 30 m cuando se potencia.\r\n\r\nI: Sana a un aliado.\r\n\r\nII: Sana a un segundo aliado.\r\n\r\nIII: Sana a un tercer aliado.",
+                "fr_FR": "Vous d\u00e9tournez de l\u2019\u00e9nergie spirituelle, ce qui rend 48825\u00a0points de vie \u00e0 un personnage alli\u00e9 et se propage aux personnages alli\u00e9s bless\u00e9s \u00e0 moins de 30\u00a0m si le sort est renforc\u00e9.\r\n\r\nI\u00a0: soigne un personnage alli\u00e9.\r\n\r\nII\u00a0: soigne un deuxi\u00e8me personnage alli\u00e9.\r\n\r\nIII\u00a0: soigne un troisi\u00e8me personnage alli\u00e9.",
+                "it_IT": "Devia l'energia spirituale, curando un alleato di 47.605. Quando \u00e8 potenziato, salta su altri alleati feriti entro 30 m.\r\n\r\nI: Cura un alleato.\r\n\r\nII: Cura un secondo alleato.\r\n\r\nIII: Cura un terzo alleato.",
+                "ru_RU": "\u041f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u0434\u0443\u0445\u043e\u0432\u043d\u0443\u044e \u044d\u043d\u0435\u0440\u0433\u0438\u044e, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0443 47480 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f. \u0423\u0441\u0438\u043b\u0435\u043d\u043d\u044b\u0439 \u044d\u0444\u0444\u0435\u043a\u0442 \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0432 \u0440\u0430\u0434\u0438\u0443\u0441\u0435 30 \u043c.\r\n\r\nI:   \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430.\r\n\r\nII:  \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430.\r\n\r\nIII: \u0438\u0441\u0446\u0435\u043b\u044f\u0435\u0442 \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430.",
+                "ko_KR": "\uc601\ud63c\uc758 \ub9c8\ub825\uc744 \ud758\ub824\ubcf4\ub0b4 \uc544\uad70\uc744 48,879\ub9cc\ud07c \uce58\uc720\ud569\ub2c8\ub2e4. \uac15\ud654 \uc2dc 30\ubbf8\ud130 \ub0b4\uc758 \ubd80\uc0c1\ub2f9\ud55c \uc544\uad70\uc5d0\uac8c \uc62e\uaca8\uac11\ub2c8\ub2e4.\r\n\r\nI:   \ud55c \uba85\uc758 \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\nII:  \ub450 \uba85\uc758 \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.\r\n\r\nIII: \uc138 \uba85\uc758 \uc544\uad70\uc744 \uce58\uc720\ud569\ub2c8\ub2e4.",
+                "zh_TW": "\u8f49\u79fb\u9748\u9b42\u80fd\u91cf\uff0c\u4f7f\u4e00\u540d\u76df\u53cb\u6062\u5fa947,433\u9ede\u751f\u547d\u529b\u3002\u805a\u80fd\u6642\uff0c\u5f48\u8df3\u81f330\u78bc\u5167\u7684\u53d7\u50b7\u76df\u53cb\u3002\r\n\r\nI\uff1a   \u6cbb\u7642\u4e00\u540d\u76df\u53cb\u3002\r\n\r\nII\uff1a  \u6cbb\u7642\u7b2c\u4e8c\u540d\u76df\u53cb\u3002\r\n\r\nIII\uff1a \u6cbb\u7642\u7b2c\u4e09\u540d\u76df\u53cb\u3002",
+                "zh_CN": "\u5bfc\u5f15\u7cbe\u795e\u80fd\u91cf\uff0c\u4e3a\u4e00\u540d\u76df\u53cb\u6062\u590d48,627\u70b9\u751f\u547d\u503c\u3002\u5728\u84c4\u529b\u65f6\u4f1a\u8df3\u8dc3\u81f330\u7801\u5185\u53d7\u4f24\u7684\u76df\u53cb\u8eab\u4e0a\u3002\r\n\r\nI\uff1a\u6cbb\u7597\u4e00\u540d\u76df\u53cb\u3002\r\n\r\nII\uff1a\u6cbb\u7597\u7b2c\u4e8c\u540d\u76df\u53cb\u3002\r\n\r\nIII\uff1a\u6cbb\u7597\u7b2c\u4e09\u540d\u76df\u53cb\u3002"
               },
               "cast_time": {
                 "en_US": "Channeled",
@@ -7629,7 +7629,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120552?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120552?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Essence Attunement",
@@ -7650,7 +7650,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375722?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375722?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Essence Attunement",
@@ -7725,7 +7725,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120662?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120662?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Time Dilation",
@@ -7746,7 +7746,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/357170?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/357170?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Time Dilation",
@@ -7860,7 +7860,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122563?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122563?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Chrono Flame",
@@ -7881,7 +7881,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/431442?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/431442?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Chrono Flame",
@@ -7955,7 +7955,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120561?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120561?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Emerald Communion",
@@ -7976,7 +7976,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/370960?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/370960?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Emerald Communion",
@@ -8061,7 +8061,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120557?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120557?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Empath",
@@ -8082,7 +8082,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/376138?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/376138?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Empath",
@@ -8133,7 +8133,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120556?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120556?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Spiritual Clarity",
@@ -8154,7 +8154,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/376150?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/376150?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Spiritual Clarity",
@@ -8230,7 +8230,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120563?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120563?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Fluttering Seedlings",
@@ -8251,7 +8251,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/359793?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/359793?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Fluttering Seedlings",
@@ -8305,7 +8305,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120563?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120563?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Fluttering Seedlings",
@@ -8326,7 +8326,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/359793?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/359793?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Fluttering Seedlings",
@@ -8399,7 +8399,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120568?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120568?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Font of Magic",
@@ -8420,7 +8420,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/375783?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/375783?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Font of Magic",
@@ -8495,7 +8495,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120571?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120571?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Golden Hour",
@@ -8516,7 +8516,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/378196?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/378196?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Golden Hour",
@@ -8587,7 +8587,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120661?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120661?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Delay Harm",
@@ -8608,7 +8608,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/376207?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/376207?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Delay Harm",
@@ -8659,7 +8659,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120660?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120660?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Just in Time",
@@ -8680,7 +8680,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/376204?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/376204?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Just in Time",
@@ -8755,7 +8755,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120573?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120573?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Temporal Anomaly",
@@ -8776,7 +8776,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/373861?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/373861?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Temporal Anomaly",
@@ -8877,7 +8877,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122557?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122557?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Warp",
@@ -8898,7 +8898,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/429483?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/429483?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Warp",
@@ -8971,7 +8971,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122564?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122564?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Temporal Burst",
@@ -8992,7 +8992,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/431695?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/431695?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Temporal Burst",
@@ -9065,7 +9065,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122534?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122534?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Reverberations",
@@ -9086,7 +9086,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/431615?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/431615?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Reverberations",
@@ -9160,7 +9160,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120560?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120560?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Dreamwalker",
@@ -9181,7 +9181,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/377082?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/377082?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Dreamwalker",
@@ -9232,7 +9232,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120559?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120559?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Rush of Vitality",
@@ -9253,7 +9253,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/377086?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/377086?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Rush of Vitality",
@@ -9325,7 +9325,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120562?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120562?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Exhilarating Burst",
@@ -9346,7 +9346,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/377100?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/377100?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Exhilarating Burst",
@@ -9400,7 +9400,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120562?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120562?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Exhilarating Burst",
@@ -9421,7 +9421,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/377100?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/377100?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Exhilarating Burst",
@@ -9495,7 +9495,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120564?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120564?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Field of Dreams",
@@ -9516,7 +9516,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/370062?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/370062?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Field of Dreams",
@@ -9589,7 +9589,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120565?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120565?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Power Nexus",
@@ -9610,7 +9610,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/369908?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/369908?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Power Nexus",
@@ -9684,7 +9684,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120570?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120570?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Time Lord",
@@ -9705,7 +9705,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/372527?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/372527?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Time Lord",
@@ -9759,7 +9759,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120570?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120570?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Time Lord",
@@ -9780,7 +9780,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/372527?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/372527?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Time Lord",
@@ -9851,7 +9851,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120572?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120572?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Flow State",
@@ -9872,7 +9872,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/385696?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/385696?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Flow State",
@@ -9926,7 +9926,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120572?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120572?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Flow State",
@@ -9947,7 +9947,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/385696?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/385696?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Flow State",
@@ -10021,7 +10021,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120575?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120575?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Resonating Sphere",
@@ -10042,7 +10042,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/376236?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/376236?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Resonating Sphere",
@@ -10093,7 +10093,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120574?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120574?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Nozdormu's Teachings",
@@ -10114,7 +10114,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/376237?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/376237?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Nozdormu's Teachings",
@@ -10189,7 +10189,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122544?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122544?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Temporality",
@@ -10210,7 +10210,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/431873?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/431873?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Temporality",
@@ -10261,7 +10261,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122796?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122796?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Motes of Acceleration",
@@ -10282,7 +10282,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/432008?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/432008?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Motes of Acceleration",
@@ -10356,7 +10356,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122556?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122556?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Threads of Fate",
@@ -10377,7 +10377,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/431715?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/431715?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Threads of Fate",
@@ -10450,7 +10450,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122560?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122560?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Primacy",
@@ -10471,7 +10471,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/431657?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/431657?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Primacy",
@@ -10547,7 +10547,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120566?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120566?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Call of Ysera",
@@ -10568,7 +10568,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/373834?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/373834?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Call of Ysera",
@@ -10645,7 +10645,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120569?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120569?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Lifebind",
@@ -10666,7 +10666,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/373270?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/373270?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Lifebind",
@@ -10742,7 +10742,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120577?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120577?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Punctuality",
@@ -10763,7 +10763,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/371270?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/371270?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Punctuality",
@@ -10837,7 +10837,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122541?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122541?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Double-time",
@@ -10858,7 +10858,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/431874?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/431874?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Double-time",
@@ -10909,7 +10909,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122798?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122798?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Time Convergence",
@@ -10930,7 +10930,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/431984?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/431984?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Time Convergence",
@@ -11005,7 +11005,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/122539?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/122539?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Master of Destiny",
@@ -11026,7 +11026,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/431840?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/431840?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Master of Destiny",
@@ -11077,7 +11077,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/131136?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/131136?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Instability Matrix",
@@ -11098,7 +11098,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/431484?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/431484?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Instability Matrix",
@@ -11172,7 +11172,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122551?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122551?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Golden Opportunity",
@@ -11193,7 +11193,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/432004?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/432004?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Golden Opportunity",
@@ -11266,7 +11266,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120587?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120587?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Spark of Insight",
@@ -11287,7 +11287,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/377099?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/377099?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Spark of Insight",
@@ -11360,7 +11360,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120567?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120567?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Ouroboros",
@@ -11381,7 +11381,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/381921?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/381921?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Ouroboros",
@@ -11456,7 +11456,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120551?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120551?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Life-Giver's Flame",
@@ -11477,7 +11477,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/371426?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/371426?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Life-Giver's Flame",
@@ -11550,7 +11550,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/128171?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/128171?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Titan's Gift",
@@ -11571,7 +11571,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/443264?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/443264?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Titan's Gift",
@@ -11647,7 +11647,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120582?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120582?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Erasure",
@@ -11668,7 +11668,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/376210?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/376210?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Erasure",
@@ -11719,7 +11719,7 @@
             {
               "talent": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/talent/120581?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/talent/120581?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Temporal Artificer",
@@ -11740,7 +11740,7 @@
               "spell_tooltip": {
                 "spell": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/spell/381922?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/spell/381922?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Temporal Artificer",
@@ -11814,7 +11814,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120578?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120578?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Energy Loop",
@@ -11835,7 +11835,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/372233?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/372233?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Energy Loop",
@@ -11908,7 +11908,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120576?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120576?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Time of Need",
@@ -11929,7 +11929,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/368412?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/368412?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Time of Need",
@@ -12015,7 +12015,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/122538?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/122538?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Afterimage",
@@ -12036,7 +12036,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/431875?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/431875?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Afterimage",
@@ -12112,7 +12112,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120586?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120586?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Renewing Breath",
@@ -12133,7 +12133,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/371257?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/371257?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Renewing Breath",
@@ -12187,7 +12187,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120586?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120586?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Renewing Breath",
@@ -12208,7 +12208,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/371257?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/371257?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Renewing Breath",
@@ -12283,7 +12283,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120550?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120550?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Lifeforce Mender",
@@ -12304,7 +12304,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376179?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376179?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Lifeforce Mender",
@@ -12358,7 +12358,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120550?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120550?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Lifeforce Mender",
@@ -12379,7 +12379,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376179?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376179?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Lifeforce Mender",
@@ -12455,7 +12455,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120580?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120580?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Timeless Magic",
@@ -12476,7 +12476,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376240?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376240?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Timeless Magic",
@@ -12530,7 +12530,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120580?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120580?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Timeless Magic",
@@ -12551,7 +12551,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376240?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376240?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Timeless Magic",
@@ -12621,7 +12621,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120585?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120585?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Dream Flight",
@@ -12642,7 +12642,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/359816?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/359816?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Dream Flight",
@@ -12661,18 +12661,18 @@
                 "id": 359816
               },
               "description": {
-                "en_US": "Take in a deep breath and fly to the targeted location, healing all allies in your path for 13,281 immediately, and 9,003 over 15 sec.\r\n\r\nHealing increased by 100% when not in a raid.\r\n\r\nRemoves all root effects. You are immune to movement impairing and loss of control effects while flying.",
-                "es_MX": "Respiras profundamente y vuelas a la ubicaci\u00f3n objetivo. En el camino, restituyes a todos los aliados 13,281 p. de salud de inmediato y otros 9,251 p. durante 15 s.\r\n\r\nLa sanaci\u00f3n aumenta un 100% cuando no est\u00e1s en una banda.\r\n\r\nElimina todos los efectos de enraizamiento. Eres inmune a los efectos de reducci\u00f3n de movimiento y p\u00e9rdida de control cuando vuelas.",
-                "pt_BR": "Respira fundo e voa at\u00e9 o local selecionado, concedendo a todos os aliados no caminho 13.281 de cura imediatamente, mais 9.103 ao longo de 15 s.\r\n\r\nCura aumentada em 100% se n\u00e3o estiver em um raide.\r\n\r\nRemove todos os efeitos de enraizamento. Voc\u00ea fica imune a efeitos que dificultem o movimento ou de perda de controle ao voar.",
-                "de_DE": "Atmet tief ein, fliegt zum Zielort und heilt dabei alle Verb\u00fcndeten in Eurer Bahn sofort um 13.281 Gesundheit sowie um 9.218 Gesundheit im Verlauf von 15 Sek.\r\n\r\nHeilung um 100% erh\u00f6ht, wenn Ihr Euch nicht in einem Schlachtzug befindet.\r\n\r\nEntfernt alle Bewegungsunf\u00e4higkeitseffekte. Im Flug seid Ihr immun gegen bewegungseinschr\u00e4nkende Effekte und Kontrollverlusteffekte.",
-                "en_GB": "Take in a deep breath and fly to the targeted location, healing all allies in your path for 13,281 immediately, and 9,066 over 15 sec.\r\n\r\nHealing increased by 100% when not in a raid.\r\n\r\nRemoves all root effects. You are immune to movement impairing and loss of control effects while flying.",
-                "es_ES": "Respiras hondo y vuelas hacia la ubicaci\u00f3n objetivo para sanar 13281 p. de inmediato a todos los aliados a tu paso y 9384 p. durante 15 s.\r\n\r\nAumenta un 100% la sanaci\u00f3n cuando no est\u00e1s en una banda.\r\n\r\nElimina todos los efectos de enraizamiento. Mientras vuelas, eres inmune a los efectos de reducci\u00f3n de movimiento y p\u00e9rdida de control.",
-                "fr_FR": "Vous prenez une profonde inspiration et volez jusqu\u2019\u00e0 l\u2019emplacement cibl\u00e9, rendant au passage 13281\u00a0points de vie aux personnages alli\u00e9s sur votre trajectoire, puis 8982 en 15 s.\r\n\r\nSoins augment\u00e9s de 100\u00a0% lorsque vous n\u2019\u00eates pas dans un raid.\r\n\r\nSupprime tous les effets d\u2019immobilisation. Vous \u00eates insensible aux effets de contr\u00f4le, d\u2019immobilisation ou de ralentissement pendant le vol.",
-                "it_IT": "Permette di fare un profondo respiro e di volare verso la posizione bersaglio, curando tutti gli alleati sulla traiettoria di 13.281 istantaneamente e di 9.011 in 15 s.\r\n\r\nCure fornite aumentate del 100% se non si \u00e8 in un gruppo d'incursione.\r\n\r\nDissolve tutti gli effetti di immobilizzazione. Durante il volo si \u00e8 immuni agli effetti di limitazione al movimento e di perdita di controllo.",
-                "ru_RU": "\u0412\u044b \u0434\u0435\u043b\u0430\u0435\u0442\u0435 \u0433\u043b\u0443\u0431\u043e\u043a\u0438\u0439 \u0432\u0434\u043e\u0445 \u0438 \u043b\u0435\u0442\u0438\u0442\u0435 \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u0443\u044e \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u043d\u0430 \u0441\u0432\u043e\u0435\u043c \u043f\u0443\u0442\u0438 13281 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0435\u0449\u0435 9132 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 15 \u0441\u0435\u043a.\r\n\r\n\u0412\u043d\u0435 \u0440\u0435\u0439\u0434\u0430 \u0441\u0438\u043b\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100%.\r\n\r\n\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u043d\u0438\u044f. \u0412\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u043b\u0435\u0442\u0430 \u0432\u044b \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u044b \u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c, \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u043c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0438 \u043b\u0438\u0448\u0430\u044e\u0449\u0438\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f.",
-                "ko_KR": "\uc228\uc744 \uae4a\uc774 \ub4e4\uc774\ub9c8\uc2e0 \ud6c4, \ub300\uc0c1 \uc704\uce58\ub85c \ub0a0\uc544\uac00\uba70 \uc774\ub3d9 \uacbd\ub85c\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc544\uad70\uc758 \uc0dd\uba85\ub825\uc744 \uc989\uc2dc 13,281\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0a4\uace0, \ucd94\uac00\ub85c 15\ucd08\uc5d0 \uac78\uccd0 9,138\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uacf5\uaca9\ub300\uc5d0 \uc18d\ud574 \uc788\uc9c0 \uc54a\uc744 \ub54c\ub294 \uce58\uc720\ub7c9\uc774 100%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ubaa8\ub4e0 \uc774\ub3d9 \ubd88\uac00 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4. \ube44\ud589 \uc911\uc5d0\ub294 \uc774\ub3d9 \ubc29\ud574 \ubc0f \uc81c\uc5b4 \ubd88\uac00 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub429\ub2c8\ub2e4.",
-                "zh_TW": "\u6df1\u547c\u5438\u4e26\u98db\u5411\u76ee\u6a19\u5730\u9ede\uff0c\u7acb\u5373\u70ba\u8def\u5f91\u4e0a\u7684\u6240\u6709\u76df\u53cb\u6cbb\u764213,281\u9ede\u751f\u547d\u529b\uff0c\u4e26\u572815\u79d2\u5167\u6cbb\u76429,039\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u4e0d\u5728\u5718\u968a\u4e2d\u6642\uff0c\u6cbb\u7642\u6548\u679c\u63d0\u9ad8100%\u3002\r\n\r\n\u79fb\u9664\u6240\u6709\u5b9a\u8eab\u6548\u679c\u3002\u4f60\u5728\u98db\u884c\u6642\u5c0d\u79fb\u52d5\u9650\u5236\u8207\u55aa\u5931\u63a7\u5236\u6548\u679c\u514d\u75ab\u3002",
-                "zh_CN": "\u6df1\u6df1\u5730\u5438\u4e00\u53e3\u6c14\uff0c\u98de\u5411\u76ee\u6807\u5730\u70b9\uff0c\u7acb\u5373\u4e3a\u8def\u5f84\u4e0a\u7684\u76df\u53cb\u6062\u590d13,281\u70b9\u751f\u547d\u503c\uff0c\u5e76\u572815\u79d2\u5185\u6062\u590d9,379\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u4e0d\u5728\u56e2\u961f\u4e2d\u65f6\uff0c\u6cbb\u7597\u6548\u679c\u63d0\u9ad8100%\u3002\r\n\r\n\u79fb\u9664\u6240\u6709\u5b9a\u8eab\u6548\u679c\u3002\u4f60\u5728\u98de\u884c\u65f6\u514d\u75ab\u6240\u6709\u7684\u79fb\u52a8\u9650\u5236\u548c\u5931\u63a7\u6548\u679c\u3002"
+                "en_US": "Take in a deep breath and fly to the targeted location, healing all allies in your path for 13,281 immediately, and 8,972 over 15 sec.\r\n\r\nHealing increased by 100% when not in a raid.\r\n\r\nRemoves all root effects. You are immune to movement impairing and loss of control effects while flying.",
+                "es_MX": "Respiras profundamente y vuelas a la ubicaci\u00f3n objetivo. En el camino, restituyes a todos los aliados 13,281 p. de salud de inmediato y otros 9,299 p. durante 15 s.\r\n\r\nLa sanaci\u00f3n aumenta un 100% cuando no est\u00e1s en una banda.\r\n\r\nElimina todos los efectos de enraizamiento. Eres inmune a los efectos de reducci\u00f3n de movimiento y p\u00e9rdida de control cuando vuelas.",
+                "pt_BR": "Respira fundo e voa at\u00e9 o local selecionado, concedendo a todos os aliados no caminho 13.281 de cura imediatamente, mais 9.154 ao longo de 15 s.\r\n\r\nCura aumentada em 100% se n\u00e3o estiver em um raide.\r\n\r\nRemove todos os efeitos de enraizamento. Voc\u00ea fica imune a efeitos que dificultem o movimento ou de perda de controle ao voar.",
+                "de_DE": "Atmet tief ein, fliegt zum Zielort und heilt dabei alle Verb\u00fcndeten in Eurer Bahn sofort um 13.281 Gesundheit sowie um 9.180 Gesundheit im Verlauf von 15 Sek.\r\n\r\nHeilung um 100% erh\u00f6ht, wenn Ihr Euch nicht in einem Schlachtzug befindet.\r\n\r\nEntfernt alle Bewegungsunf\u00e4higkeitseffekte. Im Flug seid Ihr immun gegen bewegungseinschr\u00e4nkende Effekte und Kontrollverlusteffekte.",
+                "en_GB": "Take in a deep breath and fly to the targeted location, healing all allies in your path for 13,281 immediately, and 9,075 over 15 sec.\r\n\r\nHealing increased by 100% when not in a raid.\r\n\r\nRemoves all root effects. You are immune to movement impairing and loss of control effects while flying.",
+                "es_ES": "Respiras hondo y vuelas hacia la ubicaci\u00f3n objetivo para sanar 13281 p. de inmediato a todos los aliados a tu paso y 8983 p. durante 15 s.\r\n\r\nAumenta un 100% la sanaci\u00f3n cuando no est\u00e1s en una banda.\r\n\r\nElimina todos los efectos de enraizamiento. Mientras vuelas, eres inmune a los efectos de reducci\u00f3n de movimiento y p\u00e9rdida de control.",
+                "fr_FR": "Vous prenez une profonde inspiration et volez jusqu\u2019\u00e0 l\u2019emplacement cibl\u00e9, rendant au passage 13281\u00a0points de vie aux personnages alli\u00e9s sur votre trajectoire, puis 9113 en 15 s.\r\n\r\nSoins augment\u00e9s de 100\u00a0% lorsque vous n\u2019\u00eates pas dans un raid.\r\n\r\nSupprime tous les effets d\u2019immobilisation. Vous \u00eates insensible aux effets de contr\u00f4le, d\u2019immobilisation ou de ralentissement pendant le vol.",
+                "it_IT": "Permette di fare un profondo respiro e di volare verso la posizione bersaglio, curando tutti gli alleati sulla traiettoria di 13.281 istantaneamente e di 9.207 in 15 s.\r\n\r\nCure fornite aumentate del 100% se non si \u00e8 in un gruppo d'incursione.\r\n\r\nDissolve tutti gli effetti di immobilizzazione. Durante il volo si \u00e8 immuni agli effetti di limitazione al movimento e di perdita di controllo.",
+                "ru_RU": "\u0412\u044b \u0434\u0435\u043b\u0430\u0435\u0442\u0435 \u0433\u043b\u0443\u0431\u043e\u043a\u0438\u0439 \u0432\u0434\u043e\u0445 \u0438 \u043b\u0435\u0442\u0438\u0442\u0435 \u0432 \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u0443\u044e \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u043d\u0430 \u0441\u0432\u043e\u0435\u043c \u043f\u0443\u0442\u0438 13281 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u043e \u0438 \u0435\u0449\u0435 8954 \u0435\u0434. \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0437\u0430 15 \u0441\u0435\u043a.\r\n\r\n\u0412\u043d\u0435 \u0440\u0435\u0439\u0434\u0430 \u0441\u0438\u043b\u0430 \u0438\u0441\u0446\u0435\u043b\u0435\u043d\u0438\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 100%.\r\n\r\n\u0421\u043d\u0438\u043c\u0430\u0435\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u044b \u043e\u0431\u0435\u0437\u0434\u0432\u0438\u0436\u0438\u0432\u0430\u043d\u0438\u044f. \u0412\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u043b\u0435\u0442\u0430 \u0432\u044b \u043d\u0435\u0432\u043e\u0441\u043f\u0440\u0438\u0438\u043c\u0447\u0438\u0432\u044b \u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0430\u043c, \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u044f\u044e\u0449\u0438\u043c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0438 \u043b\u0438\u0448\u0430\u044e\u0449\u0438\u043c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f.",
+                "ko_KR": "\uc228\uc744 \uae4a\uc774 \ub4e4\uc774\ub9c8\uc2e0 \ud6c4, \ub300\uc0c1 \uc704\uce58\ub85c \ub0a0\uc544\uac00\uba70 \uc774\ub3d9 \uacbd\ub85c\uc5d0 \uc788\ub294 \ubaa8\ub4e0 \uc544\uad70\uc758 \uc0dd\uba85\ub825\uc744 \uc989\uc2dc 13,281\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0a4\uace0, \ucd94\uac00\ub85c 15\ucd08\uc5d0 \uac78\uccd0 8,998\ub9cc\ud07c \ud68c\ubcf5\uc2dc\ud0b5\ub2c8\ub2e4.\r\n\r\n\uacf5\uaca9\ub300\uc5d0 \uc18d\ud574 \uc788\uc9c0 \uc54a\uc744 \ub54c\ub294 \uce58\uc720\ub7c9\uc774 100%\ub9cc\ud07c \uc99d\uac00\ud569\ub2c8\ub2e4.\r\n\r\n\ubaa8\ub4e0 \uc774\ub3d9 \ubd88\uac00 \ud6a8\uacfc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4. \ube44\ud589 \uc911\uc5d0\ub294 \uc774\ub3d9 \ubc29\ud574 \ubc0f \uc81c\uc5b4 \ubd88\uac00 \ud6a8\uacfc\uc5d0 \uba74\uc5ed\uc774 \ub429\ub2c8\ub2e4.",
+                "zh_TW": "\u6df1\u547c\u5438\u4e26\u98db\u5411\u76ee\u6a19\u5730\u9ede\uff0c\u7acb\u5373\u70ba\u8def\u5f91\u4e0a\u7684\u6240\u6709\u76df\u53cb\u6cbb\u764213,281\u9ede\u751f\u547d\u529b\uff0c\u4e26\u572815\u79d2\u5167\u6cbb\u76429,099\u9ede\u751f\u547d\u529b\u3002\r\n\r\n\u4e0d\u5728\u5718\u968a\u4e2d\u6642\uff0c\u6cbb\u7642\u6548\u679c\u63d0\u9ad8100%\u3002\r\n\r\n\u79fb\u9664\u6240\u6709\u5b9a\u8eab\u6548\u679c\u3002\u4f60\u5728\u98db\u884c\u6642\u5c0d\u79fb\u52d5\u9650\u5236\u8207\u55aa\u5931\u63a7\u5236\u6548\u679c\u514d\u75ab\u3002",
+                "zh_CN": "\u6df1\u6df1\u5730\u5438\u4e00\u53e3\u6c14\uff0c\u98de\u5411\u76ee\u6807\u5730\u70b9\uff0c\u7acb\u5373\u4e3a\u8def\u5f84\u4e0a\u7684\u76df\u53cb\u6062\u590d13,281\u70b9\u751f\u547d\u503c\uff0c\u5e76\u572815\u79d2\u5185\u6062\u590d9,087\u70b9\u751f\u547d\u503c\u3002\r\n\r\n\u4e0d\u5728\u56e2\u961f\u4e2d\u65f6\uff0c\u6cbb\u7597\u6548\u679c\u63d0\u9ad8100%\u3002\r\n\r\n\u79fb\u9664\u6240\u6709\u5b9a\u8eab\u6548\u679c\u3002\u4f60\u5728\u98de\u884c\u65f6\u514d\u75ab\u6240\u6709\u7684\u79fb\u52a8\u9650\u5236\u548c\u5931\u63a7\u6548\u679c\u3002"
               },
               "cast_time": {
                 "en_US": "Instant",
@@ -12754,7 +12754,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120584?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120584?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Cycle of Life",
@@ -12775,7 +12775,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/371832?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/371832?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Cycle of Life",
@@ -12845,7 +12845,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/128172?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/128172?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Lifespark",
@@ -12866,7 +12866,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/443177?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/443177?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Lifespark",
@@ -12936,7 +12936,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120583?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120583?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Grace Period",
@@ -12957,7 +12957,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/376239?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/376239?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Grace Period",
@@ -13027,7 +13027,7 @@
           "tooltip": {
             "talent": {
               "key": {
-                "href": "https://eu.api.blizzard.com/data/wow/talent/120579?namespace=static-11.1.5_60179-eu"
+                "href": "https://eu.api.blizzard.com/data/wow/talent/120579?namespace=static-11.1.7_61131-eu"
               },
               "name": {
                 "en_US": "Stasis",
@@ -13048,7 +13048,7 @@
             "spell_tooltip": {
               "spell": {
                 "key": {
-                  "href": "https://eu.api.blizzard.com/data/wow/spell/370537?namespace=static-11.1.5_60179-eu"
+                  "href": "https://eu.api.blizzard.com/data/wow/spell/370537?namespace=static-11.1.7_61131-eu"
                 },
                 "name": {
                   "en_US": "Stasis",
@@ -13151,7 +13151,7 @@
       },
       "media": {
         "key": {
-          "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/hero-talent/36?namespace=static-11.1.5_60179-eu"
+          "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/hero-talent/36?namespace=static-11.1.7_61131-eu"
         },
         "id": 36
       },
@@ -13174,7 +13174,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122530?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122530?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Melt Armor",
@@ -13195,7 +13195,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/441176?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/441176?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Melt Armor",
@@ -13269,7 +13269,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122537?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122537?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Extended Battle",
@@ -13290,7 +13290,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/441212?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/441212?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Extended Battle",
@@ -13341,7 +13341,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/125024?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/125024?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Diverted Power",
@@ -13362,7 +13362,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/441219?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/441219?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Diverted Power",
@@ -13437,7 +13437,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122542?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122542?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Hardened Scales",
@@ -13458,7 +13458,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/441180?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/441180?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Hardened Scales",
@@ -13509,7 +13509,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/125025?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/125025?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Menacing Presence",
@@ -13530,7 +13530,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/441181?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/441181?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Menacing Presence",
@@ -13604,7 +13604,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122543?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122543?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Unrelenting Siege",
@@ -13625,7 +13625,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/441246?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/441246?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Unrelenting Siege",
@@ -13699,7 +13699,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122545?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122545?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Bombardments",
@@ -13720,7 +13720,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/434300?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/434300?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Bombardments",
@@ -13792,7 +13792,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122548?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122548?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Mass Disintegrate",
@@ -13813,7 +13813,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/436335?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/436335?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Mass Disintegrate",
@@ -13886,7 +13886,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122550?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122550?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Maneuverability",
@@ -13907,7 +13907,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/433871?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/433871?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Maneuverability",
@@ -13981,7 +13981,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122552?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122552?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Nimble Flyer",
@@ -14002,7 +14002,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/441253?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/441253?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Nimble Flyer",
@@ -14053,7 +14053,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/125023?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/125023?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Slipstream",
@@ -14074,7 +14074,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/441257?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/441257?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Slipstream",
@@ -14149,7 +14149,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122553?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122553?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Onslaught",
@@ -14170,7 +14170,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/441245?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/441245?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Onslaught",
@@ -14244,7 +14244,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122561?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122561?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Might of the Black Dragonflight",
@@ -14265,7 +14265,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/441705?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/441705?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Might of the Black Dragonflight",
@@ -14338,7 +14338,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122562?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122562?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Wingleader",
@@ -14359,7 +14359,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/441206?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/441206?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Wingleader",
@@ -14431,7 +14431,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/127179?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/127179?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Mass Eruption",
@@ -14452,7 +14452,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/438587?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/438587?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Mass Eruption",
@@ -14511,7 +14511,7 @@
       ],
       "playable_class": {
         "key": {
-          "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.5_60179-eu"
+          "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.7_61131-eu"
         },
         "name": {
           "en_US": "Evoker",
@@ -14532,7 +14532,7 @@
       "playable_specializations": [
         {
           "key": {
-            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1467?namespace=static-11.1.5_60179-eu"
+            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1467?namespace=static-11.1.7_61131-eu"
           },
           "name": {
             "en_US": "Devastation",
@@ -14552,7 +14552,7 @@
         },
         {
           "key": {
-            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-11.1.5_60179-eu"
+            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-11.1.7_61131-eu"
           },
           "name": {
             "en_US": "Augmentation",
@@ -14590,7 +14590,7 @@
       },
       "media": {
         "key": {
-          "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/hero-talent/37?namespace=static-11.1.5_60179-eu"
+          "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/hero-talent/37?namespace=static-11.1.7_61131-eu"
         },
         "id": 37
       },
@@ -14613,7 +14613,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122529?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122529?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Titanic Precision",
@@ -14634,7 +14634,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/445625?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/445625?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Titanic Precision",
@@ -14706,7 +14706,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122531?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122531?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Consume Flame",
@@ -14727,7 +14727,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/444088?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/444088?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Consume Flame",
@@ -14800,7 +14800,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122532?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122532?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Fulminous Roar",
@@ -14821,7 +14821,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/1218447?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/1218447?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Fulminous Roar",
@@ -14895,7 +14895,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122540?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122540?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Lifecinders",
@@ -14916,7 +14916,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/444322?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/444322?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Lifecinders",
@@ -14967,7 +14967,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/128243?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/128243?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Draconic Instincts",
@@ -14988,7 +14988,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/445958?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/445958?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Draconic Instincts",
@@ -15063,7 +15063,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122546?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122546?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Trailblazer",
@@ -15084,7 +15084,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/444849?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/444849?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Trailblazer",
@@ -15135,7 +15135,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/128242?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/128242?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Shape of Flame",
@@ -15156,7 +15156,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/445074?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/445074?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Shape of Flame",
@@ -15230,7 +15230,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122554?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122554?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Red Hot",
@@ -15251,7 +15251,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/444081?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/444081?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Red Hot",
@@ -15324,7 +15324,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122555?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122555?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Burning Adrenaline",
@@ -15345,7 +15345,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/444020?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/444020?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Burning Adrenaline",
@@ -15418,7 +15418,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122558?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122558?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Conduit of Flame",
@@ -15439,7 +15439,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/444843?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/444843?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Conduit of Flame",
@@ -15511,7 +15511,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122559?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122559?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Engulf",
@@ -15532,7 +15532,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/443328?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/443328?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Engulf",
@@ -15636,7 +15636,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122565?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122565?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Enkindle",
@@ -15657,7 +15657,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/444016?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/444016?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Enkindle",
@@ -15708,7 +15708,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/133515?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/133515?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Expanded Lungs",
@@ -15729,7 +15729,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/444845?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/444845?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Expanded Lungs",
@@ -15803,7 +15803,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/128254?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/128254?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Flame Siphon",
@@ -15824,7 +15824,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/444140?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/444140?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Flame Siphon",
@@ -15882,7 +15882,7 @@
       ],
       "playable_class": {
         "key": {
-          "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.5_60179-eu"
+          "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.7_61131-eu"
         },
         "name": {
           "en_US": "Evoker",
@@ -15903,7 +15903,7 @@
       "playable_specializations": [
         {
           "key": {
-            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-11.1.5_60179-eu"
+            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-11.1.7_61131-eu"
           },
           "name": {
             "en_US": "Preservation",
@@ -15923,7 +15923,7 @@
         },
         {
           "key": {
-            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1467?namespace=static-11.1.5_60179-eu"
+            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1467?namespace=static-11.1.7_61131-eu"
           },
           "name": {
             "en_US": "Devastation",
@@ -15961,7 +15961,7 @@
       },
       "media": {
         "key": {
-          "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/hero-talent/38?namespace=static-11.1.5_60179-eu"
+          "href": "https://eu.api.blizzard.com/data/wow/media/talent-tree/872/hero-talent/38?namespace=static-11.1.7_61131-eu"
         },
         "id": 38
       },
@@ -15984,7 +15984,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122534?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122534?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Reverberations",
@@ -16005,7 +16005,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/431615?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/431615?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Reverberations",
@@ -16077,7 +16077,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122538?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122538?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Afterimage",
@@ -16098,7 +16098,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/431875?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/431875?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Afterimage",
@@ -16172,7 +16172,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122539?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122539?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Master of Destiny",
@@ -16193,7 +16193,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/431840?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/431840?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Master of Destiny",
@@ -16244,7 +16244,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/131136?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/131136?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Instability Matrix",
@@ -16265,7 +16265,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/431484?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/431484?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Instability Matrix",
@@ -16340,7 +16340,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122541?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122541?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Double-time",
@@ -16361,7 +16361,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/431874?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/431874?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Double-time",
@@ -16412,7 +16412,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122798?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122798?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Time Convergence",
@@ -16433,7 +16433,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/431984?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/431984?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Time Convergence",
@@ -16508,7 +16508,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122544?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122544?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Temporality",
@@ -16529,7 +16529,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/431873?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/431873?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Temporality",
@@ -16580,7 +16580,7 @@
                 {
                   "talent": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/talent/122796?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/talent/122796?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Motes of Acceleration",
@@ -16601,7 +16601,7 @@
                   "spell_tooltip": {
                     "spell": {
                       "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/spell/432008?namespace=static-11.1.5_60179-eu"
+                        "href": "https://eu.api.blizzard.com/data/wow/spell/432008?namespace=static-11.1.7_61131-eu"
                       },
                       "name": {
                         "en_US": "Motes of Acceleration",
@@ -16675,7 +16675,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122551?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122551?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Golden Opportunity",
@@ -16696,7 +16696,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/432004?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/432004?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Golden Opportunity",
@@ -16769,7 +16769,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122556?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122556?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Threads of Fate",
@@ -16790,7 +16790,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/431715?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/431715?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Threads of Fate",
@@ -16863,7 +16863,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122557?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122557?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Warp",
@@ -16884,7 +16884,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/429483?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/429483?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Warp",
@@ -16957,7 +16957,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122560?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122560?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Primacy",
@@ -16978,7 +16978,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/431657?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/431657?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Primacy",
@@ -17050,7 +17050,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122563?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122563?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Chrono Flame",
@@ -17071,7 +17071,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/431442?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/431442?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Chrono Flame",
@@ -17145,7 +17145,7 @@
               "tooltip": {
                 "talent": {
                   "key": {
-                    "href": "https://eu.api.blizzard.com/data/wow/talent/122564?namespace=static-11.1.5_60179-eu"
+                    "href": "https://eu.api.blizzard.com/data/wow/talent/122564?namespace=static-11.1.7_61131-eu"
                   },
                   "name": {
                     "en_US": "Temporal Burst",
@@ -17166,7 +17166,7 @@
                 "spell_tooltip": {
                   "spell": {
                     "key": {
-                      "href": "https://eu.api.blizzard.com/data/wow/spell/431695?namespace=static-11.1.5_60179-eu"
+                      "href": "https://eu.api.blizzard.com/data/wow/spell/431695?namespace=static-11.1.7_61131-eu"
                     },
                     "name": {
                       "en_US": "Temporal Burst",
@@ -17224,7 +17224,7 @@
       ],
       "playable_class": {
         "key": {
-          "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.5_60179-eu"
+          "href": "https://eu.api.blizzard.com/data/wow/playable-class/13?namespace=static-11.1.7_61131-eu"
         },
         "name": {
           "en_US": "Evoker",
@@ -17245,7 +17245,7 @@
       "playable_specializations": [
         {
           "key": {
-            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-11.1.5_60179-eu"
+            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-11.1.7_61131-eu"
           },
           "name": {
             "en_US": "Preservation",
@@ -17265,7 +17265,7 @@
         },
         {
           "key": {
-            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-11.1.5_60179-eu"
+            "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-11.1.7_61131-eu"
           },
           "name": {
             "en_US": "Augmentation",
