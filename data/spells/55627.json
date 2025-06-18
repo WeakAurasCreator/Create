@@ -1,5 +1,5 @@
 {
-  "ID": "751837",
+  "ID": "36840",
   "NameSubtext_lang": "",
   "Description_lang": "$@spelldesc459168",
   "AuraDescription_lang": "$@spellaura459168",
@@ -19,9 +19,9 @@
   "Attributes_13": "33554432",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "2",
+  "DifficultyID": "0",
   "CastingTimeIndex": "1",
-  "DurationIndex": "8",
+  "DurationIndex": "1",
   "PvPDurationIndex": "0",
   "RangeIndex": "1",
   "SchoolMask": "8",
