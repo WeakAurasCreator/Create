@@ -1,5 +1,5 @@
 {
-  "ID": "352107",
+  "ID": "790078",
   "NameSubtext_lang": "",
   "Description_lang": "Heals a Reanimation Totem for $s1% of its maximum life.This cast is interrupted when all Reanimation Totems are slain.",
   "AuraDescription_lang": "",
@@ -19,8 +19,8 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "23",
-  "CastingTimeIndex": "32",
+  "DifficultyID": "24",
+  "CastingTimeIndex": "192",
   "DurationIndex": "0",
   "PvPDurationIndex": "0",
   "RangeIndex": "1",
