@@ -1,7 +1,7 @@
 {
   "ID": "340126",
   "NameSubtext_lang": "",
-  "Description_lang": "These loose sparks inflict $s1 Nature damage to all players caught in their path.",
+  "Description_lang": "Loose sparks crackle with energy, inflicting $s1 Nature damage to players hit and stunning them for $1225638d.",
   "AuraDescription_lang": "",
   "Attributes_0": "218103808",
   "Attributes_1": "40",
