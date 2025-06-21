@@ -1,8 +1,8 @@
 {
   "ID": "650388",
   "NameSubtext_lang": "",
-  "Description_lang": "A loa-blessed mug of charred porter to settle your meal of meats. Increases $pri by $s1% for $d.",
-  "AuraDescription_lang": "$pri increased by $s1%. Does not function in raids, dungeons, or other instances.",
+  "Description_lang": "A loa-blessed mug of charred porter to settle your meal of meats. Increases $pri by $s1% for $d.Only active while in the Dragon Isles.",
+  "AuraDescription_lang": "$pri increased by $s1%. Does not function in raids, dungeons, other instances, or outside the Dragon Isles.",
   "Attributes_0": "134217728",
   "Attributes_1": "32",
   "Attributes_2": "0",
