@@ -1,8 +1,8 @@
 {
   "ID": "650413",
   "NameSubtext_lang": "",
-  "Description_lang": "A skewer of lightly grilled and freshly seasoned vegetables straight from the Bloodhoof farms of Kalimdor. Increases mana regen by $s1% for $d.",
-  "AuraDescription_lang": "Mana regen increased by $s1%. Does not function in raids, dungeons, or other instances.",
+  "Description_lang": "A skewer of lightly grilled and freshly seasoned vegetables straight from the Bloodhoof farms of Kalimdor. Increases mana regen by $s1% for $d.Only active while in the Dragon Isles.",
+  "AuraDescription_lang": "Mana regen increased by $s1%. Does not function in raids, dungeons, other instances, or outside the Dragon Isles.",
   "Attributes_0": "134217728",
   "Attributes_1": "32",
   "Attributes_2": "0",
