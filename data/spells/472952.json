@@ -1,7 +1,7 @@
 {
   "ID": "765775",
   "NameSubtext_lang": "",
-  "Description_lang": "The Underpin's allies are wandering about the delve.Defeating a group of these enemies upgrades the Nemesis Strongbox found in the treasure room. Providing additional rewards at the end of this delve.$?WE43453[Enemy groups remaining: |cnWHITE_FONT_COLOR:$@currency3103 / $@currency3104|r][]",
+  "Description_lang": "The Underpin's allies are wandering about the delve.Defeating a group of these enemies upgrades the Nemesis Strongbox found in the treasure room, providing additional rewards at the end of this delve.$?WE43453[Enemy groups remaining: |cnWHITE_FONT_COLOR:$@currency3103 / $@currency3104|r][]",
   "AuraDescription_lang": "",
   "Attributes_0": "696254848",
   "Attributes_1": "1056",

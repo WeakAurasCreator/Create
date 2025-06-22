@@ -2,7 +2,7 @@
   "ID": "760287",
   "NameSubtext_lang": "",
   "Description_lang": "Your spells and abilities have a high chance to lase enemies for $@spellname467497, calling in Mister Lock-N-Stalk to deal ${$467469s2*$<rolemult>} Fire damage split between your target and nearby enemies.",
-  "AuraDescription_lang": "",
+  "AuraDescription_lang": "Your Mister Lock-N-Stalk is configured for Mass Destruction.",
   "Attributes_0": "-2147483648",
   "Attributes_1": "0",
   "Attributes_2": "0",

@@ -1,7 +1,7 @@
 {
   "ID": "769800",
   "NameSubtext_lang": "",
-  "Description_lang": "In combat, Brann can break open a cannister that increases Haste by $s1% for all party members. Lasts $d.",
+  "Description_lang": "In combat, Brann can break open a canister that increases Haste by $s1% for all party members. Lasts $d.",
   "AuraDescription_lang": "Haste increased by $s1%.",
   "Attributes_0": "0",
   "Attributes_1": "0",

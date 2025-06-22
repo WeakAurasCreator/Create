@@ -1,7 +1,7 @@
 {
   "ID": "770213",
   "NameSubtext_lang": "",
-  "Description_lang": "Your abilities have a chance to start a |cFFFFFFFFWinning Streak!|r increasing the damage of Rampage by $1216561s1%, stacking up to $1216561U times.Rampage has a $1216561H% chance to end your |cFFFFFFFFWinning Streak!|r",
+  "Description_lang": "Your abilities have a chance to start a |cFFFFFFFFWinning Streak!|r, increasing the damage of Rampage by $1216561s1%, stacking up to $1216561U times.Rampage has a $1216561H% chance to end your |cFFFFFFFFWinning Streak!|r",
   "AuraDescription_lang": "",
   "Attributes_0": "192",
   "Attributes_1": "0",
@@ -50,12 +50,12 @@
     "zh_CN": "\u72c2\u6012\u6218\u58eb11.1\u804c\u4e1a\u5957\u88c52\u4ef6\u5957"
   },
   "description_blz": {
-    "en_US": "Your abilities have a chance to start a Winning Streak! increasing the damage of Rampage by 2%, stacking up to 10 times.\r\nRampage has a 15% chance to end your Winning Streak!",
-    "es_MX": "Tus habilidades tienen una probabilidad de activar \u00a1Racha de victorias!, lo que aumenta un 2% el da\u00f1o de tu Desenfreno. Se acumula hasta 10 veces.\r\nDesenfreno tiene un 15% de probabilidad de eliminar \u00a1Racha de victorias!",
+    "en_US": "Your abilities have a chance to start a Winning Streak!, increasing the damage of Rampage by 2%, stacking up to 10 times.\r\nRampage has a 15% chance to end your Winning Streak!",
+    "es_MX": "Tus habilidades tienen una probabilidad de activar \u00a1Racha de victorias!, lo que aumenta un 2% el da\u00f1o de Desenfreno. Se acumula hasta 10 veces.\r\nDesenfreno tiene un 15% de probabilidad de eliminar \u00a1Racha de victorias!",
     "pt_BR": "Seus feiti\u00e7os e habilidades t\u00eam chance de iniciar uma Sequ\u00eancia Vencedora!, aumentando em 2% o dano de Alvoro\u00e7o. Acumula at\u00e9 10 vezes.\r\nAlvoro\u00e7o tem 15% de chance de encerrar sua Sequ\u00eancia Vencedora!",
     "de_DE": "Eure F\u00e4higkeiten haben eine Chance, eine Siegesserie! zu starten, die den Schaden von 'Toben' um 2% erh\u00f6ht und bis zu 10-mal stapelbar ist.\r\n'Toben' hat eine Chance von 15%, Eure Siegesserie! zu beenden.",
-    "en_GB": "Your abilities have a chance to start a Winning Streak! increasing the damage of Rampage by 2%, stacking up to 10 times.\r\nRampage has a 15% chance to end your Winning Streak!",
-    "es_ES": "Existe la posibilidad de que tus facultades inicien una \u00a1Racha ganadora! que aumentar\u00e1 un 2% el da\u00f1o de tu Desenfreno. Se acumula hasta un m\u00e1ximo de 10 veces.\r\nDesenfreno tiene un 15% de probabilidades de ponerle fin a tu \u00a1Racha ganadora!",
+    "en_GB": "Your abilities have a chance to start a Winning Streak!, increasing the damage of Rampage by 2%, stacking up to 10 times.\r\nRampage has a 15% chance to end your Winning Streak!",
+    "es_ES": "Existe la posibilidad de que tus facultades inicien una \u00a1Racha ganadora!, que aumentar\u00e1 un 2% el da\u00f1o de tu Desenfreno. Se acumula hasta un m\u00e1ximo de 10 veces.\r\nDesenfreno tiene un 15% de probabilidades de ponerle fin a tu \u00a1Racha ganadora!",
     "fr_FR": "Vos techniques ont une chance d\u2019activer une S\u00e9quence victorieuse\u00a0!, ce qui augmente les d\u00e9g\u00e2ts de Saccage de 2\u00a0%, cumulable jusqu\u2019\u00e0 10\u00a0fois. \r\nSaccage a 15\u00a0% de chances de mettre fin \u00e0 votre S\u00e9quence victorieuse\u00a0!.",
     "it_IT": "Le abilit\u00e0 hanno una probabilit\u00e0 di dare inizio a una Serie Vincente!, aumentando i danni inflitti da Scatto d'Ira del 2%. Si accumula fino a 10 volte.\r\nScatto d'Ira ha una probabilit\u00e0 del 15% di porre fine a Serie Vincente!.",
     "ru_RU": "\u0412\u0430\u0448\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0441 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u044e\u0442 \"\u0427\u0435\u0440\u0435\u0434\u0443 \u043f\u043e\u0431\u0435\u0434!\", \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0443\u044e \u0443\u0440\u043e\u043d \u043e\u0442 \"\u0411\u0443\u0439\u0441\u0442\u0432\u0430\" \u043d\u0430 2%. \u0421\u0443\u043c\u043c\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u043e 10 \u0440\u0430\u0437.\r\n\"\u0411\u0443\u0439\u0441\u0442\u0432\u043e\" \u0441 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e 15% \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0430\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \"\u0427\u0435\u0440\u0435\u0434\u044b \u043f\u043e\u0431\u0435\u0434!\".",

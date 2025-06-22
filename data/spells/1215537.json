@@ -1,7 +1,7 @@
 {
   "ID": "770031",
   "NameSubtext_lang": "",
-  "Description_lang": "The caster inflicts Shadow damage every $1215532 sec and additional Shadow damage every $t2 sec for $d.",
+  "Description_lang": "The caster inflicts Shadow damage in a frontal cone every $1215532t1 sec and additional Shadow damage every $t2 sec for $d.",
   "AuraDescription_lang": "Inflicting Shadow damage every $t2 sec.",
   "Attributes_0": "0",
   "Attributes_1": "136",

@@ -1,8 +1,8 @@
 {
   "ID": "777220",
   "NameSubtext_lang": "",
-  "Description_lang": "$@spelldesc1215727",
-  "AuraDescription_lang": "Your Mastery is increased by $w1%.",
+  "Description_lang": "$@spelldesc1215729",
+  "AuraDescription_lang": "Your Mastery is increased by ${$w1*$mastery}%.",
   "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
