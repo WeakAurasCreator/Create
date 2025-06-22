@@ -2,7 +2,7 @@
   "ID": "760282",
   "NameSubtext_lang": "",
   "Description_lang": "Your spells and abilities have a high chance to lase your target for $@spellname467492, calling in Mister Lock-N-Stalk to deal ${$467469s1*$<rolemult>} Physical damage to your target. ",
-  "AuraDescription_lang": "",
+  "AuraDescription_lang": "Your Mister Lock-N-Stalk is configured for Precision Blasting.",
   "Attributes_0": "-2147483648",
   "Attributes_1": "0",
   "Attributes_2": "0",
