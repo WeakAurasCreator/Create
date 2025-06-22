@@ -2,7 +2,7 @@
   "ID": "772524",
   "NameSubtext_lang": "",
   "Description_lang": "$@spelldesc1215644",
-  "AuraDescription_lang": "Infused with a powerful mutagen, causing auto-attacks to deal $1218004s1 Nature damage to up to $1218004i nearby enemies. Each strike reduces the cooldown of Bestial Wrath by $1218004s2 sec.",
+  "AuraDescription_lang": "Infused with a powerful mutagen, causing auto-attacks to deal $1218004s1 Nature damage to up to $1218004i nearby enemies. Each strike reduces the cooldown of Bestial Wrath by $${1218004s2/100}.2 sec.",
   "Attributes_0": "0",
   "Attributes_1": "0",
   "Attributes_2": "0",
