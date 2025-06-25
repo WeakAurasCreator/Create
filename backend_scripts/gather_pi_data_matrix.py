@@ -272,6 +272,7 @@ def fetch_current_tier_encounters(wcl_token: str) -> tuple[list[int], list[int]]
             name
             difficulties { id name }
             encounters { id name }
+            frozen
           }
         }
       }
@@ -284,7 +285,7 @@ def fetch_current_tier_encounters(wcl_token: str) -> tuple[list[int], list[int]]
     raid_zones = [
       z for z in all_zones
       if any(d["id"] == 5 for d in z["difficulties"])
-         and "complete raids" not in z["name"].lower()
+         and "complete raids" not in z["name"].lower() and not z["frozen"]
     ]
     if not raid_zones:
         raise RuntimeError(f"No valid raid zones found in expansion {latest_exp}")
