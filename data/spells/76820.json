@@ -1,5 +1,5 @@
 {
-  "ID": "95964",
+  "ID": "717826",
   "NameSubtext_lang": "",
   "Description_lang": "Transforms an enemy into a crab, rendering it unable to attack or cast spells for $d.",
   "AuraDescription_lang": "Hexed.",
@@ -19,9 +19,9 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "4",
+  "DifficultyID": "8",
   "CastingTimeIndex": "5",
-  "DurationIndex": "28",
+  "DurationIndex": "32",
   "PvPDurationIndex": "0",
   "RangeIndex": "37",
   "SchoolMask": "8",
