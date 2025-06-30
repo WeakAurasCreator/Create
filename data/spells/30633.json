@@ -1,5 +1,5 @@
 {
-  "ID": "15663",
+  "ID": "748266",
   "NameSubtext_lang": "",
   "Description_lang": "Inflicts $s1 Nature damage to nearby enemies, reducing their haste by $s3% and slowing their movement by $s2% for $d.",
   "AuraDescription_lang": "Attack speed reduced by $s3%.Movement speed reduced by $s2%.",
@@ -19,9 +19,9 @@
   "Attributes_13": "0",
   "Attributes_14": "0",
   "Attributes_15": "0",
-  "DifficultyID": "0",
+  "DifficultyID": "2",
   "CastingTimeIndex": "4",
-  "DurationIndex": "32",
+  "DurationIndex": "1",
   "PvPDurationIndex": "0",
   "RangeIndex": "1",
   "SchoolMask": "8",
