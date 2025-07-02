@@ -15,7 +15,7 @@ main_hand=bestinslots,id=232526,bonus_id=10255/10356/12376/1533/6652/9418,enchan
 finger1=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213482/213482,enchant_id=7340
 finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12040/12043/12373/8793/8902/9627/9633,gem_id=213482/213482,enchant_id=7340
 trinket1=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
-trinket2=suspicious_energy_drink,id=235363,bonus_id=10255/12372/1543/6652
+trinket2=eye_of_kezan,id=230198,bonus_id=10255/10356/12376/1533/6652
 level=80
 race=troll
 role=attack

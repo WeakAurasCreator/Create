@@ -14,7 +14,7 @@ back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8793/890
 main_hand=big_earners_bludgeon,id=228901,bonus_id=10255/10356/12060/12376/1533/6652,enchant_id=7460
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12040/12043/12373/8793/8902/8960/9627/9633
 finger1=cyrces_circlet,id=228411,bonus_id=12028/1511,gem_id=228638/228639/228640,enchant_id=7346
-finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213494/213494,enchant_id=7346
+finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213482/213482,enchant_id=7340
 trinket1=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
 trinket2=mugs_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652
 level=80
