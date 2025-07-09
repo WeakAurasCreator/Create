@@ -10091,10 +10091,10 @@
     "specId": 252,
     "targets": 1,
     "talents": "CwPAAAAAAAAAAAAAAAAAAAAAAAAzYMjxYYGzMzMNjZmZGzYAAAAAAAAAgZGzYMmBAMbmhZZGzMzMmZGDMwMGNWWAsNxGAMDA",
-    "dps_no_pi": 2885356.83,
-    "dps_with_pi": 3022344.96,
-    "dps_delta": 136988.13,
-    "dps_pct_gain": 4.75,
+    "dps_no_pi": 2895885.02,
+    "dps_with_pi": 3031529.4,
+    "dps_delta": 135644.38,
+    "dps_pct_gain": 4.68,
     "pi_dep_spell_ids": {
       "63560": 63560
     },
@@ -10136,7 +10136,7 @@
         ],
         "gem_ids": [
           "213482",
-          "213482"
+          "213743"
         ],
         "enchant_ids": [],
         "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
@@ -10176,8 +10176,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12530",
-          "1479"
+          "12532",
+          "1485"
         ],
         "gem_ids": [
           "213482"
@@ -10240,7 +10240,7 @@
           "213482"
         ],
         "enchant_ids": [
-          "7385"
+          "7397"
         ],
         "icon": "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
       },
@@ -10372,10 +10372,10 @@
     "specId": 252,
     "targets": 5,
     "talents": "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtJ2AgZA",
-    "dps_no_pi": 9510390.66,
-    "dps_with_pi": 9806597.25,
-    "dps_delta": 296206.59,
-    "dps_pct_gain": 3.11,
+    "dps_no_pi": 9554046.89,
+    "dps_with_pi": 9849219.85,
+    "dps_delta": 295172.95,
+    "dps_pct_gain": 3.09,
     "pi_dep_spell_ids": {
       "63560": 63560
     },
@@ -10402,25 +10402,23 @@
         "icon": "data/icons/inv_plate_raiddeathknightgoblin_d_01_helm.jpg"
       },
       "neck": {
-        "id": 215136,
+        "id": 221060,
         "bonus_ids": [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12040",
-          "12043",
-          "12373",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
+          "12376",
+          "3176",
+          "6652"
         ],
         "gem_ids": [
           "213482",
           "213482"
         ],
         "enchant_ids": [],
-        "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        "icon": "data/icons/inv_11_0_earthen_earthennecklace01_color2.jpg"
       },
       "shoulder": {
         "id": 229251,
@@ -10653,10 +10651,10 @@
     "specId": 252,
     "targets": 8,
     "talents": "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtJ2AgZA",
-    "dps_no_pi": 15851501.51,
-    "dps_with_pi": 16326367.61,
-    "dps_delta": 474866.1,
-    "dps_pct_gain": 3.0,
+    "dps_no_pi": 15877860.42,
+    "dps_with_pi": 16366886.39,
+    "dps_delta": 489025.98,
+    "dps_pct_gain": 3.08,
     "pi_dep_spell_ids": {
       "63560": 63560
     },
@@ -10683,25 +10681,23 @@
         "icon": "data/icons/inv_plate_raiddeathknightgoblin_d_01_helm.jpg"
       },
       "neck": {
-        "id": 215136,
+        "id": 221060,
         "bonus_ids": [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12040",
-          "12043",
-          "12373",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
+          "12376",
+          "3176",
+          "6652"
         ],
         "gem_ids": [
           "213482",
           "213482"
         ],
         "enchant_ids": [],
-        "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        "icon": "data/icons/inv_11_0_earthen_earthennecklace01_color2.jpg"
       },
       "shoulder": {
         "id": 229251,
@@ -10934,10 +10930,10 @@
     "specId": 252,
     "targets": 15,
     "talents": "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtJ2AgZA",
-    "dps_no_pi": 22871773.53,
-    "dps_with_pi": 23602572.49,
-    "dps_delta": 730798.96,
-    "dps_pct_gain": 3.2,
+    "dps_no_pi": 22895158.0,
+    "dps_with_pi": 23656076.16,
+    "dps_delta": 760918.15,
+    "dps_pct_gain": 3.32,
     "pi_dep_spell_ids": {
       "63560": 63560
     },
@@ -10964,25 +10960,23 @@
         "icon": "data/icons/inv_plate_raiddeathknightgoblin_d_01_helm.jpg"
       },
       "neck": {
-        "id": 215136,
+        "id": 221060,
         "bonus_ids": [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12040",
-          "12043",
-          "12373",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
+          "12376",
+          "3176",
+          "6652"
         ],
         "gem_ids": [
           "213482",
           "213482"
         ],
         "enchant_ids": [],
-        "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        "icon": "data/icons/inv_11_0_earthen_earthennecklace01_color2.jpg"
       },
       "shoulder": {
         "id": 229251,
@@ -11215,10 +11209,10 @@
     "specId": 252,
     "targets": 3,
     "talents": "CwPAAAAAAAAAAAAAAAAAAAAAAAgZmZMjxYYMjZmphZMzMzYAAAAAAAAAgZYmZMzMDAMbmhZZYmZmHYmxYgBmxoxyCgtJ2AgZA",
-    "dps_no_pi": 6494579.86,
-    "dps_with_pi": 6718246.71,
-    "dps_delta": 223666.85,
-    "dps_pct_gain": 3.44,
+    "dps_no_pi": 6531840.81,
+    "dps_with_pi": 6758488.37,
+    "dps_delta": 226647.56,
+    "dps_pct_gain": 3.47,
     "pi_dep_spell_ids": {
       "63560": 63560
     },
@@ -11245,25 +11239,23 @@
         "icon": "data/icons/inv_plate_raiddeathknightgoblin_d_01_helm.jpg"
       },
       "neck": {
-        "id": 215136,
+        "id": 221060,
         "bonus_ids": [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12040",
-          "12043",
-          "12373",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
+          "12376",
+          "3176",
+          "6652"
         ],
         "gem_ids": [
           "213482",
           "213482"
         ],
         "enchant_ids": [],
-        "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        "icon": "data/icons/inv_11_0_earthen_earthennecklace01_color2.jpg"
       },
       "shoulder": {
         "id": 229251,
@@ -17947,8 +17939,8 @@
       "waist": {
         "id": 242664,
         "bonus_ids": [
-          "12530",
-          "1479"
+          "12532",
+          "1485"
         ],
         "gem_ids": [
           "213494"
