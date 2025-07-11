@@ -6,7 +6,7 @@ on:
     paths:
       - 'scripts/build-pi.js'
       - 'assets/js/**'
-   workflow_run:
+  workflow_run:
     workflows: ["Build pi json", "Gather Static WoW data"]
     types:
       - completed
