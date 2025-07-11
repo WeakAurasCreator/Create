@@ -4917,7 +4917,6 @@ function getTocVersion(MetaData) {
   const parts = buildStr.split(".");
   const [major, minor, patch] = parts;
   const tocversion = parseInt(major, 10) * 1e4 + parseInt(minor, 10) * 100 + parseInt(patch, 10);
-  console.log(tocversion);
   return tocversion;
 }
 
