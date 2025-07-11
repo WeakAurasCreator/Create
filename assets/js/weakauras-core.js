@@ -275,7 +275,5 @@ export function getTocVersion(MetaData) {
     parseInt(minor, 10) * 100 +
     parseInt(patch, 10); // e.g. 11*10000 + 1*100 + 0 = 110100
 
-  console.log(tocversion)
-
   return tocversion;
 }

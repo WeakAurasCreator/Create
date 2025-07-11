@@ -3392,7 +3392,7 @@ var JournalInstance_default = {
     ButtonFileDataID: 1778892,
     ButtonSmallFileDataID: 1778896,
     LoreFileDataID: 1778890,
-    Flags: 0,
+    Flags: 1,
     AreaID: 0,
     CovenantID: 0
   },
@@ -3404,7 +3404,7 @@ var JournalInstance_default = {
     ButtonFileDataID: 1778893,
     ButtonSmallFileDataID: 1778897,
     LoreFileDataID: 1778891,
-    Flags: 0,
+    Flags: 1,
     AreaID: 0,
     CovenantID: 0
   },
@@ -3440,7 +3440,7 @@ var JournalInstance_default = {
     ButtonFileDataID: 2178278,
     ButtonSmallFileDataID: 2178742,
     LoreFileDataID: 2177732,
-    Flags: 0,
+    Flags: 1,
     AreaID: 0,
     CovenantID: 0
   },
@@ -3488,7 +3488,7 @@ var JournalInstance_default = {
     ButtonFileDataID: 2178273,
     ButtonSmallFileDataID: 2178734,
     LoreFileDataID: 2177727,
-    Flags: 0,
+    Flags: 1,
     AreaID: 0,
     CovenantID: 0
   },
@@ -3512,7 +3512,7 @@ var JournalInstance_default = {
     ButtonFileDataID: 2178271,
     ButtonSmallFileDataID: 2178732,
     LoreFileDataID: 2177725,
-    Flags: 0,
+    Flags: 1,
     AreaID: 0,
     CovenantID: 0
   },
@@ -3524,7 +3524,7 @@ var JournalInstance_default = {
     ButtonFileDataID: 2178269,
     ButtonSmallFileDataID: 2178730,
     LoreFileDataID: 2177723,
-    Flags: 0,
+    Flags: 1,
     AreaID: 0,
     CovenantID: 0
   },
@@ -27271,9 +27271,9 @@ var Icon_default = {
 // data/metadata.json
 var metadata_default = {
   environment: "live",
-  wowBuild: "11.1.5.60822",
-  contentHash: "1a185f73992ae9d9093cba29210940c7",
-  generatedAt: "2025-05-20T22:54:57.013Z",
+  wowBuild: "11.1.7.61609",
+  contentHash: "6978744ccfe35b7795a5c43cf2f5fb65",
+  generatedAt: "2025-07-08T21:47:13.478Z",
   files: [
     "atlas-members.json",
     "augments.json",
@@ -27541,6 +27541,7 @@ function getTocVersion(MetaData) {
   const parts = buildStr.split(".");
   const [major, minor, patch] = parts;
   const tocversion = parseInt(major, 10) * 1e4 + parseInt(minor, 10) * 100 + parseInt(patch, 10);
+  console.log(tocversion);
   return tocversion;
 }
 
