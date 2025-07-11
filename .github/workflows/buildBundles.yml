@@ -6,6 +6,10 @@ on:
     paths:
       - 'scripts/build-pi.js'
       - 'assets/js/**'
+   workflow_run:
+    workflows: ["Build pi json", "Gather Static WoW data"]
+    types:
+      - completed
 
 jobs:
   build:
@@ -30,10 +34,6 @@ jobs:
       - name: Build frontend bundles
         run: |
           node backend_scripts/build-bundles.js
-
-      - name: Run build-pi script
-        run: |
-          node backend_scripts/update-pi.mjs
 
       - name: Commit and push changes
         run: |
