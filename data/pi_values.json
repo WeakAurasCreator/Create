@@ -13909,8 +13909,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12531",
-          "1482"
+          "12532",
+          "1485"
         ],
         "gem_ids": [
           "213482"
@@ -14188,8 +14188,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12531",
-          "1482"
+          "12532",
+          "1485"
         ],
         "gem_ids": [
           "213482"
@@ -14467,8 +14467,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12531",
-          "1482"
+          "12532",
+          "1485"
         ],
         "gem_ids": [
           "213482"
@@ -14746,8 +14746,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12531",
-          "1482"
+          "12532",
+          "1485"
         ],
         "gem_ids": [
           "213482"
@@ -14996,7 +14996,7 @@
         "id": 229251,
         "bonus_ids": [
           "10255",
-          "10356",
+          "10390",
           "11962",
           "12179",
           "12376",
@@ -16709,10 +16709,10 @@
     "specId": 258,
     "targets": 15,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 19028872.68,
-    "dps_with_pi": 19991039.83,
-    "dps_delta": 962167.15,
-    "dps_pct_gain": 5.06,
+    "dps_no_pi": 18872487.64,
+    "dps_with_pi": 19846154.18,
+    "dps_delta": 973666.54,
+    "dps_pct_gain": 5.16,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -16994,10 +16994,10 @@
     "specId": 258,
     "targets": 3,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 4687473.08,
-    "dps_with_pi": 4875646.54,
-    "dps_delta": 188173.46,
-    "dps_pct_gain": 4.01,
+    "dps_no_pi": 4701391.43,
+    "dps_with_pi": 4890258.15,
+    "dps_delta": 188866.72,
+    "dps_pct_gain": 4.02,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17279,10 +17279,10 @@
     "specId": 258,
     "targets": 5,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 7287055.72,
-    "dps_with_pi": 7577557.98,
-    "dps_delta": 290502.27,
-    "dps_pct_gain": 3.99,
+    "dps_no_pi": 7263871.3,
+    "dps_with_pi": 7559852.26,
+    "dps_delta": 295980.96,
+    "dps_pct_gain": 4.07,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17564,10 +17564,10 @@
     "specId": 258,
     "targets": 8,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 11028213.75,
-    "dps_with_pi": 11491175.24,
-    "dps_delta": 462961.49,
-    "dps_pct_gain": 4.2,
+    "dps_no_pi": 10985778.98,
+    "dps_with_pi": 11435476.84,
+    "dps_delta": 449697.87,
+    "dps_pct_gain": 4.09,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17849,10 +17849,10 @@
     "specId": 258,
     "targets": 1,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbGmZmFbzMzMGzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mttgZjFA",
-    "dps_no_pi": 2888014.87,
-    "dps_with_pi": 2950670.2,
-    "dps_delta": 62655.33,
-    "dps_pct_gain": 2.17,
+    "dps_no_pi": 2904324.38,
+    "dps_with_pi": 2970157.07,
+    "dps_delta": 65832.69,
+    "dps_pct_gain": 2.27,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17930,8 +17930,8 @@
       "waist": {
         "id": 242664,
         "bonus_ids": [
-          "12532",
-          "1485"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213494"
@@ -17956,20 +17956,20 @@
         "icon": "data/icons/inv_pant_cloth_raidpriestgoblin_d_01.jpg"
       },
       "feet": {
-        "id": 228879,
+        "id": 229336,
         "bonus_ids": [
           "10255",
           "10356",
-          "11998",
           "12376",
           "1533",
-          "6652"
+          "6652",
+          "8095"
         ],
         "gem_ids": [],
         "enchant_ids": [
           "7424"
         ],
-        "icon": "data/icons/inv_boot_cloth_raidwarlockgoblin_d_01.jpg"
+        "icon": "data/icons/inv_boot_cloth_raidpriestgoblin_d_01.jpg"
       },
       "wrist": {
         "id": 222815,
