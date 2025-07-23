@@ -13838,14 +13838,13 @@
         "id": 229253,
         "bonus_ids": [
           "10255",
-          "10356",
+          "10390",
           "11960",
           "12055",
           "12178",
           "12376",
           "1533",
-          "6652",
-          "8095"
+          "6652"
         ],
         "gem_ids": [
           "213482"
@@ -13909,8 +13908,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12532",
-          "1485"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -14117,14 +14116,13 @@
         "id": 229253,
         "bonus_ids": [
           "10255",
-          "10356",
+          "10390",
           "11960",
           "12055",
           "12178",
           "12376",
           "1533",
-          "6652",
-          "8095"
+          "6652"
         ],
         "gem_ids": [
           "213482"
@@ -14188,8 +14186,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12532",
-          "1485"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -14396,14 +14394,13 @@
         "id": 229253,
         "bonus_ids": [
           "10255",
-          "10356",
+          "10390",
           "11960",
           "12055",
           "12178",
           "12376",
           "1533",
-          "6652",
-          "8095"
+          "6652"
         ],
         "gem_ids": [
           "213482"
@@ -14467,8 +14464,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12532",
-          "1485"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -14675,14 +14672,13 @@
         "id": 229253,
         "bonus_ids": [
           "10255",
-          "10356",
+          "10390",
           "11960",
           "12055",
           "12178",
           "12376",
           "1533",
-          "6652",
-          "8095"
+          "6652"
         ],
         "gem_ids": [
           "213482"
@@ -14746,8 +14742,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12532",
-          "1485"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -15027,8 +15023,8 @@
       "waist": {
         "id": 245966,
         "bonus_ids": [
-          "12532",
-          "1485"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -16709,10 +16705,10 @@
     "specId": 258,
     "targets": 15,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 18872487.64,
-    "dps_with_pi": 19846154.18,
-    "dps_delta": 973666.54,
-    "dps_pct_gain": 5.16,
+    "dps_no_pi": 18868158.51,
+    "dps_with_pi": 19834968.59,
+    "dps_delta": 966810.07,
+    "dps_pct_gain": 5.12,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -16753,7 +16749,7 @@
         ],
         "gem_ids": [
           "213482",
-          "213743"
+          "213746"
         ],
         "enchant_ids": [],
         "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
@@ -16994,10 +16990,10 @@
     "specId": 258,
     "targets": 3,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 4701391.43,
-    "dps_with_pi": 4890258.15,
-    "dps_delta": 188866.72,
-    "dps_pct_gain": 4.02,
+    "dps_no_pi": 4698052.11,
+    "dps_with_pi": 4890208.75,
+    "dps_delta": 192156.64,
+    "dps_pct_gain": 4.09,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17038,7 +17034,7 @@
         ],
         "gem_ids": [
           "213482",
-          "213743"
+          "213746"
         ],
         "enchant_ids": [],
         "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
@@ -17279,10 +17275,10 @@
     "specId": 258,
     "targets": 5,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 7263871.3,
-    "dps_with_pi": 7559852.26,
-    "dps_delta": 295980.96,
-    "dps_pct_gain": 4.07,
+    "dps_no_pi": 7263409.75,
+    "dps_with_pi": 7557082.55,
+    "dps_delta": 293672.8,
+    "dps_pct_gain": 4.04,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17323,7 +17319,7 @@
         ],
         "gem_ids": [
           "213482",
-          "213743"
+          "213746"
         ],
         "enchant_ids": [],
         "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
@@ -17564,10 +17560,10 @@
     "specId": 258,
     "targets": 8,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 10985778.98,
-    "dps_with_pi": 11435476.84,
-    "dps_delta": 449697.87,
-    "dps_pct_gain": 4.09,
+    "dps_no_pi": 10987254.01,
+    "dps_with_pi": 11432527.65,
+    "dps_delta": 445273.63,
+    "dps_pct_gain": 4.05,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17608,7 +17604,7 @@
         ],
         "gem_ids": [
           "213482",
-          "213743"
+          "213746"
         ],
         "enchant_ids": [],
         "icon": "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
@@ -17849,10 +17845,10 @@
     "specId": 258,
     "targets": 1,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbGmZmFbzMzMGzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mttgZjFA",
-    "dps_no_pi": 2904324.38,
-    "dps_with_pi": 2970157.07,
-    "dps_delta": 65832.69,
-    "dps_pct_gain": 2.27,
+    "dps_no_pi": 2917330.63,
+    "dps_with_pi": 2981534.05,
+    "dps_delta": 64203.42,
+    "dps_pct_gain": 2.2,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17956,20 +17952,20 @@
         "icon": "data/icons/inv_pant_cloth_raidpriestgoblin_d_01.jpg"
       },
       "feet": {
-        "id": 229336,
+        "id": 228879,
         "bonus_ids": [
           "10255",
           "10356",
+          "11998",
           "12376",
           "1533",
-          "6652",
-          "8095"
+          "6652"
         ],
         "gem_ids": [],
         "enchant_ids": [
           "7424"
         ],
-        "icon": "data/icons/inv_boot_cloth_raidpriestgoblin_d_01.jpg"
+        "icon": "data/icons/inv_boot_cloth_raidwarlockgoblin_d_01.jpg"
       },
       "wrist": {
         "id": 222815,
