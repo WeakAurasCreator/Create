@@ -14992,7 +14992,7 @@
         "id": 229251,
         "bonus_ids": [
           "10255",
-          "10390",
+          "10356",
           "11962",
           "12179",
           "12376",
@@ -16705,10 +16705,10 @@
     "specId": 258,
     "targets": 15,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 18868158.51,
-    "dps_with_pi": 19834968.59,
-    "dps_delta": 966810.07,
-    "dps_pct_gain": 5.12,
+    "dps_no_pi": 18946325.4,
+    "dps_with_pi": 19944884.92,
+    "dps_delta": 998559.52,
+    "dps_pct_gain": 5.27,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -16789,8 +16789,8 @@
       "waist": {
         "id": 242664,
         "bonus_ids": [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -16990,10 +16990,10 @@
     "specId": 258,
     "targets": 3,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 4698052.11,
-    "dps_with_pi": 4890208.75,
-    "dps_delta": 192156.64,
-    "dps_pct_gain": 4.09,
+    "dps_no_pi": 4724644.88,
+    "dps_with_pi": 4918189.21,
+    "dps_delta": 193544.33,
+    "dps_pct_gain": 4.1,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17074,8 +17074,8 @@
       "waist": {
         "id": 242664,
         "bonus_ids": [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -17275,10 +17275,10 @@
     "specId": 258,
     "targets": 5,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 7263409.75,
-    "dps_with_pi": 7557082.55,
-    "dps_delta": 293672.8,
-    "dps_pct_gain": 4.04,
+    "dps_no_pi": 7301552.76,
+    "dps_with_pi": 7590095.69,
+    "dps_delta": 288542.93,
+    "dps_pct_gain": 3.95,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17359,8 +17359,8 @@
       "waist": {
         "id": 242664,
         "bonus_ids": [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -17560,10 +17560,10 @@
     "specId": 258,
     "targets": 8,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    "dps_no_pi": 10987254.01,
-    "dps_with_pi": 11432527.65,
-    "dps_delta": 445273.63,
-    "dps_pct_gain": 4.05,
+    "dps_no_pi": 11038258.59,
+    "dps_with_pi": 11491510.29,
+    "dps_delta": 453251.7,
+    "dps_pct_gain": 4.11,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
@@ -17644,8 +17644,8 @@
       "waist": {
         "id": 242664,
         "bonus_ids": [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         "gem_ids": [
           "213482"
@@ -17845,10 +17845,10 @@
     "specId": 258,
     "targets": 1,
     "talents": "CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbGmZmFbzMzMGzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mttgZjFA",
-    "dps_no_pi": 2917330.63,
-    "dps_with_pi": 2981534.05,
-    "dps_delta": 64203.42,
-    "dps_pct_gain": 2.2,
+    "dps_no_pi": 2917881.99,
+    "dps_with_pi": 2982413.12,
+    "dps_delta": 64531.13,
+    "dps_pct_gain": 2.21,
     "pi_dep_spell_ids": {
       "228260": 228260
     },
