@@ -1,13 +1,13 @@
-mage="TWW2_Mage_Arcane_Spellslinger"
+mage="TWW3_Mage_Arcane_Sunfury"
 source=default
 spec=arcane
-head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213485,enchant_id=7933
+head=aspectral_emissarys_crystalline_cowl,id=229343,bonus_id=10255/10390/11960/12055/12178/12376/1533/6652,gem_id=213470,enchant_id=7933
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8795/8902/9627/9633,gem_id=213467/213743
 shoulder=aspectral_emissarys_arcane_vents,id=229341,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=aspectral_emissarys_primal_robes,id=229346,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
-waist=durable_information_securing_container,id=242664,bonus_id=12531/1482,gem_id=213467
+waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213467
 legs=aspectral_emissarys_trousers,id=229342,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7534
-feet=consecrated_slippers,id=222814,bonus_id=10421/11304/12040/12043/12373/8792/8902/8960/9627/9633,enchant_id=7424
+feet=nonconductive_killosocks,id=234497,bonus_id=10255/10383/10390/11964/12376/1533/6652,enchant_id=7424
 wrist=consecrated_cuffs,id=222815,bonus_id=10421/11304/12040/12043/12056/12373/8795/8902/8960/9627/9633,gem_id=213467,enchant_id=7385
 hands=aspectral_emissarys_hardened_grasp,id=229344,bonus_id=10255/10356/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11304/12040/12043/12373/8795/8902/8960/9627/9633,enchant_id=7403
@@ -21,14 +21,14 @@ level=80
 race=void_elf
 role=spell
 position=back
-class_talents=80141:1/80142:1/80147:1/80149:1/80151:1/80155:1/80156:2/80159:1/80160:1/80161:1/80163:1/80169:2/80171:1/80173:2/80174:1/80177:1/80179:1/80180:1/80181:1/80182:2/80183:1/80185:1/80187:1/80188:2/115877:1/125817:1/125818:1
+class_talents=80141:1/80142:1/80147:1/80149:1/80155:1/80156:2/80159:1/80160:1/80161:1/80163:1/80169:2/80171:1/80173:2/80174:1/80177:1/80179:1/80180:1/80181:1/80182:2/80183:1/80185:1/80187:1/80188:2/115877:1/125817:1/125818:1
 spec_talents=126505:1/126507:1/126509:1/126513:1/126514:1/126515:1/126516:1/126517:1/126518:1/126519:1/126522:1/126525:1/126526:1/126527:1/126528:1/126529:1/126533:2/126535:1/126537:1/126538:1/126539:1/126540:1/126541:1/126542:1/126543:1/126545:1/126546:1/126550:1/128689:1
 hero_talents=117257:1/117258:1/117259:1/117261:1/117262:1/117264:1/117265:1/117266:1/117267:1/123417:1/128267:1
 
 # Default consumables
 potion=tempered_potion_3
 flask=flask_of_alchemical_chaos_3
-food=feast_of_the_midnight_masquerade
+food=beledars_bounty
 augmentation=crystallized
 temporary_enchant=main_hand:algari_mana_oil_3
 # Power Infusion override

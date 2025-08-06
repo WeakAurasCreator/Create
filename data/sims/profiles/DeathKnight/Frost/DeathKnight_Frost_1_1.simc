@@ -1,14 +1,14 @@
-deathknight="TWW2_Death_Knight_Frost_Deathbringer"
+deathknight="TWW3_Death_Knight_Frost_Rider"
 source=default
 spec=frost
 head=fullthrottle_facerig,id=228858,bonus_id=10255/10356/11998/12055/12376/1533/6652,gem_id=213458,enchant_id=7933
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8791/8902/9627/9633,gem_id=213458/213743
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12040/12043/12373/8791/8902/9627/9633,gem_id=213458/213458
 shoulder=cauldron_champions_screamplate,id=229251,bonus_id=10255/10390/11962/12179/12376/1533/6652
 chest=cauldron_champions_ribcage,id=229256,bonus_id=10255/10390/11958/12178/12376/1533/6652,enchant_id=7364
-waist=durable_information_securing_container,id=245966,bonus_id=12531/1482,gem_id=213458
-legs=cauldron_champions_tattered_cuisses,id=229252,bonus_id=10255/10390/11961/12178/12376/1533/6652,enchant_id=7601
+waist=durable_information_securing_container,id=245966,bonus_id=12533/1489,gem_id=213458
+legs=cauldron_champions_tattered_cuisses,id=229252,bonus_id=10255/10356/11961/12178/12376/1533/6652,enchant_id=7601
 feet=cutthroat_competition_stompers,id=228887,bonus_id=10255/10356/11998/12376/1533/6652,enchant_id=7424
-wrist=everforged_vambraces,id=222435,bonus_id=10421/11109/12040/12043/12056/12373/8791/8902/8960/9627/9633,gem_id=213458,enchant_id=7397
+wrist=everforged_vambraces,id=222435,bonus_id=10421/11109/12040/12043/12056/12373/8791/8902/8960/9627/9633,gem_id=213458,enchant_id=7385
 hands=cauldron_champions_fistguards,id=229254,bonus_id=10255/10356/11959/12179/12376/1533/6652
 back=consecrated_cloak,id=222817,bonus_id=10421/11303/12040/12043/12373/8791/8902/8960/9627/9633,enchant_id=7403
 main_hand=remixed_ignition_saber,id=228895,bonus_id=10255/10356/12376/1533/6652,enchant_id=3370
@@ -21,8 +21,8 @@ level=80
 race=maghar_orc
 role=attack
 position=back
-class_talents=96173:1/96174:1/96176:1/96177:1/96179:1/96180:1/96182:2/96184:1/96187:1/96190:1/96194:1/96195:1/96196:1/96197:1/96198:1/96200:1/96201:1/96202:1/96203:1/96205:1/96206:1/96207:1/96208:2/96209:1/96210:1/96213:1/96214:1/96216:1/126015:1/126016:1
-spec_talents=96165:1/96220:1/96224:1/96229:1/96230:1/96231:1/96233:2/96235:1/96236:1/96239:1/96240:1/96241:1/96242:1/96243:1/96244:1/96245:1/96246:1/96247:1/96248:1/96249:1/96251:1/96252:1/96253:2/96254:1/125874:1/125875:1/125877:1/125878:1
+class_talents=96173:1/96174:1/96176:1/96179:1/96180:1/96182:2/96184:1/96187:1/96190:1/96194:1/96195:1/96196:1/96197:1/96198:1/96200:1/96201:1/96202:1/96203:1/96205:1/96206:1/96207:1/96208:2/96209:1/96210:1/96213:1/96214:1/96216:1/126015:1/126016:1
+spec_talents=96165:1/96220:1/96224:1/96229:1/96230:1/96231:1/96233:2/96235:1/96236:1/96239:1/96240:1/96242:1/96243:1/96244:1/96245:1/96246:1/96247:1/96248:1/96252:1/96253:2/96254:1/125874:1/125875:1/125877:1/125878:1
 hero_talents=117629:1/117631:1/117633:1/117640:1/117646:1/117654:1/117655:1/117658:1/117659:1/117665:1/123420:1
 
 # Default consumables
@@ -31,26 +31,6 @@ flask=flask_of_alchemical_chaos_3
 food=feast_of_the_divine_day
 augmentation=crystallized
 temporary_enchant=main_hand:algari_mana_oil_3/off_hand:algari_mana_oil_3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deathknight.ams_absorb_percent=1
 # Power Infusion override
 external_buffs.pool=power_infusion:120:1
 
