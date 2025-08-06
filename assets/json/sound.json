@@ -445,6 +445,10 @@
                 "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Charge.ogg"
             },
             {
+                "name": "|cFFFF0000Check|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Check.ogg"
+            },
+            {
                 "name": "|cFFFF0000Clear|r",
                 "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Clear.ogg"
             },
@@ -515,6 +519,10 @@
             {
                 "name": "|cFFFF0000Focus|r",
                 "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Focus.ogg"
+            },
+            {
+                "name": "|cFFFF0000Follow|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Follow.ogg"
             },
             {
                 "name": "|cFFFF0000Front|r",
@@ -597,12 +605,16 @@
                 "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Last.ogg"
             },
             {
-                "name": "|cFFFF0000Left|r",
-                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Left.ogg"
+                "name": "|cFFFF0000Lead|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Lead.ogg"
             },
             {
                 "name": "|cFFFF0000Leap|r",
                 "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Leap.ogg"
+            },
+            {
+                "name": "|cFFFF0000Left|r",
+                "value": "Interface\\Addons\\SharedMedia_Causese\\sound\\Left.ogg"
             },
             {
                 "name": "|cFFFF0000Line|r",
