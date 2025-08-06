@@ -4512,9 +4512,9 @@ var emptyRegion_default = {
 // data/metadata.json
 var metadata_default = {
   environment: "live",
-  wowBuild: "11.1.7.61967",
-  contentHash: "e7d8502773d481c7e4eb48eca7938a83",
-  generatedAt: "2025-07-15T18:50:18.552Z",
+  wowBuild: "11.2.0.62417",
+  contentHash: "4b85457b078003ce6c73accfc7feb52e",
+  generatedAt: "2025-08-05T18:50:38.788Z",
   files: [
     "atlas-members.json",
     "augments.json",
@@ -20133,7 +20133,7 @@ var pi_values_default = [
         id: 229251,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "11962",
           "12179",
           "12376",
@@ -21846,10 +21846,10 @@ var pi_values_default = [
     specId: 258,
     targets: 15,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    dps_no_pi: 1886815851e-2,
-    dps_with_pi: 1983496859e-2,
-    dps_delta: 966810.07,
-    dps_pct_gain: 5.12,
+    dps_no_pi: 189463254e-1,
+    dps_with_pi: 1994488492e-2,
+    dps_delta: 998559.52,
+    dps_pct_gain: 5.27,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -21930,8 +21930,8 @@ var pi_values_default = [
       waist: {
         id: 242664,
         bonus_ids: [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         gem_ids: [
           "213482"
@@ -22131,10 +22131,10 @@ var pi_values_default = [
     specId: 258,
     targets: 3,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    dps_no_pi: 469805211e-2,
-    dps_with_pi: 489020875e-2,
-    dps_delta: 192156.64,
-    dps_pct_gain: 4.09,
+    dps_no_pi: 472464488e-2,
+    dps_with_pi: 491818921e-2,
+    dps_delta: 193544.33,
+    dps_pct_gain: 4.1,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -22215,8 +22215,8 @@ var pi_values_default = [
       waist: {
         id: 242664,
         bonus_ids: [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         gem_ids: [
           "213482"
@@ -22416,10 +22416,10 @@ var pi_values_default = [
     specId: 258,
     targets: 5,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    dps_no_pi: 726340975e-2,
-    dps_with_pi: 755708255e-2,
-    dps_delta: 293672.8,
-    dps_pct_gain: 4.04,
+    dps_no_pi: 730155276e-2,
+    dps_with_pi: 759009569e-2,
+    dps_delta: 288542.93,
+    dps_pct_gain: 3.95,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -22500,8 +22500,8 @@ var pi_values_default = [
       waist: {
         id: 242664,
         bonus_ids: [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         gem_ids: [
           "213482"
@@ -22701,10 +22701,10 @@ var pi_values_default = [
     specId: 258,
     targets: 8,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMDjHAAAAAAAAAAAAghZxMmZmtZbMzMzsNmZZwsxMzMMbMwYMMLmtpmZwCmBwMbWGNbGAyYsAA",
-    dps_no_pi: 1098725401e-2,
-    dps_with_pi: 1143252765e-2,
-    dps_delta: 445273.63,
-    dps_pct_gain: 4.05,
+    dps_no_pi: 1103825859e-2,
+    dps_with_pi: 1149151029e-2,
+    dps_delta: 453251.7,
+    dps_pct_gain: 4.11,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -22785,8 +22785,8 @@ var pi_values_default = [
       waist: {
         id: 242664,
         bonus_ids: [
-          "12530",
-          "1479"
+          "12533",
+          "1489"
         ],
         gem_ids: [
           "213482"
@@ -22986,10 +22986,10 @@ var pi_values_default = [
     specId: 258,
     targets: 1,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbGmZmFbzMzMGzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mttgZjFA",
-    dps_no_pi: 291733063e-2,
-    dps_with_pi: 298153405e-2,
-    dps_delta: 64203.42,
-    dps_pct_gain: 2.2,
+    dps_no_pi: 291788199e-2,
+    dps_with_pi: 298241312e-2,
+    dps_delta: 64531.13,
+    dps_pct_gain: 2.21,
     pi_dep_spell_ids: {
       "228260": 228260
     },

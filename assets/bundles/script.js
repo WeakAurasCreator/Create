@@ -1215,7 +1215,7 @@ var JournalTierXInstance_default = {
       ID: 1518,
       JournalTierID: 505,
       OrderIndex: 4,
-      AvailabilityCondition: 128527
+      AvailabilityCondition: 135698
     }
   ],
   "1021": [
@@ -1315,7 +1315,7 @@ var JournalTierXInstance_default = {
       ID: 1517,
       JournalTierID: 505,
       OrderIndex: 3,
-      AvailabilityCondition: 128527
+      AvailabilityCondition: 135698
     }
   ],
   "1179": [
@@ -1376,6 +1376,12 @@ var JournalTierXInstance_default = {
       JournalTierID: 499,
       OrderIndex: 0,
       AvailabilityCondition: 0
+    },
+    {
+      ID: 1529,
+      JournalTierID: 505,
+      OrderIndex: 6,
+      AvailabilityCondition: 141987
     }
   ],
   "1186": [
@@ -1397,7 +1403,7 @@ var JournalTierXInstance_default = {
       ID: 1516,
       JournalTierID: 505,
       OrderIndex: 2,
-      AvailabilityCondition: 128527
+      AvailabilityCondition: 135698
     }
   ],
   "1188": [
@@ -1446,6 +1452,12 @@ var JournalTierXInstance_default = {
       JournalTierID: 499,
       OrderIndex: 0,
       AvailabilityCondition: 0
+    },
+    {
+      ID: 1530,
+      JournalTierID: 505,
+      OrderIndex: 7,
+      AvailabilityCondition: 141987
     }
   ],
   "1195": [
@@ -1571,7 +1583,7 @@ var JournalTierXInstance_default = {
       ID: 1510,
       JournalTierID: 505,
       OrderIndex: 0,
-      AvailabilityCondition: 128527
+      AvailabilityCondition: 135698
     }
   ],
   "1267": [
@@ -1584,8 +1596,8 @@ var JournalTierXInstance_default = {
     {
       ID: 1511,
       JournalTierID: 505,
-      OrderIndex: 0,
-      AvailabilityCondition: 128527
+      OrderIndex: 3,
+      AvailabilityCondition: 141987
     }
   ],
   "1268": [
@@ -1599,7 +1611,7 @@ var JournalTierXInstance_default = {
       ID: 1512,
       JournalTierID: 505,
       OrderIndex: 0,
-      AvailabilityCondition: 128527
+      AvailabilityCondition: 135698
     }
   ],
   "1269": [
@@ -1626,8 +1638,8 @@ var JournalTierXInstance_default = {
     {
       ID: 1494,
       JournalTierID: 505,
-      OrderIndex: 0,
-      AvailabilityCondition: 125989
+      OrderIndex: 2,
+      AvailabilityCondition: 141987
     }
   ],
   "1271": [
@@ -1640,8 +1652,8 @@ var JournalTierXInstance_default = {
     {
       ID: 1495,
       JournalTierID: 505,
-      OrderIndex: 0,
-      AvailabilityCondition: 125989
+      OrderIndex: 1,
+      AvailabilityCondition: 141987
     }
   ],
   "1272": [
@@ -1655,7 +1667,7 @@ var JournalTierXInstance_default = {
       ID: 1513,
       JournalTierID: 505,
       OrderIndex: 0,
-      AvailabilityCondition: 128527
+      AvailabilityCondition: 135698
     }
   ],
   "1273": [
@@ -1735,7 +1747,7 @@ var JournalTierXInstance_default = {
       ID: 1514,
       JournalTierID: 505,
       OrderIndex: 2,
-      AvailabilityCondition: 128527
+      AvailabilityCondition: 135698
     }
   ],
   "1298": [
@@ -1748,8 +1760,8 @@ var JournalTierXInstance_default = {
     {
       ID: 1515,
       JournalTierID: 505,
-      OrderIndex: 1,
-      AvailabilityCondition: 128527
+      OrderIndex: 4,
+      AvailabilityCondition: 141987
     }
   ],
   "1301": [
@@ -1758,6 +1770,34 @@ var JournalTierXInstance_default = {
       JournalTierID: 68,
       OrderIndex: 4,
       AvailabilityCondition: 0
+    }
+  ],
+  "1302": [
+    {
+      ID: 1520,
+      JournalTierID: 514,
+      OrderIndex: 3,
+      AvailabilityCondition: 0
+    },
+    {
+      ID: 1537,
+      JournalTierID: 505,
+      OrderIndex: 3,
+      AvailabilityCondition: 141987
+    }
+  ],
+  "1303": [
+    {
+      ID: 1519,
+      JournalTierID: 514,
+      OrderIndex: 2,
+      AvailabilityCondition: 0
+    },
+    {
+      ID: 1531,
+      JournalTierID: 505,
+      OrderIndex: 5,
+      AvailabilityCondition: 141987
     }
   ]
 };
@@ -4104,6 +4144,30 @@ var JournalInstance_default = {
     AreaID: 0,
     CovenantID: 0
   },
+  "1302": {
+    Name_lang: "Manaforge Omega",
+    Description_lang: "Manaforge Omega, built to harness arcane power from the wastes of K'aresh, now hums with a sinister radiance. Within it, Nexus-King Salhadaar attempts to reawaken Dimensius, the All-Devouring, in a bid for ultimate power. The champions of Azeroth must disrupt Manaforge Omega's operations or else risk a reborn Dimensius feasting on reality itself.",
+    MapID: 2810,
+    BackgroundFileDataID: 7049243,
+    ButtonFileDataID: 7050019,
+    ButtonSmallFileDataID: 7049159,
+    LoreFileDataID: 7049313,
+    Flags: 0,
+    AreaID: 0,
+    CovenantID: 0
+  },
+  "1303": {
+    Name_lang: "Eco-Dome Al'dani",
+    Description_lang: "The eco-domes represent the best hope of restoring life to K'aresh. Eco-Dome Al'dani was built on the bones of one of the most sacred sites on K'aresh. A Wastelander invasion has ripped open the dome, exposing it to destruction. Ve'nari has called for help to keep K'aresh's greatest hope from being destroyed.",
+    MapID: 2830,
+    BackgroundFileDataID: 7074040,
+    ButtonFileDataID: 7074042,
+    ButtonSmallFileDataID: 7074037,
+    LoreFileDataID: 7074041,
+    Flags: 0,
+    AreaID: 0,
+    CovenantID: 0
+  },
   "1310": {
     Name_lang: "Zekvir's Lair",
     Description_lang: null,
@@ -5526,6 +5590,23 @@ var JournalEncounter_default = {
       OrderIndex: 3,
       FirstSectionID: 0,
       UiMapID: 329,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
+  "Azhiccar(3107)": [
+    {
+      Name_lang: "Azhiccar",
+      Description_lang: "Devourers often travel in the wake of the Great Devourer Worms to reach new realms to feast on. Azhiccar is no exception. It burrows into a new land, seeking to satiate its endless hunger. Sometimes even other devourers fall prey, but the devourers still answer Azhiccar's call--to consume or be consumed in its vortex of endless hunger.",
+      Map_0: 0.61401498318,
+      Map_1: 0.84204101563,
+      ID: 2675,
+      JournalInstanceID: 1303,
+      DungeonEncounterID: 3107,
+      OrderIndex: 1,
+      FirstSectionID: 31220,
+      UiMapID: 2449,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -7650,6 +7731,23 @@ var JournalEncounter_default = {
       DifficultyMask: -1
     }
   ],
+  "Dimensius, the All-Devouring(3135)": [
+    {
+      Name_lang: "Dimensius, the All-Devouring",
+      Description_lang: "Deep within Manaforge Omega, Dimensius--the All-Devouring and destroyer of K'aresh--is slowly waking as his devoted ethereal followers use the Dark Heart to give him sustenance. If they succeed, they will unleash a being of unfathomable power that could destroy the very fabric of reality.",
+      Map_0: 0.84782499075,
+      Map_1: 0.48616600037,
+      ID: 2691,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3135,
+      OrderIndex: 8,
+      FirstSectionID: 32287,
+      UiMapID: 2467,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
   "Doctor Ickus(2384)": [
     {
       Name_lang: "Doctor Ickus",
@@ -8971,6 +9069,40 @@ var JournalEncounter_default = {
       OrderIndex: 2,
       FirstSectionID: 30288,
       UiMapID: 293,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
+  "Forgeweaver Araz(3132)": [
+    {
+      Name_lang: "Forgeweaver Araz",
+      Description_lang: "Forgeweaver Araz controls all operations within Manaforge Omega, ensuring a constant flow of energy into its central chamber. He now stands as the first witness to Dimensius' rebirth, and will strive to see his work through--at all costs.",
+      Map_0: 0.64492601156,
+      Map_1: 0.48418998718,
+      ID: 2687,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3132,
+      OrderIndex: 4,
+      FirstSectionID: 32366,
+      UiMapID: 2464,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
+  "Fractillus(3133)": [
+    {
+      Name_lang: "Fractillus",
+      Description_lang: "An elemental born of the crags and dunes surrounding the Manaforge, Fractillus guards his domain by harnessing the power of the biting sands and hardened glass of the inhospitable wastes.",
+      Map_0: 0.53425502777,
+      Map_1: 0.37944701314,
+      ID: 2747,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3133,
+      OrderIndex: 6,
+      FirstSectionID: 33678,
+      UiMapID: 2465,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -10394,8 +10526,8 @@ var JournalEncounter_default = {
       FirstSectionID: 20139,
       UiMapID: 1490,
       MapDisplayConditionID: 0,
-      Flags: 2,
-      DifficultyMask: 1
+      Flags: 0,
+      DifficultyMask: -1
     }
   ],
   "Gurtogg Bloodboil(605)": [
@@ -10445,8 +10577,8 @@ var JournalEncounter_default = {
       FirstSectionID: 20033,
       UiMapID: 1490,
       MapDisplayConditionID: 0,
-      Flags: 2,
-      DifficultyMask: 1
+      Flags: 0,
+      DifficultyMask: -1
     }
   ],
   "Hackclaw's War-Band(2570)": [
@@ -12653,8 +12785,8 @@ var JournalEncounter_default = {
       FirstSectionID: 20101,
       UiMapID: 1490,
       MapDisplayConditionID: 0,
-      Flags: 2,
-      DifficultyMask: 1
+      Flags: 0,
+      DifficultyMask: -1
     }
   ],
   "King Gordok(368)": [
@@ -13553,6 +13685,23 @@ var JournalEncounter_default = {
       OrderIndex: 4,
       FirstSectionID: 7258,
       UiMapID: 139,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
+  "Loom'ithar(3131)": [
+    {
+      Name_lang: "Loom'ithar",
+      Description_lang: "Loom'ithar was purposefully bred by the Shadowguard for its unique ability to infuse arcane energy into its prodigious silk weaving. Bound to its fate inside the machinery of the manaforge, Loom'ithar spins endless spools of arcane silk for its masters.",
+      Map_0: 0.63833898306,
+      Map_1: 0.64822202921,
+      ID: 2686,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3131,
+      OrderIndex: 2,
+      FirstSectionID: 32283,
+      UiMapID: 2462,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -15513,6 +15662,23 @@ var JournalEncounter_default = {
       DifficultyMask: -1
     }
   ],
+  "Nexus-King Salhadaar(3134)": [
+    {
+      Name_lang: "Nexus-King Salhadaar",
+      Description_lang: "The former ruler of K'aresh and sworn enemy of Dimensius, Nexus-King Salhadaar has emerged unbroken from the shattered husk of K'aresh. Atop his Royal Voidwing, Salhadaar now commands the ultimate will of the Shadowguard. Oaths will be fulfilled. All will be made to serve.",
+      Map_0: 0.49868199229,
+      Map_1: 0.557313025,
+      ID: 2690,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3134,
+      OrderIndex: 7,
+      FirstSectionID: 31569,
+      UiMapID: 2466,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
   "Nexus-Prince Shaffar(1899)": [
     {
       Name_lang: "Nexus-Prince Shaffar",
@@ -16482,6 +16648,23 @@ var JournalEncounter_default = {
       DifficultyMask: -1
     }
   ],
+  "Plexus Sentinel(3129)": [
+    {
+      Name_lang: "Plexus Sentinel",
+      Description_lang: "The Plexus Sentinel patrols the colossal machinery of Manaforge Omega, ensuring that energy from the shattered world of K'aresh is filtered through the structure's conduits. All incoming energy must be sterilized. All pollutants must be purged.",
+      Map_0: 0.76877397299,
+      Map_1: 0.26679900289,
+      ID: 2684,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3129,
+      OrderIndex: 1,
+      FirstSectionID: 31594,
+      UiMapID: 2460,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
   "Plugger Spazzring(241)": [
     {
       Name_lang: "Plugger Spazzring",
@@ -17276,6 +17459,23 @@ var JournalEncounter_default = {
       OrderIndex: 4,
       FirstSectionID: 22904,
       UiMapID: 2e3,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
+  "Reshanor, The Untethered(3184)": [
+    {
+      Name_lang: "Reshanor, The Untethered",
+      Description_lang: "The ethereals of K'aresh first witnessed this destructive maw of the void after Dimensius's attack. They believe Reshanor has manifested as their eternal punishment - for it comes back around to keep eating them and their planet as he grows infinitely bigger over the years.",
+      Map_0: 0.5,
+      Map_1: 0.5,
+      ID: 2762,
+      JournalInstanceID: 1278,
+      DungeonEncounterID: 3184,
+      OrderIndex: 0,
+      FirstSectionID: 32198,
+      UiMapID: 0,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -18743,6 +18943,40 @@ var JournalEncounter_default = {
       DifficultyMask: -1
     }
   ],
+  "Soul-Scribe(3109)": [
+    {
+      Name_lang: "Soul-Scribe",
+      Description_lang: "The Soul-Scribe once led the oracles of K'aresh, but the destruction of her world drove them into the wastelands, where they began a crusade of revenge. She has given ancient oaths to destroy the enemies of Salhadaar, and all they have built. With her ancient powers rediscovered, the fate of this dome looks grim.",
+      Map_0: 0.25771901011,
+      Map_1: 0.35712200403,
+      ID: 2677,
+      JournalInstanceID: 1303,
+      DungeonEncounterID: 3109,
+      OrderIndex: 3,
+      FirstSectionID: 31234,
+      UiMapID: 2449,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
+  "Soulbinder Naazindhri(3130)": [
+    {
+      Name_lang: "Soulbinder Naazindhri",
+      Description_lang: "Within her dark chambers, Soulbinder Naazindhri binds unbound souls of the K'areshi into unwilling servants. Bound in silk wrappings, her victims emerge from their prisons to serve the will of the Shadowguard.",
+      Map_0: 0.51185697317,
+      Map_1: 0.79051601887,
+      ID: 2685,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3130,
+      OrderIndex: 3,
+      FirstSectionID: 32218,
+      UiMapID: 2461,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
   "Soulbinder Nyami(1685)": [
     {
       Name_lang: "Soulbinder Nyami",
@@ -19214,6 +19448,23 @@ var JournalEncounter_default = {
       OrderIndex: 6,
       FirstSectionID: 17805,
       UiMapID: 0,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
+  "Taah'bat and A'wazj(3108)": [
+    {
+      Name_lang: "Taah'bat and A'wazj",
+      Description_lang: "As Soul-Scribe's right hand, Taah'bat will stop at nothing to see her will done. The beast master has bound himself to the wild warp-stalker, A'wazj, and mastered its unique talents. Now the pair act as one, slipping in and out of phase to strike any who threaten Soul-Scribe's revenge.",
+      Map_0: 0.5662689805,
+      Map_1: 0.4465560019,
+      ID: 2676,
+      JournalInstanceID: 1303,
+      DungeonEncounterID: 3108,
+      OrderIndex: 2,
+      FirstSectionID: 31227,
+      UiMapID: 2449,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -20392,6 +20643,23 @@ var JournalEncounter_default = {
       DifficultyMask: -1
     }
   ],
+  "The Soul Hunters(3122)": [
+    {
+      Name_lang: "The Soul Hunters",
+      Description_lang: "Adarus Duskblaze is a demon hunter brimming with abyssal power, seeking to devour the void energy surrounding Manaforge Omega. Together he and his deadly allies, Ilyssa Darksorrow and Velaryn Bloodwrath, will destroy all who oppose them.",
+      Map_0: 0.35375499725,
+      Map_1: 0.70751202106,
+      ID: 2688,
+      JournalInstanceID: 1302,
+      DungeonEncounterID: 3122,
+      OrderIndex: 5,
+      FirstSectionID: 31786,
+      UiMapID: 2465,
+      MapDisplayConditionID: 0,
+      Flags: 0,
+      DifficultyMask: -1
+    }
+  ],
   "The Soultakers(0)": [
     {
       Name_lang: "The Soultakers",
@@ -20930,8 +21198,8 @@ var JournalEncounter_default = {
       FirstSectionID: 20196,
       UiMapID: 1490,
       MapDisplayConditionID: 0,
-      Flags: 2,
-      DifficultyMask: 1
+      Flags: 0,
+      DifficultyMask: -1
     }
   ],
   "Trollgore(1974)": [
@@ -27271,9 +27539,9 @@ var Icon_default = {
 // data/metadata.json
 var metadata_default = {
   environment: "live",
-  wowBuild: "11.1.7.61967",
-  contentHash: "e7d8502773d481c7e4eb48eca7938a83",
-  generatedAt: "2025-07-15T18:50:18.552Z",
+  wowBuild: "11.2.0.62417",
+  contentHash: "4b85457b078003ce6c73accfc7feb52e",
+  generatedAt: "2025-08-05T18:50:38.788Z",
   files: [
     "atlas-members.json",
     "augments.json",
