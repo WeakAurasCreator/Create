@@ -32253,6 +32253,16 @@
             "DifficultyID": 16
         }
     ],
+    "21499": [
+        {
+            "ID": 16395,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 16396,
+            "DifficultyID": 23
+        }
+    ],
     "21515": [
         {
             "ID": 15798,
@@ -32483,6 +32493,16 @@
             "DifficultyID": 2
         }
     ],
+    "21852": [
+        {
+            "ID": 16393,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 16394,
+            "DifficultyID": 23
+        }
+    ],
     "21910": [
         {
             "ID": 9367,
@@ -32662,11 +32682,11 @@
     "22075": [
         {
             "ID": 9167,
-            "DifficultyID": 8
+            "DifficultyID": 23
         },
         {
             "ID": 9428,
-            "DifficultyID": 23
+            "DifficultyID": 8
         }
     ],
     "22078": [
@@ -44086,11 +44106,11 @@
     "28907": [
         {
             "ID": 14840,
-            "DifficultyID": 16
+            "DifficultyID": 15
         },
         {
             "ID": 14841,
-            "DifficultyID": 15
+            "DifficultyID": 16
         }
     ],
     "28938": [
@@ -44822,11 +44842,11 @@
     "29738": [
         {
             "ID": 14585,
-            "DifficultyID": 23
+            "DifficultyID": 8
         },
         {
             "ID": 14586,
-            "DifficultyID": 8
+            "DifficultyID": 23
         }
     ],
     "29757": [
@@ -46637,6 +46657,16 @@
             "DifficultyID": 23
         }
     ],
+    "31224": [
+        {
+            "ID": 16371,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 16372,
+            "DifficultyID": 23
+        }
+    ],
     "31252": [
         {
             "ID": 15764,
@@ -47079,6 +47109,16 @@
             "DifficultyID": 16
         }
     ],
+    "31576": [
+        {
+            "ID": 16391,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 16392,
+            "DifficultyID": 23
+        }
+    ],
     "31577": [
         {
             "ID": 16330,
@@ -47097,6 +47137,16 @@
         {
             "ID": 16335,
             "DifficultyID": 15
+        }
+    ],
+    "31592": [
+        {
+            "ID": 17046,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 17047,
+            "DifficultyID": 23
         }
     ],
     "31593": [
@@ -47169,6 +47219,16 @@
         {
             "ID": 16011,
             "DifficultyID": 15
+        }
+    ],
+    "31631": [
+        {
+            "ID": 16255,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16256,
+            "DifficultyID": 17
         }
     ],
     "31644": [
@@ -47463,6 +47523,18 @@
             "DifficultyID": 16
         }
     ],
+    "31793": [
+        {
+            "ID": 16515,
+            "DifficultyID": 16
+        }
+    ],
+    "31794": [
+        {
+            "ID": 16507,
+            "DifficultyID": 16
+        }
+    ],
     "31822": [
         {
             "ID": 16136,
@@ -47481,26 +47553,6 @@
         {
             "ID": 16139,
             "DifficultyID": 16
-        }
-    ],
-    "31956": [
-        {
-            "ID": 16156,
-            "DifficultyID": 1
-        },
-        {
-            "ID": 16157,
-            "DifficultyID": 2
-        }
-    ],
-    "31957": [
-        {
-            "ID": 16160,
-            "DifficultyID": 1
-        },
-        {
-            "ID": 16161,
-            "DifficultyID": 2
         }
     ],
     "31958": [
@@ -47595,6 +47647,38 @@
         {
             "ID": 16191,
             "DifficultyID": 17
+        }
+    ],
+    "32008": [
+        {
+            "ID": 16793,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16794,
+            "DifficultyID": 16
+        }
+    ],
+    "32032": [
+        {
+            "ID": 17032,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 17033,
+            "DifficultyID": 23
+        }
+    ],
+    "32036": [
+        {
+            "ID": 16327,
+            "DifficultyID": 16
+        }
+    ],
+    "32048": [
+        {
+            "ID": 16486,
+            "DifficultyID": 16
         }
     ],
     "32062": [
@@ -47707,10 +47791,1062 @@
             "DifficultyID": 16
         }
     ],
+    "32136": [
+        {
+            "ID": 16582,
+            "DifficultyID": 16
+        }
+    ],
+    "32207": [
+        {
+            "ID": 16229,
+            "DifficultyID": 16
+        }
+    ],
+    "32273": [
+        {
+            "ID": 16452,
+            "DifficultyID": 16
+        }
+    ],
+    "32313": [
+        {
+            "ID": 16737,
+            "DifficultyID": 16
+        }
+    ],
+    "32325": [
+        {
+            "ID": 16797,
+            "DifficultyID": 16
+        }
+    ],
+    "32337": [
+        {
+            "ID": 16522,
+            "DifficultyID": 15
+        }
+    ],
+    "32361": [
+        {
+            "ID": 16517,
+            "DifficultyID": 16
+        }
+    ],
+    "32367": [
+        {
+            "ID": 16472,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16473,
+            "DifficultyID": 16
+        }
+    ],
+    "32369": [
+        {
+            "ID": 17052,
+            "DifficultyID": 16
+        }
+    ],
+    "32370": [
+        {
+            "ID": 16257,
+            "DifficultyID": 15
+        }
+    ],
+    "32371": [
+        {
+            "ID": 16258,
+            "DifficultyID": 16
+        }
+    ],
+    "32376": [
+        {
+            "ID": 16261,
+            "DifficultyID": 16
+        }
+    ],
+    "32388": [
+        {
+            "ID": 16279,
+            "DifficultyID": 14
+        }
+    ],
+    "32391": [
+        {
+            "ID": 16281,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16282,
+            "DifficultyID": 16
+        }
+    ],
+    "32407": [
+        {
+            "ID": 16309,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16310,
+            "DifficultyID": 16
+        }
+    ],
+    "32408": [
+        {
+            "ID": 16820,
+            "DifficultyID": 16
+        }
+    ],
+    "32447": [
+        {
+            "ID": 16738,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16739,
+            "DifficultyID": 17
+        }
+    ],
+    "32481": [
+        {
+            "ID": 16998,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16999,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 17000,
+            "DifficultyID": 16
+        }
+    ],
+    "32489": [
+        {
+            "ID": 16849,
+            "DifficultyID": 16
+        }
+    ],
+    "32498": [
+        {
+            "ID": 16325,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16326,
+            "DifficultyID": 16
+        }
+    ],
+    "32506": [
+        {
+            "ID": 16564,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16565,
+            "DifficultyID": 16
+        }
+    ],
+    "32507": [
+        {
+            "ID": 16566,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16567,
+            "DifficultyID": 16
+        }
+    ],
+    "32527": [
+        {
+            "ID": 16850,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16851,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16852,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16853,
+            "DifficultyID": 220
+        }
+    ],
+    "32540": [
+        {
+            "ID": 16858,
+            "DifficultyID": 16
+        }
+    ],
+    "32547": [
+        {
+            "ID": 16780,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16781,
+            "DifficultyID": 16
+        }
+    ],
+    "32577": [
+        {
+            "ID": 16634,
+            "DifficultyID": 16
+        }
+    ],
+    "32581": [
+        {
+            "ID": 16627,
+            "DifficultyID": 16
+        }
+    ],
+    "32585": [
+        {
+            "ID": 16843,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16844,
+            "DifficultyID": 16
+        }
+    ],
+    "32588": [
+        {
+            "ID": 16383,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16384,
+            "DifficultyID": 16
+        }
+    ],
+    "32607": [
+        {
+            "ID": 16568,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16569,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16570,
+            "DifficultyID": 17
+        }
+    ],
+    "32643": [
+        {
+            "ID": 16381,
+            "DifficultyID": 16
+        }
+    ],
+    "32680": [
+        {
+            "ID": 16362,
+            "DifficultyID": 16
+        }
+    ],
+    "32681": [
+        {
+            "ID": 16363,
+            "DifficultyID": 16
+        }
+    ],
+    "32687": [
+        {
+            "ID": 16367,
+            "DifficultyID": 15
+        }
+    ],
+    "32688": [
+        {
+            "ID": 16368,
+            "DifficultyID": 1
+        },
+        {
+            "ID": 16369,
+            "DifficultyID": 2
+        },
+        {
+            "ID": 16370,
+            "DifficultyID": 24
+        },
+        {
+            "ID": 16373,
+            "DifficultyID": 205
+        }
+    ],
+    "32701": [
+        {
+            "ID": 16374,
+            "DifficultyID": 16
+        }
+    ],
+    "32702": [
+        {
+            "ID": 16375,
+            "DifficultyID": 16
+        }
+    ],
+    "32703": [
+        {
+            "ID": 16376,
+            "DifficultyID": 16
+        }
+    ],
+    "32704": [
+        {
+            "ID": 16692,
+            "DifficultyID": 16
+        },
+        {
+            "ID": 16788,
+            "DifficultyID": 15
+        }
+    ],
+    "32706": [
+        {
+            "ID": 16379,
+            "DifficultyID": 16
+        }
+    ],
+    "32719": [
+        {
+            "ID": 16382,
+            "DifficultyID": 16
+        }
+    ],
+    "32723": [
+        {
+            "ID": 16385,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 16386,
+            "DifficultyID": 23
+        }
+    ],
+    "32724": [
+        {
+            "ID": 16387,
+            "DifficultyID": 1
+        },
+        {
+            "ID": 16388,
+            "DifficultyID": 2
+        },
+        {
+            "ID": 16389,
+            "DifficultyID": 24
+        },
+        {
+            "ID": 16390,
+            "DifficultyID": 205
+        }
+    ],
+    "32725": [
+        {
+            "ID": 16397,
+            "DifficultyID": 1
+        },
+        {
+            "ID": 16398,
+            "DifficultyID": 2
+        }
+    ],
+    "32750": [
+        {
+            "ID": 17058,
+            "DifficultyID": 16
+        }
+    ],
+    "32924": [
+        {
+            "ID": 16837,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16838,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16839,
+            "DifficultyID": 16
+        }
+    ],
+    "32936": [
+        {
+            "ID": 16805,
+            "DifficultyID": 16
+        }
+    ],
     "32939": [
         {
             "ID": 16462,
             "DifficultyID": 14
+        }
+    ],
+    "32947": [
+        {
+            "ID": 16730,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16731,
+            "DifficultyID": 17
+        }
+    ],
+    "32952": [
+        {
+            "ID": 16470,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16471,
+            "DifficultyID": 17
+        }
+    ],
+    "32959": [
+        {
+            "ID": 16476,
+            "DifficultyID": 16
+        }
+    ],
+    "33037": [
+        {
+            "ID": 16485,
+            "DifficultyID": 16
+        }
+    ],
+    "33038": [
+        {
+            "ID": 16488,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16489,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 17063,
+            "DifficultyID": 14
+        }
+    ],
+    "33092": [
+        {
+            "ID": 16509,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16510,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16785,
+            "DifficultyID": 14
+        }
+    ],
+    "33093": [
+        {
+            "ID": 16511,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16512,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16786,
+            "DifficultyID": 14
+        }
+    ],
+    "33094": [
+        {
+            "ID": 16513,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16514,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16787,
+            "DifficultyID": 14
+        }
+    ],
+    "33099": [
+        {
+            "ID": 16520,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16521,
+            "DifficultyID": 17
+        }
+    ],
+    "33134": [
+        {
+            "ID": 16562,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16563,
+            "DifficultyID": 17
+        }
+    ],
+    "33136": [
+        {
+            "ID": 16571,
+            "DifficultyID": 16
+        }
+    ],
+    "33144": [
+        {
+            "ID": 16579,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16580,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16581,
+            "DifficultyID": 17
+        }
+    ],
+    "33147": [
+        {
+            "ID": 16989,
+            "DifficultyID": 16
+        }
+    ],
+    "33236": [
+        {
+            "ID": 16622,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16633,
+            "DifficultyID": 16
+        }
+    ],
+    "33298": [
+        {
+            "ID": 16688,
+            "DifficultyID": 16
+        }
+    ],
+    "33299": [
+        {
+            "ID": 16689,
+            "DifficultyID": 16
+        }
+    ],
+    "33311": [
+        {
+            "ID": 16693,
+            "DifficultyID": 16
+        }
+    ],
+    "33312": [
+        {
+            "ID": 16694,
+            "DifficultyID": 16
+        }
+    ],
+    "33313": [
+        {
+            "ID": 16695,
+            "DifficultyID": 16
+        }
+    ],
+    "33319": [
+        {
+            "ID": 16783,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16784,
+            "DifficultyID": 16
+        }
+    ],
+    "33328": [
+        {
+            "ID": 16913,
+            "DifficultyID": 15
+        }
+    ],
+    "33333": [
+        {
+            "ID": 16702,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16703,
+            "DifficultyID": 16
+        }
+    ],
+    "33336": [
+        {
+            "ID": 16992,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16993,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16994,
+            "DifficultyID": 16
+        }
+    ],
+    "33337": [
+        {
+            "ID": 16995,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16996,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16997,
+            "DifficultyID": 16
+        }
+    ],
+    "33341": [
+        {
+            "ID": 16712,
+            "DifficultyID": 16
+        },
+        {
+            "ID": 16744,
+            "DifficultyID": 15
+        }
+    ],
+    "33385": [
+        {
+            "ID": 16724,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16725,
+            "DifficultyID": 17
+        }
+    ],
+    "33389": [
+        {
+            "ID": 16732,
+            "DifficultyID": 15
+        }
+    ],
+    "33394": [
+        {
+            "ID": 16736,
+            "DifficultyID": 16
+        }
+    ],
+    "33414": [
+        {
+            "ID": 16740,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16741,
+            "DifficultyID": 16
+        }
+    ],
+    "33415": [
+        {
+            "ID": 16742,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16743,
+            "DifficultyID": 16
+        }
+    ],
+    "33416": [
+        {
+            "ID": 16745,
+            "DifficultyID": 16
+        }
+    ],
+    "33454": [
+        {
+            "ID": 16778,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16779,
+            "DifficultyID": 17
+        }
+    ],
+    "33458": [
+        {
+            "ID": 16782,
+            "DifficultyID": 16
+        }
+    ],
+    "33459": [
+        {
+            "ID": 16806,
+            "DifficultyID": 16
+        }
+    ],
+    "33461": [
+        {
+            "ID": 16789,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16790,
+            "DifficultyID": 16
+        }
+    ],
+    "33463": [
+        {
+            "ID": 16791,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16792,
+            "DifficultyID": 17
+        }
+    ],
+    "33466": [
+        {
+            "ID": 16795,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16796,
+            "DifficultyID": 17
+        }
+    ],
+    "33467": [
+        {
+            "ID": 16799,
+            "DifficultyID": 15
+        }
+    ],
+    "33470": [
+        {
+            "ID": 16800,
+            "DifficultyID": 16
+        }
+    ],
+    "33473": [
+        {
+            "ID": 16803,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16804,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16860,
+            "DifficultyID": 17
+        }
+    ],
+    "33479": [
+        {
+            "ID": 16812,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16813,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16814,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16815,
+            "DifficultyID": 220
+        }
+    ],
+    "33498": [
+        {
+            "ID": 16840,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16841,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16842,
+            "DifficultyID": 220
+        }
+    ],
+    "33500": [
+        {
+            "ID": 16845,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16846,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16847,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16848,
+            "DifficultyID": 220
+        }
+    ],
+    "33505": [
+        {
+            "ID": 16854,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16855,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16856,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 16857,
+            "DifficultyID": 220
+        }
+    ],
+    "33517": [
+        {
+            "ID": 16859,
+            "DifficultyID": 17
+        }
+    ],
+    "33559": [
+        {
+            "ID": 16893,
+            "DifficultyID": 15
+        }
+    ],
+    "33560": [
+        {
+            "ID": 16895,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16896,
+            "DifficultyID": 16
+        }
+    ],
+    "33561": [
+        {
+            "ID": 16897,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16898,
+            "DifficultyID": 17
+        }
+    ],
+    "33565": [
+        {
+            "ID": 16899,
+            "DifficultyID": 15
+        }
+    ],
+    "33570": [
+        {
+            "ID": 16902,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16903,
+            "DifficultyID": 16
+        }
+    ],
+    "33571": [
+        {
+            "ID": 16904,
+            "DifficultyID": 16
+        }
+    ],
+    "33578": [
+        {
+            "ID": 16911,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 16912,
+            "DifficultyID": 17
+        }
+    ],
+    "33582": [
+        {
+            "ID": 16914,
+            "DifficultyID": 16
+        }
+    ],
+    "33589": [
+        {
+            "ID": 16921,
+            "DifficultyID": 16
+        }
+    ],
+    "33591": [
+        {
+            "ID": 16922,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 16923,
+            "DifficultyID": 16
+        }
+    ],
+    "33592": [
+        {
+            "ID": 16924,
+            "DifficultyID": 16
+        }
+    ],
+    "33662": [
+        {
+            "ID": 17025,
+            "DifficultyID": 1
+        },
+        {
+            "ID": 17026,
+            "DifficultyID": 2
+        },
+        {
+            "ID": 17027,
+            "DifficultyID": 205
+        }
+    ],
+    "33663": [
+        {
+            "ID": 17028,
+            "DifficultyID": 8
+        },
+        {
+            "ID": 17029,
+            "DifficultyID": 23
+        }
+    ],
+    "33665": [
+        {
+            "ID": 17034,
+            "DifficultyID": 16
+        }
+    ],
+    "33666": [
+        {
+            "ID": 17035,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 17036,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 17037,
+            "DifficultyID": 17
+        },
+        {
+            "ID": 17038,
+            "DifficultyID": 220
+        }
+    ],
+    "33671": [
+        {
+            "ID": 17039,
+            "DifficultyID": 16
+        }
+    ],
+    "33675": [
+        {
+            "ID": 17040,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 17041,
+            "DifficultyID": 15
+        }
+    ],
+    "33679": [
+        {
+            "ID": 17042,
+            "DifficultyID": 1
+        },
+        {
+            "ID": 17043,
+            "DifficultyID": 2
+        },
+        {
+            "ID": 17044,
+            "DifficultyID": 24
+        },
+        {
+            "ID": 17045,
+            "DifficultyID": 205
+        }
+    ],
+    "33697": [
+        {
+            "ID": 17048,
+            "DifficultyID": 16
+        }
+    ],
+    "33700": [
+        {
+            "ID": 17049,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 17050,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 17051,
+            "DifficultyID": 17
+        }
+    ],
+    "33703": [
+        {
+            "ID": 17053,
+            "DifficultyID": 16
+        }
+    ],
+    "33705": [
+        {
+            "ID": 17054,
+            "DifficultyID": 16
+        }
+    ],
+    "33706": [
+        {
+            "ID": 17055,
+            "DifficultyID": 14
+        },
+        {
+            "ID": 17056,
+            "DifficultyID": 15
+        },
+        {
+            "ID": 17057,
+            "DifficultyID": 17
+        }
+    ],
+    "33889": [
+        {
+            "ID": 17260,
+            "DifficultyID": 16
         }
     ]
 }

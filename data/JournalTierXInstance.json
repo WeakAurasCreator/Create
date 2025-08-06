@@ -1150,7 +1150,7 @@
             "ID": 1518,
             "JournalTierID": 505,
             "OrderIndex": 4,
-            "AvailabilityCondition": 128527
+            "AvailabilityCondition": 135698
         }
     ],
     "1021": [
@@ -1250,7 +1250,7 @@
             "ID": 1517,
             "JournalTierID": 505,
             "OrderIndex": 3,
-            "AvailabilityCondition": 128527
+            "AvailabilityCondition": 135698
         }
     ],
     "1179": [
@@ -1311,6 +1311,12 @@
             "JournalTierID": 499,
             "OrderIndex": 0,
             "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1529,
+            "JournalTierID": 505,
+            "OrderIndex": 6,
+            "AvailabilityCondition": 141987
         }
     ],
     "1186": [
@@ -1332,7 +1338,7 @@
             "ID": 1516,
             "JournalTierID": 505,
             "OrderIndex": 2,
-            "AvailabilityCondition": 128527
+            "AvailabilityCondition": 135698
         }
     ],
     "1188": [
@@ -1381,6 +1387,12 @@
             "JournalTierID": 499,
             "OrderIndex": 0,
             "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1530,
+            "JournalTierID": 505,
+            "OrderIndex": 7,
+            "AvailabilityCondition": 141987
         }
     ],
     "1195": [
@@ -1506,7 +1518,7 @@
             "ID": 1510,
             "JournalTierID": 505,
             "OrderIndex": 0,
-            "AvailabilityCondition": 128527
+            "AvailabilityCondition": 135698
         }
     ],
     "1267": [
@@ -1519,8 +1531,8 @@
         {
             "ID": 1511,
             "JournalTierID": 505,
-            "OrderIndex": 0,
-            "AvailabilityCondition": 128527
+            "OrderIndex": 3,
+            "AvailabilityCondition": 141987
         }
     ],
     "1268": [
@@ -1534,7 +1546,7 @@
             "ID": 1512,
             "JournalTierID": 505,
             "OrderIndex": 0,
-            "AvailabilityCondition": 128527
+            "AvailabilityCondition": 135698
         }
     ],
     "1269": [
@@ -1561,8 +1573,8 @@
         {
             "ID": 1494,
             "JournalTierID": 505,
-            "OrderIndex": 0,
-            "AvailabilityCondition": 125989
+            "OrderIndex": 2,
+            "AvailabilityCondition": 141987
         }
     ],
     "1271": [
@@ -1575,8 +1587,8 @@
         {
             "ID": 1495,
             "JournalTierID": 505,
-            "OrderIndex": 0,
-            "AvailabilityCondition": 125989
+            "OrderIndex": 1,
+            "AvailabilityCondition": 141987
         }
     ],
     "1272": [
@@ -1590,7 +1602,7 @@
             "ID": 1513,
             "JournalTierID": 505,
             "OrderIndex": 0,
-            "AvailabilityCondition": 128527
+            "AvailabilityCondition": 135698
         }
     ],
     "1273": [
@@ -1670,7 +1682,7 @@
             "ID": 1514,
             "JournalTierID": 505,
             "OrderIndex": 2,
-            "AvailabilityCondition": 128527
+            "AvailabilityCondition": 135698
         }
     ],
     "1298": [
@@ -1683,8 +1695,8 @@
         {
             "ID": 1515,
             "JournalTierID": 505,
-            "OrderIndex": 1,
-            "AvailabilityCondition": 128527
+            "OrderIndex": 4,
+            "AvailabilityCondition": 141987
         }
     ],
     "1301": [
@@ -1693,6 +1705,34 @@
             "JournalTierID": 68,
             "OrderIndex": 4,
             "AvailabilityCondition": 0
+        }
+    ],
+    "1302": [
+        {
+            "ID": 1520,
+            "JournalTierID": 514,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1537,
+            "JournalTierID": 505,
+            "OrderIndex": 3,
+            "AvailabilityCondition": 141987
+        }
+    ],
+    "1303": [
+        {
+            "ID": 1519,
+            "JournalTierID": 514,
+            "OrderIndex": 2,
+            "AvailabilityCondition": 0
+        },
+        {
+            "ID": 1531,
+            "JournalTierID": 505,
+            "OrderIndex": 5,
+            "AvailabilityCondition": 141987
         }
     ]
 }

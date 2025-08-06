@@ -2339,6 +2339,30 @@
         "AreaID":0,
         "CovenantID":0
     },
+    "1302":{
+        "Name_lang":"Manaforge Omega",
+        "Description_lang":"Manaforge Omega, built to harness arcane power from the wastes of K'aresh, now hums with a sinister radiance. Within it, Nexus-King Salhadaar attempts to reawaken Dimensius, the All-Devouring, in a bid for ultimate power. The champions of Azeroth must disrupt Manaforge Omega's operations or else risk a reborn Dimensius feasting on reality itself.",
+        "MapID":2810,
+        "BackgroundFileDataID":7049243,
+        "ButtonFileDataID":7050019,
+        "ButtonSmallFileDataID":7049159,
+        "LoreFileDataID":7049313,
+        "Flags":0,
+        "AreaID":0,
+        "CovenantID":0
+    },
+    "1303":{
+        "Name_lang":"Eco-Dome Al'dani",
+        "Description_lang":"The eco-domes represent the best hope of restoring life to K'aresh. Eco-Dome Al'dani was built on the bones of one of the most sacred sites on K'aresh. A Wastelander invasion has ripped open the dome, exposing it to destruction. Ve'nari has called for help to keep K'aresh's greatest hope from being destroyed.",
+        "MapID":2830,
+        "BackgroundFileDataID":7074040,
+        "ButtonFileDataID":7074042,
+        "ButtonSmallFileDataID":7074037,
+        "LoreFileDataID":7074041,
+        "Flags":0,
+        "AreaID":0,
+        "CovenantID":0
+    },
     "1310":{
         "Name_lang":"Zekvir's Lair",
         "Description_lang":null,
