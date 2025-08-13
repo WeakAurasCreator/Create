@@ -365,7 +365,7 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
     # Determine most-popular full-build (as before)
     if not all_builds or len(all_builds) == 0:
         print(f"No valid builds found for {className}/{specName} in {encIDs}")
-        return
+        return None, None
     max_pts = max(total for _, total in all_builds)
     valid = [b for b, tot in all_builds if tot == max_pts]
     popular_build, _ = Counter(valid).most_common(1)[0]
