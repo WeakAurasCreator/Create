@@ -63,8 +63,28 @@ class RateLimiter:
 # Create a global rate limiter instance
 rate_limiter = RateLimiter(REQUESTS_PER_SECOND)
 
+_connector   = None
+_session     = None
 
-async def get_blizzard_token(session):
+def make_connector():
+    # match your concurrency requirements
+    return aiohttp.TCPConnector(limit=CONCURRENT_TASKS, force_close=False)
+
+async def get_session():
+    global _connector, _session
+
+    # if we've never made one, or if it's closed/detached, rebuild both
+    if _session is None or _session.closed or _connector is None or _connector.closed:
+        if _session is not None and not _session.closed:
+            await _session.close()
+
+        _connector = make_connector()
+        _session   = aiohttp.ClientSession(connector=_connector)
+
+    return _session
+
+async def get_blizzard_token():
+    session = await get_session()
     now = time.time()
     if _token_cache["token"] and now < _token_cache["expires"] - 60:
         return _token_cache["token"]
@@ -80,12 +100,13 @@ async def get_blizzard_token(session):
         _token_cache["expires"] = now + j["expires_in"]
         return _token_cache["token"]
 
-async def fetch_data(session, url, headers,params, retries=MAX_RETRIES):
+async def fetch_data(url, headers, params, retries=MAX_RETRIES):
     """
     Fetch JSON data from the provided URL with retry logic.
     The function uses the rate limiter to ensure requests are spaced out
     and handles HTTP 429 responses by retrying.
     """
+    session = await get_session()
     for attempt in range(1, retries + 1):
         try:
             # Wait for our thread-safe rate limiter to allow a new request.
@@ -118,24 +139,25 @@ async def fetch_data(session, url, headers,params, retries=MAX_RETRIES):
 
 @backoff.on_exception(backoff.expo, ClientResponseError, max_time=60,
                       giveup=lambda e: e.status not in (429, 500, 502, 503, 504))
-async def fetch_blizzard_spell(session, spell_id, token):
+async def fetch_blizzard_spell(spell_id, token):
     url = API_SPELL_URL.format(spell_id=spell_id)
     params = {"namespace": NAMESPACE}
     headers = {"Authorization": f"Bearer {token}"}
-    return await fetch_data(session, url, headers, params, retries=MAX_RETRIES)
+    return await fetch_data(url, headers, params, retries=MAX_RETRIES)
 
-async def fetch_csv(session, url):
+async def fetch_csv(url):
     """Download CSV data asynchronously and return as a list of lines."""
+    session = await get_session()
     async with session.get(url) as response:
         response.raise_for_status()
         text = await response.text()
         return text.splitlines()
 
-async def download_image(session, spell_id, icon_filename, semaphore):
+async def download_image(spell_id, icon_filename, semaphore):
     """Download and save spell icon asynchronously using a semaphore."""
     url = f"https://render.worldofwarcraft.com/us/icons/56/{icon_filename}"
     icon_path = f"data/icons/{icon_filename}"
-    
+    session = await get_session()
     async with semaphore:
         async with session.get(url) as response:
             if response.status == 200:
@@ -145,15 +167,15 @@ async def download_image(session, spell_id, icon_filename, semaphore):
             else:
                 print(f"Failed to download icon for spell {spell_id}")
 
-async def handle_spell(session, semaphore, spell_id, spell_data, spellmisc, manifest):
+async def handle_spell(semaphore, spell_id, spell_data, spellmisc, manifest):
     """Process a single spell: merge data, download icon, and save JSON."""
     # Merge spell data with SpellMisc data if available
     print(f"[INFO] Processing spell {spell_id}")
     misc_data = spellmisc.get(spell_id, {})
     combined_data = {**spell_data, **misc_data}
-    token = await get_blizzard_token(session)
+    token = await get_blizzard_token()
     try:
-        blz = await fetch_blizzard_spell(session, spell_id, token)
+        blz = await fetch_blizzard_spell(spell_id, token)
         print(f"[INFO] Blizzard API success for {spell_id} found {blz}")
         combined_data["name_blz"]        = blz.get("name","")
         combined_data["description_blz"] = blz.get("description", {})
@@ -177,53 +199,51 @@ async def handle_spell(session, semaphore, spell_id, spell_data, spellmisc, mani
 
     # Download the icon asynchronously if found
     if icon_filename:
-        await download_image(session, spell_id, icon_filename, semaphore)
+        await download_image(spell_id, icon_filename, semaphore)
 
 async def process_data():
     """Main function to fetch, process, and save spell data asynchronously."""
     semaphore = asyncio.Semaphore(CONCURRENT_TASKS)
     
-    async with aiohttp.ClientSession() as session:
-        # Fetch CSVs concurrently
-        spell_csv, spellmisc_csv, manifest_csv = await asyncio.gather(
-            fetch_csv(session, SPELL_CSV_URL),
-            fetch_csv(session, SPELLMISC_CSV_URL),
-            fetch_csv(session, MANIFEST_CSV_URL)
-        )
+    # Fetch CSVs concurrently
+    spell_csv, spellmisc_csv, manifest_csv = await asyncio.gather(
+        fetch_csv(SPELL_CSV_URL),
+        fetch_csv(SPELLMISC_CSV_URL),
+        fetch_csv(MANIFEST_CSV_URL)
+    )
 
-        # Convert CSVs into dictionaries
-        spell_reader = csv.DictReader(spell_csv)
-        spells = {row["ID"]: row for row in spell_reader}
+    # Convert CSVs into dictionaries
+    spell_reader = csv.DictReader(spell_csv)
+    spells = {row["ID"]: row for row in spell_reader}
 
-        spellmisc_reader = csv.DictReader(spellmisc_csv)
-        spellmisc = {row["SpellID"]: row for row in spellmisc_reader}
+    spellmisc_reader = csv.DictReader(spellmisc_csv)
+    spellmisc = {row["SpellID"]: row for row in spellmisc_reader}
 
-        manifest_reader = csv.DictReader(manifest_csv)
-        manifest = {row["ID"]: row for row in manifest_reader}
+    manifest_reader = csv.DictReader(manifest_csv)
+    manifest = {row["ID"]: row for row in manifest_reader}
 
-        # Save all spell IDs asynchronously
-        all_spell_ids = list(spells.keys())
-        async with aiofiles.open(all_Spell_Ids_file, "w") as f:
-            await f.write(json.dumps(all_spell_ids, indent=2))
-        print("Saved all_Spell_Ids.json")
+    # Save all spell IDs asynchronously
+    all_spell_ids = list(spells.keys())
+    async with aiofiles.open(all_Spell_Ids_file, "w") as f:
+        await f.write(json.dumps(all_spell_ids, indent=2))
+    print("Saved all_Spell_Ids.json")
 
-        # Process spells in batches using the semaphore to limit concurrency.
-        tasks = []
-        for spell_id, spell_data in spells.items():
-            tasks.append(handle_spell(session, semaphore, spell_id, spell_data, spellmisc, manifest))
+    # Process spells in batches using the semaphore to limit concurrency.
+    tasks = []
+    for spell_id, spell_data in spells.items():
+        tasks.append(handle_spell(semaphore, spell_id, spell_data, spellmisc, manifest))
 
-        # Await all tasks; semaphore limits concurrent file I/O operations.
-        await asyncio.gather(*tasks)
+    # Await all tasks; semaphore limits concurrent file I/O operations.
+    await asyncio.gather(*tasks)
 
 async def process_batch(batch_ids, spells, spellmisc, manifest):
     """Run handle_spell for one batch of IDs."""
     semaphore = asyncio.Semaphore(CONCURRENT_TASKS)
-    async with aiohttp.ClientSession() as session:
-        tasks = [
-            handle_spell(session, semaphore, sid, spells[sid], spellmisc, manifest)
-            for sid in batch_ids
-        ]
-        await asyncio.gather(*tasks)
+    tasks = [
+        handle_spell(semaphore, sid, spells[sid], spellmisc, manifest)
+        for sid in batch_ids
+    ]
+    await asyncio.gather(*tasks)
 
 def parse_args():
     p = argparse.ArgumentParser()
@@ -236,8 +256,7 @@ async def main():
     now_ts     = int(time.time())
 
     # 1) Fetch the latest Spell CSV to discover ALL current IDs
-    async with aiohttp.ClientSession() as s:
-        spell_csv = await fetch_csv(s, SPELL_CSV_URL)
+    spell_csv = await fetch_csv(SPELL_CSV_URL)
     csv_ids = [row["ID"] for row in csv.DictReader(spell_csv)]
     print("Fetched all IDs from Spell CSV")
     # 2) Load or init progress.json mapping id→last_processed_ts
@@ -268,11 +287,10 @@ async def main():
     print(f"Total known IDs: {len(all_ids)}, new: {len(new_ids)}, batch: {len(batch)}")
 
     # 6) Fetch SpellMisc and Manifest once
-    async with aiohttp.ClientSession() as s:
-        spellmisc_csv, manifest_csv = await asyncio.gather(
-            fetch_csv(s, SPELLMISC_CSV_URL),
-            fetch_csv(s, MANIFEST_CSV_URL),
-        )
+    spellmisc_csv, manifest_csv = await asyncio.gather(
+        fetch_csv(SPELLMISC_CSV_URL),
+        fetch_csv(MANIFEST_CSV_URL),
+    )
     print("Fetched SpellMisc and Manifest CSVs")
 
     # build lookup dicts

@@ -35,7 +35,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install aiohttp aiofiles backoff
 
-      - name: Run item data gathering script
+      - name: Run spell data gathering script
         run: |
             python backend_scripts/gather_spell_data.py \
               --batch-size $BATCH_SIZE \

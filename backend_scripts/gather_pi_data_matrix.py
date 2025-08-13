@@ -363,6 +363,9 @@ def fetch_top_data(token: str, encIDs: list[int], className: str, specName: str)
                 dual_wield = True
 
     # Determine most-popular full-build (as before)
+    if not all_builds or len(all_builds) == 0:
+        print(f"No valid builds found for {className}/{specName} in {encIDs}")
+        return
     max_pts = max(total for _, total in all_builds)
     valid = [b for b, tot in all_builds if tot == max_pts]
     popular_build, _ = Counter(valid).most_common(1)[0]
@@ -784,6 +787,9 @@ def prepare_matrix():
         # fetch top talents & inject
         raid_build, raid_gear = fetch_top_data(wcl_token, raid_ids, cls, spec)
         dung_build, dung_gear = fetch_top_data(wcl_token, dungeon_ids, cls, spec)
+        if not raid_build or not dung_build or not raid_gear or not dung_gear:
+            print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Skipping {cls}/{spec} due to missing builds")
+            continue
         rcls, rspec, rhero = split_tree_overrides(raid_build)
         dcls, dspec, dhero = split_tree_overrides(dung_build)
         prof_raid = inject_overrides(text, rcls, rspec, rhero)
