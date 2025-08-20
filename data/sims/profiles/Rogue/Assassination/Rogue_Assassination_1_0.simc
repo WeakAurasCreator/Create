@@ -1,27 +1,27 @@
 rogue="TWW3_Rogue_Assassination_Fatebound"
 source=default
 spec=assassination
-head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/12231/12350/12676/12921/1504/6652
-neck=salhadaars_folly,id=242406,bonus_id=10255/10354/10396/10879/12293/1501/6652,gem_id=213455/213743
+head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10355/12231/12353/12676/12921/1514/6652
+neck=ornately_engraved_amplifier,id=185842,bonus_id=10013/10255/10383/10390/10396/10879/12352/6652,gem_id=213458/213458
 shoulder=smokemantle_of_the_sudden_eclipse,id=237662,bonus_id=10255/10355/12233/12353/12675/1514/6652
-chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10354/12229/12297/12676/1514/6652,enchant_id=7364
-waist=durable_information_securing_container,id=245964,bonus_id=12533/1489,gem_id=213491
-legs=pants_of_the_sudden_eclipse,id=237663,bonus_id=10255/10390/12232/12353/12676/1514/6652,enchant_id=7601
+chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10355/12229/12353/12676/1514/6652,enchant_id=7364
+waist=durable_information_securing_container,id=245964,bonus_id=12533/1489,gem_id=213458
+legs=pants_of_the_sudden_eclipse,id=237663,bonus_id=10255/10355/12232/12353/12676/1514/6652,enchant_id=7601
 feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11109/12040/12043/12056/12373/8791/8902/8960/9627/9633,gem_id=213458,enchant_id=7385
-hands=spectral_gamblers_gloves,id=229290,bonus_id=10255/10356/11959/12179/12376/1533/6652
+hands=deathgrips_of_the_sudden_eclipse,id=237665,bonus_id=10255/10355/12230/12353/12675/1514/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12399/9877,gem_id=238046,enchant_id=7403
-main_hand=everforged_stabber,id=222438,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7463
-off_hand=vengeful_netherspike,id=237740,bonus_id=10255/10355/12353/1514/6652,enchant_id=7463
+main_hand=everforged_stabber,id=222438,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7439
+off_hand=everforged_stabber,id=222438,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7439
 finger1=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213458,enchant_id=7334
-finger2=faded_championship_ring,id=228840,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213458/213458,enchant_id=7334
+finger2=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12352/3193/6652,gem_id=213458/213458,enchant_id=7334
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12353/1540/6652
-trinket2=house_of_cards,id=230027,bonus_id=10255/10356/12376/1533/6652
+trinket2=lily_of_the_eternal_weave,id=242494,bonus_id=10255/10383/10390/12353/3196/6652
 level=80
 race=maghar_orc
 role=attack
 position=back
-class_talents=112521:1/112526:1/112572:1/112574:1/112575:1/112580:1/112583:1/112585:1/112630:1/112633:1/112634:1/112635:1/112636:1/112639:1/112640:2/112642:1/112643:2/112644:1/112648:1/112650:1/112651:2/112652:1/112654:1/112655:1/112657:1/114737:1/117145:1/117146:1/117740:1
+class_talents=112521:1/112526:1/112572:1/112574:1/112580:1/112583:1/112585:1/112630:1/112633:1/112634:1/112635:1/112636:1/112639:1/112640:2/112642:1/112643:2/112644:1/112646:1/112648:1/112650:1/112651:2/112652:1/112654:1/112655:1/112657:1/114737:1/117145:1/117146:1/117740:1
 spec_talents=112505:1/112507:1/112509:2/112510:1/112511:1/112513:1/112518:1/112520:1/112649:1/112659:1/112660:2/112661:1/112662:1/112664:1/112665:2/112670:1/112676:1/112677:1/112678:2/112679:1/117106:1/117130:1/117131:1/117132:1/117136:1/117139:1
 hero_talents=117704:1/117711:1/117716:1/117717:1/117719:1/117722:1/117724:1/117726:1/117736:1/125132:1/125140:1
 
@@ -30,7 +30,7 @@ potion=tempered_potion_3
 flask=flask_of_alchemical_chaos_3
 food=feast_of_the_divine_day
 augmentation=crystallized
-temporary_enchant=main_hand:ironclaw_whetstone_3/off_hand:ironclaw_whetstone_3
+temporary_enchant=main_hand:algari_mana_oil_3/off_hand:algari_mana_oil_3
 # Power Infusion override
 external_buffs.pool=power_infusion:120:0
 
