@@ -2,7 +2,7 @@ warlock="TWW3_Warlock_Affliction_Hellcaller"
 source=default
 spec=affliction
 head=inquisitors_portal_to_madness,id=237700,bonus_id=10255/10355/12231/12353/12676/12921/1514/6652
-neck=ornately_engraved_amplifier,id=185842,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213743
+neck=salhadaars_folly,id=242406,bonus_id=10255/10355/10396/10879/12354/1517/6652,gem_id=213491/213743
 shoulder=inquisitors_gaze_of_madness,id=237698,bonus_id=10255/10355/12233/12353/12675/1514/6652
 chest=inquisitors_robes_of_madness,id=237703,bonus_id=10255/10355/12229/12353/12676/1514/6652,enchant_id=7364
 waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213743
@@ -10,13 +10,13 @@ legs=inquisitors_leggings_of_madness,id=237699,bonus_id=10255/10355/12232/12353/
 feet=interlopers_silken_striders,id=243305,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12050/12053/12921/8791/8902/8960/9627/9633,enchant_id=7385
 hands=inquisitors_clutches_of_madness,id=237701,bonus_id=10255/10355/12230/12353/12675/1514/6652
-back=reshii_wraps,id=235499,bonus_id=12257/12400/9883,gem_id=238044,enchant_id=7403
-main_hand=voidglass_kris,id=237728,bonus_id=10255/10354/12297/1514/6652,enchant_id=7463
+back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7403
+main_hand=voidglass_kris,id=237728,bonus_id=10255/10355/12355/1520/6652,enchant_id=7463
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633
 finger1=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213455/213455,enchant_id=7334
-finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213467/213491,enchant_id=7334
+finger2=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7334
 trinket1=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12353/3196/6652
-trinket2=mugs_moxie_jug,id=230192,bonus_id=10255/10356/12376/1533/6652
+trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10355/12355/1520/6652
 level=80
 race=maghar_orc
 role=spell

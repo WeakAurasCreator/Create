@@ -10,7 +10,7 @@ legs=midnight_heralds_petticoat,id=237645,bonus_id=10255/10390/12232/12353/12676
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10354/12239/12297/13502/1514/6652,enchant_id=7424
 wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12921/8790/8902/8960/9627/9633,enchant_id=7385
 hands=glyphetched_gauntlets,id=219341,bonus_id=10421/11303/12050/12053/8790/8902/8960/9627/9633
-back=reshii_wraps,id=235499,bonus_id=12258/12400/9883,gem_id=238045,enchant_id=7403
+back=reshii_wraps,id=235499,bonus_id=12258/12401/9893,gem_id=238045,enchant_id=7403
 main_hand=p_0_w_x2,id=221969,bonus_id=10421/11300/12050/12053/8790/8902/8960/9627/9633,enchant_id=7442
 finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213479/213479,enchant_id=7340
 finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213479/213479,enchant_id=7340

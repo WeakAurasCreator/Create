@@ -10,10 +10,10 @@ legs=midnight_heralds_petticoat,id=237645,bonus_id=10255/10355/12232/12353/12676
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12921/8790/8902/8960/9627/9633,enchant_id=7385
 hands=glyphetched_gauntlets,id=219341,bonus_id=10421/11303/12050/12053/8790/8902/8960/9627/9633
-back=reshii_wraps,id=235499,bonus_id=12258/12400/9883,gem_id=238045,enchant_id=7403
+back=reshii_wraps,id=235499,bonus_id=12258/12401/9893,gem_id=238045,enchant_id=7403
 main_hand=piercing_strandbow,id=237732,bonus_id=10255/10356/12361/1533/6652,enchant_id=7442
-finger1=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213479/213479,enchant_id=7340
-finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213482/213482,enchant_id=7340
+finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213479/213479,enchant_id=7340
+finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213479/213479,enchant_id=7340
 trinket1=arakara_sacbrood,id=219314,bonus_id=10255/10383/10390/12353/3196/6652
 trinket2=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12353/1540/6652
 level=80
