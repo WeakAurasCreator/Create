@@ -6,17 +6,15 @@ async function main() {
   const piGen = await import('../assets/bundles/pi-generator.js');
   const { generatePiEncodedString } = piGen;
 
-  // 4) Run the generator + update logic
   const importString = await generatePiEncodedString(
     Number(process.env.PI_TARGET_COUNT  || 1),
     process.env.PI_MODE             || 'dual',
     Number(process.env.PI_DUAL_BOSS_COUNT || 1),
     Number(process.env.PI_DUAL_TRASH_COUNT|| 5),
-    Number(process.env.PI_ICON_SIZE   || 36),
+    Number(process.env.PI_ICON_SIZE   || 32),
     process.env.PI_ANCHOR_GROUP === 'true'
   );
   console.log(`Generated import string: ${importString}`);
-  // Your existing Wago‐push logic:
   const WAGO_ID     = process.env.WAGO_ID;
   const TOKEN       = process.env.WAGO_TOKEN;
   const scanRes = await fetch('https://data.wago.io/import/scan', {
@@ -59,6 +57,9 @@ async function main() {
     });
 
   const data = await updateRes.json();
+  if (data.error){
+   throw new Error(`Update failed failed (status ${updateRes.status}): ${JSON.stringify(data)}`);
+  }
   console.log('Update response:', data);
 }
 
