@@ -756,7 +756,8 @@ def merge_results():
 # ──────────────────────────────────────────────────────────
 def prepare_matrix():
     gh = os.getenv("GITHUB_TOKEN")
-    wcl_id = os.getenv("WCL_CLIENT_ID"); wcl_sec = os.getenv("WCL_CLIENT_SECRET")
+    wcl_id = os.getenv("WCL_CLIENT_ID") 
+    wcl_sec = os.getenv("WCL_CLIENT_SECRET")
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] fetching latest tier folder from GitHub...")
     tier = get_latest_tier_folder(gh)
     print(f"[{datetime.datetime.now(datetime.timezone.utc).isoformat()}] Latest tier folder: {tier}")

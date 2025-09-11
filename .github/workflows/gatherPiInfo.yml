@@ -157,17 +157,7 @@ jobs:
             path: data/sims/profiles
 
       - name: Regroup simc profiles into class/spec subfolders
-        run: |
-          set -e
-          PROFILE_DIR="data/sims/profiles"
-          find "$PROFILE_DIR" -maxdepth 1 -type f -name '*.simc' | while read f; do
-            base=$(basename "$f" .simc)
-            cls=${base%%_*}
-            spec=${base#*_}; spec=${spec%%_*}
-            dest="$PROFILE_DIR/$cls/$spec"
-            mkdir -p "$dest"
-            mv "$f" "$dest/"
-          done
+        run: python backend_scripts/reorg_sims.py profiles --dir data/sims/profiles
 
       - name: Download all sim results artifacts
         uses: actions/download-artifact@v4
@@ -175,28 +165,8 @@ jobs:
           path: data/sims/final_sims
 
       - name: Flatten & regroup into per-spec dirs
-        run: |
-          set -e
-          # 1) Move all files up
-          find data/sims/final_sims -mindepth 2 -type f \
-            -exec mv {} data/sims/final_sims/ \;
-          # 2) Delete empty dirs
-          find data/sims/final_sims -mindepth 1 -type d -exec rm -rf {} +
-          # 3) Regroup by class/spec
-          mkdir -p data/sims/final_sims_grouped
-          for f in data/sims/final_sims/*.{json,html}; do
-            base=$(basename "$f")
-            cls=${base%%_*}                       # up to first underscore
-            spec=${base#*_}; spec=${spec%%_*}    # between underscores
-            dir="data/sims/final_sims_grouped/$cls/$spec"
-            mkdir -p "$dir"
-            mv "$f" "$dir/"
-          done
-          # 4) Swap in place
-          rm -rf data/sims/final_sims
-          mv data/sims/final_sims_grouped data/sims/final_sims/   
+        run: python backend_scripts/reorg_sims.py results --dir data/sims/final_sims
 
-      
       - name: List full workspace tree
         run: |
           echo "Working directory: $PWD"
