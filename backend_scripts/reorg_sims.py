@@ -72,27 +72,58 @@ def flatten_and_regroup(root: Path, dry_run: bool = False) -> None:
 
     exts = {".json", ".html"}
     moved = 0
+
     for f in sorted(root.rglob("*")):
         if not f.is_file():
             continue
         if f.suffix.lower() not in exts:
             continue
+
+        # class/spec from basename (same as before)
         name = f.name
         parts = name.split("_")
         cls = parts[0] if len(parts) >= 1 and parts[0] else "unknown"
         spec = parts[1] if len(parts) >= 2 and parts[1] else "unknown"
         dest_dir = grouped / cls / spec
-        dest = dest_dir / name
-        final = unique_dest(dest) if (not dry_run and dest.exists()) or (dry_run and dest.exists()) else dest
+
+        try:
+            rel_parent = f.parent.relative_to(root)  # may be '.' if file is directly in root
+        except ValueError:
+            rel_parent = f.parent
+
+        if rel_parent.parts and rel_parent != Path("."):
+            prefix = "_".join(rel_parent.parts)
+        else:
+            prefix = "root"
+
+        dest_name = f"{prefix}_{name}"
+        dest = dest_dir / dest_name
+
         if dry_run:
-            logging.info(f"DRY-RUN: Would move: {f} -> {final}")
+            logging.info(f"DRY-RUN: Would move: {f} -> {dest}")
         else:
             dest_dir.mkdir(parents=True, exist_ok=True)
-            shutil.move(str(f), str(final))
-            logging.info(f"Moved: {f} -> {final}")
+            shutil.move(str(f), str(dest))
+            logging.info(f"Moved: {f} -> {dest}")
+
         moved += 1
 
     logging.info(f"Processed {moved} file(s) into grouped tree at {grouped}")
+
+    # Replace original tree with grouped tree (same as before)
+    if not dry_run:
+        try:
+            if root.exists():
+                shutil.rmtree(root)
+        except Exception as e:
+            logging.warning(f"Could not remove original dir {root}: {e}")
+        try:
+            grouped.rename(root)
+            logging.info(f"Replaced {root} with grouped tree.")
+        except Exception as e:
+            logging.error(f"Failed to rename grouped tree into place: {e}")
+            raise
+
 
     # Replace original tree with grouped tree
     if not dry_run:
