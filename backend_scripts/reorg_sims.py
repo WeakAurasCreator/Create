@@ -59,16 +59,23 @@ def regroup_profiles(profile_dir: Path, dry_run: bool = False) -> None:
     logging.info("Profile regroup complete.")
 
 
-def flatten_and_regroup(root: Path, dry_run: bool = False) -> None:
+def flatten_and_regroup(root: Path) -> None:
+    """
+    Flatten the tree under `root` and regroup .json/.html files into
+    <root>_grouped/<class>/<spec>/ with filenames prefixed by their
+    original relative parent path to avoid basename collisions.
+    """
     if not root.exists():
-        logging.info(f"Results dir not found: {root} — nothing to do")
+        logging.info("Results dir not found: %s — nothing to do", root)
         return
+
     grouped = root.parent / (root.name + "_grouped")
-    if grouped.exists() and not dry_run:
-        logging.info(f"Removing existing grouped dir: {grouped}")
+
+    # ensure a fresh grouped dir
+    if grouped.exists():
+        logging.info("Removing existing grouped dir: %s", grouped)
         shutil.rmtree(grouped)
-    if not dry_run:
-        grouped.mkdir(parents=True, exist_ok=True)
+    grouped.mkdir(parents=True, exist_ok=True)
 
     exts = {".json", ".html"}
     moved = 0
@@ -79,65 +86,60 @@ def flatten_and_regroup(root: Path, dry_run: bool = False) -> None:
         if f.suffix.lower() not in exts:
             continue
 
-        # class/spec from basename (same as before)
         name = f.name
         parts = name.split("_")
         cls = parts[0] if len(parts) >= 1 and parts[0] else "unknown"
         spec = parts[1] if len(parts) >= 2 and parts[1] else "unknown"
         dest_dir = grouped / cls / spec
 
+        # build prefix from original relative parent path (or "root" if directly in root)
         try:
-            rel_parent = f.parent.relative_to(root)  # may be '.' if file is directly in root
-        except ValueError:
+            rel_parent = f.parent.relative_to(root)
+        except Exception:
             rel_parent = f.parent
-
-        if rel_parent.parts and rel_parent != Path("."):
-            prefix = "_".join(rel_parent.parts)
-        else:
-            prefix = "root"
+        prefix = "_".join(rel_parent.parts) if rel_parent.parts and rel_parent != Path(".") else "root"
 
         dest_name = f"{prefix}_{name}"
         dest = dest_dir / dest_name
 
-        if dry_run:
-            logging.info(f"DRY-RUN: Would move: {f} -> {dest}")
-        else:
-            dest_dir.mkdir(parents=True, exist_ok=True)
-            shutil.move(str(f), str(dest))
-            logging.info(f"Moved: {f} -> {dest}")
-
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        shutil.move(str(f), str(dest))
+        logging.info("Moved: %s -> %s", f, dest)
         moved += 1
 
-    logging.info(f"Processed {moved} file(s) into grouped tree at {grouped}")
+    logging.info("Processed %d file(s) into grouped tree at %s", moved, grouped)
 
-    # Replace original tree with grouped tree (same as before)
-    if not dry_run:
+    # --- replace original tree with grouped tree (robustly) ---
+    if not grouped.exists():
+        logging.error("Grouped tree missing: %s", grouped)
         try:
-            if root.exists():
-                shutil.rmtree(root)
+            logging.error("Contents of parent directory (%s):", grouped.parent)
+            for p in sorted(grouped.parent.iterdir()):
+                logging.error("  %s", p)
         except Exception as e:
-            logging.warning(f"Could not remove original dir {root}: {e}")
-        try:
-            grouped.rename(root)
-            logging.info(f"Replaced {root} with grouped tree.")
-        except Exception as e:
-            logging.error(f"Failed to rename grouped tree into place: {e}")
-            raise
+            logging.error("Could not list grouped parent directory: %s", e)
+        raise FileNotFoundError(f"Grouped tree not found: {grouped}")
 
+    try:
+        if root.exists():
+            logging.info("Removing original tree: %s", root)
+            shutil.rmtree(root)
+    except Exception as e:
+        logging.warning("Could not remove original dir %s: %s", root, e)
 
-    # Replace original tree with grouped tree
-    if not dry_run:
+    try:
+        logging.info("Moving grouped tree %s -> %s", grouped, root)
+        shutil.move(str(grouped), str(root))
+        logging.info("Replaced %s with grouped tree.", root)
+    except Exception as e:
+        logging.error("Failed to move grouped tree into place: %s -> %s : %s", grouped, root, e)
         try:
-            if root.exists():
-                shutil.rmtree(root)
-        except Exception as e:
-            logging.warning(f"Could not remove original dir {root}: {e}")
-        try:
-            grouped.rename(root)
-            logging.info(f"Replaced {root} with grouped tree.")
-        except Exception as e:
-            logging.error(f"Failed to rename grouped tree into place: {e}")
-            raise
+            logging.error("Grouped parent (%s) contents on failure:", grouped.parent)
+            for p in sorted(grouped.parent.iterdir()):
+                logging.error("  %s", p)
+        except Exception as e2:
+            logging.error("  (could not list grouped parent): %s", e2)
+        raise
 
 
 def main(argv=None):
@@ -157,7 +159,7 @@ def main(argv=None):
     if args.cmd == "profiles":
         regroup_profiles(Path(args.dir), dry_run=args.dry_run)
     elif args.cmd == "results":
-        flatten_and_regroup(Path(args.dir), dry_run=args.dry_run)
+        flatten_and_regroup(Path(args.dir))
     else:
         parser.print_help()
 
