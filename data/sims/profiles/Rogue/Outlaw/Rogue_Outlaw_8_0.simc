@@ -15,7 +15,7 @@ main_hand=everforged_longsword,id=222440,bonus_id=10421/10520/12050/12053/8792/8
 off_hand=everforged_longsword,id=222440,bonus_id=10421/10520/12050/12053/8795/8902/8960/9627/9633,enchant_id=7463
 finger1=signet_of_collapsing_stars,id=185813,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213467/213467,enchant_id=7352
 finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10520/10879/12050/12053/8795/8902/8960/9627/9633,gem_id=213467/213467,enchant_id=7352
-trinket1=sigil_of_the_cosmic_hunt,id=242397,bonus_id=10255/10355/12353/1514/6652
+trinket1=sigil_of_the_cosmic_hunt,id=242397,bonus_id=10255/10355/12355/1520/6652
 trinket2=incorporeal_warpclaw,id=242495,bonus_id=10255/10383/10390/12353/3196/6652
 level=80
 race=dwarf

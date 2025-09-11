@@ -2,7 +2,7 @@ deathknight="TWW3_Death_Knight_Unholy_Rider"
 source=default
 spec=unholy
 head=hollow_sentinels_stonemask,id=237628,bonus_id=10255/10390/12231/12361/12676/12921/1533/6652
-neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213491/213491
+neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213491/213743
 shoulder=hollow_sentinels_perches,id=237626,bonus_id=10255/10355/12233/12353/12675/1514/6652
 chest=hollow_sentinels_breastplate,id=237631,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=everforged_greatbelt,id=222431,bonus_id=10421/11303/12050/12053/12921/8791/8902/8960/9627/9633

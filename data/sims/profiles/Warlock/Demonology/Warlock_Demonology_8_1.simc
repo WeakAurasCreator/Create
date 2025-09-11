@@ -1,7 +1,7 @@
 warlock="TWW3_Warlock_Demonology_Diabolist"
 source=default
 spec=demonology
-head=inquisitors_portal_to_madness,id=237700,bonus_id=10255/10390/12231/12353/12676/12921/1514/6652
+head=inquisitors_portal_to_madness,id=237700,bonus_id=10255/10390/12231/12361/12676/12921/1533/6652
 neck=bloodstained_memento,id=252009,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213479/213743
 shoulder=inquisitors_gaze_of_madness,id=237698,bonus_id=10255/10355/12233/12353/12675/1514/6652
 chest=inquisitors_robes_of_madness,id=237703,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364

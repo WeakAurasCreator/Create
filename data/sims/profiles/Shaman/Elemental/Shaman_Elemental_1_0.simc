@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7448
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8794/8902/8960/9627/9633
 finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213494/213494,enchant_id=7346
-finger2=high_nerubian_signet,id=221141,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213497/213497,enchant_id=7346
+finger2=signet_of_collapsing_stars,id=185813,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213494/213494,enchant_id=7346
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/12361/1533/6652
 level=80

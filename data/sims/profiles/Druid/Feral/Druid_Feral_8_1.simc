@@ -12,8 +12,8 @@ wrist=runebranded_armbands,id=219334,bonus_id=10421/11303/12050/12053/12921/8791
 hands=wings_of_the_mother_eagle,id=237683,bonus_id=10255/10355/12230/12353/12675/1514/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=obliteration_beamglaive,id=237739,bonus_id=10255/10356/12361/1533/6652,enchant_id=7445
-finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213473/213482,enchant_id=7346
-finger2=radiant_necromancers_band,id=221200,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7346
+finger1=radiant_necromancers_band,id=221200,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213491/213491,enchant_id=7346
+finger2=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213473/213482,enchant_id=7346
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12353/1540/6652
 trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10355/12355/1520/6652
 level=80

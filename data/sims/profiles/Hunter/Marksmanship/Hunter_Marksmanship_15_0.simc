@@ -1,9 +1,9 @@
 hunter="TWW3_Hunter_Marksmanship"
 source=default
 spec=marksmanship
-head=midnight_heralds_cowl,id=237646,bonus_id=10255/10390/12231/12353/12676/12921/1514/6652
+head=midnight_heralds_cowl,id=237646,bonus_id=10255/10390/12231/12361/12676/12921/1533/6652
 neck=ornately_engraved_amplifier,id=185842,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213743
-shoulder=midnight_heralds_shadowguards,id=237644,bonus_id=10255/10355/12233/12353/12675/1514/6652
+shoulder=midnight_heralds_shadowguards,id=237644,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=midnight_heralds_hauberk,id=237649,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245965,bonus_id=12533/1489,gem_id=213458
 legs=midnight_heralds_petticoat,id=237645,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7601
@@ -11,7 +11,7 @@ feet=interlopers_chain_boots,id=243308,bonus_id=10255/10355/12239/12353/13503/15
 wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12921/8791/8902/8960/9627/9633,enchant_id=7385
 hands=glyphetched_gauntlets,id=219341,bonus_id=10421/11303/12050/12053/8791/8902/8960/9627/9633
 back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7403
-main_hand=p_0_w_x2,id=221969,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7439
+main_hand=piercing_strandbow,id=237732,bonus_id=10255/10356/12361/1533/6652,enchant_id=7439
 finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7334
 finger2=logic_gate_alpha,id=237567,bonus_id=10255/10355/10396/10879/12353/1514/6652,gem_id=213458/213458,enchant_id=7334
 trinket1=unyielding_netherprism,id=242396,bonus_id=10255/10355/12355/1520/6652

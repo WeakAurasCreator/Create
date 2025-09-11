@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8790/8902/8960/9627/9633
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7448
 finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7334
-finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/12358/1524/6652,gem_id=213458/213458,enchant_id=7340
+finger2=radiant_necromancers_band,id=221200,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213473/213491,enchant_id=7334
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12353/3196/6652
 level=80
