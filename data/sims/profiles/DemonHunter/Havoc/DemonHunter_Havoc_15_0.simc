@@ -3,7 +3,7 @@ source=default
 spec=havoc
 head=charhounds_vicious_scalp,id=237691,bonus_id=10255/10355/12231/12353/12676/12921/1514/6652
 neck=mommas_mega_medallion,id=251880,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213458/213458
-shoulder=charhounds_vicious_hornguards,id=237689,bonus_id=10255/10390/12233/12353/12675/1514/6652
+shoulder=charhounds_vicious_hornguards,id=237689,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=charhounds_vicious_bindings,id=237694,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245964,bonus_id=12533/1489,gem_id=213458
 legs=gauzewoven_legguards,id=221153,bonus_id=10255/10383/10390/12239/12353/3196/6652,enchant_id=7601

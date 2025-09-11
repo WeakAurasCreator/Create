@@ -7,13 +7,13 @@ shoulder=living_weapons_ramparts,id=237608,bonus_id=10255/10390/12233/12353/1267
 chest=living_weapons_bulwark,id=237613,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245966,bonus_id=12533/1489,gem_id=213455
 legs=living_weapons_legguards,id=237609,bonus_id=10255/10390/12232/12361/12676/1533/6652,enchant_id=7595
-feet=interlopers_plated_sabatons,id=243307,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
+feet=interlopers_plated_sabatons,id=243307,bonus_id=10255/10354/12239/12297/13502/1514/6652,enchant_id=7424
 wrist=flameforged_armguard,id=221118,bonus_id=10255/10383/10390/12239/12353/12921/3196/6652,enchant_id=7385
 hands=living_weapons_crushers,id=237611,bonus_id=10255/10390/12230/12353/12675/1514/6652
 back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7403
 main_hand=charged_claymore,id=222447,bonus_id=10421/11300/12050/12053/8790/8902/8960/9627/9633,enchant_id=7439
-finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
-finger2=ring_of_the_panoply,id=246281,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213455/213455,enchant_id=7334
+finger1=ring_of_the_panoply,id=246281,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213455/213455,enchant_id=7334
+finger2=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
 trinket1=cursed_stone_idol,id=246344,bonus_id=10255/10383/10390/12353/1576/6652
 trinket2=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12353/1540/6652
 level=80

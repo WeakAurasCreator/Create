@@ -2,7 +2,7 @@ priest="TWW3_Priest_Shadow_Voidweaver"
 source=default
 spec=shadow
 head=dying_stars_veil,id=237709,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=ornately_engraved_amplifier,id=185842,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213482/213743
+neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213494/213494
 shoulder=sinlight_shoulderpads,id=246276,bonus_id=10013/10255/10383/10390/12239/12353/6652
 chest=dying_stars_cassock,id=237712,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213494
@@ -11,12 +11,12 @@ feet=interlopers_silken_striders,id=243305,bonus_id=10255/10355/12239/12353/1350
 wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12050/12052/12921/8793/8902/8960/9627/9633,enchant_id=7385
 hands=dying_stars_caress,id=237710,bonus_id=10255/10356/12230/12361/12675/1533/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
+main_hand=overclocked_plexhammer,id=237736,bonus_id=10255/10356/12361/1533/6652,enchant_id=7445
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8793/8902/8960/9627/9633
-main_hand=overclocked_plexhammer,id=237736,bonus_id=10255/10356/12361/1533/6652,enchant_id=7439
 finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213491/213491,enchant_id=7346
 finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213482/213494,enchant_id=7340
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
-trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10355/12353/1514/6652
+trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/12361/1533/6652
 level=80
 race=maghar_orc
 role=spell

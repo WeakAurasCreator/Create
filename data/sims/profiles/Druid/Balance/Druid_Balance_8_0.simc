@@ -15,8 +15,8 @@ main_hand=overclocked_plexhammer,id=237736,bonus_id=10255/10356/12361/1533/6652,
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8793/8902/8960/9627/9633
 finger1=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213494/213494,enchant_id=7346
 finger2=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213494/213494,enchant_id=7346
-trinket1=lily_of_the_eternal_weave,id=242494,bonus_id=10255/10383/10390/12353/3196/6652
-trinket2=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12353/3196/6652
+trinket1=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12353/3196/6652
+trinket2=lily_of_the_eternal_weave,id=242494,bonus_id=10255/10383/10390/12353/3196/6652
 level=80
 race=night_elf
 timeofday=night

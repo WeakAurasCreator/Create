@@ -12,10 +12,10 @@ wrist=everforged_vambraces,id=222435,bonus_id=10421/11303/12050/12053/12921/8791
 hands=protectors_of_the_lucent_battalion,id=237620,bonus_id=10255/10390/12230/12353/12675/1514/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=everforged_greataxe,id=222443,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7439
-finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7334
-finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213458,enchant_id=7334
+finger1=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213458,enchant_id=7334
+finger2=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7334
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12353/1540/6652
-trinket2=cursed_stone_idol,id=246344,bonus_id=10255/10383/10390/12353/1576/6652
+trinket2=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 level=80
 race=human
 role=attack
