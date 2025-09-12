@@ -91,16 +91,7 @@ def flatten_and_regroup(root: Path) -> None:
         cls = parts[0] if len(parts) >= 1 and parts[0] else "unknown"
         spec = parts[1] if len(parts) >= 2 and parts[1] else "unknown"
         dest_dir = grouped / cls / spec
-
-        # build prefix from original relative parent path (or "root" if directly in root)
-        try:
-            rel_parent = f.parent.relative_to(root)
-        except Exception:
-            rel_parent = f.parent
-        prefix = "_".join(rel_parent.parts) if rel_parent.parts and rel_parent != Path(".") else "root"
-
-        dest_name = f"{prefix}_{name}"
-        dest = dest_dir / dest_name
+        dest = dest_dir / name
 
         dest_dir.mkdir(parents=True, exist_ok=True)
         shutil.move(str(f), str(dest))
