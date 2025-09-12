@@ -100,7 +100,6 @@ def flatten_and_regroup(root: Path) -> None:
 
     logging.info("Processed %d file(s) into grouped tree at %s", moved, grouped)
 
-    # --- replace original tree with grouped tree (robustly) ---
     if not grouped.exists():
         logging.error("Grouped tree missing: %s", grouped)
         try:
