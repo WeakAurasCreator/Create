@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7
 main_hand=interrogators_flensing_blade,id=185780,bonus_id=10035/10255/10384/10390/12361/6652,enchant_id=7448
 off_hand=zephyrous_sail_carver,id=221144,bonus_id=10255/10384/10390/12355/3202/6652,enchant_id=7445
 finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213494/213494,enchant_id=7346
-finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213470/213470,enchant_id=7346
+finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/8794/8902/9627/9633,gem_id=213482/213482,enchant_id=7340
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/12361/1533/6652
 level=80

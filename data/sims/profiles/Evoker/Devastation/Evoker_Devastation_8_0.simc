@@ -4,7 +4,7 @@ spec=devastation
 head=spellweavers_immaculate_focus,id=237655,bonus_id=10255/10355/12231/12353/12676/12921/1514/6652
 neck=ornately_engraved_amplifier,id=185842,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213479/213479
 shoulder=spellweavers_immaculate_pauldrons,id=237653,bonus_id=10255/10390/12233/12353/12675/1514/6652
-chest=spellweavers_immaculate_crestward,id=237658,bonus_id=10255/10390/12229/12353/12676/1514/6652,enchant_id=7364
+chest=spellweavers_immaculate_crestward,id=237658,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245965,bonus_id=12533/1489,gem_id=213479
 legs=spellweavers_immaculate_runeslacks,id=237654,bonus_id=10255/10355/12232/12353/12676/1514/6652,enchant_id=7534
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12258/12401/9893,gem_id=238045,enchant_id=7
 main_hand=voidglass_sovereigns_blade,id=237735,bonus_id=10255/10355/12355/1520/6652,enchant_id=7442
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8790/8902/8960/9627/9633
 finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
-finger2=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213479/213479,enchant_id=7334
+finger2=ring_of_the_panoply,id=246281,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213479/213479,enchant_id=7334
 trinket1=lily_of_the_eternal_weave,id=242494,bonus_id=10255/10383/10390/12353/3196/6652
 trinket2=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12353/3196/6652
 level=80

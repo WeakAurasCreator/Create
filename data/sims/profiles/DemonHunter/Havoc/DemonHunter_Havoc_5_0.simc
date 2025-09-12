@@ -3,7 +3,7 @@ source=default
 spec=havoc
 head=charhounds_vicious_scalp,id=237691,bonus_id=10255/10355/12231/12353/12676/12921/1514/6652
 neck=mommas_mega_medallion,id=251880,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213458/213458
-shoulder=charhounds_vicious_hornguards,id=237689,bonus_id=10255/10355/12233/12353/12675/1514/6652
+shoulder=charhounds_vicious_hornguards,id=237689,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=charhounds_vicious_bindings,id=237694,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245964,bonus_id=12533/1489,gem_id=213458
 legs=gauzewoven_legguards,id=221153,bonus_id=10255/10383/10390/12239/12353/3196/6652,enchant_id=7601
@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7
 main_hand=everforged_warglaive,id=222441,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7439
 off_hand=everforged_warglaive,id=222441,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7445
 finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7334
-finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213458,enchant_id=7334
+finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/8791/8902/9627/9633,gem_id=213458/213458,enchant_id=7334
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=cursed_stone_idol,id=246344,bonus_id=10255/10383/10390/12353/1576/6652
 level=80

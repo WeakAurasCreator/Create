@@ -1,7 +1,7 @@
 warrior="TWW3_Warrior_Arms"
 source=default
 spec=arms
-head=living_weapons_faceshield,id=237610,bonus_id=10255/10355/12231/12353/12676/12921/1514/6652
+head=living_weapons_faceshield,id=237610,bonus_id=10255/10390/12231/12361/12676/12921/1533/6652
 neck=ornately_engraved_amplifier,id=185842,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213455/213743
 shoulder=living_weapons_ramparts,id=237608,bonus_id=10255/10390/12233/12353/12675/1514/6652
 chest=living_weapons_bulwark,id=237613,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364

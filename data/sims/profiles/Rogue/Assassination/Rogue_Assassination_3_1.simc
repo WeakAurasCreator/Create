@@ -5,7 +5,7 @@ head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10390/12231/12361/12676
 neck=mommas_mega_medallion,id=251880,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213458/213743
 shoulder=smokemantle_of_the_sudden_eclipse,id=237662,bonus_id=10255/10390/12233/12353/12675/1514/6652
 chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
-waist=durable_information_securing_container,id=245964,bonus_id=12533/1489,gem_id=213491
+waist=durable_information_securing_container,id=245964,bonus_id=12533/1489,gem_id=213458
 legs=pants_of_the_sudden_eclipse,id=237663,bonus_id=10255/10390/12232/12361/12676/1533/6652,enchant_id=7601
 feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11109/12050/12053/12921/8791/8902/8960/9627/9633,enchant_id=7385
@@ -13,8 +13,8 @@ hands=deathgrips_of_the_sudden_eclipse,id=237665,bonus_id=10255/10355/12230/1235
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=everforged_stabber,id=222438,bonus_id=10421/10520/12050/12053/8791/8902/8960/9627/9633,enchant_id=7463
 off_hand=everforged_stabber,id=222438,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=7463
-finger1=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213491/213491,enchant_id=7346
-finger2=radiant_necromancers_band,id=221200,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213491/213491,enchant_id=7346
+finger1=radiant_necromancers_band,id=221200,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213491/213491,enchant_id=7346
+finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213491/213491,enchant_id=7346
 trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/12353/1540/6652
 trinket2=signet_of_the_priory,id=219308,bonus_id=10255/10383/10390/12353/3196/6652
 level=80

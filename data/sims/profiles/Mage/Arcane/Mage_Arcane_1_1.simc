@@ -2,10 +2,10 @@ mage="TWW3_Mage_Arcane_Sunfury"
 source=default
 spec=arcane
 head=augurs_ephemeral_widebrim,id=237718,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/12357/1520/6652,gem_id=213497/213743
+neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/12358/1524/6652,gem_id=213485/213743
 shoulder=augurs_ephemeral_orbs_of_power,id=237716,bonus_id=10255/10356/12233/12361/12675/1533/6652
 chest=augurs_ephemeral_habiliments,id=237721,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
-waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213485
+waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213743
 legs=augurs_ephemeral_trousers,id=237717,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7531
 feet=interlopers_silken_striders,id=243305,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12050/12052/12921/8792/8902/8960/9627/9633,enchant_id=7385
