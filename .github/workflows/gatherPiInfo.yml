@@ -159,6 +159,9 @@ jobs:
       - name: Regroup simc profiles into class/spec subfolders
         run: python backend_scripts/reorg_sims.py profiles --dir data/sims/profiles
 
+      - name: delete old sim results
+        run: rm -rf data/sims/final_sims/*
+
       - name: Download all sim results artifacts
         uses: actions/download-artifact@v4
         with:
