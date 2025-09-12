@@ -3,7 +3,7 @@ source=default
 spec=fire
 head=wasteland_devotees_wrappings,id=242477,bonus_id=10255/10383/10390/12239/12353/12921/3196/6652
 neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213482/213482
-shoulder=augurs_ephemeral_orbs_of_power,id=237716,bonus_id=10255/10354/12233/12297/12675/1514/6652
+shoulder=augurs_ephemeral_orbs_of_power,id=237716,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=augurs_ephemeral_habiliments,id=237721,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213485
 legs=augurs_ephemeral_trousers,id=237717,bonus_id=10255/10390/12232/12353/12676/1514/6652,enchant_id=7534
