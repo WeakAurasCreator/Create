@@ -2,7 +2,7 @@ shaman="TWW3_Shaman_Elemental_Farseer"
 source=default
 spec=elemental
 head=aspect_of_channeled_fury,id=237637,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=mommas_mega_medallion,id=251880,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213470/213470
+neck=mommas_mega_medallion,id=251880,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213485/213743
 shoulder=fangs_of_channeled_fury,id=237635,bonus_id=10255/10356/12233/12361/12675/1533/6652
 chest=furs_of_channeled_fury,id=237640,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245965,bonus_id=12533/1489,gem_id=213494
@@ -13,8 +13,8 @@ hands=claws_of_channeled_fury,id=237638,bonus_id=10255/10356/12230/12361/12675/1
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7448
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8794/8902/8960/9627/9633
-finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213494/213494,enchant_id=7346
-finger2=high_nerubian_signet,id=221141,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213497/213497,enchant_id=7346
+finger1=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213494/213494,enchant_id=7346
+finger2=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213494/213494,enchant_id=7346
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/12361/1533/6652
 level=80

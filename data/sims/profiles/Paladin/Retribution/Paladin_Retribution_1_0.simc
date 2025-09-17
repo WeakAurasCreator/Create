@@ -2,8 +2,8 @@ paladin="TWW3_Paladin_Retribution"
 source=default
 spec=retribution
 head=lightmane_of_the_lucent_battalion,id=237619,bonus_id=10255/10390/12231/12361/12676/12921/1533/6652
-neck=ornately_engraved_amplifier,id=185842,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213743
-shoulder=chargers_of_the_lucent_battalion,id=237617,bonus_id=10255/10355/12233/12353/12675/1514/6652
+neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213458
+shoulder=chargers_of_the_lucent_battalion,id=237617,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=cuirass_of_the_lucent_battalion,id=237622,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245966,bonus_id=12533/1489,gem_id=213458
 legs=cuisses_of_the_lucent_battalion,id=237618,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7601
@@ -15,7 +15,7 @@ main_hand=charged_claymore,id=222447,bonus_id=10421/11300/12050/12053/8791/8902/
 finger1=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213458/213458,enchant_id=7334
 finger2=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213458/213458,enchant_id=7334
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
-trinket2=eradicating_arcanocore,id=242394,bonus_id=10255/10356/12361/1533/6652
+trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/12361/1533/6652
 level=80
 race=human
 role=attack

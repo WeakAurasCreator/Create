@@ -2,10 +2,10 @@ shaman="TWW3_Shaman_Enhancement"
 source=default
 spec=enhancement
 head=cryptbound_headpiece,id=221156,bonus_id=10255/10383/10390/12239/12353/12921/3196/6652
-neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213494/213743
-shoulder=fangs_of_channeled_fury,id=237635,bonus_id=10255/10390/12233/12353/12675/1514/6652
+neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213494/213494
+shoulder=fangs_of_channeled_fury,id=237635,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=furs_of_channeled_fury,id=237640,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
-waist=durable_information_securing_container,id=245965,bonus_id=12533/1489,gem_id=213494
+waist=durable_information_securing_container,id=245965,bonus_id=12533/1489,gem_id=213482
 legs=tassets_of_channeled_fury,id=237636,bonus_id=10255/10390/12232/12361/12676/1533/6652,enchant_id=7601
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11109/12050/12053/12921/8793/8902/8960/9627/9633,enchant_id=7385
