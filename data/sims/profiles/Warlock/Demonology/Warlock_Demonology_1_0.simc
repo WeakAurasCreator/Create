@@ -1,9 +1,9 @@
 warlock="TWW3_Warlock_Demonology_Diabolist"
 source=default
 spec=demonology
-head=inquisitors_portal_to_madness,id=237700,bonus_id=10255/10355/12231/12353/12676/12921/1514/6652
+head=inquisitors_portal_to_madness,id=237700,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
 neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/12357/1520/6652,gem_id=213485/213743
-shoulder=inquisitors_gaze_of_madness,id=237698,bonus_id=10255/10355/12233/12353/12675/1514/6652
+shoulder=inquisitors_gaze_of_madness,id=237698,bonus_id=10255/10356/12233/12361/12675/1533/6652
 chest=inquisitors_robes_of_madness,id=237703,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213743
 legs=inquisitors_leggings_of_madness,id=237699,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7534
@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7448
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8790/8902/8960/9627/9633
 finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
-finger2=high_nerubian_signet,id=221141,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213461/213461,enchant_id=7334
+finger2=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12355/3202/6652
 level=80

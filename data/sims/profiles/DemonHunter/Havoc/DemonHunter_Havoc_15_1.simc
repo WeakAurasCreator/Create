@@ -2,11 +2,11 @@ demonhunter="TWW3_Demon_Hunter_Havoc_Aldrachi_Reaver"
 source=default
 spec=havoc
 head=charhounds_vicious_scalp,id=237691,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12050/12053/8791/8902/9627/9633,gem_id=213458/213458
-shoulder=charhounds_vicious_hornguards,id=237689,bonus_id=10255/10390/12233/12361/12675/1533/6652
-chest=charhounds_vicious_bindings,id=237694,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12050/12053/8791/8902/9627/9633,gem_id=213458/213743
+shoulder=charhounds_vicious_hornguards,id=237689,bonus_id=10255/10356/12233/12361/12675/1533/6652
+chest=charhounds_vicious_bindings,id=237694,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245964,bonus_id=12533/1489,gem_id=213458
-legs=charhounds_vicious_hidecoat,id=237690,bonus_id=10255/10390/12232/12361/12676/1533/6652,enchant_id=7601
+legs=charhounds_vicious_hidecoat,id=237690,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7601
 feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11303/12050/12053/12921/8791/8902/8960/9627/9633,enchant_id=7385
 hands=charhounds_vicious_felclaws,id=237692,bonus_id=10255/10356/12230/12361/12675/1533/6652

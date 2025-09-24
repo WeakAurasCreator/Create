@@ -2,10 +2,10 @@ mage="TWW3_Mage_Frost_Frostfire"
 source=default
 spec=frost
 head=augurs_ephemeral_widebrim,id=237718,bonus_id=10255/10390/12231/12361/12676/12921/1533/6652
-neck=bloodstained_memento,id=252009,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213479/213743
+neck=bloodstained_memento,id=252009,bonus_id=10255/10383/10390/10396/10879/12353/1553/6652,gem_id=213485/213743
 shoulder=augurs_ephemeral_orbs_of_power,id=237716,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=augurs_ephemeral_habiliments,id=237721,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
-waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213470
+waist=consecrated_cord,id=222816,bonus_id=10421/11304/12050/12053/12921/8795/8902/8960/9627/9633
 legs=augurs_ephemeral_trousers,id=237717,bonus_id=10255/10390/12232/12361/12676/1533/6652,enchant_id=7534
 feet=interlopers_silken_striders,id=243305,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
 wrist=consecrated_cuffs,id=222815,bonus_id=10421/11304/12050/12053/12921/8795/8902/8960/9627/9633,enchant_id=7385
@@ -13,10 +13,10 @@ hands=augurs_ephemeral_mitts,id=237719,bonus_id=10255/10390/12230/12361/12675/15
 back=reshii_wraps,id=235499,bonus_id=12259/12401/9893,gem_id=238042,enchant_id=7403
 main_hand=unceremonious_bloodletter,id=221165,bonus_id=10255/10384/10390/12361/3215/6652,enchant_id=7448
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8792/8902/8960/9627/9633
-finger1=signet_of_collapsing_stars,id=185813,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213461/213461,enchant_id=7334
-finger2=high_nerubian_signet,id=221141,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213479/213479,enchant_id=7340
-trinket1=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12353/3196/6652
-trinket2=lily_of_the_eternal_weave,id=242494,bonus_id=10255/10383/10390/12353/3196/6652
+finger1=high_nerubian_signet,id=221141,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213479/213479,enchant_id=7340
+finger2=signet_of_collapsing_stars,id=185813,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213461/213461,enchant_id=7334
+trinket1=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/12355/3202/6652
+trinket2=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 level=80
 race=tauren
 role=spell
