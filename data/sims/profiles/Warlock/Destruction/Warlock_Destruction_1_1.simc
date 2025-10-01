@@ -2,7 +2,7 @@ warlock="TWW3_Warlock_Destruction_Diabolist"
 source=default
 spec=destruction
 head=inquisitors_portal_to_madness,id=237700,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=salhadaars_folly,id=242406,bonus_id=10255/10354/10396/10879/12297/1514/6652,gem_id=213458/213473
+neck=salhadaars_folly,id=242406,bonus_id=10255/10356/10396/10879/12359/1527/6652,gem_id=213461/213467
 shoulder=inquisitors_gaze_of_madness,id=237698,bonus_id=10255/10356/12233/12361/12675/1533/6652
 chest=inquisitors_robes_of_madness,id=237703,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213743
@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8790/8902/8960/9627/9633
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7439
 finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
-finger2=the_jastor_diamond,id=231265,bonus_id=10255/10356/10396/10879/12376/1533/6652,gem_id=213461/213491,enchant_id=7334
+finger2=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/12361/1533/6652,gem_id=213491/213491,enchant_id=7334
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=diamantine_voidcore,id=242392,bonus_id=10255/10356/12361/1533/6652
 level=80

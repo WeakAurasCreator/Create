@@ -2,7 +2,7 @@ mage="TWW3_Mage_Arcane_Sunfury"
 source=default
 spec=arcane
 head=augurs_ephemeral_widebrim,id=237718,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/12361/1533/6652,gem_id=213455/213743
+neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/12361/1533/6652,gem_id=213485/213743
 shoulder=augurs_ephemeral_orbs_of_power,id=237716,bonus_id=10255/10356/12233/12361/12675/1533/6652
 chest=augurs_ephemeral_habiliments,id=237721,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=durable_information_securing_container,id=242664,bonus_id=12533/1489,gem_id=213743
@@ -13,8 +13,8 @@ hands=augurs_ephemeral_mitts,id=237719,bonus_id=10255/10356/12230/12361/12675/15
 back=reshii_wraps,id=235499,bonus_id=12259/12401/9893,gem_id=238042,enchant_id=7403
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8792/8902/8960/9627/9633
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7448
-finger1=band_of_the_shattered_soul,id=242405,bonus_id=10255/10355/10396/10879/12354/1517/6652,gem_id=213473/213473,enchant_id=7352
-finger2=entropy,id=238036,bonus_id=10255/10356/10396/10844/10879/12360/1530/1782/6652,gem_id=213473/213473,enchant_id=7352
+finger1=high_nerubian_signet,id=221141,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213485/213485,enchant_id=7340
+finger2=signet_of_the_traitor_king,id=171545,bonus_id=10255/10383/10396/10879/11390/12355/7756,gem_id=213485/213485,enchant_id=7340
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=diamantine_voidcore,id=242392,bonus_id=10255/10356/12361/1533/6652
 level=80
