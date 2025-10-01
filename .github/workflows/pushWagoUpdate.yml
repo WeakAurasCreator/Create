@@ -54,7 +54,8 @@ jobs:
           git config user.email "actions@github.com"
           git add data/wa_versions.json
           git commit -m "ci: bump pi-helper to ${{ env.NEW_VERSION }}"
-          git push
+          git pull || echo "No changes to pull"
+          git push || echo "No changes to push"
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
