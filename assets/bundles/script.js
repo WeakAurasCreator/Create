@@ -5360,7 +5360,7 @@ var JournalEncounter_default = {
   "Ash'golm(1816)": [
     {
       Name_lang: "Ash'golm",
-      Description_lang: "Ash'golm was one of Ragnaros' lieutenants who burned a violent scar across the forests of Kalimdor before the Wardens finally managed to bind him. Unable to fully destroy Ash'golm, the Wardens locked him in a prison of ice. Unfortunately, the recent incursion by the Legion has weakened the countermeasures that kept Ash'golm frozen all these years....",
+      Description_lang: "Ash'golm was one of Ragnaros' lieutenants who burned a violent scar across the forests of Kalimdor before the Wardens finally managed to bind him. Unable to fully destroy Ash'golm, the Wardens locked him in a prison of ice. Unfortunately, the recent incursion by the Legion has weakened the containment that kept Ash'golm frozen all these years....",
       Map_0: 0.46974098682,
       Map_1: 0.79178702831,
       ID: 1468,
@@ -7765,7 +7765,7 @@ var JournalEncounter_default = {
       DifficultyMask: -1
     }
   ],
-  "Domatrax(2039)": [
+  "Domatrax(2053)": [
     {
       Name_lang: "Domatrax",
       Description_lang: "With the Aegis of Aggramar socketed back into its cradle, Domatrax leads an onslaught of demons to destroy the relic.",
@@ -7773,7 +7773,7 @@ var JournalEncounter_default = {
       Map_1: 0.46348899603,
       ID: 1904,
       JournalInstanceID: 900,
-      DungeonEncounterID: 2039,
+      DungeonEncounterID: 2053,
       OrderIndex: 3,
       FirstSectionID: 15007,
       UiMapID: 849,
@@ -11960,14 +11960,14 @@ var JournalEncounter_default = {
     {
       Name_lang: "Inquisitor Meto",
       Description_lang: "Inquisitor Meto's mastery over fel magic is rivaled by few in the Legion. Meto uses this power to sow chaos and destruction across the cosmos, leaving countless burning worlds in his wake.",
-      Map_0: 0.5,
-      Map_1: 0.5,
+      Map_0: 0.82530200481,
+      Map_1: 0.46385601163,
       ID: 2012,
       JournalInstanceID: 959,
       DungeonEncounterID: 0,
       OrderIndex: 0,
       FirstSectionID: 16255,
-      UiMapID: 759,
+      UiMapID: 930,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -14863,7 +14863,7 @@ var JournalEncounter_default = {
       DifficultyMask: -1
     }
   ],
-  "Mephistroth(2053)": [
+  "Mephistroth(2039)": [
     {
       Name_lang: "Mephistroth",
       Description_lang: "Mephistroth orchestrates the Legion's invasion from the Broken Shores. With the forces of Azeroth pushing against his front line, Mephistroth has fallen back to the Cathedral of Eternal Night, where he will employ all his cunning to ensure the heroes fail in securing the Aegis of Agrammar.",
@@ -14871,7 +14871,7 @@ var JournalEncounter_default = {
       Map_1: 0.23022300005,
       ID: 1878,
       JournalInstanceID: 900,
-      DungeonEncounterID: 2053,
+      DungeonEncounterID: 2039,
       OrderIndex: 4,
       FirstSectionID: 14759,
       UiMapID: 849,
@@ -14986,14 +14986,14 @@ var JournalEncounter_default = {
     {
       Name_lang: "Mistress Alluradel",
       Description_lang: "All those who gaze upon Mistress Alluradel fall under her sinister control. She commands victims of her dominance to inflict gruesome torments upon themselves. A thrall's only hope of escape is death, and Alluradel will not allow that release until their agonized screams have ceased to amuse her.",
-      Map_0: 0.5,
-      Map_1: 0.5,
+      Map_0: 0.44879499078,
+      Map_1: 0.48644599319,
       ID: 2011,
       JournalInstanceID: 959,
       DungeonEncounterID: 0,
       OrderIndex: 0,
       FirstSectionID: 16247,
-      UiMapID: 759,
+      UiMapID: 928,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -15955,14 +15955,14 @@ var JournalEncounter_default = {
     {
       Name_lang: "Occularus",
       Description_lang: "Occularus feeds on the minds of his enemies, savoring their despair as he sears their flesh. This malevolent creature has devoured worlds, yet his hunger remains insatiable.",
-      Map_0: 0.5,
-      Map_1: 0.5,
+      Map_0: 0.54216897488,
+      Map_1: 0.33735001087,
       ID: 2013,
       JournalInstanceID: 959,
       DungeonEncounterID: 0,
       OrderIndex: 0,
       FirstSectionID: 16259,
-      UiMapID: 759,
+      UiMapID: 932,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -16635,14 +16635,14 @@ var JournalEncounter_default = {
     {
       Name_lang: "Pit Lord Vilemus",
       Description_lang: "Pit Lord Vilemus' brutality is renowned even among the Legion. He delights in setting his foes aflame in fel fire, then laughing at their despair as they beg for the mercy of death.",
-      Map_0: 0.5,
-      Map_1: 0.5,
+      Map_0: 0.17311799526,
+      Map_1: 0.52207201719,
       ID: 2015,
       JournalInstanceID: 959,
       DungeonEncounterID: 0,
       OrderIndex: 0,
       FirstSectionID: 16284,
-      UiMapID: 759,
+      UiMapID: 927,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -18930,14 +18930,14 @@ var JournalEncounter_default = {
     {
       Name_lang: "Sotanathor",
       Description_lang: "Sotanathor's legendary strength was forged through countless burning campaigns across the cosmos. A brutal general, this demon commands vast legions that have never known defeat.",
-      Map_0: 0.5,
-      Map_1: 0.5,
+      Map_0: 0.62349402905,
+      Map_1: 0.42319300771,
       ID: 2014,
       JournalInstanceID: 959,
       DungeonEncounterID: 0,
       OrderIndex: 0,
       FirstSectionID: 16263,
-      UiMapID: 759,
+      UiMapID: 931,
       MapDisplayConditionID: 0,
       Flags: 0,
       DifficultyMask: -1
@@ -27539,9 +27539,9 @@ var Icon_default = {
 // data/metadata.json
 var metadata_default = {
   environment: "live",
-  wowBuild: "11.2.0.63305",
-  contentHash: "6891857c9daec3458b23317ee36ac461",
-  generatedAt: "2025-09-29T21:40:38.198Z",
+  wowBuild: "11.2.5.63660",
+  contentHash: "bb05dd3f741c17db1e8701747d5acde4",
+  generatedAt: "2025-10-07T21:38:40.792Z",
   files: [
     "atlas-members.json",
     "augments.json",
