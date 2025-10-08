@@ -6,12 +6,12 @@ neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/
 shoulder=ritual_pauldrons_of_the_mother_eagle,id=237680,bonus_id=10255/10390/12233/12361/12675/1533/6652
 chest=vest_of_the_mother_eagle,id=237685,bonus_id=10255/10390/12229/12361/12676/1533/6652,enchant_id=7364
 waist=runebranded_waistband,id=219331,bonus_id=10421/11304/12050/12053/12921/8793/8902/8960/9627/9633
-legs=breeches_of_the_mother_eagle,id=237681,bonus_id=10255/10390/12232/12361/12676/1533/6652,enchant_id=7534
-feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
+legs=breeches_of_the_mother_eagle,id=237681,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7534
+feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12355/13503/1520/6652,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11304/12050/12053/12921/8793/8902/8960/9627/9633,enchant_id=7385
 hands=wings_of_the_mother_eagle,id=237683,bonus_id=10255/10356/12230/12361/12675/1533/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
-main_hand=overclocked_plexhammer,id=237736,bonus_id=10255/10356/12361/1533/6652,enchant_id=7445
+main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7445
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8793/8902/8960/9627/9633
 finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213494/213494,enchant_id=7346
 finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213494/213494,enchant_id=7346

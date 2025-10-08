@@ -7,13 +7,13 @@ shoulder=ritual_pauldrons_of_the_mother_eagle,id=237680,bonus_id=10255/10356/122
 chest=vest_of_the_mother_eagle,id=237685,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=runebranded_waistband,id=219331,bonus_id=10421/11303/12050/12053/12921/8793/8902/8960/9627/9633
 legs=breeches_of_the_mother_eagle,id=237681,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7601
-feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
+feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12355/13503/1520/6652,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11303/12050/12053/12921/8791/8902/8960/9627/9633,enchant_id=7385
 hands=wings_of_the_mother_eagle,id=237683,bonus_id=10255/10356/12230/12361/12675/1533/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=obliteration_beamglaive,id=237739,bonus_id=10255/10356/12361/1533/6652,enchant_id=7445
 finger1=radiant_necromancers_band,id=221200,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213491/213491,enchant_id=7346
-finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/12361/1533/6652,gem_id=213458/213494,enchant_id=7346
+finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/8793/8902/9627/9633,gem_id=213494/213494,enchant_id=7346
 trinket1=arazs_ritual_forge,id=242402,bonus_id=10255/10356/12361/1533/6652
 trinket2=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 level=80

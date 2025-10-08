@@ -13,8 +13,8 @@ hands=dying_stars_caress,id=237710,bonus_id=10255/10356/12230/12361/12675/1533/6
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8793/8902/8960/9627/9633
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7439
-finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213494/213494,enchant_id=7346
-finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/41,gem_id=213494/213494,enchant_id=7346
+finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213491/213491,enchant_id=7346
+finger2=ring_of_the_panoply,id=246281,bonus_id=10019/10255/10383/10390/10396/10879/12354/6652,gem_id=213455/213467,enchant_id=7346
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10355/12355/1520/6652
 level=80

@@ -2,7 +2,7 @@ rogue="TWW3_Rogue_Assassination_Fatebound"
 source=default
 spec=assassination
 head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=salhadaars_folly,id=242406,bonus_id=10255/10355/10396/10879/12353/1514/6652,gem_id=213491/213743
+neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12050/12053/8791/8902/9627/9633,gem_id=213458/213473
 shoulder=deathbound_shoulderpads,id=237552,bonus_id=10255/10356/12239/12361/1533/6652
 chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=atomic_phasebelt,id=237533,bonus_id=10255/10356/12239/12361/12921/1533/6652

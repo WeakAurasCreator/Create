@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7
 main_hand=charged_claymore,id=222447,bonus_id=10421/11300/12050/12053/8791/8902/8960/9627/9633,enchant_id=3368
 finger1=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213491/213491,enchant_id=7346
 finger2=signet_of_the_false_accuser,id=178824,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213491/213491,enchant_id=7346
-trinket1=cursed_stone_idol,id=246344,bonus_id=10255/10383/10390/12355/1582/6652
+trinket1=cursed_stone_idol,id=246344,bonus_id=10255/10383/10390/12361/1595/6652
 trinket2=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 level=80
 race=troll

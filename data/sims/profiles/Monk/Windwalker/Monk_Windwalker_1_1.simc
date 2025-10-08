@@ -2,12 +2,12 @@ monk="TWW3_Monk_Windwalker"
 source=default
 spec=windwalker
 head=halfmask_of_fallen_storms,id=237673,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
-neck=sin_stained_pendant,id=178827,bonus_id=10013/10255/10383/10390/10396/10879/12353/6652,gem_id=213473/213482
+neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/12361/1533/6652,gem_id=213482/213743
 shoulder=glyphs_of_fallen_storms,id=237671,bonus_id=10255/10356/12233/12361/12675/1533/6652
 chest=gi_of_fallen_storms,id=237676,bonus_id=10255/10356/12229/12361/12676/1533/6652,enchant_id=7364
 waist=runebranded_waistband,id=219331,bonus_id=10421/11304/12050/12053/12921/8793/8902/8960/9627/9633
 legs=legwraps_of_fallen_storms,id=237672,bonus_id=10255/10356/12232/12361/12676/1533/6652,enchant_id=7601
-feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12353/13503/1514/6652,enchant_id=7424
+feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10355/12239/12355/13503/1520/6652,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11304/12050/12053/12921/8793/8902/8960/9627/9633,enchant_id=7385
 hands=grasp_of_fallen_storms,id=237674,bonus_id=10255/10356/12230/12361/12675/1533/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
