@@ -27539,9 +27539,9 @@ var Icon_default = {
 // data/metadata.json
 var metadata_default = {
   environment: "live",
-  wowBuild: "11.2.5.63660",
-  contentHash: "bb05dd3f741c17db1e8701747d5acde4",
-  generatedAt: "2025-10-07T21:38:40.792Z",
+  wowBuild: "11.2.5.63825",
+  contentHash: "0d0b82c63d32bef85ca8eed660e2ca27",
+  generatedAt: "2025-10-14T18:46:23.331Z",
   files: [
     "atlas-members.json",
     "augments.json",
