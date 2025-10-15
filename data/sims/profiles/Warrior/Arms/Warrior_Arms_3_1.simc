@@ -13,8 +13,8 @@ hands=living_weapons_crushers,id=237611,bonus_id=10255/10390/12230/12361/12675/1
 back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7403
 main_hand=charged_slicer,id=222451,bonus_id=10421/11300/12050/12053/8792/8902/8960/9627/9633,enchant_id=7463
 off_hand=everforged_defender,id=222432,bonus_id=10421/11109/12050/12053/8792/8902/8960/9627/9633
-finger1=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
-finger2=ring_of_the_panoply,id=246281,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213455/213455,enchant_id=7334
+finger1=ring_of_the_panoply,id=246281,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213455/213455,enchant_id=7334
+finger2=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/12353/3196/6652,gem_id=213455/213455,enchant_id=7334
 trinket1=cursed_stone_idol,id=246344,bonus_id=10255/10383/10390/12355/1582/6652
 trinket2=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
 level=80
