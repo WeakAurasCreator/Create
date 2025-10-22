@@ -4512,9 +4512,9 @@ var emptyRegion_default = {
 // data/metadata.json
 var metadata_default = {
   environment: "live",
-  wowBuild: "11.2.5.63825",
-  contentHash: "0d0b82c63d32bef85ca8eed660e2ca27",
-  generatedAt: "2025-10-14T18:46:23.331Z",
+  wowBuild: "11.2.5.63906",
+  contentHash: "54872ff21d6a810db9b1480216c078ef",
+  generatedAt: "2025-10-21T22:09:33.992Z",
   files: [
     "atlas-members.json",
     "augments.json",
@@ -5146,10 +5146,10 @@ var pi_values_default = [
     specId: 254,
     targets: 3,
     talents: "C4PAAAAAAAAAAAAAAAAAAAAAAYMbDMgJY2YJwsAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZZZGsNMjxy2mZmZMLmZYMzMLbGWGmZA",
-    dps_no_pi: 959853016e-2,
-    dps_with_pi: 98973771e-1,
-    dps_delta: 298846.94,
-    dps_pct_gain: 3.11,
+    dps_no_pi: 959859377e-2,
+    dps_with_pi: 989765483e-2,
+    dps_delta: 299061.07,
+    dps_pct_gain: 3.12,
     pi_dep_spell_ids: {
       "288613": 288613
     },
@@ -5410,10 +5410,10 @@ var pi_values_default = [
     specId: 254,
     targets: 15,
     talents: "C4PAAAAAAAAAAAAAAAAAAAAAAYMbDMgJY2YJwsAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZZZGsNMjxy2mZmZMLmZYMzMLbGWGmZA",
-    dps_no_pi: 2766044849e-2,
-    dps_with_pi: 28613549,
-    dps_delta: 953100.51,
-    dps_pct_gain: 3.45,
+    dps_no_pi: 2766399557e-2,
+    dps_with_pi: 2860719803e-2,
+    dps_delta: 943202.46,
+    dps_pct_gain: 3.41,
     pi_dep_spell_ids: {
       "288613": 288613
     },
@@ -5674,9 +5674,9 @@ var pi_values_default = [
     specId: 254,
     targets: 5,
     talents: "C4PAAAAAAAAAAAAAAAAAAAAAAYMbDMgJY2YJwsAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZZZGsNMjxy2mZmZMLmZYMzMLbGWGmZA",
-    dps_no_pi: 1557804456e-2,
-    dps_with_pi: 1608764144e-2,
-    dps_delta: 509596.87,
+    dps_no_pi: 1557689229e-2,
+    dps_with_pi: 1608581201e-2,
+    dps_delta: 508919.73,
     dps_pct_gain: 3.27,
     pi_dep_spell_ids: {
       "288613": 288613
@@ -5938,10 +5938,10 @@ var pi_values_default = [
     specId: 254,
     targets: 8,
     talents: "C4PAAAAAAAAAAAAAAAAAAAAAAYMbDMgJY2YJwsAAAAAAAAAAAAAAzYGzYmZYGZGjhZGmlhZZZGsNMjxy2mZmZMLmZYMzMLbGWGmZA",
-    dps_no_pi: 2471857432e-2,
-    dps_with_pi: 2558076775e-2,
-    dps_delta: 862193.43,
-    dps_pct_gain: 3.49,
+    dps_no_pi: 2471880809e-2,
+    dps_with_pi: 2557661683e-2,
+    dps_delta: 857808.74,
+    dps_pct_gain: 3.47,
     pi_dep_spell_ids: {
       "288613": 288613
     },
@@ -6202,9 +6202,9 @@ var pi_values_default = [
     specId: 254,
     targets: 1,
     talents: "C4PAAAAAAAAAAAAAAAAAAAAAAYMbDMgJY2YLwsAAAAAAAAAAAAAAzYGzMzMDzoZGjhZGYYWWmBLjZGYbzMzMmFzMMzMzssZMLDmB",
-    dps_no_pi: 543172498e-2,
-    dps_with_pi: 558255813e-2,
-    dps_delta: 150833.15,
+    dps_no_pi: 559993205e-2,
+    dps_with_pi: 575548847e-2,
+    dps_delta: 155556.42,
     dps_pct_gain: 2.78,
     pi_dep_spell_ids: {
       "288613": 288613
@@ -6380,8 +6380,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -6433,30 +6433,30 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
         id: 242396,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
+      },
+      trinket2: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       }
     }
   },
@@ -6465,11 +6465,11 @@ var pi_values_default = [
     spec: "BeastMastery",
     specId: 253,
     targets: 5,
-    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mxYmBmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
-    dps_no_pi: 138301225e-1,
-    dps_with_pi: 1438003872e-2,
-    dps_delta: 549916.22,
-    dps_pct_gain: 3.98,
+    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mBzMDmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
+    dps_no_pi: 1446667163e-2,
+    dps_with_pi: 1504761146e-2,
+    dps_delta: 580939.83,
+    dps_pct_gain: 4.02,
     pi_dep_spell_ids: {
       "19574": 19574
     },
@@ -6502,8 +6502,8 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213485",
-          "213485"
+          "213455",
+          "213455"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
@@ -6594,7 +6594,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8792",
           "8902",
           "8960",
           "9627",
@@ -6607,21 +6607,19 @@ var pi_values_default = [
         icon: "data/icons/inv_mail_outdoorarathor_d_01_bracer.jpg"
       },
       hands: {
-        id: 219341,
+        id: 237647,
         bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_glove.jpg"
+        icon: "data/icons/inv_glove_mail_raidhunterethereal_d_01.jpg"
       },
       back: {
         id: 235499,
@@ -6643,8 +6641,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -6675,26 +6673,26 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "1761",
+          "40"
         ],
         gem_ids: [
-          "213479",
+          "213467",
           "213479"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
       },
       trinket1: {
         id: 242396,
@@ -6729,11 +6727,11 @@ var pi_values_default = [
     spec: "BeastMastery",
     specId: 253,
     targets: 15,
-    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mxYmBmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
-    dps_no_pi: 3225613026e-2,
-    dps_with_pi: 3353162415e-2,
-    dps_delta: 127549389e-2,
-    dps_pct_gain: 3.95,
+    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mBzMDmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
+    dps_no_pi: 3437287788e-2,
+    dps_with_pi: 3570749865e-2,
+    dps_delta: 133462076e-2,
+    dps_pct_gain: 3.88,
     pi_dep_spell_ids: {
       "19574": 19574
     },
@@ -6766,8 +6764,8 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213485",
-          "213485"
+          "213455",
+          "213455"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
@@ -6858,7 +6856,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8792",
           "8902",
           "8960",
           "9627",
@@ -6871,21 +6869,19 @@ var pi_values_default = [
         icon: "data/icons/inv_mail_outdoorarathor_d_01_bracer.jpg"
       },
       hands: {
-        id: 219341,
+        id: 237647,
         bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_glove.jpg"
+        icon: "data/icons/inv_glove_mail_raidhunterethereal_d_01.jpg"
       },
       back: {
         id: 235499,
@@ -6907,8 +6903,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -6939,26 +6935,26 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "1761",
+          "40"
         ],
         gem_ids: [
-          "213479",
+          "213467",
           "213479"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
       },
       trinket1: {
         id: 242396,
@@ -6993,11 +6989,11 @@ var pi_values_default = [
     spec: "BeastMastery",
     specId: 253,
     targets: 8,
-    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mxYmBmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
-    dps_no_pi: 2075145689e-2,
-    dps_with_pi: 2158316281e-2,
-    dps_delta: 831705.92,
-    dps_pct_gain: 4.01,
+    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mBzMDmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
+    dps_no_pi: 2184787193e-2,
+    dps_with_pi: 22720695,
+    dps_delta: 872823.07,
+    dps_pct_gain: 4,
     pi_dep_spell_ids: {
       "19574": 19574
     },
@@ -7030,8 +7026,8 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213485",
-          "213485"
+          "213455",
+          "213455"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
@@ -7122,7 +7118,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8792",
           "8902",
           "8960",
           "9627",
@@ -7135,21 +7131,19 @@ var pi_values_default = [
         icon: "data/icons/inv_mail_outdoorarathor_d_01_bracer.jpg"
       },
       hands: {
-        id: 219341,
+        id: 237647,
         bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_glove.jpg"
+        icon: "data/icons/inv_glove_mail_raidhunterethereal_d_01.jpg"
       },
       back: {
         id: 235499,
@@ -7171,8 +7165,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7203,26 +7197,26 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "1761",
+          "40"
         ],
         gem_ids: [
-          "213479",
+          "213467",
           "213479"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
       },
       trinket1: {
         id: 242396,
@@ -7257,11 +7251,11 @@ var pi_values_default = [
     spec: "BeastMastery",
     specId: 253,
     targets: 3,
-    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mxYmBmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
-    dps_no_pi: 948291048e-2,
-    dps_with_pi: 984691515e-2,
-    dps_delta: 364004.67,
-    dps_pct_gain: 3.84,
+    talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMLDMgBMbsFyYBAAAAAAzM2mBzMDmZYmlZmZmBzYmMjZMjZmhZGGGDzMMLDz2yMYDAAAAAAmB",
+    dps_no_pi: 983659563e-2,
+    dps_with_pi: 1022446608e-2,
+    dps_delta: 387870.45,
+    dps_pct_gain: 3.94,
     pi_dep_spell_ids: {
       "19574": 19574
     },
@@ -7294,8 +7288,8 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213485",
-          "213485"
+          "213455",
+          "213455"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
@@ -7386,7 +7380,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8792",
           "8902",
           "8960",
           "9627",
@@ -7399,21 +7393,19 @@ var pi_values_default = [
         icon: "data/icons/inv_mail_outdoorarathor_d_01_bracer.jpg"
       },
       hands: {
-        id: 219341,
+        id: 237647,
         bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_glove.jpg"
+        icon: "data/icons/inv_glove_mail_raidhunterethereal_d_01.jpg"
       },
       back: {
         id: 235499,
@@ -7435,8 +7427,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7467,26 +7459,26 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "1761",
+          "40"
         ],
         gem_ids: [
-          "213479",
+          "213467",
           "213479"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
       },
       trinket1: {
         id: 242396,
@@ -7522,10 +7514,10 @@ var pi_values_default = [
     specId: 253,
     targets: 1,
     talents: "C0PAAAAAAAAAAAAAAAAAAAAAAYMbDMgBMbsFyYBAAAAAAzY2GmlZGMjZMzyYmZGMjZyMmxMzMzwMjZYMMzADz2yMYDAAAAAAmB",
-    dps_no_pi: 54927612e-1,
-    dps_with_pi: 569748056e-2,
-    dps_delta: 204719.36,
-    dps_pct_gain: 3.73,
+    dps_no_pi: 578305789e-2,
+    dps_with_pi: 600811061e-2,
+    dps_delta: 225052.72,
+    dps_pct_gain: 3.89,
     pi_dep_spell_ids: {
       "19574": 19574
     },
@@ -7536,10 +7528,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7568,7 +7560,7 @@ var pi_values_default = [
         id: 237644,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12233",
           "12361",
           "12675",
@@ -7585,9 +7577,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7614,9 +7606,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12232",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7699,8 +7691,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7732,32 +7724,33 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 242405,
+        id: 246281,
         bonus_ids: [
+          "10035",
           "10255",
-          "10355",
+          "10383",
+          "10390",
           "10396",
           "10879",
-          "12355",
-          "1520",
+          "12361",
           "6652"
         ],
         gem_ids: [
-          "213467",
-          "213467"
+          "213461",
+          "213461"
         ],
         enchant_ids: [
           "7352"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring02_etherealribbonorrunestyle_gold.jpg"
+        icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       trinket1: {
         id: 242396,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7769,8 +7762,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7785,10 +7778,10 @@ var pi_values_default = [
     specId: 255,
     targets: 1,
     talents: "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2ILwMM0glZmZZGzMjZmxYYMMzMzY2GAAAAAAQzYGzYmZYGmhxwMDjhZbZGsBAAAAADAA",
-    dps_no_pi: 514139287e-2,
-    dps_with_pi: 539257628e-2,
-    dps_delta: 251183.41,
-    dps_pct_gain: 4.89,
+    dps_no_pi: 533394225e-2,
+    dps_with_pi: 561105782e-2,
+    dps_delta: 277115.57,
+    dps_pct_gain: 5.2,
     pi_dep_spell_ids: {
       "360952": 360952
     },
@@ -7823,8 +7816,8 @@ var pi_values_default = [
           "9633"
         ],
         gem_ids: [
-          "213494",
-          "213743"
+          "213482",
+          "213482"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
@@ -7964,8 +7957,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -7975,27 +7968,6 @@ var pi_values_default = [
         icon: "data/icons/inv_polearm_2h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 178824,
-        bonus_ids: [
-          "10013",
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213494",
-          "213494"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
-      },
-      finger2: {
         id: 231265,
         bonus_ids: [
           "10255",
@@ -8007,13 +7979,34 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213479",
-          "213479"
+          "213482",
+          "213482"
         ],
         enchant_ids: [
-          "7334"
+          "7340"
         ],
         icon: "data/icons/inv_jewelry_ring_63.jpg"
+      },
+      finger2: {
+        id: 178824,
+        bonus_ids: [
+          "10019",
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12355",
+          "6652"
+        ],
+        gem_ids: [
+          "213491",
+          "213491"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -8029,18 +8022,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 232541,
+        id: 242402,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
-          "12361",
-          "1559",
+          "10356",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
       }
     }
   },
@@ -8050,10 +8042,10 @@ var pi_values_default = [
     specId: 255,
     targets: 3,
     talents: "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMzwYmZmxYMmZMLAAAAAAANjZMjZmhZYGGDzMMGmllZwGAAAAAMAA",
-    dps_no_pi: 94771668e-1,
-    dps_with_pi: 9769589,
-    dps_delta: 292422.2,
-    dps_pct_gain: 3.09,
+    dps_no_pi: 940691461e-2,
+    dps_with_pi: 970231981e-2,
+    dps_delta: 295405.2,
+    dps_pct_gain: 3.14,
     pi_dep_spell_ids: {
       "360952": 360952
     },
@@ -8075,23 +8067,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidhunterethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 185842,
         bonus_ids: [
-          "10019",
+          "10022",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
           "12355",
-          "6652"
+          "40"
         ],
         gem_ids: [
           "213491",
-          "213743"
+          "213491"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237644,
@@ -8282,20 +8274,6 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
-        id: 232541,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
-      },
-      trinket2: {
         id: 246344,
         bonus_ids: [
           "10255",
@@ -8308,6 +8286,20 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_qirajidol_onyx.jpg"
+      },
+      trinket2: {
+        id: 232541,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "12355",
+          "1546",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
       }
     }
   },
@@ -8317,10 +8309,10 @@ var pi_values_default = [
     specId: 255,
     targets: 8,
     talents: "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMzwYmZmxYMmZMLAAAAAAANjZMjZmhZYGGDzMMGmllZwGAAAAAMAA",
-    dps_no_pi: 2152571339e-2,
-    dps_with_pi: 2222173516e-2,
-    dps_delta: 696021.78,
-    dps_pct_gain: 3.23,
+    dps_no_pi: 2115397315e-2,
+    dps_with_pi: 2191696119e-2,
+    dps_delta: 762988.04,
+    dps_pct_gain: 3.61,
     pi_dep_spell_ids: {
       "360952": 360952
     },
@@ -8342,23 +8334,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidhunterethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 185842,
         bonus_ids: [
-          "10019",
+          "10022",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
           "12355",
-          "6652"
+          "40"
         ],
         gem_ids: [
           "213491",
-          "213743"
+          "213491"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237644,
@@ -8549,20 +8541,6 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
-        id: 232541,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
-      },
-      trinket2: {
         id: 246344,
         bonus_ids: [
           "10255",
@@ -8575,6 +8553,20 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_qirajidol_onyx.jpg"
+      },
+      trinket2: {
+        id: 232541,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "12355",
+          "1546",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
       }
     }
   },
@@ -8584,10 +8576,10 @@ var pi_values_default = [
     specId: 255,
     targets: 15,
     talents: "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMzwYmZmxYMmZMLAAAAAAANjZMjZmhZYGGDzMMGmllZwGAAAAAMAA",
-    dps_no_pi: 2871089593e-2,
-    dps_with_pi: 2963281968e-2,
-    dps_delta: 921923.76,
-    dps_pct_gain: 3.21,
+    dps_no_pi: 2826159749e-2,
+    dps_with_pi: 2927560969e-2,
+    dps_delta: 101401219e-2,
+    dps_pct_gain: 3.59,
     pi_dep_spell_ids: {
       "360952": 360952
     },
@@ -8609,23 +8601,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidhunterethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 185842,
         bonus_ids: [
-          "10019",
+          "10022",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
           "12355",
-          "6652"
+          "40"
         ],
         gem_ids: [
           "213491",
-          "213743"
+          "213491"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237644,
@@ -8816,20 +8808,6 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
-        id: 232541,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
-      },
-      trinket2: {
         id: 246344,
         bonus_ids: [
           "10255",
@@ -8842,6 +8820,20 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_qirajidol_onyx.jpg"
+      },
+      trinket2: {
+        id: 232541,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "12355",
+          "1546",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
       }
     }
   },
@@ -8851,10 +8843,10 @@ var pi_values_default = [
     specId: 255,
     targets: 5,
     talents: "C8PAAAAAAAAAAAAAAAAAAAAAAMGYglxoxyAY2C2mZsMzMzMzwYmZmxYMmZMLAAAAAAANjZMjZmhZYGGDzMMGmllZwGAAAAAMAA",
-    dps_no_pi: 1520355589e-2,
-    dps_with_pi: 1571275185e-2,
-    dps_delta: 509195.96,
-    dps_pct_gain: 3.35,
+    dps_no_pi: 1496753924e-2,
+    dps_with_pi: 1549796735e-2,
+    dps_delta: 530428.11,
+    dps_pct_gain: 3.54,
     pi_dep_spell_ids: {
       "360952": 360952
     },
@@ -8876,23 +8868,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidhunterethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 185842,
         bonus_ids: [
-          "10019",
+          "10022",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
           "12355",
-          "6652"
+          "40"
         ],
         gem_ids: [
           "213491",
-          "213743"
+          "213491"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237644,
@@ -9083,20 +9075,6 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
-        id: 232541,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
-      },
-      trinket2: {
         id: 246344,
         bonus_ids: [
           "10255",
@@ -9109,6 +9087,20 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_qirajidol_onyx.jpg"
+      },
+      trinket2: {
+        id: 232541,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "12355",
+          "1546",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
       }
     }
   },
@@ -9117,11 +9109,11 @@ var pi_values_default = [
     spec: "Assassination",
     specId: 259,
     targets: 1,
-    talents: "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxMYAAAAAAYWglZAAAAAAottZmxMzMGzMzysNzMjZwwMzMmZz2YGADsAzY0Y2AZbAbA",
-    dps_no_pi: 546828052e-2,
-    dps_with_pi: 559675411e-2,
-    dps_delta: 128473.58,
-    dps_pct_gain: 2.35,
+    talents: "CMQAAAAAAAAAAAAAAAAAAAAAAMjZmhxMYAAAAAAYWGsMDAAAAAAttNzMmZmBzMzysNzMjZwwMzMmZzyYGADsAzY0Y2AZbAbA",
+    dps_no_pi: 572598396e-2,
+    dps_with_pi: 58598531e-1,
+    dps_delta: 133869.15,
+    dps_pct_gain: 2.34,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -9130,10 +9122,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -9141,24 +9133,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_leather_raidrogueethereal_d_01.jpg"
       },
       neck: {
-        id: 215136,
+        id: 185842,
         bonus_ids: [
+          "10035",
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "6652"
         ],
         gem_ids: [
           "213458",
-          "213473"
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237552,
@@ -9180,9 +9171,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -9227,11 +9218,11 @@ var pi_values_default = [
         id: 243306,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -9291,6 +9282,21 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
+        id: 237729,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7439"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
+      },
+      off_hand: {
         id: 222438,
         bonus_ids: [
           "10421",
@@ -9309,21 +9315,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_knife_1h_arathoroutdoor_d_01.jpg"
       },
-      off_hand: {
-        id: 237729,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
-      },
       finger1: {
         id: 237567,
         bonus_ids: [
@@ -9336,60 +9327,59 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213458",
-          "213458"
+          "213473",
+          "213473"
         ],
         enchant_ids: [
-          "7334"
+          "7352"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213458",
-          "213458"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      trinket1: {
-        id: 242395,
+        id: 237570,
         bonus_ids: [
           "10255",
           "10356",
+          "10396",
+          "10879",
           "12361",
           "1533",
           "6652"
         ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+        gem_ids: [
+          "213491",
+          "213491"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
-      trinket2: {
+      trinket1: {
         id: 242396,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
+      },
+      trinket2: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       }
     }
   },
@@ -9399,10 +9389,10 @@ var pi_values_default = [
     specId: 259,
     targets: 5,
     talents: "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysNYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
-    dps_no_pi: 1742923253e-2,
-    dps_with_pi: 1816829248e-2,
-    dps_delta: 739059.95,
-    dps_pct_gain: 4.24,
+    dps_no_pi: 1747938451e-2,
+    dps_with_pi: 1820829123e-2,
+    dps_delta: 728906.72,
+    dps_pct_gain: 4.17,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -9429,12 +9419,12 @@ var pi_values_default = [
           "10390",
           "10396",
           "10879",
-          "12355",
-          "1559",
+          "12353",
+          "1553",
           "6652"
         ],
         gem_ids: [
-          "213458",
+          "213491",
           "213743"
         ],
         enchant_ids: [],
@@ -9628,25 +9618,25 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 221200,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
-          "6652"
+          "12354",
+          "3199",
+          "40"
         ],
         gem_ids: [
           "213458",
-          "213458"
+          "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_11_0_arathor_ring_01_color2.jpg"
       },
       trinket1: {
         id: 242395,
@@ -9682,10 +9672,10 @@ var pi_values_default = [
     specId: 259,
     targets: 15,
     talents: "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysNYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
-    dps_no_pi: 3191278169e-2,
-    dps_with_pi: 3326401163e-2,
-    dps_delta: 135122995e-2,
-    dps_pct_gain: 4.23,
+    dps_no_pi: 3200689207e-2,
+    dps_with_pi: 3335370289e-2,
+    dps_delta: 134681082e-2,
+    dps_pct_gain: 4.21,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -9712,12 +9702,12 @@ var pi_values_default = [
           "10390",
           "10396",
           "10879",
-          "12355",
-          "1559",
+          "12353",
+          "1553",
           "6652"
         ],
         gem_ids: [
-          "213458",
+          "213491",
           "213743"
         ],
         enchant_ids: [],
@@ -9911,25 +9901,25 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 221200,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
-          "6652"
+          "12354",
+          "3199",
+          "40"
         ],
         gem_ids: [
           "213458",
-          "213458"
+          "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_11_0_arathor_ring_01_color2.jpg"
       },
       trinket1: {
         id: 242395,
@@ -9965,10 +9955,10 @@ var pi_values_default = [
     specId: 259,
     targets: 3,
     talents: "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysNYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
-    dps_no_pi: 1072158599e-2,
-    dps_with_pi: 1115881532e-2,
-    dps_delta: 437229.33,
-    dps_pct_gain: 4.08,
+    dps_no_pi: 1069237135e-2,
+    dps_with_pi: 111353748e-1,
+    dps_delta: 443003.45,
+    dps_pct_gain: 4.14,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -9995,12 +9985,12 @@ var pi_values_default = [
           "10390",
           "10396",
           "10879",
-          "12355",
-          "1559",
+          "12353",
+          "1553",
           "6652"
         ],
         gem_ids: [
-          "213458",
+          "213491",
           "213743"
         ],
         enchant_ids: [],
@@ -10194,25 +10184,25 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 221200,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
-          "6652"
+          "12354",
+          "3199",
+          "40"
         ],
         gem_ids: [
           "213458",
-          "213458"
+          "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_11_0_arathor_ring_01_color2.jpg"
       },
       trinket1: {
         id: 242395,
@@ -10248,10 +10238,10 @@ var pi_values_default = [
     specId: 259,
     targets: 8,
     talents: "CMQAAAAAAAAAAAAAAAAAAAAAAYmZMzMmBAAAAAAYWmxsMDAAAAAAttMzMYmBzMzysNYMmZmZmZmZYzyYGgNzyADYJYbYCMsMA",
-    dps_no_pi: 2467991069e-2,
-    dps_with_pi: 2575967747e-2,
-    dps_delta: 107976678e-2,
-    dps_pct_gain: 4.38,
+    dps_no_pi: 2476127442e-2,
+    dps_with_pi: 258231325e-1,
+    dps_delta: 106185808e-2,
+    dps_pct_gain: 4.29,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -10278,12 +10268,12 @@ var pi_values_default = [
           "10390",
           "10396",
           "10879",
-          "12355",
-          "1559",
+          "12353",
+          "1553",
           "6652"
         ],
         gem_ids: [
-          "213458",
+          "213491",
           "213743"
         ],
         enchant_ids: [],
@@ -10477,25 +10467,25 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 221200,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
-          "6652"
+          "12354",
+          "3199",
+          "40"
         ],
         gem_ids: [
           "213458",
-          "213458"
+          "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_11_0_arathor_ring_01_color2.jpg"
       },
       trinket1: {
         id: 242395,
@@ -10531,10 +10521,10 @@ var pi_values_default = [
     specId: 261,
     targets: 1,
     talents: "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzsMGzYMMMzMzwY2mlZM22mZmZmZGwYZ2GAAAAmBDgxsZYgBmFtQL2gB",
-    dps_no_pi: 511449642e-2,
-    dps_with_pi: 518558406e-2,
-    dps_delta: 71087.63,
-    dps_pct_gain: 1.39,
+    dps_no_pi: 541851268e-2,
+    dps_with_pi: 549333517e-2,
+    dps_delta: 74822.49,
+    dps_pct_gain: 1.38,
     pi_dep_spell_ids: {
       "185313": 185313
     },
@@ -10571,7 +10561,7 @@ var pi_values_default = [
           "9633"
         ],
         gem_ids: [
-          "213467",
+          "213497",
           "213743"
         ],
         enchant_ids: [],
@@ -10597,9 +10587,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -10609,16 +10599,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_leather_raidrogueethereal_d_01.jpg"
       },
       waist: {
-        id: 245964,
+        id: 237533,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213743"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_belt_leather_raidmonkethereal_d_01.jpg"
       },
       legs: {
         id: 237663,
@@ -10658,11 +10651,11 @@ var pi_values_default = [
         id: 219334,
         bonus_ids: [
           "10421",
-          "11109",
+          "10520",
           "12050",
           "12053",
           "12921",
-          "8791",
+          "8794",
           "8902",
           "8960",
           "9627",
@@ -10709,23 +10702,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
-      },
-      off_hand: {
-        id: 237729,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -10734,7 +10712,42 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
       },
+      off_hand: {
+        id: 237729,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
+      },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213473"
+        ],
+        enchant_ids: [
+          "7352"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 215135,
         bonus_ids: [
           "10396",
@@ -10756,33 +10769,13 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213473",
-          "213473"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
-      },
       trinket1: {
         id: 242396,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -10794,8 +10787,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -10810,10 +10803,10 @@ var pi_values_default = [
     specId: 261,
     targets: 8,
     talents: "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMmZGjZ8AzMjhxsNLGjtlZmBzMGjZWmtBAAAgZwAYMbGGYgZRL0iNYA",
-    dps_no_pi: 2237174007e-2,
-    dps_with_pi: 2271603653e-2,
-    dps_delta: 344296.46,
-    dps_pct_gain: 1.54,
+    dps_no_pi: 2238057592e-2,
+    dps_with_pi: 2271936855e-2,
+    dps_delta: 338792.63,
+    dps_pct_gain: 1.51,
     pi_dep_spell_ids: {
       "185313": 185313
     },
@@ -10822,7 +10815,7 @@ var pi_values_default = [
         id: 237664,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -11015,6 +11008,26 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
       },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213461",
+          "213473"
+        ],
+        enchant_ids: [
+          "7352"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 221141,
         bonus_ids: [
           "10255",
@@ -11034,26 +11047,6 @@ var pi_values_default = [
           "7352"
         ],
         icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213461",
-          "213473"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242396,
@@ -11089,10 +11082,10 @@ var pi_values_default = [
     specId: 261,
     targets: 3,
     talents: "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMmZGjZ8AzMjhxsNLGjtlZmBzMGjZWmtBAAAgZwAYMbGGYgZRL0iNYA",
-    dps_no_pi: 975598101e-2,
-    dps_with_pi: 993194038e-2,
-    dps_delta: 175959.37,
-    dps_pct_gain: 1.8,
+    dps_no_pi: 975223314e-2,
+    dps_with_pi: 993137322e-2,
+    dps_delta: 179140.07,
+    dps_pct_gain: 1.84,
     pi_dep_spell_ids: {
       "185313": 185313
     },
@@ -11101,7 +11094,7 @@ var pi_values_default = [
         id: 237664,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -11294,6 +11287,26 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
       },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213461",
+          "213473"
+        ],
+        enchant_ids: [
+          "7352"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 221141,
         bonus_ids: [
           "10255",
@@ -11313,26 +11326,6 @@ var pi_values_default = [
           "7352"
         ],
         icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213461",
-          "213473"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242396,
@@ -11368,10 +11361,10 @@ var pi_values_default = [
     specId: 261,
     targets: 5,
     talents: "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMmZGjZ8AzMjhxsNLGjtlZmBzMGjZWmtBAAAgZwAYMbGGYgZRL0iNYA",
-    dps_no_pi: 1509501069e-2,
-    dps_with_pi: 1537028579e-2,
-    dps_delta: 275275.1,
-    dps_pct_gain: 1.82,
+    dps_no_pi: 1509352611e-2,
+    dps_with_pi: 1537468239e-2,
+    dps_delta: 281156.28,
+    dps_pct_gain: 1.86,
     pi_dep_spell_ids: {
       "185313": 185313
     },
@@ -11380,7 +11373,7 @@ var pi_values_default = [
         id: 237664,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -11573,6 +11566,26 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
       },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213461",
+          "213473"
+        ],
+        enchant_ids: [
+          "7352"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 221141,
         bonus_ids: [
           "10255",
@@ -11592,26 +11605,6 @@ var pi_values_default = [
           "7352"
         ],
         icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213461",
-          "213473"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242396,
@@ -11647,9 +11640,9 @@ var pi_values_default = [
     specId: 261,
     targets: 15,
     talents: "CUQAAAAAAAAAAAAAAAAAAAAAAAAM2mBAAAAAgZZMWmGzYMmZGjZ8AzMjhxsNLGjtlZmBzMGjZWmtBAAAgZwAYMbGGYgZRL0iNYA",
-    dps_no_pi: 2520468493e-2,
-    dps_with_pi: 2576825993e-2,
-    dps_delta: 563575,
+    dps_no_pi: 2520318037e-2,
+    dps_with_pi: 257666478e-1,
+    dps_delta: 563467.43,
     dps_pct_gain: 2.24,
     pi_dep_spell_ids: {
       "185313": 185313
@@ -11659,7 +11652,7 @@ var pi_values_default = [
         id: 237664,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -11852,6 +11845,26 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
       },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213461",
+          "213473"
+        ],
+        enchant_ids: [
+          "7352"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 221141,
         bonus_ids: [
           "10255",
@@ -11871,26 +11884,6 @@ var pi_values_default = [
           "7352"
         ],
         icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213461",
-          "213473"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242396,
@@ -11926,9 +11919,9 @@ var pi_values_default = [
     specId: 260,
     targets: 15,
     talents: "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzYWglZbAAAAYmZAwY2MMkBmFWoF2MA",
-    dps_no_pi: 1935283066e-2,
-    dps_with_pi: 1934964047e-2,
-    dps_delta: -3190.19,
+    dps_no_pi: 1935207922e-2,
+    dps_with_pi: 1934767744e-2,
+    dps_delta: -4401.78,
     dps_pct_gain: -0.02,
     pi_dep_spell_ids: {
       "13750": 13750
@@ -12184,19 +12177,6 @@ var pi_values_default = [
         icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
-        id: 242397,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12355",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
-      },
-      trinket2: {
         id: 242395,
         bonus_ids: [
           "10255",
@@ -12208,6 +12188,19 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 242397,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12355",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
       }
     }
   },
@@ -12217,10 +12210,10 @@ var pi_values_default = [
     specId: 260,
     targets: 1,
     talents: "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZmZmZmZYGGMjhZmZmWmxsNDAAAAAAsNzMDzMjFYZ2GAAAAmZGwAbwMGNmNAbTYxMA",
-    dps_no_pi: 167580725e-2,
-    dps_with_pi: 167709279e-2,
-    dps_delta: 1285.54,
-    dps_pct_gain: 0.08,
+    dps_no_pi: 412092432e-2,
+    dps_with_pi: 412104147e-2,
+    dps_delta: 117.14,
+    dps_pct_gain: 0,
     pi_dep_spell_ids: {
       "13750": 13750
     },
@@ -12248,8 +12241,8 @@ var pi_values_default = [
           "10356",
           "10396",
           "10879",
-          "12357",
-          "1520",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
@@ -12292,16 +12285,20 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_leather_raidrogueethereal_d_01.jpg"
       },
       waist: {
-        id: 245964,
+        id: 219331,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10421",
+          "12050",
+          "12053",
+          "12921",
+          "8795",
+          "8902",
+          "9627",
+          "9633"
         ],
-        gem_ids: [
-          "213467"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
       },
       legs: {
         id: 237663,
@@ -12326,9 +12323,9 @@ var pi_values_default = [
           "10255",
           "10355",
           "12239",
-          "12353",
+          "12355",
           "13503",
-          "1514",
+          "1520",
           "6652"
         ],
         gem_ids: [],
@@ -12355,19 +12352,19 @@ var pi_values_default = [
         icon: "data/icons/inv_bracer_leather_raiddruidethereal_d_01.jpg"
       },
       hands: {
-        id: 178832,
+        id: 237665,
         bonus_ids: [
-          "10019",
           "10255",
-          "10383",
-          "10390",
-          "12239",
-          "12355",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_glove_leather_oribosdungeon_c_01.jpg"
+        icon: "data/icons/inv_glove_leather_raidrogueethereal_d_01.jpg"
       },
       back: {
         id: 235499,
@@ -12385,61 +12382,36 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 237729,
+        id: 237738,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [
           "7463"
         ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_01.jpg"
+        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
       },
       off_hand: {
-        id: 222440,
+        id: 237738,
         bonus_ids: [
-          "10421",
-          "10520",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [
-          "7463"
+          "7448"
         ],
-        icon: "data/icons/inv_sword_1h_arathor_c_01.jpg"
+        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 185813,
-        bonus_ids: [
-          "10016",
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213467",
-          "213467"
-        ],
-        enchant_ids: [
-          "7476"
-        ],
-        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
-      },
-      finger2: {
         id: 215135,
         bonus_ids: [
           "10396",
@@ -12459,9 +12431,30 @@ var pi_values_default = [
           "213467"
         ],
         enchant_ids: [
-          "7352"
+          "7476"
         ],
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+      },
+      finger2: {
+        id: 185813,
+        bonus_ids: [
+          "10016",
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "6652"
+        ],
+        gem_ids: [
+          "213467",
+          "213467"
+        ],
+        enchant_ids: [
+          "7476"
+        ],
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
         id: 242395,
@@ -12497,10 +12490,10 @@ var pi_values_default = [
     specId: 260,
     targets: 3,
     talents: "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzYWglZbAAAAYmZAwY2MMkBmFWoF2MA",
-    dps_no_pi: 1014577247e-2,
-    dps_with_pi: 1014447033e-2,
-    dps_delta: -1302.15,
-    dps_pct_gain: -0.01,
+    dps_no_pi: 1014344712e-2,
+    dps_with_pi: 1014406436e-2,
+    dps_delta: 617.24,
+    dps_pct_gain: 0.01,
     pi_dep_spell_ids: {
       "13750": 13750
     },
@@ -12755,19 +12748,6 @@ var pi_values_default = [
         icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
-        id: 242397,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12355",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
-      },
-      trinket2: {
         id: 242395,
         bonus_ids: [
           "10255",
@@ -12779,6 +12759,19 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 242397,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12355",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
       }
     }
   },
@@ -12788,10 +12781,10 @@ var pi_values_default = [
     specId: 260,
     targets: 8,
     talents: "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzYWglZbAAAAYmZAwY2MMkBmFWoF2MA",
-    dps_no_pi: 1940300893e-2,
-    dps_with_pi: 194103593e-1,
-    dps_delta: 7350.37,
-    dps_pct_gain: 0.04,
+    dps_no_pi: 194069366e-1,
+    dps_with_pi: 1940928577e-2,
+    dps_delta: 2349.17,
+    dps_pct_gain: 0.01,
     pi_dep_spell_ids: {
       "13750": 13750
     },
@@ -13046,19 +13039,6 @@ var pi_values_default = [
         icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
-        id: 242397,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12355",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
-      },
-      trinket2: {
         id: 242395,
         bonus_ids: [
           "10255",
@@ -13070,6 +13050,19 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 242397,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12355",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
       }
     }
   },
@@ -13079,10 +13072,10 @@ var pi_values_default = [
     specId: 260,
     targets: 5,
     talents: "CQQAAAAAAAAAAAAAAAAAAAAAAAAM2mBjZGzMzMDzwDMmZmhZmZmWmxsNDAAAAAA2WmZGMzYWglZbAAAAYmZAwY2MMkBmFWoF2MA",
-    dps_no_pi: 1532149798e-2,
-    dps_with_pi: 1532472742e-2,
-    dps_delta: 3229.44,
-    dps_pct_gain: 0.02,
+    dps_no_pi: 1532588494e-2,
+    dps_with_pi: 1532991157e-2,
+    dps_delta: 4026.63,
+    dps_pct_gain: 0.03,
     pi_dep_spell_ids: {
       "13750": 13750
     },
@@ -13337,19 +13330,6 @@ var pi_values_default = [
         icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
-        id: 242397,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12355",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
-      },
-      trinket2: {
         id: 242395,
         bonus_ids: [
           "10255",
@@ -13361,6 +13341,19 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 242397,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12355",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
       }
     }
   },
@@ -13370,10 +13363,10 @@ var pi_values_default = [
     specId: 62,
     targets: 1,
     talents: "C4DAAAAAAAAAAAAAAAAAAAAAAYMMbzgZ8AjZxwYmhx0MjZAAAAAAYAAzMTLz2yMAQsBAAAAAAAwgZWmlZmZGjZMzMzMjZYZM",
-    dps_no_pi: 547603217e-2,
-    dps_with_pi: 563404783e-2,
-    dps_delta: 158015.66,
-    dps_pct_gain: 2.89,
+    dps_no_pi: 593480891e-2,
+    dps_with_pi: 610084647e-2,
+    dps_delta: 166037.56,
+    dps_pct_gain: 2.8,
     pi_dep_spell_ids: {
       "365362": 365362
     },
@@ -13384,10 +13377,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -13433,9 +13426,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -13445,16 +13438,19 @@ var pi_values_default = [
         icon: "data/icons/inv_robe_cloth_raidmageethereal_d_01.jpg"
       },
       waist: {
-        id: 242664,
+        id: 237538,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213743"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_belt_cloth_raidwarlockethereal_d_01.jpg"
       },
       legs: {
         id: 237717,
@@ -13462,9 +13458,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12232",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -13477,11 +13473,11 @@ var pi_values_default = [
         id: 243305,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -13494,7 +13490,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11304",
           "12050",
           "12053",
           "12921",
@@ -13540,21 +13536,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -13562,6 +13543,7 @@ var pi_values_default = [
           "11300",
           "12050",
           "12053",
+          "13468",
           "8792",
           "8902",
           "8960",
@@ -13572,54 +13554,69 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
-      finger1: {
-        id: 221141,
+      main_hand: {
+        id: 237728,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
+      },
+      finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
           "10396",
           "10879",
-          "12353",
-          "3196",
+          "12358",
+          "1524",
+          "42"
+        ],
+        gem_ids: [
+          "213485",
+          "213485"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
+        id: 246281,
+        bonus_ids: [
+          "10035",
+          "10255",
+          "10383",
+          "10389",
+          "10396",
+          "10879",
+          "12361",
           "6652"
         ],
         gem_ids: [
-          "213485",
-          "213485"
+          "213497",
+          "213743"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
-        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
-      },
-      finger2: {
-        id: 171545,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10396",
-          "10879",
-          "11390",
-          "12355",
-          "7756"
-        ],
-        gem_ids: [
-          "213485",
-          "213485"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_jewelry_ring_57.jpg"
+        icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       trinket1: {
         id: 242395,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -13631,8 +13628,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -13647,10 +13644,10 @@ var pi_values_default = [
     specId: 62,
     targets: 8,
     talents: "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzgZYmZBGzMMmmZWmBAAAAAgBAMzMtMbLzAAxGAAAAAAbAYMYmlZZGzMGzwMzMzYGzyYA",
-    dps_no_pi: 1898080842e-2,
-    dps_with_pi: 1945919072e-2,
-    dps_delta: 478382.3,
-    dps_pct_gain: 2.52,
+    dps_no_pi: 1885026129e-2,
+    dps_with_pi: 1936804741e-2,
+    dps_delta: 517786.12,
+    dps_pct_gain: 2.75,
     pi_dep_spell_ids: {
       "365362": 365362
     },
@@ -13760,11 +13757,11 @@ var pi_values_default = [
         id: 243305,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -13823,21 +13820,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -13855,26 +13837,41 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
+      },
       finger1: {
-        id: 246281,
+        id: 185813,
         bonus_ids: [
           "10035",
           "10255",
           "10383",
-          "10390",
+          "10389",
           "10396",
           "10879",
           "12361",
           "6652"
         ],
         gem_ids: [
-          "213467",
-          "213491"
+          "213485",
+          "213485"
         ],
         enchant_ids: [
-          "7334"
+          "7340"
         ],
-        icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       finger2: {
         id: 238036,
@@ -13932,10 +13929,10 @@ var pi_values_default = [
     specId: 62,
     targets: 5,
     talents: "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzgZYmZBGzMMmmZWmBAAAAAgBAMzMtMbLzAAxGAAAAAAbAYMYmlZZGzMGzwMzMzYGzyYA",
-    dps_no_pi: 1723417902e-2,
-    dps_with_pi: 1767837481e-2,
-    dps_delta: 444195.78,
-    dps_pct_gain: 2.58,
+    dps_no_pi: 1709839124e-2,
+    dps_with_pi: 1758365561e-2,
+    dps_delta: 485264.38,
+    dps_pct_gain: 2.84,
     pi_dep_spell_ids: {
       "365362": 365362
     },
@@ -14045,11 +14042,11 @@ var pi_values_default = [
         id: 243305,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -14108,21 +14105,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -14140,26 +14122,41 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
+      },
       finger1: {
-        id: 246281,
+        id: 185813,
         bonus_ids: [
           "10035",
           "10255",
           "10383",
-          "10390",
+          "10389",
           "10396",
           "10879",
           "12361",
           "6652"
         ],
         gem_ids: [
-          "213467",
-          "213491"
+          "213485",
+          "213485"
         ],
         enchant_ids: [
-          "7334"
+          "7340"
         ],
-        icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       finger2: {
         id: 238036,
@@ -14217,10 +14214,10 @@ var pi_values_default = [
     specId: 62,
     targets: 15,
     talents: "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzgZYmZBGzMMmmZWmBAAAAAgBAMzMtMbLzAAxGAAAAAAbAYMYmlZZGzMGzwMzMzYGzyYA",
-    dps_no_pi: 2111335599e-2,
-    dps_with_pi: 2164422753e-2,
-    dps_delta: 530871.53,
-    dps_pct_gain: 2.51,
+    dps_no_pi: 2098395323e-2,
+    dps_with_pi: 2154613701e-2,
+    dps_delta: 562183.78,
+    dps_pct_gain: 2.68,
     pi_dep_spell_ids: {
       "365362": 365362
     },
@@ -14330,11 +14327,11 @@ var pi_values_default = [
         id: 243305,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -14393,21 +14390,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -14425,26 +14407,41 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
+      },
       finger1: {
-        id: 246281,
+        id: 185813,
         bonus_ids: [
           "10035",
           "10255",
           "10383",
-          "10390",
+          "10389",
           "10396",
           "10879",
           "12361",
           "6652"
         ],
         gem_ids: [
-          "213467",
-          "213491"
+          "213485",
+          "213485"
         ],
         enchant_ids: [
-          "7334"
+          "7340"
         ],
-        icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       finger2: {
         id: 238036,
@@ -14502,10 +14499,10 @@ var pi_values_default = [
     specId: 62,
     targets: 3,
     talents: "C4DAAAAAAAAAAAAAAAAAAAAAAYGMbzgZYmZBGzMMmmZWmBAAAAAgBAMzMtMbLzAAxGAAAAAAbAYMYmlZZGzMGzwMzMzYGzyYA",
-    dps_no_pi: 1085325334e-2,
-    dps_with_pi: 1110322237e-2,
-    dps_delta: 249969.03,
-    dps_pct_gain: 2.3,
+    dps_no_pi: 1085134185e-2,
+    dps_with_pi: 1111032459e-2,
+    dps_delta: 258982.74,
+    dps_pct_gain: 2.39,
     pi_dep_spell_ids: {
       "365362": 365362
     },
@@ -14615,11 +14612,11 @@ var pi_values_default = [
         id: 243305,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -14678,21 +14675,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -14710,26 +14692,41 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
+      },
       finger1: {
-        id: 246281,
+        id: 185813,
         bonus_ids: [
           "10035",
           "10255",
           "10383",
-          "10390",
+          "10389",
           "10396",
           "10879",
           "12361",
           "6652"
         ],
         gem_ids: [
-          "213467",
-          "213491"
+          "213485",
+          "213485"
         ],
         enchant_ids: [
-          "7334"
+          "7340"
         ],
-        icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       finger2: {
         id: 238036,
@@ -14786,11 +14783,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 64,
     targets: 8,
-    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMjZmFPAMzMNGjxMzMMMDegZmZmZmZmZmxMzMmZWmpZmtZBAAAtAAAAAAgZBAAAAAAAA",
-    dps_no_pi: 2073809167e-2,
-    dps_with_pi: 2123500918e-2,
-    dps_delta: 496917.51,
-    dps_pct_gain: 2.4,
+    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhZmFPAMzoxYmZZmZGGmBPwMzMzMzMzMzYmZGzMLz0MzysAAAgWAAAAAAwsBAAAAAAAA",
+    dps_no_pi: 2089445938e-2,
+    dps_with_pi: 2139830423e-2,
+    dps_delta: 503844.85,
+    dps_pct_gain: 2.41,
     pi_dep_spell_ids: {
       "12472": 12472
     },
@@ -14903,9 +14900,9 @@ var pi_values_default = [
           "10255",
           "10355",
           "12239",
-          "12353",
+          "12355",
           "13503",
-          "1514",
+          "1520",
           "6652"
         ],
         gem_ids: [],
@@ -15073,11 +15070,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 64,
     targets: 5,
-    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMjZmFPAMzMNGjxMzMMMDegZmZmZmZmZmxMzMmZWmpZmtZBAAAtAAAAAAgZBAAAAAAAA",
-    dps_no_pi: 1474132653e-2,
-    dps_with_pi: 1506758949e-2,
-    dps_delta: 326262.97,
-    dps_pct_gain: 2.21,
+    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhZmFPAMzoxYmZZmZGGmBPwMzMzMzMzMzYmZGzMLz0MzysAAAgWAAAAAAwsBAAAAAAAA",
+    dps_no_pi: 1481921766e-2,
+    dps_with_pi: 1514914388e-2,
+    dps_delta: 329926.22,
+    dps_pct_gain: 2.23,
     pi_dep_spell_ids: {
       "12472": 12472
     },
@@ -15190,9 +15187,9 @@ var pi_values_default = [
           "10255",
           "10355",
           "12239",
-          "12353",
+          "12355",
           "13503",
-          "1514",
+          "1520",
           "6652"
         ],
         gem_ids: [],
@@ -15360,11 +15357,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 64,
     targets: 3,
-    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMjZmFPAMzMNGjxMzMMMDegZmZmZmZmZmxMzMmZWmpZmtZBAAAtAAAAAAgZBAAAAAAAA",
-    dps_no_pi: 1082346552e-2,
-    dps_with_pi: 1105142541e-2,
-    dps_delta: 227959.89,
-    dps_pct_gain: 2.11,
+    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhZmFPAMzoxYmZZmZGGmBPwMzMzMzMzMzYmZGzMLz0MzysAAAgWAAAAAAwsBAAAAAAAA",
+    dps_no_pi: 1086607784e-2,
+    dps_with_pi: 1110879429e-2,
+    dps_delta: 242716.45,
+    dps_pct_gain: 2.23,
     pi_dep_spell_ids: {
       "12472": 12472
     },
@@ -15477,9 +15474,9 @@ var pi_values_default = [
           "10255",
           "10355",
           "12239",
-          "12353",
+          "12355",
           "13503",
-          "1514",
+          "1520",
           "6652"
         ],
         gem_ids: [],
@@ -15647,11 +15644,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 64,
     targets: 1,
-    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhxsYYmZGNGjxMjhZmZYmZmZmxMzMzMzMDMzyMNzsNLAAAoFAAAAAAMAAAAAAAAA",
-    dps_no_pi: 572983497e-2,
-    dps_with_pi: 583705615e-2,
-    dps_delta: 107221.18,
-    dps_pct_gain: 1.87,
+    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhxsYYmZGNGjxMjhxMDzMzMzMmZmZmZmZwMzyMNzsNLAAAoFAAAAAAMAAAAAAAAA",
+    dps_no_pi: 595040393e-2,
+    dps_with_pi: 607752663e-2,
+    dps_delta: 127122.69,
+    dps_pct_gain: 2.14,
     pi_dep_spell_ids: {
       "12472": 12472
     },
@@ -15662,10 +15659,10 @@ var pi_values_default = [
           "10255",
           "10390",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -15679,13 +15676,13 @@ var pi_values_default = [
           "10356",
           "10396",
           "10879",
-          "12358",
-          "1524",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
           "213461",
-          "213467"
+          "213743"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
@@ -15711,9 +15708,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -15760,9 +15757,9 @@ var pi_values_default = [
           "10255",
           "10355",
           "12239",
-          "12353",
+          "12355",
           "13503",
-          "1514",
+          "1520",
           "6652"
         ],
         gem_ids: [],
@@ -15821,21 +15818,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -15843,6 +15825,7 @@ var pi_values_default = [
           "11300",
           "12050",
           "12053",
+          "13468",
           "8795",
           "8902",
           "8960",
@@ -15852,6 +15835,21 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
+      },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
         id: 221136,
@@ -15877,26 +15875,40 @@ var pi_values_default = [
       finger2: {
         id: 215135,
         bonus_ids: [
-          "10394",
+          "10396",
           "10421",
           "10879",
           "12050",
           "12053",
-          "8792",
+          "13469",
+          "8795",
           "8902",
           "9627",
           "9633"
         ],
         gem_ids: [
-          "213485",
+          "213470",
           "213497"
         ],
         enchant_ids: [
-          "7334"
+          "7352"
         ],
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
+        id: 242392,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_intdps_ancientkareshirelic.jpg"
+      },
+      trinket2: {
         id: 242497,
         bonus_ids: [
           "10255",
@@ -15909,19 +15921,6 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_devourersmallmount_light.jpg"
-      },
-      trinket2: {
-        id: 242392,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_intdps_ancientkareshirelic.jpg"
       }
     }
   },
@@ -15930,11 +15929,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 64,
     targets: 15,
-    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAMzYzsZwMjZmFPAMzMNGjxMzMMMDegZmZmZmZmZmxMzMmZWmpZmtZBAAAtAAAAAAgZBAAAAAAAA",
-    dps_no_pi: 2932284723e-2,
-    dps_with_pi: 2982350252e-2,
-    dps_delta: 500655.29,
-    dps_pct_gain: 1.71,
+    talents: "CAEAAAAAAAAAAAAAAAAAAAAAAYGbmNDmhZmFPAMzoxYmZZmZGGmBPwMzMzMzMzMzYmZGzMLz0MzysAAAgWAAAAAAwsBAAAAAAAA",
+    dps_no_pi: 2961609484e-2,
+    dps_with_pi: 301542106e-1,
+    dps_delta: 538115.76,
+    dps_pct_gain: 1.82,
     pi_dep_spell_ids: {
       "12472": 12472
     },
@@ -16047,9 +16046,9 @@ var pi_values_default = [
           "10255",
           "10355",
           "12239",
-          "12353",
+          "12355",
           "13503",
-          "1514",
+          "1520",
           "6652"
         ],
         gem_ids: [],
@@ -16218,10 +16217,10 @@ var pi_values_default = [
     specId: 63,
     targets: 1,
     talents: "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbzgZMjZxDwYmhpxMjZAAAAAAYgAmZmWmllZAA2MmBjZGzMmFzyYYmhZ2mhZWGGAAAAAAA",
-    dps_no_pi: 540252201e-2,
-    dps_with_pi: 566344539e-2,
-    dps_delta: 260923.38,
-    dps_pct_gain: 4.83,
+    dps_no_pi: 575129755e-2,
+    dps_with_pi: 602364139e-2,
+    dps_delta: 272343.83,
+    dps_pct_gain: 4.74,
     pi_dep_spell_ids: {
       "190319": 190319
     },
@@ -16281,9 +16280,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -16293,16 +16292,22 @@ var pi_values_default = [
         icon: "data/icons/inv_robe_cloth_raidmageethereal_d_01.jpg"
       },
       waist: {
-        id: 242664,
+        id: 222816,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10421",
+          "11304",
+          "12050",
+          "12053",
+          "12921",
+          "8792",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
         ],
-        gem_ids: [
-          "213485"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_cloth_outdoorarathor_d_01_belt.jpg"
       },
       legs: {
         id: 237717,
@@ -16325,11 +16330,11 @@ var pi_values_default = [
         id: 243305,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12353",
-          "13503",
-          "1514",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -16342,7 +16347,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11304",
           "12050",
           "12053",
           "12921",
@@ -16393,13 +16398,13 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [
-          "7448"
+          "7442"
         ],
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
@@ -16410,6 +16415,7 @@ var pi_values_default = [
           "11300",
           "12050",
           "12053",
+          "13468",
           "8792",
           "8902",
           "8960",
@@ -16421,6 +16427,28 @@ var pi_values_default = [
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
       finger1: {
+        id: 215135,
+        bonus_ids: [
+          "10396",
+          "10421",
+          "10879",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213485",
+          "213485"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+      },
+      finger2: {
         id: 242491,
         bonus_ids: [
           "10255",
@@ -16441,43 +16469,7 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
-      finger2: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213485",
-          "213485"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
-      },
       trinket1: {
-        id: 242497,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "12355",
-          "3202",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_devourersmallmount_light.jpg"
-      },
-      trinket2: {
         id: 242392,
         bonus_ids: [
           "10255",
@@ -16489,6 +16481,19 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_intdps_ancientkareshirelic.jpg"
+      },
+      trinket2: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       }
     }
   },
@@ -16498,10 +16503,10 @@ var pi_values_default = [
     specId: 63,
     targets: 5,
     talents: "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMjHYmZxAzMMNmZMzAAAAAAYgAmZmWmllZAA2MzMYMzYmxsYWGDzMbmZbGbzADAAAAAAA",
-    dps_no_pi: 1212474425e-2,
-    dps_with_pi: 1265244873e-2,
-    dps_delta: 527704.48,
-    dps_pct_gain: 4.35,
+    dps_no_pi: 1202443315e-2,
+    dps_with_pi: 1254471802e-2,
+    dps_delta: 520284.87,
+    dps_pct_gain: 4.33,
     pi_dep_spell_ids: {
       "190319": 190319
     },
@@ -16523,23 +16528,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidmageethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 237569,
         bonus_ids: [
-          "10013",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12353",
+          "12358",
+          "1524",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213485",
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
       },
       shoulder: {
         id: 237716,
@@ -16623,7 +16627,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11304",
           "12050",
           "12053",
           "12921",
@@ -16723,26 +16727,25 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 185813,
         bonus_ids: [
+          "10019",
+          "10255",
+          "10383",
+          "10389",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12354",
+          "42"
         ],
         gem_ids: [
-          "213455",
-          "213485"
+          "213470",
+          "213494"
         ],
         enchant_ids: [
           "7340"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
         id: 242497,
@@ -16779,10 +16782,10 @@ var pi_values_default = [
     specId: 63,
     targets: 8,
     talents: "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMjHYmZxAzMMNmZMzAAAAAAYgAmZmWmllZAA2MzMYMzYmxsYWGDzMbmZbGbzADAAAAAAA",
-    dps_no_pi: 1810185487e-2,
-    dps_with_pi: 1891122298e-2,
-    dps_delta: 809368.12,
-    dps_pct_gain: 4.47,
+    dps_no_pi: 1803555683e-2,
+    dps_with_pi: 1884770309e-2,
+    dps_delta: 812146.26,
+    dps_pct_gain: 4.5,
     pi_dep_spell_ids: {
       "190319": 190319
     },
@@ -16804,23 +16807,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidmageethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 237569,
         bonus_ids: [
-          "10013",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12353",
+          "12358",
+          "1524",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213485",
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
       },
       shoulder: {
         id: 237716,
@@ -16904,7 +16906,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11304",
           "12050",
           "12053",
           "12921",
@@ -17004,26 +17006,25 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 185813,
         bonus_ids: [
+          "10019",
+          "10255",
+          "10383",
+          "10389",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12354",
+          "42"
         ],
         gem_ids: [
-          "213455",
-          "213485"
+          "213470",
+          "213494"
         ],
         enchant_ids: [
           "7340"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
         id: 242497,
@@ -17060,10 +17061,10 @@ var pi_values_default = [
     specId: 63,
     targets: 15,
     talents: "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMjHYmZxAzMMNmZMzAAAAAAYgAmZmWmllZAA2MzMYMzYmxsYWGDzMbmZbGbzADAAAAAAA",
-    dps_no_pi: 2442460459e-2,
-    dps_with_pi: 2553607953e-2,
-    dps_delta: 111147495e-2,
-    dps_pct_gain: 4.55,
+    dps_no_pi: 243331039e-1,
+    dps_with_pi: 2544606458e-2,
+    dps_delta: 111296068e-2,
+    dps_pct_gain: 4.57,
     pi_dep_spell_ids: {
       "190319": 190319
     },
@@ -17085,23 +17086,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidmageethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 237569,
         bonus_ids: [
-          "10013",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12353",
+          "12358",
+          "1524",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213485",
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
       },
       shoulder: {
         id: 237716,
@@ -17185,7 +17185,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11304",
           "12050",
           "12053",
           "12921",
@@ -17285,26 +17285,25 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 185813,
         bonus_ids: [
+          "10019",
+          "10255",
+          "10383",
+          "10389",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12354",
+          "42"
         ],
         gem_ids: [
-          "213455",
-          "213485"
+          "213470",
+          "213494"
         ],
         enchant_ids: [
           "7340"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
         id: 242497,
@@ -17341,9 +17340,9 @@ var pi_values_default = [
     specId: 63,
     targets: 3,
     talents: "C8DAAAAAAAAAAAAAAAAAAAAAAYGMbGMjHYmZxAzMMNmZMzAAAAAAYgAmZmWmllZAA2MzMYMzYmxsYWGDzMbmZbGbzADAAAAAAA",
-    dps_no_pi: 947972587e-2,
-    dps_with_pi: 989058986e-2,
-    dps_delta: 410863.99,
+    dps_no_pi: 941525259e-2,
+    dps_with_pi: 982260168e-2,
+    dps_delta: 407349.09,
     dps_pct_gain: 4.33,
     pi_dep_spell_ids: {
       "190319": 190319
@@ -17366,23 +17365,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidmageethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 237569,
         bonus_ids: [
-          "10013",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12353",
+          "12358",
+          "1524",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213485",
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
       },
       shoulder: {
         id: 237716,
@@ -17466,7 +17464,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11304",
           "12050",
           "12053",
           "12921",
@@ -17566,26 +17564,25 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 185813,
         bonus_ids: [
+          "10019",
+          "10255",
+          "10383",
+          "10389",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8792",
-          "8902",
-          "9627",
-          "9633"
+          "12354",
+          "42"
         ],
         gem_ids: [
-          "213455",
-          "213485"
+          "213470",
+          "213494"
         ],
         enchant_ids: [
           "7340"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_jewelcrafting_80_maxlvlring_blue.jpg"
       },
       trinket1: {
         id: 242497,
@@ -17621,11 +17618,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 251,
     targets: 1,
-    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDgZGzMjxYZYmZmZmxMzIGjxwMDwMzMzMzMzAAAAAAAAAAAgxy2ADYBsMMhMWwMzMzMDMM",
-    dps_no_pi: 559709309e-2,
-    dps_with_pi: 579411147e-2,
-    dps_delta: 197018.38,
-    dps_pct_gain: 3.52,
+    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDgZGzYMGLDzMzMzMmZGZGjxwMDwMzMzMzMzAAAAAAAAAAAgxy2ADYBsMMhMWwMzMzMDMM",
+    dps_no_pi: 592332772e-2,
+    dps_with_pi: 612199118e-2,
+    dps_delta: 198663.46,
+    dps_pct_gain: 3.35,
     pi_dep_spell_ids: {
       "51271": 51271,
       "152279": 152279
@@ -17637,10 +17634,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -17648,24 +17645,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_plate_raiddeathknightethereal_d_01.jpg"
       },
       neck: {
-        id: 215136,
+        id: 242406,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "6652"
         ],
         gem_ids: [
-          "213491",
-          "213491"
+          "213473",
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_gold.jpg"
       },
       shoulder: {
         id: 237626,
@@ -17688,9 +17683,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -17723,9 +17718,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12232",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -17767,7 +17762,7 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [
-          "7397"
+          "7385"
         ],
         icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
       },
@@ -17801,23 +17796,19 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 222447,
+        id: 237737,
         bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [
           "3368"
         ],
-        icon: "data/icons/inv_sword_2h_earthendungeon_c_01.jpg"
+        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
       },
       finger1: {
         id: 237567,
@@ -17840,17 +17831,15 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 237570,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "6652"
         ],
         gem_ids: [
           "213491",
@@ -17859,15 +17848,15 @@ var pi_values_default = [
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242396,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -17879,8 +17868,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -17894,11 +17883,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 251,
     targets: 15,
-    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYmZmZmhZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
-    dps_no_pi: 3643571766e-2,
-    dps_with_pi: 3780040122e-2,
-    dps_delta: 136468356e-2,
-    dps_pct_gain: 3.75,
+    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYGzMzMjZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
+    dps_no_pi: 3642782564e-2,
+    dps_with_pi: 3773199952e-2,
+    dps_delta: 130417389e-2,
+    dps_pct_gain: 3.58,
     pi_dep_spell_ids: {
       "51271": 51271,
       "152279": 152279
@@ -17908,7 +17897,7 @@ var pi_values_default = [
         id: 237628,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -18104,28 +18093,6 @@ var pi_values_default = [
         icon: "data/icons/inv_axe_1h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213458",
-          "213458"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
-      },
-      finger2: {
         id: 237567,
         bonus_ids: [
           "10255",
@@ -18137,13 +18104,33 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213491",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213482"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -18178,11 +18165,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 251,
     targets: 3,
-    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYmZmZmhZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
-    dps_no_pi: 1089008338e-2,
-    dps_with_pi: 1130141602e-2,
-    dps_delta: 411332.64,
-    dps_pct_gain: 3.78,
+    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYGzMzMjZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
+    dps_no_pi: 1098086728e-2,
+    dps_with_pi: 1136194833e-2,
+    dps_delta: 381081.05,
+    dps_pct_gain: 3.47,
     pi_dep_spell_ids: {
       "51271": 51271,
       "152279": 152279
@@ -18192,7 +18179,7 @@ var pi_values_default = [
         id: 237628,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -18388,28 +18375,6 @@ var pi_values_default = [
         icon: "data/icons/inv_axe_1h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213458",
-          "213458"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
-      },
-      finger2: {
         id: 237567,
         bonus_ids: [
           "10255",
@@ -18421,13 +18386,33 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213491",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213482"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -18462,11 +18447,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 251,
     targets: 5,
-    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYmZmZmhZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
-    dps_no_pi: 1672973379e-2,
-    dps_with_pi: 1737219565e-2,
-    dps_delta: 642461.87,
-    dps_pct_gain: 3.84,
+    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYGzMzMjZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
+    dps_no_pi: 1682413067e-2,
+    dps_with_pi: 1744012942e-2,
+    dps_delta: 615998.75,
+    dps_pct_gain: 3.66,
     pi_dep_spell_ids: {
       "51271": 51271,
       "152279": 152279
@@ -18476,7 +18461,7 @@ var pi_values_default = [
         id: 237628,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -18672,28 +18657,6 @@ var pi_values_default = [
         icon: "data/icons/inv_axe_1h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213458",
-          "213458"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
-      },
-      finger2: {
         id: 237567,
         bonus_ids: [
           "10255",
@@ -18705,13 +18668,33 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213491",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213482"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -18746,11 +18729,11 @@ var pi_values_default = [
     spec: "Frost",
     specId: 251,
     targets: 8,
-    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYmZmZmhZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
-    dps_no_pi: 2333023466e-2,
-    dps_with_pi: 2420874694e-2,
-    dps_delta: 878512.28,
-    dps_pct_gain: 3.77,
+    talents: "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMzYGjxwYGzMzMjZmRzMGjhZGgZmZmZmZmBAAAAAAAAAAAjltBGwCYZYCZsgZmZMzADD",
+    dps_no_pi: 2340223245e-2,
+    dps_with_pi: 2424614779e-2,
+    dps_delta: 843915.34,
+    dps_pct_gain: 3.61,
     pi_dep_spell_ids: {
       "51271": 51271,
       "152279": 152279
@@ -18760,7 +18743,7 @@ var pi_values_default = [
         id: 237628,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -18956,28 +18939,6 @@ var pi_values_default = [
         icon: "data/icons/inv_axe_1h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213458",
-          "213458"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
-      },
-      finger2: {
         id: 237567,
         bonus_ids: [
           "10255",
@@ -18989,13 +18950,33 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213491",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213482"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -19031,10 +19012,10 @@ var pi_values_default = [
     specId: 252,
     targets: 15,
     talents: "CwPAAAAAAAAAAAAAAAAAAAAAAAwMDzYmxwMzMzMTDzYMzMGAAAAAAAAmZmZDzYmBAsNDzY2mZmxYGgFzihhMwsxQjFMAzAYA",
-    dps_no_pi: 309473241e-1,
-    dps_with_pi: 319362918e-1,
-    dps_delta: 988967.71,
-    dps_pct_gain: 3.2,
+    dps_no_pi: 3095234027e-2,
+    dps_with_pi: 3193812796e-2,
+    dps_delta: 985787.7,
+    dps_pct_gain: 3.18,
     pi_dep_spell_ids: {
       "63560": 63560
     },
@@ -19228,27 +19209,6 @@ var pi_values_default = [
         icon: "data/icons/inv_sword_2h_earthendungeon_c_01.jpg"
       },
       finger1: {
-        id: 242491,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      finger2: {
         id: 178824,
         bonus_ids: [
           "10013",
@@ -19268,6 +19228,27 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213491",
+          "213491"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 246344,
@@ -19304,10 +19285,10 @@ var pi_values_default = [
     specId: 252,
     targets: 8,
     talents: "CwPAAAAAAAAAAAAAAAAAAAAAAAwMDzYmxwMzMzMTDzYMzMGAAAAAAAAmZmZDzYmBAsNDzY2mZmxYGgFzihhMwsxQjFMAzAYA",
-    dps_no_pi: 2351585568e-2,
-    dps_with_pi: 2437996159e-2,
-    dps_delta: 864105.92,
-    dps_pct_gain: 3.67,
+    dps_no_pi: 2352116557e-2,
+    dps_with_pi: 2437894987e-2,
+    dps_delta: 857784.31,
+    dps_pct_gain: 3.65,
     pi_dep_spell_ids: {
       "63560": 63560
     },
@@ -19501,27 +19482,6 @@ var pi_values_default = [
         icon: "data/icons/inv_sword_2h_earthendungeon_c_01.jpg"
       },
       finger1: {
-        id: 242491,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      finger2: {
         id: 178824,
         bonus_ids: [
           "10013",
@@ -19541,6 +19501,27 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213491",
+          "213491"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 246344,
@@ -19577,10 +19558,10 @@ var pi_values_default = [
     specId: 252,
     targets: 5,
     talents: "CwPAAAAAAAAAAAAAAAAAAAAAAAwMDzYmxwMzMzMTDzYMzMGAAAAAAAAmZmZDzYmBAsNDzY2mZmxYGgFzihhMwsxQjFMAzAYA",
-    dps_no_pi: 1499805235e-2,
-    dps_with_pi: 1552882448e-2,
-    dps_delta: 530772.13,
-    dps_pct_gain: 3.54,
+    dps_no_pi: 1499609441e-2,
+    dps_with_pi: 1553078785e-2,
+    dps_delta: 534693.44,
+    dps_pct_gain: 3.57,
     pi_dep_spell_ids: {
       "63560": 63560
     },
@@ -19774,27 +19755,6 @@ var pi_values_default = [
         icon: "data/icons/inv_sword_2h_earthendungeon_c_01.jpg"
       },
       finger1: {
-        id: 242491,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      finger2: {
         id: 178824,
         bonus_ids: [
           "10013",
@@ -19814,6 +19774,27 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213491",
+          "213491"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 246344,
@@ -19850,10 +19831,10 @@ var pi_values_default = [
     specId: 252,
     targets: 1,
     talents: "CwPAAAAAAAAAAAAAAAAAAAAAAAgZGzMjxwMmZmZaYmZmxMGAAAAAAAAmZmZhZGzAAmtZMzY2mZmBzAsYWMMkBmNGasAAzAYA",
-    dps_no_pi: 584446609e-2,
-    dps_with_pi: 614301142e-2,
-    dps_delta: 298545.33,
-    dps_pct_gain: 5.11,
+    dps_no_pi: 6122517,
+    dps_with_pi: 640275487e-2,
+    dps_delta: 280237.88,
+    dps_pct_gain: 4.58,
     pi_dep_spell_ids: {
       "63560": 63560
     },
@@ -19862,7 +19843,7 @@ var pi_values_default = [
         id: 237628,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -19877,18 +19858,18 @@ var pi_values_default = [
       neck: {
         id: 178827,
         bonus_ids: [
-          "10013",
+          "10032",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12361",
           "6652"
         ],
         gem_ids: [
           "213491",
-          "213491"
+          "213743"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
@@ -19993,7 +19974,7 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [
-          "7397"
+          "7385"
         ],
         icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
       },
@@ -20027,25 +20008,42 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 222447,
+        id: 237737,
         bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [
           "3368"
         ],
-        icon: "data/icons/inv_sword_2h_earthendungeon_c_01.jpg"
+        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
       },
       finger1: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213482",
+          "213482"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+      },
+      finger2: {
         id: 237570,
         bonus_ids: [
           "10255",
@@ -20057,42 +20055,21 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213491",
-          "213491"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7346"
+          "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      finger2: {
-        id: 178824,
-        bonus_ids: [
-          "10013",
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
       },
       trinket1: {
         id: 242395,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -20105,8 +20082,8 @@ var pi_values_default = [
           "10255",
           "10383",
           "10390",
-          "12361",
-          "1595",
+          "13446",
+          "1602",
           "6652"
         ],
         gem_ids: [],
@@ -20121,9 +20098,9 @@ var pi_values_default = [
     specId: 252,
     targets: 3,
     talents: "CwPAAAAAAAAAAAAAAAAAAAAAAAwMDzYmxwMzMzMTDzYMzMGAAAAAAAAmZmZDzYmBAsNDzY2mZmxYGgFzihhMwsxQjFMAzAYA",
-    dps_no_pi: 934616407e-2,
-    dps_with_pi: 969864818e-2,
-    dps_delta: 352484.12,
+    dps_no_pi: 934864797e-2,
+    dps_with_pi: 970095994e-2,
+    dps_delta: 352311.97,
     dps_pct_gain: 3.77,
     pi_dep_spell_ids: {
       "63560": 63560
@@ -20318,27 +20295,6 @@ var pi_values_default = [
         icon: "data/icons/inv_sword_2h_earthendungeon_c_01.jpg"
       },
       finger1: {
-        id: 242491,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      finger2: {
         id: 178824,
         bonus_ids: [
           "10013",
@@ -20358,6 +20314,27 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213491",
+          "213491"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 246344,
@@ -20394,10 +20371,10 @@ var pi_values_default = [
     specId: 269,
     targets: 8,
     talents: "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMzM2mZMzMDAAAAAAAAAAALLDjYmhxMMswM2mZmhZjZGsMTAAsMmhZmhtZAAsBANLzSzMzsAYG",
-    dps_no_pi: 1926305091e-2,
-    dps_with_pi: 1975803097e-2,
-    dps_delta: 494980.06,
-    dps_pct_gain: 2.57,
+    dps_no_pi: 1947602337e-2,
+    dps_with_pi: 2037675275e-2,
+    dps_delta: 900729.37,
+    dps_pct_gain: 4.62,
     pi_dep_spell_ids: {
       "388663": 388663
     },
@@ -20491,577 +20468,6 @@ var pi_values_default = [
         id: 237672,
         bonus_ids: [
           "10255",
-          "10390",
-          "12232",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7601"
-        ],
-        icon: "data/icons/inv_pant_leather_raidmonkethereal_d_01.jpg"
-      },
-      feet: {
-        id: 243306,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12239",
-          "12355",
-          "13503",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7424"
-        ],
-        icon: "data/icons/inv_boot_leather_raidmonkethereal_d_01.jpg"
-      },
-      wrist: {
-        id: 219334,
-        bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
-          "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7385"
-        ],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_bracer.jpg"
-      },
-      hands: {
-        id: 237674,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12230",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_glove_leather_raidmonkethereal_d_01.jpg"
-      },
-      back: {
-        id: 235499,
-        bonus_ids: [
-          "12256",
-          "12401",
-          "9893"
-        ],
-        gem_ids: [
-          "238046"
-        ],
-        enchant_ids: [
-          "7403"
-        ],
-        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
-      },
-      main_hand: {
-        id: 221128,
-        bonus_ids: [
-          "10255",
-          "10384",
-          "10390",
-          "12361",
-          "3215",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7463"
-        ],
-        icon: "data/icons/inv_mace_1h_earthendungeon_c_01.jpg"
-      },
-      off_hand: {
-        id: 237738,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "43"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7463"
-        ],
-        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
-      },
-      finger1: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8794",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213494",
-          "213494"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
-      },
-      finger2: {
-        id: 242491,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213494",
-          "213494"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
-        id: 232541,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
-      }
-    }
-  },
-  {
-    class: "Monk",
-    spec: "Windwalker",
-    specId: 269,
-    targets: 15,
-    talents: "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMzM2mZMzMDAAAAAAAAAAALLDjYmhxMMswM2mZmhZjZGsMTAAsMmhZmhtZAAsBANLzSzMzsAYG",
-    dps_no_pi: 2656696842e-2,
-    dps_with_pi: 2729460917e-2,
-    dps_delta: 727640.76,
-    dps_pct_gain: 2.74,
-    pi_dep_spell_ids: {
-      "388663": 388663
-    },
-    gear: {
-      head: {
-        id: 237673,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12231",
-          "12361",
-          "12676",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_helm_leather_raidmonkethereal_d_01.jpg"
-      },
-      neck: {
-        id: 178827,
-        bonus_ids: [
-          "10013",
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "40"
-        ],
-        gem_ids: [
-          "213497",
-          "213497"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
-      },
-      shoulder: {
-        id: 237671,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12233",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shoulder_leather_raidmonkethereal_d_01.jpg"
-      },
-      chest: {
-        id: 237676,
-        bonus_ids: [
-          "10255",
-          "10390",
-          "12229",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7364"
-        ],
-        icon: "data/icons/inv_chest_leather_raidmonkethereal_d_01.jpg"
-      },
-      waist: {
-        id: 219331,
-        bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
-          "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
-      },
-      legs: {
-        id: 237672,
-        bonus_ids: [
-          "10255",
-          "10390",
-          "12232",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7601"
-        ],
-        icon: "data/icons/inv_pant_leather_raidmonkethereal_d_01.jpg"
-      },
-      feet: {
-        id: 243306,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12239",
-          "12355",
-          "13503",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7424"
-        ],
-        icon: "data/icons/inv_boot_leather_raidmonkethereal_d_01.jpg"
-      },
-      wrist: {
-        id: 219334,
-        bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
-          "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7385"
-        ],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_bracer.jpg"
-      },
-      hands: {
-        id: 237674,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12230",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_glove_leather_raidmonkethereal_d_01.jpg"
-      },
-      back: {
-        id: 235499,
-        bonus_ids: [
-          "12256",
-          "12401",
-          "9893"
-        ],
-        gem_ids: [
-          "238046"
-        ],
-        enchant_ids: [
-          "7403"
-        ],
-        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
-      },
-      main_hand: {
-        id: 221128,
-        bonus_ids: [
-          "10255",
-          "10384",
-          "10390",
-          "12361",
-          "3215",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7463"
-        ],
-        icon: "data/icons/inv_mace_1h_earthendungeon_c_01.jpg"
-      },
-      off_hand: {
-        id: 237738,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "43"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7463"
-        ],
-        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
-      },
-      finger1: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8794",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213494",
-          "213494"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
-      },
-      finger2: {
-        id: 242491,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213494",
-          "213494"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
-        id: 232541,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
-      }
-    }
-  },
-  {
-    class: "Monk",
-    spec: "Windwalker",
-    specId: 269,
-    targets: 1,
-    talents: "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMAmZMLzMmZGAAAAAAAAAAAssMMiZGYGGWMzYbmZGmthZwyMBAwyMzgZG2mBAwGA0sMLNzMzCgZA",
-    dps_no_pi: 541064486e-2,
-    dps_with_pi: 554750278e-2,
-    dps_delta: 136857.92,
-    dps_pct_gain: 2.53,
-    pi_dep_spell_ids: {
-      "388663": 388663
-    },
-    gear: {
-      head: {
-        id: 237673,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12231",
-          "12361",
-          "12676",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_helm_leather_raidmonkethereal_d_01.jpg"
-      },
-      neck: {
-        id: 237568,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213482",
-          "213743"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      shoulder: {
-        id: 237671,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12233",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shoulder_leather_raidmonkethereal_d_01.jpg"
-      },
-      chest: {
-        id: 237676,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12229",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7364"
-        ],
-        icon: "data/icons/inv_chest_leather_raidmonkethereal_d_01.jpg"
-      },
-      waist: {
-        id: 219331,
-        bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
-          "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
-      },
-      legs: {
-        id: 237672,
-        bonus_ids: [
-          "10255",
           "10356",
           "12232",
           "12361",
@@ -21143,23 +20549,7 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 221128,
-        bonus_ids: [
-          "10255",
-          "10384",
-          "10390",
-          "12361",
-          "3215",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_mace_1h_earthendungeon_c_01.jpg"
-      },
-      off_hand: {
-        id: 222442,
+        id: 222446,
         bonus_ids: [
           "10421",
           "11300",
@@ -21173,21 +20563,38 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [
+          "7445"
+        ],
+        icon: "data/icons/inv_hand_1h_undergroundquest_b_01.jpg"
+      },
+      off_hand: {
+        id: 185780,
+        bonus_ids: [
+          "10039",
+          "10255",
+          "10384",
+          "10390",
+          "13445",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
           "7448"
         ],
-        icon: "data/icons/inv_mace_1h_arathoroutdoor_d_01.jpg"
+        icon: "data/icons/inv_sword_1h_broker2boss_d_01_blue.jpg"
       },
       finger1: {
-        id: 242491,
+        id: 215135,
         bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
           "10396",
+          "10421",
           "10879",
-          "12353",
-          "3196",
-          "6652"
+          "12050",
+          "12053",
+          "8794",
+          "8902",
+          "9627",
+          "9633"
         ],
         gem_ids: [
           "213494",
@@ -21196,29 +20603,28 @@ var pi_values_default = [
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 221141,
         bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "3215",
+          "6652"
         ],
         gem_ids: [
-          "213497",
+          "213467",
           "213497"
         ],
         enchant_ids: [
-          "7346"
+          "7340"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
       },
       trinket1: {
         id: 242395,
@@ -21234,7 +20640,283 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242402,
+        id: 242396,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12355",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
+      }
+    }
+  },
+  {
+    class: "Monk",
+    spec: "Windwalker",
+    specId: 269,
+    targets: 15,
+    talents: "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMzM2mZMzMDAAAAAAAAAAALLDjYmhxMMswM2mZmhZjZGsMTAAsMmhZmhtZAAsBANLzSzMzsAYG",
+    dps_no_pi: 2669307763e-2,
+    dps_with_pi: 2802560863e-2,
+    dps_delta: 133253101e-2,
+    dps_pct_gain: 4.99,
+    pi_dep_spell_ids: {
+      "388663": 388663
+    },
+    gear: {
+      head: {
+        id: 237673,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12231",
+          "12361",
+          "12676",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_helm_leather_raidmonkethereal_d_01.jpg"
+      },
+      neck: {
+        id: 178827,
+        bonus_ids: [
+          "10013",
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "40"
+        ],
+        gem_ids: [
+          "213497",
+          "213497"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+      },
+      shoulder: {
+        id: 237671,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12233",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shoulder_leather_raidmonkethereal_d_01.jpg"
+      },
+      chest: {
+        id: 237676,
+        bonus_ids: [
+          "10255",
+          "10390",
+          "12229",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7364"
+        ],
+        icon: "data/icons/inv_chest_leather_raidmonkethereal_d_01.jpg"
+      },
+      waist: {
+        id: 219331,
+        bonus_ids: [
+          "10421",
+          "11304",
+          "12050",
+          "12053",
+          "12921",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
+      },
+      legs: {
+        id: 237672,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12232",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7601"
+        ],
+        icon: "data/icons/inv_pant_leather_raidmonkethereal_d_01.jpg"
+      },
+      feet: {
+        id: 243306,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12239",
+          "12355",
+          "13503",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7424"
+        ],
+        icon: "data/icons/inv_boot_leather_raidmonkethereal_d_01.jpg"
+      },
+      wrist: {
+        id: 219334,
+        bonus_ids: [
+          "10421",
+          "11304",
+          "12050",
+          "12053",
+          "12921",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7385"
+        ],
+        icon: "data/icons/inv_leather_outdoorarathor_d_01_bracer.jpg"
+      },
+      hands: {
+        id: 237674,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_glove_leather_raidmonkethereal_d_01.jpg"
+      },
+      back: {
+        id: 235499,
+        bonus_ids: [
+          "12256",
+          "12401",
+          "9893"
+        ],
+        gem_ids: [
+          "238046"
+        ],
+        enchant_ids: [
+          "7403"
+        ],
+        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
+      },
+      main_hand: {
+        id: 222446,
+        bonus_ids: [
+          "10421",
+          "11300",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7445"
+        ],
+        icon: "data/icons/inv_hand_1h_undergroundquest_b_01.jpg"
+      },
+      off_hand: {
+        id: 185780,
+        bonus_ids: [
+          "10039",
+          "10255",
+          "10384",
+          "10390",
+          "13445",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_sword_1h_broker2boss_d_01_blue.jpg"
+      },
+      finger1: {
+        id: 215135,
+        bonus_ids: [
+          "10396",
+          "10421",
+          "10879",
+          "12050",
+          "12053",
+          "8794",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213494",
+          "213494"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+      },
+      finger2: {
+        id: 221141,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12361",
+          "3215",
+          "6652"
+        ],
+        gem_ids: [
+          "213467",
+          "213497"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
+      },
+      trinket1: {
+        id: 242395,
         bonus_ids: [
           "10255",
           "10356",
@@ -21244,7 +20926,288 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 242396,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12355",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
+      }
+    }
+  },
+  {
+    class: "Monk",
+    spec: "Windwalker",
+    specId: 269,
+    targets: 1,
+    talents: "C0QAAAAAAAAAAAAAAAAAAAAAAMzsMAmZMLzMmZGAAAAAAAAAAAssMMiZGYGGWMzYbmZGmNmZwyMBAwyMzgZG2mBAwGA0sMLNzMzCgZA",
+    dps_no_pi: 560552911e-2,
+    dps_with_pi: 58469419e-1,
+    dps_delta: 241412.79,
+    dps_pct_gain: 4.31,
+    pi_dep_spell_ids: {
+      "388663": 388663
+    },
+    gear: {
+      head: {
+        id: 237673,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12231",
+          "12361",
+          "12676",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_helm_leather_raidmonkethereal_d_01.jpg"
+      },
+      neck: {
+        id: 251880,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12361",
+          "1572",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213473"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_dark.jpg"
+      },
+      shoulder: {
+        id: 237671,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12233",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shoulder_leather_raidmonkethereal_d_01.jpg"
+      },
+      chest: {
+        id: 237676,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12229",
+          "12676",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7364"
+        ],
+        icon: "data/icons/inv_chest_leather_raidmonkethereal_d_01.jpg"
+      },
+      waist: {
+        id: 219331,
+        bonus_ids: [
+          "10421",
+          "11304",
+          "12050",
+          "12053",
+          "12921",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
+      },
+      legs: {
+        id: 237672,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12232",
+          "12676",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7601"
+        ],
+        icon: "data/icons/inv_pant_leather_raidmonkethereal_d_01.jpg"
+      },
+      feet: {
+        id: 243306,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "13504",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7424"
+        ],
+        icon: "data/icons/inv_boot_leather_raidmonkethereal_d_01.jpg"
+      },
+      wrist: {
+        id: 219334,
+        bonus_ids: [
+          "10421",
+          "11304",
+          "12050",
+          "12053",
+          "12921",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7385"
+        ],
+        icon: "data/icons/inv_leather_outdoorarathor_d_01_bracer.jpg"
+      },
+      hands: {
+        id: 237674,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_glove_leather_raidmonkethereal_d_01.jpg"
+      },
+      back: {
+        id: 235499,
+        bonus_ids: [
+          "12256",
+          "12401",
+          "9893"
+        ],
+        gem_ids: [
+          "238046"
+        ],
+        enchant_ids: [
+          "7403"
+        ],
+        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
+      },
+      main_hand: {
+        id: 237739,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_polearm_2h_etherealraid_d_01.jpg"
+      },
+      finger1: {
+        id: 215135,
+        bonus_ids: [
+          "10396",
+          "10421",
+          "10879",
+          "12050",
+          "12053",
+          "8794",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213494",
+          "213494"
+        ],
+        enchant_ids: [
+          "7352"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+      },
+      finger2: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213461",
+          "213497"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+      },
+      trinket1: {
+        id: 242402,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+      },
+      trinket2: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       }
     }
   },
@@ -21254,10 +21217,10 @@ var pi_values_default = [
     specId: 269,
     targets: 3,
     talents: "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMzM2mZMzMDAAAAAAAAAAALLDjYmhxMMswM2mZmhZjZGsMTAAsMmhZmhtZAAsBANLzSzMzsAYG",
-    dps_no_pi: 1050615613e-2,
-    dps_with_pi: 107538622e-1,
-    dps_delta: 247706.07,
-    dps_pct_gain: 2.36,
+    dps_no_pi: 1078409447e-2,
+    dps_with_pi: 1125391339e-2,
+    dps_delta: 469818.92,
+    dps_pct_gain: 4.36,
     pi_dep_spell_ids: {
       "388663": 388663
     },
@@ -21351,7 +21314,7 @@ var pi_values_default = [
         id: 237672,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12232",
           "12361",
           "12676",
@@ -21432,35 +21395,39 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 221128,
+        id: 222446,
         bonus_ids: [
+          "10421",
+          "11300",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7445"
+        ],
+        icon: "data/icons/inv_hand_1h_undergroundquest_b_01.jpg"
+      },
+      off_hand: {
+        id: 185780,
+        bonus_ids: [
+          "10039",
           "10255",
           "10384",
           "10390",
-          "12361",
-          "3215",
+          "13445",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [
-          "7463"
+          "7448"
         ],
-        icon: "data/icons/inv_mace_1h_earthendungeon_c_01.jpg"
-      },
-      off_hand: {
-        id: 237738,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "43"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7463"
-        ],
-        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
+        icon: "data/icons/inv_sword_1h_broker2boss_d_01_blue.jpg"
       },
       finger1: {
         id: 215135,
@@ -21485,25 +21452,25 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 242491,
+        id: 221141,
         bonus_ids: [
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
-          "3196",
+          "12361",
+          "3215",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213467",
+          "213497"
         ],
         enchant_ids: [
-          "7346"
+          "7340"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
       },
       trinket1: {
         id: 242395,
@@ -21519,18 +21486,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 232541,
+        id: 242396,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
+          "10355",
           "12355",
-          "1546",
+          "1520",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
       }
     }
   },
@@ -21540,10 +21506,10 @@ var pi_values_default = [
     specId: 269,
     targets: 5,
     talents: "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMzM2mZMzMDAAAAAAAAAAALLDjYmhxMMswM2mZmhZjZGsMTAAsMmhZmhtZAAsBANLzSzMzsAYG",
-    dps_no_pi: 1549074978e-2,
-    dps_with_pi: 1587906639e-2,
-    dps_delta: 388316.61,
-    dps_pct_gain: 2.51,
+    dps_no_pi: 1576561536e-2,
+    dps_with_pi: 1650034793e-2,
+    dps_delta: 734732.57,
+    dps_pct_gain: 4.66,
     pi_dep_spell_ids: {
       "388663": 388663
     },
@@ -21637,7 +21603,7 @@ var pi_values_default = [
         id: 237672,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12232",
           "12361",
           "12676",
@@ -21718,35 +21684,39 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 221128,
+        id: 222446,
         bonus_ids: [
+          "10421",
+          "11300",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7445"
+        ],
+        icon: "data/icons/inv_hand_1h_undergroundquest_b_01.jpg"
+      },
+      off_hand: {
+        id: 185780,
+        bonus_ids: [
+          "10039",
           "10255",
           "10384",
           "10390",
-          "12361",
-          "3215",
+          "13445",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [
-          "7463"
+          "7448"
         ],
-        icon: "data/icons/inv_mace_1h_earthendungeon_c_01.jpg"
-      },
-      off_hand: {
-        id: 237738,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "43"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7463"
-        ],
-        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
+        icon: "data/icons/inv_sword_1h_broker2boss_d_01_blue.jpg"
       },
       finger1: {
         id: 215135,
@@ -21771,25 +21741,25 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 242491,
+        id: 221141,
         bonus_ids: [
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
-          "3196",
+          "12361",
+          "3215",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213467",
+          "213497"
         ],
         enchant_ids: [
-          "7346"
+          "7340"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
       },
       trinket1: {
         id: 242395,
@@ -21805,18 +21775,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 232541,
+        id: 242396,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
+          "10355",
           "12355",
-          "1546",
+          "1520",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
       }
     }
   },
@@ -21826,10 +21795,10 @@ var pi_values_default = [
     specId: 262,
     targets: 8,
     talents: "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzohGbAgZZaGwGmZaYmZGDLzYmZxsMMLzMGMMz2AA",
-    dps_no_pi: 2914393056e-2,
-    dps_with_pi: 3001933564e-2,
-    dps_delta: 875405.08,
-    dps_pct_gain: 3,
+    dps_no_pi: 3063446634e-2,
+    dps_with_pi: 3151419452e-2,
+    dps_delta: 879728.18,
+    dps_pct_gain: 2.87,
     pi_dep_spell_ids: {
       "114050": 114050
     },
@@ -21851,22 +21820,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidshamanethereal_d_01.jpg"
       },
       neck: {
-        id: 237568,
+        id: 185842,
         bonus_ids: [
+          "10035",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
           "12361",
-          "1533",
           "6652"
         ],
         gem_ids: [
           "213458",
-          "213743"
+          "213494"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237635,
@@ -21901,22 +21871,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_mail_raidshamanethereal_d_01.jpg"
       },
       waist: {
-        id: 219339,
+        id: 237554,
         bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
+          "10255",
+          "10356",
+          "12239",
+          "12361",
           "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_belt.jpg"
+        icon: "data/icons/inv_belt_mail_raidshamanethereal_d_01.jpg"
       },
       legs: {
         id: 237636,
@@ -22002,21 +21969,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 237723,
         bonus_ids: [
@@ -22029,6 +21981,21 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_shield_1h_etherealraid_d_01.jpg"
+      },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
         id: 178824,
@@ -22052,25 +22019,27 @@ var pi_values_default = [
         icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
       },
       finger2: {
-        id: 242491,
+        id: 215135,
         bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
           "10396",
+          "10421",
           "10879",
-          "12353",
-          "3196",
-          "6652"
+          "11941",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "9627",
+          "9633"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213494",
+          "213494"
         ],
         enchant_ids: [
-          "7340"
+          "7346"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
         id: 242395,
@@ -22089,9 +22058,9 @@ var pi_values_default = [
         id: 242402,
         bonus_ids: [
           "10255",
-          "10355",
-          "12355",
-          "1520",
+          "10356",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -22105,11 +22074,11 @@ var pi_values_default = [
     spec: "Elemental",
     specId: 262,
     targets: 1,
-    talents: "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzyyMjZGzysMGMYmBAAAAwiZWgBMgZjJkZBAMbTzMY2YmZaMjZGYZmZGMGmlZmZMzYmZDA",
-    dps_no_pi: 607920607e-2,
-    dps_with_pi: 624218163e-2,
-    dps_delta: 162975.56,
-    dps_pct_gain: 2.68,
+    talents: "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbzy2MjZGzysMGMYmBAAAAwiZWgBMgZjJkZBAMbTzMD2WYmphxMz2wyMzMYMMLjZGzMmZ2AA",
+    dps_no_pi: 645561147e-2,
+    dps_with_pi: 662454034e-2,
+    dps_delta: 168928.88,
+    dps_pct_gain: 2.62,
     pi_dep_spell_ids: {
       "114050": 114050
     },
@@ -22120,10 +22089,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -22169,9 +22138,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -22181,16 +22150,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_mail_raidshamanethereal_d_01.jpg"
       },
       waist: {
-        id: 245965,
+        id: 237554,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213494"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_belt_mail_raidshamanethereal_d_01.jpg"
       },
       legs: {
         id: 237636,
@@ -22198,9 +22170,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12232",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -22233,14 +22205,16 @@ var pi_values_default = [
           "11304",
           "12050",
           "12053",
-          "12921",
-          "8793",
+          "12922",
+          "8794",
           "8902",
           "8960",
           "9627",
           "9633"
         ],
-        gem_ids: [],
+        gem_ids: [
+          "213494"
+        ],
         enchant_ids: [
           "7385"
         ],
@@ -22276,30 +22250,13 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      off_hand: {
-        id: 222566,
-        bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8794",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
-      },
       main_hand: {
         id: 237728,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -22307,6 +22264,19 @@ var pi_values_default = [
           "7448"
         ],
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
+      },
+      off_hand: {
+        id: 237723,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shield_1h_etherealraid_d_01.jpg"
       },
       finger1: {
         id: 215135,
@@ -22357,8 +22327,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -22370,8 +22340,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -22386,9 +22356,289 @@ var pi_values_default = [
     specId: 262,
     targets: 5,
     talents: "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzohGbAgZZaGwGmZaYmZGDLzYmZxsMMLzMGMMz2AA",
-    dps_no_pi: 2181332887e-2,
-    dps_with_pi: 2241882998e-2,
-    dps_delta: 605501.1,
+    dps_no_pi: 2283412723e-2,
+    dps_with_pi: 2345085824e-2,
+    dps_delta: 616731.02,
+    dps_pct_gain: 2.7,
+    pi_dep_spell_ids: {
+      "114050": 114050
+    },
+    gear: {
+      head: {
+        id: 237637,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12231",
+          "12361",
+          "12676",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_helm_mail_raidshamanethereal_d_01.jpg"
+      },
+      neck: {
+        id: 185842,
+        bonus_ids: [
+          "10035",
+          "10255",
+          "10383",
+          "10389",
+          "10396",
+          "10879",
+          "12361",
+          "6652"
+        ],
+        gem_ids: [
+          "213458",
+          "213494"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
+      },
+      shoulder: {
+        id: 237635,
+        bonus_ids: [
+          "10255",
+          "10390",
+          "12233",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shoulder_mail_raidshamanethereal_d_01.jpg"
+      },
+      chest: {
+        id: 237640,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12229",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7364"
+        ],
+        icon: "data/icons/inv_chest_mail_raidshamanethereal_d_01.jpg"
+      },
+      waist: {
+        id: 237554,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_belt_mail_raidshamanethereal_d_01.jpg"
+      },
+      legs: {
+        id: 237636,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12232",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7534"
+        ],
+        icon: "data/icons/inv_pant_mail_raidshamanethereal_d_01.jpg"
+      },
+      feet: {
+        id: 243308,
+        bonus_ids: [
+          "10255",
+          "10355",
+          "12239",
+          "12355",
+          "13503",
+          "1520",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7424"
+        ],
+        icon: "data/icons/inv_boot_mail_raidshamanethereal_d_01.jpg"
+      },
+      wrist: {
+        id: 219342,
+        bonus_ids: [
+          "10421",
+          "11304",
+          "12050",
+          "12053",
+          "12921",
+          "8794",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7385"
+        ],
+        icon: "data/icons/inv_mail_outdoorarathor_d_01_bracer.jpg"
+      },
+      hands: {
+        id: 237638,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_glove_mail_raidshamanethereal_d_01.jpg"
+      },
+      back: {
+        id: 235499,
+        bonus_ids: [
+          "12256",
+          "12401",
+          "9893"
+        ],
+        gem_ids: [
+          "238046"
+        ],
+        enchant_ids: [
+          "7403"
+        ],
+        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
+      },
+      off_hand: {
+        id: 237723,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shield_1h_etherealraid_d_01.jpg"
+      },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
+      },
+      finger1: {
+        id: 178824,
+        bonus_ids: [
+          "10013",
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "6652"
+        ],
+        gem_ids: [
+          "213491",
+          "213494"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+      },
+      finger2: {
+        id: 215135,
+        bonus_ids: [
+          "10396",
+          "10421",
+          "10879",
+          "11941",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213494",
+          "213494"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+      },
+      trinket1: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 242402,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+      }
+    }
+  },
+  {
+    class: "Shaman",
+    spec: "Elemental",
+    specId: 262,
+    targets: 3,
+    talents: "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzohGbAgZZaGwGmZaYmZGDLzYmZxsMMLzMGMMz2AA",
+    dps_no_pi: 1068527462e-2,
+    dps_with_pi: 1098236574e-2,
+    dps_delta: 297091.12,
     dps_pct_gain: 2.78,
     pi_dep_spell_ids: {
       "114050": 114050
@@ -22411,22 +22661,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidshamanethereal_d_01.jpg"
       },
       neck: {
-        id: 237568,
+        id: 185842,
         bonus_ids: [
+          "10035",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
           "12361",
-          "1533",
           "6652"
         ],
         gem_ids: [
           "213458",
-          "213743"
+          "213494"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237635,
@@ -22461,22 +22712,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_mail_raidshamanethereal_d_01.jpg"
       },
       waist: {
-        id: 219339,
+        id: 237554,
         bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
+          "10255",
+          "10356",
+          "12239",
+          "12361",
           "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_belt.jpg"
+        icon: "data/icons/inv_belt_mail_raidshamanethereal_d_01.jpg"
       },
       legs: {
         id: 237636,
@@ -22562,21 +22810,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 237723,
         bonus_ids: [
@@ -22589,6 +22822,21 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_shield_1h_etherealraid_d_01.jpg"
+      },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
         id: 178824,
@@ -22612,305 +22860,27 @@ var pi_values_default = [
         icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
       },
       finger2: {
-        id: 242491,
+        id: 215135,
         bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
           "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213482",
-          "213482"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
-        id: 242402,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12355",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
-      }
-    }
-  },
-  {
-    class: "Shaman",
-    spec: "Elemental",
-    specId: 262,
-    targets: 3,
-    talents: "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzohGbAgZZaGwGmZaYmZGDLzYmZxsMMLzMGMMz2AA",
-    dps_no_pi: 1026347051e-2,
-    dps_with_pi: 1055458402e-2,
-    dps_delta: 291113.51,
-    dps_pct_gain: 2.84,
-    pi_dep_spell_ids: {
-      "114050": 114050
-    },
-    gear: {
-      head: {
-        id: 237637,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12231",
-          "12361",
-          "12676",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_helm_mail_raidshamanethereal_d_01.jpg"
-      },
-      neck: {
-        id: 237568,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213458",
-          "213743"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
-      },
-      shoulder: {
-        id: 237635,
-        bonus_ids: [
-          "10255",
-          "10390",
-          "12233",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shoulder_mail_raidshamanethereal_d_01.jpg"
-      },
-      chest: {
-        id: 237640,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12229",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7364"
-        ],
-        icon: "data/icons/inv_chest_mail_raidshamanethereal_d_01.jpg"
-      },
-      waist: {
-        id: 219339,
-        bonus_ids: [
           "10421",
-          "11304",
+          "10879",
+          "11941",
           "12050",
           "12053",
-          "12921",
           "8793",
           "8902",
-          "8960",
           "9627",
           "9633"
         ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_belt.jpg"
-      },
-      legs: {
-        id: 237636,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12232",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7534"
-        ],
-        icon: "data/icons/inv_pant_mail_raidshamanethereal_d_01.jpg"
-      },
-      feet: {
-        id: 243308,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12239",
-          "12355",
-          "13503",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7424"
-        ],
-        icon: "data/icons/inv_boot_mail_raidshamanethereal_d_01.jpg"
-      },
-      wrist: {
-        id: 219342,
-        bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
-          "12921",
-          "8794",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7385"
-        ],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_bracer.jpg"
-      },
-      hands: {
-        id: 237638,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12230",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_glove_mail_raidshamanethereal_d_01.jpg"
-      },
-      back: {
-        id: 235499,
-        bonus_ids: [
-          "12256",
-          "12401",
-          "9893"
-        ],
         gem_ids: [
-          "238046"
-        ],
-        enchant_ids: [
-          "7403"
-        ],
-        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
-      },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
-      off_hand: {
-        id: 237723,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shield_1h_etherealraid_d_01.jpg"
-      },
-      finger1: {
-        id: 178824,
-        bonus_ids: [
-          "10013",
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
+          "213494",
           "213494"
         ],
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
-      },
-      finger2: {
-        id: 242491,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213482",
-          "213482"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
         id: 242395,
@@ -22929,9 +22899,9 @@ var pi_values_default = [
         id: 242402,
         bonus_ids: [
           "10255",
-          "10355",
-          "12355",
-          "1520",
+          "10356",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -22946,10 +22916,10 @@ var pi_values_default = [
     specId: 262,
     targets: 15,
     talents: "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAMbz22MzMzY2mlxMgZmZAAAAAAbmxwGsAzohGbAgZZaGwGmZaYmZGDLzYmZxsMMLzMGMMz2AA",
-    dps_no_pi: 4177502754e-2,
-    dps_with_pi: 4313054919e-2,
-    dps_delta: 135552165e-2,
-    dps_pct_gain: 3.24,
+    dps_no_pi: 44100195,
+    dps_with_pi: 4548804035e-2,
+    dps_delta: 138784535e-2,
+    dps_pct_gain: 3.15,
     pi_dep_spell_ids: {
       "114050": 114050
     },
@@ -22971,22 +22941,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidshamanethereal_d_01.jpg"
       },
       neck: {
-        id: 237568,
+        id: 185842,
         bonus_ids: [
+          "10035",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
           "12361",
-          "1533",
           "6652"
         ],
         gem_ids: [
           "213458",
-          "213743"
+          "213494"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237635,
@@ -23021,22 +22992,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_mail_raidshamanethereal_d_01.jpg"
       },
       waist: {
-        id: 219339,
+        id: 237554,
         bonus_ids: [
-          "10421",
-          "11304",
-          "12050",
-          "12053",
+          "10255",
+          "10356",
+          "12239",
+          "12361",
           "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_mail_outdoorarathor_d_01_belt.jpg"
+        icon: "data/icons/inv_belt_mail_raidshamanethereal_d_01.jpg"
       },
       legs: {
         id: 237636,
@@ -23122,21 +23090,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 237723,
         bonus_ids: [
@@ -23149,6 +23102,21 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_shield_1h_etherealraid_d_01.jpg"
+      },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
         id: 178824,
@@ -23172,25 +23140,27 @@ var pi_values_default = [
         icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
       },
       finger2: {
-        id: 242491,
+        id: 215135,
         bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
           "10396",
+          "10421",
           "10879",
-          "12353",
-          "3196",
-          "6652"
+          "11941",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "9627",
+          "9633"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213494",
+          "213494"
         ],
         enchant_ids: [
-          "7340"
+          "7346"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
         id: 242395,
@@ -23209,9 +23179,9 @@ var pi_values_default = [
         id: 242402,
         bonus_ids: [
           "10255",
-          "10355",
-          "12355",
-          "1520",
+          "10356",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -23226,10 +23196,10 @@ var pi_values_default = [
     specId: 263,
     targets: 8,
     talents: "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMwMAAAAAAAAAgFAbmxwGZBmhhGsAgZbyMYWWYMGjxMbzYZGTzCLjlxMDAwYA",
-    dps_no_pi: 2484275144e-2,
-    dps_with_pi: 2561155045e-2,
-    dps_delta: 768799.01,
-    dps_pct_gain: 3.09,
+    dps_no_pi: 2484870362e-2,
+    dps_with_pi: 2560958016e-2,
+    dps_delta: 760876.55,
+    dps_pct_gain: 3.06,
     pi_dep_spell_ids: {
       "51533": 51533
     },
@@ -23317,7 +23287,7 @@ var pi_values_default = [
         id: 237636,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12232",
           "12361",
           "12676",
@@ -23507,10 +23477,10 @@ var pi_values_default = [
     specId: 263,
     targets: 1,
     talents: "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDmZGjtZmZGsNzYZYAAAAAAAAAAbA2MjhNyCMDDNYBAWmmZGssYmZmhxMz2wyMzEYYWmZAAGD",
-    dps_no_pi: 522013215e-2,
-    dps_with_pi: 553493224e-2,
-    dps_delta: 314800.09,
-    dps_pct_gain: 6.03,
+    dps_no_pi: 548711235e-2,
+    dps_with_pi: 581932906e-2,
+    dps_delta: 332216.7,
+    dps_pct_gain: 6.05,
     pi_dep_spell_ids: {
       "51533": 51533
     },
@@ -23532,23 +23502,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidshamanethereal_d_01.jpg"
       },
       neck: {
-        id: 178827,
+        id: 237569,
         bonus_ids: [
-          "10013",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12353",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
-          "213494",
+          "213455",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
       },
       shoulder: {
         id: 237635,
@@ -23582,16 +23551,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_mail_raidhunterethereal_d_01.jpg"
       },
       waist: {
-        id: 245965,
+        id: 237554,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213482"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_belt_mail_raidshamanethereal_d_01.jpg"
       },
       legs: {
         id: 237636,
@@ -23682,8 +23654,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -23693,68 +23665,75 @@ var pi_values_default = [
         icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
       },
       off_hand: {
-        id: 222446,
+        id: 237738,
         bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [
-          "7445"
+          "7448"
         ],
-        icon: "data/icons/inv_hand_1h_undergroundquest_b_01.jpg"
+        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 178824,
+        id: 237570,
         bonus_ids: [
-          "10013",
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213482",
+          "213482"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12361",
+          "3215",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
-      },
-      finger2: {
-        id: 215135,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213494",
-          "213494"
+          "213482",
+          "213482"
         ],
         enchant_ids: [
           "7340"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
+        id: 242402,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+      },
+      trinket2: {
         id: 242395,
         bonus_ids: [
           "10255",
@@ -23766,19 +23745,6 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
-        id: 242402,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
       }
     }
   },
@@ -23788,10 +23754,10 @@ var pi_values_default = [
     specId: 263,
     targets: 5,
     talents: "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMwMAAAAAAAAAgFAbmxwGZBmhhGsAgZbyMYWWYMGjxMbzYZGTzCLjlxMDAwYA",
-    dps_no_pi: 184589387e-1,
-    dps_with_pi: 190393375e-1,
-    dps_delta: 580398.8,
-    dps_pct_gain: 3.14,
+    dps_no_pi: 1845569994e-2,
+    dps_with_pi: 1904851158e-2,
+    dps_delta: 592811.64,
+    dps_pct_gain: 3.21,
     pi_dep_spell_ids: {
       "51533": 51533
     },
@@ -23879,7 +23845,7 @@ var pi_values_default = [
         id: 237636,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12232",
           "12361",
           "12676",
@@ -24069,9 +24035,9 @@ var pi_values_default = [
     specId: 263,
     targets: 15,
     talents: "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMwMAAAAAAAAAgFAbmxwGZBmhhGsAgZbyMYWWYMGjxMbzYZGTzCLjlxMDAwYA",
-    dps_no_pi: 3416742214e-2,
-    dps_with_pi: 3529797432e-2,
-    dps_delta: 113055218e-2,
+    dps_no_pi: 3417165827e-2,
+    dps_with_pi: 3530313538e-2,
+    dps_delta: 113147711e-2,
     dps_pct_gain: 3.31,
     pi_dep_spell_ids: {
       "51533": 51533
@@ -24160,7 +24126,7 @@ var pi_values_default = [
         id: 237636,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12232",
           "12361",
           "12676",
@@ -24350,10 +24316,10 @@ var pi_values_default = [
     specId: 263,
     targets: 3,
     talents: "CcQAAAAAAAAAAAAAAAAAAAAAAMzMDMzDMDzMz8AzMLzMwMAAAAAAAAAgFAbmxwGZBmhhGsAgZbyMYWWYMGjxMbzYZGTzCLjlxMDAwYA",
-    dps_no_pi: 1039773308e-2,
-    dps_with_pi: 1077678889e-2,
-    dps_delta: 379055.81,
-    dps_pct_gain: 3.65,
+    dps_no_pi: 1039873554e-2,
+    dps_with_pi: 1077739786e-2,
+    dps_delta: 378662.32,
+    dps_pct_gain: 3.64,
     pi_dep_spell_ids: {
       "51533": 51533
     },
@@ -24441,7 +24407,7 @@ var pi_values_default = [
         id: 237636,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12232",
           "12361",
           "12676",
@@ -24631,22 +24597,22 @@ var pi_values_default = [
     specId: 72,
     targets: 15,
     talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhxsZmhZWGMzCzMzYGmhZ22mZMzMLAzMzYmxywwMzMAAAIGbbDsAmgZYCMYDA",
-    dps_no_pi: 1053573966e-2,
-    dps_with_pi: 1085529162e-2,
-    dps_delta: 319551.96,
-    dps_pct_gain: 3.03,
+    dps_no_pi: 1121310356e-2,
+    dps_with_pi: 1153862565e-2,
+    dps_delta: 325522.09,
+    dps_pct_gain: 2.9,
     pi_dep_spell_ids: {
       "107574": 107574
     },
     gear: {
       head: {
-        id: 237610,
+        id: 238028,
         bonus_ids: [
           "10255",
-          "10390",
-          "12231",
+          "10356",
+          "10844",
+          "12239",
           "12361",
-          "12676",
           "12921",
           "1533",
           "6652"
@@ -24656,550 +24622,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
       },
       neck: {
-        id: 185820,
+        id: 178827,
         bonus_ids: [
-          "10035",
-          "10255",
-          "10383",
-          "10389",
-          "10396",
-          "10879",
-          "12361",
-          "6652"
-        ],
-        gem_ids: [
-          "213494",
-          "213746"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_02c.jpg"
-      },
-      shoulder: {
-        id: 237608,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12233",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shoulder_plate_raidwarriorethereal_d_01.jpg"
-      },
-      chest: {
-        id: 237613,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12229",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7364"
-        ],
-        icon: "data/icons/inv_chest_plate_raidwarriorethereal_d_01.jpg"
-      },
-      waist: {
-        id: 237550,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12239",
-          "12361",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_belt_plate_raidwarriorethereal_d_01.jpg"
-      },
-      legs: {
-        id: 237609,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12232",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7595"
-        ],
-        icon: "data/icons/inv_pant_plate_raidwarriorethereal_d_01.jpg"
-      },
-      feet: {
-        id: 243307,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12239",
-          "12355",
-          "13503",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7424"
-        ],
-        icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
-      },
-      wrist: {
-        id: 222435,
-        bonus_ids: [
-          "10421",
-          "11109",
-          "12050",
-          "12053",
-          "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7385"
-        ],
-        icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
-      },
-      hands: {
-        id: 237611,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12230",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_glove_plate_raidwarriorethereal_d_01.jpg"
-      },
-      back: {
-        id: 235499,
-        bonus_ids: [
-          "12256",
-          "12401",
-          "9893"
-        ],
-        gem_ids: [
-          "238046"
-        ],
-        enchant_ids: [
-          "7403"
-        ],
-        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
-      },
-      main_hand: {
-        id: 237737,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
-      },
-      finger1: {
-        id: 178824,
-        bonus_ids: [
-          "10013",
+          "10032",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213470",
-          "213494"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
-      },
-      finger2: {
-        id: 237570,
-        bonus_ids: [
-          "10255",
-          "10354",
-          "10396",
-          "10879",
-          "12297",
-          "1514",
-          "42"
-        ],
-        gem_ids: [
-          "213497",
-          "213497"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
-        id: 242394,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_obliterationcannon.jpg"
-      }
-    }
-  },
-  {
-    class: "Warrior",
-    spec: "Fury",
-    specId: 72,
-    targets: 3,
-    talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhxsZmhZWGMzCzMzYGmhZ22mZMzMLAzMzYmxywwMzMAAAIGbbDsAmgZYCMYDA",
-    dps_no_pi: 451960487e-2,
-    dps_with_pi: 466129867e-2,
-    dps_delta: 141693.8,
-    dps_pct_gain: 3.14,
-    pi_dep_spell_ids: {
-      "107574": 107574
-    },
-    gear: {
-      head: {
-        id: 237610,
-        bonus_ids: [
-          "10255",
-          "10390",
-          "12231",
-          "12361",
-          "12676",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
-      },
-      neck: {
-        id: 185820,
-        bonus_ids: [
-          "10035",
-          "10255",
-          "10383",
-          "10389",
-          "10396",
-          "10879",
           "12361",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213746"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_02c.jpg"
-      },
-      shoulder: {
-        id: 237608,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12233",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shoulder_plate_raidwarriorethereal_d_01.jpg"
-      },
-      chest: {
-        id: 237613,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12229",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7364"
-        ],
-        icon: "data/icons/inv_chest_plate_raidwarriorethereal_d_01.jpg"
-      },
-      waist: {
-        id: 237550,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12239",
-          "12361",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_belt_plate_raidwarriorethereal_d_01.jpg"
-      },
-      legs: {
-        id: 237609,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12232",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7595"
-        ],
-        icon: "data/icons/inv_pant_plate_raidwarriorethereal_d_01.jpg"
-      },
-      feet: {
-        id: 243307,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12239",
-          "12355",
-          "13503",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7424"
-        ],
-        icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
-      },
-      wrist: {
-        id: 222435,
-        bonus_ids: [
-          "10421",
-          "11109",
-          "12050",
-          "12053",
-          "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7385"
-        ],
-        icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
-      },
-      hands: {
-        id: 237611,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12230",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_glove_plate_raidwarriorethereal_d_01.jpg"
-      },
-      back: {
-        id: 235499,
-        bonus_ids: [
-          "12256",
-          "12401",
-          "9893"
-        ],
-        gem_ids: [
-          "238046"
-        ],
-        enchant_ids: [
-          "7403"
-        ],
-        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
-      },
-      main_hand: {
-        id: 237737,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
-      },
-      finger1: {
-        id: 178824,
-        bonus_ids: [
-          "10013",
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213470",
-          "213494"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
-      },
-      finger2: {
-        id: 237570,
-        bonus_ids: [
-          "10255",
-          "10354",
-          "10396",
-          "10879",
-          "12297",
-          "1514",
-          "42"
-        ],
-        gem_ids: [
-          "213497",
-          "213497"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
-        id: 242394,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_obliterationcannon.jpg"
-      }
-    }
-  },
-  {
-    class: "Warrior",
-    spec: "Fury",
-    specId: 72,
-    targets: 1,
-    talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhhNzMMzygZWYmZGzwMMz22MjZmZBYmZGzMWGGmZmBAAAxYbbgFwEMDTgZYDA",
-    dps_no_pi: 235899503e-2,
-    dps_with_pi: 244161165e-2,
-    dps_delta: 82616.62,
-    dps_pct_gain: 3.5,
-    pi_dep_spell_ids: {
-      "107574": 107574
-    },
-    gear: {
-      head: {
-        id: 237610,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12231",
-          "12361",
-          "12676",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
-      },
-      neck: {
-        id: 237568,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213494",
+          "213473",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
       },
       shoulder: {
         id: 237608,
@@ -25320,6 +24759,537 @@ var pi_values_default = [
       back: {
         id: 235499,
         bonus_ids: [
+          "12256",
+          "12401",
+          "9893"
+        ],
+        gem_ids: [
+          "238046"
+        ],
+        enchant_ids: [
+          "7403"
+        ],
+        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
+      },
+      main_hand: {
+        id: 237737,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
+      },
+      finger1: {
+        id: 221141,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "42"
+        ],
+        gem_ids: [
+          "213455",
+          "213485"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12358",
+          "3206",
+          "6652"
+        ],
+        gem_ids: [
+          "213485",
+          "213497"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+      },
+      trinket1: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 246344,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "12361",
+          "1595",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_qirajidol_onyx.jpg"
+      }
+    }
+  },
+  {
+    class: "Warrior",
+    spec: "Fury",
+    specId: 72,
+    targets: 3,
+    talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhxsZmhZWGMzCzMzYGmhZ22mZMzMLAzMzYmxywwMzMAAAIGbbDsAmgZYCMYDA",
+    dps_no_pi: 465725628e-2,
+    dps_with_pi: 479678547e-2,
+    dps_delta: 139529.19,
+    dps_pct_gain: 3,
+    pi_dep_spell_ids: {
+      "107574": 107574
+    },
+    gear: {
+      head: {
+        id: 238028,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10844",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
+      },
+      neck: {
+        id: 178827,
+        bonus_ids: [
+          "10032",
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12361",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213743"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+      },
+      shoulder: {
+        id: 237608,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12233",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shoulder_plate_raidwarriorethereal_d_01.jpg"
+      },
+      chest: {
+        id: 237613,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12229",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7364"
+        ],
+        icon: "data/icons/inv_chest_plate_raidwarriorethereal_d_01.jpg"
+      },
+      waist: {
+        id: 237550,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_belt_plate_raidwarriorethereal_d_01.jpg"
+      },
+      legs: {
+        id: 237609,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12232",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7595"
+        ],
+        icon: "data/icons/inv_pant_plate_raidwarriorethereal_d_01.jpg"
+      },
+      feet: {
+        id: 243307,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "13504",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7424"
+        ],
+        icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
+      },
+      wrist: {
+        id: 222435,
+        bonus_ids: [
+          "10421",
+          "11109",
+          "12050",
+          "12053",
+          "12921",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7385"
+        ],
+        icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
+      },
+      hands: {
+        id: 237611,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_glove_plate_raidwarriorethereal_d_01.jpg"
+      },
+      back: {
+        id: 235499,
+        bonus_ids: [
+          "12256",
+          "12401",
+          "9893"
+        ],
+        gem_ids: [
+          "238046"
+        ],
+        enchant_ids: [
+          "7403"
+        ],
+        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
+      },
+      main_hand: {
+        id: 237737,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
+      },
+      finger1: {
+        id: 221141,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "42"
+        ],
+        gem_ids: [
+          "213455",
+          "213485"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12358",
+          "3206",
+          "6652"
+        ],
+        gem_ids: [
+          "213485",
+          "213497"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
+      },
+      trinket1: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 246344,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "12361",
+          "1595",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_qirajidol_onyx.jpg"
+      }
+    }
+  },
+  {
+    class: "Warrior",
+    spec: "Fury",
+    specId: 72,
+    targets: 1,
+    talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhxsZmhZWGMzCzMzYGmhZ22mZMzMLAzMzYmxywwMzMAAAIGbbDsAmgZYCMYDA",
+    dps_no_pi: 248052873e-2,
+    dps_with_pi: 256339633e-2,
+    dps_delta: 82867.6,
+    dps_pct_gain: 3.34,
+    pi_dep_spell_ids: {
+      "107574": 107574
+    },
+    gear: {
+      head: {
+        id: 237610,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12231",
+          "12361",
+          "12676",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
+      },
+      neck: {
+        id: 237568,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213494",
+          "213743"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+      },
+      shoulder: {
+        id: 237608,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12233",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shoulder_plate_raidwarriorethereal_d_01.jpg"
+      },
+      chest: {
+        id: 237613,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12229",
+          "12676",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7364"
+        ],
+        icon: "data/icons/inv_chest_plate_raidwarriorethereal_d_01.jpg"
+      },
+      waist: {
+        id: 237550,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_belt_plate_raidwarriorethereal_d_01.jpg"
+      },
+      legs: {
+        id: 237609,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12232",
+          "12676",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7595"
+        ],
+        icon: "data/icons/inv_pant_plate_raidwarriorethereal_d_01.jpg"
+      },
+      feet: {
+        id: 243307,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "13504",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7424"
+        ],
+        icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
+      },
+      wrist: {
+        id: 222435,
+        bonus_ids: [
+          "10421",
+          "11109",
+          "12050",
+          "12053",
+          "12921",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7385"
+        ],
+        icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
+      },
+      hands: {
+        id: 237611,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_glove_plate_raidwarriorethereal_d_01.jpg"
+      },
+      back: {
+        id: 235499,
+        bonus_ids: [
           "12259",
           "12401",
           "9893"
@@ -25337,8 +25307,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -25348,6 +25318,26 @@ var pi_values_default = [
         icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
       },
       finger1: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213461",
+          "213497"
+        ],
+        enchant_ids: [
+          "7352"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+      },
+      finger2: {
         id: 215135,
         bonus_ids: [
           "10396",
@@ -25355,19 +25345,263 @@ var pi_values_default = [
           "10879",
           "12050",
           "12053",
-          "8794",
+          "8793",
           "8902",
           "9627",
           "9633"
         ],
         gem_ids: [
-          "213497",
-          "213497"
+          "213482",
+          "213482"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+      },
+      trinket1: {
+        id: 242394,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_obliterationcannon.jpg"
+      },
+      trinket2: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      }
+    }
+  },
+  {
+    class: "Warrior",
+    spec: "Fury",
+    specId: 72,
+    targets: 5,
+    talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhxsZmhZWGMzCzMzYGmhZ22mZMzMLAzMzYmxywwMzMAAAIGbbDsAmgZYCMYDA",
+    dps_no_pi: 717305611e-2,
+    dps_with_pi: 738248702e-2,
+    dps_delta: 209430.91,
+    dps_pct_gain: 2.92,
+    pi_dep_spell_ids: {
+      "107574": 107574
+    },
+    gear: {
+      head: {
+        id: 238028,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10844",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
+      },
+      neck: {
+        id: 178827,
+        bonus_ids: [
+          "10032",
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12361",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213743"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
+      },
+      shoulder: {
+        id: 237608,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12233",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shoulder_plate_raidwarriorethereal_d_01.jpg"
+      },
+      chest: {
+        id: 237613,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12229",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7364"
+        ],
+        icon: "data/icons/inv_chest_plate_raidwarriorethereal_d_01.jpg"
+      },
+      waist: {
+        id: 237550,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_belt_plate_raidwarriorethereal_d_01.jpg"
+      },
+      legs: {
+        id: 237609,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12232",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7595"
+        ],
+        icon: "data/icons/inv_pant_plate_raidwarriorethereal_d_01.jpg"
+      },
+      feet: {
+        id: 243307,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "13504",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7424"
+        ],
+        icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
+      },
+      wrist: {
+        id: 222435,
+        bonus_ids: [
+          "10421",
+          "11109",
+          "12050",
+          "12053",
+          "12921",
+          "8793",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7385"
+        ],
+        icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
+      },
+      hands: {
+        id: 237611,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_glove_plate_raidwarriorethereal_d_01.jpg"
+      },
+      back: {
+        id: 235499,
+        bonus_ids: [
+          "12256",
+          "12401",
+          "9893"
+        ],
+        gem_ids: [
+          "238046"
+        ],
+        enchant_ids: [
+          "7403"
+        ],
+        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
+      },
+      main_hand: {
+        id: 237737,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
+      },
+      finger1: {
+        id: 221141,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "42"
+        ],
+        gem_ids: [
+          "213455",
+          "213485"
         ],
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
       },
       finger2: {
         id: 242491,
@@ -25377,13 +25611,13 @@ var pi_values_default = [
           "10390",
           "10396",
           "10879",
-          "12353",
-          "3196",
+          "12358",
+          "3206",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213485",
+          "213497"
         ],
         enchant_ids: [
           "7346"
@@ -25391,270 +25625,6 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
-        id: 242394,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_obliterationcannon.jpg"
-      },
-      trinket2: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      }
-    }
-  },
-  {
-    class: "Warrior",
-    spec: "Fury",
-    specId: 72,
-    targets: 5,
-    talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhxsZmhZWGMzCzMzYGmhZ22mZMzMLAzMzYmxywwMzMAAAIGbbDsAmgZYCMYDA",
-    dps_no_pi: 691824328e-2,
-    dps_with_pi: 712655275e-2,
-    dps_delta: 208309.47,
-    dps_pct_gain: 3.01,
-    pi_dep_spell_ids: {
-      "107574": 107574
-    },
-    gear: {
-      head: {
-        id: 237610,
-        bonus_ids: [
-          "10255",
-          "10390",
-          "12231",
-          "12361",
-          "12676",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
-      },
-      neck: {
-        id: 185820,
-        bonus_ids: [
-          "10035",
-          "10255",
-          "10383",
-          "10389",
-          "10396",
-          "10879",
-          "12361",
-          "6652"
-        ],
-        gem_ids: [
-          "213494",
-          "213746"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_02c.jpg"
-      },
-      shoulder: {
-        id: 237608,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12233",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shoulder_plate_raidwarriorethereal_d_01.jpg"
-      },
-      chest: {
-        id: 237613,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12229",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7364"
-        ],
-        icon: "data/icons/inv_chest_plate_raidwarriorethereal_d_01.jpg"
-      },
-      waist: {
-        id: 237550,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12239",
-          "12361",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_belt_plate_raidwarriorethereal_d_01.jpg"
-      },
-      legs: {
-        id: 237609,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12232",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7595"
-        ],
-        icon: "data/icons/inv_pant_plate_raidwarriorethereal_d_01.jpg"
-      },
-      feet: {
-        id: 243307,
-        bonus_ids: [
-          "10255",
-          "10355",
-          "12239",
-          "12355",
-          "13503",
-          "1520",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7424"
-        ],
-        icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
-      },
-      wrist: {
-        id: 222435,
-        bonus_ids: [
-          "10421",
-          "11109",
-          "12050",
-          "12053",
-          "12921",
-          "8793",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7385"
-        ],
-        icon: "data/icons/inv_plate_outdoorarathor_d_01_bracer.jpg"
-      },
-      hands: {
-        id: 237611,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12230",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_glove_plate_raidwarriorethereal_d_01.jpg"
-      },
-      back: {
-        id: 235499,
-        bonus_ids: [
-          "12256",
-          "12401",
-          "9893"
-        ],
-        gem_ids: [
-          "238046"
-        ],
-        enchant_ids: [
-          "7403"
-        ],
-        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
-      },
-      main_hand: {
-        id: 237737,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
-      },
-      finger1: {
-        id: 178824,
-        bonus_ids: [
-          "10013",
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213470",
-          "213494"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
-      },
-      finger2: {
-        id: 237570,
-        bonus_ids: [
-          "10255",
-          "10354",
-          "10396",
-          "10879",
-          "12297",
-          "1514",
-          "42"
-        ],
-        gem_ids: [
-          "213497",
-          "213497"
-        ],
-        enchant_ids: [
-          "7352"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      trinket1: {
         id: 242395,
         bonus_ids: [
           "10255",
@@ -25668,17 +25638,18 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242394,
+        id: 246344,
         bonus_ids: [
           "10255",
-          "10356",
+          "10383",
+          "10390",
           "12361",
-          "1533",
+          "1595",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_obliterationcannon.jpg"
+        icon: "data/icons/inv_qirajidol_onyx.jpg"
       }
     }
   },
@@ -25688,22 +25659,22 @@ var pi_values_default = [
     specId: 72,
     targets: 8,
     talents: "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQjhxsZmhZWGMzCzMzYGmhZ22mZMzMLAzMzYmxywwMzMAAAIGbbDsAmgZYCMYDA",
-    dps_no_pi: 861294034e-2,
-    dps_with_pi: 886578527e-2,
-    dps_delta: 252844.93,
-    dps_pct_gain: 2.94,
+    dps_no_pi: 899992389e-2,
+    dps_with_pi: 925529488e-2,
+    dps_delta: 255371,
+    dps_pct_gain: 2.84,
     pi_dep_spell_ids: {
       "107574": 107574
     },
     gear: {
       head: {
-        id: 237610,
+        id: 238028,
         bonus_ids: [
           "10255",
-          "10390",
-          "12231",
+          "10356",
+          "10844",
+          "12239",
           "12361",
-          "12676",
           "12921",
           "1533",
           "6652"
@@ -25713,23 +25684,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_plate_raidwarriorethereal_d_01.jpg"
       },
       neck: {
-        id: 185820,
+        id: 178827,
         bonus_ids: [
-          "10035",
+          "10032",
           "10255",
           "10383",
-          "10389",
+          "10390",
           "10396",
           "10879",
           "12361",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213746"
+          "213473",
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_7_0raid_necklace_02c.jpg"
+        icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
       },
       shoulder: {
         id: 237608,
@@ -25799,11 +25770,11 @@ var pi_values_default = [
         id: 243307,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -25867,8 +25838,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -25878,45 +25849,46 @@ var pi_values_default = [
         icon: "data/icons/inv_sword_2h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 178824,
+        id: 221141,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
           "12353",
-          "6652"
-        ],
-        gem_ids: [
-          "213470",
-          "213494"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
-      },
-      finger2: {
-        id: 237570,
-        bonus_ids: [
-          "10255",
-          "10354",
-          "10396",
-          "10879",
-          "12297",
-          "1514",
+          "3196",
           "42"
         ],
         gem_ids: [
-          "213497",
+          "213455",
+          "213485"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_02_color5.jpg"
+      },
+      finger2: {
+        id: 242491,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12358",
+          "3206",
+          "6652"
+        ],
+        gem_ids: [
+          "213485",
           "213497"
         ],
         enchant_ids: [
-          "7352"
+          "7346"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -25932,17 +25904,18 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242394,
+        id: 246344,
         bonus_ids: [
           "10255",
-          "10356",
+          "10383",
+          "10390",
           "12361",
-          "1533",
+          "1595",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_obliterationcannon.jpg"
+        icon: "data/icons/inv_qirajidol_onyx.jpg"
       }
     }
   },
@@ -25952,10 +25925,10 @@ var pi_values_default = [
     specId: 71,
     targets: 5,
     talents: "CcEAAAAAAAAAAAAAAAAAAAAAAghZmxMmxMz2stsMmBAAAYw0wMzyYGGLjZmxmZmhZwwAAAAAAAwMmtBDYLGwmZMsBDMj2oBsAA",
-    dps_no_pi: 421851482e-2,
-    dps_with_pi: 441967632e-2,
-    dps_delta: 201161.5,
-    dps_pct_gain: 4.77,
+    dps_no_pi: 421754642e-2,
+    dps_with_pi: 441748838e-2,
+    dps_delta: 199941.96,
+    dps_pct_gain: 4.74,
     pi_dep_spell_ids: {
       "107574": 107574
     },
@@ -26166,27 +26139,6 @@ var pi_values_default = [
         icon: "data/icons/inv_shield_1h_arathoroutdoor_d_01.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213455",
-          "213455"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10016",
@@ -26206,6 +26158,27 @@ var pi_values_default = [
           "7334"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 221136,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213455",
+          "213455"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
       },
       trinket1: {
         id: 246344,
@@ -26242,10 +26215,10 @@ var pi_values_default = [
     specId: 71,
     targets: 3,
     talents: "CcEAAAAAAAAAAAAAAAAAAAAAAghZmxMmxMz2stsMmBAAAYw0wMzyYGGLjZmxmZmhZwwAAAAAAAwMmtBDYLGwmZMsBDMj2oBsAA",
-    dps_no_pi: 299835699e-2,
-    dps_with_pi: 313833991e-2,
-    dps_delta: 139982.93,
-    dps_pct_gain: 4.67,
+    dps_no_pi: 299894587e-2,
+    dps_with_pi: 313615428e-2,
+    dps_delta: 137208.41,
+    dps_pct_gain: 4.58,
     pi_dep_spell_ids: {
       "107574": 107574
     },
@@ -26456,27 +26429,6 @@ var pi_values_default = [
         icon: "data/icons/inv_shield_1h_arathoroutdoor_d_01.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213455",
-          "213455"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10016",
@@ -26496,6 +26448,27 @@ var pi_values_default = [
           "7334"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 221136,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213455",
+          "213455"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
       },
       trinket1: {
         id: 246344,
@@ -26532,10 +26505,10 @@ var pi_values_default = [
     specId: 71,
     targets: 15,
     talents: "CcEAAAAAAAAAAAAAAAAAAAAAAghZmxMmxMz2stsMmBAAAYw0wMzyYGGLjZmxmZmhZwwAAAAAAAwMmtBDYLGwmZMsBDMj2oBsAA",
-    dps_no_pi: 77493349e-1,
-    dps_with_pi: 813667466e-2,
-    dps_delta: 387339.76,
-    dps_pct_gain: 5,
+    dps_no_pi: 774817893e-2,
+    dps_with_pi: 81368353e-1,
+    dps_delta: 388656.37,
+    dps_pct_gain: 5.02,
     pi_dep_spell_ids: {
       "107574": 107574
     },
@@ -26746,27 +26719,6 @@ var pi_values_default = [
         icon: "data/icons/inv_shield_1h_arathoroutdoor_d_01.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213455",
-          "213455"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10016",
@@ -26786,6 +26738,27 @@ var pi_values_default = [
           "7334"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 221136,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213455",
+          "213455"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
       },
       trinket1: {
         id: 246344,
@@ -26822,10 +26795,10 @@ var pi_values_default = [
     specId: 71,
     targets: 8,
     talents: "CcEAAAAAAAAAAAAAAAAAAAAAAghZmxMmxMz2stsMmBAAAYw0wMzyYGGLjZmxmZmhZwwAAAAAAAwMmtBDYLGwmZMsBDMj2oBsAA",
-    dps_no_pi: 539328636e-2,
-    dps_with_pi: 565359728e-2,
-    dps_delta: 260310.92,
-    dps_pct_gain: 4.83,
+    dps_no_pi: 539154831e-2,
+    dps_with_pi: 565570068e-2,
+    dps_delta: 264152.38,
+    dps_pct_gain: 4.9,
     pi_dep_spell_ids: {
       "107574": 107574
     },
@@ -27036,27 +27009,6 @@ var pi_values_default = [
         icon: "data/icons/inv_shield_1h_arathoroutdoor_d_01.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213455",
-          "213455"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10016",
@@ -27076,6 +27028,27 @@ var pi_values_default = [
           "7334"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 221136,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12353",
+          "3196",
+          "6652"
+        ],
+        gem_ids: [
+          "213455",
+          "213455"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
       },
       trinket1: {
         id: 246344,
@@ -27112,10 +27085,10 @@ var pi_values_default = [
     specId: 71,
     targets: 1,
     talents: "CcEAAAAAAAAAAAAAAAAAAAAAAAMjZmxMmZ2mlllZGAAAADmGmZWmZGmxgZsZmZwwMMAAAAAAA8AjZZmZGgwYbbgFwAmhJkB2A",
-    dps_no_pi: 543628197e-2,
-    dps_with_pi: 564793233e-2,
-    dps_delta: 211650.36,
-    dps_pct_gain: 3.89,
+    dps_no_pi: 56043556e-1,
+    dps_with_pi: 578595979e-2,
+    dps_delta: 181604.18,
+    dps_pct_gain: 3.24,
     pi_dep_spell_ids: {
       "107574": 107574
     },
@@ -27173,7 +27146,7 @@ var pi_values_default = [
         id: 237613,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12229",
           "12361",
           "12676",
@@ -27208,7 +27181,7 @@ var pi_values_default = [
         id: 237609,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12232",
           "12361",
           "12676",
@@ -27242,7 +27215,7 @@ var pi_values_default = [
         id: 222435,
         bonus_ids: [
           "10421",
-          "11303",
+          "11109",
           "12050",
           "12053",
           "12921",
@@ -27276,12 +27249,12 @@ var pi_values_default = [
       back: {
         id: 235499,
         bonus_ids: [
-          "12257",
+          "12258",
           "12401",
           "9893"
         ],
         gem_ids: [
-          "238044"
+          "238045"
         ],
         enchant_ids: [
           "7403"
@@ -27289,23 +27262,20 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 222443,
+        id: 221127,
         bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "10255",
+          "10384",
+          "10390",
+          "13446",
+          "3222",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [
           "7448"
         ],
-        icon: "data/icons/inv_axe_2h_earthendungeon_c_01.jpg"
+        icon: "data/icons/inv_sword_2h_earthendungeon_c_01.jpg"
       },
       finger1: {
         id: 221136,
@@ -27329,24 +27299,24 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
       },
       finger2: {
-        id: 237567,
+        id: 242405,
         bonus_ids: [
           "10255",
-          "10356",
+          "10355",
           "10396",
           "10879",
-          "12361",
-          "1533",
+          "12353",
+          "1514",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7352"
+          "7346"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring02_etherealribbonorrunestyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -27382,10 +27352,10 @@ var pi_values_default = [
     specId: 103,
     targets: 8,
     talents: "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbzmZWYmZmZzmZsNzMzYmBAAAAAYJY2MwMjaGzCLzMzyYGzAAAAAAADAAAAQzsMLzMbDIwCMzAwCDG",
-    dps_no_pi: 2133255195e-2,
-    dps_with_pi: 219772534e-1,
-    dps_delta: 644701.45,
-    dps_pct_gain: 3.02,
+    dps_no_pi: 2105319274e-2,
+    dps_with_pi: 2168588766e-2,
+    dps_delta: 632694.92,
+    dps_pct_gain: 3.01,
     pi_dep_spell_ids: {
       "106951": 106951
     },
@@ -27465,7 +27435,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8793",
+          "8791",
           "8902",
           "8960",
           "9627",
@@ -27517,7 +27487,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8791",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -27596,25 +27566,25 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 242491,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12357",
+          "3202",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213743"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -27649,11 +27619,11 @@ var pi_values_default = [
     spec: "Feral",
     specId: 103,
     targets: 1,
-    talents: "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxMbMmFzMmZ2mtHwYbmZGPwMDAAAAAwWwsBMzomxsMWmZGjZmZAAAAAAgBAAAAoZWmlZmtBEYBMzAYhBD",
-    dps_no_pi: 575732789e-2,
-    dps_with_pi: 602015341e-2,
-    dps_delta: 262825.51,
-    dps_pct_gain: 4.57,
+    talents: "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmBmZZmZMzsNbjx2MmxMzAAAAAAsFMbwYmRNjZhlZmxYGzAAAAAAADMAAAACAmtZWaWmZZDMDALmBD",
+    dps_no_pi: 597940408e-2,
+    dps_with_pi: 630645217e-2,
+    dps_delta: 327048.09,
+    dps_pct_gain: 5.47,
     pi_dep_spell_ids: {
       "106951": 106951
     },
@@ -27713,9 +27683,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -27746,7 +27716,7 @@ var pi_values_default = [
         id: 237681,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12232",
           "12361",
           "12676",
@@ -27831,8 +27801,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -27842,7 +27812,7 @@ var pi_values_default = [
         icon: "data/icons/inv_polearm_2h_etherealraid_d_01.jpg"
       },
       finger1: {
-        id: 221200,
+        id: 242491,
         bonus_ids: [
           "10255",
           "10383",
@@ -27854,43 +27824,41 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213491",
-          "213491"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7346"
+          "7334"
         ],
-        icon: "data/icons/inv_11_0_arathor_ring_01_color2.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 237567,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213482",
+          "213482"
         ],
         enchant_ids: [
-          "7346"
+          "7340"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242402,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -27902,8 +27870,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -27918,10 +27886,10 @@ var pi_values_default = [
     specId: 103,
     targets: 3,
     talents: "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbzmZWYmZmZzmZsNzMzYmBAAAAAYJY2MwMjaGzCLzMzyYGzAAAAAAADAAAAQzsMLzMbDIwCMzAwCDG",
-    dps_no_pi: 1053772821e-2,
-    dps_with_pi: 1093522331e-2,
-    dps_delta: 397495.1,
-    dps_pct_gain: 3.77,
+    dps_no_pi: 1045273554e-2,
+    dps_with_pi: 1084212719e-2,
+    dps_delta: 389391.65,
+    dps_pct_gain: 3.73,
     pi_dep_spell_ids: {
       "106951": 106951
     },
@@ -28001,7 +27969,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8793",
+          "8791",
           "8902",
           "8960",
           "9627",
@@ -28053,7 +28021,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8791",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -28132,25 +28100,25 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 242491,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12357",
+          "3202",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213743"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -28186,9 +28154,9 @@ var pi_values_default = [
     specId: 103,
     targets: 15,
     talents: "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbzmZWYmZmZzmZsNzMzYmBAAAAAYJY2MwMjaGzCLzMzyYGzAAAAAAADAAAAQzsMLzMbDIwCMzAwCDG",
-    dps_no_pi: 3294958153e-2,
-    dps_with_pi: 3387999633e-2,
-    dps_delta: 930414.8,
+    dps_no_pi: 3241483642e-2,
+    dps_with_pi: 3332774738e-2,
+    dps_delta: 912910.96,
     dps_pct_gain: 2.82,
     pi_dep_spell_ids: {
       "106951": 106951
@@ -28269,7 +28237,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8793",
+          "8791",
           "8902",
           "8960",
           "9627",
@@ -28321,7 +28289,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8791",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -28400,25 +28368,25 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 242491,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12357",
+          "3202",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213743"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -28454,10 +28422,10 @@ var pi_values_default = [
     specId: 103,
     targets: 5,
     talents: "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbzmZWYmZmZzmZsNzMzYmBAAAAAYJY2MwMjaGzCLzMzyYGzAAAAAAADAAAAQzsMLzMbDIwCMzAwCDG",
-    dps_no_pi: 1565058264e-2,
-    dps_with_pi: 161835696e-1,
-    dps_delta: 532986.96,
-    dps_pct_gain: 3.41,
+    dps_no_pi: 1548907985e-2,
+    dps_with_pi: 1600275766e-2,
+    dps_delta: 513677.81,
+    dps_pct_gain: 3.32,
     pi_dep_spell_ids: {
       "106951": 106951
     },
@@ -28537,7 +28505,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8793",
+          "8791",
           "8902",
           "8960",
           "9627",
@@ -28589,7 +28557,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8791",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -28668,25 +28636,25 @@ var pi_values_default = [
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 242491,
         bonus_ids: [
-          "10013",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12357",
+          "3202",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213743"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -28722,10 +28690,10 @@ var pi_values_default = [
     specId: 102,
     targets: 15,
     talents: "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYsYWmZZmZbmZmZmZxsMGGshFGgxy2MbYMbjATAAAAWMzYA2MMG",
-    dps_no_pi: 3908757054e-2,
-    dps_with_pi: 3988786912e-2,
-    dps_delta: 800298.58,
-    dps_pct_gain: 2.05,
+    dps_no_pi: 3908398189e-2,
+    dps_with_pi: 3987648136e-2,
+    dps_delta: 792499.47,
+    dps_pct_gain: 2.03,
     pi_dep_spell_ids: {
       "102560": 102560,
       "194223": 194223
@@ -28820,7 +28788,7 @@ var pi_values_default = [
         id: 237681,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12232",
           "12361",
           "12676",
@@ -29009,10 +28977,10 @@ var pi_values_default = [
     specId: 102,
     targets: 5,
     talents: "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYsYWmZZmZbmZmZmZxsMGGshFGgxy2MbYMbjATAAAAWMzYA2MMG",
-    dps_no_pi: 1763052656e-2,
-    dps_with_pi: 1801721774e-2,
-    dps_delta: 386691.18,
-    dps_pct_gain: 2.19,
+    dps_no_pi: 1763040887e-2,
+    dps_with_pi: 1801354795e-2,
+    dps_delta: 383139.08,
+    dps_pct_gain: 2.17,
     pi_dep_spell_ids: {
       "102560": 102560,
       "194223": 194223
@@ -29107,7 +29075,7 @@ var pi_values_default = [
         id: 237681,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12232",
           "12361",
           "12676",
@@ -29296,10 +29264,10 @@ var pi_values_default = [
     specId: 102,
     targets: 3,
     talents: "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYsYWmZZmZbmZmZmZxsMGGshFGgxy2MbYMbjATAAAAWMzYA2MMG",
-    dps_no_pi: 1140424305e-2,
-    dps_with_pi: 1170427591e-2,
-    dps_delta: 300032.86,
-    dps_pct_gain: 2.63,
+    dps_no_pi: 1140434369e-2,
+    dps_with_pi: 1170034408e-2,
+    dps_delta: 296000.39,
+    dps_pct_gain: 2.6,
     pi_dep_spell_ids: {
       "102560": 102560,
       "194223": 194223
@@ -29394,7 +29362,7 @@ var pi_values_default = [
         id: 237681,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12232",
           "12361",
           "12676",
@@ -29583,10 +29551,10 @@ var pi_values_default = [
     specId: 102,
     targets: 1,
     talents: "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtMGzMwDYWGLzMDwMGLzsNjlxMjZmFjZGzMjNswAMAbbjNMNzsMCAAAwGzMjB2MGG",
-    dps_no_pi: 59202124e-1,
-    dps_with_pi: 609393324e-2,
-    dps_delta: 173720.84,
-    dps_pct_gain: 2.93,
+    dps_no_pi: 614933142e-2,
+    dps_with_pi: 63273258e-1,
+    dps_delta: 177994.38,
+    dps_pct_gain: 2.89,
     pi_dep_spell_ids: {
       "102560": 102560,
       "194223": 194223
@@ -29598,10 +29566,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -29609,24 +29577,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_leather_raiddruidethereal_d_01.jpg"
       },
       neck: {
-        id: 215136,
+        id: 251880,
         bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8794",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1572",
+          "6652"
         ],
         gem_ids: [
-          "213491",
-          "213491"
+          "213458",
+          "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_dark.jpg"
       },
       shoulder: {
         id: 237552,
@@ -29648,9 +29615,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -29716,7 +29683,7 @@ var pi_values_default = [
           "12050",
           "12053",
           "12921",
-          "8791",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -29758,21 +29725,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7445"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -29789,6 +29741,21 @@ var pi_values_default = [
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
+      },
+      main_hand: {
+        id: 237728,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7448"
+        ],
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
         id: 237567,
@@ -29811,34 +29778,32 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 215135,
+        id: 237570,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
+          "12361",
+          "1533",
+          "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213491",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242402,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -29850,8 +29815,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -29866,10 +29831,10 @@ var pi_values_default = [
     specId: 102,
     targets: 8,
     talents: "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALUmtmxYmBYWYZmZWYYsYWmZZmZbmZmZmZxsMGGshFGgxy2MbYMbjATAAAAWMzYA2MMG",
-    dps_no_pi: 2554021905e-2,
-    dps_with_pi: 2606186362e-2,
-    dps_delta: 521644.56,
-    dps_pct_gain: 2.04,
+    dps_no_pi: 2553129421e-2,
+    dps_with_pi: 2606925779e-2,
+    dps_delta: 537963.58,
+    dps_pct_gain: 2.11,
     pi_dep_spell_ids: {
       "102560": 102560,
       "194223": 194223
@@ -29964,7 +29929,7 @@ var pi_values_default = [
         id: 237681,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12232",
           "12361",
           "12676",
@@ -30153,10 +30118,10 @@ var pi_values_default = [
     specId: 266,
     targets: 15,
     talents: "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2mZmhZbAAAAAAAAAAMAjZMsADsMahGWYmxM2GzsNjZmZMmxwMzMzMwMAAA",
-    dps_no_pi: 3963025382e-2,
-    dps_with_pi: 4072590168e-2,
-    dps_delta: 109564786e-2,
-    dps_pct_gain: 2.76,
+    dps_no_pi: 395464612e-1,
+    dps_with_pi: 4062260176e-2,
+    dps_delta: 107614056e-2,
+    dps_pct_gain: 2.72,
     pi_dep_spell_ids: {
       "456323": 456323
     },
@@ -30278,7 +30243,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
@@ -30435,10 +30400,10 @@ var pi_values_default = [
     specId: 266,
     targets: 8,
     talents: "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2mZmhZbAAAAAAAAAAMAjZMsADsMahGWYmxM2GzsNjZmZMmxwMzMzMwMAAA",
-    dps_no_pi: 2430201004e-2,
-    dps_with_pi: 2495513605e-2,
-    dps_delta: 653126.01,
-    dps_pct_gain: 2.69,
+    dps_no_pi: 2424712811e-2,
+    dps_with_pi: 2490606231e-2,
+    dps_delta: 658934.19,
+    dps_pct_gain: 2.72,
     pi_dep_spell_ids: {
       "456323": 456323
     },
@@ -30560,7 +30525,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
@@ -30717,10 +30682,10 @@ var pi_values_default = [
     specId: 266,
     targets: 1,
     talents: "CoQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZbAAAAAAAAAAMDYMjhFYglRL0wCzYG2mZmlZMzMjxMGmZGjhZmBAAA",
-    dps_no_pi: 57556994e-1,
-    dps_with_pi: 598434705e-2,
-    dps_delta: 228647.66,
-    dps_pct_gain: 3.97,
+    dps_no_pi: 590130317e-2,
+    dps_with_pi: 613122628e-2,
+    dps_delta: 229923.11,
+    dps_pct_gain: 3.9,
     pi_dep_spell_ids: {
       "456323": 456323
     },
@@ -30742,23 +30707,26 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidwarlockethereal_d_01.jpg"
       },
       neck: {
-        id: 252009,
+        id: 215136,
         bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
           "10396",
+          "10421",
+          "10520",
           "10879",
-          "12353",
-          "1553",
-          "6652"
+          "12050",
+          "12053",
+          "8795",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
         ],
         gem_ids: [
           "213479",
-          "213743"
+          "213479"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_11_0_arathor_necklace_01_color1.jpg"
+        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
       },
       shoulder: {
         id: 237698,
@@ -30808,7 +30776,7 @@ var pi_values_default = [
         id: 237699,
         bonus_ids: [
           "10255",
-          "10356",
+          "10390",
           "12232",
           "12361",
           "12676",
@@ -30910,17 +30878,37 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [
-          "7448"
+          "7439"
         ],
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213479",
+          "213479"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 221136,
         bonus_ids: [
           "10255",
@@ -30933,41 +30921,21 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213455",
-          "213743"
-        ],
-        enchant_ids: [
-          "7340"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213497",
+          "213461",
           "213497"
         ],
         enchant_ids: [
-          "7346"
+          "7352"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
       },
       trinket1: {
         id: 242395,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -30980,8 +30948,8 @@ var pi_values_default = [
           "10255",
           "10383",
           "10390",
-          "12355",
-          "3202",
+          "12361",
+          "3215",
           "6652"
         ],
         gem_ids: [],
@@ -30996,10 +30964,10 @@ var pi_values_default = [
     specId: 266,
     targets: 3,
     talents: "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2mZmhZbAAAAAAAAAAMAjZMsADsMahGWYmxM2GzsNjZmZMmxwMzMzMwMAAA",
-    dps_no_pi: 1088675956e-2,
-    dps_with_pi: 1120470029e-2,
-    dps_delta: 317940.73,
-    dps_pct_gain: 2.92,
+    dps_no_pi: 1086022057e-2,
+    dps_with_pi: 1118755932e-2,
+    dps_delta: 327338.75,
+    dps_pct_gain: 3.01,
     pi_dep_spell_ids: {
       "456323": 456323
     },
@@ -31121,7 +31089,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
@@ -31278,10 +31246,10 @@ var pi_values_default = [
     specId: 266,
     targets: 5,
     talents: "CoQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2mZmhZbAAAAAAAAAAMAjZMsADsMahGWYmxM2GzsNjZmZMmxwMzMzMwMAAA",
-    dps_no_pi: 1661543856e-2,
-    dps_with_pi: 1708125907e-2,
-    dps_delta: 465820.52,
-    dps_pct_gain: 2.8,
+    dps_no_pi: 1658006648e-2,
+    dps_with_pi: 1705239901e-2,
+    dps_delta: 472332.53,
+    dps_pct_gain: 2.85,
     pi_dep_spell_ids: {
       "456323": 456323
     },
@@ -31403,7 +31371,7 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
@@ -31560,10 +31528,10 @@ var pi_values_default = [
     specId: 265,
     targets: 3,
     talents: "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzwY2MzMMbDAAAYmxMLzMGLzMzsYGzMAgZsADMLGNmBkZDsMDAAAAAAAAmhFA",
-    dps_no_pi: 95904699e-1,
-    dps_with_pi: 1013123091e-2,
-    dps_delta: 540761.01,
-    dps_pct_gain: 5.64,
+    dps_no_pi: 959348997e-2,
+    dps_with_pi: 1013180515e-2,
+    dps_delta: 538315.19,
+    dps_pct_gain: 5.61,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -31837,10 +31805,10 @@ var pi_values_default = [
     specId: 265,
     targets: 5,
     talents: "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzwY2MzMMbDAAAYmxMLzMGLzMzsYGzMAgZsADMLGNmBkZDsMDAAAAAAAAmhFA",
-    dps_no_pi: 1550514113e-2,
-    dps_with_pi: 1646954976e-2,
-    dps_delta: 964408.64,
-    dps_pct_gain: 6.22,
+    dps_no_pi: 1550832032e-2,
+    dps_with_pi: 1647676705e-2,
+    dps_delta: 968446.73,
+    dps_pct_gain: 6.24,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -32114,10 +32082,10 @@ var pi_values_default = [
     specId: 265,
     targets: 8,
     talents: "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzwY2MzMMbDAAAYmxMLzMGLzMzsYGzMAgZsADMLGNmBkZDsMDAAAAAAAAmhFA",
-    dps_no_pi: 226930404e-1,
-    dps_with_pi: 2430066259e-2,
-    dps_delta: 160762219e-2,
-    dps_pct_gain: 7.08,
+    dps_no_pi: 2268288408e-2,
+    dps_with_pi: 2429697181e-2,
+    dps_delta: 161408772e-2,
+    dps_pct_gain: 7.12,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -32391,10 +32359,10 @@ var pi_values_default = [
     specId: 265,
     targets: 1,
     talents: "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzAz2MzMMbDAAAYmxMLmZGLzMzsYYmBAMjFYgZxoxMgMLglZAAAAAAAAwMmNA",
-    dps_no_pi: 515969117e-2,
-    dps_with_pi: 545451702e-2,
-    dps_delta: 294825.85,
-    dps_pct_gain: 5.71,
+    dps_no_pi: 534653417e-2,
+    dps_with_pi: 563685854e-2,
+    dps_delta: 290324.37,
+    dps_pct_gain: 5.43,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -32414,22 +32382,25 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidwarlockethereal_d_01.jpg"
       },
       neck: {
-        id: 242406,
+        id: 215136,
         bonus_ids: [
-          "10255",
-          "10355",
           "10396",
+          "10421",
           "10879",
-          "12353",
-          "1514",
-          "6652"
+          "12050",
+          "12053",
+          "13469",
+          "8793",
+          "8902",
+          "9627",
+          "9633"
         ],
         gem_ids: [
-          "213491",
+          "213458",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_gold.jpg"
+        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
       },
       shoulder: {
         id: 237698,
@@ -32452,9 +32423,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -32498,9 +32469,9 @@ var pi_values_default = [
           "10255",
           "10355",
           "12239",
-          "12353",
+          "12355",
           "13503",
-          "1514",
+          "1520",
           "6652"
         ],
         gem_ids: [],
@@ -32581,8 +32552,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -32604,15 +32575,15 @@ var pi_values_default = [
         ],
         gem_ids: [
           "213458",
-          "213743"
+          "213491"
         ],
         enchant_ids: [
-          "7346"
+          "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 221136,
+        id: 242491,
         bonus_ids: [
           "10255",
           "10383",
@@ -32624,13 +32595,13 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213467",
-          "213491"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring01_etherealnontechnologicalstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -32666,10 +32637,10 @@ var pi_values_default = [
     specId: 265,
     targets: 15,
     talents: "CkQAAAAAAAAAAAAAAAAAAAAAAAzMzMzMjhZzwY2MzMMbDAAAYmxMLzMGLzMzsYGzMAgZsADMLGNmBkZDsMDAAAAAAAAmhFA",
-    dps_no_pi: 3563004668e-2,
-    dps_with_pi: 3837675017e-2,
-    dps_delta: 274670349e-2,
-    dps_pct_gain: 7.71,
+    dps_no_pi: 3564008133e-2,
+    dps_with_pi: 3838023919e-2,
+    dps_delta: 274015786e-2,
+    dps_pct_gain: 7.69,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -32943,10 +32914,10 @@ var pi_values_default = [
     specId: 267,
     targets: 15,
     talents: "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2MzMMLzmxYGziZYZZmZAAAAAjZ2WmZWmHwCMwsY0YGAzWshBAAAAAAwMzMGAA",
-    dps_no_pi: 655608424e-1,
-    dps_with_pi: 7319682887e-2,
-    dps_delta: 763598647e-2,
-    dps_pct_gain: 11.65,
+    dps_no_pi: 3023739209e-2,
+    dps_with_pi: 316400368e-1,
+    dps_delta: 140264471e-2,
+    dps_pct_gain: 4.64,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -32966,22 +32937,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidwarlockethereal_d_01.jpg"
       },
       neck: {
-        id: 237568,
+        id: 185842,
         bonus_ids: [
+          "10019",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
-          "12358",
-          "1524",
+          "12356",
           "6652"
         ],
         gem_ids: [
-          "213455",
-          "213743"
+          "213458",
+          "213467"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237698,
@@ -33065,11 +33037,11 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -33111,21 +33083,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -33143,49 +33100,62 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
-      finger1: {
-        id: 178824,
+      main_hand: {
+        id: 237728,
         bonus_ids: [
-          "10019",
           "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12355",
-          "41"
+          "10356",
+          "12361",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213455",
-          "213458"
-        ],
+        gem_ids: [],
         enchant_ids: [
-          "7340"
+          "7448"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
-      finger2: {
-        id: 215133,
+      finger1: {
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "12359",
+          "1527",
+          "1742",
+          "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213470",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_11_0_jewelcrafting_ring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
+      },
+      finger2: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213494"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -33222,10 +33192,10 @@ var pi_values_default = [
     specId: 267,
     targets: 5,
     talents: "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2MzMMLzmxYGziZYZZmZAAAAAjZ2WmZWmHwCMwsY0YGAzWshBAAAAAAwMzMGAA",
-    dps_no_pi: 1572305108e-2,
-    dps_with_pi: 1651060993e-2,
-    dps_delta: 787558.85,
-    dps_pct_gain: 5.01,
+    dps_no_pi: 1252165038e-2,
+    dps_with_pi: 133240263e-1,
+    dps_delta: 802375.91,
+    dps_pct_gain: 6.41,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -33245,22 +33215,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidwarlockethereal_d_01.jpg"
       },
       neck: {
-        id: 237568,
+        id: 185842,
         bonus_ids: [
+          "10019",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
-          "12358",
-          "1524",
+          "12356",
           "6652"
         ],
         gem_ids: [
-          "213455",
-          "213743"
+          "213458",
+          "213467"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237698,
@@ -33344,11 +33315,11 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -33390,21 +33361,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -33422,49 +33378,62 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
-      finger1: {
-        id: 178824,
+      main_hand: {
+        id: 237728,
         bonus_ids: [
-          "10019",
           "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12355",
-          "41"
+          "10356",
+          "12361",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213455",
-          "213458"
-        ],
+        gem_ids: [],
         enchant_ids: [
-          "7340"
+          "7448"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
-      finger2: {
-        id: 215133,
+      finger1: {
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "12359",
+          "1527",
+          "1742",
+          "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213470",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_11_0_jewelcrafting_ring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
+      },
+      finger2: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213494"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -33501,10 +33470,10 @@ var pi_values_default = [
     specId: 267,
     targets: 8,
     talents: "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2MzMMLzmxYGziZYZZmZAAAAAjZ2WmZWmHwCMwsY0YGAzWshBAAAAAAwMzMGAA",
-    dps_no_pi: 2893286495e-2,
-    dps_with_pi: 3089639417e-2,
-    dps_delta: 196352922e-2,
-    dps_pct_gain: 6.79,
+    dps_no_pi: 1954174755e-2,
+    dps_with_pi: 2048916514e-2,
+    dps_delta: 947417.59,
+    dps_pct_gain: 4.85,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -33524,22 +33493,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidwarlockethereal_d_01.jpg"
       },
       neck: {
-        id: 237568,
+        id: 185842,
         bonus_ids: [
+          "10019",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
-          "12358",
-          "1524",
+          "12356",
           "6652"
         ],
         gem_ids: [
-          "213455",
-          "213743"
+          "213458",
+          "213467"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237698,
@@ -33623,11 +33593,11 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -33669,21 +33639,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -33701,49 +33656,62 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
-      finger1: {
-        id: 178824,
+      main_hand: {
+        id: 237728,
         bonus_ids: [
-          "10019",
           "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12355",
-          "41"
+          "10356",
+          "12361",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213455",
-          "213458"
-        ],
+        gem_ids: [],
         enchant_ids: [
-          "7340"
+          "7448"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
-      finger2: {
-        id: 215133,
+      finger1: {
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "12359",
+          "1527",
+          "1742",
+          "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213470",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_11_0_jewelcrafting_ring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
+      },
+      finger2: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213494"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -33780,10 +33748,10 @@ var pi_values_default = [
     specId: 267,
     targets: 3,
     talents: "CsQAAAAAAAAAAAAAAAAAAAAAAMMmxMzMjhZzwY2MzMMLzmxYGziZYZZmZAAAAAjZ2WmZWmHwCMwsY0YGAzWshBAAAAAAwMzMGAA",
-    dps_no_pi: 1001362108e-2,
-    dps_with_pi: 1041516889e-2,
-    dps_delta: 401547.81,
-    dps_pct_gain: 4.01,
+    dps_no_pi: 924500969e-2,
+    dps_with_pi: 96846346e-1,
+    dps_delta: 439624.9,
+    dps_pct_gain: 4.76,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -33803,22 +33771,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidwarlockethereal_d_01.jpg"
       },
       neck: {
-        id: 237568,
+        id: 185842,
         bonus_ids: [
+          "10019",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
-          "12358",
-          "1524",
+          "12356",
           "6652"
         ],
         gem_ids: [
-          "213455",
-          "213743"
+          "213458",
+          "213467"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237698,
@@ -33902,11 +33871,11 @@ var pi_values_default = [
         id: 222815,
         bonus_ids: [
           "10421",
-          "11109",
+          "11303",
           "12050",
           "12053",
           "12921",
-          "8790",
+          "8793",
           "8902",
           "8960",
           "9627",
@@ -33948,21 +33917,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7448"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -33980,49 +33934,62 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
-      finger1: {
-        id: 178824,
+      main_hand: {
+        id: 237728,
         bonus_ids: [
-          "10019",
           "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12355",
-          "41"
+          "10356",
+          "12361",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213455",
-          "213458"
-        ],
+        gem_ids: [],
         enchant_ids: [
-          "7340"
+          "7448"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
-      finger2: {
-        id: 215133,
+      finger1: {
+        id: 238036,
         bonus_ids: [
+          "10255",
+          "10356",
           "10396",
-          "10421",
+          "10844",
           "10879",
-          "12050",
-          "12053",
-          "8790",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "12359",
+          "1527",
+          "1742",
+          "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213470",
+          "213491"
         ],
         enchant_ids: [
           "7346"
         ],
-        icon: "data/icons/inv_11_0_jewelcrafting_ring_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_dark.jpg"
+      },
+      finger2: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213473",
+          "213494"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -34059,10 +34026,10 @@ var pi_values_default = [
     specId: 267,
     targets: 1,
     talents: "CsQAAAAAAAAAAAAAAAAAAAAAAAmZmZmZMMbGY2mZmhZZWMMzMzyMjZbxMDAAAAMzMsMzsMDYMjhFyAbDL0YBDAAAAAAghxMAA",
-    dps_no_pi: 581764118e-2,
-    dps_with_pi: 598559047e-2,
-    dps_delta: 167949.29,
-    dps_pct_gain: 2.89,
+    dps_no_pi: 608948829e-2,
+    dps_with_pi: 626450552e-2,
+    dps_delta: 175017.23,
+    dps_pct_gain: 2.87,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -34071,10 +34038,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34082,22 +34049,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidwarlockethereal_d_01.jpg"
       },
       neck: {
-        id: 242406,
+        id: 185842,
         bonus_ids: [
+          "10035",
           "10255",
-          "10356",
+          "10383",
+          "10389",
           "10396",
           "10879",
           "12361",
-          "1533",
           "6652"
         ],
         gem_ids: [
-          "213479",
-          "213743"
+          "213497",
+          "213497"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_gold.jpg"
+        icon: "data/icons/inv_misc_silverjadenecklace.jpg"
       },
       shoulder: {
         id: 237698,
@@ -34120,9 +34088,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34149,9 +34117,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12232",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34234,6 +34202,7 @@ var pi_values_default = [
           "11300",
           "12050",
           "12053",
+          "13468",
           "8790",
           "8902",
           "8960",
@@ -34249,8 +34218,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34260,28 +34229,7 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213455",
-          "213455"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
-        id: 237570,
+        id: 237567,
         bonus_ids: [
           "10255",
           "10356",
@@ -34292,39 +34240,62 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213458",
+          "213491",
           "213491"
         ],
         enchant_ids: [
-          "7334"
+          "7346"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
+        id: 215135,
+        bonus_ids: [
+          "10396",
+          "10421",
+          "10879",
+          "11941",
+          "12050",
+          "12053",
+          "8793",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213494",
+          "213494"
+        ],
+        enchant_ids: [
+          "7346"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
         id: 242392,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_intdps_ancientkareshirelic.jpg"
+      },
+      trinket2: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       }
     }
   },
@@ -34334,10 +34305,10 @@ var pi_values_default = [
     specId: 258,
     targets: 1,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNA",
-    dps_no_pi: 542887213e-2,
-    dps_with_pi: 560614684e-2,
-    dps_delta: 177274.71,
-    dps_pct_gain: 3.27,
+    dps_no_pi: 588491612e-2,
+    dps_with_pi: 602887737e-2,
+    dps_delta: 143961.25,
+    dps_pct_gain: 2.45,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -34359,33 +34330,30 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_cloth_raidpriestethereal_d_01.jpg"
       },
       neck: {
-        id: 215136,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8793",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213494",
-          "213743"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
-      },
-      shoulder: {
-        id: 237707,
+        id: 237569,
         bonus_ids: [
           "10255",
           "10356",
-          "12233",
+          "10396",
+          "10879",
           "12361",
-          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213491",
+          "213491"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
+      },
+      shoulder: {
+        id: 237547,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
           "1533",
           "6652"
         ],
@@ -34399,9 +34367,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34411,16 +34379,19 @@ var pi_values_default = [
         icon: "data/icons/inv_robe_cloth_raidpriestethereal_d_01.jpg"
       },
       waist: {
-        id: 242664,
+        id: 237538,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213482"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_belt_cloth_raidwarlockethereal_d_01.jpg"
       },
       legs: {
         id: 237708,
@@ -34428,9 +34399,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12232",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34443,16 +34414,16 @@ var pi_values_default = [
         id: 243305,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [
-          "7424"
+          "7418"
         ],
         icon: "data/icons/inv_boot_cloth_raidpriestethereal_d_01.jpg"
       },
@@ -34506,21 +34477,6 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
-      main_hand: {
-        id: 237728,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7445"
-        ],
-        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
-      },
       off_hand: {
         id: 222566,
         bonus_ids: [
@@ -34528,6 +34484,7 @@ var pi_values_default = [
           "11300",
           "12050",
           "12053",
+          "13468",
           "8793",
           "8902",
           "8960",
@@ -34538,27 +34495,22 @@ var pi_values_default = [
         enchant_ids: [],
         icon: "data/icons/inv_offhand_1h_arathoroutdoor_d_01.jpg"
       },
-      finger1: {
-        id: 237570,
+      main_hand: {
+        id: 237728,
         bonus_ids: [
           "10255",
           "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
-        gem_ids: [
-          "213479",
-          "213479"
-        ],
+        gem_ids: [],
         enchant_ids: [
-          "7340"
+          "7445"
         ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+        icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
-      finger2: {
+      finger1: {
         id: 237567,
         bonus_ids: [
           "10255",
@@ -34578,13 +34530,33 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
+      finger2: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213479",
+          "213479"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+      },
       trinket1: {
         id: 242402,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34596,8 +34568,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -34612,10 +34584,10 @@ var pi_values_default = [
     specId: 258,
     targets: 5,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMWGjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA",
-    dps_no_pi: 1422118757e-2,
-    dps_with_pi: 1459516603e-2,
-    dps_delta: 373978.47,
-    dps_pct_gain: 2.63,
+    dps_no_pi: 1469811635e-2,
+    dps_with_pi: 151209499e-1,
+    dps_delta: 422833.55,
+    dps_pct_gain: 2.88,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -34624,7 +34596,7 @@ var pi_values_default = [
         id: 237709,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -34639,18 +34611,18 @@ var pi_values_default = [
       neck: {
         id: 178827,
         bonus_ids: [
-          "10013",
+          "10032",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12361",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213461",
+          "213743"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
@@ -34821,27 +34793,6 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10019",
@@ -34861,6 +34812,28 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 215135,
+        bonus_ids: [
+          "10394",
+          "10421",
+          "10879",
+          "12050",
+          "12053",
+          "8791",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213455",
+          "213470"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
         id: 242395,
@@ -34896,10 +34869,10 @@ var pi_values_default = [
     specId: 258,
     targets: 15,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMWGjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA",
-    dps_no_pi: 3308724606e-2,
-    dps_with_pi: 3414524335e-2,
-    dps_delta: 105799729e-2,
-    dps_pct_gain: 3.2,
+    dps_no_pi: 3403510929e-2,
+    dps_with_pi: 3523278263e-2,
+    dps_delta: 119767334e-2,
+    dps_pct_gain: 3.52,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -34908,7 +34881,7 @@ var pi_values_default = [
         id: 237709,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -34923,18 +34896,18 @@ var pi_values_default = [
       neck: {
         id: 178827,
         bonus_ids: [
-          "10013",
+          "10032",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12361",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213461",
+          "213743"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
@@ -35105,27 +35078,6 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10019",
@@ -35145,6 +35097,28 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 215135,
+        bonus_ids: [
+          "10394",
+          "10421",
+          "10879",
+          "12050",
+          "12053",
+          "8791",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213455",
+          "213470"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
         id: 242395,
@@ -35180,10 +35154,10 @@ var pi_values_default = [
     specId: 258,
     targets: 3,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMWGjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA",
-    dps_no_pi: 958125639e-2,
-    dps_with_pi: 984336185e-2,
-    dps_delta: 262105.47,
-    dps_pct_gain: 2.74,
+    dps_no_pi: 989407799e-2,
+    dps_with_pi: 101948065e-1,
+    dps_delta: 300728.51,
+    dps_pct_gain: 3.04,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -35192,7 +35166,7 @@ var pi_values_default = [
         id: 237709,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -35207,18 +35181,18 @@ var pi_values_default = [
       neck: {
         id: 178827,
         bonus_ids: [
-          "10013",
+          "10032",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12361",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213461",
+          "213743"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
@@ -35389,27 +35363,6 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10019",
@@ -35429,6 +35382,28 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 215135,
+        bonus_ids: [
+          "10394",
+          "10421",
+          "10879",
+          "12050",
+          "12053",
+          "8791",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213455",
+          "213470"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
         id: 242395,
@@ -35464,10 +35439,10 @@ var pi_values_default = [
     specId: 258,
     targets: 8,
     talents: "CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMWGjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA",
-    dps_no_pi: 2046750044e-2,
-    dps_with_pi: 2102790637e-2,
-    dps_delta: 560405.93,
-    dps_pct_gain: 2.74,
+    dps_no_pi: 2114597923e-2,
+    dps_with_pi: 2177564836e-2,
+    dps_delta: 629669.12,
+    dps_pct_gain: 2.98,
     pi_dep_spell_ids: {
       "228260": 228260
     },
@@ -35476,7 +35451,7 @@ var pi_values_default = [
         id: 237709,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12231",
           "12361",
           "12676",
@@ -35491,18 +35466,18 @@ var pi_values_default = [
       neck: {
         id: 178827,
         bonus_ids: [
-          "10013",
+          "10032",
           "10255",
           "10383",
           "10390",
           "10396",
           "10879",
-          "12353",
+          "12361",
           "6652"
         ],
         gem_ids: [
-          "213494",
-          "213494"
+          "213461",
+          "213743"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_7_0raid_necklace_03a.jpg"
@@ -35673,27 +35648,6 @@ var pi_values_default = [
         icon: "data/icons/inv_knife_1h_etherealraid_d_02.jpg"
       },
       finger1: {
-        id: 221136,
-        bonus_ids: [
-          "10255",
-          "10383",
-          "10390",
-          "10396",
-          "10879",
-          "12353",
-          "3196",
-          "6652"
-        ],
-        gem_ids: [
-          "213491",
-          "213491"
-        ],
-        enchant_ids: [
-          "7346"
-        ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
-      },
-      finger2: {
         id: 246281,
         bonus_ids: [
           "10019",
@@ -35713,6 +35667,28 @@ var pi_values_default = [
           "7346"
         ],
         icon: "data/icons/inv_misc_60raid_ring_1b.jpg"
+      },
+      finger2: {
+        id: 215135,
+        bonus_ids: [
+          "10394",
+          "10421",
+          "10879",
+          "12050",
+          "12053",
+          "8791",
+          "8902",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [
+          "213455",
+          "213470"
+        ],
+        enchant_ids: [
+          "7340"
+        ],
+        icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       trinket1: {
         id: 242395,
@@ -35748,10 +35724,10 @@ var pi_values_default = [
     specId: 577,
     targets: 5,
     talents: "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZmZMzMjhJDzAAAAAAAmFjxMjZmZbMzGWmZwYYssNbzghx2GTyMmZGGWA",
-    dps_no_pi: 1428732972e-2,
-    dps_with_pi: 1469827494e-2,
-    dps_delta: 410945.21,
-    dps_pct_gain: 2.88,
+    dps_no_pi: 1405938178e-2,
+    dps_with_pi: 1446904346e-2,
+    dps_delta: 409661.68,
+    dps_pct_gain: 2.91,
     pi_dep_spell_ids: {
       "162264": 162264
     },
@@ -35773,24 +35749,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_leather_raiddemonhunterethereal_d_01.jpg"
       },
       neck: {
-        id: 215136,
+        id: 251880,
         bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
+          "12355",
+          "1559",
+          "6652"
         ],
         gem_ids: [
           "213458",
-          "213743"
+          "213458"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_dark.jpg"
       },
       shoulder: {
         id: 237689,
@@ -35825,22 +35800,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_leather_raiddemonhunterethereal_d_01.jpg"
       },
       waist: {
-        id: 219331,
+        id: 237533,
         bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
+          "10255",
+          "10356",
+          "12239",
+          "12361",
           "12921",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
+        icon: "data/icons/inv_belt_leather_raidmonkethereal_d_01.jpg"
       },
       legs: {
         id: 237690,
@@ -35927,6 +35899,21 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
+        id: 237727,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7439"
+        ],
+        icon: "data/icons/inv_glaive_1h_etherealraid_d_01.jpg"
+      },
+      off_hand: {
         id: 237738,
         bonus_ids: [
           "10255",
@@ -35941,26 +35928,27 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
       },
-      off_hand: {
-        id: 222441,
-        bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_glaive_1h_arathoroutdoor_d_01.jpg"
-      },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213458",
+          "213458"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 237570,
         bonus_ids: [
           "10255",
@@ -35979,26 +35967,6 @@ var pi_values_default = [
           "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213458",
-          "213743"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -36034,10 +36002,10 @@ var pi_values_default = [
     specId: 577,
     targets: 3,
     talents: "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZmZMzMjhJDzAAAAAAAmFjxMjZmZbMzGWmZwYYssNbzghx2GTyMmZGGWA",
-    dps_no_pi: 1029636452e-2,
-    dps_with_pi: 105995941e-1,
-    dps_delta: 303229.58,
-    dps_pct_gain: 2.95,
+    dps_no_pi: 1011868019e-2,
+    dps_with_pi: 1041353188e-2,
+    dps_delta: 294851.69,
+    dps_pct_gain: 2.91,
     pi_dep_spell_ids: {
       "162264": 162264
     },
@@ -36059,24 +36027,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_leather_raiddemonhunterethereal_d_01.jpg"
       },
       neck: {
-        id: 215136,
+        id: 251880,
         bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
+          "12355",
+          "1559",
+          "6652"
         ],
         gem_ids: [
           "213458",
-          "213743"
+          "213458"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_dark.jpg"
       },
       shoulder: {
         id: 237689,
@@ -36111,22 +36078,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_leather_raiddemonhunterethereal_d_01.jpg"
       },
       waist: {
-        id: 219331,
+        id: 237533,
         bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
+          "10255",
+          "10356",
+          "12239",
+          "12361",
           "12921",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
+        icon: "data/icons/inv_belt_leather_raidmonkethereal_d_01.jpg"
       },
       legs: {
         id: 237690,
@@ -36213,6 +36177,21 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
+        id: 237727,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7439"
+        ],
+        icon: "data/icons/inv_glaive_1h_etherealraid_d_01.jpg"
+      },
+      off_hand: {
         id: 237738,
         bonus_ids: [
           "10255",
@@ -36227,26 +36206,27 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
       },
-      off_hand: {
-        id: 222441,
-        bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_glaive_1h_arathoroutdoor_d_01.jpg"
-      },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213458",
+          "213458"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 237570,
         bonus_ids: [
           "10255",
@@ -36265,26 +36245,6 @@ var pi_values_default = [
           "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213458",
-          "213743"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -36320,10 +36280,10 @@ var pi_values_default = [
     specId: 577,
     targets: 1,
     talents: "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzgZmZMmJmZGAAAAAAwsMmxMMGLjZ2wyMmxMjhlNYZ2MjhZTTjxMzMD2A",
-    dps_no_pi: 530587891e-2,
-    dps_with_pi: 545818607e-2,
-    dps_delta: 152307.16,
-    dps_pct_gain: 2.87,
+    dps_no_pi: 556618161e-2,
+    dps_with_pi: 57130902e-1,
+    dps_delta: 146908.6,
+    dps_pct_gain: 2.64,
     pi_dep_spell_ids: {
       "162264": 162264
     },
@@ -36334,10 +36294,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -36358,7 +36318,7 @@ var pi_values_default = [
           "9633"
         ],
         gem_ids: [
-          "213491",
+          "213458",
           "213743"
         ],
         enchant_ids: [],
@@ -36385,9 +36345,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -36397,16 +36357,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_leather_raiddemonhunterethereal_d_01.jpg"
       },
       waist: {
-        id: 245964,
+        id: 237533,
         bonus_ids: [
-          "12533",
-          "1489"
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
         ],
-        gem_ids: [
-          "213458"
-        ],
+        gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
+        icon: "data/icons/inv_belt_leather_raidmonkethereal_d_01.jpg"
       },
       legs: {
         id: 237690,
@@ -36493,31 +36456,12 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
-        id: 222441,
-        bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_glaive_1h_arathoroutdoor_d_01.jpg"
-      },
-      off_hand: {
         id: 237738,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -36525,6 +36469,21 @@ var pi_values_default = [
           "7439"
         ],
         icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
+      },
+      off_hand: {
+        id: 237727,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7439"
+        ],
+        icon: "data/icons/inv_glaive_1h_etherealraid_d_01.jpg"
       },
       finger1: {
         id: 237567,
@@ -36538,11 +36497,11 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213458",
-          "213458"
+          "213491",
+          "213491"
         ],
         enchant_ids: [
-          "7334"
+          "7346"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
@@ -36573,8 +36532,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -36582,17 +36541,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242402,
+        id: 242397,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_agidpsancientkareshirelic.jpg"
       }
     }
   },
@@ -36602,9 +36561,287 @@ var pi_values_default = [
     specId: 577,
     targets: 8,
     talents: "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZmZMzMjhJDzAAAAAAAmFjxMjZmZbMzGWmZwYYssNbzghx2GTyMmZGGWA",
-    dps_no_pi: 186729201e-1,
-    dps_with_pi: 1920634307e-2,
-    dps_delta: 533422.97,
+    dps_no_pi: 1843216303e-2,
+    dps_with_pi: 189534528e-1,
+    dps_delta: 521289.77,
+    dps_pct_gain: 2.83,
+    pi_dep_spell_ids: {
+      "162264": 162264
+    },
+    gear: {
+      head: {
+        id: 237691,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12231",
+          "12361",
+          "12676",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_helm_leather_raiddemonhunterethereal_d_01.jpg"
+      },
+      neck: {
+        id: 251880,
+        bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
+          "10396",
+          "10879",
+          "12355",
+          "1559",
+          "6652"
+        ],
+        gem_ids: [
+          "213458",
+          "213458"
+        ],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_dark.jpg"
+      },
+      shoulder: {
+        id: 237689,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12233",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_shoulder_leather_raiddemonhunterethereal_d_01.jpg"
+      },
+      chest: {
+        id: 237694,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12229",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7364"
+        ],
+        icon: "data/icons/inv_chest_leather_raiddemonhunterethereal_d_01.jpg"
+      },
+      waist: {
+        id: 237533,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "12921",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_belt_leather_raidmonkethereal_d_01.jpg"
+      },
+      legs: {
+        id: 237690,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12232",
+          "12361",
+          "12676",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7601"
+        ],
+        icon: "data/icons/inv_pant_leather_raiddemonhunterethereal_d_01.jpg"
+      },
+      feet: {
+        id: 243306,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12239",
+          "12361",
+          "13504",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7424"
+        ],
+        icon: "data/icons/inv_boot_leather_raidmonkethereal_d_01.jpg"
+      },
+      wrist: {
+        id: 219334,
+        bonus_ids: [
+          "10421",
+          "11303",
+          "12050",
+          "12053",
+          "12921",
+          "8791",
+          "8902",
+          "8960",
+          "9627",
+          "9633"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7385"
+        ],
+        icon: "data/icons/inv_leather_outdoorarathor_d_01_bracer.jpg"
+      },
+      hands: {
+        id: 237692,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12230",
+          "12361",
+          "12675",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_glove_leather_raiddemonhunterethereal_d_01.jpg"
+      },
+      back: {
+        id: 235499,
+        bonus_ids: [
+          "12257",
+          "12401",
+          "9893"
+        ],
+        gem_ids: [
+          "238044"
+        ],
+        enchant_ids: [
+          "7403"
+        ],
+        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
+      },
+      main_hand: {
+        id: 237727,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7439"
+        ],
+        icon: "data/icons/inv_glaive_1h_etherealraid_d_01.jpg"
+      },
+      off_hand: {
+        id: 237738,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7439"
+        ],
+        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
+      },
+      finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213458",
+          "213458"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
+        id: 237570,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213467",
+          "213479"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
+      },
+      trinket1: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
+      },
+      trinket2: {
+        id: 242396,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
+      }
+    }
+  },
+  {
+    class: "DemonHunter",
+    spec: "Havoc",
+    specId: 577,
+    targets: 15,
+    talents: "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZmZMzMjhJDzAAAAAAAmFjxMjZmZbMzGWmZwYYssNbzghx2GTyMmZGGWA",
+    dps_no_pi: 2769966017e-2,
+    dps_with_pi: 2849048938e-2,
+    dps_delta: 790829.21,
     dps_pct_gain: 2.86,
     pi_dep_spell_ids: {
       "162264": 162264
@@ -36627,24 +36864,23 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_leather_raiddemonhunterethereal_d_01.jpg"
       },
       neck: {
-        id: 215136,
+        id: 251880,
         bonus_ids: [
+          "10255",
+          "10383",
+          "10390",
           "10396",
-          "10421",
           "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
+          "12355",
+          "1559",
+          "6652"
         ],
         gem_ids: [
           "213458",
-          "213743"
+          "213458"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace02_etherealribbonorrunestyle_dark.jpg"
       },
       shoulder: {
         id: 237689,
@@ -36679,22 +36915,19 @@ var pi_values_default = [
         icon: "data/icons/inv_chest_leather_raiddemonhunterethereal_d_01.jpg"
       },
       waist: {
-        id: 219331,
+        id: 237533,
         bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
+          "10255",
+          "10356",
+          "12239",
+          "12361",
           "12921",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
+          "1533",
+          "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
+        icon: "data/icons/inv_belt_leather_raidmonkethereal_d_01.jpg"
       },
       legs: {
         id: 237690,
@@ -36781,6 +37014,21 @@ var pi_values_default = [
         icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
       },
       main_hand: {
+        id: 237727,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [
+          "7439"
+        ],
+        icon: "data/icons/inv_glaive_1h_etherealraid_d_01.jpg"
+      },
+      off_hand: {
         id: 237738,
         bonus_ids: [
           "10255",
@@ -36795,26 +37043,27 @@ var pi_values_default = [
         ],
         icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
       },
-      off_hand: {
-        id: 222441,
-        bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_glaive_1h_arathoroutdoor_d_01.jpg"
-      },
       finger1: {
+        id: 237567,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "10396",
+          "10879",
+          "12361",
+          "1533",
+          "6652"
+        ],
+        gem_ids: [
+          "213458",
+          "213458"
+        ],
+        enchant_ids: [
+          "7334"
+        ],
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
+      },
+      finger2: {
         id: 237570,
         bonus_ids: [
           "10255",
@@ -36833,312 +37082,6 @@ var pi_values_default = [
           "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213458",
-          "213743"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
-      },
-      trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
-        id: 242396,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_voidprism.jpg"
-      }
-    }
-  },
-  {
-    class: "DemonHunter",
-    spec: "Havoc",
-    specId: 577,
-    targets: 15,
-    talents: "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZmZMzMjhJDzAAAAAAAmFjxMjZmZbMzGWmZwYYssNbzghx2GTyMmZGGWA",
-    dps_no_pi: 2799621409e-2,
-    dps_with_pi: 2877923208e-2,
-    dps_delta: 783018,
-    dps_pct_gain: 2.8,
-    pi_dep_spell_ids: {
-      "162264": 162264
-    },
-    gear: {
-      head: {
-        id: 237691,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12231",
-          "12361",
-          "12676",
-          "12921",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_helm_leather_raiddemonhunterethereal_d_01.jpg"
-      },
-      neck: {
-        id: 215136,
-        bonus_ids: [
-          "10396",
-          "10421",
-          "10879",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [
-          "213458",
-          "213743"
-        ],
-        enchant_ids: [],
-        icon: "data/icons/inv_11_0_earthen_earthennecklace02_color1.jpg"
-      },
-      shoulder: {
-        id: 237689,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12233",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_shoulder_leather_raiddemonhunterethereal_d_01.jpg"
-      },
-      chest: {
-        id: 237694,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12229",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7364"
-        ],
-        icon: "data/icons/inv_chest_leather_raiddemonhunterethereal_d_01.jpg"
-      },
-      waist: {
-        id: 219331,
-        bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
-          "12921",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_belt.jpg"
-      },
-      legs: {
-        id: 237690,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12232",
-          "12361",
-          "12676",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7601"
-        ],
-        icon: "data/icons/inv_pant_leather_raiddemonhunterethereal_d_01.jpg"
-      },
-      feet: {
-        id: 243306,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12239",
-          "12361",
-          "13504",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7424"
-        ],
-        icon: "data/icons/inv_boot_leather_raidmonkethereal_d_01.jpg"
-      },
-      wrist: {
-        id: 219334,
-        bonus_ids: [
-          "10421",
-          "11303",
-          "12050",
-          "12053",
-          "12921",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7385"
-        ],
-        icon: "data/icons/inv_leather_outdoorarathor_d_01_bracer.jpg"
-      },
-      hands: {
-        id: 237692,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12230",
-          "12361",
-          "12675",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_glove_leather_raiddemonhunterethereal_d_01.jpg"
-      },
-      back: {
-        id: 235499,
-        bonus_ids: [
-          "12257",
-          "12401",
-          "9893"
-        ],
-        gem_ids: [
-          "238044"
-        ],
-        enchant_ids: [
-          "7403"
-        ],
-        icon: "data/icons/inv_cape_armor_etherealshawl_d_01.jpg"
-      },
-      main_hand: {
-        id: 237738,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_hand_1h_etherealraid_d_01.jpg"
-      },
-      off_hand: {
-        id: 222441,
-        bonus_ids: [
-          "10421",
-          "11300",
-          "12050",
-          "12053",
-          "8791",
-          "8902",
-          "8960",
-          "9627",
-          "9633"
-        ],
-        gem_ids: [],
-        enchant_ids: [
-          "7439"
-        ],
-        icon: "data/icons/inv_glaive_1h_arathoroutdoor_d_01.jpg"
-      },
-      finger1: {
-        id: 237570,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213467",
-          "213479"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
-      },
-      finger2: {
-        id: 237567,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "10396",
-          "10879",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [
-          "213458",
-          "213743"
-        ],
-        enchant_ids: [
-          "7334"
-        ],
-        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
         id: 242395,
@@ -37174,10 +37117,10 @@ var pi_values_default = [
     specId: 70,
     targets: 5,
     talents: "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAgRmltZmtltZGLGz2mZbAAAAAAY2aaGGmZsNDmthxsNzy2YGMYYZhNAAAyMTbzysNDAYDYAAjZYA",
-    dps_no_pi: 1660327316e-2,
-    dps_with_pi: 1721690949e-2,
-    dps_delta: 613636.32,
-    dps_pct_gain: 3.7,
+    dps_no_pi: 1642457602e-2,
+    dps_with_pi: 1710369508e-2,
+    dps_delta: 679119.06,
+    dps_pct_gain: 4.13,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -37233,7 +37176,7 @@ var pi_values_default = [
         id: 237622,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12229",
           "12361",
           "12676",
@@ -37294,7 +37237,7 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [
-          "7418"
+          "7424"
         ],
         icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
       },
@@ -37370,39 +37313,38 @@ var pi_values_default = [
           "10356",
           "10396",
           "10879",
-          "12361",
-          "1533",
+          "12356",
+          "1517",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 237570,
         bonus_ids: [
-          "10032",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12361",
+          "12359",
+          "1527",
           "6652"
         ],
         gem_ids: [
-          "213479",
+          "213455",
           "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -37418,18 +37360,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 232541,
+        id: 242402,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
+          "10356",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
       }
     }
   },
@@ -37439,10 +37380,10 @@ var pi_values_default = [
     specId: 70,
     targets: 8,
     talents: "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAgRmltZmtltZGLGz2mZbAAAAAAY2aaGGmZsNDmthxsNzy2YGMYYZhNAAAyMTbzysNDAYDYAAjZYA",
-    dps_no_pi: 2270346058e-2,
-    dps_with_pi: 2358502619e-2,
-    dps_delta: 881565.6,
-    dps_pct_gain: 3.88,
+    dps_no_pi: 2247577258e-2,
+    dps_with_pi: 2343125418e-2,
+    dps_delta: 955481.6,
+    dps_pct_gain: 4.25,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -37498,7 +37439,7 @@ var pi_values_default = [
         id: 237622,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12229",
           "12361",
           "12676",
@@ -37559,7 +37500,7 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [
-          "7418"
+          "7424"
         ],
         icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
       },
@@ -37635,39 +37576,38 @@ var pi_values_default = [
           "10356",
           "10396",
           "10879",
-          "12361",
-          "1533",
+          "12356",
+          "1517",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 237570,
         bonus_ids: [
-          "10032",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12361",
+          "12359",
+          "1527",
           "6652"
         ],
         gem_ids: [
-          "213479",
+          "213455",
           "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -37683,18 +37623,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 232541,
+        id: 242402,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
+          "10356",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
       }
     }
   },
@@ -37704,10 +37643,10 @@ var pi_values_default = [
     specId: 70,
     targets: 1,
     talents: "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAAamltZmtltxYbMz22MbAAAAAAY00MMMzYbGMbDzysNDDDmhhlF2AAAIzMtNLz2MAgNgBAjxMMD",
-    dps_no_pi: 566670611e-2,
-    dps_with_pi: 58448039e-1,
-    dps_delta: 178097.8,
-    dps_pct_gain: 3.14,
+    dps_no_pi: 586544061e-2,
+    dps_with_pi: 605251142e-2,
+    dps_delta: 187070.81,
+    dps_pct_gain: 3.19,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -37738,7 +37677,7 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213458",
+          "213473",
           "213743"
         ],
         enchant_ids: [],
@@ -37765,9 +37704,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -37883,8 +37822,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -37925,39 +37864,39 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213458",
-          "213458"
+          "213491",
+          "213491"
         ],
         enchant_ids: [
-          "7334"
+          "7346"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       trinket1: {
-        id: 242395,
-        bonus_ids: [
-          "10255",
-          "10356",
-          "12361",
-          "1533",
-          "6652"
-        ],
-        gem_ids: [],
-        enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
-      },
-      trinket2: {
         id: 242402,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
         icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+      },
+      trinket2: {
+        id: 242395,
+        bonus_ids: [
+          "10255",
+          "10356",
+          "13446",
+          "1540",
+          "6652"
+        ],
+        gem_ids: [],
+        enchant_ids: [],
+        icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       }
     }
   },
@@ -37967,10 +37906,10 @@ var pi_values_default = [
     specId: 70,
     targets: 15,
     talents: "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAgRmltZmtltZGLGz2mZbAAAAAAY2aaGGmZsNDmthxsNzy2YGMYYZhNAAAyMTbzysNDAYDYAAjZYA",
-    dps_no_pi: 3234796177e-2,
-    dps_with_pi: 3372931033e-2,
-    dps_delta: 138134856e-2,
-    dps_pct_gain: 4.27,
+    dps_no_pi: 3191166523e-2,
+    dps_with_pi: 3341263572e-2,
+    dps_delta: 150097049e-2,
+    dps_pct_gain: 4.7,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -38026,7 +37965,7 @@ var pi_values_default = [
         id: 237622,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12229",
           "12361",
           "12676",
@@ -38087,7 +38026,7 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [
-          "7418"
+          "7424"
         ],
         icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
       },
@@ -38163,39 +38102,38 @@ var pi_values_default = [
           "10356",
           "10396",
           "10879",
-          "12361",
-          "1533",
+          "12356",
+          "1517",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 237570,
         bonus_ids: [
-          "10032",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12361",
+          "12359",
+          "1527",
           "6652"
         ],
         gem_ids: [
-          "213479",
+          "213455",
           "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -38211,18 +38149,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 232541,
+        id: 242402,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
+          "10356",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
       }
     }
   },
@@ -38232,10 +38169,10 @@ var pi_values_default = [
     specId: 70,
     targets: 3,
     talents: "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAYAgRmltZmtltZGLGz2mZbAAAAAAY2aaGGmZsNDmthxsNzy2YGMYYZhNAAAyMTbzysNDAYDYAAjZYA",
-    dps_no_pi: 1028464166e-2,
-    dps_with_pi: 106511686e-1,
-    dps_delta: 366526.94,
-    dps_pct_gain: 3.56,
+    dps_no_pi: 1017829024e-2,
+    dps_with_pi: 1058868284e-2,
+    dps_delta: 410392.6,
+    dps_pct_gain: 4.03,
     pi_dep_spell_ids: {},
     gear: {
       head: {
@@ -38291,7 +38228,7 @@ var pi_values_default = [
         id: 237622,
         bonus_ids: [
           "10255",
-          "10390",
+          "10356",
           "12229",
           "12361",
           "12676",
@@ -38352,7 +38289,7 @@ var pi_values_default = [
         ],
         gem_ids: [],
         enchant_ids: [
-          "7418"
+          "7424"
         ],
         icon: "data/icons/inv_plate_raidpaladinethereal_d_01_boot.jpg"
       },
@@ -38428,39 +38365,38 @@ var pi_values_default = [
           "10356",
           "10396",
           "10879",
-          "12361",
-          "1533",
+          "12356",
+          "1517",
           "6652"
         ],
         gem_ids: [
-          "213482",
-          "213482"
+          "213458",
+          "213458"
         ],
         enchant_ids: [
-          "7340"
+          "7334"
         ],
         icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_gold.jpg"
       },
       finger2: {
-        id: 178824,
+        id: 237570,
         bonus_ids: [
-          "10032",
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12361",
+          "12359",
+          "1527",
           "6652"
         ],
         gem_ids: [
-          "213479",
+          "213455",
           "213479"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_ring_revendrethraid_01_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring03_etherealtechnomancerstyle_terra.jpg"
       },
       trinket1: {
         id: 242395,
@@ -38476,18 +38412,17 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 232541,
+        id: 242402,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
-          "12355",
-          "1546",
+          "10356",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/ability_blackhand_attachedslagbombs.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
       }
     }
   },
@@ -38496,11 +38431,11 @@ var pi_values_default = [
     spec: "Devastation",
     specId: 1467,
     targets: 15,
-    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmJz2YZwMDjZWmBYMz2YmZZMDmBmxMwGYLYGmALBLDzA",
-    dps_no_pi: 3772527194e-2,
-    dps_with_pi: 3988949349e-2,
-    dps_delta: 216422156e-2,
-    dps_pct_gain: 5.74,
+    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDMMGz0wMTmtZWmxMzMzYmlZAGzsNmZMzMwAjBLwyY0YbAZGEshZA",
+    dps_no_pi: 3157021555e-2,
+    dps_with_pi: 3259796292e-2,
+    dps_delta: 102774737e-2,
+    dps_pct_gain: 3.26,
     pi_dep_spell_ids: {
       "375087": 375087
     },
@@ -38522,22 +38457,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidevokerethereal_d_01.jpg"
       },
       neck: {
-        id: 237569,
+        id: 237568,
         bonus_ids: [
           "10255",
           "10356",
           "10396",
           "10879",
-          "12359",
-          "1527",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
-          "213491",
+          "213479",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
       },
       shoulder: {
         id: 237653,
@@ -38655,12 +38590,12 @@ var pi_values_default = [
       back: {
         id: 235499,
         bonus_ids: [
-          "12258",
+          "12257",
           "12401",
           "9893"
         ],
         gem_ids: [
-          "238045"
+          "238044"
         ],
         enchant_ids: [
           "7403"
@@ -38754,17 +38689,18 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242402,
+        id: 242494,
         bonus_ids: [
           "10255",
-          "10356",
-          "12361",
-          "1533",
+          "10383",
+          "10390",
+          "12355",
+          "3202",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+        icon: "data/icons/inv_herb_karesh.jpg"
       }
     }
   },
@@ -38773,11 +38709,11 @@ var pi_values_default = [
     spec: "Devastation",
     specId: 1467,
     targets: 5,
-    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmJz2YZwMDjZWmBYMz2YmZZMDmBmxMwGYLYGmALBLDzA",
-    dps_no_pi: 1667576726e-2,
-    dps_with_pi: 1768519989e-2,
-    dps_delta: 100943264e-2,
-    dps_pct_gain: 6.05,
+    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDMMGz0wMTmtZWmxMzMzYmlZAGzsNmZMzMwAjBLwyY0YbAZGEshZA",
+    dps_no_pi: 1526450425e-2,
+    dps_with_pi: 1584502201e-2,
+    dps_delta: 580517.75,
+    dps_pct_gain: 3.8,
     pi_dep_spell_ids: {
       "375087": 375087
     },
@@ -38799,22 +38735,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidevokerethereal_d_01.jpg"
       },
       neck: {
-        id: 237569,
+        id: 237568,
         bonus_ids: [
           "10255",
           "10356",
           "10396",
           "10879",
-          "12359",
-          "1527",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
-          "213491",
+          "213479",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
       },
       shoulder: {
         id: 237653,
@@ -38932,12 +38868,12 @@ var pi_values_default = [
       back: {
         id: 235499,
         bonus_ids: [
-          "12258",
+          "12257",
           "12401",
           "9893"
         ],
         gem_ids: [
-          "238045"
+          "238044"
         ],
         enchant_ids: [
           "7403"
@@ -39031,17 +38967,18 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242402,
+        id: 242494,
         bonus_ids: [
           "10255",
-          "10356",
-          "12361",
-          "1533",
+          "10383",
+          "10390",
+          "12355",
+          "3202",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+        icon: "data/icons/inv_herb_karesh.jpg"
       }
     }
   },
@@ -39050,11 +38987,11 @@ var pi_values_default = [
     spec: "Devastation",
     specId: 1467,
     targets: 8,
-    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmJz2YZwMDjZWmBYMz2YmZZMDmBmxMwGYLYGmALBLDzA",
-    dps_no_pi: 2332817836e-2,
-    dps_with_pi: 2471732082e-2,
-    dps_delta: 138914245e-2,
-    dps_pct_gain: 5.95,
+    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDMMGz0wMTmtZWmxMzMzYmlZAGzsNmZMzMwAjBLwyY0YbAZGEshZA",
+    dps_no_pi: 2024433199e-2,
+    dps_with_pi: 208688549e-1,
+    dps_delta: 624522.92,
+    dps_pct_gain: 3.08,
     pi_dep_spell_ids: {
       "375087": 375087
     },
@@ -39076,22 +39013,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidevokerethereal_d_01.jpg"
       },
       neck: {
-        id: 237569,
+        id: 237568,
         bonus_ids: [
           "10255",
           "10356",
           "10396",
           "10879",
-          "12359",
-          "1527",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
-          "213491",
+          "213479",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
       },
       shoulder: {
         id: 237653,
@@ -39209,12 +39146,12 @@ var pi_values_default = [
       back: {
         id: 235499,
         bonus_ids: [
-          "12258",
+          "12257",
           "12401",
           "9893"
         ],
         gem_ids: [
-          "238045"
+          "238044"
         ],
         enchant_ids: [
           "7403"
@@ -39308,17 +39245,18 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242402,
+        id: 242494,
         bonus_ids: [
           "10255",
-          "10356",
-          "12361",
-          "1533",
+          "10383",
+          "10390",
+          "12355",
+          "3202",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+        icon: "data/icons/inv_herb_karesh.jpg"
       }
     }
   },
@@ -39327,11 +39265,11 @@ var pi_values_default = [
     spec: "Devastation",
     specId: 1467,
     targets: 1,
-    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmBzwMmZGYMGz0wMTmtxyMmZmZGzsMDYGjthZWmZGYAGsALjRjtBkZQwGG",
-    dps_no_pi: 540764994e-2,
-    dps_with_pi: 559645588e-2,
-    dps_delta: 188805.94,
-    dps_pct_gain: 3.49,
+    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzMMzsYGzMAGjZaYmJjxyMzMzwYmtZAzYmtxMzyMzgZgZMDsBWCmhJwSwywA",
+    dps_no_pi: 565472952e-2,
+    dps_with_pi: 597015152e-2,
+    dps_delta: 315422,
+    dps_pct_gain: 5.58,
     pi_dep_spell_ids: {
       "375087": 375087
     },
@@ -39342,10 +39280,10 @@ var pi_values_default = [
           "10255",
           "10356",
           "12231",
-          "12361",
           "12676",
           "12921",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -39353,7 +39291,7 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidevokerethereal_d_01.jpg"
       },
       neck: {
-        id: 237569,
+        id: 237568,
         bonus_ids: [
           "10255",
           "10356",
@@ -39364,11 +39302,11 @@ var pi_values_default = [
           "6652"
         ],
         gem_ids: [
-          "213494",
+          "213461",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
       },
       shoulder: {
         id: 237653,
@@ -39391,9 +39329,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12229",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -39409,7 +39347,7 @@ var pi_values_default = [
           "1489"
         ],
         gem_ids: [
-          "213743"
+          "213479"
         ],
         enchant_ids: [],
         icon: "data/icons/inv_armor_waistoftime_d_01_belt_titan_copy.jpg"
@@ -39420,9 +39358,9 @@ var pi_values_default = [
           "10255",
           "10356",
           "12232",
-          "12361",
           "12676",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -39435,11 +39373,11 @@ var pi_values_default = [
         id: 243308,
         bonus_ids: [
           "10255",
-          "10355",
+          "10356",
           "12239",
-          "12355",
-          "13503",
-          "1520",
+          "12361",
+          "13504",
+          "1533",
           "6652"
         ],
         gem_ids: [],
@@ -39520,8 +39458,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -39538,6 +39476,7 @@ var pi_values_default = [
           "10879",
           "12050",
           "12053",
+          "13469",
           "8790",
           "8902",
           "9627",
@@ -39553,33 +39492,32 @@ var pi_values_default = [
         icon: "data/icons/inv_11_0_earthen_earthenring_color1.jpg"
       },
       finger2: {
-        id: 221136,
+        id: 242405,
         bonus_ids: [
           "10255",
-          "10383",
-          "10390",
+          "10356",
           "10396",
           "10879",
-          "12353",
-          "3196",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
-          "213461",
-          "213461"
+          "213479",
+          "213491"
         ],
         enchant_ids: [
           "7334"
         ],
-        icon: "data/icons/inv_11_0_nerubian_ring_01_color4.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_ring02_etherealribbonorrunestyle_gold.jpg"
       },
       trinket1: {
         id: 242402,
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -39591,8 +39529,8 @@ var pi_values_default = [
         bonus_ids: [
           "10255",
           "10356",
-          "12361",
-          "1533",
+          "13446",
+          "1540",
           "6652"
         ],
         gem_ids: [],
@@ -39606,11 +39544,11 @@ var pi_values_default = [
     spec: "Devastation",
     specId: 1467,
     targets: 3,
-    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGzYmxsMzYmBmxYYaYmJz2YZwMDjZWmBYMz2YmZZMDmBmxMwGYLYGmALBLDzA",
-    dps_no_pi: 1008640051e-2,
-    dps_with_pi: 1067237482e-2,
-    dps_delta: 585974.31,
-    dps_pct_gain: 5.81,
+    talents: "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZGYGmxMDMMGz0wMTmtZWmxMzMzYmlZAGzsNmZMzMwAjBLwyY0YbAZGEshZA",
+    dps_no_pi: 1101368235e-2,
+    dps_with_pi: 1136061324e-2,
+    dps_delta: 346930.89,
+    dps_pct_gain: 3.15,
     pi_dep_spell_ids: {
       "375087": 375087
     },
@@ -39632,22 +39570,22 @@ var pi_values_default = [
         icon: "data/icons/inv_helm_mail_raidevokerethereal_d_01.jpg"
       },
       neck: {
-        id: 237569,
+        id: 237568,
         bonus_ids: [
           "10255",
           "10356",
           "10396",
           "10879",
-          "12359",
-          "1527",
+          "12361",
+          "1533",
           "6652"
         ],
         gem_ids: [
-          "213491",
+          "213479",
           "213743"
         ],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_necklace03_etherealtechnomancerstyle_gold.jpg"
+        icon: "data/icons/inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_gold.jpg"
       },
       shoulder: {
         id: 237653,
@@ -39765,12 +39703,12 @@ var pi_values_default = [
       back: {
         id: 235499,
         bonus_ids: [
-          "12258",
+          "12257",
           "12401",
           "9893"
         ],
         gem_ids: [
-          "238045"
+          "238044"
         ],
         enchant_ids: [
           "7403"
@@ -39864,17 +39802,18 @@ var pi_values_default = [
         icon: "data/icons/inv_112_raidtrinkets_silkwormsantenna.jpg"
       },
       trinket2: {
-        id: 242402,
+        id: 242494,
         bonus_ids: [
           "10255",
-          "10356",
-          "12361",
-          "1533",
+          "10383",
+          "10390",
+          "12355",
+          "3202",
           "6652"
         ],
         gem_ids: [],
         enchant_ids: [],
-        icon: "data/icons/inv_112_raidtrinkets_trinkettechnomancer_ritualengine.jpg"
+        icon: "data/icons/inv_herb_karesh.jpg"
       }
     }
   }
