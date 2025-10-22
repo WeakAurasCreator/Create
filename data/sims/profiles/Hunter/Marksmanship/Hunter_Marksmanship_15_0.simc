@@ -14,8 +14,8 @@ back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7
 main_hand=piercing_strandbow,id=237732,bonus_id=10255/10356/12361/1533/6652,enchant_id=7439
 finger1=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/12361/1533/6652,gem_id=213458/213458,enchant_id=7334
 finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/8791/8902/9627/9633,gem_id=213458/213458,enchant_id=7334
-trinket1=unyielding_netherprism,id=242396,bonus_id=10255/10355/12355/1520/6652
-trinket2=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
+trinket1=astral_antenna,id=242395,bonus_id=10255/10356/12361/1533/6652
+trinket2=unyielding_netherprism,id=242396,bonus_id=10255/10355/12355/1520/6652
 level=80
 race=dwarf
 role=attack

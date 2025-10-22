@@ -3,7 +3,7 @@ source=default
 spec=beast_mastery
 head=midnight_heralds_cowl,id=237646,bonus_id=10255/10356/12231/12676/12921/13446/1540/6652
 neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/12361/1533/6652,gem_id=213479/213479
-shoulder=midnight_heralds_shadowguards,id=237644,bonus_id=10255/10390/12233/12361/12675/1533/6652
+shoulder=midnight_heralds_shadowguards,id=237644,bonus_id=10255/10356/12233/12675/13446/1540/6652
 chest=midnight_heralds_hauberk,id=237649,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
 waist=durable_information_securing_container,id=245965,bonus_id=12533/1489,gem_id=213743
 legs=midnight_heralds_petticoat,id=237645,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7601

@@ -11,7 +11,7 @@ feet=interlopers_silken_striders,id=243305,bonus_id=10255/10355/12239/12355/1350
 wrist=consecrated_cuffs,id=222815,bonus_id=10421/11304/12050/12053/12921/8795/8902/8960/9627/9633,enchant_id=7385
 hands=augurs_ephemeral_mitts,id=237719,bonus_id=10255/10390/12230/12361/12675/1533/6652
 back=reshii_wraps,id=235499,bonus_id=12259/12401/9893,gem_id=238042,enchant_id=7403
-main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/12361/1533/6652,enchant_id=7448
+main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/8795/8902/8960/9627/9633
 finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10395/10421/10879/12050/12053/8795/8902/9627/9633,gem_id=213461/213467,enchant_id=7340
 finger2=signet_of_collapsing_stars,id=185813,bonus_id=10016/10255/10383/10389/10396/10879/12353/40,gem_id=213461/213470,enchant_id=7352
