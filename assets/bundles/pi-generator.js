@@ -4513,8 +4513,8 @@ var emptyRegion_default = {
 var metadata_default = {
   environment: "live",
   wowBuild: "11.2.5.63906",
-  contentHash: "54872ff21d6a810db9b1480216c078ef",
-  generatedAt: "2025-10-21T22:09:33.992Z",
+  contentHash: "d369191eef67952d91e5f9b2c4b0a2be",
+  generatedAt: "2025-10-24T17:21:57.017Z",
   files: [
     "atlas-members.json",
     "augments.json",
