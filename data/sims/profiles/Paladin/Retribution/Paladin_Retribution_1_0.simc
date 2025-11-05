@@ -12,8 +12,8 @@ wrist=everforged_vambraces,id=222435,bonus_id=10421/11303/12050/12053/12921/1346
 hands=protectors_of_the_lucent_battalion,id=237620,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=photon_sabre_prime,id=237737,bonus_id=10255/10356/13446/1540/6652,enchant_id=7439
-finger1=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213458/213458,enchant_id=7334
-finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213458/213458,enchant_id=7334
+finger1=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213458/213458,enchant_id=7334
+finger2=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213494/213494,enchant_id=7346
 trinket1=arazs_ritual_forge,id=242402,bonus_id=10255/10356/13446/1540/6652
 trinket2=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 level=80

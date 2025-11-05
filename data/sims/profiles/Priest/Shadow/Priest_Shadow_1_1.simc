@@ -2,13 +2,13 @@ priest="TWW3_Priest_Shadow_Voidweaver"
 source=default
 spec=shadow
 head=dying_stars_veil,id=237709,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213458
-neck=duskblazes_desperation,id=237569,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213473/213743
+neck=duskblazes_desperation,id=237569,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491
 shoulder=dying_stars_pyrelights,id=237707,bonus_id=10255/10356/12233/12675/13446/1540/6652
 chest=dying_stars_cassock,id=237712,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
 waist=dying_stars_waistlight,id=237706,bonus_id=10255/10356/12921/13446/1540/6652
 legs=dying_stars_leggings,id=237708,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7534
 feet=interlopers_silken_striders,id=243305,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7418
-wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12050/12053/12922/13468/8793/8902/8960/9627/9633,gem_id=213494,enchant_id=7385
+wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12050/12053/12922/13468/8793/8902/8960/9627/9633,gem_id=213458,enchant_id=7385
 hands=dying_stars_caress,id=237710,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/13468/8793/8902/8960/9627/9633

@@ -11,12 +11,12 @@ feet=interlopers_chain_boots,id=243308,bonus_id=10255/10356/12239/13446/13504/15
 wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11304/12050/12053/12921/13468/8793/8902/8960/9627/9633,enchant_id=7385
 hands=claws_of_channeled_fury,id=237638,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
-off_hand=ward_of_the_weavingbeast,id=237723,bonus_id=10255/10356/13446/1540/6652
+off_hand=event_horizon,id=237741,bonus_id=10255/10356/13446/1540/6652
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
-finger1=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213461/213467,enchant_id=7346
-finger2=band_of_the_shattered_soul,id=242405,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213497/213497,enchant_id=7346
+finger1=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213479/213479,enchant_id=7340
+finger2=entropy,id=238036,bonus_id=10255/10356/10396/10844/10879/13446/1540/1782/6652,gem_id=213458/213482,enchant_id=7346
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
-trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/13446/1540/6652
+trinket2=diamantine_voidcore,id=242392,bonus_id=10255/10356/13446/1540/6652
 level=80
 race=tauren
 role=spell

@@ -1,7 +1,7 @@
 hunter="TWW3_Hunter_Marksmanship"
 source=default
 spec=marksmanship
-head=midnight_heralds_cowl,id=237646,bonus_id=10255/10356/12231/12676/12921/13446/1540/6652
+head=midnight_heralds_cowl,id=237646,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213458
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12050/12053/13468/8791/8902/9627/9633,gem_id=213458/213458
 shoulder=midnight_heralds_shadowguards,id=237644,bonus_id=10255/10390/12233/12675/13446/1540/6652
 chest=midnight_heralds_hauberk,id=237649,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
