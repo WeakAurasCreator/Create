@@ -1,7 +1,7 @@
 rogue="TWW3_Rogue_Assassination_Fatebound"
 source=default
 spec=assassination
-head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10356/12231/12361/12676/12921/1533/6652
+head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10390/12231/12361/12676/12921/1533/6652
 neck=mommas_mega_medallion,id=251880,bonus_id=10255/10383/10390/10396/10879/13446/1579/6652,gem_id=213467/213491
 shoulder=smokemantle_of_the_sudden_eclipse,id=237662,bonus_id=10255/10390/12233/12675/13446/1540/6652
 chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10390/12229/12676/13446/1540/6652,enchant_id=7364

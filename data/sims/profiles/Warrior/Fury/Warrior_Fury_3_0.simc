@@ -8,11 +8,11 @@ chest=living_weapons_bulwark,id=237613,bonus_id=10255/10356/12229/12676/13446/15
 waist=fresh_ethereal_fetters,id=237550,bonus_id=10255/10356/12239/12921/13446/1540/6652
 legs=living_weapons_legguards,id=237609,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7595
 feet=interlopers_plated_sabatons,id=243307,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424
-wrist=everforged_vambraces,id=222435,bonus_id=10421/11304/12050/12053/12921/13468/8793/8902/8960/9627/9633,enchant_id=7385
+wrist=everforged_vambraces,id=222435,bonus_id=10421/11304/12050/12053/12921/13468/8794/8902/8960/9627/9633,enchant_id=7385
 hands=living_weapons_crushers,id=237611,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=photon_sabre_prime,id=237737,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
-finger1=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213482/213482,enchant_id=7340
+finger1=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213470/213470,enchant_id=7340
 finger2=signet_of_collapsing_stars,id=185813,bonus_id=10042/10255/10383/10389/10396/10879/13446/6652,gem_id=213497/213497,enchant_id=7340
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 trinket2=cursed_stone_idol,id=246344,bonus_id=10255/10383/10390/13446/1602/6652

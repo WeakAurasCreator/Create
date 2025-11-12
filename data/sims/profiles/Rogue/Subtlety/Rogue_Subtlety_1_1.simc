@@ -5,7 +5,7 @@ head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10356/12231/12365/12676
 neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10520/10879/12050/12053/13468/8794/8902/8960/9627/9633,gem_id=213473/213473
 shoulder=deathbound_shoulderpads,id=237552,bonus_id=10255/10356/12239/13446/1540/6652
 chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
-waist=atomic_phasebelt,id=237533,bonus_id=10255/10356/12239/12921/13446/1540/6652
+waist=atomic_phasebelt,id=237533,bonus_id=10255/10356/12239/12365/13446/1540/6652,gem_id=213473
 legs=pants_of_the_sudden_eclipse,id=237663,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7601
 feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424
 wrist=runebranded_armbands,id=219334,bonus_id=10421/10520/12050/12053/12922/13468/8794/8902/8960/9627/9633,gem_id=213473,enchant_id=7385

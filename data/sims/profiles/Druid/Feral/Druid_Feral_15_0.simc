@@ -13,7 +13,7 @@ hands=wings_of_the_mother_eagle,id=237683,bonus_id=10255/10356/12230/12675/13446
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=obliteration_beamglaive,id=237739,bonus_id=10255/10356/13446/1540/6652,enchant_id=7445
 finger1=entropy,id=238036,bonus_id=10255/10356/10396/10844/10879/13446/1540/1777/6652,gem_id=213473/213482,enchant_id=7340
-finger2=whispers_of_karesh,id=242491,bonus_id=10255/10383/10390/10396/10879/13446/3222/6652,gem_id=213473/213497,enchant_id=7340
+finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213455/213455,enchant_id=7334
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 trinket2=unyielding_netherprism,id=242396,bonus_id=10255/10356/13446/1540/6652
 level=80

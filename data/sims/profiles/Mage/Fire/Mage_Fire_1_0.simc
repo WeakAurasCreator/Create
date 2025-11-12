@@ -1,11 +1,11 @@
 mage="TWW3_Mage_Fire_Sunfury"
 source=default
 spec=fire
-head=augurs_ephemeral_widebrim,id=237718,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213485
+head=zaduss_liturgical_hat,id=238033,bonus_id=10255/10356/10844/12239/12365/13446/1540/6652,gem_id=213743
 neck=duskblazes_desperation,id=237569,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213470/213743
 shoulder=augurs_ephemeral_orbs_of_power,id=237716,bonus_id=10255/10356/12233/12675/13446/1540/6652
 chest=augurs_ephemeral_habiliments,id=237721,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
-waist=forgeweavers_journal_holster,id=237538,bonus_id=10255/10356/12239/12921/13446/1540/6652
+waist=forgeweavers_journal_holster,id=237538,bonus_id=10255/10356/12239/12365/13446/1540/6652,gem_id=213482
 legs=augurs_ephemeral_trousers,id=237717,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7531
 feet=interlopers_silken_striders,id=243305,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424
 wrist=consecrated_cuffs,id=222815,bonus_id=10421/11109/12050/12053/12922/13468/8792/8902/8960/9627/9633,gem_id=213485,enchant_id=7385
@@ -13,7 +13,7 @@ hands=augurs_ephemeral_mitts,id=237719,bonus_id=10255/10356/12230/12675/13446/15
 back=reshii_wraps,id=235499,bonus_id=12258/12401/9893,gem_id=238045,enchant_id=7403
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/13468/8792/8902/8960/9627/9633
 main_hand=voidglass_sovereigns_blade,id=237735,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
-finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/13468/8793/8902/9627/9633,gem_id=213485/213485,enchant_id=7340
+finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/13468/8793/8902/9627/9633,gem_id=213482/213482,enchant_id=7340
 finger2=band_of_the_shattered_soul,id=242405,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213485/213485,enchant_id=7340
 trinket1=diamantine_voidcore,id=242392,bonus_id=10255/10356/13446/1540/6652
 trinket2=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/13446/3222/6652

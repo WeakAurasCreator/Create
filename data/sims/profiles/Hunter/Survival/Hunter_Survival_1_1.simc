@@ -12,8 +12,8 @@ wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12921/134
 hands=glyphetched_gauntlets,id=219341,bonus_id=10421/11303/12050/12053/13468/8791/8902/8960/9627/9633
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=obliteration_beamglaive,id=237739,bonus_id=10255/10356/13446/1540/6652,enchant_id=7445
-finger1=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213482/213482,enchant_id=7340
-finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/13468/8793/8902/9627/9633,gem_id=213455/213455,enchant_id=7340
+finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/13468/8793/8902/9627/9633,gem_id=213482/213482,enchant_id=7340
+finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213482/213482,enchant_id=7340
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/13446/1540/6652
 level=80

@@ -2,7 +2,7 @@ rogue="TWW3_Rogue_Outlaw"
 source=default
 spec=outlaw
 head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10390/12231/12365/12676/13446/1540/6652,gem_id=213467
-neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213461/213743
+neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213467/213743
 shoulder=smokemantle_of_the_sudden_eclipse,id=237662,bonus_id=10255/10390/12233/12675/13446/1540/6652
 chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10390/12229/12676/13446/1540/6652,enchant_id=7364
 waist=harvested_creephide_cord,id=238027,bonus_id=10255/10356/10844/12239/12921/13446/1540/6652
@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12259/12401/9893,gem_id=238042,enchant_id=7
 main_hand=zephyrous_sail_carver,id=221144,bonus_id=10255/10384/10390/13446/3222/6652,enchant_id=7448
 off_hand=unbound_training_claws,id=237738,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
 finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10520/10879/12050/12053/8795/8902/8960/9627/9633,gem_id=213467/213467,enchant_id=7352
-finger2=signet_of_collapsing_stars,id=185813,bonus_id=10016/10255/10383/10390/10396/10879/12353/6652,gem_id=213467/213467,enchant_id=7352
+finger2=astral_gladiators_ring,id=230632,bonus_id=10255/10834/10836/12033/12034/12297/1592,gem_id=213461/213494,enchant_id=7476
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 trinket2=sigil_of_the_cosmic_hunt,id=242397,bonus_id=10255/10356/13446/1540/6652
 level=80

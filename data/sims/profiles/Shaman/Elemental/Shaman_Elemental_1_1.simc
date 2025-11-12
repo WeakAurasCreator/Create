@@ -1,7 +1,7 @@
 shaman="TWW3_Shaman_Elemental_Farseer"
 source=default
 spec=elemental
-head=aspect_of_channeled_fury,id=237637,bonus_id=10255/10356/12231/12676/12921/13446/1540/6652
+head=aspect_of_channeled_fury,id=237637,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213743
 neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213473/213743
 shoulder=fangs_of_channeled_fury,id=237635,bonus_id=10255/10356/12233/12675/13446/1540/6652
 chest=furs_of_channeled_fury,id=237640,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
