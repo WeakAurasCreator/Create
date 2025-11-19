@@ -2,7 +2,7 @@ rogue="TWW3_Rogue_Assassination_Fatebound"
 source=default
 spec=assassination
 head=hood_of_the_sudden_eclipse,id=237664,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213458
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12050/12053/13468/8791/8902/9627/9633,gem_id=213491/213491
+neck=salhadaars_folly,id=242406,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213461/213461
 shoulder=smokemantle_of_the_sudden_eclipse,id=237662,bonus_id=10255/10356/12233/12675/13446/1540/6652
 chest=tactical_vest_of_the_sudden_eclipse,id=237667,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
 waist=atomic_phasebelt,id=237533,bonus_id=10255/10356/12239/12921/13446/1540/6652
@@ -11,10 +11,10 @@ feet=interlopers_reinforced_sandals,id=243306,bonus_id=10255/10356/12239/13446/1
 wrist=runebranded_armbands,id=219334,bonus_id=10421/11109/12050/12053/12922/13468/8791/8902/8960/9627/9633,gem_id=213491,enchant_id=7385
 hands=deathgrips_of_the_sudden_eclipse,id=237665,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12257/12401/9893,gem_id=238044,enchant_id=7403
-main_hand=prodigious_gene_splicer,id=237729,bonus_id=10255/10356/13446/1540/6652,enchant_id=7439
-off_hand=everforged_stabber,id=222438,bonus_id=10421/11300/12050/12053/13468/8791/8902/8960/9627/9633,enchant_id=7439
+main_hand=everforged_stabber,id=222438,bonus_id=10421/11300/12050/12053/13468/8791/8902/8960/9627/9633,enchant_id=7439
+off_hand=prodigious_gene_splicer,id=237729,bonus_id=10255/10356/13446/1540/6652,enchant_id=7439
 finger1=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491,enchant_id=7346
-finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491,enchant_id=7346
+finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213458/213458,enchant_id=7334
 trinket1=unyielding_netherprism,id=242396,bonus_id=10255/10356/13446/1540/6652
 trinket2=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 level=80

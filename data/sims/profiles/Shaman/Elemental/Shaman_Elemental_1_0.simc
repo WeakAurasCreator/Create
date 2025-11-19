@@ -8,13 +8,13 @@ chest=furs_of_channeled_fury,id=237640,bonus_id=10255/10356/12229/12676/13446/15
 waist=clasp_of_furious_freedom,id=237554,bonus_id=10255/10356/12239/12921/13446/1540/6652
 legs=tassets_of_channeled_fury,id=237636,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7534
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424
-wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11304/12050/12053/12921/13468/8793/8902/8960/9627/9633,enchant_id=7385
+wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11304/12050/12053/12922/13468/8794/8902/8960/9627/9633,gem_id=213473,enchant_id=7385
 hands=claws_of_channeled_fury,id=237638,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12259/12401/9893,gem_id=238042,enchant_id=7403
-off_hand=event_horizon,id=237741,bonus_id=10255/10356/13446/1540/6652
+off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/13468/8794/8902/8960/9627/9633
 main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
 finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/13468/8794/8902/9627/9633,gem_id=213497/213497,enchant_id=7346
-finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213497/213497,enchant_id=7346
+finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213473/213473,enchant_id=7352
 trinket1=arazs_ritual_forge,id=242402,bonus_id=10255/10356/13446/1540/6652
 trinket2=diamantine_voidcore,id=242392,bonus_id=10255/10356/13446/1540/6652
 level=80

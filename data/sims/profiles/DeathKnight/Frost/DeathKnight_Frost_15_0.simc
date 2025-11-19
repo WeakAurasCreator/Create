@@ -11,9 +11,10 @@ feet=interlopers_plated_sabatons,id=243307,bonus_id=10255/10356/12239/13446/1350
 wrist=everforged_vambraces,id=222435,bonus_id=10421/11303/12050/12053/12922/13468/8791/8902/8960/9627/9633,gem_id=213491,enchant_id=7385
 hands=everforged_gauntlets,id=222437,bonus_id=10421/11303/12050/12053/13468/8791/8902/8960/9627/9633
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
-main_hand=photon_sabre_prime,id=237737,bonus_id=10255/10356/13446/1540/6652,enchant_id=3368
+main_hand=factoryissue_plexhammer,id=237813,bonus_id=10255/10356/13446/1540/6652,enchant_id=3368
+off_hand=charged_slicer,id=222451,bonus_id=10421/11941/12050/12053/13468/8793/8902/9627/9633,enchant_id=3847
 finger1=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491,enchant_id=7346
-finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213497/213497,enchant_id=7346
+finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491,enchant_id=7334
 trinket1=unyielding_netherprism,id=242396,bonus_id=10255/10356/13446/1540/6652
 trinket2=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 level=80

@@ -1,14 +1,14 @@
 mage="TWW3_Mage_Frost_Frostfire"
 source=default
 spec=frost
-head=augurs_ephemeral_widebrim,id=237718,bonus_id=10255/10356/12231/12676/12921/13446/1540/6652
+head=augurs_ephemeral_widebrim,id=237718,bonus_id=10255/10390/12231/12365/12676/13446/1540/6652,gem_id=213461
 neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213461/213743
 shoulder=augurs_ephemeral_orbs_of_power,id=237716,bonus_id=10255/10356/12233/12675/13446/1540/6652
 chest=augurs_ephemeral_habiliments,id=237721,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
-waist=consecrated_cord,id=222816,bonus_id=10421/11304/12050/12053/12921/13468/8795/8902/8960/9627/9633
+waist=forgeweavers_journal_holster,id=237538,bonus_id=10255/10356/12239/12365/13446/1540/6652,gem_id=213470
 legs=augurs_ephemeral_trousers,id=237717,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7534
 feet=interlopers_silken_striders,id=243305,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424
-wrist=consecrated_cuffs,id=222815,bonus_id=10421/11304/12050/12053/12921/13468/8795/8902/8960/9627/9633,enchant_id=7385
+wrist=singed_sievecuffs,id=237534,bonus_id=10255/10356/12239/12921/13446/1540/6652,enchant_id=7385
 hands=augurs_ephemeral_mitts,id=237719,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12259/12401/9893,gem_id=238042,enchant_id=7403
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/13468/8792/8902/8960/9627/9633
