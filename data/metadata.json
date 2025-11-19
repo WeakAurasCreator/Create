@@ -1,8 +1,8 @@
 {
   "environment": "live",
-  "wowBuild": "11.2.5.64270",
-  "contentHash": "26c4b2cc70e84c013e4aae4e0216dd02",
-  "generatedAt": "2025-11-07T19:31:55.214Z",
+  "wowBuild": "11.2.5.64484",
+  "contentHash": "80c59af29c6bb925223721bb785687b7",
+  "generatedAt": "2025-11-18T20:05:18.662Z",
   "files": [
     "atlas-members.json",
     "augments.json",
