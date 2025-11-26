@@ -14,8 +14,8 @@ back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7
 main_hand=obliteration_beamglaive,id=237739,bonus_id=10255/10356/13446/1540/6652,enchant_id=7445
 finger1=signet_of_the_false_accuser,id=178824,bonus_id=10026/10255/10383/10390/10396/10879/13444/6652,gem_id=213491/213491,enchant_id=7346
 finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491,enchant_id=7346
-trinket1=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/13446/1566/6652
-trinket2=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
+trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
+trinket2=improvised_seaforium_pacemaker,id=232541,bonus_id=10255/10383/10390/13446/1566/6652
 level=80
 race=maghar_orc
 role=attack

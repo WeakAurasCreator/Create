@@ -2,13 +2,13 @@ hunter="TWW3_Hunter_Beast_Mastery_Dark_Ranger"
 source=default
 spec=beast_mastery
 head=midnight_heralds_cowl,id=237646,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213743
-neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213470/213743
+neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213485/213485
 shoulder=midnight_heralds_shadowguards,id=237644,bonus_id=10255/10356/12233/12675/13446/1540/6652
 chest=midnight_heralds_hauberk,id=237649,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
 waist=colossal_lifetether,id=237522,bonus_id=10255/10356/12239/12921/13446/1540/6652
 legs=midnight_heralds_petticoat,id=237645,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7601
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424
-wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12921/13468/8790/8902/8960/9627/9633,enchant_id=7385
+wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12922/13468/8795/8902/8960/9627/9633,gem_id=213467,enchant_id=7385
 hands=midnight_heralds_gloves,id=237647,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12258/12401/9893,gem_id=238045,enchant_id=7403
 main_hand=yasahm_the_riftbreaker,id=185783,bonus_id=10042/10255/10384/10390/13446/6652,enchant_id=7448

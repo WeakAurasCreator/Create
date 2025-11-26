@@ -4,7 +4,7 @@ spec=devastation
 head=spellweavers_immaculate_focus,id=237655,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213455
 neck=chrysalis_of_sundered_souls,id=237568,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213479/213743
 shoulder=spellweavers_immaculate_pauldrons,id=237653,bonus_id=10255/10390/12233/12675/13446/1540/6652
-chest=spellweavers_immaculate_crestward,id=237658,bonus_id=10255/10390/12229/12676/13446/1540/6652,enchant_id=7364
+chest=spellweavers_immaculate_crestward,id=237658,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
 waist=colossal_lifetether,id=237522,bonus_id=10255/10356/12239/12921/13446/1540/6652
 legs=spellweavers_immaculate_runeslacks,id=237654,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7534
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424

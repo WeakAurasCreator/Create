@@ -2,7 +2,7 @@ paladin="TWW3_Paladin_Retribution"
 source=default
 spec=retribution
 head=lightmane_of_the_lucent_battalion,id=237619,bonus_id=10255/10390/12231/12365/12676/13446/1540/6652,gem_id=213491
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12050/12053/13468/8791/8902/9627/9633,gem_id=213467/213743
+neck=salhadaars_folly,id=242406,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213470/213743
 shoulder=chargers_of_the_lucent_battalion,id=237617,bonus_id=10255/10390/12233/12675/13446/1540/6652
 chest=cuirass_of_the_lucent_battalion,id=237622,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
 waist=everforged_greatbelt,id=222431,bonus_id=10421/11303/12050/12053/12921/13468/8791/8902/8960/9627/9633
@@ -13,7 +13,7 @@ hands=protectors_of_the_lucent_battalion,id=237620,bonus_id=10255/10356/12230/12
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=photon_sabre_prime,id=237737,bonus_id=10255/10356/13446/1540/6652,enchant_id=7439
 finger1=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491,enchant_id=7346
-finger2=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213491/213491,enchant_id=7346
+finger2=entropy,id=238036,bonus_id=10255/10356/10396/10844/10879/13446/1540/1769/6652,gem_id=213479/213479,enchant_id=7340
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 trinket2=arazs_ritual_forge,id=242402,bonus_id=10255/10356/13446/1540/6652
 level=80

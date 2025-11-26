@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12258/12401/9893,gem_id=238045,enchant_id=7
 main_hand=factoryissue_plexhammer,id=237813,bonus_id=10255/10356/12356/1517/6652
 off_hand=starlit_safeguard,id=242493,bonus_id=10255/10383/10390/12352/3193/6652
 finger1=logic_gate_alpha,id=237567,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213479/213479,enchant_id=7340
-finger2=devout_zealots_ring,id=221136,bonus_id=10255/10383/10390/10396/10879/13446/3222/6652,gem_id=213479/213479,enchant_id=7340
+finger2=band_of_the_shattered_soul,id=242405,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213455/213455,enchant_id=7334
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
 trinket2=eradicating_arcanocore,id=242394,bonus_id=10255/10356/13446/1540/6652
 level=80

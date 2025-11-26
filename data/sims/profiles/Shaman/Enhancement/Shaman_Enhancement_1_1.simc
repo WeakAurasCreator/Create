@@ -1,7 +1,7 @@
 shaman="TWW3_Shaman_Enhancement"
 source=default
 spec=enhancement
-head=aspect_of_channeled_fury,id=237637,bonus_id=10255/10390/12231/12676/12921/13446/1540/6652
+head=aspect_of_channeled_fury,id=237637,bonus_id=10255/10390/12231/12365/12676/13446/1540/6652,gem_id=213494
 neck=duskblazes_desperation,id=237569,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213494/213743
 shoulder=fangs_of_channeled_fury,id=237635,bonus_id=10255/10390/12233/12675/13446/1540/6652
 chest=harvested_attendants_uniform,id=237529,bonus_id=10255/10356/12239/13446/1540/6652,enchant_id=7364

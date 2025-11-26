@@ -14,7 +14,7 @@ back=reshii_wraps,id=235499,bonus_id=12258/12401/9893,gem_id=238045,enchant_id=7
 off_hand=vagabonds_torch,id=222566,bonus_id=10421/11300/12050/12053/13468/8792/8902/8960/9627/9633
 main_hand=voidglass_sovereigns_blade,id=237735,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
 finger1=ring_of_earthen_craftsmanship,id=215135,bonus_id=10396/10421/10879/12050/12053/13468/8793/8902/9627/9633,gem_id=213482/213482,enchant_id=7340
-finger2=band_of_the_shattered_soul,id=242405,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213485/213485,enchant_id=7340
+finger2=band_of_the_shattered_soul,id=242405,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213470/213494,enchant_id=7340
 trinket1=diamantine_voidcore,id=242392,bonus_id=10255/10356/13446/1540/6652
 trinket2=azhiccaran_parapodia,id=242497,bonus_id=10255/10383/10390/13446/3222/6652
 level=80

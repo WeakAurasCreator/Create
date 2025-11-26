@@ -2,13 +2,13 @@ hunter="TWW3_Hunter_Survival"
 source=default
 spec=survival
 head=midnight_heralds_cowl,id=237646,bonus_id=10255/10390/12231/12365/12676/13446/1540/6652,gem_id=213494
-neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=10396/10421/10879/12050/12053/13468/8793/8902/9627/9633,gem_id=213458/213743
+neck=sin_stained_pendant,id=178827,bonus_id=10039/10255/10383/10390/10396/10879/13446/6652,gem_id=213458/213743
 shoulder=midnight_heralds_shadowguards,id=237644,bonus_id=10255/10390/12233/12675/13446/1540/6652
 chest=midnight_heralds_hauberk,id=237649,bonus_id=10255/10390/12229/12676/13446/1540/6652,enchant_id=7364
 waist=clasp_of_furious_freedom,id=237554,bonus_id=10255/10356/12239/12921/13446/1540/6652
 legs=midnight_heralds_petticoat,id=237645,bonus_id=10255/10356/12232/12676/13446/1540/6652,enchant_id=7601
 feet=interlopers_chain_boots,id=243308,bonus_id=10255/10356/12239/13446/13504/1540/6652,enchant_id=7424
-wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12921/13468/8791/8902/8960/9627/9633,enchant_id=7385
+wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11303/12050/12053/12921/13468/8791/8902/8960/9627/9633,enchant_id=7391
 hands=glyphetched_gauntlets,id=219341,bonus_id=10421/11303/12050/12053/13468/8791/8902/8960/9627/9633
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 main_hand=obliteration_beamglaive,id=237739,bonus_id=10255/10356/13446/1540/6652,enchant_id=7445

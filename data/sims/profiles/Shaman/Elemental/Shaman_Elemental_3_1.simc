@@ -1,7 +1,7 @@
 shaman="TWW3_Shaman_Elemental_Farseer"
 source=default
 spec=elemental
-head=aspect_of_channeled_fury,id=237637,bonus_id=10255/10356/12231/12676/12921/13446/1540/6652
+head=aspect_of_channeled_fury,id=237637,bonus_id=10255/10356/12231/12365/12676/13446/1540/6652,gem_id=213494
 neck=duskblazes_desperation,id=237569,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213497/213743
 shoulder=fangs_of_channeled_fury,id=237635,bonus_id=10255/10390/12233/12675/13446/1540/6652
 chest=furs_of_channeled_fury,id=237640,bonus_id=10255/10356/12229/12676/13446/1540/6652,enchant_id=7364
@@ -12,7 +12,7 @@ wrist=glyphetched_vambraces,id=219342,bonus_id=10421/11304/12050/12053/12921/134
 hands=claws_of_channeled_fury,id=237638,bonus_id=10255/10356/12230/12675/13446/1540/6652
 back=reshii_wraps,id=235499,bonus_id=12256/12401/9893,gem_id=238046,enchant_id=7403
 off_hand=event_horizon,id=237741,bonus_id=10255/10356/13446/1540/6652
-main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/13446/1540/6652,enchant_id=7448
+main_hand=voidglass_kris,id=237728,bonus_id=10255/10356/13446/1540/6652,enchant_id=7439
 finger1=logic_gate_omega,id=237570,bonus_id=10255/10356/10396/10879/13446/1540/6652,gem_id=213479/213479,enchant_id=7340
 finger2=entropy,id=238036,bonus_id=10255/10356/10396/10844/10879/13446/1540/1782/6652,gem_id=213458/213482,enchant_id=7346
 trinket1=astral_antenna,id=242395,bonus_id=10255/10356/13446/1540/6652
